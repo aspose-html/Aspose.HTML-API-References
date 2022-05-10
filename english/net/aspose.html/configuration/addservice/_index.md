@@ -20,41 +20,6 @@ public void AddService<TService>(TService service)
 | TService | The type of service to add. |
 | service | An instance of the service to add. |
 
-### Remarks
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
-
-### Examples
-
-```csharp
-using Aspose.Html;
-using Aspose.Html.Net;
-using Aspose.Html.Services;
-
-public void AddCustomService(){
-	var customConfiguration = new Configuration();
-	customConfiguration.AddService<INetworkService>(new CustomNetworkService());
-}
-
-class CustomNetworkService : INetworkService
-{
-      public CustomNetworkService()
-      {
-        MessageHandlers = new MessageHandlerCollection();
-      }
-
-      public void Dispose()
-      {
-        // Resource cleaning code goes here
-      }
-
-      // TODO Override Resolve(...) method
-      public UrlResolver UrlResolver { get; set; }
-
-      public MessageHandlerCollection MessageHandlers { get; private set; }
-}
-```
-
 ### See Also
 
 * interface [IService](../../../aspose.html.services/iservice)

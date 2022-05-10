@@ -8,9 +8,20 @@ url: /net/aspose.html.drawing/length/op_inequality/
 ---
 ## Length Inequality operator
 
+Implements the operator !=.
+
 ```csharp
 public static bool operator !=(Length a, Length b)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | Length | The parameter a. |
+| b | Length | The parameter b. |
+
+## Return Value
+
+The result of the operator.
 
 ### See Also
 

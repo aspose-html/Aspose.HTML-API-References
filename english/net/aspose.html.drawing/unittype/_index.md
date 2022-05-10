@@ -22,10 +22,10 @@ public sealed class UnitType : IEquatable<UnitType>
 | [Equals](equals)(UnitType) | Determines whether the specified [`UnitType`](../unittype), is equal to this instance. |
 | override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
 | override [ToString](tostring)() | Returns a String that represents this instance. |
-| [operator ==](op_equality) |  |
-| [explicit operator](op_explicit) |  |
-| [implicit operator](op_implicit) |  |
-| [operator !=](op_inequality) |  |
+| [operator ==](op_equality) | Determines whether the two specified [`UnitType`](../unittype) values are equal. |
+| [explicit operator](op_explicit) | Performs an explicit conversion from [`UnitType`](../unittype) to String. |
+| [implicit operator](op_implicit) | Performs an implicit conversion from String to [`UnitType`](../unittype). |
+| [operator !=](op_inequality) | Determines whether the two specified [`UnitType`](../unittype) values are not equal. |
 
 ## Other Members
 

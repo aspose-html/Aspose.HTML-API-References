@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/clip/
 ---
 ## ICSS2Properties.Clip property
 
-The 'clip' property applies to elements that have a 'overflow' property with a value other than 'visible'.
+See the clip property definition in CSS2.
 
 ```csharp
 public string Clip { get; set; }

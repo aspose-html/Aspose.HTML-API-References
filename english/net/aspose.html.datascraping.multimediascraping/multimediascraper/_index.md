@@ -8,7 +8,7 @@ url: /net/aspose.html.datascraping.multimediascraping/multimediascraper/
 ---
 ## MultimediaScraper class
 
-Provides functionality to register and select [`Multimedia`](../multimedia) object, which will be able to collect information from the specified page URL.**Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+Provides functionality to register and select [`Multimedia`](../multimedia) object, which will be able to collect information from the specified page URL. **Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
 
 ```csharp
 public class MultimediaScraper : IDisposable

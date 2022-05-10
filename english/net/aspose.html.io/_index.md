@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.IO
 second_title: Aspose.HTML for .NET API Reference
-description: In addition to standard IO (input-output) tools the **Aspose.Html.IO** namespace contains helper classes and interfaces.
+description: InadditiontostandardIOinput-outputtoolstheAspose.Html.IOnamespacecontainshelperclassesandinterfaces.
 type: docs
 weight: 270
 url: /net/aspose.html.io/
@@ -13,7 +13,7 @@ In addition to standard IO (input-output) tools the **Aspose.Html.IO** namespace
 | Class | Description |
 | --- | --- |
 | class [FileCreateStreamProvider](./filecreatestreamprovider) | Represents FileStream implementation for providing streams to the rendering devices. |
-| class [OutputStream](./outputstream) | A surrogate stream wraps the real output stream and controls access to it.[`OutputStream`](aspose.html.io/outputstream) contains URI data that describes location of the output stream. |
+| class [OutputStream](./outputstream) | A surrogate stream wraps the real output stream and controls access to it. [`OutputStream`](aspose.html.io/outputstream) contains URI data that describes location of the output stream. |
 | class [OutputStreamContext](./outputstreamcontext) | A context for initialization of the output stream. |
 ## Interfaces
 

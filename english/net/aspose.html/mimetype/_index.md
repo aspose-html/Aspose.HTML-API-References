@@ -36,9 +36,9 @@ public class MimeType : IEquatable<MimeType>
 | override [Equals](equals)(object) | Determines whether the specified Object is equal to the current Object. |
 | override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
 | override [ToString](tostring)() | Returns a String that represents Mime type. |
-| [operator ==](op_equality) |  |
-| [implicit operator](op_implicit) |  (2 operators) |
-| [operator !=](op_inequality) |  |
+| [operator ==](op_equality) | Compares two Mime type and returns a boolean indicating if the two do match. |
+| [implicit operator](op_implicit) | Performs an implicit conversion from String to [`MimeType`](../mimetype). (2 operators) |
+| [operator !=](op_inequality) | Compares two Mime type and returns a boolean indicating if the two do match. |
 
 ### See Also
 

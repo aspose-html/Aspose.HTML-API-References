@@ -8,7 +8,7 @@ url: /net/aspose.html.datascraping.multimediascraping/multimediahost/
 ---
 ## MultimediaHost class
 
-Represents host of the multimedia object.**Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+Represents host of the multimedia object. **Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
 
 ```csharp
 public class MultimediaHost : IEquatable<MultimediaHost>
@@ -37,8 +37,8 @@ public class MultimediaHost : IEquatable<MultimediaHost>
 | override [Equals](equals)(object) | Determines whether the specified Object, is equal to this instance. |
 | override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
 | override [ToString](tostring)() | Returns a String that represents this instance. |
-| [operator ==](op_equality) |  |
-| [operator !=](op_inequality) |  |
+| [operator ==](op_equality) | Implements the equality operator. |
+| [operator !=](op_inequality) | Implements the equality operator. |
 
 ### See Also
 

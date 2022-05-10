@@ -8,7 +8,7 @@ url: /net/aspose.html.dom/element/element/
 ---
 ## Element constructor
 
-Initializes a new instance of the Element class. Don't call this constructor directly, use [`CreateElement(String)`](../../document/createelement) or [`CreateElementNS(String, String)`](../../document/createelementns).
+Initializes a new instance of the [`Element`](../../element) class. Don't call this constructor directly, use [`CreateElement`](../../document/createelement) or [`CreateElementNS`](../../document/createelementns).
 
 ```csharp
 public Element(IElementInit elementInit)

@@ -18,7 +18,7 @@ public class FormUrlEncodedContent : ByteArrayContent
 
 | Name | Description |
 | --- | --- |
-| [FormUrlEncodedContent](formurlencodedcontent)(IEnumerable&lt;KeyValuePair&lt;string, string&gt;&gt;) |  |
+| [FormUrlEncodedContent](formurlencodedcontent)(IEnumerable&lt;KeyValuePair&lt;string, string&gt;&gt;) | Initializes a new instance of the [`FormUrlEncodedContent`](../formurlencodedcontent) class. |
 
 ### See Also
 

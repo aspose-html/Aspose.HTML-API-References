@@ -8,7 +8,7 @@ url: /net/aspose.html/htmltablecellelement/
 ---
 ## HTMLTableCellElement class
 
-The object used to represent the `TH` and `TD`elements. See the TD element definition in HTML 4.01.
+The object used to represent the `TH` and `TD` elements. See the TD element definition in HTML 4.01.
 
 See also the [Document object Model (DOM) Level 2 HTML Specification](http://www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109).
 

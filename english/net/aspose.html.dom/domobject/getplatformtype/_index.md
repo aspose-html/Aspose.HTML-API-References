@@ -8,7 +8,7 @@ url: /net/aspose.html.dom/domobject/getplatformtype/
 ---
 ## DOMObject.GetPlatformType method
 
-This method is used to retrieve the ECMAScript object .
+This method is used to retrieve ECMAScript object Type.
 
 ```csharp
 public virtual Type GetPlatformType()
@@ -16,7 +16,7 @@ public virtual Type GetPlatformType()
 
 ## Return Value
 
-The ECMAScript object.
+The ECMAScript object Type.
 
 ### See Also
 

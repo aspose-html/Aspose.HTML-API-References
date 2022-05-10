@@ -1,5 +1,5 @@
 ---
-title: SVGAnimatedValue<T>
+title: SVGAnimatedValueT
 second_title: Aspose.HTML for .NET API Reference
 description: 
 type: docs

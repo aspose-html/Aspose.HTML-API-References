@@ -16,11 +16,11 @@ public string GetPropertyPriority(string propertyName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| propertyName | String | property is a DOMString representing the property name to be checked. |
+| propertyName | String | Name of the property. |
 
 ## Return Value
 
-priority is a DOMString that represents the priority (e.g. "important") if one exists. If none exists, returns the empty string.
+Returns property priority
 
 ### See Also
 

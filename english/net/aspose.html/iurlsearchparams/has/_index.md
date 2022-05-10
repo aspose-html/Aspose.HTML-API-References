@@ -20,7 +20,7 @@ public bool Has(string name)
 
 ## Return Value
 
-`True` if there is a name-value pair whose name is `name`in list, and `false` otherwise.
+`True` if there is a name-value pair whose name is `name` in list, and `false` otherwise.
 
 ### See Also
 

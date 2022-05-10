@@ -8,7 +8,7 @@ url: /net/aspose.html.datascraping.multimediascraping/videoformatinfo/
 ---
 ## VideoFormatInfo class
 
-Represents information about video format.**Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+Represents information about video format. **Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
 
 ```csharp
 public class VideoFormatInfo

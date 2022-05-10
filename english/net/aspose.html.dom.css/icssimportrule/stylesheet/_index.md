@@ -14,10 +14,6 @@ The style sheet referred to by this rule, if it has been loaded. The value of th
 public ICSSStyleSheet StyleSheet { get; }
 ```
 
-## Property Value
-
-Returns the CSS Stylesheet specified by the @import at-rule. This will be in the form of a [`CSSStyleSheet`](../../icssstylesheet) object.
-
 ### See Also
 
 * interface [ICSSStyleSheet](../../icssstylesheet)

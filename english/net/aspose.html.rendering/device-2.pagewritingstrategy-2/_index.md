@@ -1,5 +1,5 @@
 ---
-title: Device<TGraphicContext,TRenderingOptions>.PageWritingStrategy<TGraphicContext,TRenderingOptions>
+title: DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContextTRenderingOptions
 second_title: Aspose.HTML for .NET API Reference
 description: 
 type: docs

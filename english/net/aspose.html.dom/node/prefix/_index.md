@@ -8,7 +8,7 @@ url: /net/aspose.html.dom/node/prefix/
 ---
 ## Node.Prefix property
 
-The prefix read-only property returns the namespace prefix of the specified element, or null if no prefix is specified.
+The namespace prefix of this node, or null if it is unspecified. When it is defined to be null, setting it has no effect
 
 ```csharp
 public virtual string Prefix { get; set; }
@@ -16,13 +16,7 @@ public virtual string Prefix { get; set; }
 
 ## Property Value
 
-The property returns associated associated namespace prefix.
-
-### Remarks
-
-Reference:
-
-[DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # dom-element-prefix](https://dom.spec.whatwg.org/#dom-element-prefix).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
+The prefix.
 
 ### See Also
 

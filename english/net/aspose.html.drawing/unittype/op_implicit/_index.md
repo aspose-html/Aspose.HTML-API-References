@@ -8,9 +8,19 @@ url: /net/aspose.html.drawing/unittype/op_implicit/
 ---
 ## UnitType Implicit operator
 
+Performs an implicit conversion from String to [`UnitType`](../../unittype).
+
 ```csharp
 public static implicit operator UnitType(string value)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | String | The value. |
+
+## Return Value
+
+The result of the conversion.
 
 ### See Also
 

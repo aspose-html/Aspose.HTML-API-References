@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.events/idocumentevent/
 ---
 ## IDocumentEvent interface
 
-The DocumentEvent interface provides a mechanism by which the user can create an Event of a type supported by the implementation. It is expected that the DocumentEvent interface will be implemented on the same object which implements the Document interface in an implementation which supports the Event model.
+The [`IDocumentEvent`](../idocumentevent) interface provides a mechanism by which the user can create an [`Event`](../event) of a type supported by the implementation.
 
 ```csharp
 public interface IDocumentEvent
@@ -18,11 +18,11 @@ public interface IDocumentEvent
 
 | Name | Description |
 | --- | --- |
-| [CreateEvent](createevent)(string) | The createEvent method is used in creating Events when it is either inconvenient or unnecessary for the user to create an Event themselves |
+| [CreateEvent](createevent)(string) | Creates an [`Event`](../event) of a type supported by the implementation. |
 
 ### Remarks
 
-It is expected that the interface will be implemented on the same object which implements the interface in an implementation which supports the Event model.
+It is expected that the [`IDocumentEvent`](../idocumentevent) interface will be implemented on the same object which implements the [`Document`](../../aspose.html.dom/document) interface in an implementation which supports the Event model.
 
 ### See Also
 

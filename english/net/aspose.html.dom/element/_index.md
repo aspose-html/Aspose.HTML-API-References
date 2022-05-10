@@ -18,7 +18,7 @@ public class Element : Node, IChildNode, IParentNode
 
 | Name | Description |
 | --- | --- |
-| [Element](element)(IElementInit) | Initializes a new instance of the Element class. Don't call this constructor directly, use [`CreateElement(String)`](../document/createelement) or [`CreateElementNS(String, String)`](../document/createelementns). |
+| [Element](element)(IElementInit) | Initializes a new instance of the [`Element`](../element) class. Don't call this constructor directly, use [`CreateElement`](../document/createelement) or [`CreateElementNS`](../document/createelementns). |
 
 ## Properties
 
@@ -55,9 +55,9 @@ public class Element : Node, IChildNode, IParentNode
 | [GetAttributeNode](getattributenode)(string) | Retrieves an attribute node by name. |
 | [GetAttributeNodeNS](getattributenodens)(string, string) | Retrieves an Attr node by local name and namespace URI. |
 | [GetAttributeNS](getattributens)(string, string) | Retrieves an attribute value by local name and namespace URI. |
-| [GetElementsByClassName](getelementsbyclassname)(string) | Returns [`HTMLCollection`](../../aspose.html.collections/htmlcollection) object containing all the elements within [`element`](../element) that have all the classes specified in argument. |
-| [GetElementsByTagName](getelementsbytagname)(string) | Returns [`HTMLCollection`](../../aspose.html.collections/htmlcollection) object containing all [`elements`](../element) with a given tag name, in document order. |
-| [GetElementsByTagNameNS](getelementsbytagnamens)(string, string) | Returns [`HTMLCollection`](../../aspose.html.collections/htmlcollection) object containing all [`elements`](../element) with a given local name and namespace URI string in document order. |
+| [GetElementsByClassName](getelementsbyclassname)(string) | Returns a live NodeList object containing all the elements in the document that have all the classes specified in argument. http://www.w3.org/TR/dom/ |
+| [GetElementsByTagName](getelementsbytagname)(string) | Returns a NodeList of all descendant Elements with a given tag name, in document order. |
+| [GetElementsByTagNameNS](getelementsbytagnamens)(string, string) | Returns a NodeList of all the descendant Elements with a given local name and namespace URI in document order. |
 | [HasAttribute](hasattribute)(string) | Returns true when an attribute with a given name is specified on this element or has a default value, false otherwise. |
 | [HasAttributeNS](hasattributens)(string, string) | Returns true when an attribute with a given local name and namespace URI is specified on this element or has a default value, false otherwise. |
 | override [HasAttributes](hasattributes)() | Returns whether this node (if it is an element) has any attributes |

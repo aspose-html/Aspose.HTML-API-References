@@ -33,7 +33,7 @@ public interface ICanvasRenderingContext2D : ICanvasDrawingStyles, ICanvasPathMe
 
 | Name | Description |
 | --- | --- |
-| [AddHitRegion](addhitregion)(Dictionary&lt;string, string&gt;) |  |
+| [AddHitRegion](addhitregion)(Dictionary&lt;string, string&gt;) | Adds a hit region to the canvas. This allows you to make hit detection easier, lets you route events to DOM elements, and makes it possible for users to explore the canvas without seeing it. |
 | [BeginPath](beginpath)() | Starts a new path by emptying the list of sub-paths. Call this method when you want to create a new path. |
 | [ClearHitRegions](clearhitregions)() | Removes all hit regions from the canvas. |
 | [ClearRect](clearrect)(double, double, double, double) | Sets all pixels in the rectangle defined by starting point (x, y) and size (width, height) to transparent black, erasing any previously drawn content. |

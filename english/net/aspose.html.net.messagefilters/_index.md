@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.Net.MessageFilters
 second_title: Aspose.HTML for .NET API Reference
-description: The **Aspose.Html.Net.MessageFilters** namespace provides classes which implement message filter abstraction.
+description: TheAspose.Html.Net.MessageFiltersnamespaceprovidesclasseswhichimplementmessagefilterabstraction.
 type: docs
 weight: 310
 url: /net/aspose.html.net.messagefilters/

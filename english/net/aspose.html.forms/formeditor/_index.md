@@ -36,7 +36,7 @@ public class FormEditor : IDisposable, IEnumerable<FormElement>
 | [AddInput](addinput)(string) | Creates a new [`InputElement`](../inputelement) and adds it to the end of the form. |
 | [AddInput](addinput)(string, InputElementType) | Creates a new [`InputElement`](../inputelement) and adds it to the end of the form. |
 | [Dispose](dispose)() | Releases unmanaged and managed resources. |
-| [Fill](fill)(Dictionary&lt;string, string&gt;) |  |
+| [Fill](fill)(Dictionary&lt;string, string&gt;) | This method fills the whole form with the specified values. |
 | [GetElement&lt;T&gt;](getelement)(int) | Returns the element by specified index. |
 | [GetElement&lt;T&gt;](getelement)(string) | Returns the element by specified name. |
 | [GetEnumerator](getenumerator)() | Gets the enumerator. |

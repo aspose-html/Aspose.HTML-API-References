@@ -25,8 +25,8 @@ public class HTMLTableRowElement : HTMLElement
 | [Cells](cells) { get; } | The collection of cells in this row. @version DOM Level 2 |
 | [Ch](ch) { get; set; } | Alignment character for cells in a column. See the char attribute definition in HTML 4.01. |
 | [ChOff](choff) { get; set; } | Offset of alignment character. See the charoff attribute definition in HTML 4.01. |
-| [RowIndex](rowindex) { get; } | This is in logical order and not in document order. The `rowIndex` does take into account sections (`THEAD`, `TFOOT`, or `TBODY`) within the table, placing `THEAD` rows first in the index, followed by `TBODY` rows, followed by `TFOOT`rows. @version DOM Level 2 |
-| [SectionRowIndex](sectionrowindex) { get; } | The index of this row, relative to the current section (`THEAD`, `TFOOT`, or `TBODY`), starting from 0. @version DOM Level 2 |
+| [RowIndex](rowindex) { get; } | This is in logical order and not in document order. The `rowIndex` does take into account sections ( `THEAD`, `TFOOT`, or `TBODY`) within the table, placing `THEAD` rows first in the index, followed by `TBODY` rows, followed by `TFOOT` rows. @version DOM Level 2 |
+| [SectionRowIndex](sectionrowindex) { get; } | The index of this row, relative to the current section ( `THEAD`, `TFOOT`, or `TBODY`), starting from 0. @version DOM Level 2 |
 | [VAlign](valign) { get; set; } | Vertical alignment of data within cells of this row. See the valign attribute definition in HTML 4.01. |
 
 ## Methods

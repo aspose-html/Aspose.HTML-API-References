@@ -46,7 +46,7 @@ public class HTMLTableElement : HTMLElement
 | [DeleteRow](deleterow)(int) | Delete a table row. |
 | [DeleteTFoot](deletetfoot)() | Delete the footer from the table, if one exists. |
 | [DeleteTHead](deletethead)() | Delete the header from the table, if one exists. |
-| [InsertRow](insertrow)(int) | Insert a new empty row in the table. The new row is inserted immediately before and in the same section as the current `index`th row in the table. If `index` is -1 or equal to the number of rows, the new row is appended. In addition, when the table is empty the row is inserted into a `TBODY`which is created and inserted into the table.A table row cannot be empty according to [[HTML 4.01](http://www.w3.org/TR/1999/REC-html401-19991224)]. |
+| [InsertRow](insertrow)(int) | Insert a new empty row in the table. The new row is inserted immediately before and in the same section as the current `index`th row in the table. If `index` is -1 or equal to the number of rows, the new row is appended. In addition, when the table is empty the row is inserted into a `TBODY` which is created and inserted into the table.A table row cannot be empty according to [[HTML 4.01](http://www.w3.org/TR/1999/REC-html401-19991224)]. |
 
 ### See Also
 

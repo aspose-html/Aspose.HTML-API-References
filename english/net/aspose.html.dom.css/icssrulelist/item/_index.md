@@ -14,13 +14,17 @@ Used to retrieve a CSS rule by method item() (http://www.w3.org/TR/DOM-Level-2-S
 public ICSSRule this[int index] { get; }
 ```
 
+| Parameter | Description |
+| --- | --- |
+| index | The rule index |
+
 ## Return Value
 
-The item(index) method must return the indexth CSSRule object in the collection. If there is no indexth object in the collection, then the method must return null.
+The CSS rule instance.
 
 ## Property Value
 
-The index into the collection of CSS rules.
+The [`ICSSRule`](../../icssrule).
 
 ### See Also
 

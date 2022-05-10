@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.Forms
 second_title: Aspose.HTML for .NET API Reference
-description: The namespace provides access to numerous objects (elements) which are responsible to user interactivity within form as web page component.
+description: Thenamespaceprovidesaccesstonumerousobjectselementswhichareresponsibletouserinteractivitywithinformaswebpagecomponent.
 type: docs
 weight: 260
 url: /net/aspose.html.forms/

@@ -20,7 +20,7 @@ public ICSSKeyframeRule FindRule(string key)
 
 ## Return Value
 
-Returns the last declared [`CSSKeyframeRule`](../../icsskeyframerule) matching the specified keyframe selector. If no matching rule exists, the method does nothing.
+The found rule
 
 ### See Also
 

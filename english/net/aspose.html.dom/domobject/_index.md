@@ -24,7 +24,7 @@ public class DOMObject : INotifyPropertyChanged
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](getplatformtype)() | This method is used to retrieve the ECMAScript object . |
+| virtual [GetPlatformType](getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
 
 ### See Also
 

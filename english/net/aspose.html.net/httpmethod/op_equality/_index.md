@@ -8,9 +8,20 @@ url: /net/aspose.html.net/httpmethod/op_equality/
 ---
 ## HttpMethod Equality operator
 
+Implements the equality operator.
+
 ```csharp
 public static bool operator ==(HttpMethod left, HttpMethod right)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| left | HttpMethod | The left operand. |
+| right | HttpMethod | The left operand. |
+
+## Return Value
+
+The result of the operation.
 
 ### See Also
 

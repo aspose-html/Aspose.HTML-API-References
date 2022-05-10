@@ -8,7 +8,7 @@ url: /net/aspose.html.datascraping.multimediascraping.youtube/youtubevideoinfo/
 ---
 ## YouTubeVideoInfo class
 
-Represents YouTube specific video information.**Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+Represents YouTube specific video information. **Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
 
 ```csharp
 public class YouTubeVideoInfo : VideoInfo

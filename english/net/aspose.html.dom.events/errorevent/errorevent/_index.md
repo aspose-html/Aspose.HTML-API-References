@@ -28,9 +28,15 @@ public ErrorEvent(Exception exception)
 
 ## ErrorEvent constructor (2 of 2)
 
+Initializes a new instance of the [`ErrorEvent`](../../errorevent) class.
+
 ```csharp
 public ErrorEvent(IDictionary<string, object> eventInitDict)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| eventInitDict | IDictionary`2 | The event initialization object. |
 
 ### See Also
 

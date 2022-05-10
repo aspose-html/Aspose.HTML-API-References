@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/fontvariant/
 ---
 ## ICSS2Properties.FontVariant property
 
-In a small-caps font, the glyphs for lowercase letters look similar to the uppercase ones, but in a smaller size and with slightly different proportions. The 'font-variant' property requests such a font for bicameral (having two cases, as with Latin script). This property has no visible effect for scripts that are unicameral (having only one case, as with most of the world's writing systems).
+See the font-variant property definition in CSS2.
 
 ```csharp
 public string FontVariant { get; set; }

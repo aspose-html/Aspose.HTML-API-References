@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.events/event/initevent/
 ---
 ## Event.InitEvent method
 
-The `InitEvent` method is used to initialize the value of an [`Event`](../../event) created through the[`IDocumentEvent`](../../idocumentevent) interface.
+The `InitEvent` method is used to initialize the value of an [`Event`](../../event) created through the [`IDocumentEvent`](../../idocumentevent) interface.
 
 ```csharp
 public void InitEvent(string type, bool bubbles, bool cancelable)

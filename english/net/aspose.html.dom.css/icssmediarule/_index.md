@@ -18,15 +18,15 @@ public interface ICSSMediaRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [CSSRules](cssrules) { get; } | The cssRules property of the CSSGroupingRule interface returns a [`CSSRuleList`](../icssrulelist) containing a collection of [`CSSRule`](../icssrule) objects. |
-| [Media](media) { get; } | The read-only media property of the [`CSSMediaRule`](../icssmediarule) interface MediaList represents the intended destination medium for style information. |
+| [CSSRules](cssrules) { get; } | A list of all CSS rules contained within the media block. |
+| [Media](media) { get; } | A list of media types for this rule. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [DeleteRule](deleterule)(long) | The deleteRule() method of the CSSGroupingRule interface removes a CSS rule from a list of child CSS rules. |
-| [InsertRule](insertrule)(string, long) | The insertRule() method of the CSSGroupingRule interface adds a new CSS rule to a list of CSS rules. |
+| [DeleteRule](deleterule)(long) | Used to delete a rule from the media block. |
+| [InsertRule](insertrule)(string, long) | Used to insert a new rule into the media block. |
 
 ### See Also
 

@@ -1,5 +1,5 @@
 ---
-title: TypedArray<T>
+title: TypedArrayT
 second_title: Aspose.HTML for .NET API Reference
 description: 
 type: docs

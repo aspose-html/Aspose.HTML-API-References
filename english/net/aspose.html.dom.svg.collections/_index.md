@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.Dom.Svg.Collections
 second_title: Aspose.HTML for .NET API Reference
-description: **Aspose.Html.Dom.Svg.Collections** provides access to specific generic collections.
+description: Aspose.Html.Dom.Svg.Collectionsprovidesaccesstospecificgenericcollections.
 type: docs
 weight: 150
 url: /net/aspose.html.dom.svg.collections/

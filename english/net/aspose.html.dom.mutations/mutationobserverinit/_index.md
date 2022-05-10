@@ -41,14 +41,14 @@ public class MutationObserverInit : IDictionary<string, object>
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(KeyValuePair&lt;string, object&gt;) |  |
+| [Add](add)(KeyValuePair&lt;string, object&gt;) | Adds an element to the [`MutationObserverInit`](../mutationobserverinit) collection. |
 | [Add](add)(string, object) | Adds the specified key and value to the [`MutationObserverInit`](../mutationobserverinit) collection. |
 | [Clear](clear)() | Removes all the elements from the [`MutationObserverInit`](../mutationobserverinit) collection. |
-| [Contains](contains)(KeyValuePair&lt;string, object&gt;) |  |
+| [Contains](contains)(KeyValuePair&lt;string, object&gt;) | Determines whether the [`MutationObserverInit`](../mutationobserverinit) contain the specified key/value pair. |
 | [ContainsKey](containskey)(string) | Determines whether the [`MutationObserverInit`](../mutationobserverinit) collection contain a specified key. |
-| [CopyTo](copyto)(KeyValuePair&lt;string, object&gt;[], int) |  |
+| [CopyTo](copyto)(KeyValuePair&lt;string, object&gt;[], int) | Copies the [`MutationObserverInit`](../mutationobserverinit) elements to an existing one-dimensional array, starting at the specified array index. |
 | [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through the [`MutationObserverInit`](../mutationobserverinit) elements. |
-| [Remove](remove)(KeyValuePair&lt;string, object&gt;) |  |
+| [Remove](remove)(KeyValuePair&lt;string, object&gt;) | Removes the specified key/value pair from the [`MutationObserverInit`](../mutationobserverinit) collection. |
 | [Remove](remove)(string) | Removes the value associated with the specified key from the [`MutationObserverInit`](../mutationobserverinit) collection. |
 | [TryGetValue](trygetvalue)(string, out object) | Gets the value associated with the specified key. |
 

@@ -8,9 +8,19 @@ url: /net/aspose.html.drawing/lengthorauto/op_implicit/
 ---
 ## LengthOrAuto Implicit operator
 
+Performs an implicit conversion from [`Length`](../length) to [`LengthOrAuto`](../../lengthorauto).
+
 ```csharp
 public static implicit operator LengthOrAuto(Length length)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| length | Length | The value. |
+
+## Return Value
+
+The result of the conversion.
 
 ### See Also
 

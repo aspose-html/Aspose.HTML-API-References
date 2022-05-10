@@ -8,9 +8,15 @@ url: /net/aspose.html.dom.mutations/mutationobserverinit/add/
 ---
 ## MutationObserverInit.Add method (1 of 2)
 
+Adds an element to the [`MutationObserverInit`](../../mutationobserverinit) collection.
+
 ```csharp
 public void Add(KeyValuePair<string, object> item)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | KeyValuePair`2 | The item to add. |
 
 ### See Also
 

@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/richness/
 ---
 ## ICSS2Properties.Richness property
 
-Specifies the richness, or brightness, of the speaking voice. A rich voice will "carry" in a large room, a smooth voice will not. (The term "smooth" refers to how the wave form looks when drawn.)
+See the richness property definition in CSS2.
 
 ```csharp
 public string Richness { get; set; }

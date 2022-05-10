@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icsskeyframerule/style/
 ---
 ## ICSSKeyframeRule.Style property
 
-The read-only CSSKeyframeRule.style property is the [`CSSStyleDeclaration`](../../icssstyledeclaration) interface for the declaration block of the [`CSSKeyframeRule`](../../icsskeyframerule).
+This attribute represents the style associated with this keyframe.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
@@ -16,9 +16,7 @@ public ICSSStyleDeclaration Style { get; }
 
 ## Property Value
 
-A [`CSSStyleDeclaration`](../../icssstyledeclaration) object, with the following properties:
-
-computed flag - Unset.declarations - The declared declarations in the rule, in the order they were specified, shorthand properties expanded to longhands.parent CSS rule - The context object, which is an alias for this.owner node - Null.
+The style.
 
 ### See Also
 

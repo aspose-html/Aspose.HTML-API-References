@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.Net.Headers
 second_title: Aspose.HTML for .NET API Reference
-description: The **Aspose.Html.Net.Headers** provides few data classes for describing header content at networking.
+description: TheAspose.Html.Net.Headersprovidesfewdataclassesfordescribingheadercontentatnetworking.
 type: docs
 weight: 300
 url: /net/aspose.html.net.headers/

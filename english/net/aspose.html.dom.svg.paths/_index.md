@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.Dom.Svg.Paths
 second_title: Aspose.HTML for .NET API Reference
-description: The **Aspose.Html.Dom.Svg.Paths** namespace describes classes for representation of outline of a shape which can be filled or stroked. A path can also be used as a clipping path, to describe animation, or position text.
+description: TheAspose.Html.Dom.Svg.Pathsnamespacedescribesclassesforrepresentationofoutlineofashapewhichcanbefilledorstroked.Apathcanalsobeusedasaclippingpathtodescribeanimationorpositiontext.
 type: docs
 weight: 190
 url: /net/aspose.html.dom.svg.paths/

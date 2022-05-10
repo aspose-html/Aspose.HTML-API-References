@@ -1,5 +1,5 @@
 ---
-title: Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions>
+title: DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContextTRenderingOptions
 second_title: Aspose.HTML for .NET API Reference
 description: 
 type: docs
@@ -7,6 +7,8 @@ weight: 4230
 url: /net/aspose.html.rendering/device-2.deviceconfiguration-2/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; class
+
+Represents configuration object for devices.
 
 ```csharp
 public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
@@ -24,7 +26,7 @@ public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
 
 | Name | Description |
 | --- | --- |
-| [PageWritingStrategy](pagewritingstrategy) { get; set; } |  |
+| [PageWritingStrategy](pagewritingstrategy) { get; set; } | Gets or sets the page writing strategy. |
 
 ### See Also
 

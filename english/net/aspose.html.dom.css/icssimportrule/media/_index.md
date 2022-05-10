@@ -8,15 +8,11 @@ url: /net/aspose.html.dom.css/icssimportrule/media/
 ---
 ## ICSSImportRule.Media property
 
-The read-only media property of the CSSImportRule interface returns a MediaList object, containing the value of the media attribute of the associated stylesheet.
+A list of media types for which this style sheet may be used.
 
 ```csharp
 public IMediaList Media { get; }
 ```
-
-## Property Value
-
-Returns a MediaList object, containing the value of the media attribute of the associated stylesheet.
 
 ### See Also
 

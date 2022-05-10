@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/paddingtop/
 ---
 ## ICSS2Properties.PaddingTop property
 
-These properties set the top, right, bottom, and left padding of a box.
+See the padding-top property definition in CSS2.
 
 ```csharp
 public string PaddingTop { get; set; }

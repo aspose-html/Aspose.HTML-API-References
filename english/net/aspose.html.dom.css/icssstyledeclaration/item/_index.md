@@ -14,13 +14,13 @@ Used to retrieve the properties that have been explicitly set in this declaratio
 public string this[int index] { get; }
 ```
 
+| Parameter | Description |
+| --- | --- |
+| index | The property index |
+
 ## Return Value
 
-propertyName is a String that is the name of the CSS property at the specified index.
-
-## Property Value
-
-index is the index of the node to be fetched. The index is zero-based.
+The CSS value.
 
 ### See Also
 

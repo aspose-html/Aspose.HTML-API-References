@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.mutations/mutationobserver/
 ---
 ## MutationObserver class
 
-A object can be used to observe mutations to the tree of [`.`](../../aspose.html.dom/node)
+A [`MutationObserver`](../mutationobserver) object can be used to observe mutations to the tree of [`Node`](../../aspose.html.dom/node).
 
 ```csharp
 public class MutationObserver : DOMObject

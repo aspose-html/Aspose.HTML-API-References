@@ -16,13 +16,7 @@ public void DeleteMedium(string oldMedium)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| oldMedium | String | The medium to delete in the media list. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| DOMException | NO_MODIFICATION_ALLOWED_ERR: Raised if this list is readonly.NOT_FOUND_ERR: Raised if oldMedium is not in the list. |
+| oldMedium | String | The old medium. |
 
 ### See Also
 

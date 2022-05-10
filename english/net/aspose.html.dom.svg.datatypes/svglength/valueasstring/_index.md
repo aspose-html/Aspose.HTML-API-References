@@ -22,8 +22,8 @@ The value as string.
 
 | exception | condition |
 | --- | --- |
-| [DOMException](../../../aspose.html.dom/domexception) | Code [`SYNTAX_ERR`](../../../aspose.html.dom/domexception/syntax_err)Raised if the assigned string cannot be parsed as a valid length. |
-| [DOMException](../../../aspose.html.dom/domexception) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.html.dom/domexception/no_modification_allowed_err)Raised when the length corresponds to a read only attribute or when the object itself is read only. |
+| [DOMException](../../../aspose.html.dom/domexception) | Code [`SYNTAX_ERR`](../../../aspose.html.dom/domexception/syntax_err) Raised if the assigned string cannot be parsed as a valid length. |
+| [DOMException](../../../aspose.html.dom/domexception) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.html.dom/domexception/no_modification_allowed_err) Raised when the length corresponds to a read only attribute or when the object itself is read only. |
 
 ### See Also
 

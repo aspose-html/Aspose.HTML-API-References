@@ -18,15 +18,15 @@ public sealed class Resolution : Dimension
 
 | Name | Description |
 | --- | --- |
-| [operator +](op_addition) |  |
-| [operator ==](op_equality) |  |
-| [operator &gt;](op_greaterthan) |  |
-| [operator &gt;=](op_greaterthanorequal) |  |
-| [implicit operator](op_implicit) |  (2 operators) |
-| [operator !=](op_inequality) |  |
-| [operator &lt;](op_lessthan) |  |
-| [operator &lt;=](op_lessthanorequal) |  |
-| [operator -](op_subtraction) |  |
+| [operator +](op_addition) | Implements the operator +. |
+| [operator ==](op_equality) | Implements the operator ==. |
+| [operator &gt;](op_greaterthan) | Implements the operator &gt;. |
+| [operator &gt;=](op_greaterthanorequal) | Implements the operator &gt;=. |
+| [implicit operator](op_implicit) | Performs an implicit conversion from Double to [`Resolution`](../resolution). (2 operators) |
+| [operator !=](op_inequality) | Implements the operator !=. |
+| [operator &lt;](op_lessthan) | Implements the operator &lt;. |
+| [operator &lt;=](op_lessthanorequal) | Implements the operator &lt;=. |
+| [operator -](op_subtraction) | Implements the operator -. |
 
 ### See Also
 

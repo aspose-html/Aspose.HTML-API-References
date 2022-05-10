@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/borderbottomstyle/
 ---
 ## ICSS2Properties.BorderBottomStyle property
 
-The 'border-style' property sets the style of the four borders. It can have from one to four values, and the values are set on the different sides as for 'border-width' above.
+See the border-bottom-style property definition in CSS2.
 
 ```csharp
 public string BorderBottomStyle { get; set; }

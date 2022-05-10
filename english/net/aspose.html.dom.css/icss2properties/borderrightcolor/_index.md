@@ -8,9 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/borderrightcolor/
 ---
 ## ICSS2Properties.BorderRightColor property
 
-The 'border-color' property sets the color of the four borders. Values have the following meanings:
-
-color - Specifies a color value.transparent - The border is transparent (though it may have width).
+See the border-right-color property definition in CSS2.
 
 ```csharp
 public string BorderRightColor { get; set; }

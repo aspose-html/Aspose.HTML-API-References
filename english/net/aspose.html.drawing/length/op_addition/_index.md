@@ -8,9 +8,27 @@ url: /net/aspose.html.drawing/length/op_addition/
 ---
 ## Length Addition operator
 
+Implements the operator +.
+
 ```csharp
 public static Length operator +(Length a, Length b)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | Length | Parameter a. |
+| b | Length | Parameter b. |
+
+## Return Value
+
+The result of the operator.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | Arguments are null |
+| ArgumentException | Arguments have different types or Arguments have different resolution or |
 
 ### See Also
 

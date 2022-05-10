@@ -18,8 +18,8 @@ public interface ICSSImportRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [Href](href) { get; } | The read-only href property of the CSSImportRule interface returns the URL specified by the @import at-rule. |
-| [Media](media) { get; } | The read-only media property of the CSSImportRule interface returns a MediaList object, containing the value of the media attribute of the associated stylesheet. |
+| [Href](href) { get; } | The location of the style sheet to be imported. The attribute will not contain the "url(...)" specifier around the URI. |
+| [Media](media) { get; } | A list of media types for which this style sheet may be used. |
 | [StyleSheet](stylesheet) { get; } | The style sheet referred to by this rule, if it has been loaded. The value of this attribute is null if the style sheet has not yet been loaded or if it will not be loaded (e.g. if the style sheet is for a media type not supported by the user agent). |
 
 ### See Also

@@ -19,7 +19,7 @@ public class InputEvent : UIEvent
 | Name | Description |
 | --- | --- |
 | [InputEvent](inputevent)(string) | Initializes a new instance of the [`InputEvent`](../inputevent) class. |
-| [InputEvent](inputevent)(string, IDictionary&lt;string, object&gt;) |  |
+| [InputEvent](inputevent)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the [`InputEvent`](../inputevent) class. |
 
 ## Properties
 

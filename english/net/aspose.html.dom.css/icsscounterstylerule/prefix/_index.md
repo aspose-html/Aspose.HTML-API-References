@@ -8,15 +8,11 @@ url: /net/aspose.html.dom.css/icsscounterstylerule/prefix/
 ---
 ## ICSSCounterStyleRule.Prefix property
 
-The prefix property of the [`CSSCounterStyleRule`](../../icsscounterstylerule) interface gets and sets the value of the prefix descriptor. If the descriptor does not have a value set, this attribute returns an empty string.
+Gets the prefix.
 
 ```csharp
 public string Prefix { get; }
 ```
-
-## Property Value
-
-Gets and sets the value of the prefix descriptor. If the descriptor does not have a value set, this attribute returns an empty string.
 
 ### See Also
 

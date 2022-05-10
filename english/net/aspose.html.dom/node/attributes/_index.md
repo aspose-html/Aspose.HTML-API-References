@@ -8,21 +8,11 @@ url: /net/aspose.html.dom/node/attributes/
 ---
 ## Node.Attributes property
 
-The attributes property returns a live collection of all attribute nodes registered to the specified node. Attributes is a key/value pair of strings that represents any information regarding that attribute.
+A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise.
 
 ```csharp
 public virtual NamedNodeMap Attributes { get; }
 ```
-
-## Property Value
-
-The attributes getter returns the associated NamedNodeMap.
-
-### Remarks
-
-Reference:
-
-[DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # dom-element-attributes](https://dom.spec.whatwg.org/#dom-element-attributes).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
 ### See Also
 

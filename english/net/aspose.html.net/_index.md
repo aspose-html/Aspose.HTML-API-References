@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.Net
 second_title: Aspose.HTML for .NET API Reference
-description: The **Aspose.Html.Net** namespace is presented by classes and interfaces which are responsible for helping easy network processing.
+description: TheAspose.Html.Netnamespaceispresentedbyclassesandinterfaceswhichareresponsibleforhelpingeasynetworkprocessing.
 type: docs
 weight: 290
 url: /net/aspose.html.net/

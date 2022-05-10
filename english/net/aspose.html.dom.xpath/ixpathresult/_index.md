@@ -19,9 +19,9 @@ public interface IXPathResult
 | Name | Description |
 | --- | --- |
 | [BooleanValue](booleanvalue) { get; } | The value of this boolean result. |
-| [InvalidIteratorState](invaliditeratorstate) { get; } | Signifies that the iterator has become invalid. True if `resultType`is `UnorderedNodeIterator` type or `OrderedNodeIterator` type and the document has been modified since this result was returned. |
+| [InvalidIteratorState](invaliditeratorstate) { get; } | Signifies that the iterator has become invalid. True if `resultType` is `UnorderedNodeIterator` type or `OrderedNodeIterator` type and the document has been modified since this result was returned. |
 | [NumberValue](numbervalue) { get; } | The value of this number result. |
-| [ResultType](resulttype) { get; } | A code representing the type of this result, as defined by the http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult[`XPathResultType`](../xpathresulttype) enum. |
+| [ResultType](resulttype) { get; } | A code representing the type of this result, as defined by the http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult [`XPathResultType`](../xpathresulttype) enum. |
 | [SingleNodeValue](singlenodevalue) { get; } | The value of this single node result, which may be `null`. |
 | [SnapshotLength](snapshotlength) { get; } | The number of nodes in the result snapshot. Valid values for snapshotItem indices are `0` to `snapshotLength-1` inclusive. |
 | [StringValue](stringvalue) { get; } | The value of this string result. |

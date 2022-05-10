@@ -36,7 +36,7 @@ public class LengthOrAuto : Unit
 | override [Equals](equals)(Unit) | Determines whether the specified [`Unit`](../unit), is equal to this instance. |
 | [SetAuto](setauto)() | Resets container to state 'auto'. |
 | override [ToString](tostring)() | Returns a String that represents this instance. |
-| [implicit operator](op_implicit) |  |
+| [implicit operator](op_implicit) | Performs an implicit conversion from [`Length`](./length) to [`LengthOrAuto`](../lengthorauto). |
 
 ### See Also
 

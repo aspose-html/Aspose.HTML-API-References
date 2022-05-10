@@ -8,9 +8,20 @@ url: /net/aspose.html.drawing/time/op_inequality/
 ---
 ## Time Inequality operator
 
+Implements the operator !=.
+
 ```csharp
 public static bool operator !=(Time a, Time b)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | Time | The parameter a. |
+| b | Time | The parameter b. |
+
+## Return Value
+
+The result of the operator.
 
 ### See Also
 

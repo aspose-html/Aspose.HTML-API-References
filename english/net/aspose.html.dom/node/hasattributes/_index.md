@@ -8,7 +8,7 @@ url: /net/aspose.html.dom/node/hasattributes/
 ---
 ## Node.HasAttributes method
 
-The hasAttributes() method of the [`Element`](../../element) interface returns a boolean value indicating whether the current element has any attributes or not.
+Returns whether this node (if it is an element) has any attributes
 
 ```csharp
 public virtual bool HasAttributes()
@@ -16,7 +16,7 @@ public virtual bool HasAttributes()
 
 ## Return Value
 
-boolean true if this node has any attributes, false otherwise.
+boolean `true` if this node has any attributes, `false` otherwise.
 
 ### See Also
 

@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icsskeyframesrule/
 ---
 ## ICSSKeyframesRule interface
 
-The name property of the CSSKeyframeRule interface gets and sets the name of the animation as used by the animation-name property.
+The CSSKeyframesRule interface represents a complete set of keyframes for a single animation
 
 ```csharp
 public interface ICSSKeyframesRule : ICSSRule
@@ -18,15 +18,15 @@ public interface ICSSKeyframesRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [CSSRules](cssrules) { get; } | The read-only cssRules property of the [`CSSKeyframeRule`](../icsskeyframerule) interface returns a [`CSSRuleList`](../icssrulelist) containing the rules in the keyframes at-rule. |
-| [Name](name) { get; } | The name property of the [`CSSKeyframeRule`](../icsskeyframerule) interface gets and sets the name of the animation as used by the animation-name property. |
+| [CSSRules](cssrules) { get; } | This attribute gives access to the keyframes in the list |
+| [Name](name) { get; } | This attribute is the name of the keyframes, used by the ‘animation-name’ property. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AppendRule](appendrule)(string) | The appendRule method appends the passed [`CSSKeyframeRule`](../icsskeyframerule) at the end of the keyframes rule collection. |
-| [DeleteRule](deleterule)(string) | The deleteRule method deletes the [`CSSKeyframeRule`](../icsskeyframerule) with the passed key. If a rule with this key does not exist, the method does nothing |
+| [AppendRule](appendrule)(string) | The appendRule method appends the passed CSSKeyframeRule into the list at the passed key |
+| [DeleteRule](deleterule)(string) | The deleteRule method deletes the CSSKeyframeRule with the passed key. If a rule with this key does not exist, the method does nothing |
 | [FindRule](findrule)(string) | The findRule method returns the rule with a key matching the passed key. If no such rule exists, a null value is returned |
 
 ### See Also

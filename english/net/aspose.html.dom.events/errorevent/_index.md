@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.events/errorevent/
 ---
 ## ErrorEvent class
 
-The ErrorEvent provides contextual information about an errors that occurred during runtime.
+The [`ErrorEvent`](../errorevent) provides contextual information about an errors that occurred during runtime.
 
 ```csharp
 public class ErrorEvent : Event
@@ -19,7 +19,7 @@ public class ErrorEvent : Event
 | Name | Description |
 | --- | --- |
 | [ErrorEvent](errorevent)(Exception) | Initializes a new instance of the [`ErrorEvent`](../errorevent) class. |
-| [ErrorEvent](errorevent)(IDictionary&lt;string, object&gt;) |  |
+| [ErrorEvent](errorevent)(IDictionary&lt;string, object&gt;) | Initializes a new instance of the [`ErrorEvent`](../errorevent) class. |
 
 ## Properties
 

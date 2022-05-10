@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.Saving
 second_title: Aspose.HTML for .NET API Reference
-description: The **Aspose.Html.Saving** namespace is presented by data classes for description of specific save options at conversion/saving process.
+description: TheAspose.Html.Savingnamespaceispresentedbydataclassesfordescriptionofspecificsaveoptionsatconversionsavingprocess.
 type: docs
 weight: 400
 url: /net/aspose.html.saving/
@@ -12,20 +12,20 @@ The **Aspose.Html.Saving** namespace is presented by data classes for descriptio
 
 | Class | Description |
 | --- | --- |
-| class [DocSaveOptions](./docsaveoptions) | Specific options data class. By assigning properties you can manage rendering characteristics such as resolution, page size, background color as well as doc specific options such as font embedding. More info see in documentation [article](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#save-options). |
-| class [HTMLSaveOptions](./htmlsaveoptions) | Represents HTML save options. By assigning specific properties you can manage resource processing such as max handling depth and so on. More info see in documentation [article](https://docs.aspose.com/html/net/working-with-documents/saving-a-document/). |
-| class [ImageSaveOptions](./imagesaveoptions) | Specific options data class. It provides properties to manage image result resolution, smooting quality, format as well as page settings and etc. More info you can obtain in documentation [article](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#save-options). |
-| class [MarkdownSaveOptions](./markdownsaveoptions) | Represents Markdown save options. For example, you can set markdown formatting style, use predefined GitLab Flavored Markdown compatible options and configurate resources handling. Refer to more info in [article](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#save-options). |
-| class [MHTMLSaveOptions](./mhtmlsaveoptions) | Represents MHTML save options. By assigning specific properties you can manage resource processing such as max handling depth and so on. More info see in documentation [article](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#save-options). |
-| class [PdfSaveOptions](./pdfsaveoptions) | Specific data class provides few properties to manage conversion result. For example [`PageSetup`](aspose.html.rendering/pagesetup) specifies page characteristics. Refer to documentation [article](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| class [DocSaveOptions](./docsaveoptions) | Specific options data class. |
+| class [HTMLSaveOptions](./htmlsaveoptions) | Represents HTML save options. |
+| class [ImageSaveOptions](./imagesaveoptions) | Specific options data class. |
+| class [MarkdownSaveOptions](./markdownsaveoptions) | Represents Markdown save options. |
+| class [MHTMLSaveOptions](./mhtmlsaveoptions) | Represents MHTML save options. |
+| class [PdfSaveOptions](./pdfsaveoptions) | Specific options data class. |
 | class [ResourceHandlingOptions](./resourcehandlingoptions) | Represents resource handling options. |
 | abstract class [SaveOptions](./saveoptions) | This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format. |
-| class [XpsSaveOptions](./xpssaveoptions) | Specific options data class provides few properties to manage conversion result. For example [`PageSetup`](aspose.html.rendering/pagesetup) specifies page characteristics. Refer to documentation [article](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#save-options). |
+| class [XpsSaveOptions](./xpssaveoptions) | Specific options data class. |
 ## Enumeration
 
 | Enumeration | Description |
 | --- | --- |
-| enum [HTMLSaveFormat](./htmlsaveformat) | Specifies format in which document is saved. You can find more info about saving [`HTMLDocument`](aspose.html/htmldocument) in [article](https://docs.aspose.com/html/net/working-with-documents/saving-a-document/). |
+| enum [HTMLSaveFormat](./htmlsaveformat) | Specifies format in which document is saved. |
 | enum [MarkdownFeatures](./markdownfeatures) | A [`MarkdownFeatures`](aspose.html.saving/markdownfeatures) flag set is a set of zero or more of the following flags, which are used to select elements converted to markdown. |
 | enum [MarkdownFormatter](./markdownformatter) | Specifies the way output will be formatted. |
 | enum [ResourceHandling](./resourcehandling) | This enum represents resource handling options. |

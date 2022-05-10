@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.Rendering.Image
 second_title: Aspose.HTML for .NET API Reference
-description: The **Aspose.Html.Rendering.Image** namespace provides specific device class as well as few rendering options classes responsible for rendering to raster formats jpeg, png, bmp, gif, tiff.
+description: TheAspose.Html.Rendering.Imagenamespaceprovidesspecificdeviceclassaswellasfewrenderingoptionsclassesresponsibleforrenderingtorasterformatsjpegpngbmpgiftiff.
 type: docs
 weight: 360
 url: /net/aspose.html.rendering.image/

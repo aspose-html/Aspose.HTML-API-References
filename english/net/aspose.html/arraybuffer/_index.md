@@ -32,7 +32,7 @@ public class ArrayBuffer : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [explicit operator](op_explicit) |  |
+| [explicit operator](op_explicit) | Performs an explicit conversion from [`ArrayBuffer`](../arraybuffer) to !:System.Byte[]. |
 
 ### See Also
 

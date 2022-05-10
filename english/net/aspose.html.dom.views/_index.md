@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.Dom.Views
 second_title: Aspose.HTML for .NET API Reference
-description: **Aspose.Html.Dom.Views** namespace describes AbstractView and DocumentView interfaces according Document Object Model Views specification.
+description: Aspose.Html.Dom.ViewsnamespacedescribesAbstractViewandDocumentViewinterfacesaccordingDocumentObjectModelViewsspecification.
 type: docs
 weight: 230
 url: /net/aspose.html.dom.views/

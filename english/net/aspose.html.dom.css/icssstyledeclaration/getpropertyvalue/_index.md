@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icssstyledeclaration/getpropertyvalue/
 ---
 ## ICSSStyleDeclaration.GetPropertyValue method
 
-The CSSStyleDeclaration.getPropertyValue() method interface returns a string containing the value of a specified CSS property.
+Used to retrieve the value of a CSS property if it has been explicitly set within this declaration block.
 
 ```csharp
 public string GetPropertyValue(string propertyName)
@@ -16,11 +16,11 @@ public string GetPropertyValue(string propertyName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| propertyName | String | propertyName is a string representing the property name (hyphen case) to be checked. |
+| propertyName | String | Name of the property. |
 
 ## Return Value
 
-value is a string containing the value of the property. If not set, returns the empty string.
+Returns property value
 
 ### See Also
 

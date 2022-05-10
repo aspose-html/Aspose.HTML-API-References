@@ -23,7 +23,7 @@ public class HTMLOptionElement : HTMLElement
 | [DefaultSelected](defaultselected) { get; set; } | Represents the value of the HTML selected attribute. The value of this attribute does not change if the state of the corresponding form control, in an interactive user agent, changes. See the selected attribute definition in HTML 4.01. @version DOM Level 2 |
 | [Disabled](disabled) { get; set; } | The control is unavailable in this context. See the disabled attribute definition in HTML 4.01. |
 | [Form](form) { get; } | Returns the `FORM` element containing this control. Returns `null` if this control is not within the context of a form. |
-| [Index](index) { get; } | The index of this `OPTION` in its parent `SELECT`, starting from 0. @version DOM Level 2 |
+| [Index](index) { get; } | The index of this `OPTION` in its parent `SELECT` , starting from 0. @version DOM Level 2 |
 | [Label](label) { get; set; } | Option label for use in hierarchical menus. See the label attribute definition in HTML 4.01. |
 | [Selected](selected) { get; set; } | Represents the current state of the corresponding form control, in an interactive user agent. Changing this attribute changes the state of the form control, but does not change the value of the HTML selected attribute of the element. |
 | [Text](text) { get; } | The text contained within the option element. |

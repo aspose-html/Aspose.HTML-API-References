@@ -1,5 +1,5 @@
 ---
-title: SVGListBase<T>
+title: SVGListBaseT
 second_title: Aspose.HTML for .NET API Reference
 description: 
 type: docs

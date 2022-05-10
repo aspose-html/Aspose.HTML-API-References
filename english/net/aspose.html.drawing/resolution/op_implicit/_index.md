@@ -8,9 +8,19 @@ url: /net/aspose.html.drawing/resolution/op_implicit/
 ---
 ## Resolution Implicit operator (1 of 2)
 
+Performs an implicit conversion from Double to [`Resolution`](../../resolution).
+
 ```csharp
 public static implicit operator Resolution(double value)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Double | The value treated as dpi. |
+
+## Return Value
+
+The result of the conversion.
 
 ### See Also
 
@@ -22,9 +32,19 @@ public static implicit operator Resolution(double value)
 
 ## Resolution Implicit operator (2 of 2)
 
+Performs an implicit conversion from Single to [`Resolution`](../../resolution).
+
 ```csharp
 public static implicit operator Resolution(float value)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | Single | The value treated as dpi. |
+
+## Return Value
+
+The result of the conversion.
 
 ### See Also
 

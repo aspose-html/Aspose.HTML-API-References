@@ -22,45 +22,6 @@ public class HTMLDivElement : HTMLElement
 | --- | --- |
 | [Align](align) { get; set; } | Horizontal text alignment. See the align attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01. |
 
-### Examples
-
-```csharp
-using System;
-using System.IO;
-using Aspose.Html;
-using Aspose.Html.Dom.Events;
-using Aspose.Html.Saving;
-...
-using (var document = new HTMLDocument(inputHtmlPath))
-{
-	HTMLDivElement divElement = (HTMLDivElement)document.CreateElement("div");
-	divElement.TextContent = "DIV element content goes here...";
-	divElement.Style.TextAlign = "center";
-	divElement.Style.Color = "magenta";
-	divElement.Id = "original";
-
-	HTMLDivElement clonedDivElement = (HTMLDivElement)divElement.CloneNode(true);
-	document.Body.AppendChild(clonedDivElement);
-	clonedDivElement.Id = "cloned";
-
-	for (int i = 0; i < 3; i++)
-	{
-		var newFormedDivElement = document.CreateElement("div");
-		newFormedDivElement.TextContent = $"Added in loop {i}";
-		clonedDivElement.AppendChild(newFormedDivElement);
-	}
-         
-	document.Body.AppendChild(divElement);
-	var outputFilePath = Path.Combine(outputHtmlPath, "result.html");
-    
-	document.Save(outputFilePath, options);
-}
-```
-
-*inputHtmlPath - user input html file path.
-
-*outputHtmlPath - user output folder path.
-
 ### See Also
 
 * class [HTMLElement](../htmlelement)

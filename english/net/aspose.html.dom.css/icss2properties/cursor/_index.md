@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/cursor/
 ---
 ## ICSS2Properties.Cursor property
 
-This property specifies the type of cursor to be displayed for the pointing device.
+See the cursor property definition in CSS2.
 
 ```csharp
 public string Cursor { get; set; }

@@ -8,15 +8,11 @@ url: /net/aspose.html.dom.css/icssmarginrule/style/
 ---
 ## ICSSMarginRule.Style property
 
-The style attribute must return a [`CSSStyleDeclaration`](../../icssstyledeclaration) object for the margin at-rule.
+The declaration-block of this rule.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
-
-## Property Value
-
-Returns a [`CSSStyleDeclaration`](../../icssstyledeclaration) object for the current margin at-rule.
 
 ### See Also
 

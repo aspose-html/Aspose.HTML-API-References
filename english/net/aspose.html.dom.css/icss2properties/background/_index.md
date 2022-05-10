@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/background/
 ---
 ## ICSS2Properties.Background property
 
-The 'background' property is a shorthand property for setting the individual background properties (i.e., 'background-color', 'background-image', 'background-repeat', 'background-attachment' and 'background-position') at the same place in the style sheet.
+See the background property definition in CSS2.
 
 ```csharp
 public string Background { get; set; }
@@ -17,10 +17,6 @@ public string Background { get; set; }
 ## Return Value
 
 the background property
-
-## Property Value
-
-Gets or sets a shorthand property for setting the individual background properties at the same place in the style sheet.
 
 ### See Also
 

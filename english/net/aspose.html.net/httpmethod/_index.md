@@ -37,9 +37,9 @@ public class HttpMethod : IEquatable<HttpMethod>
 | override [Equals](equals)(object) | Determines whether the specified Object, is equal to this instance. |
 | override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
 | override [ToString](tostring)() | Returns a String that represents this instance. |
-| [operator ==](op_equality) |  |
-| [explicit operator](op_explicit) |  |
-| [operator !=](op_inequality) |  |
+| [operator ==](op_equality) | Implements the equality operator. |
+| [explicit operator](op_explicit) | Performs an explicit conversion from String to [`HttpMethod`](../httpmethod). |
+| [operator !=](op_inequality) | Implements the equality operator. |
 
 ### See Also
 

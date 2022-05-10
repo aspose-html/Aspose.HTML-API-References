@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/marginbottom/
 ---
 ## ICSS2Properties.MarginBottom property
 
-These properties set the top, right, bottom, and left margin of a box.
+See the margin-bottom property definition in CSS2.
 
 ```csharp
 public string MarginBottom { get; set; }

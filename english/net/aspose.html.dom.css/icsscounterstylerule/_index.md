@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icsscounterstylerule/
 ---
 ## ICSSCounterStyleRule interface
 
-The CSSCounterStyleRule interface represents an @counter-style at-rule that allows authors to define a custom counter style.
+The @counter-style rule allows authors to define a custom counter style.
 
 ```csharp
 public interface ICSSCounterStyleRule : ICSSRule
@@ -18,12 +18,12 @@ public interface ICSSCounterStyleRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [CounterType](countertype) { get; } | The counter type property of the [`CSSCounterStyleRule`](../icsscounterstylerule) interface gets the value of the counter type descriptor. |
-| [Fallback](fallback) { get; } | The fallback property of the [`CSSCounterStyleRule`](../icsscounterstylerule) interface gets and sets the value of the fallback descriptor. If the descriptor does not have a value set, this attribute returns an empty string. |
-| [Glyphs](glyphs) { get; } | The glyphs property of the [`CSSCounterStyleRule`](../icsscounterstylerule) interface gets and sets the value of the symbols descriptor. If the descriptor does not have a value set, this attribute returns an empty string. |
-| [Name](name) { get; } | The name property of the [`CSSCounterStyleRule`](../icsscounterstylerule) interface gets and sets the custom-ident defined as the name for the associated rule. |
-| [Prefix](prefix) { get; } | The prefix property of the [`CSSCounterStyleRule`](../icsscounterstylerule) interface gets and sets the value of the prefix descriptor. If the descriptor does not have a value set, this attribute returns an empty string. |
-| [Suffix](suffix) { get; } | The suffix property of the [`CSSCounterStyleRule`](../icsscounterstylerule) interface gets and sets the value of the suffix descriptor. If the descriptor does not have a value set, this attribute returns an empty string. |
+| [CounterType](countertype) { get; } | Gets the type of the counter. |
+| [Fallback](fallback) { get; } | Gets the fallback. |
+| [Glyphs](glyphs) { get; } | Gets the glyphs. |
+| [Name](name) { get; } | Gets the name. |
+| [Prefix](prefix) { get; } | Gets the prefix. |
+| [Suffix](suffix) { get; } | Gets the suffix. |
 
 ### See Also
 

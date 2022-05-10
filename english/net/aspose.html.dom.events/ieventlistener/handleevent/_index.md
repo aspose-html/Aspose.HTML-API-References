@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.events/ieventlistener/handleevent/
 ---
 ## IEventListener.HandleEvent method
 
-This method is called whenever an event occurs of the type for which the interface was registered.
+This method is called whenever an event occurs of the type for which the [`IEventListener`](../../ieventlistener) interface was registered.
 
 ```csharp
 public void HandleEvent(Event @event)
@@ -16,7 +16,7 @@ public void HandleEvent(Event @event)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| event | Event | The contains contextual information about the event. It also contains the and methods which are used in determining the event's flow and default action. |
+| event | Event | The [`Event`](../../event) contains contextual information about the event. It also contains the [`StopPropagation`](../../event/stoppropagation) and [`PreventDefault`](../../event/preventdefault) methods which are used in determining the event's flow and default action. |
 
 ### See Also
 

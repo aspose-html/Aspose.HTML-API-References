@@ -28,9 +28,16 @@ public MouseEvent(string type)
 
 ## MouseEvent constructor (2 of 2)
 
+Initializes a new instance of the [`MouseEvent`](../../mouseevent) class.
+
 ```csharp
 public MouseEvent(string type, IDictionary<string, object> eventInitDict)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | String | The event type. |
+| eventInitDict | IDictionary`2 | The event initialize dictionary. |
 
 ### See Also
 

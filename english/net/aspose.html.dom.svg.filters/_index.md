@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.Dom.Svg.Filters
 second_title: Aspose.HTML for .NET API Reference
-description: The **Aspose.Html.Dom.Svg.Filters** namespace contains classes and interfaces related to filter effects in SVG specification.
+description: TheAspose.Html.Dom.Svg.FiltersnamespacecontainsclassesandinterfacesrelatedtofiltereffectsinSVGspecification.
 type: docs
 weight: 180
 url: /net/aspose.html.dom.svg.filters/

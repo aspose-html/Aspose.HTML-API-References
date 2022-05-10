@@ -8,7 +8,9 @@ url: /net/aspose.html/htmlinputelement/
 ---
 ## HTMLInputElement class
 
-Form control. Depending upon the environment in which the page is being viewed, the value property may be read-only for the file upload input type. For the "password" input type, the actual value returned may be masked to prevent unauthorized use. See the INPUT element definition in [[HTML 4.01](http://www.w3.org/TR/1999/REC-html401-19991224)].See also the [Document object Model (DOM) Level 2 HTML Specification](http://www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109).
+Form control.Depending upon the environment in which the page is being viewed, the value property may be read-only for the file upload input type. For the "password" input type, the actual value returned may be masked to prevent unauthorized use. See the INPUT element definition in [[HTML 4.01](http://www.w3.org/TR/1999/REC-html401-19991224)].
+
+See also the [Document object Model (DOM) Level 2 HTML Specification](http://www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109).
 
 ```csharp
 public class HTMLInputElement : HTMLElement
@@ -29,7 +31,7 @@ public class HTMLInputElement : HTMLElement
 | [Files](files) { get; } | The files IDL attribute allows scripts to access the element’s selected files. On getting, if the IDL attribute applies, it must return a FileList object that represents the current selected files. The same object must be returned until the list of selected files changes. If the IDL attribute does not apply, then it must instead return null. [FILEAPI] |
 | [Form](form) { get; set; } | Returns the `FORM` element containing this control. Returns `null` if this control is not within the context of a form. |
 | [List](list) { get; set; } | The list attribute is used to identify an element that lists predefined options suggested to the user. If present, its value must be the ID of a datalist element in the same document. |
-| [MaxLength](maxlength) { get; set; } | Maximum number of characters for text fields, when `type`has the value "text" or "password". See the maxlength attribute definition in HTML 4.01. |
+| [MaxLength](maxlength) { get; set; } | Maximum number of characters for text fields, when `type` has the value "text" or "password". See the maxlength attribute definition in HTML 4.01. |
 | [Name](name) { get; set; } | Form control or object name when submitted with a form. See the name attribute definition in HTML 4.01. |
 | [ReadOnly](readonly) { get; set; } | This control is read-only. Relevant only when `type` has the value "text" or "password". See the readonly attribute definition in HTML 4.01. |
 | [Size](size) { get; set; } | Size information. The precise meaning is specific to each type of field. See the size attribute definition in HTML 4.01. @version DOM Level 2 |
@@ -38,69 +40,6 @@ public class HTMLInputElement : HTMLElement
 | [Type](type) { get; set; } | The type of control created (all lower case). See the type attribute definition in HTML 4.01. @version DOM Level 2 |
 | [UseMap](usemap) { get; set; } | Use client-side image map. See the usemap attribute definition in HTML 4.01. |
 | [Value](value) { get; set; } | When the `type` attribute of the element has the value "text", "file" or "password", this represents the current contents of the corresponding form control, in an interactive user agent. Changing this attribute changes the contents of the form control, but does not change the value of the HTML value attribute of the element. When the `type` attribute of the element has the value "button", "hidden", "submit", "reset", "image", "checkbox" or "radio", this represents the HTML value attribute of the element. See the value attribute definition in HTML 4.01. |
-
-### Examples
-
-```csharp
-using System;
-using System.IO;
-using Aspose.Html;
-using Aspose.Html.Forms;
-...
-using (var document = new HTMLDocument(inputHtmlPath))
-{
-	HTMLFormElement formElement = (HTMLFormElement) document.CreateElement("form");
-	// Label Element - First name
-	// <label for="fname">First name:</label><br>
-	HTMLLabelElement labelFirstName = (HTMLLabelElement)document.CreateElement("label");
-	labelFirstName.For = "fname";
-	labelFirstName.InnerHTML = "First name:";
-	formElement.AppendChild(labelFirstName);
-	formElement.AppendChild(document.CreateElement("br"));
-
-	// Input Element for First name
-	// <input type="text" id="fname" name="fname"><br>
-	HTMLInputElement inputFirstName = (HTMLInputElement)document.CreateElement("input");
-	inputFirstName.Type = InputElementType.Text.ToString(); // "text";
-	inputFirstName.Id = "fname";
-	inputFirstName.Name = "fname";
-	formElement.AppendChild(inputFirstName);
-	formElement.AppendChild(document.CreateElement("br"));
-
-	// Label Element - Last name
-	// <label for="lname">Last name:</label><br>
-	HTMLLabelElement labelLastName = (HTMLLabelElement)document.CreateElement("label");
-	labelLastName.For = "lname";
-	labelLastName.InnerHTML = "Last name:";
-	formElement.AppendChild(labelLastName);
-	formElement.AppendChild(document.CreateElement("br"));
-
-	// Input Element for Last name
-	// <input type="text" id="lname" name="lname"><br><br>
-	HTMLInputElement inputLastName = (HTMLInputElement)document.CreateElement("input");
-	inputLastName.Type = InputElementType.Text.ToString(); // "text";
-	inputLastName.Id = "lname";
-	inputLastName.Name = "lname";
-	formElement.AppendChild(inputLastName);
-	formElement.AppendChild(document.CreateElement("br"));
-	formElement.AppendChild(document.CreateElement("br"));
-
-	// Input Element - Submit
-	HTMLInputElement inputSubmit = (HTMLInputElement)document.CreateElement("input");
-	inputSubmit.Type = InputElementType.Submit.ToString(); // "submit";
-	inputSubmit.Value = "Submit";
-	formElement.AppendChild(inputSubmit);
-         
-	document.Body.AppendChild(formElement);
-         
-	var outputFilePath = Path.Combine(outputHtmlPath, "result.html");
-	document.Save(outputFilePath);
-}
-```
-
-*inputHtmlPath - user input html file path.
-
-*outputHtmlPath - user output folder path.
 
 ### See Also
 

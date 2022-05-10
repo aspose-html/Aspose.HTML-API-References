@@ -8,7 +8,7 @@ url: /net/aspose.html.datascraping.multimediascraping/multimedia/
 ---
 ## Multimedia class
 
-Provides functionality to collect and download [`VideoInfo`](../videoinfo) from the associated page.**Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+Provides functionality to collect and download [`VideoInfo`](../videoinfo) from the associated page. **Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
 
 ```csharp
 public abstract class Multimedia : IDisposable

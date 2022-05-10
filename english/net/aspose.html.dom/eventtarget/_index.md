@@ -8,9 +8,7 @@ url: /net/aspose.html.dom/eventtarget/
 ---
 ## EventTarget class
 
-The EventTarget interface is implemented by objects that can receive events and may have listeners for them. In other words, any target of events implements the three methods associated with this interface.
-
-[`Element`](../element), and its children, as well as [`Document`](../document) and Window, are the most common event targets, but other objects can be event targets, too.
+The [`EventTarget`](../eventtarget) interface is implemented by all Nodes in an implementation which supports the DOM Event Model. Therefore, this interface can be obtained by using binding-specific casting methods on an instance of the Node interface. The interface allows registration and removal of Event Listeners on an [`EventTarget`](../eventtarget) and dispatch of events to that [`IEventTarget`](../../aspose.html.dom.events/ieventtarget).
 
 ```csharp
 public class EventTarget : DOMObject, IDisposable, IEventTarget
@@ -20,14 +18,14 @@ public class EventTarget : DOMObject, IDisposable, IEventTarget
 
 | Name | Description |
 | --- | --- |
-| [AddEventListener](addeventlistener)(string, IEventListener) | The addEventListener() method of the [`EventTarget `](../eventtarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [AddEventListener](addeventlistener)(string, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:Aspose.Html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [AddEventListener](addeventlistener)(string, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:Aspose.Html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [DispatchEvent](dispatchevent)(Event) | Dispatches an Event at the specified [`EventTarget`](../../aspose.html.dom.events/ieventtarget), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`dispatchEvent()`](../../aspose.html.dom.events/ieventtarget/dispatchevent). |
+| [AddEventListener](addeventlistener)(string, IEventListener) | This method allows the registration of event listeners on the event target. |
+| [AddEventListener](addeventlistener)(string, DOMEventHandler, bool) | This method allows the registration of event listeners on the event target. |
+| [AddEventListener](addeventlistener)(string, IEventListener, bool) | This method allows the registration of event listeners on the event target. |
+| [DispatchEvent](dispatchevent)(Event) | This method allows the dispatch of events into the implementations event model. |
 | [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [RemoveEventListener](removeeventlistener)(string, IEventListener) | This method allows the removal of event listeners from the event target. If an is removed from an while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
-| [RemoveEventListener](removeeventlistener)(string, DOMEventHandler, bool) | This method allows the removal of event listeners from the event target. If an is removed from an while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
-| [RemoveEventListener](removeeventlistener)(string, IEventListener, bool) | This method allows the removal of event listeners from the event target. If an is removed from an while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
+| [RemoveEventListener](removeeventlistener)(string, IEventListener) | This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../aspose.html.dom.events/ieventlistener) is removed from an [`EventTarget`](../eventtarget) while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
+| [RemoveEventListener](removeeventlistener)(string, DOMEventHandler, bool) | This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../aspose.html.dom.events/ieventlistener) is removed from an [`EventTarget`](../eventtarget) while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
+| [RemoveEventListener](removeeventlistener)(string, IEventListener, bool) | This method allows the removal of event listeners from the event target. If an [`IEventListener`](../../aspose.html.dom.events/ieventlistener) is removed from an [`EventTarget`](../eventtarget) while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
 
 ### See Also
 

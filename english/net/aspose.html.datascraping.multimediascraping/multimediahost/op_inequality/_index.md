@@ -8,9 +8,20 @@ url: /net/aspose.html.datascraping.multimediascraping/multimediahost/op_inequali
 ---
 ## MultimediaHost Inequality operator
 
+Implements the equality operator.
+
 ```csharp
 public static bool operator !=(MultimediaHost left, MultimediaHost right)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| left | MultimediaHost | The left operand. |
+| right | MultimediaHost | The left operand. |
+
+## Return Value
+
+The result of the operation.
 
 ### See Also
 

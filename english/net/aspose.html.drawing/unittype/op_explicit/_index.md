@@ -8,9 +8,19 @@ url: /net/aspose.html.drawing/unittype/op_explicit/
 ---
 ## UnitType Explicit operator
 
+Performs an explicit conversion from [`UnitType`](../../unittype) to String.
+
 ```csharp
 public static explicit operator string(UnitType value)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value | UnitType | The value. |
+
+## Return Value
+
+The result of the conversion.
 
 ### See Also
 

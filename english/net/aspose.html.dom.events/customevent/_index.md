@@ -19,7 +19,7 @@ public class CustomEvent : Event
 | Name | Description |
 | --- | --- |
 | [CustomEvent](customevent)(string) | Initializes a new instance of the [`CustomEvent`](../customevent) class. |
-| [CustomEvent](customevent)(string, IDictionary&lt;string, object&gt;) |  |
+| [CustomEvent](customevent)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the [`CustomEvent`](../customevent) class. |
 
 ## Properties
 

@@ -18,7 +18,7 @@ public interface ICSSFontFaceRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [Style](style) { get; } | The read-only style property of the [`CSSFontFaceRule`](../icssfontfacerule) interface returns the style information from the @font-face at-rule. This will be in the form of a [`CSSStyleDeclaration`](../icssstyledeclaration) object. |
+| [Style](style) { get; } | The declaration-block of this rule. |
 
 ### See Also
 

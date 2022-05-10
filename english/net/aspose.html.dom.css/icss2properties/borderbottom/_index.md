@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/borderbottom/
 ---
 ## ICSS2Properties.BorderBottom property
 
-This is a shorthand property for setting the width, style, and color of the top, right, bottom, and left border of a box.
+See the border-bottom property definition in CSS2.
 
 ```csharp
 public string BorderBottom { get; set; }

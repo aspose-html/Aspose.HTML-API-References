@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.Dom.Svg.Saving
 second_title: Aspose.HTML for .NET API Reference
-description: **Aspose.Html.Dom.Svg.Saving** contains secondary role classes to specify saving process. For example, save options and format in which document is saved.
+description: Aspose.Html.Dom.Svg.Savingcontainssecondaryroleclassestospecifysavingprocess.Forexamplesaveoptionsandformatinwhichdocumentissaved.
 type: docs
 weight: 200
 url: /net/aspose.html.dom.svg.saving/

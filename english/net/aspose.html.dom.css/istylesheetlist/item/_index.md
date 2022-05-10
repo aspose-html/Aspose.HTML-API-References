@@ -8,27 +8,23 @@ url: /net/aspose.html.dom.css/istylesheetlist/item/
 ---
 ## IStyleSheetList indexer
 
-The item(index) method must return the indexth [`CSS style sheet`](../../icssstylesheet) in the collection. If there is no indexth object in the collection, then the method must return null.
+Used to retrieve a style sheet by method item(int index) accordind to http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/stylesheets.html.
 
 ```csharp
 public ICSSStyleSheet this[int index] { get; }
 ```
 
+| Parameter | Description |
+| --- | --- |
+| index | The style sheet index |
+
 ## Return Value
 
-A [`CSSStyleSheet`](../../icssstylesheet) object, or null if one does not exist for this index.
+The CSS stylesheet instance.
 
 ## Property Value
 
-An integer which is the index of the item in the collection to be returned.
-
-### Remarks
-
-[CSSOM](https://drafts.csswg.org/cssom/) defines APIs (including generic parsing and serialization rules) for Media Queries, Selectors, and of course CSS itself.
-
-Reference
-
-[CSS Working Group](https://wiki.csswg.org/) - The CSS Working Group is the W3C working group chartered to develop Cascading Style Sheets (CSS).[CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/) - CSSOM defines APIs (including generic parsing and serialization rules) for Media Queries, Selectors, and of course CSS itself.[CSS Object Model (CSSOM) # dom-stylesheetlist-item](https://drafts.csswg.org/cssom/#dom-stylesheetlist-item) – The CSSOM definition.
+The [`ICSSStyleSheet`](../../icssstylesheet).
 
 ### See Also
 

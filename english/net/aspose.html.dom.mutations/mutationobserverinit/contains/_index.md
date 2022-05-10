@@ -8,9 +8,19 @@ url: /net/aspose.html.dom.mutations/mutationobserverinit/contains/
 ---
 ## MutationObserverInit.Contains method
 
+Determines whether the [`MutationObserverInit`](../../mutationobserverinit) contain the specified key/value pair.
+
 ```csharp
 public bool Contains(KeyValuePair<string, object> item)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| item | KeyValuePair`2 | The item to check. |
+
+## Return Value
+
+True if the [`MutationObserverInit`](../../mutationobserverinit) contain the specified key/value pair; otherwise, false.
 
 ### See Also
 

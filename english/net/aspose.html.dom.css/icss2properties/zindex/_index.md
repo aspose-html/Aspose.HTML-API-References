@@ -8,9 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/zindex/
 ---
 ## ICSS2Properties.ZIndex property
 
-For a positioned box, the ['z-index'](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#propdef-z-index) property specifies:
-
-The stack level of the box in the current stacking context.Whether the box establishes a local stacking context.
+See the z-index property definition in CSS2.
 
 ```csharp
 public string ZIndex { get; set; }

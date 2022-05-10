@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/borderwidth/
 ---
 ## ICSS2Properties.BorderWidth property
 
-This property is a shorthand property for setting 'border-top-width', 'border-right-width', 'border-bottom-width', and 'border-left-width' at the same place in the style sheet.
+See the border-width property definition in CSS2.
 
 ```csharp
 public string BorderWidth { get; set; }

@@ -8,15 +8,11 @@ url: /net/aspose.html.dom.css/icsscounterstylerule/glyphs/
 ---
 ## ICSSCounterStyleRule.Glyphs property
 
-The glyphs property of the [`CSSCounterStyleRule`](../../icsscounterstylerule) interface gets and sets the value of the symbols descriptor. If the descriptor does not have a value set, this attribute returns an empty string.
+Gets the glyphs.
 
 ```csharp
 public string Glyphs { get; }
 ```
-
-## Property Value
-
-Gets and sets the value of the glyphs descriptor. If the descriptor does not have a value set, this attribute returns an empty string.
 
 ### See Also
 

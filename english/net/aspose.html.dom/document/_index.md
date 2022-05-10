@@ -51,13 +51,13 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 
 | Name | Description |
 | --- | --- |
-| [CreateAttribute](createattribute)(string) | The Document.createAttribute() method creates a new attribute node, and returns it. The object created a node implementing the [`Attr`](../attr) interface. The DOM does not enforce what sort of attributes can be added to a particular element in this manner. |
-| [CreateAttributeNS](createattributens)(string, string) | The Document.createAttribute() method creates a new attribute node, and returns it. The object created a node implementing the [Attr](T:Aspose.Html.Dom.Attr) interface. The DOM does not enforce what sort of attributes can be added to a particular element in this manner. |
-| [CreateCDATASection](createcdatasection)(string) | Creates a [`CDATASection`](../cdatasection) node whose value is the specified string. |
-| [CreateComment](createcomment)(string) | Creates a [`Comment`](../comment) node given the specified string. |
-| [CreateDocumentFragment](createdocumentfragment)() | Creates a new empty [`DocumentFragment`](../documentfragment) into which DOM nodes can be added to build an offscreen DOM tree. |
-| [CreateDocumentType](createdocumenttype)(string, string, string, string) | The method returns a [`DocumentType`](../documenttype) object which can either be used with DOMImplementation.createDocument upon document creation or can be put into the document via methods like Node.insertBefore() or Node.replaceChild(). |
-| [CreateElement](createelement)(string) | In an HTML document, the document.createElement() method creates the HTML element specified by tagName, or an [`HTMLUnknownElement`](../../aspose.html/htmlunknownelement) if tagName isn't recognized. |
+| [CreateAttribute](createattribute)(string) | Creates an Attr of the given name. |
+| [CreateAttributeNS](createattributens)(string, string) | Creates an attribute of the given qualified name and namespace URI. |
+| [CreateCDATASection](createcdatasection)(string) | Creates a CDATASection node whose value is the specified string. |
+| [CreateComment](createcomment)(string) | Creates a Comment node given the specified string. |
+| [CreateDocumentFragment](createdocumentfragment)() | Creates an empty DocumentFragment object. |
+| [CreateDocumentType](createdocumenttype)(string, string, string, string) | Creates a DocumentType node. |
+| [CreateElement](createelement)(string) | Creates an element of the type specified. Note that the instance returned implements the Element interface, so attributes can be specified directly on the returned object. |
 | [CreateElementNS](createelementns)(string, string) | Creates an element of the given qualified name and namespace URI. |
 | [CreateEntityReference](createentityreference)(string) | Creates an EntityReference object. In addition, if the referenced entity is known, the child list of the EntityReference node is made the same as that of the corresponding Entity node. |
 | [CreateEvent](createevent)(string) | Creates an [`Event`](../../aspose.html.dom.events/event) of a type supported by the implementation. |
@@ -72,10 +72,10 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 | [CreateTreeWalker](createtreewalker)(Node, long) | Create a new TreeWalker over the subtree rooted at the specified node. |
 | [CreateTreeWalker](createtreewalker)(Node, long, INodeFilter) | Create a new TreeWalker over the subtree rooted at the specified node. |
 | [Evaluate](evaluate)(string, Node, IXPathNSResolver, XPathResultType, object) | Evaluates an XPath expression string and returns a result of the specified type if possible. |
-| [GetElementById](getelementbyid)(string) | The Document method getElementById() returns an [`Element`](../element) object representing the element whose id property matches the specified string. Since element IDs are required to be unique if specified, they're a useful way to get access to a specific element quickly. |
-| [GetElementsByClassName](getelementsbyclassname)(string) | The getElementsByClassName method of [`Document`](../document) interface returns an array-like object of all child elements which have all of the given class name(s). |
-| [GetElementsByTagName](getelementsbytagname)(string) | The getElementsByTagName method of [`Document`](../document) interface returns an [`HTMLCollection`](../../aspose.html.collections/htmlcollection) of elements with the given tag name. |
-| [GetElementsByTagNameNS](getelementsbytagnamens)(string, string) | Returns a list of elements with the given tag name belonging to the given namespace. The complete document is searched, including the root node. |
+| [GetElementById](getelementbyid)(string) | Returns the Element that has an ID attribute with the given value. If no such element exists, this returns null. If more than one element has an ID attribute with that value, what is returned is undefined. |
+| [GetElementsByClassName](getelementsbyclassname)(string) | Returns a live NodeList object containing all the elements in the document that have all the classes specified in argument. http://www.w3.org/TR/dom/ |
+| [GetElementsByTagName](getelementsbytagname)(string) | Returns a NodeList of all the Elements in document order with a given tag name and are contained in the document. |
+| [GetElementsByTagNameNS](getelementsbytagnamens)(string, string) | Returns a NodeList of all the Elements with a given local name and namespace URI in document order. |
 | [ImportNode](importnode)(Node, bool) | Imports a node from another document to this document, without altering or removing the source node from the original document; this method creates a new copy of the source node. |
 | [Navigate](navigate)(RequestMessage) | Loads the document based on specified request object, replacing the previous content. |
 | [Navigate](navigate)(string) | Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content. |

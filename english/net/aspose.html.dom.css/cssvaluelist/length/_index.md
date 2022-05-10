@@ -8,15 +8,11 @@ url: /net/aspose.html.dom.css/cssvaluelist/length/
 ---
 ## CSSValueList.Length property
 
-The length read-only property of the CSSValueList interface represents the number of CSSValues in the list. The range of valid values of the indices is 0 to length-1 inclusive.
+The number of CSSValues in the list.
 
 ```csharp
 public int Length { get; }
 ```
-
-## Property Value
-
-An unsigned long representing the number of CSSValues in the current instance.
 
 ### See Also
 

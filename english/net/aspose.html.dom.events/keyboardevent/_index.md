@@ -19,7 +19,7 @@ public class KeyboardEvent : UIEvent
 | Name | Description |
 | --- | --- |
 | [KeyboardEvent](keyboardevent)(string) | Initializes a new instance of the [`KeyboardEvent`](../keyboardevent) class. |
-| [KeyboardEvent](keyboardevent)(string, IDictionary&lt;string, object&gt;) |  |
+| [KeyboardEvent](keyboardevent)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the [`KeyboardEvent`](../keyboardevent) class. |
 
 ## Properties
 

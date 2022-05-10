@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/quotes/
 ---
 ## ICSS2Properties.Quotes property
 
-This property specifies quotation marks for any number of embedded quotations.
+See the quotes property definition in CSS2.
 
 ```csharp
 public string Quotes { get; set; }

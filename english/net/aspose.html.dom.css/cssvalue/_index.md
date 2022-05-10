@@ -18,7 +18,7 @@ public abstract class CSSValue : DOMObject
 
 | Name | Description |
 | --- | --- |
-| abstract [CSSText](csstext) { get; set; } | The cssText property of the [`CSSValue`](../cssvalue) interface represents the current computed CSS property value. |
+| abstract [CSSText](csstext) { get; set; } | A string representation of the current value. |
 | [CSSValueType](cssvaluetype) { get; } | A code defining the type of the value. |
 
 ## Methods
@@ -29,8 +29,8 @@ public abstract class CSSValue : DOMObject
 | override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
 | override [GetPlatformType](getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
 | override [ToString](tostring)() | Returns a String that represents this instance. |
-| [operator ==](op_equality) |  |
-| [operator !=](op_inequality) |  |
+| [operator ==](op_equality) | Implements the operator ==. |
+| [operator !=](op_inequality) | Implements the operator !=. |
 
 ## Other Members
 

@@ -8,7 +8,7 @@ url: /net/aspose.html.dom/document/createattribute/
 ---
 ## Document.CreateAttribute method
 
-The Document.createAttribute() method creates a new attribute node, and returns it. The object created a node implementing the [`Attr`](../../attr) interface. The DOM does not enforce what sort of attributes can be added to a particular element in this manner.
+Creates an Attr of the given name.
 
 ```csharp
 public Attr CreateAttribute(string localName)
@@ -16,20 +16,11 @@ public Attr CreateAttribute(string localName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| localName | String | name is a string containing the name of the attribute. |
+| localName | String | The attribute name. |
 
 ## Return Value
 
-A [`Attr`](../../attr) node.
-
-### Examples
-
-```csharp
-var element = document.GetElementById("div");
-var attr = document.CreateAttribute("my_attr");
-attr.Value = "my_value";
-element.SetAttributeNode(attr);
-```
+The [`Attr`](../../attr).
 
 ### See Also
 

@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/
 ---
 ## ICSS2Properties interface
 
-The CSS2Properties interface represents a convenience mechanism for retrieving and setting properties within a [`CSSStyleDeclaration`](../icssstyledeclaration). The attributes of this interface correspond to all the properties specified in CSS2. Getting an attribute of this interface is equivalent to calling the getPropertyValue method of the [`CSSStyleDeclaration`](../icssstyledeclaration) interface. Setting an attribute of this interface is equivalent to calling the setProperty method of the [`CSSStyleDeclaration`](../icssstyledeclaration) interface.
+Provides interface for CSS2 properties set values manipulation in the context of certain HTML element
 
 ```csharp
 public interface ICSS2Properties
@@ -18,128 +18,128 @@ public interface ICSS2Properties
 
 | Name | Description |
 | --- | --- |
-| [Azimuth](azimuth) { get; set; } | Spatial audio is an important stylistic property for aural presentation. It provides a natural way to tell several voices apart, as in real life (people rarely all stand in the same spot in a room). |
-| [Background](background) { get; set; } | The 'background' property is a shorthand property for setting the individual background properties (i.e., 'background-color', 'background-image', 'background-repeat', 'background-attachment' and 'background-position') at the same place in the style sheet. |
-| [BackgroundAttachment](backgroundattachment) { get; set; } | If a background image is specified, this property specifies whether it is fixed with regard to the viewport ('fixed') or scrolls along with the document ('scroll'). |
-| [BackgroundColor](backgroundcolor) { get; set; } | This property sets the background color of an element, either a value or the keyword 'transparent', to make the underlying colors shine through. |
-| [BackgroundImage](backgroundimage) { get; set; } | This property sets the background image of an element. When setting a background image, authors should also specify a background color that will be used when the image is unavailable. When the image is available, it is rendered on top of the background color. (Thus, the color is visible in the transparent parts of the image). |
-| [BackgroundPosition](backgroundposition) { get; set; } | If a background image has been specified, this property specifies its initial position. Values have the following meanings: |
-| [BackgroundRepeat](backgroundrepeat) { get; set; } | If a background image is specified, this property specifies whether the image is repeated (tiled), and how. All tiling covers the content and padding areas of a box. Values have the following meanings: |
-| [Border](border) { get; set; } | The 'border' property is a shorthand property for setting the same width, color, and style for all four borders of a box. Unlike the shorthand 'margin' and 'padding' properties, the 'border' property cannot set different values on the four borders. To do so, one or more of the other border properties must be used. |
-| [BorderBottom](borderbottom) { get; set; } | This is a shorthand property for setting the width, style, and color of the top, right, bottom, and left border of a box. |
-| [BorderBottomColor](borderbottomcolor) { get; set; } | The border color properties specify the color of a box's border. |
-| [BorderBottomStyle](borderbottomstyle) { get; set; } | The 'border-style' property sets the style of the four borders. It can have from one to four values, and the values are set on the different sides as for 'border-width' above. |
-| [BorderBottomWidth](borderbottomwidth) { get; set; } | This property is a shorthand property for setting 'border-top-width', 'border-right-width', 'border-bottom-width', and 'border-left-width' at the same place in the style sheet. |
-| [BorderCollapse](bordercollapse) { get; set; } | This property selects a table's border model. The value 'separate' selects the separated borders border model. The value 'collapse' selects the collapsing borders model. The models are described below. |
-| [BorderColor](bordercolor) { get; set; } | The 'border-color' property sets the color of the four borders. Values have the following meanings: |
-| [BorderLeft](borderleft) { get; set; } | This is a shorthand property for setting the width, style, and color of the top, right, bottom, and left border of a box. |
-| [BorderLeftColor](borderleftcolor) { get; set; } | The 'border-color' property sets the color of the four borders. Values have the following meanings: |
-| [BorderLeftStyle](borderleftstyle) { get; set; } | The 'border-style' property sets the style of the four borders. It can have from one to four values, and the values are set on the different sides as for 'border-width' above. |
-| [BorderLeftWidth](borderleftwidth) { get; set; } | This property is a shorthand property for setting 'border-top-width', 'border-right-width', 'border-bottom-width', and 'border-left-width' at the same place in the style sheet. |
-| [BorderRight](borderright) { get; set; } | This is a shorthand property for setting the width, style, and color of the top, right, bottom, and left border of a box. |
-| [BorderRightColor](borderrightcolor) { get; set; } | The 'border-color' property sets the color of the four borders. Values have the following meanings: |
-| [BorderRightStyle](borderrightstyle) { get; set; } | The 'border-style' property sets the style of the four borders. It can have from one to four values, and the values are set on the different sides as for 'border-width' above. |
-| [BorderRightWidth](borderrightwidth) { get; set; } | This property is a shorthand property for setting 'border-top-width', 'border-right-width', 'border-bottom-width', and 'border-left-width' at the same place in the style sheet. |
-| [BorderSpacing](borderspacing) { get; set; } | The lengths specify the distance that separates adjacent cell borders. If one length is specified, it gives both the horizontal and vertical spacing. If two are specified, the first gives the horizontal spacing and the second the vertical spacing. Lengths may not be negative. |
-| [BorderStyle](borderstyle) { get; set; } | The 'border-style' property sets the style of the four borders. It can have from one to four values, and the values are set on the different sides as for 'border-width' above. |
-| [BorderTop](bordertop) { get; set; } | This is a shorthand property for setting the width, style, and color of the top, right, bottom, and left border of a box. |
-| [BorderTopColor](bordertopcolor) { get; set; } | The 'border-color' property sets the color of the four borders. Values have the following meanings: |
-| [BorderTopStyle](bordertopstyle) { get; set; } | The 'border-style' property sets the style of the four borders. It can have from one to four values, and the values are set on the different sides as for 'border-width' above. |
-| [BorderTopWidth](bordertopwidth) { get; set; } | This property is a shorthand property for setting 'border-top-width', 'border-right-width', 'border-bottom-width', and 'border-left-width' at the same place in the style sheet. |
-| [BorderWidth](borderwidth) { get; set; } | This property is a shorthand property for setting 'border-top-width', 'border-right-width', 'border-bottom-width', and 'border-left-width' at the same place in the style sheet. |
-| [Bottom](bottom) { get; set; } | This property specifies how far a box's bottom content edge is offset above the bottom of the box's containing block. |
-| [CaptionSide](captionside) { get; set; } | This property specifies the position of the caption box with respect to the table box. Values have the following meanings: |
-| [Clear](clear) { get; set; } | This property indicates which sides of an element's box(es) may not be adjacent to an earlier floating box. (It may be that the element itself has floating descendants; the 'clear' property has no effect on those.) |
-| [Clip](clip) { get; set; } | The 'clip' property applies to elements that have a 'overflow' property with a value other than 'visible'. |
-| [Color](color) { get; set; } | This property describes the foreground color of an element's text content. |
-| [Content](content) { get; set; } | This property is used with the :before and :after pseudo-elements to generate content in a document. |
-| [CounterIncrement](counterincrement) { get; set; } | The ['counter-increment'](https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html#propdef-counter-increment) property accepts one or more names of counters (identifiers), each one optionally followed by an integer. The integer indicates by how much the counter is incremented for every occurrence of the element. The default increment is 1. Zero and negative integers are allowed. |
-| [CounterReset](counterreset) { get; set; } | The ['counter-reset'](https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html#propdef-counter-reset) property also contains a list of one or more names of counters, each one optionally followed by an integer. The integer gives the value that the counter is set to on each occurrence of the element. The default is 0. |
-| [Cue](cue) { get; set; } | The ['cue'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-cue) property is a shorthand for setting ['cue-before'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-cue-before) and ['cue-after'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-cue-after). If two values are given, the first value is ['cue-before'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-cue-before) and the second is ['cue-after'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-cue-after). If only one value is given, it applies to both properties. |
-| [CueAfter](cueafter) { get; set; } | Auditory icons are another way to distinguish semantic elements. Sounds may be played before and/or after the element to delimit it. |
-| [CueBefore](cuebefore) { get; set; } | Auditory icons are another way to distinguish semantic elements. Sounds may be played before and/or after the element to delimit it. |
-| [Cursor](cursor) { get; set; } | This property specifies the type of cursor to be displayed for the pointing device. |
-| [Direction](direction) { get; set; } | This property specifies the base writing direction of blocks and the direction of embeddings and overrides (see ['unicode-bidi'](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#propdef-unicode-bidi)) for the Unicode bidirectional algorithm. In addition, it specifies the direction of [table](https://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html) column layout, the direction of horizontal [overflow](https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html#overflow), and the position of an incomplete last line in a block in case of 'text-align: justify'. |
-| [Display](display) { get; set; } | The values of this property have the following meanings: |
-| [Elevation](elevation) { get; set; } | Values of this property have the following meanings: |
-| [EmptyCells](emptycells) { get; set; } | In the separated borders model, this property controls the rendering of borders around cells that have no visible content. Empty cells and cells with the 'visibility' property set to 'hidden' are considered to have no visible content. |
+| [Azimuth](azimuth) { get; set; } | See the azimuth property definition in CSS2. |
+| [Background](background) { get; set; } | See the background property definition in CSS2. |
+| [BackgroundAttachment](backgroundattachment) { get; set; } | See the background-attachment property definition in CSS2. |
+| [BackgroundColor](backgroundcolor) { get; set; } | See the background-color property definition in CSS2. |
+| [BackgroundImage](backgroundimage) { get; set; } | See the background-image property definition in CSS2. |
+| [BackgroundPosition](backgroundposition) { get; set; } | See the background-position property definition in CSS2. |
+| [BackgroundRepeat](backgroundrepeat) { get; set; } | See the background-repeat property definition in CSS2. |
+| [Border](border) { get; set; } | See the border property definition in CSS2. |
+| [BorderBottom](borderbottom) { get; set; } | See the border-bottom property definition in CSS2. |
+| [BorderBottomColor](borderbottomcolor) { get; set; } | See the border-bottom-color property definition in CSS2. |
+| [BorderBottomStyle](borderbottomstyle) { get; set; } | See the border-bottom-style property definition in CSS2. |
+| [BorderBottomWidth](borderbottomwidth) { get; set; } | See the border-bottom-width property definition in CSS2. |
+| [BorderCollapse](bordercollapse) { get; set; } | See the border-collapse property definition in CSS2. |
+| [BorderColor](bordercolor) { get; set; } | See the border-color property definition in CSS2. |
+| [BorderLeft](borderleft) { get; set; } | See the border-left property definition in CSS2. |
+| [BorderLeftColor](borderleftcolor) { get; set; } | See the border-left-color property definition in CSS2. |
+| [BorderLeftStyle](borderleftstyle) { get; set; } | See the border-left-style property definition in CSS2. |
+| [BorderLeftWidth](borderleftwidth) { get; set; } | See the border-left-width property definition in CSS2. |
+| [BorderRight](borderright) { get; set; } | See the border-right property definition in CSS2. |
+| [BorderRightColor](borderrightcolor) { get; set; } | See the border-right-color property definition in CSS2. |
+| [BorderRightStyle](borderrightstyle) { get; set; } | See the border-right-style property definition in CSS2. |
+| [BorderRightWidth](borderrightwidth) { get; set; } | See the border-right-width property definition in CSS2. |
+| [BorderSpacing](borderspacing) { get; set; } | See the border-spacing property definition in CSS2. |
+| [BorderStyle](borderstyle) { get; set; } | See the border-style property definition in CSS2. |
+| [BorderTop](bordertop) { get; set; } | See the border-top property definition in CSS2. |
+| [BorderTopColor](bordertopcolor) { get; set; } | See the border-top-color property definition in CSS2. |
+| [BorderTopStyle](bordertopstyle) { get; set; } | See the border-top-style property definition in CSS2. |
+| [BorderTopWidth](bordertopwidth) { get; set; } | See the border-top-width property definition in CSS2. |
+| [BorderWidth](borderwidth) { get; set; } | See the border-width property definition in CSS2. |
+| [Bottom](bottom) { get; set; } | See the bottom property definition in CSS2. |
+| [CaptionSide](captionside) { get; set; } | See the caption-side property definition in CSS2. |
+| [Clear](clear) { get; set; } | See the clear property definition in CSS2. |
+| [Clip](clip) { get; set; } | See the clip property definition in CSS2. |
+| [Color](color) { get; set; } | See the color property definition in CSS2. |
+| [Content](content) { get; set; } | See the content property definition in CSS2. |
+| [CounterIncrement](counterincrement) { get; set; } | See the counter-increment property definition in CSS2. |
+| [CounterReset](counterreset) { get; set; } | See the counter-reset property definition in CSS2. |
+| [Cue](cue) { get; set; } | See the cue property definition in CSS2. |
+| [CueAfter](cueafter) { get; set; } | See the cue-after property definition in CSS2. |
+| [CueBefore](cuebefore) { get; set; } | See the cue-before property definition in CSS2. |
+| [Cursor](cursor) { get; set; } | See the cursor property definition in CSS2. |
+| [Direction](direction) { get; set; } | See the direction property definition in CSS2. |
+| [Display](display) { get; set; } | See the display property definition in CSS2. |
+| [Elevation](elevation) { get; set; } | See the elevation property definition in CSS2. |
+| [EmptyCells](emptycells) { get; set; } | See the empty-cells property definition in CSS2. |
 | [Float](float) { get; set; } | See the float property definition in CSS2. |
-| [Font](font) { get; set; } | The 'font' property is, except as described below, a shorthand property for setting 'font-style', 'font-variant', 'font-weight', 'font-size', 'line-height', and 'font-family', at the same place in the style sheet. The syntax of this property is based on a traditional typographical shorthand notation to set multiple properties related to fonts. |
-| [FontFamily](fontfamily) { get; set; } | This property specifies a prioritized list of font family names and/or generic family names. To deal with the problem that a single font may not contain glyphs to display all the characters in a document, or that not all fonts are available on all systems, this property allows authors to specify a list of fonts, all of the same style and size, that are tried in sequence to see if they contain a glyph for a certain character. This list is called a font set. |
-| [FontSize](fontsize) { get; set; } | This property describes the size of the font when set solid. |
-| [FontSizeAdjust](fontsizeadjust) { get; set; } | In bicameral scripts, the subjective apparent size and legibility of a font are less dependent on their 'font-size' value than on the value of their 'x-height', or, more usefully, on the ratio of these two values, called the aspect value (font size divided by x-height). The higher the aspect value, the more likely it is that a font at smaller sizes will be legible. Inversely, faces with a lower aspect value will become illegible more rapidly below a given threshold size than faces with a higher aspect value. Straightforward font substitution that relies on font size alone may lead to illegible characters. |
-| [FontStretch](fontstretch) { get; set; } | The ['font-stretch'](https://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html#propdef-font-stretch) property selects a normal, condensed, or extended face from a font family. Absolute keyword values have the following ordering, from narrowest to widest : |
-| [FontStyle](fontstyle) { get; set; } | The 'font-style' property requests normal (sometimes referred to as "roman" or "upright"), italic, and oblique faces within a font family. |
-| [FontVariant](fontvariant) { get; set; } | In a small-caps font, the glyphs for lowercase letters look similar to the uppercase ones, but in a smaller size and with slightly different proportions. The 'font-variant' property requests such a font for bicameral (having two cases, as with Latin script). This property has no visible effect for scripts that are unicameral (having only one case, as with most of the world's writing systems). |
-| [FontWeight](fontweight) { get; set; } | The 'font-weight' property specifies the weight of the font. Values have the following meanings: |
-| [Height](height) { get; set; } | This property specifies the [content height](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#content-height) of boxes generated by block-level and [replaced](https://www.w3.org/TR/1998/REC-CSS2-19980512/conform.html#replaced-element) elements. |
-| [Left](left) { get; set; } | This property specifies how far a box's left content edge is offset to the right of the left edge of the box's [containing block](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#containing-block). |
-| [LetterSpacing](letterspacing) { get; set; } | This property specifies spacing behavior between text characters. Values have the following meanings: |
-| [LineHeight](lineheight) { get; set; } | If the property is set on a [block-level](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#block-level) element whose content is composed of [inline-level](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#inline-level) elements, it specifies the minimal height of each generated inline box. |
-| [ListStyle](liststyle) { get; set; } | The ['list-style'](https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html#propdef-list-style) property is a shorthand notation for setting the three properties ['list-style-type'](https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html#propdef-list-style-type), ['list-style-image'](https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html#propdef-list-style-image), and ['list-style-position'](https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html#propdef-list-style-position) at the same place in the style sheet. |
-| [ListStyleImage](liststyleimage) { get; set; } | This property sets the image that will be used as the list item marker. When the image is available, it will replace the marker set with the ['list-style-type'](https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html#propdef-list-style-type) marker. |
-| [ListStylePosition](liststyleposition) { get; set; } | This property specifies the position of the marker box in the principal block box. Values have the following meanings: |
-| [ListStyleType](liststyletype) { get; set; } | This property specifies appearance of the list item marker if ['list-style-image'](https://www.w3.org/TR/1998/REC-CSS2-19980512/generate.html#propdef-list-style-image) has the value 'none' or if the image pointed to by the URI cannot be displayed. The value 'none' specifies no marker, otherwise there are three types of marker: glyphs, numbering systems, and alphabetic systems. Note. Numbered lists improve document accessibility by making lists easier to navigate. |
-| [Margin](margin) { get; set; } | The ['margin'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-margin) property is a shorthand property for setting ['margin-top'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-margin-top), ['margin-right'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-margin-right), ['margin-bottom'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-margin-bottom), and ['margin-left'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-margin-left) at the same place in the style sheet. |
-| [MarginBottom](marginbottom) { get; set; } | These properties set the top, right, bottom, and left margin of a box. |
-| [MarginLeft](marginleft) { get; set; } | These properties set the top, right, bottom, and left margin of a box. |
-| [MarginRight](marginright) { get; set; } | These properties set the top, right, bottom, and left margin of a box. |
-| [MarginTop](margintop) { get; set; } | These properties set the top, right, bottom, and left margin of a box. |
-| [MarkerOffset](markeroffset) { get; set; } | This property specifies the distance between the nearest [border edges](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#border-edge) of a marker box and its associated [principal box](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#principal-box). The offset may either be a user-specified ([length](https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html#value-def-length)) or chosen by the UA ('auto'). Lengths may be negative, but there may be implementation-specific limits. |
-| [Marks](marks) { get; set; } | In high-quality printing, marks are often added outside the page box. This property specifies whether cross marks or crop marks or both should be rendered just outside the [page box](https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html#page-box) edge. |
-| [MaxHeight](maxheight) { get; set; } | These two properties allow authors to constrain box heights to a certain range. Values have the following meanings: |
-| [MaxWidth](maxwidth) { get; set; } | These two properties allow authors to constrain box widths to a certain range. Values have the following meanings: |
-| [MinHeight](minheight) { get; set; } | These two properties allow authors to constrain box heights to a certain range. Values have the following meanings: |
-| [MinWidth](minwidth) { get; set; } | These two properties allow authors to constrain box widths to a certain range. Values have the following meanings: |
-| [Orphans](orphans) { get; set; } | The ['orphans'](https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html#propdef-orphans) property specifies the minimum number of lines of a paragraph that must be left at the bottom of a page. The ['widows'](https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html#propdef-widows) property specifies the minimum number of lines of a paragraph that must be left at the top of a page. Examples of how they are used to control page breaks are given below. |
-| [Outline](outline) { get; set; } | The outline created with the outline properties is drawn "over" a box, i.e., the outline is always on top, and doesn't influence the position or size of the box, or of any other boxes. Therefore, displaying or suppressing outlines does not cause reflow. |
-| [OutlineColor](outlinecolor) { get; set; } | The outline created with the outline properties is drawn "over" a box, i.e., the outline is always on top, and doesn't influence the position or size of the box, or of any other boxes. Therefore, displaying or suppressing outlines does not cause reflow. |
-| [OutlineStyle](outlinestyle) { get; set; } | The outline created with the outline properties is drawn "over" a box, i.e., the outline is always on top, and doesn't influence the position or size of the box, or of any other boxes. Therefore, displaying or suppressing outlines does not cause reflow. |
-| [OutlineWidth](outlinewidth) { get; set; } | The outline created with the outline properties is drawn "over" a box, i.e., the outline is always on top, and doesn't influence the position or size of the box, or of any other boxes. Therefore, displaying or suppressing outlines does not cause reflow. |
-| [Overflow](overflow) { get; set; } | This property specifies whether the content of a block-level element is clipped when it overflows the element's box (which is acting as a containing block for the content). Values have the following meanings: |
-| [Padding](padding) { get; set; } | The ['padding'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-padding) property is a shorthand property for setting ['padding-top'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-padding-top), ['padding-right'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-padding-right), ['padding-bottom'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-padding-bottom), and ['padding-left'](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#propdef-padding-left) at the same place in the style sheet. |
-| [PaddingBottom](paddingbottom) { get; set; } | These properties set the top, right, bottom, and left padding of a box. |
-| [PaddingLeft](paddingleft) { get; set; } | These properties set the top, right, bottom, and left padding of a box. |
-| [PaddingRight](paddingright) { get; set; } | These properties set the top, right, bottom, and left padding of a box. |
-| [PaddingTop](paddingtop) { get; set; } | These properties set the top, right, bottom, and left padding of a box. |
-| [Page](page) { get; set; } | The ['page'](https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html#propdef-page) property can be used to specify a particular type of page where an element should be displayed. |
-| [PageBreakAfter](pagebreakafter) { get; set; } | Values for these properties have the following meanings: |
-| [PageBreakBefore](pagebreakbefore) { get; set; } | Values for these properties have the following meanings: |
-| [PageBreakInside](pagebreakinside) { get; set; } | Values for these properties have the following meanings: |
-| [Pause](pause) { get; set; } | The ['pause'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-pause) property is a shorthand for setting ['pause-before'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-pause-before) and ['pause-after'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-pause-after). If two values are given, the first value is ['pause-before'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-pause-before) and the second is ['pause-after'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-pause-after). If only one value is given, it applies to both properties. |
-| [PauseAfter](pauseafter) { get; set; } | These properties specify a pause to be observed before (or after) speaking an element's content. Values have the following meanings: |
-| [PauseBefore](pausebefore) { get; set; } | These properties specify a pause to be observed before (or after) speaking an element's content. Values have the following meanings: |
-| [Pitch](pitch) { get; set; } | Specifies the average pitch (a frequency) of the speaking voice. The average pitch of a voice depends on the voice family. For example, the average pitch for a standard male voice is around 120Hz, but for a female voice, it's around 210Hz. |
-| [PitchRange](pitchrange) { get; set; } | Specifies variation in average pitch. The perceived pitch of a human voice is determined by the fundamental frequency and typically has a value of 120Hz for a male voice and 210Hz for a female voice. Human languages are spoken with varying inflection and pitch; these variations convey additional meaning and emphasis. Thus, a highly animated voice, i.e., one that is heavily inflected, displays a high pitch range. This property specifies the range over which these variations occur, i.e., how much the fundamental frequency may deviate from the average pitch. |
-| [PlayDuring](playduring) { get; set; } | Similar to the ['cue-before'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-cue-before) and ['cue-after'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-cue-after) properties, this property specifies a sound to be played as a background while an element's content is spoken. |
-| [Position](position) { get; set; } | The values of this property have the following meanings: |
-| [Quotes](quotes) { get; set; } | This property specifies quotation marks for any number of embedded quotations. |
-| [Richness](richness) { get; set; } | Specifies the richness, or brightness, of the speaking voice. A rich voice will "carry" in a large room, a smooth voice will not. (The term "smooth" refers to how the wave form looks when drawn.) |
-| [Right](right) { get; set; } | This property specifies how far a box's right content edge is offset to the left of the right edge of the box's [containing block](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#containing-block). |
-| [Size](size) { get; set; } | This property specifies the size and orientation of a page box. |
-| [Speak](speak) { get; set; } | This property specifies whether text will be rendered aurally and if so, in what manner (somewhat analogous to the ['display'](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#propdef-display) property). The possible values are: |
-| [SpeakHeader](speakheader) { get; set; } | This property specifies whether table headers are spoken before every cell, or only before a cell when that cell is associated with a different header than the previous cell. Values have the following meanings: |
-| [SpeakNumeral](speaknumeral) { get; set; } | This property controls how numerals are spoken. Values have the following meanings: |
-| [SpeakPunctuation](speakpunctuation) { get; set; } | This property specifies how punctuation is spoken. Values have the following meanings: |
-| [SpeechRate](speechrate) { get; set; } | This property specifies the speaking rate. Note that both absolute and relative keyword values are allowed (compare with ['font-size'](https://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html#propdef-font-size)). Values have the following meanings: |
-| [Stress](stress) { get; set; } | Specifies the height of "local peaks" in the intonation contour of a voice. For example, English is a stressed language, and different parts of a sentence are assigned primary, secondary, or tertiary stress. The value of ['stress'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-stress) controls the amount of inflection that results from these stress markers. This property is a companion to the ['pitch-range'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-pitch-range) property and is provided to allow developers to exploit higher-end auditory displays. |
-| [TableLayout](tablelayout) { get; set; } | The ['table-layout'](https://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html#propdef-table-layout) property controls the algorithm used to lay out the table cells, rows, and columns. Values have the following meaning: |
-| [TextAlign](textalign) { get; set; } | This property describes how inline content of a block is aligned. Values have the following meanings: |
-| [TextDecoration](textdecoration) { get; set; } | This property describes decorations that are added to the text of an element. If the property is specified for a [block-level](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#block-level) element, it affects all inline-level descendants of the element. If it is specified for (or affects) an [inline-level](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#inline-level) element, it affects all boxes generated by the element. If the element has no content or no text content (e.g., the IMG element in HTML), user agents must [ignore](https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html#ignore) this property. |
-| [TextIndent](textindent) { get; set; } | This property specifies the indentation of the first line of text in a block. More precisely, it specifies the indentation of the first box that flows into the block's first [line box](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#line-box). The box is indented with respect to the left (or right, for right-to-left layout) edge of the line box. User agents should render this indentation as blank space. |
-| [TextShadow](textshadow) { get; set; } | This property accepts a comma-separated list of shadow effects to be applied to the text of the element. The shadow effects are applied in the order specified and may thus overlay each other, but they will never overlay the text itself. Shadow effects do not alter the size of a box, but may extend beyond its boundaries. The [stack level](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#stack-level) of the shadow effects is the same as for the element itself. |
-| [TextTransform](texttransform) { get; set; } | This property controls capitalization effects of an element's text. Values have the following meanings: |
-| [Top](top) { get; set; } | This property specifies how far a box's top content edge is offset below the top edge of the box's [containing block](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#containing-block). |
-| [UnicodeBidi](unicodebidi) { get; set; } | Values for this property have the following meanings: |
-| [VerticalAlign](verticalalign) { get; set; } | This property affects the vertical positioning inside a line box of the boxes generated by an inline-level element. The following values only have meaning with respect to a parent inline-level element, or to a parent block-level element, if that element generates [anonymous inline boxes](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#anonymous); they have no effect if no such parent exists. |
-| [Visibility](visibility) { get; set; } | The ['visibility'](https://www.w3.org/TR/1998/REC-CSS2-19980512/visufx.html#propdef-visibility) property specifies whether the boxes generated by an element are rendered. Invisible boxes still affect layout (set the ['display'](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#propdef-display) property to 'none' to suppress box generation altogether). Values have the following meanings: |
-| [VoiceFamily](voicefamily) { get; set; } | The value is a comma-separated, prioritized list of voice family names (compare with ['font-family'](https://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html#propdef-font-family)). Values have the following meanings: |
-| [Volume](volume) { get; set; } | Volume refers to the median volume of the waveform. In other words, a highly inflected voice at a volume of 50 might peak well above that. The overall values are likely to be human adjustable for comfort, for example with a physical volume control (which would increase both the 0 and 100 values proportionately); what this property does is adjust the dynamic range. |
-| [WhiteSpace](whitespace) { get; set; } | This property declares how [whitespace](https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html#whitespace) inside the element is handled. Values have the following meanings: |
-| [Widows](widows) { get; set; } | The ['orphans'](https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html#propdef-orphans) property specifies the minimum number of lines of a paragraph that must be left at the bottom of a page. The ['widows'](https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html#propdef-widows) property specifies the minimum number of lines of a paragraph that must be left at the top of a page. Examples of how they are used to control page breaks are given below. |
-| [Width](width) { get; set; } | This property specifies the [content width](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#content-width) of boxes generated by block-level and [replaced](https://www.w3.org/TR/1998/REC-CSS2-19980512/conform.html#replaced-element) elements. |
-| [WordSpacing](wordspacing) { get; set; } | This property specifies spacing behavior between words. Values have the following meanings: |
-| [ZIndex](zindex) { get; set; } | For a positioned box, the ['z-index'](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#propdef-z-index) property specifies: |
+| [Font](font) { get; set; } | See the font property definition in CSS2. |
+| [FontFamily](fontfamily) { get; set; } | See the font-family property definition in CSS2. |
+| [FontSize](fontsize) { get; set; } | See the font-size property definition in CSS2. |
+| [FontSizeAdjust](fontsizeadjust) { get; set; } | See the font-size-adjust property definition in CSS2. |
+| [FontStretch](fontstretch) { get; set; } | See the font-stretch property definition in CSS2. |
+| [FontStyle](fontstyle) { get; set; } | See the font-style property definition in CSS2. |
+| [FontVariant](fontvariant) { get; set; } | See the font-variant property definition in CSS2. |
+| [FontWeight](fontweight) { get; set; } | See the font-weight property definition in CSS2. |
+| [Height](height) { get; set; } | See the height property definition in CSS2. |
+| [Left](left) { get; set; } | See the left property definition in CSS2. |
+| [LetterSpacing](letterspacing) { get; set; } | See the letter-spacing property definition in CSS2. |
+| [LineHeight](lineheight) { get; set; } | See the line-height property definition in CSS2. |
+| [ListStyle](liststyle) { get; set; } | See the list-style property definition in CSS2. |
+| [ListStyleImage](liststyleimage) { get; set; } | See the list-style-image property definition in CSS2. |
+| [ListStylePosition](liststyleposition) { get; set; } | See the list-style-position property definition in CSS2. |
+| [ListStyleType](liststyletype) { get; set; } | See the list-style-type property definition in CSS2. |
+| [Margin](margin) { get; set; } | See the margin property definition in CSS2. |
+| [MarginBottom](marginbottom) { get; set; } | See the margin-bottom property definition in CSS2. |
+| [MarginLeft](marginleft) { get; set; } | See the margin-left property definition in CSS2. |
+| [MarginRight](marginright) { get; set; } | See the margin-right property definition in CSS2. |
+| [MarginTop](margintop) { get; set; } | See the margin-top property definition in CSS2. |
+| [MarkerOffset](markeroffset) { get; set; } | See the marker-offset property definition in CSS2. |
+| [Marks](marks) { get; set; } | See the marks property definition in CSS2. |
+| [MaxHeight](maxheight) { get; set; } | See the max-height property definition in CSS2. |
+| [MaxWidth](maxwidth) { get; set; } | See the max-width property definition in CSS2. |
+| [MinHeight](minheight) { get; set; } | See the min-height property definition in CSS2. |
+| [MinWidth](minwidth) { get; set; } | See the min-width property definition in CSS2. |
+| [Orphans](orphans) { get; set; } | See the orphans property definition in CSS2. |
+| [Outline](outline) { get; set; } | See the outline property definition in CSS2. |
+| [OutlineColor](outlinecolor) { get; set; } | See the outline-color property definition in CSS2. |
+| [OutlineStyle](outlinestyle) { get; set; } | See the outline-style property definition in CSS2. |
+| [OutlineWidth](outlinewidth) { get; set; } | See the outline-width property definition in CSS2. |
+| [Overflow](overflow) { get; set; } | See the overflow property definition in CSS2. |
+| [Padding](padding) { get; set; } | See the padding property definition in CSS2. |
+| [PaddingBottom](paddingbottom) { get; set; } | See the padding-bottom property definition in CSS2. |
+| [PaddingLeft](paddingleft) { get; set; } | See the padding-left property definition in CSS2. |
+| [PaddingRight](paddingright) { get; set; } | See the padding-right property definition in CSS2. |
+| [PaddingTop](paddingtop) { get; set; } | See the padding-top property definition in CSS2. |
+| [Page](page) { get; set; } | See the page property definition in CSS2. |
+| [PageBreakAfter](pagebreakafter) { get; set; } | See the page-break-after property definition in CSS2. |
+| [PageBreakBefore](pagebreakbefore) { get; set; } | See the page-break-before property definition in CSS2. |
+| [PageBreakInside](pagebreakinside) { get; set; } | See the page-break-inside property definition in CSS2. |
+| [Pause](pause) { get; set; } | See the pause property definition in CSS2. |
+| [PauseAfter](pauseafter) { get; set; } | See the pause-after property definition in CSS2. |
+| [PauseBefore](pausebefore) { get; set; } | See the pause-before property definition in CSS2. |
+| [Pitch](pitch) { get; set; } | See the pitch property definition in CSS2. |
+| [PitchRange](pitchrange) { get; set; } | See the pitch-range property definition in CSS2. |
+| [PlayDuring](playduring) { get; set; } | See the play-during property definition in CSS2. |
+| [Position](position) { get; set; } | See the position property definition in CSS2. |
+| [Quotes](quotes) { get; set; } | See the quotes property definition in CSS2. |
+| [Richness](richness) { get; set; } | See the richness property definition in CSS2. |
+| [Right](right) { get; set; } | See the right property definition in CSS2. |
+| [Size](size) { get; set; } | See the size property definition in CSS2. |
+| [Speak](speak) { get; set; } | See the speak property definition in CSS2. |
+| [SpeakHeader](speakheader) { get; set; } | See the speak-header property definition in CSS2. |
+| [SpeakNumeral](speaknumeral) { get; set; } | See the speak-numeral property definition in CSS2. |
+| [SpeakPunctuation](speakpunctuation) { get; set; } | See the speak-punctuation property definition in CSS2. |
+| [SpeechRate](speechrate) { get; set; } | See the speech-rate property definition in CSS2. |
+| [Stress](stress) { get; set; } | See the stress property definition in CSS2. |
+| [TableLayout](tablelayout) { get; set; } | See the table-layout property definition in CSS2. |
+| [TextAlign](textalign) { get; set; } | See the text-align property definition in CSS2. |
+| [TextDecoration](textdecoration) { get; set; } | See the text-decoration property definition in CSS2. |
+| [TextIndent](textindent) { get; set; } | See the text-indent property definition in CSS2. |
+| [TextShadow](textshadow) { get; set; } | See the text-shadow property definition in CSS2. |
+| [TextTransform](texttransform) { get; set; } | See the text-transform property definition in CSS2. |
+| [Top](top) { get; set; } | See the top property definition in CSS2. |
+| [UnicodeBidi](unicodebidi) { get; set; } | See the unicode-bidi property definition in CSS2. |
+| [VerticalAlign](verticalalign) { get; set; } | See the vertical-align property definition in CSS2. |
+| [Visibility](visibility) { get; set; } | See the visibility property definition in CSS2. |
+| [VoiceFamily](voicefamily) { get; set; } | See the voice-family property definition in CSS2. |
+| [Volume](volume) { get; set; } | See the volume property definition in CSS2. |
+| [WhiteSpace](whitespace) { get; set; } | See the white-space property definition in CSS2. |
+| [Widows](widows) { get; set; } | See the widows property definition in CSS2. |
+| [Width](width) { get; set; } | See the width property definition in CSS2. |
+| [WordSpacing](wordspacing) { get; set; } | See the word-spacing property definition in CSS2. |
+| [ZIndex](zindex) { get; set; } | See the z-index property definition in CSS2. |
 
 ### See Also
 

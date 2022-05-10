@@ -8,7 +8,7 @@ url: /net/aspose.html.dom/node/lookupnamespaceuri/
 ---
 ## Node.LookupNamespaceURI method
 
-The lookupNamespaceURI() method of the Node interface takes a prefix as parameter and returns the namespace URI associated with it on the given node if found (and null if not).
+Look up the namespace URI associated to the given prefix, starting from this node.
 
 ```csharp
 public string LookupNamespaceURI(string prefix)
@@ -16,11 +16,11 @@ public string LookupNamespaceURI(string prefix)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | String | The prefix to look for. |
+| prefix | String | The prefix. |
 
 ## Return Value
 
-A String containing the namespace URI corresponding to the prefix. If the prefix is not found, it returns null. If the requested prefix is null, it returns the default namespace URI.
+Returns namespace URI
 
 ### See Also
 

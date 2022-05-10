@@ -8,15 +8,11 @@ url: /net/aspose.html.dom.css/icssrulelist/length/
 ---
 ## ICSSRuleList.Length property
 
-The length property of the [`CSSRuleList`](../../icssrulelist) interface returns the number of [`CSSRule`](../../icssrule) objects in the list.
+The number of CSSRules in the list. The range of valid child rule indices is 0 to length-1 inclusive.
 
 ```csharp
 public int Length { get; }
 ```
-
-## Property Value
-
-An integer representing the number of CSS rules into this collection.
 
 ### See Also
 

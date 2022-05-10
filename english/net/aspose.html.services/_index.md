@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.Services
 second_title: Aspose.HTML for .NET API Reference
-description: The **Aspose.Html.Services** namespace contains interfaces as protocols for service implementations.
+description: TheAspose.Html.Servicesnamespacecontainsinterfacesasprotocolsforserviceimplementations.
 type: docs
 weight: 410
 url: /net/aspose.html.services/

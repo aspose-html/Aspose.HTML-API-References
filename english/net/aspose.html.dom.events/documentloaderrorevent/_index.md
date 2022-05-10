@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.events/documentloaderrorevent/
 ---
 ## DocumentLoadErrorEvent class
 
-The DocumentLoadErrorEvent occurres when the requested resource is not available.
+The [`DocumentLoadErrorEvent`](../documentloaderrorevent) occurres when the requested resource is not available.
 
 ```csharp
 public class DocumentLoadErrorEvent : ErrorEvent

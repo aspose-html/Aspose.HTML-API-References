@@ -8,7 +8,7 @@ url: /net/aspose.html.dom/document/createdocumentfragment/
 ---
 ## Document.CreateDocumentFragment method
 
-Creates a new empty [`DocumentFragment`](../../documentfragment) into which DOM nodes can be added to build an offscreen DOM tree.
+Creates an empty DocumentFragment object.
 
 ```csharp
 public DocumentFragment CreateDocumentFragment()
@@ -17,12 +17,6 @@ public DocumentFragment CreateDocumentFragment()
 ## Return Value
 
 The [`DocumentFragment`](../../documentfragment).
-
-### Examples
-
-```csharp
-var fragment = document.CreateDocumentFragment();
-```
 
 ### See Also
 

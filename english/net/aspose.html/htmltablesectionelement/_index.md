@@ -8,7 +8,7 @@ url: /net/aspose.html/htmltablesectionelement/
 ---
 ## HTMLTableSectionElement class
 
-The `THEAD`, `TFOOT`, and `TBODY`elements.
+The `THEAD`, `TFOOT`, and `TBODY` elements.
 
 See also the [Document object Model (DOM) Level 2 HTML Specification](http://www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109).
 
@@ -20,11 +20,11 @@ public class HTMLTableSectionElement : HTMLElement
 
 | Name | Description |
 | --- | --- |
-| [Align](align) { get; set; } | Horizontal alignment of data in cells. See the `align`attribute for HTMLTheadElement for details. |
+| [Align](align) { get; set; } | Horizontal alignment of data in cells. See the `align` attribute for HTMLTheadElement for details. |
 | [Ch](ch) { get; set; } | Alignment character for cells in a column. See the char attribute definition in HTML 4.01. |
 | [ChOff](choff) { get; set; } | Offset of alignment character. See the charoff attribute definition in HTML 4.01. |
 | [Rows](rows) { get; } | The collection of rows in this table section. |
-| [VAlign](valign) { get; set; } | Vertical alignment of data in cells. See the `valign`attribute for HTMLTheadElement for details. |
+| [VAlign](valign) { get; set; } | Vertical alignment of data in cells. See the `valign` attribute for HTMLTheadElement for details. |
 
 ## Methods
 
