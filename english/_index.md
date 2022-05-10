@@ -28,7 +28,7 @@ These are links to some useful resources:
 ![Aspose.HTML for Java Product Logo](home_2.png)
 
 
-Aspose.HTML for Java is an advanced HTML manipulation API built to perform a wide range of HTML manipulation tasks directly within the Java applications. The API also provides a high fidelity rendering engine for fixed-layout formats such as PDF & {{%XPS%}}, and a number of raster image formats.
+Aspose.HTML for Java is an advanced HTML manipulation API built to perform a wide range of HTML manipulation tasks directly within the Java applications. The API also provides a high fidelity rendering engine for fixed-layout formats such as PDF & XPS, and a number of raster image formats.
 
 {{% /alert %}} 
 
