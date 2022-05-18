@@ -27,24 +27,24 @@ public class FormSubmitter : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Action](action) { get; set; } | Server-side form handler. See the action attribute definition in HTML 4.01. |
-| [Method](method) { get; set; } | HTTP method [[IETF RFC 2616](http://www.ietf.org/rfc/rfc2616.txt)] used to submit form. See the method attribute definition in HTML 4.01. |
+| [Action](../../aspose.html.forms/formsubmitter/action) { get; set; } | Server-side form handler. See the action attribute definition in HTML 4.01. |
+| [Method](../../aspose.html.forms/formsubmitter/method) { get; set; } | HTTP method [[IETF RFC 2616](http://www.ietf.org/rfc/rfc2616.txt)] used to submit form. See the method attribute definition in HTML 4.01. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Releases unmanaged and - optionally - managed resources. |
-| [Submit](submit)() | Submits the form data to the server. |
-| [Submit](submit)(CookieContainer) | Submits the form data to the server with specified cookies. |
-| [Submit](submit)(ICredentials) | Submits the form data to the server with specified user credentials. |
-| [Submit](submit)(TimeSpan) | Submits the form data to the server with specified timeout. |
-| [Submit](submit)(ICredentials, CookieContainer) | Submits the form data to the server with specified user credentials and cookies. |
-| [Submit](submit)(ICredentials, TimeSpan) | Submits the form data to the server with specified user credentials and timeout. |
-| [Submit](submit)(TimeSpan, CookieContainer) | Submits the form data to the server with specified timeout and cookies. |
-| [Submit](submit)(ICredentials, TimeSpan, bool) | Submits the form data to the server with specified user credentials. |
-| [Submit](submit)(ICredentials, TimeSpan, CookieContainer) | Submits the form data to the server with specified user credentials, timeout and cookies. |
-| [Submit](submit)(ICredentials, TimeSpan, bool, CookieContainer) | Submits the form data to the server with specified user credentials and cookies. |
+| [Dispose](../../aspose.html.forms/formsubmitter/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| [Submit](../../aspose.html.forms/formsubmitter/submit)() | Submits the form data to the server. |
+| [Submit](../../aspose.html.forms/formsubmitter/submit)(CookieContainer) | Submits the form data to the server with specified cookies. |
+| [Submit](../../aspose.html.forms/formsubmitter/submit)(ICredentials) | Submits the form data to the server with specified user credentials. |
+| [Submit](../../aspose.html.forms/formsubmitter/submit)(TimeSpan) | Submits the form data to the server with specified timeout. |
+| [Submit](../../aspose.html.forms/formsubmitter/submit)(ICredentials, CookieContainer) | Submits the form data to the server with specified user credentials and cookies. |
+| [Submit](../../aspose.html.forms/formsubmitter/submit)(ICredentials, TimeSpan) | Submits the form data to the server with specified user credentials and timeout. |
+| [Submit](../../aspose.html.forms/formsubmitter/submit)(TimeSpan, CookieContainer) | Submits the form data to the server with specified timeout and cookies. |
+| [Submit](../../aspose.html.forms/formsubmitter/submit)(ICredentials, TimeSpan, bool) | Submits the form data to the server with specified user credentials. |
+| [Submit](../../aspose.html.forms/formsubmitter/submit)(ICredentials, TimeSpan, CookieContainer) | Submits the form data to the server with specified user credentials, timeout and cookies. |
+| [Submit](../../aspose.html.forms/formsubmitter/submit)(ICredentials, TimeSpan, bool, CookieContainer) | Submits the form data to the server with specified user credentials and cookies. |
 
 ### See Also
 

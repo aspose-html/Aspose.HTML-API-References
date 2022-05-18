@@ -18,7 +18,7 @@ public interface IElementCSSInlineStyle
 
 | Name | Description |
 | --- | --- |
-| [Style](style) { get; } | Represents Represents a style attribute that allows author to directly apply style information to specific element. |
+| [Style](../../aspose.html.dom.css/ielementcssinlinestyle/style) { get; } | Represents Represents a style attribute that allows author to directly apply style information to specific element. |
 
 ### See Also
 

@@ -28,10 +28,10 @@ public class Margin
 
 | Name | Description |
 | --- | --- |
-| [Bottom](bottom) { get; set; } | Gets or sets the bottom. |
-| [Left](left) { get; set; } | Gets or sets the left. |
-| [Right](right) { get; set; } | Gets or sets the right. |
-| [Top](top) { get; set; } | Gets or sets the top. |
+| [Bottom](../../aspose.html.drawing/margin/bottom) { get; set; } | Gets or sets the bottom. |
+| [Left](../../aspose.html.drawing/margin/left) { get; set; } | Gets or sets the left. |
+| [Right](../../aspose.html.drawing/margin/right) { get; set; } | Gets or sets the right. |
+| [Top](../../aspose.html.drawing/margin/top) { get; set; } | Gets or sets the top. |
 
 ### See Also
 

@@ -18,16 +18,16 @@ public class SubmissionResult : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Content](content) { get; } | Gets the content of the response message. |
-| [IsSuccess](issuccess) { get; } | Gets a value indicating whether this result is success. |
-| [ResponseMessage](responsemessage) { get; } | Gets the message represented the result of the submitting data to the server. |
+| [Content](../../aspose.html.forms/submissionresult/content) { get; } | Gets the content of the response message. |
+| [IsSuccess](../../aspose.html.forms/submissionresult/issuccess) { get; } | Gets a value indicating whether this result is success. |
+| [ResponseMessage](../../aspose.html.forms/submissionresult/responsemessage) { get; } | Gets the message represented the result of the submitting data to the server. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Releases unmanaged and managed resources. |
-| [LoadDocument](loaddocument)() | This method loads the new document based on response message. |
+| [Dispose](../../aspose.html.forms/submissionresult/dispose)() | Releases unmanaged and managed resources. |
+| [LoadDocument](../../aspose.html.forms/submissionresult/loaddocument)() | This method loads the new document based on response message. |
 
 ### See Also
 

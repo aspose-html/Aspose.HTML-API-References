@@ -18,14 +18,14 @@ public class NameValueHeaderValue
 
 | Name | Description |
 | --- | --- |
-| [Name](name) { get; } | Gets the parameter name. |
-| [Value](value) { get; set; } | Gets or sets the parameter value. |
+| [Name](../../aspose.html.net.headers/namevalueheadervalue/name) { get; } | Gets the parameter name. |
+| [Value](../../aspose.html.net.headers/namevalueheadervalue/value) { get; set; } | Gets or sets the parameter value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| override [ToString](../../aspose.html.net.headers/namevalueheadervalue/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

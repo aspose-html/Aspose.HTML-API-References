@@ -24,18 +24,18 @@ public class ResponseMessage : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Content](content) { get; set; } | Gets or sets the response content. |
-| [Cookies](cookies) { get; set; } | Gets or sets the cookie collection. |
-| [Headers](headers) { get; } | Gets the headers. |
-| [IsSuccess](issuccess) { get; } | Gets a value indicating whether this message is success. |
-| [Request](request) { get; set; } | Gets or sets the associated request. |
-| [StatusCode](statuscode) { get; set; } | Gets or sets the status code. |
+| [Content](../../aspose.html.net/responsemessage/content) { get; set; } | Gets or sets the response content. |
+| [Cookies](../../aspose.html.net/responsemessage/cookies) { get; set; } | Gets or sets the cookie collection. |
+| [Headers](../../aspose.html.net/responsemessage/headers) { get; } | Gets the headers. |
+| [IsSuccess](../../aspose.html.net/responsemessage/issuccess) { get; } | Gets a value indicating whether this message is success. |
+| [Request](../../aspose.html.net/responsemessage/request) { get; set; } | Gets or sets the associated request. |
+| [StatusCode](../../aspose.html.net/responsemessage/statuscode) { get; set; } | Gets or sets the status code. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [Dispose](../../aspose.html.net/responsemessage/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 
 ### See Also
 

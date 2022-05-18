@@ -14,6 +14,17 @@ Represents Zoom specific video information. **Note:** We do not support download
 public class ZoomVideoInfo : VideoInfo
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Description](../../aspose.html.datascraping.multimediascraping/multimediainfo/description) { get; set; } | Multimedia description. |
+| [Duration](../../aspose.html.datascraping.multimediascraping/multimediainfo/duration) { get; set; } | Multimedia duration in second. |
+| [Formats](../../aspose.html.datascraping.multimediascraping/videoinfo/formats) { get; } | Collection of the available video formats. |
+| [MultimediaHost](../../aspose.html.datascraping.multimediascraping/multimediainfo/multimediahost) { get; } | Host from which this info was obtained. |
+| [Thumbnails](../../aspose.html.datascraping.multimediascraping/multimediainfo/thumbnails) { get; } | Collection of thumbnails URLs. |
+| [Title](../../aspose.html.datascraping.multimediascraping/multimediainfo/title) { get; set; } | Multimedia title. |
+
 ### See Also
 
 * class [VideoInfo](../../aspose.html.datascraping.multimediascraping/videoinfo)

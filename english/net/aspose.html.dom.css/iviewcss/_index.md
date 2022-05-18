@@ -18,8 +18,8 @@ public interface IViewCSS : IAbstractView
 
 | Name | Description |
 | --- | --- |
-| [GetComputedStyle](getcomputedstyle)(Element) | This method is used to get the computed style as it is defined in CSS2. |
-| [GetComputedStyle](getcomputedstyle)(Element, string) | This method is used to get the computed style as it is defined in CSS2. |
+| [GetComputedStyle](../../aspose.html.dom.css/iviewcss/getcomputedstyle)(Element) | This method is used to get the computed style as it is defined in CSS2. |
+| [GetComputedStyle](../../aspose.html.dom.css/iviewcss/getcomputedstyle)(Element, string) | This method is used to get the computed style as it is defined in CSS2. |
 
 ### See Also
 

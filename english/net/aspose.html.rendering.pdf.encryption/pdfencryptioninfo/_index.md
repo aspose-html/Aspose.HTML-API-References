@@ -24,10 +24,10 @@ public class PdfEncryptionInfo
 
 | Name | Description |
 | --- | --- |
-| [EncryptionAlgorithm](encryptionalgorithm) { get; set; } | Gets or sets the encryption mode. |
-| [OwnerPassword](ownerpassword) { get; set; } | Gets or sets the Owner password. |
-| [Permissions](permissions) { get; set; } | Gets or sets the permissions. |
-| [UserPassword](userpassword) { get; set; } | Gets or sets the User password. |
+| [EncryptionAlgorithm](../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm) { get; set; } | Gets or sets the encryption mode. |
+| [OwnerPassword](../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo/ownerpassword) { get; set; } | Gets or sets the Owner password. |
+| [Permissions](../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo/permissions) { get; set; } | Gets or sets the permissions. |
+| [UserPassword](../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo/userpassword) { get; set; } | Gets or sets the User password. |
 
 ### See Also
 

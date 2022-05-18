@@ -18,8 +18,8 @@ public interface ICSSPageRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [SelectorText](selectortext) { get; set; } | The parsable textual representation of the page selector for the rule. |
-| [Style](style) { get; } | The declaration-block of this rule. |
+| [SelectorText](../../aspose.html.dom.css/icsspagerule/selectortext) { get; set; } | The parsable textual representation of the page selector for the rule. |
+| [Style](../../aspose.html.dom.css/icsspagerule/style) { get; } | The declaration-block of this rule. |
 
 ### See Also
 

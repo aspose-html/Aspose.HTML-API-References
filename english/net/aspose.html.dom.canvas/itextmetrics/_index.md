@@ -18,7 +18,7 @@ public interface ITextMetrics
 
 | Name | Description |
 | --- | --- |
-| [Width](width) { get; } | Is a double giving the calculated width of a segment of inline text in CSS pixels. |
+| [Width](../../aspose.html.dom.canvas/itextmetrics/width) { get; } | Is a double giving the calculated width of a segment of inline text in CSS pixels. |
 
 ### See Also
 

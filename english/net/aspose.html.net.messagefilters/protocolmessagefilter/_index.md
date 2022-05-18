@@ -24,7 +24,7 @@ public class ProtocolMessageFilter : MessageFilter
 
 | Name | Description |
 | --- | --- |
-| override [Match](match)(INetworkOperationContext) | When overridden in a derived class, tests whether a Context satisfies the filter criteria. |
+| override [Match](../../aspose.html.net.messagefilters/protocolmessagefilter/match)(INetworkOperationContext) | When overridden in a derived class, tests whether a Context satisfies the filter criteria. |
 
 ### See Also
 

@@ -18,7 +18,7 @@ public interface ICanvasGradient
 
 | Name | Description |
 | --- | --- |
-| [AddColorStop](addcolorstop)(double, string) | Adds a new stop, defined by an offset and a color, to the gradient. |
+| [AddColorStop](../../aspose.html.dom.canvas/icanvasgradient/addcolorstop)(double, string) | Adds a new stop, defined by an offset and a color, to the gradient. |
 
 ### See Also
 

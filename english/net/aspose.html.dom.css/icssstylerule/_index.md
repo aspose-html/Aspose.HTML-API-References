@@ -18,8 +18,8 @@ public interface ICSSStyleRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [SelectorText](selectortext) { get; } | The textual representation of the selector for the rule set. The implementation may have stripped out insignificant whitespace while parsing the selector. |
-| [Style](style) { get; } | The declaration-block of this rule set. |
+| [SelectorText](../../aspose.html.dom.css/icssstylerule/selectortext) { get; } | The textual representation of the selector for the rule set. The implementation may have stripped out insignificant whitespace while parsing the selector. |
+| [Style](../../aspose.html.dom.css/icssstylerule/style) { get; } | The declaration-block of this rule set. |
 
 ### See Also
 

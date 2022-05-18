@@ -24,7 +24,8 @@ public class SVGSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [VectorizeText](vectorizetext) { get; set; } | Gets or sets whether text elements are replaced with paths. |
+| [ResourceHandlingOptions](../../aspose.html.saving/saveoptions/resourcehandlingoptions) { get; } | Gets a [`ResourceHandlingOptions`](../../aspose.html.saving/resourcehandlingoptions) object which is used for configuration of resources handling. |
+| [VectorizeText](../../aspose.html.dom.svg.saving/svgsaveoptions/vectorizetext) { get; set; } | Gets or sets whether text elements are replaced with paths. |
 
 ### See Also
 

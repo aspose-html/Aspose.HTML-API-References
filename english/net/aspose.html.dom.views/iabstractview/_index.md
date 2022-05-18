@@ -18,7 +18,7 @@ public interface IAbstractView
 
 | Name | Description |
 | --- | --- |
-| [Document](document) { get; } | The source DocumentView of which this is an AbstractView. |
+| [Document](../../aspose.html.dom.views/iabstractview/document) { get; } | The source DocumentView of which this is an AbstractView. |
 
 ### See Also
 

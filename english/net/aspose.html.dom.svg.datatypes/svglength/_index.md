@@ -18,18 +18,20 @@ public class SVGLength : SVGValueType
 
 | Name | Description |
 | --- | --- |
-| [UnitType](unittype) { get; } | The type of the value as specified by one of the SVG_LENGTHTYPE_* constants defined on this interface. |
-| [Value](value) { get; set; } | The value as a floating point value, in user units. Setting this attribute will cause valueInSpecifiedUnits and valueAsString to be updated automatically to reflect this setting. |
-| [ValueAsString](valueasstring) { get; set; } | The value as a string value, in the units expressed by unitType. Setting this attribute will cause value, valueInSpecifiedUnits and unitType to be updated automatically to reflect this setting. |
-| [ValueInSpecifiedUnits](valueinspecifiedunits) { get; set; } | The value as a floating point value, in the units expressed by unitType. Setting this attribute will cause value and valueAsString to be updated automatically to reflect this setting. |
+| [UnitType](../../aspose.html.dom.svg.datatypes/svglength/unittype) { get; } | The type of the value as specified by one of the SVG_LENGTHTYPE_* constants defined on this interface. |
+| [Value](../../aspose.html.dom.svg.datatypes/svglength/value) { get; set; } | The value as a floating point value, in user units. Setting this attribute will cause valueInSpecifiedUnits and valueAsString to be updated automatically to reflect this setting. |
+| [ValueAsString](../../aspose.html.dom.svg.datatypes/svglength/valueasstring) { get; set; } | The value as a string value, in the units expressed by unitType. Setting this attribute will cause value, valueInSpecifiedUnits and unitType to be updated automatically to reflect this setting. |
+| [ValueInSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svglength/valueinspecifiedunits) { get; set; } | The value as a floating point value, in the units expressed by unitType. Setting this attribute will cause value and valueAsString to be updated automatically to reflect this setting. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ConvertToSpecifiedUnits](converttospecifiedunits)(ushort) | Preserve the same underlying stored value, but reset the stored unit identifier to the given unitType. Object attributes unitType, valueInSpecifiedUnits and valueAsString might be modified as a result of this method. For example, if the original value were "0.5cm" and the method was invoked to convert to millimeters, then the unitType would be changed to SVG_LENGTHTYPE_MM, valueInSpecifiedUnits would be changed to the numeric value 5 and valueAsString would be changed to "5mm". |
-| [NewValueSpecifiedUnits](newvaluespecifiedunits)(ushort, float) | Reset the value as a number with an associated unitType, thereby replacing the values for all of the attributes on the object. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| [ConvertToSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svglength/converttospecifiedunits)(ushort) | Preserve the same underlying stored value, but reset the stored unit identifier to the given unitType. Object attributes unitType, valueInSpecifiedUnits and valueAsString might be modified as a result of this method. For example, if the original value were "0.5cm" and the method was invoked to convert to millimeters, then the unitType would be changed to SVG_LENGTHTYPE_MM, valueInSpecifiedUnits would be changed to the numeric value 5 and valueAsString would be changed to "5mm". |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [NewValueSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svglength/newvaluespecifiedunits)(ushort, float) | Reset the value as a number with an associated unitType, thereby replacing the values for all of the attributes on the object. |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svglength/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

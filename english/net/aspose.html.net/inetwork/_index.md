@@ -18,7 +18,7 @@ public interface INetwork : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Send](send)(RequestMessage) | Sends a [`RequestMessage`](../requestmessage) message. |
+| [Send](../../aspose.html.net/inetwork/send)(RequestMessage) | Sends a [`RequestMessage`](../requestmessage) message. |
 
 ### See Also
 

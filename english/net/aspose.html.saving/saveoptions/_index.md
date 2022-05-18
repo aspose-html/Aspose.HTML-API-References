@@ -18,7 +18,7 @@ public abstract class SaveOptions
 
 | Name | Description |
 | --- | --- |
-| [ResourceHandlingOptions](resourcehandlingoptions) { get; } | Gets a [`ResourceHandlingOptions`](../resourcehandlingoptions) object which is used for configuration of resources handling. |
+| [ResourceHandlingOptions](../../aspose.html.saving/saveoptions/resourcehandlingoptions) { get; } | Gets a [`ResourceHandlingOptions`](../resourcehandlingoptions) object which is used for configuration of resources handling. |
 
 ### See Also
 

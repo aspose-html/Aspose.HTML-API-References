@@ -18,8 +18,8 @@ public abstract class NodeFilter : DOMObject, INodeFilter
 
 | Name | Description |
 | --- | --- |
-| abstract [AcceptNode](acceptnode)(Node) | Test whether a specified node is visible in the logical view of a TreeWalker or NodeIterator. This function will be called by the implementation of TreeWalker and NodeIterator; it is not normally called directly from user code. (Though you could do so if you wanted to use the same filter to guide your own application logic.) |
-| override [GetPlatformType](getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| abstract [AcceptNode](../../aspose.html.dom.traversal.filters/nodefilter/acceptnode)(Node) | Test whether a specified node is visible in the logical view of a TreeWalker or NodeIterator. This function will be called by the implementation of TreeWalker and NodeIterator; it is not normally called directly from user code. (Though you could do so if you wanted to use the same filter to guide your own application logic.) |
+| override [GetPlatformType](../../aspose.html.dom.traversal.filters/nodefilter/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
 
 ## Other Members
 

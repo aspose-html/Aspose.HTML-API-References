@@ -18,18 +18,20 @@ public class SVGAngle : SVGValueType
 
 | Name | Description |
 | --- | --- |
-| [UnitType](unittype) { get; } | The type of the value as specified by one of the SVG_ANGLETYPE_* constants defined on this interface. |
-| [Value](value) { get; set; } | The angle value as a floating point value, in degrees. Setting this attribute will cause valueInSpecifiedUnits and valueAsString to be updated automatically to reflect this setting. |
-| [ValueAsString](valueasstring) { get; set; } | The angle value as a string value, in the units expressed by unitType. Setting this attribute will cause value, valueInSpecifiedUnits and unitType to be updated automatically to reflect this setting. |
-| [ValueInSpecifiedUnits](valueinspecifiedunits) { get; set; } | The angle value as a floating point value, in the units expressed by unitType. Setting this attribute will cause value and valueAsString to be updated automatically to reflect this setting. |
+| [UnitType](../../aspose.html.dom.svg.datatypes/svgangle/unittype) { get; } | The type of the value as specified by one of the SVG_ANGLETYPE_* constants defined on this interface. |
+| [Value](../../aspose.html.dom.svg.datatypes/svgangle/value) { get; set; } | The angle value as a floating point value, in degrees. Setting this attribute will cause valueInSpecifiedUnits and valueAsString to be updated automatically to reflect this setting. |
+| [ValueAsString](../../aspose.html.dom.svg.datatypes/svgangle/valueasstring) { get; set; } | The angle value as a string value, in the units expressed by unitType. Setting this attribute will cause value, valueInSpecifiedUnits and unitType to be updated automatically to reflect this setting. |
+| [ValueInSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svgangle/valueinspecifiedunits) { get; set; } | The angle value as a floating point value, in the units expressed by unitType. Setting this attribute will cause value and valueAsString to be updated automatically to reflect this setting. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ConvertToSpecifiedUnits](converttospecifiedunits)(ushort) | Preserve the same underlying stored value, but reset the stored unit identifier to the given unitType. Object attributes unitType, valueInSpecifiedUnits and valueAsString might be modified as a result of this method. |
-| [NewValueSpecifiedUnits](newvaluespecifiedunits)(ushort, float) | Reset the value as a number with an associated unitType, thereby replacing the values for all of the attributes on the object. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| [ConvertToSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svgangle/converttospecifiedunits)(ushort) | Preserve the same underlying stored value, but reset the stored unit identifier to the given unitType. Object attributes unitType, valueInSpecifiedUnits and valueAsString might be modified as a result of this method. |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [NewValueSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svgangle/newvaluespecifiedunits)(ushort, float) | Reset the value as a number with an associated unitType, thereby replacing the values for all of the attributes on the object. |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svgangle/tostring)() | Returns a String that represents this instance. |
 
 ## Other Members
 

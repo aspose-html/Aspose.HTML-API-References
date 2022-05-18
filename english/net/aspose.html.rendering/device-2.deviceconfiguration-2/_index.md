@@ -26,7 +26,7 @@ public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
 
 | Name | Description |
 | --- | --- |
-| [PageWritingStrategy](pagewritingstrategy) { get; set; } | Gets or sets the page writing strategy. |
+| [PageWritingStrategy](../../aspose.html.rendering/deviceconfiguration/pagewritingstrategy) { get; set; } | Gets or sets the page writing strategy. |
 
 ### See Also
 

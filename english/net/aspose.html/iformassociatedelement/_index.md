@@ -18,7 +18,7 @@ public interface IFormAssociatedElement
 
 | Name | Description |
 | --- | --- |
-| [Form](form) { get; set; } | Gets or sets the form instance. |
+| [Form](../../aspose.html/iformassociatedelement/form) { get; set; } | Gets or sets the form instance. |
 
 ### See Also
 

@@ -18,20 +18,22 @@ public class SelectElement : FormElement<HTMLSelectElement>
 
 | Name | Description |
 | --- | --- |
-| override [Id](id) { get; set; } | Represents the Id attribute of the input element. |
-| [Multiple](multiple) { get; set; } | If true, multiple `OPTION` elements may be selected in this `SELECT`. See the multiple attribute definition in HTML 4.01. |
-| override [Name](name) { get; set; } | Represent the name attribute of the input element. |
-| [Options](options) { get; } | Returns a list of options |
-| [SelectedOptions](selectedoptions) { get; } | Returns a list of selected options |
-| [Type](type) { get; } | The type of this form control. This is the string "select-multiple" when the multiple attribute is `true` and the string "select-one" when `false`. |
-| override [Value](value) { get; set; } | On getting, must return the value of the first option element in the list of options in tree order that has its selectedness set to true, if any. |
+| [ElementType](../../aspose.html.forms/formelement/elementtype) { get; } | Gets the type of the element. |
+| [HtmlElement](../../aspose.html.forms/formelement`1/htmlelement) { get; } |  |
+| override [Id](../../aspose.html.forms/selectelement/id) { get; set; } | Represents the Id attribute of the input element. |
+| [Multiple](../../aspose.html.forms/selectelement/multiple) { get; set; } | If true, multiple `OPTION` elements may be selected in this `SELECT`. See the multiple attribute definition in HTML 4.01. |
+| override [Name](../../aspose.html.forms/selectelement/name) { get; set; } | Represent the name attribute of the input element. |
+| [Options](../../aspose.html.forms/selectelement/options) { get; } | Returns a list of options |
+| [SelectedOptions](../../aspose.html.forms/selectelement/selectedoptions) { get; } | Returns a list of selected options |
+| [Type](../../aspose.html.forms/selectelement/type) { get; } | The type of this form control. This is the string "select-multiple" when the multiple attribute is `true` and the string "select-one" when `false`. |
+| override [Value](../../aspose.html.forms/selectelement/value) { get; set; } | On getting, must return the value of the first option element in the list of options in tree order that has its selectedness set to true, if any. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [SelectItems](selectitems)(params int[]) | This methods allows to select multiple options by their indexes. |
-| [SelectItems](selectitems)(params string[]) | This methods allows to select multiple options by their values. |
+| [SelectItems](../../aspose.html.forms/selectelement/selectitems)(params int[]) | This methods allows to select multiple options by their indexes. |
+| [SelectItems](../../aspose.html.forms/selectelement/selectitems)(params string[]) | This methods allows to select multiple options by their values. |
 
 ### See Also
 

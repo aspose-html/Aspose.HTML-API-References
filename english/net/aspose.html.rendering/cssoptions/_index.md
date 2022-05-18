@@ -18,7 +18,7 @@ public class CssOptions
 
 | Name | Description |
 | --- | --- |
-| [MediaType](mediatype) { get; set; } | Gets or sets [`MediaType`](../mediatype) which will be used for media queries resolution during rendering. Default value is `Print`. |
+| [MediaType](../../aspose.html.rendering/cssoptions/mediatype) { get; set; } | Gets or sets [`MediaType`](../mediatype) which will be used for media queries resolution during rendering. Default value is `Print`. |
 
 ### See Also
 

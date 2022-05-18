@@ -18,7 +18,7 @@ public interface IDocumentFragmentElement
 
 | Name | Description |
 | --- | --- |
-| [Content](content) { get; } | Gets the instance of the [`DocumentFragment`](../../aspose.html.dom/documentfragment). |
+| [Content](../../aspose.html/idocumentfragmentelement/content) { get; } | Gets the instance of the [`DocumentFragment`](../../aspose.html.dom/documentfragment). |
 
 ### See Also
 

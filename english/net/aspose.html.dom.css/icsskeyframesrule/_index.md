@@ -18,16 +18,16 @@ public interface ICSSKeyframesRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [CSSRules](cssrules) { get; } | This attribute gives access to the keyframes in the list |
-| [Name](name) { get; } | This attribute is the name of the keyframes, used by the ‘animation-name’ property. |
+| [CSSRules](../../aspose.html.dom.css/icsskeyframesrule/cssrules) { get; } | This attribute gives access to the keyframes in the list |
+| [Name](../../aspose.html.dom.css/icsskeyframesrule/name) { get; } | This attribute is the name of the keyframes, used by the ‘animation-name’ property. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AppendRule](appendrule)(string) | The appendRule method appends the passed CSSKeyframeRule into the list at the passed key |
-| [DeleteRule](deleterule)(string) | The deleteRule method deletes the CSSKeyframeRule with the passed key. If a rule with this key does not exist, the method does nothing |
-| [FindRule](findrule)(string) | The findRule method returns the rule with a key matching the passed key. If no such rule exists, a null value is returned |
+| [AppendRule](../../aspose.html.dom.css/icsskeyframesrule/appendrule)(string) | The appendRule method appends the passed CSSKeyframeRule into the list at the passed key |
+| [DeleteRule](../../aspose.html.dom.css/icsskeyframesrule/deleterule)(string) | The deleteRule method deletes the CSSKeyframeRule with the passed key. If a rule with this key does not exist, the method does nothing |
+| [FindRule](../../aspose.html.dom.css/icsskeyframesrule/findrule)(string) | The findRule method returns the rule with a key matching the passed key. If no such rule exists, a null value is returned |
 
 ### See Also
 

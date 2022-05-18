@@ -18,10 +18,19 @@ public class SVGPathSegCurvetoCubicSmoothRel : SVGPathSeg
 
 | Name | Description |
 | --- | --- |
-| [X](x) { get; set; } | The relative X coordinate for the end point of this path segment. |
-| [X2](x2) { get; set; } | The relative X coordinate for the second control point. |
-| [Y](y) { get; set; } | The relative Y coordinate for the end point of this path segment. |
-| [Y2](y2) { get; set; } | The relative Y coordinate for the second control point. |
+| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype) { get; } | The type of the path segment as specified by one of the constants defined on this interface. |
+| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | The type of the path segment, specified by the corresponding one character command name. |
+| [X](../../aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothrel/x) { get; set; } | The relative X coordinate for the end point of this path segment. |
+| [X2](../../aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothrel/x2) { get; set; } | The relative X coordinate for the second control point. |
+| [Y](../../aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothrel/y) { get; set; } | The relative Y coordinate for the end point of this path segment. |
+| [Y2](../../aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothrel/y2) { get; set; } | The relative Y coordinate for the second control point. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
 
 ### See Also
 

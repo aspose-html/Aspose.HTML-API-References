@@ -14,18 +14,31 @@ Represents a time unit.
 public sealed class Time : Dimension
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [UnitType](../../aspose.html.drawing/unit/unittype) { get; } | Gets the unit type of the [`Unit`](../unit). |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [operator +](op_addition) | Implements the operator +. |
-| [operator ==](op_equality) | Implements the operator ==. |
-| [operator &gt;](op_greaterthan) | Implements the operator &gt;. |
-| [operator &gt;=](op_greaterthanorequal) | Implements the operator &gt;=. |
-| [operator !=](op_inequality) | Implements the operator !=. |
-| [operator &lt;](op_lessthan) | Implements the operator &lt;. |
-| [operator &lt;=](op_lessthanorequal) | Implements the operator &lt;=. |
-| [operator -](op_subtraction) | Implements the operator -. |
+| [CompareTo](../../aspose.html.drawing/numeric/compareto)(Numeric) | Compares the current instance with another object of the same type and returns an integer that indicates whether the current instance precedes, follows, or occurs in the same position in the sort order as the other object. |
+| override [Equals](../../aspose.html.drawing/unit/equals)(object) | Determines whether the specified Object, is equal to this instance. |
+| override [Equals](../../aspose.html.drawing/numeric/equals)(Unit) | Determines whether the specified [`Unit`](../unit), is equal to this instance. |
+| override [GetHashCode](../../aspose.html.drawing/numeric/gethashcode)() | Returns a hash code for this instance. |
+| [GetValue](../../aspose.html.drawing/numeric/getvalue)() | Gets the unit value. |
+| [GetValue](../../aspose.html.drawing/numeric/getvalue)(UnitType) | Gets the value converted to the specified [`UnitType`](../unittype). |
+| override [ToString](../../aspose.html.drawing/dimension/tostring)() | Returns a String that represents this instance. |
+| [operator +](../../aspose.html.drawing/time/op_addition) | Implements the operator +. |
+| [operator ==](../../aspose.html.drawing/time/op_equality) | Implements the operator ==. |
+| [operator &gt;](../../aspose.html.drawing/time/op_greaterthan) | Implements the operator &gt;. |
+| [operator &gt;=](../../aspose.html.drawing/time/op_greaterthanorequal) | Implements the operator &gt;=. |
+| [operator !=](../../aspose.html.drawing/time/op_inequality) | Implements the operator !=. |
+| [operator &lt;](../../aspose.html.drawing/time/op_lessthan) | Implements the operator &lt;. |
+| [operator &lt;=](../../aspose.html.drawing/time/op_lessthanorequal) | Implements the operator &lt;=. |
+| [operator -](../../aspose.html.drawing/time/op_subtraction) | Implements the operator -. |
 
 ### See Also
 

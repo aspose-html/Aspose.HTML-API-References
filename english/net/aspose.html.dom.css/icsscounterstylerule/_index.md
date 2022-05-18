@@ -18,12 +18,12 @@ public interface ICSSCounterStyleRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [CounterType](countertype) { get; } | Gets the type of the counter. |
-| [Fallback](fallback) { get; } | Gets the fallback. |
-| [Glyphs](glyphs) { get; } | Gets the glyphs. |
-| [Name](name) { get; } | Gets the name. |
-| [Prefix](prefix) { get; } | Gets the prefix. |
-| [Suffix](suffix) { get; } | Gets the suffix. |
+| [CounterType](../../aspose.html.dom.css/icsscounterstylerule/countertype) { get; } | Gets the type of the counter. |
+| [Fallback](../../aspose.html.dom.css/icsscounterstylerule/fallback) { get; } | Gets the fallback. |
+| [Glyphs](../../aspose.html.dom.css/icsscounterstylerule/glyphs) { get; } | Gets the glyphs. |
+| [Name](../../aspose.html.dom.css/icsscounterstylerule/name) { get; } | Gets the name. |
+| [Prefix](../../aspose.html.dom.css/icsscounterstylerule/prefix) { get; } | Gets the prefix. |
+| [Suffix](../../aspose.html.dom.css/icsscounterstylerule/suffix) { get; } | Gets the suffix. |
 
 ### See Also
 

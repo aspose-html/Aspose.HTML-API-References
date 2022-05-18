@@ -20,9 +20,9 @@ public interface ITraversal : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Filter](filter) { get; } | The NodeFilter used to screen nodes. |
-| [Root](root) { get; } | The root node of the NodeIterator, as specified when it was created. |
-| [WhatToShow](whattoshow) { get; } | This attribute determines which node types are presented via the iterator. The available set of constants is defined in the NodeFilter interface. Nodes not accepted by whatToShow will be skipped, but their children may still be considered. Note that this skip takes precedence over the filter, if any. |
+| [Filter](../../aspose.html.dom.traversal/itraversal/filter) { get; } | The NodeFilter used to screen nodes. |
+| [Root](../../aspose.html.dom.traversal/itraversal/root) { get; } | The root node of the NodeIterator, as specified when it was created. |
+| [WhatToShow](../../aspose.html.dom.traversal/itraversal/whattoshow) { get; } | This attribute determines which node types are presented via the iterator. The available set of constants is defined in the NodeFilter interface. Nodes not accepted by whatToShow will be skipped, but their children may still be considered. Note that this skip takes precedence over the filter, if any. |
 
 ### See Also
 

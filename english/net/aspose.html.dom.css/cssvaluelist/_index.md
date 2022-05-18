@@ -26,16 +26,20 @@ public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 
 | Name | Description |
 | --- | --- |
-| override [CSSText](csstext) { get; set; } | A string representation of the current value. |
-| [Item](item) { get; } | Gets the [`CSSValue`](../cssvalue) at the specified index. |
-| [Length](length) { get; } | The number of CSSValues in the list. |
+| override [CSSText](../../aspose.html.dom.css/cssvaluelist/csstext) { get; set; } | A string representation of the current value. |
+| [CSSValueType](../../aspose.html.dom.css/cssvalue/cssvaluetype) { get; } | A code defining the type of the value. |
+| [Item](../../aspose.html.dom.css/cssvaluelist/item) { get; } | Gets the [`CSSValue`](../cssvalue) at the specified index. |
+| [Length](../../aspose.html.dom.css/cssvaluelist/length) { get; } | The number of CSSValues in the list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through the collection. |
-| override [GetPlatformType](getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| override [Equals](../../aspose.html.dom.css/cssvalue/equals)(object) | Determines whether the specified Object is equal to this instance. |
+| [GetEnumerator](../../aspose.html.dom.css/cssvaluelist/getenumerator)() | Returns an enumerator that iterates through the collection. |
+| override [GetHashCode](../../aspose.html.dom.css/cssvalue/gethashcode)() | Returns a hash code for this instance. |
+| override [GetPlatformType](../../aspose.html.dom.css/cssvaluelist/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| override [ToString](../../aspose.html.dom.css/cssvalue/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

@@ -25,18 +25,20 @@ public class LengthOrAuto : Unit
 
 | Name | Description |
 | --- | --- |
-| [IsAuto](isauto) { get; } | Gets a value indicating whether this instance is in 'auto'. |
-| [Length](length) { get; set; } | Gets or sets the length. |
-| [UnitType](unittype) { get; } | Gets the unit type of the [`Unit`](../unit). |
+| [IsAuto](../../aspose.html.drawing/lengthorauto/isauto) { get; } | Gets a value indicating whether this instance is in 'auto'. |
+| [Length](../../aspose.html.drawing/lengthorauto/length) { get; set; } | Gets or sets the length. |
+| [UnitType](../../aspose.html.drawing/lengthorauto/unittype) { get; } | Gets the unit type of the [`Unit`](../unit). |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(Unit) | Determines whether the specified [`Unit`](../unit), is equal to this instance. |
-| [SetAuto](setauto)() | Resets container to state 'auto'. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
-| [implicit operator](op_implicit) | Performs an implicit conversion from [`Length`](./length) to [`LengthOrAuto`](../lengthorauto). |
+| override [Equals](../../aspose.html.drawing/unit/equals)(object) | Determines whether the specified Object, is equal to this instance. |
+| override [Equals](../../aspose.html.drawing/lengthorauto/equals)(Unit) | Determines whether the specified [`Unit`](../unit), is equal to this instance. |
+| override [GetHashCode](../../aspose.html.drawing/unit/gethashcode)() | Returns a hash code for this instance. |
+| [SetAuto](../../aspose.html.drawing/lengthorauto/setauto)() | Resets container to state 'auto'. |
+| override [ToString](../../aspose.html.drawing/lengthorauto/tostring)() | Returns a String that represents this instance. |
+| [implicit operator](../../aspose.html.drawing/lengthorauto/op_implicit) | Performs an implicit conversion from [`Length`](./length) to [`LengthOrAuto`](../lengthorauto). |
 
 ### See Also
 

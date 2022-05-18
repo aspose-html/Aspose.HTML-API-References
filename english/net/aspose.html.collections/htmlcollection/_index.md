@@ -18,16 +18,16 @@ public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
 
 | Name | Description |
 | --- | --- |
-| abstract [Item](item) { get; } | Returns the index-th item in the collection. If index is greater than or equal to the number of nodes in the list, this returns null. |
-| abstract [Length](length) { get; } | The number of nodes in the list. |
+| abstract [Item](../../aspose.html.collections/htmlcollection/item) { get; } | Returns the index-th item in the collection. If index is greater than or equal to the number of nodes in the list, this returns null. |
+| abstract [Length](../../aspose.html.collections/htmlcollection/length) { get; } | The number of nodes in the list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [GetEnumerator](getenumerator)() | Gets the enumerator. |
-| override [GetPlatformType](getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
-| [NamedItem](nameditem)(string) | Returns the item in the collection matched specified name. |
+| abstract [GetEnumerator](../../aspose.html.collections/htmlcollection/getenumerator)() | Gets the enumerator. |
+| override [GetPlatformType](../../aspose.html.collections/htmlcollection/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [NamedItem](../../aspose.html.collections/htmlcollection/nameditem)(string) | Returns the item in the collection matched specified name. |
 
 ### See Also
 

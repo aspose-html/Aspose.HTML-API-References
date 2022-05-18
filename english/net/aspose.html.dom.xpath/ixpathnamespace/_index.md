@@ -18,7 +18,7 @@ public interface IXPathNamespace
 
 | Name | Description |
 | --- | --- |
-| [OwnerElement](ownerelement) { get; } | The [`Element`](../../aspose.html.dom/element) on which the namespace was in scope when it was requested. This does not change on a returned namespace node even if the document changes such that the namespace goes out of scope on that element and this node is no longer found there by XPath. |
+| [OwnerElement](../../aspose.html.dom.xpath/ixpathnamespace/ownerelement) { get; } | The [`Element`](../../aspose.html.dom/element) on which the namespace was in scope when it was requested. This does not change on a returned namespace node even if the document changes such that the namespace goes out of scope on that element and this node is no longer found there by XPath. |
 
 ### See Also
 

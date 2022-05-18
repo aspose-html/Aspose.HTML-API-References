@@ -25,8 +25,8 @@ public sealed class TemplateData
 
 | Name | Description |
 | --- | --- |
-| [ContentOptions](contentoptions) { get; } | Content object property. |
-| [DataPath](datapath) { get; } | Data path property. |
+| [ContentOptions](../../aspose.html.converters/templatedata/contentoptions) { get; } | Content object property. |
+| [DataPath](../../aspose.html.converters/templatedata/datapath) { get; } | Data path property. |
 
 ### See Also
 

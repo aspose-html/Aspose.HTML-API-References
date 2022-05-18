@@ -24,7 +24,13 @@ public class HtmlRenderer : Renderer<Document>
 
 | Name | Description |
 | --- | --- |
-| override [Render](render)(IDevice, TimeSpan, params Document[]) | Defines method for rendering multiple [`Document`](../../aspose.html.dom/document)s into specific [`IDevice`](../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
+| [Dispose](../../aspose.html.rendering/renderer/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, Document) |  |
+| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, params Document[]) |  |
+| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, Document, int) |  |
+| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, Document, TimeSpan) |  |
+| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, int, params Document[]) |  |
+| override [Render](../../aspose.html.rendering/htmlrenderer/render)(IDevice, TimeSpan, params Document[]) | Defines method for rendering multiple [`Document`](../../aspose.html.dom/document)s into specific [`IDevice`](../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
 
 ### See Also
 

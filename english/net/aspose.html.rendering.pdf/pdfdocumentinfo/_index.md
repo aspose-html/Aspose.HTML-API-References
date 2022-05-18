@@ -18,14 +18,14 @@ public class PdfDocumentInfo
 
 | Name | Description |
 | --- | --- |
-| [Author](author) { get; set; } | The name of the person who created the document. |
-| [CreationDate](creationdate) { get; set; } | Gets or sets the document's creation date specified as the Coordinated Universal Time (UTC). |
-| [Creator](creator) { get; set; } | The name of the product that created the original document. |
-| [Keywords](keywords) { get; set; } | Keywords associated with the document. |
-| [ModificationDate](modificationdate) { get; set; } | Gets or sets the document's modification date specified as the Coordinated Universal Time (UTC). |
-| [Producer](producer) { get; set; } | The name of the product that converted the document. |
-| [Subject](subject) { get; set; } | The subject of the document. |
-| [Title](title) { get; set; } | The document's title. |
+| [Author](../../aspose.html.rendering.pdf/pdfdocumentinfo/author) { get; set; } | The name of the person who created the document. |
+| [CreationDate](../../aspose.html.rendering.pdf/pdfdocumentinfo/creationdate) { get; set; } | Gets or sets the document's creation date specified as the Coordinated Universal Time (UTC). |
+| [Creator](../../aspose.html.rendering.pdf/pdfdocumentinfo/creator) { get; set; } | The name of the product that created the original document. |
+| [Keywords](../../aspose.html.rendering.pdf/pdfdocumentinfo/keywords) { get; set; } | Keywords associated with the document. |
+| [ModificationDate](../../aspose.html.rendering.pdf/pdfdocumentinfo/modificationdate) { get; set; } | Gets or sets the document's modification date specified as the Coordinated Universal Time (UTC). |
+| [Producer](../../aspose.html.rendering.pdf/pdfdocumentinfo/producer) { get; set; } | The name of the product that converted the document. |
+| [Subject](../../aspose.html.rendering.pdf/pdfdocumentinfo/subject) { get; set; } | The subject of the document. |
+| [Title](../../aspose.html.rendering.pdf/pdfdocumentinfo/title) { get; set; } | The document's title. |
 
 ### See Also
 

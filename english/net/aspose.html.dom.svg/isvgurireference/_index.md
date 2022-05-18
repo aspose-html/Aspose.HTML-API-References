@@ -18,7 +18,7 @@ public interface ISVGURIReference
 
 | Name | Description |
 | --- | --- |
-| [Href](href) { get; } | Corresponds to attribute ‘xlink:href’ on the given element. |
+| [Href](../../aspose.html.dom.svg/isvgurireference/href) { get; } | Corresponds to attribute ‘xlink:href’ on the given element. |
 
 ### See Also
 

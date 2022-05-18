@@ -18,7 +18,7 @@ public interface ICanvasPattern
 
 | Name | Description |
 | --- | --- |
-| [SetTransform](settransform)(SVGMatrix) | Applies an SVGMatrix representing a linear transform to the pattern. |
+| [SetTransform](../../aspose.html.dom.canvas/icanvaspattern/settransform)(SVGMatrix) | Applies an SVGMatrix representing a linear transform to the pattern. |
 
 ### See Also
 

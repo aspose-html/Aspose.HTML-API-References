@@ -23,7 +23,11 @@ public abstract class FormElement<T> : FormElement
 
 | Name | Description |
 | --- | --- |
-| [HtmlElement](htmlelement) { get; } | Gets the [`HTMLElement`](../../aspose.html/htmlelement). |
+| [ElementType](../../aspose.html.forms/formelement/elementtype) { get; } | Gets the type of the element. |
+| [HtmlElement](../../aspose.html.forms/formelement`1/htmlelement) { get; } | Gets the [`HTMLElement`](../../aspose.html/htmlelement). |
+| virtual [Id](../../aspose.html.forms/formelement/id) { get; set; } | Gets or sets the identifier of the form element. |
+| virtual [Name](../../aspose.html.forms/formelement/name) { get; set; } | Gets or sets the name of the form element. |
+| virtual [Value](../../aspose.html.forms/formelement/value) { get; set; } | The value of field |
 
 ### See Also
 

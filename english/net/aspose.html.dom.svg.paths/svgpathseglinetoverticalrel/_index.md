@@ -18,7 +18,16 @@ public class SVGPathSegLinetoVerticalRel : SVGPathSeg
 
 | Name | Description |
 | --- | --- |
-| [Y](y) { get; set; } | The relative Y coordinate for the end point of this path segment. |
+| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype) { get; } | The type of the path segment as specified by one of the constants defined on this interface. |
+| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | The type of the path segment, specified by the corresponding one character command name. |
+| [Y](../../aspose.html.dom.svg.paths/svgpathseglinetoverticalrel/y) { get; set; } | The relative Y coordinate for the end point of this path segment. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
 
 ### See Also
 

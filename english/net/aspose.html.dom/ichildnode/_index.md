@@ -18,7 +18,7 @@ public interface IChildNode
 
 | Name | Description |
 | --- | --- |
-| [Remove](remove)() | Removes the current node from parent. |
+| [Remove](../../aspose.html.dom/ichildnode/remove)() | Removes the current node from parent. |
 
 ### See Also
 

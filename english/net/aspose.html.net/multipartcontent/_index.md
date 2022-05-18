@@ -22,12 +22,22 @@ public class MultipartContent : Content, IEnumerable<Content>
 | [MultipartContent](multipartcontent)(string) | Create a new instance of the [`MultipartContent`](../multipartcontent) class with subtype. |
 | [MultipartContent](multipartcontent)(string, string) | Create a new instance of the [`MultipartContent`](../multipartcontent) class with subtype and boundary. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Headers](../../aspose.html.net/content/headers) { get; } | Gets the HTTP content headers. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Add](add)(Content) | Add a new content to the [`MultipartContent`](../multipartcontent) |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through a collection. |
+| virtual [Add](../../aspose.html.net/multipartcontent/add)(Content) | Add a new content to the [`MultipartContent`](../multipartcontent) |
+| [Dispose](../../aspose.html.net/content/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [GetEnumerator](../../aspose.html.net/multipartcontent/getenumerator)() | Returns an enumerator that iterates through a collection. |
+| [ReadAsByteArray](../../aspose.html.net/content/readasbytearray)() | Serialize the HTTP content and return a byte array that represents the content. |
+| [ReadAsStream](../../aspose.html.net/content/readasstream)() | Serialize the HTTP content and return a stream that represents the content. |
+| [ReadAsString](../../aspose.html.net/content/readasstring)() | Serialize the HTTP content and return a string that represents the content. |
 
 ### See Also
 

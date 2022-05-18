@@ -18,10 +18,16 @@ public abstract class TypedArray : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Buffer](buffer) { get; } | Gets the ArrayBuffer referenced by this instance. |
-| [ByteLength](bytelength) { get; } | Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes. |
-| [ByteOffset](byteoffset) { get; } | Gets the byteOffset from the start of referenced ArrayBuffer. |
-| [Length](length) { get; } | Gets the length of a typed array. |
+| [Buffer](../../aspose.html/typedarray/buffer) { get; } | Gets the ArrayBuffer referenced by this instance. |
+| [ByteLength](../../aspose.html/typedarray/bytelength) { get; } | Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes. |
+| [ByteOffset](../../aspose.html/typedarray/byteoffset) { get; } | Gets the byteOffset from the start of referenced ArrayBuffer. |
+| [Length](../../aspose.html/typedarray/length) { get; } | Gets the length of a typed array. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
 
 ### See Also
 

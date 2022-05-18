@@ -18,7 +18,7 @@ public interface IServiceProvider
 
 | Name | Description |
 | --- | --- |
-| [GetService&lt;TService&gt;](getservice)() | Gets a service object of the specified type. |
+| [GetService&lt;TService&gt;](../../aspose.html.services/iserviceprovider/getservice)() | Gets a service object of the specified type. |
 
 ### See Also
 

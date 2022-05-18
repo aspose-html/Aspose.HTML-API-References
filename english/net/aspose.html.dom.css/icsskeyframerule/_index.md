@@ -18,8 +18,8 @@ public interface ICSSKeyframeRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [KeyText](keytext) { get; } | This attribute represents the keyframe selector as a comma-separated list of percentage values. The ‘from’ and ‘to’ keywords map to ‘0%’ and ‘100%’, respectively. |
-| [Style](style) { get; } | This attribute represents the style associated with this keyframe. |
+| [KeyText](../../aspose.html.dom.css/icsskeyframerule/keytext) { get; } | This attribute represents the keyframe selector as a comma-separated list of percentage values. The ‘from’ and ‘to’ keywords map to ‘0%’ and ‘100%’, respectively. |
+| [Style](../../aspose.html.dom.css/icsskeyframerule/style) { get; } | This attribute represents the style associated with this keyframe. |
 
 ### See Also
 

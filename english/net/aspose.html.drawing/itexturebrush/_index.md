@@ -18,10 +18,10 @@ public interface ITextureBrush : ITransformableBrush
 
 | Name | Description |
 | --- | --- |
-| [ColorMap](colormap) { get; } | The number of elements must be even. Every even element is old color. Every odd element is new color. |
-| [Image](image) { get; } | Gets or sets the image used by the brush. |
-| [ImageArea](imagearea) { get; } | Specifies the portion of the image used by the brush. If it equals RectangleF.Empty then the whole image will be used. Coordinates are in pixels. |
-| [Opacity](opacity) { get; } | Get opacity value in a color transform matrix. |
+| [ColorMap](../../aspose.html.drawing/itexturebrush/colormap) { get; } | The number of elements must be even. Every even element is old color. Every odd element is new color. |
+| [Image](../../aspose.html.drawing/itexturebrush/image) { get; } | Gets or sets the image used by the brush. |
+| [ImageArea](../../aspose.html.drawing/itexturebrush/imagearea) { get; } | Specifies the portion of the image used by the brush. If it equals RectangleF.Empty then the whole image will be used. Coordinates are in pixels. |
+| [Opacity](../../aspose.html.drawing/itexturebrush/opacity) { get; } | Get opacity value in a color transform matrix. |
 
 ### See Also
 

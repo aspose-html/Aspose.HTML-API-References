@@ -24,16 +24,16 @@ public class VideoFormatInfo
 
 | Name | Description |
 | --- | --- |
-| [AudioCodec](audiocodec) { get; set; } | Name of the audio codec in use, or `null` if there is no audio track. |
-| [Bitrate](bitrate) { get; set; } | Average bitrate of audio and video in KBit/s, or `null` if unknown. |
-| [Extension](extension) { get; set; } | Format extension. |
-| [FileSize](filesize) { get; set; } | File size in bytes, or `null` if unknown. |
-| [FPS](fps) { get; set; } | Frame rate in frame/s, or `null` if there is no video track. |
-| [Height](height) { get; set; } | Video track height in pixels, or `null` if there is no video track. |
-| [SamplingRate](samplingrate) { get; set; } | Audio sampling rate in Hertz, or `null` if there is no audio track. |
-| [Url](url) { get; set; } | The video formats URL. |
-| [VideoCodec](videocodec) { get; set; } | Name of the video codec in use, or `null` if there is no video track. |
-| [Width](width) { get; set; } | Video track width in pixels, or `null` if there is no video track. |
+| [AudioCodec](../../aspose.html.datascraping.multimediascraping/videoformatinfo/audiocodec) { get; set; } | Name of the audio codec in use, or `null` if there is no audio track. |
+| [Bitrate](../../aspose.html.datascraping.multimediascraping/videoformatinfo/bitrate) { get; set; } | Average bitrate of audio and video in KBit/s, or `null` if unknown. |
+| [Extension](../../aspose.html.datascraping.multimediascraping/videoformatinfo/extension) { get; set; } | Format extension. |
+| [FileSize](../../aspose.html.datascraping.multimediascraping/videoformatinfo/filesize) { get; set; } | File size in bytes, or `null` if unknown. |
+| [FPS](../../aspose.html.datascraping.multimediascraping/videoformatinfo/fps) { get; set; } | Frame rate in frame/s, or `null` if there is no video track. |
+| [Height](../../aspose.html.datascraping.multimediascraping/videoformatinfo/height) { get; set; } | Video track height in pixels, or `null` if there is no video track. |
+| [SamplingRate](../../aspose.html.datascraping.multimediascraping/videoformatinfo/samplingrate) { get; set; } | Audio sampling rate in Hertz, or `null` if there is no audio track. |
+| [Url](../../aspose.html.datascraping.multimediascraping/videoformatinfo/url) { get; set; } | The video formats URL. |
+| [VideoCodec](../../aspose.html.datascraping.multimediascraping/videoformatinfo/videocodec) { get; set; } | Name of the video codec in use, or `null` if there is no video track. |
+| [Width](../../aspose.html.datascraping.multimediascraping/videoformatinfo/width) { get; set; } | Video track width in pixels, or `null` if there is no video track. |
 
 ### See Also
 

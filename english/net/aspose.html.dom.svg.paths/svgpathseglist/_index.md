@@ -21,6 +21,29 @@ public class SVGPathSegList : SVGListBase<SVGPathSeg>
 | [SVGPathSegList](svgpathseglist)() | Initializes a new instance of the [`SVGPathSegList`](../svgpathseglist) class. |
 | [SVGPathSegList](svgpathseglist)(IEnumerable&lt;SVGPathSeg&gt;) | Initializes a new instance of the [`SVGPathSegList`](../svgpathseglist) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Item](../../aspose.html.dom.svg.collections/svglistbase`1/item) { get; set; } |  |
+| [Length](../../aspose.html.dom.svg.collections/svglistbase`1/length) { get; } |  |
+| [NumberOfItems](../../aspose.html.dom.svg.collections/svglistbase`1/numberofitems) { get; } |  |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [AppendItem](../../aspose.html.dom.svg.collections/svglistbase`1/appenditem)(SVGPathSeg) |  |
+| [Clear](../../aspose.html.dom.svg.collections/svglistbase`1/clear)() |  |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase`1/getenumerator)() |  |
+| [GetItem](../../aspose.html.dom.svg.collections/svglistbase`1/getitem)(ulong) |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [Initialize](../../aspose.html.dom.svg.collections/svglistbase`1/initialize)(SVGPathSeg) |  |
+| [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase`1/insertitembefore)(SVGPathSeg, ulong) |  |
+| [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase`1/removeitem)(ulong) |  |
+| [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase`1/replaceitem)(SVGPathSeg, ulong) |  |
+
 ### See Also
 
 * class [SVGListBase&lt;T&gt;](../../aspose.html.dom.svg.collections/svglistbase-1)

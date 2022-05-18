@@ -24,10 +24,11 @@ public class MutationObserver : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Disconnect](disconnect)() | Stops observer from observing any mutations. Until the observe() method is used again, observer’s callback will not be invoked. |
-| [Observe](observe)(Node) | Instructs the user agent to observe a given target (a node) and report any mutations based on the criteria given by options (an object). The options argument allows for setting mutation observation options via object members. |
-| [Observe](observe)(Node, MutationObserverInit) | Instructs the user agent to observe a given target (a node) and report any mutations based on the criteria given by options (an object). The options argument allows for setting mutation observation options via object members. |
-| [TakeRecords](takerecords)() | The method returns a copy of the record queue and then empty the record queue. |
+| [Disconnect](../../aspose.html.dom.mutations/mutationobserver/disconnect)() | Stops observer from observing any mutations. Until the observe() method is used again, observer’s callback will not be invoked. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [Observe](../../aspose.html.dom.mutations/mutationobserver/observe)(Node) | Instructs the user agent to observe a given target (a node) and report any mutations based on the criteria given by options (an object). The options argument allows for setting mutation observation options via object members. |
+| [Observe](../../aspose.html.dom.mutations/mutationobserver/observe)(Node, MutationObserverInit) | Instructs the user agent to observe a given target (a node) and report any mutations based on the criteria given by options (an object). The options argument allows for setting mutation observation options via object members. |
+| [TakeRecords](../../aspose.html.dom.mutations/mutationobserver/takerecords)() | The method returns a copy of the record queue and then empty the record queue. |
 
 ### See Also
 

@@ -20,16 +20,16 @@ public interface INodeIterator : ITraversal
 
 | Name | Description |
 | --- | --- |
-| [PointerBeforeReferenceNode](pointerbeforereferencenode) { get; } | The value of this flag determines whether the children of entity reference nodes are visible to the iterator. If false, they and their descendants will be rejected. Note that this rejection takes precedence over whatToShow and the filter. Also note that this is currently the only situation where NodeIterators may reject a complete subtree rather than skipping individual nodes. To produce a view of the document that has entity references expanded and does not expose the entity reference node itself, use the whatToShow flags to hide the entity reference node and set expandEntityReferences to true when creating the iterator. To produce a view of the document that has entity reference nodes but no entity expansion, use the whatToShow flags to show the entity reference node and set expandEntityReferences to false. |
-| [ReferenceNode](referencenode) { get; } | The current reference node. |
+| [PointerBeforeReferenceNode](../../aspose.html.dom.traversal/inodeiterator/pointerbeforereferencenode) { get; } | The value of this flag determines whether the children of entity reference nodes are visible to the iterator. If false, they and their descendants will be rejected. Note that this rejection takes precedence over whatToShow and the filter. Also note that this is currently the only situation where NodeIterators may reject a complete subtree rather than skipping individual nodes. To produce a view of the document that has entity references expanded and does not expose the entity reference node itself, use the whatToShow flags to hide the entity reference node and set expandEntityReferences to true when creating the iterator. To produce a view of the document that has entity reference nodes but no entity expansion, use the whatToShow flags to show the entity reference node and set expandEntityReferences to false. |
+| [ReferenceNode](../../aspose.html.dom.traversal/inodeiterator/referencenode) { get; } | The current reference node. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Detach](detach)() | Detaches the NodeIterator from the set which it iterated over, releasing any computational resources and placing the iterator in the INVALID state. After detach has been invoked, calls to nextNode or previousNode will raise the exception INVALID_STATE_ERR. |
-| [NextNode](nextnode)() | Returns the next node in the set and advances the position of the iterator in the set. After a NodeIterator is created, the first call to nextNode() returns the first node in the set. |
-| [PreviousNode](previousnode)() | Returns the previous node in the set and moves the position of the NodeIterator backwards in the set. |
+| [Detach](../../aspose.html.dom.traversal/inodeiterator/detach)() | Detaches the NodeIterator from the set which it iterated over, releasing any computational resources and placing the iterator in the INVALID state. After detach has been invoked, calls to nextNode or previousNode will raise the exception INVALID_STATE_ERR. |
+| [NextNode](../../aspose.html.dom.traversal/inodeiterator/nextnode)() | Returns the next node in the set and advances the position of the iterator in the set. After a NodeIterator is created, the first call to nextNode() returns the first node in the set. |
+| [PreviousNode](../../aspose.html.dom.traversal/inodeiterator/previousnode)() | Returns the previous node in the set and moves the position of the NodeIterator backwards in the set. |
 
 ### See Also
 

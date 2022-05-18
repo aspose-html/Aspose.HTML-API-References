@@ -18,16 +18,16 @@ public interface IMediaList : IEnumerable<string>
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Returns the indexth in the list. If index is greater than or equal to the number of media in the list, this returns null. The media index. |
-| [Length](length) { get; } | The number of media in the list. The range of valid media is 0 to length-1 inclusive. |
-| [MediaText](mediatext) { get; } | The parsable textual representation of the media list. This is a comma-separated list of media. |
+| [Item](../../aspose.html.dom.css/imedialist/item) { get; } | Returns the indexth in the list. If index is greater than or equal to the number of media in the list, this returns null. The media index. |
+| [Length](../../aspose.html.dom.css/imedialist/length) { get; } | The number of media in the list. The range of valid media is 0 to length-1 inclusive. |
+| [MediaText](../../aspose.html.dom.css/imedialist/mediatext) { get; } | The parsable textual representation of the media list. This is a comma-separated list of media. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AppendMedium](appendmedium)(string) | Adds the medium newMedium to the end of the list. If the newMedium is already used, it is first removed. |
-| [DeleteMedium](deletemedium)(string) | Deletes the medium indicated by oldMedium from the list. |
+| [AppendMedium](../../aspose.html.dom.css/imedialist/appendmedium)(string) | Adds the medium newMedium to the end of the list. If the newMedium is already used, it is first removed. |
+| [DeleteMedium](../../aspose.html.dom.css/imedialist/deletemedium)(string) | Deletes the medium indicated by oldMedium from the list. |
 
 ### See Also
 

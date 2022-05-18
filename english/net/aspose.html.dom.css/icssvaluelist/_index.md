@@ -18,8 +18,8 @@ public interface ICSSValueList
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Method returns the [`CSSValue`](../cssvalue) at the specified index. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList |
-| [Length](length) { get; } | The number of CSSValues in the list. |
+| [Item](../../aspose.html.dom.css/icssvaluelist/item) { get; } | Method returns the [`CSSValue`](../cssvalue) at the specified index. http://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/css.html#CSS-CSSValueList |
+| [Length](../../aspose.html.dom.css/icssvaluelist/length) { get; } | The number of CSSValues in the list. |
 
 ### See Also
 

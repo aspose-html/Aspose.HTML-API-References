@@ -20,6 +20,12 @@ public class HTMLSaveOptions : SaveOptions
 | --- | --- |
 | [HTMLSaveOptions](htmlsaveoptions)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [ResourceHandlingOptions](../../aspose.html.saving/saveoptions/resourcehandlingoptions) { get; } | Gets a [`ResourceHandlingOptions`](../resourcehandlingoptions) object which is used for configuration of resources handling. |
+
 ### See Also
 
 * class [SaveOptions](../saveoptions)

@@ -18,28 +18,28 @@ public class FormEditor : IDisposable, IEnumerable<FormElement>
 
 | Name | Description |
 | --- | --- |
-| [Action](action) { get; set; } | Server-side form handler. See the action attribute definition in HTML 4.01. |
-| [Count](count) { get; } | The number of form controls in the form. |
-| [Form](form) { get; } | The original [`HTMLFormElement`](../../aspose.html/htmlformelement) that is associated with current instance of [`FormEditor`](../formeditor). |
-| [Item](item) { get; } | Returns the element by specified index. (2 indexers) |
-| [Method](method) { get; set; } | HTTP method [[IETF RFC 2616](http://www.ietf.org/rfc/rfc2616.txt)] used to submit form. See the method attribute definition in HTML 4.01. |
+| [Action](../../aspose.html.forms/formeditor/action) { get; set; } | Server-side form handler. See the action attribute definition in HTML 4.01. |
+| [Count](../../aspose.html.forms/formeditor/count) { get; } | The number of form controls in the form. |
+| [Form](../../aspose.html.forms/formeditor/form) { get; } | The original [`HTMLFormElement`](../../aspose.html/htmlformelement) that is associated with current instance of [`FormEditor`](../formeditor). |
+| [Item](../../aspose.html.forms/formeditor/item) { get; } | Returns the element by specified index. (2 indexers) |
+| [Method](../../aspose.html.forms/formeditor/method) { get; set; } | HTTP method [[IETF RFC 2616](http://www.ietf.org/rfc/rfc2616.txt)] used to submit form. See the method attribute definition in HTML 4.01. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Create](create)(HTMLFormElement) | Creates a new [`FormEditor`](../formeditor) based on [`HTMLFormElement`](../../aspose.html/htmlformelement). |
-| static [Create](create)(HTMLDocument, int) | Creates a new [`FormEditor`](../formeditor) based on [`HTMLFormElement`](../../aspose.html/htmlformelement) selected from the [`Forms`](../../aspose.html/htmldocument/forms) collection by index. |
-| static [Create](create)(HTMLDocument, string) | Creates a new [`FormEditor`](../formeditor) based on [`HTMLFormElement`](../../aspose.html/htmlformelement) selected from the document by id. |
-| static [CreateNew](createnew)(HTMLDocument) | Creates a new [`HTMLFormElement`](../../aspose.html/htmlformelement) and associated it with [`FormEditor`](../formeditor). [`HTMLFormElement`](../../aspose.html/htmlformelement) is created in the detached from the document state; in order to attach it to the document, please select proper location and use [`AppendChild`](../../aspose.html.dom/node/appendchild) method. |
-| [Add&lt;T&gt;](add)(string) | Creates a new [`HTMLElement`](../../aspose.html/htmlelement) and adds it to the end of the form. |
-| [AddInput](addinput)(string) | Creates a new [`InputElement`](../inputelement) and adds it to the end of the form. |
-| [AddInput](addinput)(string, InputElementType) | Creates a new [`InputElement`](../inputelement) and adds it to the end of the form. |
-| [Dispose](dispose)() | Releases unmanaged and managed resources. |
-| [Fill](fill)(Dictionary&lt;string, string&gt;) | This method fills the whole form with the specified values. |
-| [GetElement&lt;T&gt;](getelement)(int) | Returns the element by specified index. |
-| [GetElement&lt;T&gt;](getelement)(string) | Returns the element by specified name. |
-| [GetEnumerator](getenumerator)() | Gets the enumerator. |
+| static [Create](../../aspose.html.forms/formeditor/create)(HTMLFormElement) | Creates a new [`FormEditor`](../formeditor) based on [`HTMLFormElement`](../../aspose.html/htmlformelement). |
+| static [Create](../../aspose.html.forms/formeditor/create)(HTMLDocument, int) | Creates a new [`FormEditor`](../formeditor) based on [`HTMLFormElement`](../../aspose.html/htmlformelement) selected from the [`Forms`](../../aspose.html/htmldocument/forms) collection by index. |
+| static [Create](../../aspose.html.forms/formeditor/create)(HTMLDocument, string) | Creates a new [`FormEditor`](../formeditor) based on [`HTMLFormElement`](../../aspose.html/htmlformelement) selected from the document by id. |
+| static [CreateNew](../../aspose.html.forms/formeditor/createnew)(HTMLDocument) | Creates a new [`HTMLFormElement`](../../aspose.html/htmlformelement) and associated it with [`FormEditor`](../formeditor). [`HTMLFormElement`](../../aspose.html/htmlformelement) is created in the detached from the document state; in order to attach it to the document, please select proper location and use [`AppendChild`](../../aspose.html.dom/node/appendchild) method. |
+| [Add&lt;T&gt;](../../aspose.html.forms/formeditor/add)(string) | Creates a new [`HTMLElement`](../../aspose.html/htmlelement) and adds it to the end of the form. |
+| [AddInput](../../aspose.html.forms/formeditor/addinput)(string) | Creates a new [`InputElement`](../inputelement) and adds it to the end of the form. |
+| [AddInput](../../aspose.html.forms/formeditor/addinput)(string, InputElementType) | Creates a new [`InputElement`](../inputelement) and adds it to the end of the form. |
+| [Dispose](../../aspose.html.forms/formeditor/dispose)() | Releases unmanaged and managed resources. |
+| [Fill](../../aspose.html.forms/formeditor/fill)(Dictionary&lt;string, string&gt;) | This method fills the whole form with the specified values. |
+| [GetElement&lt;T&gt;](../../aspose.html.forms/formeditor/getelement)(int) | Returns the element by specified index. |
+| [GetElement&lt;T&gt;](../../aspose.html.forms/formeditor/getelement)(string) | Returns the element by specified name. |
+| [GetEnumerator](../../aspose.html.forms/formeditor/getenumerator)() | Gets the enumerator. |
 
 ### See Also
 

@@ -14,6 +14,20 @@ he SVGPathSegClosePath interface corresponds to a "closepath" (z) path data comm
 public class SVGPathSegClosePath : SVGPathSeg
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype) { get; } | The type of the path segment as specified by one of the constants defined on this interface. |
+| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter) { get; } | The type of the path segment, specified by the corresponding one character command name. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+
 ### See Also
 
 * class [SVGPathSeg](../svgpathseg)

@@ -18,7 +18,7 @@ public abstract class MessageFilter
 
 | Name | Description |
 | --- | --- |
-| abstract [Match](match)(INetworkOperationContext) | When overridden in a derived class, tests whether a Context satisfies the filter criteria. |
+| abstract [Match](../../aspose.html.net/messagefilter/match)(INetworkOperationContext) | When overridden in a derived class, tests whether a Context satisfies the filter criteria. |
 
 ### See Also
 

@@ -24,11 +24,11 @@ public class RenderingOptions
 
 | Name | Description |
 | --- | --- |
-| [BackgroundColor](backgroundcolor) { get; set; } | Gets or sets Color which will fill background of every page. Default value is Transparent. |
-| [Css](css) { get; } | Gets a [`CssOptions`](../cssoptions) object which is used for configuration of css properties processing. |
-| virtual [HorizontalResolution](horizontalresolution) { get; set; } | Sets or gets horizontal resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
-| [PageSetup](pagesetup) { get; } | Gets a page setup object is used for configuration output page-set. |
-| virtual [VerticalResolution](verticalresolution) { get; set; } | Sets or gets vertical resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+| [BackgroundColor](../../aspose.html.rendering/renderingoptions/backgroundcolor) { get; set; } | Gets or sets Color which will fill background of every page. Default value is Transparent. |
+| [Css](../../aspose.html.rendering/renderingoptions/css) { get; } | Gets a [`CssOptions`](../cssoptions) object which is used for configuration of css properties processing. |
+| virtual [HorizontalResolution](../../aspose.html.rendering/renderingoptions/horizontalresolution) { get; set; } | Sets or gets horizontal resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+| [PageSetup](../../aspose.html.rendering/renderingoptions/pagesetup) { get; } | Gets a page setup object is used for configuration output page-set. |
+| virtual [VerticalResolution](../../aspose.html.rendering/renderingoptions/verticalresolution) { get; set; } | Sets or gets vertical resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 
 ### See Also
 

@@ -18,8 +18,16 @@ public class ContentTypeHeaderValue : NameValueHeaderValue
 
 | Name | Description |
 | --- | --- |
-| [CharSet](charset) { get; set; } | Gets or sets the character-set for content. |
-| [MediaType](mediatype) { get; set; } | Gets or sets the media-type for content. |
+| [CharSet](../../aspose.html.net.headers/contenttypeheadervalue/charset) { get; set; } | Gets or sets the character-set for content. |
+| [MediaType](../../aspose.html.net.headers/contenttypeheadervalue/mediatype) { get; set; } | Gets or sets the media-type for content. |
+| [Name](../../aspose.html.net.headers/namevalueheadervalue/name) { get; } | Gets the parameter name. |
+| [Value](../../aspose.html.net.headers/namevalueheadervalue/value) { get; set; } | Gets or sets the parameter value. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| override [ToString](../../aspose.html.net.headers/namevalueheadervalue/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

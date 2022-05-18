@@ -24,21 +24,21 @@ public class MultimediaHost : IEquatable<MultimediaHost>
 
 | Name | Description |
 | --- | --- |
-| static [YouKu](youku) { get; } | Represents an YouKu host. |
-| static [YouTube](youtube) { get; } | Represents an YouTube host. |
-| static [Zoom](zoom) { get; } | Represents a Zoom host. |
-| [HostName](hostname) { get; } | Gets the host name. |
+| static [YouKu](../../aspose.html.datascraping.multimediascraping/multimediahost/youku) { get; } | Represents an YouKu host. |
+| static [YouTube](../../aspose.html.datascraping.multimediascraping/multimediahost/youtube) { get; } | Represents an YouTube host. |
+| static [Zoom](../../aspose.html.datascraping.multimediascraping/multimediahost/zoom) { get; } | Represents a Zoom host. |
+| [HostName](../../aspose.html.datascraping.multimediascraping/multimediahost/hostname) { get; } | Gets the host name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Equals](equals)(MultimediaHost) | Indicates whether the current object is equal to another object of the same type. |
-| override [Equals](equals)(object) | Determines whether the specified Object, is equal to this instance. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
-| [operator ==](op_equality) | Implements the equality operator. |
-| [operator !=](op_inequality) | Implements the equality operator. |
+| [Equals](../../aspose.html.datascraping.multimediascraping/multimediahost/equals)(MultimediaHost) | Indicates whether the current object is equal to another object of the same type. |
+| override [Equals](../../aspose.html.datascraping.multimediascraping/multimediahost/equals)(object) | Determines whether the specified Object, is equal to this instance. |
+| override [GetHashCode](../../aspose.html.datascraping.multimediascraping/multimediahost/gethashcode)() | Returns a hash code for this instance. |
+| override [ToString](../../aspose.html.datascraping.multimediascraping/multimediahost/tostring)() | Returns a String that represents this instance. |
+| [operator ==](../../aspose.html.datascraping.multimediascraping/multimediahost/op_equality) | Implements the equality operator. |
+| [operator !=](../../aspose.html.datascraping.multimediascraping/multimediahost/op_inequality) | Implements the equality operator. |
 
 ### See Also
 

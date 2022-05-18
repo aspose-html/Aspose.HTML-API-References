@@ -18,10 +18,12 @@ public class ButtonElement : FormElement<HTMLButtonElement>
 
 | Name | Description |
 | --- | --- |
-| override [Id](id) { get; set; } | Represents the Id attribute of the Button element. |
-| override [Name](name) { get; set; } | Represent the name attribute of the Button element. |
-| [Type](type) { get; set; } | Type of the form control. |
-| override [Value](value) { get; set; } | Represents the string value of the button element that is directly mapped to the 'value' attribute. |
+| [ElementType](../../aspose.html.forms/formelement/elementtype) { get; } | Gets the type of the element. |
+| [HtmlElement](../../aspose.html.forms/formelement`1/htmlelement) { get; } |  |
+| override [Id](../../aspose.html.forms/buttonelement/id) { get; set; } | Represents the Id attribute of the Button element. |
+| override [Name](../../aspose.html.forms/buttonelement/name) { get; set; } | Represent the name attribute of the Button element. |
+| [Type](../../aspose.html.forms/buttonelement/type) { get; set; } | Type of the form control. |
+| override [Value](../../aspose.html.forms/buttonelement/value) { get; set; } | Represents the string value of the button element that is directly mapped to the 'value' attribute. |
 
 ### See Also
 

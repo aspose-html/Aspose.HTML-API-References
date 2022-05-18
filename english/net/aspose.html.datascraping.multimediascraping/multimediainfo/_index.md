@@ -18,11 +18,11 @@ public abstract class MultimediaInfo
 
 | Name | Description |
 | --- | --- |
-| [Description](description) { get; set; } | Multimedia description. |
-| [Duration](duration) { get; set; } | Multimedia duration in second. |
-| [MultimediaHost](multimediahost) { get; } | Host from which this info was obtained. |
-| [Thumbnails](thumbnails) { get; } | Collection of thumbnails URLs. |
-| [Title](title) { get; set; } | Multimedia title. |
+| [Description](../../aspose.html.datascraping.multimediascraping/multimediainfo/description) { get; set; } | Multimedia description. |
+| [Duration](../../aspose.html.datascraping.multimediascraping/multimediainfo/duration) { get; set; } | Multimedia duration in second. |
+| [MultimediaHost](../../aspose.html.datascraping.multimediascraping/multimediainfo/multimediahost) { get; } | Host from which this info was obtained. |
+| [Thumbnails](../../aspose.html.datascraping.multimediascraping/multimediainfo/thumbnails) { get; } | Collection of thumbnails URLs. |
+| [Title](../../aspose.html.datascraping.multimediascraping/multimediainfo/title) { get; set; } | Multimedia title. |
 
 ### See Also
 

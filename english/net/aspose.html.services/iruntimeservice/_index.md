@@ -18,7 +18,7 @@ public interface IRuntimeService : IService
 
 | Name | Description |
 | --- | --- |
-| [JavaScriptTimeout](javascripttimeout) { get; set; } | Gets or sets TimeSpan which limits JavaScript execution time. If script is executed longer than provided TimeSpan, it will be cancelled. You can specify infinite timeout by setting TimeSpan equal to -1 millisecond. Default value is 1 minute. |
+| [JavaScriptTimeout](../../aspose.html.services/iruntimeservice/javascripttimeout) { get; set; } | Gets or sets TimeSpan which limits JavaScript execution time. If script is executed longer than provided TimeSpan, it will be cancelled. You can specify infinite timeout by setting TimeSpan equal to -1 millisecond. Default value is 1 minute. |
 
 ### See Also
 

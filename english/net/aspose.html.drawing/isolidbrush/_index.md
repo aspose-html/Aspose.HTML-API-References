@@ -18,7 +18,7 @@ public interface ISolidBrush : IBrush
 
 | Name | Description |
 | --- | --- |
-| [Color](color) { get; } | Get color of the brush. |
+| [Color](../../aspose.html.drawing/isolidbrush/color) { get; } | Get color of the brush. |
 
 ### See Also
 

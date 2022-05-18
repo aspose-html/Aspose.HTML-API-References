@@ -20,14 +20,14 @@ public interface IHTMLOptionsCollection : IEnumerable<Element>
 
 | Name | Description |
 | --- | --- |
-| [Item](item) { get; } | Returns the indexth item in the collection. If index is greater than or equal to the number of nodes in the list, this returns null. (2 indexers) |
-| [Length](length) { get; } | The number of nodes in the list. |
+| [Item](../../aspose.html/ihtmloptionscollection/item) { get; } | Returns the indexth item in the collection. If index is greater than or equal to the number of nodes in the list, this returns null. (2 indexers) |
+| [Length](../../aspose.html/ihtmloptionscollection/length) { get; } | The number of nodes in the list. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [NamedItem](nameditem)(string) | Method returns the indexth item in the collection. http://www.w3.org/TR/DOM-Level-2-HTML/html.html#HTMLOptionsCollection-namedItem |
+| [NamedItem](../../aspose.html/ihtmloptionscollection/nameditem)(string) | Method returns the indexth item in the collection. http://www.w3.org/TR/DOM-Level-2-HTML/html.html#HTMLOptionsCollection-namedItem |
 
 ### See Also
 

@@ -21,13 +21,24 @@ public class MultipartFormDataContent : MultipartContent
 | [MultipartFormDataContent](multipartformdatacontent)() | Initializes a new instance of the [`MultipartFormDataContent`](../multipartformdatacontent) class. |
 | [MultipartFormDataContent](multipartformdatacontent)(string) | Initializes a new instance of the [`MultipartFormDataContent`](../multipartformdatacontent) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Headers](../../aspose.html.net/content/headers) { get; } | Gets the HTTP content headers. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Add](add)(Content) | Add the content to the [`MultipartFormDataContent`](../multipartformdatacontent) class |
-| [Add](add)(Content, string) | Add the content to the [`MultipartFormDataContent`](../multipartformdatacontent) class with field name parameter |
-| [Add](add)(Content, string, string) | Add the content to the [`MultipartFormDataContent`](../multipartformdatacontent) class with field and file name parameter |
+| override [Add](../../aspose.html.net/multipartformdatacontent/add)(Content) | Add the content to the [`MultipartFormDataContent`](../multipartformdatacontent) class |
+| [Add](../../aspose.html.net/multipartformdatacontent/add)(Content, string) | Add the content to the [`MultipartFormDataContent`](../multipartformdatacontent) class with field name parameter |
+| [Add](../../aspose.html.net/multipartformdatacontent/add)(Content, string, string) | Add the content to the [`MultipartFormDataContent`](../multipartformdatacontent) class with field and file name parameter |
+| [Dispose](../../aspose.html.net/content/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [GetEnumerator](../../aspose.html.net/multipartcontent/getenumerator)() | Returns an enumerator that iterates through a collection. |
+| [ReadAsByteArray](../../aspose.html.net/content/readasbytearray)() | Serialize the HTTP content and return a byte array that represents the content. |
+| [ReadAsStream](../../aspose.html.net/content/readasstream)() | Serialize the HTTP content and return a stream that represents the content. |
+| [ReadAsString](../../aspose.html.net/content/readasstring)() | Serialize the HTTP content and return a string that represents the content. |
 
 ### See Also
 

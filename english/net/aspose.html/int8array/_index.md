@@ -28,7 +28,23 @@ public class Int8Array : TypedArray<sbyte>
 
 | Name | Description |
 | --- | --- |
-| override [Item](item) { get; set; } | Gets or sets the SByte at the specified index. |
+| [Buffer](../../aspose.html/typedarray/buffer) { get; } | Gets the ArrayBuffer referenced by this instance. |
+| [ByteLength](../../aspose.html/typedarray/bytelength) { get; } | Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes. |
+| [ByteOffset](../../aspose.html/typedarray/byteoffset) { get; } | Gets the byteOffset from the start of referenced ArrayBuffer. |
+| override [Item](../../aspose.html/int8array/item) { get; set; } | Gets or sets the SByte at the specified index. |
+| [Length](../../aspose.html/typedarray/length) { get; } | Gets the length of a typed array. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+
+## Other Members
+
+| Name | Description |
+| --- | --- |
+| static readonly [BYTES_PER_ELEMENT](bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
 
 ### See Also
 

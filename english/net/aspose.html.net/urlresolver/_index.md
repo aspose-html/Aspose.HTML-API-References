@@ -24,7 +24,7 @@ public class UrlResolver
 
 | Name | Description |
 | --- | --- |
-| virtual [Resolve](resolve)(string, string) | Resolves the absolute URI from the base and relative URIs. |
+| virtual [Resolve](../../aspose.html.net/urlresolver/resolve)(string, string) | Resolves the absolute URI from the base and relative URIs. |
 
 ### See Also
 

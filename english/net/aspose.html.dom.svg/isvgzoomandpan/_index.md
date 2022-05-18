@@ -18,7 +18,7 @@ public interface ISVGZoomAndPan
 
 | Name | Description |
 | --- | --- |
-| [ZoomAndPan](zoomandpan) { get; set; } | Corresponds to attribute ‘zoomAndPan’ on the given element. The value must be one of the SVG_ZOOMANDPAN_* constants defined on this interface. |
+| [ZoomAndPan](../../aspose.html.dom.svg/isvgzoomandpan/zoomandpan) { get; set; } | Corresponds to attribute ‘zoomAndPan’ on the given element. The value must be one of the SVG_ZOOMANDPAN_* constants defined on this interface. |
 
 ### See Also
 

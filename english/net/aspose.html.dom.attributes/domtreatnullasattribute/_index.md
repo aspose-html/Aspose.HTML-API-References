@@ -25,8 +25,8 @@ public sealed class DOMTreatNullAsAttribute : Attribute
 
 | Name | Description |
 | --- | --- |
-| [Type](type) { get; set; } | Gets or sets value the type. |
-| [Value](value) { get; set; } | Gets or sets the value. |
+| [Type](../../aspose.html.dom.attributes/domtreatnullasattribute/type) { get; set; } | Gets or sets value the type. |
+| [Value](../../aspose.html.dom.attributes/domtreatnullasattribute/value) { get; set; } | Gets or sets the value. |
 
 ### See Also
 

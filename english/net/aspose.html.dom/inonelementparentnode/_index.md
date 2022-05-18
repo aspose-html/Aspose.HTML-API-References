@@ -18,7 +18,7 @@ public interface INonElementParentNode
 
 | Name | Description |
 | --- | --- |
-| [GetElementById](getelementbyid)(string) | Returns the first element within node's descendants whose ID is elementId. |
+| [GetElementById](../../aspose.html.dom/inonelementparentnode/getelementbyid)(string) | Returns the first element within node's descendants whose ID is elementId. |
 
 ### See Also
 

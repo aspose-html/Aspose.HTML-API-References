@@ -18,7 +18,7 @@ public interface IDocumentEvent
 
 | Name | Description |
 | --- | --- |
-| [CreateEvent](createevent)(string) | Creates an [`Event`](../event) of a type supported by the implementation. |
+| [CreateEvent](../../aspose.html.dom.events/idocumentevent/createevent)(string) | Creates an [`Event`](../event) of a type supported by the implementation. |
 
 ### Remarks
 

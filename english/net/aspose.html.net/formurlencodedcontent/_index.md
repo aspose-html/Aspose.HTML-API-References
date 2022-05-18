@@ -20,6 +20,21 @@ public class FormUrlEncodedContent : ByteArrayContent
 | --- | --- |
 | [FormUrlEncodedContent](formurlencodedcontent)(IEnumerable&lt;KeyValuePair&lt;string, string&gt;&gt;) | Initializes a new instance of the [`FormUrlEncodedContent`](../formurlencodedcontent) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Headers](../../aspose.html.net/content/headers) { get; } | Gets the HTTP content headers. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| [Dispose](../../aspose.html.net/content/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [ReadAsByteArray](../../aspose.html.net/content/readasbytearray)() | Serialize the HTTP content and return a byte array that represents the content. |
+| [ReadAsStream](../../aspose.html.net/content/readasstream)() | Serialize the HTTP content and return a stream that represents the content. |
+| [ReadAsString](../../aspose.html.net/content/readasstring)() | Serialize the HTTP content and return a string that represents the content. |
+
 ### See Also
 
 * class [ByteArrayContent](../bytearraycontent)

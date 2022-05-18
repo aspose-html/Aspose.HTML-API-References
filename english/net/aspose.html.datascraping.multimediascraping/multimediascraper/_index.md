@@ -25,9 +25,9 @@ public class MultimediaScraper : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [GetMultimedia](getmultimedia)(string) | Creates a [`Multimedia`](../multimedia) object which can collect information from the specified page URL. |
-| [RegisterFactory](registerfactory)(MultimediaFactory) | Registers [`MultimediaFactory`](../multimediafactory). |
+| [Dispose](../../aspose.html.datascraping.multimediascraping/multimediascraper/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [GetMultimedia](../../aspose.html.datascraping.multimediascraping/multimediascraper/getmultimedia)(string) | Creates a [`Multimedia`](../multimedia) object which can collect information from the specified page URL. |
+| [RegisterFactory](../../aspose.html.datascraping.multimediascraping/multimediascraper/registerfactory)(MultimediaFactory) | Registers [`MultimediaFactory`](../multimediafactory). |
 
 ### See Also
 

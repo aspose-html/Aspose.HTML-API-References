@@ -18,7 +18,7 @@ public interface IElementInit
 
 | Name | Description |
 | --- | --- |
-| [Document](document) { get; } | This property represents the owner document. |
+| [Document](../../aspose.html.dom/ielementinit/document) { get; } | This property represents the owner document. |
 
 ### See Also
 

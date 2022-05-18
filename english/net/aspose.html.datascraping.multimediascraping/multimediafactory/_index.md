@@ -18,7 +18,7 @@ public abstract class MultimediaFactory
 
 | Name | Description |
 | --- | --- |
-| abstract [TryCreate](trycreate)(string, out Multimedia) | Creates a [`Multimedia`](../multimedia) object which can collect information from the specified page URL. |
+| abstract [TryCreate](../../aspose.html.datascraping.multimediascraping/multimediafactory/trycreate)(string, out Multimedia) | Creates a [`Multimedia`](../multimedia) object which can collect information from the specified page URL. |
 
 ### See Also
 

@@ -18,7 +18,7 @@ public class OutputStreamContext
 
 | Name | Description |
 | --- | --- |
-| [Uri](uri) { get; } | Gets the original URI of the saved resource. |
+| [Uri](../../aspose.html.io/outputstreamcontext/uri) { get; } | Gets the original URI of the saved resource. |
 
 ### See Also
 

@@ -25,14 +25,15 @@ public class ArrayBuffer : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [ByteLength](bytelength) { get; } | The byteLength accessor property represents the length of an ArrayBuffer in bytes. |
-| [Item](item) { get; set; } | Gets or sets the Byte at the specified index. |
+| [ByteLength](../../aspose.html/arraybuffer/bytelength) { get; } | The byteLength accessor property represents the length of an ArrayBuffer in bytes. |
+| [Item](../../aspose.html/arraybuffer/item) { get; set; } | Gets or sets the Byte at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [explicit operator](op_explicit) | Performs an explicit conversion from [`ArrayBuffer`](../arraybuffer) to !:System.Byte[]. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [explicit operator](../../aspose.html/arraybuffer/op_explicit) | Performs an explicit conversion from [`ArrayBuffer`](../arraybuffer) to !:System.Byte[]. |
 
 ### See Also
 

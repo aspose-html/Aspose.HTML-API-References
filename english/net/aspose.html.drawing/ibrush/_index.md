@@ -18,7 +18,7 @@ public interface IBrush
 
 | Name | Description |
 | --- | --- |
-| [Type](type) { get; } | Get type of brush; |
+| [Type](../../aspose.html.drawing/ibrush/type) { get; } | Get type of brush; |
 
 ### See Also
 

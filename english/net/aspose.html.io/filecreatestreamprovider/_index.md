@@ -26,17 +26,17 @@ public class FileCreateStreamProvider : ICreateStreamProvider
 
 | Name | Description |
 | --- | --- |
-| [Directory](directory) { get; set; } | Gets or sets the directory. |
-| [Name](name) { get; set; } | Gets or sets the name. |
+| [Directory](../../aspose.html.io/filecreatestreamprovider/directory) { get; set; } | Gets or sets the directory. |
+| [Name](../../aspose.html.io/filecreatestreamprovider/name) { get; set; } | Gets or sets the name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [GetStream](getstream)(string, string) | Provides a stream for rendering. |
-| [GetStream](getstream)(string, string, int) | Provides a stream for rendering. |
-| [ReleaseStream](releasestream)(Stream) | Releases the stream. |
+| [Dispose](../../aspose.html.io/filecreatestreamprovider/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [GetStream](../../aspose.html.io/filecreatestreamprovider/getstream)(string, string) | Provides a stream for rendering. |
+| [GetStream](../../aspose.html.io/filecreatestreamprovider/getstream)(string, string, int) | Provides a stream for rendering. |
+| [ReleaseStream](../../aspose.html.io/filecreatestreamprovider/releasestream)(Stream) | Releases the stream. |
 
 ### See Also
 

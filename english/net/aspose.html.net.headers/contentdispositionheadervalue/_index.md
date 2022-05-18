@@ -24,17 +24,17 @@ public class ContentDispositionHeaderValue
 
 | Name | Description |
 | --- | --- |
-| [DispositionType](dispositiontype) { get; set; } | Get or set disposition type |
-| [FileName](filename) { get; set; } | The name of the stored file. |
-| [Name](name) { get; set; } | The name for a content body part. |
-| [Parameters](parameters) { get; } | Get collection of paremeters |
+| [DispositionType](../../aspose.html.net.headers/contentdispositionheadervalue/dispositiontype) { get; set; } | Get or set disposition type |
+| [FileName](../../aspose.html.net.headers/contentdispositionheadervalue/filename) { get; set; } | The name of the stored file. |
+| [Name](../../aspose.html.net.headers/contentdispositionheadervalue/name) { get; set; } | The name for a content body part. |
+| [Parameters](../../aspose.html.net.headers/contentdispositionheadervalue/parameters) { get; } | Get collection of paremeters |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Determines whether the specified Object is equal to this instance. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| override [Equals](../../aspose.html.net.headers/contentdispositionheadervalue/equals)(object) | Determines whether the specified Object is equal to this instance. |
+| override [ToString](../../aspose.html.net.headers/contentdispositionheadervalue/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

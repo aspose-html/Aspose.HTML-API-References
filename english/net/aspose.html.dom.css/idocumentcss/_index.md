@@ -18,7 +18,7 @@ public interface IDocumentCSS : IDocumentStyle
 
 | Name | Description |
 | --- | --- |
-| [GetOverrideStyle](getoverridestyle)(Element, string) | This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element. |
+| [GetOverrideStyle](../../aspose.html.dom.css/idocumentcss/getoverridestyle)(Element, string) | This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element. |
 
 ### See Also
 

@@ -18,19 +18,19 @@ public abstract class CSSValue : DOMObject
 
 | Name | Description |
 | --- | --- |
-| abstract [CSSText](csstext) { get; set; } | A string representation of the current value. |
-| [CSSValueType](cssvaluetype) { get; } | A code defining the type of the value. |
+| abstract [CSSText](../../aspose.html.dom.css/cssvalue/csstext) { get; set; } | A string representation of the current value. |
+| [CSSValueType](../../aspose.html.dom.css/cssvalue/cssvaluetype) { get; } | A code defining the type of the value. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](equals)(object) | Determines whether the specified Object is equal to this instance. |
-| override [GetHashCode](gethashcode)() | Returns a hash code for this instance. |
-| override [GetPlatformType](getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
-| [operator ==](op_equality) | Implements the operator ==. |
-| [operator !=](op_inequality) | Implements the operator !=. |
+| override [Equals](../../aspose.html.dom.css/cssvalue/equals)(object) | Determines whether the specified Object is equal to this instance. |
+| override [GetHashCode](../../aspose.html.dom.css/cssvalue/gethashcode)() | Returns a hash code for this instance. |
+| override [GetPlatformType](../../aspose.html.dom.css/cssvalue/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| override [ToString](../../aspose.html.dom.css/cssvalue/tostring)() | Returns a String that represents this instance. |
+| [operator ==](../../aspose.html.dom.css/cssvalue/op_equality) | Implements the operator ==. |
+| [operator !=](../../aspose.html.dom.css/cssvalue/op_inequality) | Implements the operator !=. |
 
 ## Other Members
 

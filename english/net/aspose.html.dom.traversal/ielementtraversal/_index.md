@@ -18,11 +18,11 @@ public interface IElementTraversal
 
 | Name | Description |
 | --- | --- |
-| [ChildElementCount](childelementcount) { get; } | Returns the current number of element nodes that are children of this element. 0 if this element has no child nodes that are of nodeType 1. |
-| [FirstElementChild](firstelementchild) { get; } | Returns the first child element node of this element. null if this element has no child elements. |
-| [LastElementChild](lastelementchild) { get; } | Returns the last child element node of this element. null if this element has no child elements. |
-| [NextElementSibling](nextelementsibling) { get; } | Returns the next sibling element node of this element. null if this element has no element sibling nodes that come after this one in the document tree. |
-| [PreviousElementSibling](previouselementsibling) { get; } | Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree. |
+| [ChildElementCount](../../aspose.html.dom.traversal/ielementtraversal/childelementcount) { get; } | Returns the current number of element nodes that are children of this element. 0 if this element has no child nodes that are of nodeType 1. |
+| [FirstElementChild](../../aspose.html.dom.traversal/ielementtraversal/firstelementchild) { get; } | Returns the first child element node of this element. null if this element has no child elements. |
+| [LastElementChild](../../aspose.html.dom.traversal/ielementtraversal/lastelementchild) { get; } | Returns the last child element node of this element. null if this element has no child elements. |
+| [NextElementSibling](../../aspose.html.dom.traversal/ielementtraversal/nextelementsibling) { get; } | Returns the next sibling element node of this element. null if this element has no element sibling nodes that come after this one in the document tree. |
+| [PreviousElementSibling](../../aspose.html.dom.traversal/ielementtraversal/previouselementsibling) { get; } | Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree. |
 
 ### See Also
 

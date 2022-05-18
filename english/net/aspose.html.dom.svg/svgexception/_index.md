@@ -24,7 +24,7 @@ public class SVGException : PlatformException
 
 | Name | Description |
 | --- | --- |
-| [Code](code) { get; } | A code identifying the reason why the requested operation could not be performed. The value of this member will be one of the constants in the SVGException code group. |
+| [Code](../../aspose.html.dom.svg/svgexception/code) { get; } | A code identifying the reason why the requested operation could not be performed. The value of this member will be one of the constants in the SVGException code group. |
 
 ### See Also
 

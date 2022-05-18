@@ -18,7 +18,7 @@ public interface IHTMLFormElement
 
 | Name | Description |
 | --- | --- |
-| [Elements](elements) { get; } | Gets the collection of the child form elements. |
+| [Elements](../../aspose.html/ihtmlformelement/elements) { get; } | Gets the collection of the child form elements. |
 
 ### See Also
 

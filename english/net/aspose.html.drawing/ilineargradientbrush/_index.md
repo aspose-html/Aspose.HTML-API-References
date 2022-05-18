@@ -18,12 +18,12 @@ public interface ILinearGradientBrush : IGradientBrush
 
 | Name | Description |
 | --- | --- |
-| [Angle](angle) { get; } | Gets the angle, measured in degrees clockwise from the x-axis, of the gradient's orientation line. |
-| [EndColor](endcolor) { get; } | Get the ending color of the linear gradient. |
-| [EndPoint](endpoint) { get; } | Get the starting point of the linear gradient. |
-| [Rect](rect) { get; } | Get a rectangular region that defines the starting and ending points of the gradient. |
-| [StartColor](startcolor) { get; } | Get the starting color of the linear gradient. |
-| [StartPoint](startpoint) { get; } | Get the starting point of the linear gradient. |
+| [Angle](../../aspose.html.drawing/ilineargradientbrush/angle) { get; } | Gets the angle, measured in degrees clockwise from the x-axis, of the gradient's orientation line. |
+| [EndColor](../../aspose.html.drawing/ilineargradientbrush/endcolor) { get; } | Get the ending color of the linear gradient. |
+| [EndPoint](../../aspose.html.drawing/ilineargradientbrush/endpoint) { get; } | Get the starting point of the linear gradient. |
+| [Rect](../../aspose.html.drawing/ilineargradientbrush/rect) { get; } | Get a rectangular region that defines the starting and ending points of the gradient. |
+| [StartColor](../../aspose.html.drawing/ilineargradientbrush/startcolor) { get; } | Get the starting color of the linear gradient. |
+| [StartPoint](../../aspose.html.drawing/ilineargradientbrush/startpoint) { get; } | Get the starting point of the linear gradient. |
 
 ### See Also
 

@@ -18,7 +18,7 @@ public interface ILinkStyle
 
 | Name | Description |
 | --- | --- |
-| [Sheet](sheet) { get; } | Gets the associated style sheet. |
+| [Sheet](../../aspose.html.dom.css/ilinkstyle/sheet) { get; } | Gets the associated style sheet. |
 
 ### See Also
 

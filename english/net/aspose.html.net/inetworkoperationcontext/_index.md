@@ -18,8 +18,8 @@ public interface INetworkOperationContext
 
 | Name | Description |
 | --- | --- |
-| [Request](request) { get; set; } | Gets or sets the request message. |
-| [Response](response) { get; set; } | Gets or sets the response message. |
+| [Request](../../aspose.html.net/inetworkoperationcontext/request) { get; set; } | Gets or sets the request message. |
+| [Response](../../aspose.html.net/inetworkoperationcontext/response) { get; set; } | Gets or sets the response message. |
 
 ### See Also
 

@@ -24,15 +24,15 @@ public class Configuration : IServiceContainer
 
 | Name | Description |
 | --- | --- |
-| [Security](security) { get; set; } | Gets or sets the sandboxing flag of the configuration. |
+| [Security](../../aspose.html/configuration/security) { get; set; } | Gets or sets the sandboxing flag of the configuration. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AddService&lt;TService&gt;](addservice)(TService) | Adds the specified service to the configuration. |
-| [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [GetService&lt;TService&gt;](getservice)() | Gets the requested service. |
+| [AddService&lt;TService&gt;](../../aspose.html/configuration/addservice)(TService) | Adds the specified service to the configuration. |
+| [Dispose](../../aspose.html/configuration/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [GetService&lt;TService&gt;](../../aspose.html/configuration/getservice)() | Gets the requested service. |
 
 ### See Also
 

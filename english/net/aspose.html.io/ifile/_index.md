@@ -18,8 +18,8 @@ public interface IFile : IBlob
 
 | Name | Description |
 | --- | --- |
-| [LastModified](lastmodified) { get; } | The last modified date of the file. On getting, if user agents can make this information available, this must return a long long set to the time the file was last modified as the number of milliseconds since the Unix Epoch. |
-| [Name](name) { get; } | The name of the file. On getting, this must return the name of the file as a string. |
+| [LastModified](../../aspose.html.io/ifile/lastmodified) { get; } | The last modified date of the file. On getting, if user agents can make this information available, this must return a long long set to the time the file was last modified as the number of milliseconds since the Unix Epoch. |
+| [Name](../../aspose.html.io/ifile/name) { get; } | The name of the file. On getting, this must return the name of the file as a string. |
 
 ### See Also
 

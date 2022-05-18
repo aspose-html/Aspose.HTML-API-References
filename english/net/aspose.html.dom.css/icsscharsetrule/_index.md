@@ -18,7 +18,7 @@ public interface ICSSCharsetRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [Encoding](encoding) { get; set; } | The encoding information used in this @charset rule. |
+| [Encoding](../../aspose.html.dom.css/icsscharsetrule/encoding) { get; set; } | The encoding information used in this @charset rule. |
 
 ### See Also
 

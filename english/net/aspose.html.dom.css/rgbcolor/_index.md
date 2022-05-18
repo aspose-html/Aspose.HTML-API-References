@@ -18,16 +18,17 @@ public class RGBColor : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Alpha](alpha) { get; } | This attribute is used for the alpha value of the RGB color. |
-| [Blue](blue) { get; } | This attribute is used for the blue value of the RGB color. |
-| [Green](green) { get; } | This attribute is used for the green value of the RGB color. |
-| [Red](red) { get; } | This attribute is used for the red value of the RGB color. |
+| [Alpha](../../aspose.html.dom.css/rgbcolor/alpha) { get; } | This attribute is used for the alpha value of the RGB color. |
+| [Blue](../../aspose.html.dom.css/rgbcolor/blue) { get; } | This attribute is used for the blue value of the RGB color. |
+| [Green](../../aspose.html.dom.css/rgbcolor/green) { get; } | This attribute is used for the green value of the RGB color. |
+| [Red](../../aspose.html.dom.css/rgbcolor/red) { get; } | This attribute is used for the red value of the RGB color. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ToNative](tonative)() | Converts to the native color object. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [ToNative](../../aspose.html.dom.css/rgbcolor/tonative)() | Converts to the native color object. |
 
 ### See Also
 

@@ -18,7 +18,7 @@ public interface IDocumentView : IAbstractView
 
 | Name | Description |
 | --- | --- |
-| [DefaultView](defaultview) { get; } | The default AbstractView for this Document, or null if none available. |
+| [DefaultView](../../aspose.html.dom.views/idocumentview/defaultview) { get; } | The default AbstractView for this Document, or null if none available. |
 
 ### See Also
 

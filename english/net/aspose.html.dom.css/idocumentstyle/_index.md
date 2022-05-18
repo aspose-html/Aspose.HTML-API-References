@@ -18,7 +18,7 @@ public interface IDocumentStyle
 
 | Name | Description |
 | --- | --- |
-| [StyleSheets](stylesheets) { get; } | A list containing all the style sheets explicitly linked into or embedded in a document. For HTML documents, this includes external style sheets, included via the HTML LINK element, and inline STYLE elements. |
+| [StyleSheets](../../aspose.html.dom.css/idocumentstyle/stylesheets) { get; } | A list containing all the style sheets explicitly linked into or embedded in a document. For HTML documents, this includes external style sheets, included via the HTML LINK element, and inline STYLE elements. |
 
 ### See Also
 

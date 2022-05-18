@@ -18,9 +18,9 @@ public interface ISVGTests
 
 | Name | Description |
 | --- | --- |
-| [RequiredExtensions](requiredextensions) { get; } | Corresponds to attribute ‘requiredExtensions’ on the given element. |
-| [RequiredFeatures](requiredfeatures) { get; } | Corresponds to attribute ‘requiredFeatures’ on the given element. |
-| [SystemLanguage](systemlanguage) { get; } | Corresponds to attribute ‘systemLanguage’ on the given element. |
+| [RequiredExtensions](../../aspose.html.dom.svg/isvgtests/requiredextensions) { get; } | Corresponds to attribute ‘requiredExtensions’ on the given element. |
+| [RequiredFeatures](../../aspose.html.dom.svg/isvgtests/requiredfeatures) { get; } | Corresponds to attribute ‘requiredFeatures’ on the given element. |
+| [SystemLanguage](../../aspose.html.dom.svg/isvgtests/systemlanguage) { get; } | Corresponds to attribute ‘systemLanguage’ on the given element. |
 
 ### See Also
 

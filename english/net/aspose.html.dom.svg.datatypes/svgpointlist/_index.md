@@ -14,11 +14,29 @@ This interface defines a list of SVGPoint objects.
 public class SVGPointList : SVGListBase<SVGPoint>
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Item](../../aspose.html.dom.svg.collections/svglistbase`1/item) { get; set; } |  |
+| [Length](../../aspose.html.dom.svg.collections/svglistbase`1/length) { get; } |  |
+| [NumberOfItems](../../aspose.html.dom.svg.collections/svglistbase`1/numberofitems) { get; } |  |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](tostring)() | Returns a String that represents this instance. |
+| [AppendItem](../../aspose.html.dom.svg.collections/svglistbase`1/appenditem)(SVGPoint) |  |
+| [Clear](../../aspose.html.dom.svg.collections/svglistbase`1/clear)() |  |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase`1/getenumerator)() |  |
+| [GetItem](../../aspose.html.dom.svg.collections/svglistbase`1/getitem)(ulong) |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| [Initialize](../../aspose.html.dom.svg.collections/svglistbase`1/initialize)(SVGPoint) |  |
+| [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase`1/insertitembefore)(SVGPoint, ulong) |  |
+| [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase`1/removeitem)(ulong) |  |
+| [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase`1/replaceitem)(SVGPoint, ulong) |  |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svgpointlist/tostring)() | Returns a String that represents this instance. |
 
 ### See Also
 

@@ -18,10 +18,10 @@ public class FontMatchingProperties
 
 | Name | Description |
 | --- | --- |
-| [FontFamilies](fontfamilies) { get; } | Gets the collection of font families. |
-| [FontStretch](fontstretch) { get; } | Gets the font stretch value. |
-| [FontStyle](fontstyle) { get; } | Gets the font style value. This property can have such values: normal, italic, oblique. |
-| [FontWeight](fontweight) { get; } | Gets the font weight value. |
+| [FontFamilies](../../aspose.html.rendering.fonts/fontmatchingproperties/fontfamilies) { get; } | Gets the collection of font families. |
+| [FontStretch](../../aspose.html.rendering.fonts/fontmatchingproperties/fontstretch) { get; } | Gets the font stretch value. |
+| [FontStyle](../../aspose.html.rendering.fonts/fontmatchingproperties/fontstyle) { get; } | Gets the font style value. This property can have such values: normal, italic, oblique. |
+| [FontWeight](../../aspose.html.rendering.fonts/fontmatchingproperties/fontweight) { get; } | Gets the font weight value. |
 
 ### See Also
 

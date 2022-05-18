@@ -18,10 +18,10 @@ public abstract class FormElement
 
 | Name | Description |
 | --- | --- |
-| [ElementType](elementtype) { get; } | Gets the type of the element. |
-| virtual [Id](id) { get; set; } | Gets or sets the identifier of the form element. |
-| virtual [Name](name) { get; set; } | Gets or sets the name of the form element. |
-| virtual [Value](value) { get; set; } | The value of field |
+| [ElementType](../../aspose.html.forms/formelement/elementtype) { get; } | Gets the type of the element. |
+| virtual [Id](../../aspose.html.forms/formelement/id) { get; set; } | Gets or sets the identifier of the form element. |
+| virtual [Name](../../aspose.html.forms/formelement/name) { get; set; } | Gets or sets the name of the form element. |
+| virtual [Value](../../aspose.html.forms/formelement/value) { get; set; } | The value of field |
 
 ### See Also
 

@@ -18,10 +18,10 @@ public interface ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [CSSText](csstext) { get; set; } | The parsable textual representation of the rule. This reflects the current state of the rule and not its initial value. |
-| [ParentRule](parentrule) { get; } | If this rule is contained inside another rule (e.g. a style rule inside an @media block), this is the containing rule. If this rule is not nested inside any other rules, this returns null. |
-| [ParentStyleSheet](parentstylesheet) { get; } | The style sheet that contains this rule. |
-| [Type](type) { get; } | The type of the rule, as defined above. The expectation is that binding-specific casting methods can be used to cast down from an instance of the CSSRule interface to the specific derived interface implied by the type. |
+| [CSSText](../../aspose.html.dom.css/icssrule/csstext) { get; set; } | The parsable textual representation of the rule. This reflects the current state of the rule and not its initial value. |
+| [ParentRule](../../aspose.html.dom.css/icssrule/parentrule) { get; } | If this rule is contained inside another rule (e.g. a style rule inside an @media block), this is the containing rule. If this rule is not nested inside any other rules, this returns null. |
+| [ParentStyleSheet](../../aspose.html.dom.css/icssrule/parentstylesheet) { get; } | The style sheet that contains this rule. |
+| [Type](../../aspose.html.dom.css/icssrule/type) { get; } | The type of the rule, as defined above. The expectation is that binding-specific casting methods can be used to cast down from an instance of the CSSRule interface to the specific derived interface implied by the type. |
 
 ### See Also
 

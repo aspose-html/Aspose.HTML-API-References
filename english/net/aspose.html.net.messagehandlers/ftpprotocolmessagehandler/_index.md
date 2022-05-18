@@ -20,11 +20,17 @@ public class FtpProtocolMessageHandler : MessageHandler
 | --- | --- |
 | [FtpProtocolMessageHandler](ftpprotocolmessagehandler)() | Initializes a new instance of the [`FtpProtocolMessageHandler`](../ftpprotocolmessagehandler) class. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Filters](../../aspose.html.net/messagehandler/filters) { get; } | Gets the filters list that are corresponding to the specified handler type. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Invoke](invoke)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
+| override [Invoke](../../aspose.html.net.messagehandlers/ftpprotocolmessagehandler/invoke)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
 
 ### See Also
 

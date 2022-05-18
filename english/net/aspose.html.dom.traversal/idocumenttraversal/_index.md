@@ -20,12 +20,12 @@ public interface IDocumentTraversal
 
 | Name | Description |
 | --- | --- |
-| [CreateNodeIterator](createnodeiterator)(Node) | Create a new NodeIterator over the subtree rooted at the specified node. |
-| [CreateNodeIterator](createnodeiterator)(Node, long) | Create a new NodeIterator over the subtree rooted at the specified node. |
-| [CreateNodeIterator](createnodeiterator)(Node, long, INodeFilter) | Create a new NodeIterator over the subtree rooted at the specified node. |
-| [CreateTreeWalker](createtreewalker)(Node) | Create a new TreeWalker over the subtree rooted at the specified node. |
-| [CreateTreeWalker](createtreewalker)(Node, long) | Create a new TreeWalker over the subtree rooted at the specified node. |
-| [CreateTreeWalker](createtreewalker)(Node, long, INodeFilter) | Create a new TreeWalker over the subtree rooted at the specified node. |
+| [CreateNodeIterator](../../aspose.html.dom.traversal/idocumenttraversal/createnodeiterator)(Node) | Create a new NodeIterator over the subtree rooted at the specified node. |
+| [CreateNodeIterator](../../aspose.html.dom.traversal/idocumenttraversal/createnodeiterator)(Node, long) | Create a new NodeIterator over the subtree rooted at the specified node. |
+| [CreateNodeIterator](../../aspose.html.dom.traversal/idocumenttraversal/createnodeiterator)(Node, long, INodeFilter) | Create a new NodeIterator over the subtree rooted at the specified node. |
+| [CreateTreeWalker](../../aspose.html.dom.traversal/idocumenttraversal/createtreewalker)(Node) | Create a new TreeWalker over the subtree rooted at the specified node. |
+| [CreateTreeWalker](../../aspose.html.dom.traversal/idocumenttraversal/createtreewalker)(Node, long) | Create a new TreeWalker over the subtree rooted at the specified node. |
+| [CreateTreeWalker](../../aspose.html.dom.traversal/idocumenttraversal/createtreewalker)(Node, long, INodeFilter) | Create a new TreeWalker over the subtree rooted at the specified node. |
 
 ### See Also
 

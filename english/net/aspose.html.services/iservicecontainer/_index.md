@@ -18,7 +18,7 @@ public interface IServiceContainer : IDisposable, IServiceProvider
 
 | Name | Description |
 | --- | --- |
-| [AddService&lt;TService&gt;](addservice)(TService) | Adds the specified service to the service container. |
+| [AddService&lt;TService&gt;](../../aspose.html.services/iservicecontainer/addservice)(TService) | Adds the specified service to the service container. |
 
 ### See Also
 

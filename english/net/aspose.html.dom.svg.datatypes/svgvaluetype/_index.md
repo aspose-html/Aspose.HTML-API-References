@@ -18,7 +18,8 @@ public abstract class SVGValueType : DOMObject, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Dispose](dispose)() | Releases unmanaged and - optionally - managed resources. |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
 
 ### See Also
 

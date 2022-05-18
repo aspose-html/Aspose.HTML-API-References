@@ -18,16 +18,16 @@ public class OptionCollection : IEnumerable<OptionElement>
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | The number of Option in the list. |
-| [Item](item) { get; } | Gets the [`OptionElement`](../optionelement) at the specified index. |
+| [Count](../../aspose.html.forms/optioncollection/count) { get; } | The number of Option in the list. |
+| [Item](../../aspose.html.forms/optioncollection/item) { get; } | Gets the [`OptionElement`](../optionelement) at the specified index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)() | Add new option. |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through the collection. |
-| [Remove](remove)(OptionElement) | Remove the option from list. |
+| [Add](../../aspose.html.forms/optioncollection/add)() | Add new option. |
+| [GetEnumerator](../../aspose.html.forms/optioncollection/getenumerator)() | Returns an enumerator that iterates through the collection. |
+| [Remove](../../aspose.html.forms/optioncollection/remove)(OptionElement) | Remove the option from list. |
 
 ### See Also
 

@@ -26,8 +26,8 @@ public class Size
 
 | Name | Description |
 | --- | --- |
-| [Height](height) { get; set; } | Gets or sets the vertical component of this [`Size`](../size). |
-| [Width](width) { get; set; } | Gets or sets the horizontal component of this [`Size`](../size). |
+| [Height](../../aspose.html.drawing/size/height) { get; set; } | Gets or sets the vertical component of this [`Size`](../size). |
+| [Width](../../aspose.html.drawing/size/width) { get; set; } | Gets or sets the horizontal component of this [`Size`](../size). |
 
 ### See Also
 

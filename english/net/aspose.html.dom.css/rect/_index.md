@@ -18,10 +18,16 @@ public class Rect : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Bottom](bottom) { get; } | This attribute is used for the bottom of the rect. |
-| [Left](left) { get; } | This attribute is used for the left of the rect. |
-| [Right](right) { get; } | This attribute is used for the right of the rect. |
-| [Top](top) { get; } | This attribute is used for the top of the rect. |
+| [Bottom](../../aspose.html.dom.css/rect/bottom) { get; } | This attribute is used for the bottom of the rect. |
+| [Left](../../aspose.html.dom.css/rect/left) { get; } | This attribute is used for the left of the rect. |
+| [Right](../../aspose.html.dom.css/rect/right) { get; } | This attribute is used for the right of the rect. |
+| [Top](../../aspose.html.dom.css/rect/top) { get; } | This attribute is used for the top of the rect. |
+
+## Methods
+
+| Name | Description |
+| --- | --- |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
 
 ### See Also
 

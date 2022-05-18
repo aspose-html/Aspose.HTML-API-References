@@ -18,16 +18,16 @@ public abstract class Multimedia : IDisposable
 
 | Name | Description |
 | --- | --- |
-| abstract [MultimediaHost](multimediahost) { get; } | Gets the host supported by this [`Multimedia`](../multimedia). |
-| [Url](url) { get; } | Gets the associated page URL. |
+| abstract [MultimediaHost](../../aspose.html.datascraping.multimediascraping/multimedia/multimediahost) { get; } | Gets the host supported by this [`Multimedia`](../multimedia). |
+| [Url](../../aspose.html.datascraping.multimediascraping/multimedia/url) { get; } | Gets the associated page URL. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [CollectVideoInfo](collectvideoinfo)() | Collects video information from the associated page. |
-| [Dispose](dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| abstract [Download](download)(VideoFormatInfo, string) | Downloads the video file referenced in *videoFormatInfo* to a local file specified by *path*. |
+| abstract [CollectVideoInfo](../../aspose.html.datascraping.multimediascraping/multimedia/collectvideoinfo)() | Collects video information from the associated page. |
+| [Dispose](../../aspose.html.datascraping.multimediascraping/multimedia/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| abstract [Download](../../aspose.html.datascraping.multimediascraping/multimedia/download)(VideoFormatInfo, string) | Downloads the video file referenced in *videoFormatInfo* to a local file specified by *path*. |
 
 ### See Also
 

@@ -24,9 +24,9 @@ public sealed class TemplateContentOptions
 
 | Name | Description |
 | --- | --- |
-| [ContentType](contenttype) { get; } | Content type property. |
-| [DataContent](datacontent) { get; } | Data content property. |
-| [Format](format) { get; } | String representation of [`ContentType`](./contenttype) property. |
+| [ContentType](../../aspose.html.converters/templatecontentoptions/contenttype) { get; } | Content type property. |
+| [DataContent](../../aspose.html.converters/templatecontentoptions/datacontent) { get; } | Data content property. |
+| [Format](../../aspose.html.converters/templatecontentoptions/format) { get; } | String representation of [`ContentType`](./contenttype) property. |
 
 ### See Also
 

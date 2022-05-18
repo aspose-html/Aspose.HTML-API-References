@@ -18,10 +18,10 @@ public interface IWindowTimers
 
 | Name | Description |
 | --- | --- |
-| [ClearInterval](clearinterval)(int) | Cancels the timeout set with setInterval() identified by handle |
-| [ClearTimeout](cleartimeout)(int) | Cancels the timeout set with setTimeout() identified by handle. |
-| [SetInterval](setinterval)(object, int, params object[]) | Schedules a timeout to run handler every timeout milliseconds. Any arguments are passed straight through to the handler. |
-| [SetTimeout](settimeout)(object, int, params object[]) | Schedules a timeout to run handler after timeout milliseconds. Any arguments are passed straight through to the handler. |
+| [ClearInterval](../../aspose.html.window/iwindowtimers/clearinterval)(int) | Cancels the timeout set with setInterval() identified by handle |
+| [ClearTimeout](../../aspose.html.window/iwindowtimers/cleartimeout)(int) | Cancels the timeout set with setTimeout() identified by handle. |
+| [SetInterval](../../aspose.html.window/iwindowtimers/setinterval)(object, int, params object[]) | Schedules a timeout to run handler every timeout milliseconds. Any arguments are passed straight through to the handler. |
+| [SetTimeout](../../aspose.html.window/iwindowtimers/settimeout)(object, int, params object[]) | Schedules a timeout to run handler after timeout milliseconds. Any arguments are passed straight through to the handler. |
 
 ### See Also
 

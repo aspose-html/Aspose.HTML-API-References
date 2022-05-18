@@ -18,7 +18,7 @@ public interface ICSSFontFaceRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [Style](style) { get; } | The declaration-block of this rule. |
+| [Style](../../aspose.html.dom.css/icssfontfacerule/style) { get; } | The declaration-block of this rule. |
 
 ### See Also
 

@@ -21,6 +21,20 @@ public class ImageSaveOptions : ImageRenderingOptions
 | [ImageSaveOptions](imagesaveoptions)() | Initializes a new instance of the [`ImageSaveOptions`](../imagesaveoptions) class; Png will be used as default image format. |
 | [ImageSaveOptions](imagesaveoptions)(ImageFormat) | Image format [`ImageFormat`](../../aspose.html.rendering.image/imageformat) based on initialization |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [BackgroundColor](../../aspose.html.rendering/renderingoptions/backgroundcolor) { get; set; } | Gets or sets Color which will fill background of every page. Default value is Transparent. |
+| [Compression](../../aspose.html.rendering.image/imagerenderingoptions/compression) { get; set; } | Sets or gets Tagged Image File Format (TIFF) [`Compression`](../../aspose.html.rendering.image/compression). By default this property is LZW. |
+| [Css](../../aspose.html.rendering/renderingoptions/css) { get; } | Gets a [`CssOptions`](../../aspose.html.rendering/cssoptions) object which is used for configuration of css properties processing. |
+| [Format](../../aspose.html.rendering.image/imagerenderingoptions/format) { get; set; } | Sets or gets [`ImageFormat`](../../aspose.html.rendering.image/imageformat). By default this property is Png. |
+| override [HorizontalResolution](../../aspose.html.rendering.image/imagerenderingoptions/horizontalresolution) { get; set; } | Sets or gets horizontal resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+| [PageSetup](../../aspose.html.rendering/renderingoptions/pagesetup) { get; } | Gets a page setup object is used for configuration output page-set. |
+| [SmoothingMode](../../aspose.html.rendering.image/imagerenderingoptions/smoothingmode) { get; set; } | Gets or sets the rendering quality for this Graphics. |
+| [Text](../../aspose.html.rendering.image/imagerenderingoptions/text) { get; } | Gets a [`TextOptions`](../../aspose.html.rendering.image/textoptions) object which is used for configuration of text rendering. |
+| override [VerticalResolution](../../aspose.html.rendering.image/imagerenderingoptions/verticalresolution) { get; set; } | Sets or gets vertical resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+
 ### See Also
 
 * class [ImageRenderingOptions](../../aspose.html.rendering.image/imagerenderingoptions)

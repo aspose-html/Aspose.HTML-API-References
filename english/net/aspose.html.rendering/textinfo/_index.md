@@ -18,7 +18,7 @@ public class TextInfo
 
 | Name | Description |
 | --- | --- |
-| [GlyphInfos](glyphinfos) { get; } | Gets information about rendered glyphs. |
+| [GlyphInfos](../../aspose.html.rendering/textinfo/glyphinfos) { get; } | Gets information about rendered glyphs. |
 
 ### See Also
 

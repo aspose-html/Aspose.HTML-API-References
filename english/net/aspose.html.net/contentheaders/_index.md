@@ -24,7 +24,7 @@ public class ContentHeaders : WebHeaderCollection
 
 | Name | Description |
 | --- | --- |
-| [ContentType](contenttype) { get; } | Gets the Content-Type header value. |
+| [ContentType](../../aspose.html.net/contentheaders/contenttype) { get; } | Gets the Content-Type header value. |
 
 ### See Also
 

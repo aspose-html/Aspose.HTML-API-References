@@ -18,19 +18,19 @@ public class VideoFormatInfoCollection : ICollection<VideoFormatInfo>
 
 | Name | Description |
 | --- | --- |
-| [Count](count) { get; } | Gets the number of items contained in the [`VideoFormatInfoCollection`](../videoformatinfocollection) collection. |
-| [IsReadOnly](isreadonly) { get; } | Determines whether the [`VideoFormatInfoCollection`](../videoformatinfocollection) collection is mutable. |
+| [Count](../../aspose.html.datascraping.multimediascraping/videoformatinfocollection/count) { get; } | Gets the number of items contained in the [`VideoFormatInfoCollection`](../videoformatinfocollection) collection. |
+| [IsReadOnly](../../aspose.html.datascraping.multimediascraping/videoformatinfocollection/isreadonly) { get; } | Determines whether the [`VideoFormatInfoCollection`](../videoformatinfocollection) collection is mutable. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](add)(VideoFormatInfo) | Adds an element to the [`VideoFormatInfoCollection`](../videoformatinfocollection) collection. |
-| [Clear](clear)() | Removes all the elements from the [`VideoFormatInfoCollection`](../videoformatinfocollection) collection. |
-| [Contains](contains)(VideoFormatInfo) | Determines whether the [`VideoFormatInfoCollection`](../videoformatinfocollection) contain the specified item. |
-| [CopyTo](copyto)(VideoFormatInfo[], int) | Copies the [`VideoFormatInfoCollection`](../videoformatinfocollection) elements to an existing one-dimensional array, starting at the specified array index. |
-| [GetEnumerator](getenumerator)() | Returns an enumerator that iterates through the [`VideoFormatInfoCollection`](../videoformatinfocollection) elements. |
-| [Remove](remove)(VideoFormatInfo) | Removes the specified item from the [`VideoFormatInfoCollection`](../videoformatinfocollection) collection. |
+| [Add](../../aspose.html.datascraping.multimediascraping/videoformatinfocollection/add)(VideoFormatInfo) | Adds an element to the [`VideoFormatInfoCollection`](../videoformatinfocollection) collection. |
+| [Clear](../../aspose.html.datascraping.multimediascraping/videoformatinfocollection/clear)() | Removes all the elements from the [`VideoFormatInfoCollection`](../videoformatinfocollection) collection. |
+| [Contains](../../aspose.html.datascraping.multimediascraping/videoformatinfocollection/contains)(VideoFormatInfo) | Determines whether the [`VideoFormatInfoCollection`](../videoformatinfocollection) contain the specified item. |
+| [CopyTo](../../aspose.html.datascraping.multimediascraping/videoformatinfocollection/copyto)(VideoFormatInfo[], int) | Copies the [`VideoFormatInfoCollection`](../videoformatinfocollection) elements to an existing one-dimensional array, starting at the specified array index. |
+| [GetEnumerator](../../aspose.html.datascraping.multimediascraping/videoformatinfocollection/getenumerator)() | Returns an enumerator that iterates through the [`VideoFormatInfoCollection`](../videoformatinfocollection) elements. |
+| [Remove](../../aspose.html.datascraping.multimediascraping/videoformatinfocollection/remove)(VideoFormatInfo) | Removes the specified item from the [`VideoFormatInfoCollection`](../videoformatinfocollection) collection. |
 
 ### See Also
 

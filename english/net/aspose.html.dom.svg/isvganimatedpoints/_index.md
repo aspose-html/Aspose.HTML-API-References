@@ -18,8 +18,8 @@ public interface ISVGAnimatedPoints
 
 | Name | Description |
 | --- | --- |
-| [AnimatedPoints](animatedpoints) { get; } | Provides access to the current animated contents of the ‘points’ attribute. If the given attribute or property is being animated, contains the current animated value of the attribute or property. If the given attribute or property is not currently being animated, contains the same value as points. |
-| [Points](points) { get; } | Provides access to the base (i.e., static) contents of the ‘points’ attribute. |
+| [AnimatedPoints](../../aspose.html.dom.svg/isvganimatedpoints/animatedpoints) { get; } | Provides access to the current animated contents of the ‘points’ attribute. If the given attribute or property is being animated, contains the current animated value of the attribute or property. If the given attribute or property is not currently being animated, contains the same value as points. |
+| [Points](../../aspose.html.dom.svg/isvganimatedpoints/points) { get; } | Provides access to the base (i.e., static) contents of the ‘points’ attribute. |
 
 ### See Also
 

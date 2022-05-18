@@ -18,15 +18,15 @@ public interface ICSSStyleSheet : IStyleSheet
 
 | Name | Description |
 | --- | --- |
-| [CSSRules](cssrules) { get; } | The list of all CSS rules contained within the style sheet. This includes both rule sets and at-rules. |
-| [OwnerRule](ownerrule) { get; } | If this style sheet comes from an @import rule, the ownerRule attribute will contain the CSSImportRule. In that case, the ownerNode attribute in the StyleSheet interface will be null. If the style sheet comes from an element or a processing instruction, the ownerRule attribute will be null and the ownerNode attribute will contain the Node. |
+| [CSSRules](../../aspose.html.dom.css/icssstylesheet/cssrules) { get; } | The list of all CSS rules contained within the style sheet. This includes both rule sets and at-rules. |
+| [OwnerRule](../../aspose.html.dom.css/icssstylesheet/ownerrule) { get; } | If this style sheet comes from an @import rule, the ownerRule attribute will contain the CSSImportRule. In that case, the ownerNode attribute in the StyleSheet interface will be null. If the style sheet comes from an element or a processing instruction, the ownerRule attribute will be null and the ownerNode attribute will contain the Node. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [DeleteRule](deleterule)(int) | Used to delete a rule from the style sheet. |
-| [InsertRule](insertrule)(string, int) | Used to insert a new rule into the style sheet. The new rule now becomes part of the cascade. |
+| [DeleteRule](../../aspose.html.dom.css/icssstylesheet/deleterule)(int) | Used to delete a rule from the style sheet. |
+| [InsertRule](../../aspose.html.dom.css/icssstylesheet/insertrule)(string, int) | Used to insert a new rule into the style sheet. The new rule now becomes part of the cascade. |
 
 ### See Also
 

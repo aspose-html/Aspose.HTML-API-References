@@ -24,7 +24,7 @@ public class TemplateLoadOptions
 
 | Name | Description |
 | --- | --- |
-| [NamesAreCaseSensitive](namesarecasesensitive) { get; set; } | Property that specifies whether the template and data element names will be matched regardless to the character case or not. If true, matching is case sensitive; if false, character case will be ignored. Default value is true. |
+| [NamesAreCaseSensitive](../../aspose.html.loading/templateloadoptions/namesarecasesensitive) { get; set; } | Property that specifies whether the template and data element names will be matched regardless to the character case or not. If true, matching is case sensitive; if false, character case will be ignored. Default value is true. |
 
 ### See Also
 

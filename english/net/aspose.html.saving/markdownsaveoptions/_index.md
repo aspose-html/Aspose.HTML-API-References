@@ -24,10 +24,11 @@ public class MarkdownSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
-| static [Default](default) { get; } | Returns set of options which are compatible with default Markdown documentation. |
-| static [Git](git) { get; } | Returns set of options which are compatible with GitLab Flavored Markdown. |
-| [Features](features) { get; set; } | Flag set that controls which elements are converted to markdown. |
-| [Formatter](formatter) { get; set; } | Gets or sets the markdown formatting style. |
+| static [Default](../../aspose.html.saving/markdownsaveoptions/default) { get; } | Returns set of options which are compatible with default Markdown documentation. |
+| static [Git](../../aspose.html.saving/markdownsaveoptions/git) { get; } | Returns set of options which are compatible with GitLab Flavored Markdown. |
+| [Features](../../aspose.html.saving/markdownsaveoptions/features) { get; set; } | Flag set that controls which elements are converted to markdown. |
+| [Formatter](../../aspose.html.saving/markdownsaveoptions/formatter) { get; set; } | Gets or sets the markdown formatting style. |
+| [ResourceHandlingOptions](../../aspose.html.saving/saveoptions/resourcehandlingoptions) { get; } | Gets a [`ResourceHandlingOptions`](../resourcehandlingoptions) object which is used for configuration of resources handling. |
 
 ### See Also
 

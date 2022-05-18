@@ -24,7 +24,12 @@ public class DataListElement : FormElement<HTMLDataListElement>
 
 | Name | Description |
 | --- | --- |
-| [Options](options) { get; } | Returns a list of options |
+| [ElementType](../../aspose.html.forms/formelement/elementtype) { get; } | Gets the type of the element. |
+| [HtmlElement](../../aspose.html.forms/formelement`1/htmlelement) { get; } |  |
+| virtual [Id](../../aspose.html.forms/formelement/id) { get; set; } | Gets or sets the identifier of the form element. |
+| virtual [Name](../../aspose.html.forms/formelement/name) { get; set; } | Gets or sets the name of the form element. |
+| [Options](../../aspose.html.forms/datalistelement/options) { get; } | Returns a list of options |
+| virtual [Value](../../aspose.html.forms/formelement/value) { get; set; } | The value of field |
 
 ### See Also
 

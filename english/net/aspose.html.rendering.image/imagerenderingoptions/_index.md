@@ -25,12 +25,15 @@ public class ImageRenderingOptions : RenderingOptions
 
 | Name | Description |
 | --- | --- |
-| [Compression](compression) { get; set; } | Sets or gets Tagged Image File Format (TIFF) [`Compression`](../compression). By default this property is LZW. |
-| [Format](format) { get; set; } | Sets or gets [`ImageFormat`](../imageformat). By default this property is Png. |
-| override [HorizontalResolution](horizontalresolution) { get; set; } | Sets or gets horizontal resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
-| [SmoothingMode](smoothingmode) { get; set; } | Gets or sets the rendering quality for this Graphics. |
-| [Text](text) { get; } | Gets a [`TextOptions`](../textoptions) object which is used for configuration of text rendering. |
-| override [VerticalResolution](verticalresolution) { get; set; } | Sets or gets vertical resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+| [BackgroundColor](../../aspose.html.rendering/renderingoptions/backgroundcolor) { get; set; } | Gets or sets Color which will fill background of every page. Default value is Transparent. |
+| [Compression](../../aspose.html.rendering.image/imagerenderingoptions/compression) { get; set; } | Sets or gets Tagged Image File Format (TIFF) [`Compression`](../compression). By default this property is LZW. |
+| [Css](../../aspose.html.rendering/renderingoptions/css) { get; } | Gets a [`CssOptions`](../../aspose.html.rendering/cssoptions) object which is used for configuration of css properties processing. |
+| [Format](../../aspose.html.rendering.image/imagerenderingoptions/format) { get; set; } | Sets or gets [`ImageFormat`](../imageformat). By default this property is Png. |
+| override [HorizontalResolution](../../aspose.html.rendering.image/imagerenderingoptions/horizontalresolution) { get; set; } | Sets or gets horizontal resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+| [PageSetup](../../aspose.html.rendering/renderingoptions/pagesetup) { get; } | Gets a page setup object is used for configuration output page-set. |
+| [SmoothingMode](../../aspose.html.rendering.image/imagerenderingoptions/smoothingmode) { get; set; } | Gets or sets the rendering quality for this Graphics. |
+| [Text](../../aspose.html.rendering.image/imagerenderingoptions/text) { get; } | Gets a [`TextOptions`](../textoptions) object which is used for configuration of text rendering. |
+| override [VerticalResolution](../../aspose.html.rendering.image/imagerenderingoptions/verticalresolution) { get; set; } | Sets or gets vertical resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 
 ### See Also
 
