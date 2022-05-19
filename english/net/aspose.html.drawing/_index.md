@@ -19,7 +19,7 @@ The **Aspose.Html.Drawing** namespace contains objects and interfaces to specify
 | [LengthOrAuto](./lengthorauto) | Represents a container for storage length or 'auto' units.. |
 | [Margin](./margin) | Represents page margin. |
 | [Numeric](./numeric) | Provides the base class for numeric types. |
-| [Page](./page) | Represents a page object is used for configuration output page. The lacuna value for page size is A4(../210x297mm) |
+| [Page](./page) | Represents a page object is used for configuration output page. The lacuna value for page size is A4(210x297mm) |
 | [Resolution](./resolution) | Represents a resolution unit. |
 | [Size](./size) | Stores a values which specify a Height and Width. |
 | [Time](./time) | Represents a time unit. |

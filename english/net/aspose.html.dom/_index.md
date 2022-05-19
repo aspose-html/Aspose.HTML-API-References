@@ -19,7 +19,7 @@ The **Aspose.Html.Dom (Document Object Model)** namespace provides API that repr
 | [Document](./document) | The Document represents the entire HTML, XML or SVG document. Conceptually, it is the root of the document tree, and provides the primary access to the document's data. |
 | [DocumentFragment](./documentfragment) | DocumentFragment is a "lightweight" or "minimal" Document object. It is very common to want to be able to extract a portion of a document's tree or to create a new fragment of a document. |
 | [DocumentType](./documenttype) | The DocumentType provides an interface to the list of entities that are defined for the document |
-| [DOMException](./domexception) | The DOMException interface represents an abnormal event (../called an exception) which occurs as a result of calling a method or accessing a property of a web API. This is basically how error conditions are described in web APIs. |
+| [DOMException](./domexception) | The DOMException interface represents an abnormal event (called an exception) which occurs as a result of calling a method or accessing a property of a web API. This is basically how error conditions are described in web APIs. |
 | [DOMObject](./domobject) | The DOMObject type is used to represent an base object for the entire Document Object Model. For Java and ECMAScript, DOMObject is bound to the Object type. |
 | [Element](./element) | The Element interface represents an element in an HTML or XML document. |
 | [Entity](./entity) | Represents a known entity, either parsed or unparsed, in an XML document. |
@@ -29,7 +29,7 @@ The **Aspose.Html.Dom (Document Object Model)** namespace provides API that repr
 | [Notation](./notation) | Represents a notation declared in the DTD. |
 | [ProcessingInstruction](./processinginstruction) | The ProcessingInstruction represents a "processing instruction", used in XML as a way to keep processor-specific information in the text of the document. |
 | [ShadowRoot](./shadowroot) | ShadowRoot is a root node of shadow tree. |
-| [Text](./text) | The Text interface inherits from CharacterData and represents the textual content (../termed character data in XML) of an Element or Attr. |
+| [Text](./text) | The Text interface inherits from CharacterData and represents the textual content (termed character data in XML) of an Element or Attr. |
 | [TypeInfo](./typeinfo) | The TypeInfo represents a type referenced from Element or Attr nodes, specified in the schemas associated with the document. |
 ## Interfaces
 

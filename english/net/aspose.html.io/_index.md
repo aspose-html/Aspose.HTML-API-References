@@ -21,7 +21,7 @@ In addition to standard IO (input-output) tools the **Aspose.Html.IO** namespace
 | --- | --- |
 | [IBlob](./iblob) | A Blob object refers to a byte sequence, and has a size attribute which is the total number of bytes in the byte sequence, and a type attribute, which is an ASCII-encoded string in lower case representing the media type of the byte sequence. |
 | [ICreateStreamProvider](./icreatestreamprovider) | Represents an interface that can be implemented by classes providing streams to the rendering devices. |
-| [IFile](./ifile) | A File object is a Blob object with a name attribute, which is a string; it can be created within the web application via a constructor, or is a reference to a byte sequence from a file from the underlying (../OS) file system. |
+| [IFile](./ifile) | A File object is a Blob object with a name attribute, which is a string; it can be created within the web application via a constructor, or is a reference to a byte sequence from a file from the underlying (OS) file system. |
 | [IFileList](./ifilelist) | Represent the interface for list of files. |
 | [IOutputStorage](./ioutputstorage) | Provides the creation and management of output streams [`OutputStream`](../aspose.html.io/outputstream). |
 

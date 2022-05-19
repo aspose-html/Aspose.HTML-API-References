@@ -31,12 +31,12 @@ The namespace provides access to all SVG specific data types.
 | [SVGMatrix](./svgmatrix) | Many of SVG's graphics operations utilize 2x3 matrices of the form: [a c e] [b d f] which, when expanded into a 3x3 matrix for the purposes of matrix arithmetic, become: [a c e] [b d f] [0 0 1] |
 | [SVGNumber](./svgnumber) | Used for attributes of basic type number. |
 | [SVGNumberList](./svgnumberlist) | This interface defines a list of SVGNumber objects. |
-| [SVGPoint](./svgpoint) | Many of the SVG DOM interfaces refer to objects of class SVGPoint. An SVGPoint is an (../x, y) coordinate pair. When used in matrix operations, an SVGPoint is treated as a vector of the form: [x] [y] [1] If an SVGRect object is designated as read only, then attempting to assign to one of its attributes will result in an exception being thrown. |
+| [SVGPoint](./svgpoint) | Many of the SVG DOM interfaces refer to objects of class SVGPoint. An SVGPoint is an (x, y) coordinate pair. When used in matrix operations, an SVGPoint is treated as a vector of the form: [x] [y] [1] If an SVGRect object is designated as read only, then attempting to assign to one of its attributes will result in an exception being thrown. |
 | [SVGPointList](./svgpointlist) | This interface defines a list of SVGPoint objects. |
 | [SVGPreserveAspectRatio](./svgpreserveaspectratio) | The SVGPreserveAspectRatio interface corresponds to the ‘preserveAspectRatio’ attribute, which is available for some of SVG's elements. |
-| [SVGRect](./svgrect) | Represents rectangular geometry. Rectangles are defined as consisting of a (../x,y) coordinate pair identifying a minimum X value, a minimum Y value, and a width and height, which are usually constrained to be non-negative. |
+| [SVGRect](./svgrect) | Represents rectangular geometry. Rectangles are defined as consisting of a (x,y) coordinate pair identifying a minimum X value, a minimum Y value, and a width and height, which are usually constrained to be non-negative. |
 | [SVGStringList](./svgstringlist) | SVGStringList has the same attributes and methods as other SVGxxxList interfaces. Implementers may consider using a single base class to implement the various SVGxxxList interfaces. |
-| [SVGTransform](./svgtransform) | SVGTransform is the interface for one of the component transformations within an SVGTransformList; thus, an SVGTransform object corresponds to a single component (../e.g., 'scale(…)' or 'matrix(../…)') within a ‘transform’ attribute specification. |
+| [SVGTransform](./svgtransform) | SVGTransform is the interface for one of the component transformations within an SVGTransformList; thus, an SVGTransform object corresponds to a single component (e.g., 'scale(…)' or 'matrix(…)') within a ‘transform’ attribute specification. |
 | [SVGTransformList](./svgtransformlist) | This interface defines a list of SVGTransform objects. |
 | [SVGValueType](./svgvaluetype) | The SVGValueType type is used to represent an base SVG value type. |
 
