@@ -8,7 +8,9 @@ url: /net/aspose.html.dom.css/cssvalue/csstext/
 ---
 ## CSSValue.CSSText property
 
-A string representation of the current value.
+The cssText property of the [`CSSValue`](../../cssvalue) interface represents the current computed CSS property value.
+
+Note: This property was part of an attempt to create a typed CSS Object Model. This attempt has been abandoned, and most browsers do not implement it.
 
 ```csharp
 public abstract string CSSText { get; set; }
@@ -16,7 +18,7 @@ public abstract string CSSText { get; set; }
 
 ### Property Value
 
-The CSS text.
+A DOMString representing the current CSS property value.
 
 ### See Also
 

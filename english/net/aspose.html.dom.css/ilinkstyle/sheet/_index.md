@@ -8,11 +8,15 @@ url: /net/aspose.html.dom.css/ilinkstyle/sheet/
 ---
 ## ILinkStyle.Sheet property
 
-Gets the associated style sheet.
+The property returns the [associated CSS style sheet](https://www.w3.org/TR/cssom-1/#associated-css-style-sheet) for the node or null if there is no associated CSS style sheet
 
 ```csharp
 public IStyleSheet Sheet { get; }
 ```
+
+### Property Value
+
+The [associated CSS style sheet](https://www.w3.org/TR/cssom-1/#associated-css-style-sheet) for the node or null if there is no associated CSS style sheet
 
 ### See Also
 

@@ -21,7 +21,7 @@ public ICSSStyleDeclaration GetOverrideStyle(Element elt, string pseudoElt)
 
 ### Return Value
 
-The override style declaration
+The override style declaration.
 
 ### See Also
 

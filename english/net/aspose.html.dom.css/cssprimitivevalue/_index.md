@@ -8,7 +8,9 @@ url: /net/aspose.html.dom.css/cssprimitivevalue/
 ---
 ## CSSPrimitiveValue class
 
-The CSSPrimitiveValue interface represents a single CSS value. This interface may be used to determine the value of a specific style property currently set in a block or to set a specific style property explicitly within the block. An instance of this interface might be obtained from the getPropertyCSSValue method of the CSSStyleDeclaration interface. A CSSPrimitiveValue object only occurs in a context of a CSS property.
+The CSSPrimitiveValue interface derives from the CSSValue interface and represents the current computed value of a CSS property.
+
+Note: This interface was part of an attempt to create a typed CSS Object Model. This attempt has been abandoned, and most browsers do not implement it.
 
 ```csharp
 public abstract class CSSPrimitiveValue : CSSValue
@@ -18,7 +20,7 @@ public abstract class CSSPrimitiveValue : CSSValue
 
 | Name | Description |
 | --- | --- |
-| abstract [CSSText](../../aspose.html.dom.css/cssvalue/csstext) { get; set; } | A string representation of the current value. |
+| abstract [CSSText](../../aspose.html.dom.css/cssvalue/csstext) { get; set; } | The cssText property of the [`CSSValue`](../cssvalue) interface represents the current computed CSS property value. |
 | [CSSValueType](../../aspose.html.dom.css/cssvalue/cssvaluetype) { get; } | A code defining the type of the value. |
 | [PrimitiveType](../../aspose.html.dom.css/cssprimitivevalue/primitivetype) { get; } | The type of the value as defined by the constants specified above. |
 

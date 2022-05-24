@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icsskeyframerule/keytext/
 ---
 ## ICSSKeyframeRule.KeyText property
 
-This attribute represents the keyframe selector as a comma-separated list of percentage values. The ‘from’ and ‘to’ keywords map to ‘0%’ and ‘100%’, respectively.
+The keyText property of the CSSKeyframeRule interface represents the keyframe selector as a comma-separated list of percentage values. The from and to keywords map to 0% and 100%, respectively.
 
 ```csharp
 public string KeyText { get; }
@@ -16,7 +16,7 @@ public string KeyText { get; }
 
 ### Property Value
 
-The key text.
+Returns the keyframe selector as a comma-separated list of percentage values.
 
 ### See Also
 

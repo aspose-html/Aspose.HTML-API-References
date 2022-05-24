@@ -8,11 +8,17 @@ url: /net/aspose.html.dom.css/icssstylerule/style/
 ---
 ## ICSSStyleRule.Style property
 
-The declaration-block of this rule set.
+The read-only style property is the [`CSSStyleDeclaration`](../../icssstyledeclaration) interface for the declaration block of the [`CSSStyleRule`](../../icssstylerule).
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
+
+### Property Value
+
+The style attribute must return a CSSStyleDeclaration object for the style rule, with the following properties:
+
+computed flag - Unset.declarations - The declared declarations in the rule, in specified order.parent CSS rule - The context object.owner node - Null.
 
 ### See Also
 

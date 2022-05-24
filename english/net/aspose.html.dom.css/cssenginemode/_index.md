@@ -8,7 +8,9 @@ url: /net/aspose.html.dom.css/cssenginemode/
 ---
 ## CSSEngineMode enumeration
 
-Specifies CSSEngine mode
+Specifies CSSEngine mode. Values have the following meaning:
+
+default - CSS parser will work according to w3c recommendation and do not support custom extensions.not-strict - All not documented properties will be parsed and could be accessed through.
 
 ```csharp
 [Flags]
@@ -19,8 +21,8 @@ public enum CSSEngineMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Default | `0` | CSS engine will work like usual. |
-| NotStrict | `1` | CSS parser will work in not strict mode. All not documented properties will be parsed and could be accessed through [`ICSSStyleDeclaration`](../icssstyledeclaration). |
+| Default | `0` | CSS parser will work according to w3c recommendation and do not support the custom extensions. |
+| NotStrict | `1` | CSS parser will work in not strict mode. All not documented properties will be parsed and could be accessed through. |
 
 ### See Also
 

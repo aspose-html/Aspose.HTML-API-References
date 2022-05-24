@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/fontsize/
 ---
 ## ICSS2Properties.FontSize property
 
-See the font-size property definition in CSS2.
+This property describes the size of the font when set solid.
 
 ```csharp
 public string FontSize { get; set; }

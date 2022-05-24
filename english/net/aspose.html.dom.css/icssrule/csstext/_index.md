@@ -8,7 +8,9 @@ url: /net/aspose.html.dom.css/icssrule/csstext/
 ---
 ## ICSSRule.CSSText property
 
-The parsable textual representation of the rule. This reflects the current state of the rule and not its initial value.
+The cssText property of the [`CSSRule`](../../icssrule) interface returns the actual text of a [`CSSStyleSheet`](../../icssstylesheet) style-rule.
+
+Note: Do not confuse this property with element-style CSSStyleDeclaration.cssText.
 
 ```csharp
 public string CSSText { get; set; }
@@ -16,7 +18,7 @@ public string CSSText { get; set; }
 
 ### Property Value
 
-The CSS text.
+Returns a serialization of the CSS rule. On setting the cssText attribute must do nothing.
 
 ### See Also
 

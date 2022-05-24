@@ -8,7 +8,7 @@ url: /net/aspose.html/htmlinputelement/maxlength/
 ---
 ## HTMLInputElement.MaxLength property
 
-Maximum number of characters for text fields, when `type` has the value "text" or "password". See the maxlength attribute definition in HTML 4.01.
+Maximum number of characters for text fields, when `type`has the value "text" or "password". See the maxlength attribute definition in HTML 4.01.
 
 ```csharp
 public int MaxLength { get; set; }

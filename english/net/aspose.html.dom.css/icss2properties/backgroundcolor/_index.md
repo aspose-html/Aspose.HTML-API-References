@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/backgroundcolor/
 ---
 ## ICSS2Properties.BackgroundColor property
 
-See the background-color property definition in CSS2.
+This property sets the background color of an element, either a value or the keyword 'transparent', to make the underlying colors shine through.
 
 ```csharp
 public string BackgroundColor { get; set; }
@@ -17,6 +17,10 @@ public string BackgroundColor { get; set; }
 ### Return Value
 
 background-color property
+
+### Property Value
+
+A color is either a keyword or a numerical RGB specification.
 
 ### See Also
 

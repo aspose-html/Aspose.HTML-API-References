@@ -8,11 +8,15 @@ url: /net/aspose.html/configuration/configuration/
 ---
 ## Configuration constructor
 
-Initializes a new instance of the [`Configuration`](../../configuration) class.
+Initializes a new instance of the [`class`](../../configuration).
 
 ```csharp
 public Configuration()
 ```
+
+### Remarks
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ### See Also
 

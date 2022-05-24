@@ -8,7 +8,9 @@ url: /net/aspose.html.dom/eventtarget/addeventlistener/
 ---
 ## EventTarget.AddEventListener method (1 of 3)
 
-This method allows the registration of event listeners on the event target.
+The addEventListener() method of the [EventTarget ](T:Aspose.Html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target.
+
+It works by adding a function, or an object that implements [EventListener](T:Aspose.Html.Dom.Events.IEventListener), to the list of event listeners for the specified event type on the EventTarget on which it's called. If the function or object, is already in the list of event listeners for this target, they are not added a second time.
 
 ```csharp
 public void AddEventListener(string type, DOMEventHandler handler, bool useCapture)
@@ -17,14 +19,12 @@ public void AddEventListener(string type, DOMEventHandler handler, bool useCaptu
 | Parameter | Type | Description |
 | --- | --- | --- |
 | type | String | The event type for which the user is registering |
-| handler | DOMEventHandler | Takes an [`DOMEventHandler`](../../../aspose.html.dom.events/domeventhandler) to be called when the event occurs. |
-| useCapture | Boolean | If true, useCapture indicates that the user wishes to initiate capture. After initiating capture, all events of the specified type will be dispatched to the registered [`IEventListener`](../../../aspose.html.dom.events/ieventlistener) before being dispatched to any Event Targets beneath them in the tree. Events which are bubbling upward through the tree will not trigger an [`IEventListener`](../../../aspose.html.dom.events/ieventlistener) designated to use capture. |
+| handler | DOMEventHandler | Takes an to be called when the event occurs. |
+| useCapture | Boolean | If true, useCapture indicates that the user wishes to initiate capture. After initiating capture, all events of the specified type will be dispatched to the registered before being dispatched to any Event Targets beneath them in the tree. Events which are bubbling upward through the tree will not trigger an designated to use capture. |
 
 ### Remarks
 
-If an [`IEventListener`](../../../aspose.html.dom.events/ieventlistener) is added to an [`EventTarget`](../../eventtarget) while it is processing an event, it will not be triggered by the current actions but may be triggered during a later stage of event flow, such as the bubbling phase.
-
-If multiple identical Event Listeners are registered on the same [`EventTarget`](../../eventtarget) with the same parameters the duplicate instances are discarded. They do not cause the [`IEventListener`](../../../aspose.html.dom.events/ieventlistener) to be called twice and since they are discarded they do not need to be removed with the [`RemoveEventListener`](../removeeventlistener) method.
+If an is added to an while it is processing an event, it will not be triggered by the current actions but may be triggered during a later stage of event flow, such as the bubbling phase. If multiple identical Event Listeners are registered on the same with the same parameters the duplicate instances are discarded. They do not cause the to be called twice and since they are discarded they do not need to be removed with the method.
 
 ### See Also
 
@@ -37,7 +37,9 @@ If multiple identical Event Listeners are registered on the same [`EventTarget`]
 
 ## EventTarget.AddEventListener method (2 of 3)
 
-This method allows the registration of event listeners on the event target.
+The addEventListener() method of the [`EventTarget `](../../eventtarget)interface sets up a function that will be called whenever the specified event is delivered to the target.
+
+It works by adding a function, or an object that implements [`EventListener`](../../../aspose.html.dom.events/ieventlistener), to the list of event listeners for the specified event type on the EventTarget on which it's called. If the function or object, is already in the list of event listeners for this target, they are not added a second time.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener)
@@ -50,9 +52,7 @@ public void AddEventListener(string type, IEventListener listener)
 
 ### Remarks
 
-If an [`IEventListener`](../../../aspose.html.dom.events/ieventlistener) is added to an [`EventTarget`](../../eventtarget) while it is processing an event, it will not be triggered by the current actions but may be triggered during a later stage of event flow, such as the bubbling phase.
-
-If multiple identical Event Listeners are registered on the same [`EventTarget`](../../eventtarget) with the same parameters the duplicate instances are discarded. They do not cause the [`IEventListener`](../../../aspose.html.dom.events/ieventlistener) to be called twice and since they are discarded they do not need to be removed with the [`RemoveEventListener`](../removeeventlistener) method.
+If an is added to an while it is processing an event, it will not be triggered by the current actions but may be triggered during a later stage of event flow, such as the bubbling phase. If multiple identical Event Listeners are registered on the same with the same parameters the duplicate instances are discarded. They do not cause the to be called twice and since they are discarded they do not need to be removed with the method.
 
 ### See Also
 
@@ -65,7 +65,9 @@ If multiple identical Event Listeners are registered on the same [`EventTarget`]
 
 ## EventTarget.AddEventListener method (3 of 3)
 
-This method allows the registration of event listeners on the event target.
+The addEventListener() method of the [EventTarget ](T:Aspose.Html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target.
+
+It works by adding a function, or an object that implements [EventListener](T:Aspose.Html.Dom.Events.IEventListener), to the list of event listeners for the specified event type on the EventTarget on which it's called. If the function or object, is already in the list of event listeners for this target, they are not added a second time.
 
 ```csharp
 public void AddEventListener(string type, IEventListener listener, bool useCapture)
@@ -75,13 +77,11 @@ public void AddEventListener(string type, IEventListener listener, bool useCaptu
 | --- | --- | --- |
 | type | String | The event type for which the user is registering |
 | listener | IEventListener | Takes an interface implemented by the user which contains the methods to be called when the event occurs. |
-| useCapture | Boolean | If true, useCapture indicates that the user wishes to initiate capture. After initiating capture, all events of the specified type will be dispatched to the registered [`IEventListener`](../../../aspose.html.dom.events/ieventlistener) before being dispatched to any Event Targets beneath them in the tree. Events which are bubbling upward through the tree will not trigger an [`IEventListener`](../../../aspose.html.dom.events/ieventlistener) designated to use capture. |
+| useCapture | Boolean | If true, useCapture indicates that the user wishes to initiate capture. After initiating capture, all events of the specified type will be dispatched to the registered before being dispatched to any Event Targets beneath them in the tree. Events which are bubbling upward through the tree will not trigger an designated to use capture. |
 
 ### Remarks
 
-If an [`IEventListener`](../../../aspose.html.dom.events/ieventlistener) is added to an [`EventTarget`](../../eventtarget) while it is processing an event, it will not be triggered by the current actions but may be triggered during a later stage of event flow, such as the bubbling phase.
-
-If multiple identical Event Listeners are registered on the same [`EventTarget`](../../eventtarget) with the same parameters the duplicate instances are discarded. They do not cause the [`IEventListener`](../../../aspose.html.dom.events/ieventlistener) to be called twice and since they are discarded they do not need to be removed with the [`RemoveEventListener`](../removeeventlistener) method.
+If an is added to an while it is processing an event, it will not be triggered by the current actions but may be triggered during a later stage of event flow, such as the bubbling phase. If multiple identical Event Listeners are registered on the same with the same parameters the duplicate instances are discarded. They do not cause the to be called twice and since they are discarded they do not need to be removed with the method.
 
 ### See Also
 

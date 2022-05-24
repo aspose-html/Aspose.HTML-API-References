@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/top/
 ---
 ## ICSS2Properties.Top property
 
-See the top property definition in CSS2.
+This property specifies how far a box's top content edge is offset below the top edge of the box's [containing block](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#containing-block).
 
 ```csharp
 public string Top { get; set; }

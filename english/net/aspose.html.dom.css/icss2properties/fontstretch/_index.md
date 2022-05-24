@@ -8,7 +8,9 @@ url: /net/aspose.html.dom.css/icss2properties/fontstretch/
 ---
 ## ICSS2Properties.FontStretch property
 
-See the font-stretch property definition in CSS2.
+The ['font-stretch'](https://www.w3.org/TR/1998/REC-CSS2-19980512/fonts.html#propdef-font-stretch) property selects a normal, condensed, or extended face from a font family. Absolute keyword values have the following ordering, from narrowest to widest :
+
+ultra-condensedextra-condensedcondensedsemi-condensednormalsemi-expandedexpandedextra-expandedultra-expanded
 
 ```csharp
 public string FontStretch { get; set; }

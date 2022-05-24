@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.xpath/ixpathresult/resulttype/
 ---
 ## IXPathResult.ResultType property
 
-A code representing the type of this result, as defined by the http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult [`XPathResultType`](../../xpathresulttype) enum.
+A code representing the type of this result, as defined by the http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult[`XPathResultType`](../../xpathresulttype) enum.
 
 ```csharp
 public XPathResultType ResultType { get; }

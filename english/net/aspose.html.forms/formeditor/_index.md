@@ -36,7 +36,7 @@ public class FormEditor : IDisposable, IEnumerable<FormElement>
 | [AddInput](../../aspose.html.forms/formeditor/addinput)(string) | Creates a new [`InputElement`](../inputelement) and adds it to the end of the form. |
 | [AddInput](../../aspose.html.forms/formeditor/addinput)(string, InputElementType) | Creates a new [`InputElement`](../inputelement) and adds it to the end of the form. |
 | [Dispose](../../aspose.html.forms/formeditor/dispose)() | Releases unmanaged and managed resources. |
-| [Fill](../../aspose.html.forms/formeditor/fill)(Dictionary&lt;string, string&gt;) | This method fills the whole form with the specified values. |
+| [Fill](../../aspose.html.forms/formeditor/fill)(Dictionary&lt;string, string&gt;) |  |
 | [GetElement&lt;T&gt;](../../aspose.html.forms/formeditor/getelement)(int) | Returns the element by specified index. |
 | [GetElement&lt;T&gt;](../../aspose.html.forms/formeditor/getelement)(string) | Returns the element by specified name. |
 | [GetEnumerator](../../aspose.html.forms/formeditor/getenumerator)() | Gets the enumerator. |

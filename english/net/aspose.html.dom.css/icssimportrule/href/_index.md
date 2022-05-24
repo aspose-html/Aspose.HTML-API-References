@@ -8,11 +8,17 @@ url: /net/aspose.html.dom.css/icssimportrule/href/
 ---
 ## ICSSImportRule.Href property
 
-The location of the style sheet to be imported. The attribute will not contain the "url(...)" specifier around the URI.
+The read-only href property of the CSSImportRule interface returns the URL specified by the @import at-rule.
+
+The resolved URL will be the href attribute of the associated stylesheet.
 
 ```csharp
 public string Href { get; }
 ```
+
+### Property Value
+
+Returns the URL of the associated stylesheet specified by the @import at-rule.
 
 ### See Also
 

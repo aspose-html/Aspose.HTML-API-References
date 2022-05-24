@@ -8,7 +8,7 @@ url: /net/aspose.html.datascraping.multimediascraping/multimediahost/
 ---
 ## MultimediaHost class
 
-Represents host of the multimedia object. **Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+Represents host of the multimedia object.**Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
 
 ```csharp
 public class MultimediaHost : IEquatable<MultimediaHost>
@@ -37,8 +37,8 @@ public class MultimediaHost : IEquatable<MultimediaHost>
 | override [Equals](../../aspose.html.datascraping.multimediascraping/multimediahost/equals)(object) | Determines whether the specified Object, is equal to this instance. |
 | override [GetHashCode](../../aspose.html.datascraping.multimediascraping/multimediahost/gethashcode)() | Returns a hash code for this instance. |
 | override [ToString](../../aspose.html.datascraping.multimediascraping/multimediahost/tostring)() | Returns a String that represents this instance. |
-| [operator ==](../../aspose.html.datascraping.multimediascraping/multimediahost/op_equality) | Implements the equality operator. |
-| [operator !=](../../aspose.html.datascraping.multimediascraping/multimediahost/op_inequality) | Implements the equality operator. |
+| [operator ==](../../aspose.html.datascraping.multimediascraping/multimediahost/op_equality) |  |
+| [operator !=](../../aspose.html.datascraping.multimediascraping/multimediahost/op_inequality) |  |
 
 ### See Also
 

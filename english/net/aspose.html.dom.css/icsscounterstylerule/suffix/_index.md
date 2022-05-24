@@ -8,11 +8,15 @@ url: /net/aspose.html.dom.css/icsscounterstylerule/suffix/
 ---
 ## ICSSCounterStyleRule.Suffix property
 
-Gets the suffix.
+The suffix property of the [`CSSCounterStyleRule`](../../icsscounterstylerule) interface gets and sets the value of the suffix descriptor. If the descriptor does not have a value set, this attribute returns an empty string.
 
 ```csharp
 public string Suffix { get; }
 ```
+
+### Property Value
+
+Gets and sets the value of the suffix descriptor. If the descriptor does not have a value set, this attribute returns an empty string.
 
 ### See Also
 

@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icsspagerule/selectortext/
 ---
 ## ICSSPageRule.SelectorText property
 
-The parsable textual representation of the page selector for the rule.
+The selectorText property of the [`CSSPageRule`](../../icsspagerule) interface gets and sets the selectors associated with the [`CSSPageRule`](../../icsspagerule).
 
 ```csharp
 public string SelectorText { get; set; }
@@ -16,7 +16,7 @@ public string SelectorText { get; set; }
 
 ### Property Value
 
-The selector text.
+The selectorText attribute, on getting, must return the result of serializing the associated list of CSS page selectors.
 
 ### See Also
 

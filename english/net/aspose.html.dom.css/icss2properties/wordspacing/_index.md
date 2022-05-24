@@ -8,7 +8,9 @@ url: /net/aspose.html.dom.css/icss2properties/wordspacing/
 ---
 ## ICSS2Properties.WordSpacing property
 
-See the word-spacing property definition in CSS2.
+This property specifies spacing behavior between words. Values have the following meanings:
+
+normal - The normal inter-word space, as defined by the current font and/or the UA.'[length](https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html#value-def-length)' - This value indicates inter-word space in addition to the default space between words. Values may be negative, but there may be implementation-specific limits.
 
 ```csharp
 public string WordSpacing { get; set; }

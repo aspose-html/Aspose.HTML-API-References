@@ -8,7 +8,7 @@ url: /net/aspose.html.datascraping.multimediascraping/multimediafactory/
 ---
 ## MultimediaFactory class
 
-Represents an abstract factory which is used to create [`Multimedia`](../multimedia) objects. **Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+Represents an abstract factory which is used to create [`Multimedia`](../multimedia) objects.**Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
 
 ```csharp
 public abstract class MultimediaFactory

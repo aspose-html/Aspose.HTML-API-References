@@ -76,16 +76,9 @@ public void Render(IDevice device, TDocument document, int timeout)
 
 ## Renderer&lt;TDocument&gt;.Render method (4 of 6)
 
-Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../../idevice).
-
 ```csharp
 public void Render(IDevice device, params TDocument[] documents)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| device | IDevice | The output device. |
-| documents | TDocument[] | The documents to render. |
 
 ### See Also
 
@@ -98,17 +91,9 @@ public void Render(IDevice device, params TDocument[] documents)
 
 ## Renderer&lt;TDocument&gt;.Render method (5 of 6)
 
-Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
-
 ```csharp
 public void Render(IDevice device, int timeout, params TDocument[] documents)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| device | IDevice | The output device. |
-| timeout | Int32 | A number of milliseconds that represents the number of milliseconds to wait, or -1 millisecond to wait indefinitely. |
-| documents | TDocument[] | The documents to render. |
 
 ### See Also
 
@@ -121,17 +106,9 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 
 ## Renderer&lt;TDocument&gt;.Render method (6 of 6)
 
-Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
-
 ```csharp
 public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| device | IDevice | The output device. |
-| timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
-| documents | TDocument[] | The documents to render. |
 
 ### See Also
 

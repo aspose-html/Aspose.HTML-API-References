@@ -14,6 +14,10 @@ This attribute is used for the right of the rect.
 public CSSPrimitiveValue Right { get; }
 ```
 
+### Property Value
+
+The x-axis value of the right side of the rectangle.
+
 ### See Also
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue)

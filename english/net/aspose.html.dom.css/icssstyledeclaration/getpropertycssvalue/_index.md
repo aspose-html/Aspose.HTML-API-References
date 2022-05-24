@@ -16,11 +16,11 @@ public CSSValue GetPropertyCSSValue(string propertyName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| propertyName | String | Name of the property. |
+| propertyName | String | propertyName is a string representing the property name to be retrieved. |
 
 ### Return Value
 
-Returns property value
+value is a CSSValue containing the CSS value for a property. If none exists, returns null.
 
 ### See Also
 

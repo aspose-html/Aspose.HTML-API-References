@@ -8,7 +8,9 @@ url: /net/aspose.html.dom.css/icss2properties/captionside/
 ---
 ## ICSS2Properties.CaptionSide property
 
-See the caption-side property definition in CSS2.
+This property specifies the position of the caption box with respect to the table box. Values have the following meanings:
+
+top - Positions the caption box above the table box.bottom - Positions the caption box below the table box.left - Positions the caption box to the left of the table box.right - Positions the caption box to the right of the table box.
 
 ```csharp
 public string CaptionSide { get; set; }

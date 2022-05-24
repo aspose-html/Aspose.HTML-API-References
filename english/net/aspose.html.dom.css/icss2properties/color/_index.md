@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/color/
 ---
 ## ICSS2Properties.Color property
 
-See the color property definition in CSS2.
+This property describes the foreground color of an element's text content.
 
 ```csharp
 public string Color { get; set; }

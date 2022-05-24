@@ -8,11 +8,15 @@ url: /net/aspose.html.dom.css/icssmediarule/cssrules/
 ---
 ## ICSSMediaRule.CSSRules property
 
-A list of all CSS rules contained within the media block.
+The cssRules property of the CSSGroupingRule interface returns a [`CSSRuleList`](../../icssrulelist) containing a collection of [`CSSRule`](../../icssrule) objects.
 
 ```csharp
 public ICSSRuleList CSSRules { get; }
 ```
+
+### Property Value
+
+The cssRules attribute must return a [`CSSRuleList`](../../icssrulelist) object for the child CSS rules.
 
 ### See Also
 

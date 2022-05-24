@@ -10,7 +10,7 @@ url: /net/aspose.html/htmltableelement/rows/
 
 Returns the table's `TFOOT`, or `null` if none exists.
 
-Returns a collection of all the rows in the table, including all in `THEAD`, `TFOOT`, all `TBODY` elements.
+Returns a collection of all the rows in the table, including all in `THEAD`, `TFOOT`, all `TBODY`elements.
 
 ```csharp
 public HTMLCollection Rows { get; }

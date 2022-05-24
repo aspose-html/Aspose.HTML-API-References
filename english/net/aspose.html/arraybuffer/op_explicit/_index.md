@@ -8,19 +8,9 @@ url: /net/aspose.html/arraybuffer/op_explicit/
 ---
 ## ArrayBuffer Explicit operator
 
-Performs an explicit conversion from [`ArrayBuffer`](../../arraybuffer) to !:System.Byte[].
-
 ```csharp
 public static explicit operator byte[](ArrayBuffer value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | ArrayBuffer | The value. |
-
-### Return Value
-
-The result of the conversion.
 
 ### See Also
 

@@ -35,7 +35,7 @@ public abstract class SVGListBase<T> : SVGValueType, IEnumerable<T>
 | [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
 | [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase`1/getenumerator)() | Gets the enumerator. |
 | [GetItem](../../aspose.html.dom.svg.collections/svglistbase`1/getitem)(ulong) | Returns the specified item from the list. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 | [Initialize](../../aspose.html.dom.svg.collections/svglistbase`1/initialize)(T) | Clears all existing current items from the list and re-initializes the list to hold the single item specified by the parameter. |
 | [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase`1/insertitembefore)(T, ulong) | Inserts a new item into the list at the specified position. The first item is number 0. |
 | [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase`1/removeitem)(ulong) | Removes an existing item from the list. |

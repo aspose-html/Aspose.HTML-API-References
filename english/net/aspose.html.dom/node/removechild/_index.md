@@ -8,7 +8,9 @@ url: /net/aspose.html.dom/node/removechild/
 ---
 ## Node.RemoveChild method
 
-Removes the child node indicated by oldChild from the list of children, and returns it.
+The removeChild() method of the Node interface removes a child node from the DOM and returns the removed node.
+
+Note: As long as a reference is kept on the removed child, it still exists in memory, but is no longer part of the DOM. It can still be reused later in the code. If the return value of removeChild() is not stored, and no other reference is kept, it will be automatically deleted from memory after a short time.
 
 ```csharp
 public Node RemoveChild(Node child)
@@ -16,11 +18,11 @@ public Node RemoveChild(Node child)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| child | Node | The old child. |
+| child | Node | A [`Node`](../../node) that is the child node to be removed from the DOM. |
 
 ### Return Value
 
-Returns node
+Unlike [`Node.cloneNode()`](../clonenode) the return value preserves the [`EventListener`](../../../aspose.html.dom.events/ieventlistener) objects associated with it.
 
 ### See Also
 

@@ -8,7 +8,9 @@ url: /net/aspose.html.dom/node/issamenode/
 ---
 ## Node.IsSameNode method
 
-Returns whether this node is the same node as the given one. This method provides a way to determine whether two Node references returned by the implementation reference the same object. When two Node references are references to the same object, even if through a proxy, the references may be used completely interchangeably, such that all attributes have the same values and calling the same DOM method on either reference always has exactly the same effect.
+The isSameNode() method of the Node interface is a legacy alias the for the === strict equality operator. That is, it tests whether two nodes are the same (in other words, whether they reference the same object).
+
+Note: There is no need to use isSameNode(); instead use the === strict equality operator.
 
 ```csharp
 public bool IsSameNode(Node otherNode)
@@ -16,11 +18,11 @@ public bool IsSameNode(Node otherNode)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| otherNode | Node | The other node. |
+| otherNode | Node | The Node to test against. |
 
 ### Return Value
 
-`true` if [is same node] [the specified other]; otherwise, `false`.
+A boolean value that is true if both nodes are stricly equal, false if not.
 
 ### See Also
 

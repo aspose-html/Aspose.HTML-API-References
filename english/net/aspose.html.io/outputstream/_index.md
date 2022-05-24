@@ -8,7 +8,7 @@ url: /net/aspose.html.io/outputstream/
 ---
 ## OutputStream class
 
-A surrogate stream wraps the real output stream and controls access to it. [`OutputStream`](../outputstream) contains URI data that describes location of the output stream.
+A surrogate stream wraps the real output stream and controls access to it.[`OutputStream`](../outputstream) contains URI data that describes location of the output stream.
 
 ```csharp
 public class OutputStream : Stream

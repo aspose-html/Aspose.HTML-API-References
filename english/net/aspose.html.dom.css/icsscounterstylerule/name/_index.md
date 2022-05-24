@@ -8,11 +8,15 @@ url: /net/aspose.html.dom.css/icsscounterstylerule/name/
 ---
 ## ICSSCounterStyleRule.Name property
 
-Gets the name.
+The name property of the [`CSSCounterStyleRule`](../../icsscounterstylerule) interface gets and sets the custom-ident defined as the name for the associated rule.
 
 ```csharp
 public string Name { get; }
 ```
+
+### Property Value
+
+Gets and sets the custom-ident defined as the name for the associated rule.
 
 ### See Also
 

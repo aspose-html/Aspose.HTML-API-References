@@ -14,6 +14,10 @@ The textual representation of the selector for the rule set. The implementation 
 public string SelectorText { get; }
 ```
 
+### Property Value
+
+The style attribute must return a CSSStyleDeclaration object for the style rule
+
 ### See Also
 
 * interface [ICSSStyleRule](../../icssstylerule)

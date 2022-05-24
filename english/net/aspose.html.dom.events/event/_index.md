@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.events/event/
 ---
 ## Event class
 
-The [`Event`](../event) is used to provide contextual information about an event to the handler processing the event.
+The is used to provide contextual information about an event to the handler processing the event.
 
 ```csharp
 public class Event : DOMObject
@@ -19,7 +19,7 @@ public class Event : DOMObject
 | Name | Description |
 | --- | --- |
 | [Event](event)(string) | Initializes a new instance of the [`Event`](../event) class. |
-| [Event](event)(string, IDictionary&lt;string, object&gt;) | Initializes a new instance of the [`Event`](../event) class. |
+| [Event](event)(string, IDictionary&lt;string, object&gt;) |  |
 
 ## Properties
 
@@ -39,8 +39,8 @@ public class Event : DOMObject
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
-| [InitEvent](../../aspose.html.dom.events/event/initevent)(string, bool, bool) | The [`InitEvent`](./initevent) method is used to initialize the value of an [`Event`](../event) created through the [`IDocumentEvent`](../idocumentevent) interface. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
+| [InitEvent](../../aspose.html.dom.events/event/initevent)(string, bool, bool) | The [`InitEvent`](./initevent) method is used to initialize the value of an [`Event`](../event) created through the[`IDocumentEvent`](../idocumentevent) interface. |
 | [PreventDefault](../../aspose.html.dom.events/event/preventdefault)() | If an event is cancelable, the [`PreventDefault`](./preventdefault) method is used to signify that the event is to be canceled, meaning any default action normally taken by the implementation as a result of the event will not occur. |
 | [StopImmediatePropagation](../../aspose.html.dom.events/event/stopimmediatepropagation)() | Invoking this method prevents event from reaching any event listeners registered after the current one and when dispatched in a tree also prevents event from reaching any other objects. |
 | [StopPropagation](../../aspose.html.dom.events/event/stoppropagation)() | The [`StopPropagation`](./stoppropagation) method is used prevent further propagation of an event during event flow. |
@@ -56,7 +56,7 @@ public class Event : DOMObject
 
 ### Remarks
 
-An object which implements the [`Event`](../event) is generally passed as the first parameter to an event handler. More specific context information is passed to event handlers by deriving additional interfaces from [`Event`](../event) which contain information directly relating to the type of event they accompany. These derived interfaces are also implemented by the object passed to the event listener.
+An object which implements the is generally passed as the first parameter to an event handler. More specific context information is passed to event handlers by deriving additional interfaces from which contain information directly relating to the type of event they accompany. These derived interfaces are also implemented by the object passed to the event listener.
 
 ### See Also
 

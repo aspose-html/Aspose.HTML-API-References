@@ -8,7 +8,7 @@ url: /net/aspose.html.datascraping.multimediascraping.zoom/zoomvideoinfo/
 ---
 ## ZoomVideoInfo class
 
-Represents Zoom specific video information. **Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
+Represents Zoom specific video information.**Note:** We do not support downloading copyrighted videos and using other people's videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
 
 ```csharp
 public class ZoomVideoInfo : VideoInfo

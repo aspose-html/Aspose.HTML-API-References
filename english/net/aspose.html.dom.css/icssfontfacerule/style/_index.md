@@ -8,11 +8,15 @@ url: /net/aspose.html.dom.css/icssfontfacerule/style/
 ---
 ## ICSSFontFaceRule.Style property
 
-The declaration-block of this rule.
+The read-only style property of the [`CSSFontFaceRule`](../../icssfontfacerule) interface returns the style information from the @font-face at-rule. This will be in the form of a [`CSSStyleDeclaration`](../../icssstyledeclaration) object.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
+
+### Property Value
+
+Returns the style information from the @font-face at-rule. This will be in the form of a [`CSSStyleDeclaration`](../../icssstyledeclaration) object.
 
 ### See Also
 

@@ -25,7 +25,7 @@ public class TypeInfo : DOMObject
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 | [IsDerivedFrom](../../aspose.html.dom/typeinfo/isderivedfrom)(string, string, ulong) | This method returns if there is a derivation between the reference type definition, i.e. the TypeInfo on which the method is being called, and the other type definition, i.e. the one passed as parameters. |
 
 ## Other Members

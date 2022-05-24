@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icsskeyframesrule/cssrules/
 ---
 ## ICSSKeyframesRule.CSSRules property
 
-This attribute gives access to the keyframes in the list
+The read-only cssRules property of the [`CSSKeyframeRule`](../../icsskeyframerule) interface returns a [`CSSRuleList`](../../icssrulelist) containing the rules in the keyframes at-rule.
 
 ```csharp
 public ICSSRuleList CSSRules { get; }
@@ -16,7 +16,7 @@ public ICSSRuleList CSSRules { get; }
 
 ### Property Value
 
-The CSS rules.
+Returns a [`CSSRuleList`](../../icssrulelist) containing the rules in the keyframes at-rule.
 
 ### See Also
 

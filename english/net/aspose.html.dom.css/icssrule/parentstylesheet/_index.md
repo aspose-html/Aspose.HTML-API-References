@@ -8,11 +8,15 @@ url: /net/aspose.html.dom.css/icssrule/parentstylesheet/
 ---
 ## ICSSRule.ParentStyleSheet property
 
-The style sheet that contains this rule.
+The parentStyleSheet property of the [`CSSRule`](../../icssrule) interface returns the [`StyleSheet`](../../istylesheet) object in which the current rule is defined.
 
 ```csharp
 public ICSSStyleSheet ParentStyleSheet { get; }
 ```
+
+### Property Value
+
+A [`StyleSheet`](../../istylesheet) object in which the current rule is defined.
 
 ### See Also
 

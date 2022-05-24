@@ -8,19 +8,9 @@ url: /net/aspose.html.net/httpmethod/op_explicit/
 ---
 ## HttpMethod Explicit operator
 
-Performs an explicit conversion from String to [`HttpMethod`](../../httpmethod).
-
 ```csharp
 public static explicit operator HttpMethod(string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | The http-method name. |
-
-### Return Value
-
-The result of the conversion.
 
 ### See Also
 

@@ -8,7 +8,7 @@ url: /net/aspose.html.dom/node/lookupprefix/
 ---
 ## Node.LookupPrefix method
 
-Look up the prefix associated to the given namespace URI, starting from this node. The default namespace declarations are ignored by this method. See Namespace Prefix Lookup for details on the algorithm used by this method.
+The lookupPrefix() method of the Node interface returns a String containing the prefix for a given namespace URI, if present, and null if not. When multiple prefixes are possible, the first prefix is returned.
 
 ```csharp
 public string LookupPrefix(string namespaceURI)
@@ -16,11 +16,13 @@ public string LookupPrefix(string namespaceURI)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| namespaceURI | String | The namespace URI. |
+| namespaceURI | String | A string containing the namespace to look the prefix up. |
 
 ### Return Value
 
-Returns prefix
+A String containing the corresponding prefix, or null if none has been found. If namespace is null, or the the empty string, lookupPrefix() returns null.
+
+If the node is a [`DocumentType`](../../documenttype) or a [`DocumentFragment`](../../documentfragment), lookupPrefix() always returns null.
 
 ### See Also
 

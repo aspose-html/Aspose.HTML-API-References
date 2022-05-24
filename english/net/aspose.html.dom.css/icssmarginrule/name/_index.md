@@ -14,6 +14,10 @@ The name attribute must return the name of the margin at-rule. The @ character i
 public string Name { get; }
 ```
 
+### Property Value
+
+Returns the name of the margin at-rule. The @ character is not included in the name. [CSS3SYN]
+
 ### See Also
 
 * interface [ICSSMarginRule](../../icssmarginrule)

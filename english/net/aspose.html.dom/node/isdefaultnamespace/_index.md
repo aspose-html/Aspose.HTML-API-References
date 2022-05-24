@@ -8,7 +8,9 @@ url: /net/aspose.html.dom/node/isdefaultnamespace/
 ---
 ## Node.IsDefaultNamespace method
 
-This method checks if the specified namespaceURI is the default namespace or not.
+The isDefaultNamespace() method of the Node interface accepts a namespace URI as an argument. It returns a boolean value that is true if the namespace is the default namespace on the given node and false if not.
+
+Note: The default namespace of an HTML element is always "". For a SVG element, it is set by the xmlns attribute.
 
 ```csharp
 public bool IsDefaultNamespace(string namespaceURI)
@@ -16,11 +18,11 @@ public bool IsDefaultNamespace(string namespaceURI)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| namespaceURI | String | The namespace URI. |
+| namespaceURI | String | A string representing the namespace against which the element will be checked. |
 
 ### Return Value
 
-`true` if [is default namespace] [the specified namespace URI]; otherwise, `false`.
+A boolean value that holds the return value true or false, indicating if the parameter is the default namespace, or not.
 
 ### See Also
 

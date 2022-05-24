@@ -38,7 +38,7 @@ public class SVGTransformList : SVGListBase<SVGTransform>
 | [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
 | [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase`1/getenumerator)() |  |
 | [GetItem](../../aspose.html.dom.svg.collections/svglistbase`1/getitem)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 | [Initialize](../../aspose.html.dom.svg.collections/svglistbase`1/initialize)(SVGTransform) |  |
 | [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase`1/insertitembefore)(SVGTransform, ulong) |  |
 | [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase`1/removeitem)(ulong) |  |

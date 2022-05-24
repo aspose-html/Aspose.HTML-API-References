@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icsskeyframesrule/name/
 ---
 ## ICSSKeyframesRule.Name property
 
-This attribute is the name of the keyframes, used by the ‘animation-name’ property.
+The name property of the [`CSSKeyframeRule`](../../icsskeyframerule) interface gets and sets the name of the animation as used by the animation-name property.
 
 ```csharp
 public string Name { get; }
@@ -16,7 +16,7 @@ public string Name { get; }
 
 ### Property Value
 
-The name.
+Gets the name of the animation as used by the animation-name property.
 
 ### See Also
 

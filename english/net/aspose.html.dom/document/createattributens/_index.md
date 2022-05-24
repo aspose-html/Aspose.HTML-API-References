@@ -8,7 +8,7 @@ url: /net/aspose.html.dom/document/createattributens/
 ---
 ## Document.CreateAttributeNS method
 
-Creates an attribute of the given qualified name and namespace URI.
+The Document.createAttribute() method creates a new attribute node, and returns it. The object created a node implementing the [Attr](T:Aspose.Html.Dom.Attr) interface. The DOM does not enforce what sort of attributes can be added to a particular element in this manner.
 
 ```csharp
 public Attr CreateAttributeNS(string namespaceURI, string qualifiedName)
@@ -16,8 +16,8 @@ public Attr CreateAttributeNS(string namespaceURI, string qualifiedName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| namespaceURI | String | The namespace URI. |
-| qualifiedName | String | Name of the qualified. |
+| namespaceURI | String | The namespace URI of the attribute. |
+| qualifiedName | String | name is a string containing the name of the attribute. |
 
 ### Return Value
 

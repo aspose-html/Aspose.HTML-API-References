@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/fontstyle/
 ---
 ## ICSS2Properties.FontStyle property
 
-See the font-style property definition in CSS2.
+The 'font-style' property requests normal (sometimes referred to as "roman" or "upright"), italic, and oblique faces within a font family.
 
 ```csharp
 public string FontStyle { get; set; }

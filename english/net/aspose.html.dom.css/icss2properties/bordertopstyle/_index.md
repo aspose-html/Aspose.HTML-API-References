@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/bordertopstyle/
 ---
 ## ICSS2Properties.BorderTopStyle property
 
-See the border-top-style property definition in CSS2.
+The 'border-style' property sets the style of the four borders. It can have from one to four values, and the values are set on the different sides as for 'border-width' above.
 
 ```csharp
 public string BorderTopStyle { get; set; }

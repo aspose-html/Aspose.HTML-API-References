@@ -8,7 +8,7 @@ url: /net/aspose.html/htmltablesectionelement/valign/
 ---
 ## HTMLTableSectionElement.VAlign property
 
-Vertical alignment of data in cells. See the `valign` attribute for HTMLTheadElement for details.
+Vertical alignment of data in cells. See the `valign`attribute for HTMLTheadElement for details.
 
 ```csharp
 public string VAlign { get; set; }

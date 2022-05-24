@@ -24,8 +24,8 @@ The **Aspose.Html.Dom (Document Object Model)** namespace provides API that repr
 | [Element](./element) | The Element interface represents an element in an HTML or XML document. |
 | [Entity](./entity) | Represents a known entity, either parsed or unparsed, in an XML document. |
 | [EntityReference](./entityreference) | EntityReference nodes may be used to represent an entity reference in the tree. |
-| [EventTarget](./eventtarget) | The [`EventTarget`](../aspose.html.dom/eventtarget) interface is implemented by all Nodes in an implementation which supports the DOM Event Model. Therefore, this interface can be obtained by using binding-specific casting methods on an instance of the Node interface. The interface allows registration and removal of Event Listeners on an [`EventTarget`](../aspose.html.dom/eventtarget) and dispatch of events to that [`IEventTarget`](../aspose.html.dom.events/ieventtarget). |
-| [Node](./node) | The Node interface is the primary datatype for the entire Document object Model. It represents a single node in the document tree. |
+| [EventTarget](./eventtarget) | The EventTarget interface is implemented by objects that can receive events and may have listeners for them. In other words, any target of events implements the three methods associated with this interface. |
+| [Node](./node) | The Node interface is the primary datatype for the entire Document Object Model. It represents a single node in the document tree. While all objects implementing the Node interface expose methods for dealing with children, not all objects implementing the Node interface may have children. For example, [`Text`](../aspose.html.dom/text) nodes may not have children, and adding children to such nodes results in a [`DOMException`](../aspose.html.dom/domexception) being raised. |
 | [Notation](./notation) | Represents a notation declared in the DTD. |
 | [ProcessingInstruction](./processinginstruction) | The ProcessingInstruction represents a "processing instruction", used in XML as a way to keep processor-specific information in the text of the document. |
 | [ShadowRoot](./shadowroot) | ShadowRoot is a root node of shadow tree. |

@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/cuebefore/
 ---
 ## ICSS2Properties.CueBefore property
 
-See the cue-before property definition in CSS2.
+Auditory icons are another way to distinguish semantic elements. Sounds may be played before and/or after the element to delimit it.
 
 ```csharp
 public string CueBefore { get; set; }

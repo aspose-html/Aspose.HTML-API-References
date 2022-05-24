@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/content/
 ---
 ## ICSS2Properties.Content property
 
-See the content property definition in CSS2.
+This property is used with the :before and :after pseudo-elements to generate content in a document.
 
 ```csharp
 public string Content { get; set; }

@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.xpath/ixpathresult/invaliditeratorstate/
 ---
 ## IXPathResult.InvalidIteratorState property
 
-Signifies that the iterator has become invalid. True if `resultType` is `UnorderedNodeIterator` type or `OrderedNodeIterator` type and the document has been modified since this result was returned.
+Signifies that the iterator has become invalid. True if `resultType`is `UnorderedNodeIterator` type or `OrderedNodeIterator` type and the document has been modified since this result was returned.
 
 ```csharp
 public bool InvalidIteratorState { get; }

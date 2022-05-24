@@ -31,15 +31,15 @@ public sealed class Resolution : Dimension
 | [GetValue](../../aspose.html.drawing/numeric/getvalue)() | Gets the unit value. |
 | [GetValue](../../aspose.html.drawing/numeric/getvalue)(UnitType) | Gets the value converted to the specified [`UnitType`](../unittype). |
 | override [ToString](../../aspose.html.drawing/dimension/tostring)() | Returns a String that represents this instance. |
-| [operator +](../../aspose.html.drawing/resolution/op_addition) | Implements the operator +. |
-| [operator ==](../../aspose.html.drawing/resolution/op_equality) | Implements the operator ==. |
-| [operator &gt;](../../aspose.html.drawing/resolution/op_greaterthan) | Implements the operator &gt;. |
-| [operator &gt;=](../../aspose.html.drawing/resolution/op_greaterthanorequal) | Implements the operator &gt;=. |
-| [implicit operator](../../aspose.html.drawing/resolution/op_implicit) | Performs an implicit conversion from Double to [`Resolution`](../resolution). (2 operators) |
-| [operator !=](../../aspose.html.drawing/resolution/op_inequality) | Implements the operator !=. |
-| [operator &lt;](../../aspose.html.drawing/resolution/op_lessthan) | Implements the operator &lt;. |
-| [operator &lt;=](../../aspose.html.drawing/resolution/op_lessthanorequal) | Implements the operator &lt;=. |
-| [operator -](../../aspose.html.drawing/resolution/op_subtraction) | Implements the operator -. |
+| [operator +](../../aspose.html.drawing/resolution/op_addition) |  |
+| [operator ==](../../aspose.html.drawing/resolution/op_equality) |  |
+| [operator &gt;](../../aspose.html.drawing/resolution/op_greaterthan) |  |
+| [operator &gt;=](../../aspose.html.drawing/resolution/op_greaterthanorequal) |  |
+| [implicit operator](../../aspose.html.drawing/resolution/op_implicit) |  (2 operators) |
+| [operator !=](../../aspose.html.drawing/resolution/op_inequality) |  |
+| [operator &lt;](../../aspose.html.drawing/resolution/op_lessthan) |  |
+| [operator &lt;=](../../aspose.html.drawing/resolution/op_lessthanorequal) |  |
+| [operator -](../../aspose.html.drawing/resolution/op_subtraction) |  |
 
 ### See Also
 

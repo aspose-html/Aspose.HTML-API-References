@@ -8,15 +8,9 @@ url: /net/aspose.html.net/formurlencodedcontent/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent constructor
 
-Initializes a new instance of the [`FormUrlEncodedContent`](../../formurlencodedcontent) class.
-
 ```csharp
 public FormUrlEncodedContent(IEnumerable<KeyValuePair<string, string>> nameValueCollection)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| nameValueCollection | IEnumerable`1 | The name value collection. |
 
 ### See Also
 

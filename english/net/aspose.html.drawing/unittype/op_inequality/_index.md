@@ -8,20 +8,9 @@ url: /net/aspose.html.drawing/unittype/op_inequality/
 ---
 ## UnitType Inequality operator
 
-Determines whether the two specified [`UnitType`](../../unittype) values are not equal.
-
 ```csharp
 public static bool operator !=(UnitType first, UnitType second)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| first | UnitType | The first [`UnitType`](../../unittype) value to compare. |
-| second | UnitType | The second [`UnitType`](../../unittype) value to compare. |
-
-### Return Value
-
-`true` if the both [`UnitType`](../../unittype) are not equal; otherwise, `false`.
 
 ### See Also
 

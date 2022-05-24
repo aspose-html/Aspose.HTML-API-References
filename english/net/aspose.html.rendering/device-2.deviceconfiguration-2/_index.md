@@ -8,8 +8,6 @@ url: /net/aspose.html.rendering/device-2.deviceconfiguration-2/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; class
 
-Represents configuration object for devices.
-
 ```csharp
 public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
     where TGraphicContext : GraphicContext, new()
@@ -26,7 +24,7 @@ public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
 
 | Name | Description |
 | --- | --- |
-| [PageWritingStrategy](../../aspose.html.rendering/deviceconfiguration/pagewritingstrategy) { get; set; } | Gets or sets the page writing strategy. |
+| [PageWritingStrategy](../../aspose.html.rendering/deviceconfiguration/pagewritingstrategy) { get; set; } |  |
 
 ### See Also
 

@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/borderright/
 ---
 ## ICSS2Properties.BorderRight property
 
-See the border-right property definition in CSS2.
+This is a shorthand property for setting the width, style, and color of the top, right, bottom, and left border of a box.
 
 ```csharp
 public string BorderRight { get; set; }

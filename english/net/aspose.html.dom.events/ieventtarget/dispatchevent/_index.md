@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.events/ieventtarget/dispatchevent/
 ---
 ## IEventTarget.DispatchEvent method
 
-This method allows the dispatch of events into the implementations event model.
+Dispatches an Event at the specified EventTarget, (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with dispatchEvent().
 
 ```csharp
 public bool DispatchEvent(Event @event)
@@ -20,17 +20,17 @@ public bool DispatchEvent(Event @event)
 
 ### Return Value
 
-The return value of [`DispatchEvent`](../../../aspose.html.dom/eventtarget/dispatchevent) indicates whether any of the listeners which handled the event called [`PreventDefault`](../../event/preventdefault). If [`PreventDefault`](../../event/preventdefault) was called the value is false, else the value is true.
+The return value of indicates whether any of the listeners which handled the event called. If was called the value is false, else the value is true.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [DOMException](../../../aspose.html.dom/domexception) |  |
+| [DOMException](../../../aspose.html.dom/domexception) | Exceptions thrown by event handlers are reported as uncaught exceptions. The event handlers run on a nested callstack; they block the caller until they complete, but exceptions do not propagate to the caller. |
 
 ### Remarks
 
-Events dispatched in this manner will have the same capturing and bubbling behavior as events dispatched directly by the implementation. The target of the event is the [`EventTarget`](../../../aspose.html.dom/eventtarget) on which [`DispatchEvent`](../../../aspose.html.dom/eventtarget/dispatchevent) is called.
+Events dispatched in this manner will have the same capturing and bubbling behavior as events dispatched directly by the implementation. The target of the event is the on which is called.
 
 ### See Also
 

@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/margintop/
 ---
 ## ICSS2Properties.MarginTop property
 
-See the margin-top property definition in CSS2.
+These properties set the top, right, bottom, and left margin of a box.
 
 ```csharp
 public string MarginTop { get; set; }

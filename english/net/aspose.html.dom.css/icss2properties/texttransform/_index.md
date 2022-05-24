@@ -8,7 +8,9 @@ url: /net/aspose.html.dom.css/icss2properties/texttransform/
 ---
 ## ICSS2Properties.TextTransform property
 
-See the text-transform property definition in CSS2.
+This property controls capitalization effects of an element's text. Values have the following meanings:
+
+capitalize - Puts the first character of each word in uppercase.uppercase - Puts all characters of each word in uppercase.lowercase - Puts all characters of each word in lowercase.none - No capitalization effects.
 
 ```csharp
 public string TextTransform { get; set; }

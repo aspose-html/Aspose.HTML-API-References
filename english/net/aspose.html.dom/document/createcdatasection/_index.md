@@ -8,7 +8,7 @@ url: /net/aspose.html.dom/document/createcdatasection/
 ---
 ## Document.CreateCDATASection method
 
-Creates a CDATASection node whose value is the specified string.
+Creates a [`CDATASection`](../../cdatasection) node whose value is the specified string.
 
 ```csharp
 public CDATASection CreateCDATASection(string data)
@@ -16,11 +16,17 @@ public CDATASection CreateCDATASection(string data)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| data | String | The CDATA data. |
+| data | String | The CDATA content. |
 
 ### Return Value
 
 The [`CDATASection`](../../cdatasection).
+
+### Examples
+
+```csharp
+var cdata = document.CreateCDATASection(data)
+```
 
 ### See Also
 

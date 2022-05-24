@@ -36,7 +36,7 @@ public class Path2D : DOMObject, ICanvasPathMethods, IDisposable
 | [Dispose](../../aspose.html.dom.canvas/path2d/dispose)() | Disposes object. |
 | [Ellipse](../../aspose.html.dom.canvas/path2d/ellipse)(double, double, double, double, double, double, double) | Adds an ellipse to the path which is centered at (x, y) position with the radii radiusX and radiusY starting at startAngle and ending at endAngle going in the given direction by anticlockwise (defaulting to clockwise). |
 | [Ellipse](../../aspose.html.dom.canvas/path2d/ellipse)(double, double, double, double, double, double, double, bool) | Adds an ellipse to the path which is centered at (x, y) position with the radii radiusX and radiusY starting at startAngle and ending at endAngle going in the given direction by anticlockwise (defaulting to clockwise). |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 | [LineTo](../../aspose.html.dom.canvas/path2d/lineto)(double, double) | Connects the last point in the subpath to the x, y coordinates with a straight line. |
 | [MoveTo](../../aspose.html.dom.canvas/path2d/moveto)(double, double) | Moves the starting point of a new sub-path to the (x, y) coordinates. |
 | [QuadraticCurveTo](../../aspose.html.dom.canvas/path2d/quadraticcurveto)(double, double, double, double) | Adds a quadratic Bézier curve to the current path. |

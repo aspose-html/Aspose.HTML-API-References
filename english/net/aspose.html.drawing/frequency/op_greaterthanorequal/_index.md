@@ -8,27 +8,9 @@ url: /net/aspose.html.drawing/frequency/op_greaterthanorequal/
 ---
 ## Frequency GreaterThanOrEqual operator
 
-Implements the operator &gt;=.
-
 ```csharp
 public static bool operator >=(Frequency a, Frequency b)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| a | Frequency | The parameter a. |
-| b | Frequency | The parameter b. |
-
-### Return Value
-
-The result of the operator.
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentException | Arguments have different types |
-| ArgumentNullException | An argument is null |
 
 ### See Also
 

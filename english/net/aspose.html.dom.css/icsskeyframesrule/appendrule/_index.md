@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icsskeyframesrule/appendrule/
 ---
 ## ICSSKeyframesRule.AppendRule method
 
-The appendRule method appends the passed CSSKeyframeRule into the list at the passed key
+The appendRule method appends the passed [`CSSKeyframeRule`](../../icsskeyframerule) at the end of the keyframes rule collection.
 
 ```csharp
 public void AppendRule(string rule)

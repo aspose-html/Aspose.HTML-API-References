@@ -10,6 +10,8 @@ url: /net/aspose.html.dom.css/cssvaluelist/
 
 The CSSValueList interface provides the abstraction of an ordered collection of CSS values.
 
+Note: This interface was part of an attempt to create a typed CSS Object Model. This attempt has been abandoned, and most browsers do not implement it.
+
 ```csharp
 public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 ```
@@ -26,10 +28,10 @@ public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 
 | Name | Description |
 | --- | --- |
-| override [CSSText](../../aspose.html.dom.css/cssvaluelist/csstext) { get; set; } | A string representation of the current value. |
+| override [CSSText](../../aspose.html.dom.css/cssvaluelist/csstext) { get; set; } | The cssText property of the [`CSSValue`](../cssvalue) interface represents the current computed CSS property value. |
 | [CSSValueType](../../aspose.html.dom.css/cssvalue/cssvaluetype) { get; } | A code defining the type of the value. |
-| [Item](../../aspose.html.dom.css/cssvaluelist/item) { get; } | Gets the [`CSSValue`](../cssvalue) at the specified index. |
-| [Length](../../aspose.html.dom.css/cssvaluelist/length) { get; } | The number of CSSValues in the list. |
+| [Item](../../aspose.html.dom.css/cssvaluelist/item) { get; } | The item() method of the CSSValueList interface is used to retrieve a CSSValue by ordinal index. |
+| [Length](../../aspose.html.dom.css/cssvaluelist/length) { get; } | The length read-only property of the CSSValueList interface represents the number of CSSValues in the list. The range of valid values of the indices is 0 to length-1 inclusive. |
 
 ## Methods
 

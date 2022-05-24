@@ -28,16 +28,9 @@ public UIEvent(string type)
 
 ## UIEvent constructor (2 of 2)
 
-Initializes a new instance of the [`UIEvent`](../../uievent) class.
-
 ```csharp
 public UIEvent(string type, IDictionary<string, object> eventInitDict)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| type | String | The event type. |
-| eventInitDict | IDictionary`2 | The event initialize dictionary. |
 
 ### See Also
 

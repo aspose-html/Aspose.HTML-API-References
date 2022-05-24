@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/playduring/
 ---
 ## ICSS2Properties.PlayDuring property
 
-See the play-during property definition in CSS2.
+Similar to the ['cue-before'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-cue-before) and ['cue-after'](https://www.w3.org/TR/1998/REC-CSS2-19980512/aural.html#propdef-cue-after) properties, this property specifies a sound to be played as a background while an element's content is spoken.
 
 ```csharp
 public string PlayDuring { get; set; }

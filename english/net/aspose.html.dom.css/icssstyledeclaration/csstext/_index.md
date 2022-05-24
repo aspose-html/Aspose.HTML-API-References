@@ -16,7 +16,7 @@ public string CSSText { get; set; }
 
 ### Property Value
 
-The CSS text.
+Setting this attribute changes the inline style. If you want a text representation of a computed declaration block, you can get it with JSON.stringify().
 
 ### See Also
 

@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/bordertop/
 ---
 ## ICSS2Properties.BorderTop property
 
-See the border-top property definition in CSS2.
+This is a shorthand property for setting the width, style, and color of the top, right, bottom, and left border of a box.
 
 ```csharp
 public string BorderTop { get; set; }

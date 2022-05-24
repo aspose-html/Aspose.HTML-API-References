@@ -24,11 +24,11 @@ public abstract class Renderer<TDocument> : Renderer
 | --- | --- |
 | [Dispose](../../aspose.html.rendering/renderer/dispose)() | Releases unmanaged and - optionally - managed resources. |
 | [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, TDocument) | Defines method for rendering !:TDocument into specified [`IDevice`](../idevice). |
-| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, params TDocument[]) | Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../idevice). |
-| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, int, params TDocument[]) | Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
+| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, params TDocument[]) |  |
+| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, int, params TDocument[]) |  |
 | [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, TDocument, int) | Defines method for rendering !:TDocument into specified [`IDevice`](../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
 | [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, TDocument, TimeSpan) | Defines method for rendering !:TDocument into specified [`IDevice`](../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
-| abstract [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, TimeSpan, params TDocument[]) | Defines method for rendering multiple !:TDocuments into specific [`IDevice`](../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
+| abstract [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, TimeSpan, params TDocument[]) |  |
 
 ### See Also
 

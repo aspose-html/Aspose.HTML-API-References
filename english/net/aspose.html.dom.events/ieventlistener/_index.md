@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.events/ieventlistener/
 ---
 ## IEventListener interface
 
-The [`IEventListener`](../ieventlistener) interface is the primary method for handling events. Users implement the [`IEventListener`](../ieventlistener) interface and register their listener on an [`EventTarget`](../../aspose.html.dom/eventtarget) using the [`AddEventListener`](../../aspose.html.dom/eventtarget/addeventlistener) method. The users should also remove their [`IEventListener`](../ieventlistener) from its [`EventTarget`](../../aspose.html.dom/eventtarget) after they have completed using the listener.
+The interface is the primary method for handling events. Users implement the interface and register their listener on an using the method. The users should also remove their from its after they have completed using the listener.
 
 ```csharp
 public interface IEventListener
@@ -18,7 +18,7 @@ public interface IEventListener
 
 | Name | Description |
 | --- | --- |
-| [HandleEvent](../../aspose.html.dom.events/ieventlistener/handleevent)(Event) | This method is called whenever an event occurs of the type for which the [`IEventListener`](../ieventlistener) interface was registered. |
+| [HandleEvent](../../aspose.html.dom.events/ieventlistener/handleevent)(Event) | This method is called whenever an event occurs of the type for which the interface was registered. |
 
 ### Remarks
 

@@ -8,16 +8,11 @@ url: /net/aspose.html.dom.events/domeventhandler/
 ---
 ## DOMEventHandler delegate
 
-Represents the callback for event handling.
+Represents a generic callback delegate for Document Object Model (DOM) event handling.
 
 ```csharp
 public delegate void DOMEventHandler(object sender, Event e);
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sender | Object | The sender. |
-| e | Event | The event arguments. |
 
 ### See Also
 

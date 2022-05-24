@@ -8,7 +8,7 @@ url: /net/aspose.html/htmltablesectionelement/align/
 ---
 ## HTMLTableSectionElement.Align property
 
-Horizontal alignment of data in cells. See the `align` attribute for HTMLTheadElement for details.
+Horizontal alignment of data in cells. See the `align`attribute for HTMLTheadElement for details.
 
 ```csharp
 public string Align { get; set; }

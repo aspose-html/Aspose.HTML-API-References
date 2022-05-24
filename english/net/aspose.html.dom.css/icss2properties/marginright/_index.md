@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/marginright/
 ---
 ## ICSS2Properties.MarginRight property
 
-See the margin-right property definition in CSS2.
+These properties set the top, right, bottom, and left margin of a box.
 
 ```csharp
 public string MarginRight { get; set; }

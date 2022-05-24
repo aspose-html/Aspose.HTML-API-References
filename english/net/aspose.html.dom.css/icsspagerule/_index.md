@@ -18,8 +18,8 @@ public interface ICSSPageRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [SelectorText](../../aspose.html.dom.css/icsspagerule/selectortext) { get; set; } | The parsable textual representation of the page selector for the rule. |
-| [Style](../../aspose.html.dom.css/icsspagerule/style) { get; } | The declaration-block of this rule. |
+| [SelectorText](../../aspose.html.dom.css/icsspagerule/selectortext) { get; set; } | The selectorText property of the [`CSSPageRule`](../icsspagerule) interface gets and sets the selectors associated with the [`CSSPageRule`](../icsspagerule). |
+| [Style](../../aspose.html.dom.css/icsspagerule/style) { get; } | The style read-only property of the [`CSSPageRule`](../icsspagerule) interface returns a [`CSSStyleDeclaration`](../icssstyledeclaration) object. This represents an object that is a CSS declaration block, and exposes style information and various style-related methods and properties. |
 
 ### See Also
 

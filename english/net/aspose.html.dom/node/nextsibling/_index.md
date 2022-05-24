@@ -8,11 +8,21 @@ url: /net/aspose.html.dom/node/nextsibling/
 ---
 ## Node.NextSibling property
 
-The node immediately following this node. If there is no such node, this returns null.
+The read-only nextSibling property of the [`Node`](../../node) interface returns the node immediately following the specified one in their parent's [`childNodes`](../childnodes), or returns null if the specified node is the last child in the parent element.
 
 ```csharp
 public Node NextSibling { get; }
 ```
+
+### Property Value
+
+A [`Node`](../../node) representing the next sibling of the current node, or null if there are none.
+
+### Remarks
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # dom-node-nextsibling](https://dom.spec.whatwg.org/#dom-node-nextsibling).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
 ### See Also
 

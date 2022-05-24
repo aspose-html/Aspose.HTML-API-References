@@ -8,19 +8,9 @@ url: /net/aspose.html/mimetype/op_implicit/
 ---
 ## MimeType Implicit operator (1 of 2)
 
-Performs an implicit conversion from String to [`MimeType`](../../mimetype).
-
 ```csharp
 public static implicit operator MimeType(string @string)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| string | String | The string. |
-
-### Return Value
-
-The result of the conversion.
 
 ### See Also
 
@@ -32,19 +22,9 @@ The result of the conversion.
 
 ## MimeType Implicit operator (2 of 2)
 
-Performs an implicit conversion from [`MimeType`](../../mimetype) to String.
-
 ```csharp
 public static implicit operator string(MimeType type)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| type | MimeType | The mime type. |
-
-### Return Value
-
-The result of the conversion.
 
 ### See Also
 

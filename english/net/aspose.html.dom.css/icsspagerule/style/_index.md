@@ -8,11 +8,15 @@ url: /net/aspose.html.dom.css/icsspagerule/style/
 ---
 ## ICSSPageRule.Style property
 
-The declaration-block of this rule.
+The style read-only property of the [`CSSPageRule`](../../icsspagerule) interface returns a [`CSSStyleDeclaration`](../../icssstyledeclaration) object. This represents an object that is a CSS declaration block, and exposes style information and various style-related methods and properties.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
+
+### Property Value
+
+A [`CSSStyleDeclaration`](../../icssstyledeclaration) object which represents a CSS declaration block.
 
 ### See Also
 

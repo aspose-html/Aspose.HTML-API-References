@@ -30,7 +30,7 @@ public class SVGMatrix : SVGValueType
 | Name | Description |
 | --- | --- |
 | [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 | [Multiply](../../aspose.html.dom.svg.datatypes/svgmatrix/multiply)(SVGMatrix) | Performs matrix multiplication. This matrix is post-multiplied by another matrix, returning the resulting new matrix. |
 | [Rotate](../../aspose.html.dom.svg.datatypes/svgmatrix/rotate)(float) | Post-multiplies a rotation transformation on the current matrix and returns the resulting matrix. |
 | [Scale](../../aspose.html.dom.svg.datatypes/svgmatrix/scale)(float) | Post-multiplies a uniform scale transformation on the current matrix and returns the resulting matrix. |

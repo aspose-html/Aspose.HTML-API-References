@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/borderspacing/
 ---
 ## ICSS2Properties.BorderSpacing property
 
-See the border-spacing property definition in CSS2.
+The lengths specify the distance that separates adjacent cell borders. If one length is specified, it gives both the horizontal and vertical spacing. If two are specified, the first gives the horizontal spacing and the second the vertical spacing. Lengths may not be negative.
 
 ```csharp
 public string BorderSpacing { get; set; }

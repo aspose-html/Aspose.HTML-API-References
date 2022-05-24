@@ -38,7 +38,7 @@ public sealed class Location : Url
 | [Assign](../../aspose.html.window/location/assign)(string) | Navigates to the given page. |
 | override [Equals](../../aspose.html/url/equals)(object) | Determines whether the specified Object, is equal to this instance. |
 | override [GetHashCode](../../aspose.html/url/gethashcode)() | Returns a hash code for this instance. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 | [Reload](../../aspose.html.window/location/reload)() | Reloads the current page. |
 | [Replace](../../aspose.html.window/location/replace)(string) | Removes the current page from the session history and navigates to the given page. |
 | [ToJson](../../aspose.html/url/tojson)() | Returns a String that represents this instance. |

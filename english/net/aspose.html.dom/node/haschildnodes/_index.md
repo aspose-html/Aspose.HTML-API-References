@@ -8,7 +8,7 @@ url: /net/aspose.html.dom/node/haschildnodes/
 ---
 ## Node.HasChildNodes method
 
-Returns whether this node has any children.
+The hasChildNodes() method of the Node interface returns a boolean value indicating whether the given [`Node`](../../node) has child nodes or not.
 
 ```csharp
 public bool HasChildNodes()
@@ -16,7 +16,7 @@ public bool HasChildNodes()
 
 ### Return Value
 
-`true` if has child nodes otherwise, `false`.
+A boolean value that is true if the node has child nodes, and false otherwise.
 
 ### See Also
 

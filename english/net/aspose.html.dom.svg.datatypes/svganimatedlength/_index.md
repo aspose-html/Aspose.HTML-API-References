@@ -26,7 +26,7 @@ public class SVGAnimatedLength : SVGAnimatedValue<SVGLength>
 | Name | Description |
 | --- | --- |
 | [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | Releases unmanaged and - optionally - managed resources. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 | override [ToString](../../aspose.html.dom.svg.datatypes/svganimatedlength/tostring)() | Returns a String that represents this instance. |
 
 ### See Also

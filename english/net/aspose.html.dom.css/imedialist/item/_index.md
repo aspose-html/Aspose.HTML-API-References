@@ -8,11 +8,19 @@ url: /net/aspose.html.dom.css/imedialist/item/
 ---
 ## IMediaList indexer
 
-Returns the indexth in the list. If index is greater than or equal to the number of media in the list, this returns null. The media index.
+RetuThe item(index) method must return a serialization of the media query in the collection of media queries given by index, or null, if index is greater than or equal to the number of media queries in the collection of media queries.
 
 ```csharp
 public string this[int index] { get; }
 ```
+
+### Return Value
+
+Returns a string representing a media query as text, given the media query's index value inside the [`MediaList`](../../imedialist).
+
+### Property Value
+
+An integer which is the index of the item in the collection to be returned.
 
 ### See Also
 

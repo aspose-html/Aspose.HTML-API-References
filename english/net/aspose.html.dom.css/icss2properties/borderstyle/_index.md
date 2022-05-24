@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/borderstyle/
 ---
 ## ICSS2Properties.BorderStyle property
 
-See the border-style property definition in CSS2.
+The 'border-style' property sets the style of the four borders. It can have from one to four values, and the values are set on the different sides as for 'border-width' above.
 
 ```csharp
 public string BorderStyle { get; set; }

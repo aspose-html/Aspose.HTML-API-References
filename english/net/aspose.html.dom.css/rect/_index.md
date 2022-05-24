@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/rect/
 ---
 ## Rect class
 
-The Rect interface is used to represent any rect value. This interface reflects the values in the underlying style property. Hence, modifications made to the CSSPrimitiveValue objects modify the style property.
+The Rect interface is used to represent any rect value. This interface reflects the values in the underlying style property. Hence, modifications made to the [`CSSPrimitiveValue`](../cssprimitivevalue) objects modify the style property.
 
 ```csharp
 public class Rect : DOMObject
@@ -27,7 +27,15 @@ public class Rect : DOMObject
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve ECMAScript object Type. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
+
+### Remarks
+
+[CSSOM](https://drafts.csswg.org/cssom/) defines APIs (including generic parsing and serialization rules) for Media Queries, Selectors, and of course CSS itself.
+
+Reference
+
+[CSS Working Group](https://wiki.csswg.org/) - The CSS Working Group is the W3C working group chartered to develop Cascading Style Sheets (CSS).[CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/) - CSSOM defines APIs (including generic parsing and serialization rules) for Media Queries, Selectors, and of course CSS itself.
 
 ### See Also
 

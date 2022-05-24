@@ -14,6 +14,10 @@ This attribute is used for the bottom of the rect.
 public CSSPrimitiveValue Bottom { get; }
 ```
 
+### Property Value
+
+The y-axis value of the bottom of the rectangle. If the rectangle is empty, the value is NegativeInfinity.
+
 ### See Also
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue)

@@ -8,20 +8,9 @@ url: /net/aspose.html.drawing/resolution/op_inequality/
 ---
 ## Resolution Inequality operator
 
-Implements the operator !=.
-
 ```csharp
 public static bool operator !=(Resolution a, Resolution b)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| a | Resolution | The parameter a. |
-| b | Resolution | The parameter b. |
-
-### Return Value
-
-The result of the operator.
 
 ### See Also
 

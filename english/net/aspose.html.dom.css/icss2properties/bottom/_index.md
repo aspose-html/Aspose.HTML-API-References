@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/bottom/
 ---
 ## ICSS2Properties.Bottom property
 
-See the bottom property definition in CSS2.
+This property specifies how far a box's bottom content edge is offset above the bottom of the box's containing block.
 
 ```csharp
 public string Bottom { get; set; }

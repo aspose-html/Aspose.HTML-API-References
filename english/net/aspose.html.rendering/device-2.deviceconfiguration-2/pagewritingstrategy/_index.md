@@ -8,15 +8,9 @@ url: /net/aspose.html.rendering/device-2.deviceconfiguration-2/pagewritingstrate
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy property
 
-Gets or sets the page writing strategy.
-
 ```csharp
 public PageWritingStrategy<TGraphicContext, TRenderingOptions> PageWritingStrategy { get; set; }
 ```
-
-### Property Value
-
-The page writing strategy.
 
 ### See Also
 

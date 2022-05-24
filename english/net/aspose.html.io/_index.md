@@ -13,7 +13,7 @@ In addition to standard IO (input-output) tools the **Aspose.Html.IO** namespace
 | Class | Description |
 | --- | --- |
 | [FileCreateStreamProvider](./filecreatestreamprovider) | Represents FileStream implementation for providing streams to the rendering devices. |
-| [OutputStream](./outputstream) | A surrogate stream wraps the real output stream and controls access to it. [`OutputStream`](../aspose.html.io/outputstream) contains URI data that describes location of the output stream. |
+| [OutputStream](./outputstream) | A surrogate stream wraps the real output stream and controls access to it.[`OutputStream`](../aspose.html.io/outputstream) contains URI data that describes location of the output stream. |
 | [OutputStreamContext](./outputstreamcontext) | A context for initialization of the output stream. |
 ## Interfaces
 

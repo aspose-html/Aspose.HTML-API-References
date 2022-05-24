@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/outlinecolor/
 ---
 ## ICSS2Properties.OutlineColor property
 
-See the outline-color property definition in CSS2.
+The outline created with the outline properties is drawn "over" a box, i.e., the outline is always on top, and doesn't influence the position or size of the box, or of any other boxes. Therefore, displaying or suppressing outlines does not cause reflow.
 
 ```csharp
 public string OutlineColor { get; set; }

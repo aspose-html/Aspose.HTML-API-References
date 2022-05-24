@@ -8,7 +8,7 @@ url: /net/aspose.html.dom.css/icss2properties/marginleft/
 ---
 ## ICSS2Properties.MarginLeft property
 
-See the margin-left property definition in CSS2.
+These properties set the top, right, bottom, and left margin of a box.
 
 ```csharp
 public string MarginLeft { get; set; }
