@@ -18,6 +18,7 @@ public enum HTMLSaveFormat
 
 | Name | Value | Description |
 | --- | --- | --- |
+| Original | `0` | The document will be saved in its original format. |
 | HTML | `0` | Document will be saved as HTML. |
 | Markdown | `1` | Document will be saved as Markdown. |
 | MHTML | `2` | Document will be saved as MHTML. |

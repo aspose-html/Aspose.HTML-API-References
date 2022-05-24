@@ -24,6 +24,7 @@ public class HTMLSaveOptions : SaveOptions
 
 | Name | Description |
 | --- | --- |
+| [DocumentType](../../aspose.html.saving/htmlsaveoptions/documenttype) { get; set; } | Gets or sets the output document type. |
 | [ResourceHandlingOptions](../../aspose.html.saving/saveoptions/resourcehandlingoptions) { get; } | Gets a [`ResourceHandlingOptions`](../resourcehandlingoptions) object which is used for configuration of resources handling. |
 
 ### See Also
