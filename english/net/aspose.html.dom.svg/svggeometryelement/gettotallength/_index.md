@@ -14,7 +14,7 @@ Returns the user agent's computed value for the total length of the path using t
 public float GetTotalLength()
 ```
 
-## Return Value
+### Return Value
 
 The total length of the path.
 

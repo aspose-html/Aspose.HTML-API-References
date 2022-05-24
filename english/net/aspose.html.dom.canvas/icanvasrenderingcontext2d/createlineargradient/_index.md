@@ -21,7 +21,7 @@ public ICanvasGradient CreateLinearGradient(double x0, double y0, double x1, dou
 | x1 | Double | The x axis of the coordinate of the end point. |
 | y1 | Double | The y axis of the coordinate of the end point. |
 
-## Return Value
+### Return Value
 
 The linear CanvasGradient.
 

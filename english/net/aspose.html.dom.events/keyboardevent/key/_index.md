@@ -14,7 +14,7 @@ The key holds the key value of the key pressed. If the value is has a printed re
 public string Key { get; }
 ```
 
-## Property Value
+### Property Value
 
 The key value.
 

@@ -14,7 +14,7 @@ The X coordinate of the rectangle, in user units.
 public float X { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The X coordinate of the rectangle, in user units.
 

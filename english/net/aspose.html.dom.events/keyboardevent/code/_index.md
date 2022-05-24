@@ -14,7 +14,7 @@ The code holds a string that identifies the physical key being pressed. The valu
 public string Code { get; }
 ```
 
-## Property Value
+### Property Value
 
 The key code.
 

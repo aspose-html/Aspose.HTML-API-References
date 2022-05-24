@@ -19,7 +19,7 @@ public static bool operator ==(MultimediaHost left, MultimediaHost right)
 | left | MultimediaHost | The left operand. |
 | right | MultimediaHost | The left operand. |
 
-## Return Value
+### Return Value
 
 The result of the operation.
 

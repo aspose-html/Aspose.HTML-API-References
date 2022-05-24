@@ -18,7 +18,7 @@ public SVGMatrix Rotate(float angle)
 | --- | --- | --- |
 | angle | Single | Rotation angle. |
 
-## Return Value
+### Return Value
 
 The resulting matrix.
 

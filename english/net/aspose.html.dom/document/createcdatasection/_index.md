@@ -18,7 +18,7 @@ public CDATASection CreateCDATASection(string data)
 | --- | --- | --- |
 | data | String | The CDATA data. |
 
-## Return Value
+### Return Value
 
 The [`CDATASection`](../../cdatasection).
 

@@ -14,7 +14,7 @@ The public identifier of the external subset.
 public string PublicId { get; }
 ```
 
-## Property Value
+### Property Value
 
 The public identifier.
 

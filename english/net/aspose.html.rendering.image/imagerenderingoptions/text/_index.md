@@ -14,7 +14,7 @@ Gets a [`TextOptions`](../../textoptions) object which is used for configuration
 public TextOptions Text { get; }
 ```
 
-## Property Value
+### Property Value
 
 The [`TextOptions`](../../textoptions) object.
 

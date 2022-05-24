@@ -14,7 +14,7 @@ The angle value as a string value, in the units expressed by unitType. Setting t
 public string ValueAsString { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The value as string.
 

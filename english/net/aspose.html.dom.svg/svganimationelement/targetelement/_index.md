@@ -14,7 +14,7 @@ The element which is being animated.
 public SVGElement TargetElement { get; }
 ```
 
-## Property Value
+### Property Value
 
 The target element.
 

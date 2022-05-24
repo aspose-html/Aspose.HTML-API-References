@@ -19,7 +19,7 @@ public Node InsertBefore(Node node, Node child)
 | node | Node | The new child. |
 | child | Node | The ref child. |
 
-## Return Value
+### Return Value
 
 Returns inserted node
 

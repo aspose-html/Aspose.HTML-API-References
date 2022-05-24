@@ -18,7 +18,7 @@ public HTMLElement InsertCell(int index)
 | --- | --- | --- |
 | index | Int32 | The place to insert the cell, starting from 0. |
 
-## Return Value
+### Return Value
 
 The newly created cell.
 

@@ -14,7 +14,7 @@ Modes in which ShadowRoot can operate.
 public enum ShadowRootMode
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

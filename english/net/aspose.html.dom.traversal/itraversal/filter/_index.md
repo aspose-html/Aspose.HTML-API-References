@@ -14,7 +14,7 @@ The NodeFilter used to screen nodes.
 public INodeFilter Filter { get; }
 ```
 
-## Property Value
+### Property Value
 
 The filter.
 

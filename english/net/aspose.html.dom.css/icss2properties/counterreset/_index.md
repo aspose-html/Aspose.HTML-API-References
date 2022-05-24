@@ -14,7 +14,7 @@ See the counter-reset property definition in CSS2.
 public string CounterReset { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 counter-reset property
 

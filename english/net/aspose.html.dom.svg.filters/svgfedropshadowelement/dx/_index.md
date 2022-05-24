@@ -14,7 +14,7 @@ Corresponds to attribute ‘dx’ on the given ‘feDropShadow’ element.
 public SVGAnimatedNumber Dx { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘dx’ of the given ‘feDropShadow’ element.
 

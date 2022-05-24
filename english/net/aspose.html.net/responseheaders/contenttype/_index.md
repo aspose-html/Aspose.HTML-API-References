@@ -14,7 +14,7 @@ Gets the Content-Type header value.
 public ContentTypeHeaderValue ContentType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the content.
 

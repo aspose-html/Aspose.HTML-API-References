@@ -14,7 +14,7 @@ Corresponds to attribute ‘viewTarget’ on the given ‘view’ element. A lis
 public SVGStringList ViewTarget { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘viewTarget’ of the given ‘view’ element.
 

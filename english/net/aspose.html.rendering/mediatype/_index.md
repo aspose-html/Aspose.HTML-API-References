@@ -14,7 +14,7 @@ Specifies possible media types used during rendering.
 public enum MediaType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

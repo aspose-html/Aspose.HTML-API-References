@@ -19,7 +19,7 @@ public bool IsPointInStroke(double x, double y)
 | x | Double | The X coordinate of the point to check. |
 | y | Double | The Y coordinate of the point to check. |
 
-## Return Value
+### Return Value
 
 Returns true if the point is inside the area contained by the stroking of a path, otherwise false.
 
@@ -45,7 +45,7 @@ public bool IsPointInStroke(Path2D path, double x, double y)
 | x | Double | The X coordinate of the point to check. |
 | y | Double | The Y coordinate of the point to check. |
 
-## Return Value
+### Return Value
 
 Returns true if the point is inside the area contained by the stroking of a path, otherwise false.
 

@@ -14,7 +14,7 @@ Returns a value that contains one of the error code constants, or 0 if none matc
 public ushort Code { get; }
 ```
 
-## Property Value
+### Property Value
 
 Returns the error code.
 

@@ -14,7 +14,7 @@ Gets the type of the element.
 public FormElementType ElementType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the element.
 

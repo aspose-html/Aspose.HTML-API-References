@@ -14,7 +14,7 @@ Returns the checkedness state for the input element with the Checkbox type .
 public bool GetCheckboxValue()
 ```
 
-## Return Value
+### Return Value
 
 The checkedness state.
 

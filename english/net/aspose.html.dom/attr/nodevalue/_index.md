@@ -14,7 +14,7 @@ The value of this node, depending on its type.
 public override string NodeValue { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The node value.
 

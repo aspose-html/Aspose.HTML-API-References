@@ -14,7 +14,7 @@ See the clear property definition in CSS2.
 public string Clear { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 clear property
 

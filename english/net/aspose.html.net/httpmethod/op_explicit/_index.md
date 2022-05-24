@@ -18,7 +18,7 @@ public static explicit operator HttpMethod(string name)
 | --- | --- | --- |
 | name | String | The http-method name. |
 
-## Return Value
+### Return Value
 
 The result of the conversion.
 

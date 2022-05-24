@@ -14,7 +14,7 @@ Gets the WindowProxy object.
 public IWindow Window { get; }
 ```
 
-## Property Value
+### Property Value
 
 The window.
 

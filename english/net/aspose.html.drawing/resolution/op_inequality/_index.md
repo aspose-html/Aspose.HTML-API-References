@@ -19,7 +19,7 @@ public static bool operator !=(Resolution a, Resolution b)
 | a | Resolution | The parameter a. |
 | b | Resolution | The parameter b. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

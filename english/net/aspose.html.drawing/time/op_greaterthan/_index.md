@@ -19,7 +19,7 @@ public static bool operator >(Time a, Time b)
 | a | Time | The parameter a. |
 | b | Time | The parameter b. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

@@ -14,7 +14,7 @@ Gets or sets a string representation for the specified URL hash segment.
 public string Hash { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The hash.
 

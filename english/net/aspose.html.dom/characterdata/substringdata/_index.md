@@ -19,7 +19,7 @@ public virtual string SubstringData(int offset, int count)
 | offset | Int32 | The offset. |
 | count | Int32 | The count. |
 
-## Return Value
+### Return Value
 
 The text data
 

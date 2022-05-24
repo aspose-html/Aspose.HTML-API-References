@@ -14,7 +14,7 @@ The parsable textual representation of the page selector for the rule.
 public string SelectorText { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The selector text.
 

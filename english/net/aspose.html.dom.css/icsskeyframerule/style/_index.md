@@ -14,7 +14,7 @@ This attribute represents the style associated with this keyframe.
 public ICSSStyleDeclaration Style { get; }
 ```
 
-## Property Value
+### Property Value
 
 The style.
 

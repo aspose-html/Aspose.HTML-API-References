@@ -18,7 +18,7 @@ public HTMLElement InsertRow(int index)
 | --- | --- | --- |
 | index | Int32 | The row number where to insert a new row. This index starts from 0 and is relative only to the rows contained inside this section, not all the rows in the table. |
 
-## Return Value
+### Return Value
 
 The newly created row.
 

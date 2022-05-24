@@ -14,7 +14,7 @@ The CSS rule that contains this declaration block or null if this CSSStyleDeclar
 public ICSSRule ParentRule { get; }
 ```
 
-## Property Value
+### Property Value
 
 The parent rule.
 

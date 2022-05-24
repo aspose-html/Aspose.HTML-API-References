@@ -14,7 +14,7 @@ Creates a new instance of a GraphicContext class with the same property values a
 public virtual GraphicContext Clone()
 ```
 
-## Return Value
+### Return Value
 
 Instance of a GraphicContext
 

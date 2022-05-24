@@ -14,7 +14,7 @@ The public identifier of this notation. If the public identifier was not specifi
 public string PublicId { get; }
 ```
 
-## Property Value
+### Property Value
 
 The public identifier.
 

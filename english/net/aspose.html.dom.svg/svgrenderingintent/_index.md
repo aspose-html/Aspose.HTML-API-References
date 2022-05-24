@@ -14,7 +14,7 @@ The SVGRenderingIntent enumeration defines the enumerated list of possible value
 public enum SVGRenderingIntent
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

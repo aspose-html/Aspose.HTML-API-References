@@ -14,7 +14,7 @@ The value of this flag determines whether the children of entity reference nodes
 public bool PointerBeforeReferenceNode { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [expand entity references]; otherwise, `false`.
 

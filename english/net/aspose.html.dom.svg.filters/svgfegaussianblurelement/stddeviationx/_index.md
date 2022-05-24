@@ -14,7 +14,7 @@ Corresponds to attribute �stdDeviation� on the given �feGaussianBlur� el
 public SVGAnimatedNumber StdDeviationX { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute �stdDeviationX� of the given �feGaussianBlur� element.
 

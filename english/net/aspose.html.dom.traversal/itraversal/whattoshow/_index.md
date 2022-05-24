@@ -14,7 +14,7 @@ This attribute determines which node types are presented via the iterator. The a
 public long WhatToShow { get; }
 ```
 
-## Property Value
+### Property Value
 
 The what to show.
 

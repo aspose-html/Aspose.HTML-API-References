@@ -14,7 +14,7 @@ See the background-repeat property definition in CSS2.
 public string BackgroundRepeat { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 background-repeat property
 

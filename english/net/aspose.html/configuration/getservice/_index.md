@@ -19,7 +19,7 @@ public TService GetService<TService>()
 | --- | --- |
 | TService | The type of service to retrieve. |
 
-## Return Value
+### Return Value
 
 An instance of the service if it could be found, or null if it could not be found
 

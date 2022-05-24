@@ -14,7 +14,7 @@ Corresponds to attribute ‘limitingConeAngle’ on the given ‘feSpotLight’ 
 public SVGAnimatedNumber LimitingConeAngle { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘limitingConeAngle’ of the given ‘feSpotLight’ element.
 

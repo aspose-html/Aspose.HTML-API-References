@@ -14,7 +14,7 @@ See the min-width property definition in CSS2.
 public string MinWidth { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 min-width property
 

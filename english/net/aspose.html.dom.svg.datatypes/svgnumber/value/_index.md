@@ -14,7 +14,7 @@ The value of the given attribute.
 public float Value { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The value.
 

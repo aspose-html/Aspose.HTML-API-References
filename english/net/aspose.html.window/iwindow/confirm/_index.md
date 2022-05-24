@@ -18,7 +18,7 @@ public bool Confirm(string message)
 | --- | --- | --- |
 | message | String | The message. |
 
-## Return Value
+### Return Value
 
 Returns true if the user clicks OK and false if the user clicks Cancel
 

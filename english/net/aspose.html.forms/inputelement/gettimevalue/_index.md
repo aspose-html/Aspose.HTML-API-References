@@ -14,7 +14,7 @@ This method is used to get the value as a TimeSpan object. This method is valid 
 public TimeSpan GetTimeValue()
 ```
 
-## Return Value
+### Return Value
 
 The TimeSpan object.
 

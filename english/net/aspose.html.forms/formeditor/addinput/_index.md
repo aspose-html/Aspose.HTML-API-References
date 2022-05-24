@@ -18,7 +18,7 @@ public InputElement AddInput(string name)
 | --- | --- | --- |
 | name | String | Name of input element |
 
-## Return Value
+### Return Value
 
 Returns a new created [`InputElement`](../../inputelement).
 
@@ -44,7 +44,7 @@ public InputElement AddInput(string name, InputElementType type)
 | name | String | Name of input element |
 | type | InputElementType | Type of input element |
 
-## Return Value
+### Return Value
 
 Returns a new created [`InputElement`](../../inputelement).
 

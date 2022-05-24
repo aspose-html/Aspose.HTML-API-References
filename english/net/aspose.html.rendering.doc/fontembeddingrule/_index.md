@@ -14,7 +14,7 @@ Represents the font embedding rules.
 public enum FontEmbeddingRule
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

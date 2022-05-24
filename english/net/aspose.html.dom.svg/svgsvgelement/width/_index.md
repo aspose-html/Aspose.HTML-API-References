@@ -14,7 +14,7 @@ Corresponds to attribute ‘width’ on the given ‘svg’ element.
 public SVGAnimatedLength Width { get; }
 ```
 
-## Property Value
+### Property Value
 
 Corresponds to attribute ‘width’ on the given ‘svg’ element.
 

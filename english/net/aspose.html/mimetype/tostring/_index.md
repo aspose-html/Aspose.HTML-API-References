@@ -14,7 +14,7 @@ Returns a String that represents Mime type.
 public override string ToString()
 ```
 
-## Return Value
+### Return Value
 
 A String that represents this instance.
 

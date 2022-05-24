@@ -14,7 +14,7 @@ Gets or sets the encryption mode.
 public PdfEncryptionAlgorithm EncryptionAlgorithm { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The encryption algorithm.
 

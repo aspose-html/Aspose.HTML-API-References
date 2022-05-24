@@ -14,7 +14,7 @@ See the max-width property definition in CSS2.
 public string MaxWidth { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 max-width property
 

@@ -14,7 +14,7 @@ An unsigned short indicating what type of result this is. If a specific `type` i
 public enum XPathResultType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

@@ -18,7 +18,7 @@ public int CompareTo(Numeric other)
 | --- | --- | --- |
 | other | Numeric | The other object to compare. |
 
-## Return Value
+### Return Value
 
 A value that indicates the relative order of the objects being compared.
 

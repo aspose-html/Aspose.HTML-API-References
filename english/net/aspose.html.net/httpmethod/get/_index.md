@@ -14,7 +14,7 @@ Represents an HTTP GET protocol method.
 public static HttpMethod Get { get; }
 ```
 
-## Property Value
+### Property Value
 
 The HTTP GET method.
 

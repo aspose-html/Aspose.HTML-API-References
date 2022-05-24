@@ -14,7 +14,7 @@ This attribute is the name of the keyframes, used by the ‘animation-name’ pr
 public string Name { get; }
 ```
 
-## Property Value
+### Property Value
 
 The name.
 

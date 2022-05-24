@@ -14,7 +14,7 @@ Gets or sets the horizontal resolution.
 public Resolution HorizontalResolution { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The horizontal resolution.
 

@@ -18,7 +18,7 @@ public ShadowRoot AttachShadow(ShadowRootMode mode)
 | --- | --- | --- |
 | mode | ShadowRootMode | Mode in which shadow root will be created. |
 
-## Return Value
+### Return Value
 
 Created [`ShadowRoot`](../../shadowroot).
 

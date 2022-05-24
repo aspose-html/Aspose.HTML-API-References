@@ -14,7 +14,7 @@ Get the starting color of the linear gradient.
 public Color StartColor { get; }
 ```
 
-## Return Value
+### Return Value
 
 Start color
 

@@ -14,7 +14,7 @@ Returns an enumerator that iterates through the collection.
 public IEnumerator<OptionElement> GetEnumerator()
 ```
 
-## Return Value
+### Return Value
 
 Returns the enumerator of option elements
 

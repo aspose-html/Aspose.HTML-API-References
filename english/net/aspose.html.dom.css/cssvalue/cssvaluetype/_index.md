@@ -14,7 +14,7 @@ A code defining the type of the value.
 public ushort CSSValueType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the CSS value.
 

@@ -14,7 +14,7 @@ Corresponds to attribute �width� on the given �filter� element.
 public SVGAnimatedLength Width { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute �width� of the given �filter� element.
 

@@ -14,7 +14,7 @@ See the border-color property definition in CSS2.
 public string BorderColor { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 border-color property
 

@@ -14,7 +14,7 @@ Gets or sets the size of the screen.
 public Size ScreenSize { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The size of the screen.
 

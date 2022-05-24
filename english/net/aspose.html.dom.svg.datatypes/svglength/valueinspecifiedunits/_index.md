@@ -14,7 +14,7 @@ The value as a floating point value, in the units expressed by unitType. Setting
 public float ValueInSpecifiedUnits { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The value in specified units.
 

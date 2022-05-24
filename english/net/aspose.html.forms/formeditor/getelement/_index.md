@@ -20,7 +20,7 @@ public T GetElement<T>(int index)
 | T | Type of the form element |
 | index | The index of the element |
 
-## Return Value
+### Return Value
 
 Returns the element.
 
@@ -47,7 +47,7 @@ public T GetElement<T>(string name)
 | T | Type of the form element |
 | name | The element name |
 
-## Return Value
+### Return Value
 
 Returns the element.
 

@@ -14,7 +14,7 @@ Content type identifier.
 public enum TemplateContent
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

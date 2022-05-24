@@ -14,7 +14,7 @@ Corresponds to attribute ‘diffuseConstant’ on the given ‘feDiffuseLighting
 public SVGAnimatedNumber DiffuseConstant { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘diffuseConstant’ of the given ‘feDiffuseLighting’ element.
 

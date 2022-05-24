@@ -14,7 +14,7 @@ Gets the current browsing context.
 public IBrowsingContext Context { get; }
 ```
 
-## Property Value
+### Property Value
 
 The context.
 

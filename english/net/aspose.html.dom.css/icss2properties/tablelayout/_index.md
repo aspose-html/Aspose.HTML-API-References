@@ -14,7 +14,7 @@ See the table-layout property definition in CSS2.
 public string TableLayout { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 table-layout property
 

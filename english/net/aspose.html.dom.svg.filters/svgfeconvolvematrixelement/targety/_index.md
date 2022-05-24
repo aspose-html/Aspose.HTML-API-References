@@ -14,7 +14,7 @@ Corresponds to attribute ‘targetY’ on the given ‘feConvolveMatrix’ eleme
 public SVGAnimatedInteger TargetY { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘targetY’ of the given ‘feConvolveMatrix’ element.
 

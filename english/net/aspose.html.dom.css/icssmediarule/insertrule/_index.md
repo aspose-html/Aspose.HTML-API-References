@@ -19,7 +19,7 @@ public long InsertRule(string rule, long index)
 | rule | String | The media rule. |
 | index | Int64 | The index. |
 
-## Return Value
+### Return Value
 
 The inserted index.
 

@@ -14,7 +14,7 @@ This method is used to get the value as a color. This method is valid if only on
 public Color GetColorValue()
 ```
 
-## Return Value
+### Return Value
 
 The color object.
 

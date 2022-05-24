@@ -19,7 +19,7 @@ public static bool operator !=(CSSValue left, CSSValue right)
 | left | CSSValue | The left element. |
 | right | CSSValue | The right element. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

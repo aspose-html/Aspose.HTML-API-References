@@ -18,7 +18,7 @@ public override bool Equals(Unit other)
 | --- | --- | --- |
 | other | Unit | The [`Unit`](../../unit) to compare with this instance. |
 
-## Return Value
+### Return Value
 
 `true` if the specified [`Unit`](../../unit) is equal to this instance; otherwise, `false`.
 

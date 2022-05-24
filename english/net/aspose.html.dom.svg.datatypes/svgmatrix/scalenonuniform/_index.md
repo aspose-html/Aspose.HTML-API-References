@@ -19,7 +19,7 @@ public SVGMatrix ScaleNonUniform(float scaleFactorX, float scaleFactorY)
 | scaleFactorX | Single | Scale factor in X. |
 | scaleFactorY | Single | Scale factor in Y. |
 
-## Return Value
+### Return Value
 
 The resulting matrix.
 

@@ -14,7 +14,7 @@ Gets the byteLength accessor property represents the length of an ArrayBuffer in
 public int ByteLength { get; }
 ```
 
-## Property Value
+### Property Value
 
 The length in bytes.
 

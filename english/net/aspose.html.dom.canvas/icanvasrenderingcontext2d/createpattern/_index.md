@@ -19,7 +19,7 @@ public ICanvasPattern CreatePattern(HTMLImageElement image, string repetition)
 | image | HTMLImageElement | A HTMLImageElement to be used as the image to repeat |
 | repetition | String | A string indicating how to repeat the image. |
 
-## Return Value
+### Return Value
 
 An opaque object describing a pattern.
 
@@ -46,7 +46,7 @@ public ICanvasPattern CreatePattern(HTMLCanvasElement image, string repetition)
 | image | HTMLCanvasElement | A HTMLCanvasElement to be used as the image to repeat |
 | repetition | String | A string indicating how to repeat the image. |
 
-## Return Value
+### Return Value
 
 An opaque object describing a pattern.
 

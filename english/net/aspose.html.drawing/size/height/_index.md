@@ -14,7 +14,7 @@ Gets or sets the vertical component of this [`Size`](../../size).
 public Length Height { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The vertical component of this [`Size`](../../size).
 

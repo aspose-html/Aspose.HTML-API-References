@@ -19,7 +19,7 @@ public virtual Url Resolve(string baseUri, string relativeUri)
 | baseUri | String | The base URI. |
 | relativeUri | String | The relative URI. |
 
-## Return Value
+### Return Value
 
 The absolute URI
 

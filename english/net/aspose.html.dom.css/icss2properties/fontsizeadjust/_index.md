@@ -14,7 +14,7 @@ See the font-size-adjust property definition in CSS2.
 public string FontSizeAdjust { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 font-size-adjust property
 

@@ -15,7 +15,7 @@ A [`MarkdownFeatures`](../markdownfeatures) flag set is a set of zero or more of
 public enum MarkdownFeatures
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

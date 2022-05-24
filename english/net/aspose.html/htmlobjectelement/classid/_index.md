@@ -14,7 +14,7 @@ Defines a class ID value as set in the Windows Registry or a URL
 public string ClassId { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The class id.
 

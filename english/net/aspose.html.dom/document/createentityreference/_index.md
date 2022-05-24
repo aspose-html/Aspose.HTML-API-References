@@ -18,7 +18,7 @@ public EntityReference CreateEntityReference(string name)
 | --- | --- | --- |
 | name | String | The entity name. |
 
-## Return Value
+### Return Value
 
 The [`EntityReference`](../../entityreference).
 

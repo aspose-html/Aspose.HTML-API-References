@@ -14,7 +14,7 @@ Refer to the altKey attribute.
 public bool AltKey { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [alt key]; otherwise, `false`.
 

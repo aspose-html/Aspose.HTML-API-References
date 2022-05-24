@@ -14,7 +14,7 @@ See the display property definition in CSS2.
 public string Display { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 display property
 

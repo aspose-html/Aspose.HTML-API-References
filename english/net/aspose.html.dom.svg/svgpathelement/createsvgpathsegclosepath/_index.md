@@ -14,7 +14,7 @@ Returns a stand-alone, parentless SVGPathSegClosePath object.
 public SVGPathSegClosePath CreateSVGPathSegClosePath()
 ```
 
-## Return Value
+### Return Value
 
 A stand-alone, parentless SVGPathSegClosePath object.
 

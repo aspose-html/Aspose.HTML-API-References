@@ -14,7 +14,7 @@ An attribute specifying, as part of the XML declaration, the version number of t
 public string XmlVersion { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The XML version.
 

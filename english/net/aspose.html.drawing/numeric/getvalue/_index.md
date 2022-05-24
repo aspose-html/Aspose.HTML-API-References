@@ -14,7 +14,7 @@ Gets the unit value.
 public double GetValue()
 ```
 
-## Return Value
+### Return Value
 
 The object value.
 
@@ -38,7 +38,7 @@ public double GetValue(UnitType unitType)
 | --- | --- | --- |
 | unitType | UnitType | Type of the unit. |
 
-## Return Value
+### Return Value
 
 Returns value that is converted to specified type.
 

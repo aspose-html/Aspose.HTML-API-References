@@ -14,7 +14,7 @@ Gets the [`RequestHeaders`](../../requestheaders).
 public RequestHeaders Headers { get; }
 ```
 
-## Property Value
+### Property Value
 
 The headers.
 

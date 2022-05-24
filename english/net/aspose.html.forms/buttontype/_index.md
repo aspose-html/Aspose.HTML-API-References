@@ -14,7 +14,7 @@ This enumeration represents states of the button.
 public enum ButtonType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

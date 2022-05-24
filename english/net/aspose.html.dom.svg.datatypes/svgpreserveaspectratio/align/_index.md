@@ -14,7 +14,7 @@ The type of the alignment value as specified by one of the SVG_PRESERVEASPECTRAT
 public ushort Align { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the alignment
 

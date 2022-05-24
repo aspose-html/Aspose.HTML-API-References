@@ -14,7 +14,7 @@ The type of the path segment, specified by the corresponding one character comma
 public string PathSegTypeAsLetter { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the path segment.
 

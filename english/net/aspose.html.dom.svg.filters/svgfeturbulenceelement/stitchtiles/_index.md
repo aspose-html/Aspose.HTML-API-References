@@ -14,7 +14,7 @@ Corresponds to attribute ‘stitchTiles’ on the given ‘feTurbulence’ eleme
 public SVGAnimatedEnumeration StitchTiles { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘stitchTiles’ of the given ‘feTurbulence’ element.
 

@@ -18,11 +18,11 @@ public ICSSRule this[int index] { get; }
 | --- | --- |
 | index | The rule index |
 
-## Return Value
+### Return Value
 
 The CSS rule instance.
 
-## Property Value
+### Property Value
 
 The [`ICSSRule`](../../icssrule).
 

@@ -14,7 +14,7 @@ Gets or sets the [`HttpMethod`](../../httpmethod).
 public HttpMethod Method { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The [`HttpMethod`](../../httpmethod).
 

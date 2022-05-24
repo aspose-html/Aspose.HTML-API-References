@@ -18,7 +18,7 @@ public Text ReplaceWholeText(string content)
 | --- | --- | --- |
 | content | String | The content. |
 
-## Return Value
+### Return Value
 
 The [`Text`](../../text).
 

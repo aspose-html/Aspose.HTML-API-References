@@ -14,7 +14,7 @@ The name attribute of the Window object must, on getting, return the current nam
 public string Name { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The name.
 

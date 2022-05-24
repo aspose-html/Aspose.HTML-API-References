@@ -18,7 +18,7 @@ public bool Supports(string token)
 | --- | --- | --- |
 | token | String | The token to query for. |
 
-## Return Value
+### Return Value
 
 A Boolean indicating whether the token was found.
 

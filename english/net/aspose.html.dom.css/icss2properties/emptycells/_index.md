@@ -14,7 +14,7 @@ See the empty-cells property definition in CSS2.
 public string EmptyCells { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 empty-cells property
 

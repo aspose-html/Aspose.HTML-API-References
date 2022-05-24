@@ -14,7 +14,7 @@ Corresponds to attribute ‘kernelUnitLength’ on the given ‘feConvolveMatrix
 public SVGAnimatedNumber KernelUnitLengthX { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘kernelUnitLength’ of the given ‘feConvolveMatrix’ element.
 

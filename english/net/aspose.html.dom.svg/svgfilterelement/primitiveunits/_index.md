@@ -14,7 +14,7 @@ Corresponds to attribute ‘primitiveUnits’ on the given ‘filter’ element.
 public SVGAnimatedEnumeration PrimitiveUnits { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘primitiveUnits’ of the given ‘filter’ element.
 

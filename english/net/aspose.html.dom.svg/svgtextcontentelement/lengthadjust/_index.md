@@ -14,7 +14,7 @@ Corresponds to attribute ‘lengthAdjust’ on the given element. The value must
 public SVGAnimatedEnumeration LengthAdjust { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘lengthAdjust’ of the given element
 

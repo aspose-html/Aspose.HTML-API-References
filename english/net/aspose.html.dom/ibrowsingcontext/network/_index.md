@@ -14,7 +14,7 @@ Gets the network services.
 public INetwork Network { get; }
 ```
 
-## Property Value
+### Property Value
 
 The network services.
 

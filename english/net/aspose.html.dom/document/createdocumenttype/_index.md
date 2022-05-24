@@ -22,7 +22,7 @@ public DocumentType CreateDocumentType(string name, string publicId, string syst
 | systemId | String | The system id. |
 | internalSubset | String | The internal subset. |
 
-## Return Value
+### Return Value
 
 The [`DocumentType`](../../documenttype).
 

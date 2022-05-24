@@ -18,7 +18,7 @@ public Node AppendChild(Node node)
 | --- | --- | --- |
 | node | Node | The node to append. |
 
-## Return Value
+### Return Value
 
 Returns node
 

@@ -14,7 +14,7 @@ true if the key has been pressed in a sustained manner. Holding down a key MUST 
 public bool Repeat { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if repeat; otherwise, `false`.
 

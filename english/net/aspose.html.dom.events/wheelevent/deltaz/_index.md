@@ -14,7 +14,7 @@ In user agents where the default action of the wheel event is to scroll, the val
 public double DeltaZ { get; }
 ```
 
-## Property Value
+### Property Value
 
 The deltaZ attribute.
 

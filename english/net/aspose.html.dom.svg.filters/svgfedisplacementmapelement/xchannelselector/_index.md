@@ -14,7 +14,7 @@ Corresponds to attribute ‘xChannelSelector’ on the given ‘feDisplacementMa
 public SVGAnimatedEnumeration XChannelSelector { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘xChannelSelector’ of the given ‘feDisplacementMap’ element.
 

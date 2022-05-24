@@ -14,7 +14,7 @@ returns a data URI containing a representation of the image in the format specif
 public string ToDataURL()
 ```
 
-## Return Value
+### Return Value
 
 A DOMString containing the requested data URI.
 
@@ -38,7 +38,7 @@ public string ToDataURL(string type)
 | --- | --- | --- |
 | type | String | A string indicating the image format. The default format type is image/png. |
 
-## Return Value
+### Return Value
 
 A DOMString containing the requested data URI.
 
@@ -63,7 +63,7 @@ public string ToDataURL(string type, double encoderOptions)
 | type | String | A string indicating the image format. The default format type is image/png. |
 | encoderOptions | Double | A Number between 0 and 1 indicating image quality if the requested type is image/jpeg or image/webp. |
 
-## Return Value
+### Return Value
 
 A DOMString containing the requested data URI.
 

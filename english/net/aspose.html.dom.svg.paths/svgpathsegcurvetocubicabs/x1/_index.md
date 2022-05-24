@@ -14,7 +14,7 @@ The absolute X coordinate for the first control point.
 public float X1 { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The absolute X coordinate
 

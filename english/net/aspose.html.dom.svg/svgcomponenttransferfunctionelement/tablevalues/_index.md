@@ -14,7 +14,7 @@ Corresponds to attribute ‘tableValues’ on the given element.
 public SVGAnimatedNumberList TableValues { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘type’ of the given element.
 

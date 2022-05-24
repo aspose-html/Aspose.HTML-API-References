@@ -14,7 +14,7 @@ Corresponds to attribute ‘elevation’ on the given ‘feDistantLight’ eleme
 public SVGAnimatedNumber Elevation { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘elevation’ of the given ‘feDistantLight’ element.
 

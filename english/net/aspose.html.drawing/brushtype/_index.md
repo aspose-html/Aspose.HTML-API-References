@@ -14,7 +14,7 @@ Specifies the type of brush.
 public enum BrushType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

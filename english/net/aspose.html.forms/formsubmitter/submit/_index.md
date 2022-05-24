@@ -14,7 +14,7 @@ Submits the form data to the server.
 public SubmissionResult Submit()
 ```
 
-## Return Value
+### Return Value
 
 The result of the submission.
 
@@ -39,7 +39,7 @@ public SubmissionResult Submit(CookieContainer cookieContainer)
 | --- | --- | --- |
 | cookieContainer | CookieContainer | The cookie container. |
 
-## Return Value
+### Return Value
 
 The result of the submission.
 
@@ -64,7 +64,7 @@ public SubmissionResult Submit(ICredentials credentials)
 | --- | --- | --- |
 | credentials | ICredentials | The authentication information for the request. |
 
-## Return Value
+### Return Value
 
 The result of the submission.
 
@@ -90,7 +90,7 @@ public SubmissionResult Submit(ICredentials credentials, CookieContainer cookieC
 | credentials | ICredentials | The authentication information for the request. |
 | cookieContainer | CookieContainer | The cookie container. |
 
-## Return Value
+### Return Value
 
 The result of the submission.
 
@@ -115,7 +115,7 @@ public SubmissionResult Submit(TimeSpan timeout)
 | --- | --- | --- |
 | timeout | TimeSpan | The number of milliseconds to wait before the request times out. |
 
-## Return Value
+### Return Value
 
 The result of the submission.
 
@@ -141,7 +141,7 @@ public SubmissionResult Submit(TimeSpan timeout, CookieContainer cookieContainer
 | timeout | TimeSpan | The number of milliseconds to wait before the request times out. |
 | cookieContainer | CookieContainer | The cookie container. |
 
-## Return Value
+### Return Value
 
 The result of the submission.
 
@@ -167,7 +167,7 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout)
 | credentials | ICredentials | The authentication information for the request. |
 | timeout | TimeSpan | The number of milliseconds to wait before the request times out. |
 
-## Return Value
+### Return Value
 
 The result of the submission.
 
@@ -195,7 +195,7 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout,
 | timeout | TimeSpan | The number of milliseconds to wait before the request times out. |
 | cookieContainer | CookieContainer | The cookie container. |
 
-## Return Value
+### Return Value
 
 The result of the submission.
 
@@ -222,7 +222,7 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout, bool 
 | timeout | TimeSpan | The number of milliseconds to wait before the request times out. |
 | preAuthenticate | Boolean | The value that indicates whether to send an Authorization header with the request. |
 
-## Return Value
+### Return Value
 
 The result of the submission.
 
@@ -251,7 +251,7 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout, bool 
 | preAuthenticate | Boolean | The value that indicates whether to send an Authorization header with the request. |
 | cookieContainer | CookieContainer | The cookie container. |
 
-## Return Value
+### Return Value
 
 The result of the submission.
 

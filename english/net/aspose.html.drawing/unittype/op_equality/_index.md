@@ -19,7 +19,7 @@ public static bool operator ==(UnitType first, UnitType second)
 | first | UnitType | The first [`UnitType`](../../unittype) value to compare. |
 | second | UnitType | The second [`UnitType`](../../unittype) value to compare. |
 
-## Return Value
+### Return Value
 
 `true` if the both [`UnitType`](../../unittype) are equal; otherwise, `false`.
 

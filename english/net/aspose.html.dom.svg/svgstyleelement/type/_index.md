@@ -14,7 +14,7 @@ Corresponds to attribute ‘type’ on the given element.
 public string Type { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘type’ on the given element.
 

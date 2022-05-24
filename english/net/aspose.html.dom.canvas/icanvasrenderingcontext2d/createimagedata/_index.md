@@ -19,7 +19,7 @@ public IImageData CreateImageData(double sw, double sh)
 | sw | Double | The width to give the new ImageData object. |
 | sh | Double | The height to give the new ImageData object. |
 
-## Return Value
+### Return Value
 
 A new ImageData object with the specified width and height. The new object is filled with transparent black pixels.
 
@@ -44,7 +44,7 @@ public IImageData CreateImageData(IImageData imagedata)
 | --- | --- | --- |
 | imagedata | IImageData | An existing ImageData object from which to copy the width and height. The image itself is not copied. |
 
-## Return Value
+### Return Value
 
 A new ImageData object with the specified width and height. The new object is filled with transparent black pixels.
 

@@ -19,7 +19,7 @@ public IXPathExpression CreateExpression(string expression, IXPathNSResolver res
 | expression | String | The XPath expression string to be parsed. |
 | resolver | IXPathNSResolver | The `resolver` permits translation of all prefixes, including the `xml` namespace prefix, within the XPath expression into appropriate namespace URIs. If this is specified as `null`, any namespace prefix within the expression will result in [`DOMException`](../../../aspose.html.dom/domexception) being thrown with the code `NAMESPACE_ERR`. |
 
-## Return Value
+### Return Value
 
 The compiled form of the XPath expression.
 

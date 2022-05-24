@@ -14,7 +14,7 @@ Gets or sets value the type.
 public Type Type { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type.
 

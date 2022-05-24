@@ -18,7 +18,7 @@ public bool Contains(VideoFormatInfo item)
 | --- | --- | --- |
 | item | VideoFormatInfo | The item to check. |
 
-## Return Value
+### Return Value
 
 True if the [`VideoFormatInfoCollection`](../../videoformatinfocollection) contain the specified item; otherwise, false.
 

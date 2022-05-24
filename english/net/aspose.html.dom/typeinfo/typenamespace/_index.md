@@ -14,7 +14,7 @@ Gets the type namespace.The namespace of the type declared for the associated el
 public string TypeNamespace { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type namespace.
 

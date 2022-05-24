@@ -14,7 +14,7 @@ Gets the enumerator.
 public abstract IEnumerator<Element> GetEnumerator()
 ```
 
-## Return Value
+### Return Value
 
 An IEnumerator object that can be used to iterate through the collection.
 

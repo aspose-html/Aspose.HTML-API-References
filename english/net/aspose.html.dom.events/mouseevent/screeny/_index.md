@@ -14,7 +14,7 @@ The vertical coordinate at which the event occurred relative to the origin of th
 public long ScreenY { get; }
 ```
 
-## Property Value
+### Property Value
 
 The screen y.
 

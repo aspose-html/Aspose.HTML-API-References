@@ -14,7 +14,7 @@ The x-axis radius for the ellipse (i.e., r1).
 public float R1 { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The x-axis radius
 

@@ -14,7 +14,7 @@ Corresponds to attribute ‘requiredExtensions’ on the given element.
 public SVGStringList RequiredExtensions { get; }
 ```
 
-## Property Value
+### Property Value
 
 The required extensions.
 

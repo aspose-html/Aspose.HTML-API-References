@@ -14,7 +14,7 @@ Gets or sets the size of the window.
 public Size WindowSize { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The size of the window.
 

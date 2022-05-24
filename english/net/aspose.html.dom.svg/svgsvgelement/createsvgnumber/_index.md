@@ -14,7 +14,7 @@ Creates an SVGNumber object outside of any document trees. The object is initial
 public SVGNumber CreateSVGNumber()
 ```
 
-## Return Value
+### Return Value
 
 An SVGNumber object.
 

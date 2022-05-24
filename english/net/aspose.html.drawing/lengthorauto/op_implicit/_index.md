@@ -18,7 +18,7 @@ public static implicit operator LengthOrAuto(Length length)
 | --- | --- | --- |
 | length | Length | The value. |
 
-## Return Value
+### Return Value
 
 The result of the conversion.
 

@@ -14,7 +14,7 @@ See the max-height property definition in CSS2.
 public string MaxHeight { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 max-height property
 

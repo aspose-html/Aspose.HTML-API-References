@@ -14,7 +14,7 @@ The SVGZoomAndPan enumeration defines attribute zoomAndPan and associated consta
 public enum SVGZoomAndPan : ushort
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

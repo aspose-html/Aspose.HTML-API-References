@@ -14,7 +14,7 @@ Gets or sets the page writing strategy.
 public PageWritingStrategy<TGraphicContext, TRenderingOptions> PageWritingStrategy { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The page writing strategy.
 

@@ -14,7 +14,7 @@ Corresponds to attribute ‘operator’ on the given ‘feComposite’ element. 
 public SVGAnimatedEnumeration Operator { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘operator’ on the given ‘feComposite’ element.
 

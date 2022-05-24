@@ -14,7 +14,7 @@ Serialize the HTTP content and return a byte array that represents the content.
 public byte[] ReadAsByteArray()
 ```
 
-## Return Value
+### Return Value
 
 Serialized byte array that represents the content
 

@@ -19,7 +19,7 @@ public Stream GetStream(string name, string extension)
 | name | String | The name of the stream. |
 | extension | String | The file name extension to use if a file stream is being created. |
 
-## Return Value
+### Return Value
 
 A Stream object that is used for writing data during the rendering operations.
 
@@ -45,7 +45,7 @@ public Stream GetStream(string name, string extension, int page)
 | extension | String | The file name extension to use if a file stream is being created. |
 | page | Int32 | The page number of the document. |
 
-## Return Value
+### Return Value
 
 A Stream object that is used for writing data during the rendering operations.
 

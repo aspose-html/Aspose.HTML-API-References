@@ -14,7 +14,7 @@ Returns the current time in seconds relative to the start time for the current S
 public float GetCurrentTime()
 ```
 
-## Return Value
+### Return Value
 
 The current time in seconds, or 0 if the document timeline has not yet begun.
 

@@ -14,7 +14,7 @@ The return value depends on type. For "attributes", it is the value of the chang
 public string OldValue { get; }
 ```
 
-## Property Value
+### Property Value
 
 The old value.
 

@@ -14,7 +14,7 @@ This attribute is used for the style of the list.
 public string ListStyle { get; }
 ```
 
-## Property Value
+### Property Value
 
 The list style identifier.
 

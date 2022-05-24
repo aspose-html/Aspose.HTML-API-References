@@ -14,7 +14,7 @@ See the pause-before property definition in CSS2.
 public string PauseBefore { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 pause-before property
 

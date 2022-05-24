@@ -14,7 +14,7 @@ Represent states of the input field.
 public enum InputElementType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

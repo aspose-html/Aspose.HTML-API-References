@@ -14,7 +14,7 @@ Corresponds to attribute ‘method’ on the given ‘textPath’ element.
 public SVGAnimatedEnumeration Method { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘method’ of the given ‘textPath’ element.
 

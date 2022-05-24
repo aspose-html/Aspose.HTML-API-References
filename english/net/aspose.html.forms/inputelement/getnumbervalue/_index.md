@@ -14,7 +14,7 @@ This method is used to get the value as a number. This method is valid if only o
 public float GetNumberValue()
 ```
 
-## Return Value
+### Return Value
 
 The number object.
 

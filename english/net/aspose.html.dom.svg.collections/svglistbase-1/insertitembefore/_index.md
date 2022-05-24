@@ -19,7 +19,7 @@ public T InsertItemBefore(T newItem, ulong index)
 | newItem | T | The item which is to be inserted into the list. |
 | index | UInt64 | The index of the item before which the new item is to be inserted. The first item is number 0. If the index is equal to 0, then the new item is inserted at the front of the list. If the index is greater than or equal to numberOfItems, then the new item is appended to the end of the list. |
 
-## Return Value
+### Return Value
 
 The inserted item.
 

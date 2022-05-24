@@ -14,7 +14,7 @@ Corresponds to attribute ‘type’ on the given ‘feColorMatrix’ element. Ta
 public SVGAnimatedEnumeration Type { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘type’ of the given ‘feColorMatrix’ element.
 

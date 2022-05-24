@@ -14,7 +14,7 @@ Corresponds to attribute ‘gradientUnits’ on the given element. Takes one of 
 public SVGAnimatedEnumeration GradientUnits { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘gradientUnits’ of the given element.
 

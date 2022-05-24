@@ -14,7 +14,7 @@ Corresponds to attribute ‘y2’ on the given ‘line’ element.
 public SVGAnimatedLength Y2 { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘y2’ of the given ‘line’ element.
 

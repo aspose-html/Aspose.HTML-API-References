@@ -18,7 +18,7 @@ public bool Remove(KeyValuePair<string, object> item)
 | --- | --- | --- |
 | item | KeyValuePair`2 | The item to remove. |
 
-## Return Value
+### Return Value
 
 True if successfully removed; otherwise, false.
 
@@ -42,7 +42,7 @@ public bool Remove(string key)
 | --- | --- | --- |
 | key | String | The key of the element to remove. |
 
-## Return Value
+### Return Value
 
 True if the element is successfully found and removed; otherwise, false.
 

@@ -14,7 +14,7 @@ Corresponds to attribute ‘spreadMethod’ on the given element. One of the Spr
 public SVGAnimatedEnumeration SpreadMethod { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘spreadMethod’ of the given element.
 

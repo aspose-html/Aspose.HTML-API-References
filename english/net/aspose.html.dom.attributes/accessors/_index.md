@@ -15,7 +15,7 @@ Represents the enumeration of member accessors that is defined by the W3C.
 public enum Accessors : byte
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

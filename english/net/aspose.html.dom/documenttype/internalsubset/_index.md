@@ -14,7 +14,7 @@ The internal subset as a string, or null if there is none.
 public string InternalSubset { get; }
 ```
 
-## Property Value
+### Property Value
 
 The internal subset.
 

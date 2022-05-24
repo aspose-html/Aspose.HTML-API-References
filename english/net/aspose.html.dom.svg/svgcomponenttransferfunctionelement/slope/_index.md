@@ -14,7 +14,7 @@ Corresponds to attribute ‘slope’ on the given element.
 public SVGAnimatedNumber Slope { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘slope’ of the given element.
 

@@ -14,7 +14,7 @@ This enum represents resource handling options.
 public enum ResourceHandling
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

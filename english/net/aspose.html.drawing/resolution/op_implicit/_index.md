@@ -18,7 +18,7 @@ public static implicit operator Resolution(double value)
 | --- | --- | --- |
 | value | Double | The value treated as dpi. |
 
-## Return Value
+### Return Value
 
 The result of the conversion.
 
@@ -42,7 +42,7 @@ public static implicit operator Resolution(float value)
 | --- | --- | --- |
 | value | Single | The value treated as dpi. |
 
-## Return Value
+### Return Value
 
 The result of the conversion.
 

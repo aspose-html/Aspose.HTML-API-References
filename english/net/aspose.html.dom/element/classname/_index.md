@@ -14,7 +14,7 @@ The class attribute of the element. This attribute has been renamed due to confl
 public string ClassName { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The class attribute.
 

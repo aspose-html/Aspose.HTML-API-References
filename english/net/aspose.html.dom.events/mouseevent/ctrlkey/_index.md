@@ -14,7 +14,7 @@ Refer to the ctrlKey attribute.
 public bool CtrlKey { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [control key]; otherwise, `false`.
 

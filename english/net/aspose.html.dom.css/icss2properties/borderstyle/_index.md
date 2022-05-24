@@ -14,7 +14,7 @@ See the border-style property definition in CSS2.
 public string BorderStyle { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 border-style property
 

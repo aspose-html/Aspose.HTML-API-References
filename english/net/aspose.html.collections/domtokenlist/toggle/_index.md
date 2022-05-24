@@ -18,7 +18,7 @@ public bool Toggle(string token)
 | --- | --- | --- |
 | token | String | The token you want to toggle. |
 
-## Return Value
+### Return Value
 
 A Boolean indicating whether token is in the list after the call.
 
@@ -43,7 +43,7 @@ public bool Toggle(string token, bool? force)
 | token | String | The token you want to toggle. |
 | force | Nullable`1 | A Boolean that, if included, turns the toggle into a one way-only operation. If set to false, then token will only be removed, but not added. If set to true, then token will only be added, but not removed. |
 
-## Return Value
+### Return Value
 
 A Boolean indicating whether token is in the list after the call.
 

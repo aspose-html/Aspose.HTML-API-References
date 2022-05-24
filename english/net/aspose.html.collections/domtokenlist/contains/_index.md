@@ -18,7 +18,7 @@ public bool Contains(string token)
 | --- | --- | --- |
 | token | String | The token to locate in the list. |
 
-## Return Value
+### Return Value
 
 A Boolean, which is true if the calling list contains token, otherwise false.
 

@@ -14,7 +14,7 @@ True if this attribute was explicitly given a value in the instance document, fa
 public bool Specified { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if specified; otherwise, `false`.
 

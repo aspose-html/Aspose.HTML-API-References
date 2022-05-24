@@ -14,7 +14,7 @@ Gets the media type.
 public string Type { get; }
 ```
 
-## Property Value
+### Property Value
 
 The media type.
 

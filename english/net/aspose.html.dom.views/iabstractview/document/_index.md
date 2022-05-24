@@ -14,7 +14,7 @@ The source DocumentView of which this is an AbstractView.
 public IDocumentView Document { get; }
 ```
 
-## Property Value
+### Property Value
 
 The document.
 

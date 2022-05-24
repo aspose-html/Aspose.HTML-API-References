@@ -14,7 +14,7 @@ This attribute is used for the separator of the nested counters.
 public string Separator { get; }
 ```
 
-## Property Value
+### Property Value
 
 The counter separator.
 

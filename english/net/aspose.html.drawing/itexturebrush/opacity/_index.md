@@ -14,7 +14,7 @@ Get opacity value in a color transform matrix.
 public float Opacity { get; }
 ```
 
-## Return Value
+### Return Value
 
 Opacity.
 

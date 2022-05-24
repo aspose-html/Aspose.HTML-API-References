@@ -14,7 +14,7 @@ Creates an SVGAngle object outside of any document trees. The object is initiali
 public SVGAngle CreateSVGAngle()
 ```
 
-## Return Value
+### Return Value
 
 An SVGAngle object.
 

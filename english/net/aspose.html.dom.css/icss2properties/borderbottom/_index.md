@@ -14,7 +14,7 @@ See the border-bottom property definition in CSS2.
 public string BorderBottom { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 border-bottom property
 

@@ -18,7 +18,7 @@ public bool IsSameNode(Node otherNode)
 | --- | --- | --- |
 | otherNode | Node | The other node. |
 
-## Return Value
+### Return Value
 
 `true` if [is same node] [the specified other]; otherwise, `false`.
 

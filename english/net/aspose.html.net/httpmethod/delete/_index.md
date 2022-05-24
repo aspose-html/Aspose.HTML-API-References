@@ -14,7 +14,7 @@ Represents an HTTP DELETE protocol method.
 public static HttpMethod Delete { get; }
 ```
 
-## Property Value
+### Property Value
 
 The HTTP DELETE protocol method.
 

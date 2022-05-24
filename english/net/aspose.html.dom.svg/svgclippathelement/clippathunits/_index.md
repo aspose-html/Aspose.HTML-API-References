@@ -14,7 +14,7 @@ Corresponds to attribute ‘clipPathUnits’ on the given ‘clipPath’ element
 public SVGAnimatedEnumeration ClipPathUnits { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘clipPathUnits’ of the given ‘clipPath’ element.
 

@@ -14,7 +14,7 @@ Gets or sets a string representation for the specified URL search segment.
 public string Search { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The search.
 

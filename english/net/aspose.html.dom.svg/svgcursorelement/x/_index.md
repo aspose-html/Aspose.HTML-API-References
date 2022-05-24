@@ -14,7 +14,7 @@ Corresponds to attribute ‘x’ on the given ‘cursor’ element.
 public SVGAnimatedLength X { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘x’ of the given ‘cursor’ element.
 

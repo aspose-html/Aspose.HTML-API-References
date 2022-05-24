@@ -18,7 +18,7 @@ public bool IsEqualNode(Node otherNode)
 | --- | --- | --- |
 | otherNode | Node | The other node. |
 
-## Return Value
+### Return Value
 
 `true` if [is equal node] [the specified arg]; otherwise, `false`.
 

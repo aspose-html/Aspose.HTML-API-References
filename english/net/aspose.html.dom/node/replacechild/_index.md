@@ -19,7 +19,7 @@ public Node ReplaceChild(Node node, Node child)
 | node | Node | The new node. |
 | child | Node | The old child. |
 
-## Return Value
+### Return Value
 
 Returns node
 

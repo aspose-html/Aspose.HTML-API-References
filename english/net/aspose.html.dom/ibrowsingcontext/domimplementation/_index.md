@@ -14,7 +14,7 @@ Gets the DOM implementation.
 public IDOMImplementation DOMImplementation { get; }
 ```
 
-## Property Value
+### Property Value
 
 The DOM implementation.
 

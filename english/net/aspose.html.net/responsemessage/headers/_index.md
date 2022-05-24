@@ -14,7 +14,7 @@ Gets the headers.
 public ResponseHeaders Headers { get; }
 ```
 
-## Property Value
+### Property Value
 
 The headers.
 

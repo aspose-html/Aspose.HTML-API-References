@@ -14,7 +14,7 @@ Corresponds to attribute ‘stdDeviation’ on the given ‘feDropShadow’ elem
 public SVGAnimatedNumber StdDeviationY { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘stdDeviationY’ of the given ‘feDropShadow’ element.
 

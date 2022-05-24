@@ -14,7 +14,7 @@ In user agents where the default action of the wheel event is to scroll, the val
 public double DeltaX { get; }
 ```
 
-## Property Value
+### Property Value
 
 The deltaX attribute.
 

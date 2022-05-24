@@ -14,7 +14,7 @@ Corresponds to attribute ‘exponent’ on the given element.
 public SVGAnimatedNumber Exponent { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘exponent’ of the given element.
 

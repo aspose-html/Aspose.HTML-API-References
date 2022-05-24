@@ -14,7 +14,7 @@ See the clip property definition in CSS2.
 public string Clip { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 clip property
 

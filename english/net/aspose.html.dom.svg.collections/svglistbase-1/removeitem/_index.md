@@ -18,7 +18,7 @@ public T RemoveItem(ulong index)
 | --- | --- | --- |
 | index | UInt64 | The index of the item which is to be removed. The first item is number 0. |
 
-## Return Value
+### Return Value
 
 The removed item.
 

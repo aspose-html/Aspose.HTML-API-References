@@ -14,7 +14,7 @@ The parsable textual representation of the rule. This reflects the current state
 public string CSSText { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The CSS text.
 

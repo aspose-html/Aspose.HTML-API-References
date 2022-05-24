@@ -14,7 +14,7 @@ Serialize the HTTP content and return a string that represents the content.
 public string ReadAsString()
 ```
 
-## Return Value
+### Return Value
 
 Serialized string that represents the content
 

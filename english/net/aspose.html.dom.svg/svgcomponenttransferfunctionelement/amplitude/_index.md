@@ -14,7 +14,7 @@ Corresponds to attribute ‘amplitude’ on the given element.
 public SVGAnimatedNumber Amplitude { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘amplitude’ of the given element.
 

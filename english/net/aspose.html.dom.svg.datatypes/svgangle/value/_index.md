@@ -14,7 +14,7 @@ The angle value as a floating point value, in degrees. Setting this attribute wi
 public float Value { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The value.
 

@@ -14,7 +14,7 @@ Gets or sets the character-set for content.
 public string CharSet { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The character set.
 

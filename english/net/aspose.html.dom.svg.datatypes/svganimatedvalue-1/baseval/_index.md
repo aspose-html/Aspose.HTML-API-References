@@ -14,7 +14,7 @@ The base value of the given attribute before applying any animations.
 public T BaseVal { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [base value]; otherwise, `false`.
 

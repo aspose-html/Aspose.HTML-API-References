@@ -14,7 +14,7 @@ The type of the path segment as specified by one of the constants defined on thi
 public ushort PathSegType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the path segment.
 

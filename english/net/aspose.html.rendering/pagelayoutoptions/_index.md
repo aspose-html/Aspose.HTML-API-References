@@ -15,7 +15,7 @@ Specifies flags that together with other PageSetup options determine sizes and l
 public enum PageLayoutOptions
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

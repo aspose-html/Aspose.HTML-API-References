@@ -14,7 +14,7 @@ Moves the TreeWalker to the previous sibling of the current node, and returns th
 public Node PreviousSibling()
 ```
 
-## Return Value
+### Return Value
 
 The new node, or null if the current node has no previous sibling. in the TreeWalker's logical view.
 

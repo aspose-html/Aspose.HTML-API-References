@@ -18,7 +18,7 @@ public static implicit operator MimeType(string @string)
 | --- | --- | --- |
 | string | String | The string. |
 
-## Return Value
+### Return Value
 
 The result of the conversion.
 
@@ -42,7 +42,7 @@ public static implicit operator string(MimeType type)
 | --- | --- | --- |
 | type | MimeType | The mime type. |
 
-## Return Value
+### Return Value
 
 The result of the conversion.
 

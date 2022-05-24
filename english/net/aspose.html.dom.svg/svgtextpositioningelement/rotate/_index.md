@@ -14,7 +14,7 @@ Corresponds to attribute ‘rotate’ on the given element.
 public SVGAnimatedNumberList Rotate { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘rotate’ of the given element.
 

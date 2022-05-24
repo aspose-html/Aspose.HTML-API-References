@@ -14,7 +14,7 @@ Corresponds to attribute ‘kernelMatrix’ on the given ‘feConvolveMatrix’ 
 public SVGAnimatedNumberList KernelMatrix { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘kernelMatrix’ of the given ‘feConvolveMatrix’ element.
 

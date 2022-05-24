@@ -14,7 +14,7 @@ The root ‘svg’ in the document hierarchy.
 public SVGSVGElement RootElement { get; }
 ```
 
-## Property Value
+### Property Value
 
 The root element.
 

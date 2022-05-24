@@ -14,7 +14,7 @@ Corresponds to attribute ‘pointsAtX’ on the given ‘feSpotLight’ element.
 public SVGAnimatedNumber PointsAtX { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘pointsAtX’ of the given ‘feSpotLight’ element.
 

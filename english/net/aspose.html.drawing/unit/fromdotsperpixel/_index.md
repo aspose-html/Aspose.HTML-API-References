@@ -18,7 +18,7 @@ public static Resolution FromDotsPerPixel(double value)
 | --- | --- | --- |
 | value | Double | The value. |
 
-## Return Value
+### Return Value
 
 Returns a [`Resolution`](../../resolution) object.
 

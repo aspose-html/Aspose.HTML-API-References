@@ -14,7 +14,7 @@ Returns the total number of characters available for rendering within the curren
 public long GetNumberOfChars()
 ```
 
-## Return Value
+### Return Value
 
 Total number of characters.
 

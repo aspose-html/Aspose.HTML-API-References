@@ -14,7 +14,7 @@ Corresponds to attribute ‘y’ on the given ‘image’ element.
 public SVGAnimatedLength Y { get; }
 ```
 
-## Property Value
+### Property Value
 
 Corresponds to attribute ‘y’ on the given ‘image’ element.
 

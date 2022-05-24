@@ -14,7 +14,7 @@ Gets the type of the counter.
 public string CounterType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the counter.
 

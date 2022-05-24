@@ -14,7 +14,7 @@ Corresponds to attribute ‘y1’ on the given ‘linearGradient’ element.
 public SVGAnimatedLength Y1 { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘y1’ of the given ‘linearGradient’ element.
 

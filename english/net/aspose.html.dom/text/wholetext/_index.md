@@ -14,7 +14,7 @@ Returns all text of Text nodes logically-adjacent text nodes to this node, conca
 public string WholeText { get; }
 ```
 
-## Property Value
+### Property Value
 
 The whole text.
 

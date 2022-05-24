@@ -14,7 +14,7 @@ Corresponds to attribute �in� on the given �feGaussianBlur� element.
 public SVGAnimatedString In1 { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute �in� of the given �feGaussianBlur� element.
 

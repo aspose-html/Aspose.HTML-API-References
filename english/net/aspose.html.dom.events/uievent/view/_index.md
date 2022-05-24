@@ -14,7 +14,7 @@ The view attribute identifies the Window from which the event was generated. The
 public IWindow View { get; }
 ```
 
-## Property Value
+### Property Value
 
 The window instance.
 

@@ -14,7 +14,7 @@ true if the input event occurs as part of a composition session, i.e., after a c
 public bool IsComposing { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is composing; otherwise, `false`.
 

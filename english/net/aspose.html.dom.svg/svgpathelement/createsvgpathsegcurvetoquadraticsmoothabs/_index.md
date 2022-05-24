@@ -20,7 +20,7 @@ public SVGPathSegCurvetoQuadraticSmoothAbs CreateSVGPathSegCurvetoQuadraticSmoot
 | x | Single | The absolute X coordinate for the end point of this path segment. |
 | y | Single | The absolute Y coordinate for the end point of this path segment. |
 
-## Return Value
+### Return Value
 
 A stand-alone, parentless SVGPathSegCurvetoQuadraticSmoothAbs object.
 

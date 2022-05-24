@@ -14,7 +14,7 @@ Get collection of paremeters
 public ICollection<NameValueHeaderValue> Parameters { get; }
 ```
 
-## Property Value
+### Property Value
 
 The parameters.
 

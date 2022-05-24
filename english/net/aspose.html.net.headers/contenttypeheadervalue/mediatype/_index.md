@@ -14,7 +14,7 @@ Gets or sets the media-type for content.
 public MimeType MediaType { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the media.
 

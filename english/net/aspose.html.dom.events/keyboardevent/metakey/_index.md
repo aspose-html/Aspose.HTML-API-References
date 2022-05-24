@@ -14,7 +14,7 @@ true if the meta (Meta) key modifier was active.
 public bool MetaKey { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if Meta; otherwise, `false`.
 

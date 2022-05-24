@@ -14,7 +14,7 @@ See the background-image property definition in CSS2.
 public string BackgroundImage { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 background-image property
 

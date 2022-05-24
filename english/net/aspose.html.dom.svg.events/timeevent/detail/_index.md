@@ -14,7 +14,7 @@ Specifies some detail information about the Event, depending on the type of the 
 public long Detail { get; }
 ```
 
-## Property Value
+### Property Value
 
 The detail.
 

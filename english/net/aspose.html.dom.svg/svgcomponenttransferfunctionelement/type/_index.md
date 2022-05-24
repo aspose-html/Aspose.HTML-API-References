@@ -14,7 +14,7 @@ Corresponds to attribute ‘type’ on the given element. Takes one of the SVG_F
 public SVGAnimatedEnumeration Type { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘type’ of the given element.
 

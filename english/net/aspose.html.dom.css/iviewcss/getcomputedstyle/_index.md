@@ -18,7 +18,7 @@ public ICSSStyleDeclaration GetComputedStyle(Element element)
 | --- | --- | --- |
 | element | Element | The element whose style is to be computed. This parameter cannot be null. |
 
-## Return Value
+### Return Value
 
 The computed style
 
@@ -45,7 +45,7 @@ public ICSSStyleDeclaration GetComputedStyle(Element element, string pseudoEleme
 | element | Element | The element whose style is to be computed. This parameter cannot be null. |
 | pseudoElement | String | The pseudo element. |
 
-## Return Value
+### Return Value
 
 The computed style
 

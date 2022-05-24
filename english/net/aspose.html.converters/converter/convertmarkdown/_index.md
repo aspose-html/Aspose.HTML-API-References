@@ -19,7 +19,7 @@ public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri)
 | stream | Stream | Conversion source. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
 
-## Return Value
+### Return Value
 
 Conversion result [`HTMLDocument`](../../../aspose.html/htmldocument).
 
@@ -47,7 +47,7 @@ public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri,
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
 | configuration | Configuration | The environment configuration. |
 
-## Return Value
+### Return Value
 
 Conversion result [`HTMLDocument`](../../../aspose.html/htmldocument).
 
@@ -120,7 +120,7 @@ public static HTMLDocument ConvertMarkdown(string sourcePath)
 | --- | --- | --- |
 | sourcePath | String | Path to source Markdown file. It will be combined with the current directory path to form an absolute URL. |
 
-## Return Value
+### Return Value
 
 Conversion result [`HTMLDocument`](../../../aspose.html/htmldocument).
 
@@ -146,7 +146,7 @@ public static HTMLDocument ConvertMarkdown(string sourcePath, Configuration conf
 | sourcePath | String | Path to source Markdown file. It will be combined with the current directory path to form an absolute URL. |
 | configuration | Configuration | The environment configuration. |
 
-## Return Value
+### Return Value
 
 Conversion result [`HTMLDocument`](../../../aspose.html/htmldocument).
 

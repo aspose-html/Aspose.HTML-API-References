@@ -18,7 +18,7 @@ public HTMLCollection GetElementsByClassName(string classNames)
 | --- | --- | --- |
 | classNames | String | The string string that contains an unordered set of unique space-separated tokens representing classes (class names) |
 
-## Return Value
+### Return Value
 
 The [`Element`](../../element).
 

@@ -14,7 +14,7 @@ The number of items in the list.
 public ulong NumberOfItems { get; }
 ```
 
-## Property Value
+### Property Value
 
 The number of items.
 

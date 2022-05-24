@@ -18,7 +18,7 @@ public SVGMatrix Multiply(SVGMatrix secondMatrix)
 | --- | --- | --- |
 | secondMatrix | SVGMatrix | The matrix which is post-multiplied to this matrix. |
 
-## Return Value
+### Return Value
 
 The resulting matrix.
 

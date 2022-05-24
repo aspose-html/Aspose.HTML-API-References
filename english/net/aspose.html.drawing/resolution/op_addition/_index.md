@@ -19,7 +19,7 @@ public static Resolution operator +(Resolution a, Resolution b)
 | a | Resolution | Parameter a. |
 | b | Resolution | Parameter b. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

@@ -14,7 +14,7 @@ The view attribute identifies the AbstractView [DOM2VIEWS] from which the event 
 public IAbstractView View { get; }
 ```
 
-## Property Value
+### Property Value
 
 The current view.
 

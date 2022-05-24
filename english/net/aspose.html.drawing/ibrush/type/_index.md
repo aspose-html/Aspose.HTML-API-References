@@ -14,7 +14,7 @@ Get type of brush;
 public BrushType Type { get; }
 ```
 
-## Return Value
+### Return Value
 
 Type of brush
 

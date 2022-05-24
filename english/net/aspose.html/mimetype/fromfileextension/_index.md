@@ -18,7 +18,7 @@ public static MimeType FromFileExtension(string fileName)
 | --- | --- | --- |
 | fileName | String | The name of the file. |
 
-## Return Value
+### Return Value
 
 The new instance of MIME type
 

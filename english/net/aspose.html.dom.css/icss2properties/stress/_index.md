@@ -14,7 +14,7 @@ See the stress property definition in CSS2.
 public string Stress { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 stress property
 

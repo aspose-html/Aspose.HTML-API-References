@@ -18,7 +18,7 @@ public SVGMatrix Scale(float scaleFactor)
 | --- | --- | --- |
 | scaleFactor | Single | Scale factor in both X and Y. |
 
-## Return Value
+### Return Value
 
 The resulting matrix.
 

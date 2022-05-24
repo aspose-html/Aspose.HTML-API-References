@@ -14,7 +14,7 @@ Gets the sub media type.
 public string SubType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The sub media type.
 

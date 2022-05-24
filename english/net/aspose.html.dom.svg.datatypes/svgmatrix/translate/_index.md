@@ -19,7 +19,7 @@ public SVGMatrix Translate(float x, float y)
 | x | Single | The distance to translate along the x-axis. |
 | y | Single | The distance to translate along the y-axis. |
 
-## Return Value
+### Return Value
 
 The resulting matrix.
 

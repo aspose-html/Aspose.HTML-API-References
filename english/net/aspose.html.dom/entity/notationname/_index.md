@@ -14,7 +14,7 @@ For unparsed entities, the name of the notation for the entity. For parsed entit
 public string NotationName { get; }
 ```
 
-## Property Value
+### Property Value
 
 The name of the notation.
 

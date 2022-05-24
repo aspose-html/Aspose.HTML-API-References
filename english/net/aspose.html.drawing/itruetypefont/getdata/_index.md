@@ -14,7 +14,7 @@ Open the stream with font data. The caller is responsible for disposing the stre
 public Stream GetData()
 ```
 
-## Return Value
+### Return Value
 
 Stream with the font data
 

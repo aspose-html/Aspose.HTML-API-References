@@ -14,7 +14,7 @@ Corresponds to attribute ‘viewBox’ on the given element.
 public SVGAnimatedRect ViewBox { get; }
 ```
 
-## Property Value
+### Property Value
 
 The ‘viewBox’ of the given element.
 

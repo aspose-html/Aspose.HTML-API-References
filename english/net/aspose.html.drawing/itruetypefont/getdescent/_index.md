@@ -18,7 +18,7 @@ public float GetDescent(float fontSize)
 | --- | --- | --- |
 | fontSize | Single | Size of the font. |
 
-## Return Value
+### Return Value
 
 The descent in points.
 

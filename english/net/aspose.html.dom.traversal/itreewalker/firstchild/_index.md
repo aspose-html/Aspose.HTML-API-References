@@ -14,7 +14,7 @@ Moves the TreeWalker to the first visible child of the current node, and returns
 public Node FirstChild()
 ```
 
-## Return Value
+### Return Value
 
 The new node, or null if the current node has no visible children in the TreeWalker's logical view.
 

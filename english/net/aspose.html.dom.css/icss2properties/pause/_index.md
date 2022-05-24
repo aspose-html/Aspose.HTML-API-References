@@ -14,7 +14,7 @@ See the pause property definition in CSS2.
 public string Pause { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 pause property
 

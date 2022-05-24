@@ -14,7 +14,7 @@ Returns true if this SVG document fragment is in a paused state.
 public bool AnimationsPaused()
 ```
 
-## Return Value
+### Return Value
 
 Boolean indicating whether this SVG document fragment is in a paused state.
 

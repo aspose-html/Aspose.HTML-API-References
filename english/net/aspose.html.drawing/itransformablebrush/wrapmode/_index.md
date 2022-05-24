@@ -14,7 +14,7 @@ Gets or sets the wrap mode. Wrap mode specifies how a texture or gradient is til
 public WrapMode WrapMode { get; }
 ```
 
-## Return Value
+### Return Value
 
 Wrap mode
 

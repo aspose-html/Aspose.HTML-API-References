@@ -14,7 +14,7 @@ Gets an list of [`MessageHandler`](../../../aspose.html.net/messagehandler) inst
 public MessageHandlerCollection MessageHandlers { get; }
 ```
 
-## Property Value
+### Property Value
 
 The message handlers.
 

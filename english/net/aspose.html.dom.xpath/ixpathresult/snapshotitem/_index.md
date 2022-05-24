@@ -18,7 +18,7 @@ public Node SnapshotItem(int index)
 | --- | --- | --- |
 | index | Int32 | Index into the snapshot collection. |
 
-## Return Value
+### Return Value
 
 The node at the `index`th position in the `NodeList`, or `null` if that is not a valid index.
 

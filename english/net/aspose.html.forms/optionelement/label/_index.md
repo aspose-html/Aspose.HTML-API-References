@@ -14,7 +14,7 @@ Option label for use in hierarchical menus. See the label attribute definition i
 public string Label { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The label value.
 

@@ -14,7 +14,7 @@ Returns true if preventDefault() was invoked while the cancelable attribute valu
 public bool DefaultPrevented { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [default prevented]; otherwise, `false`.
 

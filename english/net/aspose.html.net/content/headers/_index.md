@@ -14,7 +14,7 @@ Gets the HTTP content headers.
 public ContentHeaders Headers { get; }
 ```
 
-## Property Value
+### Property Value
 
 The headers.
 

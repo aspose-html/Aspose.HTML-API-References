@@ -14,7 +14,7 @@ Gets the length of a typed array.
 public int Length { get; }
 ```
 
-## Property Value
+### Property Value
 
 The length in bytes.
 

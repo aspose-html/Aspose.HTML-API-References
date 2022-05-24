@@ -14,7 +14,7 @@ This enum represents restriction applied to URLs of processed resources.
 public enum UrlRestriction
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

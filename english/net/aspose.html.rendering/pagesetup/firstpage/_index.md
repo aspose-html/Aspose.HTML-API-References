@@ -14,7 +14,7 @@ Gets or sets the first page configuration.
 public Page FirstPage { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The first page.
 

@@ -14,7 +14,7 @@ Represents an HTTP PUT protocol method.
 public static HttpMethod Put { get; }
 ```
 
-## Property Value
+### Property Value
 
 The HTTP PUT protocol method.
 

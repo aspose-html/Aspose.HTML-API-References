@@ -14,7 +14,7 @@ Returns "attributes" if it was an attribute mutation, "characterData" if it was 
 public string Type { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type.
 

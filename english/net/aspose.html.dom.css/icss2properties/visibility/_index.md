@@ -14,7 +14,7 @@ See the visibility property definition in CSS2.
 public string Visibility { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 visibility property
 

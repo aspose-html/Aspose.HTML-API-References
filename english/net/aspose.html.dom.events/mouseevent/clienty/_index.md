@@ -14,7 +14,7 @@ The vertical coordinate at which the event occurred relative to the viewport ass
 public long ClientY { get; }
 ```
 
-## Property Value
+### Property Value
 
 The client y.
 

@@ -14,7 +14,7 @@ An attribute specifying, as part of the XML declaration, whether this document i
 public bool XmlStandalone { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if XML standalone; otherwise, `false`.
 

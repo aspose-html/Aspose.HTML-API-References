@@ -14,7 +14,7 @@ Corresponds to attribute ‘mode’ on the given ‘feBlend’ element. Takes on
 public SVGAnimatedEnumeration Mode { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘mode’ of the given ‘feBlend’ element.
 

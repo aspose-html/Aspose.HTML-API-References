@@ -14,7 +14,7 @@ The number of elements must be even. Every even element is old color. Every odd 
 public Color[] ColorMap { get; }
 ```
 
-## Property Value
+### Property Value
 
 The color map.
 

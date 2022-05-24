@@ -14,7 +14,7 @@ The childElementCount attribute must return the number of children of the contex
 public int ChildElementCount { get; }
 ```
 
-## Property Value
+### Property Value
 
 The child element count.
 

@@ -18,7 +18,7 @@ public Element this[string name] { get; }
 | --- | --- |
 | name | The element name. |
 
-## Return Value
+### Return Value
 
 Returns node.
 
@@ -43,7 +43,7 @@ public Element this[int index] { get; }
 | --- | --- |
 | index | The index. |
 
-## Return Value
+### Return Value
 
 Returns node.
 

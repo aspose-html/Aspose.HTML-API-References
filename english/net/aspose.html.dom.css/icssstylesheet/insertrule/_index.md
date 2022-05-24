@@ -19,7 +19,7 @@ public long InsertRule(string rule, int index)
 | rule | String | The style rule. |
 | index | Int32 | The rule index. |
 
-## Return Value
+### Return Value
 
 The inserted index
 

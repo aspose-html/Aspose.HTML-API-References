@@ -14,7 +14,7 @@ Test if the DOM implementation implements a specific feature and version, as spe
 public bool HasFeature()
 ```
 
-## Return Value
+### Return Value
 
 `true` if the specified feature has feature; otherwise, `false`.
 

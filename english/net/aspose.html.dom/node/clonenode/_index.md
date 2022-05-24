@@ -14,7 +14,7 @@ Returns a duplicate of this node, i.e., serves as a generic copy constructor for
 public Node CloneNode()
 ```
 
-## Return Value
+### Return Value
 
 Returns node
 
@@ -38,7 +38,7 @@ public Node CloneNode(bool deep)
 | --- | --- | --- |
 | deep | Boolean | if set to `true` [deep]. |
 
-## Return Value
+### Return Value
 
 Returns node
 

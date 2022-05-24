@@ -19,7 +19,7 @@ public override long Seek(long offset, SeekOrigin origin)
 | offset | Int64 | A byte offset relative to the origin parameter. |
 | origin | SeekOrigin | A value of type SeekOrigin indicating the reference point used to obtain the new position. |
 
-## Return Value
+### Return Value
 
 The new position within the current stream.
 

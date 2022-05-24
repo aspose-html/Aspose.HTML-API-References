@@ -14,7 +14,7 @@ The parsable textual representation of the declaration block (excluding the surr
 public string CSSText { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The CSS text.
 

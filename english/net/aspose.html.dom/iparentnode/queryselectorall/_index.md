@@ -18,7 +18,7 @@ public NodeList QuerySelectorAll(string selectors)
 | --- | --- | --- |
 | selectors | String | The selectors. |
 
-## Return Value
+### Return Value
 
 Returns the static result of running scope-match a selectors string selectors against the context object.
 

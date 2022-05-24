@@ -18,7 +18,7 @@ public Document CreateHTMLDocument(string title)
 | --- | --- | --- |
 | title | String | The title. |
 
-## Return Value
+### Return Value
 
 Returns document.
 

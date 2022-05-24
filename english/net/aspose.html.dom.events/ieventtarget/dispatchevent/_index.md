@@ -18,7 +18,7 @@ public bool DispatchEvent(Event @event)
 | --- | --- | --- |
 | event | Event | Specifies the event type, behavior, and contextual information to be used in processing the event. |
 
-## Return Value
+### Return Value
 
 The return value of [`DispatchEvent`](../../../aspose.html.dom/eventtarget/dispatchevent) indicates whether any of the listeners which handled the event called [`PreventDefault`](../../event/preventdefault). If [`PreventDefault`](../../event/preventdefault) was called the value is false, else the value is true.
 

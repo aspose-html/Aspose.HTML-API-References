@@ -23,7 +23,7 @@ public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolv
 | type | XPathResultType | If a specific type is specified, then the result will be returned as the corresponding type. |
 | result | Object | The result specifies a specific result object which may be reused and returned by this method. |
 
-## Return Value
+### Return Value
 
 The result of the evaluation of the XPath expression.
 

@@ -14,7 +14,7 @@ The absolute X coordinate for the end point of this path segment.
 public float X { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The absolute Y coordinate.
 

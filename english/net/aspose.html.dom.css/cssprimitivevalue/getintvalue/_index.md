@@ -18,7 +18,7 @@ public abstract int GetIntValue(ushort unitType)
 | --- | --- | --- |
 | unitType | UInt16 | Type of the unit. |
 
-## Return Value
+### Return Value
 
 Returns value
 

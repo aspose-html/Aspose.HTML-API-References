@@ -14,7 +14,7 @@ Represents the file format of the output document.
 public enum DocumentFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

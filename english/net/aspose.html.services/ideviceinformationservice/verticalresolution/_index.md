@@ -14,7 +14,7 @@ Gets or sets the vertical resolution.
 public Resolution VerticalResolution { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The vertical resolution.
 

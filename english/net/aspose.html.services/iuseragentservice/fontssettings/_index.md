@@ -14,7 +14,7 @@ Gets a [`FontsSettings`](../../../aspose.html/fontssettings) object which is use
 public FontsSettings FontsSettings { get; }
 ```
 
-## Property Value
+### Property Value
 
 The [`FontsSettings`](../../../aspose.html/fontssettings) settings.
 

@@ -14,7 +14,7 @@ Returns shadowRoot stored on this element or null if it's closed.
 public ShadowRoot ShadowRoot { get; }
 ```
 
-## Property Value
+### Property Value
 
 The shadowRoot.
 

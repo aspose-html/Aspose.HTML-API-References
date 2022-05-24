@@ -14,7 +14,7 @@ Corresponds to attribute ‘surfaceScale’ on the given ‘feDiffuseLighting’
 public SVGAnimatedNumber SurfaceScale { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘surfaceScale’ of the given ‘feDiffuseLighting’ element.
 

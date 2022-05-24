@@ -14,7 +14,7 @@ This attribute gives access to the keyframes in the list
 public ICSSRuleList CSSRules { get; }
 ```
 
-## Property Value
+### Property Value
 
 The CSS rules.
 

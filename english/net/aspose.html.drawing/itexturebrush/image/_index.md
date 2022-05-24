@@ -14,7 +14,7 @@ Gets or sets the image used by the brush.
 public byte[] Image { get; }
 ```
 
-## Return Value
+### Return Value
 
 Image data.
 

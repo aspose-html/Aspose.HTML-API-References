@@ -14,7 +14,7 @@ Gets or sets authentication information for the request.
 public ICredentials Credentials { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 An System.Net.ICredentials that contains the authentication credentials associated with the request. The default is null.
 

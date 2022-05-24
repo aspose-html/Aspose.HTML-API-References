@@ -14,7 +14,7 @@ true if the shift (Shift) key modifier was active.
 public bool ShiftKey { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if Shift; otherwise, `false`.
 

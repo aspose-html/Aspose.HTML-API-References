@@ -14,7 +14,7 @@ Get the blend factors that define a custom falloff for the gradient.
 public float[] BlendFactors { get; }
 ```
 
-## Return Value
+### Return Value
 
 Blend factors.
 

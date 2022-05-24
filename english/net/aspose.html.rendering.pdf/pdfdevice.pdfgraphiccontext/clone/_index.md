@@ -14,7 +14,7 @@ Creates a new instance of a class with the same property values as an existing i
 public override GraphicContext Clone()
 ```
 
-## Return Value
+### Return Value
 
 Instance of a GraphicContext
 

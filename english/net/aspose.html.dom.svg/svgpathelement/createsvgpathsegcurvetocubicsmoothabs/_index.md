@@ -22,7 +22,7 @@ public SVGPathSegCurvetoCubicSmoothAbs CreateSVGPathSegCurvetoCubicSmoothAbs(flo
 | x2 | Single | The absolute X coordinate for the second control point. |
 | y2 | Single | The absolute Y coordinate for the second control point. |
 
-## Return Value
+### Return Value
 
 A stand-alone, parentless SVGPathSegCurvetoCubicSmoothAbs object.
 

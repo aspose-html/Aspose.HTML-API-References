@@ -14,7 +14,7 @@ The parent IDL attribute on the Window object of a Document in a browsing contex
 public IWindow Parent { get; }
 ```
 
-## Property Value
+### Property Value
 
 The parent.
 

@@ -14,7 +14,7 @@ Corresponds to attribute ‘edgeMode’ on the given ‘feConvolveMatrix’ elem
 public SVGAnimatedEnumeration EdgeMode { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘edgeMode’ of the given ‘feConvolveMatrix’ element.
 

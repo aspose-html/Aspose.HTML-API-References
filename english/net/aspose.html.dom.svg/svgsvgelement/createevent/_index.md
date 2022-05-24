@@ -18,7 +18,7 @@ public Event CreateEvent(string eventType)
 | --- | --- | --- |
 | eventType | String | The eventType parameter specifies the type of [`Event`](../../../aspose.html.dom.events/event) interface to be created.  If the [`Event`](../../../aspose.html.dom.events/event) interface specified is supported by the implementation this method will return a new [`Event`](../../../aspose.html.dom.events/event) of the interface type requested. If the [`Event`](../../../aspose.html.dom.events/event) is to be dispatched via the [`DispatchEvent`](../../../aspose.html.dom/eventtarget/dispatchevent) method the appropriate [`InitEvent`](../../../aspose.html.dom.events/event/initevent) method must be called after creation in order to initialize the [`Event`](../../../aspose.html.dom.events/event)'s values. |
 
-## Return Value
+### Return Value
 
 The newly created [`Event`](../../../aspose.html.dom.events/event)
 

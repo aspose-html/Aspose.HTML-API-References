@@ -19,7 +19,7 @@ public static bool operator >(Frequency a, Frequency b)
 | a | Frequency | The parameter a. |
 | b | Frequency | The parameter b. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

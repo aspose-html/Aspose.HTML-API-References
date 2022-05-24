@@ -14,7 +14,7 @@ Corresponds to attribute ‘textLength’ on the given element.
 public SVGAnimatedLength TextLength { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘textLength’ of the given element.
 

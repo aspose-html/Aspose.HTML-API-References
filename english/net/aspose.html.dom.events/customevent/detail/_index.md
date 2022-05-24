@@ -14,7 +14,7 @@ Gets the custom data.
 public object Detail { get; }
 ```
 
-## Property Value
+### Property Value
 
 The detail.
 

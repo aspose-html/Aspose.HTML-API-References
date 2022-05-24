@@ -18,7 +18,7 @@ public NodeList QuerySelectorAll(string selector)
 | --- | --- | --- |
 | selector | String | The selector |
 
-## Return Value
+### Return Value
 
 [`HTMLCollection`](../../../aspose.html.collections/htmlcollection)
 

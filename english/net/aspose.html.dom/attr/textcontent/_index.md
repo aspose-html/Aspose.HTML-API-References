@@ -14,7 +14,7 @@ This attribute returns the text content of this node and its descendants. When i
 public override string TextContent { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The content of the text.
 

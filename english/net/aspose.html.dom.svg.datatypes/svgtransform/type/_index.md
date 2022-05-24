@@ -14,7 +14,7 @@ The type of the value as specified by one of the SVG_TRANSFORM_* constants defin
 public ushort Type { get; }
 ```
 
-## Property Value
+### Property Value
 
 The transformation type.
 

@@ -14,7 +14,7 @@ See the font-stretch property definition in CSS2.
 public string FontStretch { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 font-stretch property
 

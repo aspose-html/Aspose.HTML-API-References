@@ -14,7 +14,7 @@ Corresponds to attribute ‘azimuth’ on the given ‘feDistantLight’ element
 public SVGAnimatedNumber Azimuth { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘azimuth’ of the given ‘feDistantLight’ element.
 

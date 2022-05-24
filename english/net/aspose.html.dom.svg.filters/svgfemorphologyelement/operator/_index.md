@@ -14,7 +14,7 @@ Corresponds to attribute ‘operator’ on the given ‘feMorphology’ element.
 public SVGAnimatedEnumeration Operator { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘operator’ of the given ‘feMorphology’ element.
 

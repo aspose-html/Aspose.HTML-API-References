@@ -21,7 +21,7 @@ public IImageData GetImageData(double sx, double sy, double sw, double sh)
 | sw | Double | The width of the rectangle from which the ImageData will be extracted. |
 | sh | Double | The height of the rectangle from which the ImageData will be extracted. |
 
-## Return Value
+### Return Value
 
 An ImageData object containing the image data for the given rectangle of the canvas.
 

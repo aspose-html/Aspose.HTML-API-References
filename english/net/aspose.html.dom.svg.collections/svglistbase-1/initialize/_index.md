@@ -18,7 +18,7 @@ public T Initialize(T newItem)
 | --- | --- | --- |
 | newItem | T | The item which should become the only member of the list. |
 
-## Return Value
+### Return Value
 
 The item being inserted into the list.
 

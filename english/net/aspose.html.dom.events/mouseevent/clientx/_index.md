@@ -14,7 +14,7 @@ The horizontal coordinate at which the event occurred relative to the viewport a
 public long ClientX { get; }
 ```
 
-## Property Value
+### Property Value
 
 The client x.
 

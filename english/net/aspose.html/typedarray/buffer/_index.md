@@ -14,7 +14,7 @@ Gets the ArrayBuffer referenced by this instance.
 public ArrayBuffer Buffer { get; }
 ```
 
-## Property Value
+### Property Value
 
 The buffer.
 

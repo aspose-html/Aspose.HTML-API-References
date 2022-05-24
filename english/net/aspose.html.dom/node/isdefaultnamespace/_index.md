@@ -18,7 +18,7 @@ public bool IsDefaultNamespace(string namespaceURI)
 | --- | --- | --- |
 | namespaceURI | String | The namespace URI. |
 
-## Return Value
+### Return Value
 
 `true` if [is default namespace] [the specified namespace URI]; otherwise, `false`.
 

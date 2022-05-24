@@ -14,7 +14,7 @@ Creates a new instance of a [`GraphicContext`](../../../aspose.html.rendering/gr
 public override GraphicContext Clone()
 ```
 
-## Return Value
+### Return Value
 
 Instance of a [`GraphicContext`](../../../aspose.html.rendering/graphiccontext).
 

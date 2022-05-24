@@ -14,7 +14,7 @@ Gets the offset to the next glyph in points.
 public float Offset { get; }
 ```
 
-## Property Value
+### Property Value
 
 Offset in points.
 

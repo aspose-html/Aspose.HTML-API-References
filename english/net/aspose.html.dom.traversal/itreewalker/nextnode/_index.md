@@ -14,7 +14,7 @@ Moves the TreeWalker to the next visible node in document order relative to the 
 public Node NextNode()
 ```
 
-## Return Value
+### Return Value
 
 The new node, or null if the current node has no next node in the TreeWalker's logical view.
 

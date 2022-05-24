@@ -14,7 +14,7 @@ See the min-height property definition in CSS2.
 public string MinHeight { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 min-height property
 

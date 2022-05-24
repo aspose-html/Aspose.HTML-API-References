@@ -14,7 +14,7 @@ The value as a string value, in the units expressed by unitType. Setting this at
 public string ValueAsString { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The value as string.
 

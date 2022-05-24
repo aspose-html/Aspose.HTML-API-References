@@ -14,7 +14,7 @@ See the border-collapse property definition in CSS2.
 public string BorderCollapse { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 border-collapse property
 

@@ -14,7 +14,7 @@ Encryption mode enum. Describe using algorithm and key length. This enum is exte
 public enum PdfEncryptionAlgorithm
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

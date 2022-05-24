@@ -14,7 +14,7 @@ The public identifier associated with the entity if specified, and null otherwis
 public string PublicId { get; }
 ```
 
-## Property Value
+### Property Value
 
 The public identifier.
 

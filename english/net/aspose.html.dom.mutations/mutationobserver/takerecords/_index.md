@@ -14,7 +14,7 @@ The method returns a copy of the record queue and then empty the record queue.
 public IEnumerable<MutationRecord> TakeRecords()
 ```
 
-## Return Value
+### Return Value
 
 The copy of the record queue.
 

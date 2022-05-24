@@ -14,7 +14,7 @@ Corresponds to attribute ‘y’ on the given ‘feSpotLight’ element.
 public SVGAnimatedNumber Y { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘y’ of the given ‘feSpotLight’ element.
 

@@ -19,7 +19,7 @@ public TService GetService<TService>()
 | --- | --- |
 | TService | The type of the service. |
 
-## Return Value
+### Return Value
 
 The service object
 

@@ -14,7 +14,7 @@ This method is used to retrieve ECMAScript object Type.
 public virtual Type GetPlatformType()
 ```
 
-## Return Value
+### Return Value
 
 The ECMAScript object Type.
 

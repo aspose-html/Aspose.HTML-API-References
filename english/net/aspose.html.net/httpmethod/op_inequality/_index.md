@@ -19,7 +19,7 @@ public static bool operator !=(HttpMethod left, HttpMethod right)
 | left | HttpMethod | The left operand. |
 | right | HttpMethod | The left operand. |
 
-## Return Value
+### Return Value
 
 The result of the operation.
 

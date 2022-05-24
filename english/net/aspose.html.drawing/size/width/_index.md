@@ -14,7 +14,7 @@ Gets or sets the horizontal component of this [`Size`](../../size).
 public Length Width { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The horizontal component of this [`Size`](../../size).
 

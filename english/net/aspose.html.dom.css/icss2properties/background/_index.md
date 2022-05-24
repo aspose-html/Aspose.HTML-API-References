@@ -14,7 +14,7 @@ See the background property definition in CSS2.
 public string Background { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 the background property
 

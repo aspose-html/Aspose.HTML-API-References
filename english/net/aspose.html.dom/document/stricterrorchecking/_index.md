@@ -14,7 +14,7 @@ An attribute specifying whether error checking is enforced or not. When set to f
 public bool StrictErrorChecking { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if strict error checking; otherwise, `false`.
 

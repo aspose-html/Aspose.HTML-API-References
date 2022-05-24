@@ -14,7 +14,7 @@ Corresponds to attribute ‘radius’ on the given ‘feMorphology’ element.
 public SVGAnimatedNumber RadiusX { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘radius’ of the given ‘feMorphology’ element.
 

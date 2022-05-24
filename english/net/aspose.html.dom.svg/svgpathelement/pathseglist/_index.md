@@ -14,7 +14,7 @@ Provides access to the base (i.e., static) contents of the ‘d’ attribute in 
 public SVGPathSegList PathSegList { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The path segment list.
 

@@ -14,7 +14,7 @@ On an outermost svg element, this attribute indicates the current scale factor r
 public float CurrentScale { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The current scale.
 

@@ -14,7 +14,7 @@ Get the starting point of the linear gradient.
 public PointF EndPoint { get; }
 ```
 
-## Return Value
+### Return Value
 
 End point.
 

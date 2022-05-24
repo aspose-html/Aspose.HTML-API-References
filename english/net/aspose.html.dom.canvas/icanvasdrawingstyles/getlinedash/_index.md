@@ -14,7 +14,7 @@ Returns the current line dash pattern array containing an even number of non-neg
 public double[] GetLineDash()
 ```
 
-## Return Value
+### Return Value
 
 An Array. A list of numbers that specifies distances to alternately draw a line and a gap (in coordinate space units).
 

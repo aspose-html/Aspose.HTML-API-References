@@ -14,7 +14,7 @@ See the border-top-color property definition in CSS2.
 public string BorderTopColor { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 border-top-color property
 

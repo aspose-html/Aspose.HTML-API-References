@@ -14,7 +14,7 @@ Create a table header row or return an existing one.
 public Element CreateTHead()
 ```
 
-## Return Value
+### Return Value
 
 A new table header element (`THEAD`).
 

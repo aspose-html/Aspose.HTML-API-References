@@ -14,7 +14,7 @@ This method is used to get the Counter value. If this CSS value doesn't contain 
 public abstract Counter GetCounterValue()
 ```
 
-## Return Value
+### Return Value
 
 Returns Counter value
 

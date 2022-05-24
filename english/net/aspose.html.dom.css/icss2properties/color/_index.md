@@ -14,7 +14,7 @@ See the color property definition in CSS2.
 public string Color { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 color property
 

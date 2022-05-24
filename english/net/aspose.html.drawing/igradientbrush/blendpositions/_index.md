@@ -14,7 +14,7 @@ Get the blend positions that define a custom falloff for the gradient.
 public float[] BlendPositions { get; }
 ```
 
-## Return Value
+### Return Value
 
 Blend positions.
 

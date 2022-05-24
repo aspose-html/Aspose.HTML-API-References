@@ -18,7 +18,7 @@ public SVGPathSegLinetoHorizontalRel CreateSVGPathSegLinetoHorizontalRel(float x
 | --- | --- | --- |
 | x | Single | The relative X coordinate for the end point of this path segment. |
 
-## Return Value
+### Return Value
 
 A stand-alone, parentless SVGPathSegLinetoHorizontalRel object.
 

@@ -14,7 +14,7 @@ Gets the filters list that are corresponding to the specified handler type.
 public Collection<MessageFilter> Filters { get; }
 ```
 
-## Property Value
+### Property Value
 
 The filters.
 

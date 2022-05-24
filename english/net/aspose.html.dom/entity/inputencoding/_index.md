@@ -14,7 +14,7 @@ An attribute specifying the encoding used for this entity at the time of parsing
 public string InputEncoding { get; }
 ```
 
-## Property Value
+### Property Value
 
 The input encoding.
 

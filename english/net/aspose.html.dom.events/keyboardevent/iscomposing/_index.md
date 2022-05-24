@@ -14,7 +14,7 @@ true if the key event occurs as part of a composition session, i.e., after a com
 public bool IsComposing { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is composing; otherwise, `false`.
 

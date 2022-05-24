@@ -14,7 +14,7 @@ Gets or sets the page margin.
 public Margin Margin { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The margin.
 

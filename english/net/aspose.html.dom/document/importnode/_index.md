@@ -19,7 +19,7 @@ public Node ImportNode(Node importedNode, bool deep)
 | importedNode | Node | The imported node. |
 | deep | Boolean | if set to `true` [deep]. |
 
-## Return Value
+### Return Value
 
 The [`Node`](../../node).
 

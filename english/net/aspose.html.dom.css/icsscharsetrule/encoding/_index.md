@@ -14,7 +14,7 @@ The encoding information used in this @charset rule.
 public string Encoding { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The encoding.
 

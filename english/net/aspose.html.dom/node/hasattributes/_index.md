@@ -14,7 +14,7 @@ Returns whether this node (if it is an element) has any attributes
 public virtual bool HasAttributes()
 ```
 
-## Return Value
+### Return Value
 
 boolean `true` if this node has any attributes, `false` otherwise.
 

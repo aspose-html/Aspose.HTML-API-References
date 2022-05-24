@@ -19,7 +19,7 @@ public string Prompt(string message, string @default)
 | message | String | The message. |
 | default | String | The default. |
 
-## Return Value
+### Return Value
 
 Returns the value that the user entered
 

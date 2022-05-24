@@ -22,7 +22,7 @@ public SVGPathSegCurvetoCubicSmoothRel CreateSVGPathSegCurvetoCubicSmoothRel(flo
 | x2 | Single | The relative X coordinate for the second control point. |
 | y2 | Single | The relative Y coordinate for the second control point. |
 
-## Return Value
+### Return Value
 
 A stand-alone, parentless SVGPathSegCurvetoCubicSmoothRel object.
 

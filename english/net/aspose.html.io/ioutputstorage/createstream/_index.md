@@ -18,7 +18,7 @@ public OutputStream CreateStream(OutputStreamContext context)
 | --- | --- | --- |
 | context | OutputStreamContext | Specifies the output stream context [`OutputStreamContext`](../../outputstreamcontext). |
 
-## Return Value
+### Return Value
 
 The output stream.
 

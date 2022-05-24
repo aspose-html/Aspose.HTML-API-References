@@ -18,7 +18,7 @@ public ResponseMessage Send(RequestMessage message)
 | --- | --- | --- |
 | message | RequestMessage | The message to send. |
 
-## Return Value
+### Return Value
 
 A [`ResponseMessage`](../../responsemessage) message
 

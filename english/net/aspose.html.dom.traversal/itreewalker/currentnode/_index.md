@@ -14,7 +14,7 @@ The node at which the TreeWalker is currently positioned. Alterations to the DOM
 public Node CurrentNode { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The current node.
 

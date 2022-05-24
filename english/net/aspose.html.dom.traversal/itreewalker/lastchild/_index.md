@@ -14,7 +14,7 @@ Moves the TreeWalker to the last visible child of the current node, and returns 
 public Node LastChild()
 ```
 
-## Return Value
+### Return Value
 
 The new node, or null if the current node has no children in the TreeWalker's logical view.
 

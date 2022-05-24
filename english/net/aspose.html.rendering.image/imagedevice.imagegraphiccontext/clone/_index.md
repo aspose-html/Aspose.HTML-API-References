@@ -14,7 +14,7 @@ Creates a new instance of a GdiGraphicContext class with the same property value
 public override GraphicContext Clone()
 ```
 
-## Return Value
+### Return Value
 
 Instance of a GdiGraphicContext
 

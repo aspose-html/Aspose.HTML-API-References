@@ -14,7 +14,7 @@ Returns the child elements of current element.
 public HTMLCollection Children { get; }
 ```
 
-## Property Value
+### Property Value
 
 The children collection
 

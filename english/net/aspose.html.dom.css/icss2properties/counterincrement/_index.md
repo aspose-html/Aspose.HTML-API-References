@@ -14,7 +14,7 @@ See the counter-increment property definition in CSS2.
 public string CounterIncrement { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 counter-increment property
 

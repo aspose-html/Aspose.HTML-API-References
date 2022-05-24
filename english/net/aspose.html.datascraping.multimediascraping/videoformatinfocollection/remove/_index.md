@@ -18,7 +18,7 @@ public bool Remove(VideoFormatInfo item)
 | --- | --- | --- |
 | item | VideoFormatInfo | The item to remove. |
 
-## Return Value
+### Return Value
 
 True if successfully removed; otherwise, false.
 

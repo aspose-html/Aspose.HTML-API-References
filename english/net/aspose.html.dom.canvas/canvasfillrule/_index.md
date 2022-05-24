@@ -14,7 +14,7 @@ This enumeration is used to select the fill rule algorithm by which to determine
 public enum CanvasFillRule
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

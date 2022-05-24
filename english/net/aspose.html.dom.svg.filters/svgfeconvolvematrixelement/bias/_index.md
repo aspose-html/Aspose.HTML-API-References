@@ -14,7 +14,7 @@ Corresponds to attribute ‘bias’ on the given ‘feConvolveMatrix’ element.
 public SVGAnimatedNumber Bias { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘bias’ of the given ‘feConvolveMatrix’ element.
 

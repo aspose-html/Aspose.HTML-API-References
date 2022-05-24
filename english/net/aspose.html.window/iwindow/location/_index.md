@@ -14,7 +14,7 @@ The location attribute of the Window interface must return the Location object f
 public Location Location { get; }
 ```
 
-## Property Value
+### Property Value
 
 The location.
 

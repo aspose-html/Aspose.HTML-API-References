@@ -18,7 +18,7 @@ public string LookupNamespaceURI(string prefix)
 | --- | --- | --- |
 | prefix | String | The prefix to look for. |
 
-## Return Value
+### Return Value
 
 Returns the associated namespace URI or `null` if none is found.
 

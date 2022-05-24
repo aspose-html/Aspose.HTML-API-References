@@ -18,7 +18,7 @@ public static FormEditor Create(HTMLFormElement form)
 | --- | --- | --- |
 | form | HTMLFormElement | The html form element |
 
-## Return Value
+### Return Value
 
 Return a new instance of the [`FormEditor`](../../formeditor) class
 
@@ -44,7 +44,7 @@ public static FormEditor Create(HTMLDocument document, int index)
 | document | HTMLDocument | The document. |
 | index | Int32 | The index inside the forms collection. |
 
-## Return Value
+### Return Value
 
 Return a new instance of the [`FormEditor`](../../formeditor) class
 
@@ -76,7 +76,7 @@ public static FormEditor Create(HTMLDocument document, string id)
 | document | HTMLDocument | The document. |
 | id | String | The identifier. |
 
-## Return Value
+### Return Value
 
 Return a new instance of the [`FormEditor`](../../formeditor) class
 

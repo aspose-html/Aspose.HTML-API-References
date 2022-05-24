@@ -14,7 +14,7 @@ Gets the document's encoding.
 public string InputEncoding { get; }
 ```
 
-## Property Value
+### Property Value
 
 The document's encoding.
 

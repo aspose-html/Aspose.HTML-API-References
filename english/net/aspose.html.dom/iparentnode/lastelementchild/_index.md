@@ -14,7 +14,7 @@ Returns the last child that is an element, and null otherwise.
 public Element LastElementChild { get; }
 ```
 
-## Property Value
+### Property Value
 
 The last element child.
 

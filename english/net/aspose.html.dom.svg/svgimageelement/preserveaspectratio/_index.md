@@ -14,7 +14,7 @@ Corresponds to attribute ‘preserveAspectRatio’ on the given ‘image’ elem
 public SVGAnimatedPreserveAspectRatio PreserveAspectRatio { get; }
 ```
 
-## Property Value
+### Property Value
 
 The preserve aspect ratio.
 

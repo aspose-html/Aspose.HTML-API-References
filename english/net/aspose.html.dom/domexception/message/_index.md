@@ -14,7 +14,7 @@ Returns a string representing a message or description associated with the given
 public override string Message { get; }
 ```
 
-## Property Value
+### Property Value
 
 The error message.
 

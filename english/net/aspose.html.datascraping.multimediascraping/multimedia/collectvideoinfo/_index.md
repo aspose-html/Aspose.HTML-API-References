@@ -14,7 +14,7 @@ Collects video information from the associated page.
 public abstract VideoInfo CollectVideoInfo()
 ```
 
-## Return Value
+### Return Value
 
 Collected video information.
 

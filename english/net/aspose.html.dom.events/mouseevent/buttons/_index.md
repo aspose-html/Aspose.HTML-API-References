@@ -14,7 +14,7 @@ During any mouse events, buttons MUST be used to indicate which combination of m
 public ushort Buttons { get; }
 ```
 
-## Property Value
+### Property Value
 
 The buttons.
 

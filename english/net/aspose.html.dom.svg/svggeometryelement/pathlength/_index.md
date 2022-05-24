@@ -14,7 +14,7 @@ Corresponds to attribute pathLength on the given element.
 public SVGAnimatedNumber PathLength { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute pathLength on the given element.
 

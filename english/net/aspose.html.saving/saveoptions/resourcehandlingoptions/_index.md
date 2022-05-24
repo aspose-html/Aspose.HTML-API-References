@@ -14,7 +14,7 @@ Gets a [`ResourceHandlingOptions`](../../resourcehandlingoptions) object which i
 public ResourceHandlingOptions ResourceHandlingOptions { get; }
 ```
 
-## Property Value
+### Property Value
 
 The [`ResourceHandlingOptions`](../../resourcehandlingoptions) object.
 

@@ -14,7 +14,7 @@ Gets the byteOffset from the start of referenced ArrayBuffer.
 public int ByteOffset { get; }
 ```
 
-## Property Value
+### Property Value
 
 The length in bytes.
 

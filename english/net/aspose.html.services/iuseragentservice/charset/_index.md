@@ -14,7 +14,7 @@ Gets or sets the primary character-set for a document.
 public string CharSet { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The character set.
 

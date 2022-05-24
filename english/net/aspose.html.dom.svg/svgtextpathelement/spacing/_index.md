@@ -14,7 +14,7 @@ Corresponds to attribute ‘spacing’ on the given ‘textPath’ element.
 public SVGAnimatedEnumeration Spacing { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘spacing’ of the given ‘textPath’ element.
 

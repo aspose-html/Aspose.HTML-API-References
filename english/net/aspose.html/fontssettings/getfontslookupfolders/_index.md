@@ -14,7 +14,7 @@ Gets a copy of array which contains fonts folders. Fonts found in these folders 
 public string[] GetFontsLookupFolders()
 ```
 
-## Return Value
+### Return Value
 
 A copy of fonts folders array.
 

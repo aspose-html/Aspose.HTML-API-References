@@ -18,11 +18,11 @@ public Attr this[int index] { get; }
 | --- | --- |
 | index | The index. |
 
-## Return Value
+### Return Value
 
 Returns node.
 
-## Property Value
+### Property Value
 
 The [`Attr`](../../../aspose.html.dom/attr).
 
@@ -47,11 +47,11 @@ public Attr this[string name] { get; }
 | --- | --- |
 | name | The attribute name. |
 
-## Return Value
+### Return Value
 
 Returns node.
 
-## Property Value
+### Property Value
 
 The [`Attr`](../../../aspose.html.dom/attr).
 

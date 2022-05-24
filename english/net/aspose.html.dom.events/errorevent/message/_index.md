@@ -14,7 +14,7 @@ The message attribute must return the value it was initialized to. When the obje
 public string Message { get; }
 ```
 
-## Property Value
+### Property Value
 
 The message.
 

@@ -14,7 +14,7 @@ Corresponds to attribute ‘kernelUnitLength’ on the given ‘feSpecularLighti
 public SVGAnimatedNumber KernelUnitLengthY { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘kernelUnitLength’ of the given ‘feSpecularLighting’ element.
 

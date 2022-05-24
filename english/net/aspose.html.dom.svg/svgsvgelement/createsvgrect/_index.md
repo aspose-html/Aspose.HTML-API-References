@@ -14,7 +14,7 @@ Creates an SVGRect object outside of any document trees. The object is initializ
 public SVGRect CreateSVGRect()
 ```
 
-## Return Value
+### Return Value
 
 An SVGRect object.
 

@@ -23,7 +23,7 @@ public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolv
 | type | XPathResultType | If a specific `type` is specified, then the result will be returned as the corresponding type. For XPath 1.0 results, this must be one of the values of the [`XPathResultType`](../../xpathresulttype) enum. |
 | result | Object | The `result` specifies a specific result object which may be reused and returned by this method. If this is specified as `null` or the implementation does not reuse the specified result, a new result object will be constructed and returned. For XPath 1.0 results, this object will be of type [`IXPathResult`](../../ixpathresult). |
 
-## Return Value
+### Return Value
 
 The result of the evaluation of the XPath expression. For XPath 1.0 results, this object will be of type [`IXPathResult`](../../ixpathresult).
 

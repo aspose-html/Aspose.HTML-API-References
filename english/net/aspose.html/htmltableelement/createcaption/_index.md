@@ -14,7 +14,7 @@ Create a new table caption object or return an existing one.
 public Element CreateCaption()
 ```
 
-## Return Value
+### Return Value
 
 A `CAPTION` element.
 

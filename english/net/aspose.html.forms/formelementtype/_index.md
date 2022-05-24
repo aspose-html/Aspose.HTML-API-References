@@ -14,7 +14,7 @@ Represents an enumeration of the Form Elements types and their corresponding to 
 public enum FormElementType
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

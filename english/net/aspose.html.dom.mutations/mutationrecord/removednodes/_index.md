@@ -14,7 +14,7 @@ Return the nodes removed.
 public NodeList RemovedNodes { get; }
 ```
 
-## Property Value
+### Property Value
 
 The removed nodes.
 

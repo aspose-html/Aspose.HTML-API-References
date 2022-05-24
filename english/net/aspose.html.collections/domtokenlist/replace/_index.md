@@ -19,7 +19,7 @@ public bool Replace(string token, string newToken)
 | token | String | The token you want to replace. |
 | newToken | String | The token you want to replace the old token with. |
 
-## Return Value
+### Return Value
 
 Boolean `true` if the token was found and replaced, `false` otherwise.
 

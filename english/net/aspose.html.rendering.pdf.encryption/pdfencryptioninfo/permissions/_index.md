@@ -14,7 +14,7 @@ Gets or sets the permissions.
 public PdfPermissions Permissions { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The permissions.
 

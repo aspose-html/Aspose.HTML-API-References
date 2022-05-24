@@ -14,7 +14,7 @@ Provides access to the current animated contents of the ‘points’ attribute. 
 public SVGPointList AnimatedPoints { get; }
 ```
 
-## Property Value
+### Property Value
 
 The animated points.
 

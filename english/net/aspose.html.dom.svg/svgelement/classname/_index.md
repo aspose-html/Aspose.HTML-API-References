@@ -14,7 +14,7 @@ Corresponds to attribute ‘class’ on the given element.
 public SVGAnimatedString ClassName { get; }
 ```
 
-## Property Value
+### Property Value
 
 The name of the class.
 

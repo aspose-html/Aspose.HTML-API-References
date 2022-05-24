@@ -14,7 +14,7 @@ Gets a [`TextInfo`](../../textinfo) object which contains information about rend
 public virtual TextInfo TextInfo { get; }
 ```
 
-## Property Value
+### Property Value
 
 The [`TextInfo`](../../textinfo) object.
 

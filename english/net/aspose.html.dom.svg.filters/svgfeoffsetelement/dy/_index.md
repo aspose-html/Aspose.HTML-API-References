@@ -14,7 +14,7 @@ Corresponds to attribute ‘dy’ on the given ‘feOffset’ element.
 public SVGAnimatedNumber Dy { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘dy’ of the given ‘feOffset’ element.
 

@@ -14,7 +14,7 @@ The isTrusted attribute must return the value it was initialized to. When an eve
 public bool IsTrusted { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is trusted; otherwise, `false`.
 

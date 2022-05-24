@@ -14,7 +14,7 @@ See the cursor property definition in CSS2.
 public string Cursor { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 cursor property
 

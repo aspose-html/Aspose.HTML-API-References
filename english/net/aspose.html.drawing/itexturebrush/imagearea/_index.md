@@ -14,7 +14,7 @@ Specifies the portion of the image used by the brush. If it equals RectangleF.Em
 public RectangleF ImageArea { get; }
 ```
 
-## Return Value
+### Return Value
 
 Image area
 

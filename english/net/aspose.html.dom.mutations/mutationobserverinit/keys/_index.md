@@ -14,7 +14,7 @@ Gets a collection containing the keys in the [`MutationObserverInit`](../../muta
 public ICollection<string> Keys { get; }
 ```
 
-## Return Value
+### Return Value
 
 A collection containing the keys.
 

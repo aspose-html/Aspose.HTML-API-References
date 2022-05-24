@@ -14,7 +14,7 @@ The total sum of all of the advance values from rendering all of the characters 
 public float GetComputedTextLength()
 ```
 
-## Return Value
+### Return Value
 
 The text advance distance.
 

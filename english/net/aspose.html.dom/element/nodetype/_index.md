@@ -14,7 +14,7 @@ A code representing the type of the underlying object.
 public override ushort NodeType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The code representing the type of the node.
 

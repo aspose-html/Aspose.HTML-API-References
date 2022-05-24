@@ -14,7 +14,7 @@ This method is used to get the RGB color. If this CSS value doesn't contain a RG
 public abstract RGBColor GetRGBColorValue()
 ```
 
-## Return Value
+### Return Value
 
 Returns RGB color value
 

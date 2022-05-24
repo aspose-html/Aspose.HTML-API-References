@@ -14,7 +14,7 @@ Gets the angle, measured in degrees clockwise from the x-axis, of the gradient's
 public float Angle { get; }
 ```
 
-## Property Value
+### Property Value
 
 The angle.
 

@@ -14,7 +14,7 @@ Provides access to the base (i.e., static) contents of the ‘points’ attribut
 public SVGPointList Points { get; }
 ```
 
-## Property Value
+### Property Value
 
 The content of the ‘points’ attribute
 

@@ -19,7 +19,7 @@ public abstract bool BeginElement(Element element, RectangleF rect)
 | element | Element | The [`Element`](../../../aspose.html.dom/element). |
 | rect | RectangleF | Bounding box of the node. |
 
-## Return Value
+### Return Value
 
 Returns [true] if element should be processed.
 

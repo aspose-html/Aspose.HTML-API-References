@@ -14,7 +14,7 @@ Gets the color position.
 public float Position { get; }
 ```
 
-## Property Value
+### Property Value
 
 The position.
 

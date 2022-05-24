@@ -14,7 +14,7 @@ Corresponds to attribute ‘requiredFeatures’ on the given element.
 public SVGStringList RequiredFeatures { get; }
 ```
 
-## Property Value
+### Property Value
 
 The required features.
 

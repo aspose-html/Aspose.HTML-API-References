@@ -19,7 +19,7 @@ public static Frequency operator +(Frequency a, Frequency b)
 | a | Frequency | Parameter a. |
 | b | Frequency | Parameter b. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

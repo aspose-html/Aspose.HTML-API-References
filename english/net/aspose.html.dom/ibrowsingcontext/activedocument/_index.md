@@ -14,7 +14,7 @@ Gets the current document.
 public Document ActiveDocument { get; }
 ```
 
-## Property Value
+### Property Value
 
 The active document.
 

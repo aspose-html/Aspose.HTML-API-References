@@ -14,7 +14,7 @@ Corresponds to attribute ‘specularConstant’ on the given ‘feSpecularLighti
 public SVGAnimatedNumber SpecularConstant { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘specularConstant’ of the given ‘feSpecularLighting’ element.
 

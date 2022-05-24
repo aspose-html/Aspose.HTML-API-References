@@ -14,7 +14,7 @@ Gets or sets a value that indicates whether to send an Authorization header with
 public bool PreAuthenticate { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 `true` to send an HTTP Authorization header with requests after authentication has taken place; otherwise, `false`. The default is `false`.
 

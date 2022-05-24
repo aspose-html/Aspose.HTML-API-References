@@ -14,7 +14,7 @@ Gets a page setup object is used for configuration output page-set.
 public PageSetup PageSetup { get; }
 ```
 
-## Property Value
+### Property Value
 
 The page setup.
 

@@ -14,7 +14,7 @@ Specifies the possible compression schemes for Tagged Image File Format (TIFF) b
 public enum Compression
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

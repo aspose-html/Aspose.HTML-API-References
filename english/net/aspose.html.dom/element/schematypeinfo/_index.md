@@ -14,7 +14,7 @@ The type information associated with this element.
 public TypeInfo SchemaTypeInfo { get; }
 ```
 
-## Property Value
+### Property Value
 
 The schema type information.
 

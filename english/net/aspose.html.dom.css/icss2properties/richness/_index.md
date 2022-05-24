@@ -14,7 +14,7 @@ See the richness property definition in CSS2.
 public string Richness { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 richness property
 

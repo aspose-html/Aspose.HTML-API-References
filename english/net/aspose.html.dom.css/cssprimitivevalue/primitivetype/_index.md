@@ -14,7 +14,7 @@ The type of the value as defined by the constants specified above.
 public ushort PrimitiveType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the primitive.
 

@@ -18,7 +18,7 @@ public ITextMetrics MeasureText(string text)
 | --- | --- | --- |
 | text | String | The text to measure. |
 
-## Return Value
+### Return Value
 
 A TextMetrics object.
 

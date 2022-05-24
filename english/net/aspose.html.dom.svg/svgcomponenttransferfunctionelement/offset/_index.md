@@ -14,7 +14,7 @@ Corresponds to attribute ‘offset’ on the given element.
 public SVGAnimatedNumber Offset { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘offset’ of the given element.
 

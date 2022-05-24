@@ -14,7 +14,7 @@ This method is used to get the value as an email string object. This method is v
 public string GetEmailValue()
 ```
 
-## Return Value
+### Return Value
 
 The email.
 

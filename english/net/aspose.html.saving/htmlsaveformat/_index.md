@@ -14,7 +14,7 @@ Specifies format in which document is saved.
 public enum HTMLSaveFormat
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

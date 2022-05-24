@@ -14,7 +14,7 @@ Returns the node the mutation affected, depending on the type. For "attributes",
 public Node Target { get; }
 ```
 
-## Property Value
+### Property Value
 
 The target.
 

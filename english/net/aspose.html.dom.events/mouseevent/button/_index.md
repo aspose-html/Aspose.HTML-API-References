@@ -14,7 +14,7 @@ During mouse events caused by the depression or release of a mouse button, butto
 public short Button { get; }
 ```
 
-## Property Value
+### Property Value
 
 The button.
 

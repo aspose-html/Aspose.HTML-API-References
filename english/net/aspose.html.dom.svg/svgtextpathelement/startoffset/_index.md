@@ -14,7 +14,7 @@ Corresponds to attribute ‘startOffset’ on the given ‘textPath’ element.
 public SVGAnimatedLength StartOffset { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘startOffset’ of the given ‘textPath’ element.
 

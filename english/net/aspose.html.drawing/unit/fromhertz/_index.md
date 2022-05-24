@@ -18,7 +18,7 @@ public static Frequency FromHertz(double value)
 | --- | --- | --- |
 | value | Double | The value. |
 
-## Return Value
+### Return Value
 
 Returns a [`Frequency`](../../frequency) object.
 

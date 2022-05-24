@@ -14,7 +14,7 @@ The type of the meet-or-slice value as specified by one of the SVG_MEETORSLICE_*
 public ushort MeetOrSlice { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the meet-or-slice
 

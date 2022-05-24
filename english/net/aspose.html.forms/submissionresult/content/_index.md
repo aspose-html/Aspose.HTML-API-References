@@ -14,7 +14,7 @@ Gets the content of the response message.
 public Content Content { get; }
 ```
 
-## Property Value
+### Property Value
 
 The content.
 

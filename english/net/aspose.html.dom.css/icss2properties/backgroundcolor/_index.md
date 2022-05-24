@@ -14,7 +14,7 @@ See the background-color property definition in CSS2.
 public string BackgroundColor { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 background-color property
 

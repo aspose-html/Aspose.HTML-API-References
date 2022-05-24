@@ -19,7 +19,7 @@ public bool HasAttributeNS(string namespaceURI, string localName)
 | namespaceURI | String | The namespace URI. |
 | localName | String | Name of the local. |
 
-## Return Value
+### Return Value
 
 `true` if [has attribute NS] [the specified namespace URI]; otherwise, `false`.
 

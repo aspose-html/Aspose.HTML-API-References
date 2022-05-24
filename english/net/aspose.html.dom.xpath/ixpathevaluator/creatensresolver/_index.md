@@ -18,7 +18,7 @@ public IXPathNSResolver CreateNSResolver(Node nodeResolver)
 | --- | --- | --- |
 | nodeResolver | Node | The node to be used as a context for namespace resolution. |
 
-## Return Value
+### Return Value
 
 [`IXPathNSResolver`](../../ixpathnsresolver) which resolves namespaces with respect to the definitions in scope for a specified node.
 

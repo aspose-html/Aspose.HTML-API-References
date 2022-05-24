@@ -19,7 +19,7 @@ public static bool operator ==(Angle a, Angle b)
 | a | Angle | The parameter a. |
 | b | Angle | The parameter b. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

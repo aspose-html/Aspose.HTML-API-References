@@ -14,7 +14,7 @@ Corresponds to attribute ‘baseFrequency’ on the given ‘feTurbulence’ ele
 public SVGAnimatedNumber BaseFrequencyY { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘baseFrequency’ of the given ‘feTurbulence’ element.
 

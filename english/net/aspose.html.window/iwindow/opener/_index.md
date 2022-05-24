@@ -14,7 +14,7 @@ The opener IDL attribute on the Window object, on getting, must return the Windo
 public IWindow Opener { get; }
 ```
 
-## Property Value
+### Property Value
 
 The opener.
 

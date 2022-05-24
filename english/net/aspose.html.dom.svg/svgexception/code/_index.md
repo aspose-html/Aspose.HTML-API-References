@@ -14,7 +14,7 @@ A code identifying the reason why the requested operation could not be performed
 public ushort Code { get; }
 ```
 
-## Property Value
+### Property Value
 
 The error code.
 

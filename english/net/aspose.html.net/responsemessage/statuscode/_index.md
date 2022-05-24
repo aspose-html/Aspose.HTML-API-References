@@ -14,7 +14,7 @@ Gets or sets the status code.
 public HttpStatusCode StatusCode { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The status code.
 

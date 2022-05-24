@@ -14,7 +14,7 @@ Returns a fragment of HTML or XML that represents the element's contents. Can be
 public string InnerHTML { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The inner HTML.
 

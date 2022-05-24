@@ -14,7 +14,7 @@ Corresponds to attribute �result� on the given �filter� element.
 public SVGAnimatedString Result { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute �result� of the given �filter� element.
 

@@ -14,7 +14,7 @@ Gets the document content type.
 public string ContentType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the content.
 

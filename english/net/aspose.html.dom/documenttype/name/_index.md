@@ -14,7 +14,7 @@ The name of DTD; i.e., the name immediately following the DOCTYPE keyword.
 public string Name { get; }
 ```
 
-## Property Value
+### Property Value
 
 The node name.
 

@@ -14,7 +14,7 @@ See the list-style-type property definition in CSS2.
 public string ListStyleType { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 list-style-type property
 

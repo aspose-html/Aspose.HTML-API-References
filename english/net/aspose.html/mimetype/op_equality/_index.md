@@ -19,7 +19,7 @@ public static bool operator ==(MimeType a, MimeType b)
 | a | MimeType | The first Mime to compare. |
 | b | MimeType | The second Mime to compare. |
 
-## Return Value
+### Return Value
 
 True if both priorities are equal, otherwise false.
 

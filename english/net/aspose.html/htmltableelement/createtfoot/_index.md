@@ -14,7 +14,7 @@ Create a table footer row or return an existing one.
 public Element CreateTFoot()
 ```
 
-## Return Value
+### Return Value
 
 A footer element (`TFOOT`).
 

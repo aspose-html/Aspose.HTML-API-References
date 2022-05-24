@@ -14,7 +14,7 @@ Gets a value indicating whether this instance is in 'auto'.
 public bool IsAuto { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is automatic; otherwise, `false`.
 

@@ -14,7 +14,7 @@ Corresponds to attribute ‘intercept’ on the given element.
 public SVGAnimatedNumber Intercept { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘intercept’ of the given element.
 

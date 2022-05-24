@@ -14,7 +14,7 @@ Corresponds to attribute ‘specularExponent’ on the given ‘feSpecularLighti
 public SVGAnimatedNumber SpecularExponent { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘specularExponent’ of the given ‘feSpecularLighting’ element.
 

@@ -14,7 +14,7 @@ Corresponds to attribute ‘y’ on the given ‘mask’ element. Takes one of t
 public SVGAnimatedLength Y { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘y’ of the given ‘mask’ element.
 

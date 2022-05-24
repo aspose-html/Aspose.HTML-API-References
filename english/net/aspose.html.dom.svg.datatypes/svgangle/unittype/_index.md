@@ -14,7 +14,7 @@ The type of the value as specified by one of the SVG_ANGLETYPE_* constants defin
 public ushort UnitType { get; }
 ```
 
-## Property Value
+### Property Value
 
 The type of the unit.
 

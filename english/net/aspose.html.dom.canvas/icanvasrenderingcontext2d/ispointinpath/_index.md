@@ -19,7 +19,7 @@ public bool IsPointInPath(double x, double y)
 | x | Double | The X coordinate of the point to check. |
 | y | Double | The Y coordinate of the point to check. |
 
-## Return Value
+### Return Value
 
 Returns true if the point is inside the area contained by the filling of a path, otherwise false.
 
@@ -45,7 +45,7 @@ public bool IsPointInPath(double x, double y, CanvasFillRule fillRule)
 | y | Double | The Y coordinate of the point to check. |
 | fillRule | CanvasFillRule | The algorithm by which to determine if a point is inside a path or outside a path. |
 
-## Return Value
+### Return Value
 
 Returns true if the point is inside the area contained by the filling of a path, otherwise false.
 
@@ -72,7 +72,7 @@ public bool IsPointInPath(Path2D path, double x, double y)
 | x | Double | The X coordinate of the point to check. |
 | y | Double | The Y coordinate of the point to check. |
 
-## Return Value
+### Return Value
 
 Returns true if the point is inside the area contained by the filling of a path, otherwise false.
 
@@ -100,7 +100,7 @@ public bool IsPointInPath(Path2D path, double x, double y, CanvasFillRule fillRu
 | y | Double | The Y coordinate of the point to check. |
 | fillRule | CanvasFillRule | The algorithm by which to determine if a point is inside a path or outside a path. |
 
-## Return Value
+### Return Value
 
 Returns true if the point is inside the area contained by the filling of a path, otherwise false.
 

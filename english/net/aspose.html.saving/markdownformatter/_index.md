@@ -14,7 +14,7 @@ Specifies the way output will be formatted.
 public enum MarkdownFormatter
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

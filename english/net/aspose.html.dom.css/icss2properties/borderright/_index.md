@@ -14,7 +14,7 @@ See the border-right property definition in CSS2.
 public string BorderRight { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 border-right property
 

@@ -14,7 +14,7 @@ Determines whether the [`VideoFormatInfoCollection`](../../videoformatinfocollec
 public bool IsReadOnly { get; }
 ```
 
-## Return Value
+### Return Value
 
 True if the collection cannot be modified; otherwise, false.
 

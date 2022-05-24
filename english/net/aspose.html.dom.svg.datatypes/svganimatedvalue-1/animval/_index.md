@@ -14,7 +14,7 @@ If the given attribute or property is being animated, contains the current anima
 public virtual T AnimVal { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if [anim value]; otherwise, `false`.
 

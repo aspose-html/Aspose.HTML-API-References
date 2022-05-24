@@ -14,7 +14,7 @@ See the size property definition in CSS2.
 public string Size { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 size property
 

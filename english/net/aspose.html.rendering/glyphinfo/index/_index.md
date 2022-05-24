@@ -14,7 +14,7 @@ Gets the index of this glyph in the font.
 public uint Index { get; }
 ```
 
-## Property Value
+### Property Value
 
 Index of the glyph.
 

@@ -14,7 +14,7 @@ The name of a type declared for the associated element or attribute, or null if 
 public string TypeName { get; }
 ```
 
-## Property Value
+### Property Value
 
 The name of the type.
 

@@ -14,7 +14,7 @@ Returns the tight bounding box in current user space (i.e., after application of
 public SVGRect GetBBox()
 ```
 
-## Return Value
+### Return Value
 
 An SVGRect object that defines the bounding box.
 

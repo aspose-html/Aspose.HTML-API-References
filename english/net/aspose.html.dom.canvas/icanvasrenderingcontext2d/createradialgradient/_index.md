@@ -24,7 +24,7 @@ public ICanvasGradient CreateRadialGradient(double x0, double y0, double r0, dou
 | y1 | Double | The y axis of the coordinate of the end circle. |
 | r1 | Double | The radius of the end circle. |
 
-## Return Value
+### Return Value
 
 A radial CanvasGradient initialized with the two specified circles.
 

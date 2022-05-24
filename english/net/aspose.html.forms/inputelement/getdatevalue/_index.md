@@ -14,7 +14,7 @@ This method is used to get the value as a DateTime object. This method is valid 
 public DateTime GetDateValue()
 ```
 
-## Return Value
+### Return Value
 
 The date object.
 

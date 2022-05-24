@@ -14,7 +14,7 @@ Serialize the HTTP content and return a stream that represents the content.
 public Stream ReadAsStream()
 ```
 
-## Return Value
+### Return Value
 
 Serialized stream that represents the content
 

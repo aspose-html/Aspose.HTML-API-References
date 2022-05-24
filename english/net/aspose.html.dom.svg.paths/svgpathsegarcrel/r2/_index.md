@@ -14,7 +14,7 @@ The y-axis radius for the ellipse (i.e., r2).
 public float R2 { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The y-axis radius
 

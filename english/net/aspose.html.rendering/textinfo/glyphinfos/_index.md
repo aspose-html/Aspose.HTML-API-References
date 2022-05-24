@@ -14,7 +14,7 @@ Gets information about rendered glyphs.
 public IList<GlyphInfo> GlyphInfos { get; }
 ```
 
-## Property Value
+### Property Value
 
 A IList that contains information about rendered glyphs.
 

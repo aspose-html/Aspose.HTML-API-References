@@ -14,7 +14,7 @@ Collection of the available video formats.
 public VideoFormatInfoCollection Formats { get; }
 ```
 
-## Property Value
+### Property Value
 
 Video formats collection.
 

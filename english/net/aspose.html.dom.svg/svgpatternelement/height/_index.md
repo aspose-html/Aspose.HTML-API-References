@@ -14,7 +14,7 @@ Corresponds to attribute ‘height’ on the given ‘pattern’ element.
 public SVGAnimatedLength Height { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘height’ of the given ‘pattern’ element.
 

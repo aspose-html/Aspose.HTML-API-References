@@ -14,7 +14,7 @@ An attribute specifying, as part of the text declaration, the encoding of this e
 public string XmlEncoding { get; }
 ```
 
-## Property Value
+### Property Value
 
 The XML encoding.
 

@@ -14,7 +14,7 @@ The SVGUnitTypes enumeration defines a commonly used set of constants and is a b
 public enum SVGUnitTypes
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

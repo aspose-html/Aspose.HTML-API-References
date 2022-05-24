@@ -14,7 +14,7 @@ Returns whether this text node contains element content whitespace, often abusiv
 public bool IsElementContentWhitespace { get; }
 ```
 
-## Property Value
+### Property Value
 
 `true` if this instance is element content whitespace; otherwise, `false`.
 

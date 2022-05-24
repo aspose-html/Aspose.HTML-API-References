@@ -14,7 +14,7 @@ Provides access to the current animated contents of the ‘d’ attribute in a f
 public SVGPathSegList AnimatedPathSegList { get; }
 ```
 
-## Property Value
+### Property Value
 
 The animated path segment list.
 

@@ -14,7 +14,7 @@ The relative Y coordinate for the first control point.
 public float Y1 { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The relative Y coordinate
 

@@ -14,7 +14,7 @@ See the white-space property definition in CSS2.
 public string WhiteSpace { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 white-space property
 

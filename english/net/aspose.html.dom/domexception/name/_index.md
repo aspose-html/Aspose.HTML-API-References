@@ -14,7 +14,7 @@ Returns a string that contains one of the strings associated with an error name.
 public string Name { get; }
 ```
 
-## Property Value
+### Property Value
 
 The error name.
 

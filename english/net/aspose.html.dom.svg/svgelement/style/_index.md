@@ -14,7 +14,7 @@ Corresponds to attribute ‘style’ on the given element. If the user agent doe
 public ICSSStyleDeclaration Style { get; }
 ```
 
-## Property Value
+### Property Value
 
 The style.
 

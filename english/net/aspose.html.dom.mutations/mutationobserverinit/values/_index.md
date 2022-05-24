@@ -14,7 +14,7 @@ Gets a collection containing the values in the [`MutationObserverInit`](../../mu
 public ICollection<object> Values { get; }
 ```
 
-## Return Value
+### Return Value
 
 A collection containing the values.
 

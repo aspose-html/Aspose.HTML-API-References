@@ -14,7 +14,7 @@ Corresponds to attribute ‘height’ on the given ‘image’ element.
 public SVGAnimatedLength Height { get; }
 ```
 
-## Property Value
+### Property Value
 
 Corresponds to attribute ‘height’ on the given ‘image’ element.
 

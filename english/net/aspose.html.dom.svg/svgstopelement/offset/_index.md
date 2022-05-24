@@ -14,7 +14,7 @@ Corresponds to attribute ‘offset’ on the given ‘radialGradient’ element.
 public SVGAnimatedNumber Offset { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘offset’ of the given ‘radialGradient’ element.
 

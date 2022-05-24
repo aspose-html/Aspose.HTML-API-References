@@ -14,7 +14,7 @@ Determines whether the [`MutationObserverInit`](../../mutationobserverinit) coll
 public bool IsReadOnly { get; }
 ```
 
-## Return Value
+### Return Value
 
 True if the collection cannot be modified; otherwise, false.
 

@@ -14,7 +14,7 @@ See the outline-style property definition in CSS2.
 public string OutlineStyle { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 outline-style property
 

@@ -14,7 +14,7 @@ Returns the checkedness state for the input element with the radio type.
 public bool GetRadioValue()
 ```
 
-## Return Value
+### Return Value
 
 The checkedness.
 

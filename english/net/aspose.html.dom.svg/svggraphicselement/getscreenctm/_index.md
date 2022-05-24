@@ -14,7 +14,7 @@ Returns the transformation matrix from current user units (i.e., after applicati
 public SVGMatrix GetScreenCTM()
 ```
 
-## Return Value
+### Return Value
 
 An SVGMatrix object that defines the given transformation matrix.
 

@@ -14,7 +14,7 @@ Used to identify a secondary EventTarget related to a UI event, depending on the
 public EventTarget RelatedTarget { get; }
 ```
 
-## Property Value
+### Property Value
 
 The related target.
 

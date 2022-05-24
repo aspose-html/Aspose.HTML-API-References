@@ -20,7 +20,7 @@ public SVGPathSegCurvetoQuadraticSmoothRel CreateSVGPathSegCurvetoQuadraticSmoot
 | x | Single | The relative X coordinate for the end point of this path segment. |
 | y | Single | The relative Y coordinate for the end point of this path segment. |
 
-## Return Value
+### Return Value
 
 A stand-alone, parentless SVGPathSegCurvetoQuadraticSmoothRel object.
 

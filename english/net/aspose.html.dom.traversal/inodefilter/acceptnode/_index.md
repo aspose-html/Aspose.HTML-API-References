@@ -18,7 +18,7 @@ public short AcceptNode(Node n)
 | --- | --- | --- |
 | n | Node | node to check to see if it passes the filter or not. |
 
-## Return Value
+### Return Value
 
 a constant to determine whether the node is accepted, rejected, or skipped, as defined above.
 

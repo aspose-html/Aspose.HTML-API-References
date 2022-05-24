@@ -14,7 +14,7 @@ Corresponds to attribute ‘dx’ on the given ‘feOffset’ element.
 public SVGAnimatedNumber Dx { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘dx’ of the given ‘feOffset’ element.
 

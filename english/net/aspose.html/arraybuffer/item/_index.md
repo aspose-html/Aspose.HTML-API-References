@@ -18,7 +18,7 @@ public byte this[int index] { get; set; }
 | --- | --- |
 | index | The index. |
 
-## Property Value
+### Property Value
 
 The Byte.
 

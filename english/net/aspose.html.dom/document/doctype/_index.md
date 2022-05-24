@@ -14,7 +14,7 @@ The Document Type Declaration associated with this document.
 public DocumentType Doctype { get; }
 ```
 
-## Property Value
+### Property Value
 
 The Document Type.
 

@@ -14,7 +14,7 @@ Get the interpolation colors that defines a multicolor linear gradient.
 public IInterpolationColor[] InterpolationColors { get; }
 ```
 
-## Return Value
+### Return Value
 
 Interpolation colors.
 

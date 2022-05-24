@@ -19,7 +19,7 @@ public static Time operator +(Time a, Time b)
 | a | Time | Parameter a. |
 | b | Time | Parameter b. |
 
-## Return Value
+### Return Value
 
 The result of the operator.
 

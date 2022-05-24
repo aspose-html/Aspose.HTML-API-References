@@ -18,7 +18,7 @@ public static explicit operator byte[](ArrayBuffer value)
 | --- | --- | --- |
 | value | ArrayBuffer | The value. |
 
-## Return Value
+### Return Value
 
 The result of the conversion.
 

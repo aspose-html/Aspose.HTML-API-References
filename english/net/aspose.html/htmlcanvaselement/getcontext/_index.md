@@ -18,7 +18,7 @@ public object GetContext(string contextId)
 | --- | --- | --- |
 | contextId | String | Is a string containing the context identifier defining the drawing context associated to the canvas |
 
-## Return Value
+### Return Value
 
 A RenderingContext
 

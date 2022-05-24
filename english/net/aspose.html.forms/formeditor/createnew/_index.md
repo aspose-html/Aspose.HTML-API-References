@@ -18,7 +18,7 @@ public static FormEditor CreateNew(HTMLDocument document)
 | --- | --- | --- |
 | document | HTMLDocument | The [`HTMLDocument`](../../../aspose.html/htmldocument). |
 
-## Return Value
+### Return Value
 
 Return a new instance of the [`FormEditor`](../../formeditor) class
 

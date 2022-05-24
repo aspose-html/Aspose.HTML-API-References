@@ -14,7 +14,7 @@ The Width coordinate of the rectangle, in user units.
 public float Width { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The Width coordinate of the rectangle, in user units.
 

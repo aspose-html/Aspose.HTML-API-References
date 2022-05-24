@@ -14,7 +14,7 @@ Get color of the brush.
 public Color Color { get; }
 ```
 
-## Return Value
+### Return Value
 
 Color of brush
 

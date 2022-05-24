@@ -14,7 +14,7 @@ The deltaMode attribute contains an indication of the units of measurement for t
 public ulong DeltaMode { get; }
 ```
 
-## Property Value
+### Property Value
 
 The delta mode.
 

@@ -14,7 +14,7 @@ Gets the width of the glyph, in points.
 public float Width { get; }
 ```
 
-## Property Value
+### Property Value
 
 Width in points.
 

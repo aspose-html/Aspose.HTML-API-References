@@ -14,7 +14,7 @@ Corresponds to attribute ‘zoomAndPan’ on the given element. The value must b
 public ushort ZoomAndPan { get; set; }
 ```
 
-## Property Value
+### Property Value
 
 The zoom and pan.
 

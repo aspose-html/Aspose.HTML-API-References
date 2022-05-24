@@ -20,7 +20,7 @@ public DocumentType CreateDocumentType(string qualifiedName, string publicId, st
 | publicId | String | The public id. |
 | systemId | String | The system id. |
 
-## Return Value
+### Return Value
 
 The [`DocumentType`](../../documenttype).
 

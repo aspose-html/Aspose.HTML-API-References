@@ -18,7 +18,7 @@ public bool Contains(KeyValuePair<string, object> item)
 | --- | --- | --- |
 | item | KeyValuePair`2 | The item to check. |
 
-## Return Value
+### Return Value
 
 True if the [`MutationObserverInit`](../../mutationobserverinit) contain the specified key/value pair; otherwise, false.
 

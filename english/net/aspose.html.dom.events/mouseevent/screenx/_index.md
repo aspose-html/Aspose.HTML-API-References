@@ -14,7 +14,7 @@ The horizontal coordinate at which the event occurred relative to the origin of 
 public long ScreenX { get; }
 ```
 
-## Property Value
+### Property Value
 
 The screen x.
 

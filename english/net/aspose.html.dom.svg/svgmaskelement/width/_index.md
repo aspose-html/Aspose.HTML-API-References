@@ -14,7 +14,7 @@ Corresponds to attribute ‘width’ on the given ‘mask’ element. Takes one 
 public SVGAnimatedLength Width { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘width’ of the given ‘mask’ element.
 

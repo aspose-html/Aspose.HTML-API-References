@@ -14,7 +14,7 @@ Corresponds to attribute ‘scale’ on the given ‘feDisplacementMap’ elemen
 public SVGAnimatedNumber Scale { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘scale’ of the given ‘feDisplacementMap’ element.
 

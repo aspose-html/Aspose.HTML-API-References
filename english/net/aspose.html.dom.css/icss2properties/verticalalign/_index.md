@@ -14,7 +14,7 @@ See the vertical-align property definition in CSS2.
 public string VerticalAlign { get; set; }
 ```
 
-## Return Value
+### Return Value
 
 vertical-align property
 

@@ -14,7 +14,7 @@ Corresponds to attribute ‘in2’ on the given ‘feComposite’ element.
 public SVGAnimatedString In2 { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘in2’ on the given ‘feComposite’ element.
 

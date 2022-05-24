@@ -18,7 +18,7 @@ public INodeIterator CreateNodeIterator(Node root)
 | --- | --- | --- |
 | root | Node | node which will be iterated together with its children. The iterator is initially positioned just before this node. The whatToShow flags and the filter, if any, are not considered when setting this position. The root must not be null. |
 
-## Return Value
+### Return Value
 
 The newly created NodeIterator.
 
@@ -51,7 +51,7 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow)
 | root | Node | node which will be iterated together with its children. The iterator is initially positioned just before this node. The whatToShow flags and the filter, if any, are not considered when setting this position. The root must not be null. |
 | whatToShow | Int64 | flag specifies which node types may appear in the logical view of the tree presented by the iterator. See the description of NodeFilter for the set of possible SHOW_ values.These flags can be combined using OR. |
 
-## Return Value
+### Return Value
 
 The newly created NodeIterator.
 
@@ -85,7 +85,7 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter 
 | whatToShow | Int64 | flag specifies which node types may appear in the logical view of the tree presented by the iterator. See the description of NodeFilter for the set of possible SHOW_ values.These flags can be combined using OR. |
 | filter | INodeFilter | NodeFilter to be used with this TreeWalker, or null to indicate no filter. |
 
-## Return Value
+### Return Value
 
 The newly created NodeIterator.
 

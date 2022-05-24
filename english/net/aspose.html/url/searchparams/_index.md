@@ -14,7 +14,7 @@ Gets an associated [`IUrlSearchParams`](../../iurlsearchparams) object.
 public IUrlSearchParams SearchParams { get; }
 ```
 
-## Property Value
+### Property Value
 
 [`IUrlSearchParams`](../../iurlsearchparams) object.
 

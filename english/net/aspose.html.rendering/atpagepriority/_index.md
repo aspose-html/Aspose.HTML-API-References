@@ -14,7 +14,7 @@ Specifies possible orders of applying page size declarations.
 public enum AtPagePriority
 ```
 
-## Values
+### Values
 
 | Name | Value | Description |
 | --- | --- | --- |

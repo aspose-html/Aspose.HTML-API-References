@@ -14,7 +14,7 @@ This attribute is used for the identifier of the counter.
 public string Identifier { get; }
 ```
 
-## Property Value
+### Property Value
 
 The counter identifier.
 

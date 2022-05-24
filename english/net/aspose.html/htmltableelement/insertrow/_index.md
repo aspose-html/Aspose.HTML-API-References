@@ -18,7 +18,7 @@ public Node InsertRow(int index)
 | --- | --- | --- |
 | index | Int32 | The row number where to insert a new row. This index starts from 0 and is relative to the logical order (not document order) of all the rows contained inside the table. |
 
-## Return Value
+### Return Value
 
 The newly created row.
 

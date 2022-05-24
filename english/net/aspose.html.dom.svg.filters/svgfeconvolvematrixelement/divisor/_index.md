@@ -14,7 +14,7 @@ Corresponds to attribute ‘divisor’ on the given ‘feConvolveMatrix’ eleme
 public SVGAnimatedNumber Divisor { get; }
 ```
 
-## Property Value
+### Property Value
 
 The attribute ‘divisor’ of the given ‘feConvolveMatrix’ element.
 
