@@ -1,7 +1,7 @@
 ---
 title: ReadAsString
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Serialize the HTTP content and return a string that represents the content.
 type: docs
 weight: 50
 url: /net/aspose.html.net/content/readasstring/

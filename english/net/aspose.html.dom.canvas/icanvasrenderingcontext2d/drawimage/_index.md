@@ -1,12 +1,12 @@
 ---
 title: DrawImage
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Draws the specified image.
 type: docs
 weight: 210
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/drawimage/
 ---
-## ICanvasRenderingContext2D.DrawImage method (1 of 6)
+## DrawImage(HTMLImageElement, double, double) {#drawimage_3}
 
 Draws the specified image.
 
@@ -29,7 +29,7 @@ public void DrawImage(HTMLImageElement image, double dx, double dy)
 
 ---
 
-## ICanvasRenderingContext2D.DrawImage method (2 of 6)
+## DrawImage(HTMLCanvasElement, double, double) {#drawimage}
 
 Draws the specified image.
 
@@ -52,7 +52,7 @@ public void DrawImage(HTMLCanvasElement image, double dx, double dy)
 
 ---
 
-## ICanvasRenderingContext2D.DrawImage method (3 of 6)
+## DrawImage(HTMLImageElement, double, double, double, double) {#drawimage_4}
 
 Draws the specified image.
 
@@ -77,7 +77,7 @@ public void DrawImage(HTMLImageElement image, double dx, double dy, double dw, d
 
 ---
 
-## ICanvasRenderingContext2D.DrawImage method (4 of 6)
+## DrawImage(HTMLCanvasElement, double, double, double, double) {#drawimage_1}
 
 Draws the specified image.
 
@@ -102,7 +102,7 @@ public void DrawImage(HTMLCanvasElement image, double dx, double dy, double dw, 
 
 ---
 
-## ICanvasRenderingContext2D.DrawImage method (5 of 6)
+## DrawImage(HTMLImageElement, double, double, double, double, double, double, double, double) {#drawimage_5}
 
 Draws the specified image.
 
@@ -132,7 +132,7 @@ public void DrawImage(HTMLImageElement image, double sx, double sy, double sw, d
 
 ---
 
-## ICanvasRenderingContext2D.DrawImage method (6 of 6)
+## DrawImage(HTMLCanvasElement, double, double, double, double, double, double, double, double) {#drawimage_2}
 
 Draws the specified image.
 

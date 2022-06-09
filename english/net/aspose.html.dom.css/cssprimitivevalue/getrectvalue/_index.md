@@ -1,7 +1,7 @@
 ---
 title: GetRectValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This method is used to get the Rect value. If this CSS value doesnt contain a rect value a DOMException is raised. Modification to the corresponding style property can be achieved using the Rect interface.
 type: docs
 weight: 50
 url: /net/aspose.html.dom.css/cssprimitivevalue/getrectvalue/

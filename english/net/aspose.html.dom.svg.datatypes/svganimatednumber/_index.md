@@ -1,7 +1,7 @@
 ---
 title: SVGAnimatedNumber
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Used for attributes of basic type number which can be animated.
 type: docs
 weight: 1240
 url: /net/aspose.html.dom.svg.datatypes/svganimatednumber/

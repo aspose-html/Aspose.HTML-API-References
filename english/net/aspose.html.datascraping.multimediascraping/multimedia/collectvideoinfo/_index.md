@@ -1,7 +1,7 @@
 ---
 title: CollectVideoInfo
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Collects video information from the associated page.
 type: docs
 weight: 30
 url: /net/aspose.html.datascraping.multimediascraping/multimedia/collectvideoinfo/

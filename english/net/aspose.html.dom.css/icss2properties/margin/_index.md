@@ -1,7 +1,7 @@
 ---
 title: Margin
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The marginhttps//www.w3.org/TR/1998/REC-CSS2-19980512/box.htmlpropdef-margin property is a shorthand property for setting margin-tophttps//www.w3.org/TR/1998/REC-CSS2-19980512/box.htmlpropdef-margin-top margin-righthttps//www.w3.org/TR/1998/REC-CSS2-19980512/box.htmlpropdef-margin-right margin-bottomhttps//www.w3.org/TR/1998/REC-CSS2-19980512/box.htmlpropdef-margin-bottom and margin-lefthttps//www.w3.org/TR/1998/REC-CSS2-19980512/box.htmlpropdef-margin-left at the same place in the style sheet.
 type: docs
 weight: 630
 url: /net/aspose.html.dom.css/icss2properties/margin/

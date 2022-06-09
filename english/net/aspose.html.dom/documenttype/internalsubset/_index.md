@@ -1,7 +1,7 @@
 ---
 title: InternalSubset
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The internal subset as a string or null if there is none.
 type: docs
 weight: 20
 url: /net/aspose.html.dom/documenttype/internalsubset/

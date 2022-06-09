@@ -1,7 +1,7 @@
 ---
 title: SpecularExponent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute specularExponent on the given feSpecularLighting element.
 type: docs
 weight: 70
 url: /net/aspose.html.dom.svg.filters/svgfespecularlightingelement/specularexponent/

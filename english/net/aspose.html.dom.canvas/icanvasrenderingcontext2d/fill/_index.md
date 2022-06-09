@@ -1,12 +1,12 @@
 ---
 title: Fill
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Fills the subpaths with the current fill style and default algorithm CanvasFillRule.Nonzero.
 type: docs
 weight: 220
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/fill/
 ---
-## ICanvasRenderingContext2D.Fill method (1 of 4)
+## Fill() {#fill}
 
 Fills the subpaths with the current fill style and default algorithm CanvasFillRule.Nonzero.
 
@@ -22,7 +22,7 @@ public void Fill()
 
 ---
 
-## ICanvasRenderingContext2D.Fill method (2 of 4)
+## Fill(CanvasFillRule) {#fill_1}
 
 Fills the subpaths with the current fill style.
 
@@ -43,7 +43,7 @@ public void Fill(CanvasFillRule fillRule)
 
 ---
 
-## ICanvasRenderingContext2D.Fill method (3 of 4)
+## Fill(Path2D) {#fill_2}
 
 Fills the subpaths with the current fill style and default algorithm CanvasFillRule.Nonzero.
 
@@ -64,7 +64,7 @@ public void Fill(Path2D path)
 
 ---
 
-## ICanvasRenderingContext2D.Fill method (4 of 4)
+## Fill(Path2D, CanvasFillRule) {#fill_3}
 
 Fills the subpaths with the current fill style.
 

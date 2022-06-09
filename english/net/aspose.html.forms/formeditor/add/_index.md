@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates a new HTMLElementaspose.html/htmlelement and adds it to the end of the form.
 type: docs
 weight: 80
 url: /net/aspose.html.forms/formeditor/add/

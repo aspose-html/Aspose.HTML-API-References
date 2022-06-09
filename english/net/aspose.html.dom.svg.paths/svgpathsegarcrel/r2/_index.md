@@ -1,7 +1,7 @@
 ---
 title: R2
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The y-axis radius for the ellipse i.e. r2.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.paths/svgpathsegarcrel/r2/

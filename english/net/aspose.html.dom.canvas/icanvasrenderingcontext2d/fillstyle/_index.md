@@ -1,7 +1,7 @@
 ---
 title: FillStyle
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Color or style to use inside shapes. Default black.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/fillstyle/

@@ -1,7 +1,7 @@
 ---
 title: ReferenceNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The current reference node.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.traversal/inodeiterator/referencenode/

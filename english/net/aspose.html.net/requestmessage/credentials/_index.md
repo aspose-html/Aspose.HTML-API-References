@@ -1,7 +1,7 @@
 ---
 title: Credentials
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets authentication information for the request.
 type: docs
 weight: 40
 url: /net/aspose.html.net/requestmessage/credentials/

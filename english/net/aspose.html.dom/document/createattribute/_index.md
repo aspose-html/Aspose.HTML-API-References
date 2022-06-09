@@ -1,7 +1,7 @@
 ---
 title: CreateAttribute
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The Document.createAttribute method creates a new attribute node and returns it. The object created a node implementing the Attraspose.html.dom/attr interface. The DOM does not enforce what sort of attributes can be added to a particular element in this manner.
 type: docs
 weight: 790
 url: /net/aspose.html.dom/document/createattribute/

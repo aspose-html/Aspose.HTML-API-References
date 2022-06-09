@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The relative Y coordinate for the end point of this path segment.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetocubicrel/y/

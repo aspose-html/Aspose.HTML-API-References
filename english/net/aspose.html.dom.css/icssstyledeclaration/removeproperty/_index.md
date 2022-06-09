@@ -1,7 +1,7 @@
 ---
 title: RemoveProperty
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The CSSStyleDeclaration.removeProperty method interface removes a property from a CSS style declaration object.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.css/icssstyledeclaration/removeproperty/

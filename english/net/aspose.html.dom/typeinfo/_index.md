@@ -1,7 +1,7 @@
 ---
 title: TypeInfo
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The TypeInfo represents a type referenced from Element or Attr nodes specified in the schemas associated with the document.
 type: docs
 weight: 2640
 url: /net/aspose.html.dom/typeinfo/
@@ -28,14 +28,14 @@ public class TypeInfo : DOMObject
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 | [IsDerivedFrom](../../aspose.html.dom/typeinfo/isderivedfrom)(string, string, ulong) | This method returns if there is a derivation between the reference type definition, i.e. the TypeInfo on which the method is being called, and the other type definition, i.e. the one passed as parameters. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [DERIVATION_EXTENSION](derivation_extension) | If the document's schema is an XML Schema [XML Schema Part 1], this constant represents the derivation by extension. |
-| const [DERIVATION_LIST](derivation_list) | If the document's schema is an XML Schema [XML Schema Part 1], this constant represents the list. |
-| const [DERIVATION_RESTRICTION](derivation_restriction) | If the document's schema is an XML Schema [XML Schema Part 1], this constant represents the derivation by restriction if complex types are involved, or a restriction if simple types are involved. |
-| const [DERIVATION_UNION](derivation_union) | If the document's schema is an XML Schema [XML Schema Part 1], this constant represents the union if simple types are involved. |
+| const [DERIVATION_EXTENSION](../../aspose.html.dom/typeinfo/derivation_extension) | If the document's schema is an XML Schema [XML Schema Part 1], this constant represents the derivation by extension. |
+| const [DERIVATION_LIST](../../aspose.html.dom/typeinfo/derivation_list) | If the document's schema is an XML Schema [XML Schema Part 1], this constant represents the list. |
+| const [DERIVATION_RESTRICTION](../../aspose.html.dom/typeinfo/derivation_restriction) | If the document's schema is an XML Schema [XML Schema Part 1], this constant represents the derivation by restriction if complex types are involved, or a restriction if simple types are involved. |
+| const [DERIVATION_UNION](../../aspose.html.dom/typeinfo/derivation_union) | If the document's schema is an XML Schema [XML Schema Part 1], this constant represents the union if simple types are involved. |
 
 ### See Also
 

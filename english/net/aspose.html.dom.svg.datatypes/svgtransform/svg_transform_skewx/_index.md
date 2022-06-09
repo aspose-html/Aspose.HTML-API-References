@@ -1,7 +1,7 @@
 ---
 title: SVG_TRANSFORM_SKEWX
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: A skewX transformation.
 type: docs
 weight: 140
 url: /net/aspose.html.dom.svg.datatypes/svgtransform/svg_transform_skewx/

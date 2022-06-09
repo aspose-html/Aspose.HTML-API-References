@@ -1,7 +1,7 @@
 ---
 title: AppendRule
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The appendRule method appends the passed CSSKeyframeRuleaspose.html.dom.css/icsskeyframerule at the end of the keyframes rule collection.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/icsskeyframesrule/appendrule/

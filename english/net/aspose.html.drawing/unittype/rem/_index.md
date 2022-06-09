@@ -1,7 +1,7 @@
 ---
 title: Rem
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Measurement is relative to font-size of the root element.
 type: docs
 weight: 240
 url: /net/aspose.html.drawing/unittype/rem/

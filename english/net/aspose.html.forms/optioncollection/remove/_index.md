@@ -1,7 +1,7 @@
 ---
 title: Remove
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Remove the option from list.
 type: docs
 weight: 50
 url: /net/aspose.html.forms/optioncollection/remove/

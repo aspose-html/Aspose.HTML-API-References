@@ -1,7 +1,7 @@
 ---
 title: D
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The D component of the matrix.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.datatypes/svgmatrix/d/

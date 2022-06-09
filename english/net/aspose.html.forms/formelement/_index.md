@@ -1,7 +1,7 @@
 ---
 title: FormElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents base class for form elements.
 type: docs
 weight: 3020
 url: /net/aspose.html.forms/formelement/

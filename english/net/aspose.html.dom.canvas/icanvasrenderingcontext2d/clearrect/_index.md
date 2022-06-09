@@ -1,7 +1,7 @@
 ---
 title: ClearRect
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sets all pixels in the rectangle defined by starting point x y and size width height to transparent black erasing any previously drawn content.
 type: docs
 weight: 140
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/clearrect/

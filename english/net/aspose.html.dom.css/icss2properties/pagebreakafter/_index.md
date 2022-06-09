@@ -1,7 +1,7 @@
 ---
 title: PageBreakAfter
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Values for these properties have the following meanings
 type: docs
 weight: 860
 url: /net/aspose.html.dom.css/icss2properties/pagebreakafter/

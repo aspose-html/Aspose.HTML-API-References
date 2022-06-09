@@ -1,7 +1,7 @@
 ---
 title: IBrush
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Declares method for getting of brush type.
 type: docs
 weight: 2770
 url: /net/aspose.html.drawing/ibrush/

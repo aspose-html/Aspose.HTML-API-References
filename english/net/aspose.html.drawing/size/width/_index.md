@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the horizontal component of this Sizeaspose.html.drawing/size.
 type: docs
 weight: 30
 url: /net/aspose.html.drawing/size/width/

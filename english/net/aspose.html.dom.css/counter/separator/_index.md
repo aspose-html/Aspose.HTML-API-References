@@ -1,7 +1,7 @@
 ---
 title: Separator
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This attribute is used for the separator of the nested counters.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/counter/separator/

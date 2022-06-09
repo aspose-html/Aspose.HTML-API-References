@@ -1,7 +1,7 @@
 ---
 title: Replace
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Replaces an existing token with a new token. Does nothing if the first token doesnt exist.
 type: docs
 weight: 80
 url: /net/aspose.html.collections/domtokenlist/replace/

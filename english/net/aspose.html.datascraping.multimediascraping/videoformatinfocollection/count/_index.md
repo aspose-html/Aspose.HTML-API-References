@@ -1,7 +1,7 @@
 ---
 title: Count
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the number of items contained in the VideoFormatInfoCollectionaspose.html.datascraping.multimediascraping/videoformatinfocollection collection.
 type: docs
 weight: 10
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfocollection/count/

@@ -1,12 +1,12 @@
 ---
 title: IsPointInStroke
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Reports whether or not the specified point is inside the area contained by the stroking of a path.
 type: docs
 weight: 270
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/ispointinstroke/
 ---
-## ICanvasRenderingContext2D.IsPointInStroke method (1 of 2)
+## IsPointInStroke(double, double) {#ispointinstroke_1}
 
 Reports whether or not the specified point is inside the area contained by the stroking of a path.
 
@@ -31,7 +31,7 @@ Returns true if the point is inside the area contained by the stroking of a path
 
 ---
 
-## ICanvasRenderingContext2D.IsPointInStroke method (2 of 2)
+## IsPointInStroke(Path2D, double, double) {#ispointinstroke}
 
 Reports whether or not the specified point is inside the area contained by the stroking of a path.
 

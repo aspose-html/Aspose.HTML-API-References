@@ -1,7 +1,7 @@
 ---
 title: Form
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the
 type: docs
 weight: 10
 url: /net/aspose.html/htmlisindexelement/form/

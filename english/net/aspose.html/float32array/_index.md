@@ -1,7 +1,7 @@
 ---
 title: Float32Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an array of 32-bit floating point numbers corresponding to the C float data type in the platform byte order.
 type: docs
 weight: 2950
 url: /net/aspose.html/float32array/
@@ -18,11 +18,11 @@ public class Float32Array : TypedArray<float>
 
 | Name | Description |
 | --- | --- |
-| [Float32Array](float32array)(ArrayBuffer) | Initializes a new instance of the [`Float32Array`](../float32array) class. |
-| [Float32Array](float32array)(float[]) | Initializes a new instance of the [`Float32Array`](../float32array) class. |
-| [Float32Array](float32array)(int) | Initializes a new instance of the [`Float32Array`](../float32array) class. |
-| [Float32Array](float32array)(ArrayBuffer, int) | Initializes a new instance of the [`Float32Array`](../float32array) class. |
-| [Float32Array](float32array)(ArrayBuffer, int, int) | Initializes a new instance of the [`Float32Array`](../float32array) class. |
+| [Float32Array](float32array#constructor)(ArrayBuffer) | Initializes a new instance of the [`Float32Array`](../float32array) class. |
+| [Float32Array](float32array#constructor_4)(float[]) | Initializes a new instance of the [`Float32Array`](../float32array) class. |
+| [Float32Array](float32array#constructor_3)(int) | Initializes a new instance of the [`Float32Array`](../float32array) class. |
+| [Float32Array](float32array#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the [`Float32Array`](../float32array) class. |
+| [Float32Array](float32array#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the [`Float32Array`](../float32array) class. |
 
 ## Properties
 
@@ -40,11 +40,11 @@ public class Float32Array : TypedArray<float>
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [BYTES_PER_ELEMENT](bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
+| static readonly [BYTES_PER_ELEMENT](../../aspose.html/float32array/bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: Text
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets a TextOptionsaspose.html.rendering.image/textoptions object which is used for configuration of text rendering.
 type: docs
 weight: 60
 url: /net/aspose.html.rendering.image/imagerenderingoptions/text/

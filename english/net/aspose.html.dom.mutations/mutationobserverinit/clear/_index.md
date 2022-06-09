@@ -1,7 +1,7 @@
 ---
 title: Clear
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Removes all the elements from the MutationObserverInitaspose.html.dom.mutations/mutationobserverinit collection.
 type: docs
 weight: 150
 url: /net/aspose.html.dom.mutations/mutationobserverinit/clear/

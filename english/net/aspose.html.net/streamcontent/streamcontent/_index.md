@@ -1,7 +1,7 @@
 ---
 title: StreamContent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the StreamContentaspose.html.net/streamcontent class.
 type: docs
 weight: 10
 url: /net/aspose.html.net/streamcontent/streamcontent/

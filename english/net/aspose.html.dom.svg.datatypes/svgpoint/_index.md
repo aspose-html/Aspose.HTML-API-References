@@ -1,7 +1,7 @@
 ---
 title: SVGPoint
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Many of the SVG DOM interfaces refer to objects of class SVGPoint. An SVGPoint is an x y coordinate pair. When used in matrix operations an SVGPoint is treated as a vector of the form x y 1 If an SVGRect object is designated as read only then attempting to assign to one of its attributes will result in an exception being thrown.
 type: docs
 weight: 1360
 url: /net/aspose.html.dom.svg.datatypes/svgpoint/

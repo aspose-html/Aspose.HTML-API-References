@@ -1,7 +1,7 @@
 ---
 title: Unit
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Provides the base class for units of measurement.
 type: docs
 weight: 2930
 url: /net/aspose.html.drawing/unit/
@@ -24,8 +24,8 @@ public abstract class Unit : IEquatable<Unit>
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.html.drawing/unit/equals)(object) | Determines whether the specified Object, is equal to this instance. |
-| virtual [Equals](../../aspose.html.drawing/unit/equals)(Unit) | Determines whether the specified [`Unit`](../unit), is equal to this instance. |
+| override [Equals](../../aspose.html.drawing/unit/equals#equals_1)(object) | Determines whether the specified Object, is equal to this instance. |
+| virtual [Equals](../../aspose.html.drawing/unit/equals#equals)(Unit) | Determines whether the specified [`Unit`](../unit), is equal to this instance. |
 | override [GetHashCode](../../aspose.html.drawing/unit/gethashcode)() | Returns a hash code for this instance. |
 | override [ToString](../../aspose.html.drawing/unit/tostring)() | Returns a String that represents this instance. |
 | static [FromCentimeters](../../aspose.html.drawing/unit/fromcentimeters)(double) | Returns a [`Length`](../length) object that is represented in centimeters. |

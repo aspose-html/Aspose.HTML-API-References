@@ -1,7 +1,7 @@
 ---
 title: SpeakNumeral
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This property controls how numerals are spoken. Values have the following meanings
 type: docs
 weight: 1020
 url: /net/aspose.html.dom.css/icss2properties/speaknumeral/

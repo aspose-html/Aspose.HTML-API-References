@@ -1,7 +1,7 @@
 ---
 title: GetMultimedia
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates a Multimediaaspose.html.datascraping.multimediascraping/multimedia object which can collect information from the specified page URL.
 type: docs
 weight: 30
 url: /net/aspose.html.datascraping.multimediascraping/multimediascraper/getmultimedia/

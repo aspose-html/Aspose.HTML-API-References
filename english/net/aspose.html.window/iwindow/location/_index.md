@@ -1,7 +1,7 @@
 ---
 title: Location
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The location attribute of the Window interface must return the Location object for that Window objects Document.
 type: docs
 weight: 30
 url: /net/aspose.html.window/iwindow/location/

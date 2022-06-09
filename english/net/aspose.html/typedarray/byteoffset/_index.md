@@ -1,7 +1,7 @@
 ---
 title: ByteOffset
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the byteOffset from the start of referenced ArrayBuffer.
 type: docs
 weight: 30
 url: /net/aspose.html/typedarray/byteoffset/

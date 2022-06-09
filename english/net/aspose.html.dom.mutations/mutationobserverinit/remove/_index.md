@@ -6,7 +6,7 @@ type: docs
 weight: 200
 url: /net/aspose.html.dom.mutations/mutationobserverinit/remove/
 ---
-## MutationObserverInit.Remove method (1 of 2)
+## Remove(KeyValuePair&lt;string, object&gt;) {#remove}
 
 ```csharp
 public bool Remove(KeyValuePair<string, object> item)
@@ -20,7 +20,7 @@ public bool Remove(KeyValuePair<string, object> item)
 
 ---
 
-## MutationObserverInit.Remove method (2 of 2)
+## Remove(string) {#remove_1}
 
 Removes the value associated with the specified key from the [`MutationObserverInit`](../../mutationobserverinit) collection.
 

@@ -1,7 +1,7 @@
 ---
 title: InsertRule
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The CSSStyleSheet.insertRule method inserts a new CSS rule into the current style sheet with some restrictions.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.css/icssstylesheet/insertrule/

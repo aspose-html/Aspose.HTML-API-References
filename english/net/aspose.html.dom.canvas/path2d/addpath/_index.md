@@ -1,12 +1,12 @@
 ---
 title: AddPath
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Adds to the path the path given by the argument.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.canvas/path2d/addpath/
 ---
-## Path2D.AddPath method (1 of 2)
+## AddPath(Path2D) {#addpath}
 
 Adds to the path the path given by the argument.
 
@@ -26,7 +26,7 @@ public void AddPath(Path2D path)
 
 ---
 
-## Path2D.AddPath method (2 of 2)
+## AddPath(Path2D, SVGMatrix) {#addpath_1}
 
 Adds to the path the path given by the argument.
 

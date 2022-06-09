@@ -1,7 +1,7 @@
 ---
 title: PATHSEG_ARC_ABS
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to a absolute arcto A path data command.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.paths/svgpathseg/pathseg_arc_abs/

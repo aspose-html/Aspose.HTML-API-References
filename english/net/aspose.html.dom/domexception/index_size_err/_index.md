@@ -1,7 +1,7 @@
 ---
 title: INDEX_SIZE_ERR
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: If index or size is negative or greater than the allowed value.
 type: docs
 weight: 90
 url: /net/aspose.html.dom/domexception/index_size_err/

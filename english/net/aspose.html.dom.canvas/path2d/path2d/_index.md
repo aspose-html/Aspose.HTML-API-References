@@ -1,12 +1,12 @@
 ---
 title: Path2D
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: returns a newly instantiated Path2D object
 type: docs
 weight: 10
 url: /net/aspose.html.dom.canvas/path2d/path2d/
 ---
-## Path2D constructor (1 of 3)
+## Path2D() {#constructor}
 
 returns a newly instantiated Path2D object
 
@@ -22,7 +22,7 @@ public Path2D()
 
 ---
 
-## Path2D constructor (2 of 3)
+## Path2D(Path2D) {#constructor_1}
 
 returns a newly instantiated Path2D object with another path as an argument (creates a copy)
 
@@ -42,7 +42,7 @@ public Path2D(Path2D path)
 
 ---
 
-## Path2D constructor (3 of 3)
+## Path2D(string) {#constructor_2}
 
 returns a newly instantiated Path2D object with a string consisting of SVG path data.
 

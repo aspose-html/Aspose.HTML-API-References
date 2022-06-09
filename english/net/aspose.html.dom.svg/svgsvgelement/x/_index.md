@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute x on the given svg element.
 type: docs
 weight: 70
 url: /net/aspose.html.dom.svg/svgsvgelement/x/

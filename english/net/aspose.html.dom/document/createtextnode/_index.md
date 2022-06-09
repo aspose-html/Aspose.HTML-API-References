@@ -1,7 +1,7 @@
 ---
 title: CreateTextNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates a Text node given the specified string.
 type: docs
 weight: 930
 url: /net/aspose.html.dom/document/createtextnode/

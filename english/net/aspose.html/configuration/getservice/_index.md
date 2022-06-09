@@ -1,7 +1,7 @@
 ---
 title: GetService
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the requested service.
 type: docs
 weight: 50
 url: /net/aspose.html/configuration/getservice/

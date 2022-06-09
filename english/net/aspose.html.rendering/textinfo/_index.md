@@ -1,7 +1,7 @@
 ---
 title: TextInfo
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Contains information about rendered text.
 type: docs
 weight: 4590
 url: /net/aspose.html.rendering/textinfo/

@@ -1,7 +1,7 @@
 ---
 title: GetWeekValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This method is used to get the value as a week string. This method is valid if only only type of the input element is week
 type: docs
 weight: 180
 url: /net/aspose.html.forms/inputelement/getweekvalue/

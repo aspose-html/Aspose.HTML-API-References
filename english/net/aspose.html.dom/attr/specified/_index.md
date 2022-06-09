@@ -1,7 +1,7 @@
 ---
 title: Specified
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: True if this attribute was explicitly given a value in the instance document false otherwise.
 type: docs
 weight: 110
 url: /net/aspose.html.dom/attr/specified/

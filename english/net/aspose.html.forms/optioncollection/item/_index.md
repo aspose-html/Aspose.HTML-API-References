@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the OptionElementaspose.html.forms/optionelement at the specified index.
 type: docs
 weight: 20
 url: /net/aspose.html.forms/optioncollection/item/

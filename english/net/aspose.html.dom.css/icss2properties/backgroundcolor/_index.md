@@ -1,7 +1,7 @@
 ---
 title: BackgroundColor
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This property sets the background color of an element either a value or the keyword transparent to make the underlying colors shine through.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.css/icss2properties/backgroundcolor/

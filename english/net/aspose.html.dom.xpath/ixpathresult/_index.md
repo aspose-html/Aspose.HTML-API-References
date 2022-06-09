@@ -1,7 +1,7 @@
 ---
 title: IXPathResult
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The XPathResult interface represents the result of the evaluation of an XPath 1.0 expression within the context of a particular node. Since evaluation of an XPath expression can result in various result types this object makes it possible to discover and manipulate the type and value of the result.
 type: docs
 weight: 2710
 url: /net/aspose.html.dom.xpath/ixpathresult/

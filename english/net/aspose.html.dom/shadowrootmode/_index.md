@@ -1,7 +1,7 @@
 ---
 title: ShadowRootMode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Modes in which ShadowRoot can operate.
 type: docs
 weight: 1150
 url: /net/aspose.html.dom/shadowrootmode/

@@ -1,7 +1,7 @@
 ---
 title: Remove
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Removes the specified tokens from the list.
 type: docs
 weight: 70
 url: /net/aspose.html.collections/domtokenlist/remove/

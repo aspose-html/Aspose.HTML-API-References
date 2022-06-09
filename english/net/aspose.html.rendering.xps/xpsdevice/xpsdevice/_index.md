@@ -1,12 +1,12 @@
 ---
 title: XpsDevice
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the XpsDeviceaspose.html.rendering.xps/xpsdevice class.
 type: docs
 weight: 10
 url: /net/aspose.html.rendering.xps/xpsdevice/xpsdevice/
 ---
-## XpsDevice constructor (1 of 6)
+## XpsDevice(ICreateStreamProvider) {#constructor}
 
 Initializes a new instance of the [`XpsDevice`](../../xpsdevice) class.
 
@@ -27,7 +27,7 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 ---
 
-## XpsDevice constructor (2 of 6)
+## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
 Initializes a new instance of the [`XpsDevice`](../../xpsdevice) class by rendering options and stream provider.
 
@@ -50,7 +50,7 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 
 ---
 
-## XpsDevice constructor (3 of 6)
+## XpsDevice(string) {#constructor_5}
 
 Initializes a new instance of the [`XpsDevice`](../../xpsdevice) class.
 
@@ -70,7 +70,7 @@ public XpsDevice(string file)
 
 ---
 
-## XpsDevice constructor (4 of 6)
+## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
 
 Initializes a new instance of the [`XpsDevice`](../../xpsdevice) class by rendering options and output file name.
 
@@ -92,7 +92,7 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 ---
 
-## XpsDevice constructor (5 of 6)
+## XpsDevice(Stream) {#constructor_4}
 
 Initializes a new instance of the [`XpsDevice`](../../xpsdevice) class.
 
@@ -112,7 +112,7 @@ public XpsDevice(Stream stream)
 
 ---
 
-## XpsDevice constructor (6 of 6)
+## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
 
 Initializes a new instance of the [`XpsDevice`](../../xpsdevice) class by rendering options and output stream.
 

@@ -1,7 +1,7 @@
 ---
 title: CSS_DPI
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value is a dots per inch dpi.
 type: docs
 weight: 180
 url: /net/aspose.html.dom.css/cssprimitivevalue/css_dpi/

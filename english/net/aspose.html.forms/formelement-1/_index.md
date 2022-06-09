@@ -1,7 +1,7 @@
 ---
 title: FormElementT
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The FormElement./formelement represent the generic field
 type: docs
 weight: 3040
 url: /net/aspose.html.forms/formelement-1/

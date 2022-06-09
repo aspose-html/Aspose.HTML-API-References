@@ -1,7 +1,7 @@
 ---
 title: Size
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Number of visible rows. See the size attribute definition in HTML 4.01.
 type: docs
 weight: 80
 url: /net/aspose.html/htmlselectelement/size/

@@ -1,7 +1,7 @@
 ---
 title: DefaultValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents the contents of the element. The value of this attribute does not change if the contents of the corresponding form control in an interactive user agent changes. version DOM Level 2
 type: docs
 weight: 30
 url: /net/aspose.html/htmltextareaelement/defaultvalue/

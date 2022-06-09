@@ -1,7 +1,7 @@
 ---
 title: Document
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This property represents the owner document.
 type: docs
 weight: 10
 url: /net/aspose.html.dom/ielementinit/document/

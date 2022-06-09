@@ -1,7 +1,7 @@
 ---
 title: Entity
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents a known entity either parsed or unparsed in an XML document.
 type: docs
 weight: 810
 url: /net/aspose.html.dom/entity/

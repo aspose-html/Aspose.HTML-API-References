@@ -1,7 +1,7 @@
 ---
 title: Href
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets a serialized representation for the specified URL instance.
 type: docs
 weight: 50
 url: /net/aspose.html/url/href/

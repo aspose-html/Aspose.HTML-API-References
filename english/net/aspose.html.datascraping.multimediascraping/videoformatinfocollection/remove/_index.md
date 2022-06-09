@@ -1,7 +1,7 @@
 ---
 title: Remove
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Removes the specified item from the VideoFormatInfoCollectionaspose.html.datascraping.multimediascraping/videoformatinfocollection collection.
 type: docs
 weight: 80
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfocollection/remove/

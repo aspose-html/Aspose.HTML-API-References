@@ -1,7 +1,7 @@
 ---
 title: SVGException
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This exception is raised when a specific SVG operation is impossible to perform.
 type: docs
 weight: 2160
 url: /net/aspose.html.dom.svg/svgexception/
@@ -25,6 +25,14 @@ public class SVGException : PlatformException
 | Name | Description |
 | --- | --- |
 | [Code](../../aspose.html.dom.svg/svgexception/code) { get; } | A code identifying the reason why the requested operation could not be performed. The value of this member will be one of the constants in the SVGException code group. |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [SVG_INVALID_VALUE_ERR](../../aspose.html.dom.svg/svgexception/svg_invalid_value_err) | Raised when an invalid value is passed to an operation or assigned to an attribute. |
+| const [SVG_MATRIX_NOT_INVERTABLE](../../aspose.html.dom.svg/svgexception/svg_matrix_not_invertable) | Raised when an attempt is made to invert a matrix that is not invertible. |
+| const [SVG_WRONG_TYPE_ERR](../../aspose.html.dom.svg/svgexception/svg_wrong_type_err) | Raised when an object of the wrong type is passed to an operation. |
 
 ### See Also
 

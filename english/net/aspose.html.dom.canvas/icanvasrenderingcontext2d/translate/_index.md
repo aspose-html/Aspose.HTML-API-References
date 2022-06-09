@@ -1,7 +1,7 @@
 ---
 title: Translate
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Adds a translation transformation by moving the canvas and its origin x horzontally and y vertically on the grid.
 type: docs
 weight: 410
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/translate/

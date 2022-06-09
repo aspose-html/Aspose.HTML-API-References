@@ -1,7 +1,7 @@
 ---
 title: BeginElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Begins rendering of the element.
 type: docs
 weight: 40
 url: /net/aspose.html.rendering.pdf/pdfdevice/beginelement/

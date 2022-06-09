@@ -1,7 +1,7 @@
 ---
 title: Font
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Font setting. Default value 10px sans-serif
 type: docs
 weight: 10
 url: /net/aspose.html.dom.canvas/icanvasdrawingstyles/font/

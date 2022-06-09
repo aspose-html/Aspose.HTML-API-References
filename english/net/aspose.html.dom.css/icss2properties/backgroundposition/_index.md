@@ -1,7 +1,7 @@
 ---
 title: BackgroundPosition
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: If a background image has been specified this property specifies its initial position. Values have the following meanings
 type: docs
 weight: 60
 url: /net/aspose.html.dom.css/icss2properties/backgroundposition/

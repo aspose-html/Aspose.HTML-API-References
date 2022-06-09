@@ -1,7 +1,7 @@
 ---
 title: InputEvent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Input events are sent as notifications whenever the DOM is being updated.
 type: docs
 weight: 930
 url: /net/aspose.html.dom.events/inputevent/
@@ -18,8 +18,8 @@ public class InputEvent : UIEvent
 
 | Name | Description |
 | --- | --- |
-| [InputEvent](inputevent)(string) | Initializes a new instance of the [`InputEvent`](../inputevent) class. |
-| [InputEvent](inputevent)(string, IDictionary&lt;string, object&gt;) |  |
+| [InputEvent](inputevent#constructor)(string) | Initializes a new instance of the [`InputEvent`](../inputevent) class. |
+| [InputEvent](inputevent#constructor_1)(string, IDictionary&lt;string, object&gt;) |  |
 
 ## Properties
 

@@ -1,7 +1,7 @@
 ---
 title: SetSkewY
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sets the transform type to SVG_TRANSFORM_SKEWY with parameter angle defining the amount of skew.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg.datatypes/svgtransform/setskewy/

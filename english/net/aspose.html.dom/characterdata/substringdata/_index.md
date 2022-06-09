@@ -1,7 +1,7 @@
 ---
 title: SubstringData
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Extracts a range of data from the node.
 type: docs
 weight: 70
 url: /net/aspose.html.dom/characterdata/substringdata/

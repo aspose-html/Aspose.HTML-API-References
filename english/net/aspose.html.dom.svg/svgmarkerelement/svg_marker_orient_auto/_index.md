@@ -1,7 +1,7 @@
 ---
 title: SVG_MARKER_ORIENT_AUTO
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Attribute orient has value auto.
 type: docs
 weight: 160
 url: /net/aspose.html.dom.svg/svgmarkerelement/svg_marker_orient_auto/

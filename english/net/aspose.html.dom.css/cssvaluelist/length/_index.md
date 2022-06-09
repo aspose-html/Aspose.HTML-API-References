@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The length read-only property of the CSSValueList interface represents the number of CSSValues in the list. The range of valid values of the indices is 0 to length-1 inclusive.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.css/cssvaluelist/length/

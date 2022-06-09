@@ -1,7 +1,7 @@
 ---
 title: Dispose
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Disposes object.
 type: docs
 weight: 70
 url: /net/aspose.html.dom.canvas/path2d/dispose/

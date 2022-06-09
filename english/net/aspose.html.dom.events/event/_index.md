@@ -1,7 +1,7 @@
 ---
 title: Event
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The is used to provide contextual information about an event to the handler processing the event.
 type: docs
 weight: 880
 url: /net/aspose.html.dom.events/event/
@@ -18,8 +18,8 @@ public class Event : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Event](event)(string) | Initializes a new instance of the [`Event`](../event) class. |
-| [Event](event)(string, IDictionary&lt;string, object&gt;) |  |
+| [Event](event#constructor)(string) | Initializes a new instance of the [`Event`](../event) class. |
+| [Event](event#constructor_1)(string, IDictionary&lt;string, object&gt;) |  |
 
 ## Properties
 
@@ -45,14 +45,14 @@ public class Event : DOMObject
 | [StopImmediatePropagation](../../aspose.html.dom.events/event/stopimmediatepropagation)() | Invoking this method prevents event from reaching any event listeners registered after the current one and when dispatched in a tree also prevents event from reaching any other objects. |
 | [StopPropagation](../../aspose.html.dom.events/event/stoppropagation)() | The [`StopPropagation`](./stoppropagation) method is used prevent further propagation of an event during event flow. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [AtTargetPhase](attargetphase) | The current event phase is the capturing phase. |
-| const [BubblingPhase](bubblingphase) | The current event phase is the bubbling phase. |
-| const [CapturingPhase](capturingphase) | The event is currently being evaluated at the target [`IEventTarget`](../ieventtarget). |
-| const [NonePhase](nonephase) | Events not currently dispatched are in this phase. |
+| const [AtTargetPhase](../../aspose.html.dom.events/event/attargetphase) | The current event phase is the capturing phase. |
+| const [BubblingPhase](../../aspose.html.dom.events/event/bubblingphase) | The current event phase is the bubbling phase. |
+| const [CapturingPhase](../../aspose.html.dom.events/event/capturingphase) | The event is currently being evaluated at the target [`IEventTarget`](../ieventtarget). |
+| const [NonePhase](../../aspose.html.dom.events/event/nonephase) | Events not currently dispatched are in this phase. |
 
 ### Remarks
 

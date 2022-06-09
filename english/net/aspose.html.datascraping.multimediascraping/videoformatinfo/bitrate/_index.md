@@ -1,7 +1,7 @@
 ---
 title: Bitrate
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Average bitrate of audio and video in KBit/s or null if unknown.
 type: docs
 weight: 30
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfo/bitrate/

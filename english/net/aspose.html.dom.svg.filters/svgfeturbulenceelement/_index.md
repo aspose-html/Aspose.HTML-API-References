@@ -1,7 +1,7 @@
 ---
 title: SVGFETurbulenceElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGFETurbulenceElement interface corresponds to the feTurbulence element.
 type: docs
 weight: 1710
 url: /net/aspose.html.dom.svg.filters/svgfeturbulenceelement/
@@ -117,16 +117,16 @@ public class SVGFETurbulenceElement : SVGElement, ISVGFilterPrimitiveStandardAtt
 | [SetIdAttributeNS](../../aspose.html.dom/element/setidattributens)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | override [ToString](../../aspose.html.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [SVG_STITCHTYPE_NOSTITCH](svg_stitchtype_nostitch) | Corresponds to value 'noStitch'. |
-| const [SVG_STITCHTYPE_STITCH](svg_stitchtype_stitch) | Corresponds to value 'stitch'. |
-| const [SVG_STITCHTYPE_UNKNOWN](svg_stitchtype_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
-| const [SVG_TURBULENCE_TYPE_FRACTALNOISE](svg_turbulence_type_fractalnoise) | Corresponds to value 'fractalNoise'. |
-| const [SVG_TURBULENCE_TYPE_TURBULENCE](svg_turbulence_type_turbulence) | Corresponds to value 'turbulence'. |
-| const [SVG_TURBULENCE_TYPE_UNKNOWN](svg_turbulence_type_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_STITCHTYPE_NOSTITCH](../../aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_stitchtype_nostitch) | Corresponds to value 'noStitch'. |
+| const [SVG_STITCHTYPE_STITCH](../../aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_stitchtype_stitch) | Corresponds to value 'stitch'. |
+| const [SVG_STITCHTYPE_UNKNOWN](../../aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_stitchtype_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_TURBULENCE_TYPE_FRACTALNOISE](../../aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_turbulence_type_fractalnoise) | Corresponds to value 'fractalNoise'. |
+| const [SVG_TURBULENCE_TYPE_TURBULENCE](../../aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_turbulence_type_turbulence) | Corresponds to value 'turbulence'. |
+| const [SVG_TURBULENCE_TYPE_UNKNOWN](../../aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_turbulence_type_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
 
 ### See Also
 

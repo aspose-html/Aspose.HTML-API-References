@@ -1,7 +1,7 @@
 ---
 title: ButtonType
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This enumeration represents states of the button.
 type: docs
 weight: 2990
 url: /net/aspose.html.forms/buttontype/

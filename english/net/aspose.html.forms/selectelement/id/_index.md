@@ -1,7 +1,7 @@
 ---
 title: Id
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents the Id attribute of the input element.
 type: docs
 weight: 10
 url: /net/aspose.html.forms/selectelement/id/

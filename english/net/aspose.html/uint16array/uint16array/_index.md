@@ -1,12 +1,12 @@
 ---
 title: Uint16Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Uint16Arrayaspose.html/uint16array class.
 type: docs
 weight: 10
 url: /net/aspose.html/uint16array/uint16array/
 ---
-## Uint16Array constructor (1 of 5)
+## Uint16Array(int) {#constructor_3}
 
 Initializes a new instance of the [`Uint16Array`](../../uint16array) class.
 
@@ -26,7 +26,7 @@ public Uint16Array(int length)
 
 ---
 
-## Uint16Array constructor (2 of 5)
+## Uint16Array(ushort[]) {#constructor_4}
 
 Initializes a new instance of the [`Uint16Array`](../../uint16array) class.
 
@@ -46,7 +46,7 @@ public Uint16Array(ushort[] data)
 
 ---
 
-## Uint16Array constructor (3 of 5)
+## Uint16Array(ArrayBuffer) {#constructor}
 
 Initializes a new instance of the [`Uint16Array`](../../uint16array) class.
 
@@ -67,7 +67,7 @@ public Uint16Array(ArrayBuffer buffer)
 
 ---
 
-## Uint16Array constructor (4 of 5)
+## Uint16Array(ArrayBuffer, int) {#constructor_1}
 
 Initializes a new instance of the [`Uint16Array`](../../uint16array) class.
 
@@ -89,7 +89,7 @@ public Uint16Array(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Uint16Array constructor (5 of 5)
+## Uint16Array(ArrayBuffer, int, int) {#constructor_2}
 
 Initializes a new instance of the [`Uint16Array`](../../uint16array) class.
 

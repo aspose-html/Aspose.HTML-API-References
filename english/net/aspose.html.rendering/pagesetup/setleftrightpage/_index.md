@@ -1,7 +1,7 @@
 ---
 title: SetLeftRightPage
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sets the Left/Right page configuration.
 type: docs
 weight: 80
 url: /net/aspose.html.rendering/pagesetup/setleftrightpage/

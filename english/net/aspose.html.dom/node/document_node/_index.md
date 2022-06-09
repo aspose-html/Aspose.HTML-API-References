@@ -1,7 +1,7 @@
 ---
 title: DOCUMENT_NODE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: A Documentaspose.html.dom/document node.
 type: docs
 weight: 360
 url: /net/aspose.html.dom/node/document_node/

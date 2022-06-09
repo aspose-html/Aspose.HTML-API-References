@@ -1,7 +1,7 @@
 ---
 title: NAMESPACE_ERR
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: If an attempt is made to create or change an object in a way which is incorrect with regard to namespaces.
 type: docs
 weight: 170
 url: /net/aspose.html.dom/domexception/namespace_err/

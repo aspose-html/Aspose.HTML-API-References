@@ -1,7 +1,7 @@
 ---
 title: Document
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The document attribute must return the Window objects newest Document object.
 type: docs
 weight: 10
 url: /net/aspose.html.window/iwindow/document/

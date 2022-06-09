@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Video track width in pixels or null if there is no video track.
 type: docs
 weight: 110
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfo/width/

@@ -1,7 +1,7 @@
 ---
 title: WheelEvent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The WheelEvent interface provides specific contextual information associated with wheel events. To create an instance of the WheelEvent interface use the WheelEvent constructor passing an optional WheelEventInit dictionary.
 type: docs
 weight: 970
 url: /net/aspose.html.dom.events/wheelevent/
@@ -18,8 +18,8 @@ public class WheelEvent : MouseEvent
 
 | Name | Description |
 | --- | --- |
-| [WheelEvent](wheelevent)(string) | Initializes a new instance of the [`WheelEvent`](../wheelevent) class. |
-| [WheelEvent](wheelevent)(string, IDictionary&lt;string, object&gt;) |  |
+| [WheelEvent](wheelevent#constructor)(string) | Initializes a new instance of the [`WheelEvent`](../wheelevent) class. |
+| [WheelEvent](wheelevent#constructor_1)(string, IDictionary&lt;string, object&gt;) |  |
 
 ## Properties
 
@@ -62,13 +62,13 @@ public class WheelEvent : MouseEvent
 | [StopImmediatePropagation](../../aspose.html.dom.events/event/stopimmediatepropagation)() | Invoking this method prevents event from reaching any event listeners registered after the current one and when dispatched in a tree also prevents event from reaching any other objects. |
 | [StopPropagation](../../aspose.html.dom.events/event/stoppropagation)() | The [`StopPropagation`](../event/stoppropagation) method is used prevent further propagation of an event during event flow. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [DOM_DELTA_LINE](dom_delta_line) | The units of measurement for the delta MUST be individual lines of text. This is the case for many form controls. |
-| const [DOM_DELTA_PAGE](dom_delta_page) | The units of measurement for the delta MUST be pages, either defined as a single screen or as a demarcated page. |
-| const [DOM_DELTA_PIXEL](dom_delta_pixel) | The units of measurement for the delta MUST be pixels. This is the most typical case in most operating system and implementation configurations. |
+| const [DOM_DELTA_LINE](../../aspose.html.dom.events/wheelevent/dom_delta_line) | The units of measurement for the delta MUST be individual lines of text. This is the case for many form controls. |
+| const [DOM_DELTA_PAGE](../../aspose.html.dom.events/wheelevent/dom_delta_page) | The units of measurement for the delta MUST be pages, either defined as a single screen or as a demarcated page. |
+| const [DOM_DELTA_PIXEL](../../aspose.html.dom.events/wheelevent/dom_delta_pixel) | The units of measurement for the delta MUST be pixels. This is the most typical case in most operating system and implementation configurations. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: OwnerPassword
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the Owner password.
 type: docs
 weight: 30
 url: /net/aspose.html.rendering.pdf.encryption/pdfencryptioninfo/ownerpassword/

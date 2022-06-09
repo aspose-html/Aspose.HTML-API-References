@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the element by specified index.
 type: docs
 weight: 60
 url: /net/aspose.html.forms/formeditor/item/

@@ -1,7 +1,7 @@
 ---
 title: ISolidBrush
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines brush interface of a single color
 type: docs
 weight: 2810
 url: /net/aspose.html.drawing/isolidbrush/

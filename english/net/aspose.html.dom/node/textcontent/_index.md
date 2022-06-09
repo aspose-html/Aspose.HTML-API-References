@@ -1,7 +1,7 @@
 ---
 title: TextContent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The textContent property of the Nodeaspose.html.dom/node interface represents the text content of the node and its descendants.
 type: docs
 weight: 170
 url: /net/aspose.html.dom/node/textcontent/

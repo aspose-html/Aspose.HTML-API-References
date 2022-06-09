@@ -1,7 +1,7 @@
 ---
 title: PdfDocumentInfo
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents the information about the PDF document.
 type: docs
 weight: 4530
 url: /net/aspose.html.rendering.pdf/pdfdocumentinfo/

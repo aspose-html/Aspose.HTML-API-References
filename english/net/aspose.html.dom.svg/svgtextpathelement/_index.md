@@ -1,7 +1,7 @@
 ---
 title: SVGTextPathElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGTextPathElement interface corresponds to the textPath element.
 type: docs
 weight: 2470
 url: /net/aspose.html.dom.svg/svgtextpathelement/
@@ -123,16 +123,16 @@ public class SVGTextPathElement : SVGTextContentElement, ISVGURIReference
 | [SetIdAttributeNS](../../aspose.html.dom/element/setidattributens)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | override [ToString](../../aspose.html.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [TEXTPATH_METHODTYPE_ALIGN](textpath_methodtype_align) | Corresponds to value 'align'. |
-| const [TEXTPATH_METHODTYPE_STRETCH](textpath_methodtype_stretch) | Corresponds to value 'stretch'. |
-| const [TEXTPATH_METHODTYPE_UNKNOWN](textpath_methodtype_unknown) | The enumeration was set to a value that is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
-| const [TEXTPATH_SPACINGTYPE_AUTO](textpath_spacingtype_auto) | Corresponds to value 'auto'. |
-| const [TEXTPATH_SPACINGTYPE_EXACT](textpath_spacingtype_exact) | Corresponds to value 'exact'. |
-| const [TEXTPATH_SPACINGTYPE_UNKNOWN](textpath_spacingtype_unknown) | The enumeration was set to a value that is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [TEXTPATH_METHODTYPE_ALIGN](../../aspose.html.dom.svg/svgtextpathelement/textpath_methodtype_align) | Corresponds to value 'align'. |
+| const [TEXTPATH_METHODTYPE_STRETCH](../../aspose.html.dom.svg/svgtextpathelement/textpath_methodtype_stretch) | Corresponds to value 'stretch'. |
+| const [TEXTPATH_METHODTYPE_UNKNOWN](../../aspose.html.dom.svg/svgtextpathelement/textpath_methodtype_unknown) | The enumeration was set to a value that is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [TEXTPATH_SPACINGTYPE_AUTO](../../aspose.html.dom.svg/svgtextpathelement/textpath_spacingtype_auto) | Corresponds to value 'auto'. |
+| const [TEXTPATH_SPACINGTYPE_EXACT](../../aspose.html.dom.svg/svgtextpathelement/textpath_spacingtype_exact) | Corresponds to value 'exact'. |
+| const [TEXTPATH_SPACINGTYPE_UNKNOWN](../../aspose.html.dom.svg/svgtextpathelement/textpath_spacingtype_unknown) | The enumeration was set to a value that is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: XpsDevice
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents rendering to a xps document.
 type: docs
 weight: 4600
 url: /net/aspose.html.rendering.xps/xpsdevice/
@@ -18,12 +18,12 @@ public class XpsDevice : Device<XpsGraphicContext, XpsRenderingOptions>
 
 | Name | Description |
 | --- | --- |
-| [XpsDevice](xpsdevice)(ICreateStreamProvider) | Initializes a new instance of the [`XpsDevice`](../xpsdevice) class. |
-| [XpsDevice](xpsdevice)(Stream) | Initializes a new instance of the [`XpsDevice`](../xpsdevice) class. |
-| [XpsDevice](xpsdevice)(string) | Initializes a new instance of the [`XpsDevice`](../xpsdevice) class. |
-| [XpsDevice](xpsdevice)(XpsRenderingOptions, ICreateStreamProvider) | Initializes a new instance of the [`XpsDevice`](../xpsdevice) class by rendering options and stream provider. |
-| [XpsDevice](xpsdevice)(XpsRenderingOptions, Stream) | Initializes a new instance of the [`XpsDevice`](../xpsdevice) class by rendering options and output stream. |
-| [XpsDevice](xpsdevice)(XpsRenderingOptions, string) | Initializes a new instance of the [`XpsDevice`](../xpsdevice) class by rendering options and output file name. |
+| [XpsDevice](xpsdevice#constructor)(ICreateStreamProvider) | Initializes a new instance of the [`XpsDevice`](../xpsdevice) class. |
+| [XpsDevice](xpsdevice#constructor_4)(Stream) | Initializes a new instance of the [`XpsDevice`](../xpsdevice) class. |
+| [XpsDevice](xpsdevice#constructor_5)(string) | Initializes a new instance of the [`XpsDevice`](../xpsdevice) class. |
+| [XpsDevice](xpsdevice#constructor_1)(XpsRenderingOptions, ICreateStreamProvider) | Initializes a new instance of the [`XpsDevice`](../xpsdevice) class by rendering options and stream provider. |
+| [XpsDevice](xpsdevice#constructor_2)(XpsRenderingOptions, Stream) | Initializes a new instance of the [`XpsDevice`](../xpsdevice) class by rendering options and output stream. |
+| [XpsDevice](xpsdevice#constructor_3)(XpsRenderingOptions, string) | Initializes a new instance of the [`XpsDevice`](../xpsdevice) class by rendering options and output file name. |
 
 ## Properties
 

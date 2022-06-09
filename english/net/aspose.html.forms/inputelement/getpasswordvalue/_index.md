@@ -1,7 +1,7 @@
 ---
 title: GetPasswordValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This method is used to get the value as a password string object. This method is valid if only only type of the input element is password
 type: docs
 weight: 140
 url: /net/aspose.html.forms/inputelement/getpasswordvalue/

@@ -1,7 +1,7 @@
 ---
 title: Height
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Video track height in pixels or null if there is no video track.
 type: docs
 weight: 70
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfo/height/

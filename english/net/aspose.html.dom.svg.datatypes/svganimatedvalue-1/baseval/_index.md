@@ -1,7 +1,7 @@
 ---
 title: BaseVal
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The base value of the given attribute before applying any animations.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.datatypes/svganimatedvalue-1/baseval/

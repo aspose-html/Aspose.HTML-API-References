@@ -1,7 +1,7 @@
 ---
 title: LargeArcFlag
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value of the large-arc-flag parameter.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.paths/svgpathsegarcrel/largearcflag/

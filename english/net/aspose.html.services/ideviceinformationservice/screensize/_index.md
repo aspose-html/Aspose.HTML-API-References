@@ -1,7 +1,7 @@
 ---
 title: ScreenSize
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the size of the screen.
 type: docs
 weight: 20
 url: /net/aspose.html.services/ideviceinformationservice/screensize/

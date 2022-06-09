@@ -1,7 +1,7 @@
 ---
 title: SubmissionResult
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This class represents the result of the submitting form data to the server.
 type: docs
 weight: 3110
 url: /net/aspose.html.forms/submissionresult/

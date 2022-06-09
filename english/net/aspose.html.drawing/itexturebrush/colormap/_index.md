@@ -1,7 +1,7 @@
 ---
 title: ColorMap
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The number of elements must be even. Every even element is old color. Every odd element is new color.
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/itexturebrush/colormap/

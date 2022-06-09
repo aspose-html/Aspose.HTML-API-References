@@ -1,7 +1,7 @@
 ---
 title: Y1
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The absolute Y coordinate for the first control point.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticabs/y1/

@@ -1,7 +1,7 @@
 ---
 title: ITrueTypeFont
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Declares methods for working with TrueType font.
 type: docs
 weight: 2840
 url: /net/aspose.html.drawing/itruetypefont/

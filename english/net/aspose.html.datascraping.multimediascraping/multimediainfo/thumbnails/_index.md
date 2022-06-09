@@ -1,7 +1,7 @@
 ---
 title: Thumbnails
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Collection of thumbnails URLs.
 type: docs
 weight: 40
 url: /net/aspose.html.datascraping.multimediascraping/multimediainfo/thumbnails/

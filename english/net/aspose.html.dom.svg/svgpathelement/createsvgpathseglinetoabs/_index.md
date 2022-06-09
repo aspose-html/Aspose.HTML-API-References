@@ -1,7 +1,7 @@
 ---
 title: CreateSVGPathSegLinetoAbs
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a stand-alone parentless SVGPathSegLinetoAbs object.
 type: docs
 weight: 140
 url: /net/aspose.html.dom.svg/svgpathelement/createsvgpathseglinetoabs/

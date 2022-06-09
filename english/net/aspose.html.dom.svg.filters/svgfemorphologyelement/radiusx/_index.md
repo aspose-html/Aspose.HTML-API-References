@@ -1,7 +1,7 @@
 ---
 title: RadiusX
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute radius on the given feMorphology element.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.filters/svgfemorphologyelement/radiusx/

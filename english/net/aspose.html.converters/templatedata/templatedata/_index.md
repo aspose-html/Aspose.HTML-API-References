@@ -1,12 +1,12 @@
 ---
 title: TemplateData
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Inline content based on initialization XML JSON.
 type: docs
 weight: 10
 url: /net/aspose.html.converters/templatedata/templatedata/
 ---
-## TemplateData constructor (1 of 2)
+## TemplateData(TemplateContentOptions) {#constructor}
 
 Inline content based on initialization (XML, JSON).
 
@@ -27,7 +27,7 @@ public TemplateData(TemplateContentOptions contentOptions)
 
 ---
 
-## TemplateData constructor (2 of 2)
+## TemplateData(string) {#constructor_1}
 
 Absolute path to data file (XML, JSON) based on initialization.
 

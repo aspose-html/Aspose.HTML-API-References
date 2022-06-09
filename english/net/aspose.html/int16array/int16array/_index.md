@@ -1,12 +1,12 @@
 ---
 title: Int16Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Int16Arrayaspose.html/int16array class.
 type: docs
 weight: 10
 url: /net/aspose.html/int16array/int16array/
 ---
-## Int16Array constructor (1 of 5)
+## Int16Array(int) {#constructor_4}
 
 Initializes a new instance of the [`Int16Array`](../../int16array) class.
 
@@ -26,7 +26,7 @@ public Int16Array(int length)
 
 ---
 
-## Int16Array constructor (2 of 5)
+## Int16Array(short[]) {#constructor_3}
 
 Initializes a new instance of the [`Int16Array`](../../int16array) class.
 
@@ -46,7 +46,7 @@ public Int16Array(short[] data)
 
 ---
 
-## Int16Array constructor (3 of 5)
+## Int16Array(ArrayBuffer) {#constructor}
 
 Initializes a new instance of the [`Int16Array`](../../int16array) class.
 
@@ -67,7 +67,7 @@ public Int16Array(ArrayBuffer buffer)
 
 ---
 
-## Int16Array constructor (4 of 5)
+## Int16Array(ArrayBuffer, int) {#constructor_1}
 
 Initializes a new instance of the [`Int16Array`](../../int16array) class.
 
@@ -89,7 +89,7 @@ public Int16Array(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Int16Array constructor (5 of 5)
+## Int16Array(ArrayBuffer, int, int) {#constructor_2}
 
 Initializes a new instance of the [`Int16Array`](../../int16array) class.
 

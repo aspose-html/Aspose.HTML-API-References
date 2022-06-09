@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The absolute Y coordinate for the end point of this path segment.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothabs/y/

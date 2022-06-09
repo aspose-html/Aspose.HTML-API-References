@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Return length for list of files.
 type: docs
 weight: 20
 url: /net/aspose.html.io/ifilelist/length/

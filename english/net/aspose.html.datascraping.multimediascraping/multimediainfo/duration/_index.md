@@ -1,7 +1,7 @@
 ---
 title: Duration
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Multimedia duration in second.
 type: docs
 weight: 20
 url: /net/aspose.html.datascraping.multimediascraping/multimediainfo/duration/

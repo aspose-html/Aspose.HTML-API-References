@@ -1,7 +1,7 @@
 ---
 title: ViewportElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The element which established the current viewport. Often the nearest ancestor svg element. Null if the given element is the outermost svg element.
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg/svgelement/viewportelement/

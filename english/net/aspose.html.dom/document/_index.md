@@ -1,7 +1,7 @@
 ---
 title: Document
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The Document represents the entire HTML XML or SVG document. Conceptually it is the root of the document tree and provides the primary access to the documents data.
 type: docs
 weight: 770
 url: /net/aspose.html.dom/document/
@@ -81,15 +81,15 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 | [CreateEntityReference](../../aspose.html.dom/document/createentityreference)(string) | Creates an EntityReference object. In addition, if the referenced entity is known, the child list of the EntityReference node is made the same as that of the corresponding Entity node. |
 | [CreateEvent](../../aspose.html.dom/document/createevent)(string) | Creates an [`Event`](../../aspose.html.dom.events/event) of a type supported by the implementation. |
 | [CreateExpression](../../aspose.html.dom/document/createexpression)(string, IXPathNSResolver) | Creates a parsed XPath expression with resolved namespaces. This is useful when an expression will be reused in an application since it makes it possible to compile the expression string into a more efficient internal form and preresolve all namespace prefixes which occur within the expression. |
-| [CreateNodeIterator](../../aspose.html.dom/document/createnodeiterator)(Node) | Create a new NodeIterator over the subtree rooted at the specified node. |
-| [CreateNodeIterator](../../aspose.html.dom/document/createnodeiterator)(Node, long) | Create a new NodeIterator over the subtree rooted at the specified node. |
-| [CreateNodeIterator](../../aspose.html.dom/document/createnodeiterator)(Node, long, INodeFilter) | Create a new NodeIterator over the subtree rooted at the specified node. |
+| [CreateNodeIterator](../../aspose.html.dom/document/createnodeiterator#createnodeiterator)(Node) | Create a new NodeIterator over the subtree rooted at the specified node. |
+| [CreateNodeIterator](../../aspose.html.dom/document/createnodeiterator#createnodeiterator_1)(Node, long) | Create a new NodeIterator over the subtree rooted at the specified node. |
+| [CreateNodeIterator](../../aspose.html.dom/document/createnodeiterator#createnodeiterator_2)(Node, long, INodeFilter) | Create a new NodeIterator over the subtree rooted at the specified node. |
 | [CreateNSResolver](../../aspose.html.dom/document/creatensresolver)(Node) | Adapts any DOM node to resolve namespaces so that an XPath expression can be easily evaluated relative to the context of the node where it appeared within the document. This adapter works like the DOM Level 3 method `lookupNamespaceURI` on nodes in resolving the namespaceURI from a given prefix using the current information available in the node's hierarchy at the time lookupNamespaceURI is called, also correctly resolving the implicit xml prefix. |
 | [CreateProcessingInstruction](../../aspose.html.dom/document/createprocessinginstruction)(string, string) | Creates a ProcessingInstruction node given the specified name and data strings. |
 | [CreateTextNode](../../aspose.html.dom/document/createtextnode)(string) | Creates a Text node given the specified string. |
-| [CreateTreeWalker](../../aspose.html.dom/document/createtreewalker)(Node) | Create a new TreeWalker over the subtree rooted at the specified node. |
-| [CreateTreeWalker](../../aspose.html.dom/document/createtreewalker)(Node, long) | Create a new TreeWalker over the subtree rooted at the specified node. |
-| [CreateTreeWalker](../../aspose.html.dom/document/createtreewalker)(Node, long, INodeFilter) | Create a new TreeWalker over the subtree rooted at the specified node. |
+| [CreateTreeWalker](../../aspose.html.dom/document/createtreewalker#createtreewalker)(Node) | Create a new TreeWalker over the subtree rooted at the specified node. |
+| [CreateTreeWalker](../../aspose.html.dom/document/createtreewalker#createtreewalker_1)(Node, long) | Create a new TreeWalker over the subtree rooted at the specified node. |
+| [CreateTreeWalker](../../aspose.html.dom/document/createtreewalker#createtreewalker_2)(Node, long, INodeFilter) | Create a new TreeWalker over the subtree rooted at the specified node. |
 | [DispatchEvent](../../aspose.html.dom/eventtarget/dispatchevent)(Event) | Dispatches an Event at the specified [`EventTarget`](../../aspose.html.dom.events/ieventtarget), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`dispatchEvent()`](../../aspose.html.dom.events/ieventtarget/dispatchevent). |
 | [Dispose](../../aspose.html.dom/eventtarget/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [Evaluate](../../aspose.html.dom/document/evaluate)(string, Node, IXPathNSResolver, XPathResultType, object) | Evaluates an XPath expression string and returns a result of the specified type if possible. |
@@ -107,13 +107,13 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 | [IsSameNode](../../aspose.html.dom/node/issamenode)(Node) | The isSameNode() method of the Node interface is a legacy alias the for the === strict equality operator. That is, it tests whether two nodes are the same (in other words, whether they reference the same object). |
 | [LookupNamespaceURI](../../aspose.html.dom/node/lookupnamespaceuri)(string) | The lookupNamespaceURI() method of the Node interface takes a prefix as parameter and returns the namespace URI associated with it on the given node if found (and null if not). |
 | [LookupPrefix](../../aspose.html.dom/node/lookupprefix)(string) | The lookupPrefix() method of the Node interface returns a String containing the prefix for a given namespace URI, if present, and null if not. When multiple prefixes are possible, the first prefix is returned. |
-| [Navigate](../../aspose.html.dom/document/navigate)(RequestMessage) | Loads the document based on specified request object, replacing the previous content. |
-| [Navigate](../../aspose.html.dom/document/navigate)(string) | Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content. |
-| [Navigate](../../aspose.html.dom/document/navigate)(Url) | Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content. |
-| [Navigate](../../aspose.html.dom/document/navigate)(Stream, string) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. Document loading starts from the current position in the stream. |
-| [Navigate](../../aspose.html.dom/document/navigate)(Stream, Url) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. Document loading starts from the current position in the stream. |
-| [Navigate](../../aspose.html.dom/document/navigate)(string, string) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. |
-| [Navigate](../../aspose.html.dom/document/navigate)(string, Url) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. |
+| [Navigate](../../aspose.html.dom/document/navigate#navigate)(RequestMessage) | Loads the document based on specified request object, replacing the previous content. |
+| [Navigate](../../aspose.html.dom/document/navigate#navigate_4)(string) | Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content. |
+| [Navigate](../../aspose.html.dom/document/navigate#navigate_1)(Url) | Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content. |
+| [Navigate](../../aspose.html.dom/document/navigate#navigate_3)(Stream, string) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. Document loading starts from the current position in the stream. |
+| [Navigate](../../aspose.html.dom/document/navigate#navigate_2)(Stream, Url) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. Document loading starts from the current position in the stream. |
+| [Navigate](../../aspose.html.dom/document/navigate#navigate_6)(string, string) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. |
+| [Navigate](../../aspose.html.dom/document/navigate#navigate_5)(string, Url) | Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. |
 | [Normalize](../../aspose.html.dom/node/normalize)() | Puts all [`Text`](../text) nodes in the full depth of the sub-tree underneath this Node, including attribute nodes, into a "normal" form where only structure (e.g., [`elements`](../element), [`comments`](../comment), [`processing instructions`](../processinginstruction), [`CDATA sections`](../cdatasection), and [`entity references`](../entityreference)) separates [`Text`](../text) nodes, i.e., there are neither adjacent Text nodes nor empty Text nodes. This can be used to ensure that the DOM view of a document is the same as if it were saved and re-loaded, and is useful when operations (such as XPointer [XPointer] lookups) that depend on a particular document tree structure are to be used. If the parameter "normalize-characters" of the [`DOMConfiguration`](../../aspose.html/configuration) object attached to the [`Node.ownerDocument`](../node/ownerdocument) is true, this method will also fully normalize the characters of the Text nodes. |
 | [QuerySelector](../../aspose.html.dom/document/queryselector)(string) | Returns the first Element in document, which match selector |
 | [QuerySelectorAll](../../aspose.html.dom/document/queryselectorall)(string) | Returns a NodeList of all the Elements in document, which match selector |
@@ -126,62 +126,6 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 | override [ToString](../../aspose.html.dom/node/tostring)() | Returns a String that represents this instance. |
 | [Write](../../aspose.html.dom/document/write)(params string[]) | Write a string of text to a document stream opened by open(). Note that the function will produce a document which is not necessarily driven by a DTD and therefore might be produce an invalid result in the context of the document. |
 | [WriteLn](../../aspose.html.dom/document/writeln)(params string[]) | Write a string of text followed by a newline character to a document stream opened by open(). Note that the function will produce a document which is not necessarily driven by a DTD and therefore might be produce an invalid result in the context of the document |
-
-## Other Members
-
-| Name | Description |
-| --- | --- |
-| event [OnAbort](onabort) | Gets or sets event handler for OnAbort event. |
-| event [OnBlur](onblur) | Gets or sets event handler for OnBlur event. |
-| event [OnCancel](oncancel) | Gets or sets event handler for OnCancel event. |
-| event [OnCanplay](oncanplay) | Gets or sets event handler for OnCanplay event. |
-| event [OnCanPlayThrough](oncanplaythrough) | Gets or sets event handler for OnCanPlayThrough event. |
-| event [OnChange](onchange) | Gets or sets event handler for OnChange event. |
-| event [OnClick](onclick) | Gets or sets event handler for OnClick event. |
-| event [OnCueChange](oncuechange) | Gets or sets event handler for OnCueChange event. |
-| event [OnDblClick](ondblclick) | Gets or sets event handler for OnDblClick event. |
-| event [OnDurationChange](ondurationchange) | Gets or sets event handler for OnDurationChange event. |
-| event [OnEmptied](onemptied) | Gets or sets event handler for OnEmptied event. |
-| event [OnEnded](onended) | Gets or sets event handler for OnEnded event. |
-| event [OnError](onerror) | Gets or sets event handler for OnError event. |
-| event [OnFocus](onfocus) | Gets or sets event handler for OnFocus event. |
-| event [OnInput](oninput) | Gets or sets event handler for OnInput event. |
-| event [OnInvalid](oninvalid) | Gets or sets event handler for OnInvalid event. |
-| event [OnKeyDown](onkeydown) | Gets or sets event handler for OnKeyDown event. |
-| event [OnKeyPress](onkeypress) | Gets or sets event handler for OnKeyPress event. |
-| event [OnKeyUp](onkeyup) | Gets or sets event handler for OnKeyUp event. |
-| event [OnLoad](onload) | Gets or sets event handler for OnLoad event. |
-| event [OnLoadedData](onloadeddata) | Gets or sets event handler for OnLoadedData event. |
-| event [OnLoadedMetadata](onloadedmetadata) | Gets or sets event handler for OnLoadedMetadata event. |
-| event [OnLoadStart](onloadstart) | Gets or sets event handler for OnLoadStart event. |
-| event [OnMouseDown](onmousedown) | Gets or sets event handler for OnMouseDown event. |
-| event [OnMouseEnter](onmouseenter) | Gets or sets event handler for OnMouseEnter event. |
-| event [OnMouseLeave](onmouseleave) | Gets or sets event handler for OnMouseLeave event. |
-| event [OnMouseMove](onmousemove) | Gets or sets event handler for OnMouseMove event. |
-| event [OnMouseOut](onmouseout) | Gets or sets event handler for OnMouseOut event. |
-| event [OnMouseOver](onmouseover) | Gets or sets event handler for OnMouseOver event. |
-| event [OnMouseUp](onmouseup) | Gets or sets event handler for OnMouseUp event. |
-| event [OnMouseWheel](onmousewheel) | Gets or sets event handler for OnMouseWheel event. |
-| event [OnPause](onpause) | Gets or sets event handler for OnPause event. |
-| event [OnPlay](onplay) | Gets or sets event handler for OnPlay event. |
-| event [OnPlaying](onplaying) | Gets or sets event handler for OnPlaying event. |
-| event [OnProgress](onprogress) | Gets or sets event handler for OnProgress event. |
-| event [OnRateChange](onratechange) | Gets or sets event handler for OnRateChange event. |
-| event [OnReadyStateChange](onreadystatechange) | Gets or sets event handler for OnReadyStateChange event. |
-| event [OnReset](onreset) | Gets or sets event handler for OnReset event. |
-| event [OnResize](onresize) | Gets or sets event handler for OnResize event. |
-| event [OnScroll](onscroll) | Gets or sets event handler for OnScroll event. |
-| event [OnSeeked](onseeked) | Gets or sets event handler for OnSeeked event. |
-| event [OnSeeking](onseeking) | Gets or sets event handler for OnSeeking event. |
-| event [OnSelect](onselect) | Gets or sets event handler for OnSelect event. |
-| event [OnShow](onshow) | Gets or sets event handler for OnShow event. |
-| event [OnStalled](onstalled) | Gets or sets event handler for OnStalled event. |
-| event [OnSubmit](onsubmit) | Gets or sets event handler for OnSubmit event. |
-| event [OnSuspend](onsuspend) | Gets or sets event handler for OnSuspend event. |
-| event [OnTimeUpdate](ontimeupdate) | Gets or sets event handler for OnTimeUpdate event. |
-| event [OnToggle](ontoggle) | Gets or sets event handler for OnToggle event. |
-| event [OnVolumeChange](onvolumechange) | Gets or sets event handler for OnVolumeChange event. |
-| event [OnWaiting](onwaiting) | Gets or sets event handler for OnWaiting event. |
 
 ### See Also
 

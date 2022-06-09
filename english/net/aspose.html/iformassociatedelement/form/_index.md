@@ -1,7 +1,7 @@
 ---
 title: Form
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the form instance.
 type: docs
 weight: 10
 url: /net/aspose.html/iformassociatedelement/form/

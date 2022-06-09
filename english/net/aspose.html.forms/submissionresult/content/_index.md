@@ -1,7 +1,7 @@
 ---
 title: Content
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the content of the response message.
 type: docs
 weight: 10
 url: /net/aspose.html.forms/submissionresult/content/

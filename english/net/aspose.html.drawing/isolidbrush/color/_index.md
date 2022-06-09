@@ -1,7 +1,7 @@
 ---
 title: Color
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get color of the brush.
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/isolidbrush/color/

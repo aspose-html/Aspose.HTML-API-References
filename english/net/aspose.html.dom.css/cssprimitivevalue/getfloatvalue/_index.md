@@ -1,7 +1,7 @@
 ---
 title: GetFloatValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This method is used to get a float value in a specified unit. If this CSS value doesnt contain a float value or cant be converted into the specified unit a DOMException is raised.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/cssprimitivevalue/getfloatvalue/

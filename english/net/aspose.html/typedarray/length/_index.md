@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the length of a typed array.
 type: docs
 weight: 40
 url: /net/aspose.html/typedarray/length/

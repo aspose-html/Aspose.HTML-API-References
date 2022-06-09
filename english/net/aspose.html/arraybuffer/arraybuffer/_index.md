@@ -1,12 +1,12 @@
 ---
 title: ArrayBuffer
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the ArrayBufferaspose.html/arraybuffer class.
 type: docs
 weight: 10
 url: /net/aspose.html/arraybuffer/arraybuffer/
 ---
-## ArrayBuffer constructor (1 of 2)
+## ArrayBuffer(int) {#constructor_1}
 
 Initializes a new instance of the [`ArrayBuffer`](../../arraybuffer) class.
 
@@ -26,7 +26,7 @@ public ArrayBuffer(int length)
 
 ---
 
-## ArrayBuffer constructor (2 of 2)
+## ArrayBuffer(byte[]) {#constructor}
 
 Initializes a new instance of the [`ArrayBuffer`](../../arraybuffer) class.
 

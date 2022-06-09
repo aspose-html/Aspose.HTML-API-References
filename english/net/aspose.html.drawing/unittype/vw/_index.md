@@ -1,7 +1,7 @@
 ---
 title: Vw
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Measurement is relative to 1 of the width of the viewport
 type: docs
 weight: 300
 url: /net/aspose.html.drawing/unittype/vw/

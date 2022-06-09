@@ -1,7 +1,7 @@
 ---
 title: ByteArrayContent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents content based on a byte array.
 type: docs
 weight: 3930
 url: /net/aspose.html.net/bytearraycontent/

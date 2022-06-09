@@ -1,7 +1,7 @@
 ---
 title: CSSText
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The cssText property of the CSSRuleaspose.html.dom.css/icssrule interface returns the actual text of a CSSStyleSheetaspose.html.dom.css/icssstylesheet style-rule.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/icssrule/csstext/

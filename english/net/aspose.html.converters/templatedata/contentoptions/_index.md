@@ -1,7 +1,7 @@
 ---
 title: ContentOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Content object property.
 type: docs
 weight: 20
 url: /net/aspose.html.converters/templatedata/contentoptions/

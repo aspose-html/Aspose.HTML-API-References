@@ -1,12 +1,12 @@
 ---
 title: Url
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Urlaspose.html/url with the specified URL.
 type: docs
 weight: 10
 url: /net/aspose.html/url/url/
 ---
-## Url constructor (1 of 2)
+## Url(string) {#constructor}
 
 Initializes a new instance of the [`Url`](../../url) with the specified URL.
 
@@ -32,7 +32,7 @@ public Url(string url)
 
 ---
 
-## Url constructor (2 of 2)
+## Url(string, string) {#constructor_1}
 
 Initializes a new instance of the [`Url`](../../url) with the specified URL and base URL.
 

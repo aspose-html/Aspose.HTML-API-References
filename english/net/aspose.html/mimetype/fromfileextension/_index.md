@@ -1,7 +1,7 @@
 ---
 title: FromFileExtension
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates a new MIME type based on file extension.
 type: docs
 weight: 20
 url: /net/aspose.html/mimetype/fromfileextension/

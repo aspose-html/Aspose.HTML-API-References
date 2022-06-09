@@ -1,7 +1,7 @@
 ---
 title: GetAttributeNodeNS
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Retrieves an Attr node by local name and namespace URI.
 type: docs
 weight: 260
 url: /net/aspose.html.dom/element/getattributenodens/

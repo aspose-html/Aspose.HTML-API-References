@@ -1,7 +1,7 @@
 ---
 title: StringValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value of this string result.
 type: docs
 weight: 70
 url: /net/aspose.html.dom.xpath/ixpathresult/stringvalue/

@@ -1,7 +1,7 @@
 ---
 title: FormEditor
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This class represents the editor over the HTMLFormElement../aspose.html/htmlformelement that creates a easier way for .net developers to edit the html forms.
 type: docs
 weight: 3010
 url: /net/aspose.html.forms/formeditor/
@@ -28,17 +28,17 @@ public class FormEditor : IDisposable, IEnumerable<FormElement>
 
 | Name | Description |
 | --- | --- |
-| static [Create](../../aspose.html.forms/formeditor/create)(HTMLFormElement) | Creates a new [`FormEditor`](../formeditor) based on [`HTMLFormElement`](../../aspose.html/htmlformelement). |
-| static [Create](../../aspose.html.forms/formeditor/create)(HTMLDocument, int) | Creates a new [`FormEditor`](../formeditor) based on [`HTMLFormElement`](../../aspose.html/htmlformelement) selected from the [`Forms`](../../aspose.html/htmldocument/forms) collection by index. |
-| static [Create](../../aspose.html.forms/formeditor/create)(HTMLDocument, string) | Creates a new [`FormEditor`](../formeditor) based on [`HTMLFormElement`](../../aspose.html/htmlformelement) selected from the document by id. |
+| static [Create](../../aspose.html.forms/formeditor/create#create_2)(HTMLFormElement) | Creates a new [`FormEditor`](../formeditor) based on [`HTMLFormElement`](../../aspose.html/htmlformelement). |
+| static [Create](../../aspose.html.forms/formeditor/create#create)(HTMLDocument, int) | Creates a new [`FormEditor`](../formeditor) based on [`HTMLFormElement`](../../aspose.html/htmlformelement) selected from the [`Forms`](../../aspose.html/htmldocument/forms) collection by index. |
+| static [Create](../../aspose.html.forms/formeditor/create#create_1)(HTMLDocument, string) | Creates a new [`FormEditor`](../formeditor) based on [`HTMLFormElement`](../../aspose.html/htmlformelement) selected from the document by id. |
 | static [CreateNew](../../aspose.html.forms/formeditor/createnew)(HTMLDocument) | Creates a new [`HTMLFormElement`](../../aspose.html/htmlformelement) and associated it with [`FormEditor`](../formeditor). [`HTMLFormElement`](../../aspose.html/htmlformelement) is created in the detached from the document state; in order to attach it to the document, please select proper location and use [`AppendChild`](../../aspose.html.dom/node/appendchild) method. |
 | [Add&lt;T&gt;](../../aspose.html.forms/formeditor/add)(string) | Creates a new [`HTMLElement`](../../aspose.html/htmlelement) and adds it to the end of the form. |
-| [AddInput](../../aspose.html.forms/formeditor/addinput)(string) | Creates a new [`InputElement`](../inputelement) and adds it to the end of the form. |
-| [AddInput](../../aspose.html.forms/formeditor/addinput)(string, InputElementType) | Creates a new [`InputElement`](../inputelement) and adds it to the end of the form. |
+| [AddInput](../../aspose.html.forms/formeditor/addinput#addinput)(string) | Creates a new [`InputElement`](../inputelement) and adds it to the end of the form. |
+| [AddInput](../../aspose.html.forms/formeditor/addinput#addinput_1)(string, InputElementType) | Creates a new [`InputElement`](../inputelement) and adds it to the end of the form. |
 | [Dispose](../../aspose.html.forms/formeditor/dispose)() | Releases unmanaged and managed resources. |
 | [Fill](../../aspose.html.forms/formeditor/fill)(Dictionary&lt;string, string&gt;) |  |
-| [GetElement&lt;T&gt;](../../aspose.html.forms/formeditor/getelement)(int) | Returns the element by specified index. |
-| [GetElement&lt;T&gt;](../../aspose.html.forms/formeditor/getelement)(string) | Returns the element by specified name. |
+| [GetElement&lt;T&gt;](../../aspose.html.forms/formeditor/getelement#getelement)(int) | Returns the element by specified index. |
+| [GetElement&lt;T&gt;](../../aspose.html.forms/formeditor/getelement#getelement_1)(string) | Returns the element by specified name. |
 | [GetEnumerator](../../aspose.html.forms/formeditor/getenumerator)() | Gets the enumerator. |
 
 ### See Also

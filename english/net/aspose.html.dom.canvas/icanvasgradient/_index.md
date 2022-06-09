@@ -1,7 +1,7 @@
 ---
 title: ICanvasGradient
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an opaque object describing a gradient.
 type: docs
 weight: 340
 url: /net/aspose.html.dom.canvas/icanvasgradient/

@@ -1,7 +1,7 @@
 ---
 title: GlyphInfo
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Contains glyph related information.
 type: docs
 weight: 4330
 url: /net/aspose.html.rendering/glyphinfo/

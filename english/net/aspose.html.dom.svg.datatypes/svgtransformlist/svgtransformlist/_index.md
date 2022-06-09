@@ -1,12 +1,12 @@
 ---
 title: SVGTransformList
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the SVGTransformListaspose.html.dom.svg.datatypes/svgtransformlist class.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.datatypes/svgtransformlist/svgtransformlist/
 ---
-## SVGTransformList constructor (1 of 2)
+## SVGTransformList() {#constructor}
 
 Initializes a new instance of the [`SVGTransformList`](../../svgtransformlist) class.
 
@@ -22,7 +22,7 @@ public SVGTransformList()
 
 ---
 
-## SVGTransformList constructor (2 of 2)
+## SVGTransformList(IEnumerable&lt;SVGTransform&gt;) {#constructor_1}
 
 Initializes a new instance of the [`SVGTransformList`](../../svgtransformlist) class.
 

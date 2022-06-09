@@ -1,7 +1,7 @@
 ---
 title: SHOW_DOCUMENT_TYPE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Show DocumentType nodes.
 type: docs
 weight: 120
 url: /net/aspose.html.dom.traversal.filters/nodefilter/show_document_type/

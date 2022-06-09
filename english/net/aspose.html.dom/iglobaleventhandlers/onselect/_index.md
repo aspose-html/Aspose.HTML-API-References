@@ -1,7 +1,7 @@
 ---
 title: OnSelect
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnSelect event.
 type: docs
 weight: 420
 url: /net/aspose.html.dom/iglobaleventhandlers/onselect/

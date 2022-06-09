@@ -1,7 +1,7 @@
 ---
 title: SVGTransform
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: SVGTransform is the interface for one of the component transformations within an SVGTransformList thus an SVGTransform object corresponds to a single component e.g. scale or matrix within a transform attribute specification.
 type: docs
 weight: 1410
 url: /net/aspose.html.dom.svg.datatypes/svgtransform/
@@ -36,17 +36,17 @@ public class SVGTransform : SVGValueType
 | [SetTranslate](../../aspose.html.dom.svg.datatypes/svgtransform/settranslate)(float, float) | Sets the transform type to SVG_TRANSFORM_TRANSLATE, with parameters tx and ty defining the translation amounts. |
 | override [ToString](../../aspose.html.dom.svg.datatypes/svgtransform/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [SVG_TRANSFORM_MATRIX](svg_transform_matrix) | A 'matrix(…)' transformation. |
-| const [SVG_TRANSFORM_ROTATE](svg_transform_rotate) | A 'rotate(…)' transformation. |
-| const [SVG_TRANSFORM_SCALE](svg_transform_scale) | A 'scale(…)' transformation. |
-| const [SVG_TRANSFORM_SKEWX](svg_transform_skewx) | A 'skewX(…)' transformation. |
-| const [SVG_TRANSFORM_SKEWY](svg_transform_skewy) | A 'skewY(…)' transformation. |
-| const [SVG_TRANSFORM_TRANSLATE](svg_transform_translate) | A 'translate(…)' transformation. |
-| const [SVG_TRANSFORM_UNKNOWN](svg_transform_unknown) | The unit type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_TRANSFORM_MATRIX](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_matrix) | A 'matrix(…)' transformation. |
+| const [SVG_TRANSFORM_ROTATE](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_rotate) | A 'rotate(…)' transformation. |
+| const [SVG_TRANSFORM_SCALE](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_scale) | A 'scale(…)' transformation. |
+| const [SVG_TRANSFORM_SKEWX](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_skewx) | A 'skewX(…)' transformation. |
+| const [SVG_TRANSFORM_SKEWY](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_skewy) | A 'skewY(…)' transformation. |
+| const [SVG_TRANSFORM_TRANSLATE](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_translate) | A 'translate(…)' transformation. |
+| const [SVG_TRANSFORM_UNKNOWN](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_unknown) | The unit type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
 
 ### See Also
 

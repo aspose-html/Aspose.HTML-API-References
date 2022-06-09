@@ -1,7 +1,7 @@
 ---
 title: Uint8ClampedArray
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an array of 8-bit unsigned integers clamped to 0-255 if you specified a value that is out of the range of 0255 0 or 255 will be set instead
 type: docs
 weight: 4900
 url: /net/aspose.html/uint8clampedarray/
@@ -18,11 +18,11 @@ public class Uint8ClampedArray : TypedArray<byte>
 
 | Name | Description |
 | --- | --- |
-| [Uint8ClampedArray](uint8clampedarray)(ArrayBuffer) | Initializes a new instance of the [`Uint8ClampedArray`](../uint8clampedarray) class. |
-| [Uint8ClampedArray](uint8clampedarray)(byte[]) | Initializes a new instance of the [`Uint8ClampedArray`](../uint8clampedarray) class. |
-| [Uint8ClampedArray](uint8clampedarray)(int) | Initializes a new instance of the [`Uint8ClampedArray`](../uint8clampedarray) class. |
-| [Uint8ClampedArray](uint8clampedarray)(ArrayBuffer, int) | Initializes a new instance of the [`Uint8ClampedArray`](../uint8clampedarray) class. |
-| [Uint8ClampedArray](uint8clampedarray)(ArrayBuffer, int, int) | Initializes a new instance of the [`Uint8ClampedArray`](../uint8clampedarray) class. |
+| [Uint8ClampedArray](uint8clampedarray#constructor)(ArrayBuffer) | Initializes a new instance of the [`Uint8ClampedArray`](../uint8clampedarray) class. |
+| [Uint8ClampedArray](uint8clampedarray#constructor_3)(byte[]) | Initializes a new instance of the [`Uint8ClampedArray`](../uint8clampedarray) class. |
+| [Uint8ClampedArray](uint8clampedarray#constructor_4)(int) | Initializes a new instance of the [`Uint8ClampedArray`](../uint8clampedarray) class. |
+| [Uint8ClampedArray](uint8clampedarray#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the [`Uint8ClampedArray`](../uint8clampedarray) class. |
+| [Uint8ClampedArray](uint8clampedarray#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the [`Uint8ClampedArray`](../uint8clampedarray) class. |
 
 ## Properties
 
@@ -40,11 +40,11 @@ public class Uint8ClampedArray : TypedArray<byte>
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [BYTES_PER_ELEMENT](bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
+| static readonly [BYTES_PER_ELEMENT](../../aspose.html/uint8clampedarray/bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
 
 ### See Also
 

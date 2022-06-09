@@ -1,7 +1,7 @@
 ---
 title: IWindowTimers
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Allows authors to schedule timer-based callbacks.
 type: docs
 weight: 4940
 url: /net/aspose.html.window/iwindowtimers/

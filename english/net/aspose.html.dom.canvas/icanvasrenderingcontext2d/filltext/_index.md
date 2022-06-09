@@ -1,12 +1,12 @@
 ---
 title: FillText
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Draws fills a given text at the given xy position.
 type: docs
 weight: 240
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/filltext/
 ---
-## ICanvasRenderingContext2D.FillText method (1 of 2)
+## FillText(string, double, double) {#filltext}
 
 Draws (fills) a given text at the given (x,y) position.
 
@@ -28,7 +28,7 @@ public void FillText(string text, double x, double y)
 
 ---
 
-## ICanvasRenderingContext2D.FillText method (2 of 2)
+## FillText(string, double, double, double) {#filltext_1}
 
 Draws (fills) a given text at the given (x,y) position.
 

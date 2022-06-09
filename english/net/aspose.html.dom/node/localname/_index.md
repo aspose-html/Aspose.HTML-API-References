@@ -1,7 +1,7 @@
 ---
 title: LocalName
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the local part of the qualified name of this node. For nodes of any type other than ELEMENT_NODEaspose.html.dom/node/element_node and ATTRIBUTE_NODEaspose.html.dom/node/attribute_node and nodes created with a DOM Level 1 method such as Document.createElementaspose.html.dom/document/createelement this is always null.
 type: docs
 weight: 60
 url: /net/aspose.html.dom/node/localname/

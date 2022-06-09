@@ -1,7 +1,7 @@
 ---
 title: SVG_EDGEMODE_WRAP
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to value wrap.
 type: docs
 weight: 210
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/svg_edgemode_wrap/

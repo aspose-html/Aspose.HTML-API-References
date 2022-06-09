@@ -1,7 +1,7 @@
 ---
 title: MarkdownFeatures
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: A MarkdownFeatures./markdownfeatures flag set is a set of zero or more of the following flags which are used to select elements converted to markdown.
 type: docs
 weight: 4690
 url: /net/aspose.html.saving/markdownfeatures/

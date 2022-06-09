@@ -1,7 +1,7 @@
 ---
 title: Contains
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns true if the list contains the given token otherwise false.
 type: docs
 weight: 50
 url: /net/aspose.html.collections/domtokenlist/contains/

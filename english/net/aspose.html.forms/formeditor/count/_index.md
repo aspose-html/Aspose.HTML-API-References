@@ -1,7 +1,7 @@
 ---
 title: Count
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The number of form controls in the form.
 type: docs
 weight: 40
 url: /net/aspose.html.forms/formeditor/count/

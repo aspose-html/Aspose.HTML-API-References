@@ -1,7 +1,7 @@
 ---
 title: AUTO
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The output document type will be selected automatically.
 type: docs
 weight: 30
 url: /net/aspose.html.saving/htmlsaveoptions/auto/

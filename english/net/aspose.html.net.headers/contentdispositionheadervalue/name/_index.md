@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The name for a content body part.
 type: docs
 weight: 40
 url: /net/aspose.html.net.headers/contentdispositionheadervalue/name/

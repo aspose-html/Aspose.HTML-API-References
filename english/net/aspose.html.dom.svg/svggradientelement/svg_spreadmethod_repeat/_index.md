@@ -1,7 +1,7 @@
 ---
 title: SVG_SPREADMETHOD_REPEAT
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to value repeat.
 type: docs
 weight: 70
 url: /net/aspose.html.dom.svg/svggradientelement/svg_spreadmethod_repeat/

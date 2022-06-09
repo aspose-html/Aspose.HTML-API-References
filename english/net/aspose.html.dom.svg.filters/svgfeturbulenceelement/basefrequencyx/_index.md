@@ -1,7 +1,7 @@
 ---
 title: BaseFrequencyX
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute baseFrequency on the given feTurbulence element. Contains the X component of the baseFrequency attribute.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.filters/svgfeturbulenceelement/basefrequencyx/

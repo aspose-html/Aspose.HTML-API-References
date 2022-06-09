@@ -1,7 +1,7 @@
 ---
 title: CSS_DEG
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value is an angle deg. The value can be obtained by using the getFloatValue method.
 type: docs
 weight: 150
 url: /net/aspose.html.dom.css/cssprimitivevalue/css_deg/

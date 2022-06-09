@@ -1,12 +1,12 @@
 ---
 title: Submit
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Submits the form data to the server.
 type: docs
 weight: 50
 url: /net/aspose.html.forms/formsubmitter/submit/
 ---
-## FormSubmitter.Submit method (1 of 10)
+## Submit() {#submit}
 
 Submits the form data to the server.
 
@@ -27,7 +27,7 @@ The result of the submission.
 
 ---
 
-## FormSubmitter.Submit method (2 of 10)
+## Submit(CookieContainer) {#submit_1}
 
 Submits the form data to the server with specified cookies.
 
@@ -52,7 +52,7 @@ The result of the submission.
 
 ---
 
-## FormSubmitter.Submit method (3 of 10)
+## Submit(ICredentials) {#submit_2}
 
 Submits the form data to the server with specified user credentials.
 
@@ -77,7 +77,7 @@ The result of the submission.
 
 ---
 
-## FormSubmitter.Submit method (4 of 10)
+## Submit(ICredentials, CookieContainer) {#submit_3}
 
 Submits the form data to the server with specified user credentials and cookies.
 
@@ -103,7 +103,7 @@ The result of the submission.
 
 ---
 
-## FormSubmitter.Submit method (5 of 10)
+## Submit(TimeSpan) {#submit_8}
 
 Submits the form data to the server with specified timeout.
 
@@ -128,7 +128,7 @@ The result of the submission.
 
 ---
 
-## FormSubmitter.Submit method (6 of 10)
+## Submit(TimeSpan, CookieContainer) {#submit_9}
 
 Submits the form data to the server with specified timeout and cookies.
 
@@ -154,7 +154,7 @@ The result of the submission.
 
 ---
 
-## FormSubmitter.Submit method (7 of 10)
+## Submit(ICredentials, TimeSpan) {#submit_4}
 
 Submits the form data to the server with specified user credentials and timeout.
 
@@ -180,7 +180,7 @@ The result of the submission.
 
 ---
 
-## FormSubmitter.Submit method (8 of 10)
+## Submit(ICredentials, TimeSpan, CookieContainer) {#submit_7}
 
 Submits the form data to the server with specified user credentials, timeout and cookies.
 
@@ -208,7 +208,7 @@ The result of the submission.
 
 ---
 
-## FormSubmitter.Submit method (9 of 10)
+## Submit(ICredentials, TimeSpan, bool) {#submit_5}
 
 Submits the form data to the server with specified user credentials.
 
@@ -235,7 +235,7 @@ The result of the submission.
 
 ---
 
-## FormSubmitter.Submit method (10 of 10)
+## Submit(ICredentials, TimeSpan, bool, CookieContainer) {#submit_6}
 
 Submits the form data to the server with specified user credentials and cookies.
 

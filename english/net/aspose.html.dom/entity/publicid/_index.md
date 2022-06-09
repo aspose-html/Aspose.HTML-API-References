@@ -1,7 +1,7 @@
 ---
 title: PublicId
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The public identifier associated with the entity if specified and null otherwise.
 type: docs
 weight: 50
 url: /net/aspose.html.dom/entity/publicid/

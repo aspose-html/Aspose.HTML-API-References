@@ -1,7 +1,7 @@
 ---
 title: NewTranslate
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The translation values that will be in place after the zoom operation has been processed. The SVGPoint object is read only.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.events/svgzoomevent/newtranslate/

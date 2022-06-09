@@ -1,7 +1,7 @@
 ---
 title: SetIntValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: A method to set the int value with a specified unit. If the property attached with this value can not accept the specified unit or the int value the value will be unchanged and a DOMException will be raised.
 type: docs
 weight: 90
 url: /net/aspose.html.dom.css/cssprimitivevalue/setintvalue/

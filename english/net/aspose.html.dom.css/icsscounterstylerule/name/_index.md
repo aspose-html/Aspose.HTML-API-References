@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The name property of the CSSCounterStyleRuleaspose.html.dom.css/icsscounterstylerule interface gets and sets the custom-ident defined as the name for the associated rule.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.css/icsscounterstylerule/name/

@@ -1,7 +1,7 @@
 ---
 title: OnCancel
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnCancel event.
 type: docs
 weight: 30
 url: /net/aspose.html.dom/iglobaleventhandlers/oncancel/

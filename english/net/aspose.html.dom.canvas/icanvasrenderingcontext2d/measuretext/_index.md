@@ -1,7 +1,7 @@
 ---
 title: MeasureText
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a TextMetrics object.
 type: docs
 weight: 280
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/measuretext/

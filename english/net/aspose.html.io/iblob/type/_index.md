@@ -1,7 +1,7 @@
 ---
 title: Type
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The ASCII-encoded string in lower case representing the media type of the Blob. On getting user agents must return the type of a Blob as an ASCII-encoded string in lower case such that when it is converted to a byte sequence it is a parsable MIME type or the empty string  0 bytes  if the type cannot be determined.
 type: docs
 weight: 20
 url: /net/aspose.html.io/iblob/type/

@@ -1,7 +1,7 @@
 ---
 title: Cm
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Measurement is in centimeters
 type: docs
 weight: 30
 url: /net/aspose.html.drawing/unittype/cm/

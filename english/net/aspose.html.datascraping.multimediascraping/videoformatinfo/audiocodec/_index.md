@@ -1,7 +1,7 @@
 ---
 title: AudioCodec
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Name of the audio codec in use or null if there is no audio track.
 type: docs
 weight: 20
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfo/audiocodec/

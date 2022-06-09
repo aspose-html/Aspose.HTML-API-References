@@ -1,12 +1,12 @@
 ---
 title: DocRenderingOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the DocRenderingOptionsaspose.html.rendering.doc/docrenderingoptions class.
 type: docs
 weight: 10
 url: /net/aspose.html.rendering.doc/docrenderingoptions/docrenderingoptions/
 ---
-## DocRenderingOptions constructor (1 of 2)
+## DocRenderingOptions() {#constructor}
 
 Initializes a new instance of the [`DocRenderingOptions`](../../docrenderingoptions) class.
 
@@ -22,7 +22,7 @@ public DocRenderingOptions()
 
 ---
 
-## DocRenderingOptions constructor (2 of 2)
+## DocRenderingOptions(FontEmbeddingRule) {#constructor_1}
 
 Initializes a new instance of the [`DocRenderingOptions`](../../docrenderingoptions) class with the specified font embedding rule.
 

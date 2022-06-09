@@ -1,7 +1,7 @@
 ---
 title: OnMouseMove
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnMouseMove event.
 type: docs
 weight: 270
 url: /net/aspose.html.dom/iglobaleventhandlers/onmousemove/

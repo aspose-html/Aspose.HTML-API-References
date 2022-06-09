@@ -1,7 +1,7 @@
 ---
 title: PATHSEG_LINETO_HORIZONTAL_REL
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to a relative horizontal lineto h path data command.
 type: docs
 weight: 160
 url: /net/aspose.html.dom.svg.paths/svgpathseg/pathseg_lineto_horizontal_rel/

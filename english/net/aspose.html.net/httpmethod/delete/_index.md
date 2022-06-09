@@ -1,7 +1,7 @@
 ---
 title: Delete
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an HTTP DELETE protocol method.
 type: docs
 weight: 20
 url: /net/aspose.html.net/httpmethod/delete/

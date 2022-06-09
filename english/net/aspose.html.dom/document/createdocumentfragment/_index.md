@@ -1,7 +1,7 @@
 ---
 title: CreateDocumentFragment
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates a new empty DocumentFragmentaspose.html.dom/documentfragment into which DOM nodes can be added to build an offscreen DOM tree.
 type: docs
 weight: 830
 url: /net/aspose.html.dom/document/createdocumentfragment/

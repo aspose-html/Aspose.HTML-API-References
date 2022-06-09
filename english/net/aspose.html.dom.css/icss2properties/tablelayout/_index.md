@@ -1,7 +1,7 @@
 ---
 title: TableLayout
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The table-layouthttps//www.w3.org/TR/1998/REC-CSS2-19980512/tables.htmlpropdef-table-layout property controls the algorithm used to lay out the table cells rows and columns. Values have the following meaning
 type: docs
 weight: 1060
 url: /net/aspose.html.dom.css/icss2properties/tablelayout/

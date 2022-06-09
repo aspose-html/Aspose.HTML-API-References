@@ -1,7 +1,7 @@
 ---
 title: Write
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Writes a sequence of bytes to the wrapped output stream and advances the current position within this stream by the number of bytes written.
 type: docs
 weight: 130
 url: /net/aspose.html.io/outputstream/write/

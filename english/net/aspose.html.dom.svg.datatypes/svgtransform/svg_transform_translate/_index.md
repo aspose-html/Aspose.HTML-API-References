@@ -1,7 +1,7 @@
 ---
 title: SVG_TRANSFORM_TRANSLATE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: A translate transformation.
 type: docs
 weight: 160
 url: /net/aspose.html.dom.svg.datatypes/svgtransform/svg_transform_translate/

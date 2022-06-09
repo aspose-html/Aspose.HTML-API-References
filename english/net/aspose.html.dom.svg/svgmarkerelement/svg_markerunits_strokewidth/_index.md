@@ -1,7 +1,7 @@
 ---
 title: SVG_MARKERUNITS_STROKEWIDTH
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value of attribute markerUnits is strokeWidth.
 type: docs
 weight: 120
 url: /net/aspose.html.dom.svg/svgmarkerelement/svg_markerunits_strokewidth/

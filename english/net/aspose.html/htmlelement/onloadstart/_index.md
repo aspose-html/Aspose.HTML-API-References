@@ -1,7 +1,7 @@
 ---
 title: OnLoadStart
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnLoadStart event.
 type: docs
 weight: 290
 url: /net/aspose.html/htmlelement/onloadstart/

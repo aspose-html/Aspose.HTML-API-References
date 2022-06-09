@@ -1,7 +1,7 @@
 ---
 title: ActiveDocument
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the current document.
 type: docs
 weight: 10
 url: /net/aspose.html.dom/ibrowsingcontext/activedocument/

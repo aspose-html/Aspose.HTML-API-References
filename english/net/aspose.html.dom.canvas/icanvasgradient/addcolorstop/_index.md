@@ -1,7 +1,7 @@
 ---
 title: AddColorStop
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Adds a new stop defined by an offset and a color to the gradient.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.canvas/icanvasgradient/addcolorstop/

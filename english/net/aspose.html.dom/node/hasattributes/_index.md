@@ -1,7 +1,7 @@
 ---
 title: HasAttributes
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The hasAttributes method of the Elementaspose.html.dom/element interface returns a boolean value indicating whether the current element has any attributes or not.
 type: docs
 weight: 200
 url: /net/aspose.html.dom/node/hasattributes/

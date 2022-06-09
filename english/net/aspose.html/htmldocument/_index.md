@@ -1,7 +1,7 @@
 ---
 title: HTMLDocument
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an HTML document. All top level HTML objects are added to this object. This class represents the HTML page as what we see in browser. All forms tables scripts ... are added to the HTML page via the interfaces of this class. HTMLDocumenthttps//dom.spec.whatwg.org/ref-for-dom-domimplementation-createhtmldocument is html implementation of most general Documenthttps//dom.spec.whatwg.org/document interface and both are core or root point of DOMhttps//dom.spec.whatwg.org/ - Document Object Model. These concepts are in full accordance with officical web development basis or standards. For the purposes of web development you can generally think of HTMLDocument as an alias for Document upon which HTMLDocument is based.
 type: docs
 weight: 3270
 url: /net/aspose.html/htmldocument/
@@ -18,22 +18,22 @@ public class HTMLDocument : Document, IDocumentCSS
 
 | Name | Description |
 | --- | --- |
-| [HTMLDocument](htmldocument)() | The HTMLDocument constructor creates a new HTML Document object that is a web page loaded in the browser and serving as an entry point into the page's content. |
-| [HTMLDocument](htmldocument)(Configuration) | The HTMLDocument constructor creates a new HTML Document object that is a web page loaded in the browser and serving as an entry point into the page's content. |
-| [HTMLDocument](htmldocument)(RequestMessage) | Creates an HTML document from the [`RequestMessage`](../../aspose.html.net/requestmessage) object. |
-| [HTMLDocument](htmldocument)(string) | Loads the HTML document from an address. |
-| [HTMLDocument](htmldocument)(Url) | Loads the HTML document from a URL. |
-| [HTMLDocument](htmldocument)(RequestMessage, Configuration) | Creates an HTML document from the [RequestMessage](T:Aspose.Html.Net.RequestMessage) object. |
-| [HTMLDocument](htmldocument)(Stream, string) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri that is used to resolve the relative resources' path. |
-| [HTMLDocument](htmldocument)(Stream, Url) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri that is used to resolve the relative resources' path. |
-| [HTMLDocument](htmldocument)(string, Configuration) | Loads the HTML document from an address with specified environment configuration settings. |
-| [HTMLDocument](htmldocument)(string, string) | Creates an HTML document from a String content with specified base-uri. |
-| [HTMLDocument](htmldocument)(string, Url) | Creates an HTML document from a String content with specified base-uri. |
-| [HTMLDocument](htmldocument)(Url, Configuration) | Loads the HTML document from a URL with specified environment configuration settings. |
-| [HTMLDocument](htmldocument)(Stream, string, Configuration) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri and environment configuration settings. |
-| [HTMLDocument](htmldocument)(Stream, Url, Configuration) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri and environment configuration settings. |
-| [HTMLDocument](htmldocument)(string, string, Configuration) | Creates an HTML document from a String content with specified base-uri and environment configuration settings. |
-| [HTMLDocument](htmldocument)(string, Url, Configuration) | Creates an HTML document from a String content with specified base-uri and environment configuration settings. |
+| [HTMLDocument](htmldocument#constructor)() | The HTMLDocument constructor creates a new HTML Document object that is a web page loaded in the browser and serving as an entry point into the page's content. |
+| [HTMLDocument](htmldocument#constructor_1)(Configuration) | The HTMLDocument constructor creates a new HTML Document object that is a web page loaded in the browser and serving as an entry point into the page's content. |
+| [HTMLDocument](htmldocument#constructor_2)(RequestMessage) | Creates an HTML document from the [`RequestMessage`](../../aspose.html.net/requestmessage) object. |
+| [HTMLDocument](htmldocument#constructor_10)(string) | Loads the HTML document from an address. |
+| [HTMLDocument](htmldocument#constructor_4)(Url) | Loads the HTML document from a URL. |
+| [HTMLDocument](htmldocument#constructor_3)(RequestMessage, Configuration) | Creates an HTML document from the [RequestMessage](T:Aspose.Html.Net.RequestMessage) object. |
+| [HTMLDocument](htmldocument#constructor_8)(Stream, string) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri that is used to resolve the relative resources' path. |
+| [HTMLDocument](htmldocument#constructor_6)(Stream, Url) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri that is used to resolve the relative resources' path. |
+| [HTMLDocument](htmldocument#constructor_11)(string, Configuration) | Loads the HTML document from an address with specified environment configuration settings. |
+| [HTMLDocument](htmldocument#constructor_14)(string, string) | Creates an HTML document from a String content with specified base-uri. |
+| [HTMLDocument](htmldocument#constructor_12)(string, Url) | Creates an HTML document from a String content with specified base-uri. |
+| [HTMLDocument](htmldocument#constructor_5)(Url, Configuration) | Loads the HTML document from a URL with specified environment configuration settings. |
+| [HTMLDocument](htmldocument#constructor_9)(Stream, string, Configuration) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri and environment configuration settings. |
+| [HTMLDocument](htmldocument#constructor_7)(Stream, Url, Configuration) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri and environment configuration settings. |
+| [HTMLDocument](htmldocument#constructor_15)(string, string, Configuration) | Creates an HTML document from a String content with specified base-uri and environment configuration settings. |
+| [HTMLDocument](htmldocument#constructor_13)(string, Url, Configuration) | Creates an HTML document from a String content with specified base-uri and environment configuration settings. |
 
 ## Properties
 
@@ -153,21 +153,21 @@ public class HTMLDocument : Document, IDocumentCSS
 | [RemoveEventListener](../../aspose.html.dom/eventtarget/removeeventlistener)(string, IEventListener, bool) | This method allows the removal of event listeners from the event target. If an is removed from an while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
 | override [RenderTo](../../aspose.html/htmldocument/renderto)(IDevice) | This method is used to print the contents of the current document to the specified device. |
 | [ReplaceChild](../../aspose.html.dom/node/replacechild)(Node, Node) | Replaces the child node oldChild with newChild in the list of children, and returns the oldChild node. If newChild is a [`DocumentFragment`](../../aspose.html.dom/documentfragment) object, oldChild is replaced by all of the [`DocumentFragment`](../../aspose.html.dom/documentfragment) children, which are inserted in the same order. If the newChild is already in the tree, it is first removed. |
-| [Save](../../aspose.html/htmldocument/save)(IOutputStorage) | Saves the document content and resources to the output storage. |
-| [Save](../../aspose.html/htmldocument/save)(string) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
-| [Save](../../aspose.html/htmldocument/save)(Url) | Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files". |
-| [Save](../../aspose.html/htmldocument/save)(IOutputStorage, HTMLSaveFormat) | Saves the document content and resources to the output storage. |
-| [Save](../../aspose.html/htmldocument/save)(IOutputStorage, HTMLSaveOptions) | Saves the document content and resources to the output storage. |
-| [Save](../../aspose.html/htmldocument/save)(IOutputStorage, MarkdownSaveOptions) | Saves the document content and resources to the output storage. |
-| [Save](../../aspose.html/htmldocument/save)(IOutputStorage, MHTMLSaveOptions) | Saves the document content and resources to the output storage. |
-| [Save](../../aspose.html/htmldocument/save)(string, HTMLSaveFormat) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files". |
-| [Save](../../aspose.html/htmldocument/save)(string, HTMLSaveOptions) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
-| [Save](../../aspose.html/htmldocument/save)(string, MarkdownSaveOptions) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
-| [Save](../../aspose.html/htmldocument/save)(string, MHTMLSaveOptions) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
-| [Save](../../aspose.html/htmldocument/save)(Url, HTMLSaveFormat) | Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files". |
-| [Save](../../aspose.html/htmldocument/save)(Url, HTMLSaveOptions) | Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
-| [Save](../../aspose.html/htmldocument/save)(Url, MarkdownSaveOptions) | Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
-| [Save](../../aspose.html/htmldocument/save)(Url, MHTMLSaveOptions) | Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
+| [Save](../../aspose.html/htmldocument/save#save)(IOutputStorage) | Saves the document content and resources to the output storage. |
+| [Save](../../aspose.html/htmldocument/save#save_10)(string) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
+| [Save](../../aspose.html/htmldocument/save#save_5)(Url) | Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files". |
+| [Save](../../aspose.html/htmldocument/save#save_1)(IOutputStorage, HTMLSaveFormat) | Saves the document content and resources to the output storage. |
+| [Save](../../aspose.html/htmldocument/save#save_2)(IOutputStorage, HTMLSaveOptions) | Saves the document content and resources to the output storage. |
+| [Save](../../aspose.html/htmldocument/save#save_3)(IOutputStorage, MarkdownSaveOptions) | Saves the document content and resources to the output storage. |
+| [Save](../../aspose.html/htmldocument/save#save_4)(IOutputStorage, MHTMLSaveOptions) | Saves the document content and resources to the output storage. |
+| [Save](../../aspose.html/htmldocument/save#save_11)(string, HTMLSaveFormat) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files". |
+| [Save](../../aspose.html/htmldocument/save#save_12)(string, HTMLSaveOptions) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
+| [Save](../../aspose.html/htmldocument/save#save_13)(string, MarkdownSaveOptions) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
+| [Save](../../aspose.html/htmldocument/save#save_14)(string, MHTMLSaveOptions) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
+| [Save](../../aspose.html/htmldocument/save#save_6)(Url, HTMLSaveFormat) | Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files". |
+| [Save](../../aspose.html/htmldocument/save#save_7)(Url, HTMLSaveOptions) | Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
+| [Save](../../aspose.html/htmldocument/save#save_8)(Url, MarkdownSaveOptions) | Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
+| [Save](../../aspose.html/htmldocument/save#save_9)(Url, MHTMLSaveOptions) | Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
 | override [ToString](../../aspose.html.dom/node/tostring)() | Returns a String that represents this instance. |
 | [Write](../../aspose.html.dom/document/write)(params string[]) | Write a string of text to a document stream opened by open(). Note that the function will produce a document which is not necessarily driven by a DTD and therefore might be produce an invalid result in the context of the document. |
 | [WriteLn](../../aspose.html.dom/document/writeln)(params string[]) | Write a string of text followed by a newline character to a document stream opened by open(). Note that the function will produce a document which is not necessarily driven by a DTD and therefore might be produce an invalid result in the context of the document |

@@ -1,7 +1,7 @@
 ---
 title: Border
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The border property is a shorthand property for setting the same width color and style for all four borders of a box. Unlike the shorthand margin and padding properties the border property cannot set different values on the four borders. To do so one or more of the other border properties must be used.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.css/icss2properties/border/

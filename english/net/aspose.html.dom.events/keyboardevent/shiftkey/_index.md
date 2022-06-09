@@ -1,7 +1,7 @@
 ---
 title: ShiftKey
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: true if the shift Shift key modifier was active.
 type: docs
 weight: 100
 url: /net/aspose.html.dom.events/keyboardevent/shiftkey/

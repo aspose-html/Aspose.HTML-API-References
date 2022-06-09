@@ -1,7 +1,7 @@
 ---
 title: Pt
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Measurement is in points
 type: docs
 weight: 190
 url: /net/aspose.html.drawing/unittype/pt/

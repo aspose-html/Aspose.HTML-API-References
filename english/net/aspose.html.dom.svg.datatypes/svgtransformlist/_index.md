@@ -1,7 +1,7 @@
 ---
 title: SVGTransformList
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This interface defines a list of SVGTransform objects.
 type: docs
 weight: 1420
 url: /net/aspose.html.dom.svg.datatypes/svgtransformlist/
@@ -18,8 +18,8 @@ public class SVGTransformList : SVGListBase<SVGTransform>
 
 | Name | Description |
 | --- | --- |
-| [SVGTransformList](svgtransformlist)() | Initializes a new instance of the [`SVGTransformList`](../svgtransformlist) class. |
-| [SVGTransformList](svgtransformlist)(IEnumerable&lt;SVGTransform&gt;) | Initializes a new instance of the [`SVGTransformList`](../svgtransformlist) class. |
+| [SVGTransformList](svgtransformlist#constructor)() | Initializes a new instance of the [`SVGTransformList`](../svgtransformlist) class. |
+| [SVGTransformList](svgtransformlist#constructor_1)(IEnumerable&lt;SVGTransform&gt;) | Initializes a new instance of the [`SVGTransformList`](../svgtransformlist) class. |
 
 ## Properties
 

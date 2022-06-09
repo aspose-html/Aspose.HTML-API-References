@@ -1,7 +1,7 @@
 ---
 title: CssOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents css rendering options.
 type: docs
 weight: 4210
 url: /net/aspose.html.rendering/cssoptions/

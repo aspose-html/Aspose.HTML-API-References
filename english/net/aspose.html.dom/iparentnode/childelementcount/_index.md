@@ -1,7 +1,7 @@
 ---
 title: ChildElementCount
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The childElementCount attribute must return the number of children of the context object that are elements.
 type: docs
 weight: 10
 url: /net/aspose.html.dom/iparentnode/childelementcount/

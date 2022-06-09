@@ -1,12 +1,12 @@
 ---
 title: Uint32Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Uint32Arrayaspose.html/uint32array class.
 type: docs
 weight: 10
 url: /net/aspose.html/uint32array/uint32array/
 ---
-## Uint32Array constructor (1 of 5)
+## Uint32Array(int) {#constructor_3}
 
 Initializes a new instance of the [`Uint32Array`](../../uint32array) class.
 
@@ -26,7 +26,7 @@ public Uint32Array(int length)
 
 ---
 
-## Uint32Array constructor (2 of 5)
+## Uint32Array(uint[]) {#constructor_4}
 
 Initializes a new instance of the [`Uint32Array`](../../uint32array) class.
 
@@ -46,7 +46,7 @@ public Uint32Array(uint[] data)
 
 ---
 
-## Uint32Array constructor (3 of 5)
+## Uint32Array(ArrayBuffer) {#constructor}
 
 Initializes a new instance of the [`Uint32Array`](../../uint32array) class.
 
@@ -67,7 +67,7 @@ public Uint32Array(ArrayBuffer buffer)
 
 ---
 
-## Uint32Array constructor (4 of 5)
+## Uint32Array(ArrayBuffer, int) {#constructor_1}
 
 Initializes a new instance of the [`Uint32Array`](../../uint32array) class.
 
@@ -89,7 +89,7 @@ public Uint32Array(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Uint32Array constructor (5 of 5)
+## Uint32Array(ArrayBuffer, int, int) {#constructor_2}
 
 Initializes a new instance of the [`Uint32Array`](../../uint32array) class.
 

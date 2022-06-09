@@ -6,7 +6,7 @@ type: docs
 weight: 140
 url: /net/aspose.html.dom.mutations/mutationobserverinit/add/
 ---
-## MutationObserverInit.Add method (1 of 2)
+## Add(KeyValuePair&lt;string, object&gt;) {#add}
 
 ```csharp
 public void Add(KeyValuePair<string, object> item)
@@ -20,7 +20,7 @@ public void Add(KeyValuePair<string, object> item)
 
 ---
 
-## MutationObserverInit.Add method (2 of 2)
+## Add(string, object) {#add_1}
 
 Adds the specified key and value to the [`MutationObserverInit`](../../mutationobserverinit) collection.
 

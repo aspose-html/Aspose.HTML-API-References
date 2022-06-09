@@ -1,7 +1,7 @@
 ---
 title: FromPicas
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a Lengthaspose.html.drawing/length object that is represented in picas.
 type: docs
 weight: 160
 url: /net/aspose.html.drawing/unit/frompicas/

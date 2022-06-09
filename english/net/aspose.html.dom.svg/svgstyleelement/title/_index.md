@@ -1,7 +1,7 @@
 ---
 title: Title
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute title on the given element.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svgstyleelement/title/

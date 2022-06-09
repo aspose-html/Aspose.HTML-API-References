@@ -1,7 +1,7 @@
 ---
 title: MetaKey
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: true if the meta Meta key modifier was active.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.events/keyboardevent/metakey/

@@ -1,7 +1,7 @@
 ---
 title: SVG_STITCHTYPE_NOSTITCH
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to value noStitch.
 type: docs
 weight: 120
 url: /net/aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_stitchtype_nostitch/

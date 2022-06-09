@@ -1,7 +1,7 @@
 ---
 title: LastChild
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Moves the TreeWalker to the last visible child of the current node and returns the new node. If the current node has no visible children returns null and retains the current node.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.traversal/itreewalker/lastchild/

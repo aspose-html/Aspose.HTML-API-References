@@ -1,7 +1,7 @@
 ---
 title: NumberValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value of this number result.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.xpath/ixpathresult/numbervalue/

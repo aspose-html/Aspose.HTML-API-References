@@ -1,7 +1,7 @@
 ---
 title: ButtonElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The ButtonElement represents a wrapper that is associated with the HTMLButtonElement.
 type: docs
 weight: 2980
 url: /net/aspose.html.forms/buttonelement/

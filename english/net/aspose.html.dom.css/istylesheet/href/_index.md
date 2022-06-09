@@ -1,7 +1,7 @@
 ---
 title: Href
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The href property of the StyleSheetaspose.html.dom.css/istylesheet interface returns the location of the style sheet.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/istylesheet/href/

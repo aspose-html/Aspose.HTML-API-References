@@ -1,7 +1,7 @@
 ---
 title: IDocumentFragmentElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents common interface for all Document Fragment elements.
 type: docs
 weight: 3730
 url: /net/aspose.html/idocumentfragmentelement/

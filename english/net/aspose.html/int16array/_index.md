@@ -1,7 +1,7 @@
 ---
 title: Int16Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an array of twos-complement 16-bit signed integers in the platform byte order.
 type: docs
 weight: 3860
 url: /net/aspose.html/int16array/
@@ -18,11 +18,11 @@ public class Int16Array : TypedArray<short>
 
 | Name | Description |
 | --- | --- |
-| [Int16Array](int16array)(ArrayBuffer) | Initializes a new instance of the [`Int16Array`](../int16array) class. |
-| [Int16Array](int16array)(int) | Initializes a new instance of the [`Int16Array`](../int16array) class. |
-| [Int16Array](int16array)(short[]) | Initializes a new instance of the [`Int16Array`](../int16array) class. |
-| [Int16Array](int16array)(ArrayBuffer, int) | Initializes a new instance of the [`Int16Array`](../int16array) class. |
-| [Int16Array](int16array)(ArrayBuffer, int, int) | Initializes a new instance of the [`Int16Array`](../int16array) class. |
+| [Int16Array](int16array#constructor)(ArrayBuffer) | Initializes a new instance of the [`Int16Array`](../int16array) class. |
+| [Int16Array](int16array#constructor_4)(int) | Initializes a new instance of the [`Int16Array`](../int16array) class. |
+| [Int16Array](int16array#constructor_3)(short[]) | Initializes a new instance of the [`Int16Array`](../int16array) class. |
+| [Int16Array](int16array#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the [`Int16Array`](../int16array) class. |
+| [Int16Array](int16array#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the [`Int16Array`](../int16array) class. |
 
 ## Properties
 
@@ -40,11 +40,11 @@ public class Int16Array : TypedArray<short>
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [BYTES_PER_ELEMENT](bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
+| static readonly [BYTES_PER_ELEMENT](../../aspose.html/int16array/bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
 
 ### See Also
 

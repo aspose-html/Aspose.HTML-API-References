@@ -1,7 +1,7 @@
 ---
 title: ICSSCounterStyleRule
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The CSSCounterStyleRule interface represents an counter-style at-rule that allows authors to define a custom counter style.
 type: docs
 weight: 500
 url: /net/aspose.html.dom.css/icsscounterstylerule/

@@ -1,7 +1,7 @@
 ---
 title: Padding
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The paddinghttps//www.w3.org/TR/1998/REC-CSS2-19980512/box.htmlpropdef-padding property is a shorthand property for setting padding-tophttps//www.w3.org/TR/1998/REC-CSS2-19980512/box.htmlpropdef-padding-top padding-righthttps//www.w3.org/TR/1998/REC-CSS2-19980512/box.htmlpropdef-padding-right padding-bottomhttps//www.w3.org/TR/1998/REC-CSS2-19980512/box.htmlpropdef-padding-bottom and padding-lefthttps//www.w3.org/TR/1998/REC-CSS2-19980512/box.htmlpropdef-padding-left at the same place in the style sheet.
 type: docs
 weight: 800
 url: /net/aspose.html.dom.css/icss2properties/padding/

@@ -1,7 +1,7 @@
 ---
 title: PathLength
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute pathLength on the given element.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svggeometryelement/pathlength/

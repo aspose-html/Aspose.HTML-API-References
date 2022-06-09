@@ -1,7 +1,7 @@
 ---
 title: Match
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: When overridden in a derived class tests whether a Context satisfies the filter criteria.
 type: docs
 weight: 20
 url: /net/aspose.html.net.messagefilters/protocolmessagefilter/match/

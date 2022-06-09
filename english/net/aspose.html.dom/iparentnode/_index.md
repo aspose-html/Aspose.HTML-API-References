@@ -1,7 +1,7 @@
 ---
 title: IParentNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the IParentNode./iparentnode interface that is implemented by any possible parents.
 type: docs
 weight: 1060
 url: /net/aspose.html.dom/iparentnode/

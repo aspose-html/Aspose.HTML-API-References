@@ -1,7 +1,7 @@
 ---
 title: URL
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The complete URI of the document.
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg/svgdocument/url/

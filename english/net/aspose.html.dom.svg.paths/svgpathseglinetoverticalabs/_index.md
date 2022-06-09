@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegLinetoVerticalAbs
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGPathSegLinetoVerticalAbs interface corresponds to an absolute vertical lineto V path data command.
 type: docs
 weight: 1960
 url: /net/aspose.html.dom.svg.paths/svgpathseglinetoverticalabs/

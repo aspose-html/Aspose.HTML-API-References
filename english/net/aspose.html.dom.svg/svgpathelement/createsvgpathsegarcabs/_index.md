@@ -1,7 +1,7 @@
 ---
 title: CreateSVGPathSegArcAbs
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a stand-alone parentless SVGPathSegArcAbs object.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svgpathelement/createsvgpathsegarcabs/

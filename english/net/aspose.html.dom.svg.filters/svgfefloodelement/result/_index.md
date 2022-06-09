@@ -1,7 +1,7 @@
 ---
 title: Result
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute result on the given filter element.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.filters/svgfefloodelement/result/

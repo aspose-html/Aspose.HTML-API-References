@@ -1,12 +1,12 @@
 ---
 title: FormSubmitter
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the FormSubmitteraspose.html.forms/formsubmitter class based on HTMLFormElementaspose.html/htmlformelement.
 type: docs
 weight: 10
 url: /net/aspose.html.forms/formsubmitter/formsubmitter/
 ---
-## FormSubmitter constructor (1 of 4)
+## FormSubmitter(HTMLFormElement) {#constructor_3}
 
 Initializes a new instance of the [`FormSubmitter`](../../formsubmitter) class based on [`HTMLFormElement`](../../../aspose.html/htmlformelement).
 
@@ -27,7 +27,7 @@ public FormSubmitter(HTMLFormElement form)
 
 ---
 
-## FormSubmitter constructor (2 of 4)
+## FormSubmitter(HTMLDocument, int) {#constructor_1}
 
 Initializes a new instance of the [`FormSubmitter`](../../formsubmitter) class based on [`HTMLFormElement`](../../../aspose.html/htmlformelement) selected by index from [`HTMLDocument`](../../../aspose.html/htmldocument).
 
@@ -49,7 +49,7 @@ public FormSubmitter(HTMLDocument document, int index)
 
 ---
 
-## FormSubmitter constructor (3 of 4)
+## FormSubmitter(HTMLDocument, string) {#constructor_2}
 
 Initializes a new instance of the [`FormSubmitter`](../../formsubmitter) class based on [`HTMLFormElement`](../../../aspose.html/htmlformelement) selected by identifier from [`HTMLDocument`](../../../aspose.html/htmldocument).
 
@@ -71,7 +71,7 @@ public FormSubmitter(HTMLDocument document, string id)
 
 ---
 
-## FormSubmitter constructor (4 of 4)
+## FormSubmitter(FormEditor) {#constructor}
 
 Initializes a new instance of the [`FormSubmitter`](../../formsubmitter) class.
 

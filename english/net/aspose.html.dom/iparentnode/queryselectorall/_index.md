@@ -1,7 +1,7 @@
 ---
 title: QuerySelectorAll
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns all element descendants of node that match selectors.
 type: docs
 weight: 60
 url: /net/aspose.html.dom/iparentnode/queryselectorall/

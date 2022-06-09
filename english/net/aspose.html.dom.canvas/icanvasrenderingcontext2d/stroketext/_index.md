@@ -1,12 +1,12 @@
 ---
 title: StrokeText
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Draws strokes a given text at the given x y position.
 type: docs
 weight: 390
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/stroketext/
 ---
-## ICanvasRenderingContext2D.StrokeText method (1 of 2)
+## StrokeText(string, double, double) {#stroketext}
 
 Draws (strokes) a given text at the given (x, y) position.
 
@@ -28,7 +28,7 @@ public void StrokeText(string text, double x, double y)
 
 ---
 
-## ICanvasRenderingContext2D.StrokeText method (2 of 2)
+## StrokeText(string, double, double, double?) {#stroketext_1}
 
 Draws (strokes) a given text at the given (x, y) position.
 

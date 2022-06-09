@@ -1,7 +1,7 @@
 ---
 title: Int32Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an array of twos-complement 32-bit signed integers in the platform byte order.
 type: docs
 weight: 3870
 url: /net/aspose.html/int32array/
@@ -18,11 +18,11 @@ public class Int32Array : TypedArray<int>
 
 | Name | Description |
 | --- | --- |
-| [Int32Array](int32array)(ArrayBuffer) | Initializes a new instance of the [`Int32Array`](../int32array) class. |
-| [Int32Array](int32array)(int) | Initializes a new instance of the [`Int32Array`](../int32array) class. |
-| [Int32Array](int32array)(int[]) | Initializes a new instance of the [`Int32Array`](../int32array) class. |
-| [Int32Array](int32array)(ArrayBuffer, int) | Initializes a new instance of the [`Int32Array`](../int32array) class. |
-| [Int32Array](int32array)(ArrayBuffer, int, int) | Initializes a new instance of the [`Int32Array`](../int32array) class. |
+| [Int32Array](int32array#constructor)(ArrayBuffer) | Initializes a new instance of the [`Int32Array`](../int32array) class. |
+| [Int32Array](int32array#constructor_3)(int) | Initializes a new instance of the [`Int32Array`](../int32array) class. |
+| [Int32Array](int32array#constructor_4)(int[]) | Initializes a new instance of the [`Int32Array`](../int32array) class. |
+| [Int32Array](int32array#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the [`Int32Array`](../int32array) class. |
+| [Int32Array](int32array#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the [`Int32Array`](../int32array) class. |
 
 ## Properties
 
@@ -40,11 +40,11 @@ public class Int32Array : TypedArray<int>
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [BYTES_PER_ELEMENT](bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
+| static readonly [BYTES_PER_ELEMENT](../../aspose.html/int32array/bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
 
 ### See Also
 

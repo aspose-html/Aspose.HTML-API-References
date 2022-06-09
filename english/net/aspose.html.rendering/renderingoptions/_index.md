@@ -1,7 +1,7 @@
 ---
 title: RenderingOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents rendering options.
 type: docs
 weight: 4570
 url: /net/aspose.html.rendering/renderingoptions/

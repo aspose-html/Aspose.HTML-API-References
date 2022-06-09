@@ -1,7 +1,7 @@
 ---
 title: InsertRow
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Insert a new empty row in the table. The new row is inserted immediately before and in the same section as the current indexth row in the table. If index is -1 or equal to the number of rows the new row is appended. In addition when the table is empty the row is inserted into a TBODYwhich is created and inserted into the table.A table row cannot be empty according to HTML 4.01http//www.w3.org/TR/1999/REC-html401-19991224.
 type: docs
 weight: 220
 url: /net/aspose.html/htmltableelement/insertrow/

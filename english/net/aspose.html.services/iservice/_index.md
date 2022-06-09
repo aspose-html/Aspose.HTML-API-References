@@ -1,7 +1,7 @@
 ---
 title: IService
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines a base interface for service implementation.
 type: docs
 weight: 4810
 url: /net/aspose.html.services/iservice/

@@ -1,7 +1,7 @@
 ---
 title: Y2
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute y2 on the given linearGradient element.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svglineargradientelement/y2/

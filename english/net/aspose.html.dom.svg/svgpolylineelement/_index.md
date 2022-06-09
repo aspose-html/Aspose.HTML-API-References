@@ -1,7 +1,7 @@
 ---
 title: SVGPolylineElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGPolylineElement interface corresponds to the polyline element.
 type: docs
 weight: 2330
 url: /net/aspose.html.dom.svg/svgpolylineelement/

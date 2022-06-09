@@ -1,7 +1,7 @@
 ---
 title: GetHashCode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a hash code for this instance.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.css/cssvalue/gethashcode/

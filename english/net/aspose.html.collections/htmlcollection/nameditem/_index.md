@@ -1,7 +1,7 @@
 ---
 title: NamedItem
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the item in the collection matched specified name.
 type: docs
 weight: 50
 url: /net/aspose.html.collections/htmlcollection/nameditem/

@@ -1,7 +1,7 @@
 ---
 title: RefY
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute refY on the given marker element.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg/svgmarkerelement/refy/

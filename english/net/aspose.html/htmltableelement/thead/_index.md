@@ -1,7 +1,7 @@
 ---
 title: THead
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the tables CAPTION or void if none exists.
 type: docs
 weight: 130
 url: /net/aspose.html/htmltableelement/thead/

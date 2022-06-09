@@ -1,7 +1,7 @@
 ---
 title: Offset
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the offset to the next glyph in points.
 type: docs
 weight: 20
 url: /net/aspose.html.rendering/glyphinfo/offset/

@@ -1,7 +1,7 @@
 ---
 title: Dispose
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Performs application-defined tasks associated with freeing releasing or resetting unmanaged resources.
 type: docs
 weight: 100
 url: /net/aspose.html.rendering/device-2/dispose/

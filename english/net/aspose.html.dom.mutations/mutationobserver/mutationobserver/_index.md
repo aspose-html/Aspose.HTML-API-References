@@ -1,7 +1,7 @@
 ---
 title: MutationObserver
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Constructs a MutationObserver object and sets its MutationCallbackaspose.html.dom.mutations/mutationcallback to callback. The callback is invoked with a list of MutationRecord objects as first argument and the constructed MutationObserver object as second argument. It is invoked after nodes registered with the ObserveNode IMutationObserverInit method are mutated.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.mutations/mutationobserver/mutationobserver/

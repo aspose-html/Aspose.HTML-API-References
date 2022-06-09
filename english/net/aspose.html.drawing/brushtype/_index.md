@@ -1,7 +1,7 @@
 ---
 title: BrushType
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specifies the type of brush.
 type: docs
 weight: 2740
 url: /net/aspose.html.drawing/brushtype/

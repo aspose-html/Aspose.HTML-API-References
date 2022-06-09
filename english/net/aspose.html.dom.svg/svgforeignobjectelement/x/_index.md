@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute x on the given foreignObject element.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svgforeignobjectelement/x/

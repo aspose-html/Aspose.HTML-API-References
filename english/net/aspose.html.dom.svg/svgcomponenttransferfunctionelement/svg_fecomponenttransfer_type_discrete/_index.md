@@ -1,7 +1,7 @@
 ---
 title: SVG_FECOMPONENTTRANSFER_TYPE_DISCRETE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to value discrete.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_discrete/

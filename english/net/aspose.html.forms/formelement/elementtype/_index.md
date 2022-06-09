@@ -1,7 +1,7 @@
 ---
 title: ElementType
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the type of the element.
 type: docs
 weight: 10
 url: /net/aspose.html.forms/formelement/elementtype/

@@ -1,7 +1,7 @@
 ---
 title: StartColor
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the starting color of the linear gradient.
 type: docs
 weight: 50
 url: /net/aspose.html.drawing/ilineargradientbrush/startcolor/

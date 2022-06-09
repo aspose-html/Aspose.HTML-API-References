@@ -1,12 +1,12 @@
 ---
 title: Render
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines method for rendering TDocument into specified IDeviceaspose.html.rendering/idevice.
 type: docs
 weight: 10
 url: /net/aspose.html.rendering/renderer-1/render/
 ---
-## Renderer&lt;TDocument&gt;.Render method (1 of 6)
+## Render(IDevice, TDocument) {#render_2}
 
 Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice).
 
@@ -28,7 +28,7 @@ public void Render(IDevice device, TDocument document)
 
 ---
 
-## Renderer&lt;TDocument&gt;.Render method (2 of 6)
+## Render(IDevice, TDocument, TimeSpan) {#render_4}
 
 Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
@@ -51,7 +51,7 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 
 ---
 
-## Renderer&lt;TDocument&gt;.Render method (3 of 6)
+## Render(IDevice, TDocument, int) {#render_3}
 
 Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
@@ -74,7 +74,7 @@ public void Render(IDevice device, TDocument document, int timeout)
 
 ---
 
-## Renderer&lt;TDocument&gt;.Render method (4 of 6)
+## Render(IDevice, params TDocument[]) {#render_5}
 
 ```csharp
 public void Render(IDevice device, params TDocument[] documents)
@@ -89,7 +89,7 @@ public void Render(IDevice device, params TDocument[] documents)
 
 ---
 
-## Renderer&lt;TDocument&gt;.Render method (5 of 6)
+## Render(IDevice, int, params TDocument[]) {#render}
 
 ```csharp
 public void Render(IDevice device, int timeout, params TDocument[] documents)
@@ -104,7 +104,7 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 
 ---
 
-## Renderer&lt;TDocument&gt;.Render method (6 of 6)
+## Render(IDevice, TimeSpan, params TDocument[]) {#render_1}
 
 ```csharp
 public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)

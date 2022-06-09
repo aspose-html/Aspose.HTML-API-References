@@ -1,7 +1,7 @@
 ---
 title: SVG_MATRIX_NOT_INVERTABLE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Raised when an attempt is made to invert a matrix that is not invertible.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgexception/svg_matrix_not_invertable/

@@ -1,7 +1,7 @@
 ---
 title: MultimediaHost
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Host from which this info was obtained.
 type: docs
 weight: 30
 url: /net/aspose.html.datascraping.multimediascraping/multimediainfo/multimediahost/

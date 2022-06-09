@@ -1,12 +1,12 @@
 ---
 title: ToDataURL
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: returns a data URI containing a representation of the image in the format specified by the type parameter defaults to PNG. The returned image is in a resolution of 96 dpi.
 type: docs
 weight: 40
 url: /net/aspose.html/htmlcanvaselement/todataurl/
 ---
-## HTMLCanvasElement.ToDataURL method (1 of 3)
+## ToDataURL() {#todataurl}
 
 returns a data URI containing a representation of the image in the format specified by the type parameter (defaults to PNG). The returned image is in a resolution of 96 dpi.
 
@@ -26,7 +26,7 @@ A DOMString containing the requested data URI.
 
 ---
 
-## HTMLCanvasElement.ToDataURL method (2 of 3)
+## ToDataURL(string) {#todataurl_1}
 
 returns a data URI containing a representation of the image in the format specified by the type parameter (defaults to PNG). The returned image is in a resolution of 96 dpi.
 
@@ -50,7 +50,7 @@ A DOMString containing the requested data URI.
 
 ---
 
-## HTMLCanvasElement.ToDataURL method (3 of 3)
+## ToDataURL(string, double) {#todataurl_2}
 
 returns a data URI containing a representation of the image in the format specified by the type parameter (defaults to PNG). The returned image is in a resolution of 96 dpi.
 

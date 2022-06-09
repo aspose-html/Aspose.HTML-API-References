@@ -1,7 +1,7 @@
 ---
 title: SVGFEDropShadowElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGFEDropShadowElement interface corresponds to the feDropShadow element.
 type: docs
 weight: 1550
 url: /net/aspose.html.dom.svg.filters/svgfedropshadowelement/

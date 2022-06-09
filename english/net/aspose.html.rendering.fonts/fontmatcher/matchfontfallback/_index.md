@@ -1,7 +1,7 @@
 ---
 title: MatchFontFallback
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This method is called if there is no appropriate font found in the fonts lookup folders. It should return true type font based on the fontMatchingProperties which can render charCode or null if such font is not available.
 type: docs
 weight: 10
 url: /net/aspose.html.rendering.fonts/fontmatcher/matchfontfallback/

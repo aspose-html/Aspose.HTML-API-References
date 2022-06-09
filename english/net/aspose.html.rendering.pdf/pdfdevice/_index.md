@@ -1,7 +1,7 @@
 ---
 title: PdfDevice
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents rendering to a pdf document.
 type: docs
 weight: 4510
 url: /net/aspose.html.rendering.pdf/pdfdevice/
@@ -18,12 +18,12 @@ public class PdfDevice : Device<PdfGraphicContext, PdfRenderingOptions>
 
 | Name | Description |
 | --- | --- |
-| [PdfDevice](pdfdevice)(ICreateStreamProvider) | Initializes a new instance of the [`PdfDevice`](../pdfdevice) class. |
-| [PdfDevice](pdfdevice)(Stream) | Initializes a new instance of the [`PdfDevice`](../pdfdevice) class. |
-| [PdfDevice](pdfdevice)(string) | Initializes a new instance of the [`PdfDevice`](../pdfdevice) class. |
-| [PdfDevice](pdfdevice)(PdfRenderingOptions, ICreateStreamProvider) | Initializes a new instance of the [`PdfDevice`](../pdfdevice) class by rendering options and stream provider. |
-| [PdfDevice](pdfdevice)(PdfRenderingOptions, Stream) | Initializes a new instance of the [`PdfDevice`](../pdfdevice) class by rendering options and output stream. |
-| [PdfDevice](pdfdevice)(PdfRenderingOptions, string) | Initializes a new instance of the [`PdfDevice`](../pdfdevice) class by rendering options and output file name. |
+| [PdfDevice](pdfdevice#constructor)(ICreateStreamProvider) | Initializes a new instance of the [`PdfDevice`](../pdfdevice) class. |
+| [PdfDevice](pdfdevice#constructor_4)(Stream) | Initializes a new instance of the [`PdfDevice`](../pdfdevice) class. |
+| [PdfDevice](pdfdevice#constructor_5)(string) | Initializes a new instance of the [`PdfDevice`](../pdfdevice) class. |
+| [PdfDevice](pdfdevice#constructor_1)(PdfRenderingOptions, ICreateStreamProvider) | Initializes a new instance of the [`PdfDevice`](../pdfdevice) class by rendering options and stream provider. |
+| [PdfDevice](pdfdevice#constructor_2)(PdfRenderingOptions, Stream) | Initializes a new instance of the [`PdfDevice`](../pdfdevice) class by rendering options and output stream. |
+| [PdfDevice](pdfdevice#constructor_3)(PdfRenderingOptions, string) | Initializes a new instance of the [`PdfDevice`](../pdfdevice) class by rendering options and output file name. |
 
 ## Properties
 

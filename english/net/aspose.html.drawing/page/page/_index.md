@@ -1,12 +1,12 @@
 ---
 title: Page
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Pageaspose.html.drawing/page class.
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/page/page/
 ---
-## Page constructor (1 of 4)
+## Page(Size, Margin) {#constructor_3}
 
 Initializes a new instance of the [`Page`](../../page) class.
 
@@ -29,7 +29,7 @@ public Page(Size size, Margin margin)
 
 ---
 
-## Page constructor (2 of 4)
+## Page(Size) {#constructor_2}
 
 Initializes a new instance of the [`Page`](../../page) class.
 
@@ -50,7 +50,7 @@ public Page(Size size)
 
 ---
 
-## Page constructor (3 of 4)
+## Page(Margin) {#constructor_1}
 
 Initializes a new instance of the [`Page`](../../page) class.
 
@@ -71,7 +71,7 @@ public Page(Margin margin)
 
 ---
 
-## Page constructor (4 of 4)
+## Page() {#constructor}
 
 Initializes a new instance of the [`Page`](../../page) class.
 

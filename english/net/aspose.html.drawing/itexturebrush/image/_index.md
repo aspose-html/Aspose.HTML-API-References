@@ -1,7 +1,7 @@
 ---
 title: Image
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the image used by the brush.
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/itexturebrush/image/

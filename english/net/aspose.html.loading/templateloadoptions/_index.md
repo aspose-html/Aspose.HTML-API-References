@@ -1,7 +1,7 @@
 ---
 title: TemplateLoadOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specific load options data class.
 type: docs
 weight: 3900
 url: /net/aspose.html.loading/templateloadoptions/

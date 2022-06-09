@@ -1,7 +1,7 @@
 ---
 title: Quotes
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This property specifies quotation marks for any number of embedded quotations.
 type: docs
 weight: 960
 url: /net/aspose.html.dom.css/icss2properties/quotes/

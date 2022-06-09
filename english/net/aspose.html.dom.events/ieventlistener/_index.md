@@ -1,7 +1,7 @@
 ---
 title: IEventListener
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The interface is the primary method for handling events. Users implement the interface and register their listener on an using the method. The users should also remove their from its after they have completed using the listener.
 type: docs
 weight: 910
 url: /net/aspose.html.dom.events/ieventlistener/

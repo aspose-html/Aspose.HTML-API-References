@@ -1,7 +1,7 @@
 ---
 title: Ry
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute ry on the given rect element.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svgrectelement/ry/

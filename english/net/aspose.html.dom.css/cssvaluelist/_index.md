@@ -1,7 +1,7 @@
 ---
 title: CSSValueList
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The CSSValueList interface provides the abstraction of an ordered collection of CSS values.
 type: docs
 weight: 460
 url: /net/aspose.html.dom.css/cssvaluelist/
@@ -20,9 +20,9 @@ public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 
 | Name | Description |
 | --- | --- |
-| [CSSValueList](cssvaluelist)() | Initializes a new instance of the [`CSSValueList`](../cssvaluelist) class. |
-| [CSSValueList](cssvaluelist)(params CSSValue[]) | Initializes a new instance of the [`CSSValueList`](../cssvaluelist) class. |
-| [CSSValueList](cssvaluelist)(IEnumerable&lt;CSSValue&gt;) | Initializes a new instance of the [`CSSValueList`](../cssvaluelist) class. |
+| [CSSValueList](cssvaluelist#constructor)() | Initializes a new instance of the [`CSSValueList`](../cssvaluelist) class. |
+| [CSSValueList](cssvaluelist#constructor_1)(params CSSValue[]) | Initializes a new instance of the [`CSSValueList`](../cssvaluelist) class. |
+| [CSSValueList](cssvaluelist#constructor_2)(IEnumerable&lt;CSSValue&gt;) | Initializes a new instance of the [`CSSValueList`](../cssvaluelist) class. |
 
 ## Properties
 

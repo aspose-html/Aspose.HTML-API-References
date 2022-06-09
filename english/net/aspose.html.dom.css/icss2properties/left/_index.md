@@ -1,7 +1,7 @@
 ---
 title: Left
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This property specifies how far a boxs left content edge is offset to the right of the left edge of the boxs containing blockhttps//www.w3.org/TR/1998/REC-CSS2-19980512/visuren.htmlcontaining-block.
 type: docs
 weight: 560
 url: /net/aspose.html.dom.css/icss2properties/left/

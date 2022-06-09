@@ -1,7 +1,7 @@
 ---
 title: MarkdownSaveOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents Markdown save options. For example you can set markdown formatting style use predefined GitLab Flavored Markdown compatible options and configurate resources handling. Refer to more info in articlehttps//docs.aspose.com/html/net/converting-between-formats/html-to-markdown/save-options.
 type: docs
 weight: 4710
 url: /net/aspose.html.saving/markdownsaveoptions/

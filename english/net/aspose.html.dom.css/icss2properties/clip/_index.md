@@ -1,7 +1,7 @@
 ---
 title: Clip
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The clip property applies to elements that have a overflow property with a value other than visible.
 type: docs
 weight: 330
 url: /net/aspose.html.dom.css/icss2properties/clip/

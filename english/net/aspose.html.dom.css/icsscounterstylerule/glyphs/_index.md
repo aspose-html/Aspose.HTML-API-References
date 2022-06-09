@@ -1,7 +1,7 @@
 ---
 title: Glyphs
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The glyphs property of the CSSCounterStyleRuleaspose.html.dom.css/icsscounterstylerule interface gets and sets the value of the symbols descriptor. If the descriptor does not have a value set this attribute returns an empty string.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/icsscounterstylerule/glyphs/

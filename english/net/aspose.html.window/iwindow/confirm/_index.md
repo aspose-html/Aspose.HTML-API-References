@@ -1,7 +1,7 @@
 ---
 title: Confirm
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Displays a modal OK/Cancel prompt with the given message waits for the user to dismiss it and returns true if the user clicks OK and false if the user clicks Cancel.
 type: docs
 weight: 110
 url: /net/aspose.html.window/iwindow/confirm/

@@ -1,7 +1,7 @@
 ---
 title: BackgroundRepeat
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: If a background image is specified this property specifies whether the image is repeated tiled and how. All tiling covers the content and padding areas of a box. Values have the following meanings
 type: docs
 weight: 70
 url: /net/aspose.html.dom.css/icss2properties/backgroundrepeat/

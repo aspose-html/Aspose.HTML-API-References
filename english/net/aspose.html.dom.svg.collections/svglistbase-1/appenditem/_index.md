@@ -1,7 +1,7 @@
 ---
 title: AppendItem
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Inserts a new item at the end of the list.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/appenditem/

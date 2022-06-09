@@ -1,7 +1,7 @@
 ---
 title: SVG_FECOLORMATRIX_TYPE_HUEROTATE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to value hueRotate.
 type: docs
 weight: 90
 url: /net/aspose.html.dom.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_huerotate/

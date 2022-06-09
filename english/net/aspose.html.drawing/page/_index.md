@@ -1,7 +1,7 @@
 ---
 title: Page
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents a page object is used for configuration output page. The lacuna value for page size is A4210x297mm
 type: docs
 weight: 2890
 url: /net/aspose.html.drawing/page/
@@ -18,10 +18,10 @@ public class Page
 
 | Name | Description |
 | --- | --- |
-| [Page](page)() | Initializes a new instance of the [`Page`](../page) class. |
-| [Page](page)(Margin) | Initializes a new instance of the [`Page`](../page) class. |
-| [Page](page)(Size) | Initializes a new instance of the [`Page`](../page) class. |
-| [Page](page)(Size, Margin) | Initializes a new instance of the [`Page`](../page) class. |
+| [Page](page#constructor)() | Initializes a new instance of the [`Page`](../page) class. |
+| [Page](page#constructor_1)(Margin) | Initializes a new instance of the [`Page`](../page) class. |
+| [Page](page#constructor_2)(Size) | Initializes a new instance of the [`Page`](../page) class. |
+| [Page](page#constructor_3)(Size, Margin) | Initializes a new instance of the [`Page`](../page) class. |
 
 ## Properties
 

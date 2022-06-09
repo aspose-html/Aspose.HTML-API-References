@@ -1,7 +1,7 @@
 ---
 title: SnapshotItem
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the indexth item in the snapshot collection. If index is greater than or equal to the number of nodes in the list this method returns null. Unlike the iterator result the snapshot does not become invalid but may not correspond to the current document if it is mutated.
 type: docs
 weight: 90
 url: /net/aspose.html.dom.xpath/ixpathresult/snapshotitem/

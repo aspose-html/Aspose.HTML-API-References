@@ -1,7 +1,7 @@
 ---
 title: DeleteRule
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The CSSStyleSheetaspose.html.dom.css/icssstylesheet method deleteRule removes a rule from the stylesheet object.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/icssstylesheet/deleterule/

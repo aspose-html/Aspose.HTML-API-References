@@ -1,7 +1,7 @@
 ---
 title: SHOW_DOCUMENT_FRAGMENT
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Show DocumentFragment nodes.
 type: docs
 weight: 110
 url: /net/aspose.html.dom.traversal.filters/nodefilter/show_document_fragment/

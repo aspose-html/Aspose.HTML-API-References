@@ -1,7 +1,7 @@
 ---
 title: NamedItem
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Method returns the indexth item in the collection. http//www.w3.org/TR/DOM-Level-2-HTML/html.htmlHTMLOptionsCollection-namedItem
 type: docs
 weight: 30
 url: /net/aspose.html/ihtmloptionscollection/nameditem/

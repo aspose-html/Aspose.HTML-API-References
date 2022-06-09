@@ -1,7 +1,7 @@
 ---
 title: Float64Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an array of 64-bit floating point numbers corresponding to the C float data type in the platform byte order.
 type: docs
 weight: 2960
 url: /net/aspose.html/float64array/
@@ -18,11 +18,11 @@ public class Float64Array : TypedArray<double>
 
 | Name | Description |
 | --- | --- |
-| [Float64Array](float64array)(ArrayBuffer) | Initializes a new instance of the [`Float64Array`](../float64array) class. |
-| [Float64Array](float64array)(double[]) | Initializes a new instance of the [`Float64Array`](../float64array) class. |
-| [Float64Array](float64array)(int) | Initializes a new instance of the [`Float64Array`](../float64array) class. |
-| [Float64Array](float64array)(ArrayBuffer, int) | Initializes a new instance of the [`Float64Array`](../float64array) class. |
-| [Float64Array](float64array)(ArrayBuffer, int, int) | Initializes a new instance of the [`Float64Array`](../float64array) class. |
+| [Float64Array](float64array#constructor)(ArrayBuffer) | Initializes a new instance of the [`Float64Array`](../float64array) class. |
+| [Float64Array](float64array#constructor_3)(double[]) | Initializes a new instance of the [`Float64Array`](../float64array) class. |
+| [Float64Array](float64array#constructor_4)(int) | Initializes a new instance of the [`Float64Array`](../float64array) class. |
+| [Float64Array](float64array#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the [`Float64Array`](../float64array) class. |
+| [Float64Array](float64array#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the [`Float64Array`](../float64array) class. |
 
 ## Properties
 
@@ -40,11 +40,11 @@ public class Float64Array : TypedArray<double>
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [BYTES_PER_ELEMENT](bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
+| static readonly [BYTES_PER_ELEMENT](../../aspose.html/float64array/bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
 
 ### See Also
 

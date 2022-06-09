@@ -1,7 +1,7 @@
 ---
 title: MessageHandlers
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets an list of MessageHandleraspose.html.net/messagehandler instances to be invoked as an RequestMessageaspose.html.net/requestmessage executes.
 type: docs
 weight: 10
 url: /net/aspose.html.services/inetworkservice/messagehandlers/

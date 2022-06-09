@@ -1,7 +1,7 @@
 ---
 title: CueAfter
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Auditory icons are another way to distinguish semantic elements. Sounds may be played before and/or after the element to delimit it.
 type: docs
 weight: 390
 url: /net/aspose.html.dom.css/icss2properties/cueafter/

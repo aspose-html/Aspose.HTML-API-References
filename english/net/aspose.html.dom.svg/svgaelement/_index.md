@@ -1,7 +1,7 @@
 ---
 title: SVGAElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGAElement interface corresponds to the a element.
 type: docs
 weight: 2010
 url: /net/aspose.html.dom.svg/svgaelement/

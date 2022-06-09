@@ -1,7 +1,7 @@
 ---
 title: Rows
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the tables TFOOT or null if none exists.
 type: docs
 weight: 80
 url: /net/aspose.html/htmltableelement/rows/

@@ -1,7 +1,7 @@
 ---
 title: SVG_EDGEMODE_DUPLICATE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to value duplicate.
 type: docs
 weight: 180
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/svg_edgemode_duplicate/

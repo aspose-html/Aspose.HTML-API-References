@@ -1,7 +1,7 @@
 ---
 title: PlayDuring
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Similar to the cue-beforehttps//www.w3.org/TR/1998/REC-CSS2-19980512/aural.htmlpropdef-cue-before and cue-afterhttps//www.w3.org/TR/1998/REC-CSS2-19980512/aural.htmlpropdef-cue-after properties this property specifies a sound to be played as a background while an elements content is spoken.
 type: docs
 weight: 940
 url: /net/aspose.html.dom.css/icss2properties/playduring/

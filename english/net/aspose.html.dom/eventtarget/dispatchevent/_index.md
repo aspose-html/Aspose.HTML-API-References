@@ -1,7 +1,7 @@
 ---
 title: DispatchEvent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Dispatches an Event at the specified EventTargetaspose.html.dom.events/ieventtarget synchronously invoking the affected EventListeners in the appropriate order. The normal event processing rules including the capturing and optional bubbling phase also apply to events dispatched manually with dispatchEventaspose.html.dom.events/ieventtarget/dispatchevent.
 type: docs
 weight: 20
 url: /net/aspose.html.dom/eventtarget/dispatchevent/

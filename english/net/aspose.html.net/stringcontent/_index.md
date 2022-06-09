@@ -1,7 +1,7 @@
 ---
 title: StringContent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents content based on a string.
 type: docs
 weight: 4170
 url: /net/aspose.html.net/stringcontent/
@@ -18,9 +18,9 @@ public class StringContent : ByteArrayContent
 
 | Name | Description |
 | --- | --- |
-| [StringContent](stringcontent)(string) | Initializes a new instance of the [`StringContent`](../stringcontent) class. |
-| [StringContent](stringcontent)(string, Encoding) | Initializes a new instance of the [`StringContent`](../stringcontent) class. |
-| [StringContent](stringcontent)(string, Encoding, string) | Initializes a new instance of the [`StringContent`](../stringcontent) class. |
+| [StringContent](stringcontent#constructor)(string) | Initializes a new instance of the [`StringContent`](../stringcontent) class. |
+| [StringContent](stringcontent#constructor_1)(string, Encoding) | Initializes a new instance of the [`StringContent`](../stringcontent) class. |
+| [StringContent](stringcontent#constructor_2)(string, Encoding, string) | Initializes a new instance of the [`StringContent`](../stringcontent) class. |
 
 ## Properties
 

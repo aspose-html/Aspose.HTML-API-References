@@ -1,12 +1,12 @@
 ---
 title: StringContent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the StringContentaspose.html.net/stringcontent class.
 type: docs
 weight: 10
 url: /net/aspose.html.net/stringcontent/stringcontent/
 ---
-## StringContent constructor (1 of 3)
+## StringContent(string) {#constructor}
 
 Initializes a new instance of the [`StringContent`](../../stringcontent) class.
 
@@ -26,7 +26,7 @@ public StringContent(string content)
 
 ---
 
-## StringContent constructor (2 of 3)
+## StringContent(string, Encoding) {#constructor_1}
 
 Initializes a new instance of the [`StringContent`](../../stringcontent) class.
 
@@ -47,7 +47,7 @@ public StringContent(string content, Encoding encoding)
 
 ---
 
-## StringContent constructor (3 of 3)
+## StringContent(string, Encoding, string) {#constructor_2}
 
 Initializes a new instance of the [`StringContent`](../../stringcontent) class.
 

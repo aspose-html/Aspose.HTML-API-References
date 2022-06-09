@@ -1,7 +1,7 @@
 ---
 title: NextSibling
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The read-only nextSibling property of the Nodeaspose.html.dom/node interface returns the node immediately following the specified one in their parents childNodesaspose.html.dom/node/childnodes or returns null if the specified node is the last child in the parent element.
 type: docs
 weight: 80
 url: /net/aspose.html.dom/node/nextsibling/

@@ -1,7 +1,7 @@
 ---
 title: Elevation
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Values of this property have the following meanings
 type: docs
 weight: 440
 url: /net/aspose.html.dom.css/icss2properties/elevation/

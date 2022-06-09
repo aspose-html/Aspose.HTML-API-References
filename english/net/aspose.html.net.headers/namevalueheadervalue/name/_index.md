@@ -1,7 +1,7 @@
 ---
 title: Name
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the parameter name.
 type: docs
 weight: 10
 url: /net/aspose.html.net.headers/namevalueheadervalue/name/

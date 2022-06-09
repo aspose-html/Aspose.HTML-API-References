@@ -1,7 +1,7 @@
 ---
 title: EndColor
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the ending color of the linear gradient.
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/ilineargradientbrush/endcolor/

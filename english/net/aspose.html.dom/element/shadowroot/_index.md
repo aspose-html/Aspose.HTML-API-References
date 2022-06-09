@@ -1,7 +1,7 @@
 ---
 title: ShadowRoot
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns shadowRoot stored on this element or null if its closed.
 type: docs
 weight: 200
 url: /net/aspose.html.dom/element/shadowroot/

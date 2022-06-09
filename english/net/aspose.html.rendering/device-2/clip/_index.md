@@ -1,7 +1,7 @@
 ---
 title: Clip
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Modifies the current clipping path by intersecting it with the current path using the FillMode rule to determine the region to fill. This method terminates current path.
 type: docs
 weight: 70
 url: /net/aspose.html.rendering/device-2/clip/

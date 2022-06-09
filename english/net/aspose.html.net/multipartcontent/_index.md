@@ -1,7 +1,7 @@
 ---
 title: MultipartContent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents a multipart/ content.
 type: docs
 weight: 4100
 url: /net/aspose.html.net/multipartcontent/
@@ -18,9 +18,9 @@ public class MultipartContent : Content, IEnumerable<Content>
 
 | Name | Description |
 | --- | --- |
-| [MultipartContent](multipartcontent)() | Create a new instance of the [`MultipartContent`](../multipartcontent) class. |
-| [MultipartContent](multipartcontent)(string) | Create a new instance of the [`MultipartContent`](../multipartcontent) class with subtype. |
-| [MultipartContent](multipartcontent)(string, string) | Create a new instance of the [`MultipartContent`](../multipartcontent) class with subtype and boundary. |
+| [MultipartContent](multipartcontent#constructor)() | Create a new instance of the [`MultipartContent`](../multipartcontent) class. |
+| [MultipartContent](multipartcontent#constructor_1)(string) | Create a new instance of the [`MultipartContent`](../multipartcontent) class with subtype. |
+| [MultipartContent](multipartcontent#constructor_2)(string, string) | Create a new instance of the [`MultipartContent`](../multipartcontent) class with subtype and boundary. |
 
 ## Properties
 

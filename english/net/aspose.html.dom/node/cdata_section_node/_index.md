@@ -1,7 +1,7 @@
 ---
 title: CDATA_SECTION_NODE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: A CDATASectionaspose.html.dom/cdatasection such as ltCDATA  gt.
 type: docs
 weight: 330
 url: /net/aspose.html.dom/node/cdata_section_node/

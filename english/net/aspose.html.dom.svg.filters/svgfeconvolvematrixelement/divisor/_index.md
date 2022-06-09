@@ -1,7 +1,7 @@
 ---
 title: Divisor
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute divisor on the given feConvolveMatrix element.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/divisor/

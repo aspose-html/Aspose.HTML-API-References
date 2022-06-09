@@ -1,7 +1,7 @@
 ---
 title: Fr
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute fr on the given radialGradient element.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svgradialgradientelement/fr/

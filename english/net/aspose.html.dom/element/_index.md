@@ -1,7 +1,7 @@
 ---
 title: Element
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The Element interface represents an element in an HTML or XML document.
 type: docs
 weight: 800
 url: /net/aspose.html.dom/element/

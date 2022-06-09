@@ -1,7 +1,7 @@
 ---
 title: ClassId
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines a class ID value as set in the Windows Registry or a URL
 type: docs
 weight: 40
 url: /net/aspose.html/htmlobjectelement/classid/

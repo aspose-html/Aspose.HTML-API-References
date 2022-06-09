@@ -1,7 +1,7 @@
 ---
 title: Type
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute type on the given feColorMatrix element. Takes one of the SVG_FECOLORMATRIX_TYPE_ constants defined on this interface.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.filters/svgfecolormatrixelement/type/

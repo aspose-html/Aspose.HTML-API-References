@@ -1,12 +1,12 @@
 ---
 title: Int8Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Int8Arrayaspose.html/int8array class.
 type: docs
 weight: 10
 url: /net/aspose.html/int8array/int8array/
 ---
-## Int8Array constructor (1 of 5)
+## Int8Array(int) {#constructor_3}
 
 Initializes a new instance of the [`Int8Array`](../../int8array) class.
 
@@ -26,7 +26,7 @@ public Int8Array(int length)
 
 ---
 
-## Int8Array constructor (2 of 5)
+## Int8Array(sbyte[]) {#constructor_4}
 
 Initializes a new instance of the [`Int8Array`](../../int8array) class.
 
@@ -46,7 +46,7 @@ public Int8Array(sbyte[] data)
 
 ---
 
-## Int8Array constructor (3 of 5)
+## Int8Array(ArrayBuffer) {#constructor}
 
 Initializes a new instance of the [`Int8Array`](../../int8array) class.
 
@@ -67,7 +67,7 @@ public Int8Array(ArrayBuffer buffer)
 
 ---
 
-## Int8Array constructor (4 of 5)
+## Int8Array(ArrayBuffer, int) {#constructor_1}
 
 Initializes a new instance of the [`Int8Array`](../../int8array) class.
 
@@ -89,7 +89,7 @@ public Int8Array(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Int8Array constructor (5 of 5)
+## Int8Array(ArrayBuffer, int, int) {#constructor_2}
 
 Initializes a new instance of the [`Int8Array`](../../int8array) class.
 

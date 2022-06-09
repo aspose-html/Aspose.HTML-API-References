@@ -1,7 +1,7 @@
 ---
 title: OnDurationChange
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnDurationChange event.
 type: docs
 weight: 160
 url: /net/aspose.html/htmlelement/ondurationchange/

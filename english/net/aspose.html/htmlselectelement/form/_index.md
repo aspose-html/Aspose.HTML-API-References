@@ -1,7 +1,7 @@
 ---
 title: Form
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The number of options in this SELECT.
 type: docs
 weight: 20
 url: /net/aspose.html/htmlselectelement/form/

@@ -1,7 +1,7 @@
 ---
 title: OptionCollection
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The OptionElements represents a wrapper that is associated with the IHTMLOptionsCollection
 type: docs
 weight: 3080
 url: /net/aspose.html.forms/optioncollection/

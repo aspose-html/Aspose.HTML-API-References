@@ -1,7 +1,7 @@
 ---
 title: GetAll
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns all values whose name is name.
 type: docs
 weight: 40
 url: /net/aspose.html/iurlsearchparams/getall/

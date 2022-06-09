@@ -1,7 +1,7 @@
 ---
 title: ContentHeaders
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Contains the headers associated with a content.
 type: docs
 weight: 3950
 url: /net/aspose.html.net/contentheaders/

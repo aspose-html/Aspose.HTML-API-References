@@ -1,7 +1,7 @@
 ---
 title: GetRGBColorValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This method is used to get the RGB color. If this CSS value doesnt contain a RGB color value a DOMException is raised. Modification to the corresponding style property can be achieved using the RGBColor interface.
 type: docs
 weight: 60
 url: /net/aspose.html.dom.css/cssprimitivevalue/getrgbcolorvalue/

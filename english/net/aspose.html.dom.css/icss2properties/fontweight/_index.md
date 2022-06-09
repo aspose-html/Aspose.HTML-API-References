@@ -1,7 +1,7 @@
 ---
 title: FontWeight
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The font-weight property specifies the weight of the font. Values have the following meanings
 type: docs
 weight: 540
 url: /net/aspose.html.dom.css/icss2properties/fontweight/

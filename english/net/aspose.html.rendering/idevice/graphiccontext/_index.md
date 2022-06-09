@@ -1,7 +1,7 @@
 ---
 title: GraphicContext
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the graphic context.
 type: docs
 weight: 10
 url: /net/aspose.html.rendering/idevice/graphiccontext/

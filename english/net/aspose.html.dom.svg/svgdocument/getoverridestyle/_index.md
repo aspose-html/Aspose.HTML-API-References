@@ -1,7 +1,7 @@
 ---
 title: GetOverrideStyle
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element.
 type: docs
 weight: 70
 url: /net/aspose.html.dom.svg/svgdocument/getoverridestyle/

@@ -1,7 +1,7 @@
 ---
 title: DeleteRow
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Delete a table row.
 type: docs
 weight: 190
 url: /net/aspose.html/htmltableelement/deleterow/

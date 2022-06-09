@@ -1,7 +1,7 @@
 ---
 title: HTMLTemplateElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The template element
 type: docs
 weight: 3680
 url: /net/aspose.html/htmltemplateelement/

@@ -1,7 +1,7 @@
 ---
 title: OnAfterPrint
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler
 type: docs
 weight: 10
 url: /net/aspose.html.window/iwindoweventhandlers/onafterprint/

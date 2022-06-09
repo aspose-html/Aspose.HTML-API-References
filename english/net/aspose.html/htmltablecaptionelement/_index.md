@@ -1,7 +1,7 @@
 ---
 title: HTMLTableCaptionElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Table caption See the CAPTION element definition in HTML 4.01.
 type: docs
 weight: 3620
 url: /net/aspose.html/htmltablecaptionelement/

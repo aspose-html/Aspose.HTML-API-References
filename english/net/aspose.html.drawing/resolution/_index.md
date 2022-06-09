@@ -1,7 +1,7 @@
 ---
 title: Resolution
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents a resolution unit.
 type: docs
 weight: 2900
 url: /net/aspose.html.drawing/resolution/
@@ -35,7 +35,7 @@ public sealed class Resolution : Dimension
 | [operator ==](../../aspose.html.drawing/resolution/op_equality) |  |
 | [operator &gt;](../../aspose.html.drawing/resolution/op_greaterthan) |  |
 | [operator &gt;=](../../aspose.html.drawing/resolution/op_greaterthanorequal) |  |
-| [implicit operator](../../aspose.html.drawing/resolution/op_implicit) |  (2 operators) |
+| [implicit operator](../../aspose.html.drawing/resolution/op_implicit#op_implicit) |  (2 operators) |
 | [operator !=](../../aspose.html.drawing/resolution/op_inequality) |  |
 | [operator &lt;](../../aspose.html.drawing/resolution/op_lessthan) |  |
 | [operator &lt;=](../../aspose.html.drawing/resolution/op_lessthanorequal) |  |

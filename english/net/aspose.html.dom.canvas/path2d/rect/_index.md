@@ -1,7 +1,7 @@
 ---
 title: Rect
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates a path for a rectangle at position x y with a size that is determined by width and height.
 type: docs
 weight: 120
 url: /net/aspose.html.dom.canvas/path2d/rect/

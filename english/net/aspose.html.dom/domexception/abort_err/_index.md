@@ -1,7 +1,7 @@
 ---
 title: ABORT_ERR
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The operation was aborted.
 type: docs
 weight: 50
 url: /net/aspose.html.dom/domexception/abort_err/

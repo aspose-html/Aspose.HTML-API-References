@@ -1,7 +1,7 @@
 ---
 title: R1
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The x-axis radius for the ellipse i.e. r1.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.paths/svgpathsegarcrel/r1/

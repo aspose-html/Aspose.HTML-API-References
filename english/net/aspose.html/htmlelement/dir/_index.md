@@ -1,7 +1,7 @@
 ---
 title: Dir
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specifies the base direction of directionally neutral text and the directionality of tables. See the dir attribute definition in HTML 4.01.
 type: docs
 weight: 20
 url: /net/aspose.html/htmlelement/dir/

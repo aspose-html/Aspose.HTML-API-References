@@ -1,7 +1,7 @@
 ---
 title: IsDefaultNamespace
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The isDefaultNamespace method of the Node interface accepts a namespace URI as an argument. It returns a boolean value that is true if the namespace is the default namespace on the given node and false if not.
 type: docs
 weight: 230
 url: /net/aspose.html.dom/node/isdefaultnamespace/

@@ -1,7 +1,7 @@
 ---
 title: MinHeight
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: These two properties allow authors to constrain box heights to a certain range. Values have the following meanings
 type: docs
 weight: 720
 url: /net/aspose.html.dom.css/icss2properties/minheight/

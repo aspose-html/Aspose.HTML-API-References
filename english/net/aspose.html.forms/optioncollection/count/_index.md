@@ -1,7 +1,7 @@
 ---
 title: Count
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The number of Option in the list.
 type: docs
 weight: 10
 url: /net/aspose.html.forms/optioncollection/count/

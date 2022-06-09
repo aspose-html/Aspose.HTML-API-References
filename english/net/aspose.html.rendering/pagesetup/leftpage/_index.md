@@ -1,7 +1,7 @@
 ---
 title: LeftPage
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the Odd Page configuration.
 type: docs
 weight: 50
 url: /net/aspose.html.rendering/pagesetup/leftpage/

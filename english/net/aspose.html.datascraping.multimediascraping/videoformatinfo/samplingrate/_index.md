@@ -1,7 +1,7 @@
 ---
 title: SamplingRate
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Audio sampling rate in Hertz or null if there is no audio track.
 type: docs
 weight: 80
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfo/samplingrate/

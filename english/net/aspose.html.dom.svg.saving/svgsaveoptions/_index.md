@@ -1,7 +1,7 @@
 ---
 title: SVGSaveOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents SVG save options.
 type: docs
 weight: 2550
 url: /net/aspose.html.dom.svg.saving/svgsaveoptions/

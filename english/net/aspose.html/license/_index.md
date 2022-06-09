@@ -1,7 +1,7 @@
 ---
 title: License
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Provides methods to license the component.
 type: docs
 weight: 3890
 url: /net/aspose.html/license/
@@ -24,8 +24,8 @@ public class License
 
 | Name | Description |
 | --- | --- |
-| [SetLicense](../../aspose.html/license/setlicense)(Stream) | Licenses the component. |
-| [SetLicense](../../aspose.html/license/setlicense)(string) | Licenses the component. |
+| [SetLicense](../../aspose.html/license/setlicense#setlicense)(Stream) | Licenses the component. |
+| [SetLicense](../../aspose.html/license/setlicense#setlicense_1)(string) | Licenses the component. |
 
 ### Examples
 

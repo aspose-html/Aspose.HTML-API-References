@@ -1,7 +1,7 @@
 ---
 title: FromTurns
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a Angleaspose.html.drawing/angle object that is represented in turns.
 type: docs
 weight: 220
 url: /net/aspose.html.drawing/unit/fromturns/

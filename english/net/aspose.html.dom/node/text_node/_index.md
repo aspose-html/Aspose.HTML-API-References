@@ -1,7 +1,7 @@
 ---
 title: TEXT_NODE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The actual Textaspose.html.dom/text inside an Elementaspose.html.dom/element or Attraspose.html.dom/attr.
 type: docs
 weight: 430
 url: /net/aspose.html.dom/node/text_node/

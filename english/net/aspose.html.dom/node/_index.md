@@ -1,7 +1,7 @@
 ---
 title: Node
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The Node interface is the primary datatype for the entire Document Object Model. It represents a single node in the document tree. While all objects implementing the Node interface expose methods for dealing with children not all objects implementing the Node interface may have children. For example Text./text nodes may not have children and adding children to such nodes results in a DOMException./domexception being raised.
 type: docs
 weight: 1110
 url: /net/aspose.html.dom/node/
@@ -46,8 +46,8 @@ public abstract class Node : EventTarget, IXPathNSResolver
 | [AddEventListener](../../aspose.html.dom/eventtarget/addeventlistener)(string, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:Aspose.Html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
 | [AddEventListener](../../aspose.html.dom/eventtarget/addeventlistener)(string, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:Aspose.Html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
 | [AppendChild](../../aspose.html.dom/node/appendchild)(Node) | The appendChild() method of the Node interface adds a node to the end of the list of children of a specified parent node. If the given child is a reference to an existing node in the document, appendChild() moves it from its current position to the new position (there is no requirement to remove the node from its parent node before appending it to some other node). |
-| [CloneNode](../../aspose.html.dom/node/clonenode)() | The cloneNode() method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not. |
-| [CloneNode](../../aspose.html.dom/node/clonenode)(bool) | The cloneNode() method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not. |
+| [CloneNode](../../aspose.html.dom/node/clonenode#clonenode)() | The cloneNode() method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not. |
+| [CloneNode](../../aspose.html.dom/node/clonenode#clonenode_1)(bool) | The cloneNode() method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not. |
 | [DispatchEvent](../../aspose.html.dom/eventtarget/dispatchevent)(Event) | Dispatches an Event at the specified [`EventTarget`](../../aspose.html.dom.events/ieventtarget), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`dispatchEvent()`](../../aspose.html.dom.events/ieventtarget/dispatchevent). |
 | [Dispose](../../aspose.html.dom/eventtarget/dispose)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
@@ -67,22 +67,22 @@ public abstract class Node : EventTarget, IXPathNSResolver
 | [ReplaceChild](../../aspose.html.dom/node/replacechild)(Node, Node) | Replaces the child node oldChild with newChild in the list of children, and returns the oldChild node. If newChild is a [`DocumentFragment`](../documentfragment) object, oldChild is replaced by all of the [`DocumentFragment`](../documentfragment) children, which are inserted in the same order. If the newChild is already in the tree, it is first removed. |
 | override [ToString](../../aspose.html.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [ATTRIBUTE_NODE](attribute_node) | An [`Attribute`](../attr) of an [`Element`](../element). |
-| const [CDATA_SECTION_NODE](cdata_section_node) | A [`CDATASection`](../cdatasection), such as &lt;!CDATA[[ … ]]&gt;. |
-| const [COMMENT_NODE](comment_node) | A [`Comment`](../comment) node, such as &lt;!-- … --&gt;. |
-| const [DOCUMENT_FRAGMENT_NODE](document_fragment_node) | A [`DocumentFragment`](../documentfragment) node. |
-| const [DOCUMENT_NODE](document_node) | A [`Document`](../document) node. |
-| const [DOCUMENT_TYPE_NODE](document_type_node) | A [`DocumentType`](../documenttype) node, such as &lt;!DOCTYPE html&gt;. |
-| const [ELEMENT_NODE](element_node) | An [`Element`](../element) node like &lt;p&gt; or &lt;div&gt;. |
-| const [ENTITY_NODE](entity_node) | An [`Entity`](../entity) node. |
-| const [ENTITY_REFERENCE_NODE](entity_reference_node) | An [`EntityReference`](../entityreference) node. |
-| const [NOTATION_NODE](notation_node) | A [`Notation`](../notation) node |
-| const [PROCESSING_INSTRUCTION_NODE](processing_instruction_node) | A [`ProcessingInstruction`](../processinginstruction) of an XML document, such as &lt;?xml-stylesheet … ?&gt;. |
-| const [TEXT_NODE](text_node) | The actual [`Text`](../text) inside an [`Element`](../element) or [`Attr`](../attr). |
+| const [ATTRIBUTE_NODE](../../aspose.html.dom/node/attribute_node) | An [`Attribute`](../attr) of an [`Element`](../element). |
+| const [CDATA_SECTION_NODE](../../aspose.html.dom/node/cdata_section_node) | A [`CDATASection`](../cdatasection), such as &lt;!CDATA[[ … ]]&gt;. |
+| const [COMMENT_NODE](../../aspose.html.dom/node/comment_node) | A [`Comment`](../comment) node, such as &lt;!-- … --&gt;. |
+| const [DOCUMENT_FRAGMENT_NODE](../../aspose.html.dom/node/document_fragment_node) | A [`DocumentFragment`](../documentfragment) node. |
+| const [DOCUMENT_NODE](../../aspose.html.dom/node/document_node) | A [`Document`](../document) node. |
+| const [DOCUMENT_TYPE_NODE](../../aspose.html.dom/node/document_type_node) | A [`DocumentType`](../documenttype) node, such as &lt;!DOCTYPE html&gt;. |
+| const [ELEMENT_NODE](../../aspose.html.dom/node/element_node) | An [`Element`](../element) node like &lt;p&gt; or &lt;div&gt;. |
+| const [ENTITY_NODE](../../aspose.html.dom/node/entity_node) | An [`Entity`](../entity) node. |
+| const [ENTITY_REFERENCE_NODE](../../aspose.html.dom/node/entity_reference_node) | An [`EntityReference`](../entityreference) node. |
+| const [NOTATION_NODE](../../aspose.html.dom/node/notation_node) | A [`Notation`](../notation) node |
+| const [PROCESSING_INSTRUCTION_NODE](../../aspose.html.dom/node/processing_instruction_node) | A [`ProcessingInstruction`](../processinginstruction) of an XML document, such as &lt;?xml-stylesheet … ?&gt;. |
+| const [TEXT_NODE](../../aspose.html.dom/node/text_node) | The actual [`Text`](../text) inside an [`Element`](../element) or [`Attr`](../attr). |
 
 ### Remarks
 

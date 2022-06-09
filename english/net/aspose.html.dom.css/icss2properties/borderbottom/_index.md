@@ -1,7 +1,7 @@
 ---
 title: BorderBottom
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This is a shorthand property for setting the width style and color of the top right bottom and left border of a box.
 type: docs
 weight: 90
 url: /net/aspose.html.dom.css/icss2properties/borderbottom/

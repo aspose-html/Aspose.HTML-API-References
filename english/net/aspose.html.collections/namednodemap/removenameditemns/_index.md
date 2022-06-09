@@ -1,7 +1,7 @@
 ---
 title: RemoveNamedItemNS
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Removes a node specified by local name and namespace URI.
 type: docs
 weight: 70
 url: /net/aspose.html.collections/namednodemap/removenameditemns/

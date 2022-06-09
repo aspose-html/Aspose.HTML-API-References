@@ -1,7 +1,7 @@
 ---
 title: HTMLBaseFontElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Base font. See the BASEFONT element definition in HTML 4.01. This element is deprecated in HTML 4.01.
 type: docs
 weight: 3190
 url: /net/aspose.html/htmlbasefontelement/

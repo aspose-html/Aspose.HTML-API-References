@@ -1,7 +1,7 @@
 ---
 title: SVGFETileElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGFETileElement interface corresponds to the feTile element.
 type: docs
 weight: 1700
 url: /net/aspose.html.dom.svg.filters/svgfetileelement/

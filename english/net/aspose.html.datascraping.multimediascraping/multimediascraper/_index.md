@@ -1,7 +1,7 @@
 ---
 title: MultimediaScraper
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Provides functionality to register and select Multimedia./multimedia object which will be able to collect information from the specified page URL.Note We do not support downloading copyrighted videos and using other peoples videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
 type: docs
 weight: 150
 url: /net/aspose.html.datascraping.multimediascraping/multimediascraper/
@@ -18,8 +18,8 @@ public class MultimediaScraper : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [MultimediaScraper](multimediascraper)() | Initializes a new instance of the [`MultimediaScraper`](../multimediascraper) class. |
-| [MultimediaScraper](multimediascraper)(Configuration) | Initializes a new instance of the [`MultimediaScraper`](../multimediascraper) class. |
+| [MultimediaScraper](multimediascraper#constructor)() | Initializes a new instance of the [`MultimediaScraper`](../multimediascraper) class. |
+| [MultimediaScraper](multimediascraper#constructor_1)(Configuration) | Initializes a new instance of the [`MultimediaScraper`](../multimediascraper) class. |
 
 ## Methods
 

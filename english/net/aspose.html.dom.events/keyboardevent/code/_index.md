@@ -1,7 +1,7 @@
 ---
 title: Code
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The code holds a string that identifies the physical key being pressed. The value is not affected by the current keyboard layout or modifier state so a particular key will always return the same value.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.events/keyboardevent/code/

@@ -1,12 +1,12 @@
 ---
 title: Navigate
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Loads the document at the specified Uniform Resource Locator URL into the current instance replacing the previous content.
 type: docs
 weight: 1010
 url: /net/aspose.html.dom/document/navigate/
 ---
-## Document.Navigate method (1 of 7)
+## Navigate(string) {#navigate_4}
 
 Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content.
 
@@ -26,7 +26,7 @@ public void Navigate(string address)
 
 ---
 
-## Document.Navigate method (2 of 7)
+## Navigate(Url) {#navigate_1}
 
 Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content.
 
@@ -47,7 +47,7 @@ public void Navigate(Url url)
 
 ---
 
-## Document.Navigate method (3 of 7)
+## Navigate(string, string) {#navigate_6}
 
 Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content.
 
@@ -74,7 +74,7 @@ public void Navigate(string content, string baseUri)
 
 ---
 
-## Document.Navigate method (4 of 7)
+## Navigate(string, Url) {#navigate_5}
 
 Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content.
 
@@ -102,7 +102,7 @@ public void Navigate(string content, Url baseUri)
 
 ---
 
-## Document.Navigate method (5 of 7)
+## Navigate(Stream, string) {#navigate_3}
 
 Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. Document loading starts from the current position in the stream.
 
@@ -129,7 +129,7 @@ public void Navigate(Stream content, string baseUri)
 
 ---
 
-## Document.Navigate method (6 of 7)
+## Navigate(Stream, Url) {#navigate_2}
 
 Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. Document loading starts from the current position in the stream.
 
@@ -157,7 +157,7 @@ public void Navigate(Stream content, Url baseUri)
 
 ---
 
-## Document.Navigate method (7 of 7)
+## Navigate(RequestMessage) {#navigate}
 
 Loads the document based on specified request object, replacing the previous content.
 

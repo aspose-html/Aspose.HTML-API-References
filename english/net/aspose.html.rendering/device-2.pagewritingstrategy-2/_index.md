@@ -1,7 +1,7 @@
 ---
 title: DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContextTRenderingOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specifies types of strategies for writing pages into output streamstreams.
 type: docs
 weight: 4240
 url: /net/aspose.html.rendering/device-2.pagewritingstrategy-2/

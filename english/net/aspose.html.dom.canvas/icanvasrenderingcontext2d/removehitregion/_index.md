@@ -1,7 +1,7 @@
 ---
 title: RemoveHitRegion
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Removes the hit region with the specified id from the canvas.
 type: docs
 weight: 300
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/removehitregion/

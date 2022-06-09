@@ -1,12 +1,12 @@
 ---
 title: AddEventListener
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The addEventListener method of the EventTarget TAspose.Html.Dom.EventTargetinterface sets up a function that will be called whenever the specified event is delivered to the target.
 type: docs
 weight: 10
 url: /net/aspose.html.dom/eventtarget/addeventlistener/
 ---
-## EventTarget.AddEventListener method (1 of 3)
+## AddEventListener(string, DOMEventHandler, bool) {#addeventlistener}
 
 The addEventListener() method of the [EventTarget ](T:Aspose.Html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target.
 
@@ -35,7 +35,7 @@ If an is added to an while it is processing an event, it will not be triggered b
 
 ---
 
-## EventTarget.AddEventListener method (2 of 3)
+## AddEventListener(string, IEventListener) {#addeventlistener_1}
 
 The addEventListener() method of the [`EventTarget `](../../eventtarget)interface sets up a function that will be called whenever the specified event is delivered to the target.
 
@@ -63,7 +63,7 @@ If an is added to an while it is processing an event, it will not be triggered b
 
 ---
 
-## EventTarget.AddEventListener method (3 of 3)
+## AddEventListener(string, IEventListener, bool) {#addeventlistener_2}
 
 The addEventListener() method of the [EventTarget ](T:Aspose.Html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target.
 

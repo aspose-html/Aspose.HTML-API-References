@@ -1,7 +1,7 @@
 ---
 title: SHOW_CDATA_SECTION
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Show CDATASection nodes.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.traversal.filters/nodefilter/show_cdata_section/

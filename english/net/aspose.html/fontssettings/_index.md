@@ -1,7 +1,7 @@
 ---
 title: FontsSettings
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents fonts handling settings.
 type: docs
 weight: 2970
 url: /net/aspose.html/fontssettings/
@@ -25,10 +25,10 @@ public class FontsSettings
 | Name | Description |
 | --- | --- |
 | [GetFontsLookupFolders](../../aspose.html/fontssettings/getfontslookupfolders)() | Gets a copy of array which contains fonts folders. Fonts found in these folders are used for characters rendering. |
-| [SetFontsLookupFolder](../../aspose.html/fontssettings/setfontslookupfolder)(string) | Sets folder used during fonts selection. |
-| [SetFontsLookupFolder](../../aspose.html/fontssettings/setfontslookupfolder)(string, bool) | Sets folder used during fonts selection. |
-| [SetFontsLookupFolders](../../aspose.html/fontssettings/setfontslookupfolders)(string[]) | Sets an array of folders used during fonts selection. |
-| [SetFontsLookupFolders](../../aspose.html/fontssettings/setfontslookupfolders)(string[], bool) | Sets an array of folders used during fonts selection. |
+| [SetFontsLookupFolder](../../aspose.html/fontssettings/setfontslookupfolder#setfontslookupfolder)(string) | Sets folder used during fonts selection. |
+| [SetFontsLookupFolder](../../aspose.html/fontssettings/setfontslookupfolder#setfontslookupfolder_1)(string, bool) | Sets folder used during fonts selection. |
+| [SetFontsLookupFolders](../../aspose.html/fontssettings/setfontslookupfolders#setfontslookupfolders)(string[]) | Sets an array of folders used during fonts selection. |
+| [SetFontsLookupFolders](../../aspose.html/fontssettings/setfontslookupfolders#setfontslookupfolders_1)(string[], bool) | Sets an array of folders used during fonts selection. |
 
 ### See Also
 

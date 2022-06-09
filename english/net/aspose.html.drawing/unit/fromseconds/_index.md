@@ -1,7 +1,7 @@
 ---
 title: FromSeconds
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a Timeaspose.html.drawing/time object that is represented in seconds.
 type: docs
 weight: 210
 url: /net/aspose.html.drawing/unit/fromseconds/

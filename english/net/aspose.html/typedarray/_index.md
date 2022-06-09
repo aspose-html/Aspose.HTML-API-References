@@ -1,7 +1,7 @@
 ---
 title: TypedArray
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: TypedArray objects present an array-like view of an underlying binary data buffer.
 type: docs
 weight: 4850
 url: /net/aspose.html/typedarray/

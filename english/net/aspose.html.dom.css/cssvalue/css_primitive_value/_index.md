@@ -1,7 +1,7 @@
 ---
 title: CSS_PRIMITIVE_VALUE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value is a primitive value and an instance of the CSSPrimitiveValue interface can be obtained by using binding-specific casting methods on this instance of the CSSValue interface.
 type: docs
 weight: 90
 url: /net/aspose.html.dom.css/cssvalue/css_primitive_value/

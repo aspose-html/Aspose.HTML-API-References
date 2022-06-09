@@ -1,7 +1,7 @@
 ---
 title: CreateSVGPathSegMovetoAbs
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a stand-alone parentless SVGPathSegMovetoAbs object.
 type: docs
 weight: 200
 url: /net/aspose.html.dom.svg/svgpathelement/createsvgpathsegmovetoabs/

@@ -1,12 +1,12 @@
 ---
 title: Observe
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Instructs the user agent to observe a given target a node and report any mutations based on the criteria given by options an object. The options argument allows for setting mutation observation options via object members.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.mutations/mutationobserver/observe/
 ---
-## MutationObserver.Observe method (1 of 2)
+## Observe(Node) {#observe}
 
 Instructs the user agent to observe a given target (a node) and report any mutations based on the criteria given by options (an object). The options argument allows for setting mutation observation options via object members.
 
@@ -27,7 +27,7 @@ public void Observe(Node target)
 
 ---
 
-## MutationObserver.Observe method (2 of 2)
+## Observe(Node, MutationObserverInit) {#observe_1}
 
 Instructs the user agent to observe a given target (a node) and report any mutations based on the criteria given by options (an object). The options argument allows for setting mutation observation options via object members.
 

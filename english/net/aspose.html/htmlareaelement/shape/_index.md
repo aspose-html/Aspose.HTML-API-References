@@ -1,7 +1,7 @@
 ---
 title: Shape
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The shape of the active area. The coordinates are given by coords. See the shape attribute definition in HTML 4.01.
 type: docs
 weight: 60
 url: /net/aspose.html/htmlareaelement/shape/

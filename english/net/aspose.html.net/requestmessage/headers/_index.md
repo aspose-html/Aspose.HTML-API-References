@@ -1,7 +1,7 @@
 ---
 title: Headers
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the RequestHeadersaspose.html.net/requestheaders.
 type: docs
 weight: 50
 url: /net/aspose.html.net/requestmessage/headers/

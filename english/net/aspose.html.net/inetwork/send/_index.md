@@ -1,7 +1,7 @@
 ---
 title: Send
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sends a RequestMessageaspose.html.net/requestmessage message.
 type: docs
 weight: 10
 url: /net/aspose.html.net/inetwork/send/

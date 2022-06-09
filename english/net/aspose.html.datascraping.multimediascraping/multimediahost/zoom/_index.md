@@ -1,7 +1,7 @@
 ---
 title: Zoom
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents a Zoom host.
 type: docs
 weight: 40
 url: /net/aspose.html.datascraping.multimediascraping/multimediahost/zoom/

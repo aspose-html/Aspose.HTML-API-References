@@ -1,7 +1,7 @@
 ---
 title: CreateNew
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates a new HTMLFormElementaspose.html/htmlformelement and associated it with FormEditoraspose.html.forms/formeditor. HTMLFormElementaspose.html/htmlformelement is created in the detached from the document state in order to attach it to the document please select proper location and use AppendChildaspose.html.dom/node/appendchild method.
 type: docs
 weight: 20
 url: /net/aspose.html.forms/formeditor/createnew/

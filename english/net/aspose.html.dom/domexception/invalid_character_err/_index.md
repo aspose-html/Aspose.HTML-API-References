@@ -1,7 +1,7 @@
 ---
 title: INVALID_CHARACTER_ERR
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: If an invalid or illegal character is specified such as in an XML name.
 type: docs
 weight: 120
 url: /net/aspose.html.dom/domexception/invalid_character_err/

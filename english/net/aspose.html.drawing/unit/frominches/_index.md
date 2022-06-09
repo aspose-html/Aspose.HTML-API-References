@@ -1,7 +1,7 @@
 ---
 title: FromInches
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a Lengthaspose.html.drawing/length object that is represented in inches.
 type: docs
 weight: 120
 url: /net/aspose.html.drawing/unit/frominches/

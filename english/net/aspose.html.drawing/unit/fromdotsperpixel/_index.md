@@ -1,7 +1,7 @@
 ---
 title: FromDotsPerPixel
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a Resolutionaspose.html.drawing/resolution object that is represented in dots per pixels.
 type: docs
 weight: 90
 url: /net/aspose.html.drawing/unit/fromdotsperpixel/

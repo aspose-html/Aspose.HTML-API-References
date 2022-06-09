@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents the string value of the button element that is directly mapped to the value attribute.
 type: docs
 weight: 40
 url: /net/aspose.html.forms/buttonelement/value/

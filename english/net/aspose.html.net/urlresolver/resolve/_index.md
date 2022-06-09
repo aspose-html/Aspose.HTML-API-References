@@ -1,7 +1,7 @@
 ---
 title: Resolve
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Resolves the absolute URI from the base and relative URIs.
 type: docs
 weight: 20
 url: /net/aspose.html.net/urlresolver/resolve/

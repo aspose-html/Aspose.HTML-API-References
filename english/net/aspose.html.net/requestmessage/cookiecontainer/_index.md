@@ -1,7 +1,7 @@
 ---
 title: CookieContainer
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the cookie container used to store server cookies by the handler.
 type: docs
 weight: 30
 url: /net/aspose.html.net/requestmessage/cookiecontainer/

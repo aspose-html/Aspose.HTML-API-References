@@ -1,7 +1,7 @@
 ---
 title: FrameElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The frameElement object of a Document.
 type: docs
 weight: 20
 url: /net/aspose.html.window/iwindow/frameelement/

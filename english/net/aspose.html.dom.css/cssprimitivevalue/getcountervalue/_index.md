@@ -1,7 +1,7 @@
 ---
 title: GetCounterValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This method is used to get the Counter value. If this CSS value doesnt contain a counter value a DOMException is raised. Modification to the corresponding style property can be achieved using the Counter interface.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/cssprimitivevalue/getcountervalue/

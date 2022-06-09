@@ -1,7 +1,7 @@
 ---
 title: Evaluate
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Evaluates this XPath expression and returns a result.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.xpath/ixpathexpression/evaluate/

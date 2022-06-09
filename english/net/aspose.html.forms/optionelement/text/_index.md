@@ -1,7 +1,7 @@
 ---
 title: Text
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This attribute represents the text content of this node and its descendants.
 type: docs
 weight: 40
 url: /net/aspose.html.forms/optionelement/text/

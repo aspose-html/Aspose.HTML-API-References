@@ -1,12 +1,12 @@
 ---
 title: SetFontsLookupFolder
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sets folder used during fonts selection.
 type: docs
 weight: 30
 url: /net/aspose.html/fontssettings/setfontslookupfolder/
 ---
-## FontsSettings.SetFontsLookupFolder method (1 of 2)
+## SetFontsLookupFolder(string) {#setfontslookupfolder}
 
 Sets folder used during fonts selection.
 
@@ -26,7 +26,7 @@ public void SetFontsLookupFolder(string fontsFolder)
 
 ---
 
-## FontsSettings.SetFontsLookupFolder method (2 of 2)
+## SetFontsLookupFolder(string, bool) {#setfontslookupfolder_1}
 
 Sets folder used during fonts selection.
 

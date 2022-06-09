@@ -1,7 +1,7 @@
 ---
 title: PreviousNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the previous node in the set and moves the position of the NodeIterator backwards in the set.
 type: docs
 weight: 50
 url: /net/aspose.html.dom.traversal/inodeiterator/previousnode/

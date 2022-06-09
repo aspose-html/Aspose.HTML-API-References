@@ -1,7 +1,7 @@
 ---
 title: MarkerHeight
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute markerHeight on the given marker element.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svgmarkerelement/markerheight/

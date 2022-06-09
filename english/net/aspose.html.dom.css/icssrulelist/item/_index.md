@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Used to retrieve a CSS rule by method item http//www.w3.org/TR/DOM-Level-2-Style/css.htmlCSS-CSSRuleList. The order in this collection represents the order of the rules in the CSS style sheet. If index is greater than or equal to the number of rules in the list this returns null.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/icssrulelist/item/

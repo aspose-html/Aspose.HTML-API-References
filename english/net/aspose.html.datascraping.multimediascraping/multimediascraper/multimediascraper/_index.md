@@ -1,12 +1,12 @@
 ---
 title: MultimediaScraper
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the MultimediaScraperaspose.html.datascraping.multimediascraping/multimediascraper class.
 type: docs
 weight: 10
 url: /net/aspose.html.datascraping.multimediascraping/multimediascraper/multimediascraper/
 ---
-## MultimediaScraper constructor (1 of 2)
+## MultimediaScraper() {#constructor}
 
 Initializes a new instance of the [`MultimediaScraper`](../../multimediascraper) class.
 
@@ -22,7 +22,7 @@ public MultimediaScraper()
 
 ---
 
-## MultimediaScraper constructor (2 of 2)
+## MultimediaScraper(Configuration) {#constructor_1}
 
 Initializes a new instance of the [`MultimediaScraper`](../../multimediascraper) class.
 

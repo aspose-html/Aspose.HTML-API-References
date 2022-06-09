@@ -1,7 +1,7 @@
 ---
 title: MutationObserverInit
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This class represents an options collection which is used to configure MutationObserver./mutationobserver.
 type: docs
 weight: 1090
 url: /net/aspose.html.dom.mutations/mutationobserverinit/
@@ -41,15 +41,15 @@ public class MutationObserverInit : IDictionary<string, object>
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.html.dom.mutations/mutationobserverinit/add)(KeyValuePair&lt;string, object&gt;) |  |
-| [Add](../../aspose.html.dom.mutations/mutationobserverinit/add)(string, object) | Adds the specified key and value to the [`MutationObserverInit`](../mutationobserverinit) collection. |
+| [Add](../../aspose.html.dom.mutations/mutationobserverinit/add#add)(KeyValuePair&lt;string, object&gt;) |  |
+| [Add](../../aspose.html.dom.mutations/mutationobserverinit/add#add_1)(string, object) | Adds the specified key and value to the [`MutationObserverInit`](../mutationobserverinit) collection. |
 | [Clear](../../aspose.html.dom.mutations/mutationobserverinit/clear)() | Removes all the elements from the [`MutationObserverInit`](../mutationobserverinit) collection. |
 | [Contains](../../aspose.html.dom.mutations/mutationobserverinit/contains)(KeyValuePair&lt;string, object&gt;) |  |
 | [ContainsKey](../../aspose.html.dom.mutations/mutationobserverinit/containskey)(string) | Determines whether the [`MutationObserverInit`](../mutationobserverinit) collection contain a specified key. |
 | [CopyTo](../../aspose.html.dom.mutations/mutationobserverinit/copyto)(KeyValuePair&lt;string, object&gt;[], int) |  |
 | [GetEnumerator](../../aspose.html.dom.mutations/mutationobserverinit/getenumerator)() | Returns an enumerator that iterates through the [`MutationObserverInit`](../mutationobserverinit) elements. |
-| [Remove](../../aspose.html.dom.mutations/mutationobserverinit/remove)(KeyValuePair&lt;string, object&gt;) |  |
-| [Remove](../../aspose.html.dom.mutations/mutationobserverinit/remove)(string) | Removes the value associated with the specified key from the [`MutationObserverInit`](../mutationobserverinit) collection. |
+| [Remove](../../aspose.html.dom.mutations/mutationobserverinit/remove#remove)(KeyValuePair&lt;string, object&gt;) |  |
+| [Remove](../../aspose.html.dom.mutations/mutationobserverinit/remove#remove_1)(string) | Removes the value associated with the specified key from the [`MutationObserverInit`](../mutationobserverinit) collection. |
 | [TryGetValue](../../aspose.html.dom.mutations/mutationobserverinit/trygetvalue)(string, out object) | Gets the value associated with the specified key. |
 
 ### See Also

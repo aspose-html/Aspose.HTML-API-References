@@ -1,7 +1,7 @@
 ---
 title: FromPixels
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a Lengthaspose.html.drawing/length object that is represented in pixels.
 type: docs
 weight: 170
 url: /net/aspose.html.drawing/unit/frompixels/

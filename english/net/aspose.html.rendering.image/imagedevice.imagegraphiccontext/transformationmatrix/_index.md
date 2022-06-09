@@ -1,7 +1,7 @@
 ---
 title: TransformationMatrix
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sets or gets transformation matrix.
 type: docs
 weight: 20
 url: /net/aspose.html.rendering.image/imagedevice.imagegraphiccontext/transformationmatrix/

@@ -1,7 +1,7 @@
 ---
 title: Values
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute values on the given feColorMatrix element.
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg.filters/svgfecolormatrixelement/values/

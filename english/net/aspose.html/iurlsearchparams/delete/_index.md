@@ -1,7 +1,7 @@
 ---
 title: Delete
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Removes all name-value pairs whose name is name.
 type: docs
 weight: 20
 url: /net/aspose.html/iurlsearchparams/delete/

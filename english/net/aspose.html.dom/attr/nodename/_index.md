@@ -1,7 +1,7 @@
 ---
 title: NodeName
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The name of this node depending on its type.
 type: docs
 weight: 50
 url: /net/aspose.html.dom/attr/nodename/

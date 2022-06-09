@@ -1,7 +1,7 @@
 ---
 title: HTMLNoScriptElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Script statements. See the NOSCRIPT element definition in HTML 4.01.
 type: docs
 weight: 3500
 url: /net/aspose.html/htmlnoscriptelement/

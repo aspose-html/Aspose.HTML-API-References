@@ -1,12 +1,12 @@
 ---
 title: ImageSaveOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the ImageSaveOptionsaspose.html.saving/imagesaveoptions class Png will be used as default image format.
 type: docs
 weight: 10
 url: /net/aspose.html.saving/imagesaveoptions/imagesaveoptions/
 ---
-## ImageSaveOptions constructor (1 of 2)
+## ImageSaveOptions() {#constructor}
 
 Initializes a new instance of the [`ImageSaveOptions`](../../imagesaveoptions) class; Png will be used as default image format.
 
@@ -22,7 +22,7 @@ public ImageSaveOptions()
 
 ---
 
-## ImageSaveOptions constructor (2 of 2)
+## ImageSaveOptions(ImageFormat) {#constructor_1}
 
 Image format [`ImageFormat`](../../../aspose.html.rendering.image/imageformat) based on initialization
 

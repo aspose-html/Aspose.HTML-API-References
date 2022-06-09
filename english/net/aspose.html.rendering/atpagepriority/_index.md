@@ -1,7 +1,7 @@
 ---
 title: AtPagePriority
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specifies possible orders of applying page size declarations.
 type: docs
 weight: 4200
 url: /net/aspose.html.rendering/atpagepriority/

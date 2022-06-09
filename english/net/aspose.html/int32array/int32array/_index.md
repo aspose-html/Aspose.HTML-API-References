@@ -1,12 +1,12 @@
 ---
 title: Int32Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Int32Arrayaspose.html/int32array class.
 type: docs
 weight: 10
 url: /net/aspose.html/int32array/int32array/
 ---
-## Int32Array constructor (1 of 5)
+## Int32Array(int) {#constructor_3}
 
 Initializes a new instance of the [`Int32Array`](../../int32array) class.
 
@@ -26,7 +26,7 @@ public Int32Array(int length)
 
 ---
 
-## Int32Array constructor (2 of 5)
+## Int32Array(int[]) {#constructor_4}
 
 Initializes a new instance of the [`Int32Array`](../../int32array) class.
 
@@ -46,7 +46,7 @@ public Int32Array(int[] data)
 
 ---
 
-## Int32Array constructor (3 of 5)
+## Int32Array(ArrayBuffer) {#constructor}
 
 Initializes a new instance of the [`Int32Array`](../../int32array) class.
 
@@ -67,7 +67,7 @@ public Int32Array(ArrayBuffer buffer)
 
 ---
 
-## Int32Array constructor (4 of 5)
+## Int32Array(ArrayBuffer, int) {#constructor_1}
 
 Initializes a new instance of the [`Int32Array`](../../int32array) class.
 
@@ -89,7 +89,7 @@ public Int32Array(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Int32Array constructor (5 of 5)
+## Int32Array(ArrayBuffer, int, int) {#constructor_2}
 
 Initializes a new instance of the [`Int32Array`](../../int32array) class.
 

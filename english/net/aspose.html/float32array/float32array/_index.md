@@ -1,12 +1,12 @@
 ---
 title: Float32Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Float32Arrayaspose.html/float32array class.
 type: docs
 weight: 10
 url: /net/aspose.html/float32array/float32array/
 ---
-## Float32Array constructor (1 of 5)
+## Float32Array(int) {#constructor_3}
 
 Initializes a new instance of the [`Float32Array`](../../float32array) class.
 
@@ -26,7 +26,7 @@ public Float32Array(int length)
 
 ---
 
-## Float32Array constructor (2 of 5)
+## Float32Array(float[]) {#constructor_4}
 
 Initializes a new instance of the [`Float32Array`](../../float32array) class.
 
@@ -46,7 +46,7 @@ public Float32Array(float[] data)
 
 ---
 
-## Float32Array constructor (3 of 5)
+## Float32Array(ArrayBuffer) {#constructor}
 
 Initializes a new instance of the [`Float32Array`](../../float32array) class.
 
@@ -67,7 +67,7 @@ public Float32Array(ArrayBuffer buffer)
 
 ---
 
-## Float32Array constructor (4 of 5)
+## Float32Array(ArrayBuffer, int) {#constructor_1}
 
 Initializes a new instance of the [`Float32Array`](../../float32array) class.
 
@@ -89,7 +89,7 @@ public Float32Array(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Float32Array constructor (5 of 5)
+## Float32Array(ArrayBuffer, int, int) {#constructor_2}
 
 Initializes a new instance of the [`Float32Array`](../../float32array) class.
 

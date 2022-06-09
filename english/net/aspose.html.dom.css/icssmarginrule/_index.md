@@ -1,7 +1,7 @@
 ---
 title: ICSSMarginRule
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The CSSMarginRule interface represents a margin at-rule e.g. top-left in an page at-rule.
 type: docs
 weight: 550
 url: /net/aspose.html.dom.css/icssmarginrule/

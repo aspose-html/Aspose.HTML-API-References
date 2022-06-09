@@ -1,7 +1,7 @@
 ---
 title: Slice
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a new Blob object with bytes ranging from the optional start parameter up to but not including the optional end parameter and with a type attribute that is the value of the optional contentType parameter.
 type: docs
 weight: 30
 url: /net/aspose.html.io/iblob/slice/

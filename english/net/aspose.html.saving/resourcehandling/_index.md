@@ -1,7 +1,7 @@
 ---
 title: ResourceHandling
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This enum represents resource handling options.
 type: docs
 weight: 4730
 url: /net/aspose.html.saving/resourcehandling/

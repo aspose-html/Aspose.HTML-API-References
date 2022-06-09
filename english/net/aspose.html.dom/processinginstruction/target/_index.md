@@ -1,7 +1,7 @@
 ---
 title: Target
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The target of this processing instruction.
 type: docs
 weight: 40
 url: /net/aspose.html.dom/processinginstruction/target/

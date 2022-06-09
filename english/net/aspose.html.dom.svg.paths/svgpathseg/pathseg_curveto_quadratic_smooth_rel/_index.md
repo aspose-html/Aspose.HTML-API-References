@@ -1,7 +1,7 @@
 ---
 title: PATHSEG_CURVETO_QUADRATIC_SMOOTH_REL
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to a relative smooth quadratic curveto t path data command.
 type: docs
 weight: 130
 url: /net/aspose.html.dom.svg.paths/svgpathseg/pathseg_curveto_quadratic_smooth_rel/

@@ -1,7 +1,7 @@
 ---
 title: OnRateChange
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnRateChange event.
 type: docs
 weight: 420
 url: /net/aspose.html/htmlelement/onratechange/

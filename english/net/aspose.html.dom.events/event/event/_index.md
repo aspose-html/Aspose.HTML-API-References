@@ -1,12 +1,12 @@
 ---
 title: Event
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Eventaspose.html.dom.events/event class.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.events/event/event/
 ---
-## Event constructor (1 of 2)
+## Event(string) {#constructor}
 
 Initializes a new instance of the [`Event`](../../event) class.
 
@@ -26,7 +26,7 @@ public Event(string type)
 
 ---
 
-## Event constructor (2 of 2)
+## Event(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
 ```csharp
 public Event(string type, IDictionary<string, object> eventInitDict)

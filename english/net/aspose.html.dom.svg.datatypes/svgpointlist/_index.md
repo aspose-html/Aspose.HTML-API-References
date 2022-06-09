@@ -1,7 +1,7 @@
 ---
 title: SVGPointList
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This interface defines a list of SVGPoint objects.
 type: docs
 weight: 1370
 url: /net/aspose.html.dom.svg.datatypes/svgpointlist/

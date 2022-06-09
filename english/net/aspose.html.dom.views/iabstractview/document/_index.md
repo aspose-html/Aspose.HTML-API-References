@@ -1,7 +1,7 @@
 ---
 title: Document
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The source DocumentView of which this is an AbstractView.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.views/iabstractview/document/

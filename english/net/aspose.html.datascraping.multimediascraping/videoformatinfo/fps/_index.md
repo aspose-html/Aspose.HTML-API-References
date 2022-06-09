@@ -1,7 +1,7 @@
 ---
 title: FPS
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Frame rate in frame/s or null if there is no video track.
 type: docs
 weight: 60
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfo/fps/

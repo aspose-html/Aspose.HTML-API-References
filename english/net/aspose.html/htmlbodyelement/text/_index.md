@@ -1,7 +1,7 @@
 ---
 title: Text
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Document text color. See the text attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01.
 type: docs
 weight: 50
 url: /net/aspose.html/htmlbodyelement/text/

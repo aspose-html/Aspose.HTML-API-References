@@ -1,7 +1,7 @@
 ---
 title: Seek
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sets the position within the wrapped output stream.
 type: docs
 weight: 110
 url: /net/aspose.html.io/outputstream/seek/

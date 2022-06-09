@@ -1,7 +1,7 @@
 ---
 title: IsDerivedFrom
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This method returns if there is a derivation between the reference type definition i.e. the TypeInfo on which the method is being called and the other type definition i.e. the one passed as parameters.
 type: docs
 weight: 30
 url: /net/aspose.html.dom/typeinfo/isderivedfrom/

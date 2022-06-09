@@ -1,7 +1,7 @@
 ---
 title: Position
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the color position.
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/iinterpolationcolor/position/

@@ -1,7 +1,7 @@
 ---
 title: ContainsKey
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Determines whether the MutationObserverInitaspose.html.dom.mutations/mutationobserverinit collection contain a specified key.
 type: docs
 weight: 170
 url: /net/aspose.html.dom.mutations/mutationobserverinit/containskey/

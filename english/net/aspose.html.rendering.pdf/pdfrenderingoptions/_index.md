@@ -1,7 +1,7 @@
 ---
 title: PdfRenderingOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents rendering options for PdfDevice./pdfdevice.
 type: docs
 weight: 4540
 url: /net/aspose.html.rendering.pdf/pdfrenderingoptions/

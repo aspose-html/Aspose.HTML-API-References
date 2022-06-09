@@ -1,7 +1,7 @@
 ---
 title: Extension
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Format extension.
 type: docs
 weight: 40
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfo/extension/

@@ -1,7 +1,7 @@
 ---
 title: CSS_HZ
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value is a frequency Hz. The value can be obtained by using the getFloatValue method.
 type: docs
 weight: 230
 url: /net/aspose.html.dom.css/cssprimitivevalue/css_hz/

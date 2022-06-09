@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute width on the given pattern element.
 type: docs
 weight: 110
 url: /net/aspose.html.dom.svg/svgpatternelement/width/

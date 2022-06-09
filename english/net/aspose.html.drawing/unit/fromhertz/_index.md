@@ -1,7 +1,7 @@
 ---
 title: FromHertz
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a Frequencyaspose.html.drawing/frequency object that is represented in hertz.
 type: docs
 weight: 110
 url: /net/aspose.html.drawing/unit/fromhertz/

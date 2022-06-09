@@ -1,7 +1,7 @@
 ---
 title: DefaultView
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The defaultView IDL attribute of the Document interface on getting must return this Documents browsing contexts WindowProxy object if this Document has an associated browsing context or null otherwise.
 type: docs
 weight: 80
 url: /net/aspose.html.dom/document/defaultview/

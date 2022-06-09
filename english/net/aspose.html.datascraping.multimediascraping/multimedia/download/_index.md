@@ -1,7 +1,7 @@
 ---
 title: Download
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Downloads the video file referenced in videoFormatInfo to a local file specified by path.
 type: docs
 weight: 50
 url: /net/aspose.html.datascraping.multimediascraping/multimedia/download/

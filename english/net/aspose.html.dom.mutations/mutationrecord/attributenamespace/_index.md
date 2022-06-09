@@ -1,7 +1,7 @@
 ---
 title: AttributeNamespace
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the namespace of the changed attribute and null otherwise.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.mutations/mutationrecord/attributenamespace/

@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The item method of the CSSValueList interface is used to retrieve a CSSValue by ordinal index.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/cssvaluelist/item/

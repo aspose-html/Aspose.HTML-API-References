@@ -1,7 +1,7 @@
 ---
 title: GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the enumerator.
 type: docs
 weight: 30
 url: /net/aspose.html.collections/htmlcollection/getenumerator/

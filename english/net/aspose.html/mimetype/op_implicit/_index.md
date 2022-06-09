@@ -6,7 +6,7 @@ type: docs
 weight: 90
 url: /net/aspose.html/mimetype/op_implicit/
 ---
-## MimeType Implicit operator (1 of 2)
+## implicit operator {#op_implicit}
 
 ```csharp
 public static implicit operator MimeType(string @string)
@@ -20,7 +20,7 @@ public static implicit operator MimeType(string @string)
 
 ---
 
-## MimeType Implicit operator (2 of 2)
+## implicit operator {#op_implicit_1}
 
 ```csharp
 public static implicit operator string(MimeType type)

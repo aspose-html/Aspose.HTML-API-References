@@ -1,7 +1,7 @@
 ---
 title: INonElementParentNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines IParentNode./iparentnode that are not Element type.
 type: docs
 weight: 1050
 url: /net/aspose.html.dom/inonelementparentnode/

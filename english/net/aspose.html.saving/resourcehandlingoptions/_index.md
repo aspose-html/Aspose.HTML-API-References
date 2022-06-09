@@ -1,7 +1,7 @@
 ---
 title: ResourceHandlingOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents resource handling options.
 type: docs
 weight: 4740
 url: /net/aspose.html.saving/resourcehandlingoptions/

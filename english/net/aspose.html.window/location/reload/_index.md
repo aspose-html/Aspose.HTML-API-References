@@ -1,7 +1,7 @@
 ---
 title: Reload
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Reloads the current page.
 type: docs
 weight: 20
 url: /net/aspose.html.window/location/reload/

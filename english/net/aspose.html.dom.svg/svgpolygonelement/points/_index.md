@@ -1,7 +1,7 @@
 ---
 title: Points
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Provides access to the base i.e. static contents of the points attribute.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgpolygonelement/points/

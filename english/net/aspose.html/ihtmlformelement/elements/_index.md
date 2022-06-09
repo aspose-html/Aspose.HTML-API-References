@@ -1,7 +1,7 @@
 ---
 title: Elements
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the collection of the child form elements.
 type: docs
 weight: 10
 url: /net/aspose.html/ihtmlformelement/elements/

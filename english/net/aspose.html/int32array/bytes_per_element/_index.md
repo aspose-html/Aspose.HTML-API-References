@@ -1,7 +1,7 @@
 ---
 title: BYTES_PER_ELEMENT
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The property represents the size in bytes of each element in an typed array.
 type: docs
 weight: 30
 url: /net/aspose.html/int32array/bytes_per_element/

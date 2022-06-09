@@ -1,7 +1,7 @@
 ---
 title: SVGComponentTransferFunctionElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This interface defines a base interface used by the component transfer function interfaces.
 type: docs
 weight: 2080
 url: /net/aspose.html.dom.svg/svgcomponenttransferfunctionelement/
@@ -113,16 +113,16 @@ public class SVGComponentTransferFunctionElement : SVGElement
 | [SetIdAttributeNS](../../aspose.html.dom/element/setidattributens)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | override [ToString](../../aspose.html.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [SVG_FECOMPONENTTRANSFER_TYPE_DISCRETE](svg_fecomponenttransfer_type_discrete) | Corresponds to value 'discrete'. |
-| const [SVG_FECOMPONENTTRANSFER_TYPE_GAMMA](svg_fecomponenttransfer_type_gamma) | Corresponds to value 'gamma'. |
-| const [SVG_FECOMPONENTTRANSFER_TYPE_IDENTITY](svg_fecomponenttransfer_type_identity) | Corresponds to value 'identity'. |
-| const [SVG_FECOMPONENTTRANSFER_TYPE_LINEAR](svg_fecomponenttransfer_type_linear) | Corresponds to value 'linear'. |
-| const [SVG_FECOMPONENTTRANSFER_TYPE_TABLE](svg_fecomponenttransfer_type_table) | Corresponds to value 'table'. |
-| const [SVG_FECOMPONENTTRANSFER_TYPE_UNKNOWN](svg_fecomponenttransfer_type_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_FECOMPONENTTRANSFER_TYPE_DISCRETE](../../aspose.html.dom.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_discrete) | Corresponds to value 'discrete'. |
+| const [SVG_FECOMPONENTTRANSFER_TYPE_GAMMA](../../aspose.html.dom.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_gamma) | Corresponds to value 'gamma'. |
+| const [SVG_FECOMPONENTTRANSFER_TYPE_IDENTITY](../../aspose.html.dom.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_identity) | Corresponds to value 'identity'. |
+| const [SVG_FECOMPONENTTRANSFER_TYPE_LINEAR](../../aspose.html.dom.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_linear) | Corresponds to value 'linear'. |
+| const [SVG_FECOMPONENTTRANSFER_TYPE_TABLE](../../aspose.html.dom.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_table) | Corresponds to value 'table'. |
+| const [SVG_FECOMPONENTTRANSFER_TYPE_UNKNOWN](../../aspose.html.dom.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
 
 ### See Also
 

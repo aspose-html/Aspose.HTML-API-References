@@ -1,7 +1,7 @@
 ---
 title: Auto
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Measurement is not defined.
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/unittype/auto/

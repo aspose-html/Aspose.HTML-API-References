@@ -1,7 +1,7 @@
 ---
 title: HTMLCanvasElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The HTMLCanvasElement interface provides properties and methods for manipulating the layout and presentation of canvas elements. The HTMLCanvasElement interface also inherits the properties and methods of the HTMLElement interface.
 type: docs
 weight: 3220
 url: /net/aspose.html/htmlcanvaselement/
@@ -107,9 +107,9 @@ public class HTMLCanvasElement : HTMLElement
 | [SetIdAttribute](../../aspose.html.dom/element/setidattribute)(string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | [SetIdAttributeNode](../../aspose.html.dom/element/setidattributenode)(Attr, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | [SetIdAttributeNS](../../aspose.html.dom/element/setidattributens)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [ToDataURL](../../aspose.html/htmlcanvaselement/todataurl)() | returns a data URI containing a representation of the image in the format specified by the type parameter (defaults to PNG). The returned image is in a resolution of 96 dpi. |
-| [ToDataURL](../../aspose.html/htmlcanvaselement/todataurl)(string) | returns a data URI containing a representation of the image in the format specified by the type parameter (defaults to PNG). The returned image is in a resolution of 96 dpi. |
-| [ToDataURL](../../aspose.html/htmlcanvaselement/todataurl)(string, double) | returns a data URI containing a representation of the image in the format specified by the type parameter (defaults to PNG). The returned image is in a resolution of 96 dpi. |
+| [ToDataURL](../../aspose.html/htmlcanvaselement/todataurl#todataurl)() | returns a data URI containing a representation of the image in the format specified by the type parameter (defaults to PNG). The returned image is in a resolution of 96 dpi. |
+| [ToDataURL](../../aspose.html/htmlcanvaselement/todataurl#todataurl_1)(string) | returns a data URI containing a representation of the image in the format specified by the type parameter (defaults to PNG). The returned image is in a resolution of 96 dpi. |
+| [ToDataURL](../../aspose.html/htmlcanvaselement/todataurl#todataurl_2)(string, double) | returns a data URI containing a representation of the image in the format specified by the type parameter (defaults to PNG). The returned image is in a resolution of 96 dpi. |
 | override [ToString](../../aspose.html.dom/node/tostring)() | Returns a String that represents this instance. |
 
 ### See Also

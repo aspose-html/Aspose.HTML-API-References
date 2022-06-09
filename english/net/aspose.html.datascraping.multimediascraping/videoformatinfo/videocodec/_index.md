@@ -1,7 +1,7 @@
 ---
 title: VideoCodec
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Name of the video codec in use or null if there is no video track.
 type: docs
 weight: 100
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfo/videocodec/

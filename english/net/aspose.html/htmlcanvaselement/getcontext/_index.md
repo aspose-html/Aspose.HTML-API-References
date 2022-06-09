@@ -1,7 +1,7 @@
 ---
 title: GetContext
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a drawing context on the canvas or null if the context ID is not supported. A drawing context lets you draw on the canvas.
 type: docs
 weight: 30
 url: /net/aspose.html/htmlcanvaselement/getcontext/

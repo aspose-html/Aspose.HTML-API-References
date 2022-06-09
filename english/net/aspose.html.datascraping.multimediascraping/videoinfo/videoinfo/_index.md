@@ -1,12 +1,12 @@
 ---
 title: VideoInfo
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the VideoInfoaspose.html.datascraping.multimediascraping/videoinfo class.
 type: docs
 weight: 10
 url: /net/aspose.html.datascraping.multimediascraping/videoinfo/videoinfo/
 ---
-## VideoInfo constructor (1 of 2)
+## VideoInfo(string) {#constructor_1}
 
 Initializes a new instance of the [`VideoInfo`](../../videoinfo) class.
 
@@ -26,7 +26,7 @@ public VideoInfo(string hostName)
 
 ---
 
-## VideoInfo constructor (2 of 2)
+## VideoInfo(MultimediaHost) {#constructor}
 
 Initializes a new instance of the [`VideoInfo`](../../videoinfo) class.
 

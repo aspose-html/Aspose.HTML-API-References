@@ -1,7 +1,7 @@
 ---
 title: GetElementsByTagNameNS
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns HTMLCollectionaspose.html.collections/htmlcollection object containing all elementsaspose.html.dom/element with a given local name and namespace URI string in document order.
 type: docs
 weight: 300
 url: /net/aspose.html.dom/element/getelementsbytagnamens/

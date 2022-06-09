@@ -1,7 +1,7 @@
 ---
 title: ImageDevice
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents rendering to raster formats jpeg png bmp gif tiff.
 type: docs
 weight: 4380
 url: /net/aspose.html.rendering.image/imagedevice/
@@ -18,12 +18,12 @@ public class ImageDevice : Device<ImageGraphicContext, ImageRenderingOptions>
 
 | Name | Description |
 | --- | --- |
-| [ImageDevice](imagedevice)(ICreateStreamProvider) | Initializes a new instance of the [`ImageDevice`](../imagedevice) class. |
-| [ImageDevice](imagedevice)(Stream) | Initializes a new instance of the [`ImageDevice`](../imagedevice) class. |
-| [ImageDevice](imagedevice)(string) | Initializes a new instance of the [`ImageDevice`](../imagedevice) class. |
-| [ImageDevice](imagedevice)(ImageRenderingOptions, ICreateStreamProvider) | Initializes a new instance of the [`ImageDevice`](../imagedevice) class by rendering options and stream provider. |
-| [ImageDevice](imagedevice)(ImageRenderingOptions, Stream) | Initializes a new instance of the [`ImageDevice`](../imagedevice) class by rendering options and output stream. |
-| [ImageDevice](imagedevice)(ImageRenderingOptions, string) | Initializes a new instance of the [`ImageDevice`](../imagedevice) class by rendering options and output file name. |
+| [ImageDevice](imagedevice#constructor)(ICreateStreamProvider) | Initializes a new instance of the [`ImageDevice`](../imagedevice) class. |
+| [ImageDevice](imagedevice#constructor_4)(Stream) | Initializes a new instance of the [`ImageDevice`](../imagedevice) class. |
+| [ImageDevice](imagedevice#constructor_5)(string) | Initializes a new instance of the [`ImageDevice`](../imagedevice) class. |
+| [ImageDevice](imagedevice#constructor_1)(ImageRenderingOptions, ICreateStreamProvider) | Initializes a new instance of the [`ImageDevice`](../imagedevice) class by rendering options and stream provider. |
+| [ImageDevice](imagedevice#constructor_2)(ImageRenderingOptions, Stream) | Initializes a new instance of the [`ImageDevice`](../imagedevice) class by rendering options and output stream. |
+| [ImageDevice](imagedevice#constructor_3)(ImageRenderingOptions, string) | Initializes a new instance of the [`ImageDevice`](../imagedevice) class by rendering options and output file name. |
 
 ## Properties
 

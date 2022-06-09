@@ -1,7 +1,7 @@
 ---
 title: BlendFactors
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the blend factors that define a custom falloff for the gradient.
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/igradientbrush/blendfactors/

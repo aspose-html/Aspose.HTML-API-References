@@ -1,7 +1,7 @@
 ---
 title: Clone
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates a new instance of a class with the same property values as an existing instance.
 type: docs
 weight: 90
 url: /net/aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/clone/

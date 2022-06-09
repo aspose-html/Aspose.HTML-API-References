@@ -1,7 +1,7 @@
 ---
 title: CSS_EMS
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value is a length ems. The value can be obtained by using the getFloatValue method.
 type: docs
 weight: 200
 url: /net/aspose.html.dom.css/cssprimitivevalue/css_ems/

@@ -1,7 +1,7 @@
 ---
 title: YouKu
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an YouKu host.
 type: docs
 weight: 20
 url: /net/aspose.html.datascraping.multimediascraping/multimediahost/youku/

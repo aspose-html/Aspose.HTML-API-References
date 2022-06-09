@@ -1,7 +1,7 @@
 ---
 title: ParentStyleSheet
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The parentStyleSheet property of the CSSRuleaspose.html.dom.css/icssrule interface returns the StyleSheetaspose.html.dom.css/istylesheet object in which the current rule is defined.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/icssrule/parentstylesheet/

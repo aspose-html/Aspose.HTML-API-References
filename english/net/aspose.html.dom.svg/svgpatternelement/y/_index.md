@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute y on the given pattern element.
 type: docs
 weight: 130
 url: /net/aspose.html.dom.svg/svgpatternelement/y/

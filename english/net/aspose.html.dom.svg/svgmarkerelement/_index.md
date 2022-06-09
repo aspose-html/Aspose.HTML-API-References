@@ -1,7 +1,7 @@
 ---
 title: SVGMarkerElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGMarkerElement interface corresponds to the marker element.
 type: docs
 weight: 2270
 url: /net/aspose.html.dom.svg/svgmarkerelement/
@@ -117,16 +117,16 @@ public class SVGMarkerElement : SVGElement, ISVGFitToViewBox
 | [SetOrientToAuto](../../aspose.html.dom.svg/svgmarkerelement/setorienttoauto)() | Sets the value of attribute ‘orient’ to 'auto'. |
 | override [ToString](../../aspose.html.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [SVG_MARKERUNITS_STROKEWIDTH](svg_markerunits_strokewidth) | The value of attribute ‘markerUnits’ is 'strokeWidth'. |
-| const [SVG_MARKERUNITS_UNKNOWN](svg_markerunits_unknown) | The marker unit type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
-| const [SVG_MARKERUNITS_USERSPACEONUSE](svg_markerunits_userspaceonuse) | The value of attribute ‘markerUnits’ is 'userSpaceOnUse'. |
-| const [SVG_MARKER_ORIENT_ANGLE](svg_marker_orient_angle) | Attribute ‘orient’ has an angle value. |
-| const [SVG_MARKER_ORIENT_AUTO](svg_marker_orient_auto) | Attribute ‘orient’ has value 'auto'. |
-| const [SVG_MARKER_ORIENT_UNKNOWN](svg_marker_orient_unknown) | The marker orientation is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_MARKERUNITS_STROKEWIDTH](../../aspose.html.dom.svg/svgmarkerelement/svg_markerunits_strokewidth) | The value of attribute ‘markerUnits’ is 'strokeWidth'. |
+| const [SVG_MARKERUNITS_UNKNOWN](../../aspose.html.dom.svg/svgmarkerelement/svg_markerunits_unknown) | The marker unit type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_MARKERUNITS_USERSPACEONUSE](../../aspose.html.dom.svg/svgmarkerelement/svg_markerunits_userspaceonuse) | The value of attribute ‘markerUnits’ is 'userSpaceOnUse'. |
+| const [SVG_MARKER_ORIENT_ANGLE](../../aspose.html.dom.svg/svgmarkerelement/svg_marker_orient_angle) | Attribute ‘orient’ has an angle value. |
+| const [SVG_MARKER_ORIENT_AUTO](../../aspose.html.dom.svg/svgmarkerelement/svg_marker_orient_auto) | Attribute ‘orient’ has value 'auto'. |
+| const [SVG_MARKER_ORIENT_UNKNOWN](../../aspose.html.dom.svg/svgmarkerelement/svg_marker_orient_unknown) | The marker orientation is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
 
 ### See Also
 

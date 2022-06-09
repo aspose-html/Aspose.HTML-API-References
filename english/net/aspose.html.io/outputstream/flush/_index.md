@@ -1,7 +1,7 @@
 ---
 title: Flush
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Clears all buffers for the wrapped output stream and causes any buffered data to be written to the underlying device.
 type: docs
 weight: 90
 url: /net/aspose.html.io/outputstream/flush/

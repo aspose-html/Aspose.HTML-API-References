@@ -1,7 +1,7 @@
 ---
 title: Cite
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: A URI IETF RFC 2396http//www.ietf.org/rfc/rfc2396.txt designating a source document or message. See the cite attribute definition in HTML 4.01.
 type: docs
 weight: 10
 url: /net/aspose.html/htmlquoteelement/cite/

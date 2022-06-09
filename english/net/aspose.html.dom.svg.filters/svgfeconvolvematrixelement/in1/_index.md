@@ -1,7 +1,7 @@
 ---
 title: In1
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute in on the given feConvolveMatrix element.
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/in1/

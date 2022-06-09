@@ -1,7 +1,7 @@
 ---
 title: TEXTPATH_SPACINGTYPE_EXACT
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to value exact.
 type: docs
 weight: 90
 url: /net/aspose.html.dom.svg/svgtextpathelement/textpath_spacingtype_exact/

@@ -1,7 +1,7 @@
 ---
 title: OnVolumeChange
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnVolumeChange event.
 type: docs
 weight: 770
 url: /net/aspose.html.dom/document/onvolumechange/

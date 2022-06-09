@@ -1,7 +1,7 @@
 ---
 title: Compression
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sets or gets Tagged Image File Format TIFF Compressionaspose.html.rendering.image/compression. By default this property is LZW.
 type: docs
 weight: 20
 url: /net/aspose.html.rendering.image/imagerenderingoptions/compression/

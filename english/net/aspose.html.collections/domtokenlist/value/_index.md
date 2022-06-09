@@ -1,7 +1,7 @@
 ---
 title: Value
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the value of a corresponding attribute.
 type: docs
 weight: 30
 url: /net/aspose.html.collections/domtokenlist/value/

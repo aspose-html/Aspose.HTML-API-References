@@ -1,7 +1,7 @@
 ---
 title: Response
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the response message.
 type: docs
 weight: 20
 url: /net/aspose.html.net/inetworkoperationcontext/response/

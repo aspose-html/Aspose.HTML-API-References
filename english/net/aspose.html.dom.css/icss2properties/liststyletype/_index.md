@@ -1,7 +1,7 @@
 ---
 title: ListStyleType
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This property specifies appearance of the list item marker if list-style-imagehttps//www.w3.org/TR/1998/REC-CSS2-19980512/generate.htmlpropdef-list-style-image has the value none or if the image pointed to by the URI cannot be displayed. The value none specifies no marker otherwise there are three types of marker glyphs numbering systems and alphabetic systems. Note. Numbered lists improve document accessibility by making lists easier to navigate.
 type: docs
 weight: 620
 url: /net/aspose.html.dom.css/icss2properties/liststyletype/

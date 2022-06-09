@@ -1,7 +1,7 @@
 ---
 title: MaxHandlingDepth
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets maximum depth of pages which will be handled. Depth of 1 means that only pages directly referenced from the saved document will be handled. Setting this property to -1 will lead to handling of all pages. Default value is 3.
 type: docs
 weight: 30
 url: /net/aspose.html.saving/resourcehandlingoptions/maxhandlingdepth/

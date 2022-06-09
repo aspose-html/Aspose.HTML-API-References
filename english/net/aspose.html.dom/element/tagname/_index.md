@@ -1,7 +1,7 @@
 ---
 title: TagName
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The name of the element.
 type: docs
 weight: 210
 url: /net/aspose.html.dom/element/tagname/

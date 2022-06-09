@@ -1,7 +1,7 @@
 ---
 title: Scale
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Adds a scaling transformation to the canvas units by x horizontally and by y vertically.
 type: docs
 weight: 350
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/scale/

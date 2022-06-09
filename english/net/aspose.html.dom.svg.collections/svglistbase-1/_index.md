@@ -1,7 +1,7 @@
 ---
 title: SVGListBaseT
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This interface defines a base list of all SVG lists.
 type: docs
 weight: 1160
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/

@@ -1,7 +1,7 @@
 ---
 title: KernelUnitLengthX
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute kernelUnitLength on the given feSpecularLighting element.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.filters/svgfespecularlightingelement/kernelunitlengthx/

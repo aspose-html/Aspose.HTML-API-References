@@ -1,7 +1,7 @@
 ---
 title: AttachShadow
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates shadow root and attaches it to current element.
 type: docs
 weight: 230
 url: /net/aspose.html.dom/element/attachshadow/

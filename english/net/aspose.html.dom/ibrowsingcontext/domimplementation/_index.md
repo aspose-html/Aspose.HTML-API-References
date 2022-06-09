@@ -1,7 +1,7 @@
 ---
 title: DOMImplementation
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the DOM implementation.
 type: docs
 weight: 20
 url: /net/aspose.html.dom/ibrowsingcontext/domimplementation/

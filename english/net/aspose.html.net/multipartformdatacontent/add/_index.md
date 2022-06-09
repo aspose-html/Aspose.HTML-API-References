@@ -1,12 +1,12 @@
 ---
 title: Add
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Add the content to the MultipartFormDataContentaspose.html.net/multipartformdatacontent class
 type: docs
 weight: 20
 url: /net/aspose.html.net/multipartformdatacontent/add/
 ---
-## MultipartFormDataContent.Add method (1 of 3)
+## Add(Content) {#add}
 
 Add the content to the [`MultipartFormDataContent`](../../multipartformdatacontent) class
 
@@ -27,7 +27,7 @@ public override void Add(Content content)
 
 ---
 
-## MultipartFormDataContent.Add method (2 of 3)
+## Add(Content, string) {#add_1}
 
 Add the content to the [`MultipartFormDataContent`](../../multipartformdatacontent) class with field name parameter
 
@@ -49,7 +49,7 @@ public void Add(Content content, string name)
 
 ---
 
-## MultipartFormDataContent.Add method (3 of 3)
+## Add(Content, string, string) {#add_2}
 
 Add the content to the [`MultipartFormDataContent`](../../multipartformdatacontent) class with field and file name parameter
 

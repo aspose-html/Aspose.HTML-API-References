@@ -1,7 +1,7 @@
 ---
 title: PdfEncryptionAlgorithm
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Encryption mode enum. Describe using algorithm and key length. This enum is extended in order to be able to further increase functionality. This enum implements Base-to-Core pattern.
 type: docs
 weight: 4480
 url: /net/aspose.html.rendering.pdf.encryption/pdfencryptionalgorithm/

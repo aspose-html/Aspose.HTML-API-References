@@ -1,7 +1,7 @@
 ---
 title: ClearHitRegions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Removes all hit regions from the canvas.
 type: docs
 weight: 130
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/clearhitregions/

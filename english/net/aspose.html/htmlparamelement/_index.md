@@ -1,7 +1,7 @@
 ---
 title: HTMLParamElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Parameters fed to the OBJECT element. See the PARAM element definition in HTML 4.01.
 type: docs
 weight: 3560
 url: /net/aspose.html/htmlparamelement/

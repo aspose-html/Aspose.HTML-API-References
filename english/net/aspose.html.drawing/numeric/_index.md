@@ -1,7 +1,7 @@
 ---
 title: Numeric
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Provides the base class for numeric types.
 type: docs
 weight: 2880
 url: /net/aspose.html.drawing/numeric/
@@ -26,10 +26,10 @@ public abstract class Numeric : Unit
 | --- | --- |
 | [CompareTo](../../aspose.html.drawing/numeric/compareto)(Numeric) | Compares the current instance with another object of the same type and returns an integer that indicates whether the current instance precedes, follows, or occurs in the same position in the sort order as the other object. |
 | override [Equals](../../aspose.html.drawing/unit/equals)(object) | Determines whether the specified Object, is equal to this instance. |
-| override [Equals](../../aspose.html.drawing/numeric/equals)(Unit) | Determines whether the specified [`Unit`](../unit), is equal to this instance. |
+| override [Equals](../../aspose.html.drawing/numeric/equals#equals)(Unit) | Determines whether the specified [`Unit`](../unit), is equal to this instance. |
 | override [GetHashCode](../../aspose.html.drawing/numeric/gethashcode)() | Returns a hash code for this instance. |
-| [GetValue](../../aspose.html.drawing/numeric/getvalue)() | Gets the unit value. |
-| [GetValue](../../aspose.html.drawing/numeric/getvalue)(UnitType) | Gets the value converted to the specified [`UnitType`](../unittype). |
+| [GetValue](../../aspose.html.drawing/numeric/getvalue#getvalue)() | Gets the unit value. |
+| [GetValue](../../aspose.html.drawing/numeric/getvalue#getvalue_1)(UnitType) | Gets the value converted to the specified [`UnitType`](../unittype). |
 | override [ToString](../../aspose.html.drawing/numeric/tostring)() | Returns a String that represents this instance. |
 
 ### See Also

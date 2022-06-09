@@ -1,7 +1,7 @@
 ---
 title: Int8Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an array of twos-complement 8-bit signed integers.
 type: docs
 weight: 3880
 url: /net/aspose.html/int8array/
@@ -18,11 +18,11 @@ public class Int8Array : TypedArray<sbyte>
 
 | Name | Description |
 | --- | --- |
-| [Int8Array](int8array)(ArrayBuffer) | Initializes a new instance of the [`Int8Array`](../int8array) class. |
-| [Int8Array](int8array)(int) | Initializes a new instance of the [`Int8Array`](../int8array) class. |
-| [Int8Array](int8array)(sbyte[]) | Initializes a new instance of the [`Int8Array`](../int8array) class. |
-| [Int8Array](int8array)(ArrayBuffer, int) | Initializes a new instance of the [`Int8Array`](../int8array) class. |
-| [Int8Array](int8array)(ArrayBuffer, int, int) | Initializes a new instance of the [`Int8Array`](../int8array) class. |
+| [Int8Array](int8array#constructor)(ArrayBuffer) | Initializes a new instance of the [`Int8Array`](../int8array) class. |
+| [Int8Array](int8array#constructor_3)(int) | Initializes a new instance of the [`Int8Array`](../int8array) class. |
+| [Int8Array](int8array#constructor_4)(sbyte[]) | Initializes a new instance of the [`Int8Array`](../int8array) class. |
+| [Int8Array](int8array#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the [`Int8Array`](../int8array) class. |
+| [Int8Array](int8array#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the [`Int8Array`](../int8array) class. |
 
 ## Properties
 
@@ -40,11 +40,11 @@ public class Int8Array : TypedArray<sbyte>
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [BYTES_PER_ELEMENT](bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
+| static readonly [BYTES_PER_ELEMENT](../../aspose.html/int8array/bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
 
 ### See Also
 

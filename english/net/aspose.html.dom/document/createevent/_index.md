@@ -1,7 +1,7 @@
 ---
 title: CreateEvent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates an Eventaspose.html.dom.events/event of a type supported by the implementation.
 type: docs
 weight: 880
 url: /net/aspose.html.dom/document/createevent/

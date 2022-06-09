@@ -1,7 +1,7 @@
 ---
 title: GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns an enumerator that iterates through the MutationObserverInitaspose.html.dom.mutations/mutationobserverinit elements.
 type: docs
 weight: 190
 url: /net/aspose.html.dom.mutations/mutationobserverinit/getenumerator/

@@ -1,7 +1,7 @@
 ---
 title: CreateRadialGradient
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates a radial gradient given by the coordinates of the two circles represented by the parameters.
 type: docs
 weight: 190
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/createradialgradient/

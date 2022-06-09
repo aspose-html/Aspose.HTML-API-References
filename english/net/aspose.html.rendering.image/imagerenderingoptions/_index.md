@@ -1,7 +1,7 @@
 ---
 title: ImageRenderingOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents rendering options for ImageDevice./imagedevice. This options is used to specify output image format compression resolution etc.
 type: docs
 weight: 4410
 url: /net/aspose.html.rendering.image/imagerenderingoptions/
@@ -18,8 +18,8 @@ public class ImageRenderingOptions : RenderingOptions
 
 | Name | Description |
 | --- | --- |
-| [ImageRenderingOptions](imagerenderingoptions)() | Initializes a new instance of the [`ImageRenderingOptions`](../imagerenderingoptions) class; Png will be used as default image format. |
-| [ImageRenderingOptions](imagerenderingoptions)(ImageFormat) | Initializes a new instance of the [`ImageRenderingOptions`](../imagerenderingoptions) class with specified image format. |
+| [ImageRenderingOptions](imagerenderingoptions#constructor)() | Initializes a new instance of the [`ImageRenderingOptions`](../imagerenderingoptions) class; Png will be used as default image format. |
+| [ImageRenderingOptions](imagerenderingoptions#constructor_1)(ImageFormat) | Initializes a new instance of the [`ImageRenderingOptions`](../imagerenderingoptions) class with specified image format. |
 
 ## Properties
 

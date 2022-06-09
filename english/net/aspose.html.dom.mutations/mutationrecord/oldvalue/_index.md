@@ -1,7 +1,7 @@
 ---
 title: OldValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The return value depends on type. For attributes it is the value of the changed attribute before the change. For characterData it is the data of the changed node before the change. For childList it is null.
 type: docs
 weight: 50
 url: /net/aspose.html.dom.mutations/mutationrecord/oldvalue/

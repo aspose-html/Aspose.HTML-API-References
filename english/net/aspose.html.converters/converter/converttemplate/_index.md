@@ -1,12 +1,12 @@
 ---
 title: ConvertTemplate
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Merge template source presented by HTMLDocumentaspose.html/htmldocument with template data XML JSON. Result is html file formed by output file path.
 type: docs
 weight: 60
 url: /net/aspose.html.converters/converter/converttemplate/
 ---
-## Converter.ConvertTemplate method (1 of 14)
+## ConvertTemplate(HTMLDocument, TemplateData, TemplateLoadOptions, string) {#converttemplate_7}
 
 Merge template source presented by [`HTMLDocument`](../../../aspose.html/htmldocument) with template data (XML, JSON). Result is html file formed by output file path.
 
@@ -91,7 +91,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertTemplate method (2 of 14)
+## ConvertTemplate(Url, TemplateData, TemplateLoadOptions, string) {#converttemplate_9}
 
 Merge template HTML source presented by [`URL`](../../../aspose.html/url) with template data (XML, JSON). Result is html file formed by output file path.
 
@@ -170,7 +170,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertTemplate method (3 of 14)
+## ConvertTemplate(Url, Configuration, TemplateData, TemplateLoadOptions, string) {#converttemplate_8}
 
 Merge template HTML source presented by [`URL`](../../../aspose.html/url) with template data (XML, JSON). Result is html file formed by output file path.
 
@@ -246,7 +246,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertTemplate method (4 of 14)
+## ConvertTemplate(string, TemplateData, TemplateLoadOptions, string) {#converttemplate_11}
 
 Merge template HTML source presented by full file path with template data (XML, JSON). Result is html file formed by output file path.
 
@@ -319,7 +319,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertTemplate method (5 of 14)
+## ConvertTemplate(string, Configuration, TemplateData, TemplateLoadOptions, string) {#converttemplate_10}
 
 Merge template HTML source presented by full file path with template data (XML, JSON). Result is html file formed by output file path.
 
@@ -394,7 +394,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertTemplate method (6 of 14)
+## ConvertTemplate(string, string, TemplateData, TemplateLoadOptions, string) {#converttemplate_13}
 
 Merge template HTML source presented by inline content with template data (XML, JSON). Result is html file formed by output file path.
 
@@ -500,7 +500,7 @@ Below is sample data file to merge with source
 
 ---
 
-## Converter.ConvertTemplate method (7 of 14)
+## ConvertTemplate(string, string, Configuration, TemplateData, TemplateLoadOptions, string) {#converttemplate_12}
 
 Merge template HTML source presented by inline content with template data (XML, JSON). Result is html file formed by output file path.
 
@@ -615,7 +615,7 @@ Below is data file to merge with source as template
 
 ---
 
-## Converter.ConvertTemplate method (8 of 14)
+## ConvertTemplate(HTMLDocument, TemplateData, TemplateLoadOptions) {#converttemplate}
 
 Merge template source presented by [`HTMLDocument`](../../../aspose.html/htmldocument) with template data (XML, JSON). Result is new formed HTMLDocument which can be saved as file.
 
@@ -704,7 +704,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertTemplate method (9 of 14)
+## ConvertTemplate(Url, TemplateData, TemplateLoadOptions) {#converttemplate_2}
 
 Merge template HTML source presented by [`URL`](../../../aspose.html/url) with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved as file.
 
@@ -785,7 +785,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertTemplate method (10 of 14)
+## ConvertTemplate(Url, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_1}
 
 Merge template HTML source presented by [`URL`](../../../aspose.html/url) with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved as file.
 
@@ -869,7 +869,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertTemplate method (11 of 14)
+## ConvertTemplate(string, TemplateData, TemplateLoadOptions) {#converttemplate_4}
 
 Merge template HTML source presented by full file path with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved as file.
 
@@ -950,7 +950,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertTemplate method (12 of 14)
+## ConvertTemplate(string, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_3}
 
 Merge template HTML source presented by full file path with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved as file.
 
@@ -1033,7 +1033,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertTemplate method (13 of 14)
+## ConvertTemplate(string, string, TemplateData, TemplateLoadOptions) {#converttemplate_6}
 
 Merge template HTML source presented by inline content with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved as file.
 
@@ -1124,7 +1124,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertTemplate method (14 of 14)
+## ConvertTemplate(string, string, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_5}
 
 Merge template HTML source presented by inline content with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved as file.
 

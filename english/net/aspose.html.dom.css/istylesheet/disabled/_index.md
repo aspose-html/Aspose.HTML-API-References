@@ -1,7 +1,7 @@
 ---
 title: Disabled
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The disabled property of the StyleSheetaspose.html.dom.css/istylesheet interface determines whether the style sheet is prevented from applying to the document.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/istylesheet/disabled/

@@ -1,7 +1,7 @@
 ---
 title: Operator
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute operator on the given feComposite element. Takes one of the SVG_FECOMPOSITE_OPERATOR_ constants defined on this interface.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg.filters/svgfecompositeelement/operator/

@@ -1,7 +1,7 @@
 ---
 title: Elements
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a collection of all form control elements in the form.
 type: docs
 weight: 30
 url: /net/aspose.html/htmlformelement/elements/

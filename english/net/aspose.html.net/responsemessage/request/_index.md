@@ -1,7 +1,7 @@
 ---
 title: Request
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the associated request.
 type: docs
 weight: 60
 url: /net/aspose.html.net/responsemessage/request/

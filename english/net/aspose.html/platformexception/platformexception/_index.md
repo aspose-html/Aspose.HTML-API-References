@@ -1,12 +1,12 @@
 ---
 title: PlatformException
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the PlatformExceptionaspose.html/platformexception class.
 type: docs
 weight: 10
 url: /net/aspose.html/platformexception/platformexception/
 ---
-## PlatformException constructor (1 of 3)
+## PlatformException() {#constructor}
 
 Initializes a new instance of the [`PlatformException`](../../platformexception) class.
 
@@ -22,7 +22,7 @@ public PlatformException()
 
 ---
 
-## PlatformException constructor (2 of 3)
+## PlatformException(string) {#constructor_1}
 
 Initializes a new instance of the [`PlatformException`](../../platformexception) class with a specified error message.
 
@@ -42,7 +42,7 @@ public PlatformException(string message)
 
 ---
 
-## PlatformException constructor (3 of 3)
+## PlatformException(string, Exception) {#constructor_2}
 
 Initializes a new instance of the [`PlatformException`](../../platformexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 

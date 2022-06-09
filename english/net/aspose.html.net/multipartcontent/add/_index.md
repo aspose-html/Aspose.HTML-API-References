@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Add a new content to the MultipartContentaspose.html.net/multipartcontent
 type: docs
 weight: 20
 url: /net/aspose.html.net/multipartcontent/add/

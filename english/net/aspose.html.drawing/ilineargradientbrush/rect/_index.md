@@ -1,7 +1,7 @@
 ---
 title: Rect
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get a rectangular region that defines the starting and ending points of the gradient.
 type: docs
 weight: 40
 url: /net/aspose.html.drawing/ilineargradientbrush/rect/

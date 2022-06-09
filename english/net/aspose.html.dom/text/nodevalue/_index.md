@@ -1,7 +1,7 @@
 ---
 title: NodeValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value of this node depending on its type.
 type: docs
 weight: 40
 url: /net/aspose.html.dom/text/nodevalue/

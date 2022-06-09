@@ -1,7 +1,7 @@
 ---
 title: Contains
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Determines whether the VideoFormatInfoCollectionaspose.html.datascraping.multimediascraping/videoformatinfocollection contain the specified item.
 type: docs
 weight: 50
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfocollection/contains/

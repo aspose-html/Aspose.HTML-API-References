@@ -1,7 +1,7 @@
 ---
 title: CSS_COUNTER
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value is a counter or counters function. The value can be obtained by using the GetCounterValue method.
 type: docs
 weight: 140
 url: /net/aspose.html.dom.css/cssprimitivevalue/css_counter/

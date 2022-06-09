@@ -1,7 +1,7 @@
 ---
 title: CSSRules
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The cssRules property of the CSSGroupingRule interface returns a CSSRuleListaspose.html.dom.css/icssrulelist containing a collection of CSSRuleaspose.html.dom.css/icssrule objects.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/icssmediarule/cssrules/

@@ -1,7 +1,7 @@
 ---
 title: PrimitiveUnits
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute primitiveUnits on the given filter element. Takes one of the constants defined in SVGUnitTypes.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgfilterelement/primitiveunits/

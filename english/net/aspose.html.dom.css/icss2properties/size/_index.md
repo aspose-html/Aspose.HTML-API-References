@@ -1,7 +1,7 @@
 ---
 title: Size
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This property specifies the size and orientation of a page box.
 type: docs
 weight: 990
 url: /net/aspose.html.dom.css/icss2properties/size/

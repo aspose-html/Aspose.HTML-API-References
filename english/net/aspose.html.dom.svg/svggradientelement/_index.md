@@ -1,7 +1,7 @@
 ---
 title: SVGGradientElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGGradientElement interface is a base interface used by SVGLinearGradientElement and SVGRadialGradientElement.
 type: docs
 weight: 2210
 url: /net/aspose.html.dom.svg/svggradientelement/
@@ -110,14 +110,14 @@ public class SVGGradientElement : SVGElement, ISVGUnitTypes, ISVGURIReference
 | [SetIdAttributeNS](../../aspose.html.dom/element/setidattributens)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | override [ToString](../../aspose.html.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [SVG_SPREADMETHOD_PAD](svg_spreadmethod_pad) | Corresponds to value 'pad'. |
-| const [SVG_SPREADMETHOD_REFLECT](svg_spreadmethod_reflect) | Corresponds to value 'reflect'. |
-| const [SVG_SPREADMETHOD_REPEAT](svg_spreadmethod_repeat) | Corresponds to value 'repeat'. |
-| const [SVG_SPREADMETHOD_UNKNOWN](svg_spreadmethod_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_SPREADMETHOD_PAD](../../aspose.html.dom.svg/svggradientelement/svg_spreadmethod_pad) | Corresponds to value 'pad'. |
+| const [SVG_SPREADMETHOD_REFLECT](../../aspose.html.dom.svg/svggradientelement/svg_spreadmethod_reflect) | Corresponds to value 'reflect'. |
+| const [SVG_SPREADMETHOD_REPEAT](../../aspose.html.dom.svg/svggradientelement/svg_spreadmethod_repeat) | Corresponds to value 'repeat'. |
+| const [SVG_SPREADMETHOD_UNKNOWN](../../aspose.html.dom.svg/svggradientelement/svg_spreadmethod_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
 
 ### See Also
 

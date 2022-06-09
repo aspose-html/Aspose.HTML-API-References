@@ -1,7 +1,7 @@
 ---
 title: OptionElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The OptionElement represents a wrapper that is associated with the HTMLOptionElement
 type: docs
 weight: 3090
 url: /net/aspose.html.forms/optionelement/

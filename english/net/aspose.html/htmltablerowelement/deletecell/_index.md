@@ -1,7 +1,7 @@
 ---
 title: DeleteCell
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Delete a cell from the current row.
 type: docs
 weight: 90
 url: /net/aspose.html/htmltablerowelement/deletecell/

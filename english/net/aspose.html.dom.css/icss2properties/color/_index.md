@@ -1,7 +1,7 @@
 ---
 title: Color
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This property describes the foreground color of an elements text content.
 type: docs
 weight: 340
 url: /net/aspose.html.dom.css/icss2properties/color/

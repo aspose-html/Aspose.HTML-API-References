@@ -1,7 +1,7 @@
 ---
 title: Dispose
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Releases unmanaged and managed resources.
 type: docs
 weight: 100
 url: /net/aspose.html.forms/formeditor/dispose/

@@ -1,7 +1,7 @@
 ---
 title: YouTube
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an YouTube host.
 type: docs
 weight: 30
 url: /net/aspose.html.datascraping.multimediascraping/multimediahost/youtube/

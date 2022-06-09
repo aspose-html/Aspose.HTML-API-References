@@ -1,12 +1,12 @@
 ---
 title: CloneNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The cloneNode method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not.
 type: docs
 weight: 190
 url: /net/aspose.html.dom/node/clonenode/
 ---
-## Node.CloneNode method (1 of 2)
+## CloneNode() {#clonenode}
 
 The cloneNode() method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not.
 
@@ -28,7 +28,7 @@ The new [`Node`](../../node) cloned. The cloned node has no parent and is not pa
 
 ---
 
-## Node.CloneNode method (2 of 2)
+## CloneNode(bool) {#clonenode_1}
 
 The cloneNode() method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not.
 

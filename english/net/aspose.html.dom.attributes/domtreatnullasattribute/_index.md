@@ -1,7 +1,7 @@
 ---
 title: DOMTreatNullAsAttribute
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Indicates that null of the member value will be treated as specified value.
 type: docs
 weight: 300
 url: /net/aspose.html.dom.attributes/domtreatnullasattribute/

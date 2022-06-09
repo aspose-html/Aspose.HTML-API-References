@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The Width coordinate of the rectangle in user units.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.datatypes/svgrect/width/

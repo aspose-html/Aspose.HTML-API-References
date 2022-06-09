@@ -1,7 +1,7 @@
 ---
 title: EndElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Ends rendering of the element.
 type: docs
 weight: 120
 url: /net/aspose.html.rendering.image/imagedevice/endelement/

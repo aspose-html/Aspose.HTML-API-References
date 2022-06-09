@@ -1,7 +1,7 @@
 ---
 title: EdgeMode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute edgeMode on the given feConvolveMatrix element.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/edgemode/

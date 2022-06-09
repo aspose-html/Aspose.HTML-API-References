@@ -1,7 +1,7 @@
 ---
 title: Render
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines method for rendering multiple SVGDocumentaspose.html.dom.svg/svgdocuments into specific IDeviceaspose.html.rendering/idevice. The rendering will be performed once there are no any network operations for loading resources active timers animation tasks or specified timeout is elapsed.
 type: docs
 weight: 20
 url: /net/aspose.html.rendering/svgrenderer/render/

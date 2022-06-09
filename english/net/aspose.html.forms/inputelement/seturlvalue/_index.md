@@ -1,7 +1,7 @@
 ---
 title: SetUrlValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This method is used to set Urlaspose.html/url object as a value for input element. This method is valid if only the type of the input element is url
 type: docs
 weight: 290
 url: /net/aspose.html.forms/inputelement/seturlvalue/

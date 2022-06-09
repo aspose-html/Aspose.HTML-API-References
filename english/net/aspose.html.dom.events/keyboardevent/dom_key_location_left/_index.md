@@ -1,7 +1,7 @@
 ---
 title: DOM_KEY_LOCATION_LEFT
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The key activated originated from the left key location when there is more than one possible location for this key.
 type: docs
 weight: 110
 url: /net/aspose.html.dom.events/keyboardevent/dom_key_location_left/

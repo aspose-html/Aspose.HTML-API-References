@@ -1,7 +1,7 @@
 ---
 title: Formats
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Collection of the available video formats.
 type: docs
 weight: 20
 url: /net/aspose.html.datascraping.multimediascraping/videoinfo/formats/

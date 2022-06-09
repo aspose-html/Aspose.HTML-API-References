@@ -1,7 +1,7 @@
 ---
 title: StdDeviationX
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute stdDeviation on the given feDropShadow element. Contains the X component of attribute stdDeviation.
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg.filters/svgfedropshadowelement/stddeviationx/

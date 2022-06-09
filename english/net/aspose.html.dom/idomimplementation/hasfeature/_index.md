@@ -1,7 +1,7 @@
 ---
 title: HasFeature
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Test if the DOM implementation implements a specific feature and version as specified in DOM Features.
 type: docs
 weight: 40
 url: /net/aspose.html.dom/idomimplementation/hasfeature/

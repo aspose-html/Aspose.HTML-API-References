@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the element with the specified key.
 type: docs
 weight: 100
 url: /net/aspose.html.dom.mutations/mutationobserverinit/item/

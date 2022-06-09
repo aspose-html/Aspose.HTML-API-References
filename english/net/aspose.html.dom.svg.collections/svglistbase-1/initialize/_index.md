@@ -1,7 +1,7 @@
 ---
 title: Initialize
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Clears all existing current items from the list and re-initializes the list to hold the single item specified by the parameter.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/initialize/

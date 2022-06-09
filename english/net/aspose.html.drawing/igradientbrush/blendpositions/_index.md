@@ -1,7 +1,7 @@
 ---
 title: BlendPositions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the blend positions that define a custom falloff for the gradient.
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/igradientbrush/blendpositions/

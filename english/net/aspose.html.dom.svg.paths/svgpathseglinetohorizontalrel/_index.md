@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegLinetoHorizontalRel
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGPathSegLinetoHorizontalRel interface corresponds to a relative horizontal lineto h path data command.
 type: docs
 weight: 1940
 url: /net/aspose.html.dom.svg.paths/svgpathseglinetohorizontalrel/

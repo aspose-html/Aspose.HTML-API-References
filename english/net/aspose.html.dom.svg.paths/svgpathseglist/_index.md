@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegList
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This interface defines a list of SVGPathSeg objects.
 type: docs
 weight: 1980
 url: /net/aspose.html.dom.svg.paths/svgpathseglist/
@@ -18,8 +18,8 @@ public class SVGPathSegList : SVGListBase<SVGPathSeg>
 
 | Name | Description |
 | --- | --- |
-| [SVGPathSegList](svgpathseglist)() | Initializes a new instance of the [`SVGPathSegList`](../svgpathseglist) class. |
-| [SVGPathSegList](svgpathseglist)(IEnumerable&lt;SVGPathSeg&gt;) | Initializes a new instance of the [`SVGPathSegList`](../svgpathseglist) class. |
+| [SVGPathSegList](svgpathseglist#constructor)() | Initializes a new instance of the [`SVGPathSegList`](../svgpathseglist) class. |
+| [SVGPathSegList](svgpathseglist#constructor_1)(IEnumerable&lt;SVGPathSeg&gt;) | Initializes a new instance of the [`SVGPathSegList`](../svgpathseglist) class. |
 
 ## Properties
 

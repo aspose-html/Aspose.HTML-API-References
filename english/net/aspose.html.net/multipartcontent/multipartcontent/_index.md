@@ -1,12 +1,12 @@
 ---
 title: MultipartContent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Create a new instance of the MultipartContentaspose.html.net/multipartcontent class.
 type: docs
 weight: 10
 url: /net/aspose.html.net/multipartcontent/multipartcontent/
 ---
-## MultipartContent constructor (1 of 3)
+## MultipartContent() {#constructor}
 
 Create a new instance of the [`MultipartContent`](../../multipartcontent) class.
 
@@ -22,7 +22,7 @@ public MultipartContent()
 
 ---
 
-## MultipartContent constructor (2 of 3)
+## MultipartContent(string) {#constructor_1}
 
 Create a new instance of the [`MultipartContent`](../../multipartcontent) class with subtype.
 
@@ -42,7 +42,7 @@ public MultipartContent(string subtype)
 
 ---
 
-## MultipartContent constructor (3 of 3)
+## MultipartContent(string, string) {#constructor_2}
 
 Create a new instance of the [`MultipartContent`](../../multipartcontent) class with subtype and boundary.
 

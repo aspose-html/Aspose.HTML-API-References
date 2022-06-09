@@ -1,7 +1,7 @@
 ---
 title: ATTRIBUTE_NODE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: An Attributeaspose.html.dom/attr of an Elementaspose.html.dom/element.
 type: docs
 weight: 320
 url: /net/aspose.html.dom/node/attribute_node/

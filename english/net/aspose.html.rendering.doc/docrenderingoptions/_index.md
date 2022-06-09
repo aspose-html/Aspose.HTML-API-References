@@ -1,7 +1,7 @@
 ---
 title: DocRenderingOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents the rendering options for DocDevice./docdevice.
 type: docs
 weight: 4270
 url: /net/aspose.html.rendering.doc/docrenderingoptions/
@@ -18,8 +18,8 @@ public class DocRenderingOptions : RenderingOptions
 
 | Name | Description |
 | --- | --- |
-| [DocRenderingOptions](docrenderingoptions)() | Initializes a new instance of the [`DocRenderingOptions`](../docrenderingoptions) class. |
-| [DocRenderingOptions](docrenderingoptions)(FontEmbeddingRule) | Initializes a new instance of the [`DocRenderingOptions`](../docrenderingoptions) class with the specified font embedding rule. |
+| [DocRenderingOptions](docrenderingoptions#constructor)() | Initializes a new instance of the [`DocRenderingOptions`](../docrenderingoptions) class. |
+| [DocRenderingOptions](docrenderingoptions#constructor_1)(FontEmbeddingRule) | Initializes a new instance of the [`DocRenderingOptions`](../docrenderingoptions) class with the specified font embedding rule. |
 
 ## Properties
 

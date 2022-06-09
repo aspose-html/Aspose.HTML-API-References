@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the T at the specified index.
 type: docs
 weight: 10
 url: /net/aspose.html/typedarray-1/item/

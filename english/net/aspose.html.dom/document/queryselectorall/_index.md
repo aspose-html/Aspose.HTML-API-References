@@ -1,7 +1,7 @@
 ---
 title: QuerySelectorAll
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a NodeList of all the Elements in document which match selector
 type: docs
 weight: 1030
 url: /net/aspose.html.dom/document/queryselectorall/

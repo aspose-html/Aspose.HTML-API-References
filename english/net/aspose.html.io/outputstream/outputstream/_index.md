@@ -1,7 +1,7 @@
 ---
 title: OutputStream
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the OutputStreamaspose.html.io/outputstream class.
 type: docs
 weight: 10
 url: /net/aspose.html.io/outputstream/outputstream/

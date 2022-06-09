@@ -1,7 +1,7 @@
 ---
 title: SVG_ANGLETYPE_UNKNOWN
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The unit type is not one of predefined unit types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type.
 type: docs
 weight: 110
 url: /net/aspose.html.dom.svg.datatypes/svgangle/svg_angletype_unknown/

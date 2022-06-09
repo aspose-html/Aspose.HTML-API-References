@@ -1,7 +1,7 @@
 ---
 title: FromMillimeters
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a Lengthaspose.html.drawing/length object that is represented in millimeters.
 type: docs
 weight: 140
 url: /net/aspose.html.drawing/unit/frommillimeters/

@@ -1,7 +1,7 @@
 ---
 title: FontStretch
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The font-stretchhttps//www.w3.org/TR/1998/REC-CSS2-19980512/fonts.htmlpropdef-font-stretch property selects a normal condensed or extended face from a font family. Absolute keyword values have the following ordering from narrowest to widest 
 type: docs
 weight: 510
 url: /net/aspose.html.dom.css/icss2properties/fontstretch/

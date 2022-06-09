@@ -1,7 +1,7 @@
 ---
 title: ScreenY
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The vertical coordinate at which the event occurred relative to the origin of the screen coordinate system.
 type: docs
 weight: 110
 url: /net/aspose.html.dom.events/mouseevent/screeny/

@@ -1,7 +1,7 @@
 ---
 title: RemoveAttributeNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Removes the specified attribute node.
 type: docs
 weight: 380
 url: /net/aspose.html.dom/element/removeattributenode/

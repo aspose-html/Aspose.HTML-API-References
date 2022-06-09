@@ -1,7 +1,7 @@
 ---
 title: LineWidth
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sets or gets the thickness of paths to be stroked.
 type: docs
 weight: 50
 url: /net/aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/linewidth/

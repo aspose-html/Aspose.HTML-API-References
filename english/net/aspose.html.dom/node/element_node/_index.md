@@ -1,7 +1,7 @@
 ---
 title: ELEMENT_NODE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: An Elementaspose.html.dom/element node like ltpgt or ltdivgt.
 type: docs
 weight: 380
 url: /net/aspose.html.dom/node/element_node/

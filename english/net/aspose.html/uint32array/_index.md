@@ -1,7 +1,7 @@
 ---
 title: Uint32Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an array of twos-complement 32-bit unsigned integers in the platform byte order.
 type: docs
 weight: 4880
 url: /net/aspose.html/uint32array/
@@ -18,11 +18,11 @@ public class Uint32Array : TypedArray<uint>
 
 | Name | Description |
 | --- | --- |
-| [Uint32Array](uint32array)(ArrayBuffer) | Initializes a new instance of the [`Uint32Array`](../uint32array) class. |
-| [Uint32Array](uint32array)(int) | Initializes a new instance of the [`Uint32Array`](../uint32array) class. |
-| [Uint32Array](uint32array)(uint[]) | Initializes a new instance of the [`Uint32Array`](../uint32array) class. |
-| [Uint32Array](uint32array)(ArrayBuffer, int) | Initializes a new instance of the [`Uint32Array`](../uint32array) class. |
-| [Uint32Array](uint32array)(ArrayBuffer, int, int) | Initializes a new instance of the [`Uint32Array`](../uint32array) class. |
+| [Uint32Array](uint32array#constructor)(ArrayBuffer) | Initializes a new instance of the [`Uint32Array`](../uint32array) class. |
+| [Uint32Array](uint32array#constructor_3)(int) | Initializes a new instance of the [`Uint32Array`](../uint32array) class. |
+| [Uint32Array](uint32array#constructor_4)(uint[]) | Initializes a new instance of the [`Uint32Array`](../uint32array) class. |
+| [Uint32Array](uint32array#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the [`Uint32Array`](../uint32array) class. |
+| [Uint32Array](uint32array#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the [`Uint32Array`](../uint32array) class. |
 
 ## Properties
 
@@ -40,11 +40,11 @@ public class Uint32Array : TypedArray<uint>
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | This method is used to retrieve the ECMAScript object . |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [BYTES_PER_ELEMENT](bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
+| static readonly [BYTES_PER_ELEMENT](../../aspose.html/uint32array/bytes_per_element) | The property represents the size in bytes of each element in an typed array. |
 
 ### See Also
 

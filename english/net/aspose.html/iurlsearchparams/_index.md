@@ -1,7 +1,7 @@
 ---
 title: IUrlSearchParams
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Provides methods to work with URLs query string.
 type: docs
 weight: 3850
 url: /net/aspose.html/iurlsearchparams/

@@ -1,12 +1,12 @@
 ---
 title: FocusEvent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the FocusEventaspose.html.dom.events/focusevent class.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.events/focusevent/focusevent/
 ---
-## FocusEvent constructor (1 of 2)
+## FocusEvent(string) {#constructor}
 
 Initializes a new instance of the [`FocusEvent`](../../focusevent) class.
 
@@ -26,7 +26,7 @@ public FocusEvent(string type)
 
 ---
 
-## FocusEvent constructor (2 of 2)
+## FocusEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
 
 ```csharp
 public FocusEvent(string type, IDictionary<string, object> eventInitDict)

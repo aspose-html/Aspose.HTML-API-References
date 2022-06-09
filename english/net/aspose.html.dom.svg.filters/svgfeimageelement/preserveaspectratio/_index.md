@@ -1,7 +1,7 @@
 ---
 title: PreserveAspectRatio
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute preserveAspectRatio on the given feImage element.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.filters/svgfeimageelement/preserveaspectratio/

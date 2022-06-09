@@ -1,7 +1,7 @@
 ---
 title: CSSValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents a simple or a complex value. A CSSValue object only occurs in a context of a CSS property.
 type: docs
 weight: 450
 url: /net/aspose.html.dom.css/cssvalue/
@@ -32,14 +32,14 @@ public abstract class CSSValue : DOMObject
 | [operator ==](../../aspose.html.dom.css/cssvalue/op_equality) |  |
 | [operator !=](../../aspose.html.dom.css/cssvalue/op_inequality) |  |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [CSS_CUSTOM](css_custom) | The value is a custom value. |
-| const [CSS_INHERIT](css_inherit) | The value is inherited and the cssText contains "inherit". |
-| const [CSS_PRIMITIVE_VALUE](css_primitive_value) | The value is a primitive value and an instance of the CSSPrimitiveValue interface can be obtained by using binding-specific casting methods on this instance of the CSSValue interface. |
-| const [CSS_VALUE_LIST](css_value_list) | The value is a CSSValue list and an instance of the CSSValueList interface can be obtained by using binding-specific casting methods on this instance of the CSSValue interface. |
+| const [CSS_CUSTOM](../../aspose.html.dom.css/cssvalue/css_custom) | The value is a custom value. |
+| const [CSS_INHERIT](../../aspose.html.dom.css/cssvalue/css_inherit) | The value is inherited and the cssText contains "inherit". |
+| const [CSS_PRIMITIVE_VALUE](../../aspose.html.dom.css/cssvalue/css_primitive_value) | The value is a primitive value and an instance of the CSSPrimitiveValue interface can be obtained by using binding-specific casting methods on this instance of the CSSValue interface. |
+| const [CSS_VALUE_LIST](../../aspose.html.dom.css/cssvalue/css_value_list) | The value is a CSSValue list and an instance of the CSSValueList interface can be obtained by using binding-specific casting methods on this instance of the CSSValue interface. |
 
 ### See Also
 

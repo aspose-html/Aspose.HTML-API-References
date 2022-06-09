@@ -1,7 +1,7 @@
 ---
 title: ICSSImportRule
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The CSSImportRule interface represents a import rule within a CSS style sheet. The import rule is used to import style rules from other style sheets.
 type: docs
 weight: 520
 url: /net/aspose.html.dom.css/icssimportrule/

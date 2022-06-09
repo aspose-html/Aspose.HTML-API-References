@@ -1,7 +1,7 @@
 ---
 title: XmlStandalone
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: An attribute specifying as part of the XML declaration whether this document is standalone. This is false when unspecified.
 type: docs
 weight: 260
 url: /net/aspose.html.dom/document/xmlstandalone/

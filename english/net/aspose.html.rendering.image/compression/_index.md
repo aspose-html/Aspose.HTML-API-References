@@ -1,7 +1,7 @@
 ---
 title: Compression
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specifies the possible compression schemes for Tagged Image File Format TIFF bitmap images.
 type: docs
 weight: 4370
 url: /net/aspose.html.rendering.image/compression/

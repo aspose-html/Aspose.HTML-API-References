@@ -1,7 +1,7 @@
 ---
 title: GetRadioValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the checkedness state for the input element with the radio type.
 type: docs
 weight: 150
 url: /net/aspose.html.forms/inputelement/getradiovalue/

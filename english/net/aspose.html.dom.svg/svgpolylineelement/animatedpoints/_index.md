@@ -1,7 +1,7 @@
 ---
 title: AnimatedPoints
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Provides access to the current animated contents of the points attribute. If the given attribute or property is being animated contains the current animated value of the attribute or property. If the given attribute or property is not currently being animated contains the same value as points.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svgpolylineelement/animatedpoints/

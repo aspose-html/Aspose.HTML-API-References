@@ -1,7 +1,7 @@
 ---
 title: GetDescent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the descent in points.
 type: docs
 weight: 70
 url: /net/aspose.html.drawing/itruetypefont/getdescent/

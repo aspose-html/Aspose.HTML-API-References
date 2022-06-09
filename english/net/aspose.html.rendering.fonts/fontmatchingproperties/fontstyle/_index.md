@@ -1,7 +1,7 @@
 ---
 title: FontStyle
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the font style value. This property can have such values normal italic oblique.
 type: docs
 weight: 30
 url: /net/aspose.html.rendering.fonts/fontmatchingproperties/fontstyle/

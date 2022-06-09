@@ -1,7 +1,7 @@
 ---
 title: FirstPage
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the first page configuration.
 type: docs
 weight: 40
 url: /net/aspose.html.rendering/pagesetup/firstpage/

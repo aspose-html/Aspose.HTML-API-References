@@ -1,7 +1,7 @@
 ---
 title: Features
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Flag set that controls which elements are converted to markdown.
 type: docs
 weight: 40
 url: /net/aspose.html.saving/markdownsaveoptions/features/

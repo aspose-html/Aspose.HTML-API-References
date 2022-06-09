@@ -1,7 +1,7 @@
 ---
 title: IInterpolationColor
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Desclares methods for getting interpolation color.
 type: docs
 weight: 2790
 url: /net/aspose.html.drawing/iinterpolationcolor/

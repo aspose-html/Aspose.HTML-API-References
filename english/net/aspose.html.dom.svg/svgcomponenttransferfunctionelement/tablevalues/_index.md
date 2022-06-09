@@ -1,7 +1,7 @@
 ---
 title: TableValues
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute tableValues on the given element.
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg/svgcomponenttransferfunctionelement/tablevalues/

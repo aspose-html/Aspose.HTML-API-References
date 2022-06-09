@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the indexth item in the list.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/item/

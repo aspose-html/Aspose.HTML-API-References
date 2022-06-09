@@ -1,7 +1,7 @@
 ---
 title: ChildList
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Set to true if mutations to targets children are to be observed.
 type: docs
 weight: 70
 url: /net/aspose.html.dom.mutations/mutationobserverinit/childlist/

@@ -1,7 +1,7 @@
 ---
 title: PdfEncryptionInfo
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the PdfEncryptionInfoaspose.html.rendering.pdf.encryption/pdfencryptioninfo class.
 type: docs
 weight: 10
 url: /net/aspose.html.rendering.pdf.encryption/pdfencryptioninfo/pdfencryptioninfo/

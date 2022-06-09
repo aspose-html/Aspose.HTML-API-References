@@ -1,7 +1,7 @@
 ---
 title: SVG_ANGLETYPE_RAD
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The unit type is radians.
 type: docs
 weight: 100
 url: /net/aspose.html.dom.svg.datatypes/svgangle/svg_angletype_rad/

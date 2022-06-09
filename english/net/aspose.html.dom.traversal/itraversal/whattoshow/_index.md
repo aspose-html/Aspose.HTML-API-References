@@ -1,7 +1,7 @@
 ---
 title: WhatToShow
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This attribute determines which node types are presented via the iterator. The available set of constants is defined in the NodeFilter interface. Nodes not accepted by whatToShow will be skipped but their children may still be considered. Note that this skip takes precedence over the filter if any.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.traversal/itraversal/whattoshow/

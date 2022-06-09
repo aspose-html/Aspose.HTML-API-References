@@ -1,7 +1,7 @@
 ---
 title: KeyboardEvent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The KeyboardEvent interface provides specific contextual information associated with keyboard devices. Each keyboard event references a key using a value. Keyboard events are commonly directed at the element that has the focus.
 type: docs
 weight: 940
 url: /net/aspose.html.dom.events/keyboardevent/
@@ -18,8 +18,8 @@ public class KeyboardEvent : UIEvent
 
 | Name | Description |
 | --- | --- |
-| [KeyboardEvent](keyboardevent)(string) | Initializes a new instance of the [`KeyboardEvent`](../keyboardevent) class. |
-| [KeyboardEvent](keyboardevent)(string, IDictionary&lt;string, object&gt;) |  |
+| [KeyboardEvent](keyboardevent#constructor)(string) | Initializes a new instance of the [`KeyboardEvent`](../keyboardevent) class. |
+| [KeyboardEvent](keyboardevent#constructor_1)(string, IDictionary&lt;string, object&gt;) |  |
 
 ## Properties
 
@@ -56,14 +56,14 @@ public class KeyboardEvent : UIEvent
 | [StopImmediatePropagation](../../aspose.html.dom.events/event/stopimmediatepropagation)() | Invoking this method prevents event from reaching any event listeners registered after the current one and when dispatched in a tree also prevents event from reaching any other objects. |
 | [StopPropagation](../../aspose.html.dom.events/event/stoppropagation)() | The [`StopPropagation`](../event/stoppropagation) method is used prevent further propagation of an event during event flow. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [DOM_KEY_LOCATION_LEFT](dom_key_location_left) | The key activated originated from the left key location (when there is more than one possible location for this key). |
-| const [DOM_KEY_LOCATION_NUMPAD](dom_key_location_numpad) | The key activation originated on the numeric keypad or with a virtual key corresponding to the numeric keypad (when there is more than one possible location for this key). Note that the NumLock key should always be encoded with a location of DOM_KEY_LOCATION_STANDARD. |
-| const [DOM_KEY_LOCATION_RIGHT](dom_key_location_right) | The key activation originated from the right key location (when there is more than one possible location for this key). |
-| const [DOM_KEY_LOCATION_STANDARD](dom_key_location_standard) | The key activation MUST NOT be distinguished as the left or right version of the key, and (other than the NumLock key) did not originate from the numeric keypad (or did not originate with a virtual key corresponding to the numeric keypad). |
+| const [DOM_KEY_LOCATION_LEFT](../../aspose.html.dom.events/keyboardevent/dom_key_location_left) | The key activated originated from the left key location (when there is more than one possible location for this key). |
+| const [DOM_KEY_LOCATION_NUMPAD](../../aspose.html.dom.events/keyboardevent/dom_key_location_numpad) | The key activation originated on the numeric keypad or with a virtual key corresponding to the numeric keypad (when there is more than one possible location for this key). Note that the NumLock key should always be encoded with a location of DOM_KEY_LOCATION_STANDARD. |
+| const [DOM_KEY_LOCATION_RIGHT](../../aspose.html.dom.events/keyboardevent/dom_key_location_right) | The key activation originated from the right key location (when there is more than one possible location for this key). |
+| const [DOM_KEY_LOCATION_STANDARD](../../aspose.html.dom.events/keyboardevent/dom_key_location_standard) | The key activation MUST NOT be distinguished as the left or right version of the key, and (other than the NumLock key) did not originate from the numeric keypad (or did not originate with a virtual key corresponding to the numeric keypad). |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: HTMLSaveFormat
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specifies format in which document is saved. You can find more info about saving HTMLDocument../aspose.html/htmldocument in articlehttps//docs.aspose.com/html/net/working-with-documents/saving-a-document/.
 type: docs
 weight: 4650
 url: /net/aspose.html.saving/htmlsaveformat/

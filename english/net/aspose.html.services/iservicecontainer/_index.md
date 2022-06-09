@@ -1,7 +1,7 @@
 ---
 title: IServiceContainer
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Provides a container for services.
 type: docs
 weight: 4820
 url: /net/aspose.html.services/iservicecontainer/

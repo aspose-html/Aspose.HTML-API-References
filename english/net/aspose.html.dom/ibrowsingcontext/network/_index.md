@@ -1,7 +1,7 @@
 ---
 title: Network
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the network services.
 type: docs
 weight: 30
 url: /net/aspose.html.dom/ibrowsingcontext/network/

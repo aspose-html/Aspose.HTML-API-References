@@ -1,7 +1,7 @@
 ---
 title: FtpProtocolMessageHandler
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents the ftp protocol message handler.
 type: docs
 weight: 4080
 url: /net/aspose.html.net.messagehandlers/ftpprotocolmessagehandler/

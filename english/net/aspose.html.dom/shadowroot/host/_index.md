@@ -1,7 +1,7 @@
 ---
 title: Host
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Host is an element which contains this ShadowRoot.
 type: docs
 weight: 10
 url: /net/aspose.html.dom/shadowroot/host/

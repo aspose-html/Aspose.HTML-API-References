@@ -1,7 +1,7 @@
 ---
 title: Event
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Reserved for future use.
 type: docs
 weight: 30
 url: /net/aspose.html/htmlscriptelement/event/

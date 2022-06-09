@@ -1,7 +1,7 @@
 ---
 title: SchemaTypeInfo
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The type information associated with this element.
 type: docs
 weight: 190
 url: /net/aspose.html.dom/element/schematypeinfo/

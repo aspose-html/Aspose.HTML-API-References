@@ -1,7 +1,7 @@
 ---
 title: Id
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value of the id attribute on the given element or the empty string if id is not present.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgelement/id/

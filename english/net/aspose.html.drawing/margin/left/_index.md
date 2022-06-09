@@ -1,7 +1,7 @@
 ---
 title: Left
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the left.
 type: docs
 weight: 30
 url: /net/aspose.html.drawing/margin/left/

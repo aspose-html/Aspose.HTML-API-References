@@ -1,7 +1,7 @@
 ---
 title: SVGNumber
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Used for attributes of basic type number.
 type: docs
 weight: 1340
 url: /net/aspose.html.dom.svg.datatypes/svgnumber/

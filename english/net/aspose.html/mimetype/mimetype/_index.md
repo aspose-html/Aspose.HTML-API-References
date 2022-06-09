@@ -1,7 +1,7 @@
 ---
 title: MimeType
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of MIME type based on serialized string value.
 type: docs
 weight: 10
 url: /net/aspose.html/mimetype/mimetype/

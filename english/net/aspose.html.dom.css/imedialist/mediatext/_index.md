@@ -1,7 +1,7 @@
 ---
 title: MediaText
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: A stringifier that returns a DOMString representing the MediaList as text and also allows you to set a new MediaList.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/imedialist/mediatext/

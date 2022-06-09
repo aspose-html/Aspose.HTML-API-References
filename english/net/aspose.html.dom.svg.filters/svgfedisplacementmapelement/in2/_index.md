@@ -1,7 +1,7 @@
 ---
 title: In2
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute in2 on the given feDisplacementMap element.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.filters/svgfedisplacementmapelement/in2/

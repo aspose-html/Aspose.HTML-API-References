@@ -1,7 +1,7 @@
 ---
 title: ArrayBuffer
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The ArrayBuffer object is used to represent a generic fixed-length raw binary data buffer.
 type: docs
 weight: 10
 url: /net/aspose.html/arraybuffer/
@@ -18,8 +18,8 @@ public class ArrayBuffer : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [ArrayBuffer](arraybuffer)(byte[]) | Initializes a new instance of the [`ArrayBuffer`](../arraybuffer) class. |
-| [ArrayBuffer](arraybuffer)(int) | Initializes a new instance of the [`ArrayBuffer`](../arraybuffer) class. |
+| [ArrayBuffer](arraybuffer#constructor)(byte[]) | Initializes a new instance of the [`ArrayBuffer`](../arraybuffer) class. |
+| [ArrayBuffer](arraybuffer#constructor_1)(int) | Initializes a new instance of the [`ArrayBuffer`](../arraybuffer) class. |
 
 ## Properties
 

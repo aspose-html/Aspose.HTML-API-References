@@ -1,7 +1,7 @@
 ---
 title: HTMLSaveOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents HTML save options. By assigning specific properties you can manage resource processing such as max handling depth and so on. More info see in documentation articlehttps//docs.aspose.com/html/net/working-with-documents/saving-a-document/.
 type: docs
 weight: 4660
 url: /net/aspose.html.saving/htmlsaveoptions/
@@ -26,6 +26,14 @@ public class HTMLSaveOptions : SaveOptions
 | --- | --- |
 | [DocumentType](../../aspose.html.saving/htmlsaveoptions/documenttype) { get; set; } | Gets or sets the output document type. |
 | [ResourceHandlingOptions](../../aspose.html.saving/saveoptions/resourcehandlingoptions) { get; } | Gets a [`ResourceHandlingOptions`](../resourcehandlingoptions) object which is used for configuration of resources handling. |
+
+## Fields
+
+| Name | Description |
+| --- | --- |
+| const [AUTO](../../aspose.html.saving/htmlsaveoptions/auto) | The output document type will be selected automatically. |
+| const [HTML](../../aspose.html.saving/htmlsaveoptions/html) | The document will be saved as HTML. |
+| const [XHTML](../../aspose.html.saving/htmlsaveoptions/xhtml) | The document will be saved as XHTML. |
 
 ### Remarks
 

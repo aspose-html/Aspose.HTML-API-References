@@ -1,7 +1,7 @@
 ---
 title: XmlEncoding
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: An attribute specifying as part of the text declaration the encoding of this entity when it is an external parsed entity. This is null otherwise.
 type: docs
 weight: 70
 url: /net/aspose.html.dom/entity/xmlencoding/

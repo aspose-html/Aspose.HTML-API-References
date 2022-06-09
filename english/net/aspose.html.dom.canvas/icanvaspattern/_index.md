@@ -1,7 +1,7 @@
 ---
 title: ICanvasPattern
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an opaque object describing a pattern based on an image a canvas or a video.
 type: docs
 weight: 360
 url: /net/aspose.html.dom.canvas/icanvaspattern/

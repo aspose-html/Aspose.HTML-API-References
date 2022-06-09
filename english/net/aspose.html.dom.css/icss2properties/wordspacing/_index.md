@@ -1,7 +1,7 @@
 ---
 title: WordSpacing
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This property specifies spacing behavior between words. Values have the following meanings
 type: docs
 weight: 1210
 url: /net/aspose.html.dom.css/icss2properties/wordspacing/

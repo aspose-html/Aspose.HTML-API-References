@@ -1,7 +1,7 @@
 ---
 title: Replace
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Removes the current page from the session history and navigates to the given page.
 type: docs
 weight: 30
 url: /net/aspose.html.window/location/replace/

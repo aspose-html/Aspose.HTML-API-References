@@ -1,7 +1,7 @@
 ---
 title: OwnerDocument
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The read-only ownerDocument property of the Node interface returns the top-level document object of the node.
 type: docs
 weight: 120
 url: /net/aspose.html.dom/node/ownerdocument/

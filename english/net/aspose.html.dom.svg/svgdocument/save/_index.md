@@ -1,12 +1,12 @@
 ---
 title: Save
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Saves the document to local file specified by url. All resources used in this document will be saved in to adjacent folder whose name will be constructed as output_file_name  _files.
 type: docs
 weight: 90
 url: /net/aspose.html.dom.svg/svgdocument/save/
 ---
-## SVGDocument.Save method (1 of 9)
+## Save(Url) {#save_3}
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -33,7 +33,7 @@ public void Save(Url url)
 
 ---
 
-## SVGDocument.Save method (2 of 9)
+## Save(string) {#save_6}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -59,7 +59,7 @@ public void Save(string path)
 
 ---
 
-## SVGDocument.Save method (3 of 9)
+## Save(IOutputStorage) {#save}
 
 Saves the document content and resources to the output storage.
 
@@ -80,7 +80,7 @@ public void Save(IOutputStorage outputStorage)
 
 ---
 
-## SVGDocument.Save method (4 of 9)
+## Save(string, SVGSaveFormat) {#save_7}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -108,7 +108,7 @@ public void Save(string path, SVGSaveFormat saveFormat)
 
 ---
 
-## SVGDocument.Save method (5 of 9)
+## Save(IOutputStorage, SVGSaveFormat) {#save_1}
 
 Saves the document content and resources to the output storage.
 
@@ -131,7 +131,7 @@ public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat)
 
 ---
 
-## SVGDocument.Save method (6 of 9)
+## Save(string, SVGSaveOptions) {#save_8}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -159,7 +159,7 @@ public void Save(string path, SVGSaveOptions saveOptions)
 
 ---
 
-## SVGDocument.Save method (7 of 9)
+## Save(IOutputStorage, SVGSaveOptions) {#save_2}
 
 Saves the document content and resources to the output storage.
 
@@ -182,7 +182,7 @@ public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions)
 
 ---
 
-## SVGDocument.Save method (8 of 9)
+## Save(Url, SVGSaveFormat) {#save_4}
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -211,7 +211,7 @@ public void Save(Url url, SVGSaveFormat saveFormat)
 
 ---
 
-## SVGDocument.Save method (9 of 9)
+## Save(Url, SVGSaveOptions) {#save_5}
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 

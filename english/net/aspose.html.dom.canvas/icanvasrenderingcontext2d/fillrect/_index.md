@@ -1,7 +1,7 @@
 ---
 title: FillRect
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Draws a filled rectangle at x y position whose size is determined by width and height.
 type: docs
 weight: 230
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/fillrect/

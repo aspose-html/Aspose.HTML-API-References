@@ -1,7 +1,7 @@
 ---
 title: ByteLength
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes.
 type: docs
 weight: 20
 url: /net/aspose.html/typedarray/bytelength/

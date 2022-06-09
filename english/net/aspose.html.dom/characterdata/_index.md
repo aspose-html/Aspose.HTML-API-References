@@ -1,7 +1,7 @@
 ---
 title: CharacterData
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The CharacterData extends Node with a set of attributes and methods for accessing character data in the DOM.
 type: docs
 weight: 410
 url: /net/aspose.html.dom/characterdata/

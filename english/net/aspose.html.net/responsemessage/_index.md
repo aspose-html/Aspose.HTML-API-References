@@ -1,7 +1,7 @@
 ---
 title: ResponseMessage
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents a response message.
 type: docs
 weight: 4150
 url: /net/aspose.html.net/responsemessage/

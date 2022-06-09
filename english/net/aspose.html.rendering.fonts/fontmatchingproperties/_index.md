@@ -1,7 +1,7 @@
 ---
 title: FontMatchingProperties
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This class contains properties which describe the font being matched.
 type: docs
 weight: 4320
 url: /net/aspose.html.rendering.fonts/fontmatchingproperties/

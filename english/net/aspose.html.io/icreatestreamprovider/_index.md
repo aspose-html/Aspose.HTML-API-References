@@ -1,7 +1,7 @@
 ---
 title: ICreateStreamProvider
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an interface that can be implemented by classes providing streams to the rendering devices.
 type: docs
 weight: 3790
 url: /net/aspose.html.io/icreatestreamprovider/
@@ -18,8 +18,8 @@ public interface ICreateStreamProvider : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [GetStream](../../aspose.html.io/icreatestreamprovider/getstream)(string, string) | Provides a stream for rendering. |
-| [GetStream](../../aspose.html.io/icreatestreamprovider/getstream)(string, string, int) | Provides a stream for rendering. |
+| [GetStream](../../aspose.html.io/icreatestreamprovider/getstream#getstream)(string, string) | Provides a stream for rendering. |
+| [GetStream](../../aspose.html.io/icreatestreamprovider/getstream#getstream_1)(string, string, int) | Provides a stream for rendering. |
 | [ReleaseStream](../../aspose.html.io/icreatestreamprovider/releasestream)(Stream) | Releases the stream. |
 
 ### See Also

@@ -1,7 +1,7 @@
 ---
 title: FrameBorder
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Request frame borders. See the frameborder attribute definition in HTML 4.01.
 type: docs
 weight: 20
 url: /net/aspose.html/htmlframeelement/frameborder/

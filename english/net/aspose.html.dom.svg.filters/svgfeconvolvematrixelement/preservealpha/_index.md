@@ -1,7 +1,7 @@
 ---
 title: PreserveAlpha
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute preserveAlpha on the given feConvolveMatrix element.
 type: docs
 weight: 110
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/preservealpha/

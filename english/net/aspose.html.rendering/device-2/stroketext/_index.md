@@ -1,7 +1,7 @@
 ---
 title: StrokeText
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Strokes the specified text string at the specified location.
 type: docs
 weight: 240
 url: /net/aspose.html.rendering/device-2/stroketext/

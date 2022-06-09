@@ -1,7 +1,7 @@
 ---
 title: Direction
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This property specifies the base writing direction of blocks and the direction of embeddings and overrides see unicode-bidihttps//www.w3.org/TR/1998/REC-CSS2-19980512/visuren.htmlpropdef-unicode-bidi for the Unicode bidirectional algorithm. In addition it specifies the direction of tablehttps//www.w3.org/TR/1998/REC-CSS2-19980512/tables.html column layout the direction of horizontal overflowhttps//www.w3.org/TR/1998/REC-CSS2-19980512/visufx.htmloverflow and the position of an incomplete last line in a block in case of text-align justify.
 type: docs
 weight: 420
 url: /net/aspose.html.dom.css/icss2properties/direction/

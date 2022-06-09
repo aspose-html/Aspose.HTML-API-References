@@ -1,7 +1,7 @@
 ---
 title: SVGFEFloodElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGFEFloodElement interface corresponds to the feFlood element.
 type: docs
 weight: 1560
 url: /net/aspose.html.dom.svg.filters/svgfefloodelement/

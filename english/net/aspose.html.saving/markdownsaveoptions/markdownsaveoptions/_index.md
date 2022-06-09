@@ -1,7 +1,7 @@
 ---
 title: MarkdownSaveOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the MarkdownSaveOptionsaspose.html.saving/markdownsaveoptions class.
 type: docs
 weight: 10
 url: /net/aspose.html.saving/markdownsaveoptions/markdownsaveoptions/

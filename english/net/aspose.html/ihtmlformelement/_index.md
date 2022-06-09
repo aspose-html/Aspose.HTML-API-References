@@ -1,7 +1,7 @@
 ---
 title: IHTMLFormElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents a base interface that should be implemented by HTML Form Elements.
 type: docs
 weight: 3750
 url: /net/aspose.html/ihtmlformelement/

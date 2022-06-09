@@ -1,7 +1,7 @@
 ---
 title: Transform
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Modify the current transformation matrix by multiplying the specified matrix.
 type: docs
 weight: 40
 url: /net/aspose.html.rendering.image/imagedevice.imagegraphiccontext/transform/

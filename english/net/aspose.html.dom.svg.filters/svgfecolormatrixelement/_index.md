@@ -1,7 +1,7 @@
 ---
 title: SVGFEColorMatrixElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGFEColorMatrixElement interface corresponds to the feColorMatrix element.
 type: docs
 weight: 1480
 url: /net/aspose.html.dom.svg.filters/svgfecolormatrixelement/
@@ -114,15 +114,15 @@ public class SVGFEColorMatrixElement : SVGElement, ISVGFilterPrimitiveStandardAt
 | [SetIdAttributeNS](../../aspose.html.dom/element/setidattributens)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | override [ToString](../../aspose.html.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [SVG_FECOLORMATRIX_TYPE_HUEROTATE](svg_fecolormatrix_type_huerotate) | Corresponds to value 'hueRotate'. |
-| const [SVG_FECOLORMATRIX_TYPE_LUMINANCETOALPHA](svg_fecolormatrix_type_luminancetoalpha) | Corresponds to value 'luminanceToAlpha'. |
-| const [SVG_FECOLORMATRIX_TYPE_MATRIX](svg_fecolormatrix_type_matrix) | Corresponds to value 'matrix'. |
-| const [SVG_FECOLORMATRIX_TYPE_SATURATE](svg_fecolormatrix_type_saturate) | Corresponds to value 'saturate'. |
-| const [SVG_FECOLORMATRIX_TYPE_UNKNOWN](svg_fecolormatrix_type_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_FECOLORMATRIX_TYPE_HUEROTATE](../../aspose.html.dom.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_huerotate) | Corresponds to value 'hueRotate'. |
+| const [SVG_FECOLORMATRIX_TYPE_LUMINANCETOALPHA](../../aspose.html.dom.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_luminancetoalpha) | Corresponds to value 'luminanceToAlpha'. |
+| const [SVG_FECOLORMATRIX_TYPE_MATRIX](../../aspose.html.dom.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_matrix) | Corresponds to value 'matrix'. |
+| const [SVG_FECOLORMATRIX_TYPE_SATURATE](../../aspose.html.dom.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_saturate) | Corresponds to value 'saturate'. |
+| const [SVG_FECOLORMATRIX_TYPE_UNKNOWN](../../aspose.html.dom.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
 
 ### See Also
 

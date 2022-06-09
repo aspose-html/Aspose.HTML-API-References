@@ -1,7 +1,7 @@
 ---
 title: SelectElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SelectElement represents a wrapper that is associated with the HTMLSelectElement
 type: docs
 weight: 3100
 url: /net/aspose.html.forms/selectelement/
@@ -32,8 +32,8 @@ public class SelectElement : FormElement<HTMLSelectElement>
 
 | Name | Description |
 | --- | --- |
-| [SelectItems](../../aspose.html.forms/selectelement/selectitems)(params int[]) | This methods allows to select multiple options by their indexes. |
-| [SelectItems](../../aspose.html.forms/selectelement/selectitems)(params string[]) | This methods allows to select multiple options by their values. |
+| [SelectItems](../../aspose.html.forms/selectelement/selectitems#selectitems)(params int[]) | This methods allows to select multiple options by their indexes. |
+| [SelectItems](../../aspose.html.forms/selectelement/selectitems#selectitems_1)(params string[]) | This methods allows to select multiple options by their values. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: GetElementsByTagNameNS
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a list of elements with the given tag name belonging to the given namespace. The complete document is searched including the root node.
 type: docs
 weight: 990
 url: /net/aspose.html.dom/document/getelementsbytagnamens/

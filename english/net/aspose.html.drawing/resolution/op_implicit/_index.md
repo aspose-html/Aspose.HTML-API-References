@@ -6,7 +6,7 @@ type: docs
 weight: 50
 url: /net/aspose.html.drawing/resolution/op_implicit/
 ---
-## Resolution Implicit operator (1 of 2)
+## implicit operator {#op_implicit}
 
 ```csharp
 public static implicit operator Resolution(double value)
@@ -20,7 +20,7 @@ public static implicit operator Resolution(double value)
 
 ---
 
-## Resolution Implicit operator (2 of 2)
+## implicit operator {#op_implicit_1}
 
 ```csharp
 public static implicit operator Resolution(float value)

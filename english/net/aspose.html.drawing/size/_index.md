@@ -1,7 +1,7 @@
 ---
 title: Size
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Stores a values which specify a Height and Width.
 type: docs
 weight: 2910
 url: /net/aspose.html.drawing/size/
@@ -18,9 +18,9 @@ public class Size
 
 | Name | Description |
 | --- | --- |
-| [Size](size)() | Initializes a new instance of the [`Size`](../size) class. |
-| [Size](size)(int, int) | Initializes a new instance of the [`Size`](../size) class and specify a Height and Width in pixels. |
-| [Size](size)(Length, Length) | Initializes a new instance of the [`Size`](../size) class. |
+| [Size](size#constructor)() | Initializes a new instance of the [`Size`](../size) class. |
+| [Size](size#constructor_2)(int, int) | Initializes a new instance of the [`Size`](../size) class and specify a Height and Width in pixels. |
+| [Size](size#constructor_1)(Length, Length) | Initializes a new instance of the [`Size`](../size) class. |
 
 ## Properties
 

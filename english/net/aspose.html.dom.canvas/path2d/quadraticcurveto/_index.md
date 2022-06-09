@@ -1,7 +1,7 @@
 ---
 title: QuadraticCurveTo
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Adds a quadratic Bézier curve to the current path.
 type: docs
 weight: 110
 url: /net/aspose.html.dom.canvas/path2d/quadraticcurveto/

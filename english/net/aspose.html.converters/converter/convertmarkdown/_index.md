@@ -1,12 +1,12 @@
 ---
 title: ConvertMarkdown
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Convert MD markdown source presented by input stream to html. Result is HTMLDocumentaspose.html/htmldocument which can be saved through output file path.
 type: docs
 weight: 30
 url: /net/aspose.html.converters/converter/convertmarkdown/
 ---
-## Converter.ConvertMarkdown method (1 of 8)
+## ConvertMarkdown(Stream, string) {#convertmarkdown}
 
 Convert MD (markdown) source presented by input stream to html. Result is [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved through output file path.
 
@@ -86,7 +86,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMarkdown method (2 of 8)
+## ConvertMarkdown(Stream, string, Configuration) {#convertmarkdown_1}
 
 Convert MD (markdown) source presented by input stream to html. Result is [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved through output file path.
 
@@ -167,7 +167,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMarkdown method (3 of 8)
+## ConvertMarkdown(Stream, string, string) {#convertmarkdown_5}
 
 Convert MD (markdown) source presented by input stream to html. Result is html file formed by output file path.
 
@@ -238,7 +238,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMarkdown method (4 of 8)
+## ConvertMarkdown(Stream, string, Configuration, string) {#convertmarkdown_4}
 
 Convert MD (markdown) source presented by input stream to html. Result is html file formed by output file path.
 
@@ -307,7 +307,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMarkdown method (5 of 8)
+## ConvertMarkdown(string) {#convertmarkdown_2}
 
 Convert MD (markdown) source presented by full file path to html. Result is [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved through output file path.
 
@@ -376,7 +376,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMarkdown method (6 of 8)
+## ConvertMarkdown(string, Configuration) {#convertmarkdown_3}
 
 Convert MD (markdown) source presented by full file path to html. Result is [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved through output file path.
 
@@ -447,7 +447,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMarkdown method (7 of 8)
+## ConvertMarkdown(string, string) {#convertmarkdown_7}
 
 Convert MD (markdown) source presented by full file path to html. Result is html file formed by output file path.
 
@@ -508,7 +508,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMarkdown method (8 of 8)
+## ConvertMarkdown(string, Configuration, string) {#convertmarkdown_6}
 
 Convert MD (markdown) source presented by full file path to html. Result is html file formed by output file path.
 

@@ -1,7 +1,7 @@
 ---
 title: Width
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute width on the given image element.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgimageelement/width/

@@ -1,12 +1,12 @@
 ---
 title: Toggle
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Removes the token from the list if it exists or adds the token to the list if it doesnt.
 type: docs
 weight: 100
 url: /net/aspose.html.collections/domtokenlist/toggle/
 ---
-## DOMTokenList.Toggle method (1 of 2)
+## Toggle(string) {#toggle}
 
 Removes the token from the list if it exists, or adds the token to the list if it doesn't.
 
@@ -30,7 +30,7 @@ A Boolean indicating whether token is in the list after the call.
 
 ---
 
-## DOMTokenList.Toggle method (2 of 2)
+## Toggle(string, bool?) {#toggle_1}
 
 Removes the token from the list if it exists, or adds the token to the list if it doesn't.
 

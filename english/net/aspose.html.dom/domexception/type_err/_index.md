@@ -1,7 +1,7 @@
 ---
 title: TYPE_ERR
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The expression cannot be converted to return the specified type.
 type: docs
 weight: 270
 url: /net/aspose.html.dom/domexception/type_err/

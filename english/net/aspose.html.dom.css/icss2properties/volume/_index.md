@@ -1,7 +1,7 @@
 ---
 title: Volume
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Volume refers to the median volume of the waveform. In other words a highly inflected voice at a volume of 50 might peak well above that. The overall values are likely to be human adjustable for comfort for example with a physical volume control which would increase both the 0 and 100 values proportionately what this property does is adjust the dynamic range.
 type: docs
 weight: 1170
 url: /net/aspose.html.dom.css/icss2properties/volume/

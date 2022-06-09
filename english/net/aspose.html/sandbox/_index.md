@@ -1,7 +1,7 @@
 ---
 title: Sandbox
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: A sandboxing flag set is a set of zero or more of the following flags which are used to restrict the abilities that potentially untrusted resources.
 type: docs
 weight: 4630
 url: /net/aspose.html/sandbox/

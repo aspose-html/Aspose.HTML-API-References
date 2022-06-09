@@ -1,7 +1,7 @@
 ---
 title: RelatedTarget
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Used to identify a secondary EventTarget related to a Focus event depending on the type of event.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.events/focusevent/relatedtarget/

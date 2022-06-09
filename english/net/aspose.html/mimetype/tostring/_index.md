@@ -1,7 +1,7 @@
 ---
 title: ToString
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a String that represents Mime type.
 type: docs
 weight: 70
 url: /net/aspose.html/mimetype/tostring/

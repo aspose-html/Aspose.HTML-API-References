@@ -1,7 +1,7 @@
 ---
 title: PATHSEG_CURVETO_CUBIC_REL
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to a relative cubic Bézier curveto c path data command.
 type: docs
 weight: 70
 url: /net/aspose.html.dom.svg.paths/svgpathseg/pathseg_curveto_cubic_rel/

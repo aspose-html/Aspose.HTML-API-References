@@ -1,7 +1,7 @@
 ---
 title: ShadowBlur
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specifies the blurring effect. Default 0
 type: docs
 weight: 60
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/shadowblur/

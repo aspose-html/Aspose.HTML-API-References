@@ -1,7 +1,7 @@
 ---
 title: LineJoin
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the type of corners where two lines meet. Possible values round bevel miter default.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.canvas/icanvasdrawingstyles/linejoin/

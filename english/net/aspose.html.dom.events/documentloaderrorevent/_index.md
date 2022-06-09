@@ -1,7 +1,7 @@
 ---
 title: DocumentLoadErrorEvent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The DocumentLoadErrorEvent occurres when the requested resource is not available.
 type: docs
 weight: 860
 url: /net/aspose.html.dom.events/documentloaderrorevent/

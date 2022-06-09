@@ -1,7 +1,7 @@
 ---
 title: WholeText
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns all text of Text nodes logically-adjacent text nodes to this node concatenated in document order.
 type: docs
 weight: 60
 url: /net/aspose.html.dom/text/wholetext/

@@ -1,7 +1,7 @@
 ---
 title: ICSSStyleDeclaration
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The CSSStyleDeclaration interface represents an object that is a CSS declaration block and exposes style information and various style-related methods and properties.
 type: docs
 weight: 600
 url: /net/aspose.html.dom.css/icssstyledeclaration/
@@ -35,8 +35,8 @@ public interface ICSSStyleDeclaration : ICSS2Properties, IEnumerable<string>
 | [GetPropertyPriority](../../aspose.html.dom.css/icssstyledeclaration/getpropertypriority)(string) | Used to retrieve the priority of a CSS property (e.g. the "important" qualifier) if the property has been explicitly set in this declaration block. |
 | [GetPropertyValue](../../aspose.html.dom.css/icssstyledeclaration/getpropertyvalue)(string) | The CSSStyleDeclaration.getPropertyValue() method interface returns a string containing the value of a specified CSS property. |
 | [RemoveProperty](../../aspose.html.dom.css/icssstyledeclaration/removeproperty)(string) | The CSSStyleDeclaration.removeProperty() method interface removes a property from a CSS style declaration object. |
-| [SetProperty](../../aspose.html.dom.css/icssstyledeclaration/setproperty)(string, string) | The CSSStyleDeclaration.setProperty() method interface is used to set a property value with default priority within this declaration block. Default priority is not "important" i.e. String.Empty |
-| [SetProperty](../../aspose.html.dom.css/icssstyledeclaration/setproperty)(string, string, string) | The CSSStyleDeclaration.setProperty() method interface is used to set a property value with default priority within this declaration block. Default priority is not "important" i.e. String.Empty |
+| [SetProperty](../../aspose.html.dom.css/icssstyledeclaration/setproperty#setproperty)(string, string) | The CSSStyleDeclaration.setProperty() method interface is used to set a property value with default priority within this declaration block. Default priority is not "important" i.e. String.Empty |
+| [SetProperty](../../aspose.html.dom.css/icssstyledeclaration/setproperty#setproperty_1)(string, string, string) | The CSSStyleDeclaration.setProperty() method interface is used to set a property value with default priority within this declaration block. Default priority is not "important" i.e. String.Empty |
 
 ### Remarks
 

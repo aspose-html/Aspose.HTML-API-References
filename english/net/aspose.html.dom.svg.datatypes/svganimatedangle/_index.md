@@ -1,7 +1,7 @@
 ---
 title: SVGAnimatedAngle
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Used for attributes of basic data type angle that can be animated.
 type: docs
 weight: 1180
 url: /net/aspose.html.dom.svg.datatypes/svganimatedangle/

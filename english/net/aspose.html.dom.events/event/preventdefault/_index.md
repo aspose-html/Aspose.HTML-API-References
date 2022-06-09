@@ -1,7 +1,7 @@
 ---
 title: PreventDefault
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: If an event is cancelable the PreventDefaultaspose.html.dom.events/event/preventdefault method is used to signify that the event is to be canceled meaning any default action normally taken by the implementation as a result of the event will not occur.
 type: docs
 weight: 120
 url: /net/aspose.html.dom.events/event/preventdefault/

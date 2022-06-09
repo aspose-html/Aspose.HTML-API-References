@@ -1,7 +1,7 @@
 ---
 title: Charset
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The character encoding of the resource being linked to. See the charset attribute definition in HTML 4.01.
 type: docs
 weight: 10
 url: /net/aspose.html/htmllinkelement/charset/

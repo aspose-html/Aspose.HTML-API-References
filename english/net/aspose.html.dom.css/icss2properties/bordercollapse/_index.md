@@ -1,7 +1,7 @@
 ---
 title: BorderCollapse
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This property selects a tables border model. The value separate selects the separated borders border model. The value collapse selects the collapsing borders model. The models are described below.
 type: docs
 weight: 130
 url: /net/aspose.html.dom.css/icss2properties/bordercollapse/

@@ -1,7 +1,7 @@
 ---
 title: HTMLScriptElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Script statements. See the SCRIPT element definition in HTML 4.01.
 type: docs
 weight: 3590
 url: /net/aspose.html/htmlscriptelement/

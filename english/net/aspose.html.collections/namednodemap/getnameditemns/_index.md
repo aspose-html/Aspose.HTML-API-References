@@ -1,7 +1,7 @@
 ---
 title: GetNamedItemNS
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Retrieves a node specified by local name and namespace URI.
 type: docs
 weight: 50
 url: /net/aspose.html.collections/namednodemap/getnameditemns/

@@ -1,7 +1,7 @@
 ---
 title: SVGMPathElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGMPathElement interface corresponds to the mpath element.
 type: docs
 weight: 2260
 url: /net/aspose.html.dom.svg/svgmpathelement/

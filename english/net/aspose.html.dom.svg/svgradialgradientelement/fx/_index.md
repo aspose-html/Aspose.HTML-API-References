@@ -1,7 +1,7 @@
 ---
 title: Fx
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute fx on the given radialGradient element.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgradialgradientelement/fx/

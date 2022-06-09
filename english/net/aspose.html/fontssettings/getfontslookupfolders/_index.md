@@ -1,7 +1,7 @@
 ---
 title: GetFontsLookupFolders
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets a copy of array which contains fonts folders. Fonts found in these folders are used for characters rendering.
 type: docs
 weight: 20
 url: /net/aspose.html/fontssettings/getfontslookupfolders/

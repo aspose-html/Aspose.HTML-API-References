@@ -1,7 +1,7 @@
 ---
 title: PreviousTranslate
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The translation values from previous zoom operations that were in place before the zoom operation occurred. The SVGPoint object is read only.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.events/svgzoomevent/previoustranslate/

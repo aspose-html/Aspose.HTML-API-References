@@ -1,7 +1,7 @@
 ---
 title: Attributes
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The attributes property returns a live collection of all attribute nodes registered to the specified node. Attributes is a key/value pair of strings that represents any information regarding that attribute.
 type: docs
 weight: 10
 url: /net/aspose.html.dom/node/attributes/

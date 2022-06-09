@@ -1,7 +1,7 @@
 ---
 title: Restore
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Restores the drawing style state to the last element on the state stack saved by save.
 type: docs
 weight: 320
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/restore/

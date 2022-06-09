@@ -1,7 +1,7 @@
 ---
 title: SVGFECompositeElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGFECompositeElement interface corresponds to the feComposite element.
 type: docs
 weight: 1500
 url: /net/aspose.html.dom.svg.filters/svgfecompositeelement/
@@ -118,17 +118,17 @@ public class SVGFECompositeElement : SVGElement, ISVGFilterPrimitiveStandardAttr
 | [SetIdAttributeNS](../../aspose.html.dom/element/setidattributens)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | override [ToString](../../aspose.html.dom/node/tostring)() | Returns a String that represents this instance. |
 
-## Other Members
+## Fields
 
 | Name | Description |
 | --- | --- |
-| const [SVG_FECOMPOSITE_OPERATOR_ARITHMETIC](svg_fecomposite_operator_arithmetic) | Corresponds to value 'arithmetic'. |
-| const [SVG_FECOMPOSITE_OPERATOR_ATOP](svg_fecomposite_operator_atop) | Corresponds to value 'atop'. |
-| const [SVG_FECOMPOSITE_OPERATOR_IN](svg_fecomposite_operator_in) | Corresponds to value 'in'. |
-| const [SVG_FECOMPOSITE_OPERATOR_OUT](svg_fecomposite_operator_out) | Corresponds to value 'out'. |
-| const [SVG_FECOMPOSITE_OPERATOR_OVER](svg_fecomposite_operator_over) | Corresponds to value 'over'. |
-| const [SVG_FECOMPOSITE_OPERATOR_UNKNOWN](svg_fecomposite_operator_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
-| const [SVG_FECOMPOSITE_OPERATOR_XOR](svg_fecomposite_operator_xor) | Corresponds to value 'xor'. |
+| const [SVG_FECOMPOSITE_OPERATOR_ARITHMETIC](../../aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_arithmetic) | Corresponds to value 'arithmetic'. |
+| const [SVG_FECOMPOSITE_OPERATOR_ATOP](../../aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_atop) | Corresponds to value 'atop'. |
+| const [SVG_FECOMPOSITE_OPERATOR_IN](../../aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_in) | Corresponds to value 'in'. |
+| const [SVG_FECOMPOSITE_OPERATOR_OUT](../../aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_out) | Corresponds to value 'out'. |
+| const [SVG_FECOMPOSITE_OPERATOR_OVER](../../aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_over) | Corresponds to value 'over'. |
+| const [SVG_FECOMPOSITE_OPERATOR_UNKNOWN](../../aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_unknown) | The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
+| const [SVG_FECOMPOSITE_OPERATOR_XOR](../../aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_xor) | Corresponds to value 'xor'. |
 
 ### See Also
 

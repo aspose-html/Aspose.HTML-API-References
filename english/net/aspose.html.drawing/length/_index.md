@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents a length measurement unit.
 type: docs
 weight: 2850
 url: /net/aspose.html.drawing/length/

@@ -1,12 +1,12 @@
 ---
 title: Uint8ClampedArray
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Uint8ClampedArrayaspose.html/uint8clampedarray class.
 type: docs
 weight: 10
 url: /net/aspose.html/uint8clampedarray/uint8clampedarray/
 ---
-## Uint8ClampedArray constructor (1 of 5)
+## Uint8ClampedArray(int) {#constructor_4}
 
 Initializes a new instance of the [`Uint8ClampedArray`](../../uint8clampedarray) class.
 
@@ -26,7 +26,7 @@ public Uint8ClampedArray(int length)
 
 ---
 
-## Uint8ClampedArray constructor (2 of 5)
+## Uint8ClampedArray(byte[]) {#constructor_3}
 
 Initializes a new instance of the [`Uint8ClampedArray`](../../uint8clampedarray) class.
 
@@ -46,7 +46,7 @@ public Uint8ClampedArray(byte[] data)
 
 ---
 
-## Uint8ClampedArray constructor (3 of 5)
+## Uint8ClampedArray(ArrayBuffer) {#constructor}
 
 Initializes a new instance of the [`Uint8ClampedArray`](../../uint8clampedarray) class.
 
@@ -67,7 +67,7 @@ public Uint8ClampedArray(ArrayBuffer buffer)
 
 ---
 
-## Uint8ClampedArray constructor (4 of 5)
+## Uint8ClampedArray(ArrayBuffer, int) {#constructor_1}
 
 Initializes a new instance of the [`Uint8ClampedArray`](../../uint8clampedarray) class.
 
@@ -89,7 +89,7 @@ public Uint8ClampedArray(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Uint8ClampedArray constructor (5 of 5)
+## Uint8ClampedArray(ArrayBuffer, int, int) {#constructor_2}
 
 Initializes a new instance of the [`Uint8ClampedArray`](../../uint8clampedarray) class.
 

@@ -1,7 +1,7 @@
 ---
 title: Y
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute y on the given filter element.
 type: docs
 weight: 100
 url: /net/aspose.html.dom.svg.filters/svgfediffuselightingelement/y/

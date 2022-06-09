@@ -1,7 +1,7 @@
 ---
 title: Type
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The type of the rule as defined CSSOM  dom-cssrule-typehttps//drafts.csswg.org/cssom/dom-cssrule-type. The expectation is that binding-specific casting methods can be used to cast down from an instance of the CSSRule interface to the specific derived interface implied by the type.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.css/icssrule/type/

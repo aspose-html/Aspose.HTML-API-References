@@ -1,7 +1,7 @@
 ---
 title: CopyTo
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Copies the VideoFormatInfoCollectionaspose.html.datascraping.multimediascraping/videoformatinfocollection elements to an existing one-dimensional array starting at the specified array index.
 type: docs
 weight: 60
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfocollection/copyto/

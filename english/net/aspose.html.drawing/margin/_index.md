@@ -1,7 +1,7 @@
 ---
 title: Margin
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents page margin.
 type: docs
 weight: 2870
 url: /net/aspose.html.drawing/margin/
@@ -18,11 +18,11 @@ public class Margin
 
 | Name | Description |
 | --- | --- |
-| [Margin](margin)() | Initializes a new instance of the [`Margin`](../margin) class. |
-| [Margin](margin)(int) | Initializes a new instance of the [`Margin`](../margin) class. |
-| [Margin](margin)(Length) | Initializes a new instance of the [`Margin`](../margin) class. |
-| [Margin](margin)(int, int, int, int) | Initializes a new instance of the [`Margin`](../margin) class. |
-| [Margin](margin)(Length, Length, Length, Length) | Initializes a new instance of the [`Margin`](../margin) class. |
+| [Margin](margin#constructor)() | Initializes a new instance of the [`Margin`](../margin) class. |
+| [Margin](margin#constructor_3)(int) | Initializes a new instance of the [`Margin`](../margin) class. |
+| [Margin](margin#constructor_1)(Length) | Initializes a new instance of the [`Margin`](../margin) class. |
+| [Margin](margin#constructor_4)(int, int, int, int) | Initializes a new instance of the [`Margin`](../margin) class. |
+| [Margin](margin#constructor_2)(Length, Length, Length, Length) | Initializes a new instance of the [`Margin`](../margin) class. |
 
 ## Properties
 

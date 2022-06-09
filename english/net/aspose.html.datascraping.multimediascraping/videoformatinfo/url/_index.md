@@ -1,7 +1,7 @@
 ---
 title: Url
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The video formats URL.
 type: docs
 weight: 90
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfo/url/

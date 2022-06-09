@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents interface that must be inherited by all element that is supported system event handling
 type: docs
 weight: 1030
 url: /net/aspose.html.dom/iglobaleventhandlers/

@@ -1,7 +1,7 @@
 ---
 title: SnapshotLength
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The number of nodes in the result snapshot. Valid values for snapshotItem indices are 0 to snapshotLength-1 inclusive.
 type: docs
 weight: 60
 url: /net/aspose.html.dom.xpath/ixpathresult/snapshotlength/

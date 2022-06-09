@@ -1,7 +1,7 @@
 ---
 title: DocDevice
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents rendering to a DOCX document.
 type: docs
 weight: 4250
 url: /net/aspose.html.rendering.doc/docdevice/
@@ -18,12 +18,12 @@ public class DocDevice : Device<DocGraphicContext, DocRenderingOptions>
 
 | Name | Description |
 | --- | --- |
-| [DocDevice](docdevice)(ICreateStreamProvider) | Initializes a new instance of the [`DocDevice`](../docdevice) class. |
-| [DocDevice](docdevice)(Stream) | Initializes a new instance of the [`DocDevice`](../docdevice) class by output stream. |
-| [DocDevice](docdevice)(string) | Initializes a new instance of the [`DocDevice`](../docdevice) class by output file name. |
-| [DocDevice](docdevice)(DocRenderingOptions, ICreateStreamProvider) | Initializes a new instance of the [`DocDevice`](../docdevice) class by rendering options and stream provider. |
-| [DocDevice](docdevice)(DocRenderingOptions, Stream) | Initializes a new instance of the [`DocDevice`](../docdevice) class by rendering options and output stream. |
-| [DocDevice](docdevice)(DocRenderingOptions, string) | Initializes a new instance of the [`DocDevice`](../docdevice) class by rendering options and output file name. |
+| [DocDevice](docdevice#constructor)(ICreateStreamProvider) | Initializes a new instance of the [`DocDevice`](../docdevice) class. |
+| [DocDevice](docdevice#constructor_4)(Stream) | Initializes a new instance of the [`DocDevice`](../docdevice) class by output stream. |
+| [DocDevice](docdevice#constructor_5)(string) | Initializes a new instance of the [`DocDevice`](../docdevice) class by output file name. |
+| [DocDevice](docdevice#constructor_1)(DocRenderingOptions, ICreateStreamProvider) | Initializes a new instance of the [`DocDevice`](../docdevice) class by rendering options and stream provider. |
+| [DocDevice](docdevice#constructor_2)(DocRenderingOptions, Stream) | Initializes a new instance of the [`DocDevice`](../docdevice) class by rendering options and output stream. |
+| [DocDevice](docdevice#constructor_3)(DocRenderingOptions, string) | Initializes a new instance of the [`DocDevice`](../docdevice) class by rendering options and output file name. |
 
 ## Properties
 

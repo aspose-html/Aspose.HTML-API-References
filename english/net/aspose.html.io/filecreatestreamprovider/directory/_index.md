@@ -1,7 +1,7 @@
 ---
 title: Directory
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the directory.
 type: docs
 weight: 20
 url: /net/aspose.html.io/filecreatestreamprovider/directory/

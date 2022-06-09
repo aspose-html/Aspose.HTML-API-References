@@ -1,12 +1,12 @@
 ---
 title: ConvertMHTML
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Convert MHTML source presented by input streamhttps//docs.microsoft.com/en-us/dotnet/api/system.io.streamviewnet-5.0. Result is xps file formed by output file path.
 type: docs
 weight: 40
 url: /net/aspose.html.converters/converter/convertmhtml/
 ---
-## Converter.ConvertMHTML method (1 of 48)
+## ConvertMHTML(Stream, XpsSaveOptions, string) {#convertmhtml_31}
 
 Convert MHTML source presented by input [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0). Result is xps file formed by output file path.
 
@@ -73,7 +73,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (2 of 48)
+## ConvertMHTML(string, XpsSaveOptions, string) {#convertmhtml_47}
 
 Convert MHTML source presented by full file path to XPS. Result is xps file formed by output file path.
 
@@ -140,7 +140,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (3 of 48)
+## ConvertMHTML(Url, XpsSaveOptions, string) {#convertmhtml_15}
 
 Convert MHTML source presented by URL. Result is xps file formed by output file path.
 
@@ -208,7 +208,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (4 of 48)
+## ConvertMHTML(Stream, Configuration, XpsSaveOptions, string) {#convertmhtml_23}
 
 Convert MHTML source presented by input [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0). Result is xps file formed by output file path.
 
@@ -283,7 +283,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (5 of 48)
+## ConvertMHTML(string, Configuration, XpsSaveOptions, string) {#convertmhtml_39}
 
 Convert MHTML source presented by full file path to XPS. Result is xps file formed by output file path.
 
@@ -353,7 +353,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (6 of 48)
+## ConvertMHTML(Url, Configuration, XpsSaveOptions, string) {#convertmhtml_7}
 
 Convert MHTML source presented by URL. Result is xps file formed by output file path.
 
@@ -424,7 +424,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (7 of 48)
+## ConvertMHTML(Stream, XpsSaveOptions, ICreateStreamProvider) {#convertmhtml_30}
 
 Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -502,7 +502,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (8 of 48)
+## ConvertMHTML(string, XpsSaveOptions, ICreateStreamProvider) {#convertmhtml_46}
 
 Convert MHTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -580,7 +580,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (9 of 48)
+## ConvertMHTML(Url, XpsSaveOptions, ICreateStreamProvider) {#convertmhtml_14}
 
 Convert MHTML source presented by [`URL`](../../../aspose.html/url). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -659,7 +659,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (10 of 48)
+## ConvertMHTML(Stream, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertmhtml_22}
 
 Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -739,7 +739,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (11 of 48)
+## ConvertMHTML(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertmhtml_38}
 
 Convert MHTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -814,7 +814,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (12 of 48)
+## ConvertMHTML(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertmhtml_6}
 
 Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -890,7 +890,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (13 of 48)
+## ConvertMHTML(Stream, DocSaveOptions, string) {#convertmhtml_25}
 
 Convert MHTML source presented by input stream. Result is docx file formed by output file path.
 
@@ -963,7 +963,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (14 of 48)
+## ConvertMHTML(string, DocSaveOptions, string) {#convertmhtml_41}
 
 Convert MHTML source presented by full file path to DOCX. Result is docx file formed by output file path.
 
@@ -1031,7 +1031,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (15 of 48)
+## ConvertMHTML(Url, DocSaveOptions, string) {#convertmhtml_9}
 
 Convert MHTML source presented by URL. Result is docx file formed by output file path.
 
@@ -1105,7 +1105,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (16 of 48)
+## ConvertMHTML(Stream, Configuration, DocSaveOptions, string) {#convertmhtml_17}
 
 Convert MHTML source presented by input stream. Result is docx file formed by output file path.
 
@@ -1176,7 +1176,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (17 of 48)
+## ConvertMHTML(string, Configuration, DocSaveOptions, string) {#convertmhtml_33}
 
 Convert MHTML source presented by full file path to DOCX. Result is docx file formed by output file path.
 
@@ -1247,7 +1247,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (18 of 48)
+## ConvertMHTML(Url, Configuration, DocSaveOptions, string) {#convertmhtml_1}
 
 Convert MHTML source presented by [`URL`](../../../aspose.html/url). Result is docx file formed by output file path.
 
@@ -1319,7 +1319,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (19 of 48)
+## ConvertMHTML(Stream, DocSaveOptions, ICreateStreamProvider) {#convertmhtml_24}
 
 Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -1392,7 +1392,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (20 of 48)
+## ConvertMHTML(string, DocSaveOptions, ICreateStreamProvider) {#convertmhtml_40}
 
 Convert MHTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -1465,7 +1465,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (21 of 48)
+## ConvertMHTML(Url, DocSaveOptions, ICreateStreamProvider) {#convertmhtml_8}
 
 Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -1539,7 +1539,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (22 of 48)
+## ConvertMHTML(Stream, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertmhtml_16}
 
 Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -1614,7 +1614,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (23 of 48)
+## ConvertMHTML(string, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertmhtml_32}
 
 Convert MHTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -1689,7 +1689,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (24 of 48)
+## ConvertMHTML(Url, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertmhtml}
 
 Convert MHTML source presented by [`URL`](../../../aspose.html/url). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -1765,7 +1765,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (25 of 48)
+## ConvertMHTML(Stream, PdfSaveOptions, string) {#convertmhtml_29}
 
 Convert MHTML source presented by input stream. Result is pdf file formed by output file path.
 
@@ -1833,7 +1833,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (26 of 48)
+## ConvertMHTML(string, PdfSaveOptions, string) {#convertmhtml_45}
 
 Convert MHTML source presented by full file path to PDF. Result is pdf file formed by output file path.
 
@@ -1901,7 +1901,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (27 of 48)
+## ConvertMHTML(Url, PdfSaveOptions, string) {#convertmhtml_13}
 
 Convert MHTML source presented by URL. Result is pdf file formed by output file path.
 
@@ -1970,7 +1970,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (28 of 48)
+## ConvertMHTML(Stream, Configuration, PdfSaveOptions, string) {#convertmhtml_21}
 
 Convert MHTML source presented by input stream. Result is pdf file formed by output file path.
 
@@ -2041,7 +2041,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (29 of 48)
+## ConvertMHTML(string, Configuration, PdfSaveOptions, string) {#convertmhtml_37}
 
 Convert MHTML source presented by full file path to PDF. Result is pdf file formed by output file path.
 
@@ -2112,7 +2112,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (30 of 48)
+## ConvertMHTML(Url, Configuration, PdfSaveOptions, string) {#convertmhtml_5}
 
 Convert MHTML source presented by URL. Result is pdf file formed by output file path.
 
@@ -2184,7 +2184,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (31 of 48)
+## ConvertMHTML(Stream, PdfSaveOptions, ICreateStreamProvider) {#convertmhtml_28}
 
 Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -2257,7 +2257,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (32 of 48)
+## ConvertMHTML(string, PdfSaveOptions, ICreateStreamProvider) {#convertmhtml_44}
 
 Convert MHTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -2330,7 +2330,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (33 of 48)
+## ConvertMHTML(Url, PdfSaveOptions, ICreateStreamProvider) {#convertmhtml_12}
 
 Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -2404,7 +2404,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (34 of 48)
+## ConvertMHTML(Stream, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertmhtml_20}
 
 Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -2479,7 +2479,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (35 of 48)
+## ConvertMHTML(string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertmhtml_36}
 
 Convert MHTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -2554,7 +2554,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (36 of 48)
+## ConvertMHTML(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertmhtml_4}
 
 Convert MHTML source presented by [`URL`](../../../aspose.html/url). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -2630,7 +2630,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (37 of 48)
+## ConvertMHTML(Stream, ImageSaveOptions, string) {#convertmhtml_27}
 
 Convert MHTML source presented by input stream to image. Result is image file formed by output file path.
 
@@ -2698,7 +2698,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (38 of 48)
+## ConvertMHTML(string, ImageSaveOptions, string) {#convertmhtml_43}
 
 Convert MHTML source presented by full file path. Result is image file formed by output file path.
 
@@ -2766,7 +2766,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (39 of 48)
+## ConvertMHTML(Url, ImageSaveOptions, string) {#convertmhtml_11}
 
 Convert MHTML source presented by URL. Result is image file formed by output file path.
 
@@ -2835,7 +2835,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (40 of 48)
+## ConvertMHTML(Stream, Configuration, ImageSaveOptions, string) {#convertmhtml_19}
 
 Convert MHTML source presented by input stream to image. Result is image file formed by output file path.
 
@@ -2906,7 +2906,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (41 of 48)
+## ConvertMHTML(string, Configuration, ImageSaveOptions, string) {#convertmhtml_35}
 
 Convert MHTML source presented by full file path. Result is image file formed by output file path.
 
@@ -2977,7 +2977,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (42 of 48)
+## ConvertMHTML(Url, Configuration, ImageSaveOptions, string) {#convertmhtml_3}
 
 Convert MHTML source presented by URL. Result is image file formed by output file path.
 
@@ -3049,7 +3049,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (43 of 48)
+## ConvertMHTML(Stream, ImageSaveOptions, ICreateStreamProvider) {#convertmhtml_26}
 
 Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -3122,7 +3122,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (44 of 48)
+## ConvertMHTML(string, ImageSaveOptions, ICreateStreamProvider) {#convertmhtml_42}
 
 Convert MHTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -3195,7 +3195,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (45 of 48)
+## ConvertMHTML(Url, ImageSaveOptions, ICreateStreamProvider) {#convertmhtml_10}
 
 Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -3269,7 +3269,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (46 of 48)
+## ConvertMHTML(Stream, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertmhtml_18}
 
 Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -3344,7 +3344,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (47 of 48)
+## ConvertMHTML(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertmhtml_34}
 
 Convert MHTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -3419,7 +3419,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertMHTML method (48 of 48)
+## ConvertMHTML(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertmhtml_2}
 
 Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 

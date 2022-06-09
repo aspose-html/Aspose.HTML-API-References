@@ -1,7 +1,7 @@
 ---
 title: X
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The X coordinate of the rectangle in user units.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.datatypes/svgrect/x/

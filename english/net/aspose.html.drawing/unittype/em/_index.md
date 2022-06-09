@@ -1,7 +1,7 @@
 ---
 title: Em
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Measurement is relative to the height of the parent elements font.
 type: docs
 weight: 80
 url: /net/aspose.html.drawing/unittype/em/

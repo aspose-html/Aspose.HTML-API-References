@@ -1,7 +1,7 @@
 ---
 title: Parameters
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get collection of paremeters
 type: docs
 weight: 50
 url: /net/aspose.html.net.headers/contentdispositionheadervalue/parameters/

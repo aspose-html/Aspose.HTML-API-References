@@ -1,12 +1,12 @@
 ---
 title: Margin
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Marginaspose.html.drawing/margin class.
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/margin/margin/
 ---
-## Margin constructor (1 of 5)
+## Margin() {#constructor}
 
 Initializes a new instance of the [`Margin`](../../margin) class.
 
@@ -22,7 +22,7 @@ public Margin()
 
 ---
 
-## Margin constructor (2 of 5)
+## Margin(int) {#constructor_3}
 
 Initializes a new instance of the [`Margin`](../../margin) class.
 
@@ -42,7 +42,7 @@ public Margin(int anyMargin)
 
 ---
 
-## Margin constructor (3 of 5)
+## Margin(Length) {#constructor_1}
 
 Initializes a new instance of the [`Margin`](../../margin) class.
 
@@ -63,7 +63,7 @@ public Margin(Length anyMargin)
 
 ---
 
-## Margin constructor (4 of 5)
+## Margin(int, int, int, int) {#constructor_4}
 
 Initializes a new instance of the [`Margin`](../../margin) class.
 
@@ -86,7 +86,7 @@ public Margin(int left, int top, int right, int bottom)
 
 ---
 
-## Margin constructor (5 of 5)
+## Margin(Length, Length, Length, Length) {#constructor_2}
 
 Initializes a new instance of the [`Margin`](../../margin) class.
 

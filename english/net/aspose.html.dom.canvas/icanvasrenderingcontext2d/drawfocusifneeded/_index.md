@@ -1,7 +1,7 @@
 ---
 title: DrawFocusIfNeeded
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: If a given element is focused this method draws a focus ring around the current path.
 type: docs
 weight: 200
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/drawfocusifneeded/

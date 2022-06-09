@@ -1,7 +1,7 @@
 ---
 title: Title
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The title of a document as specified by the TITLE element in the head of the document.
 type: docs
 weight: 100
 url: /net/aspose.html/htmldocument/title/

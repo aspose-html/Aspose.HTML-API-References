@@ -1,7 +1,7 @@
 ---
 title: FromKiloHertz
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a Frequencyaspose.html.drawing/frequency object that is represented in kiloHertz.
 type: docs
 weight: 130
 url: /net/aspose.html.drawing/unit/fromkilohertz/

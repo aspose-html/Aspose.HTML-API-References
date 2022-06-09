@@ -1,12 +1,12 @@
 ---
 title: ConvertSVG
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Convert SVG source presented by SVGDocumentaspose.html.dom.svg/svgdocument. Result is docx file formed by output file path.
 type: docs
 weight: 50
 url: /net/aspose.html.converters/converter/convertsvg/
 ---
-## Converter.ConvertSVG method (1 of 56)
+## ConvertSVG(SVGDocument, DocSaveOptions, string) {#convertsvg_1}
 
 Convert SVG source presented by [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument). Result is docx file formed by output file path.
 
@@ -79,7 +79,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (2 of 56)
+## ConvertSVG(Url, DocSaveOptions, string) {#convertsvg_17}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is docx file formed by output file path.
 
@@ -153,7 +153,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (3 of 56)
+## ConvertSVG(Url, Configuration, DocSaveOptions, string) {#convertsvg_9}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is docx file formed by output file path.
 
@@ -230,7 +230,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (4 of 56)
+## ConvertSVG(string, DocSaveOptions, string) {#convertsvg_33}
 
 Convert SVG source presented by full file path to DOCX. Result is docx file formed by output file path.
 
@@ -303,7 +303,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (5 of 56)
+## ConvertSVG(string, Configuration, DocSaveOptions, string) {#convertsvg_25}
 
 Convert SVG source presented by full file path to DOCX. Result is docx file formed by output file path.
 
@@ -374,7 +374,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (6 of 56)
+## ConvertSVG(string, string, DocSaveOptions, string) {#convertsvg_49}
 
 Convert SVG source presented by inline content. Result is docx file formed by output file path.
 
@@ -444,7 +444,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (7 of 56)
+## ConvertSVG(string, string, Configuration, DocSaveOptions, string) {#convertsvg_41}
 
 Convert SVG source presented by inline content. Result is docx file formed by output file path.
 
@@ -516,7 +516,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (8 of 56)
+## ConvertSVG(SVGDocument, DocSaveOptions, ICreateStreamProvider) {#convertsvg}
 
 Convert SVG source presented by [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -594,7 +594,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (9 of 56)
+## ConvertSVG(Url, DocSaveOptions, ICreateStreamProvider) {#convertsvg_16}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -672,7 +672,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (10 of 56)
+## ConvertSVG(Url, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertsvg_8}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is docx file formed by output file path.
 
@@ -753,7 +753,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (11 of 56)
+## ConvertSVG(string, DocSaveOptions, ICreateStreamProvider) {#convertsvg_32}
 
 Convert SVG source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -826,7 +826,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (12 of 56)
+## ConvertSVG(string, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertsvg_24}
 
 Convert SVG source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -901,7 +901,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (13 of 56)
+## ConvertSVG(string, string, DocSaveOptions, ICreateStreamProvider) {#convertsvg_48}
 
 Convert SVG source presented by inline content to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -974,7 +974,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (14 of 56)
+## ConvertSVG(string, string, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertsvg_40}
 
 Convert SVG source presented by inline content to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -1049,7 +1049,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (15 of 56)
+## ConvertSVG(SVGDocument, PdfSaveOptions, string) {#convertsvg_5}
 
 Convert SVG source presented by [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument) to PDF. Result is pdf file formed by output file path.
 
@@ -1122,7 +1122,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (16 of 56)
+## ConvertSVG(Url, PdfSaveOptions, string) {#convertsvg_21}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is pdf file formed by output file path.
 
@@ -1191,7 +1191,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (17 of 56)
+## ConvertSVG(Url, Configuration, PdfSaveOptions, string) {#convertsvg_13}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is pdf file formed by output file path.
 
@@ -1263,7 +1263,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (18 of 56)
+## ConvertSVG(string, PdfSaveOptions, string) {#convertsvg_37}
 
 Convert SVG source presented by full file path to PDF. Result is pdf file formed by output file path.
 
@@ -1331,7 +1331,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (19 of 56)
+## ConvertSVG(string, Configuration, PdfSaveOptions, string) {#convertsvg_29}
 
 Convert SVG source presented by full file path to PDF. Result is pdf file formed by output file path.
 
@@ -1402,7 +1402,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (20 of 56)
+## ConvertSVG(string, string, PdfSaveOptions, string) {#convertsvg_53}
 
 Convert SVG source presented by inline content to PDF. Result is pdf file formed by output file path.
 
@@ -1472,7 +1472,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (21 of 56)
+## ConvertSVG(string, string, Configuration, PdfSaveOptions, string) {#convertsvg_45}
 
 Convert SVG source presented by inline content to PDF. Result is pdf file formed by output file path.
 
@@ -1544,7 +1544,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (22 of 56)
+## ConvertSVG(SVGDocument, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_4}
 
 Convert SVG source presented by [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument) to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -1622,7 +1622,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (23 of 56)
+## ConvertSVG(Url, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_20}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -1695,7 +1695,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (24 of 56)
+## ConvertSVG(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_12}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -1771,7 +1771,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (25 of 56)
+## ConvertSVG(string, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_36}
 
 Convert SVG source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -1844,7 +1844,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (26 of 56)
+## ConvertSVG(string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_28}
 
 Convert SVG source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -1919,7 +1919,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (27 of 56)
+## ConvertSVG(string, string, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_52}
 
 Convert SVG source presented by inline content to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -1992,7 +1992,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (28 of 56)
+## ConvertSVG(string, string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertsvg_44}
 
 Convert SVG source presented by inline content to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -2067,7 +2067,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (29 of 56)
+## ConvertSVG(SVGDocument, ImageSaveOptions, string) {#convertsvg_3}
 
 Convert SVG source presented by [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument). Result is image file formed by output file path.
 
@@ -2142,7 +2142,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (30 of 56)
+## ConvertSVG(Url, ImageSaveOptions, string) {#convertsvg_19}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is image file formed by output file path.
 
@@ -2213,7 +2213,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (31 of 56)
+## ConvertSVG(Url, Configuration, ImageSaveOptions, string) {#convertsvg_11}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is image file formed by output file path.
 
@@ -2287,7 +2287,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (32 of 56)
+## ConvertSVG(string, ImageSaveOptions, string) {#convertsvg_35}
 
 Convert SVG source presented by full file path to image. Result is image file formed by output file path.
 
@@ -2357,7 +2357,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (33 of 56)
+## ConvertSVG(string, Configuration, ImageSaveOptions, string) {#convertsvg_27}
 
 Convert SVG source presented by full file path to image. Result is image file formed by output file path.
 
@@ -2430,7 +2430,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (34 of 56)
+## ConvertSVG(string, string, ImageSaveOptions, string) {#convertsvg_51}
 
 Convert SVG source presented by inline content to image. Result is image file formed by output file path.
 
@@ -2502,7 +2502,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (35 of 56)
+## ConvertSVG(string, string, Configuration, ImageSaveOptions, string) {#convertsvg_43}
 
 Convert SVG source presented by inline content to image. Result is image file formed by output file path.
 
@@ -2576,7 +2576,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (36 of 56)
+## ConvertSVG(SVGDocument, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_2}
 
 Convert SVG source presented by [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -2656,7 +2656,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (37 of 56)
+## ConvertSVG(Url, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_18}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -2731,7 +2731,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (38 of 56)
+## ConvertSVG(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_10}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -2809,7 +2809,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (39 of 56)
+## ConvertSVG(string, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_34}
 
 Convert SVG source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -2884,7 +2884,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (40 of 56)
+## ConvertSVG(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_26}
 
 Convert SVG source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -2961,7 +2961,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (41 of 56)
+## ConvertSVG(string, string, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_50}
 
 Convert SVG source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -3036,7 +3036,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (42 of 56)
+## ConvertSVG(string, string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertsvg_42}
 
 Convert SVG source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -3113,7 +3113,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (43 of 56)
+## ConvertSVG(SVGDocument, XpsSaveOptions, string) {#convertsvg_7}
 
 Convert SVG source presented by [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument). Result is xps file formed by output file path.
 
@@ -3188,7 +3188,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (44 of 56)
+## ConvertSVG(Url, XpsSaveOptions, string) {#convertsvg_23}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is xps file formed by output file path.
 
@@ -3259,7 +3259,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (45 of 56)
+## ConvertSVG(Url, Configuration, XpsSaveOptions, string) {#convertsvg_15}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is xps file formed by output file path.
 
@@ -3338,7 +3338,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (46 of 56)
+## ConvertSVG(string, XpsSaveOptions, string) {#convertsvg_39}
 
 Convert SVG source presented by full file path to XPS. Result is xps file formed by output file path.
 
@@ -3408,7 +3408,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (47 of 56)
+## ConvertSVG(string, Configuration, XpsSaveOptions, string) {#convertsvg_31}
 
 Convert SVG source presented by full file path to XPS. Result is xps file formed by output file path.
 
@@ -3481,7 +3481,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (48 of 56)
+## ConvertSVG(string, string, XpsSaveOptions, string) {#convertsvg_55}
 
 Convert SVG source presented by inline content to XPS. Result is xps file formed by output file path.
 
@@ -3553,7 +3553,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (49 of 56)
+## ConvertSVG(string, string, Configuration, XpsSaveOptions, string) {#convertsvg_47}
 
 Convert SVG source presented by inline content to XPS. Result is xps file formed by output file path.
 
@@ -3627,7 +3627,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (50 of 56)
+## ConvertSVG(SVGDocument, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_6}
 
 Convert SVG source presented by [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -3707,7 +3707,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (51 of 56)
+## ConvertSVG(Url, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_22}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -3782,7 +3782,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (52 of 56)
+## ConvertSVG(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_14}
 
 Convert SVG source presented by [`URL`](../../../aspose.html/url). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -3860,7 +3860,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (53 of 56)
+## ConvertSVG(string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_38}
 
 Convert SVG source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -3935,7 +3935,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (54 of 56)
+## ConvertSVG(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_30}
 
 Convert SVG source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -4011,7 +4011,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (55 of 56)
+## ConvertSVG(string, string, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_54}
 
 Convert SVG source presented by inline content to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 
@@ -4086,7 +4086,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## Converter.ConvertSVG method (56 of 56)
+## ConvertSVG(string, string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_46}
 
 Convert SVG source presented by inline content to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
 

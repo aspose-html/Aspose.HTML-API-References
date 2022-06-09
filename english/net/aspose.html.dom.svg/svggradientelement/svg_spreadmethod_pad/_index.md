@@ -1,7 +1,7 @@
 ---
 title: SVG_SPREADMETHOD_PAD
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to value pad.
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg/svggradientelement/svg_spreadmethod_pad/

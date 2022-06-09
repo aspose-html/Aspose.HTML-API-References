@@ -1,7 +1,7 @@
 ---
 title: FileSize
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: File size in bytes or null if unknown.
 type: docs
 weight: 50
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfo/filesize/

@@ -1,7 +1,7 @@
 ---
 title: Protocol
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets a string representation for the specified URL schema.
 type: docs
 weight: 100
 url: /net/aspose.html/url/protocol/

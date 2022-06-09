@@ -1,7 +1,7 @@
 ---
 title: SVGGraphicsElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGGraphicsElement interface represents SVG elements whose primary purpose is to directly render graphics into a group.
 type: docs
 weight: 2220
 url: /net/aspose.html.dom.svg/svggraphicselement/

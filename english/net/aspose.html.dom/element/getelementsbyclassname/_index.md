@@ -1,7 +1,7 @@
 ---
 title: GetElementsByClassName
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns HTMLCollectionaspose.html.collections/htmlcollection object containing all the elements within elementaspose.html.dom/element that have all the classes specified in argument.
 type: docs
 weight: 280
 url: /net/aspose.html.dom/element/getelementsbyclassname/

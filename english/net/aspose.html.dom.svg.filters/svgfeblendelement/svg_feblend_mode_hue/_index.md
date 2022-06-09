@@ -1,7 +1,7 @@
 ---
 title: SVG_FEBLEND_MODE_HUE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to value hue.
 type: docs
 weight: 160
 url: /net/aspose.html.dom.svg.filters/svgfeblendelement/svg_feblend_mode_hue/

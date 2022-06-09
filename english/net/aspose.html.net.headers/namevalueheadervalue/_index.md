@@ -1,7 +1,7 @@
 ---
 title: NameValueHeaderValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents a name/value pair that describe a header value.
 type: docs
 weight: 3990
 url: /net/aspose.html.net.headers/namevalueheadervalue/

@@ -1,7 +1,7 @@
 ---
 title: SpeakPunctuation
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This property specifies how punctuation is spoken. Values have the following meanings
 type: docs
 weight: 1030
 url: /net/aspose.html.dom.css/icss2properties/speakpunctuation/

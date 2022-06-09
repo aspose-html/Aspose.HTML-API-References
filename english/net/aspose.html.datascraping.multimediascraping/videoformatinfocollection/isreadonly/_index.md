@@ -1,7 +1,7 @@
 ---
 title: IsReadOnly
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Determines whether the VideoFormatInfoCollectionaspose.html.datascraping.multimediascraping/videoformatinfocollection collection is mutable.
 type: docs
 weight: 20
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfocollection/isreadonly/

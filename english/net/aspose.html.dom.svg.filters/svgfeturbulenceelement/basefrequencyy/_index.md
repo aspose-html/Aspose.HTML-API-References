@@ -1,7 +1,7 @@
 ---
 title: BaseFrequencyY
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute baseFrequency on the given feTurbulence element. Contains the Y component of the possibly computed automatically baseFrequency attribute.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.filters/svgfeturbulenceelement/basefrequencyy/

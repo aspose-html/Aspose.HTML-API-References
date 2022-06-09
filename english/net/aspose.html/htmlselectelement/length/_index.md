@@ -1,7 +1,7 @@
 ---
 title: Length
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The number of options in this SELECT. version DOM Level 2
 type: docs
 weight: 30
 url: /net/aspose.html/htmlselectelement/length/

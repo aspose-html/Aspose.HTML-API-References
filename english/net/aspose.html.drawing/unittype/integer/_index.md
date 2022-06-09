@@ -1,7 +1,7 @@
 ---
 title: Integer
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Measurement is an integer number.
 type: docs
 weight: 130
 url: /net/aspose.html.drawing/unittype/integer/

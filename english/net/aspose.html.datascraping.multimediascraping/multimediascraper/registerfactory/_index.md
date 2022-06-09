@@ -1,7 +1,7 @@
 ---
 title: RegisterFactory
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Registers MultimediaFactoryaspose.html.datascraping.multimediascraping/multimediafactory.
 type: docs
 weight: 40
 url: /net/aspose.html.datascraping.multimediascraping/multimediascraper/registerfactory/

@@ -1,7 +1,7 @@
 ---
 title: NextNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Moves the TreeWalker to the next visible node in document order relative to the current node and returns the new node. If the current node has no next node or if the search for nextNode attempts to step upward from the TreeWalkers root node returns null and retains the current node.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.traversal/itreewalker/nextnode/

@@ -1,7 +1,7 @@
 ---
 title: GetConsumptionQuantity
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets consumption file size
 type: docs
 weight: 40
 url: /net/aspose.html/metered/getconsumptionquantity/

@@ -1,7 +1,7 @@
 ---
 title: SetRotate
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sets the transform type to SVG_TRANSFORM_ROTATE with parameter angle defining the rotation angle and parameters cx and cy defining the optional center of rotation.
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg.datatypes/svgtransform/setrotate/

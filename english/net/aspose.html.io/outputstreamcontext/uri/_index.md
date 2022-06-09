@@ -1,7 +1,7 @@
 ---
 title: Uri
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the original URI of the saved resource.
 type: docs
 weight: 10
 url: /net/aspose.html.io/outputstreamcontext/uri/

@@ -1,7 +1,7 @@
 ---
 title: Add
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Adds an element to the VideoFormatInfoCollectionaspose.html.datascraping.multimediascraping/videoformatinfocollection collection.
 type: docs
 weight: 30
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfocollection/add/

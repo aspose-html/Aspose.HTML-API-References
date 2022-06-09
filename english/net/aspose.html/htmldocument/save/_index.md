@@ -1,12 +1,12 @@
 ---
 title: Save
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder whose name will be constructed as output_file_name  _files.
 type: docs
 weight: 130
 url: /net/aspose.html/htmldocument/save/
 ---
-## HTMLDocument.Save method (1 of 15)
+## Save(Url) {#save_5}
 
 Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files".
 
@@ -69,7 +69,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## HTMLDocument.Save method (2 of 15)
+## Save(IOutputStorage) {#save}
 
 Saves the document content and resources to the output storage.
 
@@ -176,7 +176,7 @@ class CustomOutputStorage : IOutputStorage
 
 ---
 
-## HTMLDocument.Save method (3 of 15)
+## Save(string) {#save_10}
 
 Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -241,7 +241,7 @@ using Aspose.Html;
 
 ---
 
-## HTMLDocument.Save method (4 of 15)
+## Save(string, HTMLSaveFormat) {#save_11}
 
 Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files".
 
@@ -412,7 +412,7 @@ Content-Location: main.css
 
 ---
 
-## HTMLDocument.Save method (5 of 15)
+## Save(Url, HTMLSaveFormat) {#save_6}
 
 Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files".
 
@@ -483,7 +483,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## HTMLDocument.Save method (6 of 15)
+## Save(IOutputStorage, HTMLSaveFormat) {#save_1}
 
 Saves the document content and resources to the output storage.
 
@@ -600,7 +600,7 @@ class CustomOutputStorage : IOutputStorage
 
 ---
 
-## HTMLDocument.Save method (7 of 15)
+## Save(string, HTMLSaveOptions) {#save_12}
 
 Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -674,7 +674,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## HTMLDocument.Save method (8 of 15)
+## Save(Url, HTMLSaveOptions) {#save_7}
 
 Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -749,7 +749,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## HTMLDocument.Save method (9 of 15)
+## Save(IOutputStorage, HTMLSaveOptions) {#save_2}
 
 Saves the document content and resources to the output storage.
 
@@ -865,7 +865,7 @@ class CustomOutputStorage : IOutputStorage
 
 ---
 
-## HTMLDocument.Save method (10 of 15)
+## Save(string, MarkdownSaveOptions) {#save_13}
 
 Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -937,7 +937,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## HTMLDocument.Save method (11 of 15)
+## Save(Url, MarkdownSaveOptions) {#save_8}
 
 Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -1010,7 +1010,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## HTMLDocument.Save method (12 of 15)
+## Save(IOutputStorage, MarkdownSaveOptions) {#save_3}
 
 Saves the document content and resources to the output storage.
 
@@ -1122,7 +1122,7 @@ class CustomOutputStorageMD : IOutputStorage
 
 ---
 
-## HTMLDocument.Save method (13 of 15)
+## Save(string, MHTMLSaveOptions) {#save_14}
 
 Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -1194,7 +1194,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## HTMLDocument.Save method (14 of 15)
+## Save(Url, MHTMLSaveOptions) {#save_9}
 
 Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -1267,7 +1267,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## HTMLDocument.Save method (15 of 15)
+## Save(IOutputStorage, MHTMLSaveOptions) {#save_4}
 
 Saves the document content and resources to the output storage.
 

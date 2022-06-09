@@ -1,7 +1,7 @@
 ---
 title: HTMLLIElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: List item. See the LI element definition in HTML 4.01.
 type: docs
 weight: 3420
 url: /net/aspose.html/htmllielement/

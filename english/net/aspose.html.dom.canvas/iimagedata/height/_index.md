@@ -1,7 +1,7 @@
 ---
 title: Height
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Is an unsigned long representing the actual height in pixels of the ImageData.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.canvas/iimagedata/height/

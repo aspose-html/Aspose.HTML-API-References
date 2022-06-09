@@ -1,7 +1,7 @@
 ---
 title: VoiceFamily
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value is a comma-separated prioritized list of voice family names compare with font-familyhttps//www.w3.org/TR/1998/REC-CSS2-19980512/fonts.htmlpropdef-font-family. Values have the following meanings
 type: docs
 weight: 1160
 url: /net/aspose.html.dom.css/icss2properties/voicefamily/

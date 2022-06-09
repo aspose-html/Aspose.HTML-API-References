@@ -1,7 +1,7 @@
 ---
 title: TextAlign
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Text alignment setting. Possible values start default end left right or center.
 type: docs
 weight: 70
 url: /net/aspose.html.dom.canvas/icanvasdrawingstyles/textalign/

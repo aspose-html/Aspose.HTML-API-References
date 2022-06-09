@@ -1,7 +1,7 @@
 ---
 title: ErrorEvent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The ErrorEvent provides contextual information about an errors that occurred during runtime.
 type: docs
 weight: 870
 url: /net/aspose.html.dom.events/errorevent/
@@ -18,8 +18,8 @@ public class ErrorEvent : Event
 
 | Name | Description |
 | --- | --- |
-| [ErrorEvent](errorevent)(Exception) | Initializes a new instance of the [`ErrorEvent`](../errorevent) class. |
-| [ErrorEvent](errorevent)(IDictionary&lt;string, object&gt;) |  |
+| [ErrorEvent](errorevent#constructor_1)(Exception) | Initializes a new instance of the [`ErrorEvent`](../errorevent) class. |
+| [ErrorEvent](errorevent#constructor)(IDictionary&lt;string, object&gt;) |  |
 
 ## Properties
 

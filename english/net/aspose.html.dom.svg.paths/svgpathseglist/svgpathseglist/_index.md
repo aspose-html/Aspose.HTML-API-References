@@ -1,12 +1,12 @@
 ---
 title: SVGPathSegList
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the SVGPathSegListaspose.html.dom.svg.paths/svgpathseglist class.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.paths/svgpathseglist/svgpathseglist/
 ---
-## SVGPathSegList constructor (1 of 2)
+## SVGPathSegList() {#constructor}
 
 Initializes a new instance of the [`SVGPathSegList`](../../svgpathseglist) class.
 
@@ -22,7 +22,7 @@ public SVGPathSegList()
 
 ---
 
-## SVGPathSegList constructor (2 of 2)
+## SVGPathSegList(IEnumerable&lt;SVGPathSeg&gt;) {#constructor_1}
 
 Initializes a new instance of the [`SVGPathSegList`](../../svgpathseglist) class.
 

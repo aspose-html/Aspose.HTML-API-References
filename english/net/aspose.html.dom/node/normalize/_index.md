@@ -1,7 +1,7 @@
 ---
 title: Normalize
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Puts all Textaspose.html.dom/text nodes in the full depth of the sub-tree underneath this Node including attribute nodes into a normal form where only structure e.g. elementsaspose.html.dom/element commentsaspose.html.dom/comment processing instructionsaspose.html.dom/processinginstruction CDATA sectionsaspose.html.dom/cdatasection and entity referencesaspose.html.dom/entityreference separates Textaspose.html.dom/text nodes i.e. there are neither adjacent Text nodes nor empty Text nodes. This can be used to ensure that the DOM view of a document is the same as if it were saved and re-loaded and is useful when operations such as XPointer XPointer lookups that depend on a particular document tree structure are to be used. If the parameter normalize-characters of the DOMConfigurationaspose.html/configuration object attached to the Node.ownerDocumentaspose.html.dom/node/ownerdocument is true this method will also fully normalize the characters of the Text nodes.
 type: docs
 weight: 280
 url: /net/aspose.html.dom/node/normalize/

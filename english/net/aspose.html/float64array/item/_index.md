@@ -1,7 +1,7 @@
 ---
 title: Item
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the Double at the specified index.
 type: docs
 weight: 20
 url: /net/aspose.html/float64array/item/

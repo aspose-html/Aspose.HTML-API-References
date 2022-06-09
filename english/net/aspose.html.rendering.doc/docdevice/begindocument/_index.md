@@ -1,7 +1,7 @@
 ---
 title: BeginDocument
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Begins rendering of the document.
 type: docs
 weight: 30
 url: /net/aspose.html.rendering.doc/docdevice/begindocument/

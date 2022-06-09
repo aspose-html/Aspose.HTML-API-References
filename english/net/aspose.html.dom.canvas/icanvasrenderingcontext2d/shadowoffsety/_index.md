@@ -1,7 +1,7 @@
 ---
 title: ShadowOffsetY
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Vertical distance the shadow will be offset. Default 0.
 type: docs
 weight: 90
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/shadowoffsety/

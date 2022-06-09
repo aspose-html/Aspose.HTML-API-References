@@ -1,7 +1,7 @@
 ---
 title: OnLoad
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnLoad event.
 type: docs
 weight: 470
 url: /net/aspose.html.dom/document/onload/

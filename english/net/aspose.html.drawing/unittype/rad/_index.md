@@ -1,7 +1,7 @@
 ---
 title: Rad
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Measurement is in radians.
 type: docs
 weight: 220
 url: /net/aspose.html.drawing/unittype/rad/

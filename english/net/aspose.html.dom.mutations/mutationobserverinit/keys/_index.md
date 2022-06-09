@@ -1,7 +1,7 @@
 ---
 title: Keys
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets a collection containing the keys in the MutationObserverInitaspose.html.dom.mutations/mutationobserverinit collection.
 type: docs
 weight: 110
 url: /net/aspose.html.dom.mutations/mutationobserverinit/keys/

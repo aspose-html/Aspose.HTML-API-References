@@ -1,7 +1,7 @@
 ---
 title: OnPause
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnPause event.
 type: docs
 weight: 380
 url: /net/aspose.html/htmlelement/onpause/

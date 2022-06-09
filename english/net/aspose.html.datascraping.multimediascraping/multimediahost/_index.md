@@ -1,7 +1,7 @@
 ---
 title: MultimediaHost
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents host of the multimedia object.Note We do not support downloading copyrighted videos and using other peoples videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
 type: docs
 weight: 130
 url: /net/aspose.html.datascraping.multimediascraping/multimediahost/
@@ -33,8 +33,8 @@ public class MultimediaHost : IEquatable<MultimediaHost>
 
 | Name | Description |
 | --- | --- |
-| [Equals](../../aspose.html.datascraping.multimediascraping/multimediahost/equals)(MultimediaHost) | Indicates whether the current object is equal to another object of the same type. |
-| override [Equals](../../aspose.html.datascraping.multimediascraping/multimediahost/equals)(object) | Determines whether the specified Object, is equal to this instance. |
+| [Equals](../../aspose.html.datascraping.multimediascraping/multimediahost/equals#equals)(MultimediaHost) | Indicates whether the current object is equal to another object of the same type. |
+| override [Equals](../../aspose.html.datascraping.multimediascraping/multimediahost/equals#equals_1)(object) | Determines whether the specified Object, is equal to this instance. |
 | override [GetHashCode](../../aspose.html.datascraping.multimediascraping/multimediahost/gethashcode)() | Returns a hash code for this instance. |
 | override [ToString](../../aspose.html.datascraping.multimediascraping/multimediahost/tostring)() | Returns a String that represents this instance. |
 | [operator ==](../../aspose.html.datascraping.multimediascraping/multimediahost/op_equality) |  |

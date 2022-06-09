@@ -1,12 +1,12 @@
 ---
 title: SVGStringList
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the SVGStringListaspose.html.dom.svg.datatypes/svgstringlist class.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.datatypes/svgstringlist/svgstringlist/
 ---
-## SVGStringList constructor (1 of 2)
+## SVGStringList() {#constructor}
 
 Initializes a new instance of the [`SVGStringList`](../../svgstringlist) class.
 
@@ -22,7 +22,7 @@ public SVGStringList()
 
 ---
 
-## SVGStringList constructor (2 of 2)
+## SVGStringList(IEnumerable&lt;string&gt;) {#constructor_1}
 
 Initializes a new instance of the [`SVGStringList`](../../svgstringlist) class.
 

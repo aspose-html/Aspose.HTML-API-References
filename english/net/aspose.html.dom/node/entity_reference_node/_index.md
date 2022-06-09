@@ -1,7 +1,7 @@
 ---
 title: ENTITY_REFERENCE_NODE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: An EntityReferenceaspose.html.dom/entityreference node.
 type: docs
 weight: 400
 url: /net/aspose.html.dom/node/entity_reference_node/

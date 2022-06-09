@@ -1,7 +1,7 @@
 ---
 title: ViewBox
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute viewBox on the given element.
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg/svgsvgelement/viewbox/

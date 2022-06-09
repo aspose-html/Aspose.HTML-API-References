@@ -1,7 +1,7 @@
 ---
 title: ImageDevice.ImageGraphicContext
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Holds current graphics control parameters for the ImageDevice./imagedevice. These parameters define the global framework within which the graphics operators execute.
 type: docs
 weight: 4390
 url: /net/aspose.html.rendering.image/imagedevice.imagegraphiccontext/

@@ -1,12 +1,12 @@
 ---
 title: RequestMessage
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the RequestMessageaspose.html.net/requestmessage class.
 type: docs
 weight: 10
 url: /net/aspose.html.net/requestmessage/requestmessage/
 ---
-## RequestMessage constructor (1 of 2)
+## RequestMessage(string) {#constructor_1}
 
 Initializes a new instance of the [`RequestMessage`](../../requestmessage) class.
 
@@ -26,7 +26,7 @@ public RequestMessage(string address)
 
 ---
 
-## RequestMessage constructor (2 of 2)
+## RequestMessage(Url) {#constructor}
 
 Initializes a new instance of the [`RequestMessage`](../../requestmessage) class.
 

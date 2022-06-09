@@ -1,7 +1,7 @@
 ---
 title: Text
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The text contained within the option element.
 type: docs
 weight: 70
 url: /net/aspose.html/htmloptionelement/text/

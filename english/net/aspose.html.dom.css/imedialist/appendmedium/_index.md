@@ -1,7 +1,7 @@
 ---
 title: AppendMedium
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Adds the medium newMedium to the end of the list. If the newMedium is already used it is first removed.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.css/imedialist/appendmedium/

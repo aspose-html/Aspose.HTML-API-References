@@ -1,7 +1,7 @@
 ---
 title: Title
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Multimedia title.
 type: docs
 weight: 50
 url: /net/aspose.html.datascraping.multimediascraping/multimediainfo/title/

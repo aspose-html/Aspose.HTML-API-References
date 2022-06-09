@@ -1,7 +1,7 @@
 ---
 title: QUOTA_EXCEEDED_ERR
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The quota has been exceeded.
 type: docs
 weight: 230
 url: /net/aspose.html.dom/domexception/quota_exceeded_err/

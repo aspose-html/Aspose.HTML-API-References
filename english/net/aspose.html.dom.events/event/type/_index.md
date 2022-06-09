@@ -1,7 +1,7 @@
 ---
 title: Type
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The name of the event case-insensitive. The name must be an XML name.
 type: docs
 weight: 100
 url: /net/aspose.html.dom.events/event/type/

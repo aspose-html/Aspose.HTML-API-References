@@ -1,7 +1,7 @@
 ---
 title: PATHSEG_CURVETO_CUBIC_SMOOTH_ABS
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to a absolute smooth cubic curveto S path data command.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg.paths/svgpathseg/pathseg_curveto_cubic_smooth_abs/

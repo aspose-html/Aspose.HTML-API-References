@@ -1,7 +1,7 @@
 ---
 title: Clear
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Removes all the elements from the VideoFormatInfoCollectionaspose.html.datascraping.multimediascraping/videoformatinfocollection collection.
 type: docs
 weight: 40
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfocollection/clear/

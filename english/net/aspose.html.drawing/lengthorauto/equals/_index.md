@@ -1,7 +1,7 @@
 ---
 title: Equals
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Determines whether the specified Unitaspose.html.drawing/unit is equal to this instance.
 type: docs
 weight: 50
 url: /net/aspose.html.drawing/lengthorauto/equals/

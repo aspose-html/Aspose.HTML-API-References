@@ -1,7 +1,7 @@
 ---
 title: Parent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the parent context if any.
 type: docs
 weight: 40
 url: /net/aspose.html.dom/ibrowsingcontext/parent/

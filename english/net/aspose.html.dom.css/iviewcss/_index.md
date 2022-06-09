@@ -1,7 +1,7 @@
 ---
 title: IViewCSS
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The IViewCSS interface represents an extension to the Window object that give an access to the values of all CSS properties of an element.
 type: docs
 weight: 720
 url: /net/aspose.html.dom.css/iviewcss/
@@ -20,8 +20,8 @@ public interface IViewCSS : IAbstractView
 
 | Name | Description |
 | --- | --- |
-| [GetComputedStyle](../../aspose.html.dom.css/iviewcss/getcomputedstyle)(Element) | The IViewCSS.getComputedStyle() method returns an object containing the values of all CSS properties of an element, after applying active stylesheets and resolving any basic computation those values may contain. |
-| [GetComputedStyle](../../aspose.html.dom.css/iviewcss/getcomputedstyle)(Element, string) | The IViewCSS.getComputedStyle() method returns an object containing the values of all CSS properties of an element, after applying active stylesheets and resolving any basic computation those values may contain. |
+| [GetComputedStyle](../../aspose.html.dom.css/iviewcss/getcomputedstyle#getcomputedstyle)(Element) | The IViewCSS.getComputedStyle() method returns an object containing the values of all CSS properties of an element, after applying active stylesheets and resolving any basic computation those values may contain. |
+| [GetComputedStyle](../../aspose.html.dom.css/iviewcss/getcomputedstyle#getcomputedstyle_1)(Element, string) | The IViewCSS.getComputedStyle() method returns an object containing the values of all CSS properties of an element, after applying active stylesheets and resolving any basic computation those values may contain. |
 
 ### Remarks
 
