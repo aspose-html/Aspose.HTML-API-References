@@ -3,6 +3,7 @@ title: Семейство продуктов Aspose.HTML
 additionalTitle: Ссылки на API Aspose
 type: docs
 weight: 10
+description: "Разрабатывайте приложения для преобразования, обработки и просмотра HTML, PDF, Word, EPUB или SVG с помощью простых в использовании API-интерфейсов Aspose.HTML для собственных или облачных платформ."
 url: /ru/
 ---
 ## Aspose.HTML для .NET
