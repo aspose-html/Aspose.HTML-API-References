@@ -3,7 +3,7 @@ title: SVGNumberList
 second_title: Aspose.HTML for .NET API Reference
 description: This interface defines a list of SVGNumber objects.
 type: docs
-weight: 1350
+weight: 1360
 url: /net/aspose.html.dom.svg.datatypes/svgnumberlist/
 ---
 ## SVGNumberList class

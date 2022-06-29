@@ -3,7 +3,7 @@ title: IChildNode
 second_title: Aspose.HTML for .NET API Reference
 description: Defines IChildNode./ichildnode interface that should be implemented by Node./node that can have a parent.
 type: docs
-weight: 990
+weight: 1000
 url: /net/aspose.html.dom/ichildnode/
 ---
 ## IChildNode interface

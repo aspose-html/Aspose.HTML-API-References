@@ -3,7 +3,7 @@ title: HTMLLegendElement
 second_title: Aspose.HTML for .NET API Reference
 description: Provides a caption for a FIELDSET grouping. See the LEGEND element definition in HTML 4.01.
 type: docs
-weight: 3440
+weight: 3460
 url: /net/aspose.html/htmllegendelement/
 ---
 ## HTMLLegendElement class

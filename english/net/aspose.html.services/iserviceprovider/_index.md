@@ -3,7 +3,7 @@ title: IServiceProvider
 second_title: Aspose.HTML for .NET API Reference
 description: Provides an immutable container for services.
 type: docs
-weight: 4830
+weight: 4850
 url: /net/aspose.html.services/iserviceprovider/
 ---
 ## IServiceProvider interface

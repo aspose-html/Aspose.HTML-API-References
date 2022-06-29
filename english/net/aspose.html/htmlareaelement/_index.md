@@ -3,7 +3,7 @@ title: HTMLAreaElement
 second_title: Aspose.HTML for .NET API Reference
 description: Client-side image map area definition. See the AREA element definition in HTML 4.01.
 type: docs
-weight: 3160
+weight: 3180
 url: /net/aspose.html/htmlareaelement/
 ---
 ## HTMLAreaElement class
@@ -54,6 +54,7 @@ public class HTMLAreaElement : HTMLElement
 | override [Prefix](../../aspose.html.dom/element/prefix) { get; } | The namespace prefix of this node, or null if it is unspecified. When it is defined to be null, setting it has no effect |
 | [PreviousElementSibling](../../aspose.html.dom/element/previouselementsibling) { get; } | Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree. |
 | [PreviousSibling](../../aspose.html.dom/node/previoussibling) { get; } | The read-only previousSibling property of the [`Node`](../../aspose.html.dom/node) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../../aspose.html.dom/node/firstchild) list, or null if the specified node is the first in that list. |
+| [RelList](../../aspose.html/htmlareaelement/rellist) { get; } | Returns a live DOMTokenList which contains tokens received from parsing the "rel" attribute. |
 | [SchemaTypeInfo](../../aspose.html.dom/element/schematypeinfo) { get; } | The type information associated with this element. |
 | [ShadowRoot](../../aspose.html.dom/element/shadowroot) { get; } | Returns shadowRoot stored on this element or null if it's closed. |
 | [Shape](../../aspose.html/htmlareaelement/shape) { get; set; } | The shape of the active area. The coordinates are given by `coords`. See the shape attribute definition in HTML 4.01. |

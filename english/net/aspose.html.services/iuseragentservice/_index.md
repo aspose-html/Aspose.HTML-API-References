@@ -3,7 +3,7 @@ title: IUserAgentService
 second_title: Aspose.HTML for .NET API Reference
 description: An interface that is described a user agent environment.
 type: docs
-weight: 4840
+weight: 4860
 url: /net/aspose.html.services/iuseragentservice/
 ---
 ## IUserAgentService interface

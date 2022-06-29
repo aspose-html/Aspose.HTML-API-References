@@ -3,7 +3,7 @@ title: YouTubeVideoInfo
 second_title: Aspose.HTML for .NET API Reference
 description: Represents YouTube specific video information.Note We do not support downloading copyrighted videos and using other peoples videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.html.datascraping.multimediascraping.youtube/youtubevideoinfo/
 ---
 ## YouTubeVideoInfo class

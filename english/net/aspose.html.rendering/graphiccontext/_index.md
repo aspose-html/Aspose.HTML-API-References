@@ -3,7 +3,7 @@ title: GraphicContext
 second_title: Aspose.HTML for .NET API Reference
 description: Holds current graphics control parameters. These parameters define the global framework within which the graphics operators execute.
 type: docs
-weight: 4340
+weight: 4360
 url: /net/aspose.html.rendering/graphiccontext/
 ---
 ## GraphicContext class

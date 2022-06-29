@@ -3,7 +3,7 @@ title: CSSValue
 second_title: Aspose.HTML for .NET API Reference
 description: Represents a simple or a complex value. A CSSValue object only occurs in a context of a CSS property.
 type: docs
-weight: 450
+weight: 460
 url: /net/aspose.html.dom.css/cssvalue/
 ---
 ## CSSValue class

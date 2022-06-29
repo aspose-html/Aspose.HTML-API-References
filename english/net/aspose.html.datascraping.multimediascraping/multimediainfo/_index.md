@@ -3,7 +3,7 @@ title: MultimediaInfo
 second_title: Aspose.HTML for .NET API Reference
 description: Represents multimedia information.Note We do not support downloading copyrighted videos and using other peoples videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.html.datascraping.multimediascraping/multimediainfo/
 ---
 ## MultimediaInfo class

@@ -3,7 +3,7 @@ title: HTMLButtonElement
 second_title: Aspose.HTML for .NET API Reference
 description: Push button. See the BUTTON element definition in HTML 4.01.
 type: docs
-weight: 3210
+weight: 3230
 url: /net/aspose.html/htmlbuttonelement/
 ---
 ## HTMLButtonElement class

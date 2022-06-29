@@ -3,7 +3,7 @@ title: FormEditor
 second_title: Aspose.HTML for .NET API Reference
 description: This class represents the editor over the HTMLFormElement../aspose.html/htmlformelement that creates a easier way for .net developers to edit the html forms.
 type: docs
-weight: 3010
+weight: 3030
 url: /net/aspose.html.forms/formeditor/
 ---
 ## FormEditor class

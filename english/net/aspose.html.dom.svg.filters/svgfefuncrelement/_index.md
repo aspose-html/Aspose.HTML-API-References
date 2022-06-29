@@ -3,7 +3,7 @@ title: SVGFEFuncRElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGFEFuncRElement interface corresponds to the feFuncR element.
 type: docs
-weight: 1600
+weight: 1610
 url: /net/aspose.html.dom.svg.filters/svgfefuncrelement/
 ---
 ## SVGFEFuncRElement class

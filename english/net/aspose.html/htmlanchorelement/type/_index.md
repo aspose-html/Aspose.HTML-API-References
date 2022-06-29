@@ -3,7 +3,7 @@ title: Type
 second_title: Aspose.HTML for .NET API Reference
 description: Advisory content type. See the type attribute definition in HTML 4.01.
 type: docs
-weight: 120
+weight: 220
 url: /net/aspose.html/htmlanchorelement/type/
 ---
 ## HTMLAnchorElement.Type property

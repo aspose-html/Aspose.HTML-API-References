@@ -3,7 +3,7 @@ title: Focus
 second_title: Aspose.HTML for .NET API Reference
 description: Gives keyboard focus to this element.
 type: docs
-weight: 140
+weight: 250
 url: /net/aspose.html/htmlanchorelement/focus/
 ---
 ## HTMLAnchorElement.Focus method

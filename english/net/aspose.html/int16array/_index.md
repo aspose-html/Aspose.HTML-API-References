@@ -3,7 +3,7 @@ title: Int16Array
 second_title: Aspose.HTML for .NET API Reference
 description: Represents an array of twos-complement 16-bit signed integers in the platform byte order.
 type: docs
-weight: 3860
+weight: 3880
 url: /net/aspose.html/int16array/
 ---
 ## Int16Array class

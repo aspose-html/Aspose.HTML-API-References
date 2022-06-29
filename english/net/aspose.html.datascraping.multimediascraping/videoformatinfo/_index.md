@@ -3,7 +3,7 @@ title: VideoFormatInfo
 second_title: Aspose.HTML for .NET API Reference
 description: Represents information about video format.Note We do not support downloading copyrighted videos and using other peoples videos for commercial purposes without their express permission. We are not responsible for any copyright infringement that may occur when using this tool.
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.html.datascraping.multimediascraping/videoformatinfo/
 ---
 ## VideoFormatInfo class

@@ -3,7 +3,7 @@ title: SVGException
 second_title: Aspose.HTML for .NET API Reference
 description: This exception is raised when a specific SVG operation is impossible to perform.
 type: docs
-weight: 2160
+weight: 2170
 url: /net/aspose.html.dom.svg/svgexception/
 ---
 ## SVGException class

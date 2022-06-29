@@ -3,7 +3,7 @@ title: IDOMImplementation
 second_title: Aspose.HTML for .NET API Reference
 description: The DOMImplementation interface provides a number of methods for performing operations that are independent of any particular instance of the document object model.
 type: docs
-weight: 1000
+weight: 1010
 url: /net/aspose.html.dom/idomimplementation/
 ---
 ## IDOMImplementation interface

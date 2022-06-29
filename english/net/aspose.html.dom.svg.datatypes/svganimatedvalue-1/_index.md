@@ -3,7 +3,7 @@ title: SVGAnimatedValueT
 second_title: Aspose.HTML for .NET API Reference
 description: Used for attributes of types which can be animated.
 type: docs
-weight: 1300
+weight: 1310
 url: /net/aspose.html.dom.svg.datatypes/svganimatedvalue-1/
 ---
 ## SVGAnimatedValue&lt;T&gt; class

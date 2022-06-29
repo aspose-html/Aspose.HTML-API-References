@@ -3,7 +3,7 @@ title: MediaType
 second_title: Aspose.HTML for .NET API Reference
 description: Specifies possible media types used during rendering.
 type: docs
-weight: 4440
+weight: 4460
 url: /net/aspose.html.rendering/mediatype/
 ---
 ## MediaType enumeration

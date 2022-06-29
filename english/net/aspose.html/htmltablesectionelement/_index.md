@@ -3,7 +3,7 @@ title: HTMLTableSectionElement
 second_title: Aspose.HTML for .NET API Reference
 description: The THEAD TFOOT and TBODYelements.
 type: docs
-weight: 3670
+weight: 3690
 url: /net/aspose.html/htmltablesectionelement/
 ---
 ## HTMLTableSectionElement class

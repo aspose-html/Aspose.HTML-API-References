@@ -3,7 +3,7 @@ title: HTMLLinkElement
 second_title: Aspose.HTML for .NET API Reference
 description: The LINK element specifies a link to an external resource and defines this documents relationship to that resource or vice versa. See the LINK element definition in HTML 4.01 see also the LinkStyle interface in the StyleSheet module DOM Level 2 Style Sheets and CSShttp//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113.
 type: docs
-weight: 3450
+weight: 3470
 url: /net/aspose.html/htmllinkelement/
 ---
 ## HTMLLinkElement class
@@ -55,6 +55,7 @@ public class HTMLLinkElement : HTMLElement, ILinkStyle
 | [PreviousElementSibling](../../aspose.html.dom/element/previouselementsibling) { get; } | Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree. |
 | [PreviousSibling](../../aspose.html.dom/node/previoussibling) { get; } | The read-only previousSibling property of the [`Node`](../../aspose.html.dom/node) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../../aspose.html.dom/node/firstchild) list, or null if the specified node is the first in that list. |
 | [Rel](../../aspose.html/htmllinkelement/rel) { get; set; } | Forward link type. See the rel attribute definition in HTML 4.01. |
+| [RelList](../../aspose.html/htmllinkelement/rellist) { get; } | Returns a live DOMTokenList which contains tokens received from parsing the "rel" attribute. |
 | [Rev](../../aspose.html/htmllinkelement/rev) { get; set; } | Reverse link type. See the rev attribute definition in HTML 4.01. |
 | [SchemaTypeInfo](../../aspose.html.dom/element/schematypeinfo) { get; } | The type information associated with this element. |
 | [ShadowRoot](../../aspose.html.dom/element/shadowroot) { get; } | Returns shadowRoot stored on this element or null if it's closed. |

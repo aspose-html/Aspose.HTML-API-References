@@ -3,7 +3,7 @@ title: HTMLOListElement
 second_title: Aspose.HTML for .NET API Reference
 description: Ordered list. See the OL element definition in HTML 4.01.
 type: docs
-weight: 3510
+weight: 3530
 url: /net/aspose.html/htmlolistelement/
 ---
 ## HTMLOListElement class

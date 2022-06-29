@@ -3,7 +3,7 @@ title: SVGPathSegList
 second_title: Aspose.HTML for .NET API Reference
 description: This interface defines a list of SVGPathSeg objects.
 type: docs
-weight: 1980
+weight: 1990
 url: /net/aspose.html.dom.svg.paths/svgpathseglist/
 ---
 ## SVGPathSegList class

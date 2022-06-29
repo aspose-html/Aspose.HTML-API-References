@@ -3,7 +3,7 @@ title: Size
 second_title: Aspose.HTML for .NET API Reference
 description: Stores a values which specify a Height and Width.
 type: docs
-weight: 2910
+weight: 2930
 url: /net/aspose.html.drawing/size/
 ---
 ## Size class

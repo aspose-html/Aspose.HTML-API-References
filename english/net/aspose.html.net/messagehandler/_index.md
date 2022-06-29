@@ -3,7 +3,7 @@ title: MessageHandler
 second_title: Aspose.HTML for .NET API Reference
 description: Represents a base type for message handlers.
 type: docs
-weight: 4050
+weight: 4070
 url: /net/aspose.html.net/messagehandler/
 ---
 ## MessageHandler class

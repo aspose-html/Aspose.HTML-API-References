@@ -3,7 +3,7 @@ title: IRuntimeService
 second_title: Aspose.HTML for .NET API Reference
 description: This service is used to configure runtime related properties.
 type: docs
-weight: 4800
+weight: 4820
 url: /net/aspose.html.services/iruntimeservice/
 ---
 ## IRuntimeService interface

@@ -3,7 +3,7 @@ title: Int8Array
 second_title: Aspose.HTML for .NET API Reference
 description: Represents an array of twos-complement 8-bit signed integers.
 type: docs
-weight: 3880
+weight: 3900
 url: /net/aspose.html/int8array/
 ---
 ## Int8Array class

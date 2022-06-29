@@ -3,7 +3,7 @@ title: MouseEvent
 second_title: Aspose.HTML for .NET API Reference
 description: The MouseEvent interface provides specific contextual information associated with Mouse events.
 type: docs
-weight: 950
+weight: 960
 url: /net/aspose.html.dom.events/mouseevent/
 ---
 ## MouseEvent class

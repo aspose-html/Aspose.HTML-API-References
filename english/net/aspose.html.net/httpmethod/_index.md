@@ -3,7 +3,7 @@ title: HttpMethod
 second_title: Aspose.HTML for .NET API Reference
 description: Represents utility class for retrieving and comparing standard HTTP methods.
 type: docs
-weight: 4000
+weight: 4020
 url: /net/aspose.html.net/httpmethod/
 ---
 ## HttpMethod class

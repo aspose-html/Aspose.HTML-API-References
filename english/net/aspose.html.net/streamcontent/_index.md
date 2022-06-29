@@ -3,7 +3,7 @@ title: StreamContent
 second_title: Aspose.HTML for .NET API Reference
 description: Represents content based on a stream.
 type: docs
-weight: 4160
+weight: 4180
 url: /net/aspose.html.net/streamcontent/
 ---
 ## StreamContent class

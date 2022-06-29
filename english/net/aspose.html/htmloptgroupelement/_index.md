@@ -3,7 +3,7 @@ title: HTMLOptGroupElement
 second_title: Aspose.HTML for .NET API Reference
 description: Group options together in logical subdivisions. See the OPTGROUP element definition in HTML 4.01.
 type: docs
-weight: 3530
+weight: 3550
 url: /net/aspose.html/htmloptgroupelement/
 ---
 ## HTMLOptGroupElement class

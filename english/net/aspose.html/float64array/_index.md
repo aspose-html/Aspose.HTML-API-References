@@ -3,7 +3,7 @@ title: Float64Array
 second_title: Aspose.HTML for .NET API Reference
 description: Represents an array of 64-bit floating point numbers corresponding to the C float data type in the platform byte order.
 type: docs
-weight: 2960
+weight: 2980
 url: /net/aspose.html/float64array/
 ---
 ## Float64Array class

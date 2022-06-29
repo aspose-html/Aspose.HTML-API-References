@@ -30,6 +30,7 @@ The **Aspose.Html.Drawing** namespace contains objects and interfaces to specify
 | Interface | Description |
 | --- | --- |
 | [IBrush](./ibrush) | Declares method for getting of brush type. |
+| [IConvertibleColor](./iconvertiblecolor) | Declare methods for color conversions |
 | [IGradientBrush](./igradientbrush) | Declare methods for getting common properties of gradient brushes. |
 | [IInterpolationColor](./iinterpolationcolor) | Desclares methods for getting interpolation color. |
 | [ILinearGradientBrush](./ilineargradientbrush) | Defines brush interface with a linear gradient. |

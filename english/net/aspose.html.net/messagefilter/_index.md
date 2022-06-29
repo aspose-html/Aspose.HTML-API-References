@@ -3,7 +3,7 @@ title: MessageFilter
 second_title: Aspose.HTML for .NET API Reference
 description: Represents abstract base class for different classes of filters used to query messages
 type: docs
-weight: 4030
+weight: 4050
 url: /net/aspose.html.net/messagefilter/
 ---
 ## MessageFilter class

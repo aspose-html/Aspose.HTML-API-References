@@ -3,7 +3,7 @@ title: HTMLFieldSetElement
 second_title: Aspose.HTML for .NET API Reference
 description: Organizes form controls into logical groups. See the FIELDSET element definition in HTML 4.01.
 type: docs
-weight: 3290
+weight: 3310
 url: /net/aspose.html/htmlfieldsetelement/
 ---
 ## HTMLFieldSetElement class

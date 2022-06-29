@@ -3,7 +3,7 @@ title: RequestHeaders
 second_title: Aspose.HTML for .NET API Reference
 description: Contains protocol headers associated with a request.
 type: docs
-weight: 4120
+weight: 4140
 url: /net/aspose.html.net/requestheaders/
 ---
 ## RequestHeaders class

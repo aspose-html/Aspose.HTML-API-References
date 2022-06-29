@@ -3,7 +3,7 @@ title: SVGLengthList
 second_title: Aspose.HTML for .NET API Reference
 description: This interface defines a list of SVGLength objects.
 type: docs
-weight: 1320
+weight: 1330
 url: /net/aspose.html.dom.svg.datatypes/svglengthlist/
 ---
 ## SVGLengthList class

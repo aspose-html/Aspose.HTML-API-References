@@ -3,7 +3,7 @@ title: ICSSStyleDeclaration
 second_title: Aspose.HTML for .NET API Reference
 description: The CSSStyleDeclaration interface represents an object that is a CSS declaration block and exposes style information and various style-related methods and properties.
 type: docs
-weight: 600
+weight: 610
 url: /net/aspose.html.dom.css/icssstyledeclaration/
 ---
 ## ICSSStyleDeclaration interface

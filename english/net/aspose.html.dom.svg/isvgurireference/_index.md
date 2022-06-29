@@ -3,7 +3,7 @@ title: ISVGURIReference
 second_title: Aspose.HTML for .NET API Reference
 description: Interface SVGURIReference defines an interface which applies to all elements which have the collection of XLink attributes such as xlinkhref which define a URI reference.
 type: docs
-weight: 1760
+weight: 1770
 url: /net/aspose.html.dom.svg/isvgurireference/
 ---
 ## ISVGURIReference interface

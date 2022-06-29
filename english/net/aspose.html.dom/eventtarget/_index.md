@@ -3,7 +3,7 @@ title: EventTarget
 second_title: Aspose.HTML for .NET API Reference
 description: The EventTarget interface is implemented by objects that can receive events and may have listeners for them. In other words any target of events implements the three methods associated with this interface.
 type: docs
-weight: 830
+weight: 840
 url: /net/aspose.html.dom/eventtarget/
 ---
 ## EventTarget class

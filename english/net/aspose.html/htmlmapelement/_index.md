@@ -3,7 +3,7 @@ title: HTMLMapElement
 second_title: Aspose.HTML for .NET API Reference
 description: Client-side image map. See the MAP element definition in HTML 4.01.
 type: docs
-weight: 3460
+weight: 3480
 url: /net/aspose.html/htmlmapelement/
 ---
 ## HTMLMapElement class

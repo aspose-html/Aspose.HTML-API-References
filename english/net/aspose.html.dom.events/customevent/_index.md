@@ -3,7 +3,7 @@ title: CustomEvent
 second_title: Aspose.HTML for .NET API Reference
 description: Events using the CustomEvent interface can be used to carry custom data.
 type: docs
-weight: 840
+weight: 850
 url: /net/aspose.html.dom.events/customevent/
 ---
 ## CustomEvent class

@@ -3,7 +3,7 @@ title: Accessors
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the enumeration of member accessors that is defined by the W3C.
 type: docs
-weight: 230
+weight: 240
 url: /net/aspose.html.dom.attributes/accessors/
 ---
 ## Accessors enumeration

@@ -3,7 +3,7 @@ title: Document
 second_title: Aspose.HTML for .NET API Reference
 description: The Document represents the entire HTML XML or SVG document. Conceptually it is the root of the document tree and provides the primary access to the documents data.
 type: docs
-weight: 770
+weight: 780
 url: /net/aspose.html.dom/document/
 ---
 ## Document class

@@ -3,7 +3,7 @@ title: HTMLAnchorElement
 second_title: Aspose.HTML for .NET API Reference
 description: The anchor element. See the A element definition in HTML 4.01.
 type: docs
-weight: 3140
+weight: 3160
 url: /net/aspose.html/htmlanchorelement/
 ---
 ## HTMLAnchorElement class
@@ -33,6 +33,9 @@ public class HTMLAnchorElement : HTMLElement
 | [Dir](../../aspose.html/htmlelement/dir) { get; set; } | Specifies the base direction of directionally neutral text and the directionality of tables. See the dir attribute definition in HTML 4.01. |
 | [FirstChild](../../aspose.html.dom/node/firstchild) { get; } | The read-only firstChild property of the [`Node`](../../aspose.html.dom/node) interface returns the node's first child in the tree, or null if the node has no children. |
 | [FirstElementChild](../../aspose.html.dom/element/firstelementchild) { get; } | Returns the first child element node of this element. null if this element has no child elements. |
+| [Hash](../../aspose.html/htmlanchorelement/hash) { get; set; } | Gets or sets a string representation of the hash segment of the associated URL. |
+| [Host](../../aspose.html/htmlanchorelement/host) { get; set; } | Gets or sets a string representation of the host and port segments of the associated URL. |
+| [Hostname](../../aspose.html/htmlanchorelement/hostname) { get; set; } | Gets or sets a string representation of the host segment of the associated URL. |
 | [Href](../../aspose.html/htmlanchorelement/href) { get; set; } | The absolute URI [[IETF RFC 2396](http://www.ietf.org/rfc/rfc2396.txt)] of the linked resource. See the href attribute definition in HTML 4.01. |
 | [Hreflang](../../aspose.html/htmlanchorelement/hreflang) { get; set; } | Language code of the linked resource. See the hreflang attribute definition in HTML 4.01. |
 | [Id](../../aspose.html/htmlelement/id) { get; set; } | The element's identifier. See the id attribute definition in HTML 4.01. |
@@ -48,16 +51,23 @@ public class HTMLAnchorElement : HTMLElement
 | override [NodeName](../../aspose.html.dom/element/nodename) { get; } | The name of this node, depending on its type. |
 | override [NodeType](../../aspose.html.dom/element/nodetype) { get; } | A code representing the type of the underlying object. |
 | virtual [NodeValue](../../aspose.html.dom/node/nodevalue) { get; set; } | The nodeValue property of the [`Node `](../../aspose.html.dom/node)interface returns or sets the value of the current node. |
+| [Origin](../../aspose.html/htmlanchorelement/origin) { get; } | Gets a string representation of the origin segment of the associated URL. |
 | [OuterHTML](../../aspose.html.dom/element/outerhtml) { get; set; } | Returns a fragment of HTML or XML that represents the element and its contents. Can be set, to replace the element with nodes parsed from the given string. |
 | virtual [OwnerDocument](../../aspose.html.dom/node/ownerdocument) { get; } | The read-only ownerDocument property of the Node interface returns the top-level document object of the node. |
 | [ParentElement](../../aspose.html.dom/node/parentelement) { get; } | The read-only parentElement property of [`Node`](../../aspose.html.dom/node) interface returns the DOM node's parent [`Element`](../../aspose.html.dom/element), or null if the node either has no parent, or its parent isn't a DOM Element. |
 | [ParentNode](../../aspose.html.dom/node/parentnode) { get; } | The read-only parentNode property of the Node interface returns the parent of the specified node in the DOM tree. |
+| [Password](../../aspose.html/htmlanchorelement/password) { get; set; } | Gets or sets a string representation of the password segment of the associated URL. |
+| [Pathname](../../aspose.html/htmlanchorelement/pathname) { get; set; } | Gets or sets a string representation of the path segment of the associated URL. |
+| [Port](../../aspose.html/htmlanchorelement/port) { get; set; } | Gets or sets a string representation of the port segment of the associated URL. |
 | override [Prefix](../../aspose.html.dom/element/prefix) { get; } | The namespace prefix of this node, or null if it is unspecified. When it is defined to be null, setting it has no effect |
 | [PreviousElementSibling](../../aspose.html.dom/element/previouselementsibling) { get; } | Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree. |
 | [PreviousSibling](../../aspose.html.dom/node/previoussibling) { get; } | The read-only previousSibling property of the [`Node`](../../aspose.html.dom/node) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../../aspose.html.dom/node/firstchild) list, or null if the specified node is the first in that list. |
+| [Protocol](../../aspose.html/htmlanchorelement/protocol) { get; set; } | Gets or sets a string representation of the scheme segment of the associated URL. |
 | [Rel](../../aspose.html/htmlanchorelement/rel) { get; set; } | Forward link type. See the rel attribute definition in HTML 4.01. |
+| [RelList](../../aspose.html/htmlanchorelement/rellist) { get; } | Returns a live DOMTokenList which contains tokens received from parsing the "rel" attribute. |
 | [Rev](../../aspose.html/htmlanchorelement/rev) { get; set; } | Reverse link type. See the rev attribute definition in HTML 4.01. |
 | [SchemaTypeInfo](../../aspose.html.dom/element/schematypeinfo) { get; } | The type information associated with this element. |
+| [Search](../../aspose.html/htmlanchorelement/search) { get; set; } | Gets or sets a string representation of the search segment of the associated URL. |
 | [ShadowRoot](../../aspose.html.dom/element/shadowroot) { get; } | Returns shadowRoot stored on this element or null if it's closed. |
 | [Shape](../../aspose.html/htmlanchorelement/shape) { get; set; } | The shape of the active area. The coordinates are given by `coords`. See the shape attribute definition in HTML 4.01. |
 | [Style](../../aspose.html/htmlelement/style) { get; } | Represents a style attribute that allows author to directly apply style information to specific element. |
@@ -67,6 +77,7 @@ public class HTMLAnchorElement : HTMLElement
 | override [TextContent](../../aspose.html.dom/element/textcontent) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new string is not empty or null, replaced by a single Text node containing the string this attribute is set to. |
 | [Title](../../aspose.html/htmlelement/title) { get; set; } | The element's advisory title. See the title attribute definition in HTML 4.01. |
 | [Type](../../aspose.html/htmlanchorelement/type) { get; set; } | Advisory content type. See the type attribute definition in HTML 4.01. |
+| [Username](../../aspose.html/htmlanchorelement/username) { get; set; } | Gets or sets a string representation of the username segment of the associated URL. |
 
 ## Methods
 

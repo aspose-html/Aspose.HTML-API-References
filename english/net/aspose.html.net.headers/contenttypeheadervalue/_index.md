@@ -3,7 +3,7 @@ title: ContentTypeHeaderValue
 second_title: Aspose.HTML for .NET API Reference
 description: Represents a Content-Type header value.
 type: docs
-weight: 3980
+weight: 4000
 url: /net/aspose.html.net.headers/contenttypeheadervalue/
 ---
 ## ContentTypeHeaderValue class

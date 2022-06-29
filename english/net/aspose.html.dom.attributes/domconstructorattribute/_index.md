@@ -3,7 +3,7 @@ title: DOMConstructorAttribute
 second_title: Aspose.HTML for .NET API Reference
 description: Specifies a constructor that is defined by the W3C.
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.html.dom.attributes/domconstructorattribute/
 ---
 ## DOMConstructorAttribute class

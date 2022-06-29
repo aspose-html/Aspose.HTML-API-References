@@ -3,7 +3,7 @@ title: SVGTextElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGTextElement interface corresponds to the text element.
 type: docs
-weight: 2460
+weight: 2470
 url: /net/aspose.html.dom.svg/svgtextelement/
 ---
 ## SVGTextElement class

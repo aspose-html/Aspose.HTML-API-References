@@ -3,7 +3,7 @@ title: Path2D
 second_title: Aspose.HTML for .NET API Reference
 description: The Path2D interface of the Canvas 2D API is used to declare paths that are then later used on CanvasRenderingContext2D objects. The path methods of the CanvasRenderingContext2D interface are present on this interface as well and are allowing you to create paths that you can retain and replay as required on a canvas.
 type: docs
-weight: 400
+weight: 410
 url: /net/aspose.html.dom.canvas/path2d/
 ---
 ## Path2D class

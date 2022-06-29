@@ -3,7 +3,7 @@ title: HTMLDivElement
 second_title: Aspose.HTML for .NET API Reference
 description: Generic block container. See the DIV element definition in HTML 4.01.
 type: docs
-weight: 3260
+weight: 3280
 url: /net/aspose.html/htmldivelement/
 ---
 ## HTMLDivElement class

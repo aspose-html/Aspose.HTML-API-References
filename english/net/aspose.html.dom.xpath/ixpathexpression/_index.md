@@ -3,7 +3,7 @@ title: IXPathExpression
 second_title: Aspose.HTML for .NET API Reference
 description: The XPathExpression interface represents a parsed and resolved XPath expression.
 type: docs
-weight: 2680
+weight: 2690
 url: /net/aspose.html.dom.xpath/ixpathexpression/
 ---
 ## IXPathExpression interface

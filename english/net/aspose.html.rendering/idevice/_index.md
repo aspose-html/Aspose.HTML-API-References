@@ -3,7 +3,7 @@ title: IDevice
 second_title: Aspose.HTML for .NET API Reference
 description: Defines methods and properties that support custom rendering of the graphic elements like paths text and images.
 type: docs
-weight: 4360
+weight: 4380
 url: /net/aspose.html.rendering/idevice/
 ---
 ## IDevice interface

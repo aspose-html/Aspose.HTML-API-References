@@ -3,7 +3,7 @@ title: Blur
 second_title: Aspose.HTML for .NET API Reference
 description: Removes keyboard focus from this element.
 type: docs
-weight: 130
+weight: 240
 url: /net/aspose.html/htmlanchorelement/blur/
 ---
 ## HTMLAnchorElement.Blur method

@@ -3,7 +3,7 @@ title: IViewCSS
 second_title: Aspose.HTML for .NET API Reference
 description: The IViewCSS interface represents an extension to the Window object that give an access to the values of all CSS properties of an element.
 type: docs
-weight: 720
+weight: 730
 url: /net/aspose.html.dom.css/iviewcss/
 ---
 ## IViewCSS interface

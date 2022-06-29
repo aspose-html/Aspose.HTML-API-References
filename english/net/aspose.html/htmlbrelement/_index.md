@@ -3,7 +3,7 @@ title: HTMLBRElement
 second_title: Aspose.HTML for .NET API Reference
 description: Force a line break. See the BR element definition in HTML 4.01.
 type: docs
-weight: 3170
+weight: 3190
 url: /net/aspose.html/htmlbrelement/
 ---
 ## HTMLBRElement class

@@ -3,7 +3,7 @@ title: Target
 second_title: Aspose.HTML for .NET API Reference
 description: Frame to render the resource in. See the target attribute definition in HTML 4.01.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.html/htmlareaelement/target/
 ---
 ## HTMLAreaElement.Target property

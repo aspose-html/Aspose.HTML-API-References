@@ -3,7 +3,7 @@ title: LengthOrAuto
 second_title: Aspose.HTML for .NET API Reference
 description: Represents a container for storage length or auto units..
 type: docs
-weight: 2860
+weight: 2880
 url: /net/aspose.html.drawing/lengthorauto/
 ---
 ## LengthOrAuto class

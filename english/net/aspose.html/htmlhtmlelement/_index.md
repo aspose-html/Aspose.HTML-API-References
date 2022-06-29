@@ -3,7 +3,7 @@ title: HTMLHtmlElement
 second_title: Aspose.HTML for .NET API Reference
 description: Root of an HTML document. See the HTML element definition in HTML 4.01.
 type: docs
-weight: 3370
+weight: 3390
 url: /net/aspose.html/htmlhtmlelement/
 ---
 ## HTMLHtmlElement class

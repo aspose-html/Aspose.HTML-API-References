@@ -3,7 +3,7 @@ title: SVGPathSegLinetoVerticalRel
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGPathSegLinetoVerticalRel interface corresponds to a relative vertical lineto v path data command.
 type: docs
-weight: 1970
+weight: 1980
 url: /net/aspose.html.dom.svg.paths/svgpathseglinetoverticalrel/
 ---
 ## SVGPathSegLinetoVerticalRel class

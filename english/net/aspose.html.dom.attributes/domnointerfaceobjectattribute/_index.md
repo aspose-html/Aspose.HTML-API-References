@@ -3,7 +3,7 @@ title: DOMNoInterfaceObjectAttribute
 second_title: Aspose.HTML for .NET API Reference
 description: If the NoInterfaceObject extended attribute appears on an interface it indicates that an interface object will not exist for the interface in the ECMAScript binding.
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.html.dom.attributes/domnointerfaceobjectattribute/
 ---
 ## DOMNoInterfaceObjectAttribute class

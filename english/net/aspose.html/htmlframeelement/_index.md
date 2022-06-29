@@ -3,7 +3,7 @@ title: HTMLFrameElement
 second_title: Aspose.HTML for .NET API Reference
 description: Create a frame. See the FRAME element definition in HTML 4.01.
 type: docs
-weight: 3320
+weight: 3340
 url: /net/aspose.html/htmlframeelement/
 ---
 ## HTMLFrameElement class
