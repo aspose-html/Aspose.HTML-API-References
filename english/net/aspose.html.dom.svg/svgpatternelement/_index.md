@@ -3,7 +3,7 @@ title: SVGPatternElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGPatternElement interface corresponds to the pattern element.
 type: docs
-weight: 2320
+weight: 2210
 url: /net/aspose.html.dom.svg/svgpatternelement/
 ---
 ## SVGPatternElement class

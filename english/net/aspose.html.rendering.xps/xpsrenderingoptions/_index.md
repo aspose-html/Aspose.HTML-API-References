@@ -3,7 +3,7 @@ title: XpsRenderingOptions
 second_title: Aspose.HTML for .NET API Reference
 description: Represents rendering options for XpsDevice./xpsdevice.
 type: docs
-weight: 4640
+weight: 4530
 url: /net/aspose.html.rendering.xps/xpsrenderingoptions/
 ---
 ## XpsRenderingOptions class

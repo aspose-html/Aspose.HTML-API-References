@@ -3,7 +3,7 @@ title: SVGRenderingIntent
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGRenderingIntent enumeration defines the enumerated list of possible values for rendering-intent attributes or descriptors.
 type: docs
-weight: 2370
+weight: 2260
 url: /net/aspose.html.dom.svg/svgrenderingintent/
 ---
 ## SVGRenderingIntent enumeration

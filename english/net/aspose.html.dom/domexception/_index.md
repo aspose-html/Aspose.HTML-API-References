@@ -3,7 +3,7 @@ title: DOMException
 second_title: Aspose.HTML for .NET API Reference
 description: The DOMException interface represents an abnormal event called an exception which occurs as a result of calling a method or accessing a property of a web API. This is basically how error conditions are described in web APIs.
 type: docs
-weight: 760
+weight: 650
 url: /net/aspose.html.dom/domexception/
 ---
 ## DOMException class

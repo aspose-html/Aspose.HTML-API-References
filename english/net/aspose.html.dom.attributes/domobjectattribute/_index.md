@@ -3,7 +3,7 @@ title: DOMObjectAttribute
 second_title: Aspose.HTML for .NET API Reference
 description: Specifies that object is marked with this attribute is defined by the W3C.
 type: docs
-weight: 300
+weight: 190
 url: /net/aspose.html.dom.attributes/domobjectattribute/
 ---
 ## DOMObjectAttribute class

@@ -3,7 +3,7 @@ title: DocumentType
 second_title: Aspose.HTML for .NET API Reference
 description: The DocumentType provides an interface to the list of entities that are defined for the document
 type: docs
-weight: 800
+weight: 690
 url: /net/aspose.html.dom/documenttype/
 ---
 ## DocumentType class

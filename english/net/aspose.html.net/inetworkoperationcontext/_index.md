@@ -3,7 +3,7 @@ title: INetworkOperationContext
 second_title: Aspose.HTML for .NET API Reference
 description: Provides contextual information for the network services.
 type: docs
-weight: 4040
+weight: 3930
 url: /net/aspose.html.net/inetworkoperationcontext/
 ---
 ## INetworkOperationContext interface

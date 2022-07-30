@@ -3,7 +3,7 @@ title: Numeric
 second_title: Aspose.HTML for .NET API Reference
 description: Provides the base class for numeric types.
 type: docs
-weight: 2900
+weight: 2790
 url: /net/aspose.html.drawing/numeric/
 ---
 ## Numeric class

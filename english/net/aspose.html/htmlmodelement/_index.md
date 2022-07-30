@@ -3,7 +3,7 @@ title: HTMLModElement
 second_title: Aspose.HTML for .NET API Reference
 description: Notice of modification to part of a document. See the INS and DEL element definitions in HTML 4.01.
 type: docs
-weight: 3510
+weight: 3400
 url: /net/aspose.html/htmlmodelement/
 ---
 ## HTMLModElement class

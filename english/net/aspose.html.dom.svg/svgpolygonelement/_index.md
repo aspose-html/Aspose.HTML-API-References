@@ -3,7 +3,7 @@ title: SVGPolygonElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGPolygonElement interface corresponds to the polygon element.
 type: docs
-weight: 2330
+weight: 2220
 url: /net/aspose.html.dom.svg/svgpolygonelement/
 ---
 ## SVGPolygonElement class

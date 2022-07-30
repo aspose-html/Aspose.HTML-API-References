@@ -3,7 +3,7 @@ title: OutputStreamContext
 second_title: Aspose.HTML for .NET API Reference
 description: A context for initialization of the output stream.
 type: docs
-weight: 3860
+weight: 3750
 url: /net/aspose.html.io/outputstreamcontext/
 ---
 ## OutputStreamContext class

@@ -3,7 +3,7 @@ title: KeyboardEvent
 second_title: Aspose.HTML for .NET API Reference
 description: The KeyboardEvent interface provides specific contextual information associated with keyboard devices. Each keyboard event references a key using a value. Keyboard events are commonly directed at the element that has the focus.
 type: docs
-weight: 950
+weight: 840
 url: /net/aspose.html.dom.events/keyboardevent/
 ---
 ## KeyboardEvent class

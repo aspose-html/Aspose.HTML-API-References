@@ -3,7 +3,7 @@ title: IDocumentCSS
 second_title: Aspose.HTML for .NET API Reference
 description: This interface represents a document with a CSS view.
 type: docs
-weight: 660
+weight: 550
 url: /net/aspose.html.dom.css/idocumentcss/
 ---
 ## IDocumentCSS interface

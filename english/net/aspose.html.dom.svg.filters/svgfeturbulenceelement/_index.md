@@ -3,7 +3,7 @@ title: SVGFETurbulenceElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGFETurbulenceElement interface corresponds to the feTurbulence element.
 type: docs
-weight: 1720
+weight: 1610
 url: /net/aspose.html.dom.svg.filters/svgfeturbulenceelement/
 ---
 ## SVGFETurbulenceElement class

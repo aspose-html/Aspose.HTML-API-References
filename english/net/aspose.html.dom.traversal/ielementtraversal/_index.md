@@ -3,7 +3,7 @@ title: IElementTraversal
 second_title: Aspose.HTML for .NET API Reference
 description: The ElementTraversal interface is a set of read-only attributes which allow an author to easily navigate between elements in a document. In conforming implementations of Element Traversal all objects that implement Element must also implement the ElementTraversal interface.
 type: docs
-weight: 2600
+weight: 2490
 url: /net/aspose.html.dom.traversal/ielementtraversal/
 ---
 ## IElementTraversal interface

@@ -3,7 +3,7 @@ title: Renderer
 second_title: Aspose.HTML for .NET API Reference
 description: Represents a base class for all renderers and implemnts IDisposable interface.
 type: docs
-weight: 4570
+weight: 4460
 url: /net/aspose.html.rendering/renderer/
 ---
 ## Renderer class

@@ -3,7 +3,7 @@ title: DOMNullableAttribute
 second_title: Aspose.HTML for .NET API Reference
 description: Specifies a DOM object can be assigned null value.
 type: docs
-weight: 290
+weight: 180
 url: /net/aspose.html.dom.attributes/domnullableattribute/
 ---
 ## DOMNullableAttribute class

@@ -3,7 +3,7 @@ title: SVGFEGaussianBlurElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGFEGaussianBlurElement interface corresponds to the feGaussianBlur element.
 type: docs
-weight: 1620
+weight: 1510
 url: /net/aspose.html.dom.svg.filters/svgfegaussianblurelement/
 ---
 ## SVGFEGaussianBlurElement class

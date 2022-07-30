@@ -3,7 +3,7 @@ title: SVGFEConvolveMatrixElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGFEConvolveMatrixElement interface corresponds to the feConvolveMatrix element.
 type: docs
-weight: 1520
+weight: 1410
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/
 ---
 ## SVGFEConvolveMatrixElement class

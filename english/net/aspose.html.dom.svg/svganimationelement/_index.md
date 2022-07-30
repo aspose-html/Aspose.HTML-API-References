@@ -3,7 +3,7 @@ title: SVGAnimationElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGAnimationElement interface is the base interface for all of the animation element interfaces SVGAnimateElement SVGSetElement SVGAnimateColorElement SVGAnimateMotionElement and SVGAnimateTransformElement.
 type: docs
-weight: 2060
+weight: 1950
 url: /net/aspose.html.dom.svg/svganimationelement/
 ---
 ## SVGAnimationElement class

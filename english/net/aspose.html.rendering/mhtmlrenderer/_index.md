@@ -3,7 +3,7 @@ title: MhtmlRenderer
 second_title: Aspose.HTML for .NET API Reference
 description: Represents a MHTML document renderer.
 type: docs
-weight: 4470
+weight: 4360
 url: /net/aspose.html.rendering/mhtmlrenderer/
 ---
 ## MhtmlRenderer class

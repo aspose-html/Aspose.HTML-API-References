@@ -3,7 +3,7 @@ title: SVGAngle
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGAngle interface corresponds to the angle basic data type.
 type: docs
-weight: 1180
+weight: 1070
 url: /net/aspose.html.dom.svg.datatypes/svgangle/
 ---
 ## SVGAngle class

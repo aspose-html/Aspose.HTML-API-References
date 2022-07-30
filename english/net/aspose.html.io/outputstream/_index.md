@@ -3,7 +3,7 @@ title: OutputStream
 second_title: Aspose.HTML for .NET API Reference
 description: A surrogate stream wraps the real output stream and controls access to it.OutputStream./outputstream contains URI data that describes location of the output stream.
 type: docs
-weight: 3850
+weight: 3740
 url: /net/aspose.html.io/outputstream/
 ---
 ## OutputStream class

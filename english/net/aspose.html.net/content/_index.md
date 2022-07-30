@@ -3,7 +3,7 @@ title: Content
 second_title: Aspose.HTML for .NET API Reference
 description: Represents a base class for an HTTP entity body and content headers.
 type: docs
-weight: 3960
+weight: 3850
 url: /net/aspose.html.net/content/
 ---
 ## Content class

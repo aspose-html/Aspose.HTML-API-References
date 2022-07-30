@@ -3,7 +3,7 @@ title: InputElementType
 second_title: Aspose.HTML for .NET API Reference
 description: Represent states of the input field.
 type: docs
-weight: 3090
+weight: 2980
 url: /net/aspose.html.forms/inputelementtype/
 ---
 ## InputElementType enumeration

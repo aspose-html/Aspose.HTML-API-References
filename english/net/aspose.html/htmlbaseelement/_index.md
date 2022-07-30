@@ -3,7 +3,7 @@ title: HTMLBaseElement
 second_title: Aspose.HTML for .NET API Reference
 description: Document base URI IETF RFC 2396http//www.ietf.org/rfc/rfc2396.txt. See the BASE element definition in HTML 4.01.
 type: docs
-weight: 3200
+weight: 3090
 url: /net/aspose.html/htmlbaseelement/
 ---
 ## HTMLBaseElement class

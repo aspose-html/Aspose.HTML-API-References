@@ -3,7 +3,7 @@ title: SVGImageElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGImageElement interface corresponds to the image element.
 type: docs
-weight: 2240
+weight: 2130
 url: /net/aspose.html.dom.svg/svgimageelement/
 ---
 ## SVGImageElement class

@@ -3,7 +3,7 @@ title: HTMLSaveFormat
 second_title: Aspose.HTML for .NET API Reference
 description: Specifies format in which document is saved. You can find more info about saving HTMLDocument../aspose.html/htmldocument in articlehttps//docs.aspose.com/html/net/working-with-documents/saving-a-document/.
 type: docs
-weight: 4670
+weight: 4560
 url: /net/aspose.html.saving/htmlsaveformat/
 ---
 ## HTMLSaveFormat enumeration
@@ -19,7 +19,6 @@ public enum HTMLSaveFormat
 | Name | Value | Description |
 | --- | --- | --- |
 | Original | `0` | The document will be saved in its original format. |
-| HTML | `0` | Document will be saved as HTML. |
 | Markdown | `1` | Document will be saved as Markdown. |
 | MHTML | `2` | Document will be saved as MHTML. |
 

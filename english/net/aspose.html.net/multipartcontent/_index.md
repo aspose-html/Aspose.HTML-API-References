@@ -3,7 +3,7 @@ title: MultipartContent
 second_title: Aspose.HTML for .NET API Reference
 description: Represents a multipart/ content.
 type: docs
-weight: 4120
+weight: 4010
 url: /net/aspose.html.net/multipartcontent/
 ---
 ## MultipartContent class

@@ -3,7 +3,7 @@ title: HTMLFontElement
 second_title: Aspose.HTML for .NET API Reference
 description: Local change to font. See the FONT element definition in HTML 4.01. This element is deprecated in HTML 4.01.
 type: docs
-weight: 3320
+weight: 3210
 url: /net/aspose.html/htmlfontelement/
 ---
 ## HTMLFontElement class

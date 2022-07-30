@@ -3,7 +3,7 @@ title: DocDevice
 second_title: Aspose.HTML for .NET API Reference
 description: Represents rendering to a DOCX document.
 type: docs
-weight: 4270
+weight: 4160
 url: /net/aspose.html.rendering.doc/docdevice/
 ---
 ## DocDevice class

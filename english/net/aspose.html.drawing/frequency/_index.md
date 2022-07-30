@@ -3,7 +3,7 @@ title: Frequency
 second_title: Aspose.HTML for .NET API Reference
 description: The frequency unit.
 type: docs
-weight: 2770
+weight: 2660
 url: /net/aspose.html.drawing/frequency/
 ---
 ## Frequency class

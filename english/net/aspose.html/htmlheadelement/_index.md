@@ -3,7 +3,7 @@ title: HTMLHeadElement
 second_title: Aspose.HTML for .NET API Reference
 description: Document head information. See the HEAD element definition in HTML 4.01.
 type: docs
-weight: 3370
+weight: 3260
 url: /net/aspose.html/htmlheadelement/
 ---
 ## HTMLHeadElement class

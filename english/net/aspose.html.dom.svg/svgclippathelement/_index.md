@@ -3,7 +3,7 @@ title: SVGClipPathElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGClipPathElement interface corresponds to the clipPath element.
 type: docs
-weight: 2080
+weight: 1970
 url: /net/aspose.html.dom.svg/svgclippathelement/
 ---
 ## SVGClipPathElement class

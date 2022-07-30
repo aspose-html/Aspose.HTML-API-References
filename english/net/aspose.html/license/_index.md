@@ -3,7 +3,7 @@ title: License
 second_title: Aspose.HTML for .NET API Reference
 description: Provides methods to license the component.
 type: docs
-weight: 3910
+weight: 3800
 url: /net/aspose.html/license/
 ---
 ## License class

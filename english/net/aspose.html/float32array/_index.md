@@ -3,7 +3,7 @@ title: Float32Array
 second_title: Aspose.HTML for .NET API Reference
 description: Represents an array of 32-bit floating point numbers corresponding to the C float data type in the platform byte order.
 type: docs
-weight: 2970
+weight: 2860
 url: /net/aspose.html/float32array/
 ---
 ## Float32Array class

@@ -3,7 +3,7 @@ title: IConvertibleColor
 second_title: Aspose.HTML for .NET API Reference
 description: Declare methods for color conversions
 type: docs
-weight: 2790
+weight: 2680
 url: /net/aspose.html.drawing/iconvertiblecolor/
 ---
 ## IConvertibleColor interface

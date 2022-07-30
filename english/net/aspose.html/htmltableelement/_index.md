@@ -3,7 +3,7 @@ title: HTMLTableElement
 second_title: Aspose.HTML for .NET API Reference
 description: The create and delete methods on the table allow authors to construct and modify tables. HTML 4.01http//www.w3.org/TR/1999/REC-html401-19991224 specifies that only one of each of the CAPTION THEAD and TFOOT elements may exist in a table. Therefore if one exists and the createTHead or createTFoot method is called the method returns the existing THead or TFoot element. See the TABLE element definition in HTML 4.01.
 type: docs
-weight: 3670
+weight: 3560
 url: /net/aspose.html/htmltableelement/
 ---
 ## HTMLTableElement class

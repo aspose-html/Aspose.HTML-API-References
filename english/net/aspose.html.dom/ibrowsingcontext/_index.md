@@ -3,7 +3,7 @@ title: IBrowsingContext
 second_title: Aspose.HTML for .NET API Reference
 description: A browsing context is an environment in which Document./document objects are presented to the user.
 type: docs
-weight: 990
+weight: 880
 url: /net/aspose.html.dom/ibrowsingcontext/
 ---
 ## IBrowsingContext interface

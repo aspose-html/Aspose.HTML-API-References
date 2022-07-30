@@ -3,7 +3,7 @@ title: FontMatcher
 second_title: Aspose.HTML for .NET API Reference
 description: This class allows you to control some parts of the font matching algorithm.
 type: docs
-weight: 4330
+weight: 4220
 url: /net/aspose.html.rendering.fonts/fontmatcher/
 ---
 ## FontMatcher class

@@ -3,7 +3,7 @@ title: Aspose.Html.Dom.Attributes
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Dom.Attributes namespace contains unified attribute classes which specifies or qualifies any object node element ... feature or behavior.
 type: docs
-weight: 90
+weight: 50
 url: /net/aspose.html.dom.attributes/
 ---
 The **Aspose.Html.Dom.Attributes** namespace contains unified attribute classes which specifies or qualifies any object (node, element, ...) feature or behavior.

@@ -3,7 +3,7 @@ title: HTMLLinkElement
 second_title: Aspose.HTML for .NET API Reference
 description: The LINK element specifies a link to an external resource and defines this documents relationship to that resource or vice versa. See the LINK element definition in HTML 4.01 see also the LinkStyle interface in the StyleSheet module DOM Level 2 Style Sheets and CSShttp//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113.
 type: docs
-weight: 3470
+weight: 3360
 url: /net/aspose.html/htmllinkelement/
 ---
 ## HTMLLinkElement class

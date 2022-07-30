@@ -3,7 +3,7 @@ title: HttpProtocolMessageHandler
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the http protocol message handler.
 type: docs
-weight: 4110
+weight: 4000
 url: /net/aspose.html.net.messagehandlers/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler class

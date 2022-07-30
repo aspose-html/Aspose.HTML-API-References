@@ -3,7 +3,7 @@ title: Event
 second_title: Aspose.HTML for .NET API Reference
 description: The is used to provide contextual information about an event to the handler processing the event.
 type: docs
-weight: 890
+weight: 780
 url: /net/aspose.html.dom.events/event/
 ---
 ## Event class

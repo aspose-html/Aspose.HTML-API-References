@@ -3,7 +3,7 @@ title: MultipartFormDataContent
 second_title: Aspose.HTML for .NET API Reference
 description: Represent content for multipart/form-data encoding algorithm
 type: docs
-weight: 4130
+weight: 4020
 url: /net/aspose.html.net/multipartformdatacontent/
 ---
 ## MultipartFormDataContent class

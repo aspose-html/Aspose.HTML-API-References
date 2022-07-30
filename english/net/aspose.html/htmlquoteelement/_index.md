@@ -3,7 +3,7 @@ title: HTMLQuoteElement
 second_title: Aspose.HTML for .NET API Reference
 description: For the Q and BLOCKQUOTE elements. See the Q element definition in HTML 4.01.
 type: docs
-weight: 3600
+weight: 3490
 url: /net/aspose.html/htmlquoteelement/
 ---
 ## HTMLQuoteElement class

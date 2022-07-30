@@ -3,7 +3,7 @@ title: SVGDescElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGDescElement interface corresponds to the desc element.
 type: docs
-weight: 2120
+weight: 2010
 url: /net/aspose.html.dom.svg/svgdescelement/
 ---
 ## SVGDescElement class

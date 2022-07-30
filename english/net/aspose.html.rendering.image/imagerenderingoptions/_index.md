@@ -3,7 +3,7 @@ title: ImageRenderingOptions
 second_title: Aspose.HTML for .NET API Reference
 description: Represents rendering options for ImageDevice./imagedevice. This options is used to specify output image format compression resolution etc.
 type: docs
-weight: 4430
+weight: 4320
 url: /net/aspose.html.rendering.image/imagerenderingoptions/
 ---
 ## ImageRenderingOptions class

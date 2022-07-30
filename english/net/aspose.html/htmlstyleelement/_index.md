@@ -3,7 +3,7 @@ title: HTMLStyleElement
 second_title: Aspose.HTML for .NET API Reference
 description: Style information. See the STYLE element definition in HTML 4.01 the CSS module DOM Level 2 Style Sheets and CSShttp//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113 and the LinkStyle interface in the StyleSheets module DOM Level 2 Style Sheets and CSShttp//www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113.
 type: docs
-weight: 3630
+weight: 3520
 url: /net/aspose.html/htmlstyleelement/
 ---
 ## HTMLStyleElement class

@@ -3,7 +3,7 @@ title: Angle
 second_title: Aspose.HTML for .NET API Reference
 description: The angle data type
 type: docs
-weight: 2740
+weight: 2630
 url: /net/aspose.html.drawing/angle/
 ---
 ## Angle class

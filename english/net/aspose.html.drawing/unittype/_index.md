@@ -3,7 +3,7 @@ title: UnitType
 second_title: Aspose.HTML for .NET API Reference
 description: Specifies the unit of measurement.
 type: docs
-weight: 2960
+weight: 2850
 url: /net/aspose.html.drawing/unittype/
 ---
 ## UnitType class

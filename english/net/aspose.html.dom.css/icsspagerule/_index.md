@@ -3,7 +3,7 @@ title: ICSSPageRule
 second_title: Aspose.HTML for .NET API Reference
 description: The CSSPageRule interface represents a page rule within a CSS style sheet. The page rule is used to specify the dimensions orientation margins etc. of a page box for paged media.
 type: docs
-weight: 580
+weight: 470
 url: /net/aspose.html.dom.css/icsspagerule/
 ---
 ## ICSSPageRule interface

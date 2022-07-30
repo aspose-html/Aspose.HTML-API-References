@@ -3,7 +3,7 @@ title: IImageData
 second_title: Aspose.HTML for .NET API Reference
 description: Creates an ImageData object from a given Uint8ClampedArray and the size of the image it contains. If no array is given it creates an image of a black rectangle.
 type: docs
-weight: 390
+weight: 280
 url: /net/aspose.html.dom.canvas/iimagedata/
 ---
 ## IImageData interface

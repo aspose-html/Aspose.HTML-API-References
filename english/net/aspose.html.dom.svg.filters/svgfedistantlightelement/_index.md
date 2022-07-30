@@ -3,7 +3,7 @@ title: SVGFEDistantLightElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGFEDistantLightElement interface corresponds to the feDistantLight element.
 type: docs
-weight: 1550
+weight: 1440
 url: /net/aspose.html.dom.svg.filters/svgfedistantlightelement/
 ---
 ## SVGFEDistantLightElement class

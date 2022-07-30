@@ -3,7 +3,7 @@ title: SVGGElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGGElement interface corresponds to the g element.
 type: docs
-weight: 2200
+weight: 2090
 url: /net/aspose.html.dom.svg/svggelement/
 ---
 ## SVGGElement class

@@ -3,7 +3,7 @@ title: FontEmbeddingRule
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the font embedding rules.
 type: docs
-weight: 4310
+weight: 4200
 url: /net/aspose.html.rendering.doc/fontembeddingrule/
 ---
 ## FontEmbeddingRule enumeration
