@@ -14,10 +14,6 @@ is_root: true
 | [Aspose.Html](./aspose.html) | **Aspose.Html** 命名空间包含用于 操作 HTML 的类和方法文件，无论是简单的还是复杂的，并且是即时的。  **Aspose.HTML** for .NET 允许开发人员插入、删除、 替换 HTML 节点、提取 CSS 样式信息、 使用 NodeIterator、 遍历规范提供的 TreeWalker、 XPath 或 CSS 选择器查询浏览 HTML 文档。它还提供允许 通过 JavaScript 操作 HTML DOM 的脚本。除了 HTML，此 API 还提供 加载 EPUB 和 MHTML 的功能。 Aspose API 以其 文件间格式转换功能而闻名，该 API 还提供 加载 HTML 文件并以 PDF 格式呈现输出的功能 XPS 和光栅图像格式，包括 JPEG、PNG、BMP 和 TIFF。 |
 | [Aspose.Html.Collections](./aspose.html.collections) | **Aspose.Html.Collections** 命名空间由表示的类组成， 存储和操作节点和元素。 |
 | [Aspose.Html.Converters](./aspose.html.converters) | **Aspose.Html.Converters** 命名空间目标是轻松访问转换方法。它提供了对流行格式的广泛转换，例如 PDF、XPS、图像格式等。 更具体的转换（渲染、保存）用户案例由 well 在面向主题的命名空间中已知和记录的低级 API 函数。 |
-| [Aspose.Html.DataScraping.MultimediaScraping](./aspose.html.datascraping.multimediascraping) | **Aspose.Html.DataScraping.MultimediaScraping** 命名空间提供了各种多媒体抓取类。  **注意:** 我们不支持在未经他人明确许可的情况下下载受版权保护的视频以及将他人的视频用于商业目的。对于使用此工具时可能发生的任何版权侵权行为，我们概不负责。 |
-| [Aspose.Html.DataScraping.MultimediaScraping.YouKu](./aspose.html.datascraping.multimediascraping.youku) | **Aspose.Html.DataScraping.MultimediaScraping.YouKu** 命名空间提供 YouKu 多媒体抓取类。  **注意:** 我们不支持在未经他人明确许可的情况下下载受版权保护的视频以及将他人的视频用于商业目的。对于使用此工具时可能发生的任何版权侵权行为，我们概不负责。 |
-| [Aspose.Html.DataScraping.MultimediaScraping.YouTube](./aspose.html.datascraping.multimediascraping.youtube) | **Aspose.Html.DataScraping.MultimediaScraping.YouTube** 命名空间提供 YouTube 多媒体抓取类。  **注意:** 我们不支持在未经他人明确许可的情况下下载受版权保护的视频以及将他人的视频用于商业目的。对于使用此工具时可能发生的任何版权侵权行为，我们概不负责。 |
-| [Aspose.Html.DataScraping.MultimediaScraping.Zoom](./aspose.html.datascraping.multimediascraping.zoom) | **Aspose.Html.DataScraping.MultimediaScraping.Zoom** 命名空间提供 Zoom 多媒体抓取类。  **注意:** 我们不支持在未经他人明确许可的情况下下载受版权保护的视频以及将他人的视频用于商业目的。对于使用此工具时可能发生的任何版权侵权行为，我们概不负责。 |
 | [Aspose.Html.Dom](./aspose.html.dom) | **Aspose.Html.Dom（文档对象模型）** 命名空间提供 API 表示任何 HTML、XML 或 SVG 文档并与之交互。 DOM 是加载在浏览器中的文档模型， 将文档表示为节点树，其中每个节点 表示文档的一部分（例如元素、文本字符串或注释）。 |
 | [Aspose.Html.Dom.Attributes](./aspose.html.dom.attributes) | **Aspose.Html.Dom.Attributes** 命名空间包含 统一属性指定 或限定任何对象（节点、元素、...）特征或行为的类。 |
 | [Aspose.Html.Dom.Canvas](./aspose.html.dom.canvas) |  |
