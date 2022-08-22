@@ -1,0 +1,137 @@
+---
+title: HTMLInputElement
+second_title: Aspose.HTML لمرجع .NET API
+description: التحكم في النموذج اعتمادًا على البيئة التي يتم فيها عرض الصفحة  قد تكون خاصية القيمة للقراءة فقط لإدخال تحميل الملف من النوع . بالنسبة لنوع إدخال كلمة المرور  قد تكون القيمة الفعلية التي تم إرجاعها مقنعة لمنع الاستخدام غير المصرح به. راجع تعريف عنصر INPUT في أتش تي أم أل 4.01http//www.w3.org/TR/1999/REChtml40119991224  .
+type: docs
+weight: 3310
+url: /ar/net/aspose.html/htmlinputelement/
+---
+## HTMLInputElement class
+
+التحكم في النموذج: اعتمادًا على البيئة التي يتم فيها عرض الصفحة ، قد تكون خاصية القيمة للقراءة فقط لإدخال تحميل الملف من النوع . بالنسبة لنوع إدخال "كلمة المرور" ، قد تكون القيمة الفعلية التي تم إرجاعها مقنعة لمنع الاستخدام غير المصرح به. راجع تعريف عنصر INPUT في [[أتش تي أم أل 4.01](http://www.w3.org/TR/1999/REC-html401-19991224) ] .
+
+راجع أيضًا ملف[نموذج كائن المستند (DOM) المستوى 2 مواصفات HTML](http://www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109) .
+
+```csharp
+public class HTMLInputElement : HTMLElement
+```
+
+## الخصائص
+
+| اسم | وصف |
+| --- | --- |
+| [Accept](../../aspose.html/htmlinputelement/accept) { get; set; } | قائمة بأنواع المحتويات مفصولة بفواصل والتي سيعالجها الخادم الذي يعالج هذا النموذج بشكل صحيح. راجع تعريف سمة القبول في HTML 4.01. |
+| [AccessKey](../../aspose.html/htmlinputelement/accesskey) { get; set; } | مفتاح وصول ذو حرف واحد لمنح حق الوصول إلى عنصر التحكم في النموذج. راجع تعريف سمة مفتاح الوصول في HTML 4.01. |
+| [Align](../../aspose.html/htmlinputelement/align) { get; set; } | محاذاة هذا الكائن (عموديًا أو أفقيًا) فيما يتعلق بالنص المحيط به . راجع تعريف سمة المحاذاة في HTML 4.01. تم إهمال هذه السمة في HTML 4.01. |
+| [Alt](../../aspose.html/htmlinputelement/alt) { get; set; } | لا يعرض النص البديل لوكلاء المستخدم المحتوى العادي لعنصر هذا. راجع تعريف سمة النص البديل في HTML 4.01. |
+| override [Attributes](../../aspose.html.dom/element/attributes) { get; } | خريطة NamedNodeMap تحتوي على سمات هذه العقدة (إذا كانت عنصرًا) أو خالية بخلاف ذلك. |
+| virtual [BaseURI](../../aspose.html.dom/node/baseuri) { get; } | URI الأساسي المطلق لهذه العقدة أو فارغ إذا لم يتمكن التطبيق من الحصول على URI مطلق. |
+| [Checked](../../aspose.html/htmlinputelement/checked) { get; set; } | عندما يكون ملف`يكتب`سمة العنصر لها القيمة "راديو" أو "مربع اختيار" ، وهذا يمثل الحالة الحالية لعنصر التحكم ، في وكيل مستخدم تفاعلي. التغييرات على هذه السمة تغير حالة عنصر تحكم النموذج ، ولكن لا تغير قيمة سمة HTML المحددة لعنصر الإدخال. قيمة "راديو" أو "مربع اختيار" ، قد تقوم بعض التطبيقات بتغيير قيمة لهذه الخاصية قبل إرسال الحدث في مستند . إذا تم إلغاء الإجراء الافتراضي للحدث ، فقد يتم تغيير قيمة للخاصية مرة أخرى إلى قيمتها الأصلية. هذا يعني أن قيمة هذه الخاصية أثناء معالجة أحداث النقر تعتمد على التنفيذ. |
+| [ChildElementCount](../../aspose.html.dom/element/childelementcount) { get; } | إرجاع العدد الحالي لعُقد العناصر التابعة لهذا العنصر. 0 إذا كان هذا العنصر لا يحتوي على عقد فرعية من نوع العقدة 1. |
+| [ChildNodes](../../aspose.html.dom/node/childnodes) { get; } | قائمة NodeList التي تحتوي على كافة توابع هذه العقدة. إذا لم يكن هناك أطفال ، فهذه قائمة NodeList لا تحتوي على عقد .. |
+| [Children](../../aspose.html.dom/element/children) { get; } | إرجاع العناصر الفرعية للعنصر الحالي. |
+| [ClassList](../../aspose.html.dom/element/classlist) { get; } | إرجاع قائمة DOMTokenList الحية التي تحتوي على الرموز المميزة المستلمة من تحليل سمة "class" . |
+| [ClassName](../../aspose.html/htmlelement/classname) { get; set; } | سمة الفئة الخاصة بالعنصر. تمت إعادة تسمية هذه السمة بسبب لتعارضها مع الكلمة الأساسية "class" التي تعرضها العديد من اللغات. راجع تعريف سمة الفئة في HTML 4.01. |
+| [DefaultChecked](../../aspose.html/htmlinputelement/defaultchecked) { get; set; } | متى`يكتب` له القيمة "راديو" أو "مربع اختيار" ، يمثل السمة المحددة في HTML للعنصر. لا تتغير قيمة هذه السمة إذا تغيرت حالة التحكم في النموذج المقابل ، في وكيل مستخدم تفاعلي. راجع تعريف السمة المحدد في HTML 4.01. |
+| [DefaultValue](../../aspose.html/htmlinputelement/defaultvalue) { get; set; } | عندما يكون ملف`يكتب`سمة العنصر لها القيمة "نص" أو "ملف" أو "كلمة مرور" ، وهذا يمثل سمة قيمة لقيمة HTML للعنصر. لا تتغير قيمة هذه السمة إذا تغيرت محتويات عنصر تحكم النموذج المقابل ، في وكيل مستخدم تفاعلي . راجع تعريف سمة القيمة في HTML 4.01. |
+| [Dir](../../aspose.html/htmlelement/dir) { get; set; } | يحدد الاتجاه الأساسي للنص المحايد الاتجاهي و اتجاه الجداول. راجع تعريف سمة dir في HTML 4.01. |
+| [Disabled](../../aspose.html/htmlinputelement/disabled) { get; set; } | عنصر التحكم غير متوفر في هذا السياق. راجع تعريف السمة المعطلة في HTML 4.01. |
+| [Files](../../aspose.html/htmlinputelement/files) { get; } | تسمح سمة IDL للملفات للنصوص بالوصول إلى ملفات العنصر المحددة. يجب إرجاع نفس الكائن حتى تتغير قائمة الملفات المحددة. إذا لم يتم تطبيق سمة IDL ، فيجب أن تُرجع قيمة خالية بدلاً من ذلك. [ملف] |
+| [FirstChild](../../aspose.html.dom/node/firstchild) { get; } | الطفل الأول لهذه العقدة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعيد قيمة خالية. |
+| [FirstElementChild](../../aspose.html.dom/element/firstelementchild) { get; } | إرجاع أول عقدة عنصر فرعي لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عناصر فرعية. |
+| [Form](../../aspose.html/htmlinputelement/form) { get; set; } | إرجاع ملف`شكل` عنصر يحتوي على عنصر التحكم هذا. إرجاع `لا شيء` إذا لم يكن عنصر التحكم هذا ضمن سياق نموذج . |
+| [Id](../../aspose.html/htmlelement/id) { get; set; } | معرف العنصر. راجع تعريف سمة المعرف في HTML 4.01. |
+| [InnerHTML](../../aspose.html.dom/element/innerhtml) { get; set; } | إرجاع جزء من HTML أو XML يمثل محتويات العنصر. يمكن تعيينه لاستبدال محتويات العنصر بالعقد التي تم تحليلها من السلسلة المحددة. |
+| [Lang](../../aspose.html/htmlelement/lang) { get; set; } | رمز اللغة المحدد في RFC 1766. راجع تعريف سمة lang في HTML 4.01. |
+| [LastChild](../../aspose.html.dom/node/lastchild) { get; } | آخر تابع لهذه العقدة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعيد قيمة خالية. |
+| [LastElementChild](../../aspose.html.dom/element/lastelementchild) { get; } | إرجاع آخر عقدة عنصر فرعي لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عناصر فرعية. |
+| [List](../../aspose.html/htmlinputelement/list) { get; set; } | تُستخدم سمة القائمة لتحديد عنصر يسرد الخيارات المحددة مسبقًا المقترحة للمستخدم. |
+| override [LocalName](../../aspose.html.dom/element/localname) { get; } | إرجاع الجزء المحلي من الاسم المؤهل لهذه العقدة . بالنسبة للعقد من أي نوع بخلاف ELEMENT_NODE و ATTRIBUTE_NODE والعقد التي تم إنشاؤها باستخدام طريقة DOM من المستوى 1 ، مثل Document.createElement () ، يكون هذا دائمًا فارغًا. |
+| [MaxLength](../../aspose.html/htmlinputelement/maxlength) { get; set; } | الحد الأقصى لعدد الأحرف لحقول النص ، متى`يكتب` لها قيمة "نص" أو "كلمة مرور". راجع تعريف السمة maxlength في HTML 4.01. |
+| [Name](../../aspose.html/htmlinputelement/name) { get; set; } | عنصر تحكم النموذج أو اسم الكائن عند إرساله مع نموذج. راجع اسم تعريف السمة في HTML 4.01. |
+| override [NamespaceURI](../../aspose.html.dom/element/namespaceuri) { get; } | معرف مساحة الاسم لهذه العقدة ، أو فارغ إذا كانت غير محددة. |
+| [NextElementSibling](../../aspose.html.dom/element/nextelementsibling) { get; } | إرجاع عقدة العنصر الشقيق التالية لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عقد شقيقة لعنصر تأتي بعد هذا في شجرة الوثيقة. |
+| [NextSibling](../../aspose.html.dom/node/nextsibling) { get; } | العقدة التي تلي هذه العقدة مباشرة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعيد قيمة خالية. |
+| override [NodeName](../../aspose.html.dom/element/nodename) { get; } | اسم هذه العقدة حسب نوعها. |
+| override [NodeType](../../aspose.html.dom/element/nodetype) { get; } | رمز يمثل نوع الكائن الأساسي. |
+| virtual [NodeValue](../../aspose.html.dom/node/nodevalue) { get; set; } | قيمة هذه العقدة حسب نوعها. |
+| [OuterHTML](../../aspose.html.dom/element/outerhtml) { get; set; } | إرجاع جزء من HTML أو XML يمثل العنصر ومحتوياته. يمكن تعيينه لاستبدال العنصر بالعقد التي تم تحليلها من السلسلة المحددة. |
+| virtual [OwnerDocument](../../aspose.html.dom/node/ownerdocument) { get; } | كائن المستند المرتبط بهذه العقدة. هذا هو أيضًا كائن المستند المستخدم لإنشاء عقد جديدة. عندما تكون هذه العقدة عبارة عن مستند أو نوع مستند لم يتم استخدامه مع أي مستند حتى الآن ، يكون هذا فارغًا. |
+| [ParentElement](../../aspose.html.dom/node/parentelement) { get; } | يحصل على الوالد[`Element`](../../aspose.html.dom/element) من هذه العقدة. |
+| [ParentNode](../../aspose.html.dom/node/parentnode) { get; } | أصل هذه العقدة. قد يكون لجميع العقد ، باستثناء Attr و Document و DocumentFragment و Entity و Notation ، أصل. ومع ذلك ، إذا تم إنشاء عقدة للتو ولم تتم إضافتها بعد إلى الشجرة ، أو إذا تمت إزالتها من الشجرة ، فسيكون ذلك فارغًا. |
+| override [Prefix](../../aspose.html.dom/element/prefix) { get; } | بادئة مساحة الاسم لهذه العقدة ، أو فارغة إذا كانت غير محددة. عندما يتم تعريفه على أنه فارغ ، فإن الإعداد ليس له أي تأثير |
+| [PreviousElementSibling](../../aspose.html.dom/element/previouselementsibling) { get; } | إرجاع عقدة العنصر الشقيقة السابقة لهذا العنصر. خالية إذا كان هذا العنصر لا يحتوي على عقد شقيقة لعنصر تأتي قبل هذا في شجرة الوثيقة. |
+| [PreviousSibling](../../aspose.html.dom/node/previoussibling) { get; } | العقدة التي تسبق هذه العقدة مباشرة. إذا لم يكن هناك مثل هذه العقدة ، فإن هذا يعيد قيمة خالية. |
+| [ReadOnly](../../aspose.html/htmlinputelement/readonly) { get; set; } | عنصر التحكم هذا للقراءة فقط. ذات الصلة فقط عندما`يكتب` له قيمة "نص" أو "كلمة مرور". راجع تعريف السمة للقراءة فقط في HTML 4.01. |
+| [SchemaTypeInfo](../../aspose.html.dom/element/schematypeinfo) { get; } | نوع المعلومات المرتبطة بهذا العنصر. |
+| [ShadowRoot](../../aspose.html.dom/element/shadowroot) { get; } | تُرجع shadowRoot المخزنة في هذا العنصر أو تُرجع فارغة إذا كان مغلقًا. |
+| [Size](../../aspose.html/htmlinputelement/size) { get; set; } | معلومات الحجم. المعنى الدقيق خاص بكل نوع من أنواع الحقول . راجع تعريف سمة الحجم في HTML 4.01. @ الإصدار DOM المستوى 2 |
+| [Src](../../aspose.html/htmlinputelement/src) { get; set; } | عندما يكون ملف`يكتب`السمة لها قيمة "صورة" ، تحدد هذه السمة موقع الصورة المراد استخدامها لتزيين زر الإرسال الرسومي . راجع تعريف سمة src في HTML 4.01. |
+| [Style](../../aspose.html/htmlelement/style) { get; } | يمثل سمة نمط تسمح للمؤلف بتطبيق معلومات النمط مباشرة على عنصر معين. |
+| [TabIndex](../../aspose.html/htmlinputelement/tabindex) { get; set; } | الفهرس الذي يمثل موضع العنصر في ترتيب الجدولة. راجع تعريف السمة tabindex في HTML 4.01. |
+| [TagName](../../aspose.html.dom/element/tagname) { get; } | اسم العنصر . |
+| override [TextContent](../../aspose.html.dom/element/textcontent) { get; set; } | تقوم هذه السمة بإرجاع المحتوى النصي لهذه العقدة وتوابعها. عندما يتم تعريفه على أنه فارغ ، فإن تعيينه ليس له أي تأثير. عند الإعداد ، تتم إزالة أي أطفال محتملين قد تكون هذه العقدة لديهم ، وإذا لم تكن السلسلة الجديدة فارغة أو فارغة ، يتم استبدالها بعقدة نصية واحدة تحتوي على السلسلة التي تم تعيين هذه السمة عليها. |
+| [Title](../../aspose.html/htmlelement/title) { get; set; } | العنوان الاستشاري للعنصر. راجع تعريف سمة العنوان في HTML 4.01. |
+| [Type](../../aspose.html/htmlinputelement/type) { get; set; } | نوع عنصر التحكم الذي تم إنشاؤه (كل الأحرف الصغيرة). راجع تعريف سمة النوع في HTML 4.01. @ الإصدار DOM المستوى 2 |
+| [UseMap](../../aspose.html/htmlinputelement/usemap) { get; set; } | استخدم مخطط الصورة من جانب العميل. راجع تعريف سمة خريطة المستخدم في HTML 4.01. |
+| [Value](../../aspose.html/htmlinputelement/value) { get; set; } | عندما يكون ملف`يكتب` سمة العنصر لها القيمة "نص" أو "ملف" أو "كلمة مرور" ، وهذا يمثل المحتويات الحالية لـ عنصر تحكم النموذج المقابل ، في وكيل مستخدم تفاعلي. يؤدي تغيير هذه السمة إلى تغيير محتويات عنصر تحكم النموذج ، ولكن لا يغير قيمة سمة قيمة HTML للعنصر. عندما يكون ملف`يكتب`سمة العنصر لها القيمة "زر" أو "مخفي" أو "إرسال" أو "إعادة تعيين" أو "صورة" أو "مربع اختيار" أو "راديو" ، وهذا يمثل سمة قيمة HTML للعنصر. راجع تعريف سمة القيمة في HTML 4.01. |
+
+## طُرق
+
+| اسم | وصف |
+| --- | --- |
+| [AddEventListener](../../aspose.html.dom/eventtarget/addeventlistener)(string, IEventListener) | تسمح هذه الطريقة بتسجيل مستمعي الحدث على هدف الحدث. |
+| [AddEventListener](../../aspose.html.dom/eventtarget/addeventlistener)(string, DOMEventHandler, bool) | تسمح هذه الطريقة بتسجيل مستمعي الحدث على هدف الحدث. |
+| [AddEventListener](../../aspose.html.dom/eventtarget/addeventlistener)(string, IEventListener, bool) | تسمح هذه الطريقة بتسجيل مستمعي الحدث على هدف الحدث. |
+| [AppendChild](../../aspose.html.dom/node/appendchild)(Node) | يضيف العقدة newChild إلى نهاية قائمة العناصر الفرعية لهذه العقدة. إذا كان الطفل الجديد موجودًا بالفعل في الشجرة ، فسيتم إزالته أولاً. |
+| [AttachShadow](../../aspose.html.dom/element/attachshadow)(ShadowRootMode) | إنشاء جذر الظل وإرفاقه بالعنصر الحالي. |
+| [CloneNode](../../aspose.html.dom/node/clonenode)() | إرجاع نسخة مكررة من هذه العقدة ، على سبيل المثال ، بمثابة مُنشئ نسخة عام للعقد. لا تحتوي العقدة المكررة على أصل (العقدة الأم خالية) ولا توجد بيانات مستخدم. |
+| [CloneNode](../../aspose.html.dom/node/clonenode)(bool) | إرجاع نسخة مكررة من هذه العقدة ، على سبيل المثال ، بمثابة مُنشئ نسخة عام للعقد. لا تحتوي العقدة المكررة على أصل (العقدة الأم خالية) ولا توجد بيانات مستخدم. |
+| [DispatchEvent](../../aspose.html.dom/eventtarget/dispatchevent)(Event) | تسمح هذه الطريقة بإرسال الأحداث إلى نموذج حدث عمليات التنفيذ. |
+| [Dispose](../../aspose.html.dom/eventtarget/dispose)() | تنفيذ مهام محددة بواسطة التطبيق مرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
+| [GetAttribute](../../aspose.html.dom/element/getattribute)(string) | استرداد قيمة سمة بالاسم. |
+| [GetAttributeNode](../../aspose.html.dom/element/getattributenode)(string) | استرداد عقدة سمة بالاسم. |
+| [GetAttributeNodeNS](../../aspose.html.dom/element/getattributenodens)(string, string) | استرداد عقدة Attr بالاسم المحلي ومساحة URI. |
+| [GetAttributeNS](../../aspose.html.dom/element/getattributens)(string, string) | استرداد قيمة سمة حسب الاسم المحلي ومساحة URI. |
+| [GetElementsByClassName](../../aspose.html.dom/element/getelementsbyclassname)(string) | إرجاع كائن NodeList مباشر يحتوي على جميع العناصر في المستند التي تحتوي على جميع الفئات المحددة في الوسيطة . http://www.w3.org/TR/dom/ |
+| [GetElementsByTagName](../../aspose.html.dom/element/getelementsbytagname)(string) | إرجاع NodeList لجميع العناصر التابعة مع اسم علامة معين ، بترتيب المستند. |
+| [GetElementsByTagNameNS](../../aspose.html.dom/element/getelementsbytagnamens)(string, string) | إرجاع NodeList لجميع العناصر التابعة مع اسم محلي محدد ومساحة URI بترتيب المستند. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
+| [HasAttribute](../../aspose.html.dom/element/hasattribute)(string) | إرجاع صحيح عندما يتم تحديد سمة تحمل اسمًا معينًا في هذا العنصر أو عندما تكون لها قيمة افتراضية ، أو خطأ بخلاف ذلك. |
+| [HasAttributeNS](../../aspose.html.dom/element/hasattributens)(string, string) | إرجاع صحيح عندما يتم تحديد سمة ذات اسم محلي ومساحة اسم URI على هذا العنصر أو لها قيمة افتراضية ، خطأ بخلاف ذلك. |
+| override [HasAttributes](../../aspose.html.dom/element/hasattributes)() | إرجاع ما إذا كانت هذه العقدة (إذا كانت عنصرًا) لها أي سمات |
+| [HasChildNodes](../../aspose.html.dom/node/haschildnodes)() | إرجاع ما إذا كان لهذه العقدة أي توابع. |
+| [InsertBefore](../../aspose.html.dom/node/insertbefore)(Node, Node) | يقوم بإدراج العقدة قبل تابع العقدة الفرعية الموجودة. إذا كان التابع فارغًا ، أدخل العقدة في نهاية قائمة العناصر الفرعية . إذا كان الكائن الفرعي عبارة عن كائن DocumentFragment ، فسيتم إدراج جميع توابعه ، بالترتيب نفسه ، قبل التابع. إذا كان الطفل موجودًا بالفعل في الشجرة ، فسيتم إزالته أولاً. |
+| [IsDefaultNamespace](../../aspose.html.dom/node/isdefaultnamespace)(string) | يتحقق هذا الأسلوب مما إذا كانت مساحة الاسم المحددة هي مساحة الاسم الافتراضية أم لا. |
+| [IsEqualNode](../../aspose.html.dom/node/isequalnode)(Node) | اختبار ما إذا كانت العقدتان متساويتان. تختبر هذه الطريقة المساواة بين العقد ، وليس التماثل (أي ما إذا كانت العقدتان مرجعيتان لنفس الكائن) والتي يمكن اختبارها باستخدام Node.isSameNode (). جميع العقد التي هي نفسها ستكون متساوية أيضًا ، على الرغم من أن العكس قد لا يكون صحيحًا. |
+| [IsSameNode](../../aspose.html.dom/node/issamenode)(Node) | إرجاع ما إذا كانت هذه العقدة هي نفس العقدة المحددة. توفر هذه الطريقة طريقة لتحديد ما إذا كان مرجعان للعقدة يتم إرجاعهما بواسطة مرجع التطبيق نفس الكائن. عندما يكون مراجعان للعقدة مراجع لنفس الكائن ، حتى لو كان ذلك من خلال وكيل ، يمكن استخدام المراجع بشكل تبادلي تمامًا ، بحيث يكون لجميع السمات نفس القيم واستدعاء نفس طريقة DOM على أي مرجع له نفس التأثير دائمًا. |
+| [LookupNamespaceURI](../../aspose.html.dom/node/lookupnamespaceuri)(string) | ابحث عن مساحة الاسم URI المرتبطة بالبادئة المحددة ، بدءًا من هذه العقدة. |
+| [LookupPrefix](../../aspose.html.dom/node/lookupprefix)(string) | ابحث عن البادئة المرتبطة بمساحة الاسم المحددة URI ، بدءًا من هذه العقدة. يتم تجاهل تعريفات مساحة الاسم الافتراضية بهذه الطريقة. راجع بحث بادئة مساحة الاسم للحصول على تفاصيل حول الخوارزمية المستخدمة بواسطة هذه الطريقة. |
+| [Normalize](../../aspose.html.dom/node/normalize)() | وضع جميع العقد النصية في العمق الكامل للشجرة الفرعية أسفل هذه العقدة ، بما في ذلك عقد السمات ، في نموذج "عادي" حيث تفصل البنية فقط (على سبيل المثال ، العناصر والتعليقات وإرشادات المعالجة وأقسام CDATA ومراجع الكيانات) النص العقد ، أي لا توجد عقد نصية متجاورة ولا عقد نصية فارغة. يمكن استخدام هذا للتأكد من أن عرض DOM للمستند هو نفسه كما لو تم حفظه وإعادة تحميله ، ويكون مفيدًا عندما تكون العمليات (مثل عمليات بحث XPointer [XPointer]) التي تعتمد على بنية شجرة وثيقة معينة يستخدم. إذا كانت المعلمة "تطبيع الأحرف" لكائن DOMConfiguration المرفقة بـ Node.ownerDocument صحيحة ، فإن هذه الطريقة ستعمل أيضًا على تسوية أحرف العقد النصية بشكل كامل. |
+| [QuerySelector](../../aspose.html.dom/element/queryselector)(string) | إرجاع العنصر الأول في المستند الذي يتطابق مع selector |
+| [QuerySelectorAll](../../aspose.html.dom/element/queryselectorall)(string) | إرجاع قائمة NodeList لجميع العناصر الموجودة في المستند ، والتي تطابق selector |
+| [Remove](../../aspose.html.dom/element/remove)() | يزيل هذا المثال. |
+| [RemoveAttribute](../../aspose.html.dom/element/removeattribute)(string) | يزيل سمة بالاسم . |
+| [RemoveAttributeNode](../../aspose.html.dom/element/removeattributenode)(Attr) | يزيل عقدة السمة المحددة. |
+| [RemoveAttributeNS](../../aspose.html.dom/element/removeattributens)(string, string) | يزيل سمة حسب الاسم المحلي ومساحة URI. |
+| [RemoveChild](../../aspose.html.dom/node/removechild)(Node) | يزيل العقدة الفرعية التي أشار إليها oldChild من قائمة الأطفال ، ويعيدها . |
+| [RemoveEventListener](../../aspose.html.dom/eventtarget/removeeventlistener)(string, IEventListener) | تسمح هذه الطريقة بإزالة مستمعي الحدث من هدف الحدث. إذا كان[`IEventListener`](../../aspose.html.dom.events/ieventlistener) تمت إزالته من ملف[`EventTarget`](../../aspose.html.dom/eventtarget) أثناء معالجة حدث ، لن يتم تشغيله من خلال الإجراءات الحالية. لا يمكن استدعاء مستمعي الأحداث بعد إزالتها. |
+| [RemoveEventListener](../../aspose.html.dom/eventtarget/removeeventlistener)(string, DOMEventHandler, bool) | تسمح هذه الطريقة بإزالة مستمعي الحدث من هدف الحدث. إذا كان[`IEventListener`](../../aspose.html.dom.events/ieventlistener) تمت إزالته من ملف[`EventTarget`](../../aspose.html.dom/eventtarget) أثناء معالجة حدث ، لن يتم تشغيله من خلال الإجراءات الحالية. لا يمكن استدعاء مستمعي الأحداث بعد إزالتها. |
+| [RemoveEventListener](../../aspose.html.dom/eventtarget/removeeventlistener)(string, IEventListener, bool) | تسمح هذه الطريقة بإزالة مستمعي الحدث من هدف الحدث. إذا كان[`IEventListener`](../../aspose.html.dom.events/ieventlistener) تمت إزالته من ملف[`EventTarget`](../../aspose.html.dom/eventtarget) أثناء معالجة حدث ، لن يتم تشغيله من خلال الإجراءات الحالية. لا يمكن استدعاء مستمعي الأحداث بعد إزالتها. |
+| [ReplaceChild](../../aspose.html.dom/node/replacechild)(Node, Node) | يستبدل العقدة الفرعية oldChild بـ newChild في قائمة الأطفال ، ويعيد العقدة oldChild. إذا كان newChild هو كائن DocumentFragment ، فسيتم استبدال oldChild بكافة العناصر الفرعية DocumentFragment ، والتي يتم إدراجها بنفس الترتيب. إذا كان الطفل الجديد موجودًا بالفعل في الشجرة ، فسيتم إزالته أولاً. |
+| [SetAttribute](../../aspose.html.dom/element/setattribute)(string, string) | إضافة سمة جديدة. إذا كانت السمة التي تحمل هذا الاسم موجودة بالفعل في العنصر ، فسيتم تغيير قيمتها لتصبح قيمة معلمة القيمة |
+| [SetAttributeNode](../../aspose.html.dom/element/setattributenode)(Attr) | إضافة عقدة سمة جديدة. إذا كانت هناك سمة بهذا الاسم (nodeName) موجودة بالفعل في العنصر ، فسيتم استبدالها بالسمة الجديدة. |
+| [SetAttributeNodeNS](../../aspose.html.dom/element/setattributenodens)(Attr) | إضافة سمة جديدة. إذا كانت هناك سمة بهذا الاسم المحلي ومساحة URI موجودة بالفعل في العنصر ، فسيتم استبدالها بالسمة الجديدة. |
+| [SetAttributeNS](../../aspose.html.dom/element/setattributens)(string, string, string) | إضافة سمة جديدة. إذا كانت سمة تحمل نفس الاسم المحلي ومساحة URI موجودة بالفعل على العنصر ، فسيتم تغيير بادئتها لتكون جزء البادئة من الاسم المؤهل ، ويتم تغيير قيمتها لتكون معلمة القيمة. |
+| [SetIdAttribute](../../aspose.html.dom/element/setidattribute)(string, bool) | إذا كانت المعلمة isId صحيحة ، فإن هذه الطريقة تعلن أن السمة المحددة هي سمة معرف يحددها المستخدم. |
+| [SetIdAttributeNode](../../aspose.html.dom/element/setidattributenode)(Attr, bool) | إذا كانت المعلمة isId صحيحة ، فإن هذه الطريقة تعلن أن السمة المحددة هي سمة معرف يحددها المستخدم. |
+| [SetIdAttributeNS](../../aspose.html.dom/element/setidattributens)(string, string, bool) | إذا كانت المعلمة isId صحيحة ، فإن هذه الطريقة تعلن أن السمة المحددة هي سمة معرف يحددها المستخدم. |
+| override [ToString](../../aspose.html.dom/node/tostring)() | إرجاع أString الذي يمثل هذا المثال. |
+
+### أنظر أيضا
+
+* class [HTMLElement](../htmlelement)
+* مساحة الاسم [Aspose.Html](../../aspose.html)
+* المجسم [Aspose.HTML](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
