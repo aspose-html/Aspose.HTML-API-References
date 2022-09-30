@@ -1,0 +1,57 @@
+---
+title: SVGTransform
+second_title: Aspose.HTML لمرجع .NET API
+description: SVGTransform هي واجهة لأحد تحويلات المكون ضمن قائمة SVGTransformList  وبالتالي  فإن كائن SVGTransform يتوافق مع مكون واحد على سبيل المثال  مقياس ... أو مصفوفة ... ضمن مواصفات سمة تحويل.
+type: docs
+weight: 1310
+url: /ar/net/aspose.html.dom.svg.datatypes/svgtransform/
+---
+## SVGTransform class
+
+SVGTransform هي واجهة لأحد تحويلات المكون ضمن قائمة SVGTransformList ؛ وبالتالي ، فإن كائن SVGTransform يتوافق مع مكون واحد (على سبيل المثال ، "مقياس (...)" أو "مصفوفة (...)") ضمن مواصفات سمة "تحويل".
+
+```csharp
+public class SVGTransform : SVGValueType
+```
+
+## الخصائص
+
+| اسم | وصف |
+| --- | --- |
+| [Angle](../../aspose.html.dom.svg.datatypes/svgtransform/angle) { get; } | خاصية مميزة ملائمة لـ SVG_TRANSFORM_ROTATE و SVG_TRANSFORM_SKEWX و SVG_TRANSFORM_SKEWY. إنها تحمل الزاوية التي تم تحديدها. بالنسبة إلى SVG_TRANSFORM_MATRIX و SVG_TRANSFORM_TRANSLATE و SVG_TRANSFORM_SCALE ، ستكون الزاوية صفرًا. |
+| [Matrix](../../aspose.html.dom.svg.datatypes/svgtransform/matrix) { get; } | المصفوفة التي تمثل هذا التحول. كائن المصفوفة مباشر ، مما يعني أن أي تغييرات يتم إجراؤها على كائن SVGTransform تنعكس على الفور في كائن المصفوفة والعكس صحيح. في حالة تغيير كائن المصفوفة مباشرةً (أي بدون استخدام الطرق الموجودة على واجهة SVGTransform نفسها) ، فإن نوع SVGTransform يتغير إلى SVG_TRANSFORM_MATRIX. بالنسبة إلى SVG_TRANSFORM_MATRIX ، تحتوي المصفوفة على a ، b ، c ، d ، e ، f القيم التي يوفرها المستخدم . بالنسبة إلى SVG_TRANSFORM_TRANSLATE ، تمثل e و f مقادير الترجمة (a = 1 ، b = 0 ، c = 0 و d = 1) . بالنسبة إلى SVG_TRANSFORM_SCALE ، تمثل a و d مقادير الحجم (b = 0 ، c = 0، e = 0 and f = 0) . بالنسبة إلى SVG_TRANSFORM_SKEWX و SVG_TRANSFORM_SKEWY ، تمثل a و b و c و d المصفوفة التي ستؤدي إلى الانحراف المحدد (e = 0 و f = 0) . بالنسبة إلى SVG_TRANSFORM_ROTATE تمثل a و b و c و d و e و f معًا المصفوفة التي ستؤدي إلى الدوران المعطى. عندما يكون الدوران حول نقطة المركز (0 ، 0) ، سيكون e و f صفرًا. |
+| [Type](../../aspose.html.dom.svg.datatypes/svgtransform/type) { get; } | نوع القيمة كما هو محدد بواسطة أحد ثوابت SVG_TRANSFORM_ * المحددة في هذه الواجهة. |
+
+## طُرق
+
+| اسم | وصف |
+| --- | --- |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | الإصدارات غير المُدارة و- اختياريًا- الموارد المُدارة. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
+| [SetMatrix](../../aspose.html.dom.svg.datatypes/svgtransform/setmatrix)(SVGMatrix) | يضبط نوع التحويل إلى SVG_TRANSFORM_MATRIX ، مع مصفوفة المعلمة التي تحدد التحويل الجديد. يتم نسخ القيم من مصفوفة المعلمة ، ولا تحل معلمة المصفوفة محل SVGTransform :: matrix. |
+| [SetRotate](../../aspose.html.dom.svg.datatypes/svgtransform/setrotate)(float, float, float) | يضبط نوع التحويل على SVG_TRANSFORM_ROTATE ، مع زاوية المعلمة التي تحدد زاوية الدوران والمعلمات cx و cy تحدد مركز الدوران الاختياري. |
+| [SetScale](../../aspose.html.dom.svg.datatypes/svgtransform/setscale)(float, float) | يضبط نوع التحويل على SVG_TRANSFORM_SCALE ، مع المعلمات sx و sy التي تحدد كميات المقياس. |
+| [SetSkewX](../../aspose.html.dom.svg.datatypes/svgtransform/setskewx)(float) | يضبط نوع التحويل إلى SVG_TRANSFORM_SKEWX ، بزاوية معامل تحدد مقدار الانحراف. |
+| [SetSkewY](../../aspose.html.dom.svg.datatypes/svgtransform/setskewy)(float) | يضبط نوع التحويل إلى SVG_TRANSFORM_SKEWY ، مع زاوية المعلمة التي تحدد مقدار الانحراف. |
+| [SetTranslate](../../aspose.html.dom.svg.datatypes/svgtransform/settranslate)(float, float) | يضبط نوع التحويل على SVG_TRANSFORM_TRANSLATE ، مع المعلمات tx و ty التي تحدد مقدار الترجمة. |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svgtransform/tostring)() | إرجاع أString الذي يمثل هذا المثال. |
+
+## مجالات
+
+| اسم | وصف |
+| --- | --- |
+| const [SVG_TRANSFORM_MATRIX](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_matrix) | تحويل "مصفوفة (...)" . |
+| const [SVG_TRANSFORM_ROTATE](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_rotate) | تحويل "تدوير (...)" . |
+| const [SVG_TRANSFORM_SCALE](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_scale) | تحول "مقياس (...)" . |
+| const [SVG_TRANSFORM_SKEWX](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_skewx) | تحول "skewX (...)" . |
+| const [SVG_TRANSFORM_SKEWY](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_skewy) | تحول "انحراف (...)" . |
+| const [SVG_TRANSFORM_TRANSLATE](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_translate) | تحويل "ترجمة (...)" . |
+| const [SVG_TRANSFORM_UNKNOWN](../../aspose.html.dom.svg.datatypes/svgtransform/svg_transform_unknown) | نوع الوحدة ليس من الأنواع المحددة مسبقًا. من غير الصحيح محاولة تحديد قيمة جديدة من هذا النوع أو محاولة تبديل قيمة موجودة إلى هذا النوع. |
+
+### أنظر أيضا
+
+* class [SVGValueType](../svgvaluetype)
+* مساحة الاسم [Aspose.Html.Dom.Svg.DataTypes](../../aspose.html.dom.svg.datatypes)
+* المجسم [Aspose.HTML](../../)
+
+<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
