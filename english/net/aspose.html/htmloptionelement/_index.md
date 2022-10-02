@@ -3,7 +3,7 @@ title: HTMLOptionElement
 second_title: Aspose.HTML for .NET API Reference
 description: A selectable choice. See the OPTION element definition in HTML 4.01.
 type: docs
-weight: 3450
+weight: 3460
 url: /net/aspose.html/htmloptionelement/
 ---
 ## HTMLOptionElement class

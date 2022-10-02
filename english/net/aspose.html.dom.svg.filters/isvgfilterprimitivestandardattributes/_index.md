@@ -3,7 +3,7 @@ title: ISVGFilterPrimitiveStandardAttributes
 second_title: Aspose.HTML for .NET API Reference
 description: This interface defines the set of DOM attributes that are common across the filter primitive interfaces.
 type: docs
-weight: 1360
+weight: 1350
 url: /net/aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/
 ---
 ## ISVGFilterPrimitiveStandardAttributes interface

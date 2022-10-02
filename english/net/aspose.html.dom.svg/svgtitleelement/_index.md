@@ -3,7 +3,7 @@ title: SVGTitleElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGTitleElement interface corresponds to the title element.
 type: docs
-weight: 2390
+weight: 2380
 url: /net/aspose.html.dom.svg/svgtitleelement/
 ---
 ## SVGTitleElement class

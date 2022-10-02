@@ -12,7 +12,6 @@ The **Aspose.Html.Converters** namespace goal is easy access to conversion metho
 
 | Class | Description |
 | --- | --- |
-| [ColorConverter](./colorconverter) | The ColorConverter class parses colors (RGB, HEX, HSL, HWB, CMYK, NCOL, LCH, OKLCH, LAB, OKLAB) from a string and returns the [`IConvertibleColor`](../aspose.html.drawing/iconvertiblecolor) interface for converting to various color spaces. |
 | [Converter](./converter) | Shared facade only for most often conversion scenarios. It provides a wide range of conversions to the popular formats, such as PDF, XPS, image formats, etc. More specific conversion (rendering, saving) user cases are presented by well known and documented low level API functions. |
 | [TemplateContentOptions](./templatecontentoptions) | Inline content object for merging processing. |
 | [TemplateData](./templatedata) | Merging (User) data object. |

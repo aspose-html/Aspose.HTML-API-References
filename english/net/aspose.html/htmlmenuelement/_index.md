@@ -3,7 +3,7 @@ title: HTMLMenuElement
 second_title: Aspose.HTML for .NET API Reference
 description: Menu list. See the MENU element definition in HTML 4.01. This element is deprecated in HTML 4.01.
 type: docs
-weight: 3380
+weight: 3390
 url: /net/aspose.html/htmlmenuelement/
 ---
 ## HTMLMenuElement class

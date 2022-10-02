@@ -3,7 +3,7 @@ title: DocDevice.DocGraphicContext
 second_title: Aspose.HTML for .NET API Reference
 description: Holds current graphics control parameters for the DocDevice. These parameters define the global framework within which the graphics operators execute.
 type: docs
-weight: 4170
+weight: 4180
 url: /net/aspose.html.rendering.doc/docdevice.docgraphiccontext/
 ---
 ## DocDevice.DocGraphicContext class

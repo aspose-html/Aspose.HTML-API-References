@@ -3,7 +3,7 @@ title: MutationObserver
 second_title: Aspose.HTML for .NET API Reference
 description: A object can be used to observe mutations to the tree of .../aspose.html.dom/node
 type: docs
-weight: 980
+weight: 970
 url: /net/aspose.html.dom.mutations/mutationobserver/
 ---
 ## MutationObserver class

@@ -3,7 +3,7 @@ title: HTMLLabelElement
 second_title: Aspose.HTML for .NET API Reference
 description: Form field label text. See the LABEL element definition in HTML 4.01.
 type: docs
-weight: 3340
+weight: 3350
 url: /net/aspose.html/htmllabelelement/
 ---
 ## HTMLLabelElement class

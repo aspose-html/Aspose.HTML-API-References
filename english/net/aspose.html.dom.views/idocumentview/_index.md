@@ -3,7 +3,7 @@ title: IDocumentView
 second_title: Aspose.HTML for .NET API Reference
 description: The DocumentView interface is implemented by Document objects in DOM implementations supporting DOM Views. It provides an attribute to retrieve the default view of a document.
 type: docs
-weight: 2560
+weight: 2550
 url: /net/aspose.html.dom.views/idocumentview/
 ---
 ## IDocumentView interface

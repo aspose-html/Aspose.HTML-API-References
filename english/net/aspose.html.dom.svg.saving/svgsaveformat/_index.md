@@ -3,7 +3,7 @@ title: SVGSaveFormat
 second_title: Aspose.HTML for .NET API Reference
 description: Specifies format in which document is saved.
 type: docs
-weight: 2440
+weight: 2430
 url: /net/aspose.html.dom.svg.saving/svgsaveformat/
 ---
 ## SVGSaveFormat enumeration

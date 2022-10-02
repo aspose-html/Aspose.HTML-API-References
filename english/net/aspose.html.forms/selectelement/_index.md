@@ -3,7 +3,7 @@ title: SelectElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SelectElement represents a wrapper that is associated with the HTMLSelectElement
 type: docs
-weight: 3010
+weight: 3020
 url: /net/aspose.html.forms/selectelement/
 ---
 ## SelectElement class

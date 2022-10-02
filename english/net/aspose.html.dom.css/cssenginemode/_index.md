@@ -3,7 +3,7 @@ title: CSSEngineMode
 second_title: Aspose.HTML for .NET API Reference
 description: Specifies CSSEngine mode. Values have the following meaning
 type: docs
-weight: 330
+weight: 320
 url: /net/aspose.html.dom.css/cssenginemode/
 ---
 ## CSSEngineMode enumeration

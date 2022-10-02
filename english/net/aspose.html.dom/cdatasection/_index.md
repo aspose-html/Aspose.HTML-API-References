@@ -3,7 +3,7 @@ title: CDATASection
 second_title: Aspose.HTML for .NET API Reference
 description: CDATA sections are used to escape blocks of text containing characters that would otherwise be regarded as markup.
 type: docs
-weight: 210
+weight: 200
 url: /net/aspose.html.dom/cdatasection/
 ---
 ## CDATASection class

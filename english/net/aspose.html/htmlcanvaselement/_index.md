@@ -3,7 +3,7 @@ title: HTMLCanvasElement
 second_title: Aspose.HTML for .NET API Reference
 description: The HTMLCanvasElement interface provides properties and methods for manipulating the layout and presentation of canvas elements. The HTMLCanvasElement interface also inherits the properties and methods of the HTMLElement interface.
 type: docs
-weight: 3130
+weight: 3140
 url: /net/aspose.html/htmlcanvaselement/
 ---
 ## HTMLCanvasElement class

@@ -3,7 +3,7 @@ title: SVGAnimateElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGAnimateElement interface corresponds to the animate element. Object-oriented access to the attributes of the animate element via the SVG DOM is not available.
 type: docs
-weight: 1920
+weight: 1910
 url: /net/aspose.html.dom.svg/svganimateelement/
 ---
 ## SVGAnimateElement class

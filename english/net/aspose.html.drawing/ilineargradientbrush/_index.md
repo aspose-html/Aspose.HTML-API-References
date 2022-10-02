@@ -3,7 +3,7 @@ title: ILinearGradientBrush
 second_title: Aspose.HTML for .NET API Reference
 description: Defines brush interface with a linear gradient.
 type: docs
-weight: 2710
+weight: 2720
 url: /net/aspose.html.drawing/ilineargradientbrush/
 ---
 ## ILinearGradientBrush interface

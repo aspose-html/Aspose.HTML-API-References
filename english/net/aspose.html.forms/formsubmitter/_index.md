@@ -3,7 +3,7 @@ title: FormSubmitter
 second_title: Aspose.HTML for .NET API Reference
 description: This class allows to prepare specified HTMLFormElement../aspose.html/htmlformelement collects values from the form element submit them to the remote server and receives a response.
 type: docs
-weight: 2960
+weight: 2970
 url: /net/aspose.html.forms/formsubmitter/
 ---
 ## FormSubmitter class

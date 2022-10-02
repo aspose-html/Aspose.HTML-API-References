@@ -3,7 +3,7 @@ title: IStyleSheetList
 second_title: Aspose.HTML for .NET API Reference
 description: The StyleSheetList interface represents a list of CSSStyleSheet./icssstylesheet objects. An instance of this object can be returned by Document.styleSheets../aspose.html.dom/document/stylesheets.
 type: docs
-weight: 610
+weight: 600
 url: /net/aspose.html.dom.css/istylesheetlist/
 ---
 ## IStyleSheetList interface

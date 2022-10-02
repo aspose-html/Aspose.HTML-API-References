@@ -3,7 +3,7 @@ title: ImageType
 second_title: Aspose.HTML for .NET API Reference
 description: Specifies the file format of the image
 type: docs
-weight: 4340
+weight: 4350
 url: /net/aspose.html.rendering/imagetype/
 ---
 ## ImageType enumeration

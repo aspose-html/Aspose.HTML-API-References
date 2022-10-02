@@ -3,7 +3,7 @@ title: HTMLAreaElement
 second_title: Aspose.HTML for .NET API Reference
 description: Client-side image map area definition. See the AREA element definition in HTML 4.01.
 type: docs
-weight: 3070
+weight: 3080
 url: /net/aspose.html/htmlareaelement/
 ---
 ## HTMLAreaElement class

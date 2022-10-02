@@ -3,7 +3,7 @@ title: Time
 second_title: Aspose.HTML for .NET API Reference
 description: Represents a time unit.
 type: docs
-weight: 2830
+weight: 2840
 url: /net/aspose.html.drawing/time/
 ---
 ## Time class

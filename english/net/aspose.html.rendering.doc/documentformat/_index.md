@@ -3,7 +3,7 @@ title: DocumentFormat
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the file format of the output document.
 type: docs
-weight: 4190
+weight: 4200
 url: /net/aspose.html.rendering.doc/documentformat/
 ---
 ## DocumentFormat enumeration
