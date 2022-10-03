@@ -3,7 +3,7 @@ title: RendererTDocument
 second_title: Aspose.HTML for .NET API Reference
 description: Represents an abstract class for the all renderers.
 type: docs
-weight: 4470
+weight: 4480
 url: /net/aspose.html.rendering/renderer-1/
 ---
 ## Renderer&lt;TDocument&gt; class

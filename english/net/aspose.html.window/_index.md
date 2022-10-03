@@ -3,7 +3,7 @@ title: Aspose.Html.Window
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Window namespace is related for window object which represents a window containing a DOM document. It includes classes and interfaces related to active document address and browsing history.
 type: docs
-weight: 380
+weight: 430
 url: /net/aspose.html.window/
 ---
 The **Aspose.Html.Window** namespace is related for window object which represents a window containing a DOM document. It includes classes and interfaces related to active document address and browsing history.

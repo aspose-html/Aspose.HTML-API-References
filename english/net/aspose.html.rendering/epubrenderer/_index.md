@@ -3,7 +3,7 @@ title: EpubRenderer
 second_title: Aspose.HTML for .NET API Reference
 description: Represents a EPub document renderer.
 type: docs
-weight: 4210
+weight: 4220
 url: /net/aspose.html.rendering/epubrenderer/
 ---
 ## EpubRenderer class

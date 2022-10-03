@@ -3,7 +3,7 @@ title: TemplateContent
 second_title: Aspose.HTML for .NET API Reference
 description: Content type identifier.
 type: docs
-weight: 90
+weight: 80
 url: /net/aspose.html.converters/templatecontent/
 ---
 ## TemplateContent enumeration

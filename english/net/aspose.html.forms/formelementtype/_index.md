@@ -3,7 +3,7 @@ title: FormElementType
 second_title: Aspose.HTML for .NET API Reference
 description: Represents an enumeration of the Form Elements types and their corresponding to the HTML Elements
 type: docs
-weight: 2940
+weight: 2950
 url: /net/aspose.html.forms/formelementtype/
 ---
 ## FormElementType enumeration

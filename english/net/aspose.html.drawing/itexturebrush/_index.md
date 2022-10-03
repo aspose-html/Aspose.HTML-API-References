@@ -3,7 +3,7 @@ title: ITextureBrush
 second_title: Aspose.HTML for .NET API Reference
 description: Defines brush interface that uses an image to fill the interior of a shape.
 type: docs
-weight: 2730
+weight: 2740
 url: /net/aspose.html.drawing/itexturebrush/
 ---
 ## ITextureBrush interface

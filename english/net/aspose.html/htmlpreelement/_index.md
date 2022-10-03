@@ -3,7 +3,7 @@ title: HTMLPreElement
 second_title: Aspose.HTML for .NET API Reference
 description: Preformatted text. See the PRE element definition in HTML 4.01.
 type: docs
-weight: 3480
+weight: 3490
 url: /net/aspose.html/htmlpreelement/
 ---
 ## HTMLPreElement class

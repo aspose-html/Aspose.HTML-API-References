@@ -3,7 +3,7 @@ title: HTMLIFrameElement
 second_title: Aspose.HTML for .NET API Reference
 description: Inline subwindows. See the IFRAME element definition in HTML 4.01.
 type: docs
-weight: 3290
+weight: 3300
 url: /net/aspose.html/htmliframeelement/
 ---
 ## HTMLIFrameElement class

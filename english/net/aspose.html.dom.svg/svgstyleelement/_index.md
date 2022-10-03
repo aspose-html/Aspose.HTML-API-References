@@ -3,7 +3,7 @@ title: SVGStyleElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGStyleElement interface corresponds to the style element.
 type: docs
-weight: 2310
+weight: 2300
 url: /net/aspose.html.dom.svg/svgstyleelement/
 ---
 ## SVGStyleElement class

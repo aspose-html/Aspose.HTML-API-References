@@ -3,7 +3,7 @@ title: HTMLObjectElement
 second_title: Aspose.HTML for .NET API Reference
 description: Generic embedded object.In principle all properties on the object element are read-write but in some environments some properties may be read-only once the underlying object is instantiated. See the OBJECT element definition in HTML 4.01http//www.w3.org/TR/1999/REC-html401-19991224.
 type: docs
-weight: 3430
+weight: 3440
 url: /net/aspose.html/htmlobjectelement/
 ---
 ## HTMLObjectElement class

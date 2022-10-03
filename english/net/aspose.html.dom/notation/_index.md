@@ -3,7 +3,7 @@ title: Notation
 second_title: Aspose.HTML for .NET API Reference
 description: Represents a notation declared in the DTD.
 type: docs
-weight: 1020
+weight: 1010
 url: /net/aspose.html.dom/notation/
 ---
 ## Notation class

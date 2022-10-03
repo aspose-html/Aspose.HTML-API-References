@@ -3,7 +3,7 @@ title: HtmlRenderer
 second_title: Aspose.HTML for .NET API Reference
 description: Represents an HTML document renderer.
 type: docs
-weight: 4260
+weight: 4270
 url: /net/aspose.html.rendering/htmlrenderer/
 ---
 ## HtmlRenderer class

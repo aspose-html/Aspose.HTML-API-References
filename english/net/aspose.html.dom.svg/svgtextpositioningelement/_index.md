@@ -3,7 +3,7 @@ title: SVGTextPositioningElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGTextPositioningElement interface is inherited by text-related interfaces SVGTextElement SVGTSpanElement SVGTRefElement and SVGAltGlyphElement.
 type: docs
-weight: 2380
+weight: 2370
 url: /net/aspose.html.dom.svg/svgtextpositioningelement/
 ---
 ## SVGTextPositioningElement class

@@ -3,7 +3,7 @@ title: IWindowEventHandlers
 second_title: Aspose.HTML for .NET API Reference
 description: Represents interface that must be inherited by window object
 type: docs
-weight: 4840
+weight: 5820
 url: /net/aspose.html.window/iwindoweventhandlers/
 ---
 ## IWindowEventHandlers interface

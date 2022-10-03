@@ -3,7 +3,7 @@ title: SVGFESpecularLightingElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGFESpecularLightingElement interface corresponds to the feSpecularLighting element.
 type: docs
-weight: 1580
+weight: 1570
 url: /net/aspose.html.dom.svg.filters/svgfespecularlightingelement/
 ---
 ## SVGFESpecularLightingElement class

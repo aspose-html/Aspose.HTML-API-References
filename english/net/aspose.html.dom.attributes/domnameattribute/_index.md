@@ -3,7 +3,7 @@ title: DOMNameAttribute
 second_title: Aspose.HTML for .NET API Reference
 description: Specifies the official DOM object name as it defined by the W3C.
 type: docs
-weight: 150
+weight: 140
 url: /net/aspose.html.dom.attributes/domnameattribute/
 ---
 ## DOMNameAttribute class

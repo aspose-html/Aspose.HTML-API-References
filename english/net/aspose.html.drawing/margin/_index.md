@@ -3,7 +3,7 @@ title: Margin
 second_title: Aspose.HTML for .NET API Reference
 description: Represents page margin.
 type: docs
-weight: 2780
+weight: 2790
 url: /net/aspose.html.drawing/margin/
 ---
 ## Margin class

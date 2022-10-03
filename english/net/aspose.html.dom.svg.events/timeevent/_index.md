@@ -3,7 +3,7 @@ title: TimeEvent
 second_title: Aspose.HTML for .NET API Reference
 description: The TimeEvent interface provides specific contextual information associated with Time events.The different types of events that can occur are beginEvent endEvent and repeatEvent.
 type: docs
-weight: 1350
+weight: 1340
 url: /net/aspose.html.dom.svg.events/timeevent/
 ---
 ## TimeEvent class

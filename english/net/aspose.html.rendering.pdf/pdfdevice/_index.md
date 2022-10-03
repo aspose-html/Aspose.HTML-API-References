@@ -3,7 +3,7 @@ title: PdfDevice
 second_title: Aspose.HTML for .NET API Reference
 description: Represents rendering to a pdf document.
 type: docs
-weight: 4420
+weight: 4430
 url: /net/aspose.html.rendering.pdf/pdfdevice/
 ---
 ## PdfDevice class

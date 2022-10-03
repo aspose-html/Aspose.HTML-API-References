@@ -3,7 +3,7 @@ title: ICSSValueList
 second_title: Aspose.HTML for .NET API Reference
 description: The CSSValueList interface derives from the CSSValue./cssvalue interface and provides the abstraction of an ordered collection of CSS values.
 type: docs
-weight: 540
+weight: 530
 url: /net/aspose.html.dom.css/icssvaluelist/
 ---
 ## ICSSValueList interface

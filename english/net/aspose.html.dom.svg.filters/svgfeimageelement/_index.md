@@ -3,7 +3,7 @@ title: SVGFEImageElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGFEImageElement interface corresponds to the feImage element.
 type: docs
-weight: 1520
+weight: 1510
 url: /net/aspose.html.dom.svg.filters/svgfeimageelement/
 ---
 ## SVGFEImageElement class

@@ -3,7 +3,7 @@ title: SVGFESpotLightElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGFESpotLightElement interface corresponds to the feSpotLight element.
 type: docs
-weight: 1590
+weight: 1580
 url: /net/aspose.html.dom.svg.filters/svgfespotlightelement/
 ---
 ## SVGFESpotLightElement class

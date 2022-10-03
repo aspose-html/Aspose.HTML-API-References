@@ -3,7 +3,7 @@ title: InputElement
 second_title: Aspose.HTML for .NET API Reference
 description: The InputElement represents a wrapper that is associated with the HTMLInputElement.
 type: docs
-weight: 2970
+weight: 2980
 url: /net/aspose.html.forms/inputelement/
 ---
 ## InputElement class

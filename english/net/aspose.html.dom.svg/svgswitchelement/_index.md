@@ -3,7 +3,7 @@ title: SVGSwitchElement
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGSwitchElement interface corresponds to the switch element.
 type: docs
-weight: 2320
+weight: 2310
 url: /net/aspose.html.dom.svg/svgswitchelement/
 ---
 ## SVGSwitchElement class

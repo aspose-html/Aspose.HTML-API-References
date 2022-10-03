@@ -3,7 +3,7 @@ title: SVGPathSegArcAbs
 second_title: Aspose.HTML for .NET API Reference
 description: The SVGPathSegArcAbs interface corresponds to an absolute arcto A path data command.
 type: docs
-weight: 1710
+weight: 1700
 url: /net/aspose.html.dom.svg.paths/svgpathsegarcabs/
 ---
 ## SVGPathSegArcAbs class

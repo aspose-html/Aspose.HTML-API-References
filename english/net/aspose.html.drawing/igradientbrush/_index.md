@@ -3,7 +3,7 @@ title: IGradientBrush
 second_title: Aspose.HTML for .NET API Reference
 description: Declare methods for getting common properties of gradient brushes.
 type: docs
-weight: 2690
+weight: 2700
 url: /net/aspose.html.drawing/igradientbrush/
 ---
 ## IGradientBrush interface

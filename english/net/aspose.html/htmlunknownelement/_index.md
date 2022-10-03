@@ -3,7 +3,7 @@ title: HTMLUnknownElement
 second_title: Aspose.HTML for .NET API Reference
 description: The Unknown html element.
 type: docs
-weight: 3630
+weight: 3640
 url: /net/aspose.html/htmlunknownelement/
 ---
 ## HTMLUnknownElement class
