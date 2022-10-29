@@ -1,7 +1,7 @@
 ---
 title: ConvertMHTML
 second_title: Aspose.HTML for .NET API Reference
-description: Convert MHTML source presented by input streamhttps//docs.microsoft.com/en-us/dotnet/api/system.io.streamviewnet-5.0. Result is xps file formed by output file path.
+description: Convert MHTML source presented by input streamhttps//docs.microsoft.com/enus/dotnet/api/system.io.streamviewnet5.0. Result is xps file formed by output file path.
 type: docs
 weight: 40
 url: /net/aspose.html.converters/converter/convertmhtml/
@@ -17,7 +17,7 @@ public static void ConvertMHTML(Stream stream, XpsSaveOptions options, string ou
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input mhtml (.mht) data stream. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
 | outputPath | String | Full xps file path as output conversion result. |
 
 ### Remarks
@@ -26,13 +26,13 @@ MHTML Converter
 
 MHTML to [XPS](https://docs.fileformat.com/page-description-language/xps/) conversion is often required to take advantage of XPS format for specific tasks. An XPS file represents page layout files that are based on XML Paper Specifications, created by Microsoft.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../../converter) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to XPS
 
 Converter class offers few MHTML specific conversions to XPS. To convert MHTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to XPS Converter](https://products.aspose.app/html/en/conversion/mhtml-to-xps) that converts MHTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -66,9 +66,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -84,7 +84,7 @@ public static void ConvertMHTML(string sourcePath, XpsSaveOptions options, strin
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source full file path. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
 | outputPath | String | Full xps file path as output conversion result. |
 
 ### Remarks
@@ -93,13 +93,13 @@ MHTML Converter
 
 MHTML to [XPS](https://docs.fileformat.com/page-description-language/xps/) conversion is often required to take advantage of XPS format for specific tasks. An XPS file represents page layout files that are based on XML Paper Specifications, created by Microsoft.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../../converter) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to XPS
 
 Converter class offers few MHTML specific conversions to XPS. To convert MHTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to XPS Converter](https://products.aspose.app/html/en/conversion/mhtml-to-xps) that converts MHTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -133,9 +133,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -151,7 +151,7 @@ public static void ConvertMHTML(Url sourceUrl, XpsSaveOptions options, string ou
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | MHTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
 | outputPath | String | Full xps file path as output conversion result. |
 
 ### Remarks
@@ -160,13 +160,13 @@ MHTML Converter
 
 MHTML to [XPS](https://docs.fileformat.com/page-description-language/xps/) conversion is often required to take advantage of XPS format for specific tasks. An XPS file represents page layout files that are based on XML Paper Specifications, created by Microsoft.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../../converter) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to XPS
 
 Converter class offers few MHTML specific conversions to XPS. To convert MHTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to XPS Converter](https://products.aspose.app/html/en/conversion/mhtml-to-xps) that converts MHTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -200,10 +200,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -220,8 +220,8 @@ public static void ConvertMHTML(Stream stream, Configuration configuration, XpsS
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Conversion source mhtml (.mht) data stream. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
 | outputPath | String | Full xps file path as output conversion result. |
 
 ### Remarks
@@ -230,13 +230,13 @@ MHTML Converter
 
 MHTML to [XPS](https://docs.fileformat.com/page-description-language/xps/) conversion is often required to take advantage of XPS format for specific tasks. An XPS file represents page layout files that are based on XML Paper Specifications, created by Microsoft.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../../converter) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to XPS
 
 Converter class offers few MHTML specific conversions to XPS. To convert MHTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to XPS Converter](https://products.aspose.app/html/en/conversion/mhtml-to-xps) that converts MHTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -275,10 +275,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -295,8 +295,8 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source full file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
 | outputPath | String | Full xps file path as output conversion result. |
 
 ### Remarks
@@ -305,13 +305,13 @@ MHTML Converter
 
 MHTML to [XPS](https://docs.fileformat.com/page-description-language/xps/) conversion is often required to take advantage of XPS format for specific tasks. An XPS file represents page layout files that are based on XML Paper Specifications, created by Microsoft.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../../converter) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to XPS
 
 Converter class offers few MHTML specific conversions to XPS. To convert MHTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to XPS Converter](https://products.aspose.app/html/en/conversion/mhtml-to-xps) that converts MHTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -345,10 +345,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -365,8 +365,8 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration, XpsS
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | MHTML source document URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
 | outputPath | String | Full xps file path as output conversion result. |
 
 ### Remarks
@@ -375,13 +375,13 @@ MHTML Converter
 
 MHTML to [XPS](https://docs.fileformat.com/page-description-language/xps/) conversion is often required to take advantage of XPS format for specific tasks. An XPS file represents page layout files that are based on XML Paper Specifications, created by Microsoft.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../../converter) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to XPS
 
 Converter class offers few MHTML specific conversions to XPS. To convert MHTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to XPS Converter](https://products.aspose.app/html/en/conversion/mhtml-to-xps) that converts MHTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -415,18 +415,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Stream, XpsSaveOptions, ICreateStreamProvider) {#convertmhtml_30}
 
-Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Stream stream, XpsSaveOptions options, 
@@ -436,8 +436,8 @@ public static void ConvertMHTML(Stream stream, XpsSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Conversion source mhtml (.mht) data stream. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -445,13 +445,13 @@ MHTML Converter
 
 MHTML to [XPS](https://docs.fileformat.com/page-description-language/xps/) conversion is often required to take advantage of XPS format for specific tasks. An XPS file represents page layout files that are based on XML Paper Specifications, created by Microsoft.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../../converter) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to XPS
 
 Converter class offers few MHTML specific conversions to XPS. To convert MHTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to XPS Converter](https://products.aspose.app/html/en/conversion/mhtml-to-xps) that converts MHTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -494,17 +494,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(string, XpsSaveOptions, ICreateStreamProvider) {#convertmhtml_46}
 
-Convert MHTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(string sourcePath, XpsSaveOptions options, 
@@ -514,8 +514,8 @@ public static void ConvertMHTML(string sourcePath, XpsSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source full file path. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -523,13 +523,13 @@ MHTML Converter
 
 MHTML to [XPS](https://docs.fileformat.com/page-description-language/xps/) conversion is often required to take advantage of XPS format for specific tasks. An XPS file represents page layout files that are based on XML Paper Specifications, created by Microsoft.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../../converter) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to XPS
 
 Converter class offers few MHTML specific conversions to XPS. To convert MHTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to XPS Converter](https://products.aspose.app/html/en/conversion/mhtml-to-xps) that converts MHTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -572,17 +572,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Url, XpsSaveOptions, ICreateStreamProvider) {#convertmhtml_14}
 
-Convert MHTML source presented by [`URL`](../../../aspose.html/url). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by [`URL`](../../../aspose.html/url/). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Url sourceUrl, XpsSaveOptions options, 
@@ -592,8 +592,8 @@ public static void ConvertMHTML(Url sourceUrl, XpsSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | MHTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -601,13 +601,13 @@ MHTML Converter
 
 MHTML to [XPS](https://docs.fileformat.com/page-description-language/xps/) conversion is often required to take advantage of XPS format for specific tasks. An XPS file represents page layout files that are based on XML Paper Specifications, created by Microsoft.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../../converter) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to XPS
 
 Converter class offers few MHTML specific conversions to XPS. To convert MHTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to XPS Converter](https://products.aspose.app/html/en/conversion/mhtml-to-xps) that converts MHTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -650,18 +650,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Stream, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertmhtml_22}
 
-Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Stream stream, Configuration configuration, XpsSaveOptions options, 
@@ -671,9 +671,9 @@ public static void ConvertMHTML(Stream stream, Configuration configuration, XpsS
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Conversion source mhtml (.mht) data stream. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -681,13 +681,13 @@ MHTML Converter
 
 MHTML to [XPS](https://docs.fileformat.com/page-description-language/xps/) conversion is often required to take advantage of XPS format for specific tasks. An XPS file represents page layout files that are based on XML Paper Specifications, created by Microsoft.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../../converter) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to XPS
 
 Converter class offers few MHTML specific conversions to XPS. To convert MHTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to XPS Converter](https://products.aspose.app/html/en/conversion/mhtml-to-xps) that converts MHTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -730,18 +730,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertmhtml_38}
 
-Convert MHTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(string sourcePath, Configuration configuration, 
@@ -751,9 +751,9 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source full file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -761,13 +761,13 @@ MHTML Converter
 
 MHTML to [XPS](https://docs.fileformat.com/page-description-language/xps/) conversion is often required to take advantage of XPS format for specific tasks. An XPS file represents page layout files that are based on XML Paper Specifications, created by Microsoft.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../../converter) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to XPS
 
 Converter class offers few MHTML specific conversions to XPS. To convert MHTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to XPS Converter](https://products.aspose.app/html/en/conversion/mhtml-to-xps) that converts MHTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -805,18 +805,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertmhtml_6}
 
-Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Url sourceUrl, Configuration configuration, XpsSaveOptions options, 
@@ -826,9 +826,9 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration, XpsS
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | MHTML source document URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#save-options). |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -836,13 +836,13 @@ MHTML Converter
 
 MHTML to [XPS](https://docs.fileformat.com/page-description-language/xps/) conversion is often required to take advantage of XPS format for specific tasks. An XPS file represents page layout files that are based on XML Paper Specifications, created by Microsoft.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../../converter) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) where you find information on how to convert MHTML to XPS using ConvertHTML() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to XPS
 
 Converter class offers few MHTML specific conversions to XPS. To convert MHTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an XPS result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to XPS Converter](https://products.aspose.app/html/en/conversion/mhtml-to-xps) that converts MHTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -880,12 +880,12 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -901,7 +901,7 @@ public static void ConvertMHTML(Stream stream, DocSaveOptions options, string ou
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | MHTML conversion input data stream. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
 | outputPath | String | Full docx file path as output conversion result. |
 
 ### Remarks
@@ -910,13 +910,13 @@ MHTML Converter
 
 MHTML to DOCX conversion is often required to take advantage of [DOCX](https://docs.fileformat.com/word-processing/docx/) format for specific tasks. DOCX is a well-known format for Microsoft Word documents. It can contain a wide range of data, including text, tables, raster and vector graphics, video, sounds and diagrams. This format is popular because it supports complex formatting features and offers to users a variety of options to write any type of document.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to DOCX
 
 Converter class offers few MHTML specific conversions to DOCX. To convert MHTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to DOCX Converter](https://products.aspose.app/html/en/conversion/mhtml-to-docx) that converts MHTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -956,9 +956,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -974,7 +974,7 @@ public static void ConvertMHTML(string sourcePath, DocSaveOptions options, strin
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source file path. It will be combined with the current directory path to form an absolute URL. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
 | outputPath | String | Full docx file path as output conversion result. |
 
 ### Remarks
@@ -983,13 +983,13 @@ MHTML Converter
 
 MHTML to DOCX conversion is often required to take advantage of [DOCX](https://docs.fileformat.com/word-processing/docx/) format for specific tasks. DOCX is a well-known format for Microsoft Word documents. It can contain a wide range of data, including text, tables, raster and vector graphics, video, sounds and diagrams. This format is popular because it supports complex formatting features and offers to users a variety of options to write any type of document.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to DOCX
 
 Converter class offers few MHTML specific conversions to DOCX. To convert MHTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to DOCX Converter](https://products.aspose.app/html/en/conversion/mhtml-to-docx) that converts MHTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1024,9 +1024,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1042,7 +1042,7 @@ public static void ConvertMHTML(Url sourceUrl, DocSaveOptions options, string ou
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | MHTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
 | outputPath | String | Full docx file path as output conversion result. |
 
 ### Remarks
@@ -1051,13 +1051,13 @@ MHTML Converter
 
 MHTML to DOCX conversion is often required to take advantage of [DOCX](https://docs.fileformat.com/word-processing/docx/) format for specific tasks. DOCX is a well-known format for Microsoft Word documents. It can contain a wide range of data, including text, tables, raster and vector graphics, video, sounds and diagrams. This format is popular because it supports complex formatting features and offers to users a variety of options to write any type of document.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to DOCX
 
 Converter class offers few MHTML specific conversions to DOCX. To convert MHTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to DOCX Converter](https://products.aspose.app/html/en/conversion/mhtml-to-docx) that converts MHTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1097,10 +1097,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1117,8 +1117,8 @@ public static void ConvertMHTML(Stream stream, Configuration configuration, DocS
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | MHTML conversion input data stream. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
 | outputPath | String | Full docx file path as output conversion result. |
 
 ### Remarks
@@ -1127,13 +1127,13 @@ MHTML Converter
 
 MHTML to DOCX conversion is often required to take advantage of [DOCX](https://docs.fileformat.com/word-processing/docx/) format for specific tasks. DOCX is a well-known format for Microsoft Word documents. It can contain a wide range of data, including text, tables, raster and vector graphics, video, sounds and diagrams. This format is popular because it supports complex formatting features and offers to users a variety of options to write any type of document.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to DOCX
 
 Converter class offers few MHTML specific conversions to DOCX. To convert MHTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to DOCX Converter](https://products.aspose.app/html/en/conversion/mhtml-to-docx) that converts MHTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1168,10 +1168,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1188,8 +1188,8 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source full file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
 | outputPath | String | Full docx file path as output conversion result. |
 
 ### Remarks
@@ -1198,13 +1198,13 @@ MHTML Converter
 
 MHTML to DOCX conversion is often required to take advantage of [DOCX](https://docs.fileformat.com/word-processing/docx/) format for specific tasks. DOCX is a well-known format for Microsoft Word documents. It can contain a wide range of data, including text, tables, raster and vector graphics, video, sounds and diagrams. This format is popular because it supports complex formatting features and offers to users a variety of options to write any type of document.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to DOCX
 
 Converter class offers few MHTML specific conversions to DOCX. To convert MHTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to DOCX Converter](https://products.aspose.app/html/en/conversion/mhtml-to-docx) that converts MHTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1239,17 +1239,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Url, Configuration, DocSaveOptions, string) {#convertmhtml_1}
 
-Convert MHTML source presented by [`URL`](../../../aspose.html/url). Result is docx file formed by output file path.
+Convert MHTML source presented by [`URL`](../../../aspose.html/url/). Result is docx file formed by output file path.
 
 ```csharp
 public static void ConvertMHTML(Url sourceUrl, Configuration configuration, DocSaveOptions options, 
@@ -1258,9 +1258,9 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration, DocS
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sourceUrl | Url | MHTML source document [`URL`](../../../aspose.html/url) - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
+| sourceUrl | Url | MHTML source document [`URL`](../../../aspose.html/url/) - provides an object representation of a universal identifier (URL). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
 | outputPath | String | Full docx file path as output conversion result. |
 
 ### Remarks
@@ -1269,13 +1269,13 @@ MHTML Converter
 
 MHTML to DOCX conversion is often required to take advantage of [DOCX](https://docs.fileformat.com/word-processing/docx/) format for specific tasks. DOCX is a well-known format for Microsoft Word documents. It can contain a wide range of data, including text, tables, raster and vector graphics, video, sounds and diagrams. This format is popular because it supports complex formatting features and offers to users a variety of options to write any type of document.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to DOCX
 
 Converter class offers few MHTML specific conversions to DOCX. To convert MHTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to DOCX Converter](https://products.aspose.app/html/en/conversion/mhtml-to-docx) that converts MHTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1310,18 +1310,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Stream, DocSaveOptions, ICreateStreamProvider) {#convertmhtml_24}
 
-Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Stream stream, DocSaveOptions options, 
@@ -1331,8 +1331,8 @@ public static void ConvertMHTML(Stream stream, DocSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | MHTML conversion input data stream. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -1340,13 +1340,13 @@ MHTML Converter
 
 MHTML to DOCX conversion is often required to take advantage of [DOCX](https://docs.fileformat.com/word-processing/docx/) format for specific tasks. DOCX is a well-known format for Microsoft Word documents. It can contain a wide range of data, including text, tables, raster and vector graphics, video, sounds and diagrams. This format is popular because it supports complex formatting features and offers to users a variety of options to write any type of document.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to DOCX
 
 Converter class offers few MHTML specific conversions to DOCX. To convert MHTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to DOCX Converter](https://products.aspose.app/html/en/conversion/mhtml-to-docx) that converts MHTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1384,17 +1384,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(string, DocSaveOptions, ICreateStreamProvider) {#convertmhtml_40}
 
-Convert MHTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(string sourcePath, DocSaveOptions options, 
@@ -1404,8 +1404,8 @@ public static void ConvertMHTML(string sourcePath, DocSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source full file path. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -1413,13 +1413,13 @@ MHTML Converter
 
 MHTML to DOCX conversion is often required to take advantage of [DOCX](https://docs.fileformat.com/word-processing/docx/) format for specific tasks. DOCX is a well-known format for Microsoft Word documents. It can contain a wide range of data, including text, tables, raster and vector graphics, video, sounds and diagrams. This format is popular because it supports complex formatting features and offers to users a variety of options to write any type of document.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to DOCX
 
 Converter class offers few MHTML specific conversions to DOCX. To convert MHTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to DOCX Converter](https://products.aspose.app/html/en/conversion/mhtml-to-docx) that converts MHTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1457,17 +1457,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Url, DocSaveOptions, ICreateStreamProvider) {#convertmhtml_8}
 
-Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Url sourceUrl, DocSaveOptions options, 
@@ -1476,9 +1476,9 @@ public static void ConvertMHTML(Url sourceUrl, DocSaveOptions options,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sourceUrl | Url | MHTML source document [`URL`](../../../aspose.html/url) - provides an object representation of a universal identifier (URL). |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| sourceUrl | Url | MHTML source document [`URL`](../../../aspose.html/url/) - provides an object representation of a universal identifier (URL). |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -1486,13 +1486,13 @@ MHTML Converter
 
 MHTML to DOCX conversion is often required to take advantage of [DOCX](https://docs.fileformat.com/word-processing/docx/) format for specific tasks. DOCX is a well-known format for Microsoft Word documents. It can contain a wide range of data, including text, tables, raster and vector graphics, video, sounds and diagrams. This format is popular because it supports complex formatting features and offers to users a variety of options to write any type of document.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to DOCX
 
 Converter class offers few MHTML specific conversions to DOCX. To convert MHTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to DOCX Converter](https://products.aspose.app/html/en/conversion/mhtml-to-docx) that converts MHTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1530,18 +1530,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Stream, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertmhtml_16}
 
-Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Stream stream, Configuration configuration, DocSaveOptions options, 
@@ -1551,9 +1551,9 @@ public static void ConvertMHTML(Stream stream, Configuration configuration, DocS
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | MHTML conversion input data stream. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -1561,13 +1561,13 @@ MHTML Converter
 
 MHTML to DOCX conversion is often required to take advantage of [DOCX](https://docs.fileformat.com/word-processing/docx/) format for specific tasks. DOCX is a well-known format for Microsoft Word documents. It can contain a wide range of data, including text, tables, raster and vector graphics, video, sounds and diagrams. This format is popular because it supports complex formatting features and offers to users a variety of options to write any type of document.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to DOCX
 
 Converter class offers few MHTML specific conversions to DOCX. To convert MHTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to DOCX Converter](https://products.aspose.app/html/en/conversion/mhtml-to-docx) that converts MHTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1605,18 +1605,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(string, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertmhtml_32}
 
-Convert MHTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(string sourcePath, Configuration configuration, 
@@ -1626,9 +1626,9 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source full file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -1636,13 +1636,13 @@ MHTML Converter
 
 MHTML to DOCX conversion is often required to take advantage of [DOCX](https://docs.fileformat.com/word-processing/docx/) format for specific tasks. DOCX is a well-known format for Microsoft Word documents. It can contain a wide range of data, including text, tables, raster and vector graphics, video, sounds and diagrams. This format is popular because it supports complex formatting features and offers to users a variety of options to write any type of document.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to DOCX
 
 Converter class offers few MHTML specific conversions to DOCX. To convert MHTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to DOCX Converter](https://products.aspose.app/html/en/conversion/mhtml-to-docx) that converts MHTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1680,18 +1680,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Url, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertmhtml}
 
-Convert MHTML source presented by [`URL`](../../../aspose.html/url). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by [`URL`](../../../aspose.html/url/). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Url sourceUrl, Configuration configuration, DocSaveOptions options, 
@@ -1700,10 +1700,10 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration, DocS
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sourceUrl | Url | MHTML source document [`URL`](../../../aspose.html/url) - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| sourceUrl | Url | MHTML source document [`URL`](../../../aspose.html/url/) - provides an object representation of a universal identifier (URL). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -1711,13 +1711,13 @@ MHTML Converter
 
 MHTML to DOCX conversion is often required to take advantage of [DOCX](https://docs.fileformat.com/word-processing/docx/) format for specific tasks. DOCX is a well-known format for Microsoft Word documents. It can contain a wide range of data, including text, tables, raster and vector graphics, video, sounds and diagrams. This format is popular because it supports complex formatting features and offers to users a variety of options to write any type of document.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-docx/) where you find information on how to convert MHTML to DOCX using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to DOCX
 
 Converter class offers few MHTML specific conversions to DOCX. To convert MHTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as conversion source. Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as conversion source. Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an DOCX result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to DOCX Converter](https://products.aspose.app/html/en/conversion/mhtml-to-docx) that converts MHTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1755,12 +1755,12 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1776,7 +1776,7 @@ public static void ConvertMHTML(Stream stream, PdfSaveOptions options, string ou
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | MHTML conversion input data stream. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
 ### Remarks
@@ -1785,13 +1785,13 @@ MHTML Converter
 
 MHTML to PDF conversion is often required to take advantage of [PDF](https://docs.fileformat.com/pdf/) format for specific tasks. PDF comes with many benefits that other files don’t have. For example, many programs and apps support PDF documents; PDF files are optimized for printing, and they are ideal for creating physical copies of your documents; you can configure the security settings for PDF files - disable printing, editing, using an electronic signature, etc.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to PDF
 
 Converter class offers few MHTML specific conversions to PDF. To convert MHTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to PDF Converter](https://products.aspose.app/html/en/conversion/mhtml-to-pdf) that converts MHTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1826,9 +1826,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1844,7 +1844,7 @@ public static void ConvertMHTML(string sourcePath, PdfSaveOptions options, strin
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source full file path. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
 ### Remarks
@@ -1853,13 +1853,13 @@ MHTML Converter
 
 MHTML to PDF conversion is often required to take advantage of [PDF](https://docs.fileformat.com/pdf/) format for specific tasks. PDF comes with many benefits that other files don’t have. For example, many programs and apps support PDF documents; PDF files are optimized for printing, and they are ideal for creating physical copies of your documents; you can configure the security settings for PDF files - disable printing, editing, using an electronic signature, etc.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to PDF
 
 Converter class offers few MHTML specific conversions to PDF. To convert MHTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to PDF Converter](https://products.aspose.app/html/en/conversion/mhtml-to-pdf) that converts MHTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1894,9 +1894,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1912,7 +1912,7 @@ public static void ConvertMHTML(Url sourceUrl, PdfSaveOptions options, string ou
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | MHTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
 ### Remarks
@@ -1921,13 +1921,13 @@ MHTML Converter
 
 MHTML to PDF conversion is often required to take advantage of [PDF](https://docs.fileformat.com/pdf/) format for specific tasks. PDF comes with many benefits that other files don’t have. For example, many programs and apps support PDF documents; PDF files are optimized for printing, and they are ideal for creating physical copies of your documents; you can configure the security settings for PDF files - disable printing, editing, using an electronic signature, etc.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to PDF
 
 Converter class offers few MHTML specific conversions to PDF. To convert MHTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to PDF Converter](https://products.aspose.app/html/en/conversion/mhtml-to-pdf) that converts MHTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1962,10 +1962,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1982,8 +1982,8 @@ public static void ConvertMHTML(Stream stream, Configuration configuration, PdfS
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | MHTML conversion input data stream. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
 ### Remarks
@@ -1992,13 +1992,13 @@ MHTML Converter
 
 MHTML to PDF conversion is often required to take advantage of [PDF](https://docs.fileformat.com/pdf/) format for specific tasks. PDF comes with many benefits that other files don’t have. For example, many programs and apps support PDF documents; PDF files are optimized for printing, and they are ideal for creating physical copies of your documents; you can configure the security settings for PDF files - disable printing, editing, using an electronic signature, etc.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to PDF
 
 Converter class offers few MHTML specific conversions to PDF. To convert MHTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to PDF Converter](https://products.aspose.app/html/en/conversion/mhtml-to-pdf) that converts MHTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2033,10 +2033,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2053,8 +2053,8 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source file path. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
 ### Remarks
@@ -2063,13 +2063,13 @@ MHTML Converter
 
 MHTML to PDF conversion is often required to take advantage of [PDF](https://docs.fileformat.com/pdf/) format for specific tasks. PDF comes with many benefits that other files don’t have. For example, many programs and apps support PDF documents; PDF files are optimized for printing, and they are ideal for creating physical copies of your documents; you can configure the security settings for PDF files - disable printing, editing, using an electronic signature, etc.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to PDF
 
 Converter class offers few MHTML specific conversions to PDF. To convert MHTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to PDF Converter](https://products.aspose.app/html/en/conversion/mhtml-to-pdf) that converts MHTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2104,10 +2104,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2124,8 +2124,8 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration, PdfS
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | MHTML source document URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
 ### Remarks
@@ -2134,13 +2134,13 @@ MHTML Converter
 
 MHTML to PDF conversion is often required to take advantage of [PDF](https://docs.fileformat.com/pdf/) format for specific tasks. PDF comes with many benefits that other files don’t have. For example, many programs and apps support PDF documents; PDF files are optimized for printing, and they are ideal for creating physical copies of your documents; you can configure the security settings for PDF files - disable printing, editing, using an electronic signature, etc.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to PDF
 
 Converter class offers few MHTML specific conversions to PDF. To convert MHTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to PDF Converter](https://products.aspose.app/html/en/conversion/mhtml-to-pdf) that converts MHTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2175,18 +2175,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Stream, PdfSaveOptions, ICreateStreamProvider) {#convertmhtml_28}
 
-Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Stream stream, PdfSaveOptions options, 
@@ -2196,8 +2196,8 @@ public static void ConvertMHTML(Stream stream, PdfSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | MHTML conversion input data stream. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -2205,13 +2205,13 @@ MHTML Converter
 
 MHTML to PDF conversion is often required to take advantage of [PDF](https://docs.fileformat.com/pdf/) format for specific tasks. PDF comes with many benefits that other files don’t have. For example, many programs and apps support PDF documents; PDF files are optimized for printing, and they are ideal for creating physical copies of your documents; you can configure the security settings for PDF files - disable printing, editing, using an electronic signature, etc.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to PDF
 
 Converter class offers few MHTML specific conversions to PDF. To convert MHTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to PDF Converter](https://products.aspose.app/html/en/conversion/mhtml-to-pdf) that converts MHTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2249,17 +2249,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(string, PdfSaveOptions, ICreateStreamProvider) {#convertmhtml_44}
 
-Convert MHTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(string sourcePath, PdfSaveOptions options, 
@@ -2269,8 +2269,8 @@ public static void ConvertMHTML(string sourcePath, PdfSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source file path. It will be combined with the current directory path to form an absolute URL. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -2278,13 +2278,13 @@ MHTML Converter
 
 MHTML to PDF conversion is often required to take advantage of [PDF](https://docs.fileformat.com/pdf/) format for specific tasks. PDF comes with many benefits that other files don’t have. For example, many programs and apps support PDF documents; PDF files are optimized for printing, and they are ideal for creating physical copies of your documents; you can configure the security settings for PDF files - disable printing, editing, using an electronic signature, etc.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to PDF
 
 Converter class offers few MHTML specific conversions to PDF. To convert MHTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to PDF Converter](https://products.aspose.app/html/en/conversion/mhtml-to-pdf) that converts MHTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2322,17 +2322,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Url, PdfSaveOptions, ICreateStreamProvider) {#convertmhtml_12}
 
-Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Url sourceUrl, PdfSaveOptions options, 
@@ -2342,8 +2342,8 @@ public static void ConvertMHTML(Url sourceUrl, PdfSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | MHTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -2351,13 +2351,13 @@ MHTML Converter
 
 MHTML to PDF conversion is often required to take advantage of [PDF](https://docs.fileformat.com/pdf/) format for specific tasks. PDF comes with many benefits that other files don’t have. For example, many programs and apps support PDF documents; PDF files are optimized for printing, and they are ideal for creating physical copies of your documents; you can configure the security settings for PDF files - disable printing, editing, using an electronic signature, etc.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to PDF
 
 Converter class offers few MHTML specific conversions to PDF. To convert MHTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to PDF Converter](https://products.aspose.app/html/en/conversion/mhtml-to-pdf) that converts MHTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2395,18 +2395,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Stream, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertmhtml_20}
 
-Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Stream stream, Configuration configuration, PdfSaveOptions options, 
@@ -2416,9 +2416,9 @@ public static void ConvertMHTML(Stream stream, Configuration configuration, PdfS
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | MHTML conversion input data stream. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -2426,13 +2426,13 @@ MHTML Converter
 
 MHTML to PDF conversion is often required to take advantage of [PDF](https://docs.fileformat.com/pdf/) format for specific tasks. PDF comes with many benefits that other files don’t have. For example, many programs and apps support PDF documents; PDF files are optimized for printing, and they are ideal for creating physical copies of your documents; you can configure the security settings for PDF files - disable printing, editing, using an electronic signature, etc.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to PDF
 
 Converter class offers few MHTML specific conversions to PDF. To convert MHTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to PDF Converter](https://products.aspose.app/html/en/conversion/mhtml-to-pdf) that converts MHTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2470,18 +2470,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertmhtml_36}
 
-Convert MHTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(string sourcePath, Configuration configuration, 
@@ -2491,9 +2491,9 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source full file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -2501,13 +2501,13 @@ MHTML Converter
 
 MHTML to PDF conversion is often required to take advantage of [PDF](https://docs.fileformat.com/pdf/) format for specific tasks. PDF comes with many benefits that other files don’t have. For example, many programs and apps support PDF documents; PDF files are optimized for printing, and they are ideal for creating physical copies of your documents; you can configure the security settings for PDF files - disable printing, editing, using an electronic signature, etc.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to PDF
 
 Converter class offers few MHTML specific conversions to PDF. To convert MHTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to PDF Converter](https://products.aspose.app/html/en/conversion/mhtml-to-pdf) that converts MHTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2545,18 +2545,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertmhtml_4}
 
-Convert MHTML source presented by [`URL`](../../../aspose.html/url). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by [`URL`](../../../aspose.html/url/). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Url sourceUrl, Configuration configuration, PdfSaveOptions options, 
@@ -2566,9 +2566,9 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration, PdfS
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | MHTML source document URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -2576,13 +2576,13 @@ MHTML Converter
 
 MHTML to PDF conversion is often required to take advantage of [PDF](https://docs.fileformat.com/pdf/) format for specific tasks. PDF comes with many benefits that other files don’t have. For example, many programs and apps support PDF documents; PDF files are optimized for printing, and they are ideal for creating physical copies of your documents; you can configure the security settings for PDF files - disable printing, editing, using an electronic signature, etc.
 
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../../converter) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/), where you find information on how to convert MHTML to PDF using ConvertMHTML() methods of the [`Converter`](../) class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to PDF
 
 Converter class offers few MHTML specific conversions to PDF. To convert MHTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote Url as conversion source. You can also use standard or custom specific [stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-6.0) as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with specific or default settings. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an PDF result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to PDF Converter](https://products.aspose.app/html/en/conversion/mhtml-to-pdf) that converts MHTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2620,12 +2620,12 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2641,7 +2641,7 @@ public static void ConvertMHTML(Stream stream, ImageSaveOptions options, string 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | MHTML conversion input data stream. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -2650,13 +2650,13 @@ MHTML Converter
 
 Files with [MHTML](https://docs.fileformat.com/web/mhtml/) extension represent a web page archive format that a number of different applications can create. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. The actual specifications of the format are as detailed by [RFC 2557](https://datatracker.ietf.org/doc/html/rfc2557).
 
-Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to Image
 
 Converter class offers few MHTML specific conversions to images. Supported formats are [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [GIF](https://docs.fileformat.com/image/gif/) and [TIFF](https://docs.fileformat.com/image/tiff/). To convert MHTML to image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as source. Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as source. Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to JPEG Converter](https://products.aspose.app/html/en/conversion/mhtml-to-jpg) that converts MHTML to jpeg file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2691,9 +2691,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2709,7 +2709,7 @@ public static void ConvertMHTML(string sourcePath, ImageSaveOptions options, str
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source full file path. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -2718,13 +2718,13 @@ MHTML Converter
 
 Files with [MHTML](https://docs.fileformat.com/web/mhtml/) extension represent a web page archive format that a number of different applications can create. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. The actual specifications of the format are as detailed by [RFC 2557](https://datatracker.ietf.org/doc/html/rfc2557).
 
-Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to Image
 
 Converter class offers few MHTML specific conversions to images. Supported formats are [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [GIF](https://docs.fileformat.com/image/gif/) and [TIFF](https://docs.fileformat.com/image/tiff/). To convert MHTML to image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to JPEG Converter](https://products.aspose.app/html/en/conversion/mhtml-to-jpg) that converts MHTML to jpeg file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2759,9 +2759,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2777,7 +2777,7 @@ public static void ConvertMHTML(Url sourceUrl, ImageSaveOptions options, string 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | MHTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -2786,13 +2786,13 @@ MHTML Converter
 
 Files with [MHTML](https://docs.fileformat.com/web/mhtml/) extension represent a web page archive format that a number of different applications can create. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. The actual specifications of the format are as detailed by [RFC 2557](https://datatracker.ietf.org/doc/html/rfc2557).
 
-Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to Image
 
 Converter class offers few MHTML specific conversions to images. Supported formats are [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [GIF](https://docs.fileformat.com/image/gif/) and [TIFF](https://docs.fileformat.com/image/tiff/). To convert MHTML to image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to JPEG Converter](https://products.aspose.app/html/en/conversion/mhtml-to-jpg) that converts MHTML to jpeg file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2827,10 +2827,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2847,8 +2847,8 @@ public static void ConvertMHTML(Stream stream, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | MHTML conversion input data stream. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -2857,13 +2857,13 @@ MHTML Converter
 
 Files with [MHTML](https://docs.fileformat.com/web/mhtml/) extension represent a web page archive format that a number of different applications can create. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. The actual specifications of the format are as detailed by [RFC 2557](https://datatracker.ietf.org/doc/html/rfc2557).
 
-Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to Image
 
 Converter class offers few MHTML specific conversions to images. Supported formats are [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [GIF](https://docs.fileformat.com/image/gif/) and [TIFF](https://docs.fileformat.com/image/tiff/). To convert MHTML to image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to JPEG Converter](https://products.aspose.app/html/en/conversion/mhtml-to-jpg) that converts MHTML to jpeg file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2898,10 +2898,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2918,8 +2918,8 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source full file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -2928,13 +2928,13 @@ MHTML Converter
 
 Files with [MHTML](https://docs.fileformat.com/web/mhtml/) extension represent a web page archive format that a number of different applications can create. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. The actual specifications of the format are as detailed by [RFC 2557](https://datatracker.ietf.org/doc/html/rfc2557).
 
-Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to Image
 
 Converter class offers few MHTML specific conversions to images. Supported formats are [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [GIF](https://docs.fileformat.com/image/gif/) and [TIFF](https://docs.fileformat.com/image/tiff/). To convert MHTML to image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to JPEG Converter](https://products.aspose.app/html/en/conversion/mhtml-to-jpg) that converts MHTML to jpeg file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2969,10 +2969,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2989,8 +2989,8 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | MHTML source document URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -2999,13 +2999,13 @@ MHTML Converter
 
 Files with [MHTML](https://docs.fileformat.com/web/mhtml/) extension represent a web page archive format that a number of different applications can create. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. The actual specifications of the format are as detailed by [RFC 2557](https://datatracker.ietf.org/doc/html/rfc2557).
 
-Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to Image
 
 Converter class offers few MHTML specific conversions to images. Supported formats are [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [GIF](https://docs.fileformat.com/image/gif/) and [TIFF](https://docs.fileformat.com/image/tiff/). To convert MHTML to image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to JPEG Converter](https://products.aspose.app/html/en/conversion/mhtml-to-jpg) that converts MHTML to jpeg file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3040,18 +3040,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Stream, ImageSaveOptions, ICreateStreamProvider) {#convertmhtml_26}
 
-Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Stream stream, ImageSaveOptions options, 
@@ -3061,8 +3061,8 @@ public static void ConvertMHTML(Stream stream, ImageSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | MHTML conversion input data stream. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -3070,13 +3070,13 @@ MHTML Converter
 
 Files with [MHTML](https://docs.fileformat.com/web/mhtml/) extension represent a web page archive format that a number of different applications can create. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. The actual specifications of the format are as detailed by [RFC 2557](https://datatracker.ietf.org/doc/html/rfc2557).
 
-Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to Image
 
 Converter class offers few MHTML specific conversions to images. Supported formats are [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [GIF](https://docs.fileformat.com/image/gif/) and [TIFF](https://docs.fileformat.com/image/tiff/). To convert MHTML to image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to JPEG Converter](https://products.aspose.app/html/en/conversion/mhtml-to-jpg) that converts MHTML to jpeg file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3114,17 +3114,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(string, ImageSaveOptions, ICreateStreamProvider) {#convertmhtml_42}
 
-Convert MHTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(string sourcePath, ImageSaveOptions options, 
@@ -3134,8 +3134,8 @@ public static void ConvertMHTML(string sourcePath, ImageSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source full file path. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -3143,13 +3143,13 @@ MHTML Converter
 
 Files with [MHTML](https://docs.fileformat.com/web/mhtml/) extension represent a web page archive format that a number of different applications can create. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. The actual specifications of the format are as detailed by [RFC 2557](https://datatracker.ietf.org/doc/html/rfc2557).
 
-Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to Image
 
 Converter class offers few MHTML specific conversions to images. Supported formats are [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [GIF](https://docs.fileformat.com/image/gif/) and [TIFF](https://docs.fileformat.com/image/tiff/). To convert MHTML to image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to JPEG Converter](https://products.aspose.app/html/en/conversion/mhtml-to-jpg) that converts MHTML to jpeg file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3187,17 +3187,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Url, ImageSaveOptions, ICreateStreamProvider) {#convertmhtml_10}
 
-Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Url sourceUrl, ImageSaveOptions options, 
@@ -3207,8 +3207,8 @@ public static void ConvertMHTML(Url sourceUrl, ImageSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | MHTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -3216,13 +3216,13 @@ MHTML Converter
 
 Files with [MHTML](https://docs.fileformat.com/web/mhtml/) extension represent a web page archive format that a number of different applications can create. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. The actual specifications of the format are as detailed by [RFC 2557](https://datatracker.ietf.org/doc/html/rfc2557).
 
-Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to Image
 
 Converter class offers few MHTML specific conversions to images. Supported formats are [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [GIF](https://docs.fileformat.com/image/gif/) and [TIFF](https://docs.fileformat.com/image/tiff/). To convert MHTML to image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to JPEG Converter](https://products.aspose.app/html/en/conversion/mhtml-to-jpg) that converts MHTML to jpeg file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3260,18 +3260,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Stream, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertmhtml_18}
 
-Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Stream stream, Configuration configuration, 
@@ -3281,9 +3281,9 @@ public static void ConvertMHTML(Stream stream, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | MHTML conversion input data stream. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -3291,13 +3291,13 @@ MHTML Converter
 
 Files with [MHTML](https://docs.fileformat.com/web/mhtml/) extension represent a web page archive format that a number of different applications can create. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. The actual specifications of the format are as detailed by [RFC 2557](https://datatracker.ietf.org/doc/html/rfc2557).
 
-Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to Image
 
 Converter class offers few MHTML specific conversions to images. Supported formats are [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [GIF](https://docs.fileformat.com/image/gif/) and [TIFF](https://docs.fileformat.com/image/tiff/). To convert MHTML to image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to JPEG Converter](https://products.aspose.app/html/en/conversion/mhtml-to-jpg) that converts MHTML to jpeg file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3335,18 +3335,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertmhtml_34}
 
-Convert MHTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(string sourcePath, Configuration configuration, 
@@ -3356,9 +3356,9 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MHTML source full file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
-| provider | ICreateStreamProvider | Implementation of the [` interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Implementation of the [` interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -3366,13 +3366,13 @@ MHTML Converter
 
 Files with [MHTML](https://docs.fileformat.com/web/mhtml/) extension represent a web page archive format that a number of different applications can create. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. The actual specifications of the format are as detailed by [RFC 2557](https://datatracker.ietf.org/doc/html/rfc2557).
 
-Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to Image
 
 Converter class offers few MHTML specific conversions to images. Supported formats are [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [GIF](https://docs.fileformat.com/image/gif/) and [TIFF](https://docs.fileformat.com/image/tiff/). To convert MHTML to image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to JPEG Converter](https://products.aspose.app/html/en/conversion/mhtml-to-jpg) that converts MHTML to jpeg file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3410,18 +3410,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMHTML(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertmhtml_2}
 
-Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert MHTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertMHTML(Url sourceUrl, Configuration configuration, 
@@ -3431,9 +3431,9 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | MHTML source document URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -3441,13 +3441,13 @@ MHTML Converter
 
 Files with [MHTML](https://docs.fileformat.com/web/mhtml/) extension represent a web page archive format that a number of different applications can create. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. The actual specifications of the format are as detailed by [RFC 2557](https://datatracker.ietf.org/doc/html/rfc2557).
 
-Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+Refer to article, where you find information on how to convert MHTML to images in different formats using ConvertMHTML() methods of the Converter class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert MHTML to Image
 
 Converter class offers few MHTML specific conversions to images. Supported formats are [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [GIF](https://docs.fileformat.com/image/gif/) and [TIFF](https://docs.fileformat.com/image/tiff/). To convert MHTML to image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
+Conversion source. Detect an existing local MHTML (.mht) file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also use standard or custom specific stream as source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Default image format is PNG. You can add also configuration as option parameter.Use the ConvertMHTML() method of the Converter class to save MHTML as an image result with three or more parameters depend on user scenario.Online MHTML converter
 
 Aspose.HTML offers a free online [MHTML to JPEG Converter](https://products.aspose.app/html/en/conversion/mhtml-to-jpg) that converts MHTML to jpeg file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3485,12 +3485,12 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

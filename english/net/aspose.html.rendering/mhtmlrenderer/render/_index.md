@@ -1,14 +1,14 @@
 ---
 title: Render
 second_title: Aspose.HTML for .NET API Reference
-description: Renders multiple MHTML documents into specified IDeviceaspose.html.rendering/idevice. The rendering will be performed once there are no any network operations for loading resources active timers animation tasks or specified timeout is elapsed.
+description: Renders multiple MHTML documents into specified IDeviceaspose.html.rendering/idevice/. The rendering will be performed once there are no any network operations for loading resources active timers animation tasks or specified timeout is elapsed.
 type: docs
 weight: 20
 url: /net/aspose.html.rendering/mhtmlrenderer/render/
 ---
 ## Render(IDevice, TimeSpan, params Stream[]) {#render_9}
 
-Renders multiple MHTML documents into specified [`IDevice`](../../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+Renders multiple MHTML documents into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```csharp
 public override void Render(IDevice device, TimeSpan timeout, params Stream[] documents)
@@ -22,16 +22,16 @@ public override void Render(IDevice device, TimeSpan timeout, params Stream[] do
 
 ### See Also
 
-* interface [IDevice](../../idevice)
-* class [MhtmlRenderer](../../mhtmlrenderer)
-* namespace [Aspose.Html.Rendering](../../mhtmlrenderer)
+* interface [IDevice](../../idevice/)
+* class [MhtmlRenderer](../)
+* namespace [Aspose.Html.Rendering](../../mhtmlrenderer/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, Stream, Configuration) {#render_4}
 
-Renders MHTML document into specified [`IDevice`](../../idevice).
+Renders MHTML document into specified [`IDevice`](../../idevice/).
 
 ```csharp
 public void Render(IDevice device, Stream document, Configuration configuration)
@@ -45,17 +45,17 @@ public void Render(IDevice device, Stream document, Configuration configuration)
 
 ### See Also
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MhtmlRenderer](../../mhtmlrenderer)
-* namespace [Aspose.Html.Rendering](../../mhtmlrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MhtmlRenderer](../)
+* namespace [Aspose.Html.Rendering](../../mhtmlrenderer/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, Stream, Configuration, TimeSpan) {#render_5}
 
-Renders MHTML document into specified [`IDevice`](../../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+Renders MHTML document into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```csharp
 public void Render(IDevice device, Stream document, Configuration configuration, TimeSpan timeout)
@@ -70,17 +70,17 @@ public void Render(IDevice device, Stream document, Configuration configuration,
 
 ### See Also
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MhtmlRenderer](../../mhtmlrenderer)
-* namespace [Aspose.Html.Rendering](../../mhtmlrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MhtmlRenderer](../)
+* namespace [Aspose.Html.Rendering](../../mhtmlrenderer/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, IList&lt;Stream&gt;, Configuration) {#render_1}
 
-Renders multiple MHTML documents into specified [`IDevice`](../../idevice).
+Renders multiple MHTML documents into specified [`IDevice`](../../idevice/).
 
 ```csharp
 public void Render(IDevice device, IList<Stream> documents, Configuration configuration)
@@ -94,17 +94,17 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 
 ### See Also
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MhtmlRenderer](../../mhtmlrenderer)
-* namespace [Aspose.Html.Rendering](../../mhtmlrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MhtmlRenderer](../)
+* namespace [Aspose.Html.Rendering](../../mhtmlrenderer/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, IList&lt;Stream&gt;, Configuration, TimeSpan) {#render_2}
 
-Renders multiple MHTML documents into specified [`IDevice`](../../idevice). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+Renders multiple MHTML documents into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```csharp
 public void Render(IDevice device, IList<Stream> documents, Configuration configuration, 
@@ -120,10 +120,10 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 
 ### See Also
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MhtmlRenderer](../../mhtmlrenderer)
-* namespace [Aspose.Html.Rendering](../../mhtmlrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MhtmlRenderer](../)
+* namespace [Aspose.Html.Rendering](../../mhtmlrenderer/)
 * assembly [Aspose.HTML](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
