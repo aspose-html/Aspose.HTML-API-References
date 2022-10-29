@@ -1,14 +1,14 @@
 ---
 title: PdfDevice
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the PdfDeviceaspose.html.rendering.pdf/pdfdevice class.
+description: Initializes a new instance of the PdfDeviceaspose.html.rendering.pdf/pdfdevice/ class.
 type: docs
 weight: 10
 url: /net/aspose.html.rendering.pdf/pdfdevice/pdfdevice/
 ---
 ## PdfDevice(ICreateStreamProvider) {#constructor}
 
-Initializes a new instance of the [`PdfDevice`](../../pdfdevice) class.
+Initializes a new instance of the [`PdfDevice`](../) class.
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
@@ -20,16 +20,16 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 ### See Also
 
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [PdfDevice](../../pdfdevice)
-* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [PdfDevice](../)
+* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Initializes a new instance of the [`PdfDevice`](../../pdfdevice) class by rendering options and stream provider.
+Initializes a new instance of the [`PdfDevice`](../) class by rendering options and stream provider.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 | Parameter | Type | Description |
 | --- | --- | --- |
 | options | PdfRenderingOptions | Rendering options. |
-| streamProvider | ICreateStreamProvider | Object that implements the [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface |
+| streamProvider | ICreateStreamProvider | Object that implements the [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface |
 
 ### See Also
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [PdfDevice](../../pdfdevice)
-* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [PdfDevice](../)
+* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(string) {#constructor_5}
 
-Initializes a new instance of the [`PdfDevice`](../../pdfdevice) class.
+Initializes a new instance of the [`PdfDevice`](../) class.
 
 ```csharp
 public PdfDevice(string file)
@@ -64,15 +64,15 @@ public PdfDevice(string file)
 
 ### See Also
 
-* class [PdfDevice](../../pdfdevice)
-* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfDevice](../)
+* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
 
-Initializes a new instance of the [`PdfDevice`](../../pdfdevice) class by rendering options and output file name.
+Initializes a new instance of the [`PdfDevice`](../) class by rendering options and output file name.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 ### See Also
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* class [PdfDevice](../../pdfdevice)
-* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* class [PdfDevice](../)
+* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(Stream) {#constructor_4}
 
-Initializes a new instance of the [`PdfDevice`](../../pdfdevice) class.
+Initializes a new instance of the [`PdfDevice`](../) class.
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -106,15 +106,15 @@ public PdfDevice(Stream stream)
 
 ### See Also
 
-* class [PdfDevice](../../pdfdevice)
-* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfDevice](../)
+* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
 
-Initializes a new instance of the [`PdfDevice`](../../pdfdevice) class by rendering options and output stream.
+Initializes a new instance of the [`PdfDevice`](../) class by rendering options and output stream.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 
 ### See Also
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* class [PdfDevice](../../pdfdevice)
-* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* class [PdfDevice](../)
+* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * assembly [Aspose.HTML](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

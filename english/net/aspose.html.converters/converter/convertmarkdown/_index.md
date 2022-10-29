@@ -1,14 +1,14 @@
 ---
 title: ConvertMarkdown
 second_title: Aspose.HTML for .NET API Reference
-description: Convert MD markdown source presented by input stream to html. Result is HTMLDocumentaspose.html/htmldocument which can be saved through output file path.
+description: Convert MD markdown source presented by input stream to html. Result is HTMLDocumentaspose.html/htmldocument/ which can be saved through output file path.
 type: docs
 weight: 30
 url: /net/aspose.html.converters/converter/convertmarkdown/
 ---
 ## ConvertMarkdown(Stream, string) {#convertmarkdown}
 
-Convert MD (markdown) source presented by input stream to html. Result is [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved through output file path.
+Convert MD (markdown) source presented by input stream to html. Result is [`HTMLDocument`](../../../aspose.html/htmldocument/) which can be saved through output file path.
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri)
@@ -21,7 +21,7 @@ public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri)
 
 ### Return Value
 
-New formed [`HTMLDocument`](../../../aspose.html/htmldocument) as conversion result which can be saved through output file path.
+New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
 ### Remarks
 
@@ -31,9 +31,9 @@ Markdown Converter
 
 Conversion steps
 
-[`Converter`](../../converter) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Online MD converter
+Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument/) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Online MD converter
 
 You may also be interested in a free online [MD to HTML Converter](https://products.aspose.app/html/en/conversion/md-to-html) that converts MD to HTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds! Also you can check other online MD converters: [MD to PDF](https://products.aspose.app/html/en/conversion/md-to-pdf), [MD to DOCX](https://products.aspose.app/html/en/conversion/md-to-docx), [MD to XPS](https://products.aspose.app/html/en/conversion/md-to-xps) and find appropriate [MD to image converters](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/).
 
@@ -79,16 +79,16 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(Stream, string, Configuration) {#convertmarkdown_1}
 
-Convert MD (markdown) source presented by input stream to html. Result is [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved through output file path.
+Convert MD (markdown) source presented by input stream to html. Result is [`HTMLDocument`](../../../aspose.html/htmldocument/) which can be saved through output file path.
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri, 
@@ -99,11 +99,11 @@ public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri,
 | --- | --- | --- |
 | stream | Stream | MD (Markdown) conversion input data stream. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 
 ### Return Value
 
-New formed [`HTMLDocument`](../../../aspose.html/htmldocument) as conversion result which can be saved through output file path.
+New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
 ### Remarks
 
@@ -113,9 +113,9 @@ Markdown Converter
 
 Conversion steps
 
-[`Converter`](../../converter) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Online MD converter
+Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument/) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Online MD converter
 
 You may also be interested in a free online [MD to HTML Converter](https://products.aspose.app/html/en/conversion/md-to-html) that converts MD to HTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds! Also you can check other online MD converters: [MD to PDF](https://products.aspose.app/html/en/conversion/md-to-pdf), [MD to DOCX](https://products.aspose.app/html/en/conversion/md-to-docx), [MD to XPS](https://products.aspose.app/html/en/conversion/md-to-xps) and find appropriate [MD to image converters](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/).
 
@@ -159,10 +159,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -189,9 +189,9 @@ Markdown Converter
 
 Conversion steps
 
-[`Converter`](../../converter) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Online MD converter
+Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument/) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Online MD converter
 
 You may also be interested in a free online [MD to HTML Converter](https://products.aspose.app/html/en/conversion/md-to-html) that converts MD to HTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds! Also you can check other online MD converters: [MD to PDF](https://products.aspose.app/html/en/conversion/md-to-pdf), [MD to DOCX](https://products.aspose.app/html/en/conversion/md-to-docx), [MD to XPS](https://products.aspose.app/html/en/conversion/md-to-xps) and find appropriate [MD to image converters](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/).
 
@@ -232,8 +232,8 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -251,7 +251,7 @@ public static void ConvertMarkdown(Stream stream, string baseUri, Configuration 
 | --- | --- | --- |
 | stream | Stream | MD (Markdown) conversion input data stream. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 | outputPath | String | Full html file path as output conversion result. |
 
 ### Remarks
@@ -262,9 +262,9 @@ Markdown Converter
 
 Conversion steps
 
-[`Converter`](../../converter) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Online MD converter
+Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument/) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Online MD converter
 
 You may also be interested in a free online [MD to HTML Converter](https://products.aspose.app/html/en/conversion/md-to-html) that converts MD to HTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds! Also you can check other online MD converters: [MD to PDF](https://products.aspose.app/html/en/conversion/md-to-pdf), [MD to DOCX](https://products.aspose.app/html/en/conversion/md-to-docx), [MD to XPS](https://products.aspose.app/html/en/conversion/md-to-xps) and find appropriate [MD to image converters](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/).
 
@@ -300,16 +300,16 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(string) {#convertmarkdown_2}
 
-Convert MD (markdown) source presented by full file path to html. Result is [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved through output file path.
+Convert MD (markdown) source presented by full file path to html. Result is [`HTMLDocument`](../../../aspose.html/htmldocument/) which can be saved through output file path.
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(string sourcePath)
@@ -321,7 +321,7 @@ public static HTMLDocument ConvertMarkdown(string sourcePath)
 
 ### Return Value
 
-New formed [`HTMLDocument`](../../../aspose.html/htmldocument) as conversion result which can be saved through output file path.
+New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
 ### Remarks
 
@@ -331,9 +331,9 @@ Markdown Converter
 
 Conversion steps
 
-[`Converter`](../../converter) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Online MD converter
+Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument/) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Online MD converter
 
 You may also be interested in a free online [MD to HTML Converter](https://products.aspose.app/html/en/conversion/md-to-html) that converts MD to HTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds! Also you can check other online MD converters: [MD to PDF](https://products.aspose.app/html/en/conversion/md-to-pdf), [MD to DOCX](https://products.aspose.app/html/en/conversion/md-to-docx), [MD to XPS](https://products.aspose.app/html/en/conversion/md-to-xps) and find appropriate [MD to image converters](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/).
 
@@ -369,16 +369,16 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(string, Configuration) {#convertmarkdown_3}
 
-Convert MD (markdown) source presented by full file path to html. Result is [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved through output file path.
+Convert MD (markdown) source presented by full file path to html. Result is [`HTMLDocument`](../../../aspose.html/htmldocument/) which can be saved through output file path.
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(string sourcePath, Configuration configuration)
@@ -387,11 +387,11 @@ public static HTMLDocument ConvertMarkdown(string sourcePath, Configuration conf
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | MD (Markdown) source full file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 
 ### Return Value
 
-New formed [`HTMLDocument`](../../../aspose.html/htmldocument) as conversion result which can be saved through output file path.
+New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
 ### Remarks
 
@@ -401,9 +401,9 @@ Markdown Converter
 
 Conversion steps
 
-[`Converter`](../../converter) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Online MD converter
+Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument/) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Online MD converter
 
 You may also be interested in a free online [MD to HTML Converter](https://products.aspose.app/html/en/conversion/md-to-html) that converts MD to HTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds! Also you can check other online MD converters: [MD to PDF](https://products.aspose.app/html/en/conversion/md-to-pdf), [MD to DOCX](https://products.aspose.app/html/en/conversion/md-to-docx), [MD to XPS](https://products.aspose.app/html/en/conversion/md-to-xps) and find appropriate [MD to image converters](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/).
 
@@ -439,10 +439,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -468,9 +468,9 @@ Markdown Converter
 
 Conversion steps
 
-[`Converter`](../../converter) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Online MD converter
+Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument/) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Online MD converter
 
 You may also be interested in a free online [MD to HTML Converter](https://products.aspose.app/html/en/conversion/md-to-html) that converts MD to HTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds! Also you can check other online MD converters: [MD to PDF](https://products.aspose.app/html/en/conversion/md-to-pdf), [MD to DOCX](https://products.aspose.app/html/en/conversion/md-to-docx), [MD to XPS](https://products.aspose.app/html/en/conversion/md-to-xps) and find appropriate [MD to image converters](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/).
 
@@ -502,8 +502,8 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -520,7 +520,7 @@ public static void ConvertMarkdown(string sourcePath, Configuration configuratio
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Path to source Markdown file. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 | outputPath | String | Full html file path as output conversion result. |
 
 ### Remarks
@@ -531,9 +531,9 @@ Markdown Converter
 
 Conversion steps
 
-[`Converter`](../../converter) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to convert MD to html wherein you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Online MD converter
+Conversion source. Detect an existing local MD file or create input data stream as conversion source.Conversion result. You can obtain directly [`HTMLDocument`](../../../aspose.html/htmldocument/) or define result output file path depend of method signature.Use the ConvertMarkdown() method of the Converter class to save MD as an html result. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Online MD converter
 
 You may also be interested in a free online [MD to HTML Converter](https://products.aspose.app/html/en/conversion/md-to-html) that converts MD to HTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds! Also you can check other online MD converters: [MD to PDF](https://products.aspose.app/html/en/conversion/md-to-pdf), [MD to DOCX](https://products.aspose.app/html/en/conversion/md-to-docx), [MD to XPS](https://products.aspose.app/html/en/conversion/md-to-xps) and find appropriate [MD to image converters](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/).
 
@@ -565,9 +565,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

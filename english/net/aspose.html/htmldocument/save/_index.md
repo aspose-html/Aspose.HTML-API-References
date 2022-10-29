@@ -16,7 +16,7 @@ public void Save(Url url)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | Url | Local [`URL`](../../url) to output file. |
+| url | Url | Local [`URL`](../../url/) to output file. |
 
 ### Exceptions
 
@@ -32,7 +32,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(Url) Method
 
-It is necessary to specify a full Url path - 'outputFilePath' for HTML document saving. The Url(url) constructor creates an instance of the [`Url`](../../url) class with the specified url. Then you should pass the instance to the Save(Url) method. The document will be saved to the local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files".
+It is necessary to specify a full Url path - 'outputFilePath' for HTML document saving. The Url(url) constructor creates an instance of the [`Url`](../../url/) class with the specified url. Then you should pass the instance to the Save(Url) method. The document will be saved to the local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files".
 
 Source code
 
@@ -62,9 +62,9 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ### See Also
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -79,7 +79,7 @@ public void Save(IOutputStorage outputStorage)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | The output storage. A custom implementation of IOutputStorage [`interface`](../../../aspose.html.io/ioutputstorage). See the example below as more detailed view into processing html files and linked resources. |
+| outputStorage | IOutputStorage | The output storage. A custom implementation of IOutputStorage [`interface`](../../../aspose.html.io/ioutputstorage/). See the example below as more detailed view into processing html files and linked resources. |
 
 ### Remarks
 
@@ -89,7 +89,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(IOutputStorage) Method
 
-An HTML document can contain different resources like CSS, external images and files. Aspose.HTML provides a way to save HTML with all linked files - the [`IOutputStorage`](../../../aspose.html.io/ioutputstorage) interface is developed for saving HTML content and resources to streams. The CustomOutputStorage(outputHtmlPath) constructor creates an object that is a file system storage. The Save(outputStorage) method takes this object and saves the HTML document to the output storage.
+An HTML document can contain different resources like CSS, external images and files. Aspose.HTML provides a way to save HTML with all linked files - the [`IOutputStorage`](../../../aspose.html.io/ioutputstorage/) interface is developed for saving HTML content and resources to streams. The CustomOutputStorage(outputHtmlPath) constructor creates an object that is a file system storage. The Save(outputStorage) method takes this object and saves the HTML document to the output storage.
 
 Source code
 
@@ -169,9 +169,9 @@ class CustomOutputStorage : IOutputStorage
 
 ### See Also
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -235,8 +235,8 @@ using Aspose.Html;
 
 ### See Also
 
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -268,7 +268,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(String, HTMLSaveFormat) Method
 
-Save(String, HTMLSaveFormat) method takes as parameters a local file system path to output file and saveFormat. The [`HTMLSaveFormat`](../../../aspose.html.saving/htmlsaveformat) Enumeration specifies the format in which document is saved, it can be HTML, MHTML and MD formats. The method saves the HTML document in the specified format to the local file specified by path. All resources used in the document will be saved into an adjacent folder.
+Save(String, HTMLSaveFormat) method takes as parameters a local file system path to output file and saveFormat. The [`HTMLSaveFormat`](../../../aspose.html.saving/htmlsaveformat/) Enumeration specifies the format in which document is saved, it can be HTML, MHTML and MD formats. The method saves the HTML document in the specified format to the local file specified by path. All resources used in the document will be saved into an adjacent folder.
 
 Source code
 
@@ -405,9 +405,9 @@ Content-Location: main.css
 
 ### See Also
 
-* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -439,7 +439,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(Url, HTMLSaveFormat) Method
 
-It is necessary to specify a full Url path - 'outputFilePath' for HTML document saving. The Url(url) constructor creates an instance of the [`Url`](../../url) class with the specified url. The [`HTMLSaveFormat`](../../../aspose.html.saving/htmlsaveformat) Enumeration specifies the format in which document is saved, it can be HTML, MHTML and MD formats. Then you should pass the parameters to the Save(url, saveFormat) method. The document will be saved in the specified format to the local file specified by url.
+It is necessary to specify a full Url path - 'outputFilePath' for HTML document saving. The Url(url) constructor creates an instance of the [`Url`](../../url/) class with the specified url. The [`HTMLSaveFormat`](../../../aspose.html.saving/htmlsaveformat/) Enumeration specifies the format in which document is saved, it can be HTML, MHTML and MD formats. Then you should pass the parameters to the Save(url, saveFormat) method. The document will be saved in the specified format to the local file specified by url.
 
 Source code
 
@@ -475,10 +475,10 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ### See Also
 
-* class [Url](../../url)
-* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -493,7 +493,7 @@ public void Save(IOutputStorage outputStorage, HTMLSaveFormat saveFormat)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | The output storage. Custom implementation of IOutputStorage [`interface`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | The output storage. Custom implementation of IOutputStorage [`interface`](../../../aspose.html.io/ioutputstorage/). |
 | saveFormat | HTMLSaveFormat | Format in which document is saved. |
 
 ### Remarks
@@ -504,7 +504,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(IOutputStorage, HTMLSaveFormat) Method
 
-An HTML document can contain different resources like CSS, external images and files. Aspose.HTML provides a way to save HTML with all linked files - the [`IOutputStorage`](../../../aspose.html.io/ioutputstorage) interface is developed for saving HTML content and resources to streams. The CustomOutputStorage(outputHtmlPath) constructor creates an object that is a file system storage. The [`HTMLSaveFormat`](../../../aspose.html.saving/htmlsaveformat) Enumeration specifies the format in which document is saved, it can be HTML, MHTML and MD formats. The Save(outputStorage, saveFormat) method takes the outputStorage object and saveFormat as parameters and saves the document to the output storage.
+An HTML document can contain different resources like CSS, external images and files. Aspose.HTML provides a way to save HTML with all linked files - the [`IOutputStorage`](../../../aspose.html.io/ioutputstorage/) interface is developed for saving HTML content and resources to streams. The CustomOutputStorage(outputHtmlPath) constructor creates an object that is a file system storage. The [`HTMLSaveFormat`](../../../aspose.html.saving/htmlsaveformat/) Enumeration specifies the format in which document is saved, it can be HTML, MHTML and MD formats. The Save(outputStorage, saveFormat) method takes the outputStorage object and saveFormat as parameters and saves the document to the output storage.
 
 Source code
 
@@ -592,10 +592,10 @@ class CustomOutputStorage : IOutputStorage
 
 ### See Also
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -611,7 +611,7 @@ public void Save(string path, HTMLSaveOptions saveOptions)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | path | String | Local path to output file. |
-| saveOptions | HTMLSaveOptions | [`HTMLSaveOptions`](../../../aspose.html.saving/htmlsaveoptions) object is for resource handling process management. |
+| saveOptions | HTMLSaveOptions | [`HTMLSaveOptions`](../../../aspose.html.saving/htmlsaveoptions/) object is for resource handling process management. |
 
 ### Exceptions
 
@@ -627,7 +627,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(String, HTMLSaveOptions) Method
 
-Save(String, HTMLSaveOptions) method takes as parameters a local file system path to output file, an instance of [HTMLSaveOptions](https://docs.aspose.com/html/net/working-with-documents/saving-a-document/) class and saves an HTML document with resources to the local file specified by path. The HTMLSaveOptions() constructor creates a save options instance that has [`ResourceHandlingOptions`](../../../aspose.html.saving/htmlsaveoptions) properties which are used for configuration of resources handling. All resources used in the document will be saved into an adjacent folder.
+Save(String, HTMLSaveOptions) method takes as parameters a local file system path to output file, an instance of [HTMLSaveOptions](https://docs.aspose.com/html/net/working-with-documents/saving-a-document/) class and saves an HTML document with resources to the local file specified by path. The HTMLSaveOptions() constructor creates a save options instance that has [`ResourceHandlingOptions`](../../../aspose.html.saving/htmlsaveoptions/) properties which are used for configuration of resources handling. All resources used in the document will be saved into an adjacent folder.
 
 Source code
 
@@ -667,9 +667,9 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ### See Also
 
-* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -684,8 +684,8 @@ public void Save(Url url, HTMLSaveOptions saveOptions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | Url | Local [`URL`](../../url) to output file. |
-| saveOptions | HTMLSaveOptions | [`HTMLSaveOptions`](../../../aspose.html.saving/htmlsaveoptions) object is for resource handling process management. |
+| url | Url | Local [`URL`](../../url/) to output file. |
+| saveOptions | HTMLSaveOptions | [`HTMLSaveOptions`](../../../aspose.html.saving/htmlsaveoptions/) object is for resource handling process management. |
 
 ### Exceptions
 
@@ -701,7 +701,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(Url, HTMLSaveOptions) Method
 
-It is necessary to specify a full Url path for HTML document saving. The Url(url) constructor creates an instance of the [`Url`](../../url) class with the specified url. The HTMLSaveOptions() constructor creates an instance of [`HTMLSaveOptions`](../../../aspose.html.saving/htmlsaveoptions) class that has ResourceHandlingOptions properties which are used for configuration of resources handling. The Save(url, saveOptions) method takes parameters and saves the HTML document with resources to the local file specified by url.
+It is necessary to specify a full Url path for HTML document saving. The Url(url) constructor creates an instance of the [`Url`](../../url/) class with the specified url. The HTMLSaveOptions() constructor creates an instance of [`HTMLSaveOptions`](../../../aspose.html.saving/htmlsaveoptions/) class that has ResourceHandlingOptions properties which are used for configuration of resources handling. The Save(url, saveOptions) method takes parameters and saves the HTML document with resources to the local file specified by url.
 
 Source code
 
@@ -741,10 +741,10 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ### See Also
 
-* class [Url](../../url)
-* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -759,8 +759,8 @@ public void Save(IOutputStorage outputStorage, HTMLSaveOptions saveOptions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Custom implementation of [`IOutputStorage`](../../../aspose.html.io/ioutputstorage) interface. |
-| saveOptions | HTMLSaveOptions | [`HTMLSaveOptions`](../../../aspose.html.saving/htmlsaveoptions) object enables you to manage resource handling process. |
+| outputStorage | IOutputStorage | Custom implementation of [`IOutputStorage`](../../../aspose.html.io/ioutputstorage/) interface. |
+| saveOptions | HTMLSaveOptions | [`HTMLSaveOptions`](../../../aspose.html.saving/htmlsaveoptions/) object enables you to manage resource handling process. |
 
 ### Remarks
 
@@ -770,7 +770,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(IOutputStorage, HTMLSaveOptions) Method
 
-An HTML document can contain different resources like CSS, external images and files. Aspose.HTML provides a way to save HTML with all linked files - the [`IOutputStorage`](../../../aspose.html.io/ioutputstorage) interface is developed for saving HTML content and resources to streams. The CustomOutputStorage(outputHtmlPath) constructor creates an object that is a file system storage. The HTMLSaveOptions() constructor creates a save options instance that has the ResourceHandlingOptions properties which are used for configuration of resources handling. The Save(outputStorage, saveOptions) method takes outputStorage and options as parameters and saves the HTML document with resources to the output storage.
+An HTML document can contain different resources like CSS, external images and files. Aspose.HTML provides a way to save HTML with all linked files - the [`IOutputStorage`](../../../aspose.html.io/ioutputstorage/) interface is developed for saving HTML content and resources to streams. The CustomOutputStorage(outputHtmlPath) constructor creates an object that is a file system storage. The HTMLSaveOptions() constructor creates a save options instance that has the ResourceHandlingOptions properties which are used for configuration of resources handling. The Save(outputStorage, saveOptions) method takes outputStorage and options as parameters and saves the HTML document with resources to the output storage.
 
 Source code
 
@@ -857,10 +857,10 @@ class CustomOutputStorage : IOutputStorage
 
 ### See Also
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -876,7 +876,7 @@ public void Save(string path, MarkdownSaveOptions saveOptions)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | path | String | Local path to output file. |
-| saveOptions | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions) object usage enables you to tune the rendering process. For more info see the [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#save-options). |
+| saveOptions | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see the [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#save-options). |
 
 ### Exceptions
 
@@ -892,7 +892,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(String, MarkdownSaveOptions) Method
 
-It is necessary to specify a local file system path to the output file for document saving. The MarkdownSaveOptions() constructor creates an instance of [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions) class that has a set of properties. For example, you can set markdown formatting style, use predefined GitLab Flavored Markdown compatible options and configure resources handling. The Save(path, saveOptions) method takes the local file system path to output file and options instance as parameters and saves HTML as a Markdown document with resources to the local file specified by path.
+It is necessary to specify a local file system path to the output file for document saving. The MarkdownSaveOptions() constructor creates an instance of [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) class that has a set of properties. For example, you can set markdown formatting style, use predefined GitLab Flavored Markdown compatible options and configure resources handling. The Save(path, saveOptions) method takes the local file system path to output file and options instance as parameters and saves HTML as a Markdown document with resources to the local file specified by path.
 
 Source code
 
@@ -930,9 +930,9 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ### See Also
 
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -947,8 +947,8 @@ public void Save(Url url, MarkdownSaveOptions saveOptions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | Url | Local [`URL`](../../url) to output file. |
-| saveOptions | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#save-options). |
+| url | Url | Local [`URL`](../../url/) to output file. |
+| saveOptions | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#save-options). |
 
 ### Exceptions
 
@@ -964,7 +964,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(Url, MarkdownSaveOptions) Method
 
-It is necessary to specify a full Url path for document saving. The Url(url) constructor creates an instance of the [`Url`](../../url) class with the specified url. The MarkdownSaveOptions() constructor creates an instance of [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions) class that has a set of properties. For example, you can set Markdown formatting style, use predefined GitLab Flavored Markdown compatible options and configure resources handling. The Save(url, saveOptions) method takes url and save options instances as parameters and saves the document with resources to the local file specified by url.
+It is necessary to specify a full Url path for document saving. The Url(url) constructor creates an instance of the [`Url`](../../url/) class with the specified url. The MarkdownSaveOptions() constructor creates an instance of [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) class that has a set of properties. For example, you can set Markdown formatting style, use predefined GitLab Flavored Markdown compatible options and configure resources handling. The Save(url, saveOptions) method takes url and save options instances as parameters and saves the document with resources to the local file specified by url.
 
 Source code
 
@@ -1002,10 +1002,10 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ### See Also
 
-* class [Url](../../url)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1020,8 +1020,8 @@ public void Save(IOutputStorage outputStorage, MarkdownSaveOptions saveOptions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Custom implementation of IOutputStorage [`interface`](../../../aspose.html.io/ioutputstorage). |
-| saveOptions | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#save-options). |
+| outputStorage | IOutputStorage | Custom implementation of IOutputStorage [`interface`](../../../aspose.html.io/ioutputstorage/). |
+| saveOptions | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#save-options). |
 
 ### Remarks
 
@@ -1031,7 +1031,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(IOutputStorage, MarkdownSaveOptions) Method
 
-An HTML document can contain different resources like CSS, external images and files. Aspose.HTML provides a way to save HTML with all linked files - the [`IOutputStorage`](../../../aspose.html.io/ioutputstorage) interface is developed for saving HTML content and resources to streams. The CustomOutputStorageMD(outputHtmlPath) constructor creates an object that is a file system storage. The MarkdownSaveOptions() constructor initializes a save options instance. This instance has a set of [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions) properties which are used for configuration of resources handling. For example, you can set markdown formatting style, use predefined GitLab Flavored Markdown compatible options and configure resources handling. The Save(outputStorage, saveOptions) method takes outputStorage and options as parameters and saves the document with resources to the output storage.
+An HTML document can contain different resources like CSS, external images and files. Aspose.HTML provides a way to save HTML with all linked files - the [`IOutputStorage`](../../../aspose.html.io/ioutputstorage/) interface is developed for saving HTML content and resources to streams. The CustomOutputStorageMD(outputHtmlPath) constructor creates an object that is a file system storage. The MarkdownSaveOptions() constructor initializes a save options instance. This instance has a set of [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) properties which are used for configuration of resources handling. For example, you can set markdown formatting style, use predefined GitLab Flavored Markdown compatible options and configure resources handling. The Save(outputStorage, saveOptions) method takes outputStorage and options as parameters and saves the document with resources to the output storage.
 
 Source code
 
@@ -1114,10 +1114,10 @@ class CustomOutputStorageMD : IOutputStorage
 
 ### See Also
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1133,7 +1133,7 @@ public void Save(string path, MHTMLSaveOptions saveOptions)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | path | String | Local path to output file. |
-| saveOptions | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#save-options). |
+| saveOptions | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#save-options). |
 
 ### Exceptions
 
@@ -1149,7 +1149,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(String, MHTMLSaveOptions) Method
 
-It is necessary to specify a local file system path to the output file for document saving. The MHTMLSaveOptions() constructor initializes an instance of [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) class that has the ResourceHandlingOptions property which is used for configuration of resources handling. The Save(path, saveOptions) method takes a local file system path to output file and a save options instance as parameters and saves HTML as an MHTML document to the local file specified by path.
+It is necessary to specify a local file system path to the output file for document saving. The MHTMLSaveOptions() constructor initializes an instance of [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) class that has the ResourceHandlingOptions property which is used for configuration of resources handling. The Save(path, saveOptions) method takes a local file system path to output file and a save options instance as parameters and saves HTML as an MHTML document to the local file specified by path.
 
 Source code
 
@@ -1187,9 +1187,9 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ### See Also
 
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1205,7 +1205,7 @@ public void Save(Url url, MHTMLSaveOptions saveOptions)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | Local URL to output file. |
-| saveOptions | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#save-options). |
+| saveOptions | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#save-options). |
 
 ### Exceptions
 
@@ -1221,7 +1221,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(Url, MHTMLSaveOptions) Method
 
-It is necessary to specify a full Url path for document saving. The Url(url) constructor creates an instance of the [`Url`](../../url) class with the specified url. The MHTMLSaveOptions() constructor initializes an instance of [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) class that has the  ResourceHandlingOptions property which is used for configuration of resources handling. The Save(url, saveOptions) method takes url and options as parameters and saves HTML as an MHTML document to the local file specified by url.
+It is necessary to specify a full Url path for document saving. The Url(url) constructor creates an instance of the [`Url`](../../url/) class with the specified url. The MHTMLSaveOptions() constructor initializes an instance of [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) class that has the  ResourceHandlingOptions property which is used for configuration of resources handling. The Save(url, saveOptions) method takes url and options as parameters and saves HTML as an MHTML document to the local file specified by url.
 
 Source code
 
@@ -1259,10 +1259,10 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ### See Also
 
-* class [Url](../../url)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1277,8 +1277,8 @@ public void Save(IOutputStorage outputStorage, MHTMLSaveOptions saveOptions)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | The output storage [`interface`](../../../aspose.html.io/ioutputstorage) implementation. |
-| saveOptions | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#save-options). |
+| outputStorage | IOutputStorage | The output storage [`interface`](../../../aspose.html.io/ioutputstorage/) implementation. |
+| saveOptions | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#save-options). |
 
 ### Remarks
 
@@ -1288,7 +1288,7 @@ Most of the tasks, you need to perform, require saving a document. Once you load
 
 Save(IOutputStorage, MHTMLSaveOptions) Method
 
-Aspose.HTML provides a way to save an HTML document with all linked files - the IOutputStorage interface is developed for saving HTML content and resources to streams. The CustomOutputStorageMhtml(outputHtmlPath) constructor creates an object that is a file system storage. The MHTMLSaveOptions() constructor initializes an instance of [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) class that has ResourceHandlingOptions property which is used for configuration of resources handling. The Save(outputStorage, saveOptions) method takes the outputStorage and saveOptions parameters and saves the document with resources to the output storage.
+Aspose.HTML provides a way to save an HTML document with all linked files - the IOutputStorage interface is developed for saving HTML content and resources to streams. The CustomOutputStorageMhtml(outputHtmlPath) constructor creates an object that is a file system storage. The MHTMLSaveOptions() constructor initializes an instance of [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) class that has ResourceHandlingOptions property which is used for configuration of resources handling. The Save(outputStorage, saveOptions) method takes the outputStorage and saveOptions parameters and saves the document with resources to the output storage.
 
 Source code
 
@@ -1372,10 +1372,10 @@ public class CustomOutputStorageMhtml : IOutputStorage {
 
 ### See Also
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

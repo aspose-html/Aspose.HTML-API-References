@@ -1,14 +1,14 @@
 ---
 title: ConvertHTML
 second_title: Aspose.HTML for .NET API Reference
-description: Convert HTML source presented by HTMLDocumentaspose.html/htmldocument. Result is docx file formed by output file path.
+description: Convert HTML source presented by HTMLDocumentaspose.html/htmldocument/. Result is docx file formed by output file path.
 type: docs
 weight: 20
 url: /net/aspose.html.converters/converter/converthtml/
 ---
 ## ConvertHTML(HTMLDocument, DocSaveOptions, string) {#converthtml_1}
 
-Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). Result is docx file formed by output file path.
+Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). Result is docx file formed by output file path.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, DocSaveOptions options, string outputPath)
@@ -16,8 +16,8 @@ public static void ConvertHTML(HTMLDocument document, DocSaveOptions options, st
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | HTMLDocument | [`HTMLDocument`](../../../aspose.html/htmldocument) instance as conversion source. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| document | HTMLDocument | [`HTMLDocument`](../../../aspose.html/htmldocument/) instance as conversion source. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
 ### Remarks
@@ -28,7 +28,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -48,7 +48,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -58,9 +58,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -122,10 +122,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -141,7 +141,7 @@ public static void ConvertHTML(Url url, DocSaveOptions options, string outputPat
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
 ### Remarks
@@ -152,7 +152,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -172,7 +172,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -182,9 +182,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -240,10 +240,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -260,8 +260,8 @@ public static void ConvertHTML(Url url, Configuration configuration, DocSaveOpti
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
 ### Remarks
@@ -272,7 +272,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -292,7 +292,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -302,9 +302,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -360,11 +360,11 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -380,7 +380,7 @@ public static void ConvertHTML(string sourcePath, DocSaveOptions options, string
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html full file source path. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
 ### Remarks
@@ -391,7 +391,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -411,7 +411,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -421,9 +421,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -479,9 +479,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -498,8 +498,8 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html full file source path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
 ### Remarks
@@ -510,7 +510,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -530,7 +530,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -540,9 +540,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -598,10 +598,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -619,7 +619,7 @@ public static void ConvertHTML(string content, string baseUri, DocSaveOptions op
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
 ### Remarks
@@ -630,7 +630,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -650,7 +650,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -660,9 +660,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -716,9 +716,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -736,8 +736,8 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
 ### Remarks
@@ -748,7 +748,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -768,7 +768,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -778,9 +778,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -834,17 +834,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, DocSaveOptions, ICreateStreamProvider) {#converthtml}
 
-Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, DocSaveOptions options, 
@@ -853,9 +853,9 @@ public static void ConvertHTML(HTMLDocument document, DocSaveOptions options,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -865,7 +865,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -885,7 +885,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -895,9 +895,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -961,18 +961,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, DocSaveOptions, ICreateStreamProvider) {#converthtml_20}
 
-Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(Url url, DocSaveOptions options, ICreateStreamProvider provider)
@@ -981,8 +981,8 @@ public static void ConvertHTML(Url url, DocSaveOptions options, ICreateStreamPro
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -992,7 +992,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -1012,7 +1012,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -1022,9 +1022,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1083,18 +1083,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_10}
 
-Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, DocSaveOptions options, 
@@ -1104,9 +1104,9 @@ public static void ConvertHTML(Url url, Configuration configuration, DocSaveOpti
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -1116,7 +1116,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -1136,7 +1136,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -1146,9 +1146,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1207,19 +1207,19 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, DocSaveOptions, ICreateStreamProvider) {#converthtml_40}
 
-Convert HTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, DocSaveOptions options, 
@@ -1229,8 +1229,8 @@ public static void ConvertHTML(string sourcePath, DocSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html full file source path. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -1240,7 +1240,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -1260,7 +1260,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -1270,9 +1270,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1331,17 +1331,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_30}
 
-Convert HTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -1351,9 +1351,9 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html full file source path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -1363,7 +1363,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -1383,7 +1383,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -1393,9 +1393,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1454,18 +1454,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, DocSaveOptions, ICreateStreamProvider) {#converthtml_60}
 
-Convert HTML source presented by inline content to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by inline content to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, DocSaveOptions options, 
@@ -1476,8 +1476,8 @@ public static void ConvertHTML(string content, string baseUri, DocSaveOptions op
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -1487,7 +1487,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -1507,7 +1507,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -1517,9 +1517,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1581,17 +1581,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_50}
 
-Convert HTML source presented by inline content to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by inline content to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -1602,9 +1602,9 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -1614,7 +1614,7 @@ How to convert HTML to DOCX
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 DOCX conversion
 
@@ -1634,7 +1634,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -1644,9 +1644,9 @@ Other popular formats conversions
 
 Convert HTML to DOCX
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [DOCX](https://docs.fileformat.com/word-processing/docx/). To convert HTML to DOCX, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an DOCX result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to DOCX Converter](https://products.aspose.app/html/en/conversion/html-to-docx) that converts HTML to DOCX with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1708,18 +1708,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, PdfSaveOptions, string) {#converthtml_7}
 
-Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). Result is pdf file formed by output file path.
+Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). Result is pdf file formed by output file path.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, PdfSaveOptions options, string outputPath)
@@ -1727,8 +1727,8 @@ public static void ConvertHTML(HTMLDocument document, PdfSaveOptions options, st
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
 ### Remarks
@@ -1739,7 +1739,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -1759,7 +1759,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -1769,9 +1769,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1834,10 +1834,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1853,7 +1853,7 @@ public static void ConvertHTML(Url url, PdfSaveOptions options, string outputPat
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
 ### Remarks
@@ -1864,7 +1864,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -1884,7 +1884,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -1894,9 +1894,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1952,10 +1952,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1972,8 +1972,8 @@ public static void ConvertHTML(Url url, Configuration configuration, PdfSaveOpti
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
 ### Remarks
@@ -1984,7 +1984,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -2004,7 +2004,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -2014,9 +2014,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2072,11 +2072,11 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2092,7 +2092,7 @@ public static void ConvertHTML(string sourcePath, PdfSaveOptions options, string
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html full file source path. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
 ### Remarks
@@ -2103,7 +2103,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -2123,7 +2123,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -2133,9 +2133,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2191,9 +2191,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2210,8 +2210,8 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html full file source path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
 ### Remarks
@@ -2222,7 +2222,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -2242,7 +2242,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -2252,9 +2252,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2310,10 +2310,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2331,7 +2331,7 @@ public static void ConvertHTML(string content, string baseUri, PdfSaveOptions op
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
 ### Remarks
@@ -2342,7 +2342,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -2362,7 +2362,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -2372,9 +2372,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2428,9 +2428,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2448,8 +2448,8 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
 ### Remarks
@@ -2460,7 +2460,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -2480,7 +2480,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -2490,9 +2490,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2546,17 +2546,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, PdfSaveOptions, ICreateStreamProvider) {#converthtml_6}
 
-Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument) to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/) to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, PdfSaveOptions options, 
@@ -2565,9 +2565,9 @@ public static void ConvertHTML(HTMLDocument document, PdfSaveOptions options,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -2577,7 +2577,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -2597,7 +2597,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -2607,9 +2607,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2673,18 +2673,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, PdfSaveOptions, ICreateStreamProvider) {#converthtml_26}
 
-Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(Url url, PdfSaveOptions options, ICreateStreamProvider provider)
@@ -2693,8 +2693,8 @@ public static void ConvertHTML(Url url, PdfSaveOptions options, ICreateStreamPro
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -2704,7 +2704,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -2724,7 +2724,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -2734,9 +2734,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2793,18 +2793,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_16}
 
-Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, PdfSaveOptions options, 
@@ -2814,9 +2814,9 @@ public static void ConvertHTML(Url url, Configuration configuration, PdfSaveOpti
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -2826,7 +2826,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -2846,7 +2846,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -2856,9 +2856,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2915,19 +2915,19 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, PdfSaveOptions, ICreateStreamProvider) {#converthtml_46}
 
-Convert HTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, PdfSaveOptions options, 
@@ -2937,8 +2937,8 @@ public static void ConvertHTML(string sourcePath, PdfSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html full file source path. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -2948,7 +2948,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -2968,7 +2968,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -2978,9 +2978,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3039,17 +3039,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_36}
 
-Convert HTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -3059,9 +3059,9 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html full file source path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -3071,7 +3071,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -3091,7 +3091,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -3101,9 +3101,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3162,18 +3162,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, PdfSaveOptions, ICreateStreamProvider) {#converthtml_66}
 
-Convert HTML source presented by inline content to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by inline content to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, PdfSaveOptions options, 
@@ -3184,8 +3184,8 @@ public static void ConvertHTML(string content, string baseUri, PdfSaveOptions op
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -3195,7 +3195,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -3215,7 +3215,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -3225,9 +3225,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3284,17 +3284,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_56}
 
-Convert HTML source presented by inline content to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by inline content to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -3305,9 +3305,9 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -3317,7 +3317,7 @@ How to convert HTML to PDF
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 PDF conversion
 
@@ -3337,7 +3337,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -3347,9 +3347,9 @@ Other popular formats conversions
 
 Convert HTML to PDF
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to PDF. To convert HTML to PDF, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an PDF result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PDF Converter](https://products.aspose.app/html/en/conversion/html-to-pdf) that converts HTML to PDF with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3406,18 +3406,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, MHTMLSaveOptions, string) {#converthtml_5}
 
-Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). Result is mhtml (.mht) file formed by output file path.
+Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). Result is mhtml (.mht) file formed by output file path.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, MHTMLSaveOptions options, string outputPath)
@@ -3425,8 +3425,8 @@ public static void ConvertHTML(HTMLDocument document, MHTMLSaveOptions options, 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). |
-| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
+| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). |
+| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
 ### Remarks
@@ -3437,7 +3437,7 @@ How to convert HTML to MHTML
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 MHTML conversion
 
@@ -3457,7 +3457,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -3467,9 +3467,9 @@ Other popular formats conversions
 
 Convert HTML to MHTML
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to MHTML Converter](https://products.aspose.app/html/en/conversion/html-to-mhtml) that converts HTML to MHTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3527,10 +3527,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3546,7 +3546,7 @@ public static void ConvertHTML(Url url, MHTMLSaveOptions options, string outputP
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
+| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
 ### Remarks
@@ -3557,7 +3557,7 @@ How to convert HTML to MHTML
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 MHTML conversion
 
@@ -3577,7 +3577,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -3587,9 +3587,9 @@ Other popular formats conversions
 
 Convert HTML to MHTML
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to MHTML Converter](https://products.aspose.app/html/en/conversion/html-to-mhtml) that converts HTML to MHTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3646,10 +3646,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3666,8 +3666,8 @@ public static void ConvertHTML(Url url, Configuration configuration, MHTMLSaveOp
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
 ### Remarks
@@ -3678,7 +3678,7 @@ How to convert HTML to MHTML
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 MHTML conversion
 
@@ -3698,7 +3698,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -3708,9 +3708,9 @@ Other popular formats conversions
 
 Convert HTML to MHTML
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to MHTML Converter](https://products.aspose.app/html/en/conversion/html-to-mhtml) that converts HTML to MHTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3767,11 +3767,11 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3787,7 +3787,7 @@ public static void ConvertHTML(string sourcePath, MHTMLSaveOptions options, stri
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html file source path. It will be combined with the current directory path to form an absolute URL. |
-| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
+| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
 ### Remarks
@@ -3798,7 +3798,7 @@ How to convert HTML to MHTML
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 MHTML conversion
 
@@ -3818,7 +3818,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -3828,9 +3828,9 @@ Other popular formats conversions
 
 Convert HTML to MHTML
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to MHTML Converter](https://products.aspose.app/html/en/conversion/html-to-mhtml) that converts HTML to MHTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3887,9 +3887,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3906,8 +3906,8 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html full file source path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
 ### Remarks
@@ -3918,7 +3918,7 @@ How to convert HTML to MHTML
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 MHTML conversion
 
@@ -3938,7 +3938,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -3948,9 +3948,9 @@ Other popular formats conversions
 
 Convert HTML to MHTML
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to MHTML Converter](https://products.aspose.app/html/en/conversion/html-to-mhtml) that converts HTML to MHTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4007,10 +4007,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -4028,7 +4028,7 @@ public static void ConvertHTML(string content, string baseUri, MHTMLSaveOptions 
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
+| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
 ### Remarks
@@ -4039,7 +4039,7 @@ How to convert HTML to MHTML
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 MHTML conversion
 
@@ -4059,7 +4059,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -4069,9 +4069,9 @@ Other popular formats conversions
 
 Convert HTML to MHTML
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to MHTML Converter](https://products.aspose.app/html/en/conversion/html-to-mhtml) that converts HTML to MHTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4125,9 +4125,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -4145,8 +4145,8 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
 ### Remarks
@@ -4157,7 +4157,7 @@ How to convert HTML to MHTML
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 MHTML conversion
 
@@ -4177,7 +4177,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -4187,9 +4187,9 @@ Other popular formats conversions
 
 Convert HTML to MHTML
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [MHTML](https://docs.fileformat.com/web/mhtml/). To convert HTML to MHTML, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an MHTML result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to MHTML Converter](https://products.aspose.app/html/en/conversion/html-to-mhtml) that converts HTML to MHTML with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4243,17 +4243,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, MarkdownSaveOptions, string) {#converthtml_4}
 
-Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). Result is markdown (.md) file formed by output file path.
+Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). Result is markdown (.md) file formed by output file path.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, MarkdownSaveOptions options, 
@@ -4262,8 +4262,8 @@ public static void ConvertHTML(HTMLDocument document, MarkdownSaveOptions option
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). |
-| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
+| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). |
+| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
 ### Remarks
@@ -4274,7 +4274,7 @@ How to convert HTML to Markdown
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Markdown conversion
 
@@ -4294,7 +4294,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -4304,9 +4304,9 @@ Other popular formats conversions
 
 Convert HTML to Markdown
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4365,10 +4365,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -4384,7 +4384,7 @@ public static void ConvertHTML(Url url, MarkdownSaveOptions options, string outp
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
+| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
 ### Remarks
@@ -4395,7 +4395,7 @@ How to convert HTML to Markdown
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Markdown conversion
 
@@ -4415,7 +4415,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -4425,9 +4425,9 @@ Other popular formats conversions
 
 Convert HTML to Markdown
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4483,10 +4483,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -4503,8 +4503,8 @@ public static void ConvertHTML(Url url, Configuration configuration, MarkdownSav
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
 ### Remarks
@@ -4515,7 +4515,7 @@ How to convert HTML to Markdown
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Markdown conversion
 
@@ -4535,7 +4535,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -4545,9 +4545,9 @@ Other popular formats conversions
 
 Convert HTML to Markdown
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4603,11 +4603,11 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -4623,7 +4623,7 @@ public static void ConvertHTML(string sourcePath, MarkdownSaveOptions options, s
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html file source path. It will be combined with the current directory path to form an absolute URL. |
-| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
+| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
 ### Remarks
@@ -4634,7 +4634,7 @@ How to convert HTML to Markdown
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Markdown conversion
 
@@ -4654,7 +4654,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -4664,9 +4664,9 @@ Other popular formats conversions
 
 Convert HTML to Markdown
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4722,9 +4722,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -4741,8 +4741,8 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html file source path. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
 ### Remarks
@@ -4753,7 +4753,7 @@ How to convert HTML to Markdown
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Markdown conversion
 
@@ -4773,7 +4773,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -4783,9 +4783,9 @@ Other popular formats conversions
 
 Convert HTML to Markdown
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4841,10 +4841,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -4862,7 +4862,7 @@ public static void ConvertHTML(string content, string baseUri, MarkdownSaveOptio
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
+| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
 ### Remarks
@@ -4873,7 +4873,7 @@ How to convert HTML to Markdown
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Markdown conversion
 
@@ -4893,7 +4893,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -4903,9 +4903,9 @@ Other popular formats conversions
 
 Convert HTML to Markdown
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4959,9 +4959,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -4979,8 +4979,8 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
 ### Remarks
@@ -4991,7 +4991,7 @@ How to convert HTML to Markdown
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Markdown conversion
 
@@ -5011,7 +5011,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -5021,9 +5021,9 @@ Other popular formats conversions
 
 Convert HTML to Markdown
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -5077,17 +5077,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, XpsSaveOptions, string) {#converthtml_9}
 
-Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). Result is xps file formed by output file path.
+Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). Result is xps file formed by output file path.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options, string outputPath)
@@ -5095,8 +5095,8 @@ public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options, st
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
+| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
 | outputPath | String | Full xps file path as output conversion result. |
 
 ### Remarks
@@ -5105,7 +5105,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -5125,7 +5125,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -5135,9 +5135,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS Converter](https://products.aspose.app/html/en/conversion/html-to-xps) that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -5197,10 +5197,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -5216,7 +5216,7 @@ public static void ConvertHTML(Url url, XpsSaveOptions options, string outputPat
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
 | outputPath | String | Full xps file path as output conversion result. |
 
 ### Remarks
@@ -5225,7 +5225,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -5245,7 +5245,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -5255,9 +5255,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS Converter](https://products.aspose.app/html/en/conversion/html-to-xps) that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -5313,10 +5313,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -5333,8 +5333,8 @@ public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOpti
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | outputPath | String | Full xps file path as output conversion result. |
 
 ### Remarks
@@ -5343,7 +5343,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -5363,7 +5363,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -5373,9 +5373,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS Converter](https://products.aspose.app/html/en/conversion/html-to-xps) that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -5431,11 +5431,11 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -5451,7 +5451,7 @@ public static void ConvertHTML(string sourcePath, XpsSaveOptions options, string
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html file source path. It will be combined with the current directory path to form an absolute URL. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
 | outputPath | String | Full xps file path as output conversion result. |
 
 ### Remarks
@@ -5460,7 +5460,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -5480,7 +5480,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -5490,9 +5490,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS Converter](https://products.aspose.app/html/en/conversion/html-to-xps) that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -5548,9 +5548,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -5567,8 +5567,8 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html full file source path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
 | outputPath | String | Full xps file path as output conversion result. |
 
 ### Remarks
@@ -5577,7 +5577,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -5597,7 +5597,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -5607,9 +5607,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS Converter](https://products.aspose.app/html/en/conversion/html-to-xps) that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -5665,10 +5665,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -5686,7 +5686,7 @@ public static void ConvertHTML(string content, string baseUri, XpsSaveOptions op
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
 | outputPath | String | Full xps file path as output conversion result. |
 
 ### Remarks
@@ -5695,7 +5695,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -5715,7 +5715,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -5725,9 +5725,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS Converter](https://products.aspose.app/html/en/conversion/html-to-xps) that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -5781,9 +5781,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -5801,8 +5801,8 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | outputPath | String | Full xps file path as output conversion result. |
 
 ### Remarks
@@ -5811,7 +5811,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -5831,7 +5831,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -5841,9 +5841,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS Converter](https://products.aspose.app/html/en/conversion/html-to-xps) that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -5897,17 +5897,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, XpsSaveOptions, ICreateStreamProvider) {#converthtml_8}
 
-Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options, 
@@ -5916,9 +5916,9 @@ public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -5926,7 +5926,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -5946,7 +5946,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -5956,9 +5956,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS Converter](https://products.aspose.app/html/en/conversion/html-to-xps) that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -6021,18 +6021,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, XpsSaveOptions, ICreateStreamProvider) {#converthtml_28}
 
-Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(Url url, XpsSaveOptions options, ICreateStreamProvider provider)
@@ -6041,8 +6041,8 @@ public static void ConvertHTML(Url url, XpsSaveOptions options, ICreateStreamPro
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source document URL - provides an object representation of a universal identifier (URL). |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -6050,7 +6050,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -6070,7 +6070,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -6080,9 +6080,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS Converter](https://products.aspose.app/html/en/conversion/html-to-xps) that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -6141,18 +6141,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_18}
 
-Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOptions options, 
@@ -6162,9 +6162,9 @@ public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOpti
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -6172,7 +6172,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -6192,7 +6192,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -6202,9 +6202,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS Converter](https://products.aspose.app/html/en/conversion/html-to-xps) that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -6263,19 +6263,19 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, XpsSaveOptions, ICreateStreamProvider) {#converthtml_48}
 
-Convert HTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, XpsSaveOptions options, 
@@ -6285,8 +6285,8 @@ public static void ConvertHTML(string sourcePath, XpsSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html file source path. It will be combined with the current directory path to form an absolute URL. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -6294,7 +6294,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -6314,7 +6314,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -6324,9 +6324,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS Converter](https://products.aspose.app/html/en/conversion/html-to-xps) that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -6385,17 +6385,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_38}
 
-Convert HTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -6405,9 +6405,9 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html file source path. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -6415,7 +6415,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -6435,7 +6435,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -6445,9 +6445,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS Converter](https://products.aspose.app/html/en/conversion/html-to-xps) that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -6506,18 +6506,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, XpsSaveOptions, ICreateStreamProvider) {#converthtml_68}
 
-Convert HTML source presented by inline content to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by inline content to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, XpsSaveOptions options, 
@@ -6528,8 +6528,8 @@ public static void ConvertHTML(string content, string baseUri, XpsSaveOptions op
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -6537,7 +6537,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -6557,7 +6557,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -6567,9 +6567,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS](https://products.aspose.app/html/en/conversion/html-to-xps) converter that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -6626,17 +6626,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_58}
 
-Convert HTML source presented by inline content to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by inline content to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -6647,9 +6647,9 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object usage enables you to tune the rendering process. |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -6657,7 +6657,7 @@ How to convert HTML to XPS
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 XPS conversion
 
@@ -6677,7 +6677,7 @@ Other popular formats conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -6687,9 +6687,9 @@ Other popular formats conversions
 
 Convert HTML to XPS
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to XPS. To convert HTML to XPS, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with custom or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an XPS result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to XPS Converter](https://products.aspose.app/html/en/conversion/html-to-xps) that converts HTML to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -6746,18 +6746,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, ImageSaveOptions, string) {#converthtml_3}
 
-Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). Result is image file formed by output file path.
+Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). Result is image file formed by output file path.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, ImageSaveOptions options, string outputPath)
@@ -6765,8 +6765,8 @@ public static void ConvertHTML(HTMLDocument document, ImageSaveOptions options, 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. |
+| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -6777,13 +6777,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -6805,9 +6805,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -6854,10 +6854,10 @@ using (HTMLDocument document = new HTMLDocument(sourcePath, new Configuration())
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -6873,7 +6873,7 @@ public static void ConvertHTML(Url url, ImageSaveOptions options, string outputP
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source URL - provides an object representation of a universal identifier (URL). |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -6884,13 +6884,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -6912,9 +6912,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -6958,10 +6958,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -6978,8 +6978,8 @@ public static void ConvertHTML(Url url, Configuration configuration, ImageSaveOp
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -6990,13 +6990,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -7018,9 +7018,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -7064,11 +7064,11 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -7084,7 +7084,7 @@ public static void ConvertHTML(string sourcePath, ImageSaveOptions options, stri
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html file source path. It will be combined with the current directory path to form an absolute URL. |
-| options | ImageSaveOptions | To learn more about the [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) class, please read the [Fine-Tuning Converters](https://docs.aspose.com/html/net/converting-between-formats/fine-tuning-converters/) article. |
+| options | ImageSaveOptions | To learn more about the [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) class, please read the [Fine-Tuning Converters](https://docs.aspose.com/html/net/converting-between-formats/fine-tuning-converters/) article. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -7095,13 +7095,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -7123,9 +7123,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -7169,9 +7169,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -7188,8 +7188,8 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html file source path. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | To learn more about the [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) class, please read the [Fine-Tuning Converters](https://docs.aspose.com/html/net/converting-between-formats/fine-tuning-converters/) article. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | To learn more about the [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) class, please read the [Fine-Tuning Converters](https://docs.aspose.com/html/net/converting-between-formats/fine-tuning-converters/) article. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -7200,13 +7200,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -7228,9 +7228,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -7274,10 +7274,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -7295,7 +7295,7 @@ public static void ConvertHTML(string content, string baseUri, ImageSaveOptions 
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
+| options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -7306,13 +7306,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -7334,9 +7334,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -7378,9 +7378,9 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -7398,8 +7398,8 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -7410,13 +7410,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -7438,9 +7438,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -7482,17 +7482,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, ImageSaveOptions, ICreateStreamProvider) {#converthtml_2}
 
-Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, ImageSaveOptions options, 
@@ -7501,9 +7501,9 @@ public static void ConvertHTML(HTMLDocument document, ImageSaveOptions options,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument). |
-| options | ImageSaveOptions | [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions)object usage enables you to tune the rendering process. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. |
+| document | HTMLDocument | Conversion source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). |
+| options | ImageSaveOptions | [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)object usage enables you to tune the rendering process. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
 ### Remarks
 
@@ -7513,13 +7513,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -7541,9 +7541,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -7594,18 +7594,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, ImageSaveOptions, ICreateStreamProvider) {#converthtml_22}
 
-Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(Url url, ImageSaveOptions options, ICreateStreamProvider provider)
@@ -7614,8 +7614,8 @@ public static void ConvertHTML(Url url, ImageSaveOptions options, ICreateStreamP
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source URL - provides an object representation of a universal identifier (URL). |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -7625,13 +7625,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -7653,9 +7653,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -7702,18 +7702,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_12}
 
-Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, ImageSaveOptions options, 
@@ -7723,8 +7723,8 @@ public static void ConvertHTML(Url url, Configuration configuration, ImageSaveOp
 | Parameter | Type | Description |
 | --- | --- | --- |
 | url | Url | HTML source URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
 
 ### Remarks
@@ -7735,13 +7735,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -7763,9 +7763,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -7812,19 +7812,19 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, ImageSaveOptions, ICreateStreamProvider) {#converthtml_42}
 
-Convert HTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, ImageSaveOptions options, 
@@ -7834,7 +7834,7 @@ public static void ConvertHTML(string sourcePath, ImageSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html full file source path. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
 
 ### Remarks
@@ -7845,13 +7845,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -7873,9 +7873,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -7922,17 +7922,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_32}
 
-Convert HTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -7942,8 +7942,8 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Html file source path. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
 
 ### Remarks
@@ -7954,13 +7954,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -7982,9 +7982,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -8031,18 +8031,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, ImageSaveOptions, ICreateStreamProvider) {#converthtml_62}
 
-Convert HTML source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, ImageSaveOptions options, 
@@ -8053,8 +8053,8 @@ public static void ConvertHTML(string content, string baseUri, ImageSaveOptions 
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -8064,13 +8064,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -8092,9 +8092,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -8139,17 +8139,17 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_52}
 
-Convert HTML source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert HTML source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -8160,9 +8160,9 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | --- | --- | --- |
 | content | String | String as inline html content. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration `](../../../aspose.html/configuration)context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration `](../../../aspose.html/configuration/)context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
 
 ### Remarks
 
@@ -8172,13 +8172,13 @@ How to convert HTML to Image
 
 The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
-This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
+This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
 Image conversions
 
 [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) - You learn how to convert HTML to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
 
-[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) - You learn how to convert HTML to PNG using the Aspose.HTML API and apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) - You learn how to convert HTML to BMP using the Aspose.HTML API and apply image save options.
 
@@ -8200,9 +8200,9 @@ Other popular formats conversions
 
 Convert HTML to Image
 
-[`Converter`](../../converter) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers wide range of HTML specific conversions to images. To convert HTML to Image, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document (HTMLDocument) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/). By default, the Format property is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertHTML() method of the Converter class to save HTML as an image with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to PNG Converter](https://products.aspose.app/html/en/conversion/html-to-png) that converts HTML to images with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -8247,11 +8247,11 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

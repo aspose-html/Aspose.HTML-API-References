@@ -1,14 +1,14 @@
 ---
 title: ConvertTemplate
 second_title: Aspose.HTML for .NET API Reference
-description: Merge template source presented by HTMLDocumentaspose.html/htmldocument with template data XML JSON. Result is html file formed by output file path.
+description: Merge template source presented by HTMLDocumentaspose.html/htmldocument/ with template data XML JSON. Result is html file formed by output file path.
 type: docs
 weight: 60
 url: /net/aspose.html.converters/converter/converttemplate/
 ---
 ## ConvertTemplate(HTMLDocument, TemplateData, TemplateLoadOptions, string) {#converttemplate_7}
 
-Merge template source presented by [`HTMLDocument`](../../../aspose.html/htmldocument) with template data (XML, JSON). Result is html file formed by output file path.
+Merge template source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/) with template data (XML, JSON). Result is html file formed by output file path.
 
 ```csharp
 public static void ConvertTemplate(HTMLDocument template, TemplateData data, 
@@ -17,9 +17,9 @@ public static void ConvertTemplate(HTMLDocument template, TemplateData data,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| template | HTMLDocument | Merging source skeleton presented by [`HTMLDocument`](../../../aspose.html/htmldocument). |
+| template | HTMLDocument | Merging source skeleton presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
 ### Remarks
@@ -30,9 +30,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -82,18 +82,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(Url, TemplateData, TemplateLoadOptions, string) {#converttemplate_9}
 
-Merge template HTML source presented by [`URL`](../../../aspose.html/url) with template data (XML, JSON). Result is html file formed by output file path.
+Merge template HTML source presented by [`URL`](../../../aspose.html/url/) with template data (XML, JSON). Result is html file formed by output file path.
 
 ```csharp
 public static void ConvertTemplate(Url url, TemplateData data, TemplateLoadOptions options, 
@@ -102,9 +102,9 @@ public static void ConvertTemplate(Url url, TemplateData data, TemplateLoadOptio
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | Url | Merging HTML source skeleton presented by [`URL`](../../../aspose.html/url). |
+| url | Url | Merging HTML source skeleton presented by [`URL`](../../../aspose.html/url/). |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
 ### Remarks
@@ -115,9 +115,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -161,18 +161,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(Url, Configuration, TemplateData, TemplateLoadOptions, string) {#converttemplate_8}
 
-Merge template HTML source presented by [`URL`](../../../aspose.html/url) with template data (XML, JSON). Result is html file formed by output file path.
+Merge template HTML source presented by [`URL`](../../../aspose.html/url/) with template data (XML, JSON). Result is html file formed by output file path.
 
 ```csharp
 public static void ConvertTemplate(Url url, Configuration configuration, TemplateData data, 
@@ -181,10 +181,10 @@ public static void ConvertTemplate(Url url, Configuration configuration, Templat
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | Url | Merging HTML source skeleton presented by [`URL`](../../../aspose.html/url). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
+| url | Url | Merging HTML source skeleton presented by [`URL`](../../../aspose.html/url/). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
 ### Remarks
@@ -195,9 +195,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -236,12 +236,12 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -259,7 +259,7 @@ public static void ConvertTemplate(string sourcePath, TemplateData data,
 | --- | --- | --- |
 | sourcePath | String | Merging HTML source skeleton presented by full file path. |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
 ### Remarks
@@ -270,9 +270,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -311,10 +311,10 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -331,9 +331,9 @@ public static void ConvertTemplate(string sourcePath, Configuration configuratio
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Merging HTML source skeleton presented by full file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
 ### Remarks
@@ -344,9 +344,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -385,11 +385,11 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -408,7 +408,7 @@ public static void ConvertTemplate(string content, string baseUrl, TemplateData 
 | content | String | Merging HTML source skeleton presented by inline string content. |
 | baseUrl | String | Base URI of the html template. It will be combined with the current directory path to form an absolute URL. |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
 ### Remarks
@@ -419,9 +419,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -492,10 +492,10 @@ Below is sample data file to merge with source
 
 ### See Also
 
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -513,9 +513,9 @@ public static void ConvertTemplate(string content, string baseUrl, Configuration
 | --- | --- | --- |
 | content | String | Merging HTML source skeleton presented by inline string content. |
 | baseUrl | String | Base URI of the html template. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
 ### Remarks
@@ -526,9 +526,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -606,18 +606,18 @@ Below is data file to merge with source as template
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(HTMLDocument, TemplateData, TemplateLoadOptions) {#converttemplate}
 
-Merge template source presented by [`HTMLDocument`](../../../aspose.html/htmldocument) with template data (XML, JSON). Result is new formed HTMLDocument which can be saved as file.
+Merge template source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/) with template data (XML, JSON). Result is new formed HTMLDocument which can be saved as file.
 
 ```csharp
 public static HTMLDocument ConvertTemplate(HTMLDocument template, TemplateData data, 
@@ -626,13 +626,13 @@ public static HTMLDocument ConvertTemplate(HTMLDocument template, TemplateData d
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| template | HTMLDocument | Merging source skeleton presented by [`HTMLDocument`](../../../aspose.html/htmldocument). |
+| template | HTMLDocument | Merging source skeleton presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 
 ### Return Value
 
-New formed [`HTMLDocument`](../../../aspose.html/htmldocument) as conversion result which can be saved through output file path.
+New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
 ### Remarks
 
@@ -642,9 +642,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -695,18 +695,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(Url, TemplateData, TemplateLoadOptions) {#converttemplate_2}
 
-Merge template HTML source presented by [`URL`](../../../aspose.html/url) with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved as file.
+Merge template HTML source presented by [`URL`](../../../aspose.html/url/) with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument/) which can be saved as file.
 
 ```csharp
 public static HTMLDocument ConvertTemplate(Url url, TemplateData data, TemplateLoadOptions options)
@@ -714,13 +714,13 @@ public static HTMLDocument ConvertTemplate(Url url, TemplateData data, TemplateL
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | Url | Merging HTML source skeleton presented by [`URL`](../../../aspose.html/url). |
+| url | Url | Merging HTML source skeleton presented by [`URL`](../../../aspose.html/url/). |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 
 ### Return Value
 
-New formed [`HTMLDocument`](../../../aspose.html/htmldocument) as conversion result which can be saved through output file path.
+New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
 ### Remarks
 
@@ -730,9 +730,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -775,19 +775,19 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Url](../../../aspose.html/url)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Url](../../../aspose.html/url/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(Url, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_1}
 
-Merge template HTML source presented by [`URL`](../../../aspose.html/url) with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved as file.
+Merge template HTML source presented by [`URL`](../../../aspose.html/url/) with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument/) which can be saved as file.
 
 ```csharp
 public static HTMLDocument ConvertTemplate(Url url, Configuration configuration, TemplateData data, 
@@ -796,14 +796,14 @@ public static HTMLDocument ConvertTemplate(Url url, Configuration configuration,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | Url | Merging HTML source skeleton presented by [`URL`](../../../aspose.html/url). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
+| url | Url | Merging HTML source skeleton presented by [`URL`](../../../aspose.html/url/). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 
 ### Return Value
 
-New formed [`HTMLDocument`](../../../aspose.html/htmldocument) as conversion result which can be saved through output file path.
+New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
 ### Remarks
 
@@ -813,9 +813,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -858,20 +858,20 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, TemplateData, TemplateLoadOptions) {#converttemplate_4}
 
-Merge template HTML source presented by full file path with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved as file.
+Merge template HTML source presented by full file path with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument/) which can be saved as file.
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string sourcePath, TemplateData data, 
@@ -882,11 +882,11 @@ public static HTMLDocument ConvertTemplate(string sourcePath, TemplateData data,
 | --- | --- | --- |
 | sourcePath | String | Merging HTML source skeleton presented by full file path. |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 
 ### Return Value
 
-New formed [`HTMLDocument`](../../../aspose.html/htmldocument) as conversion result which can be saved through output file path.
+New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
 ### Remarks
 
@@ -896,9 +896,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -941,18 +941,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_3}
 
-Merge template HTML source presented by full file path with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved as file.
+Merge template HTML source presented by full file path with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument/) which can be saved as file.
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string sourcePath, Configuration configuration, 
@@ -962,13 +962,13 @@ public static HTMLDocument ConvertTemplate(string sourcePath, Configuration conf
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | Merging HTML source skeleton presented by full file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 
 ### Return Value
 
-New formed [`HTMLDocument`](../../../aspose.html/htmldocument) as conversion result which can be saved through output file path.
+New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
 ### Remarks
 
@@ -978,9 +978,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -1023,19 +1023,19 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, string, TemplateData, TemplateLoadOptions) {#converttemplate_6}
 
-Merge template HTML source presented by inline content with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved as file.
+Merge template HTML source presented by inline content with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument/) which can be saved as file.
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string content, string baseUrl, TemplateData data, 
@@ -1047,11 +1047,11 @@ public static HTMLDocument ConvertTemplate(string content, string baseUrl, Templ
 | content | String | Merging HTML source skeleton presented by inline string content. |
 | baseUrl | String | Base URI of the html template. It will be combined with the current directory path to form an absolute URL. |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 
 ### Return Value
 
-New formed [`HTMLDocument`](../../../aspose.html/htmldocument) as conversion result which can be saved through output file path.
+New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
 ### Remarks
 
@@ -1061,9 +1061,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -1115,18 +1115,18 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, string, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_5}
 
-Merge template HTML source presented by inline content with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument) which can be saved as file.
+Merge template HTML source presented by inline content with template data (XML, JSON). Result is new formed [`HTMLDocument`](../../../aspose.html/htmldocument/) which can be saved as file.
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string content, string baseUrl, 
@@ -1137,13 +1137,13 @@ public static HTMLDocument ConvertTemplate(string content, string baseUrl,
 | --- | --- | --- |
 | content | String | Merging HTML source skeleton presented by inline string content. |
 | baseUrl | String | Base URI of the html template. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 | data | TemplateData | Template data for merging - substitution (XML, JSON). |
-| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
+| options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 
 ### Return Value
 
-New formed [`HTMLDocument`](../../../aspose.html/htmldocument) as conversion result which can be saved through output file path.
+New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
 ### Remarks
 
@@ -1153,9 +1153,9 @@ The idea of template merging is to create an HTML document based on a html templ
 
 Conversion (Merging) steps
 
-[`Converter`](../../converter) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
+[`Converter`](../) class offers few ways to merge html source with template data wherein you should follow one of simple scenarios consists of few steps:
 
-Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url), [`HTMLDocument`](../../../aspose.html/htmldocument) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration) as option parameter.Source code
+Template source. Define HTML template source by file, [`URL`](../../../aspose.html/url/), [`HTMLDocument`](../../../aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
@@ -1211,12 +1211,12 @@ using Aspose.Html.Converters;
 
 ### See Also
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

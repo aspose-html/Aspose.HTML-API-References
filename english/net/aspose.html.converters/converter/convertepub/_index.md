@@ -1,14 +1,14 @@
 ---
 title: ConvertEPUB
 second_title: Aspose.HTML for .NET API Reference
-description: Convert EPUB source presented by file path to image. Result is image file formed by implementation of ICreateStreamProvideraspose.html.io/icreatestreamprovider interface.
+description: Convert EPUB source presented by file path to image. Result is image file formed by implementation of ICreateStreamProvideraspose.html.io/icreatestreamprovider/ interface.
 type: docs
 weight: 10
 url: /net/aspose.html.converters/converter/convertepub/
 ---
 ## ConvertEPUB(string, ImageSaveOptions, ICreateStreamProvider) {#convertepub_42}
 
-Convert EPUB source presented by file path to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface.
+Convert EPUB source presented by file path to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, ImageSaveOptions options, 
@@ -18,7 +18,7 @@ public static void ConvertEPUB(string sourcePath, ImageSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | EPUB source file path. It will be combined with the current directory path to form an absolute URL. |
-| options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions)class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/#save-options). |
+| options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/#save-options). |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
 
 ### Remarks
@@ -88,17 +88,17 @@ Converter.ConvertEPUB(stream, new ImageSaveOptions(ImageFormat.Jpeg), Path.Combi
 
 ### See Also
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, ImageSaveOptions, ICreateStreamProvider) {#convertepub_10}
 
-Convert epub source presented by URL to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface.
+Convert epub source presented by URL to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options, 
@@ -108,7 +108,7 @@ public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions)class. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
 
 ### Remarks
@@ -185,18 +185,18 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertepub_18}
 
-Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface.
+Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, Configuration configuration, 
@@ -206,8 +206,8 @@ public static void ConvertEPUB(Stream stream, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. |
 
 ### Remarks
@@ -286,18 +286,18 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertepub_34}
 
-Convert epub source presented by file path to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface.
+Convert epub source presented by file path to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, Configuration configuration, 
@@ -307,8 +307,8 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | EPUB source defined by file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. See ICreateStreamProvider implementation sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
 
 ### Remarks
@@ -381,11 +381,11 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -402,8 +402,8 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. See ICreateStreamProvider implementation sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
 
 ### Remarks
@@ -479,12 +479,12 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -500,7 +500,7 @@ public static void ConvertEPUB(Stream stream, XpsSaveOptions options, string out
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. See Stream specification in [official source](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0). |
-| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. |
+| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. |
 | outputPath | String | Full .xps file path as output conversion result. |
 
 ### Remarks
@@ -511,7 +511,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
 [Convert EPUB to XPS](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/) - You learn how to convert an EPUB document into XML Paper Specification ([XPS](https://docs.fileformat.com/page-description-language/xps/)) file format, use save options and ICreateStreamProvider parameters.
 
@@ -566,9 +566,9 @@ using Aspose.Html.Drawing;
 
 ### See Also
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -584,7 +584,7 @@ public static void ConvertEPUB(string sourcePath, XpsSaveOptions options, string
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | EPUB source file path. It will be combined with the current directory path to form an absolute URL. |
-| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media type`](../../../aspose.html.rendering/mediatype), etc. |
+| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full .xps file path as output conversion result. |
 
 ### Remarks
@@ -595,7 +595,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
 [Convert EPUB to XPS](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/) - You learn how to convert an EPUB document into XML Paper Specification ([XPS](https://docs.fileformat.com/page-description-language/xps/)) file format, use save options and ICreateStreamProvider parameters.
 
@@ -603,7 +603,7 @@ Convert EPUB to XPS
 
 To convert EPUB to XPS file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions), and output data buffer in any form to initiate conversion process.Online EPUB to XPS converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/), and output data buffer in any form to initiate conversion process.Online EPUB to XPS converter
 
 Aspose.HTML offers a free online [EPUB to XPS](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to XPS file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -637,9 +637,9 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 ### See Also
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -655,7 +655,7 @@ public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options, string out
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media type`](../../../aspose.html.rendering/mediatype), etc. |
+| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full .xps file path as output conversion result. |
 
 ### Remarks
@@ -666,7 +666,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
 [Convert EPUB to XPS](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/) - You learn how to convert an EPUB document into XML Paper Specification ([XPS](https://docs.fileformat.com/page-description-language/xps/)) file format, use save options and ICreateStreamProvider parameters.
 
@@ -715,10 +715,10 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -735,8 +735,8 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSa
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media type`](../../../aspose.html.rendering/mediatype), etc. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full .xps file path as output conversion result. |
 
 ### Remarks
@@ -747,7 +747,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
 [Convert EPUB to XPS](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/) - You learn how to convert an EPUB document into XML Paper Specification ([XPS](https://docs.fileformat.com/page-description-language/xps/)) file format, use save options and ICreateStreamProvider parameters.
 
@@ -755,7 +755,7 @@ Convert EPUB to XPS
 
 To convert EPUB to XPS file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
 
 Aspose.HTML offers a free online [EPUB to XPS](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to XPS file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -795,10 +795,10 @@ Converter.ConvertEPUB(stream, new Configuration(), options, savePath);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -827,7 +827,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
 [Convert EPUB to XPS](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/) - You learn how to convert an EPUB document into XML Paper Specification ([XPS](https://docs.fileformat.com/page-description-language/xps/)) file format, use save options and ICreateStreamProvider parameters.
 
@@ -835,7 +835,7 @@ Convert EPUB to XPS
 
 To convert EPUB to XPS file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
 
 Aspose.HTML offers a free online [EPUB to XPS](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to XPS file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -869,10 +869,10 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -901,7 +901,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
 [Convert EPUB to XPS](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/) - You learn how to convert an EPUB document into XML Paper Specification ([XPS](https://docs.fileformat.com/page-description-language/xps/)) file format, use save options and ICreateStreamProvider parameters.
 
@@ -909,7 +909,7 @@ Convert EPUB to XPS
 
 To convert EPUB to XPS file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
 
 Aspose.HTML offers a free online [EPUB to XPS](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to XPS file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -943,18 +943,18 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, XpsSaveOptions, ICreateStreamProvider) {#convertepub_30}
 
-Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to xps. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to xps. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, XpsSaveOptions options, 
@@ -964,7 +964,7 @@ public static void ConvertEPUB(Stream stream, XpsSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. |
-| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. See ICreateStreamProvider implementation sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
 
 ### Remarks
@@ -975,7 +975,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
 [Convert EPUB to XPS](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/) - You learn how to convert an EPUB document into XML Paper Specification ([XPS](https://docs.fileformat.com/page-description-language/xps/)) file format, use save options and ICreateStreamProvider parameters.
 
@@ -983,7 +983,7 @@ Convert EPUB to XPS
 
 To convert EPUB to XPS file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
 
 Aspose.HTML offers a free online [EPUB to XPS](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to XPS file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1031,17 +1031,17 @@ using Aspose.Html.Saving;
 
 ### See Also
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, XpsSaveOptions, ICreateStreamProvider) {#convertepub_46}
 
-Convert epub source presented by input EPUB file path to xps. Result is xps output data defined by known or custom [`ICreateStreamProvider `](../../../aspose.html.io/icreatestreamprovider)interface implementation.
+Convert epub source presented by input EPUB file path to xps. Result is xps output data defined by known or custom [`ICreateStreamProvider `](../../../aspose.html.io/icreatestreamprovider/)interface implementation.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, XpsSaveOptions options, 
@@ -1062,7 +1062,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
 [Convert EPUB to XPS](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/) - You learn how to convert an EPUB document into XML Paper Specification ([XPS](https://docs.fileformat.com/page-description-language/xps/)) file format, use save options and ICreateStreamProvider parameters.
 
@@ -1104,17 +1104,17 @@ Converter.ConvertEPUB(sourcePath, options, sp);
 
 ### See Also
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, XpsSaveOptions, ICreateStreamProvider) {#convertepub_14}
 
-Convert epub source presented by URL to xps file defined by full path. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert epub source presented by URL to xps file defined by full path. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options, 
@@ -1124,8 +1124,8 @@ public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider), which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
+| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
 
 ### Remarks
 
@@ -1135,7 +1135,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
 [Convert EPUB to XPS](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/) - You learn how to convert an EPUB document into XML Paper Specification ([XPS](https://docs.fileformat.com/page-description-language/xps/)) file format, use save options and ICreateStreamProvider parameters.
 
@@ -1143,7 +1143,7 @@ Convert EPUB to XPS
 
 To convert EPUB to XPS file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process.Online EPUB to XPS converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process.Online EPUB to XPS converter
 
 Aspose.HTML offers a free online [EPUB to XPS](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to XPS file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1177,18 +1177,18 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertepub_22}
 
-Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to xps. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to xps. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSaveOptions options, 
@@ -1198,9 +1198,9 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSa
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
-| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
 
 ### Remarks
 
@@ -1210,7 +1210,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
 [Convert EPUB to XPS](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/) - You learn how to convert an EPUB document into XML Paper Specification ([XPS](https://docs.fileformat.com/page-description-language/xps/)) file format, use save options and ICreateStreamProvider parameters.
 
@@ -1218,7 +1218,7 @@ Convert EPUB to XPS
 
 To convert EPUB to XPS file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
 
 Aspose.HTML offers a free online [EPUB to XPS](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to XPS file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1252,18 +1252,18 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertepub_38}
 
-Convert epub source presented by input EPUB file path to xps. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert epub source presented by input EPUB file path to xps. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, Configuration configuration, 
@@ -1273,9 +1273,9 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | EPUB source file path. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. |
-| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. |
+| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
 
 ### Remarks
 
@@ -1285,7 +1285,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
 [Convert EPUB to XPS](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/) - You learn how to convert an EPUB document into XML Paper Specification ([XPS](https://docs.fileformat.com/page-description-language/xps/)) file format, use save options and ICreateStreamProvider parameters.
 
@@ -1293,7 +1293,7 @@ Convert EPUB to XPS
 
 To convert EPUB to XPS file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
 
 Aspose.HTML offers a free online [EPUB to XPS](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to XPS file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1327,18 +1327,18 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertepub_6}
 
-Convert epub source presented by URL to xps file defined by full path. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert epub source presented by URL to xps file defined by full path. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSaveOptions options, 
@@ -1348,9 +1348,9 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSa
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#save-options). |
-| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#save-options). |
+| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
 
 ### Remarks
 
@@ -1360,7 +1360,7 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
 [Convert EPUB to XPS](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/) - You learn how to convert an EPUB document into XML Paper Specification ([XPS](https://docs.fileformat.com/page-description-language/xps/)) file format, use save options and ICreateStreamProvider parameters.
 
@@ -1368,7 +1368,7 @@ Convert EPUB to XPS
 
 To convert EPUB to XPS file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path.Create a new XpsSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of XpsSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an xps file. You need to pass the EPUB source date, XpsSaveOptions, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to XPS converter
 
 Aspose.HTML offers a free online [EPUB to XPS](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to XPS file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1402,12 +1402,12 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1423,7 +1423,7 @@ public static void ConvertEPUB(Stream stream, DocSaveOptions options, string out
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Conversion source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0). |
-| options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
+| options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | outputPath | String | Full .docx file path as output conversion result. |
 
 ### Remarks
@@ -1434,15 +1434,15 @@ DOCX is a well-known format for Microsoft Word documents. This format is popular
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
-[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to DOCX
 
 To convert EPUB to DOCX file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
 
 Aspose.HTML offers a free online [EPUB to DOC](https://products.aspose.app/html/en/conversion/epub-to-docx)[X](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to DOCX file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1477,9 +1477,9 @@ Converter.ConvertEPUB(inputStream, options, resultPath);
 
 ### See Also
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1495,7 +1495,7 @@ public static void ConvertEPUB(string sourcePath, DocSaveOptions options, string
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | EPUB source file path as input parameter. |
-| options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup),[` margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
+| options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/),[` margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | outputPath | String | Full .docx file path as output conversion result. |
 
 ### Remarks
@@ -1506,15 +1506,15 @@ DOCX is a well-known format for Microsoft Word documents. This format is popular
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
-[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to DOCX
 
 To convert EPUB to DOCX file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
 
 Aspose.HTML offers a free online [EPUB to DOC](https://products.aspose.app/html/en/conversion/epub-to-docx)[X](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to DOCX file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1548,9 +1548,9 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 ### See Also
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1566,7 +1566,7 @@ public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options, string out
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`resolutions`](../../../aspose.html.rendering.image/imagerenderingoptions), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`resolutions`](../../../aspose.html.rendering.image/imagerenderingoptions/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | outputPath | String | Full .docx file path as output conversion result. |
 
 ### Remarks
@@ -1577,15 +1577,15 @@ DOCX is a well-known format for Microsoft Word documents. This format is popular
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
-[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to DOCX
 
 To convert EPUB to DOCX file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
 
 Aspose.HTML offers a free online [EPUB to DOC](https://products.aspose.app/html/en/conversion/epub-to-docx)[X](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to DOCX file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1619,10 +1619,10 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1639,8 +1639,8 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, DocSa
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | outputPath | String | Full .docx file path as output conversion result. |
 
 ### Remarks
@@ -1651,15 +1651,15 @@ DOCX is a well-known format for Microsoft Word documents. This format is popular
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
-[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to DOCX
 
 To convert EPUB to DOCX file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
 
 Aspose.HTML offers a free online [EPUB to DOC](https://products.aspose.app/html/en/conversion/epub-to-docx)[X](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to DOCX file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1694,10 +1694,10 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1714,7 +1714,7 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | EPUB source file path. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 | options | DocSaveOptions | Conversion options. [DocSaveOptions ](https://apireference.aspose.com/html/net/aspose.html.saving/docsaveoptions)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | outputPath | String | Full .docx file path as output conversion result. |
 
@@ -1726,15 +1726,15 @@ DOCX is a well-known format for Microsoft Word documents. This format is popular
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
-[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to DOCX
 
 To convert EPUB to DOCX file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
 
 Aspose.HTML offers a free online [EPUB to DOC](https://products.aspose.app/html/en/conversion/epub-to-docx)[X](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to DOCX file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1768,10 +1768,10 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1788,8 +1788,8 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSa
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`resolutions`](../../../aspose.html.rendering.image/imagerenderingoptions), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`resolutions`](../../../aspose.html.rendering.image/imagerenderingoptions/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | outputPath | String | Full .docx file path as output conversion result. |
 
 ### Remarks
@@ -1800,15 +1800,15 @@ DOCX is a well-known format for Microsoft Word documents. This format is popular
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
-[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to DOCX
 
 To convert EPUB to DOCX file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
 
 Aspose.HTML offers a free online [EPUB to DOC](https://products.aspose.app/html/en/conversion/epub-to-docx)[X](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to DOCX file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1842,11 +1842,11 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1863,8 +1863,8 @@ public static void ConvertEPUB(Stream stream, DocSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. |
-| options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
-| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
+| options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
+| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
 
 ### Remarks
 
@@ -1874,15 +1874,15 @@ DOCX is a well-known format for Microsoft Word documents. This format is popular
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
-[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to DOCX
 
 To convert EPUB to DOCX file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
 
 Aspose.HTML offers a free online [EPUB to DOC](https://products.aspose.app/html/en/conversion/epub-to-docx)[X](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to DOCX file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1917,17 +1917,17 @@ Converter.ConvertEPUB(inputStream, options, sp);
 
 ### See Also
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, DocSaveOptions, ICreateStreamProvider) {#convertepub_40}
 
-Convert EPUB source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) implementation.
+Convert EPUB source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) implementation.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, DocSaveOptions options, 
@@ -1937,8 +1937,8 @@ public static void ConvertEPUB(string sourcePath, DocSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | EPUB source file path. It will be combined with the current directory path to form an absolute URL. |
-| options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
-| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
+| options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
+| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
 
 ### Remarks
 
@@ -1948,15 +1948,15 @@ DOCX is a well-known format for Microsoft Word documents. This format is popular
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
-[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to DOCX
 
 To convert EPUB to DOCX file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
 
 Aspose.HTML offers a free online [EPUB to DOC](https://products.aspose.app/html/en/conversion/epub-to-docx)[X](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to DOCX file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -1991,10 +1991,10 @@ Converter.ConvertEPUB(sourcePath, options, sp);
 
 ### See Also
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2011,8 +2011,8 @@ public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) usage enables you to tune the rendering process; you can specify the page size, margins, resolutions, CSS, etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
-| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) usage enables you to tune the rendering process; you can specify the page size, margins, resolutions, CSS, etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
+| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
 
 ### Remarks
 
@@ -2022,15 +2022,15 @@ DOCX is a well-known format for Microsoft Word documents. This format is popular
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
-[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to DOCX
 
 To convert EPUB to DOCX file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new DocSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
 
 Aspose.HTML offers a free online [EPUB to DOC](https://products.aspose.app/html/en/conversion/epub-to-docx)[X](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to DOCX file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2070,11 +2070,11 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2091,9 +2091,9 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, DocSa
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`resolutions`](../../../aspose.html.rendering.image/imagerenderingoptions), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
-| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`resolutions`](../../../aspose.html.rendering.image/imagerenderingoptions/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
+| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
 
 ### Remarks
 
@@ -2103,15 +2103,15 @@ DOCX is a well-known format for Microsoft Word documents. This format is popular
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
-[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to DOCX
 
 To convert EPUB to DOCX file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
 
 Aspose.HTML offers a free online [EPUB to DOC](https://products.aspose.app/html/en/conversion/epub-to-docx)[X](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to DOCX file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2151,18 +2151,18 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertepub_32}
 
-Convert EPUB source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert EPUB source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, Configuration configuration, 
@@ -2172,9 +2172,9 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | EPUB source file path. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
-| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
+| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
 
 ### Remarks
 
@@ -2184,15 +2184,15 @@ DOCX is a well-known format for Microsoft Word documents. This format is popular
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
-[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to DOCX
 
 To convert EPUB to DOCX file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
 
 Aspose.HTML offers a free online [EPUB to DOC](https://products.aspose.app/html/en/conversion/epub-to-docx)[X](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to DOCX file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2227,18 +2227,18 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertepub}
 
-Convert EPUB source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert EPUB source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSaveOptions options, 
@@ -2249,8 +2249,8 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSa
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
 | configuration | Configuration | The environment configuration. Represents the [configuration](https://apireference.aspose.com/html/net/aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`resolutions`](../../../aspose.html.rendering.image/imagerenderingoptions), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
-| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
+| options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`resolutions`](../../../aspose.html.rendering.image/imagerenderingoptions/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
+| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
 
 ### Remarks
 
@@ -2260,15 +2260,15 @@ DOCX is a well-known format for Microsoft Word documents. This format is popular
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
-[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to DOCX ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [DOCX](https://docs.fileformat.com/word-processing/docx/) document using ConvertEPUB() methods of the Converter class and how to apply [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to DOCX
 
 To convert EPUB to DOCX file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions) object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of DocSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an docx file. You need to pass the EPUB source date as file path or input stream as well as Url, DocSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to DOCX converter
 
 Aspose.HTML offers a free online [EPUB to DOC](https://products.aspose.app/html/en/conversion/epub-to-docx)[X](https://products.aspose.app/html/en/conversion/epub-to-xps) Converter that converts EPUB to DOCX file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2310,12 +2310,12 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2331,7 +2331,7 @@ public static void ConvertEPUB(Stream stream, PdfSaveOptions options, string out
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | EPUB source file path as input parameter. |
-| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
+| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | outputPath | String | Full .pdf file path as output conversion result. |
 
 ### Remarks
@@ -2342,15 +2342,15 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
-[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to PDF
 
 To convert EPUB to PDF file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
 
 Aspose.HTML offers a free online [EPUB to PDF](https://products.aspose.app/html/en/conversion/epub-to-pdf) Converter that converts EPUB to PDF file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2384,9 +2384,9 @@ Converter.ConvertEPUB(inputStream, options, resultPath);
 
 ### See Also
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2402,7 +2402,7 @@ public static void ConvertEPUB(string sourcePath, PdfSaveOptions options, string
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | EPUB source file path. It will be combined with the current directory path to form an absolute URL. |
-| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
+| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | outputPath | String | Full .pdf file path as output conversion result. |
 
 ### Remarks
@@ -2413,15 +2413,15 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
-[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to PDF
 
 To convert EPUB to PDF file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
 
 Aspose.HTML offers a free online [EPUB to PDF](https://products.aspose.app/html/en/conversion/epub-to-pdf) Converter that converts EPUB to PDF file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2455,9 +2455,9 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 ### See Also
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2473,7 +2473,7 @@ public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options, string out
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`file permissions`](../../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`file permissions`](../../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | outputPath | String | Full .pdf file path as output conversion result. |
 
 ### Remarks
@@ -2484,15 +2484,15 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
-[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to PDF
 
 To convert EPUB to PDF file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
 
 Aspose.HTML offers a free online [EPUB to PDF](https://products.aspose.app/html/en/conversion/epub-to-pdf) Converter that converts EPUB to PDF file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2526,10 +2526,10 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2546,8 +2546,8 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSa
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | outputPath | String | Full .pdf file path as output conversion result. |
 
 ### Remarks
@@ -2558,15 +2558,15 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
-[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to PDF
 
 To convert EPUB to PDF file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
 
 Aspose.HTML offers a free online [EPUB to PDF](https://products.aspose.app/html/en/conversion/epub-to-pdf) Converter that converts EPUB to PDF file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2605,10 +2605,10 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2625,8 +2625,8 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | EPUB source file path. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | outputPath | String | Full .pdf file path as output conversion result. |
 
 ### Remarks
@@ -2637,15 +2637,15 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
-[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to PDF
 
 To convert EPUB to PDF file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
 
 Aspose.HTML offers a free online [EPUB to PDF](https://products.aspose.app/html/en/conversion/epub-to-pdf) Converter that converts EPUB to PDF file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2684,10 +2684,10 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2705,7 +2705,7 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSa
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
 | configuration | Configuration | The environment configuration. Represents the [configuration](https://apireference.aspose.com/html/net/aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`file permissions`](../../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`file permissions`](../../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | outputPath | String | Full .pdf file path as output conversion result. |
 
 ### Remarks
@@ -2716,15 +2716,15 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
-[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to PDF
 
 To convert EPUB to PDF file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
 
 Aspose.HTML offers a free online [EPUB to PDF](https://products.aspose.app/html/en/conversion/epub-to-pdf) Converter that converts EPUB to PDF file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2766,18 +2766,18 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, PdfSaveOptions, ICreateStreamProvider) {#convertepub_28}
 
-Convert EPUB source presented by data input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert EPUB source presented by data input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, PdfSaveOptions options, 
@@ -2787,8 +2787,8 @@ public static void ConvertEPUB(Stream stream, PdfSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. |
-| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider) interface implementation. |
+| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
 ### Remarks
 
@@ -2798,15 +2798,15 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
-[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to PDF
 
 To convert EPUB to PDF file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
 
 Aspose.HTML offers a free online [EPUB to PDF](https://products.aspose.app/html/en/conversion/epub-to-pdf) Converter that converts EPUB to PDF file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2841,17 +2841,17 @@ Converter.ConvertEPUB(inputStream, options, sp);
 
 ### See Also
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, PdfSaveOptions, ICreateStreamProvider) {#convertepub_44}
 
-Convert EPUB source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert EPUB source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, PdfSaveOptions options, 
@@ -2861,8 +2861,8 @@ public static void ConvertEPUB(string sourcePath, PdfSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | EPUB source file path. It will be combined with the current directory path to form an absolute URL. |
-| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
-| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers). |
+| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
+| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers). |
 
 ### Remarks
 
@@ -2872,15 +2872,15 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
-[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to PDF
 
 To convert EPUB to PDF file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
 
 Aspose.HTML offers a free online [EPUB to PDF](https://products.aspose.app/html/en/conversion/epub-to-pdf) Converter that converts EPUB to PDF file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2915,17 +2915,17 @@ Converter.ConvertEPUB(sourcePath, options, sp);
 
 ### See Also
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, PdfSaveOptions, ICreateStreamProvider) {#convertepub_12}
 
-Convert EPUB source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert EPUB source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options, 
@@ -2935,7 +2935,7 @@ public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`file permissions`](../../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`file permissions`](../../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [ICreateStreamProvider](https://apireference.aspose.com/svg/net/aspose.svg.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers). |
 
 ### Remarks
@@ -2946,15 +2946,15 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
-[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to PDF
 
 To convert EPUB to PDF file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
 
 Aspose.HTML offers a free online [EPUB to PDF](https://products.aspose.app/html/en/conversion/epub-to-pdf) Converter that converts EPUB to PDF file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -2994,18 +2994,18 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertepub_20}
 
-Convert EPUB source presented by data input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert EPUB source presented by data input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSaveOptions options, 
@@ -3015,9 +3015,9 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSa
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
-| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
+| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers). |
 
 ### Remarks
 
@@ -3025,17 +3025,17 @@ How to convert EPUB to PDF
 
 EPUB is an e-book file format that provides a standard digital publication format. It is created by International Digital Publishing Forum ([IDPF](http://idpf.org/)), and now it is supported by many e-readers and software applications. EPUB to PDF conversion is often required to take advantage of PDF format. PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, metadata, etc. PDF files can be opened in Adobe Acrobat Reader/Writer and most modern browsers like Chrome, Safari, Firefox. They are optimized for printing, and they are ideal for creating physical copies of your documents; you can also configure the security settings for PDF.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The [`Aspose.Html.Converters`](../../converter) namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The [`Aspose.Html.Converters`](../) namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
-[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to PDF
 
 To convert EPUB to PDF file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
 
 Aspose.HTML offers a free online [EPUB to PDF](https://products.aspose.app/html/en/conversion/epub-to-pdf) Converter that converts EPUB to PDF file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3070,11 +3070,11 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3103,15 +3103,15 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
-[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to PDF
 
 To convert EPUB to PDF file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
 
 Aspose.HTML offers a free online [EPUB to PDF](https://products.aspose.app/html/en/conversion/epub-to-pdf) Converter that converts EPUB to PDF file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3151,18 +3151,18 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertepub_4}
 
-Convert EPUB source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation.
+Convert EPUB source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSaveOptions options, 
@@ -3173,7 +3173,7 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSa
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
 | configuration | Configuration | The environment configuration. Represents the [configuration](https://apireference.aspose.com/html/net/aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`file permissions`](../../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
+| options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`file permissions`](../../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [ICreateStreamProvider](https://apireference.aspose.com/svg/net/aspose.svg.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers). |
 
 ### Remarks
@@ -3184,15 +3184,15 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../../converter) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
-[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) parameters.
+[Convert EPUB to PDF ](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) - You learn how to convert an [EPUB](https://docs.fileformat.com/ebook/epub/) to [PDF](https://docs.fileformat.com/pdf/) document using ConvertEPUB() methods of the Converter class and how to apply [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
 
 Convert EPUB to PDF
 
 To convert EPUB to PDF file format, you should follow a few steps:
 
-Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
+Open an existing EPUB file. For an example, we can define source file path as first parameter of ConvertEPUB method. As an alternative we can use input stream or Url object instance.Use known or custom ICreateStreamProvider interface implementation as output data buffer. We can use more simple alternative as result output file path also.Create a new PdfSaveOptions object with numbers of preffered parameters like page size, margins, CSS and etc. It is possible to use default instance of PdfSaveOptions class.Use the ConvertEPUB() method of static Converter class to save EPUB as an pdf file. You need to pass the EPUB source date as file path or input stream as well as Url, PdfSaveOptions instance, and output data buffer in any form to initiate conversion process. You can use configuration which represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application.Online EPUB to PDF converter
 
 Aspose.HTML offers a free online [EPUB to PDF](https://products.aspose.app/html/en/conversion/epub-to-pdf) Converter that converts EPUB to PDF file with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3226,12 +3226,12 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3247,7 +3247,7 @@ public static void ConvertEPUB(Stream stream, ImageSaveOptions options, string o
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. |
-| options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions)class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/#save-options). |
+| options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/#save-options). |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -3276,7 +3276,7 @@ Convert EPUB to Image
 
 To convert EPUB to Image file format, you should follow a few steps:
 
-Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
+Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
 
 Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3320,9 +3320,9 @@ Converter.ConvertEPUB(inputStream, options, resultPath);
 
 ### See Also
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3338,7 +3338,7 @@ public static void ConvertEPUB(string sourcePath, ImageSaveOptions options, stri
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourcePath | String | EPUB source file path as input parameter. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -3367,7 +3367,7 @@ Convert EPUB to Image
 
 To convert EPUB to Image file format, you should follow a few steps:
 
-Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
+Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
 
 Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3411,9 +3411,9 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 ### See Also
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3429,7 +3429,7 @@ public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options, string o
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions)class. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -3458,7 +3458,7 @@ Convert EPUB to Image
 
 To convert EPUB to Image file format, you should follow a few steps:
 
-Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
+Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
 
 Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3502,10 +3502,10 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3522,8 +3522,8 @@ public static void ConvertEPUB(Stream stream, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -3552,7 +3552,7 @@ Convert EPUB to Image
 
 To convert EPUB to Image file format, you should follow a few steps:
 
-Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
+Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
 
 Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3596,10 +3596,10 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3617,7 +3617,7 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | --- | --- | --- |
 | sourcePath | String | EPUB source file path as input parameter. |
 | configuration | Configuration | The environment configuration. Represents the [configuration](https://apireference.aspose.com/html/net/aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions)class. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
 | outputPath | String | Full image file path as output conversion result. |
 
 ### Remarks
@@ -3646,7 +3646,7 @@ Convert EPUB to Image
 
 To convert EPUB to Image file format, you should follow a few steps:
 
-Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
+Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
 
 Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3690,10 +3690,10 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 
 ### See Also
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3710,7 +3710,7 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration) context object that is used to set up the environment settings for the application. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [page size](https://apireference.aspose.com/html/net/aspose.html.rendering/renderingoptions/properties/pagesetup), [margins](https://apireference.aspose.com/html/net/aspose.html.drawing/page/properties/margin), [CSS media-type](https://apireference.aspose.com/html/net/aspose.html.rendering/mediatype), etc. See [ImageSaveOptions ](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)class. |
 | outputPath | String | Full image file path as output conversion result. |
 
@@ -3740,7 +3740,7 @@ Convert EPUB to Image
 
 To convert EPUB to Image file format, you should follow a few steps:
 
-Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
+Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
 
 Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3784,18 +3784,18 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 
 ### See Also
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, ImageSaveOptions, ICreateStreamProvider) {#convertepub_26}
 
-Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface.
+Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, ImageSaveOptions options, 
@@ -3805,8 +3805,8 @@ public static void ConvertEPUB(Stream stream, ImageSaveOptions options,
 | Parameter | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Input stream as conversion source. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup), [`margins`](../../../aspose.html.drawing/page/margin), [`CSS media-type`](../../../aspose.html.rendering/mediatype), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions)class. |
-| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
+| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
 
 ### Remarks
 
@@ -3834,7 +3834,7 @@ Convert EPUB to Image
 
 To convert EPUB to Image file format, you should follow a few steps:
 
-Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
+Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
 
 Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -3879,10 +3879,10 @@ Converter.ConvertEPUB(inputStream, options, sp);
 
 ### See Also
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namespace [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

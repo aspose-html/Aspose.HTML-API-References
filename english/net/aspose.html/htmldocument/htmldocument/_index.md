@@ -39,8 +39,8 @@ using (var document = new HTMLDocument())
 
 ### See Also
 
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -93,9 +93,9 @@ using (var configuration = new Configuration())
 
 ### See Also
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -104,7 +104,7 @@ using (var configuration = new Configuration())
 
 Loads the HTML document from a URL.
 
-Note: In case if you pass a wrong URL that can’t be reached right at the moment, the library throws the [`DOMException`](../../../aspose.html.dom/domexception) with specialized code ‘NetworkError’ to inform you that the selected resource can not be found.
+Note: In case if you pass a wrong URL that can’t be reached right at the moment, the library throws the [`DOMException`](../../../aspose.html.dom/domexception/) with specialized code ‘NetworkError’ to inform you that the selected resource can not be found.
 
 ```csharp
 public HTMLDocument(Url url)
@@ -134,9 +134,9 @@ using (var document = new HTMLDocument("https://docs.aspose.com/html/net/working
 
 ### See Also
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -190,10 +190,10 @@ using (var configuration = new Configuration())
 
 ### See Also
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -202,7 +202,7 @@ using (var configuration = new Configuration())
 
 Loads the HTML document from an address.
 
-Note: In case if you pass a wrong URL that can’t be reached right at the moment, the library throws the [`DOMException`](../../../aspose.html.dom/domexception) with specialized code ‘NetworkError’ to inform you that the selected resource can not be found.
+Note: In case if you pass a wrong URL that can’t be reached right at the moment, the library throws the [`DOMException`](../../../aspose.html.dom/domexception/) with specialized code ‘NetworkError’ to inform you that the selected resource can not be found.
 
 ```csharp
 public HTMLDocument(string address)
@@ -231,8 +231,8 @@ using (var document = new HTMLDocument("./my-folder/document.html")))
 
 ### See Also
 
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -241,7 +241,7 @@ using (var document = new HTMLDocument("./my-folder/document.html")))
 
 Loads the HTML document from an address with specified environment configuration settings.
 
-Note: In case if you pass a wrong URL that can’t be reached right at the moment, the library throws the [`DOMException`](../../../aspose.html.dom/domexception) with specialized code ‘NetworkError’ to inform you that the selected resource can not be found.
+Note: In case if you pass a wrong URL that can’t be reached right at the moment, the library throws the [`DOMException`](../../../aspose.html.dom/domexception/) with specialized code ‘NetworkError’ to inform you that the selected resource can not be found.
 
 ```csharp
 public HTMLDocument(string address, Configuration configuration)
@@ -276,9 +276,9 @@ using (var configuration = new Configuration())
 
 ### See Also
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -323,8 +323,8 @@ using (var document = new HTMLDocument(html_code, "."))
 
 ### See Also
 
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -370,9 +370,9 @@ using (var document = new HTMLDocument(html_code, "."))
 
 ### See Also
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -417,9 +417,9 @@ using (var document = new HTMLDocument(html_code, "."))
 
 ### See Also
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -465,10 +465,10 @@ using (var document = new HTMLDocument(html_code, "."))
 
 ### See Also
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -523,8 +523,8 @@ using (var sw = new StreamWriter(mem))
 
 ### See Also
 
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -580,9 +580,9 @@ using (var sw = new StreamWriter(mem))
 
 ### See Also
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -637,9 +637,9 @@ using (var sw = new StreamWriter(mem))
 
 ### See Also
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -695,17 +695,17 @@ using (var sw = new StreamWriter(mem))
 
 ### See Also
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(RequestMessage) {#constructor_2}
 
-Creates an HTML document from the [`RequestMessage`](../../../aspose.html.net/requestmessage) object.
+Creates an HTML document from the [`RequestMessage`](../../../aspose.html.net/requestmessage/) object.
 
 ```csharp
 public HTMLDocument(RequestMessage request)
@@ -713,7 +713,7 @@ public HTMLDocument(RequestMessage request)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| request | RequestMessage | The request message that contains a [`body`](../../../aspose.html.net/requestmessage/content) with document content. |
+| request | RequestMessage | The request message that contains a [`body`](../../../aspose.html.net/requestmessage/content/) with document content. |
 
 ### Remarks
 
@@ -727,9 +727,9 @@ Reference:
 
 ### See Also
 
-* class [RequestMessage](../../../aspose.html.net/requestmessage)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [RequestMessage](../../../aspose.html.net/requestmessage/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -759,10 +759,10 @@ Reference:
 
 ### See Also
 
-* class [RequestMessage](../../../aspose.html.net/requestmessage)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namespace [Aspose.Html](../../htmldocument)
+* class [RequestMessage](../../../aspose.html.net/requestmessage/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 <!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
