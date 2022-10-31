@@ -1,7 +1,7 @@
 ---
 title: PathSegList
 second_title: Aspose.HTML for .NET API Reference
-description: Provides access to the base i.e. static contents of the d attribute in a form which matches oneforone with SVGs syntax. Thus if the d attribute has an absolute moveto M and an absolute arcto A command then pathSegList will have two entries a SVG_PATHSEG_MOVETO_ABS and a SVG_PATHSEG_ARC_ABS.
+description: Provides access to the base i.e. static contents of the d attribute in a form which matches one-for-one with SVGs syntax. Thus if the d attribute has an absolute moveto M and an absolute arcto A command then pathSegList will have two entries a SVG_PATHSEG_MOVETO_ABS and a SVG_PATHSEG_ARC_ABS.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.paths/isvganimatedpathdata/pathseglist/

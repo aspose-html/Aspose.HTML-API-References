@@ -1,7 +1,7 @@
 ---
 title: PROCESSING_INSTRUCTION_NODE
 second_title: Aspose.HTML for .NET API Reference
-description: A ProcessingInstructionaspose.html.dom/processinginstruction/ of an XML document such as ltxmlstylesheet  gt.
+description: A ProcessingInstructionaspose.html.dom/processinginstruction/ of an XML document such as ltxml-stylesheet  gt.
 type: docs
 weight: 420
 url: /net/aspose.html.dom/node/processing_instruction_node/

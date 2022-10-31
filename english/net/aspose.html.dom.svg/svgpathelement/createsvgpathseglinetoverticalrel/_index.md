@@ -1,7 +1,7 @@
 ---
 title: CreateSVGPathSegLinetoVerticalRel
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a standalone parentless SVGPathSegLinetoVerticalRel object.
+description: Returns a stand-alone parentless SVGPathSegLinetoVerticalRel object.
 type: docs
 weight: 190
 url: /net/aspose.html.dom.svg/svgpathelement/createsvgpathseglinetoverticalrel/

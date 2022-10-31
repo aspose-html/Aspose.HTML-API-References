@@ -1,7 +1,7 @@
 ---
 title: FirstChild
 second_title: Aspose.HTML for .NET API Reference
-description: The readonly firstChild property of the Nodeaspose.html.dom/node/ interface returns the nodes first child in the tree or null if the node has no children.
+description: The read-only firstChild property of the Nodeaspose.html.dom/node/ interface returns the nodes first child in the tree or null if the node has no children.
 type: docs
 weight: 40
 url: /net/aspose.html.dom/node/firstchild/

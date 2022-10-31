@@ -1,7 +1,7 @@
 ---
 title: Get
 second_title: Aspose.HTML for .NET API Reference
-description: Returns value of the first namevalue pair whose name is name.
+description: Returns value of the first name-value pair whose name is name.
 type: docs
 weight: 30
 url: /net/aspose.html/iurlsearchparams/get/

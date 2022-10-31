@@ -1,7 +1,7 @@
 ---
 title: HTMLInputElement
 second_title: Aspose.HTML for .NET API Reference
-description: Form control. Depending upon the environment in which the page is being viewed the value property may be readonly for the file upload input type. For the password input type the actual value returned may be masked to prevent unauthorized use. See the INPUT element definition in HTML 4.01http//www.w3.org/TR/1999/REChtml40119991224.See also the Document object Model DOM Level 2 HTML Specificationhttp//www.w3.org/TR/2003/RECDOMLevel2HTML20030109.
+description: Form control. Depending upon the environment in which the page is being viewed the value property may be read-only for the file upload input type. For the password input type the actual value returned may be masked to prevent unauthorized use. See the INPUT element definition in HTML 4.01http//www.w3.org/TR/1999/REC-html401-19991224.See also the Document object Model DOM Level 2 HTML Specificationhttp//www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109.
 type: docs
 weight: 3320
 url: /net/aspose.html/htmlinputelement/

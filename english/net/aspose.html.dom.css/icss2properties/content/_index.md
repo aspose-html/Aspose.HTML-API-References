@@ -1,7 +1,7 @@
 ---
 title: Content
 second_title: Aspose.HTML for .NET API Reference
-description: This property is used with the before and after pseudoelements to generate content in a document.
+description: This property is used with the before and after pseudo-elements to generate content in a document.
 type: docs
 weight: 350
 url: /net/aspose.html.dom.css/icss2properties/content/

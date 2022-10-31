@@ -1,7 +1,7 @@
 ---
 title: Q
 second_title: Aspose.HTML for .NET API Reference
-description: Measurement is in quartermillimeters
+description: Measurement is in quarter-millimeters
 type: docs
 weight: 210
 url: /net/aspose.html.drawing/unittype/q/

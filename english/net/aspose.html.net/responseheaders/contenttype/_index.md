@@ -1,7 +1,7 @@
 ---
 title: ContentType
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the ContentType header value.
+description: Gets the Content-Type header value.
 type: docs
 weight: 20
 url: /net/aspose.html.net/responseheaders/contenttype/

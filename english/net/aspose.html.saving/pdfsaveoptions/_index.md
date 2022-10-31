@@ -1,7 +1,7 @@
 ---
 title: PdfSaveOptions
 second_title: Aspose.HTML for .NET API Reference
-description: Specific data class provides few properties to manage conversion result. For example PageSetup../aspose.html.rendering/pagesetup/ specifies page characteristics. Refer to documentation articlehttps//docs.aspose.com/html/net/convertingbetweenformats/htmltopdf/converthtmltopdfusingpdfsaveoptions.
+description: Specific data class provides few properties to manage conversion result. For example PageSetup../aspose.html.rendering/pagesetup/ specifies page characteristics. Refer to documentation articlehttps//docs.aspose.com/html/net/converting-between-formats/html-to-pdf/convert-html-to-pdf-using-pdfsaveoptions.
 type: docs
 weight: 4640
 url: /net/aspose.html.saving/pdfsaveoptions/

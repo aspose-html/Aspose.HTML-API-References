@@ -1,7 +1,7 @@
 ---
 title: PageSetup
 second_title: Aspose.HTML for .NET API Reference
-description: Represents a page setup object is used for configuration output pageset.
+description: Represents a page setup object is used for configuration output page-set.
 type: docs
 weight: 4390
 url: /net/aspose.html.rendering/pagesetup/

@@ -1,7 +1,7 @@
 ---
 title: Aspose.Html.Dom.Traversal
 second_title: Aspose.HTML for .NET API Reference
-description: The Aspose.Html.Dom.Traversal namespace contains methods that create iterators and treewalkers to navigate between elements and traverse a node and its children in document order.
+description: The Aspose.Html.Dom.Traversal namespace contains methods that create iterators and tree-walkers to navigate between elements and traverse a node and its children in document order.
 type: docs
 weight: 170
 url: /net/aspose.html.dom.traversal/

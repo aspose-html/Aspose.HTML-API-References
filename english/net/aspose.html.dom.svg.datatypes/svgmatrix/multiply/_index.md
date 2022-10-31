@@ -1,7 +1,7 @@
 ---
 title: Multiply
 second_title: Aspose.HTML for .NET API Reference
-description: Performs matrix multiplication. This matrix is postmultiplied by another matrix returning the resulting new matrix.
+description: Performs matrix multiplication. This matrix is post-multiplied by another matrix returning the resulting new matrix.
 type: docs
 weight: 70
 url: /net/aspose.html.dom.svg.datatypes/svgmatrix/multiply/

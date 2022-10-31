@@ -1,7 +1,7 @@
 ---
 title: ILinkStyle
 second_title: Aspose.HTML for .NET API Reference
-description: The LinkStyle interface provides a mechanism by which a style sheet can be retrieved from the node responsible for linking it into a document. An instance of the LinkStyle interface can be obtained using bindingspecific casting methods on an instance of a linking node HTMLLinkElement
+description: The LinkStyle interface provides a mechanism by which a style sheet can be retrieved from the node responsible for linking it into a document. An instance of the LinkStyle interface can be obtained using binding-specific casting methods on an instance of a linking node HTMLLinkElement
 type: docs
 weight: 570
 url: /net/aspose.html.dom.css/ilinkstyle/

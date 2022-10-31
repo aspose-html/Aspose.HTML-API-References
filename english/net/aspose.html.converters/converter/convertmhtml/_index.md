@@ -1,7 +1,7 @@
 ---
 title: ConvertMHTML
 second_title: Aspose.HTML for .NET API Reference
-description: Convert MHTML source presented by input streamhttps//docs.microsoft.com/enus/dotnet/api/system.io.streamviewnet5.0. Result is xps file formed by output file path.
+description: Convert MHTML source presented by input streamhttps//docs.microsoft.com/en-us/dotnet/api/system.io.streamviewnet-5.0. Result is xps file formed by output file path.
 type: docs
 weight: 40
 url: /net/aspose.html.converters/converter/convertmhtml/

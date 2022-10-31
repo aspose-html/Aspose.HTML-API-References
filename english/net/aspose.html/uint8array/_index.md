@@ -1,7 +1,7 @@
 ---
 title: Uint8Array
 second_title: Aspose.HTML for .NET API Reference
-description: Represents an array of twoscomplement 8bit unsigned integers.
+description: Represents an array of twos-complement 8-bit unsigned integers.
 type: docs
 weight: 5780
 url: /net/aspose.html/uint8array/

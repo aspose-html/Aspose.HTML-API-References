@@ -1,7 +1,7 @@
 ---
 title: TextShadow
 second_title: Aspose.HTML for .NET API Reference
-description: This property accepts a commaseparated list of shadow effects to be applied to the text of the element. The shadow effects are applied in the order specified and may thus overlay each other but they will never overlay the text itself. Shadow effects do not alter the size of a box but may extend beyond its boundaries. The stack levelhttps//www.w3.org/TR/1998/RECCSS219980512/visuren.htmlstacklevel of the shadow effects is the same as for the element itself.
+description: This property accepts a comma-separated list of shadow effects to be applied to the text of the element. The shadow effects are applied in the order specified and may thus overlay each other but they will never overlay the text itself. Shadow effects do not alter the size of a box but may extend beyond its boundaries. The stack levelhttps//www.w3.org/TR/1998/REC-CSS2-19980512/visuren.htmlstack-level of the shadow effects is the same as for the element itself.
 type: docs
 weight: 1100
 url: /net/aspose.html.dom.css/icss2properties/textshadow/

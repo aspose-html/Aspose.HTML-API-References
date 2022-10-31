@@ -1,7 +1,7 @@
 ---
 title: Speak
 second_title: Aspose.HTML for .NET API Reference
-description: This property specifies whether text will be rendered aurally and if so in what manner somewhat analogous to the displayhttps//www.w3.org/TR/1998/RECCSS219980512/visuren.htmlpropdefdisplay property. The possible values are
+description: This property specifies whether text will be rendered aurally and if so in what manner somewhat analogous to the displayhttps//www.w3.org/TR/1998/REC-CSS2-19980512/visuren.htmlpropdef-display property. The possible values are
 type: docs
 weight: 1000
 url: /net/aspose.html.dom.css/icss2properties/speak/

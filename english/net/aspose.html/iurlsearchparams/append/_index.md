@@ -1,7 +1,7 @@
 ---
 title: Append
 second_title: Aspose.HTML for .NET API Reference
-description: Appends a new namevalue pair whose name is name and value is value.
+description: Appends a new name-value pair whose name is name and value is value.
 type: docs
 weight: 10
 url: /net/aspose.html/iurlsearchparams/append/

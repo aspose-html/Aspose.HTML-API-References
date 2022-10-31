@@ -1,7 +1,7 @@
 ---
 title: Uint16Array
 second_title: Aspose.HTML for .NET API Reference
-description: Represents an array of twoscomplement 16bit unsigned integers in the platform byte order.
+description: Represents an array of twos-complement 16-bit unsigned integers in the platform byte order.
 type: docs
 weight: 5760
 url: /net/aspose.html/uint16array/

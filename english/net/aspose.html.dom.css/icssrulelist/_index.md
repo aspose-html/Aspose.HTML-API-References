@@ -1,7 +1,7 @@
 ---
 title: ICSSRuleList
 second_title: Aspose.HTML for .NET API Reference
-description: A CSSRuleList represents an ordered collection of readonly CSSRule./icssrule/ objects.
+description: A CSSRuleList represents an ordered collection of read-only CSSRule./icssrule/ objects.
 type: docs
 weight: 480
 url: /net/aspose.html.dom.css/icssrulelist/

@@ -1,7 +1,7 @@
 ---
 title: ArrayBuffer
 second_title: Aspose.HTML for .NET API Reference
-description: The ArrayBuffer object is used to represent a generic fixedlength raw binary data buffer.
+description: The ArrayBuffer object is used to represent a generic fixed-length raw binary data buffer.
 type: docs
 weight: 10
 url: /net/aspose.html/arraybuffer/

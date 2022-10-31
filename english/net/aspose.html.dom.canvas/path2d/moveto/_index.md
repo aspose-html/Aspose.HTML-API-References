@@ -1,7 +1,7 @@
 ---
 title: MoveTo
 second_title: Aspose.HTML for .NET API Reference
-description: Moves the starting point of a new subpath to the x y coordinates.
+description: Moves the starting point of a new sub-path to the x y coordinates.
 type: docs
 weight: 100
 url: /net/aspose.html.dom.canvas/path2d/moveto/

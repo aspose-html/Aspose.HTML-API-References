@@ -1,7 +1,7 @@
 ---
 title: NamespaceURI
 second_title: Aspose.HTML for .NET API Reference
-description: The Element.namespaceURI readonly property returns the namespace URI of the element or null if the element is not in a namespace.
+description: The Element.namespaceURI read-only property returns the namespace URI of the element or null if the element is not in a namespace.
 type: docs
 weight: 70
 url: /net/aspose.html.dom/node/namespaceuri/

@@ -1,7 +1,7 @@
 ---
 title: Angle
 second_title: Aspose.HTML for .NET API Reference
-description: The rotation angle in degrees for the ellipses xaxis relative to the xaxis of the user coordinate system.
+description: The rotation angle in degrees for the ellipses x-axis relative to the x-axis of the user coordinate system.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.paths/svgpathsegarcrel/angle/
