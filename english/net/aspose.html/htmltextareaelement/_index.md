@@ -1,7 +1,7 @@
 ---
 title: HTMLTextAreaElement
 second_title: Aspose.HTML for .NET API Reference
-description: Multiline text field. See the TEXTAREA element definition in HTML 4.01.
+description: Multi-line text field. See the TEXTAREA element definition in HTML 4.01.
 type: docs
 weight: 3610
 url: /net/aspose.html/htmltextareaelement/

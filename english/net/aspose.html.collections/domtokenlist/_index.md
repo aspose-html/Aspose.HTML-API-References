@@ -1,7 +1,7 @@
 ---
 title: DOMTokenList
 second_title: Aspose.HTML for .NET API Reference
-description: The DOMTokenList class represents a set of spaceseparated tokens. It is indexed beginning with 0 as with JavaScript Array objects. DOMTokenList is always casesensitive.
+description: The DOMTokenList class represents a set of space-separated tokens. It is indexed beginning with 0 as with JavaScript Array objects. DOMTokenList is always case-sensitive.
 type: docs
 weight: 20
 url: /net/aspose.html.collections/domtokenlist/

@@ -1,7 +1,7 @@
 ---
 title: IsComposing
 second_title: Aspose.HTML for .NET API Reference
-description: true if the key event occurs as part of a composition session i.e. after a compositionstart event and before the corresponding compositionend event. The uninitialized value of this attribute MUST be false.
+description: true if the key event occurs as part of a composition session i.e. after a compositionstart event and before the corresponding compositionend event. The un-initialized value of this attribute MUST be false.
 type: docs
 weight: 50
 url: /net/aspose.html.dom.events/keyboardevent/iscomposing/

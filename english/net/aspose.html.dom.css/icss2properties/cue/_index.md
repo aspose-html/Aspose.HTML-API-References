@@ -1,7 +1,7 @@
 ---
 title: Cue
 second_title: Aspose.HTML for .NET API Reference
-description: The cuehttps//www.w3.org/TR/1998/RECCSS219980512/aural.htmlpropdefcue property is a shorthand for setting cuebeforehttps//www.w3.org/TR/1998/RECCSS219980512/aural.htmlpropdefcuebefore and cueafterhttps//www.w3.org/TR/1998/RECCSS219980512/aural.htmlpropdefcueafter. If two values are given the first value is cuebeforehttps//www.w3.org/TR/1998/RECCSS219980512/aural.htmlpropdefcuebefore and the second is cueafterhttps//www.w3.org/TR/1998/RECCSS219980512/aural.htmlpropdefcueafter. If only one value is given it applies to both properties.
+description: The cuehttps//www.w3.org/TR/1998/REC-CSS2-19980512/aural.htmlpropdef-cue property is a shorthand for setting cue-beforehttps//www.w3.org/TR/1998/REC-CSS2-19980512/aural.htmlpropdef-cue-before and cue-afterhttps//www.w3.org/TR/1998/REC-CSS2-19980512/aural.htmlpropdef-cue-after. If two values are given the first value is cue-beforehttps//www.w3.org/TR/1998/REC-CSS2-19980512/aural.htmlpropdef-cue-before and the second is cue-afterhttps//www.w3.org/TR/1998/REC-CSS2-19980512/aural.htmlpropdef-cue-after. If only one value is given it applies to both properties.
 type: docs
 weight: 380
 url: /net/aspose.html.dom.css/icss2properties/cue/

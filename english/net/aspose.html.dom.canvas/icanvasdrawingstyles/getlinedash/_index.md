@@ -1,7 +1,7 @@
 ---
 title: GetLineDash
 second_title: Aspose.HTML for .NET API Reference
-description: Returns the current line dash pattern array containing an even number of nonnegative numbers.
+description: Returns the current line dash pattern array containing an even number of non-negative numbers.
 type: docs
 weight: 90
 url: /net/aspose.html.dom.canvas/icanvasdrawingstyles/getlinedash/

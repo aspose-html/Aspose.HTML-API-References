@@ -1,7 +1,7 @@
 ---
 title: LastChild
 second_title: Aspose.HTML for .NET API Reference
-description: The readonly lastChild property of the Nodeaspose.html.dom/node/ interface returns the last child of the node. If its parent is an element then the child is generally an element node a text node or a comment node. It returns null if there are no child elements
+description: The read-only lastChild property of the Nodeaspose.html.dom/node/ interface returns the last child of the node. If its parent is an element then the child is generally an element node a text node or a comment node. It returns null if there are no child elements
 type: docs
 weight: 50
 url: /net/aspose.html.dom/node/lastchild/

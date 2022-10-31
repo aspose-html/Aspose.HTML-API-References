@@ -1,7 +1,7 @@
 ---
 title: CreateSVGPathSegLinetoHorizontalRel
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a standalone parentless SVGPathSegLinetoHorizontalRel object.
+description: Returns a stand-alone parentless SVGPathSegLinetoHorizontalRel object.
 type: docs
 weight: 160
 url: /net/aspose.html.dom.svg/svgpathelement/createsvgpathseglinetohorizontalrel/

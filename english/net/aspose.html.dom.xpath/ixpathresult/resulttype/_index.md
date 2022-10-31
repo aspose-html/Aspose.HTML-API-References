@@ -1,7 +1,7 @@
 ---
 title: ResultType
 second_title: Aspose.HTML for .NET API Reference
-description: A code representing the type of this result as defined by the http//www.w3.org/TR/DOMLevel3XPath/xpath.htmlXPathResultXPathResultTypeaspose.html.dom.xpath/xpathresulttype/ enum.
+description: A code representing the type of this result as defined by the http//www.w3.org/TR/DOM-Level-3-XPath/xpath.htmlXPathResultXPathResultTypeaspose.html.dom.xpath/xpathresulttype/ enum.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.xpath/ixpathresult/resulttype/

@@ -1,7 +1,7 @@
 ---
 title: Color
 second_title: Aspose.HTML for .NET API Reference
-description: The Color class lets you specify colors as RedGreenBlue RGB values HueSaturationLuminosity HSL values HueSaturationValue HSV values HueWhitenessBlackness HWB values lightnessAB LAB values LuminanceChromaHue LCH values CyanMagentaYellowKey CMYK values Natural colors NCOL values or with a color name. An Alpha channel is also available to indicate transparency.
+description: The Color class lets you specify colors as Red-Green-Blue RGB values Hue-Saturation-Luminosity HSL values Hue-Saturation-Value HSV values Hue-Whiteness-Blackness HWB values lightness-A-B LAB values Luminance-Chroma-Hue LCH values Cyan-Magenta-Yellow-Key CMYK values Natural colors NCOL values or with a color name. An Alpha channel is also available to indicate transparency.
 type: docs
 weight: 2640
 url: /net/aspose.html.drawing/color/

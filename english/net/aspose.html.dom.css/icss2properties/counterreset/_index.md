@@ -1,7 +1,7 @@
 ---
 title: CounterReset
 second_title: Aspose.HTML for .NET API Reference
-description: The counterresethttps//www.w3.org/TR/1998/RECCSS219980512/generate.htmlpropdefcounterreset property also contains a list of one or more names of counters each one optionally followed by an integer. The integer gives the value that the counter is set to on each occurrence of the element. The default is 0.
+description: The counter-resethttps//www.w3.org/TR/1998/REC-CSS2-19980512/generate.htmlpropdef-counter-reset property also contains a list of one or more names of counters each one optionally followed by an integer. The integer gives the value that the counter is set to on each occurrence of the element. The default is 0.
 type: docs
 weight: 370
 url: /net/aspose.html.dom.css/icss2properties/counterreset/

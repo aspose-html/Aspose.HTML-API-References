@@ -1,7 +1,7 @@
 ---
 title: HTMLDocument
 second_title: Aspose.HTML for .NET API Reference
-description: Represents an HTML document. All top level HTML objects are added to this object. This class represents the HTML page as what we see in browser. All forms tables scripts ... are added to the HTML page via the interfaces of this class. HTMLDocumenthttps//dom.spec.whatwg.org/reffordomdomimplementationcreatehtmldocument is html implementation of most general Documenthttps//dom.spec.whatwg.org/document interface and both are core or root point of DOMhttps//dom.spec.whatwg.org/  Document Object Model. These concepts are in full accordance with officical web development basis or standards. For the purposes of web development you can generally think of HTMLDocument as an alias for Document upon which HTMLDocument is based.
+description: Represents an HTML document. All top level HTML objects are added to this object. This class represents the HTML page as what we see in browser. All forms tables scripts ... are added to the HTML page via the interfaces of this class. HTMLDocumenthttps//dom.spec.whatwg.org/ref-for-dom-domimplementation-createhtmldocument is html implementation of most general Documenthttps//dom.spec.whatwg.org/document interface and both are core or root point of DOMhttps//dom.spec.whatwg.org/ - Document Object Model. These concepts are in full accordance with officical web development basis or standards. For the purposes of web development you can generally think of HTMLDocument as an alias for Document upon which HTMLDocument is based.
 type: docs
 weight: 3190
 url: /net/aspose.html/htmldocument/

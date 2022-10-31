@@ -1,7 +1,7 @@
 ---
 title: Style
 second_title: Aspose.HTML for .NET API Reference
-description: The readonly style property of the CSSFontFaceRuleaspose.html.dom.css/icssfontfacerule/ interface returns the style information from the fontface atrule. This will be in the form of a CSSStyleDeclarationaspose.html.dom.css/icssstyledeclaration/ object.
+description: The read-only style property of the CSSFontFaceRuleaspose.html.dom.css/icssfontfacerule/ interface returns the style information from the font-face at-rule. This will be in the form of a CSSStyleDeclarationaspose.html.dom.css/icssstyledeclaration/ object.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/icssfontfacerule/style/

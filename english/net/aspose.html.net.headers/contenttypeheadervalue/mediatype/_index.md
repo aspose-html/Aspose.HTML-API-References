@@ -1,7 +1,7 @@
 ---
 title: MediaType
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets the mediatype for content.
+description: Gets or sets the media-type for content.
 type: docs
 weight: 20
 url: /net/aspose.html.net.headers/contenttypeheadervalue/mediatype/

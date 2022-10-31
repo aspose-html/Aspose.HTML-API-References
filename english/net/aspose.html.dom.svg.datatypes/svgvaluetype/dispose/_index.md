@@ -1,7 +1,7 @@
 ---
 title: Dispose
 second_title: Aspose.HTML for .NET API Reference
-description: Releases unmanaged and  optionally  managed resources.
+description: Releases unmanaged and - optionally - managed resources.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.datatypes/svgvaluetype/dispose/

@@ -1,7 +1,7 @@
 ---
 title: CreateSVGPathSegLinetoVerticalAbs
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a standalone parentless SVGPathSegLinetoVerticalAbs object.
+description: Returns a stand-alone parentless SVGPathSegLinetoVerticalAbs object.
 type: docs
 weight: 180
 url: /net/aspose.html.dom.svg/svgpathelement/createsvgpathseglinetoverticalabs/

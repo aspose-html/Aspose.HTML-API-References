@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElement
 second_title: Aspose.HTML for .NET API Reference
-description: A key interface definition is the SVGSVGElement interface which is the interface that corresponds to the svg element. This interface contains various miscellaneous commonlyused utility methods such as matrix operations and the ability to control the time of redraw on visual rendering devices.
+description: A key interface definition is the SVGSVGElement interface which is the interface that corresponds to the svg element. This interface contains various miscellaneous commonly-used utility methods such as matrix operations and the ability to control the time of redraw on visual rendering devices.
 type: docs
 weight: 2260
 url: /net/aspose.html.dom.svg/svgsvgelement/

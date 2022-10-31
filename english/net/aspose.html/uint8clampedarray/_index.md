@@ -1,7 +1,7 @@
 ---
 title: Uint8ClampedArray
 second_title: Aspose.HTML for .NET API Reference
-description: Represents an array of 8bit unsigned integers clamped to 0255 if you specified a value that is out of the range of 0255 0 or 255 will be set instead
+description: Represents an array of 8-bit unsigned integers clamped to 0-255 if you specified a value that is out of the range of 0255 0 or 255 will be set instead
 type: docs
 weight: 5790
 url: /net/aspose.html/uint8clampedarray/

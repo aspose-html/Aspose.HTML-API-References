@@ -1,7 +1,7 @@
 ---
 title: WhiteSpace
 second_title: Aspose.HTML for .NET API Reference
-description: This property declares how whitespacehttps//www.w3.org/TR/1998/RECCSS219980512/syndata.htmlwhitespace inside the element is handled. Values have the following meanings
+description: This property declares how whitespacehttps//www.w3.org/TR/1998/REC-CSS2-19980512/syndata.htmlwhitespace inside the element is handled. Values have the following meanings
 type: docs
 weight: 1180
 url: /net/aspose.html.dom.css/icss2properties/whitespace/

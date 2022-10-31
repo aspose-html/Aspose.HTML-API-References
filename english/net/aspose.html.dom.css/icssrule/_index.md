@@ -1,7 +1,7 @@
 ---
 title: ICSSRule
 second_title: Aspose.HTML for .NET API Reference
-description: The CSSRule interface is the abstract base interface for any type of CSS statement. This includes both rule sets and atrules. An implementation is expected to preserve all rules specified in a CSS style sheet even if the rule is not recognized by the parser. Unrecognized rules are represented using the interface.
+description: The CSSRule interface is the abstract base interface for any type of CSS statement. This includes both rule sets and at-rules. An implementation is expected to preserve all rules specified in a CSS style sheet even if the rule is not recognized by the parser. Unrecognized rules are represented using the interface.
 type: docs
 weight: 470
 url: /net/aspose.html.dom.css/icssrule/

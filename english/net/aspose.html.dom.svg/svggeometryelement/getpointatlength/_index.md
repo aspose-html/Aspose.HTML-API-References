@@ -1,7 +1,7 @@
 ---
 title: GetPointAtLength
 second_title: Aspose.HTML for .NET API Reference
-description: Returns the xy coordinate in user space which is distance units along the path utilizing the user agents distancealongapath algorithm.
+description: Returns the xy coordinate in user space which is distance units along the path utilizing the user agents distance-along-a-path algorithm.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svggeometryelement/getpointatlength/

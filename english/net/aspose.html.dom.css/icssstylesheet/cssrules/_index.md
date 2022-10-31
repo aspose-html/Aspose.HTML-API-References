@@ -1,7 +1,7 @@
 ---
 title: CSSRules
 second_title: Aspose.HTML for .NET API Reference
-description: The readonly CSSStyleSheet property cssRules returns a live CSSRuleListaspose.html.dom.css/icssrulelist/ which provides a realtime uptodate list of every CSS rule which comprises the stylesheet. Each item in the list is a CSSRuleaspose.html.dom.css/icssrule/ defining a single rule.
+description: The read-only CSSStyleSheet property cssRules returns a live CSSRuleListaspose.html.dom.css/icssrulelist/ which provides a real-time up-to-date list of every CSS rule which comprises the stylesheet. Each item in the list is a CSSRuleaspose.html.dom.css/icssrule/ defining a single rule.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/icssstylesheet/cssrules/

@@ -1,7 +1,7 @@
 ---
 title: IBlob
 second_title: Aspose.HTML for .NET API Reference
-description: A Blob object refers to a byte sequence and has a size attribute which is the total number of bytes in the byte sequence and a type attribute which is an ASCIIencoded string in lower case representing the media type of the byte sequence.
+description: A Blob object refers to a byte sequence and has a size attribute which is the total number of bytes in the byte sequence and a type attribute which is an ASCII-encoded string in lower case representing the media type of the byte sequence.
 type: docs
 weight: 3700
 url: /net/aspose.html.io/iblob/

@@ -1,7 +1,7 @@
 ---
 title: DocSaveOptions
 second_title: Aspose.HTML for .NET API Reference
-description: Specific options data class. By assigning properties you can manage rendering characteristics such as resolution page size background color as well as doc specific options such as font embedding. More info see in documentation articlehttps//docs.aspose.com/html/net/convertingbetweenformats/htmltodocx/saveoptions.
+description: Specific options data class. By assigning properties you can manage rendering characteristics such as resolution page size background color as well as doc specific options such as font embedding. More info see in documentation articlehttps//docs.aspose.com/html/net/converting-between-formats/html-to-docx/save-options.
 type: docs
 weight: 4560
 url: /net/aspose.html.saving/docsaveoptions/

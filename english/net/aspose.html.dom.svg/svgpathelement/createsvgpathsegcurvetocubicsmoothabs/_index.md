@@ -1,7 +1,7 @@
 ---
 title: CreateSVGPathSegCurvetoCubicSmoothAbs
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a standalone parentless SVGPathSegCurvetoCubicSmoothAbs object.
+description: Returns a stand-alone parentless SVGPathSegCurvetoCubicSmoothAbs object.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg/svgpathelement/createsvgpathsegcurvetocubicsmoothabs/

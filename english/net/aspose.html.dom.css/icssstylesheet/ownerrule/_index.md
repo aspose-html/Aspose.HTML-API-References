@@ -1,7 +1,7 @@
 ---
 title: OwnerRule
 second_title: Aspose.HTML for .NET API Reference
-description: The readonly CSSStyleSheet property ownerRule returns the CSSImportRuleaspose.html.dom.css/icssimportrule/ corresponding to the import atrule which imported the stylesheet into the document. If the stylesheet wasnt imported into the document using import the returned value is null.
+description: The read-only CSSStyleSheet property ownerRule returns the CSSImportRuleaspose.html.dom.css/icssimportrule/ corresponding to the import at-rule which imported the stylesheet into the document. If the stylesheet wasnt imported into the document using import the returned value is null.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/icssstylesheet/ownerrule/

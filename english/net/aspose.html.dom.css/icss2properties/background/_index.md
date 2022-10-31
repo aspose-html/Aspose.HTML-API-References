@@ -1,7 +1,7 @@
 ---
 title: Background
 second_title: Aspose.HTML for .NET API Reference
-description: The background property is a shorthand property for setting the individual background properties i.e. backgroundcolor backgroundimage backgroundrepeat backgroundattachment and backgroundposition at the same place in the style sheet.
+description: The background property is a shorthand property for setting the individual background properties i.e. background-color background-image background-repeat background-attachment and background-position at the same place in the style sheet.
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/icss2properties/background/

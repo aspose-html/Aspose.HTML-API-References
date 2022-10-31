@@ -1,7 +1,7 @@
 ---
 title: CharSet
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets the primary characterset for a document.
+description: Gets or sets the primary character-set for a document.
 type: docs
 weight: 10
 url: /net/aspose.html.services/iuseragentservice/charset/

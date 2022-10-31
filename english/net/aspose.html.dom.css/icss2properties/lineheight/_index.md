@@ -1,7 +1,7 @@
 ---
 title: LineHeight
 second_title: Aspose.HTML for .NET API Reference
-description: If the property is set on a blocklevelhttps//www.w3.org/TR/1998/RECCSS219980512/visuren.htmlblocklevel element whose content is composed of inlinelevelhttps//www.w3.org/TR/1998/RECCSS219980512/visuren.htmlinlinelevel elements it specifies the minimal height of each generated inline box.
+description: If the property is set on a block-levelhttps//www.w3.org/TR/1998/REC-CSS2-19980512/visuren.htmlblock-level element whose content is composed of inline-levelhttps//www.w3.org/TR/1998/REC-CSS2-19980512/visuren.htmlinline-level elements it specifies the minimal height of each generated inline box.
 type: docs
 weight: 580
 url: /net/aspose.html.dom.css/icss2properties/lineheight/

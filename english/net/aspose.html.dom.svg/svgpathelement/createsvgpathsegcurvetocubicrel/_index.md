@@ -1,7 +1,7 @@
 ---
 title: CreateSVGPathSegCurvetoCubicRel
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a standalone parentless SVGPathSegCurvetoCubicRel object.
+description: Returns a stand-alone parentless SVGPathSegCurvetoCubicRel object.
 type: docs
 weight: 70
 url: /net/aspose.html.dom.svg/svgpathelement/createsvgpathsegcurvetocubicrel/

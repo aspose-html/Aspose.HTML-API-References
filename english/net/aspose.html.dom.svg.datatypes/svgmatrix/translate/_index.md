@@ -1,7 +1,7 @@
 ---
 title: Translate
 second_title: Aspose.HTML for .NET API Reference
-description: Postmultiplies a translation transformation on the current matrix and returns the resulting matrix.
+description: Post-multiplies a translation transformation on the current matrix and returns the resulting matrix.
 type: docs
 weight: 140
 url: /net/aspose.html.dom.svg.datatypes/svgmatrix/translate/

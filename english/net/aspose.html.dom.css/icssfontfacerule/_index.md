@@ -1,7 +1,7 @@
 ---
 title: ICSSFontFaceRule
 second_title: Aspose.HTML for .NET API Reference
-description: The CSSFontFaceRule interface represents a fontface rule in a CSS style sheet. The fontface rule is used to hold a set of font descriptions.
+description: The CSSFontFaceRule interface represents a font-face rule in a CSS style sheet. The font-face rule is used to hold a set of font descriptions.
 type: docs
 weight: 400
 url: /net/aspose.html.dom.css/icssfontfacerule/

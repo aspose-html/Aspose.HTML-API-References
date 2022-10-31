@@ -1,7 +1,7 @@
 ---
 title: Marks
 second_title: Aspose.HTML for .NET API Reference
-description: In highquality printing marks are often added outside the page box. This property specifies whether cross marks or crop marks or both should be rendered just outside the page boxhttps//www.w3.org/TR/1998/RECCSS219980512/page.htmlpagebox edge.
+description: In high-quality printing marks are often added outside the page box. This property specifies whether cross marks or crop marks or both should be rendered just outside the page boxhttps//www.w3.org/TR/1998/REC-CSS2-19980512/page.htmlpage-box edge.
 type: docs
 weight: 690
 url: /net/aspose.html.dom.css/icss2properties/marks/

@@ -1,7 +1,7 @@
 ---
 title: Configuration
 second_title: Aspose.HTML for .NET API Reference
-description: Represents the configuration context object that is used to set up the environment settings for the application. Managing configuration you can override document style applying a custom user stylesheet or handle any web requests from the application as well as to configure scripts policy. Details are in Environment Configuration guidehttps//docs.aspose.com/html/net/workingwithdocuments/environmentconfiguration/.
+description: Represents the configuration context object that is used to set up the environment settings for the application. Managing configuration you can override document style applying a custom user stylesheet or handle any web requests from the application as well as to configure scripts policy. Details are in Environment Configuration guidehttps//docs.aspose.com/html/net/working-with-documents/environment-configuration/.
 type: docs
 weight: 60
 url: /net/aspose.html/configuration/

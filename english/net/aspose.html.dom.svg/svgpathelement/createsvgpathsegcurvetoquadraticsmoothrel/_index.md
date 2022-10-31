@@ -1,7 +1,7 @@
 ---
 title: CreateSVGPathSegCurvetoQuadraticSmoothRel
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a standalone parentless SVGPathSegCurvetoQuadraticSmoothRel object.
+description: Returns a stand-alone parentless SVGPathSegCurvetoQuadraticSmoothRel object.
 type: docs
 weight: 130
 url: /net/aspose.html.dom.svg/svgpathelement/createsvgpathsegcurvetoquadraticsmoothrel/
