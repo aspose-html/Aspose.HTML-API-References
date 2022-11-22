@@ -3,7 +3,7 @@ title: CodeSpanSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the CodeSpanSyntaxNode
 type: docs
-weight: 4830
+weight: 4840
 url: /net/aspose.html.toolkit.markdown.syntax/codespansyntaxnode/
 ---
 ## CodeSpanSyntaxNode class

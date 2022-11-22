@@ -3,7 +3,7 @@ title: Whitespace
 second_title: Aspose.HTML for .NET API Reference
 description: Create the WhitespaceSyntax.
 type: docs
-weight: 470
+weight: 490
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/
 ---
 ## Whitespace(int) {#whitespace_2}

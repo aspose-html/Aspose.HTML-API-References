@@ -3,7 +3,7 @@ title: InlineLinkSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the InlineLinkSyntaxNode.
 type: docs
-weight: 5050
+weight: 5060
 url: /net/aspose.html.toolkit.markdown.syntax/inlinelinksyntaxnode/
 ---
 ## InlineLinkSyntaxNode class

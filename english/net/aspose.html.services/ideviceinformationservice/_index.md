@@ -3,7 +3,7 @@ title: IDeviceInformationService
 second_title: Aspose.HTML for .NET API Reference
 description: An interface that is described an environment in which Document../aspose.html.dom/document/ is presented to the user.
 type: docs
-weight: 4700
+weight: 4710
 url: /net/aspose.html.services/ideviceinformationservice/
 ---
 ## IDeviceInformationService interface

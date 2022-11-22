@@ -3,7 +3,7 @@ title: TableCell
 second_title: Aspose.HTML for .NET API Reference
 description: Creates objects using TableCellSyntax.CreateInstance.
 type: docs
-weight: 370
+weight: 380
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tablecell/
 ---
 ## MarkdownSyntaxFactory.TableCell method

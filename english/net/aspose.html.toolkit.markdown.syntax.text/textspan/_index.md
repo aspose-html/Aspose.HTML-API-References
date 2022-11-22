@@ -3,7 +3,7 @@ title: TextSpan
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the text span.
 type: docs
-weight: 5650
+weight: 5660
 url: /net/aspose.html.toolkit.markdown.syntax.text/textspan/
 ---
 ## TextSpan structure

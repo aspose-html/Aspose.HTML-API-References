@@ -3,7 +3,7 @@ title: InlineContainerSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the InlineContainerSyntaxNode.
 type: docs
-weight: 5030
+weight: 5040
 url: /net/aspose.html.toolkit.markdown.syntax/inlinecontainersyntaxnode/
 ---
 ## InlineContainerSyntaxNode class

@@ -3,7 +3,7 @@ title: MultiLineContainerBlockSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Base implementation of an MultiLine Container Block Syntax Node
 type: docs
-weight: 5240
+weight: 5250
 url: /net/aspose.html.toolkit.markdown.syntax/multilinecontainerblocksyntaxnode/
 ---
 ## MultiLineContainerBlockSyntaxNode class

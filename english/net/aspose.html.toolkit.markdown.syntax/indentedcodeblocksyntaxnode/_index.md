@@ -3,7 +3,7 @@ title: IndentedCodeBlockSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the IndentedCodeBlockSyntaxNode.
 type: docs
-weight: 5020
+weight: 5030
 url: /net/aspose.html.toolkit.markdown.syntax/indentedcodeblocksyntaxnode/
 ---
 ## IndentedCodeBlockSyntaxNode class

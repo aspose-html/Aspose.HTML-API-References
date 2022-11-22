@@ -3,7 +3,7 @@ title: MarkdownSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Base implementation of the MarkdownSyntaxNode.
 type: docs
-weight: 5180
+weight: 5190
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/
 ---
 ## MarkdownSyntaxNode class

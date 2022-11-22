@@ -3,7 +3,7 @@ title: TableRow
 second_title: Aspose.HTML for .NET API Reference
 description: Creates objects using TableRowSyntax.CreateInstance.
 type: docs
-weight: 390
+weight: 400
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tablerow/
 ---
 ## MarkdownSyntaxFactory.TableRow method

@@ -3,7 +3,7 @@ title: HTMLSaveOptions
 second_title: Aspose.HTML for .NET API Reference
 description: Represents HTML save options. By assigning specific properties you can manage resource processing such as max handling depth and so on. More info see in documentation articlehttps//docs.aspose.com/html/net/working-with-documents/saving-a-document/.
 type: docs
-weight: 4580
+weight: 4590
 url: /net/aspose.html.saving/htmlsaveoptions/
 ---
 ## HTMLSaveOptions class
@@ -26,6 +26,7 @@ public class HTMLSaveOptions : SaveOptions
 | --- | --- |
 | [DocumentType](../../aspose.html.saving/htmlsaveoptions/documenttype/) { get; set; } | Gets or sets the output document type. |
 | [ResourceHandlingOptions](../../aspose.html.saving/saveoptions/resourcehandlingoptions/) { get; } | Gets a [`ResourceHandlingOptions`](../resourcehandlingoptions/) object which is used for configuration of resources handling. |
+| [SerializeInputValue](../../aspose.html.saving/htmlsaveoptions/serializeinputvalue/) { get; set; } | This option controls whether to serialize the value of the [`HTMLInputElement`](../../aspose.html/htmlinputelement/)'s or the [`HTMLTextAreaElement`](../../aspose.html/htmltextareaelement/)'s "value" property into the "value" attribute. |
 
 ## Fields
 

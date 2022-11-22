@@ -3,7 +3,7 @@ title: MarkdownParser
 second_title: Aspose.HTML for .NET API Reference
 description: Represents an MarkDown format document parser.
 type: docs
-weight: 5470
+weight: 5480
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownparser/
 ---
 ## MarkdownParser class
@@ -20,12 +20,6 @@ public class MarkdownParser
 | --- | --- |
 | [MarkdownParser](markdownparser#constructor)() | Initializes a new instance of the [`MarkdownParser`](./markdownparser/) class. |
 | [MarkdownParser](markdownparser#constructor_1)(Action&lt;IMarkdownParserBuilder&gt;) | Initializes a new instance of the [`MarkdownParser`](./markdownparser/) class. |
-
-## Properties
-
-| Name | Description |
-| --- | --- |
-| static [NewLine](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/newline/) { get; set; } | The new line string. |
 
 ## Methods
 

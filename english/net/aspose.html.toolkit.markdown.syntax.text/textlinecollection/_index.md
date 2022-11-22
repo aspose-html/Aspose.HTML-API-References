@@ -3,7 +3,7 @@ title: TextLineCollection
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the TextLineCollection.
 type: docs
-weight: 5640
+weight: 5650
 url: /net/aspose.html.toolkit.markdown.syntax.text/textlinecollection/
 ---
 ## TextLineCollection class

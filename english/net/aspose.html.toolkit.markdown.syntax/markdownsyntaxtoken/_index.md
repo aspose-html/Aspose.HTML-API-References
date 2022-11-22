@@ -3,7 +3,7 @@ title: MarkdownSyntaxToken
 second_title: Aspose.HTML for .NET API Reference
 description: Represent the Markdown Syntax Token.
 type: docs
-weight: 5200
+weight: 5210
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/
 ---
 ## MarkdownSyntaxToken class

@@ -3,7 +3,7 @@ title: MarkdownSyntaxNodeFilter
 second_title: Aspose.HTML for .NET API Reference
 description: Base implementation of the MarkdownSyntaxNodeFilter.
 type: docs
-weight: 5190
+weight: 5200
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/
 ---
 ## MarkdownSyntaxNodeFilter class

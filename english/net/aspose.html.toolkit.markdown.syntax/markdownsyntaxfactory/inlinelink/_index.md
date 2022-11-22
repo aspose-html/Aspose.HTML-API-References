@@ -6,7 +6,7 @@ type: docs
 weight: 220
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinelink/
 ---
-## MarkdownSyntaxFactory.InlineLink method
+## InlineLink(MarkdownSyntaxToken, MarkdownSyntaxToken, MarkdownSyntaxToken, LinkDestinationSyntaxNode, LinkTitleSyntaxNode, MarkdownSyntaxToken) {#inlinelink}
 
 Creates objects using InlineLinkSyntax.CreateInstance.
 
@@ -36,6 +36,33 @@ The InlineLinkSyntax.
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [LinkDestinationSyntaxNode](../../linkdestinationsyntaxnode/)
 * class [LinkTitleSyntaxNode](../../linktitlesyntaxnode/)
+* class [MarkdownSyntaxFactory](../)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## InlineLink(string, string, string) {#inlinelink_1}
+
+Creates InlineLink.
+
+```csharp
+public InlineLinkSyntaxNode InlineLink(string text, string destination, string title)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| text | String | The link text. |
+| destination | String | The string destination. |
+| title | String | The string title. |
+
+### Return Value
+
+The LinkReferenceDefinitionSyntax.
+
+### See Also
+
+* class [InlineLinkSyntaxNode](../../inlinelinksyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
 * namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
 * assembly [Aspose.HTML](../../../)

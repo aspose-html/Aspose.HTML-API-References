@@ -3,7 +3,7 @@ title: ListItemSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Represent the ListItemSyntaxNode.
 type: docs
-weight: 5140
+weight: 5150
 url: /net/aspose.html.toolkit.markdown.syntax/listitemsyntaxnode/
 ---
 ## ListItemSyntaxNode class

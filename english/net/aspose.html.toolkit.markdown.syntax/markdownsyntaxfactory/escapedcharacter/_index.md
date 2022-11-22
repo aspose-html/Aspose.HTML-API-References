@@ -6,7 +6,32 @@ type: docs
 weight: 110
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/escapedcharacter/
 ---
-## MarkdownSyntaxFactory.EscapedCharacter method
+## EscapedCharacter(char) {#escapedcharacter_1}
+
+Creates objects using EscapedCharacterSyntax.CreateEscapedCharacter
+
+```csharp
+public TextSyntaxNode EscapedCharacter(char escapedChar)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| escapedChar | Char | The escapedChar. |
+
+### Return Value
+
+The TextSyntax.
+
+### See Also
+
+* class [TextSyntaxNode](../../textsyntaxnode/)
+* class [MarkdownSyntaxFactory](../)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## EscapedCharacter(SourceText, TextSpan) {#escapedcharacter}
 
 Creates objects using EscapedCharacterSyntax.CreateEscapedCharacter
 

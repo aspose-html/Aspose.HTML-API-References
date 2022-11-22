@@ -3,7 +3,7 @@ title: LeafBlockSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Base implementation of the LeafBlockSyntaxNode.
 type: docs
-weight: 5080
+weight: 5090
 url: /net/aspose.html.toolkit.markdown.syntax/leafblocksyntaxnode/
 ---
 ## LeafBlockSyntaxNode class

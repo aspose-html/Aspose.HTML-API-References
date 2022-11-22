@@ -3,7 +3,7 @@ title: IBlockParsingContext
 second_title: Aspose.HTML for .NET API Reference
 description: Defines the IBlockParsingContext interface.
 type: docs
-weight: 5360
+weight: 5370
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/
 ---
 ## IBlockParsingContext interface

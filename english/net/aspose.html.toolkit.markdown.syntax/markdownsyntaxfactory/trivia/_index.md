@@ -3,7 +3,7 @@ title: Trivia
 second_title: Aspose.HTML for .NET API Reference
 description: Creates Whitespace.
 type: docs
-weight: 450
+weight: 460
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/trivia/
 ---
 ## MarkdownSyntaxFactory.Trivia method

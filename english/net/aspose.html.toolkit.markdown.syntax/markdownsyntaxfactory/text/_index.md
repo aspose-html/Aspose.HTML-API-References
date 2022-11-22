@@ -3,7 +3,7 @@ title: Text
 second_title: Aspose.HTML for .NET API Reference
 description: Creates TextSyntax
 type: docs
-weight: 420
+weight: 430
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/text/
 ---
 ## Text(string) {#text_2}

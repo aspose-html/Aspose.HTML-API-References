@@ -3,7 +3,7 @@ title: PdfDevice.PdfGraphicContext
 second_title: Aspose.HTML for .NET API Reference
 description: Holds current graphics control parameters for the PdfDevice. These parameters define the global framework within which the graphics operators execute.
 type: docs
-weight: 4440
+weight: 4450
 url: /net/aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/
 ---
 ## PdfDevice.PdfGraphicContext class

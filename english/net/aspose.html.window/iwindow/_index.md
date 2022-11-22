@@ -3,7 +3,7 @@ title: IWindow
 second_title: Aspose.HTML for .NET API Reference
 description: The window object represents a window containing a DOM document.
 type: docs
-weight: 5810
+weight: 5850
 url: /net/aspose.html.window/iwindow/
 ---
 ## IWindow interface

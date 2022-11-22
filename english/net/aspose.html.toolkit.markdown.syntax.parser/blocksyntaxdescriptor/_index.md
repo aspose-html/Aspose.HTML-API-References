@@ -3,7 +3,7 @@ title: BlockSyntaxDescriptor
 second_title: Aspose.HTML for .NET API Reference
 description: Defines the BlockSyntaxDescriptor.
 type: docs
-weight: 5320
+weight: 5330
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/
 ---
 ## BlockSyntaxDescriptor class

@@ -3,7 +3,7 @@ title: TableDelimiter
 second_title: Aspose.HTML for .NET API Reference
 description: Creates objects using TableDelimiterSyntax.CreateInstance.
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tabledelimiter/
 ---
 ## MarkdownSyntaxFactory.TableDelimiter method

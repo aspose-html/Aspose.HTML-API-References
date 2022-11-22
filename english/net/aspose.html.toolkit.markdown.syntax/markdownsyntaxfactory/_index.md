@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory
 second_title: Aspose.HTML for .NET API Reference
 description: Creates objects using CreateInstance
 type: docs
-weight: 5170
+weight: 5180
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/
 ---
 ## MarkdownSyntaxFactory class
@@ -25,13 +25,16 @@ public class MarkdownSyntaxFactory
 | [BlockProxy](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/blockproxy/)(MarkdownSyntaxNode) | Creates objects using Syntax.BlockProxy.CreateInstance |
 | [BlockQuote](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/blockquote/)() | Creates objects using BlockQuoteSyntax.CreateInstance. |
 | [CharacterReference](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/characterreference/)(SourceText, TextSpan, string) | Creates objects using CharacterReferenceSyntax.CreateInstance. |
-| [CodeSpan](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/codespan/)(MarkdownSyntaxToken, MarkdownSyntaxToken) | Creates objects using CodeSpanSyntax.CreateInstance |
+| [CodeSpan](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/codespan/#codespan)() | Creates the [`CodeSpanSyntaxNode`](../codespansyntaxnode/). |
+| [CodeSpan](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/codespan/#codespan_2)(int) | Creates the [`CodeSpanSyntaxNode`](../codespansyntaxnode/) with the specified number of backticks. |
+| [CodeSpan](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/codespan/#codespan_1)(MarkdownSyntaxToken, MarkdownSyntaxToken) | Creates objects using CodeSpanSyntax.CreateInstance |
 | [Emphasis](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emphasis/#emphasis)(Emphasis) | Create the EmphasisSyntax. |
 | [Emphasis](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emphasis/#emphasis_1)(MarkdownSyntaxToken, MarkdownSyntaxToken) | Creates objects using EmphasisSyntax.CreateInstance. |
 | [EmphasisClosing](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emphasisclosing/)(SourceText, TextSpan) | Create EmphasisClosing. |
 | [EmphasisOpening](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emphasisopening/)(SourceText, TextSpan) | Create the MarkdownSyntaxToken. |
 | [EmptyLine](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emptyline/)() | Creates objects using EmptyLineSyntax.CreateInstance |
-| [EscapedCharacter](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/escapedcharacter/)(SourceText, TextSpan) | Creates objects using EscapedCharacterSyntax.CreateEscapedCharacter |
+| [EscapedCharacter](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/escapedcharacter/#escapedcharacter_1)(char) | Creates objects using EscapedCharacterSyntax.CreateEscapedCharacter |
+| [EscapedCharacter](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/escapedcharacter/#escapedcharacter)(SourceText, TextSpan) | Creates objects using EscapedCharacterSyntax.CreateEscapedCharacter |
 | [FencedCodeBlock](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/fencedcodeblock/)(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken) | Creates objects using FencedCodeBlockSyntax.CreateInstance. |
 | [HardBreak](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hardbreak/)(MarkdownSyntaxToken, SourceText, TextSpan) | Creates objects using HardBreakSyntax.CreateInstance. |
 | [HardBreakingTag](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hardbreakingtag/)(SourceText, TextSpan) | Create HardBreakingTag. |
@@ -42,8 +45,10 @@ public class MarkdownSyntaxFactory
 | [HugoYamlBasedFrontMatter](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hugoyamlbasedfrontmatter/)(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken) | Creates objects using HugoYamlBasedFrontMatterSyntax.CreateInstance |
 | [IndentedCode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/indentedcode/)(int) | Creates objects using IndentedCodeBlockSyntax.CreateInstance. |
 | [InlineContainer](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinecontainer/)() | Creates objects using InlineContainerSyntax.CreateInstance |
-| [InlineImage](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlineimage/)(MarkdownSyntaxToken, MarkdownSyntaxToken, MarkdownSyntaxToken, LinkDestinationSyntaxNode, LinkTitleSyntaxNode, MarkdownSyntaxToken) | Creates objects using InlineImageSyntax.CreateInstance. |
-| [InlineLink](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinelink/)(MarkdownSyntaxToken, MarkdownSyntaxToken, MarkdownSyntaxToken, LinkDestinationSyntaxNode, LinkTitleSyntaxNode, MarkdownSyntaxToken) | Creates objects using InlineLinkSyntax.CreateInstance. |
+| [InlineImage](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlineimage/#inlineimage_1)(string, string, string) | Creates objects using InlineImageSyntax.CreateInstance. |
+| [InlineImage](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlineimage/#inlineimage)(MarkdownSyntaxToken, MarkdownSyntaxToken, MarkdownSyntaxToken, LinkDestinationSyntaxNode, LinkTitleSyntaxNode, MarkdownSyntaxToken) | Creates objects using InlineImageSyntax.CreateInstance. |
+| [InlineLink](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinelink/#inlinelink_1)(string, string, string) | Creates InlineLink. |
+| [InlineLink](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinelink/#inlinelink)(MarkdownSyntaxToken, MarkdownSyntaxToken, MarkdownSyntaxToken, LinkDestinationSyntaxNode, LinkTitleSyntaxNode, MarkdownSyntaxToken) | Creates objects using InlineLinkSyntax.CreateInstance. |
 | [InlineProxy](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlineproxy/)(MarkdownSyntaxNode) | Creates objects using Syntax.InlineProxy.CreateInstance |
 | [LinkDestination](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkdestination/)(MarkdownSyntaxToken, MarkdownSyntaxToken) | Creates objects using LinkTitleSyntax.CreateInstance. |
 | [LinkReferenceDefinition](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkreferencedefinition/)(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken, LinkDestinationSyntaxNode, LinkTitleSyntaxNode) | Creates objects using LinkReferenceDefinitionSyntax.CreateInstance. |
@@ -53,7 +58,8 @@ public class MarkdownSyntaxFactory
 | [ListItemMarker](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/listitemmarker/#listitemmarker_1)(MarkdownSyntaxToken, MarkdownSyntaxToken) | Creates objects using OrderedListItemMarker.CreateInstance. |
 | [NewLineTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/newlinetrivia/)() | Creates NewLineTrivia. |
 | [OrderedList](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/orderedlist/)() | Creates objects using OrderedListSyntax.CreateInstance. |
-| [Paragraph](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/paragraph/)(bool) | Creates objects using ParagraphSyntax.CreateInstance. |
+| [OrderedListItem](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/orderedlistitem/)(int) | Creates a new instance of the [`ListItemSyntaxNode`](../listitemsyntaxnode/) class with ordered list item marker. |
+| [Paragraph](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/paragraph/)() | Creates objects using ParagraphSyntax.CreateInstance. |
 | [ReferenceImage](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/referenceimage/)(MarkdownSyntaxToken, MarkdownSyntaxToken, MarkdownSyntaxToken, InlineContainerSyntaxNode, MarkdownSyntaxToken) | Creates objects using ReferenceImageSyntax.CreateInstance. |
 | [ReferenceLink](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/referencelink/)(MarkdownSyntaxToken, InlineContainerSyntaxNode, MarkdownSyntaxToken, MarkdownSyntaxToken, InlineContainerSyntaxNode, MarkdownSyntaxToken) | Creates objects using ReferenceLinkSyntax.CreateInstance |
 | [SetextHeading](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/setextheading/)(MarkdownSyntaxToken) | Creates objects using SetextHeadingSyntax.CreateInstance. |
@@ -72,6 +78,7 @@ public class MarkdownSyntaxFactory
 | [Token](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/token/#token_1)(SourceText, TextSpan) | Creates objects using MarkdownSyntaxToken.CreateInstance |
 | [Trivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/trivia/)(SourceText, TextSpan) | Creates Whitespace. |
 | [UnorderedList](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/unorderedlist/)() | Creates objects using UnorderedListSyntax.CreateInstance. |
+| [UnorderedListItem](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/unorderedlistitem/)(string) | Creates a new instance of the [`ListItemSyntaxNode`](../listitemsyntaxnode/) class with unordered list item marker. |
 | [Whitespace](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/#whitespace_2)(int) | Create the WhitespaceSyntax. |
 | [Whitespace](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/#whitespace)(SourceText) | Create the WhitespaceSyntax. |
 | [Whitespace](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/#whitespace_1)(SourceText, TextSpan) | Creates objects using WhitespaceSyntax.CreateWhitespaceInstance |

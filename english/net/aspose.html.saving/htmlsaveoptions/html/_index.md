@@ -3,7 +3,7 @@ title: HTML
 second_title: Aspose.HTML for .NET API Reference
 description: The document will be saved as HTML.
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.html.saving/htmlsaveoptions/html/
 ---
 ## HTMLSaveOptions.HTML field

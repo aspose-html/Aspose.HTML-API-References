@@ -3,7 +3,7 @@ title: MarkdownSyntaxVisitor
 second_title: Aspose.HTML for .NET API Reference
 description: The base class for markdown syntax visitor.
 type: docs
-weight: 5220
+weight: 5230
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/
 ---
 ## MarkdownSyntaxVisitor class

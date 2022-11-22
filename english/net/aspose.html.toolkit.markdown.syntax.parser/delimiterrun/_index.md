@@ -3,7 +3,7 @@ title: DelimiterRun
 second_title: Aspose.HTML for .NET API Reference
 description: Defines the DelimiterRun
 type: docs
-weight: 5330
+weight: 5340
 url: /net/aspose.html.toolkit.markdown.syntax.parser/delimiterrun/
 ---
 ## DelimiterRun class

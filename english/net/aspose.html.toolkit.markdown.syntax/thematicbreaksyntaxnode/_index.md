@@ -3,7 +3,7 @@ title: ThematicBreakSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Imlemented the Thematic Break Syntax Node.
 type: docs
-weight: 5670
+weight: 5680
 url: /net/aspose.html.toolkit.markdown.syntax/thematicbreaksyntaxnode/
 ---
 ## ThematicBreakSyntaxNode class

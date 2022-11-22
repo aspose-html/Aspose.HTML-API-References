@@ -3,7 +3,7 @@ title: IInlinePostProcessing
 second_title: Aspose.HTML for .NET API Reference
 description: Defines the IInlinePostProcessing interface
 type: docs
-weight: 5400
+weight: 5410
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessing/
 ---
 ## IInlinePostProcessing interface

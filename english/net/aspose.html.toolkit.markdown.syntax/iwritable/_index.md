@@ -3,7 +3,7 @@ title: IWritable
 second_title: Aspose.HTML for .NET API Reference
 description: Base interface for IWritable.
 type: docs
-weight: 5010
+weight: 5020
 url: /net/aspose.html.toolkit.markdown.syntax/iwritable/
 ---
 ## IWritable interface
