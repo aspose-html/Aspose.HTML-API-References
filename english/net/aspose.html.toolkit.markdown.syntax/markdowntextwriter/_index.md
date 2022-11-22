@@ -3,7 +3,7 @@ title: MarkdownTextWriter
 second_title: Aspose.HTML for .NET API Reference
 description: Represent the Markdown text writer
 type: docs
-weight: 5230
+weight: 5240
 url: /net/aspose.html.toolkit.markdown.syntax/markdowntextwriter/
 ---
 ## MarkdownTextWriter class

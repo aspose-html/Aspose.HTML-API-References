@@ -3,7 +3,7 @@ title: ThematicBreak
 second_title: Aspose.HTML for .NET API Reference
 description: Creates objects using ThematicBreakSyntax.CreateInstance.
 type: docs
-weight: 430
+weight: 440
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/thematicbreak/
 ---
 ## MarkdownSyntaxFactory.ThematicBreak method

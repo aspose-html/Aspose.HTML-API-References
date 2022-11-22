@@ -3,7 +3,7 @@ title: ReferenceImage
 second_title: Aspose.HTML for .NET API Reference
 description: Creates objects using ReferenceImageSyntax.CreateInstance.
 type: docs
-weight: 320
+weight: 330
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/referenceimage/
 ---
 ## MarkdownSyntaxFactory.ReferenceImage method

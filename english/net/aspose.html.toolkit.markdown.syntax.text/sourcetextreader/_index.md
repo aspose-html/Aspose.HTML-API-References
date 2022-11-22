@@ -3,7 +3,7 @@ title: SourceTextReader
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the SourceTextReader.
 type: docs
-weight: 5620
+weight: 5630
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/
 ---
 ## SourceTextReader class

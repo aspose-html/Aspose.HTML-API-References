@@ -3,7 +3,7 @@ title: LineParsingInstruction
 second_title: Aspose.HTML for .NET API Reference
 description: Defines the LineParsingInstruction.
 type: docs
-weight: 5440
+weight: 5450
 url: /net/aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/
 ---
 ## LineParsingInstruction structure

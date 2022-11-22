@@ -3,7 +3,7 @@ title: NodeIterator
 second_title: Aspose.HTML for .NET API Reference
 description: The nodes iterator.
 type: docs
-weight: 5250
+weight: 5260
 url: /net/aspose.html.toolkit.markdown.syntax/nodeiterator/
 ---
 ## NodeIterator class

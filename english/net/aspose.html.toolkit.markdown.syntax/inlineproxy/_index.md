@@ -3,7 +3,7 @@ title: InlineProxy
 second_title: Aspose.HTML for .NET API Reference
 description: Represents InlineProxy.
 type: docs
-weight: 5060
+weight: 5070
 url: /net/aspose.html.toolkit.markdown.syntax/inlineproxy/
 ---
 ## InlineProxy class

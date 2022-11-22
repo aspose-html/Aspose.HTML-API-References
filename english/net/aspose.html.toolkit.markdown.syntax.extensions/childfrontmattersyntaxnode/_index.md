@@ -3,7 +3,7 @@ title: ChildFrontMatterSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Defines the ChildFrontMatterSyntaxNode
 type: docs
-weight: 4890
+weight: 4900
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/childfrontmattersyntaxnode/
 ---
 ## ChildFrontMatterSyntaxNode class

@@ -3,7 +3,7 @@ title: Emphasis
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the Emphasis.
 type: docs
-weight: 4850
+weight: 4860
 url: /net/aspose.html.toolkit.markdown.syntax/emphasis/
 ---
 ## Emphasis enumeration

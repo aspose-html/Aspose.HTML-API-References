@@ -3,7 +3,7 @@ title: BlockClosingReason
 second_title: Aspose.HTML for .NET API Reference
 description: Defines the BlockClosingReason enum.
 type: docs
-weight: 5310
+weight: 5320
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blockclosingreason/
 ---
 ## BlockClosingReason enumeration

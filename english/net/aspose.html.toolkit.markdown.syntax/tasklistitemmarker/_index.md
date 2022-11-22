@@ -3,7 +3,7 @@ title: TaskListItemMarker
 second_title: Aspose.HTML for .NET API Reference
 description: The task list item marker.
 type: docs
-weight: 5590
+weight: 5600
 url: /net/aspose.html.toolkit.markdown.syntax/tasklistitemmarker/
 ---
 ## TaskListItemMarker class

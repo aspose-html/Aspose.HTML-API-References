@@ -3,7 +3,7 @@ title: MarkdownFormatter
 second_title: Aspose.HTML for .NET API Reference
 description: Specifies the way output will be formatted.
 type: docs
-weight: 4620
+weight: 4630
 url: /net/aspose.html.saving/markdownformatter/
 ---
 ## MarkdownFormatter enumeration

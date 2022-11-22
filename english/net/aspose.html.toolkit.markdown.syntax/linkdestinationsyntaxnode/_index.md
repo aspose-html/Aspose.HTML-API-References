@@ -3,7 +3,7 @@ title: LinkDestinationSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Represent the LinkDestinationSyntaxNode.
 type: docs
-weight: 5100
+weight: 5110
 url: /net/aspose.html.toolkit.markdown.syntax/linkdestinationsyntaxnode/
 ---
 ## LinkDestinationSyntaxNode class

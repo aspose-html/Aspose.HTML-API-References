@@ -3,7 +3,7 @@ title: NodeList
 second_title: Aspose.HTML for .NET API Reference
 description: Base implementation of the NodeList.
 type: docs
-weight: 5260
+weight: 5270
 url: /net/aspose.html.toolkit.markdown.syntax/nodelist/
 ---
 ## NodeList class

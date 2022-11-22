@@ -3,7 +3,7 @@ title: TaskListItem
 second_title: Aspose.HTML for .NET API Reference
 description: Creates objects using TaskListItemSyntax.CreateInstance.
 type: docs
-weight: 400
+weight: 410
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tasklistitem/
 ---
 ## MarkdownSyntaxFactory.TaskListItem method

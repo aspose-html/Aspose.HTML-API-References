@@ -3,7 +3,7 @@ title: UnorderedListSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Represent the unordered list syntax node.
 type: docs
-weight: 5720
+weight: 5730
 url: /net/aspose.html.toolkit.markdown.syntax/unorderedlistsyntaxnode/
 ---
 ## UnorderedListSyntaxNode class

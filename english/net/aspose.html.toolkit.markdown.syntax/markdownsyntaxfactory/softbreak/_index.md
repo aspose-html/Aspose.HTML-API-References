@@ -3,7 +3,7 @@ title: SoftBreak
 second_title: Aspose.HTML for .NET API Reference
 description: Creates objects using SoftBreakSyntax.CreateInstance.
 type: docs
-weight: 350
+weight: 360
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/softbreak/
 ---
 ## MarkdownSyntaxFactory.SoftBreak method

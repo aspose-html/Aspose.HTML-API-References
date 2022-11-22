@@ -3,7 +3,7 @@ title: HugoSyntaxExtension
 second_title: Aspose.HTML for .NET API Reference
 description: Defines the HugoSyntaxExtension.
 type: docs
-weight: 4920
+weight: 4930
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugosyntaxextension/
 ---
 ## HugoSyntaxExtension class

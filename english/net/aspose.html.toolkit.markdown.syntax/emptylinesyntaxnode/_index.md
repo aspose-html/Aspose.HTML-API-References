@@ -3,7 +3,7 @@ title: EmptyLineSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the EmptyLineSyntaxNode.
 type: docs
-weight: 4870
+weight: 4880
 url: /net/aspose.html.toolkit.markdown.syntax/emptylinesyntaxnode/
 ---
 ## EmptyLineSyntaxNode class

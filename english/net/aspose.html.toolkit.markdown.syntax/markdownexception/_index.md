@@ -3,7 +3,7 @@ title: MarkdownException
 second_title: Aspose.HTML for .NET API Reference
 description: The Markdown exception
 type: docs
-weight: 5160
+weight: 5170
 url: /net/aspose.html.toolkit.markdown.syntax/markdownexception/
 ---
 ## MarkdownException class

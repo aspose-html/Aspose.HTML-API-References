@@ -3,7 +3,7 @@ title: Traversal
 second_title: Aspose.HTML for .NET API Reference
 description: The abstract class Traversal
 type: docs
-weight: 5680
+weight: 5690
 url: /net/aspose.html.toolkit.markdown.syntax/traversal/
 ---
 ## Traversal class

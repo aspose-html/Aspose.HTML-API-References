@@ -3,7 +3,7 @@ title: InlineParsingInstruction
 second_title: Aspose.HTML for .NET API Reference
 description: Defines the InlineParsingInstruction struct.
 type: docs
-weight: 5430
+weight: 5440
 url: /net/aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/
 ---
 ## InlineParsingInstruction structure

@@ -3,7 +3,7 @@ title: LinkTitleSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Represent the LinkTitleSyntaxNode.
 type: docs
-weight: 5120
+weight: 5130
 url: /net/aspose.html.toolkit.markdown.syntax/linktitlesyntaxnode/
 ---
 ## LinkTitleSyntaxNode class

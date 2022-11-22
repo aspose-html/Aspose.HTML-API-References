@@ -3,7 +3,7 @@ title: ParagraphSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
 description: Represent the paragraph syntax node.
 type: docs
-weight: 5300
+weight: 5310
 url: /net/aspose.html.toolkit.markdown.syntax/paragraphsyntaxnode/
 ---
 ## ParagraphSyntaxNode class

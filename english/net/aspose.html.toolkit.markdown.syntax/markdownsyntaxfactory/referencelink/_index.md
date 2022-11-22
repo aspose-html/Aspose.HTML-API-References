@@ -3,7 +3,7 @@ title: ReferenceLink
 second_title: Aspose.HTML for .NET API Reference
 description: Creates objects using ReferenceLinkSyntax.CreateInstance
 type: docs
-weight: 330
+weight: 340
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/referencelink/
 ---
 ## MarkdownSyntaxFactory.ReferenceLink method

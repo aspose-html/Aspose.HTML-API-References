@@ -3,7 +3,7 @@ title: XHTML
 second_title: Aspose.HTML for .NET API Reference
 description: The document will be saved as XHTML.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.html.saving/htmlsaveoptions/xhtml/
 ---
 ## HTMLSaveOptions.XHTML field

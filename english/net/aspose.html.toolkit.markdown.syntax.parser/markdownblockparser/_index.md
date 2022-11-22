@@ -3,7 +3,7 @@ title: MarkdownBlockParser
 second_title: Aspose.HTML for .NET API Reference
 description: Defines the base class MarkdownBlockParser
 type: docs
-weight: 5450
+weight: 5460
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/
 ---
 ## MarkdownBlockParser class
