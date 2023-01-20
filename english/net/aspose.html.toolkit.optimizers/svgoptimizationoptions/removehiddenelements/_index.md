@@ -3,7 +3,7 @@ title: RemoveHiddenElements
 second_title: Aspose.HTML for .NET API Reference
 description: Gets or sets the option to remove elements that are not visible during rendering. It is true by default.
 type: docs
-weight: 80
+weight: 90
 url: /net/aspose.html.toolkit.optimizers/svgoptimizationoptions/removehiddenelements/
 ---
 ## SVGOptimizationOptions.RemoveHiddenElements property

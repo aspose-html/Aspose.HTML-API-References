@@ -18,7 +18,7 @@ public sealed class YamlMappingSyntaxNode : ChildFrontMatterSyntaxNode
 
 | Name | Description |
 | --- | --- |
-| [YamlMappingSyntaxNode](yamlmappingsyntaxnode)(HugoFrontMatterSyntaxNode,  ​ ) |  |
+| [YamlMappingSyntaxNode](yamlmappingsyntaxnode)(HugoFrontMatterSyntaxNode, ​​ ) |  |
 
 ## Properties
 

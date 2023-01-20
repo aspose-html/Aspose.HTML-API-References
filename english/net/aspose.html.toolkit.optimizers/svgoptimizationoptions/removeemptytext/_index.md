@@ -3,7 +3,7 @@ title: RemoveEmptyText
 second_title: Aspose.HTML for .NET API Reference
 description: Gets or sets the option to remove empty Text elements. It is true by default.
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.html.toolkit.optimizers/svgoptimizationoptions/removeemptytext/
 ---
 ## SVGOptimizationOptions.RemoveEmptyText property
