@@ -1,12 +1,12 @@
 ---
 title: Aspose.Html.Toolkit.Markdown.Syntax.Text
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The Aspose.Html.Toolkit.Markdown.Syntax.Text namespace contains objects and interfaces for working with text sources.
 type: docs
 weight: 420
 url: /net/aspose.html.toolkit.markdown.syntax.text/
 ---
-
+The **Aspose.Html.Toolkit.Markdown.Syntax.Text** namespace contains objects and interfaces for working with text sources.
 
 ## Classes
 

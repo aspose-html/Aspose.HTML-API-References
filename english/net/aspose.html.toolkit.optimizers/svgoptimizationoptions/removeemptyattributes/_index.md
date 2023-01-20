@@ -3,7 +3,7 @@ title: RemoveEmptyAttributes
 second_title: Aspose.HTML for .NET API Reference
 description: Gets or sets the option to remove attributes with empty values. It is true by default.
 type: docs
-weight: 50
+weight: 60
 url: /net/aspose.html.toolkit.optimizers/svgoptimizationoptions/removeemptyattributes/
 ---
 ## SVGOptimizationOptions.RemoveEmptyAttributes property

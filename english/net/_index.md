@@ -41,18 +41,18 @@ is_root: true
 | [Aspose.Html.Net.MessageHandlers](./aspose.html.net.messagehandlers/) | The **Aspose.Html.Net.MessageHandlers** namespace is presented by classes - message handlers of different protocols. |
 | [Aspose.Html.Rendering](./aspose.html.rendering/) | The **Aspose.Html.Rendering** namespace consists of numerous renderer objects as well as appropriate low level options classes which are responsible to render documents/files into IDevice implementation. |
 | [Aspose.Html.Rendering.Doc](./aspose.html.rendering.doc/) | The **Aspose.Html.Rendering.Doc** namespace provides specific device class as well as few rendering options classes responsible for rendering to a DOCX document. |
-| [Aspose.Html.Rendering.Fonts](./aspose.html.rendering.fonts/) |  |
+| [Aspose.Html.Rendering.Fonts](./aspose.html.rendering.fonts/) | The **Aspose.Html.Rendering.Fonts** namespace contains classes and methods that allows you to control some parts of the font matching algorithm. |
 | [Aspose.Html.Rendering.Image](./aspose.html.rendering.image/) | The **Aspose.Html.Rendering.Image** namespace provides specific device class as well as few rendering options classes responsible for rendering to raster formats: jpeg, png, bmp, gif, tiff. |
 | [Aspose.Html.Rendering.Pdf](./aspose.html.rendering.pdf/) | The **Aspose.Html.Rendering.Pdf** namespace provides specific device class as well as few rendering options classes responsible for rendering to a pdf document. |
 | [Aspose.Html.Rendering.Pdf.Encryption](./aspose.html.rendering.pdf.encryption/) | The **Aspose.Html.Rendering.Pdf.Encryption** namespace contains data classes describing pdf encryption details like password, encryption algorithm and so on. |
 | [Aspose.Html.Rendering.Xps](./aspose.html.rendering.xps/) | The **Aspose.Html.Rendering.Xps** namespace provides specific device class as well as few rendering options classes responsible for rendering to a xps document. |
 | [Aspose.Html.Saving](./aspose.html.saving/) | The **Aspose.Html.Saving** namespace is presented by data classes for description of specific save options at conversion/saving process. |
 | [Aspose.Html.Services](./aspose.html.services/) | The **Aspose.Html.Services** namespace contains interfaces as protocols for service implementations. |
-| [Aspose.Html.Toolkit.Markdown.Syntax](./aspose.html.toolkit.markdown.syntax/) |  |
-| [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](./aspose.html.toolkit.markdown.syntax.extensions/) |  |
-| [Aspose.Html.Toolkit.Markdown.Syntax.Parser](./aspose.html.toolkit.markdown.syntax.parser/) |  |
-| [Aspose.Html.Toolkit.Markdown.Syntax.Parser.Extensions.GFM](./aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/) |  |
-| [Aspose.Html.Toolkit.Markdown.Syntax.Text](./aspose.html.toolkit.markdown.syntax.text/) |  |
+| [Aspose.Html.Toolkit.Markdown.Syntax](./aspose.html.toolkit.markdown.syntax/) | The **Aspose.Html.Toolkit.Markdown.Syntax** namespace contains objects and interfaces for working with the syntax tree of a Markdown document. |
+| [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](./aspose.html.toolkit.markdown.syntax.extensions/) | The **Aspose.Html.Toolkit.Markdown.Syntax.Extensions** namespace contains objects and methods that allows you to handle various extensions of the Markdown format, such as ShortCode, FrontMatter, etc. |
+| [Aspose.Html.Toolkit.Markdown.Syntax.Parser](./aspose.html.toolkit.markdown.syntax.parser/) | The **Aspose.Html.Toolkit.Markdown.Syntax.Parser** namespace contains objects and methods that allow you to parse the markdown document. |
+| [Aspose.Html.Toolkit.Markdown.Syntax.Parser.Extensions.GFM](./aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/) | The **Aspose.Html.Toolkit.Markdown.Syntax.Parser.Extensions.GFM** namespace contains objects and interfaces for GFM syntax extension. |
+| [Aspose.Html.Toolkit.Markdown.Syntax.Text](./aspose.html.toolkit.markdown.syntax.text/) | The **Aspose.Html.Toolkit.Markdown.Syntax.Text** namespace contains objects and interfaces for working with text sources. |
 | [Aspose.Html.Toolkit.Optimizers](./aspose.html.toolkit.optimizers/) |  |
 | [Aspose.Html.Window](./aspose.html.window/) | The **Aspose.Html.Window** namespace is related for window object which represents a window containing a DOM document. It includes classes and interfaces related to active document address and browsing history. |
 
