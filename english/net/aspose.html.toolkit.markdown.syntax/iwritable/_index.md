@@ -1,14 +1,12 @@
 ---
 title: IWritable
 second_title: Aspose.HTML for .NET API Reference
-description: Base interface for IWritable.
+description: 
 type: docs
 weight: 5020
 url: /net/aspose.html.toolkit.markdown.syntax/iwritable/
 ---
 ## IWritable interface
-
-Base interface for IWritable.
 
 ```csharp
 public interface IWritable
@@ -18,7 +16,7 @@ public interface IWritable
 
 | Name | Description |
 | --- | --- |
-| [WriteTo](../../aspose.html.toolkit.markdown.syntax/iwritable/writeto/)(TextWriter) | Write to text writer. |
+| [WriteTo](../../aspose.html.toolkit.markdown.syntax/iwritable/writeto/)(TextWriter) |  |
 
 ### See Also
 

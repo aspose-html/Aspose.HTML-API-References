@@ -1,14 +1,12 @@
 ---
 title: OnPageShow
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html.window/iwindoweventhandlers/onpageshow/
 ---
 ## IWindowEventHandlers.OnPageShow event
-
-Gets or sets event handler
 
 ```csharp
 public event DOMEventHandler OnPageShow;

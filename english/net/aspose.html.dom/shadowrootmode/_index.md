@@ -1,14 +1,12 @@
 ---
 title: ShadowRootMode
 second_title: Aspose.HTML for .NET API Reference
-description: Modes in which ShadowRoot can operate.
+description: 
 type: docs
 weight: 1040
 url: /net/aspose.html.dom/shadowrootmode/
 ---
 ## ShadowRootMode enumeration
-
-Modes in which ShadowRoot can operate.
 
 ```csharp
 public enum ShadowRootMode
@@ -18,8 +16,8 @@ public enum ShadowRootMode
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Open | `0` | "open" mode. |
-| Closed | `1` | "closed" mode. |
+| Open | `0` |  |
+| Closed | `1` |  |
 
 ### See Also
 

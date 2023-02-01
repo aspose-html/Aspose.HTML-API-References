@@ -1,14 +1,12 @@
 ---
 title: In
 second_title: Aspose.HTML for .NET API Reference
-description: Measurement is in inches
+description: 
 type: docs
 weight: 120
 url: /net/aspose.html.drawing/unittype/in/
 ---
 ## UnitType.In field
-
-Measurement is in inches
 
 ```csharp
 public static readonly UnitType In;

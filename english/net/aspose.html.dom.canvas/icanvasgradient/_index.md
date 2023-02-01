@@ -1,14 +1,12 @@
 ---
 title: ICanvasGradient
 second_title: Aspose.HTML for .NET API Reference
-description: Represents an opaque object describing a gradient.
+description: 
 type: docs
 weight: 230
 url: /net/aspose.html.dom.canvas/icanvasgradient/
 ---
 ## ICanvasGradient interface
-
-Represents an opaque object describing a gradient.
 
 ```csharp
 public interface ICanvasGradient
@@ -18,7 +16,7 @@ public interface ICanvasGradient
 
 | Name | Description |
 | --- | --- |
-| [AddColorStop](../../aspose.html.dom.canvas/icanvasgradient/addcolorstop/)(double, string) | Adds a new stop, defined by an offset and a color, to the gradient. |
+| [AddColorStop](../../aspose.html.dom.canvas/icanvasgradient/addcolorstop/)(double, string) |  |
 
 ### See Also
 

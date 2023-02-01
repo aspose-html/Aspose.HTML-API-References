@@ -1,14 +1,12 @@
 ---
 title: OnStorage
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler
+description: 
 type: docs
 weight: 110
 url: /net/aspose.html.window/iwindoweventhandlers/onstorage/
 ---
 ## IWindowEventHandlers.OnStorage event
-
-Gets or sets event handler
 
 ```csharp
 public event DOMEventHandler OnStorage;

@@ -1,14 +1,12 @@
 ---
 title: OnRateChange
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnRateChange event.
+description: 
 type: docs
 weight: 630
 url: /net/aspose.html.dom/document/onratechange/
 ---
 ## Document.OnRateChange event
-
-Gets or sets event handler for OnRateChange event.
 
 ```csharp
 public event DOMEventHandler OnRateChange;

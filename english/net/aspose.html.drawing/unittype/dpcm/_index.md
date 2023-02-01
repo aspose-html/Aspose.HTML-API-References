@@ -1,14 +1,12 @@
 ---
 title: Dpcm
 second_title: Aspose.HTML for .NET API Reference
-description: Measurement is in dots per centimeters.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.drawing/unittype/dpcm/
 ---
 ## UnitType.Dpcm field
-
-Measurement is in dots per centimeters.
 
 ```csharp
 public static readonly UnitType Dpcm;

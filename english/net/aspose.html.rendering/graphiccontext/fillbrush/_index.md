@@ -1,14 +1,12 @@
 ---
 title: FillBrush
 second_title: Aspose.HTML for .NET API Reference
-description: Sets or gets the brush object that is used to fill the interiors of paths.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.rendering/graphiccontext/fillbrush/
 ---
 ## GraphicContext.FillBrush property
-
-Sets or gets the brush object that is used to fill the interiors of paths.
 
 ```csharp
 public virtual IBrush FillBrush { get; set; }

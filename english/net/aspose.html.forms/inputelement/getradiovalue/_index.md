@@ -1,22 +1,16 @@
 ---
 title: GetRadioValue
 second_title: Aspose.HTML for .NET API Reference
-description: Returns the checkedness state for the input element with the radio type.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.html.forms/inputelement/getradiovalue/
 ---
 ## InputElement.GetRadioValue method
 
-Returns the checkedness state for the input element with the radio type.
-
 ```csharp
 public bool GetRadioValue()
 ```
-
-### Return Value
-
-The checkedness.
 
 ### See Also
 

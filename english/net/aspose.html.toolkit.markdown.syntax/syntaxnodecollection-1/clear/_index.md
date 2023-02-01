@@ -1,14 +1,12 @@
 ---
 title: Clear
 second_title: Aspose.HTML for .NET API Reference
-description: Removes all items from the collection.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/clear/
 ---
 ## SyntaxNodeCollection&lt;T&gt;.Clear method
-
-Removes all items from the collection.
 
 ```csharp
 public void Clear()

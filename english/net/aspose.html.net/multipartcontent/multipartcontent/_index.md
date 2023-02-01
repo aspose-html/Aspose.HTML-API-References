@@ -1,14 +1,14 @@
 ---
 title: MultipartContent
 second_title: Aspose.HTML for .NET API Reference
-description: Create a new instance of the MultipartContentaspose.html.net/multipartcontent/ class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.html.net/multipartcontent/multipartcontent/
 ---
 ## MultipartContent() {#constructor}
 
-Create a new instance of the [`MultipartContent`](../) class.
+The default constructor.
 
 ```csharp
 public MultipartContent()
@@ -24,15 +24,9 @@ public MultipartContent()
 
 ## MultipartContent(string) {#constructor_1}
 
-Create a new instance of the [`MultipartContent`](../) class with subtype.
-
 ```csharp
 public MultipartContent(string subtype)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| subtype | String | The subtype |
 
 ### See Also
 
@@ -44,22 +38,9 @@ public MultipartContent(string subtype)
 
 ## MultipartContent(string, string) {#constructor_2}
 
-Create a new instance of the [`MultipartContent`](../) class with subtype and boundary.
-
 ```csharp
 public MultipartContent(string subtype, string boundary)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| subtype | String | The subtype |
-| boundary | String | The boundary |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentException | The argument cannot be null or empty string. |
 
 ### See Also
 

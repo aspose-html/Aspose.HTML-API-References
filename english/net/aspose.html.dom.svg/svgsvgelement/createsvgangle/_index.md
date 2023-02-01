@@ -1,22 +1,16 @@
 ---
 title: CreateSVGAngle
 second_title: Aspose.HTML for .NET API Reference
-description: Creates an SVGAngle object outside of any document trees. The object is initialized to the value 0 degrees unitless.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.html.dom.svg/svgsvgelement/createsvgangle/
 ---
 ## SVGSVGElement.CreateSVGAngle method
 
-Creates an SVGAngle object outside of any document trees. The object is initialized to the value 0 degrees (unitless).
-
 ```csharp
 public SVGAngle CreateSVGAngle()
 ```
-
-### Return Value
-
-An SVGAngle object.
 
 ### See Also
 

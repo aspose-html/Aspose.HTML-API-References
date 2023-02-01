@@ -1,14 +1,12 @@
 ---
 title: HugoSyntaxExtension
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the HugoSyntaxExtension.
+description: 
 type: docs
 weight: 4930
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugosyntaxextension/
 ---
 ## HugoSyntaxExtension class
-
-Defines the HugoSyntaxExtension.
 
 ```csharp
 public class HugoSyntaxExtension : MarkdownSyntaxExtension
@@ -24,7 +22,7 @@ public class HugoSyntaxExtension : MarkdownSyntaxExtension
 
 | Name | Description |
 | --- | --- |
-| override [Setup](../../aspose.html.toolkit.markdown.syntax.extensions/hugosyntaxextension/setup/)(IMarkdownParserBuilder) | Defines the interface for Setup |
+| override [Setup](../../aspose.html.toolkit.markdown.syntax.extensions/hugosyntaxextension/setup/)(IMarkdownParserBuilder) |  |
 
 ### See Also
 

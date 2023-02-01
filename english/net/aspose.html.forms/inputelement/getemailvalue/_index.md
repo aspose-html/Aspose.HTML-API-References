@@ -1,22 +1,16 @@
 ---
 title: GetEmailValue
 second_title: Aspose.HTML for .NET API Reference
-description: This method is used to get the value as an email string object. This method is valid if only only type of the input element is email
+description: 
 type: docs
 weight: 110
 url: /net/aspose.html.forms/inputelement/getemailvalue/
 ---
 ## InputElement.GetEmailValue method
 
-This method is used to get the value as an email string object. This method is valid if only only type of the input element is "email"
-
 ```csharp
 public string GetEmailValue()
 ```
-
-### Return Value
-
-The email.
 
 ### See Also
 

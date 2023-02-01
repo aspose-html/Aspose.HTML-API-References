@@ -1,22 +1,16 @@
 ---
 title: VisitLineBreak
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for visit SoftBreakSyntax.
+description: 
 type: docs
 weight: 140
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitlinebreak/
 ---
 ## VisitLineBreak(SoftBreakSyntaxNode) {#visitlinebreak_1}
 
-Defines the interface for visit SoftBreakSyntax.
-
 ```csharp
 public virtual void VisitLineBreak(SoftBreakSyntaxNode lineBreak)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| lineBreak | SoftBreakSyntaxNode | The SoftBreakSyntax. |
 
 ### See Also
 
@@ -29,15 +23,9 @@ public virtual void VisitLineBreak(SoftBreakSyntaxNode lineBreak)
 
 ## VisitLineBreak(HardBreakSyntaxNode) {#visitlinebreak}
 
-Defines the interface for visit HardBreakSyntax.
-
 ```csharp
 public virtual void VisitLineBreak(HardBreakSyntaxNode lineBreak)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| lineBreak | HardBreakSyntaxNode | The HardBreakSyntax. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: TemplateData
 second_title: Aspose.HTML for .NET API Reference
-description: Merging User data object.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.html.converters/templatedata/
 ---
 ## TemplateData class
-
-Merging (User) data object.
 
 ```csharp
 public sealed class TemplateData
@@ -18,15 +16,15 @@ public sealed class TemplateData
 
 | Name | Description |
 | --- | --- |
-| [TemplateData](templatedata#constructor_1)(string) | Absolute path to data file (XML, JSON) based on initialization. |
-| [TemplateData](templatedata#constructor)(TemplateContentOptions) | Inline content based on initialization (XML, JSON). |
+| [TemplateData](templatedata#constructor_1)(string) |  |
+| [TemplateData](templatedata#constructor)(TemplateContentOptions) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ContentOptions](../../aspose.html.converters/templatedata/contentoptions/) { get; } | Content object property. |
-| [DataPath](../../aspose.html.converters/templatedata/datapath/) { get; } | Data path property. |
+| [ContentOptions](../../aspose.html.converters/templatedata/contentoptions/) { get; } |  |
+| [DataPath](../../aspose.html.converters/templatedata/datapath/) { get; } |  |
 
 ### See Also
 

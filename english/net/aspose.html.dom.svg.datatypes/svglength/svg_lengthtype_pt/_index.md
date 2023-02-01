@@ -1,14 +1,12 @@
 ---
 title: SVG_LENGTHTYPE_PT
 second_title: Aspose.HTML for .NET API Reference
-description: A value was specified using the pt units defined in CSS2.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.html.dom.svg.datatypes/svglength/svg_lengthtype_pt/
 ---
 ## SVGLength.SVG_LENGTHTYPE_PT field
-
-A value was specified using the pt units defined in CSS2.
 
 ```csharp
 public const ushort SVG_LENGTHTYPE_PT;

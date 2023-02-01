@@ -1,14 +1,12 @@
 ---
 title: OnMouseOut
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnMouseOut event.
+description: 
 type: docs
 weight: 280
 url: /net/aspose.html.dom/iglobaleventhandlers/onmouseout/
 ---
 ## IGlobalEventHandlers.OnMouseOut event
-
-Gets or sets event handler for OnMouseOut event.
 
 ```csharp
 public event DOMEventHandler OnMouseOut;

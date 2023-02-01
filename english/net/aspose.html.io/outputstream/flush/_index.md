@@ -1,14 +1,12 @@
 ---
 title: Flush
 second_title: Aspose.HTML for .NET API Reference
-description: Clears all buffers for the wrapped output stream and causes any buffered data to be written to the underlying device.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html.io/outputstream/flush/
 ---
 ## OutputStream.Flush method
-
-Clears all buffers for the wrapped output stream and causes any buffered data to be written to the underlying device.
 
 ```csharp
 public override void Flush()

@@ -1,22 +1,16 @@
 ---
 title: IsTight
 second_title: Aspose.HTML for .NET API Reference
-description: Get true if is tight.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/listitemsyntaxnode/istight/
 ---
 ## ListItemSyntaxNode.IsTight method
 
-Get true if is tight.
-
 ```csharp
 public bool IsTight()
 ```
-
-### Return Value
-
-the boolean.
 
 ### See Also
 

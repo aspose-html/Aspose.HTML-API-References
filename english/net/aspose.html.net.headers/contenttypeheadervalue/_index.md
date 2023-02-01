@@ -1,14 +1,12 @@
 ---
 title: ContentTypeHeaderValue
 second_title: Aspose.HTML for .NET API Reference
-description: Represents a Content-Type header value.
+description: 
 type: docs
 weight: 3900
 url: /net/aspose.html.net.headers/contenttypeheadervalue/
 ---
 ## ContentTypeHeaderValue class
-
-Represents a Content-Type header value.
 
 ```csharp
 public class ContentTypeHeaderValue : NameValueHeaderValue
@@ -18,16 +16,16 @@ public class ContentTypeHeaderValue : NameValueHeaderValue
 
 | Name | Description |
 | --- | --- |
-| [CharSet](../../aspose.html.net.headers/contenttypeheadervalue/charset/) { get; set; } | Gets or sets the character-set for content. |
-| [MediaType](../../aspose.html.net.headers/contenttypeheadervalue/mediatype/) { get; set; } | Gets or sets the media-type for content. |
-| [Name](../../aspose.html.net.headers/namevalueheadervalue/name/) { get; } | Gets the parameter name. |
-| [Value](../../aspose.html.net.headers/namevalueheadervalue/value/) { get; set; } | Gets or sets the parameter value. |
+| [CharSet](../../aspose.html.net.headers/contenttypeheadervalue/charset/) { get; set; } |  |
+| [MediaType](../../aspose.html.net.headers/contenttypeheadervalue/mediatype/) { get; set; } |  |
+| [Name](../../aspose.html.net.headers/namevalueheadervalue/name/) { get; } |  |
+| [Value](../../aspose.html.net.headers/namevalueheadervalue/value/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.html.net.headers/namevalueheadervalue/tostring/)() | Returns a String that represents this instance. |
+| override [ToString](../../aspose.html.net.headers/namevalueheadervalue/tostring/)() |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: OnAbort
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnAbort event.
+description: 
 type: docs
 weight: 280
 url: /net/aspose.html.dom/document/onabort/
 ---
 ## Document.OnAbort event
-
-Gets or sets event handler for OnAbort event.
 
 ```csharp
 public event DOMEventHandler OnAbort;

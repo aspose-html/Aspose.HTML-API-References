@@ -1,14 +1,12 @@
 ---
 title: Id
 second_title: Aspose.HTML for .NET API Reference
-description: Represents the Id attribute of the input element.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.forms/inputelement/id/
 ---
 ## InputElement.Id property
-
-Represents the Id attribute of the input element.
 
 ```csharp
 public override string Id { get; set; }

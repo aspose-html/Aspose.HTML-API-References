@@ -1,58 +1,16 @@
 ---
 title: AddService
 second_title: Aspose.HTML for .NET API Reference
-description: Adds the specified service to the configuration.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html/configuration/addservice/
 ---
 ## Configuration.AddService&lt;TService&gt; method
 
-Adds the specified service to the configuration.
-
 ```csharp
 public void AddService<TService>(TService service)
     where TService : class, IService
-```
-
-| Parameter | Description |
-| --- | --- |
-| TService | The type of service to add. |
-| service | An instance of the service to add. |
-
-### Remarks
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
-
-### Examples
-
-```csharp
-using Aspose.Html;
-using Aspose.Html.Net;
-using Aspose.Html.Services;
-
-public void AddCustomService(){
-	var customConfiguration = new Configuration();
-	customConfiguration.AddService<INetworkService>(new CustomNetworkService());
-}
-
-class CustomNetworkService : INetworkService
-{
-      public CustomNetworkService()
-      {
-        MessageHandlers = new MessageHandlerCollection();
-      }
-
-      public void Dispose()
-      {
-        // Resource cleaning code goes here
-      }
-
-      // TODO Override Resolve(...) method
-      public UrlResolver UrlResolver { get; set; }
-
-      public MessageHandlerCollection MessageHandlers { get; private set; }
-}
 ```
 
 ### See Also

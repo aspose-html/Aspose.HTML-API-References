@@ -1,26 +1,16 @@
 ---
 title: RemoveAttributeNode
 second_title: Aspose.HTML for .NET API Reference
-description: Removes the specified attribute node.
+description: 
 type: docs
 weight: 380
 url: /net/aspose.html.dom/element/removeattributenode/
 ---
 ## Element.RemoveAttributeNode method
 
-Removes the specified attribute node.
-
 ```csharp
 public Attr RemoveAttributeNode(Attr oldAttr)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| oldAttr | Attr | The old attr. |
-
-### Return Value
-
-Returns attribute
 
 ### See Also
 

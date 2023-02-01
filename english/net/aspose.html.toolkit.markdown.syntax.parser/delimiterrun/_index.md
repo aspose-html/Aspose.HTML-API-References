@@ -1,14 +1,12 @@
 ---
 title: DelimiterRun
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the DelimiterRun
+description: 
 type: docs
 weight: 5340
 url: /net/aspose.html.toolkit.markdown.syntax.parser/delimiterrun/
 ---
 ## DelimiterRun class
-
-Defines the DelimiterRun
 
 ```csharp
 public class DelimiterRun
@@ -18,17 +16,17 @@ public class DelimiterRun
 
 | Name | Description |
 | --- | --- |
-| [DelimiterRun](delimiterrun)(SourceText, TextSpan, DelimiterState) | Create the DelimiterRun |
+| [DelimiterRun](delimiterrun)(SourceText, TextSpan, DelimiterState) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Length](../../aspose.html.toolkit.markdown.syntax.parser/delimiterrun/length/) { get; } | Get the Length. |
-| [Source](../../aspose.html.toolkit.markdown.syntax.parser/delimiterrun/source/) { get; } | Get the Source. |
-| [Span](../../aspose.html.toolkit.markdown.syntax.parser/delimiterrun/span/) { get; set; } | Get and Set the Span. |
-| [State](../../aspose.html.toolkit.markdown.syntax.parser/delimiterrun/state/) { get; set; } | Get and set the State. |
-| [Text](../../aspose.html.toolkit.markdown.syntax.parser/delimiterrun/text/) { get; } | Get the Text. |
+| [Length](../../aspose.html.toolkit.markdown.syntax.parser/delimiterrun/length/) { get; } |  |
+| [Source](../../aspose.html.toolkit.markdown.syntax.parser/delimiterrun/source/) { get; } |  |
+| [Span](../../aspose.html.toolkit.markdown.syntax.parser/delimiterrun/span/) { get; set; } |  |
+| [State](../../aspose.html.toolkit.markdown.syntax.parser/delimiterrun/state/) { get; set; } |  |
+| [Text](../../aspose.html.toolkit.markdown.syntax.parser/delimiterrun/text/) { get; } |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Name
 second_title: Aspose.HTML for .NET API Reference
-description: Returns the name of this attribute.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom/attr/name/
 ---
 ## Attr.Name property
-
-Returns the name of this attribute.
 
 ```csharp
 public string Name { get; }

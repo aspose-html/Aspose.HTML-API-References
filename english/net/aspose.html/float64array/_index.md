@@ -1,14 +1,12 @@
 ---
 title: Float64Array
 second_title: Aspose.HTML for .NET API Reference
-description: Represents an array of 64-bit floating point numbers corresponding to the C float data type in the platform byte order.
+description: 
 type: docs
 weight: 2880
 url: /net/aspose.html/float64array/
 ---
 ## Float64Array class
-
-Represents an array of 64-bit floating point numbers (corresponding to the C float data type) in the platform byte order.
 
 ```csharp
 public class Float64Array : TypedArray<double>
@@ -18,33 +16,33 @@ public class Float64Array : TypedArray<double>
 
 | Name | Description |
 | --- | --- |
-| [Float64Array](float64array#constructor)(ArrayBuffer) | Initializes a new instance of the [`Float64Array`](./float64array/) class. |
-| [Float64Array](float64array#constructor_3)(double[]) | Initializes a new instance of the [`Float64Array`](./float64array/) class. |
-| [Float64Array](float64array#constructor_4)(int) | Initializes a new instance of the [`Float64Array`](./float64array/) class. |
-| [Float64Array](float64array#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the [`Float64Array`](./float64array/) class. |
-| [Float64Array](float64array#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the [`Float64Array`](./float64array/) class. |
+| [Float64Array](float64array#constructor)(ArrayBuffer) |  |
+| [Float64Array](float64array#constructor_3)(double[]) |  |
+| [Float64Array](float64array#constructor_4)(int) |  |
+| [Float64Array](float64array#constructor_1)(ArrayBuffer, int) |  |
+| [Float64Array](float64array#constructor_2)(ArrayBuffer, int, int) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Buffer](../../aspose.html/typedarray/buffer/) { get; } | Gets the ArrayBuffer referenced by this instance. |
-| [ByteLength](../../aspose.html/typedarray/bytelength/) { get; } | Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes. |
-| [ByteOffset](../../aspose.html/typedarray/byteoffset/) { get; } | Gets the byteOffset from the start of referenced ArrayBuffer. |
-| override [Item](../../aspose.html/float64array/item/) { get; set; } | Gets or sets the Double at the specified index. |
-| [Length](../../aspose.html/typedarray/length/) { get; } | Gets the length of a typed array. |
+| [Buffer](../../aspose.html/typedarray/buffer/) { get; } |  |
+| [ByteLength](../../aspose.html/typedarray/bytelength/) { get; } |  |
+| [ByteOffset](../../aspose.html/typedarray/byteoffset/) { get; } |  |
+| override [Item](../../aspose.html/float64array/item/) { get; set; } |  |
+| [Length](../../aspose.html/typedarray/length/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [BYTES_PER_ELEMENT](../../aspose.html/float64array/bytes_per_element/) | The property represents the size in bytes of each element in an typed array. |
+| static readonly [BYTES_PER_ELEMENT](../../aspose.html/float64array/bytes_per_element/) |  |
 
 ### See Also
 

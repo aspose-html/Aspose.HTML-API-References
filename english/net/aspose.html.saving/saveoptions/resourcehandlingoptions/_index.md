@@ -1,22 +1,16 @@
 ---
 title: ResourceHandlingOptions
 second_title: Aspose.HTML for .NET API Reference
-description: Gets a ResourceHandlingOptionsaspose.html.saving/resourcehandlingoptions/ object which is used for configuration of resources handling.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.saving/saveoptions/resourcehandlingoptions/
 ---
 ## SaveOptions.ResourceHandlingOptions property
 
-Gets a [`ResourceHandlingOptions`](../../resourcehandlingoptions/) object which is used for configuration of resources handling.
-
 ```csharp
 public ResourceHandlingOptions ResourceHandlingOptions { get; }
 ```
-
-### Property Value
-
-The [`ResourceHandlingOptions`](../../resourcehandlingoptions/) object.
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: Paragraph
 second_title: Aspose.HTML for .NET API Reference
-description: Creates objects using ParagraphSyntax.CreateInstance.
+description: 
 type: docs
 weight: 320
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/paragraph/
 ---
 ## MarkdownSyntaxFactory.Paragraph method
 
-Creates objects using ParagraphSyntax.CreateInstance.
-
 ```csharp
 public ParagraphSyntaxNode Paragraph()
 ```
-
-### Return Value
-
-The ParagraphSyntax.
 
 ### See Also
 

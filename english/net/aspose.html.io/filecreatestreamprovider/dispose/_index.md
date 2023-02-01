@@ -1,14 +1,12 @@
 ---
 title: Dispose
 second_title: Aspose.HTML for .NET API Reference
-description: Performs application-defined tasks associated with freeing releasing or resetting unmanaged resources.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.io/filecreatestreamprovider/dispose/
 ---
 ## FileCreateStreamProvider.Dispose method
-
-Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 
 ```csharp
 public void Dispose()

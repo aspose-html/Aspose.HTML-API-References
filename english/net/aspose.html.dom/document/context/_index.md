@@ -1,22 +1,16 @@
 ---
 title: Context
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the current browsing context.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.html.dom/document/context/
 ---
 ## Document.Context property
 
-Gets the current browsing context.
-
 ```csharp
 public IBrowsingContext Context { get; }
 ```
-
-### Property Value
-
-The context.
 
 ### See Also
 

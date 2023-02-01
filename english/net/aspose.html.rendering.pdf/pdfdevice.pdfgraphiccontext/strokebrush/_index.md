@@ -1,14 +1,12 @@
 ---
 title: StrokeBrush
 second_title: Aspose.HTML for .NET API Reference
-description: Sets or gets the brush object that is used for stroked paths.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/strokebrush/
 ---
 ## PdfDevice.PdfGraphicContext.StrokeBrush property
-
-Sets or gets the brush object that is used for stroked paths.
 
 ```csharp
 public override IBrush StrokeBrush { get; set; }

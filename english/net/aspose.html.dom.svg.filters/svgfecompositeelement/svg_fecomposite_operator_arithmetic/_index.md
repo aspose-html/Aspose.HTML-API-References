@@ -1,14 +1,12 @@
 ---
 title: SVG_FECOMPOSITE_OPERATOR_ARITHMETIC
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to value arithmetic.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_arithmetic/
 ---
 ## SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ARITHMETIC field
-
-Corresponds to value 'arithmetic'.
 
 ```csharp
 public const ushort SVG_FECOMPOSITE_OPERATOR_ARITHMETIC;

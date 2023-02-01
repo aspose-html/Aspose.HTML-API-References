@@ -1,22 +1,16 @@
 ---
 title: GetColorValue
 second_title: Aspose.HTML for .NET API Reference
-description: This method is used to get the value as a color. This method is valid if only only type of the input element is color
+description: 
 type: docs
 weight: 80
 url: /net/aspose.html.forms/inputelement/getcolorvalue/
 ---
 ## InputElement.GetColorValue method
 
-This method is used to get the value as a color. This method is valid if only only type of the input element is "color"
-
 ```csharp
 public Color GetColorValue()
 ```
-
-### Return Value
-
-The color object.
 
 ### See Also
 

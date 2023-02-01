@@ -1,14 +1,12 @@
 ---
 title: MimeType
 second_title: Aspose.HTML for .NET API Reference
-description: Represents an Internet Media Types
+description: 
 type: docs
 weight: 3840
 url: /net/aspose.html/mimetype/
 ---
 ## MimeType class
-
-Represents an Internet Media Types
 
 ```csharp
 public class MimeType : IEquatable<MimeType>
@@ -18,24 +16,24 @@ public class MimeType : IEquatable<MimeType>
 
 | Name | Description |
 | --- | --- |
-| [MimeType](mimetype)(string) | Initializes a new instance of MIME type based on serialized string value. |
+| [MimeType](mimetype)(string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [SubType](../../aspose.html/mimetype/subtype/) { get; } | Gets the sub media type. |
-| [Type](../../aspose.html/mimetype/type/) { get; } | Gets the media type. |
+| [SubType](../../aspose.html/mimetype/subtype/) { get; } |  |
+| [Type](../../aspose.html/mimetype/type/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [FromFileExtension](../../aspose.html/mimetype/fromfileextension/)(string) | Creates a new MIME type based on file extension. |
-| [Equals](../../aspose.html/mimetype/equals/#equals)(MimeType) | Indicates whether the current object is equal to another object of the same type. |
-| override [Equals](../../aspose.html/mimetype/equals/#equals_1)(object) | Determines whether the specified Object is equal to the current Object. |
-| override [GetHashCode](../../aspose.html/mimetype/gethashcode/)() | Returns a hash code for this instance. |
-| override [ToString](../../aspose.html/mimetype/tostring/)() | Returns a String that represents Mime type. |
+| static [FromFileExtension](../../aspose.html/mimetype/fromfileextension/)(string) |  |
+| [Equals](../../aspose.html/mimetype/equals/#equals)(MimeType) |  |
+| override [Equals](../../aspose.html/mimetype/equals/#equals_1)(object) |  |
+| override [GetHashCode](../../aspose.html/mimetype/gethashcode/)() |  |
+| override [ToString](../../aspose.html/mimetype/tostring/)() |  |
 | [operator ==](../../aspose.html/mimetype/op_equality/) |  |
 | [implicit operator](../../aspose.html/mimetype/op_implicit/#op_implicit) |  (2 operators) |
 | [operator !=](../../aspose.html/mimetype/op_inequality/) |  |

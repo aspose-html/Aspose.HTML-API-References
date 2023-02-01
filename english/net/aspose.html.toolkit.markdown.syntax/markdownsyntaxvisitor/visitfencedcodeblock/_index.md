@@ -1,22 +1,16 @@
 ---
 title: VisitFencedCodeBlock
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for visit FencedCodeBlockSyntax.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitfencedcodeblock/
 ---
 ## MarkdownSyntaxVisitor.VisitFencedCodeBlock method
 
-Defines the interface for visit FencedCodeBlockSyntax.
-
 ```csharp
 public virtual void VisitFencedCodeBlock(FencedCodeBlockSyntaxNode codeBlock)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| codeBlock | FencedCodeBlockSyntaxNode | The FencedCodeBlockSyntax. |
 
 ### See Also
 

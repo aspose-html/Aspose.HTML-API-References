@@ -1,22 +1,16 @@
 ---
 title: Value
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets the value of a corresponding attribute.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.collections/domtokenlist/value/
 ---
 ## DOMTokenList.Value property
 
-Gets or sets the value of a corresponding attribute.
-
 ```csharp
 public string Value { get; set; }
 ```
-
-### Property Value
-
-The value of a corresponding attribute.
 
 ### See Also
 

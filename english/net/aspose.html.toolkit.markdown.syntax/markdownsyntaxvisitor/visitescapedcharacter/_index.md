@@ -1,22 +1,16 @@
 ---
 title: VisitEscapedCharacter
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for visit escape character.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitescapedcharacter/
 ---
 ## MarkdownSyntaxVisitor.VisitEscapedCharacter method
 
-Defines the interface for visit escape character.
-
 ```csharp
 public virtual void VisitEscapedCharacter(EscapedCharacterSyntaxNode character)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| character | EscapedCharacterSyntaxNode | The escape character. |
 
 ### See Also
 

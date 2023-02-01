@@ -1,22 +1,16 @@
 ---
 title: Children
 second_title: Aspose.HTML for .NET API Reference
-description: Returns the child elements of current element.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.dom/element/children/
 ---
 ## Element.Children property
 
-Returns the child elements of current element.
-
 ```csharp
 public HTMLCollection Children { get; }
 ```
-
-### Property Value
-
-The children collection
 
 ### See Also
 

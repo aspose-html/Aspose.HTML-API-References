@@ -1,26 +1,16 @@
 ---
 title: AppendDelimiter
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for append delimiter.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/appenddelimiter/
 ---
 ## TableRowSyntaxNode.AppendDelimiter method
 
-Defines the interface for append delimiter.
-
 ```csharp
 public TableDelimiterSyntaxNode AppendDelimiter(TableDelimiterSyntaxNode delimiter)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| delimiter | TableDelimiterSyntaxNode | The delimiter. |
-
-### Return Value
-
-The table delimiter syntax.
 
 ### See Also
 

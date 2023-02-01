@@ -1,22 +1,16 @@
 ---
 title: Content
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the instance of the DocumentFragmentaspose.html.dom/documentfragment/.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html/htmltemplateelement/content/
 ---
 ## HTMLTemplateElement.Content property
 
-Gets the instance of the [`DocumentFragment`](../../../aspose.html.dom/documentfragment/).
-
 ```csharp
 public DocumentFragment Content { get; }
 ```
-
-### Property Value
-
-The content.
 
 ### See Also
 

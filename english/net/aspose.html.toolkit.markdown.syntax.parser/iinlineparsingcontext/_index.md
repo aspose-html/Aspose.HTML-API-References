@@ -1,14 +1,12 @@
 ---
 title: IInlineParsingContext
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the IInlineParsingContext interface.
+description: 
 type: docs
 weight: 5400
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/
 ---
 ## IInlineParsingContext interface
-
-Defines the IInlineParsingContext interface.
 
 ```csharp
 public interface IInlineParsingContext
@@ -18,17 +16,17 @@ public interface IInlineParsingContext
 
 | Name | Description |
 | --- | --- |
-| [Owner](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/owner/) { get; } | Get the Owner. |
-| [Reader](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/reader/) { get; } | Get the Reader. |
-| [Source](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/source/) { get; } | Get the Source. |
-| [SyntaxFactory](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/syntaxfactory/) { get; } | Get the SyntaxFactory. |
+| [Owner](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/owner/) { get; } |  |
+| [Reader](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/reader/) { get; } |  |
+| [Source](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/source/) { get; } |  |
+| [SyntaxFactory](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/syntaxfactory/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Push](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/push/#push_1)(DelimiterRun) | Defines the Push method. |
-| [Push](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/push/#push)(InlineSyntaxNode) | Defines the Push method. |
+| [Push](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/push/#push_1)(DelimiterRun) |  |
+| [Push](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/push/#push)(InlineSyntaxNode) |  |
 
 ### See Also
 

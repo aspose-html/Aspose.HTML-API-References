@@ -1,14 +1,12 @@
 ---
 title: ButtonType
 second_title: Aspose.HTML for .NET API Reference
-description: This enumeration represents states of the button.
+description: 
 type: docs
 weight: 2910
 url: /net/aspose.html.forms/buttontype/
 ---
 ## ButtonType enumeration
-
-This enumeration represents states of the button.
 
 ```csharp
 public enum ButtonType
@@ -18,9 +16,9 @@ public enum ButtonType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Submit | `1` | The 'submit' state of the button. |
-| Reset | `2` | The 'reset' state of the button. |
-| Button | `3` | The default 'button' state. |
+| Submit | `1` |  |
+| Reset | `2` |  |
+| Button | `3` |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: IElementInit
 second_title: Aspose.HTML for .NET API Reference
-description: This interface provides Element./element/ initialization info.
+description: 
 type: docs
 weight: 910
 url: /net/aspose.html.dom/ielementinit/
 ---
 ## IElementInit interface
-
-This interface provides [`Element`](../element/) initialization info.
 
 ```csharp
 public interface IElementInit
@@ -18,7 +16,7 @@ public interface IElementInit
 
 | Name | Description |
 | --- | --- |
-| [Document](../../aspose.html.dom/ielementinit/document/) { get; } | This property represents the owner document. |
+| [Document](../../aspose.html.dom/ielementinit/document/) { get; } |  |
 
 ### See Also
 

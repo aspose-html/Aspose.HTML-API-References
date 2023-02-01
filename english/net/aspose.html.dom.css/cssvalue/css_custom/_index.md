@@ -1,14 +1,12 @@
 ---
 title: CSS_CUSTOM
 second_title: Aspose.HTML for .NET API Reference
-description: The value is a custom value.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.html.dom.css/cssvalue/css_custom/
 ---
 ## CSSValue.CSS_CUSTOM field
-
-The value is a custom value.
 
 ```csharp
 public const ushort CSS_CUSTOM;

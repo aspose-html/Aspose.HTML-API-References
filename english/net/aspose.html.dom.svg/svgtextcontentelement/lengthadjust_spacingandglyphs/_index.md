@@ -1,14 +1,12 @@
 ---
 title: LENGTHADJUST_SPACINGANDGLYPHS
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to value spacingAndGlyphs.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg/svgtextcontentelement/lengthadjust_spacingandglyphs/
 ---
 ## SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS field
-
-Corresponds to value 'spacingAndGlyphs'.
 
 ```csharp
 public const ushort LENGTHADJUST_SPACINGANDGLYPHS;

@@ -1,14 +1,12 @@
 ---
 title: Cookies
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets the cookie collection.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.net/responsemessage/cookies/
 ---
 ## ResponseMessage.Cookies property
-
-Gets or sets the cookie collection.
 
 ```csharp
 public CookieCollection Cookies { get; set; }

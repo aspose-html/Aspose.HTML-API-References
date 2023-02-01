@@ -1,14 +1,12 @@
 ---
 title: OnLoadedMetadata
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnLoadedMetadata event.
+description: 
 type: docs
 weight: 490
 url: /net/aspose.html.dom/document/onloadedmetadata/
 ---
 ## Document.OnLoadedMetadata event
-
-Gets or sets event handler for OnLoadedMetadata event.
 
 ```csharp
 public event DOMEventHandler OnLoadedMetadata;

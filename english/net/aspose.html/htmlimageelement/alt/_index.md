@@ -1,14 +1,12 @@
 ---
 title: Alt
 second_title: Aspose.HTML for .NET API Reference
-description: Alternate text for user agents not rendering the normal content of this element. See the alt attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html/htmlimageelement/alt/
 ---
 ## HTMLImageElement.Alt property
-
-Alternate text for user agents not rendering the normal content of this element. See the alt attribute definition in HTML 4.01.
 
 ```csharp
 public string Alt { get; set; }

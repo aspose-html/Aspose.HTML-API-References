@@ -1,14 +1,12 @@
 ---
 title: SVG_EDGEMODE_NONE
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to value none.
+description: 
 type: docs
 weight: 190
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/svg_edgemode_none/
 ---
 ## SVGFEConvolveMatrixElement.SVG_EDGEMODE_NONE field
-
-Corresponds to value 'none'.
 
 ```csharp
 public const ushort SVG_EDGEMODE_NONE;

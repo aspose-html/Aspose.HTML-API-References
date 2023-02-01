@@ -1,22 +1,16 @@
 ---
 title: PreviousSibling
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for get previous sibling node.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.html.toolkit.markdown.syntax/treewalker/previoussibling/
 ---
 ## TreeWalker.PreviousSibling method
 
-Defines the interface for get previous sibling node.
-
 ```csharp
 public MarkdownSyntaxNode PreviousSibling()
 ```
-
-### Return Value
-
-The MarkdownSyntaxNode.
 
 ### See Also
 

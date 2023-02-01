@@ -1,22 +1,16 @@
 ---
 title: CharSet
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets the character-set for content.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.net.headers/contenttypeheadervalue/charset/
 ---
 ## ContentTypeHeaderValue.CharSet property
 
-Gets or sets the character-set for content.
-
 ```csharp
 public string CharSet { get; set; }
 ```
-
-### Property Value
-
-The character set.
 
 ### See Also
 

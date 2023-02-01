@@ -1,14 +1,12 @@
 ---
 title: OnSelect
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnSelect event.
+description: 
 type: docs
 weight: 480
 url: /net/aspose.html/htmlelement/onselect/
 ---
 ## HTMLElement.OnSelect event
-
-Gets or sets event handler for OnSelect event.
 
 ```csharp
 public event DOMEventHandler OnSelect;

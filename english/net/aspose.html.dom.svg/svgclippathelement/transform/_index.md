@@ -1,22 +1,16 @@
 ---
 title: Transform
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute transform on the given element.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgclippathelement/transform/
 ---
 ## SVGClipPathElement.Transform property
 
-Corresponds to attribute ‘transform’ on the given element.
-
 ```csharp
 public SVGAnimatedTransformList Transform { get; }
 ```
-
-### Property Value
-
-The element transform.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Green
 second_title: Aspose.HTML for .NET API Reference
-description: Represents the green component of the color.
+description: 
 type: docs
 weight: 260
 url: /net/aspose.html.drawing/color/green/
 ---
 ## Color.Green property
-
-Represents the green component of the color.
 
 ```csharp
 public float Green { get; }

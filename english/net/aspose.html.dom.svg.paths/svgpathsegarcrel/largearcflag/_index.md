@@ -1,28 +1,16 @@
 ---
 title: LargeArcFlag
 second_title: Aspose.HTML for .NET API Reference
-description: The value of the large-arc-flag parameter.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.paths/svgpathsegarcrel/largearcflag/
 ---
 ## SVGPathSegArcRel.LargeArcFlag property
 
-The value of the large-arc-flag parameter.
-
 ```csharp
 public bool LargeArcFlag { get; set; }
 ```
-
-### Property Value
-
-The large-arc-flag parameter
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| [DOMException](../../../aspose.html.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.html.dom/domexception/no_modification_allowed_err/). Raised on an attempt to change the value of a read only attribute. |
 
 ### See Also
 

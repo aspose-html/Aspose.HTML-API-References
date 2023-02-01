@@ -1,22 +1,16 @@
 ---
 title: WriteTo
 second_title: Aspose.HTML for .NET API Reference
-description: Write to text writer.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/iwritable/writeto/
 ---
 ## IWritable.WriteTo method
 
-Write to text writer.
-
 ```csharp
 public void WriteTo(TextWriter writer)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| writer | TextWriter | The writer. |
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: Accept
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for visiting nodes of the syntax tree.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/accept/
 ---
 ## MarkdownSyntaxTree.Accept method
 
-Defines the interface for visiting nodes of the syntax tree.
-
 ```csharp
 public override void Accept(MarkdownSyntaxVisitor visitor)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | MarkdownSyntaxVisitor | The MarkdownSyntaxVisitor. |
 
 ### See Also
 

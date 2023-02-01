@@ -1,22 +1,16 @@
 ---
 title: WholeText
 second_title: Aspose.HTML for .NET API Reference
-description: Returns all text of Text nodes logically-adjacent text nodes to this node concatenated in document order.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html.dom/text/wholetext/
 ---
 ## Text.WholeText property
 
-Returns all text of Text nodes logically-adjacent text nodes to this node, concatenated in document order.
-
 ```csharp
 public string WholeText { get; }
 ```
-
-### Property Value
-
-The whole text.
 
 ### See Also
 

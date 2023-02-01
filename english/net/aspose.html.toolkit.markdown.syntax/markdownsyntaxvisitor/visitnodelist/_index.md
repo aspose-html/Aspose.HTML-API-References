@@ -1,22 +1,16 @@
 ---
 title: VisitNodeList
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for visit NodeList.
+description: 
 type: docs
 weight: 190
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitnodelist/
 ---
 ## MarkdownSyntaxVisitor.VisitNodeList method
 
-Defines the interface for visit NodeList.
-
 ```csharp
 public virtual void VisitNodeList(NodeList list)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| list | NodeList | The NodeList. |
 
 ### See Also
 

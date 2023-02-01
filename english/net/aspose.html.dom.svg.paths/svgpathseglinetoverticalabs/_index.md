@@ -1,14 +1,12 @@
 ---
 title: SVGPathSegLinetoVerticalAbs
 second_title: Aspose.HTML for .NET API Reference
-description: The SVGPathSegLinetoVerticalAbs interface corresponds to an absolute vertical lineto V path data command.
+description: 
 type: docs
 weight: 1850
 url: /net/aspose.html.dom.svg.paths/svgpathseglinetoverticalabs/
 ---
 ## SVGPathSegLinetoVerticalAbs class
-
-The SVGPathSegLinetoVerticalAbs interface corresponds to an "absolute vertical lineto" (V) path data command.
 
 ```csharp
 public class SVGPathSegLinetoVerticalAbs : SVGPathSeg
@@ -18,16 +16,16 @@ public class SVGPathSegLinetoVerticalAbs : SVGPathSeg
 
 | Name | Description |
 | --- | --- |
-| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype/) { get; } | The type of the path segment as specified by one of the constants defined on this interface. |
-| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | The type of the path segment, specified by the corresponding one character command name. |
-| [Y](../../aspose.html.dom.svg.paths/svgpathseglinetoverticalabs/y/) { get; set; } | The absolute Y coordinate for the end point of this path segment. |
+| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype/) { get; } |  |
+| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } |  |
+| [Y](../../aspose.html.dom.svg.paths/svgpathseglinetoverticalabs/y/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
 
 ### See Also
 

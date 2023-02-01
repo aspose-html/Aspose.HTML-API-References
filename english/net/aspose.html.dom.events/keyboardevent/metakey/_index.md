@@ -1,22 +1,16 @@
 ---
 title: MetaKey
 second_title: Aspose.HTML for .NET API Reference
-description: true if the meta Meta key modifier was active.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.html.dom.events/keyboardevent/metakey/
 ---
 ## KeyboardEvent.MetaKey property
 
-true if the meta (Meta) key modifier was active.
-
 ```csharp
 public bool MetaKey { get; }
 ```
-
-### Property Value
-
-`true` if Meta; otherwise, `false`.
 
 ### See Also
 

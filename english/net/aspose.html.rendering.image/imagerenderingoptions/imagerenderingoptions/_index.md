@@ -1,14 +1,14 @@
 ---
 title: ImageRenderingOptions
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the ImageRenderingOptionsaspose.html.rendering.image/imagerenderingoptions/ class Png will be used as default image format.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.html.rendering.image/imagerenderingoptions/imagerenderingoptions/
 ---
 ## ImageRenderingOptions() {#constructor}
 
-Initializes a new instance of the [`ImageRenderingOptions`](../) class; Png will be used as default image format.
+The default constructor.
 
 ```csharp
 public ImageRenderingOptions()
@@ -24,15 +24,9 @@ public ImageRenderingOptions()
 
 ## ImageRenderingOptions(ImageFormat) {#constructor_1}
 
-Initializes a new instance of the [`ImageRenderingOptions`](../) class with specified image format.
-
 ```csharp
 public ImageRenderingOptions(ImageFormat format)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| format | ImageFormat | The output image format. |
 
 ### See Also
 

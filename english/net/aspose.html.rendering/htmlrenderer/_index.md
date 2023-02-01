@@ -1,14 +1,12 @@
 ---
 title: HtmlRenderer
 second_title: Aspose.HTML for .NET API Reference
-description: Represents an HTML document renderer.
+description: 
 type: docs
 weight: 4270
 url: /net/aspose.html.rendering/htmlrenderer/
 ---
 ## HtmlRenderer class
-
-Represents an HTML document renderer.
 
 ```csharp
 public class HtmlRenderer : Renderer<Document>
@@ -24,18 +22,18 @@ public class HtmlRenderer : Renderer<Document>
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.rendering/renderer/dispose/)() | Releases unmanaged and - optionally - managed resources. |
+| [Dispose](../../aspose.html.rendering/renderer/dispose/)() |  |
 | [Render](../../aspose.html.rendering/renderer`1/render/)(IDevice, Document) |  |
 | [Render](../../aspose.html.rendering/renderer`1/render/)(IDevice, params Document[]) |  |
 | [Render](../../aspose.html.rendering/renderer`1/render/)(IDevice, Document, int) |  |
 | [Render](../../aspose.html.rendering/renderer`1/render/)(IDevice, Document, TimeSpan) |  |
 | [Render](../../aspose.html.rendering/renderer`1/render/)(IDevice, int, params Document[]) |  |
-| override [Render](../../aspose.html.rendering/htmlrenderer/render/#render_5)(IDevice, TimeSpan, params Document[]) | Defines method for rendering multiple [`Document`](../../aspose.html.dom/document/)s into specific [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
+| override [Render](../../aspose.html.rendering/htmlrenderer/render/#render_5)(IDevice, TimeSpan, params Document[]) |  |
 
 ### See Also
 
-* class [Document](../../aspose.html.dom/document/)
 * class [Renderer&lt;TDocument&gt;](../renderer-1/)
+* class [Document](../../aspose.html.dom/document/)
 * namespace [Aspose.Html.Rendering](../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../)
 

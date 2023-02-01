@@ -1,14 +1,12 @@
 ---
 title: DefaultConfig
 second_title: Aspose.HTML for .NET API Reference
-description: The default config actions.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownparser/defaultconfig/
 ---
 ## MarkdownParser.DefaultConfig field
-
-The default config actions.
 
 ```csharp
 public static readonly Action<IMarkdownParserBuilder> DefaultConfig;

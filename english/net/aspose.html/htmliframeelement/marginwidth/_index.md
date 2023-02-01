@@ -1,14 +1,12 @@
 ---
 title: MarginWidth
 second_title: Aspose.HTML for .NET API Reference
-description: Frame margin width in pixels. See the marginwidth attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html/htmliframeelement/marginwidth/
 ---
 ## HTMLIFrameElement.MarginWidth property
-
-Frame margin width, in pixels. See the marginwidth attribute definition in HTML 4.01.
 
 ```csharp
 public string MarginWidth { get; set; }

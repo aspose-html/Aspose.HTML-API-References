@@ -1,22 +1,16 @@
 ---
 title: EndElement
 second_title: Aspose.HTML for .NET API Reference
-description: Ends rendering of the node.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.html.rendering/device-2/endelement/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndElement method
 
-Ends rendering of the node.
-
 ```csharp
 public abstract void EndElement(Element element)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| element | Element | The [`Element`](../../../aspose.html.dom/element/). |
 
 ### See Also
 

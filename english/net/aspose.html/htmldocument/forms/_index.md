@@ -1,14 +1,12 @@
 ---
 title: Forms
 second_title: Aspose.HTML for .NET API Reference
-description: A collection of all the forms of a document.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html/htmldocument/forms/
 ---
 ## HTMLDocument.Forms property
-
-A collection of all the forms of a document.
 
 ```csharp
 public HTMLCollection Forms { get; }

@@ -1,22 +1,16 @@
 ---
 title: PatternContentUnits
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute patternContentUnits on the given pattern element. Takes one of the constants defined in SVGUnitTypes.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svgpatternelement/patterncontentunits/
 ---
 ## SVGPatternElement.PatternContentUnits property
 
-Corresponds to attribute ‘patternContentUnits’ on the given ‘pattern’ element. Takes one of the constants defined in SVGUnitTypes.
-
 ```csharp
 public SVGAnimatedEnumeration PatternContentUnits { get; }
 ```
-
-### Property Value
-
-The attribute ‘patternContentUnits’ of the given ‘pattern’ element.
 
 ### See Also
 

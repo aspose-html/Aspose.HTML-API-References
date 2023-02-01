@@ -1,14 +1,12 @@
 ---
 title: OnMessage
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.window/iwindoweventhandlers/onmessage/
 ---
 ## IWindowEventHandlers.OnMessage event
-
-Gets or sets event handler
 
 ```csharp
 public event DOMEventHandler OnMessage;

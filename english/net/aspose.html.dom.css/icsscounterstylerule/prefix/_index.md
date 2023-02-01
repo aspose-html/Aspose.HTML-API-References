@@ -1,22 +1,16 @@
 ---
 title: Prefix
 second_title: Aspose.HTML for .NET API Reference
-description: The prefix property of the CSSCounterStyleRuleaspose.html.dom.css/icsscounterstylerule/ interface gets and sets the value of the prefix descriptor. If the descriptor does not have a value set this attribute returns an empty string.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.dom.css/icsscounterstylerule/prefix/
 ---
 ## ICSSCounterStyleRule.Prefix property
 
-The prefix property of the [`CSSCounterStyleRule`](../) interface gets and sets the value of the prefix descriptor. If the descriptor does not have a value set, this attribute returns an empty string.
-
 ```csharp
 public string Prefix { get; }
 ```
-
-### Property Value
-
-Gets and sets the value of the prefix descriptor. If the descriptor does not have a value set, this attribute returns an empty string.
 
 ### See Also
 

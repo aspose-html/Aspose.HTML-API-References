@@ -1,14 +1,12 @@
 ---
 title: Length
 second_title: Aspose.HTML for .NET API Reference
-description: The number of nodes in the list.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html/ihtmloptionscollection/length/
 ---
 ## IHTMLOptionsCollection.Length property
-
-The number of nodes in the list.
 
 ```csharp
 public int Length { get; }

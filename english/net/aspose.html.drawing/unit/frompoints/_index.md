@@ -1,26 +1,16 @@
 ---
 title: FromPoints
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a Lengthaspose.html.drawing/length/ object that is represented in points.
+description: 
 type: docs
 weight: 180
 url: /net/aspose.html.drawing/unit/frompoints/
 ---
 ## Unit.FromPoints method
 
-Returns a [`Length`](../../length/) object that is represented in points.
-
 ```csharp
 public static Length FromPoints(double value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | Double | The value. |
-
-### Return Value
-
-Returns a [`Length`](../../length/) object.
 
 ### See Also
 

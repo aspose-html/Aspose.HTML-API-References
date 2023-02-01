@@ -1,22 +1,16 @@
 ---
 title: GetMarker
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface to get of the marker.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/unorderedlistsyntaxnode/getmarker/
 ---
 ## UnorderedListSyntaxNode.GetMarker method
 
-Defines the interface to get of the marker.
-
 ```csharp
 public string GetMarker()
 ```
-
-### Return Value
-
-The string value.
 
 ### See Also
 

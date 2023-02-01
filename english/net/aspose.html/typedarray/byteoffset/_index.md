@@ -1,22 +1,16 @@
 ---
 title: ByteOffset
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the byteOffset from the start of referenced ArrayBuffer.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html/typedarray/byteoffset/
 ---
 ## TypedArray.ByteOffset property
 
-Gets the byteOffset from the start of referenced ArrayBuffer.
-
 ```csharp
 public int ByteOffset { get; }
 ```
-
-### Property Value
-
-The length in bytes.
 
 ### See Also
 

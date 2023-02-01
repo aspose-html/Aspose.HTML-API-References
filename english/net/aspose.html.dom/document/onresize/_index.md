@@ -1,14 +1,12 @@
 ---
 title: OnResize
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnResize event.
+description: 
 type: docs
 weight: 660
 url: /net/aspose.html.dom/document/onresize/
 ---
 ## Document.OnResize event
-
-Gets or sets event handler for OnResize event.
 
 ```csharp
 public event DOMEventHandler OnResize;

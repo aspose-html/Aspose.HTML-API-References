@@ -1,14 +1,12 @@
 ---
 title: Source
 second_title: Aspose.HTML for .NET API Reference
-description: Get rhe source.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/source/
 ---
 ## SourceTextReader.Source property
-
-Get rhe source.
 
 ```csharp
 public SourceText Source { get; }

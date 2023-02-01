@@ -1,22 +1,16 @@
 ---
 title: ReleaseStream
 second_title: Aspose.HTML for .NET API Reference
-description: Releases the stream.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.io/icreatestreamprovider/releasestream/
 ---
 ## ICreateStreamProvider.ReleaseStream method
 
-Releases the stream.
-
 ```csharp
 public void ReleaseStream(Stream stream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | The stream being released. |
 
 ### See Also
 

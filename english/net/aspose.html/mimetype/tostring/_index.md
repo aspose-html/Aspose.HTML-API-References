@@ -1,22 +1,16 @@
 ---
 title: ToString
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a String that represents Mime type.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.html/mimetype/tostring/
 ---
 ## MimeType.ToString method
 
-Returns a String that represents Mime type.
-
 ```csharp
 public override string ToString()
 ```
-
-### Return Value
-
-A String that represents this instance.
 
 ### See Also
 

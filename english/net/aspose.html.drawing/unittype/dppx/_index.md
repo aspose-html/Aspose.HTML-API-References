@@ -1,14 +1,12 @@
 ---
 title: Dppx
 second_title: Aspose.HTML for .NET API Reference
-description: Measurement is in Dots per pixels unit.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.html.drawing/unittype/dppx/
 ---
 ## UnitType.Dppx field
-
-Measurement is in Dots per pixels unit.
 
 ```csharp
 public static readonly UnitType Dppx;

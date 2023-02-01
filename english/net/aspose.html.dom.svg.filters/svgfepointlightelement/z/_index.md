@@ -1,22 +1,16 @@
 ---
 title: Z
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute z on the given fePointLight element.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.filters/svgfepointlightelement/z/
 ---
 ## SVGFEPointLightElement.Z property
 
-Corresponds to attribute ‘z’ on the given ‘fePointLight’ element.
-
 ```csharp
 public SVGAnimatedNumber Z { get; }
 ```
-
-### Property Value
-
-The attribute ‘z’ of the given ‘fePointLight’ element.
 
 ### See Also
 

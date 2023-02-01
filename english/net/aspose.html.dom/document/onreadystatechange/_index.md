@@ -1,14 +1,12 @@
 ---
 title: OnReadyStateChange
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnReadyStateChange event.
+description: 
 type: docs
 weight: 640
 url: /net/aspose.html.dom/document/onreadystatechange/
 ---
 ## Document.OnReadyStateChange event
-
-Gets or sets event handler for OnReadyStateChange event.
 
 ```csharp
 public event DOMEventHandler OnReadyStateChange;

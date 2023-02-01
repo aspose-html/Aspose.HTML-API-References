@@ -1,14 +1,14 @@
 ---
 title: MutationObserverInit
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the MutationObserverInitaspose.html.dom.mutations/mutationobserverinit/ class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.mutations/mutationobserverinit/mutationobserverinit/
 ---
 ## MutationObserverInit constructor
 
-Initializes a new instance of the [`MutationObserverInit`](../) class.
+The default constructor.
 
 ```csharp
 public MutationObserverInit()

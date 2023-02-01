@@ -1,14 +1,12 @@
 ---
 title: TabIndex
 second_title: Aspose.HTML for .NET API Reference
-description: Index that represents the elements position in the tabbing order. See the tabindex attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.html/htmlobjectelement/tabindex/
 ---
 ## HTMLObjectElement.TabIndex property
-
-Index that represents the element's position in the tabbing order. See the tabindex attribute definition in HTML 4.01.
 
 ```csharp
 public int TabIndex { get; set; }

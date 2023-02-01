@@ -1,14 +1,12 @@
 ---
 title: RestoreGraphicContext
 second_title: Aspose.HTML for .NET API Reference
-description: Restores the entire graphics context to its former value by popping it from the stack.
+description: 
 type: docs
 weight: 190
 url: /net/aspose.html.rendering/idevice/restoregraphiccontext/
 ---
 ## IDevice.RestoreGraphicContext method
-
-Restores the entire graphics context to its former value by popping it from the stack.
 
 ```csharp
 public void RestoreGraphicContext()

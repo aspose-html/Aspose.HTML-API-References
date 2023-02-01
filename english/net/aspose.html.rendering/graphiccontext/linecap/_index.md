@@ -1,14 +1,12 @@
 ---
 title: LineCap
 second_title: Aspose.HTML for .NET API Reference
-description: Sets or gets the code specifying the shape of the endpoints for any open path that is stroked.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.html.rendering/graphiccontext/linecap/
 ---
 ## GraphicContext.LineCap property
-
-Sets or gets the code specifying the shape of the endpoints for any open path that is stroked.
 
 ```csharp
 public virtual LineCap LineCap { get; set; }

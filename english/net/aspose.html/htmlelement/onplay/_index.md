@@ -1,14 +1,12 @@
 ---
 title: OnPlay
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnPlay event.
+description: 
 type: docs
 weight: 390
 url: /net/aspose.html/htmlelement/onplay/
 ---
 ## HTMLElement.OnPlay event
-
-Gets or sets event handler for OnPlay event.
 
 ```csharp
 public event DOMEventHandler OnPlay;

@@ -1,22 +1,16 @@
 ---
 title: BorderLeftWidth
 second_title: Aspose.HTML for .NET API Reference
-description: This property is a shorthand property for setting border-top-width border-right-width border-bottom-width and border-left-width at the same place in the style sheet.
+description: 
 type: docs
 weight: 180
 url: /net/aspose.html.dom.css/icss2properties/borderleftwidth/
 ---
 ## ICSS2Properties.BorderLeftWidth property
 
-This property is a shorthand property for setting 'border-top-width', 'border-right-width', 'border-bottom-width', and 'border-left-width' at the same place in the style sheet.
-
 ```csharp
 public string BorderLeftWidth { get; set; }
 ```
-
-### Return Value
-
-border-left-width property
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: Values
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute values on the given feColorMatrix element.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg.filters/svgfecolormatrixelement/values/
 ---
 ## SVGFEColorMatrixElement.Values property
 
-Corresponds to attribute ‘values’ on the given ‘feColorMatrix’ element.
-
 ```csharp
 public SVGAnimatedNumberList Values { get; }
 ```
-
-### Property Value
-
-The attribute ‘values’ of the given ‘feColorMatrix’ element.
 
 ### See Also
 

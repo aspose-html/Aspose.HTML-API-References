@@ -1,22 +1,16 @@
 ---
 title: Alert
 second_title: Aspose.HTML for .NET API Reference
-description: Displays a modal alert with the given message and waits for the user to dismiss it
+description: 
 type: docs
 weight: 100
 url: /net/aspose.html.window/iwindow/alert/
 ---
 ## IWindow.Alert method
 
-Displays a modal alert with the given message, and waits for the user to dismiss it
-
 ```csharp
 public void Alert(string message)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| message | String | The message. |
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: PathSegTypeAsLetter
 second_title: Aspose.HTML for .NET API Reference
-description: The type of the path segment specified by the corresponding one character command name.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/
 ---
 ## SVGPathSeg.PathSegTypeAsLetter property
 
-The type of the path segment, specified by the corresponding one character command name.
-
 ```csharp
 public string PathSegTypeAsLetter { get; }
 ```
-
-### Property Value
-
-The type of the path segment.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: LineDashOffset
 second_title: Aspose.HTML for .NET API Reference
-description: Specifies where to start a dash array on a line.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom.canvas/icanvasdrawingstyles/linedashoffset/
 ---
 ## ICanvasDrawingStyles.LineDashOffset property
-
-Specifies where to start a dash array on a line.
 
 ```csharp
 public double LineDashOffset { get; set; }

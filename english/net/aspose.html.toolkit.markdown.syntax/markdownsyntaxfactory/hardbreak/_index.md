@@ -1,28 +1,16 @@
 ---
 title: HardBreak
 second_title: Aspose.HTML for .NET API Reference
-description: Creates objects using HardBreakSyntax.CreateInstance.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hardbreak/
 ---
 ## MarkdownSyntaxFactory.HardBreak method
 
-Creates objects using HardBreakSyntax.CreateInstance.
-
 ```csharp
 public HardBreakSyntaxNode HardBreak(MarkdownSyntaxToken tag, SourceText source, TextSpan span)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| tag | MarkdownSyntaxToken | The MarkdownSyntaxToken. |
-| source | SourceText | The SourceText. |
-| span | TextSpan | The TextSpan. |
-
-### Return Value
-
-The HardBreakSyntax.
 
 ### See Also
 

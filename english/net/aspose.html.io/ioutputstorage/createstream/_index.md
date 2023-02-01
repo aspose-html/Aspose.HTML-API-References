@@ -1,26 +1,16 @@
 ---
 title: CreateStream
 second_title: Aspose.HTML for .NET API Reference
-description: Creates the output stream OutputStreamaspose.html.io/outputstream/.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.io/ioutputstorage/createstream/
 ---
 ## IOutputStorage.CreateStream method
 
-Creates the output stream [`OutputStream`](../../outputstream/).
-
 ```csharp
 public OutputStream CreateStream(OutputStreamContext context)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| context | OutputStreamContext | Specifies the output stream context [`OutputStreamContext`](../../outputstreamcontext/). |
-
-### Return Value
-
-The output stream.
 
 ### See Also
 

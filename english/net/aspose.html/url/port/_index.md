@@ -1,22 +1,16 @@
 ---
 title: Port
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets a string representation for the specified URL port.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html/url/port/
 ---
 ## Url.Port property
 
-Gets or sets a string representation for the specified URL port.
-
 ```csharp
 public string Port { get; set; }
 ```
-
-### Property Value
-
-The port.
 
 ### See Also
 

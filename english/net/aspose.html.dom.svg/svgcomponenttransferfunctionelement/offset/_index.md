@@ -1,22 +1,16 @@
 ---
 title: Offset
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute offset on the given element.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgcomponenttransferfunctionelement/offset/
 ---
 ## SVGComponentTransferFunctionElement.Offset property
 
-Corresponds to attribute ‘offset’ on the given element.
-
 ```csharp
 public SVGAnimatedNumber Offset { get; }
 ```
-
-### Property Value
-
-The attribute ‘offset’ of the given element.
 
 ### See Also
 

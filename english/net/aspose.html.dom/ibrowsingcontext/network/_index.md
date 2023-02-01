@@ -1,22 +1,16 @@
 ---
 title: Network
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the network services.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom/ibrowsingcontext/network/
 ---
 ## IBrowsingContext.Network property
 
-Gets the network services.
-
 ```csharp
 public INetwork Network { get; }
 ```
-
-### Property Value
-
-The network services.
 
 ### See Also
 

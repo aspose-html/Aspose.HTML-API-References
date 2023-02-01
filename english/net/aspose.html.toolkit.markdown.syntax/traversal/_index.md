@@ -1,14 +1,12 @@
 ---
 title: Traversal
 second_title: Aspose.HTML for .NET API Reference
-description: The abstract class Traversal
+description: 
 type: docs
 weight: 5690
 url: /net/aspose.html.toolkit.markdown.syntax/traversal/
 ---
 ## Traversal class
-
-The abstract class Traversal
 
 ```csharp
 public abstract class Traversal : IDisposable
@@ -18,14 +16,14 @@ public abstract class Traversal : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Filter](../../aspose.html.toolkit.markdown.syntax/traversal/filter/) { get; } | Defines the interface for get Filter. |
-| [Root](../../aspose.html.toolkit.markdown.syntax/traversal/root/) { get; } | Defines the interface for get Root node. |
+| [Filter](../../aspose.html.toolkit.markdown.syntax/traversal/filter/) { get; } |  |
+| [Root](../../aspose.html.toolkit.markdown.syntax/traversal/root/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.toolkit.markdown.syntax/traversal/dispose/)() | Defines the interface for dispose. |
+| [Dispose](../../aspose.html.toolkit.markdown.syntax/traversal/dispose/)() |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Start
 second_title: Aspose.HTML for .NET API Reference
-description: Starting sequence number. See the start attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html/htmlolistelement/start/
 ---
 ## HTMLOListElement.Start property
-
-Starting sequence number. See the start attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01.
 
 ```csharp
 public int Start { get; set; }

@@ -1,22 +1,16 @@
 ---
 title: AddedNodes
 second_title: Aspose.HTML for .NET API Reference
-description: Return the nodes added.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.dom.mutations/mutationrecord/addednodes/
 ---
 ## MutationRecord.AddedNodes property
 
-Return the nodes added.
-
 ```csharp
 public NodeList AddedNodes { get; }
 ```
-
-### Property Value
-
-The added nodes.
 
 ### See Also
 

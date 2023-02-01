@@ -1,32 +1,17 @@
 ---
 title: CreateSVGPathSegCurvetoCubicAbs
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a stand-alone parentless SVGPathSegCurvetoCubicAbs object.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg/svgpathelement/createsvgpathsegcurvetocubicabs/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicAbs method
 
-Returns a stand-alone, parentless SVGPathSegCurvetoCubicAbs object.
-
 ```csharp
 public SVGPathSegCurvetoCubicAbs CreateSVGPathSegCurvetoCubicAbs(float x, float y, float x1, 
     float y1, float x2, float y2)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| x | Single | The absolute X coordinate for the end point of this path segment. |
-| y | Single | The absolute Y coordinate for the end point of this path segment. |
-| x1 | Single | The absolute X coordinate for the first control point. |
-| y1 | Single | The absolute Y coordinate for the first control point. |
-| x2 | Single | The absolute X coordinate for the second control point. |
-| y2 | Single | The absolute Y coordinate for the second control point. |
-
-### Return Value
-
-A stand-alone, parentless SVGPathSegCurvetoCubicAbs object.
 
 ### See Also
 

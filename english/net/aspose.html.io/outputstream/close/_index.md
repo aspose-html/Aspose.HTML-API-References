@@ -1,14 +1,12 @@
 ---
 title: Close
 second_title: Aspose.HTML for .NET API Reference
-description: Closes the wrapped output stream and current stream.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.html.io/outputstream/close/
 ---
 ## OutputStream.Close method
-
-Closes the wrapped output stream and current stream.
 
 ```csharp
 public override void Close()

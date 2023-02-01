@@ -1,14 +1,12 @@
 ---
 title: TemplateContentOptions
 second_title: Aspose.HTML for .NET API Reference
-description: Inline content object for merging processing.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html.converters/templatecontentoptions/
 ---
 ## TemplateContentOptions class
-
-Inline content object for merging processing.
 
 ```csharp
 public sealed class TemplateContentOptions
@@ -18,15 +16,15 @@ public sealed class TemplateContentOptions
 
 | Name | Description |
 | --- | --- |
-| [TemplateContentOptions](templatecontentoptions)(string, TemplateContent) | Inline (String) based initialization |
+| [TemplateContentOptions](templatecontentoptions)(string, TemplateContent) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ContentType](../../aspose.html.converters/templatecontentoptions/contenttype/) { get; } | Content type property. |
-| [DataContent](../../aspose.html.converters/templatecontentoptions/datacontent/) { get; } | Data content property. |
-| [Format](../../aspose.html.converters/templatecontentoptions/format/) { get; } | String representation of [`ContentType`](./contenttype/) property. |
+| [ContentType](../../aspose.html.converters/templatecontentoptions/contenttype/) { get; } |  |
+| [DataContent](../../aspose.html.converters/templatecontentoptions/datacontent/) { get; } |  |
+| [Format](../../aspose.html.converters/templatecontentoptions/format/) { get; } |  |
 
 ### See Also
 

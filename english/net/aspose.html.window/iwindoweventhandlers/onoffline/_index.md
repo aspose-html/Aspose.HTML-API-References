@@ -1,14 +1,12 @@
 ---
 title: OnOffline
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html.window/iwindoweventhandlers/onoffline/
 ---
 ## IWindowEventHandlers.OnOffline event
-
-Gets or sets event handler
 
 ```csharp
 public event DOMEventHandler OnOffline;

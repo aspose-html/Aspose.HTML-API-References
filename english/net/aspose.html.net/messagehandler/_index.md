@@ -1,14 +1,12 @@
 ---
 title: MessageHandler
 second_title: Aspose.HTML for .NET API Reference
-description: Represents a base type for message handlers.
+description: 
 type: docs
 weight: 3970
 url: /net/aspose.html.net/messagehandler/
 ---
 ## MessageHandler class
-
-Represents a base type for message handlers.
 
 ```csharp
 public abstract class MessageHandler
@@ -18,13 +16,13 @@ public abstract class MessageHandler
 
 | Name | Description |
 | --- | --- |
-| [Filters](../../aspose.html.net/messagehandler/filters/) { get; } | Gets the filters list that are corresponding to the specified handler type. |
+| [Filters](../../aspose.html.net/messagehandler/filters/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| abstract [Invoke](../../aspose.html.net/messagehandler/invoke/)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
+| abstract [Invoke](../../aspose.html.net/messagehandler/invoke/)(INetworkOperationContext) |  |
 
 ### See Also
 

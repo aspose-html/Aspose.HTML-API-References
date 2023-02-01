@@ -1,26 +1,16 @@
 ---
 title: OrderedListItem
 second_title: Aspose.HTML for .NET API Reference
-description: Creates a new instance of the ListItemSyntaxNodeaspose.html.toolkit.markdown.syntax/listitemsyntaxnode/ class with ordered list item marker.
+description: 
 type: docs
 weight: 310
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/orderedlistitem/
 ---
 ## MarkdownSyntaxFactory.OrderedListItem method
 
-Creates a new instance of the [`ListItemSyntaxNode`](../../listitemsyntaxnode/) class with ordered list item marker.
-
 ```csharp
 public ListItemSyntaxNode OrderedListItem(int number)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| number | Int32 | The number which will be used to create ordered list item marker. |
-
-### Return Value
-
-Created [`ListItemSyntaxNode`](../../listitemsyntaxnode/).
 
 ### See Also
 

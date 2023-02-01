@@ -1,14 +1,12 @@
 ---
 title: ISVGFilterPrimitiveStandardAttributes
 second_title: Aspose.HTML for .NET API Reference
-description: This interface defines the set of DOM attributes that are common across the filter primitive interfaces.
+description: 
 type: docs
 weight: 1350
 url: /net/aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/
 ---
 ## ISVGFilterPrimitiveStandardAttributes interface
-
-This interface defines the set of DOM attributes that are common across the filter primitive interfaces.
 
 ```csharp
 public interface ISVGFilterPrimitiveStandardAttributes
@@ -18,11 +16,11 @@ public interface ISVGFilterPrimitiveStandardAttributes
 
 | Name | Description |
 | --- | --- |
-| [Height](../../aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/height/) { get; } | Corresponds to attribute ‘height’ on the given ‘filter’ element. |
-| [Result](../../aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/result/) { get; } | Corresponds to attribute ‘result’ on the given ‘filter’ element. |
-| [Width](../../aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/width/) { get; } | Corresponds to attribute ‘width’ on the given ‘filter’ element. |
-| [X](../../aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘filter’ element. |
-| [Y](../../aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘filter’ element. |
+| [Height](../../aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/height/) { get; } |  |
+| [Result](../../aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/result/) { get; } |  |
+| [Width](../../aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/width/) { get; } |  |
+| [X](../../aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/x/) { get; } |  |
+| [Y](../../aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/y/) { get; } |  |
 
 ### See Also
 

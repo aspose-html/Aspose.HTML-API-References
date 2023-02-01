@@ -1,14 +1,12 @@
 ---
 title: Method
 second_title: Aspose.HTML for .NET API Reference
-description: HTTP method IETF RFC 2616http//www.ietf.org/rfc/rfc2616.txt used to submit form. See the method attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.forms/formsubmitter/method/
 ---
 ## FormSubmitter.Method property
-
-HTTP method [[IETF RFC 2616](http://www.ietf.org/rfc/rfc2616.txt)] used to submit form. See the method attribute definition in HTML 4.01.
 
 ```csharp
 public HttpMethod Method { get; set; }

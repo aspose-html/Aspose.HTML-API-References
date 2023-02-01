@@ -1,22 +1,16 @@
 ---
 title: ToString
 second_title: Aspose.HTML for .NET API Reference
-description: Get ToString override
+description: 
 type: docs
 weight: 130
 url: /net/aspose.html.toolkit.markdown.syntax.text/textspan/tostring/
 ---
 ## TextSpan.ToString method
 
-Get ToString() override
-
 ```csharp
 public override string ToString()
 ```
-
-### Return Value
-
-The result string.
 
 ### See Also
 

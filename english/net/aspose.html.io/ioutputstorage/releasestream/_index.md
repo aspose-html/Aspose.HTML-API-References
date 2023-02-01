@@ -1,22 +1,16 @@
 ---
 title: ReleaseStream
 second_title: Aspose.HTML for .NET API Reference
-description: Releases the output stream.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.io/ioutputstorage/releasestream/
 ---
 ## IOutputStorage.ReleaseStream method
 
-Releases the output stream.
-
 ```csharp
 public void ReleaseStream(OutputStream stream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | OutputStream | The output stream. |
 
 ### See Also
 

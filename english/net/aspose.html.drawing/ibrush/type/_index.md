@@ -1,22 +1,16 @@
 ---
 title: Type
 second_title: Aspose.HTML for .NET API Reference
-description: Get type of brush
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/ibrush/type/
 ---
 ## IBrush.Type property
 
-Get type of brush;
-
 ```csharp
 public BrushType Type { get; }
 ```
-
-### Return Value
-
-Type of brush
 
 ### See Also
 

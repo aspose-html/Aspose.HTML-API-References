@@ -1,26 +1,16 @@
 ---
 title: FromDotsPerInch
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a Resolutionaspose.html.drawing/resolution/ object that is represented in dots per inch.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.html.drawing/unit/fromdotsperinch/
 ---
 ## Unit.FromDotsPerInch method
 
-Returns a [`Resolution`](../../resolution/) object that is represented in dots per inch.
-
 ```csharp
 public static Resolution FromDotsPerInch(double value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | Double | The value. |
-
-### Return Value
-
-Returns a [`Resolution`](../../resolution/) object.
 
 ### See Also
 

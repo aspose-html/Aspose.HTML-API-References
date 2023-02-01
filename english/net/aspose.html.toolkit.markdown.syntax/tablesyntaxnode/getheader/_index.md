@@ -1,22 +1,16 @@
 ---
 title: GetHeader
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for get table header.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax/tablesyntaxnode/getheader/
 ---
 ## TableSyntaxNode.GetHeader method
 
-Defines the interface for get table header.
-
 ```csharp
 public TableRowSyntaxNode GetHeader()
 ```
-
-### Return Value
-
-The table header.
 
 ### See Also
 

@@ -1,32 +1,16 @@
 ---
 title: Initialize
 second_title: Aspose.HTML for .NET API Reference
-description: Clears all existing current items from the list and re-initializes the list to hold the single item specified by the parameter.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/initialize/
 ---
 ## SVGListBase&lt;T&gt;.Initialize method
 
-Clears all existing current items from the list and re-initializes the list to hold the single item specified by the parameter.
-
 ```csharp
 public T Initialize(T newItem)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| newItem | T | The item which should become the only member of the list. |
-
-### Return Value
-
-The item being inserted into the list.
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| [DOMException](../../../aspose.html.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.html.dom/domexception/no_modification_allowed_err/). Raised when the list cannot be modified. |
 
 ### See Also
 

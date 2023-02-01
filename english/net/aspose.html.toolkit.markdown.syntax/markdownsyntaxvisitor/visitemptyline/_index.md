@@ -1,22 +1,16 @@
 ---
 title: VisitEmptyLine
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for visit text line.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitemptyline/
 ---
 ## MarkdownSyntaxVisitor.VisitEmptyLine method
 
-Defines the interface for visit text line.
-
 ```csharp
 public virtual void VisitEmptyLine(EmptyLineSyntaxNode textLine)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| textLine | EmptyLineSyntaxNode | The text line. |
 
 ### See Also
 

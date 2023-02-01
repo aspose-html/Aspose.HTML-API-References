@@ -1,14 +1,12 @@
 ---
 title: Mode
 second_title: Aspose.HTML for .NET API Reference
-description: Mode in which this ShadowRoot operates.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.dom/shadowroot/mode/
 ---
 ## ShadowRoot.Mode property
-
-Mode in which this ShadowRoot operates.
 
 ```csharp
 public ShadowRootMode Mode { get; }

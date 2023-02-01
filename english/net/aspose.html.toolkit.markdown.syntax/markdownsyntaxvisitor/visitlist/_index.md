@@ -1,22 +1,16 @@
 ---
 title: VisitList
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for visit UnorderedListSyntax.
+description: 
 type: docs
 weight: 170
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitlist/
 ---
 ## VisitList(UnorderedListSyntaxNode) {#visitlist_1}
 
-Defines the interface for visit UnorderedListSyntax.
-
 ```csharp
 public virtual void VisitList(UnorderedListSyntaxNode list)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| list | UnorderedListSyntaxNode | The UnorderedListSyntax. |
 
 ### See Also
 
@@ -29,15 +23,9 @@ public virtual void VisitList(UnorderedListSyntaxNode list)
 
 ## VisitList(OrderedListSyntaxNode) {#visitlist}
 
-Defines the interface for visit OrderedListSyntax.
-
 ```csharp
 public virtual void VisitList(OrderedListSyntaxNode list)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| list | OrderedListSyntaxNode | The OrderedListSyntax. |
 
 ### See Also
 

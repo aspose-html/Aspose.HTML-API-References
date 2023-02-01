@@ -1,29 +1,16 @@
 ---
 title: FromLcha
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a new Color with the requested luminance chroma hue alpha values.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.html.drawing/color/fromlcha/
 ---
 ## Color.FromLcha method
 
-Returns a new Color with the requested luminance, chroma, hue, alpha values.
-
 ```csharp
 public static Color FromLcha(float luminance, float chroma, float hue, float alpha)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| luminance | Single | A float that represents the luminance component of the color. |
-| chroma | Single | A float that represents the chroma component of the color. |
-| hue | Single | A float that represents the hue component of the color. |
-| alpha | Single | A float that represents the alpha component of the color. |
-
-### Return Value
-
-A new instance of the [`Color`](../) class
 
 ### See Also
 

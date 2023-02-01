@@ -1,14 +1,14 @@
 ---
 title: Size
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the Sizeaspose.html.drawing/size/ class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/size/size/
 ---
 ## Size() {#constructor}
 
-Initializes a new instance of the [`Size`](../) class.
+The default constructor.
 
 ```csharp
 public Size()
@@ -24,16 +24,9 @@ public Size()
 
 ## Size(int, int) {#constructor_2}
 
-Initializes a new instance of the [`Size`](../) class and specify a Height and Width in pixels.
-
 ```csharp
 public Size(int width, int height)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | Int32 | The width. |
-| height | Int32 | The height. |
 
 ### See Also
 
@@ -45,16 +38,9 @@ public Size(int width, int height)
 
 ## Size(Length, Length) {#constructor_1}
 
-Initializes a new instance of the [`Size`](../) class.
-
 ```csharp
 public Size(Length width, Length height)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | Length | The width. |
-| height | Length | The height. |
 
 ### See Also
 

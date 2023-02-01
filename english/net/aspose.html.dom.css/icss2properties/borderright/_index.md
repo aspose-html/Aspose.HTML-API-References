@@ -1,22 +1,16 @@
 ---
 title: BorderRight
 second_title: Aspose.HTML for .NET API Reference
-description: This is a shorthand property for setting the width style and color of the top right bottom and left border of a box.
+description: 
 type: docs
 weight: 190
 url: /net/aspose.html.dom.css/icss2properties/borderright/
 ---
 ## ICSS2Properties.BorderRight property
 
-This is a shorthand property for setting the width, style, and color of the top, right, bottom, and left border of a box.
-
 ```csharp
 public string BorderRight { get; set; }
 ```
-
-### Return Value
-
-border-right property
 
 ### See Also
 

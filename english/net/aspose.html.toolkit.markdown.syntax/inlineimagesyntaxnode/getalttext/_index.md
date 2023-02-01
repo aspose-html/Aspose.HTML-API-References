@@ -1,22 +1,16 @@
 ---
 title: GetAltText
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for get all text.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/inlineimagesyntaxnode/getalttext/
 ---
 ## InlineImageSyntaxNode.GetAltText method
 
-Defines the interface for get all text.
-
 ```csharp
 public string GetAltText()
 ```
-
-### Return Value
-
-The string.
 
 ### See Also
 

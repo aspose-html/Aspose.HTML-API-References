@@ -1,14 +1,12 @@
 ---
 title: MessageHandlerCollection
 second_title: Aspose.HTML for .NET API Reference
-description: Represents collection of the MessageHandler./messagehandler/.
+description: 
 type: docs
 weight: 3980
 url: /net/aspose.html.net/messagehandlercollection/
 ---
 ## MessageHandlerCollection class
-
-Represents collection of the [`MessageHandler`](../messagehandler/).
 
 ```csharp
 public class MessageHandlerCollection : Collection<MessageHandler>

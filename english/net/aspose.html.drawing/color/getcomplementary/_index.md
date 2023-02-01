@@ -1,22 +1,16 @@
 ---
 title: GetComplementary
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a new color that is on the opposite side of the color wheel from the original.
+description: 
 type: docs
 weight: 310
 url: /net/aspose.html.drawing/color/getcomplementary/
 ---
 ## Color.GetComplementary method
 
-Returns a new color that is on the opposite side of the color wheel from the original.
-
 ```csharp
 public Color GetComplementary()
 ```
-
-### Return Value
-
-A new instance of the [`Color`](../) class.
 
 ### See Also
 

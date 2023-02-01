@@ -1,22 +1,16 @@
 ---
 title: ToRgbString
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a string containing the RGB color specified by rgbR G B.
+description: 
 type: docs
 weight: 420
 url: /net/aspose.html.drawing/color/torgbstring/
 ---
 ## Color.ToRgbString method
 
-Returns a string containing the RGB color specified by: rgb(R, G, B).
-
 ```csharp
 public string ToRgbString()
 ```
-
-### Return Value
-
-A rgb string.
 
 ### See Also
 

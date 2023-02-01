@@ -1,14 +1,12 @@
 ---
 title: SVGValueType
 second_title: Aspose.HTML for .NET API Reference
-description: The SVGValueType type is used to represent an base SVG value type.
+description: 
 type: docs
 weight: 1320
 url: /net/aspose.html.dom.svg.datatypes/svgvaluetype/
 ---
 ## SVGValueType class
-
-The SVGValueType type is used to represent an base SVG value type.
 
 ```csharp
 public abstract class SVGValueType : DOMObject, IDisposable
@@ -18,8 +16,8 @@ public abstract class SVGValueType : DOMObject, IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
 
 ### See Also
 

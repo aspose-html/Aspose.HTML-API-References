@@ -1,14 +1,12 @@
 ---
 title: GraphicContext
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the graphic context
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.rendering/device-2/graphiccontext/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.GraphicContext property
-
-Gets the graphic context
 
 ```csharp
 public TGraphicContext GraphicContext { get; }

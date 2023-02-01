@@ -1,14 +1,12 @@
 ---
 title: OnCanPlayThrough
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnCanPlayThrough event.
+description: 
 type: docs
 weight: 320
 url: /net/aspose.html.dom/document/oncanplaythrough/
 ---
 ## Document.OnCanPlayThrough event
-
-Gets or sets event handler for OnCanPlayThrough event.
 
 ```csharp
 public event DOMEventHandler OnCanPlayThrough;

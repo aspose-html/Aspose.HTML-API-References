@@ -1,22 +1,16 @@
 ---
 title: GetContent
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for get Content.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode/getcontent/
 ---
 ## FencedCodeBlockSyntaxNode.GetContent method
 
-Defines the interface for get Content.
-
 ```csharp
 public string GetContent()
 ```
-
-### Return Value
-
-The string.
 
 ### See Also
 

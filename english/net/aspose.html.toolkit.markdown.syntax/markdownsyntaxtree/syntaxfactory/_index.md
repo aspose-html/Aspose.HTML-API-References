@@ -1,14 +1,12 @@
 ---
 title: SyntaxFactory
 second_title: Aspose.HTML for .NET API Reference
-description: Get the SyntaxFactory.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/syntaxfactory/
 ---
 ## MarkdownSyntaxTree.SyntaxFactory property
-
-Get the SyntaxFactory.
 
 ```csharp
 public MarkdownSyntaxFactory SyntaxFactory { get; }

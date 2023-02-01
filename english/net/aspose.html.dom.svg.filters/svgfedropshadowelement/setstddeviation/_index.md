@@ -1,29 +1,16 @@
 ---
 title: SetStdDeviation
 second_title: Aspose.HTML for .NET API Reference
-description: Sets the values for attribute stdDeviation.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.html.dom.svg.filters/svgfedropshadowelement/setstddeviation/
 ---
 ## SVGFEDropShadowElement.SetStdDeviation method
 
-Sets the values for attribute ‘stdDeviation’.
-
 ```csharp
 public void SetStdDeviation(float stdDeviationX, float stdDeviationY)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stdDeviationX | Single | The X component of attribute ‘stdDeviation’. |
-| stdDeviationY | Single | The Y component of attribute ‘stdDeviation’. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| [DOMException](../../../aspose.html.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.html.dom/domexception/no_modification_allowed_err/). Raised on an attempt to change the value of a read only attribute. |
 
 ### See Also
 

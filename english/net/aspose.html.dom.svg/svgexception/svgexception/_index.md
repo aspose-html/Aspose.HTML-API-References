@@ -1,22 +1,16 @@
 ---
 title: SVGException
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the SVGExceptionaspose.html.dom.svg/svgexception/ class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svgexception/svgexception/
 ---
 ## SVGException constructor
 
-Initializes a new instance of the [`SVGException`](../) class.
-
 ```csharp
 public SVGException(ushort code)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| code | UInt16 | The error code. |
 
 ### See Also
 

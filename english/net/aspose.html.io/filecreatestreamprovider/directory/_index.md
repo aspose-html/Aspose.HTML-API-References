@@ -1,22 +1,16 @@
 ---
 title: Directory
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets the directory.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.io/filecreatestreamprovider/directory/
 ---
 ## FileCreateStreamProvider.Directory property
 
-Gets or sets the directory.
-
 ```csharp
 public string Directory { get; set; }
 ```
-
-### Property Value
-
-The directory.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: DataListElement
 second_title: Aspose.HTML for .NET API Reference
-description: The DataListElement represents a wrapper that is associated with the HTMLDataListElement
+description: 
 type: docs
 weight: 2920
 url: /net/aspose.html.forms/datalistelement/
 ---
 ## DataListElement class
-
-The DataListElement represents a wrapper that is associated with the HTMLDataListElement
 
 ```csharp
 public class DataListElement : FormElement<HTMLDataListElement>
@@ -18,18 +16,18 @@ public class DataListElement : FormElement<HTMLDataListElement>
 
 | Name | Description |
 | --- | --- |
-| [DataListElement](datalistelement)(HTMLDataListElement) | Initializes a new instance of the [`DataListElement`](./datalistelement/) class. |
+| [DataListElement](datalistelement)(HTMLDataListElement) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ElementType](../../aspose.html.forms/formelement/elementtype/) { get; } | Gets the type of the element. |
+| [ElementType](../../aspose.html.forms/formelement/elementtype/) { get; } |  |
 | [HtmlElement](../../aspose.html.forms/formelement`1/htmlelement/) { get; } |  |
-| virtual [Id](../../aspose.html.forms/formelement/id/) { get; set; } | Gets or sets the identifier of the form element. |
-| virtual [Name](../../aspose.html.forms/formelement/name/) { get; set; } | Gets or sets the name of the form element. |
-| [Options](../../aspose.html.forms/datalistelement/options/) { get; } | Returns a list of options |
-| virtual [Value](../../aspose.html.forms/formelement/value/) { get; set; } | The value of field |
+| virtual [Id](../../aspose.html.forms/formelement/id/) { get; set; } |  |
+| virtual [Name](../../aspose.html.forms/formelement/name/) { get; set; } |  |
+| [Options](../../aspose.html.forms/datalistelement/options/) { get; } |  |
+| virtual [Value](../../aspose.html.forms/formelement/value/) { get; set; } |  |
 
 ### See Also
 

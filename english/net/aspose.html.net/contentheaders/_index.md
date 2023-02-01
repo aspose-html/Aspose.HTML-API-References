@@ -1,14 +1,12 @@
 ---
 title: ContentHeaders
 second_title: Aspose.HTML for .NET API Reference
-description: Contains the headers associated with a content.
+description: 
 type: docs
 weight: 3870
 url: /net/aspose.html.net/contentheaders/
 ---
 ## ContentHeaders class
-
-Contains the headers associated with a content.
 
 ```csharp
 public class ContentHeaders : WebHeaderCollection
@@ -18,13 +16,13 @@ public class ContentHeaders : WebHeaderCollection
 
 | Name | Description |
 | --- | --- |
-| [ContentHeaders](contentheaders)() | Initializes a new instance of the [`ContentHeaders`](./contentheaders/) class. |
+| [ContentHeaders](contentheaders)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ContentType](../../aspose.html.net/contentheaders/contenttype/) { get; } | Gets the Content-Type header value. |
+| [ContentType](../../aspose.html.net/contentheaders/contenttype/) { get; } |  |
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: Charset
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the documents encoding.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom/document/charset/
 ---
 ## Document.Charset property
 
-Gets the document's encoding.
-
 ```csharp
 public string Charset { get; }
 ```
-
-### Property Value
-
-The document's encoding.
 
 ### See Also
 

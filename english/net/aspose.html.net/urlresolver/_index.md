@@ -1,14 +1,12 @@
 ---
 title: UrlResolver
 second_title: Aspose.HTML for .NET API Reference
-description: Represents utility class for resolving absolute URL by a Uniform Resource Identifier URI.
+description: 
 type: docs
 weight: 4100
 url: /net/aspose.html.net/urlresolver/
 ---
 ## UrlResolver class
-
-Represents utility class for resolving absolute URL by a Uniform Resource Identifier (URI).
 
 ```csharp
 public class UrlResolver
@@ -24,7 +22,7 @@ public class UrlResolver
 
 | Name | Description |
 | --- | --- |
-| virtual [Resolve](../../aspose.html.net/urlresolver/resolve/)(string, string) | Resolves the absolute URI from the base and relative URIs. |
+| virtual [Resolve](../../aspose.html.net/urlresolver/resolve/)(string, string) |  |
 
 ### See Also
 

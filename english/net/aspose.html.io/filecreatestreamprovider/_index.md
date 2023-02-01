@@ -1,14 +1,12 @@
 ---
 title: FileCreateStreamProvider
 second_title: Aspose.HTML for .NET API Reference
-description: Represents FileStream implementation for providing streams to the rendering devices.
+description: 
 type: docs
 weight: 3690
 url: /net/aspose.html.io/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider class
-
-Represents FileStream implementation for providing streams to the rendering devices.
 
 ```csharp
 public class FileCreateStreamProvider : ICreateStreamProvider
@@ -18,25 +16,25 @@ public class FileCreateStreamProvider : ICreateStreamProvider
 
 | Name | Description |
 | --- | --- |
-| [FileCreateStreamProvider](filecreatestreamprovider#constructor)() | Initializes a new instance of the [`FileCreateStreamProvider`](./filecreatestreamprovider/) class. |
-| [FileCreateStreamProvider](filecreatestreamprovider#constructor_1)(string) | Initializes a new instance of the [`FileCreateStreamProvider`](./filecreatestreamprovider/) class. |
-| [FileCreateStreamProvider](filecreatestreamprovider#constructor_2)(string, string) | Initializes a new instance of the [`FileCreateStreamProvider`](./filecreatestreamprovider/) class. |
+| [FileCreateStreamProvider](filecreatestreamprovider#constructor)() | The default constructor. |
+| [FileCreateStreamProvider](filecreatestreamprovider#constructor_1)(string) |  |
+| [FileCreateStreamProvider](filecreatestreamprovider#constructor_2)(string, string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Directory](../../aspose.html.io/filecreatestreamprovider/directory/) { get; set; } | Gets or sets the directory. |
-| [Name](../../aspose.html.io/filecreatestreamprovider/name/) { get; set; } | Gets or sets the name. |
+| [Directory](../../aspose.html.io/filecreatestreamprovider/directory/) { get; set; } |  |
+| [Name](../../aspose.html.io/filecreatestreamprovider/name/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.io/filecreatestreamprovider/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [GetStream](../../aspose.html.io/filecreatestreamprovider/getstream/#getstream)(string, string) | Provides a stream for rendering. |
-| [GetStream](../../aspose.html.io/filecreatestreamprovider/getstream/#getstream_1)(string, string, int) | Provides a stream for rendering. |
-| [ReleaseStream](../../aspose.html.io/filecreatestreamprovider/releasestream/)(Stream) | Releases the stream. |
+| [Dispose](../../aspose.html.io/filecreatestreamprovider/dispose/)() |  |
+| [GetStream](../../aspose.html.io/filecreatestreamprovider/getstream/#getstream)(string, string) |  |
+| [GetStream](../../aspose.html.io/filecreatestreamprovider/getstream/#getstream_1)(string, string, int) |  |
+| [ReleaseStream](../../aspose.html.io/filecreatestreamprovider/releasestream/)(Stream) |  |
 
 ### See Also
 

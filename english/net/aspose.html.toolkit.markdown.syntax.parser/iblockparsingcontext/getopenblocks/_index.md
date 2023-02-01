@@ -1,22 +1,16 @@
 ---
 title: GetOpenBlocks
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the GetOpenBlocks.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getopenblocks/
 ---
 ## IBlockParsingContext.GetOpenBlocks method
 
-Defines the GetOpenBlocks.
-
 ```csharp
 public IEnumerable<BlockSyntaxDescriptor> GetOpenBlocks()
 ```
-
-### Return Value
-
-The collection of BlockSyntaxDescriptor.
 
 ### See Also
 

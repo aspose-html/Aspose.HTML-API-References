@@ -1,26 +1,16 @@
 ---
 title: CreateNew
 second_title: Aspose.HTML for .NET API Reference
-description: Creates a new HTMLFormElementaspose.html/htmlformelement/ and associated it with FormEditoraspose.html.forms/formeditor/. HTMLFormElementaspose.html/htmlformelement/ is created in the detached from the document state in order to attach it to the document please select proper location and use AppendChildaspose.html.dom/node/appendchild/ method.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.forms/formeditor/createnew/
 ---
 ## FormEditor.CreateNew method
 
-Creates a new [`HTMLFormElement`](../../../aspose.html/htmlformelement/) and associated it with [`FormEditor`](../). [`HTMLFormElement`](../../../aspose.html/htmlformelement/) is created in the detached from the document state; in order to attach it to the document, please select proper location and use [`AppendChild`](../../../aspose.html.dom/node/appendchild/) method.
-
 ```csharp
 public static FormEditor CreateNew(HTMLDocument document)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | HTMLDocument | The [`HTMLDocument`](../../../aspose.html/htmldocument/). |
-
-### Return Value
-
-Return a new instance of the [`FormEditor`](../) class
 
 ### See Also
 

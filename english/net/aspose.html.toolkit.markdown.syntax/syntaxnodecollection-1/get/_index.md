@@ -1,26 +1,16 @@
 ---
 title: Get
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the item at the given index.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/get/
 ---
 ## SyntaxNodeCollection&lt;T&gt;.Get method
 
-Gets the item at the given index.
-
 ```csharp
 public override T Get(int index)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | Int32 | The index of the item to get. |
-
-### Return Value
-
-The item at the given index.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: DelimiterState
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the DelimiterState enum.
+description: 
 type: docs
 weight: 5350
 url: /net/aspose.html.toolkit.markdown.syntax.parser/delimiterstate/
 ---
 ## DelimiterState enumeration
-
-Defines the DelimiterState enum.
 
 ```csharp
 [Flags]
@@ -19,10 +17,10 @@ public enum DelimiterState
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Undefined | `0` | The Undefined |
-| Active | `1` | The Active |
-| Closer | `2` | The Closer |
-| Opener | `4` | The Opener |
+| Undefined | `0` |  |
+| Active | `1` |  |
+| Closer | `2` |  |
+| Opener | `4` |  |
 
 ### See Also
 

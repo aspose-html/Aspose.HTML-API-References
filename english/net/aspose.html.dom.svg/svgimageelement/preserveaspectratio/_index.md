@@ -1,22 +1,16 @@
 ---
 title: PreserveAspectRatio
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute preserveAspectRatio on the given image element.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svgimageelement/preserveaspectratio/
 ---
 ## SVGImageElement.PreserveAspectRatio property
 
-Corresponds to attribute ‘preserveAspectRatio’ on the given ‘image’ element.
-
 ```csharp
 public SVGAnimatedPreserveAspectRatio PreserveAspectRatio { get; }
 ```
-
-### Property Value
-
-The preserve aspect ratio.
 
 ### See Also
 

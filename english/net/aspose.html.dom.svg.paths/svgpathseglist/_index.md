@@ -1,14 +1,12 @@
 ---
 title: SVGPathSegList
 second_title: Aspose.HTML for .NET API Reference
-description: This interface defines a list of SVGPathSeg objects.
+description: 
 type: docs
 weight: 1870
 url: /net/aspose.html.dom.svg.paths/svgpathseglist/
 ---
 ## SVGPathSegList class
-
-This interface defines a list of SVGPathSeg objects.
 
 ```csharp
 public class SVGPathSegList : SVGListBase<SVGPathSeg>
@@ -18,8 +16,8 @@ public class SVGPathSegList : SVGListBase<SVGPathSeg>
 
 | Name | Description |
 | --- | --- |
-| [SVGPathSegList](svgpathseglist#constructor)() | Initializes a new instance of the [`SVGPathSegList`](./svgpathseglist/) class. |
-| [SVGPathSegList](svgpathseglist#constructor_1)(IEnumerable&lt;SVGPathSeg&gt;) | Initializes a new instance of the [`SVGPathSegList`](./svgpathseglist/) class. |
+| [SVGPathSegList](svgpathseglist#constructor)() | The default constructor. |
+| [SVGPathSegList](svgpathseglist#constructor_1)(IEnumerable&lt;SVGPathSeg&gt;) |  |
 
 ## Properties
 
@@ -35,10 +33,10 @@ public class SVGPathSegList : SVGListBase<SVGPathSeg>
 | --- | --- |
 | [AppendItem](../../aspose.html.dom.svg.collections/svglistbase`1/appenditem/)(SVGPathSeg) |  |
 | [Clear](../../aspose.html.dom.svg.collections/svglistbase`1/clear/)() |  |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
 | [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase`1/getenumerator/)() |  |
 | [GetItem](../../aspose.html.dom.svg.collections/svglistbase`1/getitem/)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
 | [Initialize](../../aspose.html.dom.svg.collections/svglistbase`1/initialize/)(SVGPathSeg) |  |
 | [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase`1/insertitembefore/)(SVGPathSeg, ulong) |  |
 | [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase`1/removeitem/)(ulong) |  |

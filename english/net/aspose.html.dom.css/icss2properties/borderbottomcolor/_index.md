@@ -1,22 +1,16 @@
 ---
 title: BorderBottomColor
 second_title: Aspose.HTML for .NET API Reference
-description: The border color properties specify the color of a boxs border.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.html.dom.css/icss2properties/borderbottomcolor/
 ---
 ## ICSS2Properties.BorderBottomColor property
 
-The border color properties specify the color of a box's border.
-
 ```csharp
 public string BorderBottomColor { get; set; }
 ```
-
-### Return Value
-
-border-bottom-color property
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Text
 second_title: Aspose.HTML for .NET API Reference
-description: Get the Text.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax.text/textline/text/
 ---
 ## TextLine.Text property
-
-Get the Text.
 
 ```csharp
 public SourceText Text { get; }

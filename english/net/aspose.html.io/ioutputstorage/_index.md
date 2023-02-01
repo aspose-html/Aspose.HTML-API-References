@@ -1,14 +1,12 @@
 ---
 title: IOutputStorage
 second_title: Aspose.HTML for .NET API Reference
-description: Provides the creation and management of output streams OutputStream./outputstream/.
+description: 
 type: docs
 weight: 3740
 url: /net/aspose.html.io/ioutputstorage/
 ---
 ## IOutputStorage interface
-
-Provides the creation and management of output streams [`OutputStream`](../outputstream/).
 
 ```csharp
 public interface IOutputStorage
@@ -18,8 +16,8 @@ public interface IOutputStorage
 
 | Name | Description |
 | --- | --- |
-| [CreateStream](../../aspose.html.io/ioutputstorage/createstream/)(OutputStreamContext) | Creates the output stream [`OutputStream`](../outputstream/). |
-| [ReleaseStream](../../aspose.html.io/ioutputstorage/releasestream/)(OutputStream) | Releases the output stream. |
+| [CreateStream](../../aspose.html.io/ioutputstorage/createstream/)(OutputStreamContext) |  |
+| [ReleaseStream](../../aspose.html.io/ioutputstorage/releasestream/)(OutputStream) |  |
 
 ### See Also
 

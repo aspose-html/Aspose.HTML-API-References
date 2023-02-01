@@ -1,14 +1,12 @@
 ---
 title: ButtonElement
 second_title: Aspose.HTML for .NET API Reference
-description: The ButtonElement represents a wrapper that is associated with the HTMLButtonElement.
+description: 
 type: docs
 weight: 2900
 url: /net/aspose.html.forms/buttonelement/
 ---
 ## ButtonElement class
-
-The ButtonElement represents a wrapper that is associated with the HTMLButtonElement.
 
 ```csharp
 public class ButtonElement : FormElement<HTMLButtonElement>
@@ -18,12 +16,12 @@ public class ButtonElement : FormElement<HTMLButtonElement>
 
 | Name | Description |
 | --- | --- |
-| [ElementType](../../aspose.html.forms/formelement/elementtype/) { get; } | Gets the type of the element. |
+| [ElementType](../../aspose.html.forms/formelement/elementtype/) { get; } |  |
 | [HtmlElement](../../aspose.html.forms/formelement`1/htmlelement/) { get; } |  |
-| override [Id](../../aspose.html.forms/buttonelement/id/) { get; set; } | Represents the Id attribute of the Button element. |
-| override [Name](../../aspose.html.forms/buttonelement/name/) { get; set; } | Represent the name attribute of the Button element. |
-| [Type](../../aspose.html.forms/buttonelement/type/) { get; set; } | Type of the form control. |
-| override [Value](../../aspose.html.forms/buttonelement/value/) { get; set; } | Represents the string value of the button element that is directly mapped to the 'value' attribute. |
+| override [Id](../../aspose.html.forms/buttonelement/id/) { get; set; } |  |
+| override [Name](../../aspose.html.forms/buttonelement/name/) { get; set; } |  |
+| [Type](../../aspose.html.forms/buttonelement/type/) { get; set; } |  |
+| override [Value](../../aspose.html.forms/buttonelement/value/) { get; set; } |  |
 
 ### See Also
 

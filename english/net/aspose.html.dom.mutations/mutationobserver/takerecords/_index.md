@@ -1,22 +1,16 @@
 ---
 title: TakeRecords
 second_title: Aspose.HTML for .NET API Reference
-description: The method returns a copy of the record queue and then empty the record queue.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.dom.mutations/mutationobserver/takerecords/
 ---
 ## MutationObserver.TakeRecords method
 
-The method returns a copy of the record queue and then empty the record queue.
-
 ```csharp
 public IEnumerable<MutationRecord> TakeRecords()
 ```
-
-### Return Value
-
-The copy of the record queue.
 
 ### See Also
 

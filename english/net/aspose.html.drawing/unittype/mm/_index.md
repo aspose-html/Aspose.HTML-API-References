@@ -1,14 +1,12 @@
 ---
 title: Mm
 second_title: Aspose.HTML for .NET API Reference
-description: Measurement is in millimeters
+description: 
 type: docs
 weight: 150
 url: /net/aspose.html.drawing/unittype/mm/
 ---
 ## UnitType.Mm field
-
-Measurement is in millimeters
 
 ```csharp
 public static readonly UnitType Mm;

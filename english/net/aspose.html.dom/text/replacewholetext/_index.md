@@ -1,26 +1,16 @@
 ---
 title: ReplaceWholeText
 second_title: Aspose.HTML for .NET API Reference
-description: Replaces the text of the current node and all logically-adjacent text nodes with the specified text. All logically-adjacent text nodes are removed including the current node unless it was the recipient of the replacement text.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.html.dom/text/replacewholetext/
 ---
 ## Text.ReplaceWholeText method
 
-Replaces the text of the current node and all logically-adjacent text nodes with the specified text. All logically-adjacent text nodes are removed including the current node unless it was the recipient of the replacement text.
-
 ```csharp
 public Text ReplaceWholeText(string content)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| content | String | The content. |
-
-### Return Value
-
-The [`Text`](../).
 
 ### See Also
 

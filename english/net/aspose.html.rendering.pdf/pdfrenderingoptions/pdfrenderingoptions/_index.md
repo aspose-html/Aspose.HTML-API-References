@@ -1,14 +1,14 @@
 ---
 title: PdfRenderingOptions
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the PdfRenderingOptionsaspose.html.rendering.pdf/pdfrenderingoptions/ class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.html.rendering.pdf/pdfrenderingoptions/pdfrenderingoptions/
 ---
 ## PdfRenderingOptions constructor
 
-Initializes a new instance of the [`PdfRenderingOptions`](../) class.
+The default constructor.
 
 ```csharp
 public PdfRenderingOptions()

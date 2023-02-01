@@ -1,14 +1,12 @@
 ---
 title: Position
 second_title: Aspose.HTML for .NET API Reference
-description: Get the position.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/position/
 ---
 ## SourceTextReader.Position property
-
-Get the position.
 
 ```csharp
 public int Position { get; }

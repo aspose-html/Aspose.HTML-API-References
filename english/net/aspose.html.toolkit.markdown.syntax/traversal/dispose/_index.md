@@ -1,14 +1,12 @@
 ---
 title: Dispose
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for dispose.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/traversal/dispose/
 ---
 ## Traversal.Dispose method
-
-Defines the interface for dispose.
 
 ```csharp
 public void Dispose()

@@ -1,14 +1,12 @@
 ---
 title: SVG_PRESERVEASPECTRATIO_XMAXYMAX
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to value xMaxYMax for attribute preserveAspectRatio.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html.dom.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmaxymax/
 ---
 ## SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMAXYMAX field
-
-Corresponds to value 'xMaxYMax' for attribute ‘preserveAspectRatio’.
 
 ```csharp
 public const ushort SVG_PRESERVEASPECTRATIO_XMAXYMAX;

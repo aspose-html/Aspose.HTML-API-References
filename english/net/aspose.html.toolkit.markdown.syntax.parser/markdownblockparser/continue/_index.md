@@ -1,28 +1,17 @@
 ---
 title: Continue
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for Continue
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/continue/
 ---
 ## MarkdownBlockParser.Continue method
 
-Defines the interface for Continue
-
 ```csharp
 public virtual LineParsingInstruction Continue(BlockSyntaxDescriptor descriptor, 
     IBlockParsingContext context)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| descriptor | BlockSyntaxDescriptor | The description. |
-| context | IBlockParsingContext | The context. |
-
-### Return Value
-
-The LineParsingInstruction.
 
 ### See Also
 

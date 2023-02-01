@@ -1,14 +1,14 @@
 ---
 title: FileCreateStreamProvider
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the FileCreateStreamProvideraspose.html.io/filecreatestreamprovider/ class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.html.io/filecreatestreamprovider/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider() {#constructor}
 
-Initializes a new instance of the [`FileCreateStreamProvider`](../) class.
+The default constructor.
 
 ```csharp
 public FileCreateStreamProvider()
@@ -24,15 +24,9 @@ public FileCreateStreamProvider()
 
 ## FileCreateStreamProvider(string) {#constructor_1}
 
-Initializes a new instance of the [`FileCreateStreamProvider`](../) class.
-
 ```csharp
 public FileCreateStreamProvider(string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | The file name. |
 
 ### See Also
 
@@ -44,16 +38,9 @@ public FileCreateStreamProvider(string name)
 
 ## FileCreateStreamProvider(string, string) {#constructor_2}
 
-Initializes a new instance of the [`FileCreateStreamProvider`](../) class.
-
 ```csharp
 public FileCreateStreamProvider(string directory, string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| directory | String | The directory. |
-| name | String | The file name. |
 
 ### See Also
 

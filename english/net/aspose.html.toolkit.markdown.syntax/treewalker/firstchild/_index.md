@@ -1,22 +1,16 @@
 ---
 title: FirstChild
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for get first child node.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/treewalker/firstchild/
 ---
 ## TreeWalker.FirstChild method
 
-Defines the interface for get first child node.
-
 ```csharp
 public MarkdownSyntaxNode FirstChild()
 ```
-
-### Return Value
-
-The MarkdownSyntaxNode.
 
 ### See Also
 

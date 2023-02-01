@@ -1,14 +1,12 @@
 ---
 title: Axis
 second_title: Aspose.HTML for .NET API Reference
-description: Names group of related headers. See the axis attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html/htmltablecellelement/axis/
 ---
 ## HTMLTableCellElement.Axis property
-
-Names group of related headers. See the axis attribute definition in HTML 4.01.
 
 ```csharp
 public string Axis { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: OnInput
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnInput event.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.html.dom/iglobaleventhandlers/oninput/
 ---
 ## IGlobalEventHandlers.OnInput event
-
-Gets or sets event handler for OnInput event.
 
 ```csharp
 public event DOMEventHandler OnInput;

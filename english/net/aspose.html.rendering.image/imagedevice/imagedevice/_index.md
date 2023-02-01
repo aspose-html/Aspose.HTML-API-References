@@ -1,22 +1,16 @@
 ---
 title: ImageDevice
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the ImageDeviceaspose.html.rendering.image/imagedevice/ class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.rendering.image/imagedevice/imagedevice/
 ---
 ## ImageDevice(ICreateStreamProvider) {#constructor}
 
-Initializes a new instance of the [`ImageDevice`](../) class.
-
 ```csharp
 public ImageDevice(ICreateStreamProvider streamProvider)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| streamProvider | ICreateStreamProvider | The stream provider. |
 
 ### See Also
 
@@ -29,16 +23,9 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 ## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Initializes a new instance of the [`ImageDevice`](../) class by rendering options and stream provider.
-
 ```csharp
 public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamProvider)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| options | ImageRenderingOptions | Rendering options. |
-| streamProvider | ICreateStreamProvider | Object that implements the [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface |
 
 ### See Also
 
@@ -52,15 +39,9 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 
 ## ImageDevice(string) {#constructor_5}
 
-Initializes a new instance of the [`ImageDevice`](../) class.
-
 ```csharp
 public ImageDevice(string file)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| file | String | The output file name. |
 
 ### See Also
 
@@ -72,16 +53,9 @@ public ImageDevice(string file)
 
 ## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
 
-Initializes a new instance of the [`ImageDevice`](../) class by rendering options and output file name.
-
 ```csharp
 public ImageDevice(ImageRenderingOptions options, string file)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| options | ImageRenderingOptions | Rendering options. |
-| file | String | The output file name. |
 
 ### See Also
 
@@ -94,15 +68,9 @@ public ImageDevice(ImageRenderingOptions options, string file)
 
 ## ImageDevice(Stream) {#constructor_4}
 
-Initializes a new instance of the [`ImageDevice`](../) class.
-
 ```csharp
 public ImageDevice(Stream stream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | The stream. |
 
 ### See Also
 
@@ -114,16 +82,9 @@ public ImageDevice(Stream stream)
 
 ## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
 
-Initializes a new instance of the [`ImageDevice`](../) class by rendering options and output stream.
-
 ```csharp
 public ImageDevice(ImageRenderingOptions options, Stream stream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| options | ImageRenderingOptions | Rendering options. |
-| stream | Stream | The output stream. |
 
 ### See Also
 

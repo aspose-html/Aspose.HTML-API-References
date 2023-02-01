@@ -1,22 +1,16 @@
 ---
 title: GradientTransform
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute gradientTransform on the given element.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svggradientelement/gradienttransform/
 ---
 ## SVGGradientElement.GradientTransform property
 
-Corresponds to attribute ‘gradientTransform’ on the given element.
-
 ```csharp
 public SVGAnimatedTransformList GradientTransform { get; }
 ```
-
-### Property Value
-
-The attribute ‘gradientTransform’ of the given element.
 
 ### See Also
 

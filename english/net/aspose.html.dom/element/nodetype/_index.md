@@ -1,22 +1,16 @@
 ---
 title: NodeType
 second_title: Aspose.HTML for .NET API Reference
-description: A code representing the type of the underlying object.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.html.dom/element/nodetype/
 ---
 ## Element.NodeType property
 
-A code representing the type of the underlying object.
-
 ```csharp
 public override ushort NodeType { get; }
 ```
-
-### Property Value
-
-The code representing the type of the node.
 
 ### See Also
 

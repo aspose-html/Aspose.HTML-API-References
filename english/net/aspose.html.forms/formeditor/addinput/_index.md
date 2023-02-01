@@ -1,26 +1,16 @@
 ---
 title: AddInput
 second_title: Aspose.HTML for .NET API Reference
-description: Creates a new InputElementaspose.html.forms/inputelement/ and adds it to the end of the form.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html.forms/formeditor/addinput/
 ---
 ## AddInput(string) {#addinput}
 
-Creates a new [`InputElement`](../../inputelement/) and adds it to the end of the form.
-
 ```csharp
 public InputElement AddInput(string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | Name of input element |
-
-### Return Value
-
-Returns a new created [`InputElement`](../../inputelement/).
 
 ### See Also
 
@@ -33,20 +23,9 @@ Returns a new created [`InputElement`](../../inputelement/).
 
 ## AddInput(string, InputElementType) {#addinput_1}
 
-Creates a new [`InputElement`](../../inputelement/) and adds it to the end of the form.
-
 ```csharp
 public InputElement AddInput(string name, InputElementType type)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | Name of input element |
-| type | InputElementType | Type of input element |
-
-### Return Value
-
-Returns a new created [`InputElement`](../../inputelement/).
 
 ### See Also
 

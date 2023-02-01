@@ -1,14 +1,12 @@
 ---
 title: TriviaCollection
 second_title: Aspose.HTML for .NET API Reference
-description: A collection of trivia.
+description: 
 type: docs
 weight: 5710
 url: /net/aspose.html.toolkit.markdown.syntax/triviacollection/
 ---
 ## TriviaCollection class
-
-A collection of trivia.
 
 ```csharp
 public class TriviaCollection : SyntaxNodeCollection<WhitespaceSyntaxNode>

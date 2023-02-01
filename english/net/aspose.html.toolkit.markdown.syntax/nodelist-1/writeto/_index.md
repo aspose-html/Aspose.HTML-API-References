@@ -1,22 +1,16 @@
 ---
 title: WriteTo
 second_title: Aspose.HTML for .NET API Reference
-description: Write nodes to text writer.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/nodelist-1/writeto/
 ---
 ## NodeList&lt;T&gt;.WriteTo method
 
-Write nodes to text writer.
-
 ```csharp
 public void WriteTo(TextWriter writer)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| writer | TextWriter | The text writer. |
 
 ### See Also
 

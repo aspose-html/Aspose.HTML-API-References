@@ -1,14 +1,12 @@
 ---
 title: MarkdownSyntaxToken
 second_title: Aspose.HTML for .NET API Reference
-description: Represent the Markdown Syntax Token.
+description: 
 type: docs
 weight: 5210
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/
 ---
 ## MarkdownSyntaxToken class
-
-Represent the Markdown Syntax Token.
 
 ```csharp
 public sealed class MarkdownSyntaxToken : MarkdownSyntaxNode
@@ -18,32 +16,32 @@ public sealed class MarkdownSyntaxToken : MarkdownSyntaxNode
 
 | Name | Description |
 | --- | --- |
-| [FirstChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/firstchild/) { get; } | Get the first child. |
-| [LastChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/lastchild/) { get; } | Get the last child. |
-| [NextSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/nextsibling/) { get; } | Get ghe next sibling. |
-| [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
-| [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
-| [Source](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/source/) { get; } | Get the source text. |
-| [Span](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/span/) { get; } | Get the span. |
-| [Text](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/text/) { get; } | Get the text content of span. |
+| [FirstChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/firstchild/) { get; } |  |
+| [LastChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/lastchild/) { get; } |  |
+| [NextSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/nextsibling/) { get; } |  |
+| [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } |  |
+| [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } |  |
+| [Source](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/source/) { get; } |  |
+| [Span](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/span/) { get; } |  |
+| [Text](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/text/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [Accept](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/accept/)(MarkdownSyntaxVisitor) | Accept the visitor. |
-| [AppendChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/appendchild/)(MarkdownSyntaxNode) | Append child node. |
-| [ChildNodes](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/childnodes/)() | Get the child nodes collection. |
-| [GetFullText](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/getfulltext/)() | Defines the interface for get the full text. |
-| [GetLeadingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getleadingtrivia/)() | Get the leading trivia. |
-| [GetSyntaxTree](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getsyntaxtree/)() | Get the syntax tree. |
-| [GetTrailingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/gettrailingtrivia/)() | Get the Trailing trivia. |
-| [InsertBefore](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/)(MarkdownSyntaxNode, MarkdownSyntaxNode) | Insert before node. |
-| [RemoveChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/removechild/)(MarkdownSyntaxNode) | Remove the child. |
-| [ReplaceChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/replacechild/)(MarkdownSyntaxNode, MarkdownSyntaxNode) | Replace the child node. |
-| override [ToString](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/tostring/)() | Override ToString method. |
-| virtual [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(MarkdownTextWriter) | Write to MarkdownTextWriter. |
-| [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(TextWriter) | Write nodes to text writer. |
+| virtual [Accept](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/accept/)(MarkdownSyntaxVisitor) |  |
+| [AppendChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/appendchild/)(MarkdownSyntaxNode) |  |
+| [ChildNodes](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/childnodes/)() |  |
+| [GetFullText](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/getfulltext/)() |  |
+| [GetLeadingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getleadingtrivia/)() |  |
+| [GetSyntaxTree](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getsyntaxtree/)() |  |
+| [GetTrailingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/gettrailingtrivia/)() |  |
+| [InsertBefore](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/)(MarkdownSyntaxNode, MarkdownSyntaxNode) |  |
+| [RemoveChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/removechild/)(MarkdownSyntaxNode) |  |
+| [ReplaceChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/replacechild/)(MarkdownSyntaxNode, MarkdownSyntaxNode) |  |
+| override [ToString](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/tostring/)() |  |
+| virtual [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(MarkdownTextWriter) |  |
+| [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(TextWriter) |  |
 
 ### See Also
 

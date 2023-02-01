@@ -1,14 +1,12 @@
 ---
 title: ContentDispositionHeaderValue
 second_title: Aspose.HTML for .NET API Reference
-description: Represent Content-Disposition header value.
+description: 
 type: docs
 weight: 3890
 url: /net/aspose.html.net.headers/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue class
-
-Represent Content-Disposition header value.
 
 ```csharp
 public class ContentDispositionHeaderValue
@@ -18,23 +16,23 @@ public class ContentDispositionHeaderValue
 
 | Name | Description |
 | --- | --- |
-| [ContentDispositionHeaderValue](contentdispositionheadervalue)(string) | Create a new instance of this disposition type. |
+| [ContentDispositionHeaderValue](contentdispositionheadervalue)(string) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [DispositionType](../../aspose.html.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } | Get or set disposition type |
-| [FileName](../../aspose.html.net.headers/contentdispositionheadervalue/filename/) { get; set; } | The name of the stored file. |
-| [Name](../../aspose.html.net.headers/contentdispositionheadervalue/name/) { get; set; } | The name for a content body part. |
-| [Parameters](../../aspose.html.net.headers/contentdispositionheadervalue/parameters/) { get; } | Get collection of paremeters |
+| [DispositionType](../../aspose.html.net.headers/contentdispositionheadervalue/dispositiontype/) { get; set; } |  |
+| [FileName](../../aspose.html.net.headers/contentdispositionheadervalue/filename/) { get; set; } |  |
+| [Name](../../aspose.html.net.headers/contentdispositionheadervalue/name/) { get; set; } |  |
+| [Parameters](../../aspose.html.net.headers/contentdispositionheadervalue/parameters/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.html.net.headers/contentdispositionheadervalue/equals/)(object) | Determines whether the specified Object is equal to this instance. |
-| override [ToString](../../aspose.html.net.headers/contentdispositionheadervalue/tostring/)() | Returns a String that represents this instance. |
+| override [Equals](../../aspose.html.net.headers/contentdispositionheadervalue/equals/)(object) |  |
+| override [ToString](../../aspose.html.net.headers/contentdispositionheadervalue/tostring/)() |  |
 
 ### See Also
 

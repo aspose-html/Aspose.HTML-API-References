@@ -1,14 +1,12 @@
 ---
 title: ProtocolMessageFilter
 second_title: Aspose.HTML for .NET API Reference
-description: Represents implementation of message filter by the resource protocol.
+description: 
 type: docs
 weight: 3960
 url: /net/aspose.html.net.messagefilters/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter class
-
-Represents implementation of message filter by the resource protocol.
 
 ```csharp
 public class ProtocolMessageFilter : MessageFilter
@@ -18,13 +16,13 @@ public class ProtocolMessageFilter : MessageFilter
 
 | Name | Description |
 | --- | --- |
-| [ProtocolMessageFilter](protocolmessagefilter)(params string[]) | Initializes a new instance of the [`ProtocolMessageFilter`](./protocolmessagefilter/) class. |
+| [ProtocolMessageFilter](protocolmessagefilter)(params string[]) |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Match](../../aspose.html.net.messagefilters/protocolmessagefilter/match/)(INetworkOperationContext) | When overridden in a derived class, tests whether a Context satisfies the filter criteria. |
+| override [Match](../../aspose.html.net.messagefilters/protocolmessagefilter/match/)(INetworkOperationContext) |  |
 
 ### See Also
 

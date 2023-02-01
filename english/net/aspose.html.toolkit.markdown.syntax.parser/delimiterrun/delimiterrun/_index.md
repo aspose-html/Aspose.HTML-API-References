@@ -1,24 +1,16 @@
 ---
 title: DelimiterRun
 second_title: Aspose.HTML for .NET API Reference
-description: Create the DelimiterRun
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.parser/delimiterrun/delimiterrun/
 ---
 ## DelimiterRun constructor
 
-Create the DelimiterRun
-
 ```csharp
 public DelimiterRun(SourceText source, TextSpan span, DelimiterState state)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | SourceText | The SourceText. |
-| span | TextSpan | The TextSpan. |
-| state | DelimiterState | The DelimiterState. |
 
 ### See Also
 

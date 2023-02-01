@@ -1,14 +1,12 @@
 ---
 title: Name
 second_title: Aspose.HTML for .NET API Reference
-description: Anchor name. See the name attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html/htmlanchorelement/name/
 ---
 ## HTMLAnchorElement.Name property
-
-Anchor name. See the name attribute definition in HTML 4.01.
 
 ```csharp
 public string Name { get; set; }

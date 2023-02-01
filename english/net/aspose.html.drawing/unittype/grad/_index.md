@@ -1,14 +1,12 @@
 ---
 title: Grad
 second_title: Aspose.HTML for .NET API Reference
-description: Measurement is in gradians.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.html.drawing/unittype/grad/
 ---
 ## UnitType.Grad field
-
-Measurement is in gradians.
 
 ```csharp
 public static readonly UnitType Grad;

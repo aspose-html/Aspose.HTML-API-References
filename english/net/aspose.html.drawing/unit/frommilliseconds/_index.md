@@ -1,26 +1,16 @@
 ---
 title: FromMilliseconds
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a Timeaspose.html.drawing/time/ object that is represented in milliseconds.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.html.drawing/unit/frommilliseconds/
 ---
 ## Unit.FromMilliseconds method
 
-Returns a [`Time`](../../time/) object that is represented in milliseconds.
-
 ```csharp
 public static Time FromMilliseconds(double value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | Double | The value. |
-
-### Return Value
-
-Returns a [`Time`](../../time/) object.
 
 ### See Also
 

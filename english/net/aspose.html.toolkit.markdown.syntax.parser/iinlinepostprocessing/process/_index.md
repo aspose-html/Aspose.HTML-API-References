@@ -1,26 +1,16 @@
 ---
 title: Process
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the Process method.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessing/process/
 ---
 ## IInlinePostProcessing.Process method
 
-Defines the Process method.
-
 ```csharp
 public InlineParsingInstruction Process(IInlinePostProcessingContext context)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| context | IInlinePostProcessingContext | The context. |
-
-### Return Value
-
-The InlineParsingInstruction.
 
 ### See Also
 

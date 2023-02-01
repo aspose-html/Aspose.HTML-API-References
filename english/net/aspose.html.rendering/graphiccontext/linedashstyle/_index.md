@@ -1,14 +1,12 @@
 ---
 title: LineDashStyle
 second_title: Aspose.HTML for .NET API Reference
-description: Sets of gets the style of dashed lines of a stroked path.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.html.rendering/graphiccontext/linedashstyle/
 ---
 ## GraphicContext.LineDashStyle property
-
-Sets of gets the style of dashed lines of a stroked path.
 
 ```csharp
 public virtual DashStyle LineDashStyle { get; set; }

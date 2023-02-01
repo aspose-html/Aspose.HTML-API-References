@@ -1,14 +1,12 @@
 ---
 title: Rows
 second_title: Aspose.HTML for .NET API Reference
-description: The collection of rows in this table section.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html/htmltablesectionelement/rows/
 ---
 ## HTMLTableSectionElement.Rows property
-
-The collection of rows in this table section.
 
 ```csharp
 public HTMLCollection Rows { get; }

@@ -1,14 +1,12 @@
 ---
 title: Type
 second_title: Aspose.HTML for .NET API Reference
-description: The type of this form control.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.forms/textareaelement/type/
 ---
 ## TextAreaElement.Type property
-
-The type of this form control.
 
 ```csharp
 public string Type { get; }

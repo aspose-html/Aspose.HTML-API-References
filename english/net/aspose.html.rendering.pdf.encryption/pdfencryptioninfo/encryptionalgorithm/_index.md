@@ -1,22 +1,16 @@
 ---
 title: EncryptionAlgorithm
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets the encryption mode.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/
 ---
 ## PdfEncryptionInfo.EncryptionAlgorithm property
 
-Gets or sets the encryption mode.
-
 ```csharp
 public PdfEncryptionAlgorithm EncryptionAlgorithm { get; set; }
 ```
-
-### Property Value
-
-The encryption algorithm.
 
 ### See Also
 

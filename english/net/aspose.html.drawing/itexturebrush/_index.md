@@ -1,14 +1,12 @@
 ---
 title: ITextureBrush
 second_title: Aspose.HTML for .NET API Reference
-description: Defines brush interface that uses an image to fill the interior of a shape.
+description: 
 type: docs
 weight: 2740
 url: /net/aspose.html.drawing/itexturebrush/
 ---
 ## ITextureBrush interface
-
-Defines brush interface that uses an image to fill the interior of a shape.
 
 ```csharp
 public interface ITextureBrush : ITransformableBrush
@@ -18,10 +16,10 @@ public interface ITextureBrush : ITransformableBrush
 
 | Name | Description |
 | --- | --- |
-| [ColorMap](../../aspose.html.drawing/itexturebrush/colormap/) { get; } | The number of elements must be even. Every even element is old color. Every odd element is new color. |
-| [Image](../../aspose.html.drawing/itexturebrush/image/) { get; } | Gets or sets the image used by the brush. |
-| [ImageArea](../../aspose.html.drawing/itexturebrush/imagearea/) { get; } | Specifies the portion of the image used by the brush. If it equals RectangleF.Empty then the whole image will be used. Coordinates are in pixels. |
-| [Opacity](../../aspose.html.drawing/itexturebrush/opacity/) { get; } | Get opacity value in a color transform matrix. |
+| [ColorMap](../../aspose.html.drawing/itexturebrush/colormap/) { get; } |  |
+| [Image](../../aspose.html.drawing/itexturebrush/image/) { get; } |  |
+| [ImageArea](../../aspose.html.drawing/itexturebrush/imagearea/) { get; } |  |
+| [Opacity](../../aspose.html.drawing/itexturebrush/opacity/) { get; } |  |
 
 ### See Also
 

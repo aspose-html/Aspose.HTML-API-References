@@ -1,14 +1,12 @@
 ---
 title: OnInvalid
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnInvalid event.
+description: 
 type: docs
 weight: 430
 url: /net/aspose.html.dom/document/oninvalid/
 ---
 ## Document.OnInvalid event
-
-Gets or sets event handler for OnInvalid event.
 
 ```csharp
 public event DOMEventHandler OnInvalid;

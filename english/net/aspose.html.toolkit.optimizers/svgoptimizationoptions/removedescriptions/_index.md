@@ -1,14 +1,12 @@
 ---
 title: RemoveDescriptions
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets the option to remove only editors content or empty elements. It is true by default.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.optimizers/svgoptimizationoptions/removedescriptions/
 ---
 ## SVGOptimizationOptions.RemoveDescriptions property
-
-Gets or sets the option to remove only editors content or empty elements. It is 'true' by default.
 
 ```csharp
 public bool RemoveDescriptions { get; set; }

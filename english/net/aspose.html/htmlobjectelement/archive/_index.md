@@ -1,14 +1,12 @@
 ---
 title: Archive
 second_title: Aspose.HTML for .NET API Reference
-description: Space-separated list of archives. See the archive attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html/htmlobjectelement/archive/
 ---
 ## HTMLObjectElement.Archive property
-
-Space-separated list of archives. See the archive attribute definition in HTML 4.01.
 
 ```csharp
 public string Archive { get; set; }

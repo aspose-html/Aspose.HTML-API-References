@@ -1,22 +1,16 @@
 ---
 title: UnitType
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the unit type of the Unitaspose.html.drawing/unit/.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/unit/unittype/
 ---
 ## Unit.UnitType property
 
-Gets the unit type of the [`Unit`](../).
-
 ```csharp
 public UnitType UnitType { get; }
 ```
-
-### Property Value
-
-The type of the unit.
 
 ### See Also
 

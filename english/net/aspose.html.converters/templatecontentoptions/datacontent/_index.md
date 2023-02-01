@@ -1,14 +1,12 @@
 ---
 title: DataContent
 second_title: Aspose.HTML for .NET API Reference
-description: Data content property.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.converters/templatecontentoptions/datacontent/
 ---
 ## TemplateContentOptions.DataContent property
-
-Data content property.
 
 ```csharp
 public string DataContent { get; }

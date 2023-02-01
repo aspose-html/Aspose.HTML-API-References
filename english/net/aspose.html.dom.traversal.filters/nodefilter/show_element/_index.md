@@ -1,14 +1,12 @@
 ---
 title: SHOW_ELEMENT
 second_title: Aspose.HTML for .NET API Reference
-description: Show Element nodes.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.html.dom.traversal.filters/nodefilter/show_element/
 ---
 ## NodeFilter.SHOW_ELEMENT field
-
-Show Element nodes.
 
 ```csharp
 public const long SHOW_ELEMENT;

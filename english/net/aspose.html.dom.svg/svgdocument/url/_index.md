@@ -1,22 +1,16 @@
 ---
 title: URL
 second_title: Aspose.HTML for .NET API Reference
-description: The complete URI of the document.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg/svgdocument/url/
 ---
 ## SVGDocument.URL property
 
-The complete URI of the document.
-
 ```csharp
 public string URL { get; }
 ```
-
-### Property Value
-
-The URL.
 
 ### See Also
 

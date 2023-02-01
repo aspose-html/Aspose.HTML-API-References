@@ -1,22 +1,16 @@
 ---
 title: TableCell
 second_title: Aspose.HTML for .NET API Reference
-description: Creates objects using TableCellSyntax.CreateInstance.
+description: 
 type: docs
 weight: 380
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tablecell/
 ---
 ## MarkdownSyntaxFactory.TableCell method
 
-Creates objects using TableCellSyntax.CreateInstance.
-
 ```csharp
 public TableCellSyntaxNode TableCell()
 ```
-
-### Return Value
-
-The TableCellSyntax.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: PreviousScale
 second_title: Aspose.HTML for .NET API Reference
-description: The scale factor from previous zoom operations that was in place before the zoom operation occurred.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.events/svgzoomevent/previousscale/
 ---
 ## SVGZoomEvent.PreviousScale property
-
-The scale factor from previous zoom operations that was in place before the zoom operation occurred.
 
 ```csharp
 public float PreviousScale { get; }

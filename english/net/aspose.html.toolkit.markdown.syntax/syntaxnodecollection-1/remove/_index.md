@@ -1,26 +1,16 @@
 ---
 title: Remove
 second_title: Aspose.HTML for .NET API Reference
-description: Removes the item from the collection.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/remove/
 ---
 ## SyntaxNodeCollection&lt;T&gt;.Remove method
 
-Removes the item from the collection.
-
 ```csharp
 public bool Remove(T item)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | T | The item to remove. |
-
-### Return Value
-
-True if the item was found and removed; otherwise, false.
 
 ### See Also
 

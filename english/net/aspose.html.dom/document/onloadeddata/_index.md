@@ -1,14 +1,12 @@
 ---
 title: OnLoadedData
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnLoadedData event.
+description: 
 type: docs
 weight: 480
 url: /net/aspose.html.dom/document/onloadeddata/
 ---
 ## Document.OnLoadedData event
-
-Gets or sets event handler for OnLoadedData event.
 
 ```csharp
 public event DOMEventHandler OnLoadedData;

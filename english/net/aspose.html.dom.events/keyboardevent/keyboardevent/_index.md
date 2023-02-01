@@ -1,22 +1,16 @@
 ---
 title: KeyboardEvent
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the KeyboardEventaspose.html.dom.events/keyboardevent/ class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.dom.events/keyboardevent/keyboardevent/
 ---
 ## KeyboardEvent(string) {#constructor}
 
-Initializes a new instance of the [`KeyboardEvent`](../) class.
-
 ```csharp
 public KeyboardEvent(string type)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| type | String | The event type. |
 
 ### See Also
 

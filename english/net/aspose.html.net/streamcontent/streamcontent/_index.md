@@ -1,22 +1,16 @@
 ---
 title: StreamContent
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the StreamContentaspose.html.net/streamcontent/ class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.net/streamcontent/streamcontent/
 ---
 ## StreamContent constructor
 
-Initializes a new instance of the [`StreamContent`](../) class.
-
 ```csharp
 public StreamContent(Stream content)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| content | Stream | The content. |
 
 ### See Also
 

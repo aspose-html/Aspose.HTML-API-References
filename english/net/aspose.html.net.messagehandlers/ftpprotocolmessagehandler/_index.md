@@ -1,14 +1,12 @@
 ---
 title: FtpProtocolMessageHandler
 second_title: Aspose.HTML for .NET API Reference
-description: Represents the ftp protocol message handler.
+description: 
 type: docs
 weight: 4000
 url: /net/aspose.html.net.messagehandlers/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler class
-
-Represents the `ftp:` protocol message handler.
 
 ```csharp
 public class FtpProtocolMessageHandler : MessageHandler
@@ -18,19 +16,19 @@ public class FtpProtocolMessageHandler : MessageHandler
 
 | Name | Description |
 | --- | --- |
-| [FtpProtocolMessageHandler](ftpprotocolmessagehandler)() | Initializes a new instance of the [`FtpProtocolMessageHandler`](./ftpprotocolmessagehandler/) class. |
+| [FtpProtocolMessageHandler](ftpprotocolmessagehandler)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Filters](../../aspose.html.net/messagehandler/filters/) { get; } | Gets the filters list that are corresponding to the specified handler type. |
+| [Filters](../../aspose.html.net/messagehandler/filters/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Invoke](../../aspose.html.net.messagehandlers/ftpprotocolmessagehandler/invoke/)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
+| override [Invoke](../../aspose.html.net.messagehandlers/ftpprotocolmessagehandler/invoke/)(INetworkOperationContext) |  |
 
 ### See Also
 

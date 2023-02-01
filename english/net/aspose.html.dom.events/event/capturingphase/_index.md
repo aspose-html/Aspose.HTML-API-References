@@ -1,14 +1,12 @@
 ---
 title: CapturingPhase
 second_title: Aspose.HTML for .NET API Reference
-description: The event is currently being evaluated at the target IEventTargetaspose.html.dom.events/ieventtarget/.
+description: 
 type: docs
 weight: 170
 url: /net/aspose.html.dom.events/event/capturingphase/
 ---
 ## Event.CapturingPhase field
-
-The event is currently being evaluated at the target [`IEventTarget`](../../ieventtarget/).
 
 ```csharp
 public const ushort CapturingPhase;

@@ -1,22 +1,16 @@
 ---
 title: OrderedList
 second_title: Aspose.HTML for .NET API Reference
-description: Creates objects using OrderedListSyntax.CreateInstance.
+description: 
 type: docs
 weight: 300
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/orderedlist/
 ---
 ## MarkdownSyntaxFactory.OrderedList method
 
-Creates objects using OrderedListSyntax.CreateInstance.
-
 ```csharp
 public OrderedListSyntaxNode OrderedList()
 ```
-
-### Return Value
-
-The OrderedListSyntax.
 
 ### See Also
 

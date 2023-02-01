@@ -1,26 +1,16 @@
 ---
 title: Item
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets the value at the given index.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/item/
 ---
 ## SyntaxNodeCollection&lt;T&gt; indexer
 
-Gets or sets the value at the given index.
-
 ```csharp
 public T this[int index] { get; set; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| index | The index of the value to get. |
-
-### Return Value
-
-The value at the given index.
 
 ### See Also
 

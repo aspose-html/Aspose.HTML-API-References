@@ -1,14 +1,12 @@
 ---
 title: Graphics
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the instance of Graphics.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.rendering.image/imagedevice/graphics/
 ---
 ## ImageDevice.Graphics property
-
-Gets the instance of Graphics.
 
 ```csharp
 public virtual Graphics Graphics { get; }

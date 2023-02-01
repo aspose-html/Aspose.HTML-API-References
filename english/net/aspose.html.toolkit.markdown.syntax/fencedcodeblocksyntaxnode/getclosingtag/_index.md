@@ -1,22 +1,16 @@
 ---
 title: GetClosingTag
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for get Closing Tag.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode/getclosingtag/
 ---
 ## FencedCodeBlockSyntaxNode.GetClosingTag method
 
-Defines the interface for get Closing Tag.
-
 ```csharp
 public MarkdownSyntaxToken GetClosingTag()
 ```
-
-### Return Value
-
-The MarkdownSyntaxToken.
 
 ### See Also
 

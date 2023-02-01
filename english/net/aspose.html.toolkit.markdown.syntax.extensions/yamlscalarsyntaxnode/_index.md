@@ -1,14 +1,12 @@
 ---
 title: YamlScalarSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the YamlScalarSyntaxNode
+description: 
 type: docs
 weight: 4970
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/
 ---
 ## YamlScalarSyntaxNode class
-
-Defines the YamlScalarSyntaxNode
 
 ```csharp
 public sealed class YamlScalarSyntaxNode : ChildFrontMatterSyntaxNode
@@ -18,15 +16,15 @@ public sealed class YamlScalarSyntaxNode : ChildFrontMatterSyntaxNode
 
 | Name | Description |
 | --- | --- |
-| [YamlScalarSyntaxNode](yamlscalarsyntaxnode)(HugoFrontMatterSyntaxNode, ​​ ) |  |
+| [YamlScalarSyntaxNode](yamlscalarsyntaxnode)(HugoFrontMatterSyntaxNode,  ​ ) |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [GetEnumerator](../../aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/getenumerator/)() | Defines the interface for get IEnumerator |
-| [GetValue](../../aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/getvalue/)() | Defines the interface for get value. |
-| [SetValue](../../aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/setvalue/)(string) | Defines the interface for set value. |
+| override [GetEnumerator](../../aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/getenumerator/)() |  |
+| [GetValue](../../aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/getvalue/)() |  |
+| [SetValue](../../aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/setvalue/)(string) |  |
 
 ### See Also
 

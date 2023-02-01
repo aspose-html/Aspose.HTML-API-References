@@ -1,14 +1,12 @@
 ---
 title: Save
 second_title: Aspose.HTML for .NET API Reference
-description: Saves the current drawing style state using a stack so you can revert any change you make to it using restore.
+description: 
 type: docs
 weight: 340
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/save/
 ---
 ## ICanvasRenderingContext2D.Save method
-
-Saves the current drawing style state using a stack so you can revert any change you make to it using restore().
 
 ```csharp
 public void Save()

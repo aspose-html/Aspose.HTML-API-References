@@ -1,14 +1,12 @@
 ---
 title: SVGZoomAndPan
 second_title: Aspose.HTML for .NET API Reference
-description: The SVGZoomAndPan enumeration defines attribute zoomAndPan and associated constants.
+description: 
 type: docs
 weight: 2420
 url: /net/aspose.html.dom.svg/svgzoomandpan/
 ---
 ## SVGZoomAndPan enumeration
-
-The SVGZoomAndPan enumeration defines attribute zoomAndPan and associated constants.
 
 ```csharp
 public enum SVGZoomAndPan : ushort
@@ -18,9 +16,9 @@ public enum SVGZoomAndPan : ushort
 
 | Name | Value | Description |
 | --- | --- | --- |
-| SVG_ZOOMANDPAN_UNKNOWN | `0` | The enumeration was set to a value that is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type. |
-| SVG_ZOOMANDPAN_DISABLE | `1` | Corresponds to value 'disable'. |
-| SVG_ZOOMANDPAN_MAGNIFY | `2` | Corresponds to value 'magnify'. |
+| SVG_ZOOMANDPAN_UNKNOWN | `0` |  |
+| SVG_ZOOMANDPAN_DISABLE | `1` |  |
+| SVG_ZOOMANDPAN_MAGNIFY | `2` |  |
 
 ### See Also
 

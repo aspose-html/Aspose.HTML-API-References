@@ -1,22 +1,16 @@
 ---
 title: X
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute x on the given filter element.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/x/
 ---
 ## ISVGFilterPrimitiveStandardAttributes.X property
 
-Corresponds to attribute ‘x’ on the given ‘filter’ element.
-
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
-
-### Property Value
-
-The attribute ‘x’ of the given ‘filter’ element.
 
 ### See Also
 

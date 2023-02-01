@@ -1,14 +1,12 @@
 ---
 title: OnKeyPress
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnKeyPress event.
+description: 
 type: docs
 weight: 240
 url: /net/aspose.html/htmlelement/onkeypress/
 ---
 ## HTMLElement.OnKeyPress event
-
-Gets or sets event handler for OnKeyPress event.
 
 ```csharp
 public event DOMEventHandler OnKeyPress;

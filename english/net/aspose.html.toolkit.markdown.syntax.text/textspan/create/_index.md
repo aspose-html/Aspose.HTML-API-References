@@ -1,27 +1,16 @@
 ---
 title: Create
 second_title: Aspose.HTML for .NET API Reference
-description: Create the TextSpan
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.text/textspan/create/
 ---
 ## TextSpan.Create method
 
-Create the TextSpan
-
 ```csharp
 public static TextSpan Create(int start, int length)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| start | Int32 | The start position. |
-| length | Int32 | The length. |
-
-### Return Value
-
-The TextSpan.
 
 ### See Also
 

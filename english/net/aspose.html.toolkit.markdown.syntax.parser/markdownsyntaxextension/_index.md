@@ -1,14 +1,12 @@
 ---
 title: MarkdownSyntaxExtension
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the base class for MarkdownSyntaxExtension
+description: 
 type: docs
 weight: 5490
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownsyntaxextension/
 ---
 ## MarkdownSyntaxExtension class
-
-Defines the base class for MarkdownSyntaxExtension
 
 ```csharp
 public abstract class MarkdownSyntaxExtension
@@ -18,7 +16,7 @@ public abstract class MarkdownSyntaxExtension
 
 | Name | Description |
 | --- | --- |
-| abstract [Setup](../../aspose.html.toolkit.markdown.syntax.parser/markdownsyntaxextension/setup/)(IMarkdownParserBuilder) | Defines the interface for Setup |
+| abstract [Setup](../../aspose.html.toolkit.markdown.syntax.parser/markdownsyntaxextension/setup/)(IMarkdownParserBuilder) |  |
 
 ### See Also
 

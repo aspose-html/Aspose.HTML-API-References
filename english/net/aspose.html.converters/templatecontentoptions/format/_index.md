@@ -1,14 +1,12 @@
 ---
 title: Format
 second_title: Aspose.HTML for .NET API Reference
-description: String representation of ContentTypeaspose.html.converters/templatecontentoptions/contenttype/ property.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.converters/templatecontentoptions/format/
 ---
 ## TemplateContentOptions.Format property
-
-String representation of [`ContentType`](../contenttype/) property.
 
 ```csharp
 public string Format { get; }

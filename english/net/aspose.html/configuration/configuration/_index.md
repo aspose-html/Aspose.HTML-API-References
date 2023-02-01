@@ -1,22 +1,18 @@
 ---
 title: Configuration
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the classaspose.html/configuration/.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.html/configuration/configuration/
 ---
 ## Configuration constructor
 
-Initializes a new instance of the [`class`](../).
+The default constructor.
 
 ```csharp
 public Configuration()
 ```
-
-### Remarks
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ### See Also
 

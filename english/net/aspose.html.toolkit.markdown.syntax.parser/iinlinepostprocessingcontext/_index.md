@@ -1,14 +1,12 @@
 ---
 title: IInlinePostProcessingContext
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface IInlinePostProcessingContext
+description: 
 type: docs
 weight: 5420
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/
 ---
 ## IInlinePostProcessingContext interface
-
-Defines the interface IInlinePostProcessingContext
 
 ```csharp
 public interface IInlinePostProcessingContext : IInlineParsingContext
@@ -18,16 +16,16 @@ public interface IInlinePostProcessingContext : IInlineParsingContext
 
 | Name | Description |
 | --- | --- |
-| [ClosedDelimiter](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/closeddelimiter/) { get; set; } | Get and set the ClosedDelimiter. |
-| [Content](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/content/) { get; } | Get the Content. |
-| [Delimiters](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/delimiters/) { get; } | Get the Delimiters. |
-| [OpenedDelimiter](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/openeddelimiter/) { get; set; } | Get and set the OpenedDelimiter/ |
+| [ClosedDelimiter](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/closeddelimiter/) { get; set; } |  |
+| [Content](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/content/) { get; } |  |
+| [Delimiters](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/delimiters/) { get; } |  |
+| [OpenedDelimiter](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/openeddelimiter/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [ContainsLinkReferenceDefinition](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/containslinkreferencedefinition/)(string) | Defines the ContainsLinkReferenceDefinition |
+| [ContainsLinkReferenceDefinition](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/containslinkreferencedefinition/)(string) |  |
 
 ### See Also
 

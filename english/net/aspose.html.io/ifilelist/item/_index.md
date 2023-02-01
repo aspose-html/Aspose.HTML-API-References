@@ -1,26 +1,16 @@
 ---
 title: Item
 second_title: Aspose.HTML for .NET API Reference
-description: Returns the indexth file in the list.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.io/ifilelist/item/
 ---
 ## IFileList indexer
 
-Returns the indexth file in the list.
-
 ```csharp
 public IFile this[int index] { get; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| index | The index of file. |
-
-### Return Value
-
-The file.
 
 ### See Also
 

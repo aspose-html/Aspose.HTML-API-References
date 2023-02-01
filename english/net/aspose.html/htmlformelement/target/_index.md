@@ -1,14 +1,12 @@
 ---
 title: Target
 second_title: Aspose.HTML for .NET API Reference
-description: Frame to render the resource in. See the target attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.html/htmlformelement/target/
 ---
 ## HTMLFormElement.Target property
-
-Frame to render the resource in. See the target attribute definition in HTML 4.01.
 
 ```csharp
 public string Target { get; set; }

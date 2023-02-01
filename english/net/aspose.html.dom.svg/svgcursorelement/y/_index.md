@@ -1,22 +1,16 @@
 ---
 title: Y
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute y on the given cursor element.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg/svgcursorelement/y/
 ---
 ## SVGCursorElement.Y property
 
-Corresponds to attribute ‘y’ on the given ‘cursor’ element.
-
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
-
-### Property Value
-
-The attribute ‘y’ of the given ‘cursor’ element.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Cm
 second_title: Aspose.HTML for .NET API Reference
-description: Measurement is in centimeters
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.drawing/unittype/cm/
 ---
 ## UnitType.Cm field
-
-Measurement is in centimeters
 
 ```csharp
 public static readonly UnitType Cm;

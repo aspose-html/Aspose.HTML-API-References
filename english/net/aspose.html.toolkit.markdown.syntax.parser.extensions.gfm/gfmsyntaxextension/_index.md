@@ -1,14 +1,12 @@
 ---
 title: GfmSyntaxExtension
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the GfmSyntaxExtension
+description: 
 type: docs
 weight: 5360
 url: /net/aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/gfmsyntaxextension/
 ---
 ## GfmSyntaxExtension class
-
-Defines the GfmSyntaxExtension
 
 ```csharp
 public class GfmSyntaxExtension : MarkdownSyntaxExtension
@@ -24,7 +22,7 @@ public class GfmSyntaxExtension : MarkdownSyntaxExtension
 
 | Name | Description |
 | --- | --- |
-| override [Setup](../../aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/gfmsyntaxextension/setup/)(IMarkdownParserBuilder) | Override the Setup |
+| override [Setup](../../aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/gfmsyntaxextension/setup/)(IMarkdownParserBuilder) |  |
 
 ### See Also
 

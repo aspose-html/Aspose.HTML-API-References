@@ -1,14 +1,12 @@
 ---
 title: IXPathNamespace
 second_title: Aspose.HTML for .NET API Reference
-description: The XPathNamespace interface is returned by XPathResult interfaces to represent the XPath namespace node type that DOM lacks.
+description: 
 type: docs
 weight: 2590
 url: /net/aspose.html.dom.xpath/ixpathnamespace/
 ---
 ## IXPathNamespace interface
-
-The XPathNamespace interface is returned by XPathResult interfaces to represent the XPath namespace node type that DOM lacks.
 
 ```csharp
 public interface IXPathNamespace
@@ -18,7 +16,7 @@ public interface IXPathNamespace
 
 | Name | Description |
 | --- | --- |
-| [OwnerElement](../../aspose.html.dom.xpath/ixpathnamespace/ownerelement/) { get; } | The [`Element`](../../aspose.html.dom/element/) on which the namespace was in scope when it was requested. This does not change on a returned namespace node even if the document changes such that the namespace goes out of scope on that element and this node is no longer found there by XPath. |
+| [OwnerElement](../../aspose.html.dom.xpath/ixpathnamespace/ownerelement/) { get; } |  |
 
 ### See Also
 

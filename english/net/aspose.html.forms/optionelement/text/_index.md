@@ -1,14 +1,12 @@
 ---
 title: Text
 second_title: Aspose.HTML for .NET API Reference
-description: This attribute represents the text content of this node and its descendants.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.forms/optionelement/text/
 ---
 ## OptionElement.Text property
-
-This attribute represents the text content of this node and its descendants.
 
 ```csharp
 public string Text { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: ResourceHandling
 second_title: Aspose.HTML for .NET API Reference
-description: This enum represents resource handling options.
+description: 
 type: docs
 weight: 4660
 url: /net/aspose.html.saving/resourcehandling/
 ---
 ## ResourceHandling enumeration
-
-This enum represents resource handling options.
 
 ```csharp
 public enum ResourceHandling
@@ -18,10 +16,10 @@ public enum ResourceHandling
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Save | `0` | Resource will be saved as file. |
-| Embed | `1` | Resource will be emdedded in to owner. |
-| Discard | `2` | Resource will be discarded. |
-| Ignore | `3` | Resource will not be saved. |
+| Save | `0` |  |
+| Embed | `1` |  |
+| Discard | `2` |  |
+| Ignore | `3` |  |
 
 ### See Also
 

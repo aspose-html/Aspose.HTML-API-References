@@ -1,26 +1,16 @@
 ---
 title: Convert
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a color components in the format of the specified color model.
+description: 
 type: docs
 weight: 290
 url: /net/aspose.html.drawing/color/convert/
 ---
 ## Color.Convert method
 
-Returns a color components in the format of the specified color model.
-
 ```csharp
 public IColorComponents Convert(ColorModel model)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| model | ColorModel | The color model. |
-
-### Return Value
-
-A new instance of the [`IColorComponents`](../../icolorcomponents/) interface
 
 ### See Also
 

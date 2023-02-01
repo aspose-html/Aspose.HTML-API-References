@@ -1,22 +1,16 @@
 ---
 title: GetTarget
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for get target.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/inlineproxy/gettarget/
 ---
 ## InlineProxy.GetTarget method
 
-Defines the interface for get target.
-
 ```csharp
 public MarkdownSyntaxNode GetTarget()
 ```
-
-### Return Value
-
-The MarkdownSyntaxNode.
 
 ### See Also
 

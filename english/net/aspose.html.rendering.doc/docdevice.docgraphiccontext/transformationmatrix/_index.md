@@ -1,14 +1,12 @@
 ---
 title: TransformationMatrix
 second_title: Aspose.HTML for .NET API Reference
-description: Sets or gets transformation matrix.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.rendering.doc/docdevice.docgraphiccontext/transformationmatrix/
 ---
 ## DocDevice.DocGraphicContext.TransformationMatrix property
-
-Sets or gets transformation matrix.
 
 ```csharp
 public override Matrix TransformationMatrix { get; set; }

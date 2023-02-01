@@ -1,26 +1,16 @@
 ---
 title: Text
 second_title: Aspose.HTML for .NET API Reference
-description: Creates TextSyntax
+description: 
 type: docs
 weight: 430
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/text/
 ---
 ## Text(string) {#text_2}
 
-Creates TextSyntax
-
 ```csharp
 public TextSyntaxNode Text(string text)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | String | The string value. |
-
-### Return Value
-
-The TextSyntax.
 
 ### See Also
 
@@ -33,19 +23,9 @@ The TextSyntax.
 
 ## Text(SourceText) {#text}
 
-Create the TextSyntax from SourceText.
-
 ```csharp
 public TextSyntaxNode Text(SourceText source)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | SourceText | The SourceText. |
-
-### Return Value
-
-The TextSyntax.
 
 ### See Also
 
@@ -59,20 +39,9 @@ The TextSyntax.
 
 ## Text(SourceText, TextSpan) {#text_1}
 
-Create the TextSyntax from SourceText and TextSpan.
-
 ```csharp
 public TextSyntaxNode Text(SourceText source, TextSpan span)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | SourceText | The SourceText. |
-| span | TextSpan | The TextSpan. |
-
-### Return Value
-
-The TextSyntax.
 
 ### See Also
 

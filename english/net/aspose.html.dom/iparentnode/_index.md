@@ -1,14 +1,12 @@
 ---
 title: IParentNode
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the IParentNode./iparentnode/ interface that is implemented by any possible parents.
+description: 
 type: docs
 weight: 950
 url: /net/aspose.html.dom/iparentnode/
 ---
 ## IParentNode interface
-
-Defines the [`IParentNode`](./iparentnode/) interface that is implemented by any possible parents.
 
 ```csharp
 public interface IParentNode : IElementTraversal
@@ -18,17 +16,17 @@ public interface IParentNode : IElementTraversal
 
 | Name | Description |
 | --- | --- |
-| [ChildElementCount](../../aspose.html.dom/iparentnode/childelementcount/) { get; } | The childElementCount attribute must return the number of children of the context object that are elements. |
-| [Children](../../aspose.html.dom/iparentnode/children/) { get; } | Returns the child elements. |
-| [FirstElementChild](../../aspose.html.dom/iparentnode/firstelementchild/) { get; } | Returns the first child that is an element, and null otherwise. |
-| [LastElementChild](../../aspose.html.dom/iparentnode/lastelementchild/) { get; } | Returns the last child that is an element, and null otherwise. |
+| [ChildElementCount](../../aspose.html.dom/iparentnode/childelementcount/) { get; } |  |
+| [Children](../../aspose.html.dom/iparentnode/children/) { get; } |  |
+| [FirstElementChild](../../aspose.html.dom/iparentnode/firstelementchild/) { get; } |  |
+| [LastElementChild](../../aspose.html.dom/iparentnode/lastelementchild/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [QuerySelector](../../aspose.html.dom/iparentnode/queryselector/)(string) | Returns the first element that is a descendant of node that matches selectors. |
-| [QuerySelectorAll](../../aspose.html.dom/iparentnode/queryselectorall/)(string) | Returns all element descendants of node that match selectors. |
+| [QuerySelector](../../aspose.html.dom/iparentnode/queryselector/)(string) |  |
+| [QuerySelectorAll](../../aspose.html.dom/iparentnode/queryselectorall/)(string) |  |
 
 ### See Also
 

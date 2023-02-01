@@ -1,14 +1,12 @@
 ---
 title: TextAlign
 second_title: Aspose.HTML for .NET API Reference
-description: Text alignment setting. Possible values start default end left right or center.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.html.dom.canvas/icanvasdrawingstyles/textalign/
 ---
 ## ICanvasDrawingStyles.TextAlign property
-
-Text alignment setting. Possible values: start (default), end, left, right or center.
 
 ```csharp
 public string TextAlign { get; set; }

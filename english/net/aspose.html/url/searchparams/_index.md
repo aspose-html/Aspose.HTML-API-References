@@ -1,22 +1,16 @@
 ---
 title: SearchParams
 second_title: Aspose.HTML for .NET API Reference
-description: Gets an associated IUrlSearchParamsaspose.html/iurlsearchparams/ object.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.html/url/searchparams/
 ---
 ## Url.SearchParams property
 
-Gets an associated [`IUrlSearchParams`](../../iurlsearchparams/) object.
-
 ```csharp
 public IUrlSearchParams SearchParams { get; }
 ```
-
-### Property Value
-
-[`IUrlSearchParams`](../../iurlsearchparams/) object.
 
 ### See Also
 

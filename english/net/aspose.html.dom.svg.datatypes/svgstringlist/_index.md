@@ -1,14 +1,12 @@
 ---
 title: SVGStringList
 second_title: Aspose.HTML for .NET API Reference
-description: SVGStringList has the same attributes and methods as other SVGxxxList interfaces. Implementers may consider using a single base class to implement the various SVGxxxList interfaces.
+description: 
 type: docs
 weight: 1290
 url: /net/aspose.html.dom.svg.datatypes/svgstringlist/
 ---
 ## SVGStringList class
-
-SVGStringList has the same attributes and methods as other SVGxxxList interfaces. Implementers may consider using a single base class to implement the various SVGxxxList interfaces.
 
 ```csharp
 public class SVGStringList : SVGListBase<string>
@@ -18,8 +16,8 @@ public class SVGStringList : SVGListBase<string>
 
 | Name | Description |
 | --- | --- |
-| [SVGStringList](svgstringlist#constructor)() | Initializes a new instance of the [`SVGStringList`](./svgstringlist/) class. |
-| [SVGStringList](svgstringlist#constructor_1)(IEnumerable&lt;string&gt;) | Initializes a new instance of the [`SVGStringList`](./svgstringlist/) class. |
+| [SVGStringList](svgstringlist#constructor)() | The default constructor. |
+| [SVGStringList](svgstringlist#constructor_1)(IEnumerable&lt;string&gt;) |  |
 
 ## Properties
 
@@ -35,15 +33,15 @@ public class SVGStringList : SVGListBase<string>
 | --- | --- |
 | [AppendItem](../../aspose.html.dom.svg.collections/svglistbase`1/appenditem/)(string) |  |
 | [Clear](../../aspose.html.dom.svg.collections/svglistbase`1/clear/)() |  |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
 | [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase`1/getenumerator/)() |  |
 | [GetItem](../../aspose.html.dom.svg.collections/svglistbase`1/getitem/)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
 | [Initialize](../../aspose.html.dom.svg.collections/svglistbase`1/initialize/)(string) |  |
 | [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase`1/insertitembefore/)(string, ulong) |  |
 | [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase`1/removeitem/)(ulong) |  |
 | [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase`1/replaceitem/)(string, ulong) |  |
-| override [ToString](../../aspose.html.dom.svg.datatypes/svgstringlist/tostring/)() | Returns a String that represents this instance. |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svgstringlist/tostring/)() |  |
 
 ### See Also
 

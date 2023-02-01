@@ -1,32 +1,16 @@
 ---
 title: Equals
 second_title: Aspose.HTML for .NET API Reference
-description: Determines whether the specified Object is equal to this instance.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/cssvalue/equals/
 ---
 ## CSSValue.Equals method
 
-Determines whether the specified Object is equal to this instance.
-
 ```csharp
 public override bool Equals(object obj)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | Object | The Object to compare with this instance. |
-
-### Return Value
-
-`true` if the specified Object is equal to this instance; otherwise, `false`.
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| NullReferenceException | The *obj* parameter is null. |
 
 ### See Also
 

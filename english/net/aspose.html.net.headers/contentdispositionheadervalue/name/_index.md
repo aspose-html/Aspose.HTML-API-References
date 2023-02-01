@@ -1,22 +1,16 @@
 ---
 title: Name
 second_title: Aspose.HTML for .NET API Reference
-description: The name for a content body part.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.net.headers/contentdispositionheadervalue/name/
 ---
 ## ContentDispositionHeaderValue.Name property
 
-The name for a content body part.
-
 ```csharp
 public string Name { get; set; }
 ```
-
-### Property Value
-
-The name.
 
 ### See Also
 

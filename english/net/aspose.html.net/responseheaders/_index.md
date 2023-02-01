@@ -1,14 +1,12 @@
 ---
 title: ResponseHeaders
 second_title: Aspose.HTML for .NET API Reference
-description: Contains protocol headers associated with a response.
+description: 
 type: docs
 weight: 4060
 url: /net/aspose.html.net/responseheaders/
 ---
 ## ResponseHeaders class
-
-Contains protocol headers associated with a response.
 
 ```csharp
 public class ResponseHeaders : WebHeaderCollection
@@ -18,13 +16,13 @@ public class ResponseHeaders : WebHeaderCollection
 
 | Name | Description |
 | --- | --- |
-| [ResponseHeaders](responseheaders)() | Initializes a new instance of the [`RequestHeaders`](../requestheaders/) class. |
+| [ResponseHeaders](responseheaders)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ContentType](../../aspose.html.net/responseheaders/contenttype/) { get; } | Gets the Content-Type header value. |
+| [ContentType](../../aspose.html.net/responseheaders/contenttype/) { get; } |  |
 
 ### See Also
 

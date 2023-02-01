@@ -1,22 +1,16 @@
 ---
 title: GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: Returns an enumerator that iterates through the collection.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.forms/optioncollection/getenumerator/
 ---
 ## OptionCollection.GetEnumerator method
 
-Returns an enumerator that iterates through the collection.
-
 ```csharp
 public IEnumerator<OptionElement> GetEnumerator()
 ```
-
-### Return Value
-
-Returns the enumerator of option elements
 
 ### See Also
 

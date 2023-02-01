@@ -1,14 +1,12 @@
 ---
 title: Target
 second_title: Aspose.HTML for .NET API Reference
-description: The default target frame. See the target attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html/htmlbaseelement/target/
 ---
 ## HTMLBaseElement.Target property
-
-The default target frame. See the target attribute definition in HTML 4.01.
 
 ```csharp
 public string Target { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: GlobalCompositeOperation
 second_title: Aspose.HTML for .NET API Reference
-description: With globalAlpha applied this sets how shapes and images are drawn onto the existing bitmap. Default source-over
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/globalcompositeoperation/
 ---
 ## ICanvasRenderingContext2D.GlobalCompositeOperation property
-
-With globalAlpha applied this sets how shapes and images are drawn onto the existing bitmap. Default: (source-over)
 
 ```csharp
 public string GlobalCompositeOperation { get; set; }

@@ -1,36 +1,30 @@
 ---
 title: SVGAnimatedValueT
 second_title: Aspose.HTML for .NET API Reference
-description: Used for attributes of types which can be animated.
+description: 
 type: docs
 weight: 1190
 url: /net/aspose.html.dom.svg.datatypes/svganimatedvalue-1/
 ---
 ## SVGAnimatedValue&lt;T&gt; class
 
-Used for attributes of types which can be animated.
-
 ```csharp
 public abstract class SVGAnimatedValue<T> : SVGValueType
 ```
-
-| Parameter | Description |
-| --- | --- |
-| T | The SVG Value object. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| virtual [AnimVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue`1/animval/) { get; } | If the given attribute or property is being animated, contains the current animated value of the attribute or property. If the given attribute or property is not currently being animated, contains the same value as baseVal. |
-| [BaseVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue`1/baseval/) { get; set; } | The base value of the given attribute before applying any animations. |
+| virtual [AnimVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue`1/animval/) { get; } |  |
+| [BaseVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue`1/baseval/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
 
 ### See Also
 

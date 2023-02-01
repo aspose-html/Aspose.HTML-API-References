@@ -1,22 +1,16 @@
 ---
 title: Css
 second_title: Aspose.HTML for .NET API Reference
-description: Gets a CssOptionsaspose.html.rendering/cssoptions/ object which is used for configuration of css properties processing.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.rendering/renderingoptions/css/
 ---
 ## RenderingOptions.Css property
 
-Gets a [`CssOptions`](../../cssoptions/) object which is used for configuration of css properties processing.
-
 ```csharp
 public CssOptions Css { get; }
 ```
-
-### Property Value
-
-The [`CssOptions`](../../cssoptions/) object.
 
 ### See Also
 

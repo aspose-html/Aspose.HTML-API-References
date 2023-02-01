@@ -1,14 +1,12 @@
 ---
 title: RemoveMetadata
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets the option to remove metadata. It is true by default.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.html.toolkit.optimizers/svgoptimizationoptions/removemetadata/
 ---
 ## SVGOptimizationOptions.RemoveMetadata property
-
-Gets or sets the option to remove metadata. It is 'true' by default.
 
 ```csharp
 public bool RemoveMetadata { get; set; }

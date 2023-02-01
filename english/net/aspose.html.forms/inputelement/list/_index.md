@@ -1,14 +1,12 @@
 ---
 title: List
 second_title: Aspose.HTML for .NET API Reference
-description: Represents a list of options
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.forms/inputelement/list/
 ---
 ## InputElement.List property
-
-Represents a list of options
 
 ```csharp
 public DataListElement List { get; }

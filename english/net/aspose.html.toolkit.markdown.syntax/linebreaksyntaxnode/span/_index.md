@@ -1,14 +1,12 @@
 ---
 title: Span
 second_title: Aspose.HTML for .NET API Reference
-description: Get the span.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/span/
 ---
 ## LineBreakSyntaxNode.Span property
-
-Get the span.
 
 ```csharp
 public virtual TextSpan Span { get; }

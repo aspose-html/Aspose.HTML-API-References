@@ -1,14 +1,12 @@
 ---
 title: Lines
 second_title: Aspose.HTML for .NET API Reference
-description: Get the Lines collection.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetext/lines/
 ---
 ## SourceText.Lines property
-
-Get the Lines collection.
 
 ```csharp
 public TextLineCollection Lines { get; }

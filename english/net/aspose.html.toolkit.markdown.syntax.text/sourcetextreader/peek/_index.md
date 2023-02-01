@@ -1,22 +1,16 @@
 ---
 title: Peek
 second_title: Aspose.HTML for .NET API Reference
-description: Get the character on position or Character.Null
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/peek/
 ---
 ## Peek() {#peek}
 
-Get the character on position or Character.Null
-
 ```csharp
 public char Peek()
 ```
-
-### Return Value
-
-the character on position or Character.Null
 
 ### See Also
 
@@ -28,19 +22,9 @@ the character on position or Character.Null
 
 ## Peek(int) {#peek_1}
 
-Get the char.
-
 ```csharp
 public char Peek(int delta)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| delta | Int32 | The delta. |
-
-### Return Value
-
-The char at the positon + delta or Character.Null
 
 ### See Also
 

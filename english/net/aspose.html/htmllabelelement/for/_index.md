@@ -1,14 +1,12 @@
 ---
 title: For
 second_title: Aspose.HTML for .NET API Reference
-description: This attribute links this label with another form control by id attribute. See the for attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html/htmllabelelement/for/
 ---
 ## HTMLLabelElement.For property
-
-This attribute links this label with another form control by `id` attribute. See the for attribute definition in HTML 4.01.
 
 ```csharp
 public string For { get; set; }

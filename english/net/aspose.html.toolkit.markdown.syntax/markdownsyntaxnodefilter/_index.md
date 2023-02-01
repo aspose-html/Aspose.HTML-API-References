@@ -1,14 +1,12 @@
 ---
 title: MarkdownSyntaxNodeFilter
 second_title: Aspose.HTML for .NET API Reference
-description: Base implementation of the MarkdownSyntaxNodeFilter.
+description: 
 type: docs
 weight: 5200
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/
 ---
 ## MarkdownSyntaxNodeFilter class
-
-Base implementation of the MarkdownSyntaxNodeFilter.
 
 ```csharp
 public abstract class MarkdownSyntaxNodeFilter
@@ -18,16 +16,16 @@ public abstract class MarkdownSyntaxNodeFilter
 
 | Name | Description |
 | --- | --- |
-| abstract [AcceptNode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/acceptnode/)(MarkdownSyntaxNode) | Defines the interface for accept node. |
+| abstract [AcceptNode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/acceptnode/)(MarkdownSyntaxNode) |  |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [Any](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/any/) | The AnyMarkdownSyntaxNodeFilter. |
-| const [FILTER_ACCEPT](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/filter_accept/) | The filter accept constant. |
-| const [FILTER_REJECT](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/filter_reject/) | The filter reject constant. |
-| const [FILTER_SKIP](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/filter_skip/) | The filter skip constant. |
+| static readonly [Any](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/any/) |  |
+| const [FILTER_ACCEPT](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/filter_accept/) |  |
+| const [FILTER_REJECT](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/filter_reject/) |  |
+| const [FILTER_SKIP](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/filter_skip/) |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Close
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for Close.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/close/
 ---
 ## BlockSyntaxDescriptor.Close method
-
-Defines the interface for Close.
 
 ```csharp
 public void Close()

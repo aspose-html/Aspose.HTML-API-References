@@ -1,14 +1,12 @@
 ---
 title: Width
 second_title: Aspose.HTML for .NET API Reference
-description: Is a double giving the calculated width of a segment of inline text in CSS pixels.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.dom.canvas/itextmetrics/width/
 ---
 ## ITextMetrics.Width property
-
-Is a double giving the calculated width of a segment of inline text in CSS pixels.
 
 ```csharp
 public double Width { get; }

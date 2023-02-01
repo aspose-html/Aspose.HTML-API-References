@@ -1,14 +1,12 @@
 ---
 title: CharacterSpacing
 second_title: Aspose.HTML for .NET API Reference
-description: Sets or gets character spacing.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.rendering/graphiccontext/characterspacing/
 ---
 ## GraphicContext.CharacterSpacing property
-
-Sets or gets character spacing.
 
 ```csharp
 public virtual float CharacterSpacing { get; set; }

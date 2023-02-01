@@ -1,22 +1,16 @@
 ---
 title: Security
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the sandboxing flag.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.dom/ibrowsingcontext/security/
 ---
 ## IBrowsingContext.Security property
 
-Gets the sandboxing flag.
-
 ```csharp
 public Sandbox Security { get; }
 ```
-
-### Property Value
-
-The security.
 
 ### See Also
 

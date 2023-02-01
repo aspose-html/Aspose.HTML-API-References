@@ -1,22 +1,16 @@
 ---
 title: ToJson
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a String that represents this instance.
+description: 
 type: docs
 weight: 160
 url: /net/aspose.html/url/tojson/
 ---
 ## Url.ToJson method
 
-Returns a String that represents this instance.
-
 ```csharp
 public string ToJson()
 ```
-
-### Return Value
-
-A String that represents this instance.
 
 ### See Also
 

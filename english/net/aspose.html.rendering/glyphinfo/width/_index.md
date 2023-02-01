@@ -1,22 +1,16 @@
 ---
 title: Width
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the width of the glyph in points.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.rendering/glyphinfo/width/
 ---
 ## GlyphInfo.Width property
 
-Gets the width of the glyph, in points.
-
 ```csharp
 public float Width { get; }
 ```
-
-### Property Value
-
-Width in points.
 
 ### See Also
 

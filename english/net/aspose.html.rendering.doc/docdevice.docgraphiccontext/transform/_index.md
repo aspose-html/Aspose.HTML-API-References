@@ -1,22 +1,16 @@
 ---
 title: Transform
 second_title: Aspose.HTML for .NET API Reference
-description: Modify the current transformation matrix by multiplying the specified matrix.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.rendering.doc/docdevice.docgraphiccontext/transform/
 ---
 ## DocDevice.DocGraphicContext.Transform method
 
-Modify the current transformation matrix by multiplying the specified matrix.
-
 ```csharp
 public override void Transform(Matrix matrix)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| matrix | Matrix | Transformation matrix. |
 
 ### See Also
 

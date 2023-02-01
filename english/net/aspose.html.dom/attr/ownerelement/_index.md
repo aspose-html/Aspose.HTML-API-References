@@ -1,14 +1,12 @@
 ---
 title: OwnerElement
 second_title: Aspose.HTML for .NET API Reference
-description: The Element node this attribute is attached to or null if this attribute is not in use.
+description: 
 type: docs
 weight: 80
 url: /net/aspose.html.dom/attr/ownerelement/
 ---
 ## Attr.OwnerElement property
-
-The Element node this attribute is attached to or null if this attribute is not in use.
 
 ```csharp
 public Element OwnerElement { get; }

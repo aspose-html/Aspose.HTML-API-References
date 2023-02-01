@@ -1,22 +1,16 @@
 ---
 title: GetBodyRows
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for get body rows.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/tablesyntaxnode/getbodyrows/
 ---
 ## TableSyntaxNode.GetBodyRows method
 
-Defines the interface for get body rows.
-
 ```csharp
 public IEnumerable<TableRowSyntaxNode> GetBodyRows()
 ```
-
-### Return Value
-
-The body rows.
 
 ### See Also
 

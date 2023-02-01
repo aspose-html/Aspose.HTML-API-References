@@ -1,22 +1,16 @@
 ---
 title: X
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute x on the given rect element.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg/svgrectelement/x/
 ---
 ## SVGRectElement.X property
 
-Corresponds to attribute ‘x’ on the given ‘rect’ element.
-
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
-
-### Property Value
-
-The attribute ‘x’ of the given ‘rect’ element.
 
 ### See Also
 

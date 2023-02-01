@@ -1,22 +1,16 @@
 ---
 title: PageSetup
 second_title: Aspose.HTML for .NET API Reference
-description: Gets a page setup object is used for configuration output page-set.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.rendering/renderingoptions/pagesetup/
 ---
 ## RenderingOptions.PageSetup property
 
-Gets a page setup object is used for configuration output page-set.
-
 ```csharp
 public PageSetup PageSetup { get; }
 ```
-
-### Property Value
-
-The page setup.
 
 ### See Also
 

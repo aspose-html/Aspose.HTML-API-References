@@ -1,14 +1,12 @@
 ---
 title: Size
 second_title: Aspose.HTML for .NET API Reference
-description: Stores a values which specify a Height and Width.
+description: 
 type: docs
 weight: 2830
 url: /net/aspose.html.drawing/size/
 ---
 ## Size class
-
-Stores a values which specify a Height and Width.
 
 ```csharp
 public class Size
@@ -18,16 +16,16 @@ public class Size
 
 | Name | Description |
 | --- | --- |
-| [Size](size#constructor)() | Initializes a new instance of the [`Size`](./size/) class. |
-| [Size](size#constructor_2)(int, int) | Initializes a new instance of the [`Size`](./size/) class and specify a Height and Width in pixels. |
-| [Size](size#constructor_1)(Length, Length) | Initializes a new instance of the [`Size`](./size/) class. |
+| [Size](size#constructor)() | The default constructor. |
+| [Size](size#constructor_2)(int, int) |  |
+| [Size](size#constructor_1)(Length, Length) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Height](../../aspose.html.drawing/size/height/) { get; set; } | Gets or sets the vertical component of this [`Size`](./size/). |
-| [Width](../../aspose.html.drawing/size/width/) { get; set; } | Gets or sets the horizontal component of this [`Size`](./size/). |
+| [Height](../../aspose.html.drawing/size/height/) { get; set; } |  |
+| [Width](../../aspose.html.drawing/size/width/) { get; set; } |  |
 
 ### See Also
 

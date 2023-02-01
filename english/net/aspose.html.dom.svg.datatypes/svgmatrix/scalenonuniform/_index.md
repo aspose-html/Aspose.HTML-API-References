@@ -1,27 +1,16 @@
 ---
 title: ScaleNonUniform
 second_title: Aspose.HTML for .NET API Reference
-description: Post-multiplies a non-uniform scale transformation on the current matrix and returns the resulting matrix.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.html.dom.svg.datatypes/svgmatrix/scalenonuniform/
 ---
 ## SVGMatrix.ScaleNonUniform method
 
-Post-multiplies a non-uniform scale transformation on the current matrix and returns the resulting matrix.
-
 ```csharp
 public SVGMatrix ScaleNonUniform(float scaleFactorX, float scaleFactorY)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| scaleFactorX | Single | Scale factor in X. |
-| scaleFactorY | Single | Scale factor in Y. |
-
-### Return Value
-
-The resulting matrix.
 
 ### See Also
 

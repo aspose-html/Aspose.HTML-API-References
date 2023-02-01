@@ -1,22 +1,16 @@
 ---
 title: Name
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the parameter name.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.net.headers/namevalueheadervalue/name/
 ---
 ## NameValueHeaderValue.Name property
 
-Gets the parameter name.
-
 ```csharp
 public string Name { get; }
 ```
-
-### Property Value
-
-The name.
 
 ### See Also
 

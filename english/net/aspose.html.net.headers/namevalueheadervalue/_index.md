@@ -1,14 +1,12 @@
 ---
 title: NameValueHeaderValue
 second_title: Aspose.HTML for .NET API Reference
-description: Represents a name/value pair that describe a header value.
+description: 
 type: docs
 weight: 3910
 url: /net/aspose.html.net.headers/namevalueheadervalue/
 ---
 ## NameValueHeaderValue class
-
-Represents a name/value pair that describe a header value.
 
 ```csharp
 public class NameValueHeaderValue
@@ -18,14 +16,14 @@ public class NameValueHeaderValue
 
 | Name | Description |
 | --- | --- |
-| [Name](../../aspose.html.net.headers/namevalueheadervalue/name/) { get; } | Gets the parameter name. |
-| [Value](../../aspose.html.net.headers/namevalueheadervalue/value/) { get; set; } | Gets or sets the parameter value. |
+| [Name](../../aspose.html.net.headers/namevalueheadervalue/name/) { get; } |  |
+| [Value](../../aspose.html.net.headers/namevalueheadervalue/value/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.html.net.headers/namevalueheadervalue/tostring/)() | Returns a String that represents this instance. |
+| override [ToString](../../aspose.html.net.headers/namevalueheadervalue/tostring/)() |  |
 
 ### See Also
 

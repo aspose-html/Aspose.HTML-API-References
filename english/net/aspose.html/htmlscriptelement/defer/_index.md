@@ -1,14 +1,12 @@
 ---
 title: Defer
 second_title: Aspose.HTML for .NET API Reference
-description: Indicates that the user agent can defer processing of the script. See the defer attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html/htmlscriptelement/defer/
 ---
 ## HTMLScriptElement.Defer property
-
-Indicates that the user agent can defer processing of the script. See the defer attribute definition in HTML 4.01.
 
 ```csharp
 public bool Defer { get; set; }

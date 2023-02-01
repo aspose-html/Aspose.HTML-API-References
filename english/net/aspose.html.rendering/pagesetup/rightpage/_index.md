@@ -1,14 +1,12 @@
 ---
 title: RightPage
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the Even Page configuration.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.html.rendering/pagesetup/rightpage/
 ---
 ## PageSetup.RightPage property
-
-Gets the Even Page configuration.
 
 ```csharp
 public Page RightPage { get; }

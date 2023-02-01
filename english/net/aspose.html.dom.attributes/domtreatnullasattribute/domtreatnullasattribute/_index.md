@@ -1,23 +1,16 @@
 ---
 title: DOMTreatNullAsAttribute
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the DOMTreatNullAsAttributeaspose.html.dom.attributes/domtreatnullasattribute/ class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.dom.attributes/domtreatnullasattribute/domtreatnullasattribute/
 ---
 ## DOMTreatNullAsAttribute constructor
 
-Initializes a new instance of the [`DOMTreatNullAsAttribute`](../) class.
-
 ```csharp
 public DOMTreatNullAsAttribute(Type type, object value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| type | Type | The object type. |
-| value | Object | The object value. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: MarkdownBlockParser
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the base class MarkdownBlockParser
+description: 
 type: docs
 weight: 5460
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/
 ---
 ## MarkdownBlockParser class
-
-Defines the base class MarkdownBlockParser
 
 ```csharp
 public abstract class MarkdownBlockParser
@@ -18,13 +16,13 @@ public abstract class MarkdownBlockParser
 
 | Name | Description |
 | --- | --- |
-| virtual [CanClose](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/canclose/)(BlockSyntaxDescriptor, BlockClosingReason, IBlockParsingContext) | Defines interface for CanClose method. |
-| abstract [CanParse](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/canparse/)(IBlockParsingContext) | Defines interface for get the CanParse value. |
-| virtual [Continue](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/continue/)(BlockSyntaxDescriptor, IBlockParsingContext) | Defines the interface for Continue |
-| virtual [OnClose](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/onclose/)(BlockSyntaxDescriptor, MarkdownSyntaxNode, IBlockParsingContext) | Defines interface for OnClose method. |
-| virtual [OnOpen](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/onopen/)(BlockSyntaxDescriptor, IBlockParsingContext) | Defines interface for OnOpen method. |
-| virtual [OnProcessInline](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/onprocessinline/)(BlockSyntaxDescriptor, IBlockParsingContext) | Defines the interface for OnProcessInline method. |
-| abstract [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/parse/)(IBlockParsingContext) | Defines interface for parse ofr the context.. |
+| virtual [CanClose](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/canclose/)(BlockSyntaxDescriptor, BlockClosingReason, IBlockParsingContext) |  |
+| abstract [CanParse](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/canparse/)(IBlockParsingContext) |  |
+| virtual [Continue](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/continue/)(BlockSyntaxDescriptor, IBlockParsingContext) |  |
+| virtual [OnClose](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/onclose/)(BlockSyntaxDescriptor, MarkdownSyntaxNode, IBlockParsingContext) |  |
+| virtual [OnOpen](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/onopen/)(BlockSyntaxDescriptor, IBlockParsingContext) |  |
+| virtual [OnProcessInline](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/onprocessinline/)(BlockSyntaxDescriptor, IBlockParsingContext) |  |
+| abstract [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/parse/)(IBlockParsingContext) |  |
 
 ### See Also
 

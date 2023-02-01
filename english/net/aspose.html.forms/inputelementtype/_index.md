@@ -1,14 +1,12 @@
 ---
 title: InputElementType
 second_title: Aspose.HTML for .NET API Reference
-description: Represent states of the input field.
+description: 
 type: docs
 weight: 2990
 url: /net/aspose.html.forms/inputelementtype/
 ---
 ## InputElementType enumeration
-
-Represent states of the input field.
 
 ```csharp
 public enum InputElementType
@@ -18,28 +16,28 @@ public enum InputElementType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Hidden | `1` | A control that is not displayed. |
-| Text | `2` | A control that is a text-field. |
-| Search | `3` | A control that is used for entering search strings. |
-| Telephone | `4` | A control for entering a telephone number. |
-| Url | `5` | A field for entering a URL. |
-| Email | `6` | A field for entering an email. |
-| Password | `7` | A field for entering a password. |
-| Date | `8` | A field for entering a date. |
-| Month | `9` | A field for entering a month. |
-| Week | `10` | A field for entering a week. |
-| Time | `11` | A field for entering a time. |
-| LocalDateTime | `12` | A field for entering a local datetime. |
-| Number | `13` | A field for entering a number. |
-| Range | `14` | A field for entering a number inside the range. |
-| Color | `15` | A field for entering a color. |
-| Checkbox | `16` | A field for entering a checkbox. |
-| Radio | `17` | A field that allowing a single value to select. |
-| File | `18` | A field that allows to select and attach user files. |
-| Submit | `19` | A button for submitting the form result. |
-| Image | `20` | A graphical button for submitting the form result. |
-| Reset | `21` | A button for resetting the form data. |
-| Button | `22` | A push button. |
+| Hidden | `1` |  |
+| Text | `2` |  |
+| Search | `3` |  |
+| Telephone | `4` |  |
+| Url | `5` |  |
+| Email | `6` |  |
+| Password | `7` |  |
+| Date | `8` |  |
+| Month | `9` |  |
+| Week | `10` |  |
+| Time | `11` |  |
+| LocalDateTime | `12` |  |
+| Number | `13` |  |
+| Range | `14` |  |
+| Color | `15` |  |
+| Checkbox | `16` |  |
+| Radio | `17` |  |
+| File | `18` |  |
+| Submit | `19` |  |
+| Image | `20` |  |
+| Reset | `21` |  |
+| Button | `22` |  |
 
 ### See Also
 

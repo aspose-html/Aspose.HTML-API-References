@@ -1,14 +1,12 @@
 ---
 title: FontsSettings
 second_title: Aspose.HTML for .NET API Reference
-description: Represents fonts handling settings.
+description: 
 type: docs
 weight: 2890
 url: /net/aspose.html/fontssettings/
 ---
 ## FontsSettings class
-
-Represents fonts handling settings.
 
 ```csharp
 public class FontsSettings
@@ -18,17 +16,17 @@ public class FontsSettings
 
 | Name | Description |
 | --- | --- |
-| [FontMatcher](../../aspose.html/fontssettings/fontmatcher/) { get; set; } | Gets or sets the class which allows you to control some parts of the font matching algorithm. |
+| [FontMatcher](../../aspose.html/fontssettings/fontmatcher/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [GetFontsLookupFolders](../../aspose.html/fontssettings/getfontslookupfolders/)() | Gets a copy of array which contains fonts folders. Fonts found in these folders are used for characters rendering. |
-| [SetFontsLookupFolder](../../aspose.html/fontssettings/setfontslookupfolder/#setfontslookupfolder)(string) | Sets folder used during fonts selection. |
-| [SetFontsLookupFolder](../../aspose.html/fontssettings/setfontslookupfolder/#setfontslookupfolder_1)(string, bool) | Sets folder used during fonts selection. |
-| [SetFontsLookupFolders](../../aspose.html/fontssettings/setfontslookupfolders/#setfontslookupfolders)(string[]) | Sets an array of folders used during fonts selection. |
-| [SetFontsLookupFolders](../../aspose.html/fontssettings/setfontslookupfolders/#setfontslookupfolders_1)(string[], bool) | Sets an array of folders used during fonts selection. |
+| [GetFontsLookupFolders](../../aspose.html/fontssettings/getfontslookupfolders/)() |  |
+| [SetFontsLookupFolder](../../aspose.html/fontssettings/setfontslookupfolder/#setfontslookupfolder)(string) |  |
+| [SetFontsLookupFolder](../../aspose.html/fontssettings/setfontslookupfolder/#setfontslookupfolder_1)(string, bool) |  |
+| [SetFontsLookupFolders](../../aspose.html/fontssettings/setfontslookupfolders/#setfontslookupfolders)(string[]) |  |
+| [SetFontsLookupFolders](../../aspose.html/fontssettings/setfontslookupfolders/#setfontslookupfolders_1)(string[], bool) |  |
 
 ### See Also
 

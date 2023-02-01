@@ -1,22 +1,16 @@
 ---
 title: In2
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute in2 on the given feComposite element.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.filters/svgfecompositeelement/in2/
 ---
 ## SVGFECompositeElement.In2 property
 
-Corresponds to attribute ‘in2’ on the given ‘feComposite’ element.
-
 ```csharp
 public SVGAnimatedString In2 { get; }
 ```
-
-### Property Value
-
-The attribute ‘in2’ on the given ‘feComposite’ element.
 
 ### See Also
 

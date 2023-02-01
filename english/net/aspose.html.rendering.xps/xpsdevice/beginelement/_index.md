@@ -1,27 +1,16 @@
 ---
 title: BeginElement
 second_title: Aspose.HTML for .NET API Reference
-description: Begins rendering of the element.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.rendering.xps/xpsdevice/beginelement/
 ---
 ## XpsDevice.BeginElement method
 
-Begins rendering of the element.
-
 ```csharp
 public override bool BeginElement(Element element, RectangleF rect)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| element | Element | The [`Element`](../../../aspose.html.dom/element/). |
-| rect | RectangleF | Bounding box of the node. |
-
-### Return Value
-
-Returns [true] if element should be processed.
 
 ### See Also
 

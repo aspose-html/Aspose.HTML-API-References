@@ -1,14 +1,12 @@
 ---
 title: Sheet
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the associated style sheet.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgstyleelement/sheet/
 ---
 ## SVGStyleElement.Sheet property
-
-Gets the associated style sheet.
 
 ```csharp
 public IStyleSheet Sheet { get; }

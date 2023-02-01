@@ -1,26 +1,16 @@
 ---
 title: Item
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets the Int32 at the specified index.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html/int32array/item/
 ---
 ## Int32Array indexer
 
-Gets or sets the Int32 at the specified index.
-
 ```csharp
 public override int this[int index] { get; set; }
 ```
-
-| Parameter | Description |
-| --- | --- |
-| index | The index. |
-
-### Property Value
-
-The Int32.
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: NumOctaves
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute numOctaves on the given feTurbulence element.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.filters/svgfeturbulenceelement/numoctaves/
 ---
 ## SVGFETurbulenceElement.NumOctaves property
 
-Corresponds to attribute ‘numOctaves’ on the given ‘feTurbulence’ element.
-
 ```csharp
 public SVGAnimatedInteger NumOctaves { get; }
 ```
-
-### Property Value
-
-The attribute ‘numOctaves’ of the given ‘feTurbulence’ element.
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: ContentHeaders
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the ContentHeadersaspose.html.net/contentheaders/ class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.html.net/contentheaders/contentheaders/
 ---
 ## ContentHeaders constructor
 
-Initializes a new instance of the [`ContentHeaders`](../) class.
+The default constructor.
 
 ```csharp
 public ContentHeaders()

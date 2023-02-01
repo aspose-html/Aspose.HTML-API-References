@@ -1,22 +1,16 @@
 ---
 title: GetMonthValue
 second_title: Aspose.HTML for .NET API Reference
-description: This method is used to get the value as a DateTime object. This method is valid if only only type of the input element is month
+description: 
 type: docs
 weight: 120
 url: /net/aspose.html.forms/inputelement/getmonthvalue/
 ---
 ## InputElement.GetMonthValue method
 
-This method is used to get the value as a DateTime object. This method is valid if only only type of the input element is "month"
-
 ```csharp
 public DateTime GetMonthValue()
 ```
-
-### Return Value
-
-The date object.
 
 ### See Also
 

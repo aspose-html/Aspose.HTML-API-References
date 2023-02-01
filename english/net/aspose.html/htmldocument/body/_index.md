@@ -1,14 +1,12 @@
 ---
 title: Body
 second_title: Aspose.HTML for .NET API Reference
-description: The element that contains the content for the document. In documents with BODY contents returns the BODYelement. In frameset documents this returns the outermost FRAMESET element.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html/htmldocument/body/
 ---
 ## HTMLDocument.Body property
-
-The element that contains the content for the document. In documents with `BODY` contents, returns the `BODY`element. In frameset documents, this returns the outermost `FRAMESET` element.
 
 ```csharp
 public HTMLElement Body { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: ChOff
 second_title: Aspose.HTML for .NET API Reference
-description: Offset of alignment character. See the charoff attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.html/htmltablecellelement/choff/
 ---
 ## HTMLTableCellElement.ChOff property
-
-Offset of alignment character. See the charoff attribute definition in HTML 4.01.
 
 ```csharp
 public string ChOff { get; set; }

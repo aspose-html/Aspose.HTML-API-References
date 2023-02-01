@@ -1,14 +1,12 @@
 ---
 title: PlatformException
 second_title: Aspose.HTML for .NET API Reference
-description: Represents the base class for all exceptions that may occur during the application execution.
+description: 
 type: docs
 weight: 4110
 url: /net/aspose.html/platformexception/
 ---
 ## PlatformException class
-
-Represents the base class for all exceptions that may occur during the application execution.
 
 ```csharp
 public class PlatformException : Exception
@@ -18,9 +16,9 @@ public class PlatformException : Exception
 
 | Name | Description |
 | --- | --- |
-| [PlatformException](platformexception#constructor)() | Initializes a new instance of the [`PlatformException`](./platformexception/) class. |
-| [PlatformException](platformexception#constructor_1)(string) | Initializes a new instance of the [`PlatformException`](./platformexception/) class with a specified error message. |
-| [PlatformException](platformexception#constructor_2)(string, Exception) | Initializes a new instance of the [`PlatformException`](./platformexception/) class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [PlatformException](platformexception#constructor)() | The default constructor. |
+| [PlatformException](platformexception#constructor_1)(string) |  |
+| [PlatformException](platformexception#constructor_2)(string, Exception) |  |
 
 ### See Also
 

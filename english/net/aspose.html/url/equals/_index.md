@@ -1,26 +1,16 @@
 ---
 title: Equals
 second_title: Aspose.HTML for .NET API Reference
-description: Determines whether the specified Object is equal to this instance.
+description: 
 type: docs
 weight: 140
 url: /net/aspose.html/url/equals/
 ---
 ## Url.Equals method
 
-Determines whether the specified Object, is equal to this instance.
-
 ```csharp
 public override bool Equals(object obj)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| obj | Object | The Object to compare with this instance. |
-
-### Return Value
-
-`true` if the specified Object is equal to this instance; otherwise, `false`.
 
 ### See Also
 

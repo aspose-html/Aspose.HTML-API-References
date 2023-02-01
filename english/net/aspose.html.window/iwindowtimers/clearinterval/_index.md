@@ -1,22 +1,16 @@
 ---
 title: ClearInterval
 second_title: Aspose.HTML for .NET API Reference
-description: Cancels the timeout set with setInterval identified by handle
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.window/iwindowtimers/clearinterval/
 ---
 ## IWindowTimers.ClearInterval method
 
-Cancels the timeout set with setInterval() identified by handle
-
 ```csharp
 public void ClearInterval(int handle)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| handle | Int32 | The handle. |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: BrushType
 second_title: Aspose.HTML for .NET API Reference
-description: Specifies the type of brush.
+description: 
 type: docs
 weight: 2630
 url: /net/aspose.html.drawing/brushtype/
 ---
 ## BrushType enumeration
-
-Specifies the type of brush.
 
 ```csharp
 public enum BrushType
@@ -18,9 +16,9 @@ public enum BrushType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Solid | `0` | Type is ISolidBrush |
-| Texture | `1` | Type is ITextureBrush |
-| LinearGradient | `2` | Type is ILinearGradientBrush |
+| Solid | `0` |  |
+| Texture | `1` |  |
+| LinearGradient | `2` |  |
 
 ### See Also
 

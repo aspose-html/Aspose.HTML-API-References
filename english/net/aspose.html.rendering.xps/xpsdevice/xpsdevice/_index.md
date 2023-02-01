@@ -1,22 +1,16 @@
 ---
 title: XpsDevice
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the XpsDeviceaspose.html.rendering.xps/xpsdevice/ class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.rendering.xps/xpsdevice/xpsdevice/
 ---
 ## XpsDevice(ICreateStreamProvider) {#constructor}
 
-Initializes a new instance of the [`XpsDevice`](../) class.
-
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| streamProvider | ICreateStreamProvider | The stream provider. |
 
 ### See Also
 
@@ -29,16 +23,9 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 ## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Initializes a new instance of the [`XpsDevice`](../) class by rendering options and stream provider.
-
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| options | XpsRenderingOptions | Rendering options. |
-| streamProvider | ICreateStreamProvider | Object that implements the [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface |
 
 ### See Also
 
@@ -52,15 +39,9 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 
 ## XpsDevice(string) {#constructor_5}
 
-Initializes a new instance of the [`XpsDevice`](../) class.
-
 ```csharp
 public XpsDevice(string file)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| file | String | The output file name. |
 
 ### See Also
 
@@ -72,16 +53,9 @@ public XpsDevice(string file)
 
 ## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
 
-Initializes a new instance of the [`XpsDevice`](../) class by rendering options and output file name.
-
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| options | XpsRenderingOptions | Rendering options. |
-| file | String | The output file name. |
 
 ### See Also
 
@@ -94,15 +68,9 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 ## XpsDevice(Stream) {#constructor_4}
 
-Initializes a new instance of the [`XpsDevice`](../) class.
-
 ```csharp
 public XpsDevice(Stream stream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | The stream. |
 
 ### See Also
 
@@ -114,16 +82,9 @@ public XpsDevice(Stream stream)
 
 ## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
 
-Initializes a new instance of the [`XpsDevice`](../) class by rendering options and output stream.
-
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| options | XpsRenderingOptions | Rendering options. |
-| stream | Stream | The output stream. |
 
 ### See Also
 

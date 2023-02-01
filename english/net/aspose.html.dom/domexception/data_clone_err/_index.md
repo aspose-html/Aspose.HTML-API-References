@@ -1,14 +1,12 @@
 ---
 title: DATA_CLONE_ERR
 second_title: Aspose.HTML for .NET API Reference
-description: The object can not be cloned.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html.dom/domexception/data_clone_err/
 ---
 ## DOMException.DATA_CLONE_ERR field
-
-The object can not be cloned.
 
 ```csharp
 public const ushort DATA_CLONE_ERR;

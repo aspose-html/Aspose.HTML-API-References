@@ -1,14 +1,12 @@
 ---
 title: IBrowsingContext
 second_title: Aspose.HTML for .NET API Reference
-description: A browsing context is an environment in which Document./document/ objects are presented to the user.
+description: 
 type: docs
 weight: 870
 url: /net/aspose.html.dom/ibrowsingcontext/
 ---
 ## IBrowsingContext interface
-
-A browsing context is an environment in which [`Document`](../document/) objects are presented to the user.
 
 ```csharp
 public interface IBrowsingContext : IDisposable, IServiceProvider
@@ -18,12 +16,12 @@ public interface IBrowsingContext : IDisposable, IServiceProvider
 
 | Name | Description |
 | --- | --- |
-| [ActiveDocument](../../aspose.html.dom/ibrowsingcontext/activedocument/) { get; } | Gets the current document. |
-| [DOMImplementation](../../aspose.html.dom/ibrowsingcontext/domimplementation/) { get; } | Gets the DOM implementation. |
-| [Network](../../aspose.html.dom/ibrowsingcontext/network/) { get; } | Gets the network services. |
-| [Parent](../../aspose.html.dom/ibrowsingcontext/parent/) { get; } | Gets the parent context, if any. |
-| [Security](../../aspose.html.dom/ibrowsingcontext/security/) { get; } | Gets the sandboxing flag. |
-| [Window](../../aspose.html.dom/ibrowsingcontext/window/) { get; } | Gets the WindowProxy object. |
+| [ActiveDocument](../../aspose.html.dom/ibrowsingcontext/activedocument/) { get; } |  |
+| [DOMImplementation](../../aspose.html.dom/ibrowsingcontext/domimplementation/) { get; } |  |
+| [Network](../../aspose.html.dom/ibrowsingcontext/network/) { get; } |  |
+| [Parent](../../aspose.html.dom/ibrowsingcontext/parent/) { get; } |  |
+| [Security](../../aspose.html.dom/ibrowsingcontext/security/) { get; } |  |
+| [Window](../../aspose.html.dom/ibrowsingcontext/window/) { get; } |  |
 
 ### See Also
 

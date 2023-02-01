@@ -1,14 +1,12 @@
 ---
 title: Text
 second_title: Aspose.HTML for .NET API Reference
-description: The script content of the element.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html/htmlscriptelement/text/
 ---
 ## HTMLScriptElement.Text property
-
-The script content of the element.
 
 ```csharp
 public string Text { get; set; }

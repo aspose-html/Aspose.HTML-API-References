@@ -1,14 +1,12 @@
 ---
 title: BYTES_PER_ELEMENT
 second_title: Aspose.HTML for .NET API Reference
-description: The property represents the size in bytes of each element in an typed array.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html/uint8clampedarray/bytes_per_element/
 ---
 ## Uint8ClampedArray.BYTES_PER_ELEMENT field
-
-The property represents the size in bytes of each element in an typed array.
 
 ```csharp
 public static readonly byte BYTES_PER_ELEMENT;

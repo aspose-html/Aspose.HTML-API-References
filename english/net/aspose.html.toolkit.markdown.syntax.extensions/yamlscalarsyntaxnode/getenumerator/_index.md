@@ -1,22 +1,16 @@
 ---
 title: GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for get IEnumerator
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/getenumerator/
 ---
 ## YamlScalarSyntaxNode.GetEnumerator method
 
-Defines the interface for get IEnumerator
-
 ```csharp
 public override IEnumerator<ChildFrontMatterSyntaxNode> GetEnumerator()
 ```
-
-### Return Value
-
-The IEnumerator.
 
 ### See Also
 

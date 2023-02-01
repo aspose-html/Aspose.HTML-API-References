@@ -1,14 +1,12 @@
 ---
 title: SVGAnimatedNumberList
 second_title: Aspose.HTML for .NET API Reference
-description: Used for attributes which take a list of numbers and which can be animated.
+description: 
 type: docs
 weight: 1140
 url: /net/aspose.html.dom.svg.datatypes/svganimatednumberlist/
 ---
 ## SVGAnimatedNumberList class
-
-Used for attributes which take a list of numbers and which can be animated.
 
 ```csharp
 public class SVGAnimatedNumberList : SVGAnimatedValue<SVGNumberList>
@@ -25,9 +23,9 @@ public class SVGAnimatedNumberList : SVGAnimatedValue<SVGNumberList>
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| override [ToString](../../aspose.html.dom.svg.datatypes/svganimatednumberlist/tostring/)() | Returns a String that represents this instance. |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svganimatednumberlist/tostring/)() |  |
 
 ### See Also
 

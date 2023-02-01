@@ -1,14 +1,12 @@
 ---
 title: IsSuccess
 second_title: Aspose.HTML for .NET API Reference
-description: Gets a value indicating whether this result is success.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.forms/submissionresult/issuccess/
 ---
 ## SubmissionResult.IsSuccess property
-
-Gets a value indicating whether this result is success.
 
 ```csharp
 public bool IsSuccess { get; }

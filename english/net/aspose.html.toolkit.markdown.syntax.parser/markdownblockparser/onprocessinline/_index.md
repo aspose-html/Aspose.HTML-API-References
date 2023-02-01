@@ -1,23 +1,16 @@
 ---
 title: OnProcessInline
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for OnProcessInline method.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/onprocessinline/
 ---
 ## MarkdownBlockParser.OnProcessInline method
 
-Defines the interface for OnProcessInline method.
-
 ```csharp
 public virtual void OnProcessInline(BlockSyntaxDescriptor descriptor, IBlockParsingContext context)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| descriptor | BlockSyntaxDescriptor | The description. |
-| context | IBlockParsingContext | The context. |
 
 ### See Also
 

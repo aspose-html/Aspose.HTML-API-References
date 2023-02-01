@@ -1,14 +1,12 @@
 ---
 title: OnMouseDown
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnMouseDown event.
+description: 
 type: docs
 weight: 510
 url: /net/aspose.html.dom/document/onmousedown/
 ---
 ## Document.OnMouseDown event
-
-Gets or sets event handler for OnMouseDown event.
 
 ```csharp
 public event DOMEventHandler OnMouseDown;

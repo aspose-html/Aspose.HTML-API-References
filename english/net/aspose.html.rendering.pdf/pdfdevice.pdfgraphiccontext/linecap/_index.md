@@ -1,14 +1,12 @@
 ---
 title: LineCap
 second_title: Aspose.HTML for .NET API Reference
-description: Sets or gets the code specifying the shape of the endpoints for any open path that is stroked.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/linecap/
 ---
 ## PdfDevice.PdfGraphicContext.LineCap property
-
-Sets or gets the code specifying the shape of the endpoints for any open path that is stroked.
 
 ```csharp
 public override LineCap LineCap { get; set; }

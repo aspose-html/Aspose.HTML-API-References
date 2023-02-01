@@ -1,26 +1,16 @@
 ---
 title: CanParse
 second_title: Aspose.HTML for .NET API Reference
-description: Defines interface for get the CanParse value.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/canparse/
 ---
 ## MarkdownBlockParser.CanParse method
 
-Defines interface for get the CanParse value.
-
 ```csharp
 public abstract bool CanParse(IBlockParsingContext context)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| context | IBlockParsingContext | The IBlockParsingContext. |
-
-### Return Value
-
-The boolean result.
 
 ### See Also
 

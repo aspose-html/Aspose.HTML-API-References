@@ -1,14 +1,12 @@
 ---
 title: Rel
 second_title: Aspose.HTML for .NET API Reference
-description: Forward link type. See the rel attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html/htmllinkelement/rel/
 ---
 ## HTMLLinkElement.Rel property
-
-Forward link type. See the rel attribute definition in HTML 4.01.
 
 ```csharp
 public string Rel { get; set; }

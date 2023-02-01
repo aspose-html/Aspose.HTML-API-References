@@ -1,14 +1,12 @@
 ---
 title: Options
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a list of options
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.forms/selectelement/options/
 ---
 ## SelectElement.Options property
-
-Returns a list of options
 
 ```csharp
 public OptionCollection Options { get; }

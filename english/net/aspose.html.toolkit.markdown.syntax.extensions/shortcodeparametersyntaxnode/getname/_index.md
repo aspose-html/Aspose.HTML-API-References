@@ -1,22 +1,16 @@
 ---
 title: GetName
 second_title: Aspose.HTML for .NET API Reference
-description: Get string name.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/getname/
 ---
 ## ShortCodeParameterSyntaxNode.GetName method
 
-Get string name.
-
 ```csharp
 public string GetName()
 ```
-
-### Return Value
-
-The string result.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Encryption
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets a encryption details. If not set then no encryption will be performed.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.rendering.pdf/pdfrenderingoptions/encryption/
 ---
 ## PdfRenderingOptions.Encryption property
-
-Gets or sets a encryption details. If not set, then no encryption will be performed.
 
 ```csharp
 public PdfEncryptionInfo Encryption { get; set; }

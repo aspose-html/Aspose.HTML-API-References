@@ -1,22 +1,16 @@
 ---
 title: PaddingRight
 second_title: Aspose.HTML for .NET API Reference
-description: These properties set the top right bottom and left padding of a box.
+description: 
 type: docs
 weight: 830
 url: /net/aspose.html.dom.css/icss2properties/paddingright/
 ---
 ## ICSS2Properties.PaddingRight property
 
-These properties set the top, right, bottom, and left padding of a box.
-
 ```csharp
 public string PaddingRight { get; set; }
 ```
-
-### Return Value
-
-padding-right property
 
 ### See Also
 

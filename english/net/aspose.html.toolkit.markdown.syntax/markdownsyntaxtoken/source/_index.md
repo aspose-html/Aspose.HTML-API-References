@@ -1,14 +1,12 @@
 ---
 title: Source
 second_title: Aspose.HTML for .NET API Reference
-description: Get the source text.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/source/
 ---
 ## MarkdownSyntaxToken.Source property
-
-Get the source text.
 
 ```csharp
 public SourceText Source { get; }

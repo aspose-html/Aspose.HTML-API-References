@@ -1,14 +1,12 @@
 ---
 title: SVGNumberList
 second_title: Aspose.HTML for .NET API Reference
-description: This interface defines a list of SVGNumber objects.
+description: 
 type: docs
 weight: 1240
 url: /net/aspose.html.dom.svg.datatypes/svgnumberlist/
 ---
 ## SVGNumberList class
-
-This interface defines a list of SVGNumber objects.
 
 ```csharp
 public class SVGNumberList : SVGListBase<SVGNumber>
@@ -28,15 +26,15 @@ public class SVGNumberList : SVGListBase<SVGNumber>
 | --- | --- |
 | [AppendItem](../../aspose.html.dom.svg.collections/svglistbase`1/appenditem/)(SVGNumber) |  |
 | [Clear](../../aspose.html.dom.svg.collections/svglistbase`1/clear/)() |  |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
 | [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase`1/getenumerator/)() |  |
 | [GetItem](../../aspose.html.dom.svg.collections/svglistbase`1/getitem/)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
 | [Initialize](../../aspose.html.dom.svg.collections/svglistbase`1/initialize/)(SVGNumber) |  |
 | [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase`1/insertitembefore/)(SVGNumber, ulong) |  |
 | [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase`1/removeitem/)(ulong) |  |
 | [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase`1/replaceitem/)(SVGNumber, ulong) |  |
-| override [ToString](../../aspose.html.dom.svg.datatypes/svgnumberlist/tostring/)() | Returns a String that represents this instance. |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svgnumberlist/tostring/)() |  |
 
 ### See Also
 

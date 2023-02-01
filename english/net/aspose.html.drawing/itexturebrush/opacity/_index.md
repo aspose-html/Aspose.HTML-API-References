@@ -1,22 +1,16 @@
 ---
 title: Opacity
 second_title: Aspose.HTML for .NET API Reference
-description: Get opacity value in a color transform matrix.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.drawing/itexturebrush/opacity/
 ---
 ## ITextureBrush.Opacity property
 
-Get opacity value in a color transform matrix.
-
 ```csharp
 public float Opacity { get; }
 ```
-
-### Return Value
-
-Opacity.
 
 ### See Also
 

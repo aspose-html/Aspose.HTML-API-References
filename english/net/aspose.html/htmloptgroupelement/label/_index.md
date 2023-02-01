@@ -1,14 +1,12 @@
 ---
 title: Label
 second_title: Aspose.HTML for .NET API Reference
-description: Assigns a label to this option group. See the label attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html/htmloptgroupelement/label/
 ---
 ## HTMLOptGroupElement.Label property
-
-Assigns a label to this option group. See the label attribute definition in HTML 4.01.
 
 ```csharp
 public string Label { get; set; }

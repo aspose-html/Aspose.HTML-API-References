@@ -1,14 +1,12 @@
 ---
 title: OnPause
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnPause event.
+description: 
 type: docs
 weight: 380
 url: /net/aspose.html/htmlelement/onpause/
 ---
 ## HTMLElement.OnPause event
-
-Gets or sets event handler for OnPause event.
 
 ```csharp
 public event DOMEventHandler OnPause;

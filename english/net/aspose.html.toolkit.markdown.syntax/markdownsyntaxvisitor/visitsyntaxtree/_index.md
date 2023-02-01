@@ -1,22 +1,16 @@
 ---
 title: VisitSyntaxTree
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for visit MarkdownSyntaxTree.
+description: 
 type: docs
 weight: 250
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitsyntaxtree/
 ---
 ## MarkdownSyntaxVisitor.VisitSyntaxTree method
 
-Defines the interface for visit MarkdownSyntaxTree.
-
 ```csharp
 public virtual void VisitSyntaxTree(MarkdownSyntaxTree tree)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| tree | MarkdownSyntaxTree | The MarkdownSyntaxTree. |
 
 ### See Also
 

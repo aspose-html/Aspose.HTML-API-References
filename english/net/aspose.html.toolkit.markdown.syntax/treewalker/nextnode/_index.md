@@ -1,22 +1,16 @@
 ---
 title: NextNode
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for get next node.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/treewalker/nextnode/
 ---
 ## TreeWalker.NextNode method
 
-Defines the interface for get next node.
-
 ```csharp
 public MarkdownSyntaxNode NextNode()
 ```
-
-### Return Value
-
-The MarkdownSyntaxNode.
 
 ### See Also
 

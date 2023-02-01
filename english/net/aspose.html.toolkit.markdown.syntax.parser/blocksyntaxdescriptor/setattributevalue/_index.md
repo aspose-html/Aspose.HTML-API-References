@@ -1,24 +1,16 @@
 ---
 title: SetAttributeValue
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for set attribute.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/setattributevalue/
 ---
 ## BlockSyntaxDescriptor.SetAttributeValue&lt;T&gt; method
 
-Defines the interface for set attribute.
-
 ```csharp
 public void SetAttributeValue<T>(string name, T value)
 ```
-
-| Parameter | Description |
-| --- | --- |
-| T | The T type. |
-| name | The string name. |
-| value | The T value. |
 
 ### See Also
 

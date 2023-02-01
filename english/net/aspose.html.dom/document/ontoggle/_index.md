@@ -1,14 +1,12 @@
 ---
 title: OnToggle
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnToggle event.
+description: 
 type: docs
 weight: 760
 url: /net/aspose.html.dom/document/ontoggle/
 ---
 ## Document.OnToggle event
-
-Gets or sets event handler for OnToggle event.
 
 ```csharp
 public event DOMEventHandler OnToggle;

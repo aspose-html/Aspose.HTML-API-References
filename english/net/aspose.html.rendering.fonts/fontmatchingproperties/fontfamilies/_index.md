@@ -1,14 +1,12 @@
 ---
 title: FontFamilies
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the collection of font families.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.rendering.fonts/fontmatchingproperties/fontfamilies/
 ---
 ## FontMatchingProperties.FontFamilies property
-
-Gets the collection of font families.
 
 ```csharp
 public IEnumerable<string> FontFamilies { get; }

@@ -1,14 +1,12 @@
 ---
 title: SVGPathSegMovetoRel
 second_title: Aspose.HTML for .NET API Reference
-description: The SVGPathSegMovetoRel interface corresponds to a relative moveto m path data command.
+description: 
 type: docs
 weight: 1890
 url: /net/aspose.html.dom.svg.paths/svgpathsegmovetorel/
 ---
 ## SVGPathSegMovetoRel class
-
-The SVGPathSegMovetoRel interface corresponds to a "relative moveto" (m) path data command.
 
 ```csharp
 public class SVGPathSegMovetoRel : SVGPathSeg
@@ -18,17 +16,17 @@ public class SVGPathSegMovetoRel : SVGPathSeg
 
 | Name | Description |
 | --- | --- |
-| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype/) { get; } | The type of the path segment as specified by one of the constants defined on this interface. |
-| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | The type of the path segment, specified by the corresponding one character command name. |
-| [X](../../aspose.html.dom.svg.paths/svgpathsegmovetorel/x/) { get; set; } | The relative X coordinate for the end point of this path segment. |
-| [Y](../../aspose.html.dom.svg.paths/svgpathsegmovetorel/y/) { get; set; } | The relative Y coordinate for the end point of this path segment. |
+| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype/) { get; } |  |
+| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } |  |
+| [X](../../aspose.html.dom.svg.paths/svgpathsegmovetorel/x/) { get; set; } |  |
+| [Y](../../aspose.html.dom.svg.paths/svgpathsegmovetorel/y/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
 
 ### See Also
 

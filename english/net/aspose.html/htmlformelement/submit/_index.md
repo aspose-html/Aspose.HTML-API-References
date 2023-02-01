@@ -1,14 +1,12 @@
 ---
 title: Submit
 second_title: Aspose.HTML for .NET API Reference
-description: Submits the form. It performs the same action as a submit button.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.html/htmlformelement/submit/
 ---
 ## HTMLFormElement.Submit method
-
-Submits the form. It performs the same action as a submit button.
 
 ```csharp
 public void Submit()

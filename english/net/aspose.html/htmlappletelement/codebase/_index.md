@@ -1,14 +1,12 @@
 ---
 title: CodeBase
 second_title: Aspose.HTML for .NET API Reference
-description: Optional base URI IETF RFC 2396http//www.ietf.org/rfc/rfc2396.txt for applet. See the codebase attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html/htmlappletelement/codebase/
 ---
 ## HTMLAppletElement.CodeBase property
-
-Optional base URI [[IETF RFC 2396](http://www.ietf.org/rfc/rfc2396.txt)] for applet. See the codebase attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01.
 
 ```csharp
 public string CodeBase { get; set; }

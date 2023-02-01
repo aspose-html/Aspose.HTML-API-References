@@ -1,14 +1,14 @@
 ---
 title: CSSValueList
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the CSSValueListaspose.html.dom.css/cssvaluelist/ class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/cssvaluelist/cssvaluelist/
 ---
 ## CSSValueList() {#constructor}
 
-Initializes a new instance of the [`CSSValueList`](../) class.
+The default constructor.
 
 ```csharp
 public CSSValueList()
@@ -24,15 +24,9 @@ public CSSValueList()
 
 ## CSSValueList(IEnumerable&lt;CSSValue&gt;) {#constructor_2}
 
-Initializes a new instance of the [`CSSValueList`](../) class.
-
 ```csharp
 public CSSValueList(IEnumerable<CSSValue> values)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| values | IEnumerable`1 | The values. |
 
 ### See Also
 
@@ -45,15 +39,9 @@ public CSSValueList(IEnumerable<CSSValue> values)
 
 ## CSSValueList(params CSSValue[]) {#constructor_1}
 
-Initializes a new instance of the [`CSSValueList`](../) class.
-
 ```csharp
 public CSSValueList(params CSSValue[] values)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| values | CSSValue[] | The values. |
 
 ### See Also
 

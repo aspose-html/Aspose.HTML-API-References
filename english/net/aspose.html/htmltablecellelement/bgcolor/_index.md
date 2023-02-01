@@ -1,14 +1,12 @@
 ---
 title: BgColor
 second_title: Aspose.HTML for .NET API Reference
-description: Cell background color. See the bgcolor attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html/htmltablecellelement/bgcolor/
 ---
 ## HTMLTableCellElement.BgColor property
-
-Cell background color. See the bgcolor attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01.
 
 ```csharp
 public string BgColor { get; set; }

@@ -1,14 +1,12 @@
 ---
 title: Width
 second_title: Aspose.HTML for .NET API Reference
-description: The width of the rule. See the width attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html/htmlhrelement/width/
 ---
 ## HTMLHRElement.Width property
-
-The width of the rule. See the width attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01.
 
 ```csharp
 public string Width { get; set; }

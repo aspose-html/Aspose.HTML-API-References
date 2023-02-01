@@ -1,14 +1,12 @@
 ---
 title: TextOptions
 second_title: Aspose.HTML for .NET API Reference
-description: Represents text rendering options for ImageDevice./imagedevice/.
+description: 
 type: docs
 weight: 4340
 url: /net/aspose.html.rendering.image/textoptions/
 ---
 ## TextOptions class
-
-Represents text rendering options for [`ImageDevice`](../imagedevice/).
 
 ```csharp
 public class TextOptions
@@ -18,7 +16,7 @@ public class TextOptions
 
 | Name | Description |
 | --- | --- |
-| [TextRenderingHint](../../aspose.html.rendering.image/textoptions/textrenderinghint/) { get; set; } | Sets or gets TextRenderingHint which influences text rendering quality. By default this property is SystemDefault. |
+| [TextRenderingHint](../../aspose.html.rendering.image/textoptions/textrenderinghint/) { get; set; } |  |
 
 ### See Also
 

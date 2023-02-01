@@ -1,14 +1,12 @@
 ---
 title: CSS_RGBCOLOR
 second_title: Aspose.HTML for .NET API Reference
-description: The value is a RGB color. The value can be obtained by using the GetRGBColorValue method.
+description: 
 type: docs
 weight: 370
 url: /net/aspose.html.dom.css/cssprimitivevalue/css_rgbcolor/
 ---
 ## CSSPrimitiveValue.CSS_RGBCOLOR field
-
-The value is a RGB color. The value can be obtained by using the GetRGBColorValue method.
 
 ```csharp
 public const ushort CSS_RGBCOLOR;

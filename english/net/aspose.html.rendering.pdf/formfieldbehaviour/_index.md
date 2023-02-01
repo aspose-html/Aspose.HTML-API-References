@@ -1,14 +1,12 @@
 ---
 title: FormFieldBehaviour
 second_title: Aspose.HTML for .NET API Reference
-description: This enumeration is used to specify the behavior of form fields in the output PDF document.
+description: 
 type: docs
 weight: 4430
 url: /net/aspose.html.rendering.pdf/formfieldbehaviour/
 ---
 ## FormFieldBehaviour enumeration
-
-This enumeration is used to specify the behavior of form fields in the output PDF document.
 
 ```csharp
 public enum FormFieldBehaviour
@@ -18,8 +16,8 @@ public enum FormFieldBehaviour
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Interactive | `0` | The output PDF document will contain interactive form fields. |
-| Flattened | `1` | The output PDF document will contain flattened form fields. |
+| Interactive | `0` |  |
+| Flattened | `1` |  |
 
 ### See Also
 

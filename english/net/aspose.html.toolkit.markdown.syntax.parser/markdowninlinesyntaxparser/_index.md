@@ -1,14 +1,12 @@
 ---
 title: MarkdownInlineSyntaxParser
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the base class MarkdownInlineSyntaxParser
+description: 
 type: docs
 weight: 5470
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/
 ---
 ## MarkdownInlineSyntaxParser class
-
-Defines the base class MarkdownInlineSyntaxParser
 
 ```csharp
 public abstract class MarkdownInlineSyntaxParser
@@ -18,8 +16,8 @@ public abstract class MarkdownInlineSyntaxParser
 
 | Name | Description |
 | --- | --- |
-| abstract [CanParse](../../aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/canparse/)(IInlineParsingContext) | Get the can parse boolean value. |
-| abstract [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/parse/)(IInlineParsingContext) | Defines the interface for parse. |
+| abstract [CanParse](../../aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/canparse/)(IInlineParsingContext) |  |
+| abstract [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/parse/)(IInlineParsingContext) |  |
 
 ### See Also
 

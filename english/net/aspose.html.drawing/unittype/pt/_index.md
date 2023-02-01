@@ -1,14 +1,12 @@
 ---
 title: Pt
 second_title: Aspose.HTML for .NET API Reference
-description: Measurement is in points
+description: 
 type: docs
 weight: 190
 url: /net/aspose.html.drawing/unittype/pt/
 ---
 ## UnitType.Pt field
-
-Measurement is in points
 
 ```csharp
 public static readonly UnitType Pt;

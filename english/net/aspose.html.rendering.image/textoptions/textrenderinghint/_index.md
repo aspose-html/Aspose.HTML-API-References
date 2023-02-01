@@ -1,14 +1,12 @@
 ---
 title: TextRenderingHint
 second_title: Aspose.HTML for .NET API Reference
-description: Sets or gets TextRenderingHint which influences text rendering quality. By default this property is SystemDefault.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.rendering.image/textoptions/textrenderinghint/
 ---
 ## TextOptions.TextRenderingHint property
-
-Sets or gets TextRenderingHint which influences text rendering quality. By default this property is SystemDefault.
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }

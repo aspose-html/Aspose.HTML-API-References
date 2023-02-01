@@ -1,14 +1,12 @@
 ---
 title: Alpha
 second_title: Aspose.HTML for .NET API Reference
-description: Represents the alpha component of the color.
+description: 
 type: docs
 weight: 240
 url: /net/aspose.html.drawing/color/alpha/
 ---
 ## Color.Alpha property
-
-Represents the alpha component of the color.
 
 ```csharp
 public float Alpha { get; }

@@ -1,22 +1,16 @@
 ---
 title: IsEmpty
 second_title: Aspose.HTML for .NET API Reference
-description: Return true if length 0.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.html.toolkit.markdown.syntax.text/textspan/isempty/
 ---
 ## TextSpan.IsEmpty method
 
-Return true if length ==0.
-
 ```csharp
 public bool IsEmpty()
 ```
-
-### Return Value
-
-The boolean value.
 
 ### See Also
 

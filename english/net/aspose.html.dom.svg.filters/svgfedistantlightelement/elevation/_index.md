@@ -1,22 +1,16 @@
 ---
 title: Elevation
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute elevation on the given feDistantLight element.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.filters/svgfedistantlightelement/elevation/
 ---
 ## SVGFEDistantLightElement.Elevation property
 
-Corresponds to attribute ‘elevation’ on the given ‘feDistantLight’ element.
-
 ```csharp
 public SVGAnimatedNumber Elevation { get; }
 ```
-
-### Property Value
-
-The attribute ‘elevation’ of the given ‘feDistantLight’ element.
 
 ### See Also
 

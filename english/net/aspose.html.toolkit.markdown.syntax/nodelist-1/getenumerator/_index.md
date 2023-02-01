@@ -1,22 +1,16 @@
 ---
 title: GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: Gets the nodes in the collection.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/nodelist-1/getenumerator/
 ---
 ## NodeList&lt;T&gt;.GetEnumerator method
 
-Gets the nodes in the collection.
-
 ```csharp
 public abstract IEnumerator<T> GetEnumerator()
 ```
-
-### Return Value
-
-The IEnumerator.
 
 ### See Also
 

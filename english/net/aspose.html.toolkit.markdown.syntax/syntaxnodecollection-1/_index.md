@@ -1,23 +1,17 @@
 ---
 title: SyntaxNodeCollectionT
 second_title: Aspose.HTML for .NET API Reference
-description: Represents a collection of syntax nodes.
+description: 
 type: docs
 weight: 5550
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/
 ---
 ## SyntaxNodeCollection&lt;T&gt; class
 
-Represents a collection of syntax nodes.
-
 ```csharp
 public class SyntaxNodeCollection<T> : NodeList<T>, IList<T>
     where T : MarkdownSyntaxNode
 ```
-
-| Parameter | Description |
-| --- | --- |
-| T | The type of the collection values. |
 
 ## Constructors
 
@@ -29,24 +23,24 @@ public class SyntaxNodeCollection<T> : NodeList<T>, IList<T>
 
 | Name | Description |
 | --- | --- |
-| override [Count](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/count/) { get; } | Gets the number of values in the collection. |
-| [IsReadOnly](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/isreadonly/) { get; } | Get the readonly flag. |
-| [Item](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/item/) { get; set; } | Gets or sets the value at the given index. |
+| override [Count](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/count/) { get; } |  |
+| [IsReadOnly](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/isreadonly/) { get; } |  |
+| [Item](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/item/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/add/)(T) | Adds the given item to the collection. |
-| [Clear](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/clear/)() | Removes all items from the collection. |
-| [Contains](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/contains/)(T) | Determines whether the given item exists in the collection. |
+| [Add](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/add/)(T) |  |
+| [Clear](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/clear/)() |  |
+| [Contains](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/contains/)(T) |  |
 | [CopyTo](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/copyto/)(T[], int) |  |
-| override [Get](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/get/)(int) | Gets the item at the given index. |
-| override [GetEnumerator](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/getenumerator/)() | Gets the values in the collection. |
-| [IndexOf](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/indexof/)(T) | Gets the index of the given item. |
-| [Insert](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/insert/)(int, T) | Inserts the given item at the specified index. |
-| [Remove](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/remove/)(T) | Removes the item from the collection. |
-| [RemoveAt](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/removeat/)(int) | Removes the item at the given index. |
+| override [Get](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/get/)(int) |  |
+| override [GetEnumerator](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/getenumerator/)() |  |
+| [IndexOf](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/indexof/)(T) |  |
+| [Insert](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/insert/)(int, T) |  |
+| [Remove](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/remove/)(T) |  |
+| [RemoveAt](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection`1/removeat/)(int) |  |
 | [WriteTo](../../aspose.html.toolkit.markdown.syntax/nodelist`1/writeto/)(TextWriter) |  |
 
 ### See Also

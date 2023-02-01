@@ -1,26 +1,16 @@
 ---
 title: ContainsLinkReferenceDefinition
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the ContainsLinkReferenceDefinition
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/containslinkreferencedefinition/
 ---
 ## IInlinePostProcessingContext.ContainsLinkReferenceDefinition method
 
-Defines the ContainsLinkReferenceDefinition
-
 ```csharp
 public bool ContainsLinkReferenceDefinition(string label)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| label | String | The label. |
-
-### Return Value
-
-The boolean.
 
 ### See Also
 

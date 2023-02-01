@@ -1,22 +1,16 @@
 ---
 title: FontsSettings
 second_title: Aspose.HTML for .NET API Reference
-description: Gets a FontsSettingsaspose.html/fontssettings/ object which is used for configuration of fonts handling.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.services/iuseragentservice/fontssettings/
 ---
 ## IUserAgentService.FontsSettings property
 
-Gets a [`FontsSettings`](../../../aspose.html/fontssettings/) object which is used for configuration of fonts handling.
-
 ```csharp
 public FontsSettings FontsSettings { get; }
 ```
-
-### Property Value
-
-The [`FontsSettings`](../../../aspose.html/fontssettings/) settings.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: TextLine
 second_title: Aspose.HTML for .NET API Reference
-description: Represent the TextLine.
+description: 
 type: docs
 weight: 5640
 url: /net/aspose.html.toolkit.markdown.syntax.text/textline/
 ---
 ## TextLine structure
-
-Represent the TextLine.
 
 ```csharp
 public struct TextLine
@@ -18,17 +16,17 @@ public struct TextLine
 
 | Name | Description |
 | --- | --- |
-| [End](../../aspose.html.toolkit.markdown.syntax.text/textline/end/) { get; } | Get the end position. |
-| [LineBreakLength](../../aspose.html.toolkit.markdown.syntax.text/textline/linebreaklength/) { get; } | Get the line break length. |
-| [LineNumber](../../aspose.html.toolkit.markdown.syntax.text/textline/linenumber/) { get; } | Get the LineNumber. |
-| [Start](../../aspose.html.toolkit.markdown.syntax.text/textline/start/) { get; } | Get the start position. |
-| [Text](../../aspose.html.toolkit.markdown.syntax.text/textline/text/) { get; } | Get the Text. |
+| [End](../../aspose.html.toolkit.markdown.syntax.text/textline/end/) { get; } |  |
+| [LineBreakLength](../../aspose.html.toolkit.markdown.syntax.text/textline/linebreaklength/) { get; } |  |
+| [LineNumber](../../aspose.html.toolkit.markdown.syntax.text/textline/linenumber/) { get; } |  |
+| [Start](../../aspose.html.toolkit.markdown.syntax.text/textline/start/) { get; } |  |
+| [Text](../../aspose.html.toolkit.markdown.syntax.text/textline/text/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [ToString](../../aspose.html.toolkit.markdown.syntax.text/textline/tostring/)() | Override the ToString |
+| override [ToString](../../aspose.html.toolkit.markdown.syntax.text/textline/tostring/)() |  |
 
 ### See Also
 

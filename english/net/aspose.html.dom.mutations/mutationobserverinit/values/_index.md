@@ -1,22 +1,16 @@
 ---
 title: Values
 second_title: Aspose.HTML for .NET API Reference
-description: Gets a collection containing the values in the MutationObserverInitaspose.html.dom.mutations/mutationobserverinit/ collection.
+description: 
 type: docs
 weight: 130
 url: /net/aspose.html.dom.mutations/mutationobserverinit/values/
 ---
 ## MutationObserverInit.Values property
 
-Gets a collection containing the values in the [`MutationObserverInit`](../) collection.
-
 ```csharp
 public ICollection<object> Values { get; }
 ```
-
-### Return Value
-
-A collection containing the values.
 
 ### See Also
 

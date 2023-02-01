@@ -1,14 +1,12 @@
 ---
 title: Face
 second_title: Aspose.HTML for .NET API Reference
-description: Font face identifier. See the face attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html/htmlbasefontelement/face/
 ---
 ## HTMLBaseFontElement.Face property
-
-Font face identifier. See the face attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01.
 
 ```csharp
 public string Face { get; set; }

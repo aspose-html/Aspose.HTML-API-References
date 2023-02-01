@@ -1,14 +1,12 @@
 ---
 title: FormElementType
 second_title: Aspose.HTML for .NET API Reference
-description: Represents an enumeration of the Form Elements types and their corresponding to the HTML Elements
+description: 
 type: docs
 weight: 2950
 url: /net/aspose.html.forms/formelementtype/
 ---
 ## FormElementType enumeration
-
-Represents an enumeration of the Form Elements types and their corresponding to the HTML Elements
 
 ```csharp
 public enum FormElementType
@@ -18,13 +16,13 @@ public enum FormElementType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Unknown | `0` | Corresponding to any HTML Element that is not been converting to the any of implemented [`FormElement`](../formelement/). |
-| Input | `1` | Corresponding to the [`HTMLInputElement`](../../aspose.html/htmlinputelement/). |
-| Select | `2` | Corresponding to the [`HTMLSelectElement`](../../aspose.html/htmlselectelement/). |
-| TextArea | `3` | Corresponding to the [`HTMLTextAreaElement`](../../aspose.html/htmltextareaelement/). |
-| Option | `4` | Corresponding to the [`HTMLOptionElement`](../../aspose.html/htmloptionelement/). |
-| Button | `5` | Corresponding to the [`HTMLButtonElement`](../../aspose.html/htmlbuttonelement/). |
-| DataList | `6` | Corresponding to the [`HTMLDataListElement`](../../aspose.html/htmldatalistelement/). |
+| Unknown | `0` |  |
+| Input | `1` |  |
+| Select | `2` |  |
+| TextArea | `3` |  |
+| Option | `4` |  |
+| Button | `5` |  |
+| DataList | `6` |  |
 
 ### See Also
 

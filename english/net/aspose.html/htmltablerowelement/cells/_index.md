@@ -1,14 +1,12 @@
 ---
 title: Cells
 second_title: Aspose.HTML for .NET API Reference
-description: The collection of cells in this row. version DOM Level 2
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html/htmltablerowelement/cells/
 ---
 ## HTMLTableRowElement.Cells property
-
-The collection of cells in this row. @version DOM Level 2
 
 ```csharp
 public HTMLCollection Cells { get; }

@@ -1,14 +1,12 @@
 ---
 title: PageUrlRestriction
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets restriction applied to URLs of handled pages. Default value is RootAndSubFolders.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.saving/resourcehandlingoptions/pageurlrestriction/
 ---
 ## ResourceHandlingOptions.PageUrlRestriction property
-
-Gets or sets restriction applied to URLs of handled pages. Default value is RootAndSubFolders.
 
 ```csharp
 public UrlRestriction PageUrlRestriction { get; set; }

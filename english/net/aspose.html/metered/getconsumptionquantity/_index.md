@@ -1,22 +1,16 @@
 ---
 title: GetConsumptionQuantity
 second_title: Aspose.HTML for .NET API Reference
-description: Gets consumption file size
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html/metered/getconsumptionquantity/
 ---
 ## Metered.GetConsumptionQuantity method
 
-Gets consumption file size
-
 ```csharp
 public static decimal GetConsumptionQuantity()
 ```
-
-### Return Value
-
-consumption quantity
 
 ### See Also
 

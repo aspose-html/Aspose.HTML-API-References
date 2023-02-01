@@ -1,22 +1,16 @@
 ---
 title: StatusCode
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets the status code.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.html.net/responsemessage/statuscode/
 ---
 ## ResponseMessage.StatusCode property
 
-Gets or sets the status code.
-
 ```csharp
 public HttpStatusCode StatusCode { get; set; }
 ```
-
-### Property Value
-
-The status code.
 
 ### See Also
 

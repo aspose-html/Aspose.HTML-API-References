@@ -1,22 +1,16 @@
 ---
 title: CustomEvent
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the CustomEventaspose.html.dom.events/customevent/ class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.dom.events/customevent/customevent/
 ---
 ## CustomEvent(string) {#constructor}
 
-Initializes a new instance of the [`CustomEvent`](../) class.
-
 ```csharp
 public CustomEvent(string type)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| type | String | The event type. |
 
 ### See Also
 

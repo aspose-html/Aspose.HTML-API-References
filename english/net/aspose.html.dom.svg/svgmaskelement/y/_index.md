@@ -1,22 +1,16 @@
 ---
 title: Y
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute y on the given mask element. Takes one of the constants defined in SVGUnitTypes.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html.dom.svg/svgmaskelement/y/
 ---
 ## SVGMaskElement.Y property
 
-Corresponds to attribute ‘y’ on the given ‘mask’ element. Takes one of the constants defined in SVGUnitTypes.
-
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
-
-### Property Value
-
-The attribute ‘y’ of the given ‘mask’ element.
 
 ### See Also
 

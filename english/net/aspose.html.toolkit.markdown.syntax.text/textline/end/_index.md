@@ -1,14 +1,12 @@
 ---
 title: End
 second_title: Aspose.HTML for .NET API Reference
-description: Get the end position.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.text/textline/end/
 ---
 ## TextLine.End property
-
-Get the end position.
 
 ```csharp
 public int End { get; }

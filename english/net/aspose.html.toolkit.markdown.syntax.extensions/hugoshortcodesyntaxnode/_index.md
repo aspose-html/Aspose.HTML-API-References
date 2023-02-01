@@ -1,14 +1,12 @@
 ---
 title: HugoShortCodeSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the HugoShortCodeSyntaxNode
+description: 
 type: docs
 weight: 4920
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/
 ---
 ## HugoShortCodeSyntaxNode class
-
-Defines the HugoShortCodeSyntaxNode
 
 ```csharp
 public class HugoShortCodeSyntaxNode : InlineContainerSyntaxNode
@@ -18,32 +16,32 @@ public class HugoShortCodeSyntaxNode : InlineContainerSyntaxNode
 
 | Name | Description |
 | --- | --- |
-| [FirstChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/firstchild/) { get; } | Get the first child. |
-| [LastChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/lastchild/) { get; } | Get the last child. |
-| [NextSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/nextsibling/) { get; } | Get ghe next sibling. |
-| [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
-| [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
+| [FirstChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/firstchild/) { get; } |  |
+| [LastChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/lastchild/) { get; } |  |
+| [NextSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/nextsibling/) { get; } |  |
+| [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } |  |
+| [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.html.toolkit.markdown.syntax/inlinecontainersyntaxnode/accept/)(MarkdownSyntaxVisitor) | Defines the interface for accept visitor. |
-| [AppendChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/appendchild/)(MarkdownSyntaxNode) | Append child node. |
-| [ChildNodes](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/childnodes/)() | Get the child nodes collection. |
-| [GetEnumerator](../../aspose.html.toolkit.markdown.syntax/inlinecontainersyntaxnode/getenumerator/)() | Returns an enumerator that iterates through the collection. |
-| [GetLeadingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getleadingtrivia/)() | Get the leading trivia. |
-| [GetParameter](../../aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/getparameter/)(int) | Defines the GetParameter |
-| [GetParametersCount](../../aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/getparameterscount/)() | Defines the GetParametersCount |
-| [GetSyntaxTree](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getsyntaxtree/)() | Get the syntax tree. |
-| [GetTrailingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/gettrailingtrivia/)() | Get the Trailing trivia. |
-| [InsertBefore](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/)(MarkdownSyntaxNode, MarkdownSyntaxNode) | Insert before node. |
-| [IsEndTag](../../aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/isendtag/)() | Defines the interface for check IsEndTag |
-| [RemoveChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/removechild/)(MarkdownSyntaxNode) | Remove the child. |
-| [ReplaceChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/replacechild/)(MarkdownSyntaxNode, MarkdownSyntaxNode) | Replace the child node. |
-| override [ToString](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/tostring/)() | Override ToString method. |
-| virtual [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(MarkdownTextWriter) | Write to MarkdownTextWriter. |
-| [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(TextWriter) | Write nodes to text writer. |
+| override [Accept](../../aspose.html.toolkit.markdown.syntax/inlinecontainersyntaxnode/accept/)(MarkdownSyntaxVisitor) |  |
+| [AppendChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/appendchild/)(MarkdownSyntaxNode) |  |
+| [ChildNodes](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/childnodes/)() |  |
+| [GetEnumerator](../../aspose.html.toolkit.markdown.syntax/inlinecontainersyntaxnode/getenumerator/)() |  |
+| [GetLeadingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getleadingtrivia/)() |  |
+| [GetParameter](../../aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/getparameter/)(int) |  |
+| [GetParametersCount](../../aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/getparameterscount/)() |  |
+| [GetSyntaxTree](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getsyntaxtree/)() |  |
+| [GetTrailingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/gettrailingtrivia/)() |  |
+| [InsertBefore](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/)(MarkdownSyntaxNode, MarkdownSyntaxNode) |  |
+| [IsEndTag](../../aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/isendtag/)() |  |
+| [RemoveChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/removechild/)(MarkdownSyntaxNode) |  |
+| [ReplaceChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/replacechild/)(MarkdownSyntaxNode, MarkdownSyntaxNode) |  |
+| override [ToString](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/tostring/)() |  |
+| virtual [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(MarkdownTextWriter) |  |
+| [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(TextWriter) |  |
 
 ### See Also
 

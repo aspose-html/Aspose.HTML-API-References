@@ -1,14 +1,12 @@
 ---
 title: Elements
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a collection of all form control elements in the form.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html/htmlformelement/elements/
 ---
 ## HTMLFormElement.Elements property
-
-Returns a collection of all form control elements in the form.
 
 ```csharp
 public HTMLCollection Elements { get; }

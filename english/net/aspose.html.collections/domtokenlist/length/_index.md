@@ -1,14 +1,12 @@
 ---
 title: Length
 second_title: Aspose.HTML for .NET API Reference
-description: Returns an ulong which represents the number of tokens stored in this list.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.collections/domtokenlist/length/
 ---
 ## DOMTokenList.Length property
-
-Returns an ulong which represents the number of tokens stored in this list.
 
 ```csharp
 public ulong Length { get; }

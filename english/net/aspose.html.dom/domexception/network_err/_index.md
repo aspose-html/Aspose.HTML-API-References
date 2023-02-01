@@ -1,14 +1,12 @@
 ---
 title: NETWORK_ERR
 second_title: Aspose.HTML for .NET API Reference
-description: A network error occurred.
+description: 
 type: docs
 weight: 180
 url: /net/aspose.html.dom/domexception/network_err/
 ---
 ## DOMException.NETWORK_ERR field
-
-A network error occurred.
 
 ```csharp
 public const ushort NETWORK_ERR;

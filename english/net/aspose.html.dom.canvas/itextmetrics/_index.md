@@ -1,14 +1,12 @@
 ---
 title: ITextMetrics
 second_title: Aspose.HTML for .NET API Reference
-description: Represents the dimension of a text in the canvas.
+description: 
 type: docs
 weight: 280
 url: /net/aspose.html.dom.canvas/itextmetrics/
 ---
 ## ITextMetrics interface
-
-Represents the dimension of a text in the canvas.
 
 ```csharp
 public interface ITextMetrics
@@ -18,7 +16,7 @@ public interface ITextMetrics
 
 | Name | Description |
 | --- | --- |
-| [Width](../../aspose.html.dom.canvas/itextmetrics/width/) { get; } | Is a double giving the calculated width of a segment of inline text in CSS pixels. |
+| [Width](../../aspose.html.dom.canvas/itextmetrics/width/) { get; } |  |
 
 ### See Also
 

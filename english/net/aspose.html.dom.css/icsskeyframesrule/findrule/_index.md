@@ -1,26 +1,16 @@
 ---
 title: FindRule
 second_title: Aspose.HTML for .NET API Reference
-description: The findRule method returns the rule with a key matching the passed key. If no such rule exists a null value is returned
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.dom.css/icsskeyframesrule/findrule/
 ---
 ## ICSSKeyframesRule.FindRule method
 
-The findRule method returns the rule with a key matching the passed key. If no such rule exists, a null value is returned
-
 ```csharp
 public ICSSKeyframeRule FindRule(string key)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | String | The key which described the rule to find. The key must resolve to a number between 0 and 1, or the rule is ignored. |
-
-### Return Value
-
-Returns the last declared [`CSSKeyframeRule`](../../icsskeyframerule/) matching the specified keyframe selector. If no matching rule exists, the method does nothing.
 
 ### See Also
 

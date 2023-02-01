@@ -1,24 +1,16 @@
 ---
 title: Style
 second_title: Aspose.HTML for .NET API Reference
-description: The read-only style property is the CSSStyleDeclarationaspose.html.dom.css/icssstyledeclaration/ interface for the declaration block of the CSSStyleRuleaspose.html.dom.css/icssstylerule/.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/icssstylerule/style/
 ---
 ## ICSSStyleRule.Style property
 
-The read-only style property is the [`CSSStyleDeclaration`](../../icssstyledeclaration/) interface for the declaration block of the [`CSSStyleRule`](../).
-
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
-
-### Property Value
-
-The style attribute must return a CSSStyleDeclaration object for the style rule, with the following properties:
-
-computed flag - Unset.declarations - The declared declarations in the rule, in specified order.parent CSS rule - The context object.owner node - Null.
 
 ### See Also
 

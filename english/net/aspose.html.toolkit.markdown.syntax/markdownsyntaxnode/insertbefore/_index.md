@@ -1,27 +1,16 @@
 ---
 title: InsertBefore
 second_title: Aspose.HTML for .NET API Reference
-description: Insert before node.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/
 ---
 ## MarkdownSyntaxNode.InsertBefore method
 
-Insert before node.
-
 ```csharp
 public MarkdownSyntaxNode InsertBefore(MarkdownSyntaxNode node, MarkdownSyntaxNode child)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| node | MarkdownSyntaxNode | The MarkdownSyntaxNode. |
-| child | MarkdownSyntaxNode | The MarkdownSyntaxNode. |
-
-### Return Value
-
-The MarkdownSyntaxNode.
 
 ### See Also
 

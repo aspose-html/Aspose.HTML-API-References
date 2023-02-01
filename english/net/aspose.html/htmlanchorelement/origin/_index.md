@@ -1,14 +1,12 @@
 ---
 title: Origin
 second_title: Aspose.HTML for .NET API Reference
-description: Gets a string representation of the origin segment of the associated URL.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.html/htmlanchorelement/origin/
 ---
 ## HTMLAnchorElement.Origin property
-
-Gets a string representation of the origin segment of the associated URL.
 
 ```csharp
 public string Origin { get; }

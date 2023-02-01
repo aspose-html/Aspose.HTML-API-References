@@ -1,14 +1,12 @@
 ---
 title: Uint16Array
 second_title: Aspose.HTML for .NET API Reference
-description: Represents an array of twos-complement 16-bit unsigned integers in the platform byte order.
+description: 
 type: docs
 weight: 5800
 url: /net/aspose.html/uint16array/
 ---
 ## Uint16Array class
-
-Represents an array of twos-complement 16-bit unsigned integers in the platform byte order.
 
 ```csharp
 public class Uint16Array : TypedArray<ushort>
@@ -18,33 +16,33 @@ public class Uint16Array : TypedArray<ushort>
 
 | Name | Description |
 | --- | --- |
-| [Uint16Array](uint16array#constructor)(ArrayBuffer) | Initializes a new instance of the [`Uint16Array`](./uint16array/) class. |
-| [Uint16Array](uint16array#constructor_3)(int) | Initializes a new instance of the [`Uint16Array`](./uint16array/) class. |
-| [Uint16Array](uint16array#constructor_4)(ushort[]) | Initializes a new instance of the [`Uint16Array`](./uint16array/) class. |
-| [Uint16Array](uint16array#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the [`Uint16Array`](./uint16array/) class. |
-| [Uint16Array](uint16array#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the [`Uint16Array`](./uint16array/) class. |
+| [Uint16Array](uint16array#constructor)(ArrayBuffer) |  |
+| [Uint16Array](uint16array#constructor_3)(int) |  |
+| [Uint16Array](uint16array#constructor_4)(ushort[]) |  |
+| [Uint16Array](uint16array#constructor_1)(ArrayBuffer, int) |  |
+| [Uint16Array](uint16array#constructor_2)(ArrayBuffer, int, int) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Buffer](../../aspose.html/typedarray/buffer/) { get; } | Gets the ArrayBuffer referenced by this instance. |
-| [ByteLength](../../aspose.html/typedarray/bytelength/) { get; } | Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes. |
-| [ByteOffset](../../aspose.html/typedarray/byteoffset/) { get; } | Gets the byteOffset from the start of referenced ArrayBuffer. |
-| override [Item](../../aspose.html/uint16array/item/) { get; set; } | Gets or sets the UInt16 at the specified index. |
-| [Length](../../aspose.html/typedarray/length/) { get; } | Gets the length of a typed array. |
+| [Buffer](../../aspose.html/typedarray/buffer/) { get; } |  |
+| [ByteLength](../../aspose.html/typedarray/bytelength/) { get; } |  |
+| [ByteOffset](../../aspose.html/typedarray/byteoffset/) { get; } |  |
+| override [Item](../../aspose.html/uint16array/item/) { get; set; } |  |
+| [Length](../../aspose.html/typedarray/length/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [BYTES_PER_ELEMENT](../../aspose.html/uint16array/bytes_per_element/) | The property represents the size in bytes of each element in an typed array. |
+| static readonly [BYTES_PER_ELEMENT](../../aspose.html/uint16array/bytes_per_element/) |  |
 
 ### See Also
 

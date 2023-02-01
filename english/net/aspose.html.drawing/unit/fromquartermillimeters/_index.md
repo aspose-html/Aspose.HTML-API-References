@@ -1,26 +1,16 @@
 ---
 title: FromQuarterMillimeters
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a Lengthaspose.html.drawing/length/ object that is represented in quarter-millimeters.
+description: 
 type: docs
 weight: 190
 url: /net/aspose.html.drawing/unit/fromquartermillimeters/
 ---
 ## Unit.FromQuarterMillimeters method
 
-Returns a [`Length`](../../length/) object that is represented in quarter-millimeters.
-
 ```csharp
 public static Length FromQuarterMillimeters(double value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | Double | The value. |
-
-### Return Value
-
-Returns a [`Length`](../../length/) object.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: SVG_PRESERVEASPECTRATIO_XMAXYMID
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to value xMaxYMid for attribute preserveAspectRatio.
+description: 
 type: docs
 weight: 100
 url: /net/aspose.html.dom.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmaxymid/
 ---
 ## SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMAXYMID field
-
-Corresponds to value 'xMaxYMid' for attribute ‘preserveAspectRatio’.
 
 ```csharp
 public const ushort SVG_PRESERVEASPECTRATIO_XMAXYMID;

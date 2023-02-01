@@ -1,14 +1,12 @@
 ---
 title: Pc
 second_title: Aspose.HTML for .NET API Reference
-description: Measurement is in picas
+description: 
 type: docs
 weight: 170
 url: /net/aspose.html.drawing/unittype/pc/
 ---
 ## UnitType.Pc field
-
-Measurement is in picas
 
 ```csharp
 public static readonly UnitType Pc;

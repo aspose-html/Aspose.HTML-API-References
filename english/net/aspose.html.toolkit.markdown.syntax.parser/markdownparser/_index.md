@@ -1,14 +1,12 @@
 ---
 title: MarkdownParser
 second_title: Aspose.HTML for .NET API Reference
-description: Represents an MarkDown format document parser.
+description: 
 type: docs
 weight: 5480
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownparser/
 ---
 ## MarkdownParser class
-
-Represents an MarkDown format document parser.
 
 ```csharp
 public class MarkdownParser
@@ -18,24 +16,24 @@ public class MarkdownParser
 
 | Name | Description |
 | --- | --- |
-| [MarkdownParser](markdownparser#constructor)() | Initializes a new instance of the [`MarkdownParser`](./markdownparser/) class. |
-| [MarkdownParser](markdownparser#constructor_1)(Action&lt;IMarkdownParserBuilder&gt;) | Initializes a new instance of the [`MarkdownParser`](./markdownparser/) class. |
+| [MarkdownParser](markdownparser#constructor)() | The default constructor. |
+| [MarkdownParser](markdownparser#constructor_1)(Action&lt;IMarkdownParserBuilder&gt;) |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/#parse)(Stream) | Parse from Stream. |
-| [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/#parse_2)(string) | Prase from the string context. |
-| [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/#parse_1)(TextReader) | Parse an TextReader. |
-| [ParseFile](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parsefile/)(string) | Parse an file. |
+| [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/#parse)(Stream) |  |
+| [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/#parse_2)(string) |  |
+| [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/#parse_1)(TextReader) |  |
+| [ParseFile](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parsefile/)(string) |  |
 
 ## Fields
 
 | Name | Description |
 | --- | --- |
-| static readonly [DefaultConfig](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/defaultconfig/) | The default config actions. |
-| static readonly [FullConfig](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/fullconfig/) | The full default config. |
+| static readonly [DefaultConfig](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/defaultconfig/) |  |
+| static readonly [FullConfig](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/fullconfig/) |  |
 
 ### See Also
 

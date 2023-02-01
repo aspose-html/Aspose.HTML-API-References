@@ -1,14 +1,12 @@
 ---
 title: OnBeforePrint
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.window/iwindoweventhandlers/onbeforeprint/
 ---
 ## IWindowEventHandlers.OnBeforePrint event
-
-Gets or sets event handler
 
 ```csharp
 public event DOMEventHandler OnBeforePrint;

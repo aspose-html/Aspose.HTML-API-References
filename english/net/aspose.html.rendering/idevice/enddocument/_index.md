@@ -1,14 +1,12 @@
 ---
 title: EndDocument
 second_title: Aspose.HTML for .NET API Reference
-description: Ends rendering of the document.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.html.rendering/idevice/enddocument/
 ---
 ## IDevice.EndDocument method
-
-Ends rendering of the document.
 
 ```csharp
 public void EndDocument()

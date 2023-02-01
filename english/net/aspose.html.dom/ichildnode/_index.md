@@ -1,14 +1,12 @@
 ---
 title: IChildNode
 second_title: Aspose.HTML for .NET API Reference
-description: Defines IChildNode./ichildnode/ interface that should be implemented by Node./node/ that can have a parent.
+description: 
 type: docs
 weight: 880
 url: /net/aspose.html.dom/ichildnode/
 ---
 ## IChildNode interface
-
-Defines [`IChildNode`](./ichildnode/) interface that should be implemented by [`Node`](../node/) that can have a parent.
 
 ```csharp
 public interface IChildNode
@@ -18,7 +16,7 @@ public interface IChildNode
 
 | Name | Description |
 | --- | --- |
-| [Remove](../../aspose.html.dom/ichildnode/remove/)() | Removes the current node from parent. |
+| [Remove](../../aspose.html.dom/ichildnode/remove/)() |  |
 
 ### See Also
 

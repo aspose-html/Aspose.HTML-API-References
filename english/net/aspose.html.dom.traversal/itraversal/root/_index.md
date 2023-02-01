@@ -1,22 +1,16 @@
 ---
 title: Root
 second_title: Aspose.HTML for .NET API Reference
-description: The root node of the NodeIterator as specified when it was created.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.dom.traversal/itraversal/root/
 ---
 ## ITraversal.Root property
 
-The root node of the NodeIterator, as specified when it was created.
-
 ```csharp
 public Node Root { get; }
 ```
-
-### Property Value
-
-The root.
 
 ### See Also
 

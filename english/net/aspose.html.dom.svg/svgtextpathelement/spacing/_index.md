@@ -1,22 +1,16 @@
 ---
 title: Spacing
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute spacing on the given textPath element.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svgtextpathelement/spacing/
 ---
 ## SVGTextPathElement.Spacing property
 
-Corresponds to attribute ‘spacing’ on the given ‘textPath’ element.
-
 ```csharp
 public SVGAnimatedEnumeration Spacing { get; }
 ```
-
-### Property Value
-
-The attribute ‘spacing’ of the given ‘textPath’ element.
 
 ### See Also
 

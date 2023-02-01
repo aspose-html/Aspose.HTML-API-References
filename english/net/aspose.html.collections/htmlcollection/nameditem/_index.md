@@ -1,26 +1,16 @@
 ---
 title: NamedItem
 second_title: Aspose.HTML for .NET API Reference
-description: Returns the item in the collection matched specified name.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.collections/htmlcollection/nameditem/
 ---
 ## HTMLCollection.NamedItem method
 
-Returns the item in the collection matched specified name.
-
 ```csharp
 public Element NamedItem(string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | The element name. |
-
-### Return Value
-
-The matched element
 
 ### See Also
 

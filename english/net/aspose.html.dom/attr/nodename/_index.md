@@ -1,22 +1,16 @@
 ---
 title: NodeName
 second_title: Aspose.HTML for .NET API Reference
-description: The name of this node depending on its type.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.dom/attr/nodename/
 ---
 ## Attr.NodeName property
 
-The name of this node, depending on its type.
-
 ```csharp
 public override string NodeName { get; }
 ```
-
-### Property Value
-
-The name of the node.
 
 ### See Also
 

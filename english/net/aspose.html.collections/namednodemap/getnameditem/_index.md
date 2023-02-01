@@ -1,26 +1,16 @@
 ---
 title: GetNamedItem
 second_title: Aspose.HTML for .NET API Reference
-description: Retrieves a node specified by name.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.collections/namednodemap/getnameditem/
 ---
 ## NamedNodeMap.GetNamedItem method
 
-Retrieves a node specified by name.
-
 ```csharp
 public Attr GetNamedItem(string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | The node name. |
-
-### Return Value
-
-Returns node.
 
 ### See Also
 

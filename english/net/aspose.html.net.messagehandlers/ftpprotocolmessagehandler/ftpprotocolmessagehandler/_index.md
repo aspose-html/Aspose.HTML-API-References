@@ -1,14 +1,14 @@
 ---
 title: FtpProtocolMessageHandler
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the FtpProtocolMessageHandleraspose.html.net.messagehandlers/ftpprotocolmessagehandler/ class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.html.net.messagehandlers/ftpprotocolmessagehandler/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler constructor
 
-Initializes a new instance of the [`FtpProtocolMessageHandler`](../) class.
+The default constructor.
 
 ```csharp
 public FtpProtocolMessageHandler()

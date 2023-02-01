@@ -1,14 +1,12 @@
 ---
 title: SVGPathSegArcAbs
 second_title: Aspose.HTML for .NET API Reference
-description: The SVGPathSegArcAbs interface corresponds to an absolute arcto A path data command.
+description: 
 type: docs
 weight: 1700
 url: /net/aspose.html.dom.svg.paths/svgpathsegarcabs/
 ---
 ## SVGPathSegArcAbs class
-
-The SVGPathSegArcAbs interface corresponds to an "absolute arcto" (A) path data command.
 
 ```csharp
 public class SVGPathSegArcAbs : SVGPathSeg
@@ -18,22 +16,22 @@ public class SVGPathSegArcAbs : SVGPathSeg
 
 | Name | Description |
 | --- | --- |
-| [Angle](../../aspose.html.dom.svg.paths/svgpathsegarcabs/angle/) { get; set; } | The rotation angle in degrees for the ellipse's x-axis relative to the x-axis of the user coordinate system. |
-| [LargeArcFlag](../../aspose.html.dom.svg.paths/svgpathsegarcabs/largearcflag/) { get; set; } | The value of the large-arc-flag parameter. |
-| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype/) { get; } | The type of the path segment as specified by one of the constants defined on this interface. |
-| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | The type of the path segment, specified by the corresponding one character command name. |
-| [R1](../../aspose.html.dom.svg.paths/svgpathsegarcabs/r1/) { get; set; } | The x-axis radius for the ellipse (i.e., r1). |
-| [R2](../../aspose.html.dom.svg.paths/svgpathsegarcabs/r2/) { get; set; } | The y-axis radius for the ellipse (i.e., r2). |
-| [SweepFlag](../../aspose.html.dom.svg.paths/svgpathsegarcabs/sweepflag/) { get; set; } | The value of the sweep-flag parameter. |
-| [X](../../aspose.html.dom.svg.paths/svgpathsegarcabs/x/) { get; set; } | The absolute X coordinate for the end point of this path segment. |
-| [Y](../../aspose.html.dom.svg.paths/svgpathsegarcabs/y/) { get; set; } | The absolute Y coordinate for the end point of this path segment. |
+| [Angle](../../aspose.html.dom.svg.paths/svgpathsegarcabs/angle/) { get; set; } |  |
+| [LargeArcFlag](../../aspose.html.dom.svg.paths/svgpathsegarcabs/largearcflag/) { get; set; } |  |
+| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype/) { get; } |  |
+| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } |  |
+| [R1](../../aspose.html.dom.svg.paths/svgpathsegarcabs/r1/) { get; set; } |  |
+| [R2](../../aspose.html.dom.svg.paths/svgpathsegarcabs/r2/) { get; set; } |  |
+| [SweepFlag](../../aspose.html.dom.svg.paths/svgpathsegarcabs/sweepflag/) { get; set; } |  |
+| [X](../../aspose.html.dom.svg.paths/svgpathsegarcabs/x/) { get; set; } |  |
+| [Y](../../aspose.html.dom.svg.paths/svgpathsegarcabs/y/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
 
 ### See Also
 

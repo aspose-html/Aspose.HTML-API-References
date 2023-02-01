@@ -1,22 +1,16 @@
 ---
 title: GetLuminosity
 second_title: Aspose.HTML for .NET API Reference
-description: Returns a luminosity of the Color.
+description: 
 type: docs
 weight: 340
 url: /net/aspose.html.drawing/color/getluminosity/
 ---
 ## Color.GetLuminosity method
 
-Returns a luminosity of the Color.
-
 ```csharp
 public float GetLuminosity()
 ```
-
-### Return Value
-
-A luminosity of the Color.
 
 ### See Also
 

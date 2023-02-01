@@ -22,16 +22,9 @@ public void Add(KeyValuePair<string, object> item)
 
 ## Add(string, object) {#add_1}
 
-Adds the specified key and value to the [`MutationObserverInit`](../) collection.
-
 ```csharp
 public void Add(string key, object value)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | String | The key of the element to add. |
-| value | Object | The value of the element to add. |
 
 ### See Also
 

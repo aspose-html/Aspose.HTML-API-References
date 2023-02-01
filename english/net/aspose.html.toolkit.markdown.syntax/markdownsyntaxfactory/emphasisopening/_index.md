@@ -1,27 +1,16 @@
 ---
 title: EmphasisOpening
 second_title: Aspose.HTML for .NET API Reference
-description: Create the MarkdownSyntaxToken.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emphasisopening/
 ---
 ## MarkdownSyntaxFactory.EmphasisOpening method
 
-Create the MarkdownSyntaxToken.
-
 ```csharp
 public MarkdownSyntaxToken EmphasisOpening(SourceText source, TextSpan span)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | SourceText | The SourceText. |
-| span | TextSpan | The TextSpan. |
-
-### Return Value
-
-The MarkdownSyntaxToken.
 
 ### See Also
 

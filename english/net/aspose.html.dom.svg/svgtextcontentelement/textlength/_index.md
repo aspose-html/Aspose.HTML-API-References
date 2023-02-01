@@ -1,22 +1,16 @@
 ---
 title: TextLength
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute textLength on the given element.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgtextcontentelement/textlength/
 ---
 ## SVGTextContentElement.TextLength property
 
-Corresponds to attribute ‘textLength’ on the given element.
-
 ```csharp
 public SVGAnimatedLength TextLength { get; }
 ```
-
-### Property Value
-
-The attribute ‘textLength’ of the given element.
 
 ### See Also
 

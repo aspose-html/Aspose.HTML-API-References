@@ -1,14 +1,12 @@
 ---
 title: SVGAnimatedTransformList
 second_title: Aspose.HTML for .NET API Reference
-description: Used for the various attributes which specify a set of transformations such as the transform attribute which is available for many of SVGs elements and which can be animated.
+description: 
 type: docs
 weight: 1180
 url: /net/aspose.html.dom.svg.datatypes/svganimatedtransformlist/
 ---
 ## SVGAnimatedTransformList class
-
-Used for the various attributes which specify a set of transformations, such as the ‘transform’ attribute which is available for many of SVG's elements, and which can be animated.
 
 ```csharp
 public class SVGAnimatedTransformList : SVGAnimatedValue<SVGTransformList>
@@ -25,9 +23,9 @@ public class SVGAnimatedTransformList : SVGAnimatedValue<SVGTransformList>
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| override [ToString](../../aspose.html.dom.svg.datatypes/svganimatedtransformlist/tostring/)() | Returns a String that represents this instance. |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svganimatedtransformlist/tostring/)() |  |
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: SVGAnimatedRect
 second_title: Aspose.HTML for .NET API Reference
-description: Used for attributes of type SVGRect which can be animated.
+description: 
 type: docs
 weight: 1160
 url: /net/aspose.html.dom.svg.datatypes/svganimatedrect/
 ---
 ## SVGAnimatedRect class
-
-Used for attributes of type SVGRect which can be animated.
 
 ```csharp
 public class SVGAnimatedRect : SVGAnimatedValue<SVGRect>
@@ -25,9 +23,9 @@ public class SVGAnimatedRect : SVGAnimatedValue<SVGRect>
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| override [ToString](../../aspose.html.dom.svg.datatypes/svganimatedrect/tostring/)() | Returns a String that represents this instance. |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svganimatedrect/tostring/)() |  |
 
 ### See Also
 

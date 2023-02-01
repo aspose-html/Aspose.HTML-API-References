@@ -1,14 +1,12 @@
 ---
 title: ArrayBuffer
 second_title: Aspose.HTML for .NET API Reference
-description: The ArrayBuffer object is used to represent a generic fixed-length raw binary data buffer.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html/arraybuffer/
 ---
 ## ArrayBuffer class
-
-The ArrayBuffer object is used to represent a generic, fixed-length raw binary data buffer.
 
 ```csharp
 public class ArrayBuffer : DOMObject
@@ -18,21 +16,21 @@ public class ArrayBuffer : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [ArrayBuffer](arraybuffer#constructor)(byte[]) | Initializes a new instance of the [`ArrayBuffer`](./arraybuffer/) class. |
-| [ArrayBuffer](arraybuffer#constructor_1)(int) | Initializes a new instance of the [`ArrayBuffer`](./arraybuffer/) class. |
+| [ArrayBuffer](arraybuffer#constructor)(byte[]) |  |
+| [ArrayBuffer](arraybuffer#constructor_1)(int) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [ByteLength](../../aspose.html/arraybuffer/bytelength/) { get; } | The byteLength accessor property represents the length of an ArrayBuffer in bytes. |
-| [Item](../../aspose.html/arraybuffer/item/) { get; set; } | Gets or sets the Byte at the specified index. |
+| [ByteLength](../../aspose.html/arraybuffer/bytelength/) { get; } |  |
+| [Item](../../aspose.html/arraybuffer/item/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
 | [explicit operator](../../aspose.html/arraybuffer/op_explicit/) |  |
 
 ### See Also

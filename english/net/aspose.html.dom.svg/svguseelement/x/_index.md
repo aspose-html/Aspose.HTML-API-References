@@ -1,22 +1,16 @@
 ---
 title: X
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute x on the given use element.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svguseelement/x/
 ---
 ## SVGUseElement.X property
 
-Corresponds to attribute ‘x’ on the given ‘use’ element.
-
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
-
-### Property Value
-
-Corresponds to attribute ‘x’ on the given ‘use’ element.
 
 ### See Also
 

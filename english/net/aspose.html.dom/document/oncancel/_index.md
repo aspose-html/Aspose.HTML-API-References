@@ -1,14 +1,12 @@
 ---
 title: OnCancel
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnCancel event.
+description: 
 type: docs
 weight: 300
 url: /net/aspose.html.dom/document/oncancel/
 ---
 ## Document.OnCancel event
-
-Gets or sets event handler for OnCancel event.
 
 ```csharp
 public event DOMEventHandler OnCancel;

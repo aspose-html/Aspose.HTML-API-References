@@ -1,22 +1,16 @@
 ---
 title: In2
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute in2 on the given feBlend element.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.filters/svgfeblendelement/in2/
 ---
 ## SVGFEBlendElement.In2 property
 
-Corresponds to attribute ‘in2’ on the given ‘feBlend’ element.
-
 ```csharp
 public SVGAnimatedString In2 { get; }
 ```
-
-### Property Value
-
-The attribute ‘in2’ of the given ‘feBlend’ element.
 
 ### See Also
 

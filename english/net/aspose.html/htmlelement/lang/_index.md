@@ -1,14 +1,12 @@
 ---
 title: Lang
 second_title: Aspose.HTML for .NET API Reference
-description: Language code defined in RFC 1766. See the lang attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html/htmlelement/lang/
 ---
 ## HTMLElement.Lang property
-
-Language code defined in RFC 1766. See the lang attribute definition in HTML 4.01.
 
 ```csharp
 public string Lang { get; set; }

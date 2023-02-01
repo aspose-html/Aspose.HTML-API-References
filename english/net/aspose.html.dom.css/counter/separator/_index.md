@@ -1,22 +1,16 @@
 ---
 title: Separator
 second_title: Aspose.HTML for .NET API Reference
-description: This attribute is used for the separator of the nested counters.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/counter/separator/
 ---
 ## Counter.Separator property
 
-This attribute is used for the separator of the nested counters.
-
 ```csharp
 public string Separator { get; }
 ```
-
-### Property Value
-
-The counter separator.
 
 ### See Also
 

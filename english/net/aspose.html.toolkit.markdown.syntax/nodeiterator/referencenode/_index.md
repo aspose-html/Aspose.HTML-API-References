@@ -1,14 +1,12 @@
 ---
 title: ReferenceNode
 second_title: Aspose.HTML for .NET API Reference
-description: Get the reference node.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/nodeiterator/referencenode/
 ---
 ## NodeIterator.ReferenceNode property
-
-Get the reference node.
 
 ```csharp
 public MarkdownSyntaxNode ReferenceNode { get; }

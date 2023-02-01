@@ -1,14 +1,12 @@
 ---
 title: IBlockParsingContext
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the IBlockParsingContext interface.
+description: 
 type: docs
 weight: 5370
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/
 ---
 ## IBlockParsingContext interface
-
-Defines the IBlockParsingContext interface.
 
 ```csharp
 public interface IBlockParsingContext
@@ -18,23 +16,23 @@ public interface IBlockParsingContext
 
 | Name | Description |
 | --- | --- |
-| [Instruction](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/instruction/) { get; } | Get the Instruction. |
-| [Reader](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/reader/) { get; } | Get the Reader. |
-| [Source](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/source/) { get; } | Get the Source. |
-| [SyntaxFactory](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/syntaxfactory/) { get; } | Get the SyntaxFactory. |
+| [Instruction](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/instruction/) { get; } |  |
+| [Reader](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/reader/) { get; } |  |
+| [Source](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/source/) { get; } |  |
+| [SyntaxFactory](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/syntaxfactory/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Close](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/close/#close)(BlockClosingReason) | Defines the Close method. |
-| [Close](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/close/#close_1)(BlockSyntaxDescriptor, BlockClosingReason) | Defines the Close method. |
-| [Delete](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/delete/)(BlockSyntaxDescriptor) | Defines the Delete method. |
-| [GetBlockSyntaxParsers](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getblocksyntaxparsers/)() | Defines the GetBlockSyntaxParsers method. |
-| [GetInlineSyntaxParsers](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getinlinesyntaxparsers/)() | Defines the GetInlineSyntaxParsers method. |
-| [GetOpenBlocks](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getopenblocks/)() | Defines the GetOpenBlocks. |
-| [Peak](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/peak/)() | Defines the Peak method. |
-| [Push](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/push/)(BlockSyntaxNode) | Defines the Push method. |
+| [Close](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/close/#close)(BlockClosingReason) |  |
+| [Close](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/close/#close_1)(BlockSyntaxDescriptor, BlockClosingReason) |  |
+| [Delete](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/delete/)(BlockSyntaxDescriptor) |  |
+| [GetBlockSyntaxParsers](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getblocksyntaxparsers/)() |  |
+| [GetInlineSyntaxParsers](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getinlinesyntaxparsers/)() |  |
+| [GetOpenBlocks](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getopenblocks/)() |  |
+| [Peak](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/peak/)() |  |
+| [Push](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/push/)(BlockSyntaxNode) |  |
 
 ### See Also
 

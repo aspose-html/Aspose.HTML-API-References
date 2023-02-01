@@ -1,22 +1,16 @@
 ---
 title: NextSibling
 second_title: Aspose.HTML for .NET API Reference
-description: Return the next sibling of the added or removed nodes or null.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.dom.mutations/mutationrecord/nextsibling/
 ---
 ## MutationRecord.NextSibling property
 
-Return the next sibling of the added or removed nodes, or null.
-
 ```csharp
 public Node NextSibling { get; }
 ```
-
-### Property Value
-
-The next sibling.
 
 ### See Also
 

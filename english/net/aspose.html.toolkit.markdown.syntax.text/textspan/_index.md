@@ -1,14 +1,12 @@
 ---
 title: TextSpan
 second_title: Aspose.HTML for .NET API Reference
-description: Represents the text span.
+description: 
 type: docs
 weight: 5660
 url: /net/aspose.html.toolkit.markdown.syntax.text/textspan/
 ---
 ## TextSpan structure
-
-Represents the text span.
 
 ```csharp
 public struct TextSpan : IComparable<TextSpan>, IEquatable<TextSpan>
@@ -18,31 +16,31 @@ public struct TextSpan : IComparable<TextSpan>, IEquatable<TextSpan>
 
 | Name | Description |
 | --- | --- |
-| [TextSpan](textspan)(int, int) | Create the TextSpan |
+| [TextSpan](textspan)(int, int) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [End](../../aspose.html.toolkit.markdown.syntax.text/textspan/end/) { get; } | Get the End index. |
-| [Length](../../aspose.html.toolkit.markdown.syntax.text/textspan/length/) { get; } | Get the length. |
-| [Start](../../aspose.html.toolkit.markdown.syntax.text/textspan/start/) { get; } | Get the Start index. |
+| [End](../../aspose.html.toolkit.markdown.syntax.text/textspan/end/) { get; } |  |
+| [Length](../../aspose.html.toolkit.markdown.syntax.text/textspan/length/) { get; } |  |
+| [Start](../../aspose.html.toolkit.markdown.syntax.text/textspan/start/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| static [Combine](../../aspose.html.toolkit.markdown.syntax.text/textspan/combine/)(TextSpan, TextSpan) | Combines the text spans |
-| static [Create](../../aspose.html.toolkit.markdown.syntax.text/textspan/create/)(int, int) | Create the TextSpan |
-| static [CreateEmpty](../../aspose.html.toolkit.markdown.syntax.text/textspan/createempty/#createempty)() | Create the empty text span. |
-| static [CreateEmpty](../../aspose.html.toolkit.markdown.syntax.text/textspan/createempty/#createempty_1)(int) | Create empty TextSpan from start position. |
-| static [CreateFromStartEnd](../../aspose.html.toolkit.markdown.syntax.text/textspan/createfromstartend/)(int, int) | Create the TextSpan |
-| [CompareTo](../../aspose.html.toolkit.markdown.syntax.text/textspan/compareto/)(TextSpan) | Compare with other TextSpan |
-| override [Equals](../../aspose.html.toolkit.markdown.syntax.text/textspan/equals/#equals_1)(object) | Compare with other object |
-| [Equals](../../aspose.html.toolkit.markdown.syntax.text/textspan/equals/#equals)(TextSpan) | Compare with other TextSpan |
-| override [GetHashCode](../../aspose.html.toolkit.markdown.syntax.text/textspan/gethashcode/)() | Get the HashCode |
-| [IsEmpty](../../aspose.html.toolkit.markdown.syntax.text/textspan/isempty/)() | Return true if length ==0. |
-| override [ToString](../../aspose.html.toolkit.markdown.syntax.text/textspan/tostring/)() | Get ToString() override |
+| static [Combine](../../aspose.html.toolkit.markdown.syntax.text/textspan/combine/)(TextSpan, TextSpan) |  |
+| static [Create](../../aspose.html.toolkit.markdown.syntax.text/textspan/create/)(int, int) |  |
+| static [CreateEmpty](../../aspose.html.toolkit.markdown.syntax.text/textspan/createempty/#createempty)() |  |
+| static [CreateEmpty](../../aspose.html.toolkit.markdown.syntax.text/textspan/createempty/#createempty_1)(int) |  |
+| static [CreateFromStartEnd](../../aspose.html.toolkit.markdown.syntax.text/textspan/createfromstartend/)(int, int) |  |
+| [CompareTo](../../aspose.html.toolkit.markdown.syntax.text/textspan/compareto/)(TextSpan) |  |
+| override [Equals](../../aspose.html.toolkit.markdown.syntax.text/textspan/equals/#equals_1)(object) |  |
+| [Equals](../../aspose.html.toolkit.markdown.syntax.text/textspan/equals/#equals)(TextSpan) |  |
+| override [GetHashCode](../../aspose.html.toolkit.markdown.syntax.text/textspan/gethashcode/)() |  |
+| [IsEmpty](../../aspose.html.toolkit.markdown.syntax.text/textspan/isempty/)() |  |
+| override [ToString](../../aspose.html.toolkit.markdown.syntax.text/textspan/tostring/)() |  |
 | [operator ==](../../aspose.html.toolkit.markdown.syntax.text/textspan/op_equality/) |  |
 | [operator !=](../../aspose.html.toolkit.markdown.syntax.text/textspan/op_inequality/) |  |
 

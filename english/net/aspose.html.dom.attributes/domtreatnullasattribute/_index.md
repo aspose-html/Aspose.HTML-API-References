@@ -1,14 +1,12 @@
 ---
 title: DOMTreatNullAsAttribute
 second_title: Aspose.HTML for .NET API Reference
-description: Indicates that null of the member value will be treated as specified value.
+description: 
 type: docs
 weight: 190
 url: /net/aspose.html.dom.attributes/domtreatnullasattribute/
 ---
 ## DOMTreatNullAsAttribute class
-
-Indicates that null of the member value will be treated as specified value.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
@@ -19,14 +17,14 @@ public sealed class DOMTreatNullAsAttribute : Attribute
 
 | Name | Description |
 | --- | --- |
-| [DOMTreatNullAsAttribute](domtreatnullasattribute)(Type, object) | Initializes a new instance of the [`DOMTreatNullAsAttribute`](./domtreatnullasattribute/) class. |
+| [DOMTreatNullAsAttribute](domtreatnullasattribute)(Type, object) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Type](../../aspose.html.dom.attributes/domtreatnullasattribute/type/) { get; set; } | Gets or sets value the type. |
-| [Value](../../aspose.html.dom.attributes/domtreatnullasattribute/value/) { get; set; } | Gets or sets the value. |
+| [Type](../../aspose.html.dom.attributes/domtreatnullasattribute/type/) { get; set; } |  |
+| [Value](../../aspose.html.dom.attributes/domtreatnullasattribute/value/) { get; set; } |  |
 
 ### See Also
 

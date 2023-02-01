@@ -1,14 +1,12 @@
 ---
 title: SECURITY_ERR
 second_title: Aspose.HTML for .NET API Reference
-description: The operation is insecure.
+description: 
 type: docs
 weight: 240
 url: /net/aspose.html.dom/domexception/security_err/
 ---
 ## DOMException.SECURITY_ERR field
-
-The operation is insecure.
 
 ```csharp
 public const ushort SECURITY_ERR;

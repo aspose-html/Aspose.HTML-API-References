@@ -1,22 +1,16 @@
 ---
 title: Length
 second_title: Aspose.HTML for .NET API Reference
-description: The number of items in the list.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/length/
 ---
 ## SVGListBase&lt;T&gt;.Length property
 
-The number of items in the list.
-
 ```csharp
 public ulong Length { get; }
 ```
-
-### Property Value
-
-The number of items.
 
 ### See Also
 

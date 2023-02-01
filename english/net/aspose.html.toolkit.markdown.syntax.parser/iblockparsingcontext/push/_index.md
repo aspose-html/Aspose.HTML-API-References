@@ -1,26 +1,16 @@
 ---
 title: Push
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the Push method.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/push/
 ---
 ## IBlockParsingContext.Push method
 
-Defines the Push method.
-
 ```csharp
 public BlockSyntaxDescriptor Push(BlockSyntaxNode block)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| block | BlockSyntaxNode | The block. |
-
-### Return Value
-
-The BlockSyntaxDescriptor.
 
 ### See Also
 

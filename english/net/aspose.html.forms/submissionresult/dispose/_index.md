@@ -1,14 +1,12 @@
 ---
 title: Dispose
 second_title: Aspose.HTML for .NET API Reference
-description: Releases unmanaged and managed resources.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.forms/submissionresult/dispose/
 ---
 ## SubmissionResult.Dispose method
-
-Releases unmanaged and managed resources.
 
 ```csharp
 public void Dispose()

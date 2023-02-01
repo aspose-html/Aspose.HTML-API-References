@@ -1,14 +1,12 @@
 ---
 title: DispositionType
 second_title: Aspose.HTML for .NET API Reference
-description: Get or set disposition type
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.net.headers/contentdispositionheadervalue/dispositiontype/
 ---
 ## ContentDispositionHeaderValue.DispositionType property
-
-Get or set disposition type
 
 ```csharp
 public string DispositionType { get; set; }

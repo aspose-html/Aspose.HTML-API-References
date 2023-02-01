@@ -1,14 +1,12 @@
 ---
 title: Real
 second_title: Aspose.HTML for .NET API Reference
-description: Measurement is a real number.
+description: 
 type: docs
 weight: 230
 url: /net/aspose.html.drawing/unittype/real/
 ---
 ## UnitType.Real field
-
-Measurement is a real number.
 
 ```csharp
 public static readonly UnitType Real;

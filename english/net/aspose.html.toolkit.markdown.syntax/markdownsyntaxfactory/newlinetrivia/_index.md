@@ -1,22 +1,16 @@
 ---
 title: NewLineTrivia
 second_title: Aspose.HTML for .NET API Reference
-description: Creates NewLineTrivia.
+description: 
 type: docs
 weight: 290
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/newlinetrivia/
 ---
 ## MarkdownSyntaxFactory.NewLineTrivia method
 
-Creates NewLineTrivia.
-
 ```csharp
 public WhitespaceSyntaxNode NewLineTrivia()
 ```
-
-### Return Value
-
-The WhitespaceSyntax.
 
 ### See Also
 

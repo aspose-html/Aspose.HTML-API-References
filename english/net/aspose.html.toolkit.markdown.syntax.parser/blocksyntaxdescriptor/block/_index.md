@@ -1,14 +1,12 @@
 ---
 title: Block
 second_title: Aspose.HTML for .NET API Reference
-description: Get the Block
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/block/
 ---
 ## BlockSyntaxDescriptor.Block property
-
-Get the Block
 
 ```csharp
 public BlockSyntaxNode Block { get; }

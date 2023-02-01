@@ -1,14 +1,12 @@
 ---
 title: BlockClosingReason
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the BlockClosingReason enum.
+description: 
 type: docs
 weight: 5320
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blockclosingreason/
 ---
 ## BlockClosingReason enumeration
-
-Defines the BlockClosingReason enum.
 
 ```csharp
 public enum BlockClosingReason
@@ -18,8 +16,8 @@ public enum BlockClosingReason
 
 | Name | Value | Description |
 | --- | --- | --- |
-| BlankLine | `0` | The BlankLine |
-| Force | `1` | The Force value |
+| BlankLine | `0` |  |
+| Force | `1` |  |
 
 ### See Also
 

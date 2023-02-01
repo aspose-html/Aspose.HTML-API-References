@@ -1,14 +1,12 @@
 ---
 title: Vw
 second_title: Aspose.HTML for .NET API Reference
-description: Measurement is relative to 1 of the width of the viewport
+description: 
 type: docs
 weight: 300
 url: /net/aspose.html.drawing/unittype/vw/
 ---
 ## UnitType.Vw field
-
-Measurement is relative to 1% of the width of the viewport*
 
 ```csharp
 public static readonly UnitType Vw;

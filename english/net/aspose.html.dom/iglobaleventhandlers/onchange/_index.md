@@ -1,14 +1,12 @@
 ---
 title: OnChange
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnChange event.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html.dom/iglobaleventhandlers/onchange/
 ---
 ## IGlobalEventHandlers.OnChange event
-
-Gets or sets event handler for OnChange event.
 
 ```csharp
 public event DOMEventHandler OnChange;

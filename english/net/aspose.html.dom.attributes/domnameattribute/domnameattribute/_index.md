@@ -1,22 +1,16 @@
 ---
 title: DOMNameAttribute
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the DOMNameAttributeaspose.html.dom.attributes/domnameattribute/ class.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.dom.attributes/domnameattribute/domnameattribute/
 ---
 ## DOMNameAttribute constructor
 
-Initializes a new instance of the [`DOMNameAttribute`](../) class.
-
 ```csharp
 public DOMNameAttribute(string name)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | String | The DOM name. |
 
 ### See Also
 

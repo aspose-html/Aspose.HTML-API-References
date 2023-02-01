@@ -1,22 +1,16 @@
 ---
 title: Width
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets the horizontal component of this Sizeaspose.html.drawing/size/.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.drawing/size/width/
 ---
 ## Size.Width property
 
-Gets or sets the horizontal component of this [`Size`](../).
-
 ```csharp
 public Length Width { get; set; }
 ```
-
-### Property Value
-
-The horizontal component of this [`Size`](../).
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: SVGNumber
 second_title: Aspose.HTML for .NET API Reference
-description: Used for attributes of basic type number.
+description: 
 type: docs
 weight: 1230
 url: /net/aspose.html.dom.svg.datatypes/svgnumber/
 ---
 ## SVGNumber class
-
-Used for attributes of basic type number.
 
 ```csharp
 public class SVGNumber : SVGValueType
@@ -18,15 +16,15 @@ public class SVGNumber : SVGValueType
 
 | Name | Description |
 | --- | --- |
-| [Value](../../aspose.html.dom.svg.datatypes/svgnumber/value/) { get; set; } | The value of the given attribute. |
+| [Value](../../aspose.html.dom.svg.datatypes/svgnumber/value/) { get; set; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| override [ToString](../../aspose.html.dom.svg.datatypes/svgnumber/tostring/)() | Returns a String that represents this instance. |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svgnumber/tostring/)() |  |
 
 ### See Also
 

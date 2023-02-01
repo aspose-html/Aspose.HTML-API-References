@@ -1,24 +1,16 @@
 ---
 title: BooleanValue
 second_title: Aspose.HTML for .NET API Reference
-description: The value of this boolean result.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.dom.xpath/ixpathresult/booleanvalue/
 ---
 ## IXPathResult.BooleanValue property
 
-The value of this boolean result.
-
 ```csharp
 public bool BooleanValue { get; }
 ```
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| [DOMException](../../../aspose.html.dom/domexception/) | TYPE_ERR: raised if `resultType` is not `Boolean` type. |
 
 ### See Also
 

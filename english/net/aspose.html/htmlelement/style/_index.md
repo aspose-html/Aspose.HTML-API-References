@@ -1,14 +1,12 @@
 ---
 title: Style
 second_title: Aspose.HTML for .NET API Reference
-description: Represents a style attribute that allows author to directly apply style information to specific element.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html/htmlelement/style/
 ---
 ## HTMLElement.Style property
-
-Represents a style attribute that allows author to directly apply style information to specific element.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }

@@ -1,14 +1,12 @@
 ---
 title: IAbstractView
 second_title: Aspose.HTML for .NET API Reference
-description: A base interface that all views shall derive from.
+description: 
 type: docs
 weight: 2540
 url: /net/aspose.html.dom.views/iabstractview/
 ---
 ## IAbstractView interface
-
-A base interface that all views shall derive from.
 
 ```csharp
 public interface IAbstractView
@@ -18,7 +16,7 @@ public interface IAbstractView
 
 | Name | Description |
 | --- | --- |
-| [Document](../../aspose.html.dom.views/iabstractview/document/) { get; } | The source DocumentView of which this is an AbstractView. |
+| [Document](../../aspose.html.dom.views/iabstractview/document/) { get; } |  |
 
 ### See Also
 

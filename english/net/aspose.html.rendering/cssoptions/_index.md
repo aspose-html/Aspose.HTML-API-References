@@ -1,14 +1,12 @@
 ---
 title: CssOptions
 second_title: Aspose.HTML for .NET API Reference
-description: Represents css rendering options.
+description: 
 type: docs
 weight: 4130
 url: /net/aspose.html.rendering/cssoptions/
 ---
 ## CssOptions class
-
-Represents css rendering options.
 
 ```csharp
 public class CssOptions
@@ -18,7 +16,7 @@ public class CssOptions
 
 | Name | Description |
 | --- | --- |
-| [MediaType](../../aspose.html.rendering/cssoptions/mediatype/) { get; set; } | Gets or sets [`MediaType`](../mediatype/) which will be used for media queries resolution during rendering. Default value is `Print`. |
+| [MediaType](../../aspose.html.rendering/cssoptions/mediatype/) { get; set; } |  |
 
 ### See Also
 

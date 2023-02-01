@@ -1,22 +1,16 @@
 ---
 title: VisitSetextHeading
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for visit SetextHeadingSyntax.
+description: 
 type: docs
 weight: 230
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitsetextheading/
 ---
 ## MarkdownSyntaxVisitor.VisitSetextHeading method
 
-Defines the interface for visit SetextHeadingSyntax.
-
 ```csharp
 public virtual void VisitSetextHeading(SetextHeadingSyntaxNode heading)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| heading | SetextHeadingSyntaxNode | The SetextHeadingSyntax. |
 
 ### See Also
 

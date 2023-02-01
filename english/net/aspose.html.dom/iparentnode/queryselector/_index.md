@@ -1,26 +1,16 @@
 ---
 title: QuerySelector
 second_title: Aspose.HTML for .NET API Reference
-description: Returns the first element that is a descendant of node that matches selectors.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.dom/iparentnode/queryselector/
 ---
 ## IParentNode.QuerySelector method
 
-Returns the first element that is a descendant of node that matches selectors.
-
 ```csharp
 public Element QuerySelector(string selectors)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| selectors | String | The selectors. |
-
-### Return Value
-
-Returns the first matched element.
 
 ### See Also
 

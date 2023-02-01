@@ -1,14 +1,12 @@
 ---
 title: SHOW_ENTITY_REFERENCE
 second_title: Aspose.HTML for .NET API Reference
-description: Show EntityReference nodes.
+description: 
 type: docs
 weight: 150
 url: /net/aspose.html.dom.traversal.filters/nodefilter/show_entity_reference/
 ---
 ## NodeFilter.SHOW_ENTITY_REFERENCE field
-
-Show EntityReference nodes.
 
 ```csharp
 public const long SHOW_ENTITY_REFERENCE;

@@ -1,14 +1,12 @@
 ---
 title: DocumentInfo
 second_title: Aspose.HTML for .NET API Reference
-description: Contains information about the output PDF document.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.rendering.pdf/pdfrenderingoptions/documentinfo/
 ---
 ## PdfRenderingOptions.DocumentInfo property
-
-Contains information about the output PDF document.
 
 ```csharp
 public PdfDocumentInfo DocumentInfo { get; }

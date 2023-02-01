@@ -1,14 +1,12 @@
 ---
 title: MediaType
 second_title: Aspose.HTML for .NET API Reference
-description: Specifies possible media types used during rendering.
+description: 
 type: docs
 weight: 4360
 url: /net/aspose.html.rendering/mediatype/
 ---
 ## MediaType enumeration
-
-Specifies possible media types used during rendering.
 
 ```csharp
 public enum MediaType
@@ -18,8 +16,8 @@ public enum MediaType
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Print | `0` | The `Print` media is used during rendering. |
-| Screen | `1` | The `Screen` media is used during rendering. |
+| Print | `0` |  |
+| Screen | `1` |  |
 
 ### See Also
 

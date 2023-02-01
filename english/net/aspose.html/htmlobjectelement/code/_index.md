@@ -1,14 +1,12 @@
 ---
 title: Code
 second_title: Aspose.HTML for .NET API Reference
-description: Applet class file. See the code attribute for HTMLAppletElement.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html/htmlobjectelement/code/
 ---
 ## HTMLObjectElement.Code property
-
-Applet class file. See the `code` attribute for HTMLAppletElement.
 
 ```csharp
 public string Code { get; set; }

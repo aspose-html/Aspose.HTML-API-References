@@ -1,14 +1,12 @@
 ---
 title: Name
 second_title: Aspose.HTML for .NET API Reference
-description: Form control or object name when submitted with a form. See the name attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html/htmlselectelement/name/
 ---
 ## HTMLSelectElement.Name property
-
-Form control or object name when submitted with a form. See the name attribute definition in HTML 4.01.
 
 ```csharp
 public string Name { get; set; }

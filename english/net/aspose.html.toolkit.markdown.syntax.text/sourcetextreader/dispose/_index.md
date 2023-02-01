@@ -1,14 +1,12 @@
 ---
 title: Dispose
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the Dispose interface.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/dispose/
 ---
 ## SourceTextReader.Dispose method
-
-Defines the Dispose interface.
 
 ```csharp
 public void Dispose()

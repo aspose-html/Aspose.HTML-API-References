@@ -1,22 +1,16 @@
 ---
 title: GetLeadingTrivia
 second_title: Aspose.HTML for .NET API Reference
-description: Get the leading trivia.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getleadingtrivia/
 ---
 ## MarkdownSyntaxNode.GetLeadingTrivia method
 
-Get the leading trivia.
-
 ```csharp
 public TriviaCollection GetLeadingTrivia()
 ```
-
-### Return Value
-
-The TriviaCollection.
 
 ### See Also
 

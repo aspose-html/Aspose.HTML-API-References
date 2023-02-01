@@ -1,22 +1,16 @@
 ---
 title: ScreenY
 second_title: Aspose.HTML for .NET API Reference
-description: The vertical coordinate at which the event occurred relative to the origin of the screen coordinate system.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.html.dom.events/mouseevent/screeny/
 ---
 ## MouseEvent.ScreenY property
 
-The vertical coordinate at which the event occurred relative to the origin of the screen coordinate system.
-
 ```csharp
 public long ScreenY { get; }
 ```
-
-### Property Value
-
-The screen y.
 
 ### See Also
 

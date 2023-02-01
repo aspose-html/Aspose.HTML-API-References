@@ -1,22 +1,16 @@
 ---
 title: Height
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute height on the given svg element.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svgsvgelement/height/
 ---
 ## SVGSVGElement.Height property
 
-Corresponds to attribute ‘height’ on the given ‘svg’ element.
-
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
-
-### Property Value
-
-Corresponds to attribute ‘height’ on the given ‘svg’ element.
 
 ### See Also
 

@@ -1,14 +1,12 @@
 ---
 title: Type
 second_title: Aspose.HTML for .NET API Reference
-description: The content type of the style sheet language. See the type attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html/htmlstyleelement/type/
 ---
 ## HTMLStyleElement.Type property
-
-The content type of the style sheet language. See the type attribute definition in HTML 4.01.
 
 ```csharp
 public string Type { get; set; }

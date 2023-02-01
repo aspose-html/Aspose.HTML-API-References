@@ -1,14 +1,12 @@
 ---
 title: Options
 second_title: Aspose.HTML for .NET API Reference
-description: The collection of OPTION elements contained by this element. version DOM Level 2
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html/htmlselectelement/options/
 ---
 ## HTMLSelectElement.Options property
-
-The collection of `OPTION` elements contained by this element. @version DOM Level 2
 
 ```csharp
 public IHTMLOptionsCollection Options { get; }

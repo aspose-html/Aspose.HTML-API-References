@@ -1,27 +1,16 @@
 ---
 title: CreatePattern
 second_title: Aspose.HTML for .NET API Reference
-description: Creates a pattern using the specified image a CanvasImageSource. It repeats the source in the directions specified by the repetition argument.
+description: 
 type: docs
 weight: 180
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/createpattern/
 ---
 ## CreatePattern(HTMLImageElement, string) {#createpattern_1}
 
-Creates a pattern using the specified image (a CanvasImageSource). It repeats the source in the directions specified by the repetition argument.
-
 ```csharp
 public ICanvasPattern CreatePattern(HTMLImageElement image, string repetition)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | HTMLImageElement | A HTMLImageElement to be used as the image to repeat |
-| repetition | String | A string indicating how to repeat the image. |
-
-### Return Value
-
-An opaque object describing a pattern.
 
 ### See Also
 
@@ -35,20 +24,9 @@ An opaque object describing a pattern.
 
 ## CreatePattern(HTMLCanvasElement, string) {#createpattern}
 
-Creates a pattern using the specified image (a CanvasImageSource). It repeats the source in the directions specified by the repetition argument.
-
 ```csharp
 public ICanvasPattern CreatePattern(HTMLCanvasElement image, string repetition)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | HTMLCanvasElement | A HTMLCanvasElement to be used as the image to repeat |
-| repetition | String | A string indicating how to repeat the image. |
-
-### Return Value
-
-An opaque object describing a pattern.
 
 ### See Also
 

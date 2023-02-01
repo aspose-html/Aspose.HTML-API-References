@@ -1,14 +1,12 @@
 ---
 title: LineNo
 second_title: Aspose.HTML for .NET API Reference
-description: The lineno attribute must return the value it was initialized to. When the object is created this attribute must be initialized to zero. It represents the line number where the error occurred in the script.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.dom.events/errorevent/lineno/
 ---
 ## ErrorEvent.LineNo property
-
-The lineno attribute must return the value it was initialized to. When the object is created, this attribute must be initialized to zero. It represents the line number where the error occurred in the script.
 
 ```csharp
 public uint LineNo { get; }

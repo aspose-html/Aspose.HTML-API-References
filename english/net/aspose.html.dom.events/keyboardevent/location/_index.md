@@ -1,22 +1,16 @@
 ---
 title: Location
 second_title: Aspose.HTML for .NET API Reference
-description: The location attribute contains an indication of the logical location of the key on the device.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.html.dom.events/keyboardevent/location/
 ---
 ## KeyboardEvent.Location property
 
-The location attribute contains an indication of the logical location of the key on the device.
-
 ```csharp
 public ulong Location { get; }
 ```
-
-### Property Value
-
-The location.
 
 ### See Also
 

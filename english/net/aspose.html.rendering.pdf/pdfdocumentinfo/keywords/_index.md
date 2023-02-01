@@ -1,14 +1,12 @@
 ---
 title: Keywords
 second_title: Aspose.HTML for .NET API Reference
-description: Keywords associated with the document.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.rendering.pdf/pdfdocumentinfo/keywords/
 ---
 ## PdfDocumentInfo.Keywords property
-
-Keywords associated with the document.
 
 ```csharp
 public string Keywords { get; set; }

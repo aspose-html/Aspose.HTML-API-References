@@ -1,14 +1,12 @@
 ---
 title: Accessors
 second_title: Aspose.HTML for .NET API Reference
-description: Represents the enumeration of member accessors that is defined by the W3C.
+description: 
 type: docs
 weight: 120
 url: /net/aspose.html.dom.attributes/accessors/
 ---
 ## Accessors enumeration
-
-Represents the enumeration of member accessors that is defined by the W3C.
 
 ```csharp
 [Flags]
@@ -19,10 +17,10 @@ public enum Accessors : byte
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` | Specifies that the property does not have any special meaning. |
-| Getter | `1` | Specifies that the property or method should be handled as a getter. |
-| Setter | `2` | Specifies that the property or method should be handled as a setter. |
-| Deleter | `4` | Specifies that the property or method should be handled by delete. |
+| None | `0` |  |
+| Getter | `1` |  |
+| Setter | `2` |  |
+| Deleter | `4` |  |
 
 ### See Also
 

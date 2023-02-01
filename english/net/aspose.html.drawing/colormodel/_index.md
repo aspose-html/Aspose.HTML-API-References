@@ -1,14 +1,12 @@
 ---
 title: ColorModel
 second_title: Aspose.HTML for .NET API Reference
-description: This enumeration is used to select the color model for working with color components.
+description: 
 type: docs
 weight: 2650
 url: /net/aspose.html.drawing/colormodel/
 ---
 ## ColorModel enumeration
-
-This enumeration is used to select the color model for working with color components.
 
 ```csharp
 public enum ColorModel
@@ -18,15 +16,15 @@ public enum ColorModel
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Rgb | `0` | Red-Green-Blue color model |
-| Hsl | `1` | Hue-Saturation-Luminosity color model |
-| Hsv | `2` | Hue-Saturation-Value color model |
-| Hwb | `3` | Hue-Whiteness-Blackness color model |
-| Cmyk | `4` | Cyan-Magenta-Yellow-Key color model |
-| Lab | `5` | Lightness-A-B color model |
-| Oklab | `6` | Improved Lightness-A-B model |
-| Lch | `7` | Luminance-Chroma-Hue color model |
-| Oklch | `8` | Improved Luminance-Chroma-Hue color model |
+| Rgb | `0` |  |
+| Hsl | `1` |  |
+| Hsv | `2` |  |
+| Hwb | `3` |  |
+| Cmyk | `4` |  |
+| Lab | `5` |  |
+| Oklab | `6` |  |
+| Lch | `7` |  |
+| Oklch | `8` |  |
 
 ### See Also
 

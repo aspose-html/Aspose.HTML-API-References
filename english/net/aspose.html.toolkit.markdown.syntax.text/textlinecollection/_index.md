@@ -1,14 +1,12 @@
 ---
 title: TextLineCollection
 second_title: Aspose.HTML for .NET API Reference
-description: Represents the TextLineCollection.
+description: 
 type: docs
 weight: 5650
 url: /net/aspose.html.toolkit.markdown.syntax.text/textlinecollection/
 ---
 ## TextLineCollection class
-
-Represents the TextLineCollection.
 
 ```csharp
 public class TextLineCollection : ReadOnlyCollection<TextLine>
@@ -18,7 +16,7 @@ public class TextLineCollection : ReadOnlyCollection<TextLine>
 
 | Name | Description |
 | --- | --- |
-| [IndexOf](../../aspose.html.toolkit.markdown.syntax.text/textlinecollection/indexof/#indexof_1)(int) | Gets the index of the given position. |
+| [IndexOf](../../aspose.html.toolkit.markdown.syntax.text/textlinecollection/indexof/#indexof_1)(int) |  |
 
 ### See Also
 

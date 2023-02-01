@@ -1,14 +1,12 @@
 ---
 title: Span
 second_title: Aspose.HTML for .NET API Reference
-description: Get and Set the Span.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax.parser/delimiterrun/span/
 ---
 ## DelimiterRun.Span property
-
-Get and Set the Span.
 
 ```csharp
 public TextSpan Span { get; set; }

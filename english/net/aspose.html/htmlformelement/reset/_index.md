@@ -1,14 +1,12 @@
 ---
 title: Reset
 second_title: Aspose.HTML for .NET API Reference
-description: Restores a form elements default values. It performs the same action as a reset button.
+description: 
 type: docs
 weight: 90
 url: /net/aspose.html/htmlformelement/reset/
 ---
 ## HTMLFormElement.Reset method
-
-Restores a form element's default values. It performs the same action as a reset button.
 
 ```csharp
 public void Reset()

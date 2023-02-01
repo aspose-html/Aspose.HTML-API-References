@@ -1,14 +1,12 @@
 ---
 title: Blue
 second_title: Aspose.HTML for .NET API Reference
-description: Represents the blue component of the color.
+description: 
 type: docs
 weight: 250
 url: /net/aspose.html.drawing/color/blue/
 ---
 ## Color.Blue property
-
-Represents the blue component of the color.
 
 ```csharp
 public float Blue { get; }

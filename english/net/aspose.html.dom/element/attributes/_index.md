@@ -1,14 +1,12 @@
 ---
 title: Attributes
 second_title: Aspose.HTML for .NET API Reference
-description: A NamedNodeMap containing the attributes of this node if it is an Element or null otherwise.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.dom/element/attributes/
 ---
 ## Element.Attributes property
-
-A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise.
 
 ```csharp
 public override NamedNodeMap Attributes { get; }

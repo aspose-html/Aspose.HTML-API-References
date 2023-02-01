@@ -1,14 +1,12 @@
 ---
 title: FillBrush
 second_title: Aspose.HTML for .NET API Reference
-description: Sets or gets the brush object that is used to fill the interiors of paths.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/fillbrush/
 ---
 ## PdfDevice.PdfGraphicContext.FillBrush property
-
-Sets or gets the brush object that is used to fill the interiors of paths.
 
 ```csharp
 public override IBrush FillBrush { get; set; }

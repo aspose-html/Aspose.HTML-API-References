@@ -1,26 +1,16 @@
 ---
 title: IndentedCode
 second_title: Aspose.HTML for .NET API Reference
-description: Creates objects using IndentedCodeBlockSyntax.CreateInstance.
+description: 
 type: docs
 weight: 190
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/indentedcode/
 ---
 ## MarkdownSyntaxFactory.IndentedCode method
 
-Creates objects using IndentedCodeBlockSyntax.CreateInstance.
-
 ```csharp
 public IndentedCodeBlockSyntaxNode IndentedCode(int reservedSpaces = 0)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| reservedSpaces | Int32 | The reservedSpaces. |
-
-### Return Value
-
-The IndentedCodeBlockSyntax.
 
 ### See Also
 

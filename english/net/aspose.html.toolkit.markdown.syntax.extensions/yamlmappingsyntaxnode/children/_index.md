@@ -1,14 +1,12 @@
 ---
 title: Children
 second_title: Aspose.HTML for .NET API Reference
-description: Get the all Children.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/children/
 ---
 ## YamlMappingSyntaxNode.Children property
-
-Get the all Children.
 
 ```csharp
 public IEnumerable<KeyValuePair<ChildFrontMatterSyntaxNode, ChildFrontMatterSyntaxNode>> 

@@ -1,14 +1,12 @@
 ---
 title: Source
 second_title: Aspose.HTML for .NET API Reference
-description: Return the source text.
+description: 
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/textsyntaxnode/source/
 ---
 ## TextSyntaxNode.Source property
-
-Return the source text.
 
 ```csharp
 public virtual SourceText Source { get; }

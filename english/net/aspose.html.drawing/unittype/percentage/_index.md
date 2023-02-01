@@ -1,14 +1,12 @@
 ---
 title: Percentage
 second_title: Aspose.HTML for .NET API Reference
-description: Measurement is in percentage.
+description: 
 type: docs
 weight: 180
 url: /net/aspose.html.drawing/unittype/percentage/
 ---
 ## UnitType.Percentage field
-
-Measurement is in percentage.
 
 ```csharp
 public static readonly UnitType Percentage;

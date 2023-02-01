@@ -1,22 +1,16 @@
 ---
 title: GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: Returns an enumerator that iterates through the collection.
+description: 
 type: docs
 weight: 60
 url: /net/aspose.html.collections/domtokenlist/getenumerator/
 ---
 ## DOMTokenList.GetEnumerator method
 
-Returns an enumerator that iterates through the collection.
-
 ```csharp
 public IEnumerator<string> GetEnumerator()
 ```
-
-### Return Value
-
-An IEnumerator object that can be used to iterate through the collection.
 
 ### See Also
 

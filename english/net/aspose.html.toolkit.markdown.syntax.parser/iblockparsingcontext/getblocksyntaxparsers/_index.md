@@ -1,22 +1,16 @@
 ---
 title: GetBlockSyntaxParsers
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the GetBlockSyntaxParsers method.
+description: 
 type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getblocksyntaxparsers/
 ---
 ## IBlockParsingContext.GetBlockSyntaxParsers method
 
-Defines the GetBlockSyntaxParsers method.
-
 ```csharp
 public IEnumerable<MarkdownBlockParser> GetBlockSyntaxParsers()
 ```
-
-### Return Value
-
-The IEnumerable.
 
 ### See Also
 

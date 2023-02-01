@@ -1,14 +1,12 @@
 ---
 title: Components
 second_title: Aspose.HTML for .NET API Reference
-description: Returns the color components as float array.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/icolorcomponents/components/
 ---
 ## IColorComponents.Components property
-
-Returns the color components as float array.
 
 ```csharp
 public float[] Components { get; }

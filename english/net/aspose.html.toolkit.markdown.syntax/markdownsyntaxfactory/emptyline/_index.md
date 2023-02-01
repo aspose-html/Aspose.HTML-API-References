@@ -1,22 +1,16 @@
 ---
 title: EmptyLine
 second_title: Aspose.HTML for .NET API Reference
-description: Creates objects using EmptyLineSyntax.CreateInstance
+description: 
 type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emptyline/
 ---
 ## MarkdownSyntaxFactory.EmptyLine method
 
-Creates objects using EmptyLineSyntax.CreateInstance
-
 ```csharp
 public EmptyLineSyntaxNode EmptyLine()
 ```
-
-### Return Value
-
-The EmptyLineSyntax.
 
 ### See Also
 

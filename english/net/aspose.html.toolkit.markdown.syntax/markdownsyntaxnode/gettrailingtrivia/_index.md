@@ -1,22 +1,16 @@
 ---
 title: GetTrailingTrivia
 second_title: Aspose.HTML for .NET API Reference
-description: Get the Trailing trivia.
+description: 
 type: docs
 weight: 110
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/gettrailingtrivia/
 ---
 ## MarkdownSyntaxNode.GetTrailingTrivia method
 
-Get the Trailing trivia.
-
 ```csharp
 public TriviaCollection GetTrailingTrivia()
 ```
-
-### Return Value
-
-The TriviaCollection.
 
 ### See Also
 

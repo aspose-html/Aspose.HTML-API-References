@@ -1,22 +1,16 @@
 ---
 title: Cy
 second_title: Aspose.HTML for .NET API Reference
-description: Corresponds to attribute cy on the given radialGradient element.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgradialgradientelement/cy/
 ---
 ## SVGRadialGradientElement.Cy property
 
-Corresponds to attribute ‘cy’ on the given ‘radialGradient’ element.
-
 ```csharp
 public SVGAnimatedLength Cy { get; }
 ```
-
-### Property Value
-
-The attribute ‘cy’ of the given ‘radialGradient’ element.
 
 ### See Also
 

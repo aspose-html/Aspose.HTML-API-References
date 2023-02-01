@@ -1,14 +1,12 @@
 ---
 title: LineJoin
 second_title: Aspose.HTML for .NET API Reference
-description: Sets or gets the code specifying the shape of joints between connected segments of a stroked path.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/linejoin/
 ---
 ## PdfDevice.PdfGraphicContext.LineJoin property
-
-Sets or gets the code specifying the shape of joints between connected segments of a stroked path.
 
 ```csharp
 public override LineJoin LineJoin { get; set; }

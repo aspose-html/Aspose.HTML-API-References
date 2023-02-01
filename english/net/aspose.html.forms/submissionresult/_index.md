@@ -1,14 +1,12 @@
 ---
 title: SubmissionResult
 second_title: Aspose.HTML for .NET API Reference
-description: This class represents the result of the submitting form data to the server.
+description: 
 type: docs
 weight: 3030
 url: /net/aspose.html.forms/submissionresult/
 ---
 ## SubmissionResult class
-
-This class represents the result of the submitting form data to the server.
 
 ```csharp
 public class SubmissionResult : IDisposable
@@ -18,16 +16,16 @@ public class SubmissionResult : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Content](../../aspose.html.forms/submissionresult/content/) { get; } | Gets the content of the response message. |
-| [IsSuccess](../../aspose.html.forms/submissionresult/issuccess/) { get; } | Gets a value indicating whether this result is success. |
-| [ResponseMessage](../../aspose.html.forms/submissionresult/responsemessage/) { get; } | Gets the message represented the result of the submitting data to the server. |
+| [Content](../../aspose.html.forms/submissionresult/content/) { get; } |  |
+| [IsSuccess](../../aspose.html.forms/submissionresult/issuccess/) { get; } |  |
+| [ResponseMessage](../../aspose.html.forms/submissionresult/responsemessage/) { get; } |  |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.forms/submissionresult/dispose/)() | Releases unmanaged and managed resources. |
-| [LoadDocument](../../aspose.html.forms/submissionresult/loaddocument/)() | This method loads the new document based on response message. |
+| [Dispose](../../aspose.html.forms/submissionresult/dispose/)() |  |
+| [LoadDocument](../../aspose.html.forms/submissionresult/loaddocument/)() |  |
 
 ### See Also
 

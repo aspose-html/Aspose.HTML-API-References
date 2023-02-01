@@ -1,14 +1,12 @@
 ---
 title: VAlign
 second_title: Aspose.HTML for .NET API Reference
-description: Vertical alignment of data in cell. See the valign attribute definition in HTML 4.01.
+description: 
 type: docs
 weight: 140
 url: /net/aspose.html/htmltablecellelement/valign/
 ---
 ## HTMLTableCellElement.VAlign property
-
-Vertical alignment of data in cell. See the valign attribute definition in HTML 4.01.
 
 ```csharp
 public string VAlign { get; set; }

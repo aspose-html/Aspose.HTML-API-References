@@ -1,14 +1,12 @@
 ---
 title: OnSuspend
 second_title: Aspose.HTML for .NET API Reference
-description: Gets or sets event handler for OnSuspend event.
+description: 
 type: docs
 weight: 520
 url: /net/aspose.html/htmlelement/onsuspend/
 ---
 ## HTMLElement.OnSuspend event
-
-Gets or sets event handler for OnSuspend event.
 
 ```csharp
 public event DOMEventHandler OnSuspend;

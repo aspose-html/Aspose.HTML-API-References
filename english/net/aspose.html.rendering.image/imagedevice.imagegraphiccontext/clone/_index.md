@@ -1,22 +1,16 @@
 ---
 title: Clone
 second_title: Aspose.HTML for .NET API Reference
-description: Creates a new instance of a GdiGraphicContext class with the same property values as an existing instance.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.rendering.image/imagedevice.imagegraphiccontext/clone/
 ---
 ## ImageDevice.ImageGraphicContext.Clone method
 
-Creates a new instance of a GdiGraphicContext class with the same property values as an existing instance.
-
 ```csharp
 public override GraphicContext Clone()
 ```
-
-### Return Value
-
-Instance of a GdiGraphicContext
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: ReferenceNode
 second_title: Aspose.HTML for .NET API Reference
-description: The current reference node.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.dom.traversal/inodeiterator/referencenode/
 ---
 ## INodeIterator.ReferenceNode property
 
-The current reference node.
-
 ```csharp
 public Node ReferenceNode { get; }
 ```
-
-### Property Value
-
-The reference node.
 
 ### See Also
 

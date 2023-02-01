@@ -1,14 +1,12 @@
 ---
 title: FILTER_SKIP
 second_title: Aspose.HTML for .NET API Reference
-description: The filter skip constant.
+description: 
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/filter_skip/
 ---
 ## MarkdownSyntaxNodeFilter.FILTER_SKIP field
-
-The filter skip constant.
 
 ```csharp
 public const short FILTER_SKIP;

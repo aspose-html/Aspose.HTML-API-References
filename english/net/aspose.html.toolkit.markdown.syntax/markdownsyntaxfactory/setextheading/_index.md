@@ -1,26 +1,16 @@
 ---
 title: SetextHeading
 second_title: Aspose.HTML for .NET API Reference
-description: Creates objects using SetextHeadingSyntax.CreateInstance.
+description: 
 type: docs
 weight: 350
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/setextheading/
 ---
 ## MarkdownSyntaxFactory.SetextHeading method
 
-Creates objects using SetextHeadingSyntax.CreateInstance.
-
 ```csharp
 public SetextHeadingSyntaxNode SetextHeading(MarkdownSyntaxToken tag)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| tag | MarkdownSyntaxToken | The MarkdownSyntaxToken. |
-
-### Return Value
-
-The SetextHeadingSyntax.
 
 ### See Also
 

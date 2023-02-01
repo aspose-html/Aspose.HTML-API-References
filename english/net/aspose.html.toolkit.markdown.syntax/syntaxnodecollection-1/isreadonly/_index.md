@@ -1,14 +1,12 @@
 ---
 title: IsReadOnly
 second_title: Aspose.HTML for .NET API Reference
-description: Get the readonly flag.
+description: 
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/isreadonly/
 ---
 ## SyntaxNodeCollection&lt;T&gt;.IsReadOnly property
-
-Get the readonly flag.
 
 ```csharp
 public bool IsReadOnly { get; }

@@ -1,14 +1,12 @@
 ---
 title: Root
 second_title: Aspose.HTML for .NET API Reference
-description: Defines the interface for get Root node.
+description: 
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/traversal/root/
 ---
 ## Traversal.Root property
-
-Defines the interface for get Root node.
 
 ```csharp
 public MarkdownSyntaxNode Root { get; }

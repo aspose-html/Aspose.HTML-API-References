@@ -1,14 +1,12 @@
 ---
 title: Margin
 second_title: Aspose.HTML for .NET API Reference
-description: Represents page margin.
+description: 
 type: docs
 weight: 2790
 url: /net/aspose.html.drawing/margin/
 ---
 ## Margin class
-
-Represents page margin.
 
 ```csharp
 public class Margin
@@ -18,20 +16,20 @@ public class Margin
 
 | Name | Description |
 | --- | --- |
-| [Margin](margin#constructor)() | Initializes a new instance of the [`Margin`](./margin/) class. |
-| [Margin](margin#constructor_3)(int) | Initializes a new instance of the [`Margin`](./margin/) class. |
-| [Margin](margin#constructor_1)(Length) | Initializes a new instance of the [`Margin`](./margin/) class. |
-| [Margin](margin#constructor_4)(int, int, int, int) | Initializes a new instance of the [`Margin`](./margin/) class. |
-| [Margin](margin#constructor_2)(Length, Length, Length, Length) | Initializes a new instance of the [`Margin`](./margin/) class. |
+| [Margin](margin#constructor)() | The default constructor. |
+| [Margin](margin#constructor_3)(int) |  |
+| [Margin](margin#constructor_1)(Length) |  |
+| [Margin](margin#constructor_4)(int, int, int, int) |  |
+| [Margin](margin#constructor_2)(Length, Length, Length, Length) |  |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Bottom](../../aspose.html.drawing/margin/bottom/) { get; set; } | Gets or sets the bottom. |
-| [Left](../../aspose.html.drawing/margin/left/) { get; set; } | Gets or sets the left. |
-| [Right](../../aspose.html.drawing/margin/right/) { get; set; } | Gets or sets the right. |
-| [Top](../../aspose.html.drawing/margin/top/) { get; set; } | Gets or sets the top. |
+| [Bottom](../../aspose.html.drawing/margin/bottom/) { get; set; } |  |
+| [Left](../../aspose.html.drawing/margin/left/) { get; set; } |  |
+| [Right](../../aspose.html.drawing/margin/right/) { get; set; } |  |
+| [Top](../../aspose.html.drawing/margin/top/) { get; set; } |  |
 
 ### See Also
 

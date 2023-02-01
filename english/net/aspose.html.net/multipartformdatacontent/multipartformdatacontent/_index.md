@@ -1,14 +1,14 @@
 ---
 title: MultipartFormDataContent
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the MultipartFormDataContentaspose.html.net/multipartformdatacontent/ class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.html.net/multipartformdatacontent/multipartformdatacontent/
 ---
 ## MultipartFormDataContent() {#constructor}
 
-Initializes a new instance of the [`MultipartFormDataContent`](../) class.
+The default constructor.
 
 ```csharp
 public MultipartFormDataContent()
@@ -24,15 +24,9 @@ public MultipartFormDataContent()
 
 ## MultipartFormDataContent(string) {#constructor_1}
 
-Initializes a new instance of the [`MultipartFormDataContent`](../) class.
-
 ```csharp
 public MultipartFormDataContent(string boundary)
 ```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| boundary | String | The boundary. |
 
 ### See Also
 

@@ -1,22 +1,16 @@
 ---
 title: Buttons
 second_title: Aspose.HTML for .NET API Reference
-description: During any mouse events buttons MUST be used to indicate which combination of mouse buttons are currently being pressed expressed as a bitmask.
+description: 
 type: docs
 weight: 40
 url: /net/aspose.html.dom.events/mouseevent/buttons/
 ---
 ## MouseEvent.Buttons property
 
-During any mouse events, buttons MUST be used to indicate which combination of mouse buttons are currently being pressed, expressed as a bitmask.
-
 ```csharp
 public ushort Buttons { get; }
 ```
-
-### Property Value
-
-The buttons.
 
 ### See Also
 

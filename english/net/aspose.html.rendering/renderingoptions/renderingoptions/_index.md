@@ -1,14 +1,14 @@
 ---
 title: RenderingOptions
 second_title: Aspose.HTML for .NET API Reference
-description: Initializes a new instance of the RenderingOptionsaspose.html.rendering/renderingoptions/ class.
+description: The default constructor.
 type: docs
 weight: 10
 url: /net/aspose.html.rendering/renderingoptions/renderingoptions/
 ---
 ## RenderingOptions constructor
 
-Initializes a new instance of the [`RenderingOptions`](../) class.
+The default constructor.
 
 ```csharp
 public RenderingOptions()
