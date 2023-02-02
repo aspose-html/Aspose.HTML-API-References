@@ -1,12 +1,14 @@
 ---
 title: CSS_INHERIT
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value is inherited and the cssText contains inherit.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.css/cssvalue/css_inherit/
 ---
 ## CSSValue.CSS_INHERIT field
+
+The value is inherited and the cssText contains "inherit".
 
 ```csharp
 public const ushort CSS_INHERIT;

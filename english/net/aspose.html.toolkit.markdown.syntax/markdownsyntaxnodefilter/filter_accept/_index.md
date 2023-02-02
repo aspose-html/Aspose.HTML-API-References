@@ -1,12 +1,14 @@
 ---
 title: FILTER_ACCEPT
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The filter accept constant.
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/filter_accept/
 ---
 ## MarkdownSyntaxNodeFilter.FILTER_ACCEPT field
+
+The filter accept constant.
 
 ```csharp
 public const short FILTER_ACCEPT;

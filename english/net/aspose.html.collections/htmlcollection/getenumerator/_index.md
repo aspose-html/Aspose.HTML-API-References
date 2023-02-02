@@ -1,16 +1,22 @@
 ---
 title: GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the enumerator.
 type: docs
 weight: 30
 url: /net/aspose.html.collections/htmlcollection/getenumerator/
 ---
 ## HTMLCollection.GetEnumerator method
 
+Gets the enumerator.
+
 ```csharp
 public abstract IEnumerator<Element> GetEnumerator()
 ```
+
+### Return Value
+
+An IEnumerator object that can be used to iterate through the collection.
 
 ### See Also
 

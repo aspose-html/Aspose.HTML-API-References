@@ -1,12 +1,14 @@
 ---
 title: DOMObject
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The DOMObject type is used to represent an base object for the entire Document Object Model. For Java and ECMAScript DOMObject is bound to the Object type.
 type: docs
 weight: 650
 url: /net/aspose.html.dom/domobject/
 ---
 ## DOMObject class
+
+The DOMObject type is used to represent an base object for the entire Document Object Model. For Java and ECMAScript, DOMObject is bound to the Object type.
 
 ```csharp
 public class DOMObject : INotifyPropertyChanged
@@ -22,7 +24,7 @@ public class DOMObject : INotifyPropertyChanged
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
 ### See Also
 

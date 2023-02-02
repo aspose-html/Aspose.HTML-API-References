@@ -1,12 +1,14 @@
 ---
 title: INetwork
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Provides an interface for network services.
 type: docs
 weight: 3930
 url: /net/aspose.html.net/inetwork/
 ---
 ## INetwork interface
+
+Provides an interface for network services.
 
 ```csharp
 public interface INetwork : IDisposable
@@ -16,7 +18,7 @@ public interface INetwork : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Send](../../aspose.html.net/inetwork/send/)(RequestMessage) |  |
+| [Send](../../aspose.html.net/inetwork/send/)(RequestMessage) | Sends a [`RequestMessage`](../requestmessage/) message. |
 
 ### See Also
 

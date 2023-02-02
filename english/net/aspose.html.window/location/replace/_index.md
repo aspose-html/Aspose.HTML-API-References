@@ -1,16 +1,22 @@
 ---
 title: Replace
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Removes the current page from the session history and navigates to the given page.
 type: docs
 weight: 30
 url: /net/aspose.html.window/location/replace/
 ---
 ## Location.Replace method
 
+Removes the current page from the session history and navigates to the given page.
+
 ```csharp
 public void Replace(string url)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| url | String | The URL to navigate. |
 
 ### See Also
 

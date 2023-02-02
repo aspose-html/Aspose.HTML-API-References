@@ -1,12 +1,14 @@
 ---
 title: CSS_MM
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The value is a length mm. The value can be obtained by using the getFloatValue method.
 type: docs
 weight: 270
 url: /net/aspose.html.dom.css/cssprimitivevalue/css_mm/
 ---
 ## CSSPrimitiveValue.CSS_MM field
+
+The value is a length (mm). The value can be obtained by using the getFloatValue method.
 
 ```csharp
 public const ushort CSS_MM;

@@ -1,12 +1,14 @@
 ---
 title: YamlSequenceSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the YamlSequenceSyntaxNode
 type: docs
 weight: 4980
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/
 ---
 ## YamlSequenceSyntaxNode class
+
+Defines the YamlSequenceSyntaxNode
 
 ```csharp
 public sealed class YamlSequenceSyntaxNode : ChildFrontMatterSyntaxNode
@@ -22,14 +24,14 @@ public sealed class YamlSequenceSyntaxNode : ChildFrontMatterSyntaxNode
 
 | Name | Description |
 | --- | --- |
-| [Item](../../aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/item/) { get; } |  |
+| [Item](../../aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/item/) { get; } | Get the YamlSyntaxNode by index. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Count](../../aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/count/)() |  |
-| override [GetEnumerator](../../aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/getenumerator/)() |  |
+| [Count](../../aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/count/)() | Defines the interface for get count. |
+| override [GetEnumerator](../../aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/getenumerator/)() | Defines the interface for get enumerator. |
 
 ### See Also
 

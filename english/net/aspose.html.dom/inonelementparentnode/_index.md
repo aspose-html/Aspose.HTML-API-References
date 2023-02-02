@@ -1,12 +1,14 @@
 ---
 title: INonElementParentNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines IParentNode./iparentnode/ that are not Element type.
 type: docs
 weight: 940
 url: /net/aspose.html.dom/inonelementparentnode/
 ---
 ## INonElementParentNode interface
+
+Defines [`IParentNode`](../iparentnode/) that are not Element type.
 
 ```csharp
 public interface INonElementParentNode
@@ -16,7 +18,7 @@ public interface INonElementParentNode
 
 | Name | Description |
 | --- | --- |
-| [GetElementById](../../aspose.html.dom/inonelementparentnode/getelementbyid/)(string) |  |
+| [GetElementById](../../aspose.html.dom/inonelementparentnode/getelementbyid/)(string) | Returns the first element within node's descendants whose ID is elementId. |
 
 ### See Also
 

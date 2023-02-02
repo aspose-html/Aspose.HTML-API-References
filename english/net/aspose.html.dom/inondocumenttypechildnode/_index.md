@@ -1,12 +1,14 @@
 ---
 title: INonDocumentTypeChildNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines IChildNode./ichildnode/ that are not DOCUMENT_TYPE_NODE./node/document_type_node/.
 type: docs
 weight: 930
 url: /net/aspose.html.dom/inondocumenttypechildnode/
 ---
 ## INonDocumentTypeChildNode interface
+
+Defines [`IChildNode`](../ichildnode/) that are not [`DOCUMENT_TYPE_NODE`](../node/document_type_node/).
 
 ```csharp
 public interface INonDocumentTypeChildNode
@@ -16,8 +18,8 @@ public interface INonDocumentTypeChildNode
 
 | Name | Description |
 | --- | --- |
-| [NextElementSibling](../../aspose.html.dom/inondocumenttypechildnode/nextelementsibling/) { get; } |  |
-| [PreviousElementSibling](../../aspose.html.dom/inondocumenttypechildnode/previouselementsibling/) { get; } |  |
+| [NextElementSibling](../../aspose.html.dom/inondocumenttypechildnode/nextelementsibling/) { get; } | Returns the first following sibling that is an element, and null otherwise. |
+| [PreviousElementSibling](../../aspose.html.dom/inondocumenttypechildnode/previouselementsibling/) { get; } | Returns the first preceding sibling that is an element, and null otherwise. |
 
 ### See Also
 

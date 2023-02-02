@@ -1,16 +1,22 @@
 ---
 title: GetTotalLength
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the user agents computed value for the total length of the path using the user agents distance-along-a-path algorithm as a distance in the current user coordinate system.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svggeometryelement/gettotallength/
 ---
 ## SVGGeometryElement.GetTotalLength method
 
+Returns the user agent's computed value for the total length of the path using the user agent's distance-along-a-path algorithm, as a distance in the current user coordinate system.
+
 ```csharp
 public float GetTotalLength()
 ```
+
+### Return Value
+
+The total length of the path.
 
 ### See Also
 

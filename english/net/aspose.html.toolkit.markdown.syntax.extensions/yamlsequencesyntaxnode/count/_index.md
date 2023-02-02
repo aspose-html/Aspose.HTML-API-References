@@ -1,16 +1,22 @@
 ---
 title: Count
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the interface for get count.
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/count/
 ---
 ## YamlSequenceSyntaxNode.Count method
 
+Defines the interface for get count.
+
 ```csharp
 public int Count()
 ```
+
+### Return Value
+
+The integer result.
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: HttpProtocolMessageHandler
 second_title: Aspose.HTML for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the HttpProtocolMessageHandleraspose.html.net.messagehandlers/httpprotocolmessagehandler/ class.
 type: docs
 weight: 10
 url: /net/aspose.html.net.messagehandlers/httpprotocolmessagehandler/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler constructor
 
-The default constructor.
+Initializes a new instance of the [`HttpProtocolMessageHandler`](../) class.
 
 ```csharp
 public HttpProtocolMessageHandler()

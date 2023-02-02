@@ -1,12 +1,14 @@
 ---
 title: TextBaseline
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Baseline alignment setting. Possible values top hanging middle alphabetic default ideographic bottom.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.canvas/icanvasdrawingstyles/textbaseline/
 ---
 ## ICanvasDrawingStyles.TextBaseline property
+
+Baseline alignment setting. Possible values: top, hanging, middle, alphabetic (default), ideographic, bottom.
 
 ```csharp
 public string TextBaseline { get; set; }

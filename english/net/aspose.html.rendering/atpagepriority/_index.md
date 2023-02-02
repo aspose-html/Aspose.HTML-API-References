@@ -1,12 +1,14 @@
 ---
 title: AtPagePriority
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specifies possible orders of applying page size declarations.
 type: docs
 weight: 4120
 url: /net/aspose.html.rendering/atpagepriority/
 ---
 ## AtPagePriority enumeration
+
+Specifies possible orders of applying page size declarations.
 
 ```csharp
 public enum AtPagePriority
@@ -16,8 +18,8 @@ public enum AtPagePriority
 
 | Name | Value | Description |
 | --- | --- | --- |
-| OptionsPriority | `0` |  |
-| CssPriority | `1` |  |
+| OptionsPriority | `0` | Specifies that [`PageSetup`](../pagesetup/) values declared in [`RenderingOptions`](../renderingoptions/) will override values defined in css by `@page` rules . |
+| CssPriority | `1` | Specifies that `@page` rules  defined in css will override values defined in [`PageSetup`](../pagesetup/). |
 
 ### See Also
 

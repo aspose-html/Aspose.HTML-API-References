@@ -1,16 +1,22 @@
 ---
 title: Intercept
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute intercept on the given element.
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svgcomponenttransferfunctionelement/intercept/
 ---
 ## SVGComponentTransferFunctionElement.Intercept property
 
+Corresponds to attribute ‘intercept’ on the given element.
+
 ```csharp
 public SVGAnimatedNumber Intercept { get; }
 ```
+
+### Property Value
+
+The attribute ‘intercept’ of the given element.
 
 ### See Also
 

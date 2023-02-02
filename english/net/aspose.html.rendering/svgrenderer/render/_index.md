@@ -1,16 +1,24 @@
 ---
 title: Render
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines method for rendering multiple SVGDocumentaspose.html.dom.svg/svgdocument/s into specific IDeviceaspose.html.rendering/idevice/. The rendering will be performed once there are no any network operations for loading resources active timers animation tasks or specified timeout is elapsed.
 type: docs
 weight: 20
 url: /net/aspose.html.rendering/svgrenderer/render/
 ---
 ## SvgRenderer.Render method
 
+Defines method for rendering multiple [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/)s into specific [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+
 ```csharp
 public override void Render(IDevice device, TimeSpan timeout, params SVGDocument[] documents)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| device | IDevice | The output device. |
+| timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
+| documents | SVGDocument[] | The documents to render. |
 
 ### See Also
 

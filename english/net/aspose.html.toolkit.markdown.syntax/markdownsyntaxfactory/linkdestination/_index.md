@@ -1,17 +1,28 @@
 ---
 title: LinkDestination
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates objects using LinkTitleSyntax.CreateInstance.
 type: docs
 weight: 240
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkdestination/
 ---
 ## MarkdownSyntaxFactory.LinkDestination method
 
+Creates objects using LinkTitleSyntax.CreateInstance.
+
 ```csharp
 public LinkDestinationSyntaxNode LinkDestination(MarkdownSyntaxToken opening = null, 
     MarkdownSyntaxToken closing = null)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| opening | MarkdownSyntaxToken | The opening token. |
+| closing | MarkdownSyntaxToken | The closing token. |
+
+### Return Value
+
+The LinkDestinationSyntax.
 
 ### See Also
 

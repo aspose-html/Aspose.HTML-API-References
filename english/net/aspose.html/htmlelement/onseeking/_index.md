@@ -1,12 +1,14 @@
 ---
 title: OnSeeking
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnSeeking event.
 type: docs
 weight: 470
 url: /net/aspose.html/htmlelement/onseeking/
 ---
 ## HTMLElement.OnSeeking event
+
+Gets or sets event handler for OnSeeking event.
 
 ```csharp
 public event DOMEventHandler OnSeeking;

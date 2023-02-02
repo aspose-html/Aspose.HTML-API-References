@@ -1,12 +1,14 @@
 ---
 title: StringContent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents content based on a string.
 type: docs
 weight: 4090
 url: /net/aspose.html.net/stringcontent/
 ---
 ## StringContent class
+
+Represents content based on a string.
 
 ```csharp
 public class StringContent : ByteArrayContent
@@ -16,24 +18,24 @@ public class StringContent : ByteArrayContent
 
 | Name | Description |
 | --- | --- |
-| [StringContent](stringcontent#constructor)(string) |  |
-| [StringContent](stringcontent#constructor_1)(string, Encoding) |  |
-| [StringContent](stringcontent#constructor_2)(string, Encoding, string) |  |
+| [StringContent](stringcontent#constructor)(string) | Initializes a new instance of the [`StringContent`](./stringcontent/) class. |
+| [StringContent](stringcontent#constructor_1)(string, Encoding) | Initializes a new instance of the [`StringContent`](./stringcontent/) class. |
+| [StringContent](stringcontent#constructor_2)(string, Encoding, string) | Initializes a new instance of the [`StringContent`](./stringcontent/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Headers](../../aspose.html.net/content/headers/) { get; } |  |
+| [Headers](../../aspose.html.net/content/headers/) { get; } | Gets the HTTP content headers. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.net/content/dispose/)() |  |
-| [ReadAsByteArray](../../aspose.html.net/content/readasbytearray/)() |  |
-| [ReadAsStream](../../aspose.html.net/content/readasstream/)() |  |
-| [ReadAsString](../../aspose.html.net/content/readasstring/)() |  |
+| [Dispose](../../aspose.html.net/content/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [ReadAsByteArray](../../aspose.html.net/content/readasbytearray/)() | Serialize the HTTP content and return a byte array that represents the content. |
+| [ReadAsStream](../../aspose.html.net/content/readasstream/)() | Serialize the HTTP content and return a stream that represents the content. |
+| [ReadAsString](../../aspose.html.net/content/readasstring/)() | Serialize the HTTP content and return a string that represents the content. |
 
 ### See Also
 

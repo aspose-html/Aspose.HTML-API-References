@@ -1,16 +1,22 @@
 ---
 title: FrameElement
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The frameElement object of a Document.
 type: docs
 weight: 20
 url: /net/aspose.html.window/iwindow/frameelement/
 ---
 ## IWindow.FrameElement property
 
+The frameElement object of a Document.
+
 ```csharp
 public Element FrameElement { get; }
 ```
+
+### Property Value
+
+The frame element.
 
 ### See Also
 

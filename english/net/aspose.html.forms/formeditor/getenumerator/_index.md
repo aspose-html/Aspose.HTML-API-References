@@ -1,16 +1,22 @@
 ---
 title: GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the enumerator.
 type: docs
 weight: 130
 url: /net/aspose.html.forms/formeditor/getenumerator/
 ---
 ## FormEditor.GetEnumerator method
 
+Gets the enumerator.
+
 ```csharp
 public IEnumerator<FormElement> GetEnumerator()
 ```
+
+### Return Value
+
+Returns the FormElements enumerator.
 
 ### See Also
 

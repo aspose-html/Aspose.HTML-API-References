@@ -1,12 +1,14 @@
 ---
 title: IWindowTimers
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Allows authors to schedule timer-based callbacks.
 type: docs
 weight: 5870
 url: /net/aspose.html.window/iwindowtimers/
 ---
 ## IWindowTimers interface
+
+Allows authors to schedule timer-based callbacks.
 
 ```csharp
 public interface IWindowTimers
@@ -16,10 +18,10 @@ public interface IWindowTimers
 
 | Name | Description |
 | --- | --- |
-| [ClearInterval](../../aspose.html.window/iwindowtimers/clearinterval/)(int) |  |
-| [ClearTimeout](../../aspose.html.window/iwindowtimers/cleartimeout/)(int) |  |
-| [SetInterval](../../aspose.html.window/iwindowtimers/setinterval/)(object, int, params object[]) |  |
-| [SetTimeout](../../aspose.html.window/iwindowtimers/settimeout/)(object, int, params object[]) |  |
+| [ClearInterval](../../aspose.html.window/iwindowtimers/clearinterval/)(int) | Cancels the timeout set with setInterval() identified by handle |
+| [ClearTimeout](../../aspose.html.window/iwindowtimers/cleartimeout/)(int) | Cancels the timeout set with setTimeout() identified by handle. |
+| [SetInterval](../../aspose.html.window/iwindowtimers/setinterval/)(object, int, params object[]) | Schedules a timeout to run handler every timeout milliseconds. Any arguments are passed straight through to the handler. |
+| [SetTimeout](../../aspose.html.window/iwindowtimers/settimeout/)(object, int, params object[]) | Schedules a timeout to run handler after timeout milliseconds. Any arguments are passed straight through to the handler. |
 
 ### See Also
 

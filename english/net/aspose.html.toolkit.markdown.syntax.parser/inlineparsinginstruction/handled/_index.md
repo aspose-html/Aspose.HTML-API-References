@@ -1,12 +1,14 @@
 ---
 title: Handled
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The Handled.
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/handled/
 ---
 ## InlineParsingInstruction.Handled field
+
+The Handled.
 
 ```csharp
 public static readonly InlineParsingInstruction Handled;

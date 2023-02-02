@@ -1,12 +1,14 @@
 ---
 title: Instruction
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the Instruction.
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/instruction/
 ---
 ## InlineParsingInstruction.Instruction property
+
+Get the Instruction.
 
 ```csharp
 public ParsingInstruction Instruction { get; }

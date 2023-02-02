@@ -1,12 +1,14 @@
 ---
 title: Ch
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Alignment character for cells in a column. See the char attribute definition in HTML 4.01.
 type: docs
 weight: 20
 url: /net/aspose.html/htmltablecolelement/ch/
 ---
 ## HTMLTableColElement.Ch property
+
+Alignment character for cells in a column. See the char attribute definition in HTML 4.01.
 
 ```csharp
 public string Ch { get; set; }

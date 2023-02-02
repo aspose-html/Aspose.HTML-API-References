@@ -1,12 +1,14 @@
 ---
 title: OutputStreamContext
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: A context for initialization of the output stream.
 type: docs
 weight: 3760
 url: /net/aspose.html.io/outputstreamcontext/
 ---
 ## OutputStreamContext class
+
+A context for initialization of the output stream.
 
 ```csharp
 public class OutputStreamContext
@@ -16,7 +18,7 @@ public class OutputStreamContext
 
 | Name | Description |
 | --- | --- |
-| [Uri](../../aspose.html.io/outputstreamcontext/uri/) { get; } |  |
+| [Uri](../../aspose.html.io/outputstreamcontext/uri/) { get; } | Gets the original URI of the saved resource. |
 
 ### See Also
 

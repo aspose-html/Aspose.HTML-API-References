@@ -1,12 +1,14 @@
 ---
 title: MarkdownException
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The Markdown exception
 type: docs
 weight: 5170
 url: /net/aspose.html.toolkit.markdown.syntax/markdownexception/
 ---
 ## MarkdownException class
+
+The Markdown exception
 
 ```csharp
 public class MarkdownException : ApplicationException
@@ -16,7 +18,7 @@ public class MarkdownException : ApplicationException
 
 | Name | Description |
 | --- | --- |
-| [MarkdownException](markdownexception)(string) |  |
+| [MarkdownException](markdownexception)(string) | The MarkdownException constructor. |
 
 ### See Also
 

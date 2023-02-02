@@ -1,12 +1,14 @@
 ---
 title: TypedArray
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: TypedArray objects present an array-like view of an underlying binary data buffer.
 type: docs
 weight: 5780
 url: /net/aspose.html/typedarray/
 ---
 ## TypedArray class
+
+TypedArray objects present an array-like view of an underlying binary data buffer.
 
 ```csharp
 public abstract class TypedArray : DOMObject
@@ -16,16 +18,16 @@ public abstract class TypedArray : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Buffer](../../aspose.html/typedarray/buffer/) { get; } |  |
-| [ByteLength](../../aspose.html/typedarray/bytelength/) { get; } |  |
-| [ByteOffset](../../aspose.html/typedarray/byteoffset/) { get; } |  |
-| [Length](../../aspose.html/typedarray/length/) { get; } |  |
+| [Buffer](../../aspose.html/typedarray/buffer/) { get; } | Gets the ArrayBuffer referenced by this instance. |
+| [ByteLength](../../aspose.html/typedarray/bytelength/) { get; } | Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes. |
+| [ByteOffset](../../aspose.html/typedarray/byteoffset/) { get; } | Gets the byteOffset from the start of referenced ArrayBuffer. |
+| [Length](../../aspose.html/typedarray/length/) { get; } | Gets the length of a typed array. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
 ### See Also
 

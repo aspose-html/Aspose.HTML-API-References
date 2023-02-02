@@ -1,12 +1,14 @@
 ---
 title: HttpProtocolMessageHandler
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents the http protocol message handler.
 type: docs
 weight: 4010
 url: /net/aspose.html.net.messagehandlers/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler class
+
+Represents the `http:` protocol message handler.
 
 ```csharp
 public class HttpProtocolMessageHandler : MessageHandler
@@ -16,19 +18,19 @@ public class HttpProtocolMessageHandler : MessageHandler
 
 | Name | Description |
 | --- | --- |
-| [HttpProtocolMessageHandler](httpprotocolmessagehandler)() | The default constructor. |
+| [HttpProtocolMessageHandler](httpprotocolmessagehandler)() | Initializes a new instance of the [`HttpProtocolMessageHandler`](./httpprotocolmessagehandler/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Filters](../../aspose.html.net/messagehandler/filters/) { get; } |  |
+| [Filters](../../aspose.html.net/messagehandler/filters/) { get; } | Gets the filters list that are corresponding to the specified handler type. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Invoke](../../aspose.html.net.messagehandlers/httpprotocolmessagehandler/invoke/)(INetworkOperationContext) |  |
+| override [Invoke](../../aspose.html.net.messagehandlers/httpprotocolmessagehandler/invoke/)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
 
 ### See Also
 

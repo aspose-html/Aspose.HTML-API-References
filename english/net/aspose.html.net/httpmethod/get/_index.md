@@ -1,16 +1,22 @@
 ---
 title: Get
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an HTTP GET protocol method.
 type: docs
 weight: 30
 url: /net/aspose.html.net/httpmethod/get/
 ---
 ## HttpMethod.Get property
 
+Represents an HTTP GET protocol method.
+
 ```csharp
 public static HttpMethod Get { get; }
 ```
+
+### Property Value
+
+The HTTP GET method.
 
 ### See Also
 

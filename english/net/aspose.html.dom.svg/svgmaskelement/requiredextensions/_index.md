@@ -1,16 +1,22 @@
 ---
 title: RequiredExtensions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute requiredExtensions on the given element.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgmaskelement/requiredextensions/
 ---
 ## SVGMaskElement.RequiredExtensions property
 
+Corresponds to attribute ‘requiredExtensions’ on the given element.
+
 ```csharp
 public SVGStringList RequiredExtensions { get; }
 ```
+
+### Property Value
+
+The required extensions.
 
 ### See Also
 

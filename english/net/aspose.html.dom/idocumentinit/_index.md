@@ -1,12 +1,14 @@
 ---
 title: IDocumentInit
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This interface provides Document./document/ initialization info.
 type: docs
 weight: 900
 url: /net/aspose.html.dom/idocumentinit/
 ---
 ## IDocumentInit interface
+
+This interface provides [`Document`](../document/) initialization info.
 
 ```csharp
 public interface IDocumentInit

@@ -1,12 +1,14 @@
 ---
 title: S
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Measurement is in seconds.
 type: docs
 weight: 250
 url: /net/aspose.html.drawing/unittype/s/
 ---
 ## UnitType.S field
+
+Measurement is in seconds.
 
 ```csharp
 public static readonly UnitType S;

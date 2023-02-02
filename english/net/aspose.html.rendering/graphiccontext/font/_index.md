@@ -1,12 +1,14 @@
 ---
 title: Font
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sets or gets the true type font object that is used for rendering text.
 type: docs
 weight: 40
 url: /net/aspose.html.rendering/graphiccontext/font/
 ---
 ## GraphicContext.Font property
+
+Sets or gets the true type font object that is used for rendering text.
 
 ```csharp
 public virtual ITrueTypeFont Font { get; set; }

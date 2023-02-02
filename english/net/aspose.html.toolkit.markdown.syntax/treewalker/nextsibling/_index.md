@@ -1,16 +1,22 @@
 ---
 title: NextSibling
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the interface for get next sibling node.
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax/treewalker/nextsibling/
 ---
 ## TreeWalker.NextSibling method
 
+Defines the interface for get next sibling node.
+
 ```csharp
 public MarkdownSyntaxNode NextSibling()
 ```
+
+### Return Value
+
+The MarkdownSyntaxNode.
 
 ### See Also
 

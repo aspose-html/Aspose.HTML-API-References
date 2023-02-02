@@ -1,12 +1,14 @@
 ---
 title: SVGPathSegCurvetoQuadraticSmoothRel
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGPathSegCurvetoQuadraticSmoothRel interface corresponds to a relative smooth cubic curveto t path data command.
 type: docs
 weight: 1800
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticsmoothrel/
 ---
 ## SVGPathSegCurvetoQuadraticSmoothRel class
+
+The SVGPathSegCurvetoQuadraticSmoothRel interface corresponds to a "relative smooth cubic curveto" (t) path data command.
 
 ```csharp
 public class SVGPathSegCurvetoQuadraticSmoothRel : SVGPathSeg
@@ -16,17 +18,17 @@ public class SVGPathSegCurvetoQuadraticSmoothRel : SVGPathSeg
 
 | Name | Description |
 | --- | --- |
-| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype/) { get; } |  |
-| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } |  |
-| [X](../../aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticsmoothrel/x/) { get; set; } |  |
-| [Y](../../aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticsmoothrel/y/) { get; set; } |  |
+| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype/) { get; } | The type of the path segment as specified by one of the constants defined on this interface. |
+| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | The type of the path segment, specified by the corresponding one character command name. |
+| [X](../../aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticsmoothrel/x/) { get; set; } | The relative X coordinate for the end point of this path segment. |
+| [Y](../../aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticsmoothrel/y/) { get; set; } | The relative Y coordinate for the end point of this path segment. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
 ### See Also
 

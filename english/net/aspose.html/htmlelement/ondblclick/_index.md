@@ -1,12 +1,14 @@
 ---
 title: OnDblClick
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnDblClick event.
 type: docs
 weight: 150
 url: /net/aspose.html/htmlelement/ondblclick/
 ---
 ## HTMLElement.OnDblClick event
+
+Gets or sets event handler for OnDblClick event.
 
 ```csharp
 public event DOMEventHandler OnDblClick;

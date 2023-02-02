@@ -1,12 +1,14 @@
 ---
 title: Value
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The current form control value. See the value attribute definition in HTML 4.01.
 type: docs
 weight: 80
 url: /net/aspose.html/htmloptionelement/value/
 ---
 ## HTMLOptionElement.Value property
+
+The current form control value. See the value attribute definition in HTML 4.01.
 
 ```csharp
 public string Value { get; set; }

@@ -1,16 +1,22 @@
 ---
 title: GetOpeningTag
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the interface for get OpeningTag.
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/atxheadingsyntaxnode/getopeningtag/
 ---
 ## AtxHeadingSyntaxNode.GetOpeningTag method
 
+Defines the interface for get OpeningTag.
+
 ```csharp
 public MarkdownSyntaxToken GetOpeningTag()
 ```
+
+### Return Value
+
+The MarkdownSyntaxToken.
 
 ### See Also
 

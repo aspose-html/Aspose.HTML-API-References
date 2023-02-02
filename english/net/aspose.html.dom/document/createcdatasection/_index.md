@@ -1,15 +1,31 @@
 ---
 title: CreateCDATASection
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates a CDATASectionaspose.html.dom/cdatasection/ node whose value is the specified string.
 type: docs
 weight: 810
 url: /net/aspose.html.dom/document/createcdatasection/
 ---
 ## Document.CreateCDATASection method
 
+Creates a [`CDATASection`](../../cdatasection/) node whose value is the specified string.
+
 ```csharp
 public CDATASection CreateCDATASection(string data)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| data | String | The CDATA content. |
+
+### Return Value
+
+The [`CDATASection`](../../cdatasection/).
+
+### Examples
+
+```csharp
+var cdata = document.CreateCDATASection(data)
 ```
 
 ### See Also

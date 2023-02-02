@@ -1,14 +1,14 @@
 ---
 title: FileProtocolMessageHandler
 second_title: Aspose.HTML for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the FileProtocolMessageHandleraspose.html.net.messagehandlers/fileprotocolmessagehandler/ class.
 type: docs
 weight: 10
 url: /net/aspose.html.net.messagehandlers/fileprotocolmessagehandler/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler constructor
 
-The default constructor.
+Initializes a new instance of the [`FileProtocolMessageHandler`](../) class.
 
 ```csharp
 public FileProtocolMessageHandler()

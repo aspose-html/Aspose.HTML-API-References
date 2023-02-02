@@ -1,12 +1,14 @@
 ---
 title: Fill
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Fills the subpaths with the current fill style and default algorithm CanvasFillRule.Nonzero.
 type: docs
 weight: 220
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/fill/
 ---
 ## Fill() {#fill}
+
+Fills the subpaths with the current fill style and default algorithm CanvasFillRule.Nonzero.
 
 ```csharp
 public void Fill()
@@ -22,9 +24,15 @@ public void Fill()
 
 ## Fill(CanvasFillRule) {#fill_1}
 
+Fills the subpaths with the current fill style.
+
 ```csharp
 public void Fill(CanvasFillRule fillRule)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fillRule | CanvasFillRule | The algorithm by which to determine if a point is inside a path or outside a path. |
 
 ### See Also
 
@@ -37,9 +45,15 @@ public void Fill(CanvasFillRule fillRule)
 
 ## Fill(Path2D) {#fill_2}
 
+Fills the subpaths with the current fill style and default algorithm CanvasFillRule.Nonzero.
+
 ```csharp
 public void Fill(Path2D path)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| path | Path2D | A Path2D path to fill. |
 
 ### See Also
 
@@ -52,9 +66,16 @@ public void Fill(Path2D path)
 
 ## Fill(Path2D, CanvasFillRule) {#fill_3}
 
+Fills the subpaths with the current fill style.
+
 ```csharp
 public void Fill(Path2D path, CanvasFillRule fillRule)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| path | Path2D | A Path2D path to fill. |
+| fillRule | CanvasFillRule | The algorithm by which to determine if a point is inside a path or outside a path. |
 
 ### See Also
 

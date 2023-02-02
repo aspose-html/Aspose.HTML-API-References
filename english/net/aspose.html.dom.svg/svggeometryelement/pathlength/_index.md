@@ -1,16 +1,22 @@
 ---
 title: PathLength
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute pathLength on the given element.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svggeometryelement/pathlength/
 ---
 ## SVGGeometryElement.PathLength property
 
+Corresponds to attribute pathLength on the given element.
+
 ```csharp
 public SVGAnimatedNumber PathLength { get; }
 ```
+
+### Property Value
+
+The attribute pathLength on the given element.
 
 ### See Also
 

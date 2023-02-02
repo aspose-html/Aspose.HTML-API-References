@@ -1,12 +1,14 @@
 ---
 title: LineWidth
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sets or gets the thickness of paths to be stroked.
 type: docs
 weight: 120
 url: /net/aspose.html.rendering/graphiccontext/linewidth/
 ---
 ## GraphicContext.LineWidth property
+
+Sets or gets the thickness of paths to be stroked.
 
 ```csharp
 public virtual float LineWidth { get; set; }

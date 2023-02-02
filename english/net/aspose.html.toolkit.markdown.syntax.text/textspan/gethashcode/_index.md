@@ -1,16 +1,22 @@
 ---
 title: GetHashCode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the HashCode
 type: docs
 weight: 110
 url: /net/aspose.html.toolkit.markdown.syntax.text/textspan/gethashcode/
 ---
 ## TextSpan.GetHashCode method
 
+Get the HashCode
+
 ```csharp
 public override int GetHashCode()
 ```
+
+### Return Value
+
+The hashcode.
 
 ### See Also
 

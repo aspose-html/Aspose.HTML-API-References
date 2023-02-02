@@ -1,12 +1,14 @@
 ---
 title: DOMNameAttribute
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specifies the official DOM object name as it defined by the W3C.
 type: docs
 weight: 140
 url: /net/aspose.html.dom.attributes/domnameattribute/
 ---
 ## DOMNameAttribute class
+
+Specifies the official DOM object name as it defined by the W3C.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]
@@ -17,13 +19,13 @@ public sealed class DOMNameAttribute : Attribute
 
 | Name | Description |
 | --- | --- |
-| [DOMNameAttribute](domnameattribute)(string) |  |
+| [DOMNameAttribute](domnameattribute)(string) | Initializes a new instance of the [`DOMNameAttribute`](./domnameattribute/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Name](../../aspose.html.dom.attributes/domnameattribute/name/) { get; } |  |
+| [Name](../../aspose.html.dom.attributes/domnameattribute/name/) { get; } | Gets the DOM name. |
 
 ### See Also
 

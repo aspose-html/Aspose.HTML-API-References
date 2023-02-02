@@ -1,16 +1,22 @@
 ---
 title: UnorderedList
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates objects using UnorderedListSyntax.CreateInstance.
 type: docs
 weight: 470
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/unorderedlist/
 ---
 ## MarkdownSyntaxFactory.UnorderedList method
 
+Creates objects using UnorderedListSyntax.CreateInstance.
+
 ```csharp
 public UnorderedListSyntaxNode UnorderedList()
 ```
+
+### Return Value
+
+The UnorderedListSyntax.
 
 ### See Also
 

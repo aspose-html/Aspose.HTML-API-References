@@ -1,16 +1,22 @@
 ---
 title: PreviousNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the interface for get the previous node.
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax/nodeiterator/previousnode/
 ---
 ## NodeIterator.PreviousNode method
 
+Defines the interface for get the previous node.
+
 ```csharp
 public MarkdownSyntaxNode PreviousNode()
 ```
+
+### Return Value
+
+The markdown syntax node.
 
 ### See Also
 

@@ -22,9 +22,19 @@ public bool Remove(KeyValuePair<string, object> item)
 
 ## Remove(string) {#remove_1}
 
+Removes the value associated with the specified key from the [`MutationObserverInit`](../) collection.
+
 ```csharp
 public bool Remove(string key)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key | String | The key of the element to remove. |
+
+### Return Value
+
+True if the element is successfully found and removed; otherwise, false.
 
 ### See Also
 

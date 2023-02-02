@@ -1,14 +1,14 @@
 ---
 title: ResponseHeaders
 second_title: Aspose.HTML for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the RequestHeadersaspose.html.net/requestheaders/ class.
 type: docs
 weight: 10
 url: /net/aspose.html.net/responseheaders/responseheaders/
 ---
 ## ResponseHeaders constructor
 
-The default constructor.
+Initializes a new instance of the [`RequestHeaders`](../../requestheaders/) class.
 
 ```csharp
 public ResponseHeaders()

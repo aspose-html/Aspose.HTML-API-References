@@ -1,16 +1,22 @@
 ---
 title: MarkerOffset
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This property specifies the distance between the nearest border edgeshttps//www.w3.org/TR/1998/REC-CSS2-19980512/box.htmlborder-edge of a marker box and its associated principal boxhttps//www.w3.org/TR/1998/REC-CSS2-19980512/visuren.htmlprincipal-box. The offset may either be a user-specified lengthhttps//www.w3.org/TR/1998/REC-CSS2-19980512/syndata.htmlvalue-def-length or chosen by the UA auto. Lengths may be negative but there may be implementation-specific limits.
 type: docs
 weight: 680
 url: /net/aspose.html.dom.css/icss2properties/markeroffset/
 ---
 ## ICSS2Properties.MarkerOffset property
 
+This property specifies the distance between the nearest [border edges](https://www.w3.org/TR/1998/REC-CSS2-19980512/box.html#border-edge) of a marker box and its associated [principal box](https://www.w3.org/TR/1998/REC-CSS2-19980512/visuren.html#principal-box). The offset may either be a user-specified ([length](https://www.w3.org/TR/1998/REC-CSS2-19980512/syndata.html#value-def-length)) or chosen by the UA ('auto'). Lengths may be negative, but there may be implementation-specific limits.
+
 ```csharp
 public string MarkerOffset { get; set; }
 ```
+
+### Return Value
+
+marker-offset property
 
 ### See Also
 

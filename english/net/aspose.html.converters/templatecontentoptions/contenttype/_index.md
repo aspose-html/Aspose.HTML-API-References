@@ -1,12 +1,14 @@
 ---
 title: ContentType
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Content type property.
 type: docs
 weight: 20
 url: /net/aspose.html.converters/templatecontentoptions/contenttype/
 ---
 ## TemplateContentOptions.ContentType property
+
+Content type property.
 
 ```csharp
 public TemplateContent ContentType { get; }

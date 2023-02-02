@@ -1,12 +1,14 @@
 ---
 title: IMarkdownParserBuilder
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the base interface IMarkdownParserBuilder
 type: docs
 weight: 5430
 url: /net/aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/
 ---
 ## IMarkdownParserBuilder interface
+
+Defines the base interface IMarkdownParserBuilder
 
 ```csharp
 public interface IMarkdownParserBuilder
@@ -16,9 +18,9 @@ public interface IMarkdownParserBuilder
 
 | Name | Description |
 | --- | --- |
-| [UseBlockParser&lt;T&gt;](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useblockparser/)() |  |
-| [UseExtension&lt;T&gt;](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useextension/)() |  |
-| [UseInlineParser&lt;T&gt;](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useinlineparser/)() |  |
+| [UseBlockParser&lt;T&gt;](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useblockparser/)() | Defines the UseBlockParser method. |
+| [UseExtension&lt;T&gt;](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useextension/)() | Defines the UseExtension method. |
+| [UseInlineParser&lt;T&gt;](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useinlineparser/)() | Defines the UseInlineParser method. |
 
 ### See Also
 

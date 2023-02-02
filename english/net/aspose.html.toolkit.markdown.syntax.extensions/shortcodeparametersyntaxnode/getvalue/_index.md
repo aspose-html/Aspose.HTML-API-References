@@ -1,16 +1,22 @@
 ---
 title: GetValue
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get string Value
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/getvalue/
 ---
 ## ShortCodeParameterSyntaxNode.GetValue method
 
+Get string Value
+
 ```csharp
 public string GetValue()
 ```
+
+### Return Value
+
+The string result.
 
 ### See Also
 

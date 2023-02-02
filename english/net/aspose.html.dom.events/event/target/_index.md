@@ -1,12 +1,14 @@
 ---
 title: Target
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Used to indicate the IEventTargetaspose.html.dom.events/ieventtarget/ to which the event was originally dispatched.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.events/event/target/
 ---
 ## Event.Target property
+
+Used to indicate the [`IEventTarget`](../../ieventtarget/) to which the event was originally dispatched.
 
 ```csharp
 public EventTarget Target { get; }

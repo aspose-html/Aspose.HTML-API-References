@@ -1,12 +1,14 @@
 ---
 title: NamespaceURI
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The namespace URI of this node or null if it is unspecified.
 type: docs
 weight: 40
 url: /net/aspose.html.dom/attr/namespaceuri/
 ---
 ## Attr.NamespaceURI property
+
+The namespace URI of this node, or null if it is unspecified.
 
 ```csharp
 public override string NamespaceURI { get; }

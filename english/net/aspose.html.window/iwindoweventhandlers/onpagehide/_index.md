@@ -1,12 +1,14 @@
 ---
 title: OnPageHide
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler
 type: docs
 weight: 80
 url: /net/aspose.html.window/iwindoweventhandlers/onpagehide/
 ---
 ## IWindowEventHandlers.OnPageHide event
+
+Gets or sets event handler
 
 ```csharp
 public event DOMEventHandler OnPageHide;

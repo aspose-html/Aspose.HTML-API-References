@@ -1,12 +1,14 @@
 ---
 title: SetAuto
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Resets container to state auto.
 type: docs
 weight: 60
 url: /net/aspose.html.drawing/lengthorauto/setauto/
 ---
 ## LengthOrAuto.SetAuto method
+
+Resets container to state 'auto'.
 
 ```csharp
 public void SetAuto()

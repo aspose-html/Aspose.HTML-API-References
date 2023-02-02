@@ -1,12 +1,14 @@
 ---
 title: DeleteCaption
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Delete the table caption if one exists.
 type: docs
 weight: 180
 url: /net/aspose.html/htmltableelement/deletecaption/
 ---
 ## HTMLTableElement.DeleteCaption method
+
+Delete the table caption, if one exists.
 
 ```csharp
 public void DeleteCaption()

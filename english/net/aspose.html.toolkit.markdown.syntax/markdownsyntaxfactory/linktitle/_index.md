@@ -1,17 +1,28 @@
 ---
 title: LinkTitle
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates objects using LinkTitleSyntax.CreateInstance.
 type: docs
 weight: 260
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linktitle/
 ---
 ## MarkdownSyntaxFactory.LinkTitle method
 
+Creates objects using LinkTitleSyntax.CreateInstance.
+
 ```csharp
 public LinkTitleSyntaxNode LinkTitle(MarkdownSyntaxToken opening = null, 
     MarkdownSyntaxToken closing = null)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| opening | MarkdownSyntaxToken | The opening token. |
+| closing | MarkdownSyntaxToken | The closing token. |
+
+### Return Value
+
+The LinkTitleSyntax.
 
 ### See Also
 

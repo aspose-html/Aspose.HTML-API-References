@@ -1,12 +1,14 @@
 ---
 title: OnSeeked
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnSeeked event.
 type: docs
 weight: 680
 url: /net/aspose.html.dom/document/onseeked/
 ---
 ## Document.OnSeeked event
+
+Gets or sets event handler for OnSeeked event.
 
 ```csharp
 public event DOMEventHandler OnSeeked;

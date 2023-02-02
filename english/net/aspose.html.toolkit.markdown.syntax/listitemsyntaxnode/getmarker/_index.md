@@ -1,16 +1,22 @@
 ---
 title: GetMarker
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get marker
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/listitemsyntaxnode/getmarker/
 ---
 ## ListItemSyntaxNode.GetMarker method
 
+Get marker
+
 ```csharp
 public ListItemMarker GetMarker()
 ```
+
+### Return Value
+
+The ListItemMarker.
 
 ### See Also
 

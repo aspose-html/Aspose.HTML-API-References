@@ -1,16 +1,22 @@
 ---
 title: IsEndTag
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the interface for check IsEndTag
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/isendtag/
 ---
 ## HugoShortCodeSyntaxNode.IsEndTag method
 
+Defines the interface for check IsEndTag
+
 ```csharp
 public bool IsEndTag()
 ```
+
+### Return Value
+
+The boolean.
 
 ### See Also
 

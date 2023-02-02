@@ -1,16 +1,22 @@
 ---
 title: Setup
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Override the Setup
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/gfmsyntaxextension/setup/
 ---
 ## GfmSyntaxExtension.Setup method
 
+Override the Setup
+
 ```csharp
 public override void Setup(IMarkdownParserBuilder builder)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| builder | IMarkdownParserBuilder | The builder. |
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: CSSRules
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The read-only cssRules property of the CSSKeyframeRuleaspose.html.dom.css/icsskeyframerule/ interface returns a CSSRuleListaspose.html.dom.css/icssrulelist/ containing the rules in the keyframes at-rule.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/icsskeyframesrule/cssrules/
 ---
 ## ICSSKeyframesRule.CSSRules property
 
+The read-only cssRules property of the [`CSSKeyframeRule`](../../icsskeyframerule/) interface returns a [`CSSRuleList`](../../icssrulelist/) containing the rules in the keyframes at-rule.
+
 ```csharp
 public ICSSRuleList CSSRules { get; }
 ```
+
+### Property Value
+
+Returns a [`CSSRuleList`](../../icssrulelist/) containing the rules in the keyframes at-rule.
 
 ### See Also
 

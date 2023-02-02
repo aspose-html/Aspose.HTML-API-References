@@ -1,16 +1,26 @@
 ---
 title: Match
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: When overridden in a derived class tests whether a Context satisfies the filter criteria.
 type: docs
 weight: 10
 url: /net/aspose.html.net/messagefilter/match/
 ---
 ## MessageFilter.Match method
 
+When overridden in a derived class, tests whether a Context satisfies the filter criteria.
+
 ```csharp
 public abstract bool Match(INetworkOperationContext context)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| context | INetworkOperationContext | The context. |
+
+### Return Value
+
+true if the Context object satisfies the filter criteria; otherwise, false.
 
 ### See Also
 

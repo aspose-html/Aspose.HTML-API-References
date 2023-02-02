@@ -1,12 +1,14 @@
 ---
 title: TextInfo
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Contains information about rendered text.
 type: docs
 weight: 4520
 url: /net/aspose.html.rendering/textinfo/
 ---
 ## TextInfo class
+
+Contains information about rendered text.
 
 ```csharp
 public class TextInfo
@@ -16,7 +18,7 @@ public class TextInfo
 
 | Name | Description |
 | --- | --- |
-| [GlyphInfos](../../aspose.html.rendering/textinfo/glyphinfos/) { get; } |  |
+| [GlyphInfos](../../aspose.html.rendering/textinfo/glyphinfos/) { get; } | Gets information about rendered glyphs. |
 
 ### See Also
 

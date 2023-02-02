@@ -1,16 +1,22 @@
 ---
 title: GetHashCode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Overrides the GetHashCode
 type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/gethashcode/
 ---
 ## LineParsingInstruction.GetHashCode method
 
+Overrides the GetHashCode
+
 ```csharp
 public override int GetHashCode()
 ```
+
+### Return Value
+
+The Instruction.
 
 ### See Also
 

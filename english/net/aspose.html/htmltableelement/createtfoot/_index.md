@@ -1,16 +1,22 @@
 ---
 title: CreateTFoot
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Create a table footer row or return an existing one.
 type: docs
 weight: 160
 url: /net/aspose.html/htmltableelement/createtfoot/
 ---
 ## HTMLTableElement.CreateTFoot method
 
+Create a table footer row or return an existing one.
+
 ```csharp
 public Element CreateTFoot()
 ```
+
+### Return Value
+
+A footer element (`TFOOT`).
 
 ### See Also
 

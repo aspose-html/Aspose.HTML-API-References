@@ -1,12 +1,14 @@
 ---
 title: UrlRestriction
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This enum represents restriction applied to URLs of processed resources.
 type: docs
 weight: 4690
 url: /net/aspose.html.saving/urlrestriction/
 ---
 ## UrlRestriction enumeration
+
+This enum represents restriction applied to URLs of processed resources.
 
 ```csharp
 public enum UrlRestriction
@@ -16,9 +18,9 @@ public enum UrlRestriction
 
 | Name | Value | Description |
 | --- | --- | --- |
-| RootAndSubFolders | `0` |  |
-| SameHost | `1` |  |
-| None | `2` |  |
+| RootAndSubFolders | `0` | Only resources located in the root and sub folders are processed. |
+| SameHost | `1` | Only resources located in the same host are processed. |
+| None | `2` | All resources are processed. |
 
 ### See Also
 

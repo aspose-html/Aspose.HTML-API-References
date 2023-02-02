@@ -1,16 +1,26 @@
 ---
 title: RemoveNamedItem
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Removes a node specified by name.
 type: docs
 weight: 60
 url: /net/aspose.html.collections/namednodemap/removenameditem/
 ---
 ## NamedNodeMap.RemoveNamedItem method
 
+Removes a node specified by name.
+
 ```csharp
 public Attr RemoveNamedItem(string name)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | String | The element name. |
+
+### Return Value
+
+Removed node.
 
 ### See Also
 

@@ -1,17 +1,28 @@
 ---
 title: Add
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates a new HTMLElementaspose.html/htmlelement/ and adds it to the end of the form.
 type: docs
 weight: 80
 url: /net/aspose.html.forms/formeditor/add/
 ---
 ## FormEditor.Add&lt;T&gt; method
 
+Creates a new [`HTMLElement`](../../../aspose.html/htmlelement/) and adds it to the end of the form.
+
 ```csharp
 public T Add<T>(string name)
     where T : FormElement
 ```
+
+| Parameter | Description |
+| --- | --- |
+| T | Type of form element |
+| name | Name of the element |
+
+### Return Value
+
+A new instance of form element
 
 ### See Also
 

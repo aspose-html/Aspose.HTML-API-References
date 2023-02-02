@@ -1,12 +1,14 @@
 ---
 title: OnMouseWheel
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnMouseWheel event.
 type: docs
 weight: 310
 url: /net/aspose.html.dom/iglobaleventhandlers/onmousewheel/
 ---
 ## IGlobalEventHandlers.OnMouseWheel event
+
+Gets or sets event handler for OnMouseWheel event.
 
 ```csharp
 public event DOMEventHandler OnMouseWheel;

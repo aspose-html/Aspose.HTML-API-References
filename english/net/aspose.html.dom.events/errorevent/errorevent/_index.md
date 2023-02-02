@@ -1,16 +1,22 @@
 ---
 title: ErrorEvent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the ErrorEventaspose.html.dom.events/errorevent/ class.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.events/errorevent/errorevent/
 ---
 ## ErrorEvent(Exception) {#constructor_1}
 
+Initializes a new instance of the [`ErrorEvent`](../) class.
+
 ```csharp
 public ErrorEvent(Exception exception)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| exception | Exception | The exception. |
 
 ### See Also
 

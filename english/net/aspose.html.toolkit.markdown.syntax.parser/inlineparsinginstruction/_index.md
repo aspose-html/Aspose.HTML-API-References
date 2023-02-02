@@ -1,12 +1,14 @@
 ---
 title: InlineParsingInstruction
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the InlineParsingInstruction struct.
 type: docs
 weight: 5440
 url: /net/aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/
 ---
 ## InlineParsingInstruction structure
+
+Defines the InlineParsingInstruction struct.
 
 ```csharp
 public struct InlineParsingInstruction : IEquatable<InlineParsingInstruction>
@@ -16,15 +18,15 @@ public struct InlineParsingInstruction : IEquatable<InlineParsingInstruction>
 
 | Name | Description |
 | --- | --- |
-| [Instruction](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/instruction/) { get; } |  |
+| [Instruction](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/instruction/) { get; } | Get the Instruction. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Equals](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/equals/#equals)(InlineParsingInstruction) |  |
-| override [Equals](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/equals/#equals_1)(object) |  |
-| override [GetHashCode](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/gethashcode/)() |  |
+| [Equals](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/equals/#equals)(InlineParsingInstruction) | Compare two InlineParsingInstruction. |
+| override [Equals](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/equals/#equals_1)(object) | Overrides the Equals method. |
+| override [GetHashCode](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/gethashcode/)() | Defines the GetHashCode |
 | [operator ==](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/op_equality/) |  |
 | [operator !=](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/op_inequality/) |  |
 
@@ -32,8 +34,8 @@ public struct InlineParsingInstruction : IEquatable<InlineParsingInstruction>
 
 | Name | Description |
 | --- | --- |
-| static readonly [Handled](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/handled/) |  |
-| static readonly [None](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/none/) |  |
+| static readonly [Handled](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/handled/) | The Handled. |
+| static readonly [None](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/none/) | The ParsingInstruction.None. |
 
 ### See Also
 

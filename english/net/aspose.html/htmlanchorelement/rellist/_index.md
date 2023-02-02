@@ -1,12 +1,14 @@
 ---
 title: RelList
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a live DOMTokenList which contains tokens received from parsing the rel attribute.
 type: docs
 weight: 160
 url: /net/aspose.html/htmlanchorelement/rellist/
 ---
 ## HTMLAnchorElement.RelList property
+
+Returns a live DOMTokenList which contains tokens received from parsing the "rel" attribute.
 
 ```csharp
 public DOMTokenList RelList { get; }

@@ -1,12 +1,14 @@
 ---
 title: DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContextTRenderingOptions
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specifies types of strategies for writing pages into output streamstreams.
 type: docs
 weight: 4160
 url: /net/aspose.html.rendering/device-2.pagewritingstrategy-2/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt; enumeration
+
+Specifies types of strategies for writing pages into output stream\streams.
 
 ```csharp
 public enum PageWritingStrategy<TGraphicContext, TRenderingOptions>
@@ -18,8 +20,8 @@ public enum PageWritingStrategy<TGraphicContext, TRenderingOptions>
 
 | Name | Value | Description |
 | --- | --- | --- |
-| SingleStream | `0` |  |
-| MultipleStreams | `1` |  |
+| SingleStream | `0` | Writes all pages into one output stream. |
+| MultipleStreams | `1` | Writes every page into its own stream. |
 
 ### See Also
 

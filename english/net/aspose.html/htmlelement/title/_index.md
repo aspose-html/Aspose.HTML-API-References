@@ -1,12 +1,14 @@
 ---
 title: Title
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The elements advisory title. See the title attribute definition in HTML 4.01.
 type: docs
 weight: 60
 url: /net/aspose.html/htmlelement/title/
 ---
 ## HTMLElement.Title property
+
+The element's advisory title. See the title attribute definition in HTML 4.01.
 
 ```csharp
 public string Title { get; set; }

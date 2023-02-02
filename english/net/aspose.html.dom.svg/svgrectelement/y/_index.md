@@ -1,16 +1,22 @@
 ---
 title: Y
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute y on the given rect element.
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg/svgrectelement/y/
 ---
 ## SVGRectElement.Y property
 
+Corresponds to attribute ‘y’ on the given ‘rect’ element.
+
 ```csharp
 public SVGAnimatedLength Y { get; }
 ```
+
+### Property Value
+
+The attribute ‘y’ of the given ‘rect’ element.
 
 ### See Also
 

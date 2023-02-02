@@ -1,12 +1,14 @@
 ---
 title: SVGSaveFormat
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specifies format in which document is saved.
 type: docs
 weight: 2430
 url: /net/aspose.html.dom.svg.saving/svgsaveformat/
 ---
 ## SVGSaveFormat enumeration
+
+Specifies format in which document is saved.
 
 ```csharp
 public enum SVGSaveFormat
@@ -16,7 +18,7 @@ public enum SVGSaveFormat
 
 | Name | Value | Description |
 | --- | --- | --- |
-| SVG | `0` |  |
+| SVG | `0` | Document will be saved as SVG. |
 
 ### See Also
 

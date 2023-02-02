@@ -1,16 +1,22 @@
 ---
 title: Identifier
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This attribute is used for the identifier of the counter.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/counter/identifier/
 ---
 ## Counter.Identifier property
 
+This attribute is used for the identifier of the counter.
+
 ```csharp
 public string Identifier { get; }
 ```
+
+### Property Value
+
+The counter identifier.
 
 ### See Also
 

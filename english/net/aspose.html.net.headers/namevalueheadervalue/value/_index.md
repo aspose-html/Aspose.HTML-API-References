@@ -1,16 +1,22 @@
 ---
 title: Value
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the parameter value.
 type: docs
 weight: 20
 url: /net/aspose.html.net.headers/namevalueheadervalue/value/
 ---
 ## NameValueHeaderValue.Value property
 
+Gets or sets the parameter value.
+
 ```csharp
 public string Value { get; set; }
 ```
+
+### Property Value
+
+The value.
 
 ### See Also
 

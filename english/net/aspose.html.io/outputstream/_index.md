@@ -1,12 +1,14 @@
 ---
 title: OutputStream
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: A surrogate stream wraps the real output stream and controls access to it.OutputStream./outputstream/ contains URI data that describes location of the output stream.
 type: docs
 weight: 3750
 url: /net/aspose.html.io/outputstream/
 ---
 ## OutputStream class
+
+A surrogate stream wraps the real output stream and controls access to it.[`OutputStream`](./outputstream/) contains URI data that describes location of the output stream.
 
 ```csharp
 public class OutputStream : Stream
@@ -16,29 +18,29 @@ public class OutputStream : Stream
 
 | Name | Description |
 | --- | --- |
-| [OutputStream](outputstream)(Stream, string) |  |
+| [OutputStream](outputstream)(Stream, string) | Initializes a new instance of the [`OutputStream`](./outputstream/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| override [CanRead](../../aspose.html.io/outputstream/canread/) { get; } |  |
-| override [CanSeek](../../aspose.html.io/outputstream/canseek/) { get; } |  |
-| override [CanWrite](../../aspose.html.io/outputstream/canwrite/) { get; } |  |
-| override [Length](../../aspose.html.io/outputstream/length/) { get; } |  |
-| override [Position](../../aspose.html.io/outputstream/position/) { get; set; } |  |
-| [Uri](../../aspose.html.io/outputstream/uri/) { get; } |  |
+| override [CanRead](../../aspose.html.io/outputstream/canread/) { get; } | Gets a value indicating whether the wrapped output stream supports reading. |
+| override [CanSeek](../../aspose.html.io/outputstream/canseek/) { get; } | Gets a value indicating whether the wrapped output stream supports seeking. |
+| override [CanWrite](../../aspose.html.io/outputstream/canwrite/) { get; } | Gets a value indicating whether the wrapped output stream supports writing. |
+| override [Length](../../aspose.html.io/outputstream/length/) { get; } | Gets the length in bytes of the wrapped output stream. |
+| override [Position](../../aspose.html.io/outputstream/position/) { get; set; } | Gets or sets the position within the wrapped output stream. |
+| [Uri](../../aspose.html.io/outputstream/uri/) { get; } | Gets the URI of stream location. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Close](../../aspose.html.io/outputstream/close/)() |  |
-| override [Flush](../../aspose.html.io/outputstream/flush/)() |  |
-| override [Read](../../aspose.html.io/outputstream/read/)(byte[], int, int) |  |
-| override [Seek](../../aspose.html.io/outputstream/seek/)(long, SeekOrigin) |  |
-| override [SetLength](../../aspose.html.io/outputstream/setlength/)(long) |  |
-| override [Write](../../aspose.html.io/outputstream/write/)(byte[], int, int) |  |
+| override [Close](../../aspose.html.io/outputstream/close/)() | Closes the wrapped output stream and current stream. |
+| override [Flush](../../aspose.html.io/outputstream/flush/)() | Clears all buffers for the wrapped output stream and causes any buffered data to be written to the underlying device. |
+| override [Read](../../aspose.html.io/outputstream/read/)(byte[], int, int) | Reads a sequence of bytes from the wrapped output stream and advances the position within the stream by the number of bytes read. |
+| override [Seek](../../aspose.html.io/outputstream/seek/)(long, SeekOrigin) | Sets the position within the wrapped output stream. |
+| override [SetLength](../../aspose.html.io/outputstream/setlength/)(long) | Sets the length of the wrapped output stream. |
+| override [Write](../../aspose.html.io/outputstream/write/)(byte[], int, int) | Writes a sequence of bytes to the wrapped output stream and advances the current position within this stream by the number of bytes written. |
 
 ### See Also
 

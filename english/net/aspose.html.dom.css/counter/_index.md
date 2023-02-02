@@ -1,12 +1,14 @@
 ---
 title: Counter
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The Counter interface is used to represent any counter or counters function value. This interface reflects the values in the underlying style property.
 type: docs
 weight: 360
 url: /net/aspose.html.dom.css/counter/
 ---
 ## Counter class
+
+The Counter interface is used to represent any counter or counters function value. This interface reflects the values in the underlying style property.
 
 ```csharp
 public class Counter : DOMObject
@@ -16,15 +18,15 @@ public class Counter : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Identifier](../../aspose.html.dom.css/counter/identifier/) { get; } |  |
-| [ListStyle](../../aspose.html.dom.css/counter/liststyle/) { get; } |  |
-| [Separator](../../aspose.html.dom.css/counter/separator/) { get; } |  |
+| [Identifier](../../aspose.html.dom.css/counter/identifier/) { get; } | This attribute is used for the identifier of the counter. |
+| [ListStyle](../../aspose.html.dom.css/counter/liststyle/) { get; } | This attribute is used for the style of the list. |
+| [Separator](../../aspose.html.dom.css/counter/separator/) { get; } | This attribute is used for the separator of the nested counters. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
 ### See Also
 

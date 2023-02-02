@@ -1,16 +1,22 @@
 ---
 title: Method
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the HttpMethodaspose.html.net/httpmethod/.
 type: docs
 weight: 60
 url: /net/aspose.html.net/requestmessage/method/
 ---
 ## RequestMessage.Method property
 
+Gets or sets the [`HttpMethod`](../../httpmethod/).
+
 ```csharp
 public HttpMethod Method { get; set; }
 ```
+
+### Property Value
+
+The [`HttpMethod`](../../httpmethod/).
 
 ### See Also
 

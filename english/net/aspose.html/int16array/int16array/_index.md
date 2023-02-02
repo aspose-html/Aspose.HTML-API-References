@@ -1,16 +1,22 @@
 ---
 title: Int16Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Int16Arrayaspose.html/int16array/ class.
 type: docs
 weight: 10
 url: /net/aspose.html/int16array/int16array/
 ---
 ## Int16Array(int) {#constructor_4}
 
+Initializes a new instance of the [`Int16Array`](../) class.
+
 ```csharp
 public Int16Array(int length)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| length | Int32 | The length (number of elements). |
 
 ### See Also
 
@@ -22,9 +28,15 @@ public Int16Array(int length)
 
 ## Int16Array(short[]) {#constructor_3}
 
+Initializes a new instance of the [`Int16Array`](../) class.
+
 ```csharp
 public Int16Array(short[] data)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| data | Int16[] | The array data. |
 
 ### See Also
 
@@ -36,9 +48,15 @@ public Int16Array(short[] data)
 
 ## Int16Array(ArrayBuffer) {#constructor}
 
+Initializes a new instance of the [`Int16Array`](../) class.
+
 ```csharp
 public Int16Array(ArrayBuffer buffer)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | ArrayBuffer | The data buffer. |
 
 ### See Also
 
@@ -51,9 +69,16 @@ public Int16Array(ArrayBuffer buffer)
 
 ## Int16Array(ArrayBuffer, int) {#constructor_1}
 
+Initializes a new instance of the [`Int16Array`](../) class.
+
 ```csharp
 public Int16Array(ArrayBuffer buffer, int byteOffset)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | ArrayBuffer | The data buffer. |
+| byteOffset | Int32 | The byte offset. |
 
 ### See Also
 
@@ -66,9 +91,17 @@ public Int16Array(ArrayBuffer buffer, int byteOffset)
 
 ## Int16Array(ArrayBuffer, int, int) {#constructor_2}
 
+Initializes a new instance of the [`Int16Array`](../) class.
+
 ```csharp
 public Int16Array(ArrayBuffer buffer, int byteOffset, int length)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | ArrayBuffer | The data buffer. |
+| byteOffset | Int32 | The byte offset. |
+| length | Int32 | The length. |
 
 ### See Also
 

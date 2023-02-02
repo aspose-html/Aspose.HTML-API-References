@@ -1,16 +1,24 @@
 ---
 title: Render
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines method for rendering multiple Documentaspose.html.dom/document/s into specific IDeviceaspose.html.rendering/idevice/. The rendering will be performed once there are no any network operations for loading resources active timers animation tasks or specified timeout is elapsed.
 type: docs
 weight: 20
 url: /net/aspose.html.rendering/htmlrenderer/render/
 ---
 ## HtmlRenderer.Render method
 
+Defines method for rendering multiple [`Document`](../../../aspose.html.dom/document/)s into specific [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+
 ```csharp
 public override void Render(IDevice device, TimeSpan timeout, params Document[] documents)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| device | IDevice | The output device. |
+| timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
+| documents | Document[] | The documents to render. |
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: GraphicContext
 second_title: Aspose.HTML for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the GraphicContextaspose.html.rendering/graphiccontext/ class.
 type: docs
 weight: 10
 url: /net/aspose.html.rendering/graphiccontext/graphiccontext/
 ---
 ## GraphicContext constructor
 
-The default constructor.
+Initializes a new instance of the [`GraphicContext`](../) class.
 
 ```csharp
 public GraphicContext()

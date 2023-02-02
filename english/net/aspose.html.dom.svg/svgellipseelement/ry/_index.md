@@ -1,16 +1,22 @@
 ---
 title: Ry
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute ry on the given circle element.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgellipseelement/ry/
 ---
 ## SVGEllipseElement.Ry property
 
+Corresponds to attribute ‘ry’ on the given ‘circle’ element.
+
 ```csharp
 public SVGAnimatedLength Ry { get; }
 ```
+
+### Property Value
+
+The attribute ‘ry’ of the given ‘circle’ element.
 
 ### See Also
 

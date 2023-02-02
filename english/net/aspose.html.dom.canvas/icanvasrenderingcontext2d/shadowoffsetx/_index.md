@@ -1,12 +1,14 @@
 ---
 title: ShadowOffsetX
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Horizontal distance the shadow will be offset. Default 0.
 type: docs
 weight: 80
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/shadowoffsetx/
 ---
 ## ICanvasRenderingContext2D.ShadowOffsetX property
+
+Horizontal distance the shadow will be offset. Default 0.
 
 ```csharp
 public double ShadowOffsetX { get; set; }

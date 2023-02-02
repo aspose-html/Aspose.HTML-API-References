@@ -1,12 +1,14 @@
 ---
 title: FullConfig
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The full default config.
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownparser/fullconfig/
 ---
 ## MarkdownParser.FullConfig field
+
+The full default config.
 
 ```csharp
 public static readonly Action<IMarkdownParserBuilder> FullConfig;

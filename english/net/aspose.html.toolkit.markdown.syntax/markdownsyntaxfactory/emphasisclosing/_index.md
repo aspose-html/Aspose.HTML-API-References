@@ -1,16 +1,27 @@
 ---
 title: EmphasisClosing
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Create EmphasisClosing.
 type: docs
 weight: 80
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emphasisclosing/
 ---
 ## MarkdownSyntaxFactory.EmphasisClosing method
 
+Create EmphasisClosing.
+
 ```csharp
 public MarkdownSyntaxToken EmphasisClosing(SourceText source, TextSpan span)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| source | SourceText | The SourceText. |
+| span | TextSpan | The TextSpan. |
+
+### Return Value
+
+The MarkdownSyntaxToken.
 
 ### See Also
 

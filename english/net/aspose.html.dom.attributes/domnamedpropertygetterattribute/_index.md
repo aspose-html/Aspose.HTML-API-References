@@ -1,12 +1,14 @@
 ---
 title: DOMNamedPropertyGetterAttribute
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specifies that the method will be used as named property getter.
 type: docs
 weight: 150
 url: /net/aspose.html.dom.attributes/domnamedpropertygetterattribute/
 ---
 ## DOMNamedPropertyGetterAttribute class
+
+Specifies that the method will be used as named property getter.
 
 ```csharp
 [AttributeUsage(AttributeTargets.All)]

@@ -1,12 +1,14 @@
 ---
 title: OpenedDelimiter
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get and set the OpenedDelimiter/
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/openeddelimiter/
 ---
 ## IInlinePostProcessingContext.OpenedDelimiter property
+
+Get and set the OpenedDelimiter/
 
 ```csharp
 public DelimiterRun OpenedDelimiter { get; set; }

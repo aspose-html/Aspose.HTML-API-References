@@ -1,12 +1,14 @@
 ---
 title: Renderer
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents a base class for all renderers and implemnts IDisposable interface.
 type: docs
 weight: 4480
 url: /net/aspose.html.rendering/renderer/
 ---
 ## Renderer class
+
+Represents a base class for all renderers and implemnts IDisposable interface.
 
 ```csharp
 public class Renderer : IDisposable
@@ -22,7 +24,7 @@ public class Renderer : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.rendering/renderer/dispose/)() |  |
+| [Dispose](../../aspose.html.rendering/renderer/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 
 ### See Also
 

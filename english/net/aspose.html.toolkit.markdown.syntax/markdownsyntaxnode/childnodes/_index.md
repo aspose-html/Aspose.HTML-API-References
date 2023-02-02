@@ -1,16 +1,22 @@
 ---
 title: ChildNodes
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the child nodes collection.
 type: docs
 weight: 80
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/childnodes/
 ---
 ## MarkdownSyntaxNode.ChildNodes method
 
+Get the child nodes collection.
+
 ```csharp
 public NodeList ChildNodes()
 ```
+
+### Return Value
+
+The NodeList.
 
 ### See Also
 

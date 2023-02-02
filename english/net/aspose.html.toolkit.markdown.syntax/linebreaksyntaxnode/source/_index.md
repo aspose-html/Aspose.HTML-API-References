@@ -1,12 +1,14 @@
 ---
 title: Source
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the source.
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/source/
 ---
 ## LineBreakSyntaxNode.Source property
+
+Get the source.
 
 ```csharp
 public virtual SourceText Source { get; }

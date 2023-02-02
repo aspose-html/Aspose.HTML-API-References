@@ -1,12 +1,14 @@
 ---
 title: BeginPath
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Starts a new path by emptying the list of sub-paths. Call this method when you want to create a new path.
 type: docs
 weight: 120
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/beginpath/
 ---
 ## ICanvasRenderingContext2D.BeginPath method
+
+Starts a new path by emptying the list of sub-paths. Call this method when you want to create a new path.
 
 ```csharp
 public void BeginPath()

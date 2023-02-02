@@ -1,16 +1,22 @@
 ---
 title: Element
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Element class. Dont call this constructor directly use CreateElementStringaspose.html.dom/document/createelement/ or CreateElementNSString Stringaspose.html.dom/document/createelementns/.
 type: docs
 weight: 10
 url: /net/aspose.html.dom/element/element/
 ---
 ## Element constructor
 
+Initializes a new instance of the Element class. Don't call this constructor directly, use [`CreateElement(String)`](../../document/createelement/) or [`CreateElementNS(String, String)`](../../document/createelementns/).
+
 ```csharp
 public Element(IElementInit elementInit)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| elementInit | IElementInit | The element initialization info. |
 
 ### See Also
 

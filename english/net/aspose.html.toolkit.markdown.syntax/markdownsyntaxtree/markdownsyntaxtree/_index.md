@@ -1,16 +1,22 @@
 ---
 title: MarkdownSyntaxTree
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates the MarkdownSyntaxTree
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/markdownsyntaxtree/
 ---
 ## MarkdownSyntaxTree(Configuration) {#constructor_1}
 
+Creates the MarkdownSyntaxTree
+
 ```csharp
 public MarkdownSyntaxTree(Configuration config)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| config | Configuration | The Configuration. |
 
 ### See Also
 
@@ -23,7 +29,7 @@ public MarkdownSyntaxTree(Configuration config)
 
 ## MarkdownSyntaxTree() {#constructor}
 
-The default constructor.
+Created the MarkdownSyntaxTree.
 
 ```csharp
 public MarkdownSyntaxTree()

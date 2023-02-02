@@ -1,16 +1,26 @@
 ---
 title: EscapedCharacter
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates objects using EscapedCharacterSyntax.CreateEscapedCharacter
 type: docs
 weight: 110
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/escapedcharacter/
 ---
 ## EscapedCharacter(char) {#escapedcharacter_1}
 
+Creates objects using EscapedCharacterSyntax.CreateEscapedCharacter
+
 ```csharp
 public TextSyntaxNode EscapedCharacter(char escapedChar)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| escapedChar | Char | The escapedChar. |
+
+### Return Value
+
+The TextSyntax.
 
 ### See Also
 
@@ -23,9 +33,20 @@ public TextSyntaxNode EscapedCharacter(char escapedChar)
 
 ## EscapedCharacter(SourceText, TextSpan) {#escapedcharacter}
 
+Creates objects using EscapedCharacterSyntax.CreateEscapedCharacter
+
 ```csharp
 public TextSyntaxNode EscapedCharacter(SourceText source, TextSpan span)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| source | SourceText | The SourceText. |
+| span | TextSpan | The TextSpan. |
+
+### Return Value
+
+The TextSyntax.
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Text
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the text content of span.
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/text/
 ---
 ## MarkdownSyntaxToken.Text property
+
+Get the text content of span.
 
 ```csharp
 public string Text { get; }

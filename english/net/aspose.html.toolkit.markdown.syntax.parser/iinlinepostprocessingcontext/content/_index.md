@@ -1,12 +1,14 @@
 ---
 title: Content
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the Content.
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/content/
 ---
 ## IInlinePostProcessingContext.Content property
+
+Get the Content.
 
 ```csharp
 public List<InlineSyntaxNode> Content { get; }

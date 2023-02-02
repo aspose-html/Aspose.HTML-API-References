@@ -1,12 +1,14 @@
 ---
 title: INetworkOperationContext
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Provides contextual information for the network services.
 type: docs
 weight: 3940
 url: /net/aspose.html.net/inetworkoperationcontext/
 ---
 ## INetworkOperationContext interface
+
+Provides contextual information for the network services.
 
 ```csharp
 public interface INetworkOperationContext
@@ -16,8 +18,8 @@ public interface INetworkOperationContext
 
 | Name | Description |
 | --- | --- |
-| [Request](../../aspose.html.net/inetworkoperationcontext/request/) { get; set; } |  |
-| [Response](../../aspose.html.net/inetworkoperationcontext/response/) { get; set; } |  |
+| [Request](../../aspose.html.net/inetworkoperationcontext/request/) { get; set; } | Gets or sets the request message. |
+| [Response](../../aspose.html.net/inetworkoperationcontext/response/) { get; set; } | Gets or sets the response message. |
 
 ### See Also
 

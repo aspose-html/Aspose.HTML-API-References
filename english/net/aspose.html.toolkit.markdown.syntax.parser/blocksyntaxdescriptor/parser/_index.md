@@ -1,12 +1,14 @@
 ---
 title: Parser
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the Parser.
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/parser/
 ---
 ## BlockSyntaxDescriptor.Parser property
+
+Get the Parser.
 
 ```csharp
 public MarkdownBlockParser Parser { get; }

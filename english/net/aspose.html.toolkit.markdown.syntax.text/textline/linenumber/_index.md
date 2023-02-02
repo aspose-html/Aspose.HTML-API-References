@@ -1,12 +1,14 @@
 ---
 title: LineNumber
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the LineNumber.
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.text/textline/linenumber/
 ---
 ## TextLine.LineNumber property
+
+Get the LineNumber.
 
 ```csharp
 public int LineNumber { get; }

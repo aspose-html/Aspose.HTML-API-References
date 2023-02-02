@@ -1,12 +1,14 @@
 ---
 title: Length
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the Length.
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser/delimiterrun/length/
 ---
 ## DelimiterRun.Length property
+
+Get the Length.
 
 ```csharp
 public int Length { get; }

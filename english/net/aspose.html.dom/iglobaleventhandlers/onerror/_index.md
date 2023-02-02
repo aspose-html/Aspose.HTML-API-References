@@ -1,12 +1,14 @@
 ---
 title: OnError
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnError event.
 type: docs
 weight: 130
 url: /net/aspose.html.dom/iglobaleventhandlers/onerror/
 ---
 ## IGlobalEventHandlers.OnError event
+
+Gets or sets event handler for OnError event.
 
 ```csharp
 public event DOMEventHandler OnError;

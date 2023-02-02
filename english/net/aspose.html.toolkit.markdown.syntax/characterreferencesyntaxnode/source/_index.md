@@ -1,12 +1,14 @@
 ---
 title: Source
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the source.
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/source/
 ---
 ## CharacterReferenceSyntaxNode.Source property
+
+Get the source.
 
 ```csharp
 public SourceText Source { get; }

@@ -1,12 +1,14 @@
 ---
 title: BlockSyntaxDescriptor
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the BlockSyntaxDescriptor.
 type: docs
 weight: 5330
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/
 ---
 ## BlockSyntaxDescriptor class
+
+Defines the BlockSyntaxDescriptor.
 
 ```csharp
 public class BlockSyntaxDescriptor
@@ -16,22 +18,22 @@ public class BlockSyntaxDescriptor
 
 | Name | Description |
 | --- | --- |
-| [Block](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/block/) { get; } |  |
-| [Parser](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/parser/) { get; } |  |
+| [Block](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/block/) { get; } | Get the Block |
+| [Parser](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/parser/) { get; } | Get the Parser. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AppendInline](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/appendinline/)(SourceText) |  |
-| [Close](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/close/)() |  |
-| [Delete](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/delete/)() |  |
-| [GetAttributes](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/getattributes/)() |  |
-| [GetAttributeValue&lt;T&gt;](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/getattributevalue/)(string) |  |
-| [GetContent](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/getcontent/)() |  |
-| [HasAttribute](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/hasattribute/)(string) |  |
-| [SetAttributeValue&lt;T&gt;](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/setattributevalue/)(string, T) |  |
-| override [ToString](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/tostring/)() |  |
+| [AppendInline](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/appendinline/)(SourceText) | Defines the interface for Append Inline. |
+| [Close](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/close/)() | Defines the interface for Close. |
+| [Delete](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/delete/)() | Defines the interface for Delete. |
+| [GetAttributes](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/getattributes/)() | Defines the interface for get attribute. |
+| [GetAttributeValue&lt;T&gt;](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/getattributevalue/)(string) | Defines the interface for get the Attribute |
+| [GetContent](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/getcontent/)() | Defines the interface for get content. |
+| [HasAttribute](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/hasattribute/)(string) | Defines the interface for check Has Attribute |
+| [SetAttributeValue&lt;T&gt;](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/setattributevalue/)(string, T) | Defines the interface for set attribute. |
+| override [ToString](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/tostring/)() | Override the ToString interface. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Turn
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Measurement is in turns.
 type: docs
 weight: 260
 url: /net/aspose.html.drawing/unittype/turn/
 ---
 ## UnitType.Turn field
+
+Measurement is in turns.
 
 ```csharp
 public static readonly UnitType Turn;

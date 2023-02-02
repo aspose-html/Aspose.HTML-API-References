@@ -1,12 +1,14 @@
 ---
 title: Areas
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The list of areas defined for the image map.
 type: docs
 weight: 10
 url: /net/aspose.html/htmlmapelement/areas/
 ---
 ## HTMLMapElement.Areas property
+
+The list of areas defined for the image map.
 
 ```csharp
 public HTMLCollection Areas { get; }

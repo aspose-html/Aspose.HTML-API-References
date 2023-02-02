@@ -1,12 +1,14 @@
 ---
 title: ICSSFontFaceRule
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The CSSFontFaceRule interface represents a font-face rule in a CSS style sheet. The font-face rule is used to hold a set of font descriptions.
 type: docs
 weight: 400
 url: /net/aspose.html.dom.css/icssfontfacerule/
 ---
 ## ICSSFontFaceRule interface
+
+The CSSFontFaceRule interface represents a @font-face rule in a CSS style sheet. The @font-face rule is used to hold a set of font descriptions.
 
 ```csharp
 public interface ICSSFontFaceRule : ICSSRule
@@ -16,7 +18,7 @@ public interface ICSSFontFaceRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [Style](../../aspose.html.dom.css/icssfontfacerule/style/) { get; } |  |
+| [Style](../../aspose.html.dom.css/icssfontfacerule/style/) { get; } | The read-only style property of the [`CSSFontFaceRule`](./icssfontfacerule/) interface returns the style information from the @font-face at-rule. This will be in the form of a [`CSSStyleDeclaration`](../icssstyledeclaration/) object. |
 
 ### See Also
 

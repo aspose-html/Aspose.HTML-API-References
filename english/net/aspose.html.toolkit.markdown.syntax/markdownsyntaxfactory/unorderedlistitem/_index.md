@@ -1,16 +1,26 @@
 ---
 title: UnorderedListItem
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Creates a new instance of the ListItemSyntaxNodeaspose.html.toolkit.markdown.syntax/listitemsyntaxnode/ class with unordered list item marker.
 type: docs
 weight: 480
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/unorderedlistitem/
 ---
 ## MarkdownSyntaxFactory.UnorderedListItem method
 
+Creates a new instance of the [`ListItemSyntaxNode`](../../listitemsyntaxnode/) class with unordered list item marker.
+
 ```csharp
 public ListItemSyntaxNode UnorderedListItem(string marker)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| marker | String | The unordered list item marker. |
+
+### Return Value
+
+Created [`ListItemSyntaxNode`](../../listitemsyntaxnode/).
 
 ### See Also
 

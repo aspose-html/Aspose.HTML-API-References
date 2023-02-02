@@ -1,12 +1,14 @@
 ---
 title: OnFocus
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnFocus event.
 type: docs
 weight: 140
 url: /net/aspose.html.dom/iglobaleventhandlers/onfocus/
 ---
 ## IGlobalEventHandlers.OnFocus event
+
+Gets or sets event handler for OnFocus event.
 
 ```csharp
 public event DOMEventHandler OnFocus;

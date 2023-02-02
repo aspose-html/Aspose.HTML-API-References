@@ -1,12 +1,14 @@
 ---
 title: OnHashChange
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler
 type: docs
 weight: 40
 url: /net/aspose.html.window/iwindoweventhandlers/onhashchange/
 ---
 ## IWindowEventHandlers.OnHashChange event
+
+Gets or sets event handler
 
 ```csharp
 public event DOMEventHandler OnHashChange;

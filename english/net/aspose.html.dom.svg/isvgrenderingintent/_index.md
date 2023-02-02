@@ -1,12 +1,14 @@
 ---
 title: ISVGRenderingIntent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGRenderingIntent interface defines the enumerated list of possible values for rendering-intent attributes or descriptors.
 type: docs
 weight: 1630
 url: /net/aspose.html.dom.svg/isvgrenderingintent/
 ---
 ## ISVGRenderingIntent interface
+
+The SVGRenderingIntent interface defines the enumerated list of possible values for ‘rendering-intent’ attributes or descriptors.
 
 ```csharp
 public interface ISVGRenderingIntent

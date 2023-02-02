@@ -1,16 +1,22 @@
 ---
 title: Setup
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the interface for Setup
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugosyntaxextension/setup/
 ---
 ## HugoSyntaxExtension.Setup method
 
+Defines the interface for Setup
+
 ```csharp
 public override void Setup(IMarkdownParserBuilder builder)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| builder | IMarkdownParserBuilder | The builder. |
 
 ### See Also
 

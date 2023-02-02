@@ -1,12 +1,14 @@
 ---
 title: OnProgress
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnProgress event.
 type: docs
 weight: 620
 url: /net/aspose.html.dom/document/onprogress/
 ---
 ## Document.OnProgress event
+
+Gets or sets event handler for OnProgress event.
 
 ```csharp
 public event DOMEventHandler OnProgress;

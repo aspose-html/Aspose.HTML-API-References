@@ -1,16 +1,22 @@
 ---
 title: X
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute x on the given cursor element.
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg/svgcursorelement/x/
 ---
 ## SVGCursorElement.X property
 
+Corresponds to attribute ‘x’ on the given ‘cursor’ element.
+
 ```csharp
 public SVGAnimatedLength X { get; }
 ```
+
+### Property Value
+
+The attribute ‘x’ of the given ‘cursor’ element.
 
 ### See Also
 

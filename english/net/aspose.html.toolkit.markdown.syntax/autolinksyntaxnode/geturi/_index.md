@@ -1,16 +1,22 @@
 ---
 title: GetUri
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the uri.
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/autolinksyntaxnode/geturi/
 ---
 ## AutoLinkSyntaxNode.GetUri method
 
+Get the uri.
+
 ```csharp
 public string GetUri()
 ```
+
+### Return Value
+
+The string value of Content.Span.
 
 ### See Also
 

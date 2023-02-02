@@ -1,12 +1,14 @@
 ---
 title: Length
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The number of nodes in this map.
 type: docs
 weight: 20
 url: /net/aspose.html.collections/namednodemap/length/
 ---
 ## NamedNodeMap.Length property
+
+The number of nodes in this map.
 
 ```csharp
 public int Length { get; }

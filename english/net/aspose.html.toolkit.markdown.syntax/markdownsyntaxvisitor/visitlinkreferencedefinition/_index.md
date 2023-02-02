@@ -1,16 +1,22 @@
 ---
 title: VisitLinkReferenceDefinition
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the interface for visit LinkReferenceDefinitionSyntax.
 type: docs
 weight: 160
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitlinkreferencedefinition/
 ---
 ## MarkdownSyntaxVisitor.VisitLinkReferenceDefinition method
 
+Defines the interface for visit LinkReferenceDefinitionSyntax.
+
 ```csharp
 public virtual void VisitLinkReferenceDefinition(LinkReferenceDefinitionSyntaxNode definition)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| definition | LinkReferenceDefinitionSyntaxNode | The LinkReferenceDefinitionSyntax. |
 
 ### See Also
 

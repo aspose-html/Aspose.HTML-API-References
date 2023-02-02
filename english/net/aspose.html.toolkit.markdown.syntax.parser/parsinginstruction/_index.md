@@ -1,12 +1,14 @@
 ---
 title: ParsingInstruction
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The ParsingInstruction enum.
 type: docs
 weight: 5500
 url: /net/aspose.html.toolkit.markdown.syntax.parser/parsinginstruction/
 ---
 ## ParsingInstruction enumeration
+
+The ParsingInstruction enum.
 
 ```csharp
 [Flags]
@@ -17,10 +19,10 @@ public enum ParsingInstruction
 
 | Name | Value | Description |
 | --- | --- | --- |
-| None | `0` |  |
-| Handled | `1` |  |
-| Continue | `2` |  |
-| NextLine | `4` |  |
+| None | `0` | The None = 0 |
+| Handled | `1` | The Handled = 1 &lt;&lt; 0 |
+| Continue | `2` | The Continue = 1 &lt;&lt; |
+| NextLine | `4` | The NextLine = 1 &lt;&lt; 2 |
 
 ### See Also
 

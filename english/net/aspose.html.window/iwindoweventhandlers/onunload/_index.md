@@ -1,12 +1,14 @@
 ---
 title: OnUnload
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler
 type: docs
 weight: 120
 url: /net/aspose.html.window/iwindoweventhandlers/onunload/
 ---
 ## IWindowEventHandlers.OnUnload event
+
+Gets or sets event handler
 
 ```csharp
 public event DOMEventHandler OnUnload;

@@ -1,12 +1,14 @@
 ---
 title: DocumentFormat
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents the file format of the output document.
 type: docs
 weight: 4200
 url: /net/aspose.html.rendering.doc/documentformat/
 ---
 ## DocumentFormat enumeration
+
+Represents the file format of the output document.
 
 ```csharp
 public enum DocumentFormat
@@ -16,7 +18,7 @@ public enum DocumentFormat
 
 | Name | Value | Description |
 | --- | --- | --- |
-| DOCX | `1` |  |
+| DOCX | `1` | The XML-based document format. |
 
 ### See Also
 

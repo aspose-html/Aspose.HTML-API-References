@@ -1,16 +1,22 @@
 ---
 title: Float
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: See the float property definition in CSS2.
 type: docs
 weight: 460
 url: /net/aspose.html.dom.css/icss2properties/float/
 ---
 ## ICSS2Properties.Float property
 
+See the float property definition in CSS2.
+
 ```csharp
 public string Float { get; set; }
 ```
+
+### Return Value
+
+float property
 
 ### See Also
 

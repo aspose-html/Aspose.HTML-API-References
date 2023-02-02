@@ -1,12 +1,14 @@
 ---
 title: Index
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The index of this OPTION in its parent SELECT starting from 0. version DOM Level 2
 type: docs
 weight: 40
 url: /net/aspose.html/htmloptionelement/index/
 ---
 ## HTMLOptionElement.Index property
+
+The index of this `OPTION` in its parent `SELECT`, starting from 0. @version DOM Level 2
 
 ```csharp
 public int Index { get; }

@@ -1,12 +1,14 @@
 ---
 title: SVGPathSegClosePath
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: he SVGPathSegClosePath interface corresponds to a closepath z path data command.
 type: docs
 weight: 1720
 url: /net/aspose.html.dom.svg.paths/svgpathsegclosepath/
 ---
 ## SVGPathSegClosePath class
+
+he SVGPathSegClosePath interface corresponds to a "closepath" (z) path data command.
 
 ```csharp
 public class SVGPathSegClosePath : SVGPathSeg
@@ -16,15 +18,15 @@ public class SVGPathSegClosePath : SVGPathSeg
 
 | Name | Description |
 | --- | --- |
-| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype/) { get; } |  |
-| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } |  |
+| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype/) { get; } | The type of the path segment as specified by one of the constants defined on this interface. |
+| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | The type of the path segment, specified by the corresponding one character command name. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: Delete
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents an HTTP DELETE protocol method.
 type: docs
 weight: 20
 url: /net/aspose.html.net/httpmethod/delete/
 ---
 ## HttpMethod.Delete property
 
+Represents an HTTP DELETE protocol method.
+
 ```csharp
 public static HttpMethod Delete { get; }
 ```
+
+### Property Value
+
+The HTTP DELETE protocol method.
 
 ### See Also
 

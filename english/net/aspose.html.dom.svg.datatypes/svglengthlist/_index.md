@@ -1,12 +1,14 @@
 ---
 title: SVGLengthList
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: This interface defines a list of SVGLength objects.
 type: docs
 weight: 1210
 url: /net/aspose.html.dom.svg.datatypes/svglengthlist/
 ---
 ## SVGLengthList class
+
+This interface defines a list of SVGLength objects.
 
 ```csharp
 public class SVGLengthList : SVGListBase<SVGLength>
@@ -26,15 +28,15 @@ public class SVGLengthList : SVGListBase<SVGLength>
 | --- | --- |
 | [AppendItem](../../aspose.html.dom.svg.collections/svglistbase`1/appenditem/)(SVGLength) |  |
 | [Clear](../../aspose.html.dom.svg.collections/svglistbase`1/clear/)() |  |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 | [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase`1/getenumerator/)() |  |
 | [GetItem](../../aspose.html.dom.svg.collections/svglistbase`1/getitem/)(ulong) |  |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 | [Initialize](../../aspose.html.dom.svg.collections/svglistbase`1/initialize/)(SVGLength) |  |
 | [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase`1/insertitembefore/)(SVGLength, ulong) |  |
 | [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase`1/removeitem/)(ulong) |  |
 | [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase`1/replaceitem/)(SVGLength, ulong) |  |
-| override [ToString](../../aspose.html.dom.svg.datatypes/svglengthlist/tostring/)() |  |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svglengthlist/tostring/)() | Returns a String that represents this instance. |
 
 ### See Also
 

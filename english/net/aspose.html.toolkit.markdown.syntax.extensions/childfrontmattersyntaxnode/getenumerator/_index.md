@@ -1,16 +1,22 @@
 ---
 title: GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the IEnumerator.
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/childfrontmattersyntaxnode/getenumerator/
 ---
 ## ChildFrontMatterSyntaxNode.GetEnumerator method
 
+Get the IEnumerator.
+
 ```csharp
 public abstract IEnumerator<ChildFrontMatterSyntaxNode> GetEnumerator()
 ```
+
+### Return Value
+
+The IEnumerator.
 
 ### See Also
 

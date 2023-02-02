@@ -1,12 +1,14 @@
 ---
 title: IInlineEmphasisPostProcessing
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the IInlineEmphasisPostProcessing interface.
 type: docs
 weight: 5380
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlineemphasispostprocessing/
 ---
 ## IInlineEmphasisPostProcessing interface
+
+Defines the IInlineEmphasisPostProcessing interface.
 
 ```csharp
 public interface IInlineEmphasisPostProcessing : IInlinePostProcessing

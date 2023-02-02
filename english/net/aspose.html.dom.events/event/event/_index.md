@@ -1,16 +1,22 @@
 ---
 title: Event
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Eventaspose.html.dom.events/event/ class.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.events/event/event/
 ---
 ## Event(string) {#constructor}
 
+Initializes a new instance of the [`Event`](../) class.
+
 ```csharp
 public Event(string type)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | String | The event type. |
 
 ### See Also
 

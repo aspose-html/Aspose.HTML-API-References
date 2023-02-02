@@ -1,12 +1,14 @@
 ---
 title: OnCueChange
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnCueChange event.
 type: docs
 weight: 140
 url: /net/aspose.html/htmlelement/oncuechange/
 ---
 ## HTMLElement.OnCueChange event
+
+Gets or sets event handler for OnCueChange event.
 
 ```csharp
 public event DOMEventHandler OnCueChange;

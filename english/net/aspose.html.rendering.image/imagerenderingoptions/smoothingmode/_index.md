@@ -1,12 +1,14 @@
 ---
 title: SmoothingMode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the rendering quality for this Graphics.
 type: docs
 weight: 50
 url: /net/aspose.html.rendering.image/imagerenderingoptions/smoothingmode/
 ---
 ## ImageRenderingOptions.SmoothingMode property
+
+Gets or sets the rendering quality for this Graphics.
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }

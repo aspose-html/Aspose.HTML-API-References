@@ -1,12 +1,14 @@
 ---
 title: Format
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sets or gets ImageFormataspose.html.rendering.image/imageformat/. By default this property is Png.
 type: docs
 weight: 30
 url: /net/aspose.html.rendering.image/imagerenderingoptions/format/
 ---
 ## ImageRenderingOptions.Format property
+
+Sets or gets [`ImageFormat`](../../imageformat/). By default this property is Png.
 
 ```csharp
 public ImageFormat Format { get; set; }

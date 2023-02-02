@@ -1,12 +1,14 @@
 ---
 title: ChildFrontMatterSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the ChildFrontMatterSyntaxNode
 type: docs
 weight: 4900
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/childfrontmattersyntaxnode/
 ---
 ## ChildFrontMatterSyntaxNode class
+
+Defines the ChildFrontMatterSyntaxNode
 
 ```csharp
 public abstract class ChildFrontMatterSyntaxNode : IEnumerable<ChildFrontMatterSyntaxNode>
@@ -16,7 +18,7 @@ public abstract class ChildFrontMatterSyntaxNode : IEnumerable<ChildFrontMatterS
 
 | Name | Description |
 | --- | --- |
-| abstract [GetEnumerator](../../aspose.html.toolkit.markdown.syntax.extensions/childfrontmattersyntaxnode/getenumerator/)() |  |
+| abstract [GetEnumerator](../../aspose.html.toolkit.markdown.syntax.extensions/childfrontmattersyntaxnode/getenumerator/)() | Get the IEnumerator. |
 
 ### See Also
 

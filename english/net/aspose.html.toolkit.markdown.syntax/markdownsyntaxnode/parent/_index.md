@@ -1,12 +1,14 @@
 ---
 title: Parent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the parent node.
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/
 ---
 ## MarkdownSyntaxNode.Parent property
+
+Get the parent node.
 
 ```csharp
 public MarkdownSyntaxNode Parent { get; }

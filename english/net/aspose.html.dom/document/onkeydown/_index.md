@@ -1,12 +1,14 @@
 ---
 title: OnKeyDown
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler for OnKeyDown event.
 type: docs
 weight: 440
 url: /net/aspose.html.dom/document/onkeydown/
 ---
 ## Document.OnKeyDown event
+
+Gets or sets event handler for OnKeyDown event.
 
 ```csharp
 public event DOMEventHandler OnKeyDown;

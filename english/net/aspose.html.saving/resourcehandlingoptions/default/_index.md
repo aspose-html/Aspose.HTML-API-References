@@ -1,12 +1,14 @@
 ---
 title: Default
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets enum which represents default way of resources handling. Currently Save Ignore and Embed values are supported. Default value is Save.
 type: docs
 weight: 10
 url: /net/aspose.html.saving/resourcehandlingoptions/default/
 ---
 ## ResourceHandlingOptions.Default property
+
+Gets or sets enum which represents default way of resources handling. Currently Save, Ignore and Embed values are supported. Default value is Save.
 
 ```csharp
 public ResourceHandling Default { get; set; }

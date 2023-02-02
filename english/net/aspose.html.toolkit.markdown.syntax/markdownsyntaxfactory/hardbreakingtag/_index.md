@@ -1,16 +1,27 @@
 ---
 title: HardBreakingTag
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Create HardBreakingTag.
 type: docs
 weight: 140
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hardbreakingtag/
 ---
 ## MarkdownSyntaxFactory.HardBreakingTag method
 
+Create HardBreakingTag.
+
 ```csharp
 public MarkdownSyntaxToken HardBreakingTag(SourceText source, TextSpan span)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| source | SourceText | The SourceText. |
+| span | TextSpan | The TextSpan. |
+
+### Return Value
+
+The MarkdownSyntaxToken.
 
 ### See Also
 

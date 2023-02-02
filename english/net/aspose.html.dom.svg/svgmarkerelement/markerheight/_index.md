@@ -1,16 +1,22 @@
 ---
 title: MarkerHeight
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute markerHeight on the given marker element.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svgmarkerelement/markerheight/
 ---
 ## SVGMarkerElement.MarkerHeight property
 
+Corresponds to attribute ‘markerHeight’ on the given ‘marker’ element.
+
 ```csharp
 public SVGAnimatedLength MarkerHeight { get; }
 ```
+
+### Property Value
+
+The attribute ‘markerHeight’ of the given ‘marker’ element.
 
 ### See Also
 

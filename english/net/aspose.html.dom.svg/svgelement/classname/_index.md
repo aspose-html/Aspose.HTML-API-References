@@ -1,16 +1,22 @@
 ---
 title: ClassName
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute class on the given element.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svgelement/classname/
 ---
 ## SVGElement.ClassName property
 
+Corresponds to attribute ‘class’ on the given element.
+
 ```csharp
 public SVGAnimatedString ClassName { get; }
 ```
+
+### Property Value
+
+The name of the class.
 
 ### See Also
 

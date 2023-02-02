@@ -1,16 +1,23 @@
 ---
 title: Render
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines method for rendering TDocument into specified IDeviceaspose.html.rendering/idevice/.
 type: docs
 weight: 10
 url: /net/aspose.html.rendering/renderer-1/render/
 ---
 ## Render(IDevice, TDocument) {#render_2}
 
+Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice/).
+
 ```csharp
 public void Render(IDevice device, TDocument document)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| device | IDevice | The output device. |
+| document | TDocument | The document. |
 
 ### See Also
 
@@ -23,9 +30,17 @@ public void Render(IDevice device, TDocument document)
 
 ## Render(IDevice, TDocument, TimeSpan) {#render_4}
 
+Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+
 ```csharp
 public void Render(IDevice device, TDocument document, TimeSpan timeout)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| device | IDevice | The output device. |
+| document | TDocument | The document. |
+| timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
 
 ### See Also
 
@@ -38,9 +53,17 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 
 ## Render(IDevice, TDocument, int) {#render_3}
 
+Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+
 ```csharp
 public void Render(IDevice device, TDocument document, int timeout)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| device | IDevice | The output device. |
+| document | TDocument | The document. |
+| timeout | Int32 | A number of milliseconds that represents the number of milliseconds to wait, or -1 millisecond to wait indefinitely. |
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: Code
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns a value that contains one of the error code constants or 0 if none match. This field is used for historical reasons.
 type: docs
 weight: 20
 url: /net/aspose.html.dom/domexception/code/
 ---
 ## DOMException.Code property
 
+Returns a value that contains one of the error code constants, or 0 if none match. This field is used for historical reasons.
+
 ```csharp
 public ushort Code { get; }
 ```
+
+### Property Value
+
+Returns the error code.
 
 ### See Also
 

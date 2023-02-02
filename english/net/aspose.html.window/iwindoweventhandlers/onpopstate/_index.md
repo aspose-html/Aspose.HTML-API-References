@@ -1,12 +1,14 @@
 ---
 title: OnPopState
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets event handler
 type: docs
 weight: 100
 url: /net/aspose.html.window/iwindoweventhandlers/onpopstate/
 ---
 ## IWindowEventHandlers.OnPopState event
+
+Gets or sets event handler
 
 ```csharp
 public event DOMEventHandler OnPopState;

@@ -1,12 +1,14 @@
 ---
 title: Hz
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Measurement is in hertz.
 type: docs
 weight: 110
 url: /net/aspose.html.drawing/unittype/hz/
 ---
 ## UnitType.Hz field
+
+Measurement is in hertz.
 
 ```csharp
 public static readonly UnitType Hz;

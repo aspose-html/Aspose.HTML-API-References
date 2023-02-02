@@ -1,16 +1,22 @@
 ---
 title: Orphans
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The orphanshttps//www.w3.org/TR/1998/REC-CSS2-19980512/page.htmlpropdef-orphans property specifies the minimum number of lines of a paragraph that must be left at the bottom of a page. The widowshttps//www.w3.org/TR/1998/REC-CSS2-19980512/page.htmlpropdef-widows property specifies the minimum number of lines of a paragraph that must be left at the top of a page. Examples of how they are used to control page breaks are given below.
 type: docs
 weight: 740
 url: /net/aspose.html.dom.css/icss2properties/orphans/
 ---
 ## ICSS2Properties.Orphans property
 
+The ['orphans'](https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html#propdef-orphans) property specifies the minimum number of lines of a paragraph that must be left at the bottom of a page. The ['widows'](https://www.w3.org/TR/1998/REC-CSS2-19980512/page.html#propdef-widows) property specifies the minimum number of lines of a paragraph that must be left at the top of a page. Examples of how they are used to control page breaks are given below.
+
 ```csharp
 public string Orphans { get; set; }
 ```
+
+### Return Value
+
+orphans property
 
 ### See Also
 

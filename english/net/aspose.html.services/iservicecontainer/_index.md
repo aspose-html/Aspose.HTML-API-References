@@ -1,12 +1,14 @@
 ---
 title: IServiceContainer
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Provides a container for services.
 type: docs
 weight: 4750
 url: /net/aspose.html.services/iservicecontainer/
 ---
 ## IServiceContainer interface
+
+Provides a container for services.
 
 ```csharp
 public interface IServiceContainer : IDisposable, IServiceProvider
@@ -16,7 +18,7 @@ public interface IServiceContainer : IDisposable, IServiceProvider
 
 | Name | Description |
 | --- | --- |
-| [AddService&lt;TService&gt;](../../aspose.html.services/iservicecontainer/addservice/)(TService) |  |
+| [AddService&lt;TService&gt;](../../aspose.html.services/iservicecontainer/addservice/)(TService) | Adds the specified service to the service container. |
 
 ### See Also
 

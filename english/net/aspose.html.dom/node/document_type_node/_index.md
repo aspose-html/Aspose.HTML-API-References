@@ -1,16 +1,24 @@
 ---
 title: DOCUMENT_TYPE_NODE
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: A DocumentTypeaspose.html.dom/documenttype/ node such as ltDOCTYPE htmlgt.
 type: docs
 weight: 370
 url: /net/aspose.html.dom/node/document_type_node/
 ---
 ## Node.DOCUMENT_TYPE_NODE field
 
+A [`DocumentType`](../../documenttype/) node, such as &lt;!DOCTYPE html&gt;.
+
 ```csharp
 public const ushort DOCUMENT_TYPE_NODE;
 ```
+
+### Remarks
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # interface-node](https://dom.spec.whatwg.org/#interface-node).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
 ### See Also
 

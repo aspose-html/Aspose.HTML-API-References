@@ -1,12 +1,14 @@
 ---
 title: MultipartFormDataContent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represent content for multipart/form-data encoding algorithm
 type: docs
 weight: 4030
 url: /net/aspose.html.net/multipartformdatacontent/
 ---
 ## MultipartFormDataContent class
+
+Represent content for multipart/form-data encoding algorithm
 
 ```csharp
 public class MultipartFormDataContent : MultipartContent
@@ -16,27 +18,27 @@ public class MultipartFormDataContent : MultipartContent
 
 | Name | Description |
 | --- | --- |
-| [MultipartFormDataContent](multipartformdatacontent#constructor)() | The default constructor. |
-| [MultipartFormDataContent](multipartformdatacontent#constructor_1)(string) |  |
+| [MultipartFormDataContent](multipartformdatacontent#constructor)() | Initializes a new instance of the [`MultipartFormDataContent`](./multipartformdatacontent/) class. |
+| [MultipartFormDataContent](multipartformdatacontent#constructor_1)(string) | Initializes a new instance of the [`MultipartFormDataContent`](./multipartformdatacontent/) class. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Headers](../../aspose.html.net/content/headers/) { get; } |  |
+| [Headers](../../aspose.html.net/content/headers/) { get; } | Gets the HTTP content headers. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Add](../../aspose.html.net/multipartformdatacontent/add/#add)(Content) |  |
-| [Add](../../aspose.html.net/multipartformdatacontent/add/#add_1)(Content, string) |  |
-| [Add](../../aspose.html.net/multipartformdatacontent/add/#add_2)(Content, string, string) |  |
-| [Dispose](../../aspose.html.net/content/dispose/)() |  |
-| [GetEnumerator](../../aspose.html.net/multipartcontent/getenumerator/)() |  |
-| [ReadAsByteArray](../../aspose.html.net/content/readasbytearray/)() |  |
-| [ReadAsStream](../../aspose.html.net/content/readasstream/)() |  |
-| [ReadAsString](../../aspose.html.net/content/readasstring/)() |  |
+| override [Add](../../aspose.html.net/multipartformdatacontent/add/#add)(Content) | Add the content to the [`MultipartFormDataContent`](./multipartformdatacontent/) class |
+| [Add](../../aspose.html.net/multipartformdatacontent/add/#add_1)(Content, string) | Add the content to the [`MultipartFormDataContent`](./multipartformdatacontent/) class with field name parameter |
+| [Add](../../aspose.html.net/multipartformdatacontent/add/#add_2)(Content, string, string) | Add the content to the [`MultipartFormDataContent`](./multipartformdatacontent/) class with field and file name parameter |
+| [Dispose](../../aspose.html.net/content/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
+| [GetEnumerator](../../aspose.html.net/multipartcontent/getenumerator/)() | Returns an enumerator that iterates through a collection. |
+| [ReadAsByteArray](../../aspose.html.net/content/readasbytearray/)() | Serialize the HTTP content and return a byte array that represents the content. |
+| [ReadAsStream](../../aspose.html.net/content/readasstream/)() | Serialize the HTTP content and return a stream that represents the content. |
+| [ReadAsString](../../aspose.html.net/content/readasstring/)() | Serialize the HTTP content and return a string that represents the content. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Owner
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the Owner.
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/owner/
 ---
 ## IInlineParsingContext.Owner property
+
+Get the Owner.
 
 ```csharp
 public MarkdownSyntaxNode Owner { get; }

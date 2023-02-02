@@ -1,12 +1,14 @@
 ---
 title: Reference
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the reference.
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/reference/
 ---
 ## CharacterReferenceSyntaxNode.Reference property
+
+Get the reference.
 
 ```csharp
 public string Reference { get; }

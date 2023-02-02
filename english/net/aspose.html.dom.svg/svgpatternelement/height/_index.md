@@ -1,16 +1,22 @@
 ---
 title: Height
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute height on the given pattern element.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svgpatternelement/height/
 ---
 ## SVGPatternElement.Height property
 
+Corresponds to attribute ‘height’ on the given ‘pattern’ element.
+
 ```csharp
 public SVGAnimatedLength Height { get; }
 ```
+
+### Property Value
+
+The attribute ‘height’ of the given ‘pattern’ element.
 
 ### See Also
 

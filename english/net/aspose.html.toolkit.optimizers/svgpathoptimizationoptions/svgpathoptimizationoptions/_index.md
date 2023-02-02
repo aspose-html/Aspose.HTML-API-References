@@ -1,14 +1,14 @@
 ---
 title: SVGPathOptimizationOptions
 second_title: Aspose.HTML for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the SVGPathOptimizationOptionsaspose.html.toolkit.optimizers/svgpathoptimizationoptions/ class.
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.optimizers/svgpathoptimizationoptions/svgpathoptimizationoptions/
 ---
 ## SVGPathOptimizationOptions constructor
 
-The default constructor.
+Initializes a new instance of the [`SVGPathOptimizationOptions`](../) class.
 
 ```csharp
 public SVGPathOptimizationOptions()

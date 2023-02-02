@@ -1,16 +1,22 @@
 ---
 title: Push
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the Push method.
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/push/
 ---
 ## Push(InlineSyntaxNode) {#push}
 
+Defines the Push method.
+
 ```csharp
 public void Push(InlineSyntaxNode syntax)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| syntax | InlineSyntaxNode | The syntax. |
 
 ### See Also
 
@@ -23,9 +29,15 @@ public void Push(InlineSyntaxNode syntax)
 
 ## Push(DelimiterRun) {#push_1}
 
+Defines the Push method.
+
 ```csharp
 public void Push(DelimiterRun delimiter)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| delimiter | DelimiterRun | The delimiter. |
 
 ### See Also
 

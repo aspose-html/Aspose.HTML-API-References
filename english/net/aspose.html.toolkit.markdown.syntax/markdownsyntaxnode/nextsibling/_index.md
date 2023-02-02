@@ -1,12 +1,14 @@
 ---
 title: NextSibling
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get ghe next sibling.
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/nextsibling/
 ---
 ## MarkdownSyntaxNode.NextSibling property
+
+Get ghe next sibling.
 
 ```csharp
 public MarkdownSyntaxNode NextSibling { get; }

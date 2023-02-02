@@ -1,16 +1,26 @@
 ---
 title: AcceptNode
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the interface for accept node.
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/acceptnode/
 ---
 ## MarkdownSyntaxNodeFilter.AcceptNode method
 
+Defines the interface for accept node.
+
 ```csharp
 public abstract short AcceptNode(MarkdownSyntaxNode n)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| n | MarkdownSyntaxNode | The MarkdownSyntaxNode. |
+
+### Return Value
+
+The short value.
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: FormSubmitter
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the FormSubmitteraspose.html.forms/formsubmitter/ class based on HTMLFormElementaspose.html/htmlformelement/.
 type: docs
 weight: 10
 url: /net/aspose.html.forms/formsubmitter/formsubmitter/
 ---
 ## FormSubmitter(HTMLFormElement) {#constructor_3}
 
+Initializes a new instance of the [`FormSubmitter`](../) class based on [`HTMLFormElement`](../../../aspose.html/htmlformelement/).
+
 ```csharp
 public FormSubmitter(HTMLFormElement form)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| form | HTMLFormElement | The html form element. |
 
 ### See Also
 
@@ -23,9 +29,16 @@ public FormSubmitter(HTMLFormElement form)
 
 ## FormSubmitter(HTMLDocument, int) {#constructor_1}
 
+Initializes a new instance of the [`FormSubmitter`](../) class based on [`HTMLFormElement`](../../../aspose.html/htmlformelement/) selected by index from [`HTMLDocument`](../../../aspose.html/htmldocument/).
+
 ```csharp
 public FormSubmitter(HTMLDocument document, int index)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | HTMLDocument | The HTML document. |
+| index | Int32 | The index of the form. |
 
 ### See Also
 
@@ -38,9 +51,16 @@ public FormSubmitter(HTMLDocument document, int index)
 
 ## FormSubmitter(HTMLDocument, string) {#constructor_2}
 
+Initializes a new instance of the [`FormSubmitter`](../) class based on [`HTMLFormElement`](../../../aspose.html/htmlformelement/) selected by identifier from [`HTMLDocument`](../../../aspose.html/htmldocument/).
+
 ```csharp
 public FormSubmitter(HTMLDocument document, string id)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | HTMLDocument | The HTML document. |
+| id | String | The element identifier. |
 
 ### See Also
 
@@ -53,9 +73,15 @@ public FormSubmitter(HTMLDocument document, string id)
 
 ## FormSubmitter(FormEditor) {#constructor}
 
+Initializes a new instance of the [`FormSubmitter`](../) class.
+
 ```csharp
 public FormSubmitter(FormEditor editor)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| editor | FormEditor | The FormEditor. |
 
 ### See Also
 

@@ -1,16 +1,22 @@
 ---
 title: Slope
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute slope on the given element.
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg/svgcomponenttransferfunctionelement/slope/
 ---
 ## SVGComponentTransferFunctionElement.Slope property
 
+Corresponds to attribute ‘slope’ on the given element.
+
 ```csharp
 public SVGAnimatedNumber Slope { get; }
 ```
+
+### Property Value
+
+The attribute ‘slope’ of the given element.
 
 ### See Also
 

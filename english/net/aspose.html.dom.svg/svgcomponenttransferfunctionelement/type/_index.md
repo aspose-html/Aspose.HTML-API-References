@@ -1,16 +1,22 @@
 ---
 title: Type
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Corresponds to attribute type on the given element. Takes one of the SVG_FECOMPONENTTRANSFER_TYPE_ constants defined on this interface.
 type: docs
 weight: 70
 url: /net/aspose.html.dom.svg/svgcomponenttransferfunctionelement/type/
 ---
 ## SVGComponentTransferFunctionElement.Type property
 
+Corresponds to attribute ‘type’ on the given element. Takes one of the SVG_FECOMPONENTTRANSFER_TYPE_* constants defined on this interface.
+
 ```csharp
 public SVGAnimatedEnumeration Type { get; }
 ```
+
+### Property Value
+
+The attribute ‘type’ of the given element.
 
 ### See Also
 

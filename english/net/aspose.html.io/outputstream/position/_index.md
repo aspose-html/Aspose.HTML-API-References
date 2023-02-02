@@ -1,12 +1,14 @@
 ---
 title: Position
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the position within the wrapped output stream.
 type: docs
 weight: 60
 url: /net/aspose.html.io/outputstream/position/
 ---
 ## OutputStream.Position property
+
+Gets or sets the position within the wrapped output stream.
 
 ```csharp
 public override long Position { get; set; }

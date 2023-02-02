@@ -1,12 +1,14 @@
 ---
 title: FontSize
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Sets or gets text font size.
 type: docs
 weight: 50
 url: /net/aspose.html.rendering/graphiccontext/fontsize/
 ---
 ## GraphicContext.FontSize property
+
+Sets or gets text font size.
 
 ```csharp
 public virtual float FontSize { get; set; }

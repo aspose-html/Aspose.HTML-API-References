@@ -1,12 +1,14 @@
 ---
 title: Sheet
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets the associated style sheet.
 type: docs
 weight: 30
 url: /net/aspose.html/htmlstyleelement/sheet/
 ---
 ## HTMLStyleElement.Sheet property
+
+Gets the associated style sheet.
 
 ```csharp
 public IStyleSheet Sheet { get; }

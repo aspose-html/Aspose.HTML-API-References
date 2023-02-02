@@ -1,14 +1,14 @@
 ---
 title: LengthOrAuto
 second_title: Aspose.HTML for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the LengthOrAutoaspose.html.drawing/lengthorauto/ class and sets state to auto.
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/lengthorauto/lengthorauto/
 ---
 ## LengthOrAuto() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`LengthOrAuto`](../) class and sets state to 'auto'.
 
 ```csharp
 public LengthOrAuto()
@@ -24,9 +24,15 @@ public LengthOrAuto()
 
 ## LengthOrAuto(Length) {#constructor_1}
 
+Initializes a new instance of the [`LengthOrAuto`](../) class and sets state to 'lenght'.
+
 ```csharp
 public LengthOrAuto(Length length)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| length | Length | The length. |
 
 ### See Also
 

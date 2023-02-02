@@ -1,12 +1,14 @@
 ---
 title: Alpha
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the alpha component.
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/icolorcomponents/alpha/
 ---
 ## IColorComponents.Alpha property
+
+Returns the alpha component.
 
 ```csharp
 public float Alpha { get; }

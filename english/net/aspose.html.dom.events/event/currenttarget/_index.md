@@ -1,12 +1,14 @@
 ---
 title: CurrentTarget
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Used to indicate the IEventTargetaspose.html.dom.events/ieventtarget/ whose IEventListeneraspose.html.dom.events/ieventlistener/s are currently being processed. This is particularly useful during capturing and bubbling.
 type: docs
 weight: 40
 url: /net/aspose.html.dom.events/event/currenttarget/
 ---
 ## Event.CurrentTarget property
+
+Used to indicate the [`IEventTarget`](../../ieventtarget/) whose [`IEventListener`](../../ieventlistener/)s are currently being processed. This is particularly useful during capturing and bubbling.
 
 ```csharp
 public EventTarget CurrentTarget { get; }

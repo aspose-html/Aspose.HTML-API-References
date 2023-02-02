@@ -1,16 +1,22 @@
 ---
 title: ByteArrayContent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the ByteArrayContentaspose.html.net/bytearraycontent/ class.
 type: docs
 weight: 10
 url: /net/aspose.html.net/bytearraycontent/bytearraycontent/
 ---
 ## ByteArrayContent constructor
 
+Initializes a new instance of the [`ByteArrayContent`](../) class.
+
 ```csharp
 public ByteArrayContent(byte[] content)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | Byte[] | The content. |
 
 ### See Also
 

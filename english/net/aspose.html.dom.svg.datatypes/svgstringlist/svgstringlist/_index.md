@@ -1,14 +1,14 @@
 ---
 title: SVGStringList
 second_title: Aspose.HTML for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the SVGStringListaspose.html.dom.svg.datatypes/svgstringlist/ class.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.datatypes/svgstringlist/svgstringlist/
 ---
 ## SVGStringList() {#constructor}
 
-The default constructor.
+Initializes a new instance of the [`SVGStringList`](../) class.
 
 ```csharp
 public SVGStringList()
@@ -24,9 +24,15 @@ public SVGStringList()
 
 ## SVGStringList(IEnumerable&lt;string&gt;) {#constructor_1}
 
+Initializes a new instance of the [`SVGStringList`](../) class.
+
 ```csharp
 public SVGStringList(IEnumerable<string> enumerable)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| enumerable | IEnumerable`1 | The enumerable. |
 
 ### See Also
 

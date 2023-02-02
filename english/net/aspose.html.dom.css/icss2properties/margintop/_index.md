@@ -1,16 +1,22 @@
 ---
 title: MarginTop
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: These properties set the top right bottom and left margin of a box.
 type: docs
 weight: 670
 url: /net/aspose.html.dom.css/icss2properties/margintop/
 ---
 ## ICSS2Properties.MarginTop property
 
+These properties set the top, right, bottom, and left margin of a box.
+
 ```csharp
 public string MarginTop { get; set; }
 ```
+
+### Return Value
+
+The margin top
 
 ### See Also
 

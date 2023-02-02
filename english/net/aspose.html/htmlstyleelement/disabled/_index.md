@@ -1,12 +1,14 @@
 ---
 title: Disabled
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Enables/disables the style sheet.
 type: docs
 weight: 10
 url: /net/aspose.html/htmlstyleelement/disabled/
 ---
 ## HTMLStyleElement.Disabled property
+
+Enables/disables the style sheet.
 
 ```csharp
 public bool Disabled { get; set; }

@@ -1,12 +1,14 @@
 ---
 title: TemplateContent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Content type identifier.
 type: docs
 weight: 80
 url: /net/aspose.html.converters/templatecontent/
 ---
 ## TemplateContent enumeration
+
+Content type identifier.
 
 ```csharp
 public enum TemplateContent
@@ -16,9 +18,9 @@ public enum TemplateContent
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Undefined | `0` |  |
-| XML | `1` |  |
-| JSON | `2` |  |
+| Undefined | `0` | Undetermined value. |
+| XML | `1` | XML content identifier. |
+| JSON | `2` | JSON content identifier. |
 
 ### See Also
 

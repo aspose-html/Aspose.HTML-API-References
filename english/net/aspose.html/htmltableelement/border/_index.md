@@ -1,12 +1,14 @@
 ---
 title: Border
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The width of the border around the table. See the border attribute definition in HTML 4.01.
 type: docs
 weight: 30
 url: /net/aspose.html/htmltableelement/border/
 ---
 ## HTMLTableElement.Border property
+
+The width of the border around the table. See the border attribute definition in HTML 4.01.
 
 ```csharp
 public string Border { get; set; }

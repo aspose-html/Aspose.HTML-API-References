@@ -1,16 +1,22 @@
 ---
 title: WriteTo
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Write to text writer.
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/inlineproxy/writeto/
 ---
 ## InlineProxy.WriteTo method
 
+Write to text writer.
+
 ```csharp
 public override void WriteTo(MarkdownTextWriter writer)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| writer | MarkdownTextWriter | The writer. |
 
 ### See Also
 

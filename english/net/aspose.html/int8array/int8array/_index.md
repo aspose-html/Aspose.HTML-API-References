@@ -1,16 +1,22 @@
 ---
 title: Int8Array
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the Int8Arrayaspose.html/int8array/ class.
 type: docs
 weight: 10
 url: /net/aspose.html/int8array/int8array/
 ---
 ## Int8Array(int) {#constructor_3}
 
+Initializes a new instance of the [`Int8Array`](../) class.
+
 ```csharp
 public Int8Array(int length)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| length | Int32 | The length (number of elements). |
 
 ### See Also
 
@@ -22,9 +28,15 @@ public Int8Array(int length)
 
 ## Int8Array(sbyte[]) {#constructor_4}
 
+Initializes a new instance of the [`Int8Array`](../) class.
+
 ```csharp
 public Int8Array(sbyte[] data)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| data | SByte[] | The array data. |
 
 ### See Also
 
@@ -36,9 +48,15 @@ public Int8Array(sbyte[] data)
 
 ## Int8Array(ArrayBuffer) {#constructor}
 
+Initializes a new instance of the [`Int8Array`](../) class.
+
 ```csharp
 public Int8Array(ArrayBuffer buffer)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | ArrayBuffer | The data buffer. |
 
 ### See Also
 
@@ -51,9 +69,16 @@ public Int8Array(ArrayBuffer buffer)
 
 ## Int8Array(ArrayBuffer, int) {#constructor_1}
 
+Initializes a new instance of the [`Int8Array`](../) class.
+
 ```csharp
 public Int8Array(ArrayBuffer buffer, int byteOffset)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | ArrayBuffer | The data buffer. |
+| byteOffset | Int32 | The byte offset. |
 
 ### See Also
 
@@ -66,9 +91,17 @@ public Int8Array(ArrayBuffer buffer, int byteOffset)
 
 ## Int8Array(ArrayBuffer, int, int) {#constructor_2}
 
+Initializes a new instance of the [`Int8Array`](../) class.
+
 ```csharp
 public Int8Array(ArrayBuffer buffer, int byteOffset, int length)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| buffer | ArrayBuffer | The data buffer. |
+| byteOffset | Int32 | The byte offset. |
+| length | Int32 | The length. |
 
 ### See Also
 

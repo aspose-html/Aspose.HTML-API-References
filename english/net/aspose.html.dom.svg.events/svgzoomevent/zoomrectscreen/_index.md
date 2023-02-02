@@ -1,12 +1,14 @@
 ---
 title: ZoomRectScreen
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The specified zoom rectangle in screen units. The SVGRect object is read only.
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg.events/svgzoomevent/zoomrectscreen/
 ---
 ## SVGZoomEvent.ZoomRectScreen property
+
+The specified zoom rectangle in screen units. The SVGRect object is read only.
 
 ```csharp
 public SVGRect ZoomRectScreen { get; }

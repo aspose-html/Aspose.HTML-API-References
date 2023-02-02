@@ -1,12 +1,14 @@
 ---
 title: Name
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Names the form.
 type: docs
 weight: 70
 url: /net/aspose.html/htmlformelement/name/
 ---
 ## HTMLFormElement.Name property
+
+Names the form.
 
 ```csharp
 public string Name { get; set; }

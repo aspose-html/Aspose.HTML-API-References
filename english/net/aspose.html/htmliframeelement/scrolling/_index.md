@@ -1,12 +1,14 @@
 ---
 title: Scrolling
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Specify whether or not the frame should have scrollbars. See the scrolling attribute definition in HTML 4.01.
 type: docs
 weight: 80
 url: /net/aspose.html/htmliframeelement/scrolling/
 ---
 ## HTMLIFrameElement.Scrolling property
+
+Specify whether or not the frame should have scrollbars. See the scrolling attribute definition in HTML 4.01.
 
 ```csharp
 public string Scrolling { get; set; }

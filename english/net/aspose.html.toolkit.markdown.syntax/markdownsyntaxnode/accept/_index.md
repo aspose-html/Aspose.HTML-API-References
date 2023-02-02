@@ -1,16 +1,22 @@
 ---
 title: Accept
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Accept the visitor.
 type: docs
 weight: 60
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/accept/
 ---
 ## MarkdownSyntaxNode.Accept method
 
+Accept the visitor.
+
 ```csharp
 public virtual void Accept(MarkdownSyntaxVisitor visitor)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| visitor | MarkdownSyntaxVisitor | The visitor. |
 
 ### See Also
 

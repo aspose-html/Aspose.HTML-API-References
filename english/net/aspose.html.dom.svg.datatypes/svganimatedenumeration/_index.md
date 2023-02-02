@@ -1,12 +1,14 @@
 ---
 title: SVGAnimatedEnumeration
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Used for attributes whose value must be a constant from a particular enumeration and which can be animated.
 type: docs
 weight: 1090
 url: /net/aspose.html.dom.svg.datatypes/svganimatedenumeration/
 ---
 ## SVGAnimatedEnumeration class
+
+Used for attributes whose value must be a constant from a particular enumeration and which can be animated.
 
 ```csharp
 public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
@@ -23,9 +25,9 @@ public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
-| override [ToString](../../aspose.html.dom.svg.datatypes/svganimatedenumeration/tostring/)() |  |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svganimatedenumeration/tostring/)() | Returns a String that represents this instance. |
 
 ### See Also
 

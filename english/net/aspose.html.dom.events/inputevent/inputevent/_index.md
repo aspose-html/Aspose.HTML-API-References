@@ -1,16 +1,22 @@
 ---
 title: InputEvent
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Initializes a new instance of the InputEventaspose.html.dom.events/inputevent/ class.
 type: docs
 weight: 10
 url: /net/aspose.html.dom.events/inputevent/inputevent/
 ---
 ## InputEvent(string) {#constructor}
 
+Initializes a new instance of the [`InputEvent`](../) class.
+
 ```csharp
 public InputEvent(string type)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | String | The event type. |
 
 ### See Also
 

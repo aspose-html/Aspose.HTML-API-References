@@ -1,12 +1,14 @@
 ---
 title: Model
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Returns the color model.
 type: docs
 weight: 30
 url: /net/aspose.html.drawing/icolorcomponents/model/
 ---
 ## IColorComponents.Model property
+
+Returns the color model.
 
 ```csharp
 public ColorModel Model { get; }

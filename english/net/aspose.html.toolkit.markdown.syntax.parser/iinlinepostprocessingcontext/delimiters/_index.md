@@ -1,12 +1,14 @@
 ---
 title: Delimiters
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Get the Delimiters.
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/delimiters/
 ---
 ## IInlinePostProcessingContext.Delimiters property
+
+Get the Delimiters.
 
 ```csharp
 public LinkedList<DelimiterRun> Delimiters { get; }

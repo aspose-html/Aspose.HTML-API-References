@@ -1,16 +1,22 @@
 ---
 title: Id
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets the identifier of the form element.
 type: docs
 weight: 20
 url: /net/aspose.html.forms/formelement/id/
 ---
 ## FormElement.Id property
 
+Gets or sets the identifier of the form element.
+
 ```csharp
 public virtual string Id { get; set; }
 ```
+
+### Property Value
+
+The identifier.
 
 ### See Also
 

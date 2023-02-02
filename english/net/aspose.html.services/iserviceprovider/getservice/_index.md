@@ -1,17 +1,27 @@
 ---
 title: GetService
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets a service object of the specified type.
 type: docs
 weight: 10
 url: /net/aspose.html.services/iserviceprovider/getservice/
 ---
 ## IServiceProvider.GetService&lt;TService&gt; method
 
+Gets a service object of the specified type.
+
 ```csharp
 public TService GetService<TService>()
     where TService : class, IService
 ```
+
+| Parameter | Description |
+| --- | --- |
+| TService | The type of the service. |
+
+### Return Value
+
+The service object
 
 ### See Also
 

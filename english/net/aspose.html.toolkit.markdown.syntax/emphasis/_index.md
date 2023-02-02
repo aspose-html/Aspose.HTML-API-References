@@ -1,12 +1,14 @@
 ---
 title: Emphasis
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Represents the Emphasis.
 type: docs
 weight: 4860
 url: /net/aspose.html.toolkit.markdown.syntax/emphasis/
 ---
 ## Emphasis enumeration
+
+Represents the Emphasis.
 
 ```csharp
 public enum Emphasis
@@ -16,10 +18,10 @@ public enum Emphasis
 
 | Name | Value | Description |
 | --- | --- | --- |
-| Undefined | `0` |  |
-| Strong | `1` |  |
-| Regular | `2` |  |
-| StrikeThrough | `3` |  |
+| Undefined | `0` | The Undefined value. |
+| Strong | `1` | The Strong value. |
+| Regular | `2` | The Regular value. |
+| StrikeThrough | `3` | The StrikeThrough value. |
 
 ### See Also
 

@@ -1,12 +1,14 @@
 ---
 title: Stroke
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Strokes the subpaths with the current stroke style.
 type: docs
 weight: 370
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/stroke/
 ---
 ## Stroke() {#stroke}
+
+Strokes the subpaths with the current stroke style.
 
 ```csharp
 public void Stroke()
@@ -22,9 +24,15 @@ public void Stroke()
 
 ## Stroke(Path2D) {#stroke_1}
 
+Strokes the subpaths with the current stroke style.
+
 ```csharp
 public void Stroke(Path2D path)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| path | Path2D | A Path2D path to stroke. |
 
 ### See Also
 

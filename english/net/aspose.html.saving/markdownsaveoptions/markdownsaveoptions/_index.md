@@ -1,14 +1,14 @@
 ---
 title: MarkdownSaveOptions
 second_title: Aspose.HTML for .NET API Reference
-description: The default constructor.
+description: Initializes a new instance of the MarkdownSaveOptionsaspose.html.saving/markdownsaveoptions/ class.
 type: docs
 weight: 10
 url: /net/aspose.html.saving/markdownsaveoptions/markdownsaveoptions/
 ---
 ## MarkdownSaveOptions constructor
 
-The default constructor.
+Initializes a new instance of the [`MarkdownSaveOptions`](../) class.
 
 ```csharp
 public MarkdownSaveOptions()

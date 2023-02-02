@@ -1,12 +1,14 @@
 ---
 title: MediaType
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Gets or sets MediaTypeaspose.html.rendering/mediatype/ which will be used for media queries resolution during rendering. Default value is Print.
 type: docs
 weight: 10
 url: /net/aspose.html.rendering/cssoptions/mediatype/
 ---
 ## CssOptions.MediaType property
+
+Gets or sets [`MediaType`](../../mediatype/) which will be used for media queries resolution during rendering. Default value is `Print`.
 
 ```csharp
 public MediaType MediaType { get; set; }

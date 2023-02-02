@@ -1,12 +1,14 @@
 ---
 title: SVGPathSegLinetoAbs
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The SVGPathSegLinetoAbs interface corresponds to an absolute lineto L path data command.
 type: docs
 weight: 1810
 url: /net/aspose.html.dom.svg.paths/svgpathseglinetoabs/
 ---
 ## SVGPathSegLinetoAbs class
+
+The SVGPathSegLinetoAbs interface corresponds to an "absolute lineto" (L) path data command.
 
 ```csharp
 public class SVGPathSegLinetoAbs : SVGPathSeg
@@ -16,17 +18,17 @@ public class SVGPathSegLinetoAbs : SVGPathSeg
 
 | Name | Description |
 | --- | --- |
-| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype/) { get; } |  |
-| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } |  |
-| [X](../../aspose.html.dom.svg.paths/svgpathseglinetoabs/x/) { get; set; } |  |
-| [Y](../../aspose.html.dom.svg.paths/svgpathseglinetoabs/y/) { get; set; } |  |
+| [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype/) { get; } | The type of the path segment as specified by one of the constants defined on this interface. |
+| [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | The type of the path segment, specified by the corresponding one character command name. |
+| [X](../../aspose.html.dom.svg.paths/svgpathseglinetoabs/x/) { get; set; } | The absolute X coordinate for the end point of this path segment. |
+| [Y](../../aspose.html.dom.svg.paths/svgpathseglinetoabs/y/) { get; set; } | The absolute Y coordinate for the end point of this path segment. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() |  |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() |  |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
 ### See Also
 

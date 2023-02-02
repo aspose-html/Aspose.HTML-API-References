@@ -1,16 +1,22 @@
 ---
 title: GetLabel
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: Defines the interface for get label.
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/referenceimagesyntaxnode/getlabel/
 ---
 ## ReferenceImageSyntaxNode.GetLabel method
 
+Defines the interface for get label.
+
 ```csharp
 public string GetLabel()
 ```
+
+### Return Value
+
+The string label.
 
 ### See Also
 
