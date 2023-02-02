@@ -18,7 +18,7 @@ public sealed class YamlScalarSyntaxNode : ChildFrontMatterSyntaxNode
 
 | Name | Description |
 | --- | --- |
-| [YamlScalarSyntaxNode](yamlscalarsyntaxnode)(HugoFrontMatterSyntaxNode, ​​ ) |  |
+| [YamlScalarSyntaxNode](yamlscalarsyntaxnode)(HugoFrontMatterSyntaxNode,  ​ ) |  |
 
 ## Methods
 
