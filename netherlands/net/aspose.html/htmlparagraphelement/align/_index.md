@@ -1,0 +1,23 @@
+---
+title: HTMLParagraphElement.Align
+second_title: Aspose.HTML voor .NET API-referentie
+description: HTMLParagraphElement eigendom. Horizontale tekstuitlijning. Zie de align attribuut definitie in HTML 4.01. Dit kenmerk is verouderd in HTML 4.01.
+type: docs
+weight: 10
+url: /nl/net/aspose.html/htmlparagraphelement/align/
+---
+## HTMLParagraphElement.Align property
+
+Horizontale tekstuitlijning. Zie de align attribuut definitie in HTML 4.01. Dit kenmerk is verouderd in HTML 4.01.
+
+```csharp
+public string Align { get; set; }
+```
+
+### Zie ook
+
+* class [HTMLParagraphElement](../)
+* naamruimte [Aspose.Html](../../htmlparagraphelement/)
+* montage [Aspose.HTML](../../../)
+
+
