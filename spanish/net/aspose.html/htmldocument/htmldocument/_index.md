@@ -1,14 +1,14 @@
 ---
-title: HTMLDocument
+title: HTMLDocument.HTMLDocument
 second_title: Referencia de API de Aspose.HTML para .NET
-description: Inicializa una nueva instancia delHTMLDocumentaspose.html/htmldocument clase.
+description: HTMLDocument constructor. Inicializa una nueva instancia delHTMLDocument clase.
 type: docs
 weight: 10
 url: /es/net/aspose.html/htmldocument/htmldocument/
 ---
 ## HTMLDocument() {#constructor}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase.
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase.
 
 ```csharp
 public HTMLDocument()
@@ -16,15 +16,15 @@ public HTMLDocument()
 
 ### Ver también
 
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Configuration) {#constructor_1}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase.
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase.
 
 ```csharp
 public HTMLDocument(Configuration configuration)
@@ -36,16 +36,16 @@ public HTMLDocument(Configuration configuration)
 
 ### Ver también
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Url) {#constructor_4}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(Url url)
@@ -57,16 +57,16 @@ public HTMLDocument(Url url)
 
 ### Ver también
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Url, Configuration) {#constructor_5}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(Url url, Configuration configuration)
@@ -79,17 +79,17 @@ public HTMLDocument(Url url, Configuration configuration)
 
 ### Ver también
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string) {#constructor_10}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string address)
@@ -101,15 +101,15 @@ public HTMLDocument(string address)
 
 ### Ver también
 
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, Configuration) {#constructor_11}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string address, Configuration configuration)
@@ -122,16 +122,16 @@ public HTMLDocument(string address, Configuration configuration)
 
 ### Ver también
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, string) {#constructor_14}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string content, string baseUri)
@@ -150,15 +150,15 @@ public HTMLDocument(string content, string baseUri)
 
 ### Ver también
 
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, string, Configuration) {#constructor_15}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string content, string baseUri, Configuration configuration)
@@ -178,16 +178,16 @@ public HTMLDocument(string content, string baseUri, Configuration configuration)
 
 ### Ver también
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, Url) {#constructor_12}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string content, Url baseUri)
@@ -206,16 +206,16 @@ public HTMLDocument(string content, Url baseUri)
 
 ### Ver también
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, Url, Configuration) {#constructor_13}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string content, Url baseUri, Configuration configuration)
@@ -235,17 +235,17 @@ public HTMLDocument(string content, Url baseUri, Configuration configuration)
 
 ### Ver también
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Stream, string) {#constructor_8}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) . La carga del documento comienza desde la posición actual en el flujo.
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) . La carga del documento comienza desde la posición actual en el flujo.
 
 ```csharp
 public HTMLDocument(Stream content, string baseUri)
@@ -264,15 +264,15 @@ public HTMLDocument(Stream content, string baseUri)
 
 ### Ver también
 
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Stream, string, Configuration) {#constructor_9}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) . La carga del documento comienza desde la posición actual en el flujo.
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) . La carga del documento comienza desde la posición actual en el flujo.
 
 ```csharp
 public HTMLDocument(Stream content, string baseUri, Configuration configuration)
@@ -292,16 +292,16 @@ public HTMLDocument(Stream content, string baseUri, Configuration configuration)
 
 ### Ver también
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Stream, Url) {#constructor_6}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) . La carga del documento comienza desde la posición actual en el flujo.
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) . La carga del documento comienza desde la posición actual en el flujo.
 
 ```csharp
 public HTMLDocument(Stream content, Url baseUri)
@@ -320,16 +320,16 @@ public HTMLDocument(Stream content, Url baseUri)
 
 ### Ver también
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Stream, Url, Configuration) {#constructor_7}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) . La carga del documento comienza desde la posición actual en el flujo.
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) . La carga del documento comienza desde la posición actual en el flujo.
 
 ```csharp
 public HTMLDocument(Stream content, Url baseUri, Configuration configuration)
@@ -349,17 +349,17 @@ public HTMLDocument(Stream content, Url baseUri, Configuration configuration)
 
 ### Ver también
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(RequestMessage) {#constructor_2}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(RequestMessage request)
@@ -371,16 +371,16 @@ public HTMLDocument(RequestMessage request)
 
 ### Ver también
 
-* class [RequestMessage](../../../aspose.html.net/requestmessage)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [RequestMessage](../../../aspose.html.net/requestmessage/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(RequestMessage, Configuration) {#constructor_3}
 
-Inicializa una nueva instancia del[`HTMLDocument`](../../htmldocument) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Inicializa una nueva instancia del[`HTMLDocument`](../) clase. Constructor funciona de forma sincrónica, espera la carga de todos los recursos externos (imágenes, scripts, etc.). Para cargar el documento de forma asincrónica, use el método[`Navigate`](../../../aspose.html.dom/document/navigate/) o sus sobrecargas. O puede deshabilitar la carga de algunos recursos externos configurando los indicadores apropiados en[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(RequestMessage request, Configuration configuration)
@@ -393,10 +393,10 @@ public HTMLDocument(RequestMessage request, Configuration configuration)
 
 ### Ver también
 
-* class [RequestMessage](../../../aspose.html.net/requestmessage)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [RequestMessage](../../../aspose.html.net/requestmessage/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

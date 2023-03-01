@@ -1,14 +1,14 @@
 ---
-title: ConvertMarkdown
+title: Converter.ConvertMarkdown
 second_title: Referencia de API de Aspose.HTML para .NET
-description: Convierte la fuente de Markdown a html. El resultado esHTMLDocumentaspose.html/htmldocument .
+description: Converter método. Convierte la fuente de Markdown a html. El resultado esHTMLDocument .
 type: docs
 weight: 30
 url: /es/net/aspose.html.converters/converter/convertmarkdown/
 ---
 ## ConvertMarkdown(Stream, string) {#convertmarkdown}
 
-Convierte la fuente de Markdown a html. El resultado es[`HTMLDocument`](../../../aspose.html/htmldocument) .
+Convierte la fuente de Markdown a html. El resultado es[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri)
@@ -21,20 +21,20 @@ public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri)
 
 ### Valor_devuelto
 
-Resultado de la conversión[`HTMLDocument`](../../../aspose.html/htmldocument).
+Resultado de la conversión[`HTMLDocument`](../../../aspose.html/htmldocument/).
 
 ### Ver también
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Converter](../../converter)
-* espacio de nombres [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Converter](../)
+* espacio de nombres [Aspose.Html.Converters](../../converter/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(Stream, string, Configuration) {#convertmarkdown_1}
 
-Convierte la fuente de Markdown a html. El resultado es[`HTMLDocument`](../../../aspose.html/htmldocument) .
+Convierte la fuente de Markdown a html. El resultado es[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri, 
@@ -49,14 +49,14 @@ public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri,
 
 ### Valor_devuelto
 
-Resultado de la conversión[`HTMLDocument`](../../../aspose.html/htmldocument).
+Resultado de la conversión[`HTMLDocument`](../../../aspose.html/htmldocument/).
 
 ### Ver también
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* espacio de nombres [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* espacio de nombres [Aspose.Html.Converters](../../converter/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -77,8 +77,8 @@ public static void ConvertMarkdown(Stream stream, string baseUri, string outputP
 
 ### Ver también
 
-* class [Converter](../../converter)
-* espacio de nombres [Aspose.Html.Converters](../../converter)
+* class [Converter](../)
+* espacio de nombres [Aspose.Html.Converters](../../converter/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -101,16 +101,16 @@ public static void ConvertMarkdown(Stream stream, string baseUri, Configuration 
 
 ### Ver también
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* espacio de nombres [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* espacio de nombres [Aspose.Html.Converters](../../converter/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(string) {#convertmarkdown_2}
 
-Convierte la fuente de Markdown a html. El resultado es[`HTMLDocument`](../../../aspose.html/htmldocument) .
+Convierte la fuente de Markdown a html. El resultado es[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(string sourcePath)
@@ -122,20 +122,20 @@ public static HTMLDocument ConvertMarkdown(string sourcePath)
 
 ### Valor_devuelto
 
-Resultado de la conversión[`HTMLDocument`](../../../aspose.html/htmldocument).
+Resultado de la conversión[`HTMLDocument`](../../../aspose.html/htmldocument/).
 
 ### Ver también
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Converter](../../converter)
-* espacio de nombres [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Converter](../)
+* espacio de nombres [Aspose.Html.Converters](../../converter/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(string, Configuration) {#convertmarkdown_3}
 
-Convierte la fuente de Markdown a html. El resultado es[`HTMLDocument`](../../../aspose.html/htmldocument) .
+Convierte la fuente de Markdown a html. El resultado es[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(string sourcePath, Configuration configuration)
@@ -148,14 +148,14 @@ public static HTMLDocument ConvertMarkdown(string sourcePath, Configuration conf
 
 ### Valor_devuelto
 
-Resultado de la conversión[`HTMLDocument`](../../../aspose.html/htmldocument).
+Resultado de la conversión[`HTMLDocument`](../../../aspose.html/htmldocument/).
 
 ### Ver también
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* espacio de nombres [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* espacio de nombres [Aspose.Html.Converters](../../converter/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -175,8 +175,8 @@ public static void ConvertMarkdown(string sourcePath, string outputPath)
 
 ### Ver también
 
-* class [Converter](../../converter)
-* espacio de nombres [Aspose.Html.Converters](../../converter)
+* class [Converter](../)
+* espacio de nombres [Aspose.Html.Converters](../../converter/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -198,9 +198,9 @@ public static void ConvertMarkdown(string sourcePath, Configuration configuratio
 
 ### Ver también
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* espacio de nombres [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* espacio de nombres [Aspose.Html.Converters](../../converter/)
 * asamblea [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

@@ -1,7 +1,7 @@
 ---
-title: Save
+title: HTMLDocument.Save
 second_title: Referencia de API de Aspose.HTML para .NET
-description: Guarda el documento en el archivo local especificado porURL Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente cuyo nombre se construirá como nombre_archivo_salida  _archivos.
+description: HTMLDocument método. Guarda el documento en el archivo local especificado porURL Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente cuyo nombre se construirá como nombre_archivo_salida  _archivos.
 type: docs
 weight: 130
 url: /es/net/aspose.html/htmldocument/save/
@@ -26,9 +26,9 @@ public void Save(Url url)
 
 ### Ver también
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -43,20 +43,20 @@ public void Save(IOutputStorage outputStorage)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 
 ### Ver también
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## Save(string) {#save_10}
 
-Guarda el documento en el archivo local especificado por`sendero` Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
+Guarda el documento en el archivo local especificado por`camino` Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
 
 ```csharp
 public void Save(string path)
@@ -70,19 +70,19 @@ public void Save(string path)
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | Aumentado si el especificado`sendero` no es una ruta de archivo local válida. |
+| ArgumentException | Aumentado si el especificado`camino` no es una ruta de archivo local válida. |
 
 ### Ver también
 
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## Save(string, HTMLSaveFormat) {#save_11}
 
-Guarda el documento en el archivo local especificado por`sendero` Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
+Guarda el documento en el archivo local especificado por`camino` Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
 
 ```csharp
 public void Save(string path, HTMLSaveFormat saveFormat)
@@ -97,13 +97,13 @@ public void Save(string path, HTMLSaveFormat saveFormat)
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | Aumentado si el especificado`sendero` no es una ruta de archivo local válida. |
+| ArgumentException | Aumentado si el especificado`camino` no es una ruta de archivo local válida. |
 
 ### Ver también
 
-* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -129,10 +129,10 @@ public void Save(Url url, HTMLSaveFormat saveFormat)
 
 ### Ver también
 
-* class [Url](../../url)
-* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -147,22 +147,22 @@ public void Save(IOutputStorage outputStorage, HTMLSaveFormat saveFormat)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveFormat | HTMLSaveFormat | Formato en el que se guarda el documento. |
 
 ### Ver también
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## Save(string, HTMLSaveOptions) {#save_12}
 
-Guarda el documento en el archivo local especificado por`sendero` Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
+Guarda el documento en el archivo local especificado por`camino` Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
 
 ```csharp
 public void Save(string path, HTMLSaveOptions saveOptions)
@@ -177,13 +177,13 @@ public void Save(string path, HTMLSaveOptions saveOptions)
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | Aumentado si el especificado`sendero` no es una ruta de archivo local válida. |
+| ArgumentException | Aumentado si el especificado`camino` no es una ruta de archivo local válida. |
 
 ### Ver también
 
-* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -209,10 +209,10 @@ public void Save(Url url, HTMLSaveOptions saveOptions)
 
 ### Ver también
 
-* class [Url](../../url)
-* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -227,22 +227,22 @@ public void Save(IOutputStorage outputStorage, HTMLSaveOptions saveOptions)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveOptions | HTMLSaveOptions | Opciones de guardado de HTML. |
 
 ### Ver también
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## Save(string, MarkdownSaveOptions) {#save_13}
 
-Guarda el documento en el archivo local especificado por`sendero` Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
+Guarda el documento en el archivo local especificado por`camino` Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
 
 ```csharp
 public void Save(string path, MarkdownSaveOptions saveOptions)
@@ -257,13 +257,13 @@ public void Save(string path, MarkdownSaveOptions saveOptions)
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | Aumentado si el especificado`sendero` no es una ruta de archivo local válida. |
+| ArgumentException | Aumentado si el especificado`camino` no es una ruta de archivo local válida. |
 
 ### Ver también
 
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -289,10 +289,10 @@ public void Save(Url url, MarkdownSaveOptions saveOptions)
 
 ### Ver también
 
-* class [Url](../../url)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -307,22 +307,22 @@ public void Save(IOutputStorage outputStorage, MarkdownSaveOptions saveOptions)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveOptions | MarkdownSaveOptions | Opciones de guardado de Markdown. |
 
 ### Ver también
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## Save(string, MHTMLSaveOptions) {#save_14}
 
-Guarda el documento en el archivo local especificado por`sendero` Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
+Guarda el documento en el archivo local especificado por`camino` Todos los recursos utilizados en este documento se guardarán en en la carpeta adyacente, cuyo nombre se construirá como: nombre_archivo_salida + "_archivos".
 
 ```csharp
 public void Save(string path, MHTMLSaveOptions saveOptions)
@@ -337,13 +337,13 @@ public void Save(string path, MHTMLSaveOptions saveOptions)
 
 | excepción | condición |
 | --- | --- |
-| ArgumentException | Aumentado si el especificado`sendero` no es una ruta de archivo local válida. |
+| ArgumentException | Aumentado si el especificado`camino` no es una ruta de archivo local válida. |
 
 ### Ver también
 
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -369,10 +369,10 @@ public void Save(Url url, MHTMLSaveOptions saveOptions)
 
 ### Ver también
 
-* class [Url](../../url)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -387,15 +387,15 @@ public void Save(IOutputStorage outputStorage, MHTMLSaveOptions saveOptions)
 
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | El almacenamiento de salida[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveOptions | MHTMLSaveOptions | Opciones de guardado MHTML. |
 
 ### Ver también
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espacio de nombres [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [HTMLDocument](../)
+* espacio de nombres [Aspose.Html](../../htmldocument/)
 * asamblea [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

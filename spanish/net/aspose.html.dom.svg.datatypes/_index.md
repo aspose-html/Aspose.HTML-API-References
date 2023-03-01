@@ -12,32 +12,32 @@ El espacio de nombres brinda acceso a todos los tipos de datos específicos de S
 
 | Clase | Descripción |
 | --- | --- |
-| [SVGAngle](./svgangle) | La interfaz SVGAngle corresponde al tipo de datos básico de ángulo. |
-| [SVGAnimatedAngle](./svganimatedangle) | Se utiliza para atributos de ángulo de tipo de datos básicos que se pueden animar. |
-| [SVGAnimatedBoolean](./svganimatedboolean) | Se utiliza para atributos de tipo booleano que se pueden animar. |
-| [SVGAnimatedEnumeration](./svganimatedenumeration) | Se usa para atributos cuyo valor debe ser una constante de una enumeración particular y que se puede animar. |
-| [SVGAnimatedInteger](./svganimatedinteger) | Se utiliza para atributos de tipo entero básico que se pueden animar. |
-| [SVGAnimatedLength](./svganimatedlength) | Se utiliza para atributos de longitud de tipo básico que se pueden animar. |
-| [SVGAnimatedLengthList](./svganimatedlengthlist) | Se utiliza para atributos de tipo SVGLengthList que se pueden animar. |
-| [SVGAnimatedNumber](./svganimatednumber) | Se utiliza para atributos de número de tipo básico que se pueden animar. |
-| [SVGAnimatedNumberList](./svganimatednumberlist) | Usado para atributos que toman una lista de números y que pueden ser animados. |
-| [SVGAnimatedPreserveAspectRatio](./svganimatedpreserveaspectratio) | Se utiliza para atributos de tipo SVGPreserveAspectRatio que se pueden animar. |
-| [SVGAnimatedRect](./svganimatedrect) | Usado para atributos de tipo SVGRect que pueden ser animados. |
-| [SVGAnimatedString](./svganimatedstring) | Usado para atributos de tipo DOMString que pueden ser animados. |
-| [SVGAnimatedTransformList](./svganimatedtransformlist) | Se utiliza para los diversos atributos que especifican un conjunto de transformaciones, como el atributo 'transformar' que está disponible para muchos de los elementos de SVG y que se puede animar. |
-| [SVGAnimatedValue&lt;T&gt;](./svganimatedvalue-1) | Usado para atributos de tipos que pueden ser animados. |
-| [SVGLength](./svglength) | La interfaz SVGLength corresponde al tipo de datos básico de longitud. Un objeto SVGLength se puede designar como de solo lectura, lo que significa que los intentos de modificar el objeto generarán una excepción, como se describe a continuación. |
-| [SVGLengthList](./svglengthlist) | Esta interfaz define una lista de objetos SVGLength. |
-| [SVGMatrix](./svgmatrix) | Muchas de las operaciones gráficas de SVG utilizan matrices de 2x3 de la forma: [ace] [bdf] que, cuando se expanden a una matriz de 3x3 para propósitos de aritmética de matrices, se convierten en: [ace] [bdf] [0 0 1] |
-| [SVGNumber](./svgnumber) | Usado para atributos de tipo básico number. |
-| [SVGNumberList](./svgnumberlist) | Esta interfaz define una lista de objetos SVGNumber. |
-| [SVGPoint](./svgpoint) | Muchas de las interfaces SVG DOM se refieren a objetos de la clase SVGPoint. Un SVGPoint es un par de coordenadas (x, y). Cuando se usa en operaciones matriciales, un SVGPoint se trata como un vector de la forma: [x] [y] [1] Si un objeto SVGRect se designa como de solo lectura, intentar asignarlo a uno de sus atributos resultar en una excepción lanzada. |
-| [SVGPointList](./svgpointlist) | Esta interfaz define una lista de objetos SVGPoint. |
-| [SVGPreserveAspectRatio](./svgpreserveaspectratio) | La interfaz SVGPreserveAspectRatio corresponde al atributo 'preserveAspectRatio', que está disponible para algunos de los elementos de SVG. |
-| [SVGRect](./svgrect) | Representa geometría rectangular. Los rectángulos se definen como consistentes en un par de coordenadas (x,y) que identifican un valor mínimo de X, un valor mínimo de Y y un ancho y alto, que generalmente están restringidos para que no sean negativos. |
-| [SVGStringList](./svgstringlist) | SVGStringList tiene los mismos atributos y métodos que otras interfaces SVGxxxList. Los implementadores pueden considerar el uso de una sola clase base para implementar las diversas interfaces SVGxxxList. |
-| [SVGTransform](./svgtransform) | SVGTransform es la interfaz para una de las transformaciones de componentes dentro de una SVGTransformList; por lo tanto, un objeto SVGTransform corresponde a un solo componente (p. ej., 'escala (...)' o 'matriz (...)') dentro de una especificación de atributo de 'transformación'. |
-| [SVGTransformList](./svgtransformlist) | Esta interfaz define una lista de objetos SVGTransform. |
-| [SVGValueType](./svgvaluetype) | El tipo SVGValueType se usa para representar un tipo de valor SVG base. |
+| [SVGAngle](./svgangle/) | La interfaz SVGAngle corresponde al tipo de datos básico de ángulo. |
+| [SVGAnimatedAngle](./svganimatedangle/) | Se utiliza para atributos de ángulo de tipo de datos básicos que se pueden animar. |
+| [SVGAnimatedBoolean](./svganimatedboolean/) | Se utiliza para atributos de tipo booleano que se pueden animar. |
+| [SVGAnimatedEnumeration](./svganimatedenumeration/) | Se usa para atributos cuyo valor debe ser una constante de una enumeración particular y que se puede animar. |
+| [SVGAnimatedInteger](./svganimatedinteger/) | Se utiliza para atributos de tipo entero básico que se pueden animar. |
+| [SVGAnimatedLength](./svganimatedlength/) | Se utiliza para atributos de longitud de tipo básico que se pueden animar. |
+| [SVGAnimatedLengthList](./svganimatedlengthlist/) | Se utiliza para atributos de tipo SVGLengthList que se pueden animar. |
+| [SVGAnimatedNumber](./svganimatednumber/) | Se utiliza para atributos de número de tipo básico que se pueden animar. |
+| [SVGAnimatedNumberList](./svganimatednumberlist/) | Usado para atributos que toman una lista de números y que pueden ser animados. |
+| [SVGAnimatedPreserveAspectRatio](./svganimatedpreserveaspectratio/) | Se utiliza para atributos de tipo SVGPreserveAspectRatio que se pueden animar. |
+| [SVGAnimatedRect](./svganimatedrect/) | Usado para atributos de tipo SVGRect que pueden ser animados. |
+| [SVGAnimatedString](./svganimatedstring/) | Usado para atributos de tipo DOMString que pueden ser animados. |
+| [SVGAnimatedTransformList](./svganimatedtransformlist/) | Se utiliza para los diversos atributos que especifican un conjunto de transformaciones, como el atributo 'transformar' que está disponible para muchos de los elementos de SVG y que se puede animar. |
+| [SVGAnimatedValue&lt;T&gt;](./svganimatedvalue-1/) | Usado para atributos de tipos que pueden ser animados. |
+| [SVGLength](./svglength/) | La interfaz SVGLength corresponde al tipo de datos básico de longitud. Un objeto SVGLength se puede designar como de solo lectura, lo que significa que los intentos de modificar el objeto generarán una excepción, como se describe a continuación. |
+| [SVGLengthList](./svglengthlist/) | Esta interfaz define una lista de objetos SVGLength. |
+| [SVGMatrix](./svgmatrix/) | Muchas de las operaciones gráficas de SVG utilizan matrices de 2x3 de la forma: [ace] [bdf] que, cuando se expanden a una matriz de 3x3 para propósitos de aritmética de matrices, se convierten en: [ace] [bdf] [0 0 1] |
+| [SVGNumber](./svgnumber/) | Usado para atributos de tipo básico number. |
+| [SVGNumberList](./svgnumberlist/) | Esta interfaz define una lista de objetos SVGNumber. |
+| [SVGPoint](./svgpoint/) | Muchas de las interfaces SVG DOM se refieren a objetos de la clase SVGPoint. Un SVGPoint es un par de coordenadas (x, y). Cuando se usa en operaciones matriciales, un SVGPoint se trata como un vector de la forma: [x] [y] [1] Si un objeto SVGRect se designa como de solo lectura, intentar asignarlo a uno de sus atributos resultar en una excepción lanzada. |
+| [SVGPointList](./svgpointlist/) | Esta interfaz define una lista de objetos SVGPoint. |
+| [SVGPreserveAspectRatio](./svgpreserveaspectratio/) | La interfaz SVGPreserveAspectRatio corresponde al atributo 'preserveAspectRatio', que está disponible para algunos de los elementos de SVG. |
+| [SVGRect](./svgrect/) | Representa geometría rectangular. Los rectángulos se definen como consistentes en un par de coordenadas (x,y) que identifican un valor mínimo de X, un valor mínimo de Y y un ancho y alto, que generalmente están restringidos para que no sean negativos. |
+| [SVGStringList](./svgstringlist/) | SVGStringList tiene los mismos atributos y métodos que otras interfaces SVGxxxList. Los implementadores pueden considerar el uso de una sola clase base para implementar las diversas interfaces SVGxxxList. |
+| [SVGTransform](./svgtransform/) | SVGTransform es la interfaz para una de las transformaciones de componentes dentro de una SVGTransformList; por lo tanto, un objeto SVGTransform corresponde a un solo componente (p. ej., 'escala (...)' o 'matriz (...)') dentro de una especificación de atributo de 'transformación'. |
+| [SVGTransformList](./svgtransformlist/) | Esta interfaz define una lista de objetos SVGTransform. |
+| [SVGValueType](./svgvaluetype/) | El tipo SVGValueType se usa para representar un tipo de valor SVG base. |
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+
