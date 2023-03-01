@@ -1,0 +1,23 @@
+---
+title: HTMLObjectElement.Archive
+second_title: Aspose.HTML for .NET API リファレンス
+description: HTMLObjectElement 財産. スペースで区切られたアーカイブのリスト HTML 4.01. のアーカイブ属性の定義を参照してください
+type: docs
+weight: 20
+url: /ja/net/aspose.html/htmlobjectelement/archive/
+---
+## HTMLObjectElement.Archive property
+
+スペースで区切られたアーカイブのリスト。 HTML 4.01. のアーカイブ属性の定義を参照してください。
+
+```csharp
+public string Archive { get; set; }
+```
+
+### 関連項目
+
+* class [HTMLObjectElement](../)
+* 名前空間 [Aspose.Html](../../htmlobjectelement/)
+* 組み立て [Aspose.HTML](../../../)
+
+

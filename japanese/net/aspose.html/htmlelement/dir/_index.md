@@ -1,0 +1,23 @@
+---
+title: HTMLElement.Dir
+second_title: Aspose.HTML for .NET API リファレンス
+description: HTMLElement 財産. 方向的にニュートラルなテキストのベース方向とテーブルの 方向性を指定します HTML 4.01. の dir 属性の定義を参照してください
+type: docs
+weight: 20
+url: /ja/net/aspose.html/htmlelement/dir/
+---
+## HTMLElement.Dir property
+
+方向的にニュートラルなテキストのベース方向とテーブルの 方向性を指定します。 HTML 4.01. の dir 属性の定義を参照してください。
+
+```csharp
+public string Dir { get; set; }
+```
+
+### 関連項目
+
+* class [HTMLElement](../)
+* 名前空間 [Aspose.Html](../../htmlelement/)
+* 組み立て [Aspose.HTML](../../../)
+
+
