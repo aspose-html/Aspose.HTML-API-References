@@ -1,7 +1,7 @@
 ---
-title: ConvertTemplate
+title: Converter.ConvertTemplate
 second_title: Aspose.HTML لمرجع .NET API
-description: دمج قالب html مع بيانات المستخدم. النتيجة هي ملف html.
+description: Converter طريقة. دمج قالب html مع بيانات المستخدم. النتيجة هي ملف html.
 type: docs
 weight: 60
 url: /ar/net/aspose.html.converters/converter/converttemplate/
@@ -24,11 +24,11 @@ public static void ConvertTemplate(HTMLDocument template, TemplateData data,
 
 ### أنظر أيضا
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -51,11 +51,11 @@ public static void ConvertTemplate(Url url, TemplateData data, TemplateLoadOptio
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -79,12 +79,12 @@ public static void ConvertTemplate(Url url, Configuration configuration, Templat
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -100,17 +100,17 @@ public static void ConvertTemplate(string sourcePath, TemplateData data,
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| sourcePath | String | المسار إلى ملف html المصدر النموذجي. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
+| sourcePath | String | المسار إلى ملف HTML المصدر النموذجي. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | data | TemplateData | بيانات الدمج (XML ، JSON). |
 | options | TemplateLoadOptions | دمج كائن الخيارات. |
 | outputPath | String | مسار ملف الإخراج. |
 
 ### أنظر أيضا
 
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -126,7 +126,7 @@ public static void ConvertTemplate(string sourcePath, Configuration configuratio
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| sourcePath | String | المسار إلى ملف html المصدر النموذجي. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
+| sourcePath | String | المسار إلى ملف HTML المصدر النموذجي. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | configuration | Configuration | تكوين البيئة. |
 | data | TemplateData | بيانات الدمج (XML ، JSON). |
 | options | TemplateLoadOptions | دمج كائن الخيارات. |
@@ -134,11 +134,11 @@ public static void ConvertTemplate(string sourcePath, Configuration configuratio
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -162,10 +162,10 @@ public static void ConvertTemplate(string content, string baseUrl, TemplateData 
 
 ### أنظر أيضا
 
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -190,18 +190,18 @@ public static void ConvertTemplate(string content, string baseUrl, Configuration
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(HTMLDocument, TemplateData, TemplateLoadOptions) {#converttemplate}
 
-دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument) .
+دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(HTMLDocument template, TemplateData data, 
@@ -220,18 +220,18 @@ public static HTMLDocument ConvertTemplate(HTMLDocument template, TemplateData d
 
 ### أنظر أيضا
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(Url, TemplateData, TemplateLoadOptions) {#converttemplate_2}
 
-دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument) .
+دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(Url url, TemplateData data, TemplateLoadOptions options)
@@ -249,19 +249,19 @@ public static HTMLDocument ConvertTemplate(Url url, TemplateData data, TemplateL
 
 ### أنظر أيضا
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Url](../../../aspose.html/url)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Url](../../../aspose.html/url/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(Url, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_1}
 
-دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument) .
+دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(Url url, Configuration configuration, TemplateData data, 
@@ -281,20 +281,20 @@ public static HTMLDocument ConvertTemplate(Url url, Configuration configuration,
 
 ### أنظر أيضا
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, TemplateData, TemplateLoadOptions) {#converttemplate_4}
 
-دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument) .
+دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string sourcePath, TemplateData data, 
@@ -303,7 +303,7 @@ public static HTMLDocument ConvertTemplate(string sourcePath, TemplateData data,
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| sourcePath | String | المسار إلى ملف html المصدر النموذجي. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
+| sourcePath | String | المسار إلى ملف HTML المصدر النموذجي. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | data | TemplateData | بيانات الدمج (XML ، JSON). |
 | options | TemplateLoadOptions | دمج كائن الخيارات. |
 
@@ -313,18 +313,18 @@ public static HTMLDocument ConvertTemplate(string sourcePath, TemplateData data,
 
 ### أنظر أيضا
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_3}
 
-دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument) .
+دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string sourcePath, Configuration configuration, 
@@ -333,7 +333,7 @@ public static HTMLDocument ConvertTemplate(string sourcePath, Configuration conf
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| sourcePath | String | المسار إلى ملف html المصدر النموذجي. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
+| sourcePath | String | المسار إلى ملف HTML المصدر النموذجي. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | configuration | Configuration | تكوين البيئة. |
 | data | TemplateData | بيانات الدمج (XML ، JSON). |
 | options | TemplateLoadOptions | دمج كائن الخيارات. |
@@ -344,19 +344,19 @@ public static HTMLDocument ConvertTemplate(string sourcePath, Configuration conf
 
 ### أنظر أيضا
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, string, TemplateData, TemplateLoadOptions) {#converttemplate_6}
 
-دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument) .
+دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string content, string baseUrl, TemplateData data, 
@@ -376,18 +376,18 @@ public static HTMLDocument ConvertTemplate(string content, string baseUrl, Templ
 
 ### أنظر أيضا
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, string, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_5}
 
-دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument) .
+دمج قالب html مع بيانات المستخدم. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string content, string baseUrl, 
@@ -408,12 +408,12 @@ public static HTMLDocument ConvertTemplate(string content, string baseUrl,
 
 ### أنظر أيضا
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

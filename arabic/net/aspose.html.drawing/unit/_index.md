@@ -1,9 +1,9 @@
 ---
-title: Unit
+title: Class Unit
 second_title: Aspose.HTML لمرجع .NET API
-description: يوفر الفئة الأساسية لوحدات القياس.
+description: Aspose.Html.Drawing.Unit فصل. يوفر الفئة الأساسية لوحدات القياس.
 type: docs
-weight: 2840
+weight: 2850
 url: /ar/net/aspose.html.drawing/unit/
 ---
 ## Unit class
@@ -18,38 +18,38 @@ public abstract class Unit : IEquatable<Unit>
 
 | اسم | وصف |
 | --- | --- |
-| [UnitType](../../aspose.html.drawing/unit/unittype) { get; } | يحصل على نوع الوحدة لملف[`Unit`](../unit) . |
+| [UnitType](../../aspose.html.drawing/unit/unittype/) { get; } | يحصل على نوع الوحدة لملف`Unit` . |
 
 ## طُرق
 
 | اسم | وصف |
 | --- | --- |
-| override [Equals](../../aspose.html.drawing/unit/equals#equals_1)(object) | تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال. |
-| virtual [Equals](../../aspose.html.drawing/unit/equals#equals)(Unit) | تحديد ما إذا كان الملف المحدد[`Unit`](../unit) ، يساوي هذا المثال. |
-| override [GetHashCode](../../aspose.html.drawing/unit/gethashcode)() | إرجاع رمز تجزئة لهذا المثال. |
-| override [ToString](../../aspose.html.drawing/unit/tostring)() | إرجاع أString الذي يمثل هذا المثال. |
-| static [FromCentimeters](../../aspose.html.drawing/unit/fromcentimeters)(double) | إرجاع أ[`Length`](../length) الكائن الذي يتم تمثيله بالسنتيمتر . |
-| static [FromDegrees](../../aspose.html.drawing/unit/fromdegrees)(double) | إرجاع أ[`Angle`](../angle) الكائن الذي يتم تمثيله بالدرجات . |
-| static [FromDotsPerCentimeters](../../aspose.html.drawing/unit/fromdotspercentimeters)(double) | إرجاع أ[`Resolution`](../resolution) الكائن الذي يتم تمثيله بالنقاط في السنتيمتر . |
-| static [FromDotsPerInch](../../aspose.html.drawing/unit/fromdotsperinch)(double) | إرجاع أ[`Resolution`](../resolution) كائن يتم تمثيله بالنقاط في البوصة . |
-| static [FromDotsPerPixel](../../aspose.html.drawing/unit/fromdotsperpixel)(double) | إرجاع أ[`Resolution`](../resolution) يتم تمثيله بالنقاط لكل بكسل . |
-| static [FromGradians](../../aspose.html.drawing/unit/fromgradians)(double) | إرجاع أ[`Angle`](../angle)الكائن الذي يتم تمثيله في Gradians . |
-| static [FromHertz](../../aspose.html.drawing/unit/fromhertz)(double) | إرجاع أ[`Frequency`](../frequency) الكائن الذي يتم تمثيله بالهرتز . |
-| static [FromInches](../../aspose.html.drawing/unit/frominches)(double) | إرجاع أ[`Length`](../length) الكائن الذي يتم تمثيله بالبوصة . |
-| static [FromKiloHertz](../../aspose.html.drawing/unit/fromkilohertz)(double) | إرجاع أ[`Frequency`](../frequency) الكائن الذي يتم تمثيله بالكيلو هرتز. |
-| static [FromMillimeters](../../aspose.html.drawing/unit/frommillimeters)(double) | إرجاع أ[`Length`](../length) الكائن الذي يتم تمثيله بالميليمترات . |
-| static [FromMilliseconds](../../aspose.html.drawing/unit/frommilliseconds)(double) | إرجاع أ[`Time`](../time) الكائن الذي يتم تمثيله بالميلي ثانية. |
-| static [FromPicas](../../aspose.html.drawing/unit/frompicas)(double) | إرجاع أ[`Length`](../length) الكائن الذي يتم تمثيله في البيكا . |
-| static [FromPixels](../../aspose.html.drawing/unit/frompixels)(double) | إرجاع أ[`Length`](../length) الكائن الذي يتم تمثيله بالبكسل . |
-| static [FromPoints](../../aspose.html.drawing/unit/frompoints)(double) | إرجاع أ[`Length`](../length) الكائن الذي يتم تمثيله بالنقاط . |
-| static [FromQuarterMillimeters](../../aspose.html.drawing/unit/fromquartermillimeters)(double) | إرجاع أ[`Length`](../length) الكائن الذي يتم تمثيله بربع ملليمتر . |
-| static [FromRadians](../../aspose.html.drawing/unit/fromradians)(double) | إرجاع أ[`Angle`](../angle) الكائن الذي يتم تمثيله بالتقدير الدائري. |
-| static [FromSeconds](../../aspose.html.drawing/unit/fromseconds)(double) | إرجاع أ[`Time`](../time) الكائن الذي يتم تمثيله بالثواني. |
-| static [FromTurns](../../aspose.html.drawing/unit/fromturns)(double) | إرجاع أ[`Angle`](../angle) الكائن الذي يتم تمثيله بالتناوب. |
+| override [Equals](../../aspose.html.drawing/unit/equals/#equals_1)(object) | تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال. |
+| virtual [Equals](../../aspose.html.drawing/unit/equals/#equals)(Unit) | تحديد ما إذا كان الملف المحدد`Unit` ، يساوي هذا المثال. |
+| override [GetHashCode](../../aspose.html.drawing/unit/gethashcode/)() | إرجاع رمز تجزئة لهذا المثال. |
+| override [ToString](../../aspose.html.drawing/unit/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
+| static [FromCentimeters](../../aspose.html.drawing/unit/fromcentimeters/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله بالسنتيمتر. |
+| static [FromDegrees](../../aspose.html.drawing/unit/fromdegrees/)(double) | إرجاع أ[`Angle`](../angle/) الكائن الذي يتم تمثيله بالدرجات . |
+| static [FromDotsPerCentimeters](../../aspose.html.drawing/unit/fromdotspercentimeters/)(double) | إرجاع أ[`Resolution`](../resolution/) الكائن الذي يتم تمثيله بالنقاط في السنتيمتر . |
+| static [FromDotsPerInch](../../aspose.html.drawing/unit/fromdotsperinch/)(double) | إرجاع أ[`Resolution`](../resolution/) يتم تمثيله بالنقاط في البوصة . |
+| static [FromDotsPerPixel](../../aspose.html.drawing/unit/fromdotsperpixel/)(double) | إرجاع أ[`Resolution`](../resolution/) يتم تمثيله بالنقاط لكل بكسل . |
+| static [FromGradians](../../aspose.html.drawing/unit/fromgradians/)(double) | إرجاع أ[`Angle`](../angle/)الكائن الذي يتم تمثيله في Gradians . |
+| static [FromHertz](../../aspose.html.drawing/unit/fromhertz/)(double) | إرجاع أ[`Frequency`](../frequency/) الكائن الذي يتم تمثيله بالهرتز . |
+| static [FromInches](../../aspose.html.drawing/unit/frominches/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله بالبوصة . |
+| static [FromKiloHertz](../../aspose.html.drawing/unit/fromkilohertz/)(double) | إرجاع أ[`Frequency`](../frequency/) الكائن الذي يتم تمثيله بالكيلو هرتز. |
+| static [FromMillimeters](../../aspose.html.drawing/unit/frommillimeters/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله بالميليمترات . |
+| static [FromMilliseconds](../../aspose.html.drawing/unit/frommilliseconds/)(double) | إرجاع أ[`Time`](../time/) الكائن الذي يتم تمثيله بالملي ثانية. |
+| static [FromPicas](../../aspose.html.drawing/unit/frompicas/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله في البيكا . |
+| static [FromPixels](../../aspose.html.drawing/unit/frompixels/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله بالبكسل . |
+| static [FromPoints](../../aspose.html.drawing/unit/frompoints/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله بالنقاط . |
+| static [FromQuarterMillimeters](../../aspose.html.drawing/unit/fromquartermillimeters/)(double) | إرجاع أ[`Length`](../length/) الكائن الذي يتم تمثيله بربع ملليمتر . |
+| static [FromRadians](../../aspose.html.drawing/unit/fromradians/)(double) | إرجاع أ[`Angle`](../angle/) الكائن الذي يتم تمثيله بالتقدير الدائري. |
+| static [FromSeconds](../../aspose.html.drawing/unit/fromseconds/)(double) | إرجاع أ[`Time`](../time/) الكائن الذي يتم تمثيله بالثواني. |
+| static [FromTurns](../../aspose.html.drawing/unit/fromturns/)(double) | إرجاع أ[`Angle`](../angle/) الكائن الذي يتم تمثيله بالتناوب. |
 
 ### أنظر أيضا
 
-* مساحة الاسم [Aspose.Html.Drawing](../../aspose.html.drawing)
+* مساحة الاسم [Aspose.Html.Drawing](../../aspose.html.drawing/)
 * المجسم [Aspose.HTML](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

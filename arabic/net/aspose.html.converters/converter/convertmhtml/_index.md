@@ -1,7 +1,7 @@
 ---
-title: ConvertMHTML
+title: Converter.ConvertMHTML
 second_title: Aspose.HTML لمرجع .NET API
-description: تحويل مصدر mhtml إلى xps. النتيجة هي ملف xps.
+description: Converter طريقة. تحويل مصدر mhtml إلى xps. النتيجة هي ملف xps.
 type: docs
 weight: 40
 url: /ar/net/aspose.html.converters/converter/convertmhtml/
@@ -22,9 +22,9 @@ public static void ConvertMHTML(Stream stream, XpsSaveOptions options, string ou
 
 ### أنظر أيضا
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -45,9 +45,9 @@ public static void ConvertMHTML(string sourcePath, XpsSaveOptions options, strin
 
 ### أنظر أيضا
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -68,10 +68,10 @@ public static void ConvertMHTML(Url sourceUrl, XpsSaveOptions options, string ou
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -94,10 +94,10 @@ public static void ConvertMHTML(Stream stream, Configuration configuration, XpsS
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -120,10 +120,10 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -146,11 +146,11 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration, XpsS
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -168,14 +168,14 @@ public static void ConvertMHTML(Stream stream, XpsSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | مصدر التحويل. |
 | options | XpsSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -193,14 +193,14 @@ public static void ConvertMHTML(string sourcePath, XpsSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | مسار ملف مصدر MHTML. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | options | XpsSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -218,15 +218,15 @@ public static void ConvertMHTML(Url sourceUrl, XpsSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | عنوان URL المصدر. |
 | options | XpsSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -245,15 +245,15 @@ public static void ConvertMHTML(Stream stream, Configuration configuration, XpsS
 | stream | Stream | مصدر التحويل. |
 | configuration | Configuration | تكوين البيئة. |
 | options | XpsSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -272,15 +272,15 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 | sourcePath | String | مسار ملف مصدر MHTML. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | configuration | Configuration | تكوين البيئة. |
 | options | XpsSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -299,16 +299,16 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration, XpsS
 | sourceUrl | Url | عنوان URL المصدر. |
 | configuration | Configuration | تكوين البيئة. |
 | options | XpsSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -329,9 +329,9 @@ public static void ConvertMHTML(Stream stream, DocSaveOptions options, string ou
 
 ### أنظر أيضا
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -352,9 +352,9 @@ public static void ConvertMHTML(string sourcePath, DocSaveOptions options, strin
 
 ### أنظر أيضا
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -375,10 +375,10 @@ public static void ConvertMHTML(Url sourceUrl, DocSaveOptions options, string ou
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -401,10 +401,10 @@ public static void ConvertMHTML(Stream stream, Configuration configuration, DocS
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -427,10 +427,10 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -453,11 +453,11 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration, DocS
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -475,14 +475,14 @@ public static void ConvertMHTML(Stream stream, DocSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | مصدر التحويل. |
 | options | DocSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -500,14 +500,14 @@ public static void ConvertMHTML(string sourcePath, DocSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | مسار ملف مصدر MHTML. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | options | DocSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -525,15 +525,15 @@ public static void ConvertMHTML(Url sourceUrl, DocSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | عنوان URL المصدر. |
 | options | DocSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -552,15 +552,15 @@ public static void ConvertMHTML(Stream stream, Configuration configuration, DocS
 | stream | Stream | مصدر التحويل. |
 | configuration | Configuration | تكوين البيئة. |
 | options | DocSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -579,15 +579,15 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 | sourcePath | String | مسار ملف مصدر MHTML. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | configuration | Configuration | تكوين البيئة. |
 | options | DocSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -606,16 +606,16 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration, DocS
 | sourceUrl | Url | عنوان URL المصدر. |
 | configuration | Configuration | تكوين البيئة. |
 | options | DocSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -636,9 +636,9 @@ public static void ConvertMHTML(Stream stream, PdfSaveOptions options, string ou
 
 ### أنظر أيضا
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -659,9 +659,9 @@ public static void ConvertMHTML(string sourcePath, PdfSaveOptions options, strin
 
 ### أنظر أيضا
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -682,10 +682,10 @@ public static void ConvertMHTML(Url sourceUrl, PdfSaveOptions options, string ou
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -708,10 +708,10 @@ public static void ConvertMHTML(Stream stream, Configuration configuration, PdfS
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -734,10 +734,10 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -760,11 +760,11 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration, PdfS
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -782,14 +782,14 @@ public static void ConvertMHTML(Stream stream, PdfSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | مصدر التحويل. |
 | options | PdfSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -807,14 +807,14 @@ public static void ConvertMHTML(string sourcePath, PdfSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | مسار ملف مصدر MHTML. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | options | PdfSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -832,15 +832,15 @@ public static void ConvertMHTML(Url sourceUrl, PdfSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | عنوان URL المصدر. |
 | options | PdfSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -859,15 +859,15 @@ public static void ConvertMHTML(Stream stream, Configuration configuration, PdfS
 | stream | Stream | مصدر التحويل. |
 | configuration | Configuration | تكوين البيئة. |
 | options | PdfSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -886,15 +886,15 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 | sourcePath | String | مسار ملف مصدر MHTML. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | configuration | Configuration | تكوين البيئة. |
 | options | PdfSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -913,16 +913,16 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration, PdfS
 | sourceUrl | Url | عنوان URL المصدر. |
 | configuration | Configuration | تكوين البيئة. |
 | options | PdfSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -943,9 +943,9 @@ public static void ConvertMHTML(Stream stream, ImageSaveOptions options, string 
 
 ### أنظر أيضا
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -966,9 +966,9 @@ public static void ConvertMHTML(string sourcePath, ImageSaveOptions options, str
 
 ### أنظر أيضا
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -989,10 +989,10 @@ public static void ConvertMHTML(Url sourceUrl, ImageSaveOptions options, string 
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1015,10 +1015,10 @@ public static void ConvertMHTML(Stream stream, Configuration configuration,
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1041,10 +1041,10 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1067,11 +1067,11 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration,
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1089,14 +1089,14 @@ public static void ConvertMHTML(Stream stream, ImageSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | مصدر التحويل. |
 | options | ImageSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1114,14 +1114,14 @@ public static void ConvertMHTML(string sourcePath, ImageSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | مسار ملف مصدر MHTML. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | options | ImageSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1139,15 +1139,15 @@ public static void ConvertMHTML(Url sourceUrl, ImageSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | عنوان URL المصدر. |
 | options | ImageSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1166,15 +1166,15 @@ public static void ConvertMHTML(Stream stream, Configuration configuration,
 | stream | Stream | مصدر التحويل. |
 | configuration | Configuration | تكوين البيئة. |
 | options | ImageSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1193,15 +1193,15 @@ public static void ConvertMHTML(string sourcePath, Configuration configuration,
 | sourcePath | String | مسار ملف مصدر MHTML. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | configuration | Configuration | تكوين البيئة. |
 | options | ImageSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1220,16 +1220,16 @@ public static void ConvertMHTML(Url sourceUrl, Configuration configuration,
 | sourceUrl | Url | عنوان URL المصدر. |
 | configuration | Configuration | تكوين البيئة. |
 | options | ImageSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

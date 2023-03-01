@@ -1,14 +1,14 @@
 ---
-title: ImageRenderingOptions
+title: Class ImageRenderingOptions
 second_title: Aspose.HTML لمرجع .NET API
-description: يمثل خيارات التقديم لـImageDevice./imagedevice . تُستخدم هذه الخيارات لتحديد تنسيق صورة الإخراج والضغط والدقة وما إلى ذلك.
+description: Aspose.Html.Rendering.Image.ImageRenderingOptions فصل. يمثل خيارات التقديم لـImageDevice . تُستخدم هذه الخيارات لتحديد تنسيق صورة الإخراج والضغط والدقة وما إلى ذلك.
 type: docs
-weight: 4320
+weight: 4330
 url: /ar/net/aspose.html.rendering.image/imagerenderingoptions/
 ---
 ## ImageRenderingOptions class
 
-يمثل خيارات التقديم لـ[`ImageDevice`](../imagedevice) . تُستخدم هذه الخيارات لتحديد تنسيق صورة الإخراج والضغط والدقة وما إلى ذلك.
+يمثل خيارات التقديم لـ[`ImageDevice`](../imagedevice/) . تُستخدم هذه الخيارات لتحديد تنسيق صورة الإخراج والضغط والدقة وما إلى ذلك.
 
 ```csharp
 public class ImageRenderingOptions : RenderingOptions
@@ -18,27 +18,27 @@ public class ImageRenderingOptions : RenderingOptions
 
 | اسم | وصف |
 | --- | --- |
-| [ImageRenderingOptions](imagerenderingoptions#constructor)() | يقوم بتهيئة مثيل جديد لملف[`ImageRenderingOptions`](../imagerenderingoptions) صف دراسي؛Png سيتم استخدامه كتنسيق افتراضي للصورة. |
-| [ImageRenderingOptions](imagerenderingoptions#constructor_1)(ImageFormat) | يقوم بتهيئة مثيل جديد لملف[`ImageRenderingOptions`](../imagerenderingoptions) فئة بتنسيق الصورة المحدد. |
+| [ImageRenderingOptions](imagerenderingoptions/#constructor)() | يقوم بتهيئة مثيل جديد لملف`ImageRenderingOptions` فصل؛Png سيتم استخدامه كتنسيق افتراضي للصورة. |
+| [ImageRenderingOptions](imagerenderingoptions/#constructor_1)(ImageFormat) | يقوم بتهيئة مثيل جديد لملف`ImageRenderingOptions` فئة بتنسيق الصورة المحدد. |
 
 ## الخصائص
 
 | اسم | وصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.html.rendering/renderingoptions/backgroundcolor) { get; set; } | يحصل أو يحددColor والتي تملأ خلفية كل صفحة. القيمة الافتراضية هيTransparent . |
-| [Compression](../../aspose.html.rendering.image/imagerenderingoptions/compression) { get; set; } | تعيين تنسيق ملف الصورة ذي العلامات (TIFF) أو الحصول عليه[`Compression`](../compression) . افتراضيا هذه الخاصية هيLZW . |
-| [Css](../../aspose.html.rendering/renderingoptions/css) { get; } | يحصل على أ[`CssOptions`](../../aspose.html.rendering/cssoptions) الكائن المستخدم لتكوين معالجة خصائص css. |
-| [Format](../../aspose.html.rendering.image/imagerenderingoptions/format) { get; set; } | مجموعات أو يحصل[`ImageFormat`](../imageformat) . افتراضيا هذه الخاصية هيPng . |
-| override [HorizontalResolution](../../aspose.html.rendering.image/imagerenderingoptions/horizontalresolution) { get; set; } | تعيين أو الحصول على الدقة الأفقية للمخرجات والصور الداخلية (التي تُستخدم أثناء معالجة المرشحات) ، بالبكسل في البوصة. بشكل افتراضي ، تكون هذه الخاصية 300 نقطة في البوصة. |
-| [PageSetup](../../aspose.html.rendering/renderingoptions/pagesetup) { get; } | الحصول على كائن إعداد الصفحة يُستخدم لمجموعة صفحة إخراج التكوين. |
-| [SmoothingMode](../../aspose.html.rendering.image/imagerenderingoptions/smoothingmode) { get; set; } | الحصول على جودة العرض لهذه الرسومات أو تعيينها. |
-| [Text](../../aspose.html.rendering.image/imagerenderingoptions/text) { get; } | يحصل على أ[`TextOptions`](../textoptions) الكائن المستخدم لتكوين عرض النص. |
-| override [VerticalResolution](../../aspose.html.rendering.image/imagerenderingoptions/verticalresolution) { get; set; } | لتعيين أو الحصول على الدقة الرأسية للمخرجات والصور الداخلية (التي تُستخدم أثناء معالجة المرشحات) ، بالبكسل في البوصة. بشكل افتراضي ، تكون هذه الخاصية 300 نقطة في البوصة. |
+| [BackgroundColor](../../aspose.html.rendering/renderingoptions/backgroundcolor/) { get; set; } | يحصل أو يحددColorوالتي تملأ خلفية كل صفحة. القيمة الافتراضية هيTransparent . |
+| [Compression](../../aspose.html.rendering.image/imagerenderingoptions/compression/) { get; set; } | تعيين تنسيق ملف الصورة ذي العلامات (TIFF) أو الحصول عليه[`Compression`](../compression/) . افتراضيا هذه الخاصية هيLZW . |
+| [Css](../../aspose.html.rendering/renderingoptions/css/) { get; } | يحصل على أ[`CssOptions`](../../aspose.html.rendering/cssoptions/) الكائن المستخدم لتكوين معالجة خصائص css. |
+| [Format](../../aspose.html.rendering.image/imagerenderingoptions/format/) { get; set; } | مجموعات أو يحصل[`ImageFormat`](../imageformat/) . افتراضيا هذه الخاصية هيPng . |
+| override [HorizontalResolution](../../aspose.html.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | لتعيين أو الحصول على دقة أفقية للمخرجات والصور الداخلية (التي تُستخدم أثناء معالجة المرشحات) ، بالبكسل في البوصة. بشكل افتراضي ، تكون هذه الخاصية 300 نقطة في البوصة. |
+| [PageSetup](../../aspose.html.rendering/renderingoptions/pagesetup/) { get; } | الحصول على كائن إعداد الصفحة يستخدم لمجموعة صفحة إخراج التكوين. |
+| [SmoothingMode](../../aspose.html.rendering.image/imagerenderingoptions/smoothingmode/) { get; set; } | الحصول على جودة العرض لهذه الرسومات أو تعيينها. |
+| [Text](../../aspose.html.rendering.image/imagerenderingoptions/text/) { get; } | يحصل على أ[`TextOptions`](../textoptions/) الكائن المستخدم لتكوين عرض النص. |
+| override [VerticalResolution](../../aspose.html.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | لتعيين أو الحصول على الدقة الرأسية للمخرجات والصور الداخلية (التي تُستخدم أثناء معالجة المرشحات) ، بالبكسل في البوصة. بشكل افتراضي ، تكون هذه الخاصية 300 نقطة في البوصة. |
 
 ### أنظر أيضا
 
-* class [RenderingOptions](../../aspose.html.rendering/renderingoptions)
-* مساحة الاسم [Aspose.Html.Rendering.Image](../../aspose.html.rendering.image)
+* class [RenderingOptions](../../aspose.html.rendering/renderingoptions/)
+* مساحة الاسم [Aspose.Html.Rendering.Image](../../aspose.html.rendering.image/)
 * المجسم [Aspose.HTML](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

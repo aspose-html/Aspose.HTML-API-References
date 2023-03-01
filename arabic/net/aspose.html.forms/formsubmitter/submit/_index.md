@@ -1,7 +1,7 @@
 ---
-title: Submit
+title: FormSubmitter.Submit
 second_title: Aspose.HTML لمرجع .NET API
-description: إرسال بيانات النموذج إلى الخادم .
+description: FormSubmitter طريقة. إرسال بيانات النموذج إلى الخادم .
 type: docs
 weight: 50
 url: /ar/net/aspose.html.forms/formsubmitter/submit/
@@ -20,9 +20,9 @@ public SubmissionResult Submit()
 
 ### أنظر أيضا
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -45,9 +45,9 @@ public SubmissionResult Submit(CookieContainer cookieContainer)
 
 ### أنظر أيضا
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -70,9 +70,9 @@ public SubmissionResult Submit(ICredentials credentials)
 
 ### أنظر أيضا
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -96,9 +96,9 @@ public SubmissionResult Submit(ICredentials credentials, CookieContainer cookieC
 
 ### أنظر أيضا
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -121,9 +121,9 @@ public SubmissionResult Submit(TimeSpan timeout)
 
 ### أنظر أيضا
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -147,9 +147,9 @@ public SubmissionResult Submit(TimeSpan timeout, CookieContainer cookieContainer
 
 ### أنظر أيضا
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -173,16 +173,16 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout)
 
 ### أنظر أيضا
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Submit(ICredentials, TimeSpan, CookieContainer) {#submit_7}
 
-إرسال بيانات النموذج إلى الخادم باستخدام بيانات اعتماد المستخدم المحددة ، والمهلة وملفات تعريف الارتباط.
+إرسال بيانات النموذج إلى الخادم باستخدام بيانات اعتماد المستخدم المحددة والمهلة وملفات تعريف الارتباط.
 
 ```csharp
 public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout, 
@@ -201,9 +201,9 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout,
 
 ### أنظر أيضا
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -228,9 +228,9 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout, bool 
 
 ### أنظر أيضا
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -257,9 +257,9 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout, bool 
 
 ### أنظر أيضا
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* مساحة الاسم [Aspose.Html.Forms](../../formsubmitter/)
 * المجسم [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

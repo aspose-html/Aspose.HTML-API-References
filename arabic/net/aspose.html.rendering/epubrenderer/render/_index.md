@@ -1,14 +1,14 @@
 ---
-title: Render
+title: EpubRenderer.Render
 second_title: Aspose.HTML لمرجع .NET API
-description: يحدد طريقة عرض EPub متعددةStream ق محددةIDeviceaspose.html.rendering/idevice . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
+description: EpubRenderer طريقة. يحدد طريقة عرض EPub متعددةStream ق محددةIDevice . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
 type: docs
 weight: 20
 url: /ar/net/aspose.html.rendering/epubrenderer/render/
 ---
 ## Render(IDevice, TimeSpan, params Stream[]) {#render_9}
 
-يحدد طريقة عرض EPub متعددةStream ق محددة[`IDevice`](../../idevice) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
+يحدد طريقة عرض EPub متعددةStream ق محددة[`IDevice`](../../idevice/) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
 
 ```csharp
 public override void Render(IDevice device, TimeSpan timeout, params Stream[] documents)
@@ -22,16 +22,16 @@ public override void Render(IDevice device, TimeSpan timeout, params Stream[] do
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [EpubRenderer](../../epubrenderer)
-* مساحة الاسم [Aspose.Html.Rendering](../../epubrenderer)
+* interface [IDevice](../../idevice/)
+* class [EpubRenderer](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../epubrenderer/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, Stream, Configuration) {#render_4}
 
-يتم عرض مستند EPub في المحدد[`IDevice`](../../idevice) .
+يتم عرض مستند EPub في المحدد[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, Stream document, Configuration configuration)
@@ -45,17 +45,17 @@ public void Render(IDevice device, Stream document, Configuration configuration)
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [EpubRenderer](../../epubrenderer)
-* مساحة الاسم [Aspose.Html.Rendering](../../epubrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [EpubRenderer](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../epubrenderer/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, Stream, Configuration, TimeSpan) {#render_5}
 
-يتم عرض مستند EPub في المحدد[`IDevice`](../../idevice) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
+يتم عرض مستند EPub في المحدد[`IDevice`](../../idevice/) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
 
 ```csharp
 public void Render(IDevice device, Stream document, Configuration configuration, TimeSpan timeout)
@@ -70,17 +70,17 @@ public void Render(IDevice device, Stream document, Configuration configuration,
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [EpubRenderer](../../epubrenderer)
-* مساحة الاسم [Aspose.Html.Rendering](../../epubrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [EpubRenderer](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../epubrenderer/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, IList&lt;Stream&gt;, Configuration) {#render_1}
 
-يتم عرض مستندات EPub متعددة في ملفات محددة[`IDevice`](../../idevice) .
+يتم عرض مستندات EPub متعددة في ملفات محددة[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, IList<Stream> documents, Configuration configuration)
@@ -94,17 +94,17 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [EpubRenderer](../../epubrenderer)
-* مساحة الاسم [Aspose.Html.Rendering](../../epubrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [EpubRenderer](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../epubrenderer/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, IList&lt;Stream&gt;, Configuration, TimeSpan) {#render_2}
 
-يتم عرض مستندات EPub متعددة في ملفات محددة[`IDevice`](../../idevice) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
+يتم عرض مستندات EPub متعددة في ملفات محددة[`IDevice`](../../idevice/) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
 
 ```csharp
 public void Render(IDevice device, IList<Stream> documents, Configuration configuration, 
@@ -120,10 +120,10 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [EpubRenderer](../../epubrenderer)
-* مساحة الاسم [Aspose.Html.Rendering](../../epubrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [EpubRenderer](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../epubrenderer/)
 * المجسم [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+
