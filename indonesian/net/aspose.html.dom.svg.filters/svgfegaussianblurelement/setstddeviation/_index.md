@@ -1,0 +1,34 @@
+---
+title: SVGFEGaussianBlurElement.SetStdDeviation
+second_title: Aspose.HTML untuk Referensi .NET API
+description: SVGFEGaussianBlurElement metode. Menetapkan nilai untuk atribut stdDeviation.
+type: docs
+weight: 90
+url: /id/net/aspose.html.dom.svg.filters/svgfegaussianblurelement/setstddeviation/
+---
+## SVGFEGaussianBlurElement.SetStdDeviation method
+
+Menetapkan nilai untuk atribut �stdDeviation�.
+
+```csharp
+public void SetStdDeviation(float stdDeviationX, float stdDeviationY)
+```
+
+| Parameter | Jenis | Keterangan |
+| --- | --- | --- |
+| stdDeviationX | Single | Komponen X dari atribut �stdDeviation�. |
+| stdDeviationY | Single | Komponen Y dari atribut �stdDeviation�. |
+
+### Pengecualian
+
+| pengecualian | kondisi |
+| --- | --- |
+| [DOMException](../../../aspose.html.dom/domexception/) | Kode [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.html.dom/domexception/no_modification_allowed_err/) . Dimunculkan saat mencoba mengubah nilai atribut hanya baca. |
+
+### Lihat juga
+
+* class [SVGFEGaussianBlurElement](../)
+* ruang nama [Aspose.Html.Dom.Svg.Filters](../../svgfegaussianblurelement/)
+* perakitan [Aspose.HTML](../../../)
+
+
