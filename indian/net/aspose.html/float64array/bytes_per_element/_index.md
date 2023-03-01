@@ -1,0 +1,23 @@
+---
+title: Float64Array.BYTES_PER_ELEMENT
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: Float64Array मैदन. गुण टइप कए गए सरण में प्रत्येक तत्व के बइट्स में आकर क प्रतनधत्व करत है
+type: docs
+weight: 30
+url: /hi/net/aspose.html/float64array/bytes_per_element/
+---
+## Float64Array.BYTES_PER_ELEMENT field
+
+गुण टाइप किए गए सरणी में प्रत्येक तत्व के बाइट्स में आकार का प्रतिनिधित्व करता है।
+
+```csharp
+public static readonly byte BYTES_PER_ELEMENT;
+```
+
+### यह सभी देखें
+
+* class [Float64Array](../)
+* नाम स्थान [Aspose.Html](../../float64array/)
+* सभा [Aspose.HTML](../../../)
+
+

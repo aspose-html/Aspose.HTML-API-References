@@ -1,0 +1,30 @@
+---
+title: Path2D.Rect
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: Path2D तरक. चड़ई और ऊंचई द्वर नर्धरत आकर के सथ स्थत x y पर एक आयत के लए पथ बनत है
+type: docs
+weight: 120
+url: /hi/net/aspose.html.dom.canvas/path2d/rect/
+---
+## Path2D.Rect method
+
+चौड़ाई और ऊंचाई द्वारा निर्धारित आकार के साथ स्थिति (x, y) पर एक आयत के लिए पथ बनाता है।
+
+```csharp
+public void Rect(double x, double y, double w, double h)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| x | Double | आयत के शुरुआती बिंदु के लिए निर्देशांक का x अक्ष। |
+| y | Double | आयत के शुरुआती बिंदु के लिए निर्देशांक का y अक्ष। |
+| w | Double | आयत की चौड़ाई। |
+| h | Double | आयत की ऊँचाई। |
+
+### यह सभी देखें
+
+* class [Path2D](../)
+* नाम स्थान [Aspose.Html.Dom.Canvas](../../path2d/)
+* सभा [Aspose.HTML](../../../)
+
+

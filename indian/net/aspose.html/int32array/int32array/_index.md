@@ -1,0 +1,113 @@
+---
+title: Int32Array.Int32Array
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: Int32Array नर्मत. क एक नय उदहरण प्ररंभ करत हैInt32Array वर्ग.
+type: docs
+weight: 10
+url: /hi/net/aspose.html/int32array/int32array/
+---
+## Int32Array(int) {#constructor_3}
+
+का एक नया उदाहरण प्रारंभ करता है[`Int32Array`](../) वर्ग.
+
+```csharp
+public Int32Array(int length)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| length | Int32 | लंबाई (तत्वों की संख्या)। |
+
+### यह सभी देखें
+
+* class [Int32Array](../)
+* नाम स्थान [Aspose.Html](../../int32array/)
+* सभा [Aspose.HTML](../../../)
+
+---
+
+## Int32Array(int[]) {#constructor_4}
+
+का एक नया उदाहरण प्रारंभ करता है[`Int32Array`](../) वर्ग.
+
+```csharp
+public Int32Array(int[] data)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| data | Int32[] | सरणी डेटा। |
+
+### यह सभी देखें
+
+* class [Int32Array](../)
+* नाम स्थान [Aspose.Html](../../int32array/)
+* सभा [Aspose.HTML](../../../)
+
+---
+
+## Int32Array(ArrayBuffer) {#constructor}
+
+का एक नया उदाहरण प्रारंभ करता है[`Int32Array`](../) वर्ग.
+
+```csharp
+public Int32Array(ArrayBuffer buffer)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| buffer | ArrayBuffer | डेटा बफ़र। |
+
+### यह सभी देखें
+
+* class [ArrayBuffer](../../arraybuffer/)
+* class [Int32Array](../)
+* नाम स्थान [Aspose.Html](../../int32array/)
+* सभा [Aspose.HTML](../../../)
+
+---
+
+## Int32Array(ArrayBuffer, int) {#constructor_1}
+
+का एक नया उदाहरण प्रारंभ करता है[`Int32Array`](../) वर्ग.
+
+```csharp
+public Int32Array(ArrayBuffer buffer, int byteOffset)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| buffer | ArrayBuffer | डेटा बफ़र। |
+| byteOffset | Int32 | बाइट ऑफसेट। |
+
+### यह सभी देखें
+
+* class [ArrayBuffer](../../arraybuffer/)
+* class [Int32Array](../)
+* नाम स्थान [Aspose.Html](../../int32array/)
+* सभा [Aspose.HTML](../../../)
+
+---
+
+## Int32Array(ArrayBuffer, int, int) {#constructor_2}
+
+का एक नया उदाहरण प्रारंभ करता है[`Int32Array`](../) वर्ग.
+
+```csharp
+public Int32Array(ArrayBuffer buffer, int byteOffset, int length)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| buffer | ArrayBuffer | डेटा बफ़र। |
+| byteOffset | Int32 | बाइट ऑफसेट। |
+| length | Int32 | लंबाई। |
+
+### यह सभी देखें
+
+* class [ArrayBuffer](../../arraybuffer/)
+* class [Int32Array](../)
+* नाम स्थान [Aspose.Html](../../int32array/)
+* सभा [Aspose.HTML](../../../)
+
+

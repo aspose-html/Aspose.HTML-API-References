@@ -1,0 +1,23 @@
+---
+title: HTMLObjectElement.Hspace
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: HTMLObjectElement संपत्त. क्षैतज स्थन पक्सेल में इस छव के बएँ और दएँ एप्लेट य ऑब्जेक्ट HTML 4.01 में hspace वशेषत परभष देखें यह वशेषत HTML 4.01. में बहष्कृत है
+type: docs
+weight: 120
+url: /hi/net/aspose.html/htmlobjectelement/hspace/
+---
+## HTMLObjectElement.Hspace property
+
+क्षैतिज स्थान, पिक्सेल में, इस छवि के बाएँ और दाएँ, एप्लेट, या ऑब्जेक्ट। HTML 4.01 में hspace विशेषता परिभाषा देखें। यह विशेषता HTML 4.01. में बहिष्कृत है
+
+```csharp
+public int Hspace { get; set; }
+```
+
+### यह सभी देखें
+
+* class [HTMLObjectElement](../)
+* नाम स्थान [Aspose.Html](../../htmlobjectelement/)
+* सभा [Aspose.HTML](../../../)
+
+

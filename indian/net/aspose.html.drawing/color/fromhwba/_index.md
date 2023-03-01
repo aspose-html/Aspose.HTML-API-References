@@ -1,0 +1,34 @@
+---
+title: Color.FromHwba
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: Color तरक. अनुरधत रंग सफेद कलपन मूल्यं के सथ एक नय रंग देत है
+type: docs
+weight: 100
+url: /hi/net/aspose.html.drawing/color/fromhwba/
+---
+## Color.FromHwba method
+
+अनुरोधित रंग, सफेदी, कालापन मूल्यों के साथ एक नया रंग देता है।
+
+```csharp
+public static Color FromHwba(float hue, float whiteness, float blackness, float alpha)
+```
+
+| पैरामीटर | प्रकार | विवरण |
+| --- | --- | --- |
+| hue | Single | एक फ़्लोट जो रंग के ह्यु घटक का प्रतिनिधित्व करता है। |
+| whiteness | Single | एक फ्लोट जो रंग के सफेदी घटक का प्रतिनिधित्व करता है। |
+| blackness | Single | एक फ़्लोट जो रंग के कालेपन घटक का प्रतिनिधित्व करता है। |
+| alpha | Single | एक फ्लोट जो रंग के अल्फा घटक का प्रतिनिधित्व करता है। |
+
+### प्रतिलाभ की मात्रा
+
+का एक नया उदाहरण[`Color`](../) कक्षा
+
+### यह सभी देखें
+
+* class [Color](../)
+* नाम स्थान [Aspose.Html.Drawing](../../color/)
+* सभा [Aspose.HTML](../../../)
+
+
