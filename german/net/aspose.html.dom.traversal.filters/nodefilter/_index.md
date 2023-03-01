@@ -1,9 +1,9 @@
 ---
-title: NodeFilter
+title: Class NodeFilter
 second_title: Aspose.HTML für .NET-API-Referenz
-description: Filter sind Objekte die Knoten herausfiltern können.
+description: Aspose.Html.Dom.Traversal.Filters.NodeFilter klas. Filter sind Objekte die Knoten herausfiltern können.
 type: docs
-weight: 2470
+weight: 2460
 url: /de/net/aspose.html.dom.traversal.filters/nodefilter/
 ---
 ## NodeFilter class
@@ -18,35 +18,35 @@ public abstract class NodeFilter : DOMObject, INodeFilter
 
 | Name | Beschreibung |
 | --- | --- |
-| abstract [AcceptNode](../../aspose.html.dom.traversal.filters/nodefilter/acceptnode)(Node) | Testet, ob ein bestimmter Knoten in der logischen Ansicht von a TreeWalker oder NodeIterator sichtbar ist. Diese Funktion wird von der Implementierung von TreeWalker und NodeIterator aufgerufen; es wird normalerweise nicht direkt von Benutzercode aufgerufen. (Obwohl Sie dies tun könnten, wenn Sie denselben Filter verwenden wollten, um Ihre eigene Anwendungslogik zu steuern.) |
-| override [GetPlatformType](../../aspose.html.dom.traversal.filters/nodefilter/getplatformtype)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
+| abstract [AcceptNode](../../aspose.html.dom.traversal.filters/nodefilter/acceptnode/)(Node) | Testet, ob ein bestimmter Knoten in der logischen Ansicht von a TreeWalker oder NodeIterator sichtbar ist. Diese Funktion wird von der Implementierung von TreeWalker und NodeIterator aufgerufen; es wird normalerweise nicht direkt von Benutzercode aufgerufen. (Obwohl Sie dies tun könnten, wenn Sie denselben Filter verwenden wollten, um Ihre eigene Anwendungslogik zu steuern.) |
+| override [GetPlatformType](../../aspose.html.dom.traversal.filters/nodefilter/getplatformtype/)() | Diese Methode wird zum Abrufen des ECMAScript-Objekts verwendetType . |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [FILTER_ACCEPT](../../aspose.html.dom.traversal.filters/nodefilter/filter_accept) | Akzeptieren Sie den Knoten. Für NodeIterator oder TreeWalker definierte Navigationsmethoden geben diesen -Knoten zurück. |
-| const [FILTER_REJECT](../../aspose.html.dom.traversal.filters/nodefilter/filter_reject) | Den Knoten ablehnen. Für NodeIterator oder TreeWalker definierte Navigationsmethoden geben diesen Knoten nicht zurück. Für TreeWalker werden die Kinder dieses Knotens ebenfalls abgelehnt. NodeIterators behandeln dies als -Synonym für FILTER_SKIP. |
-| const [FILTER_SKIP](../../aspose.html.dom.traversal.filters/nodefilter/filter_skip) | Überspringen Sie diesen einzelnen Knoten. Für NodeIterator oder TreeWalker definierte Navigationsmethoden geben diesen Knoten nicht zurück. Sowohl für NodeIterator als auch für TreeWalker werden die Kinder dieses Knotens immer noch berücksichtigt. |
-| const [SHOW_ALL](../../aspose.html.dom.traversal.filters/nodefilter/show_all) | Alle Knoten anzeigen. |
-| const [SHOW_ATTRIBUTE](../../aspose.html.dom.traversal.filters/nodefilter/show_attribute) | Attr-Knoten anzeigen. Dies ist nur sinnvoll, wenn ein -Iterator oder Tree-Walker mit einem Attributknoten als -Wurzel erstellt wird; in diesem Fall bedeutet dies, dass der Attributknoten an der ersten Position der Iteration oder Traversierung erscheint. Da Attribute nie Kinder anderer Knoten sind, erscheinen sie nicht, wenn der Dokumentenbaum durchlaufen wird. |
-| const [SHOW_CDATA_SECTION](../../aspose.html.dom.traversal.filters/nodefilter/show_cdata_section) | CDATASection-Knoten anzeigen. |
-| const [SHOW_COMMENT](../../aspose.html.dom.traversal.filters/nodefilter/show_comment) | Kommentarknoten anzeigen. |
-| const [SHOW_DOCUMENT](../../aspose.html.dom.traversal.filters/nodefilter/show_document) | Dokumentknoten anzeigen. |
-| const [SHOW_DOCUMENT_FRAGMENT](../../aspose.html.dom.traversal.filters/nodefilter/show_document_fragment) | DocumentFragment-Knoten anzeigen. |
-| const [SHOW_DOCUMENT_TYPE](../../aspose.html.dom.traversal.filters/nodefilter/show_document_type) | DocumentType-Knoten anzeigen. |
-| const [SHOW_ELEMENT](../../aspose.html.dom.traversal.filters/nodefilter/show_element) | Elementknoten anzeigen. |
-| const [SHOW_ENTITY](../../aspose.html.dom.traversal.filters/nodefilter/show_entity) | Entitätsknoten anzeigen. Dies ist nur sinnvoll, wenn ein Iterator oder Tree-Walker mit einem Entity-Knoten als -Wurzel erstellt wird; in diesem Fall bedeutet dies, dass der Entity -Knoten an der ersten Position der Traversierung erscheint. Da Entitäten nicht Teil des Dokumentenbaums sind, erscheinen sie nicht, wenn den Dokumentenbaum durchlaufen. |
-| const [SHOW_ENTITY_REFERENCE](../../aspose.html.dom.traversal.filters/nodefilter/show_entity_reference) | EntityReference-Knoten anzeigen. |
-| const [SHOW_NOTATION](../../aspose.html.dom.traversal.filters/nodefilter/show_notation) | Notationsknoten anzeigen. Dies ist nur sinnvoll, wenn ein Iterator oder Tree-Walker mit einem Notationsknoten als -Wurzel erstellt wird; in diesem Fall bedeutet dies, dass der -Notationsknoten an der ersten Position des -Durchlaufs erscheint. Da Notationen nicht Teil des Dokumentenbaums sind, erscheinen sie nicht, wenn der Dokumentenbaum durchlaufen wird. |
-| const [SHOW_PROCESSING_INSTRUCTION](../../aspose.html.dom.traversal.filters/nodefilter/show_processing_instruction) | ProcessingInstruction-Knoten anzeigen. |
-| const [SHOW_TEXT](../../aspose.html.dom.traversal.filters/nodefilter/show_text) | Textknoten anzeigen. |
+| const [FILTER_ACCEPT](../../aspose.html.dom.traversal.filters/nodefilter/filter_accept/) | Akzeptieren Sie den Knoten. Für NodeIterator oder TreeWalker definierte Navigationsmethoden geben diesen -Knoten zurück. |
+| const [FILTER_REJECT](../../aspose.html.dom.traversal.filters/nodefilter/filter_reject/) | Den Knoten ablehnen. Für NodeIterator oder TreeWalker definierte Navigationsmethoden geben diesen Knoten nicht zurück. Für TreeWalker werden die Kinder dieses Knotens ebenfalls abgelehnt. NodeIterators behandeln dies als -Synonym für FILTER_SKIP. |
+| const [FILTER_SKIP](../../aspose.html.dom.traversal.filters/nodefilter/filter_skip/) | Überspringen Sie diesen einzelnen Knoten. Für NodeIterator oder TreeWalker definierte Navigationsmethoden geben diesen Knoten nicht zurück. Sowohl für NodeIterator als auch für TreeWalker werden die Kinder dieses Knotens immer noch berücksichtigt. |
+| const [SHOW_ALL](../../aspose.html.dom.traversal.filters/nodefilter/show_all/) | Alle Knoten anzeigen. |
+| const [SHOW_ATTRIBUTE](../../aspose.html.dom.traversal.filters/nodefilter/show_attribute/) | Attr-Knoten anzeigen. Dies ist nur sinnvoll, wenn ein -Iterator oder Tree-Walker mit einem Attributknoten als -Wurzel erstellt wird; in diesem Fall bedeutet dies, dass der Attributknoten an der ersten Position der Iteration oder Traversierung erscheint. Da Attribute nie Kinder anderer Knoten sind, erscheinen sie nicht, wenn der Dokumentenbaum durchlaufen wird. |
+| const [SHOW_CDATA_SECTION](../../aspose.html.dom.traversal.filters/nodefilter/show_cdata_section/) | CDATASection-Knoten anzeigen. |
+| const [SHOW_COMMENT](../../aspose.html.dom.traversal.filters/nodefilter/show_comment/) | Kommentarknoten anzeigen. |
+| const [SHOW_DOCUMENT](../../aspose.html.dom.traversal.filters/nodefilter/show_document/) | Dokumentknoten anzeigen. |
+| const [SHOW_DOCUMENT_FRAGMENT](../../aspose.html.dom.traversal.filters/nodefilter/show_document_fragment/) | DocumentFragment-Knoten anzeigen. |
+| const [SHOW_DOCUMENT_TYPE](../../aspose.html.dom.traversal.filters/nodefilter/show_document_type/) | DocumentType-Knoten anzeigen. |
+| const [SHOW_ELEMENT](../../aspose.html.dom.traversal.filters/nodefilter/show_element/) | Elementknoten anzeigen. |
+| const [SHOW_ENTITY](../../aspose.html.dom.traversal.filters/nodefilter/show_entity/) | Entitätsknoten anzeigen. Dies ist nur sinnvoll, wenn ein Iterator oder Tree-Walker mit einem Entity-Knoten als -Wurzel erstellt wird; in diesem Fall bedeutet dies, dass der Entity -Knoten an der ersten Position der Traversierung erscheint. Da Entitäten nicht Teil des Dokumentenbaums sind, erscheinen sie nicht, wenn den Dokumentenbaum durchlaufen. |
+| const [SHOW_ENTITY_REFERENCE](../../aspose.html.dom.traversal.filters/nodefilter/show_entity_reference/) | EntityReference-Knoten anzeigen. |
+| const [SHOW_NOTATION](../../aspose.html.dom.traversal.filters/nodefilter/show_notation/) | Notationsknoten anzeigen. Dies ist nur sinnvoll, wenn ein Iterator oder Tree-Walker mit einem Notationsknoten als -Wurzel erstellt wird; in diesem Fall bedeutet dies, dass der -Notationsknoten an der ersten Position des -Durchlaufs erscheint. Da Notationen nicht Teil des Dokumentenbaums sind, erscheinen sie nicht, wenn der Dokumentenbaum durchlaufen wird. |
+| const [SHOW_PROCESSING_INSTRUCTION](../../aspose.html.dom.traversal.filters/nodefilter/show_processing_instruction/) | ProcessingInstruction-Knoten anzeigen. |
+| const [SHOW_TEXT](../../aspose.html.dom.traversal.filters/nodefilter/show_text/) | Textknoten anzeigen. |
 
 ### Siehe auch
 
-* class [DOMObject](../../aspose.html.dom/domobject)
-* interface [INodeFilter](../../aspose.html.dom.traversal/inodefilter)
-* namensraum [Aspose.Html.Dom.Traversal.Filters](../../aspose.html.dom.traversal.filters)
+* class [DOMObject](../../aspose.html.dom/domobject/)
+* interface [INodeFilter](../../aspose.html.dom.traversal/inodefilter/)
+* namensraum [Aspose.Html.Dom.Traversal.Filters](../../aspose.html.dom.traversal.filters/)
 * Montage [Aspose.HTML](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

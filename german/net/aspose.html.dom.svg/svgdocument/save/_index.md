@@ -1,7 +1,7 @@
 ---
-title: Save
+title: SVGDocument.Save
 second_title: Aspose.HTML für .NET-API-Referenz
-description: Speichert das Dokument in der durch angegebenen lokalen DateiURL Alle in diesem Dokument verwendeten Ressourcen werden in im angrenzenden Ordner gespeichert dessen Name wie folgt aufgebaut ist output_file_name  _files.
+description: SVGDocument methode. Speichert das Dokument in der durch angegebenen lokalen DateiURL Alle in diesem Dokument verwendeten Ressourcen werden in im angrenzenden Ordner gespeichert dessen Name wie folgt aufgebaut ist output_file_name  _files.
 type: docs
 weight: 90
 url: /de/net/aspose.html.dom.svg/svgdocument/save/
@@ -26,9 +26,9 @@ public void Save(Url url)
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [SVGDocument](../../svgdocument)
-* namensraum [Aspose.Html.Dom.Svg](../../svgdocument)
+* class [Url](../../../aspose.html/url/)
+* class [SVGDocument](../)
+* namensraum [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -53,8 +53,8 @@ public void Save(string path)
 
 ### Siehe auch
 
-* class [SVGDocument](../../svgdocument)
-* namensraum [Aspose.Html.Dom.Svg](../../svgdocument)
+* class [SVGDocument](../)
+* namensraum [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -69,13 +69,13 @@ public void Save(IOutputStorage outputStorage)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Der Ausgangsspeicher[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | Der Ausgangsspeicher[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 
 ### Siehe auch
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [SVGDocument](../../svgdocument)
-* namensraum [Aspose.Html.Dom.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [SVGDocument](../)
+* namensraum [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -101,9 +101,9 @@ public void Save(string path, SVGSaveFormat saveFormat)
 
 ### Siehe auch
 
-* enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* namensraum [Aspose.Html.Dom.Svg](../../svgdocument)
+* enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* namensraum [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -118,15 +118,15 @@ public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Der Ausgangsspeicher[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | Der Ausgangsspeicher[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveFormat | SVGSaveFormat | Format, in dem das Dokument gespeichert wird. |
 
 ### Siehe auch
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* namensraum [Aspose.Html.Dom.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* namensraum [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -152,9 +152,9 @@ public void Save(string path, SVGSaveOptions saveOptions)
 
 ### Siehe auch
 
-* class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* namensraum [Aspose.Html.Dom.Svg](../../svgdocument)
+* class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* namensraum [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -169,15 +169,15 @@ public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Der Ausgangsspeicher[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | Der Ausgangsspeicher[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveOptions | SVGSaveOptions | SVG-Speicheroptionen. |
 
 ### Siehe auch
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* namensraum [Aspose.Html.Dom.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* namensraum [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -203,10 +203,10 @@ public void Save(Url url, SVGSaveFormat saveFormat)
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* namensraum [Aspose.Html.Dom.Svg](../../svgdocument)
+* class [Url](../../../aspose.html/url/)
+* enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* namensraum [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -232,10 +232,10 @@ public void Save(Url url, SVGSaveOptions saveOptions)
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* namensraum [Aspose.Html.Dom.Svg](../../svgdocument)
+* class [Url](../../../aspose.html/url/)
+* class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* namensraum [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Montage [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

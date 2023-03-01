@@ -1,9 +1,9 @@
 ---
-title: ICSSStyleDeclaration
+title: Interface ICSSStyleDeclaration
 second_title: Aspose.HTML für .NET-API-Referenz
-description: Die CSSStyleDeclarationSchnittstelle repräsentiert einen einzelnen CSSDeklarationsblock. Diese Schnittstelle kann verwendet werden um die Stileigenschaften zu bestimmen die derzeit in einem Block festgelegt sind oder um Stileigenschaften explizit innerhalb des Blocks festzulegen.
+description: Aspose.Html.Dom.Css.ICSSStyleDeclaration koppel. Die CSSStyleDeclarationSchnittstelle repräsentiert einen einzelnen CSSDeklarationsblock. Diese Schnittstelle kann verwendet werden um die Stileigenschaften zu bestimmen die derzeit in einem Block festgelegt sind oder um Stileigenschaften explizit innerhalb des Blocks festzulegen.
 type: docs
-weight: 500
+weight: 490
 url: /de/net/aspose.html.dom.css/icssstyledeclaration/
 ---
 ## ICSSStyleDeclaration interface
@@ -18,26 +18,26 @@ public interface ICSSStyleDeclaration : ICSS2Properties, IEnumerable<string>
 
 | Name | Beschreibung |
 | --- | --- |
-| [CSSText](../../aspose.html.dom.css/icssstyledeclaration/csstext) { get; set; } | Die parsbare Textdarstellung des Deklarationsblocks (ohne die umgebenden geschweiften Klammern). Das Setzen dieses Attributs führt zur Analyse des neuen Werts und zum Zurücksetzen aller Eigenschaften im Deklarationsblock, einschließlich des Entfernens oder Hinzufügens von Eigenschaften. |
-| [Item](../../aspose.html.dom.css/icssstyledeclaration/item) { get; } | Wird verwendet, um die Eigenschaften abzurufen, die explizit in diesem Deklarationsblock festgelegt wurden. Die Reihenfolge der mit dieser Methode abgerufenen Eigenschaften muss nicht der Reihenfolge entsprechen, in der sie festgelegt wurden. Mit dieser Methode kann über alle Eigenschaften in diesem Deklarationsblock iteriert werden. |
-| [Length](../../aspose.html.dom.css/icssstyledeclaration/length) { get; } | Die Anzahl der Eigenschaften, die explizit in diesem Deklarationsblock gesetzt wurden. Der Bereich gültiger Indizes reicht von 0 bis einschließlich Länge-1. |
-| [ParentRule](../../aspose.html.dom.css/icssstyledeclaration/parentrule) { get; } | Die CSS-Regel, die diesen Deklarationsblock enthält, oder null, wenn diese CSSStyleDeclaration nicht an eine CSSRule angehängt ist. |
+| [CSSText](../../aspose.html.dom.css/icssstyledeclaration/csstext/) { get; set; } | Die parsbare Textdarstellung des Deklarationsblocks (ohne die umgebenden geschweiften Klammern). Das Setzen dieses Attributs führt zur Analyse des neuen Werts und zum Zurücksetzen aller Eigenschaften im Deklarationsblock, einschließlich des Entfernens oder Hinzufügens von Eigenschaften. |
+| [Item](../../aspose.html.dom.css/icssstyledeclaration/item/) { get; } | Wird verwendet, um die Eigenschaften abzurufen, die explizit in diesem Deklarationsblock festgelegt wurden. Die Reihenfolge der mit dieser Methode abgerufenen Eigenschaften muss nicht der Reihenfolge entsprechen, in der sie festgelegt wurden. Mit dieser Methode kann über alle Eigenschaften in diesem Deklarationsblock iteriert werden. |
+| [Length](../../aspose.html.dom.css/icssstyledeclaration/length/) { get; } | Die Anzahl der Eigenschaften, die explizit in diesem Deklarationsblock gesetzt wurden. Der Bereich gültiger Indizes reicht von 0 bis einschließlich Länge-1. |
+| [ParentRule](../../aspose.html.dom.css/icssstyledeclaration/parentrule/) { get; } | Die CSS-Regel, die diesen Deklarationsblock enthält, oder null, wenn diese CSSStyleDeclaration nicht an eine CSSRule angehängt ist. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetPropertyCSSValue](../../aspose.html.dom.css/icssstyledeclaration/getpropertycssvalue)(string) | Wird verwendet, um die Objektdarstellung des Werts einer CSS-Eigenschaft abzurufen, wenn sie explizit innerhalb dieses Deklarationsblocks festgelegt wurde. Diese Methode gibt null zurück, wenn die Eigenschaft eine abgekürzte Eigenschaft ist. Auf abgekürzte Eigenschaftswerte kann nur mit den Methoden getPropertyValue und setProperty zugegriffen und sie als Zeichenfolgen geändert werden. |
-| [GetPropertyPriority](../../aspose.html.dom.css/icssstyledeclaration/getpropertypriority)(string) | Wird verwendet, um die Priorität einer CSS-Eigenschaft abzurufen (z. B. den „wichtigen“ Qualifizierer), wenn die Eigenschaft explizit in diesem Deklarationsblock gesetzt wurde. |
-| [GetPropertyValue](../../aspose.html.dom.css/icssstyledeclaration/getpropertyvalue)(string) | Wird verwendet, um den Wert einer CSS-Eigenschaft abzurufen, wenn er explizit innerhalb dieses Deklarationsblocks festgelegt wurde. |
-| [RemoveProperty](../../aspose.html.dom.css/icssstyledeclaration/removeproperty)(string) | Wird verwendet, um eine CSS-Eigenschaft zu entfernen, wenn sie explizit in diesem Deklarationsblock festgelegt wurde. |
-| [SetProperty](../../aspose.html.dom.css/icssstyledeclaration/setproperty#setproperty)(string, string) | Wird verwendet, um einen Eigenschaftswert mit Standardpriorität innerhalb dieses Deklarationsblocks festzulegen. Standardpriorität ist nicht „wichtig“, dh String.Empty |
-| [SetProperty](../../aspose.html.dom.css/icssstyledeclaration/setproperty#setproperty_1)(string, string, string) | Wird verwendet, um einen Eigenschaftswert und eine Priorität innerhalb dieses Deklarationsblocks festzulegen. |
+| [GetPropertyCSSValue](../../aspose.html.dom.css/icssstyledeclaration/getpropertycssvalue/)(string) | Wird verwendet, um die Objektdarstellung des Werts einer CSS-Eigenschaft abzurufen, wenn sie explizit innerhalb dieses Deklarationsblocks festgelegt wurde. Diese Methode gibt null zurück, wenn die Eigenschaft eine abgekürzte Eigenschaft ist. Auf abgekürzte Eigenschaftswerte kann nur mit den Methoden getPropertyValue und setProperty zugegriffen und sie als Zeichenfolgen geändert werden. |
+| [GetPropertyPriority](../../aspose.html.dom.css/icssstyledeclaration/getpropertypriority/)(string) | Wird verwendet, um die Priorität einer CSS-Eigenschaft abzurufen (z. B. den „wichtigen“ Qualifizierer), wenn die Eigenschaft explizit in diesem Deklarationsblock gesetzt wurde. |
+| [GetPropertyValue](../../aspose.html.dom.css/icssstyledeclaration/getpropertyvalue/)(string) | Wird verwendet, um den Wert einer CSS-Eigenschaft abzurufen, wenn er explizit innerhalb dieses Deklarationsblocks festgelegt wurde. |
+| [RemoveProperty](../../aspose.html.dom.css/icssstyledeclaration/removeproperty/)(string) | Wird verwendet, um eine CSS-Eigenschaft zu entfernen, wenn sie explizit in diesem Deklarationsblock festgelegt wurde. |
+| [SetProperty](../../aspose.html.dom.css/icssstyledeclaration/setproperty/#setproperty)(string, string) | Wird verwendet, um einen Eigenschaftswert mit Standardpriorität innerhalb dieses Deklarationsblocks festzulegen. Standardpriorität ist nicht „wichtig“, dh String.Empty |
+| [SetProperty](../../aspose.html.dom.css/icssstyledeclaration/setproperty/#setproperty_1)(string, string, string) | Wird verwendet, um einen Eigenschaftswert und eine Priorität innerhalb dieses Deklarationsblocks festzulegen. |
 
 ### Siehe auch
 
-* interface [ICSS2Properties](../icss2properties)
-* namensraum [Aspose.Html.Dom.Css](../../aspose.html.dom.css)
+* interface [ICSS2Properties](../icss2properties/)
+* namensraum [Aspose.Html.Dom.Css](../../aspose.html.dom.css/)
 * Montage [Aspose.HTML](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

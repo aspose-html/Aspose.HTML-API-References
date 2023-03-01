@@ -1,7 +1,7 @@
 ---
-title: ConvertEPUB
+title: Converter.ConvertEPUB
 second_title: Aspose.HTML für .NET-API-Referenz
-description: EpubQuelle in Bild umwandeln. Ergebnis ist Bilddatei.
+description: Converter methode. EpubQuelle in Bild umwandeln. Ergebnis ist Bilddatei.
 type: docs
 weight: 10
 url: /de/net/aspose.html.converters/converter/convertepub/
@@ -19,14 +19,14 @@ public static void ConvertEPUB(string sourcePath, ImageSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | Pfad der EPUB-Quelldatei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
 | options | ImageSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -44,15 +44,15 @@ public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | Die Quell-URL. |
 | options | ImageSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -71,15 +71,15 @@ public static void ConvertEPUB(Stream stream, Configuration configuration,
 | stream | Stream | Konvertierungsquelle. |
 | configuration | Configuration | Die Umgebungskonfiguration. |
 | options | ImageSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -98,15 +98,15 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | sourcePath | String | Pfad der EPUB-Quelldatei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
 | configuration | Configuration | Die Umgebungskonfiguration. |
 | options | ImageSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -125,16 +125,16 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration,
 | sourceUrl | Url | Die Quell-URL. |
 | configuration | Configuration | Die Umgebungskonfiguration. |
 | options | ImageSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -155,9 +155,9 @@ public static void ConvertEPUB(Stream stream, XpsSaveOptions options, string out
 
 ### Siehe auch
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -178,9 +178,9 @@ public static void ConvertEPUB(string sourcePath, XpsSaveOptions options, string
 
 ### Siehe auch
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -201,10 +201,10 @@ public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options, string out
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -227,10 +227,10 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSa
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -253,10 +253,10 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -279,11 +279,11 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSa
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -301,14 +301,14 @@ public static void ConvertEPUB(Stream stream, XpsSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | Konvertierungsquelle. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -326,14 +326,14 @@ public static void ConvertEPUB(string sourcePath, XpsSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | Pfad der EPUB-Quelldatei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -351,15 +351,15 @@ public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | Die Quell-URL. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -378,15 +378,15 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSa
 | stream | Stream | Konvertierungsquelle. |
 | configuration | Configuration | Die Umgebungskonfiguration. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -405,15 +405,15 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | sourcePath | String | Pfad der EPUB-Quelldatei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
 | configuration | Configuration | Die Umgebungskonfiguration. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -432,16 +432,16 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSa
 | sourceUrl | Url | Die Quell-URL. |
 | configuration | Configuration | Die Umgebungskonfiguration. |
 | options | XpsSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -462,9 +462,9 @@ public static void ConvertEPUB(Stream stream, DocSaveOptions options, string out
 
 ### Siehe auch
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -485,9 +485,9 @@ public static void ConvertEPUB(string sourcePath, DocSaveOptions options, string
 
 ### Siehe auch
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -508,10 +508,10 @@ public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options, string out
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -534,10 +534,10 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, DocSa
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -560,10 +560,10 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -586,11 +586,11 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSa
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -608,14 +608,14 @@ public static void ConvertEPUB(Stream stream, DocSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | Konvertierungsquelle. |
 | options | DocSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -633,14 +633,14 @@ public static void ConvertEPUB(string sourcePath, DocSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | Pfad der EPUB-Quelldatei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
 | options | DocSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -658,15 +658,15 @@ public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | Die Quell-URL. |
 | options | DocSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -685,15 +685,15 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, DocSa
 | stream | Stream | Konvertierungsquelle. |
 | configuration | Configuration | Die Umgebungskonfiguration. |
 | options | DocSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -712,15 +712,15 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | sourcePath | String | Pfad der EPUB-Quelldatei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
 | configuration | Configuration | Die Umgebungskonfiguration. |
 | options | DocSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -739,16 +739,16 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSa
 | sourceUrl | Url | Die Quell-URL. |
 | configuration | Configuration | Die Umgebungskonfiguration. |
 | options | DocSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -769,9 +769,9 @@ public static void ConvertEPUB(Stream stream, PdfSaveOptions options, string out
 
 ### Siehe auch
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -792,9 +792,9 @@ public static void ConvertEPUB(string sourcePath, PdfSaveOptions options, string
 
 ### Siehe auch
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -815,10 +815,10 @@ public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options, string out
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -841,10 +841,10 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSa
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -867,10 +867,10 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -893,11 +893,11 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSa
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -915,14 +915,14 @@ public static void ConvertEPUB(Stream stream, PdfSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | Konvertierungsquelle. |
 | options | PdfSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -940,14 +940,14 @@ public static void ConvertEPUB(string sourcePath, PdfSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | Pfad der EPUB-Quelldatei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
 | options | PdfSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -965,15 +965,15 @@ public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | Die Quell-URL. |
 | options | PdfSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -992,15 +992,15 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSa
 | stream | Stream | Konvertierungsquelle. |
 | configuration | Configuration | Die Umgebungskonfiguration. |
 | options | PdfSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -1019,15 +1019,15 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | sourcePath | String | Pfad der EPUB-Quelldatei. Er wird mit dem aktuellen Verzeichnispfad zu einer absoluten URL kombiniert. |
 | configuration | Configuration | Die Umgebungskonfiguration. |
 | options | PdfSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -1046,16 +1046,16 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSa
 | sourceUrl | Url | Die Quell-URL. |
 | configuration | Configuration | Die Umgebungskonfiguration. |
 | options | PdfSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -1076,9 +1076,9 @@ public static void ConvertEPUB(Stream stream, ImageSaveOptions options, string o
 
 ### Siehe auch
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -1099,9 +1099,9 @@ public static void ConvertEPUB(string sourcePath, ImageSaveOptions options, stri
 
 ### Siehe auch
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -1122,10 +1122,10 @@ public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options, string o
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -1148,10 +1148,10 @@ public static void ConvertEPUB(Stream stream, Configuration configuration,
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -1174,10 +1174,10 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 
 ### Siehe auch
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -1200,11 +1200,11 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration,
 
 ### Siehe auch
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
 ---
@@ -1222,14 +1222,14 @@ public static void ConvertEPUB(Stream stream, ImageSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | Konvertierungsquelle. |
 | options | ImageSaveOptions | Konvertierungsoptionen. |
-| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
+| provider | ICreateStreamProvider | Umsetzung der[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle, die verwendet wird, um einen Ausgabestrom zu erhalten. |
 
 ### Siehe auch
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* namensraum [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namensraum [Aspose.Html.Converters](../../converter/)
 * Montage [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+
