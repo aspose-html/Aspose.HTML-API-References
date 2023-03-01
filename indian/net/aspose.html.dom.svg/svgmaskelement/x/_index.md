@@ -1,0 +1,28 @@
+---
+title: SVGMaskElement.X
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: SVGMaskElement संपत्त. दए गए मस्क तत्व पर वशेषत x के अनुरूप है SVGUnitTypes. में परभषत स्थरंकं में से एक लेत है
+type: docs
+weight: 80
+url: /hi/net/aspose.html.dom.svg/svgmaskelement/x/
+---
+## SVGMaskElement.X property
+
+दिए गए 'मास्क' तत्व पर विशेषता 'x' के अनुरूप है। SVGUnitTypes. में परिभाषित स्थिरांकों में से एक लेता है
+
+```csharp
+public SVGAnimatedLength X { get; }
+```
+
+### संपत्ति मूल्य
+
+दिए गए 'मास्क' तत्व की विशेषता 'x'।
+
+### यह सभी देखें
+
+* class [SVGAnimatedLength](../../../aspose.html.dom.svg.datatypes/svganimatedlength/)
+* class [SVGMaskElement](../)
+* नाम स्थान [Aspose.Html.Dom.Svg](../../svgmaskelement/)
+* सभा [Aspose.HTML](../../../)
+
+

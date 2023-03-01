@@ -1,0 +1,24 @@
+---
+title: Document.OnInput
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: Document आयजन. ऑनइनपुट ईवेंट के लए ईवेंट हैंडलर प्रप्त करत है य सेट करत है
+type: docs
+weight: 420
+url: /hi/net/aspose.html.dom/document/oninput/
+---
+## Document.OnInput event
+
+ऑनइनपुट ईवेंट के लिए ईवेंट हैंडलर प्राप्त करता है या सेट करता है।
+
+```csharp
+public event DOMEventHandler OnInput;
+```
+
+### यह सभी देखें
+
+* delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler/)
+* class [Document](../)
+* नाम स्थान [Aspose.Html.Dom](../../document/)
+* सभा [Aspose.HTML](../../../)
+
+

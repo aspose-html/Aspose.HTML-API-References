@@ -1,0 +1,23 @@
+---
+title: SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_UNKNOWN
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: SVGFETurbulenceElement मैदन. प्रकर पूर्वनर्धरत प्रकरं में से एक नहं है इस प्रकर के नए मन क परभषत करने क प्रयस करन य कस मजूद मन क इस प्रकर में बदलने क प्रयस करन अमन्य है
+type: docs
+weight: 170
+url: /hi/net/aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_turbulence_type_unknown/
+---
+## SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_UNKNOWN field
+
+प्रकार पूर्वनिर्धारित प्रकारों में से एक नहीं है। इस प्रकार के नए मान को परिभाषित करने का प्रयास करना या किसी मौजूदा मान को इस प्रकार में बदलने का प्रयास करना अमान्य है।
+
+```csharp
+public const ushort SVG_TURBULENCE_TYPE_UNKNOWN;
+```
+
+### यह सभी देखें
+
+* class [SVGFETurbulenceElement](../)
+* नाम स्थान [Aspose.Html.Dom.Svg.Filters](../../svgfeturbulenceelement/)
+* सभा [Aspose.HTML](../../../)
+
+
