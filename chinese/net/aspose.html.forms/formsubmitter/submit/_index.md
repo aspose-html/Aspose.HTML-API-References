@@ -1,7 +1,7 @@
 ---
-title: Submit
+title: FormSubmitter.Submit
 second_title: Aspose.HTML for .NET API 参考
-description: 向服务器提交表单数据
+description: FormSubmitter 方法. 向服务器提交表单数据
 type: docs
 weight: 50
 url: /zh/net/aspose.html.forms/formsubmitter/submit/
@@ -20,16 +20,16 @@ public SubmissionResult Submit()
 
 ### 也可以看看
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* 命名空间 [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* 命名空间 [Aspose.Html.Forms](../../formsubmitter/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
 
 ## Submit(CookieContainer) {#submit_1}
 
-使用指定的 cookie 将表单数据提交给服务器。
+使用指定的 cookie 将表单数据提交到服务器。
 
 ```csharp
 public SubmissionResult Submit(CookieContainer cookieContainer)
@@ -37,7 +37,7 @@ public SubmissionResult Submit(CookieContainer cookieContainer)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| cookieContainer | CookieContainer | cookie 容器。 |
+| cookieContainer | CookieContainer | 饼干容器。 |
 
 ### 返回值
 
@@ -45,9 +45,9 @@ public SubmissionResult Submit(CookieContainer cookieContainer)
 
 ### 也可以看看
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* 命名空间 [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* 命名空间 [Aspose.Html.Forms](../../formsubmitter/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
@@ -70,9 +70,9 @@ public SubmissionResult Submit(ICredentials credentials)
 
 ### 也可以看看
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* 命名空间 [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* 命名空间 [Aspose.Html.Forms](../../formsubmitter/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
@@ -88,7 +88,7 @@ public SubmissionResult Submit(ICredentials credentials, CookieContainer cookieC
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | credentials | ICredentials | 请求的身份验证信息。 |
-| cookieContainer | CookieContainer | cookie 容器。 |
+| cookieContainer | CookieContainer | 饼干容器。 |
 
 ### 返回值
 
@@ -96,9 +96,9 @@ public SubmissionResult Submit(ICredentials credentials, CookieContainer cookieC
 
 ### 也可以看看
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* 命名空间 [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* 命名空间 [Aspose.Html.Forms](../../formsubmitter/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
@@ -121,16 +121,16 @@ public SubmissionResult Submit(TimeSpan timeout)
 
 ### 也可以看看
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* 命名空间 [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* 命名空间 [Aspose.Html.Forms](../../formsubmitter/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
 
 ## Submit(TimeSpan, CookieContainer) {#submit_9}
 
-使用指定的超时时间和cookies将表单数据提交给服务器。
+将表单数据提交到具有指定超时和 cookie 的服务器。
 
 ```csharp
 public SubmissionResult Submit(TimeSpan timeout, CookieContainer cookieContainer)
@@ -139,7 +139,7 @@ public SubmissionResult Submit(TimeSpan timeout, CookieContainer cookieContainer
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | timeout | TimeSpan | 请求超时前等待的毫秒数。 |
-| cookieContainer | CookieContainer | cookie 容器。 |
+| cookieContainer | CookieContainer | 饼干容器。 |
 
 ### 返回值
 
@@ -147,9 +147,9 @@ public SubmissionResult Submit(TimeSpan timeout, CookieContainer cookieContainer
 
 ### 也可以看看
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* 命名空间 [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* 命名空间 [Aspose.Html.Forms](../../formsubmitter/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
@@ -173,9 +173,9 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout)
 
 ### 也可以看看
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* 命名空间 [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* 命名空间 [Aspose.Html.Forms](../../formsubmitter/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
@@ -193,7 +193,7 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout,
 | --- | --- | --- |
 | credentials | ICredentials | 请求的身份验证信息。 |
 | timeout | TimeSpan | 请求超时前等待的毫秒数。 |
-| cookieContainer | CookieContainer | cookie 容器。 |
+| cookieContainer | CookieContainer | 饼干容器。 |
 
 ### 返回值
 
@@ -201,9 +201,9 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout,
 
 ### 也可以看看
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* 命名空间 [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* 命名空间 [Aspose.Html.Forms](../../formsubmitter/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
@@ -220,7 +220,7 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout, bool 
 | --- | --- | --- |
 | credentials | ICredentials | 请求的身份验证信息。 |
 | timeout | TimeSpan | 请求超时前等待的毫秒数。 |
-| preAuthenticate | Boolean | 指示是否随请求发送授权标头的值。 |
+| preAuthenticate | Boolean | 指示是否随请求发送 Authorization 标头的值。 |
 
 ### 返回值
 
@@ -228,9 +228,9 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout, bool 
 
 ### 也可以看看
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* 命名空间 [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* 命名空间 [Aspose.Html.Forms](../../formsubmitter/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
@@ -248,8 +248,8 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout, bool 
 | --- | --- | --- |
 | credentials | ICredentials | 请求的身份验证信息。 |
 | timeout | TimeSpan | 请求超时前等待的毫秒数。 |
-| preAuthenticate | Boolean | 指示是否随请求发送授权标头的值。 |
-| cookieContainer | CookieContainer | cookie 容器。 |
+| preAuthenticate | Boolean | 指示是否随请求发送 Authorization 标头的值。 |
+| cookieContainer | CookieContainer | 饼干容器。 |
 
 ### 返回值
 
@@ -257,9 +257,9 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout, bool 
 
 ### 也可以看看
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* 命名空间 [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* 命名空间 [Aspose.Html.Forms](../../formsubmitter/)
 * 部件 [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+
