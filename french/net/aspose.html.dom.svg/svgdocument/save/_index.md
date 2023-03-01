@@ -1,7 +1,7 @@
 ---
-title: Save
+title: SVGDocument.Save
 second_title: Référence de l'API Aspose.HTML pour .NET
-description: Enregistre le document dans le fichier local spécifié parURL Toutes les ressources utilisées dans ce document seront enregistrées dans dans le dossier adjacent dont le nom sera construit comme  output_file_name  _files.
+description: SVGDocument méthode. Enregistre le document dans le fichier local spécifié parURL Toutes les ressources utilisées dans ce document seront enregistrées dans dans le dossier adjacent dont le nom sera construit comme  output_file_name  _files.
 type: docs
 weight: 90
 url: /fr/net/aspose.html.dom.svg/svgdocument/save/
@@ -26,9 +26,9 @@ public void Save(Url url)
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [SVGDocument](../../svgdocument)
-* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument)
+* class [Url](../../../aspose.html/url/)
+* class [SVGDocument](../)
+* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -53,8 +53,8 @@ public void Save(string path)
 
 ### Voir également
 
-* class [SVGDocument](../../svgdocument)
-* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument)
+* class [SVGDocument](../)
+* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -69,13 +69,13 @@ public void Save(IOutputStorage outputStorage)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 
 ### Voir également
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [SVGDocument](../../svgdocument)
-* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [SVGDocument](../)
+* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -101,9 +101,9 @@ public void Save(string path, SVGSaveFormat saveFormat)
 
 ### Voir également
 
-* enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument)
+* enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -118,15 +118,15 @@ public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveFormat | SVGSaveFormat | Format dans lequel le document est enregistré. |
 
 ### Voir également
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -152,9 +152,9 @@ public void Save(string path, SVGSaveOptions saveOptions)
 
 ### Voir également
 
-* class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument)
+* class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -169,15 +169,15 @@ public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveOptions | SVGSaveOptions | Options d'enregistrement SVG. |
 
 ### Voir également
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -203,10 +203,10 @@ public void Save(Url url, SVGSaveFormat saveFormat)
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat)
-* class [SVGDocument](../../svgdocument)
-* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument)
+* class [Url](../../../aspose.html/url/)
+* enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat/)
+* class [SVGDocument](../)
+* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -232,10 +232,10 @@ public void Save(Url url, SVGSaveOptions saveOptions)
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions)
-* class [SVGDocument](../../svgdocument)
-* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument)
+* class [Url](../../../aspose.html/url/)
+* class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions/)
+* class [SVGDocument](../)
+* espace de noms [Aspose.Html.Dom.Svg](../../svgdocument/)
 * Assemblée [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

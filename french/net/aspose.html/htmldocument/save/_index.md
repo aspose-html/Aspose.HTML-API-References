@@ -1,7 +1,7 @@
 ---
-title: Save
+title: HTMLDocument.Save
 second_title: Référence de l'API Aspose.HTML pour .NET
-description: Enregistre le document dans le fichier local spécifié parURL Toutes les ressources utilisées dans ce document seront enregistrées dans dans le dossier adjacent dont le nom sera construit comme  output_file_name  _files.
+description: HTMLDocument méthode. Enregistre le document dans le fichier local spécifié parURL Toutes les ressources utilisées dans ce document seront enregistrées dans dans le dossier adjacent dont le nom sera construit comme  output_file_name  _files.
 type: docs
 weight: 130
 url: /fr/net/aspose.html/htmldocument/save/
@@ -26,9 +26,9 @@ public void Save(Url url)
 
 ### Voir également
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -43,13 +43,13 @@ public void Save(IOutputStorage outputStorage)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 
 ### Voir également
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -74,8 +74,8 @@ public void Save(string path)
 
 ### Voir également
 
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -101,9 +101,9 @@ public void Save(string path, HTMLSaveFormat saveFormat)
 
 ### Voir également
 
-* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -129,10 +129,10 @@ public void Save(Url url, HTMLSaveFormat saveFormat)
 
 ### Voir également
 
-* class [Url](../../url)
-* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -147,15 +147,15 @@ public void Save(IOutputStorage outputStorage, HTMLSaveFormat saveFormat)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveFormat | HTMLSaveFormat | Format dans lequel le document est enregistré. |
 
 ### Voir également
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -181,9 +181,9 @@ public void Save(string path, HTMLSaveOptions saveOptions)
 
 ### Voir également
 
-* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -209,10 +209,10 @@ public void Save(Url url, HTMLSaveOptions saveOptions)
 
 ### Voir également
 
-* class [Url](../../url)
-* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -227,15 +227,15 @@ public void Save(IOutputStorage outputStorage, HTMLSaveOptions saveOptions)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveOptions | HTMLSaveOptions | Options d'enregistrement HTML. |
 
 ### Voir également
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -261,9 +261,9 @@ public void Save(string path, MarkdownSaveOptions saveOptions)
 
 ### Voir également
 
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -289,10 +289,10 @@ public void Save(Url url, MarkdownSaveOptions saveOptions)
 
 ### Voir également
 
-* class [Url](../../url)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -307,15 +307,15 @@ public void Save(IOutputStorage outputStorage, MarkdownSaveOptions saveOptions)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveOptions | MarkdownSaveOptions | Options de sauvegarde Markdown. |
 
 ### Voir également
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -341,9 +341,9 @@ public void Save(string path, MHTMLSaveOptions saveOptions)
 
 ### Voir également
 
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -369,10 +369,10 @@ public void Save(Url url, MHTMLSaveOptions saveOptions)
 
 ### Voir également
 
-* class [Url](../../url)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -387,15 +387,15 @@ public void Save(IOutputStorage outputStorage, MHTMLSaveOptions saveOptions)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | Le stockage de sortie[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveOptions | MHTMLSaveOptions | Options d'enregistrement MHTML. |
 
 ### Voir également
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

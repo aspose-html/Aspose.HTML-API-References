@@ -1,14 +1,14 @@
 ---
-title: OutputStream
+title: Class OutputStream
 second_title: Référence de l'API Aspose.HTML pour .NET
-description: Un flux de substitution enveloppe le flux de sortie réel et en contrôle laccès. OutputStream./outputstream contient des données URI décrivant lemplacement du flux de sortie.
+description: Aspose.Html.IO.OutputStream classe. Un flux de substitution enveloppe le flux de sortie réel et en contrôle laccès. OutputStream contient des données URI décrivant lemplacement du flux de sortie.
 type: docs
-weight: 3740
+weight: 3750
 url: /fr/net/aspose.html.io/outputstream/
 ---
 ## OutputStream class
 
-Un flux de substitution enveloppe le flux de sortie réel et en contrôle l'accès. [`OutputStream`](../outputstream) contient des données URI décrivant l'emplacement du flux de sortie.
+Un flux de substitution enveloppe le flux de sortie réel et en contrôle l'accès. `OutputStream` contient des données URI décrivant l'emplacement du flux de sortie.
 
 ```csharp
 public class OutputStream : Stream
@@ -18,33 +18,33 @@ public class OutputStream : Stream
 
 | Nom | La description |
 | --- | --- |
-| [OutputStream](outputstream)(Stream, string) | Initialise une nouvelle instance du[`OutputStream`](../outputstream) classe. |
+| [OutputStream](outputstream/)(Stream, string) | Initialise une nouvelle instance du`OutputStream` classe. |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| override [CanRead](../../aspose.html.io/outputstream/canread) { get; } | Obtient une valeur indiquant si le flux de sortie encapsulé prend en charge la lecture. |
-| override [CanSeek](../../aspose.html.io/outputstream/canseek) { get; } | Obtient une valeur indiquant si le flux de sortie encapsulé prend en charge la recherche. |
-| override [CanWrite](../../aspose.html.io/outputstream/canwrite) { get; } | Obtient une valeur indiquant si le flux de sortie encapsulé prend en charge l'écriture. |
-| override [Length](../../aspose.html.io/outputstream/length) { get; } | Obtient la longueur en octets du flux de sortie enveloppé. |
-| override [Position](../../aspose.html.io/outputstream/position) { get; set; } | Obtient ou définit la position dans le flux de sortie encapsulé. |
-| [Uri](../../aspose.html.io/outputstream/uri) { get; } | Obtient l'URI de l'emplacement du flux. |
+| override [CanRead](../../aspose.html.io/outputstream/canread/) { get; } | Obtient une valeur indiquant si le flux de sortie encapsulé prend en charge la lecture. |
+| override [CanSeek](../../aspose.html.io/outputstream/canseek/) { get; } | Obtient une valeur indiquant si le flux de sortie encapsulé prend en charge la recherche. |
+| override [CanWrite](../../aspose.html.io/outputstream/canwrite/) { get; } | Obtient une valeur indiquant si le flux de sortie encapsulé prend en charge l'écriture. |
+| override [Length](../../aspose.html.io/outputstream/length/) { get; } | Obtient la longueur en octets du flux de sortie enveloppé. |
+| override [Position](../../aspose.html.io/outputstream/position/) { get; set; } | Obtient ou définit la position dans le flux de sortie encapsulé. |
+| [Uri](../../aspose.html.io/outputstream/uri/) { get; } | Obtient l'URI de l'emplacement du flux. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [Close](../../aspose.html.io/outputstream/close)() | Ferme le flux de sortie encapsulé et le flux actuel. |
-| override [Flush](../../aspose.html.io/outputstream/flush)() | Efface tous les tampons pour le flux de sortie enveloppé et provoque l'écriture de toutes les données mises en tampon sur le périphérique sous-jacent. |
-| override [Read](../../aspose.html.io/outputstream/read)(byte[], int, int) | Lit une séquence d'octets à partir du flux de sortie encapsulé et avance la position dans le flux du nombre d'octets lus. |
-| override [Seek](../../aspose.html.io/outputstream/seek)(long, SeekOrigin) | Définit la position dans le flux de sortie encapsulé. |
-| override [SetLength](../../aspose.html.io/outputstream/setlength)(long) | Définit la longueur du flux de sortie encapsulé. |
-| override [Write](../../aspose.html.io/outputstream/write)(byte[], int, int) | Écrit une séquence d'octets dans le flux de sortie encapsulé et avance la position actuelle dans ce flux du nombre de octets écrits. |
+| override [Close](../../aspose.html.io/outputstream/close/)() | Ferme le flux de sortie encapsulé et le flux actuel. |
+| override [Flush](../../aspose.html.io/outputstream/flush/)() | Efface tous les tampons pour le flux de sortie enveloppé et provoque l'écriture de toutes les données mises en tampon sur le périphérique sous-jacent. |
+| override [Read](../../aspose.html.io/outputstream/read/)(byte[], int, int) | Lit une séquence d'octets à partir du flux de sortie encapsulé et avance la position dans le flux du nombre d'octets lus. |
+| override [Seek](../../aspose.html.io/outputstream/seek/)(long, SeekOrigin) | Définit la position dans le flux de sortie encapsulé. |
+| override [SetLength](../../aspose.html.io/outputstream/setlength/)(long) | Définit la longueur du flux de sortie encapsulé. |
+| override [Write](../../aspose.html.io/outputstream/write/)(byte[], int, int) | Écrit une séquence d'octets dans le flux de sortie encapsulé et avance la position actuelle dans ce flux du nombre de octets écrits. |
 
 ### Voir également
 
-* espace de noms [Aspose.Html.IO](../../aspose.html.io)
+* espace de noms [Aspose.Html.IO](../../aspose.html.io/)
 * Assemblée [Aspose.HTML](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

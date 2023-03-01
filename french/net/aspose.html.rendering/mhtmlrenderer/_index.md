@@ -1,9 +1,9 @@
 ---
-title: MhtmlRenderer
+title: Class MhtmlRenderer
 second_title: Référence de l'API Aspose.HTML pour .NET
-description: Représente un rendu de document MHTML.
+description: Aspose.Html.Rendering.MhtmlRenderer classe. Représente un rendu de document MHTML.
 type: docs
-weight: 4360
+weight: 4370
 url: /fr/net/aspose.html.rendering/mhtmlrenderer/
 ---
 ## MhtmlRenderer class
@@ -18,28 +18,28 @@ public class MhtmlRenderer : Renderer<Stream>
 
 | Nom | La description |
 | --- | --- |
-| [MhtmlRenderer](mhtmlrenderer)() | Default_Constructor |
+| [MhtmlRenderer](mhtmlrenderer/)() | Default_Constructor |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Dispose](../../aspose.html.rendering/renderer/dispose)() | Libère les ressources non gérées et - éventuellement - gérées. |
-| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, Stream) |  |
-| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, params Stream[]) |  |
-| [Render](../../aspose.html.rendering/mhtmlrenderer/render#render_1)(IDevice, IList&lt;Stream&gt;, Configuration) | Rend plusieurs documents MHTML dans spécifié[`IDevice`](../idevice) . |
-| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, int, params Stream[]) |  |
-| [Render](../../aspose.html.rendering/mhtmlrenderer/render#render_4)(IDevice, Stream, Configuration) | Rend le document MHTML dans spécifié[`IDevice`](../idevice) . |
-| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, Stream, int) |  |
-| [Render](../../aspose.html.rendering/renderer`1/render)(IDevice, Stream, TimeSpan) |  |
-| override [Render](../../aspose.html.rendering/mhtmlrenderer/render#render_9)(IDevice, TimeSpan, params Stream[]) | Rend plusieurs documents MHTML dans spécifié[`IDevice`](../idevice) . Le rendu sera effectué une fois qu'il n'y aura plus d'opérations réseau pour charger des ressources, des minuteries actives, des tâches d'animation ou un délai d'attente spécifié écoulé. |
-| [Render](../../aspose.html.rendering/mhtmlrenderer/render#render_2)(IDevice, IList&lt;Stream&gt;, Configuration, TimeSpan) | Rend plusieurs documents MHTML dans spécifié[`IDevice`](../idevice) . Le rendu sera effectué une fois qu'il n'y aura plus d'opérations réseau pour charger des ressources, des minuteries actives, des tâches d'animation ou un délai d'attente spécifié écoulé. |
-| [Render](../../aspose.html.rendering/mhtmlrenderer/render#render_5)(IDevice, Stream, Configuration, TimeSpan) | Rend le document MHTML dans spécifié[`IDevice`](../idevice) . Le rendu sera effectué une fois qu'il n'y aura plus d'opérations réseau pour charger des ressources, des minuteries actives, des tâches d'animation ou un délai d'attente spécifié écoulé. |
+| [Dispose](../../aspose.html.rendering/renderer/dispose/)() | Libère les ressources non gérées et - éventuellement - gérées. |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, Stream) |  |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, params Stream[]) |  |
+| [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_1)(IDevice, IList&lt;Stream&gt;, Configuration) | Rend plusieurs documents MHTML dans spécifié[`IDevice`](../idevice/) . |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, int, params Stream[]) |  |
+| [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_4)(IDevice, Stream, Configuration) | Rend le document MHTML dans spécifié[`IDevice`](../idevice/) . |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, Stream, int) |  |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, Stream, TimeSpan) |  |
+| override [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_9)(IDevice, TimeSpan, params Stream[]) | Rend plusieurs documents MHTML dans spécifié[`IDevice`](../idevice/) . Le rendu sera effectué une fois qu'il n'y aura plus d'opérations réseau pour charger des ressources, des minuteries actives, des tâches d'animation ou un délai d'attente spécifié écoulé. |
+| [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_2)(IDevice, IList&lt;Stream&gt;, Configuration, TimeSpan) | Rend plusieurs documents MHTML dans spécifié[`IDevice`](../idevice/) . Le rendu sera effectué une fois qu'il n'y aura plus d'opérations réseau pour charger des ressources, des minuteries actives, des tâches d'animation ou un délai d'attente spécifié écoulé. |
+| [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_5)(IDevice, Stream, Configuration, TimeSpan) | Rend le document MHTML dans spécifié[`IDevice`](../idevice/) . Le rendu sera effectué une fois qu'il n'y aura plus d'opérations réseau pour charger des ressources, des minuteries actives, des tâches d'animation ou un délai d'attente spécifié écoulé. |
 
 ### Voir également
 
-* class [Renderer&lt;TDocument&gt;](../renderer-1)
-* espace de noms [Aspose.Html.Rendering](../../aspose.html.rendering)
+* class [Renderer&lt;TDocument&gt;](../renderer-1/)
+* espace de noms [Aspose.Html.Rendering](../../aspose.html.rendering/)
 * Assemblée [Aspose.HTML](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

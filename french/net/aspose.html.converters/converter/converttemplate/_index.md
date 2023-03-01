@@ -1,7 +1,7 @@
 ---
-title: ConvertTemplate
+title: Converter.ConvertTemplate
 second_title: Référence de l'API Aspose.HTML pour .NET
-description: Fusionner le modèle html avec les données utilisateur. Le résultat est un fichier html.
+description: Converter méthode. Fusionner le modèle html avec les données utilisateur. Le résultat est un fichier html.
 type: docs
 weight: 60
 url: /fr/net/aspose.html.converters/converter/converttemplate/
@@ -24,11 +24,11 @@ public static void ConvertTemplate(HTMLDocument template, TemplateData data,
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -51,11 +51,11 @@ public static void ConvertTemplate(Url url, TemplateData data, TemplateLoadOptio
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -79,12 +79,12 @@ public static void ConvertTemplate(Url url, Configuration configuration, Templat
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -107,10 +107,10 @@ public static void ConvertTemplate(string sourcePath, TemplateData data,
 
 ### Voir également
 
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -134,11 +134,11 @@ public static void ConvertTemplate(string sourcePath, Configuration configuratio
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -162,10 +162,10 @@ public static void ConvertTemplate(string content, string baseUrl, TemplateData 
 
 ### Voir également
 
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -190,18 +190,18 @@ public static void ConvertTemplate(string content, string baseUrl, Configuration
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(HTMLDocument, TemplateData, TemplateLoadOptions) {#converttemplate}
 
-Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument) .
+Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(HTMLDocument template, TemplateData data, 
@@ -220,18 +220,18 @@ Résultat de la conversion HTMLDocument.
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(Url, TemplateData, TemplateLoadOptions) {#converttemplate_2}
 
-Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument) .
+Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(Url url, TemplateData data, TemplateLoadOptions options)
@@ -249,19 +249,19 @@ Résultat de la conversion HTMLDocument.
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Url](../../../aspose.html/url)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Url](../../../aspose.html/url/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(Url, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_1}
 
-Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument) .
+Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(Url url, Configuration configuration, TemplateData data, 
@@ -281,20 +281,20 @@ Résultat de la conversion HTMLDocument.
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, TemplateData, TemplateLoadOptions) {#converttemplate_4}
 
-Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument) .
+Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string sourcePath, TemplateData data, 
@@ -313,18 +313,18 @@ Résultat de la conversion HTMLDocument.
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_3}
 
-Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument) .
+Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string sourcePath, Configuration configuration, 
@@ -344,19 +344,19 @@ Résultat de la conversion HTMLDocument.
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, string, TemplateData, TemplateLoadOptions) {#converttemplate_6}
 
-Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument) .
+Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string content, string baseUrl, TemplateData data, 
@@ -376,18 +376,18 @@ Résultat de la conversion HTMLDocument.
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, string, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_5}
 
-Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument) .
+Fusionner le modèle html avec les données utilisateur. Le résultat est[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string content, string baseUrl, 
@@ -408,12 +408,12 @@ Résultat de la conversion HTMLDocument.
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+
