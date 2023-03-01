@@ -1,0 +1,23 @@
+---
+title: HTMLLinkElement.Hreflang
+second_title: Aspose.HTML per riferimento API .NET
+description: HTMLLinkElement proprietà. Codice della lingua della risorsa collegata. Vedi la definizione dellattributo hreflang in HTML 4.01.
+type: docs
+weight: 40
+url: /it/net/aspose.html/htmllinkelement/hreflang/
+---
+## HTMLLinkElement.Hreflang property
+
+Codice della lingua della risorsa collegata. Vedi la definizione dell'attributo hreflang in HTML 4.01.
+
+```csharp
+public string Hreflang { get; set; }
+```
+
+### Guarda anche
+
+* class [HTMLLinkElement](../)
+* spazio dei nomi [Aspose.Html](../../htmllinkelement/)
+* assemblea [Aspose.HTML](../../../)
+
+
