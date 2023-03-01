@@ -1,14 +1,14 @@
 ---
-title: Evaluate
+title: IXPathEvaluator.Evaluate
 second_title: Aspose.HTML for .NET API 参考
-description: 计算一个 XPath 表达式字符串如果可能返回指定类型的结果
+description: IXPathEvaluator 方法. 计算 XPath 表达式字符串并在可能的情况下返回指定类型的结果
 type: docs
 weight: 30
 url: /zh/net/aspose.html.dom.xpath/ixpathevaluator/evaluate/
 ---
 ## IXPathEvaluator.Evaluate method
 
-计算一个 XPath 表达式字符串，如果可能，返回指定类型的结果。
+计算 XPath 表达式字符串并在可能的情况下返回指定类型的结果。
 
 ```csharp
 public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolver resolver, 
@@ -17,34 +17,34 @@ public IXPathResult Evaluate(string expression, Node contextNode, IXPathNSResolv
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| expression | String | 要解析和评估的 XPath 表达式字符串。 |
-| contextNode | Node | ` context` 是评估 this:::47::的上下文节点:XPath 表达式。如果[`IXPathEvaluator`](../../ixpathevaluator)是通过转换 [`Document`](../../../aspose.html.dom/document)获得的那么这必须由同一个文档拥有并且必须是 [`Document`](../../../aspose.html.dom/document),[`Element`](../../../aspose.html.dom/element),[`Attr`](../../../aspose.html.dom/attr),[`Text`](../../../aspose.html.dom/text), [`CDATASection`](../../../aspose.html.dom/cdatasection),[`Comment`](../../../aspose.html.dom/comment),[`ProcessingInstruction`](../../../aspose.html.dom/processinginstruction), 或XPathNamespace节点。如果上下文节点是[`Text`](../../../aspose.html.dom/text)或 [`CDATASection`](../../../aspose.html.dom/cdatasection)，然后上下文被解释为整个逻辑文本节点 ，如 XPath 所见，除非该节点为空，在这种情况下它可能不能用作 XPath 上下文。 |
-| resolver | IXPathNSResolver | ` 解析器` 允许翻译所有前缀，包括 ` xml` 命名空间前缀，在 XPath 表达式中放入适当的命名空间 URI。 如果指定为` null` ，则表达式中的任何命名空间前缀都将导致 in[`DOMException`](../../../aspose.html.dom/domexception)与代码` NAMESPACE_ERR` 一起抛出。 |
-| type | XPathResultType | 如果指定了特定的` 类型` ，则结果将返回为 对应的类型。对于 XPath 1.0 结果，这必须是 [`XPathResultType`](../../xpathresulttype)枚举的值之一。 |
-| result | Object | ` 结果` 指定一个可以重用的特定结果对象 并由此方法返回。如果这被指定为` null` 或实现不 重用指定的结果，将构造并返回一个新的结果对象。对于 XPath 1.0 结果，该对象的类型为[`IXPathResult`](../../ixpathresult)。 |
+| expression | String | 要分析和评估的 XPath 表达式字符串。 |
+| contextNode | Node | 这`语境`是用于计算此 XPath 表达式的上下文节点。如果[`IXPathEvaluator`](../)是通过铸造 获得的[`Document`](../../../aspose.html.dom/document/)那么这必须属于同一个文档并且必须是 [`Document`](../../../aspose.html.dom/document/),[`Element`](../../../aspose.html.dom/element/),[`Attr`](../../../aspose.html.dom/attr/),[`Text`](../../../aspose.html.dom/text/) , [`CDATASection`](../../../aspose.html.dom/cdatasection/),[`Comment`](../../../aspose.html.dom/comment/),[`ProcessingInstruction`](../../../aspose.html.dom/processinginstruction/) , 或XPathNamespace节点。如果上下文节点是[`Text`](../../../aspose.html.dom/text/)或 [`CDATASection`](../../../aspose.html.dom/cdatasection/)然后上下文被解释为 XPath 所见的整个逻辑文本节点 ，除非该节点为空，在这种情况下它可能不会用作 XPath 上下文。 |
+| resolver | IXPathNSResolver | 这`解析器`允许翻译所有前缀，包括 `XML`命名空间前缀，在 XPath 表达式中转换为适当的命名空间 URI。 如果指定为`无效的` 表达式中的任何命名空间前缀都将导致 [`DOMException`](../../../aspose.html.dom/domexception/)被代码抛出`命名空间_错误`. |
+| type | XPathResultType | 如果一个特定的`类型`被指定，则返回结果为 对应的类型。对于 XPath 1.0 结果，这必须是 的值之一[`XPathResultType`](../../xpathresulttype/)枚举。 |
+| result | Object | 这`结果`指定可重复使用 并由此方法返回的特定结果对象。如果指定为`无效的`或者实现不 重用指定的结果，将构造并返回一个新的结果对象。对于 XPath 1.0 结果，此对象将是类型[`IXPathResult`](../../ixpathresult/). |
 
 ### 返回值
 
-XPath 表达式的计算结果。对于 XPath 1.0 结果，此对象 将是[`IXPathResult`](../../ixpathresult)类型。
+XPath 表达式的计算结果。对于 XPath 1.0 结果，此对象 的类型[`IXPathResult`](../../ixpathresult/).
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../../aspose.html.dom/domexception) | INVALID_EXPRESSION_ERR:如果表达式不合法，则根据 规则引发:[`IXPathEvaluator`](../../ixpathevaluator)。 |
-| [DOMException](../../../aspose.html.dom/domexception) | TYPE_ERR:如果结果无法转换为返回 指定类型，则引发。 |
-| [DOMException](../../../aspose.html.dom/domexception) | NAMESPACE_ERR:如果表达式包含命名空间前缀 则引发，该前缀无法由指定的[`IXPathNSResolver`](../../ixpathnsresolver)。 |
-| [DOMException](../../../aspose.html.dom/domexception) | WRONG_DOCUMENT_ERR:节点来自不支持 的文档[`IXPathEvaluator`](../../ixpathevaluator)。 |
-| [DOMException](../../../aspose.html.dom/domexception) | NOT_SUPPORTED_ERR:节点不是允许作为 XPath 上下文 节点或请求的类型此[`IXPathEvaluator`](../../ixpathevaluator)不允许使用类型。 |
+| [DOMException](../../../aspose.html.dom/domexception/) | INVALID_EXPRESSION_ERR：如果表达式根据 的规则不合法则引发[`IXPathEvaluator`](../). |
+| [DOMException](../../../aspose.html.dom/domexception/) | TYPE_ERR：如果结果无法转换为返回 指定类型，则引发。 |
+| [DOMException](../../../aspose.html.dom/domexception/) | NAMESPACE_ERR：如果表达式包含命名空间前缀 无法由指定的解析[`IXPathNSResolver`](../../ixpathnsresolver/). |
+| [DOMException](../../../aspose.html.dom/domexception/) | WRONG_DOCUMENT_ERR：该节点来自一个不受此支持的文档 [`IXPathEvaluator`](../). |
+| [DOMException](../../../aspose.html.dom/domexception/) | NOT_SUPPORTED_ERR：该节点不是允许作为 XPath 上下文 节点的类型，或者该节点不允许请求类型[`IXPathEvaluator`](../). |
 
 ### 也可以看看
 
-* interface [IXPathResult](../../ixpathresult)
-* class [Node](../../../aspose.html.dom/node)
-* interface [IXPathNSResolver](../../ixpathnsresolver)
-* enum [XPathResultType](../../xpathresulttype)
-* interface [IXPathEvaluator](../../ixpathevaluator)
-* 命名空间 [Aspose.Html.Dom.XPath](../../ixpathevaluator)
+* interface [IXPathResult](../../ixpathresult/)
+* class [Node](../../../aspose.html.dom/node/)
+* interface [IXPathNSResolver](../../ixpathnsresolver/)
+* enum [XPathResultType](../../xpathresulttype/)
+* interface [IXPathEvaluator](../)
+* 命名空间 [Aspose.Html.Dom.XPath](../../ixpathevaluator/)
 * 部件 [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

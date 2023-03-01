@@ -1,14 +1,14 @@
 ---
-title: CreateTreeWalker
+title: Document.CreateTreeWalker
 second_title: Aspose.HTML for .NET API 参考
-description: 在以 指定节点为根的子树上创建一个新的 TreeWalker
+description: Document 方法. 在以 the 指定节点为根的子树上创建一个新的 TreeWalker
 type: docs
 weight: 940
 url: /zh/net/aspose.html.dom/document/createtreewalker/
 ---
 ## CreateTreeWalker(Node) {#createtreewalker}
 
-在以 指定节点为根的子树上创建一个新的 TreeWalker。
+在以 the 指定节点为根的子树上创建一个新的 TreeWalker。
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root)
@@ -16,31 +16,31 @@ public ITreeWalker CreateTreeWalker(Node root)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| root | Node | 节点将作为 TreeWalker 的根。设置此值时不考虑 whatToShow 标志和 NodeFilter； 任何节点类型都将被接受为根。 TreeWalker 的 currentNode 是 初始化到这个节点，不管它是否可见。 根用作遍历在文档结构中向上看的 方法的停止点，例如 parentNode 和 nextNode。根必须 不为空。 |
+| root | Node | 节点将作为 the TreeWalker 的根节点。设置此值时不考虑 whatToShow 标志和 the NodeFilter； 任何节点类型都将被接受为根。 TreeWalker的 currentNode被 初始化为这个节点，不管它是否可见。 root 作为在文档结构中向上查找的 traversal 方法的停止点，例如 parentNode 和 nextNode。根必须 不为空。 |
 
 ### 返回值
 
-新创建的树行者。
+新创建的 TreeWalker.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR:如果指定的根为 null，则引发。 |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR：如果指定的根为 null 则引发。 |
 
 ### 也可以看看
 
-* interface [ITreeWalker](../../../aspose.html.dom.traversal/itreewalker)
-* class [Node](../../node)
-* class [Document](../../document)
-* 命名空间 [Aspose.Html.Dom](../../document)
+* interface [ITreeWalker](../../../aspose.html.dom.traversal/itreewalker/)
+* class [Node](../../node/)
+* class [Document](../)
+* 命名空间 [Aspose.Html.Dom](../../document/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
 
 ## CreateTreeWalker(Node, long) {#createtreewalker_1}
 
-在以 指定节点为根的子树上创建一个新的 TreeWalker。
+在以 the 指定节点为根的子树上创建一个新的 TreeWalker。
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
@@ -48,32 +48,32 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| root | Node | 节点将作为 TreeWalker 的根。设置此值时不考虑 whatToShow 标志和 NodeFilter； 任何节点类型都将被接受为根。 TreeWalker 的 currentNode 是 初始化到这个节点，不管它是否可见。 根用作遍历在文档结构中向上看的 方法的停止点，例如 parentNode 和 nextNode。根必须 不为空。 |
-| whatToShow | Int64 | 标志指定哪些节点类型可能出现在 由 tree-walker 呈现的树的逻辑视图中。有关可能的 SHOW_ 值的集合，请参见 NodeFilter 的 描述。这些标志可以使用 OR 组合。 |
+| root | Node | 节点将作为 the TreeWalker 的根节点。设置此值时不考虑 whatToShow 标志和 the NodeFilter； 任何节点类型都将被接受为根。 TreeWalker的 currentNode被 初始化为这个节点，不管它是否可见。 root 作为在文档结构中向上查找的 traversal 方法的停止点，例如 parentNode 和 nextNode。根必须 不为空。 |
+| whatToShow | Int64 | flag 指定哪些节点类型可能出现在 tree-walker 呈现的树的逻辑视图中。有关可能的 SHOW_值集，请参阅 NodeFilter 的 描述。可以使用 OR 组合这些标志。 |
 
 ### 返回值
 
-新创建的树行者。
+新创建的 TreeWalker.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR:如果指定的根为 null，则引发。 |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR：如果指定的根为 null 则引发。 |
 
 ### 也可以看看
 
-* interface [ITreeWalker](../../../aspose.html.dom.traversal/itreewalker)
-* class [Node](../../node)
-* class [Document](../../document)
-* 命名空间 [Aspose.Html.Dom](../../document)
+* interface [ITreeWalker](../../../aspose.html.dom.traversal/itreewalker/)
+* class [Node](../../node/)
+* class [Document](../)
+* 命名空间 [Aspose.Html.Dom](../../document/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
 
 ## CreateTreeWalker(Node, long, INodeFilter) {#createtreewalker_2}
 
-在以 指定节点为根的子树上创建一个新的 TreeWalker。
+在以 the 指定节点为根的子树上创建一个新的 TreeWalker。
 
 ```csharp
 public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filter)
@@ -81,27 +81,27 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filt
 
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
-| root | Node | 节点将作为 TreeWalker 的根。设置此值时不考虑 whatToShow 标志和 NodeFilter； 任何节点类型都将被接受为根。 TreeWalker 的 currentNode 是 初始化到这个节点，不管它是否可见。 根用作遍历在文档结构中向上看的 方法的停止点，例如 parentNode 和 nextNode。根必须 不为空。 |
-| whatToShow | Int64 | 标志指定哪些节点类型可能出现在 由 tree-walker 呈现的树的逻辑视图中。有关可能的 SHOW_ 值的集合，请参见 NodeFilter 的 描述。这些标志可以使用 OR 组合。 |
-| filter | INodeFilter | NodeFilter 与此 TreeWalker 一起使用，或 null 表示没有过滤器。 |
+| root | Node | 节点将作为 the TreeWalker 的根节点。设置此值时不考虑 whatToShow 标志和 the NodeFilter； 任何节点类型都将被接受为根。 TreeWalker的 currentNode被 初始化为这个节点，不管它是否可见。 root 作为在文档结构中向上查找的 traversal 方法的停止点，例如 parentNode 和 nextNode。根必须 不为空。 |
+| whatToShow | Int64 | flag 指定哪些节点类型可能出现在 tree-walker 呈现的树的逻辑视图中。有关可能的 SHOW_值集，请参阅 NodeFilter 的 描述。可以使用 OR 组合这些标志。 |
+| filter | INodeFilter | 与 this TreeWalker 一起使用的 NodeFilter，或 null 表示没有过滤器。 |
 
 ### 返回值
 
-新创建的树行者。
+新创建的 TreeWalker.
 
 ### 例外
 
 | 例外 | （健康）状况 |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR:如果指定的根为 null，则引发。 |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR：如果指定的根为 null 则引发。 |
 
 ### 也可以看看
 
-* interface [ITreeWalker](../../../aspose.html.dom.traversal/itreewalker)
-* class [Node](../../node)
-* interface [INodeFilter](../../../aspose.html.dom.traversal/inodefilter)
-* class [Document](../../document)
-* 命名空间 [Aspose.Html.Dom](../../document)
+* interface [ITreeWalker](../../../aspose.html.dom.traversal/itreewalker/)
+* class [Node](../../node/)
+* interface [INodeFilter](../../../aspose.html.dom.traversal/inodefilter/)
+* class [Document](../)
+* 命名空间 [Aspose.Html.Dom](../../document/)
 * 部件 [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+
