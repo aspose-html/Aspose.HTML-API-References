@@ -1,14 +1,14 @@
 ---
-title: DocDevice
+title: DocDevice.DocDevice
 second_title: Справочник по Aspose.HTML для .NET API
-description: Инициализирует новый экземпляр классаDocDeviceaspose.html.rendering.doc/docdevice.
+description: DocDevice строитель. Инициализирует новый экземплярDocDevice класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.html.rendering.doc/docdevice/docdevice/
 ---
 ## DocDevice(ICreateStreamProvider) {#constructor}
 
-Инициализирует новый экземпляр класса[`DocDevice`](../../docdevice).
+Инициализирует новый экземпляр[`DocDevice`](../) класс.
 
 ```csharp
 public DocDevice(ICreateStreamProvider streamProvider)
@@ -16,20 +16,20 @@ public DocDevice(ICreateStreamProvider streamProvider)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | Объект, реализующий интерфейс[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) |
+| streamProvider | ICreateStreamProvider | Объект, реализующий[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс |
 
 ### Смотрите также
 
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [DocDevice](../../docdevice)
-* пространство имен [Aspose.Html.Rendering.Doc](../../docdevice)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [DocDevice](../)
+* пространство имен [Aspose.Html.Rendering.Doc](../../docdevice/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## DocDevice(DocRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`DocDevice`](../../docdevice)с помощью параметров рендеринга и поставщика потока.
+Инициализирует новый экземпляр[`DocDevice`](../) класс по параметрам рендеринга и потоковому провайдеру.
 
 ```csharp
 public DocDevice(DocRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,22 +37,22 @@ public DocDevice(DocRenderingOptions options, ICreateStreamProvider streamProvid
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | DocRenderingOptions | Параметры рендеринга. |
-| streamProvider | ICreateStreamProvider | Объект, реализующий интерфейс[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) |
+| options | DocRenderingOptions | Варианты рендеринга. |
+| streamProvider | ICreateStreamProvider | Объект, реализующий[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс |
 
 ### Смотрите также
 
-* class [DocRenderingOptions](../../docrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [DocDevice](../../docdevice)
-* пространство имен [Aspose.Html.Rendering.Doc](../../docdevice)
+* class [DocRenderingOptions](../../docrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [DocDevice](../)
+* пространство имен [Aspose.Html.Rendering.Doc](../../docdevice/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## DocDevice(string) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`DocDevice`](../../docdevice)по имени выходного файла.
+Инициализирует новый экземпляр[`DocDevice`](../) класс по имени выходного файла.
 
 ```csharp
 public DocDevice(string file)
@@ -64,15 +64,15 @@ public DocDevice(string file)
 
 ### Смотрите также
 
-* class [DocDevice](../../docdevice)
-* пространство имен [Aspose.Html.Rendering.Doc](../../docdevice)
+* class [DocDevice](../)
+* пространство имен [Aspose.Html.Rendering.Doc](../../docdevice/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## DocDevice(DocRenderingOptions, string) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`DocDevice`](../../docdevice)с параметрами рендеринга и именем выходного файла.
+Инициализирует новый экземпляр[`DocDevice`](../) класс по параметрам рендеринга и имени выходного файла.
 
 ```csharp
 public DocDevice(DocRenderingOptions options, string file)
@@ -80,21 +80,21 @@ public DocDevice(DocRenderingOptions options, string file)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | DocRenderingOptions | Параметры рендеринга. |
+| options | DocRenderingOptions | Варианты рендеринга. |
 | file | String | Имя выходного файла |
 
 ### Смотрите также
 
-* class [DocRenderingOptions](../../docrenderingoptions)
-* class [DocDevice](../../docdevice)
-* пространство имен [Aspose.Html.Rendering.Doc](../../docdevice)
+* class [DocRenderingOptions](../../docrenderingoptions/)
+* class [DocDevice](../)
+* пространство имен [Aspose.Html.Rendering.Doc](../../docdevice/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## DocDevice(Stream) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`DocDevice`](../../docdevice)потоком вывода.
+Инициализирует новый экземпляр[`DocDevice`](../) класс по выходному потоку.
 
 ```csharp
 public DocDevice(Stream stream)
@@ -106,15 +106,15 @@ public DocDevice(Stream stream)
 
 ### Смотрите также
 
-* class [DocDevice](../../docdevice)
-* пространство имен [Aspose.Html.Rendering.Doc](../../docdevice)
+* class [DocDevice](../)
+* пространство имен [Aspose.Html.Rendering.Doc](../../docdevice/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## DocDevice(DocRenderingOptions, Stream) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`DocDevice`](../../docdevice)с помощью параметров рендеринга и выходного потока.
+Инициализирует новый экземпляр[`DocDevice`](../) класс с помощью параметров рендеринга и выходного потока.
 
 ```csharp
 public DocDevice(DocRenderingOptions options, Stream stream)
@@ -122,14 +122,14 @@ public DocDevice(DocRenderingOptions options, Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | DocRenderingOptions | Параметры рендеринга. |
+| options | DocRenderingOptions | Варианты рендеринга. |
 | stream | Stream | Выходной поток |
 
 ### Смотрите также
 
-* class [DocRenderingOptions](../../docrenderingoptions)
-* class [DocDevice](../../docdevice)
-* пространство имен [Aspose.Html.Rendering.Doc](../../docdevice)
+* class [DocRenderingOptions](../../docrenderingoptions/)
+* class [DocDevice](../)
+* пространство имен [Aspose.Html.Rendering.Doc](../../docdevice/)
 * сборка [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: SVGAngle
+title: Class SVGAngle
 second_title: Справочник по Aspose.HTML для .NET API
-description: Интерфейс SVGAngle соответствует базовому типу данных угла.
+description: Aspose.Html.Dom.Svg.DataTypes.SVGAngle сорт. Интерфейс SVGAngle соответствует базовому типу данных angle.
 type: docs
-weight: 1170
+weight: 1060
 url: /ru/net/aspose.html.dom.svg.datatypes/svgangle/
 ---
 ## SVGAngle class
 
-Интерфейс SVGAngle соответствует базовому типу данных угла.
+Интерфейс SVGAngle соответствует базовому типу данных angle.
 
 ```csharp
 public class SVGAngle : SVGValueType
@@ -18,35 +18,35 @@ public class SVGAngle : SVGValueType
 
 | Имя | Описание |
 | --- | --- |
-| [UnitType](../../aspose.html.dom.svg.datatypes/svgangle/unittype) { get; } | Тип значения, указанный одной из констант SVG_ANGLETYPE_*, определенных в этом интерфейсе. |
-| [Value](../../aspose.html.dom.svg.datatypes/svgangle/value) { get; set; } | Значение угла как значение с плавающей запятой, в градусах. Установка этого атрибута приведет к автоматическому обновлению valueInSpecifiedUnits и valueAsString, чтобы отразить этот параметр. |
-| [ValueAsString](../../aspose.html.dom.svg.datatypes/svgangle/valueasstring) { get; set; } | Значение угла как строковое значение в единицах, выраженных unitType. Установка этого атрибута приведет к автоматическому обновлению value, valueInSpecifiedUnits и unitType, чтобы отразить этот параметр. |
-| [ValueInSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svgangle/valueinspecifiedunits) { get; set; } | Значение угла как значение с плавающей запятой в единицах, выраженных unitType. Установка этого атрибута приведет к автоматическому обновлению value и valueAsString, чтобы отразить этот параметр. |
+| [UnitType](../../aspose.html.dom.svg.datatypes/svgangle/unittype/) { get; } | Тип значения, указанный одной из констант SVG_ANGLETYPE_*, определенных в этом интерфейсе. |
+| [Value](../../aspose.html.dom.svg.datatypes/svgangle/value/) { get; set; } | Значение угла в виде числа с плавающей запятой в градусах. Установка этого атрибута приведет к автоматическому обновлению valueInSpecifiedUnits и valueAsString в соответствии с этим параметром. |
+| [ValueAsString](../../aspose.html.dom.svg.datatypes/svgangle/valueasstring/) { get; set; } | Значение угла как строковое значение в единицах, выраженных unitType. Установка этого атрибута приведет к автоматическому обновлению value, valueInSpecifiedUnits и unitType, чтобы отразить этот параметр. |
+| [ValueInSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svgangle/valueinspecifiedunits/) { get; set; } | Значение угла как значение с плавающей запятой в единицах, выраженных unitType. Установка этого атрибута приведет к автоматическому обновлению value и valueAsString в соответствии с этим параметром. |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| [ConvertToSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svgangle/converttospecifiedunits)(ushort) | Сохраняет то же базовое сохраненное значение, но сбрасывает сохраненный идентификатор устройства на заданный тип устройства. Атрибуты объекта unitType, valueInSpecifiedUnits и valueAsString могут быть изменены в результате применения этого метода. |
-| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | Этот метод используется для получения объекта ECMAScriptType. |
-| [NewValueSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svgangle/newvaluespecifiedunits)(ushort, float) | Сбросить значение как число с соответствующим unitType, тем самым заменив значения для всех атрибутов объекта. |
-| override [ToString](../../aspose.html.dom.svg.datatypes/svgangle/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
+| [ConvertToSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svgangle/converttospecifiedunits/)(ushort) | Сохраняет то же базовое сохраненное значение, но сбрасывает сохраненный идентификатор устройства на заданный тип устройства. Атрибуты объекта unitType, valueInSpecifiedUnits и valueAsString могут быть изменены в результате применения этого метода. |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Освобождает неуправляемые и (необязательно) управляемые ресурсы. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | Этот метод используется для получения объекта ECMAScript.Type . |
+| [NewValueSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svgangle/newvaluespecifiedunits/)(ushort, float) | Сбросить значение как число с соответствующим unitType, тем самым заменив значения для всех атрибутов объекта. |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svgangle/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
 
 ## Поля
 
 | Имя | Описание |
 | --- | --- |
-| const [SVG_ANGLETYPE_DEG](../../aspose.html.dom.svg.datatypes/svgangle/svg_angletype_deg) | Тип единицы измерения был явно установлен в градусах. |
-| const [SVG_ANGLETYPE_GRAD](../../aspose.html.dom.svg.datatypes/svgangle/svg_angletype_grad) | Тип единицы измерения - радианы. |
-| const [SVG_ANGLETYPE_RAD](../../aspose.html.dom.svg.datatypes/svgangle/svg_angletype_rad) | Тип единицы измерения - радианы. |
-| const [SVG_ANGLETYPE_UNKNOWN](../../aspose.html.dom.svg.datatypes/svgangle/svg_angletype_unknown) | Тип юнита не является одним из предопределенных типов юнита. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип. |
-| const [SVG_ANGLETYPE_UNSPECIFIED](../../aspose.html.dom.svg.datatypes/svgangle/svg_angletype_unspecified) | Тип единицы измерения не указан (т. е. указано безразмерное значение). Для углов безразмерное значение обрабатывается так же, как если бы были указаны градусы. |
+| const [SVG_ANGLETYPE_DEG](../../aspose.html.dom.svg.datatypes/svgangle/svg_angletype_deg/) | Тип единицы измерения был явно установлен в градусах. |
+| const [SVG_ANGLETYPE_GRAD](../../aspose.html.dom.svg.datatypes/svgangle/svg_angletype_grad/) | Тип единицы измерения — радианы. |
+| const [SVG_ANGLETYPE_RAD](../../aspose.html.dom.svg.datatypes/svgangle/svg_angletype_rad/) | Тип единицы измерения — радианы. |
+| const [SVG_ANGLETYPE_UNKNOWN](../../aspose.html.dom.svg.datatypes/svgangle/svg_angletype_unknown/) | Тип юнита не является одним из предопределенных типов юнитов. Недопустимо пытаться определить новое значение этого типа или пытаться переключить существующее значение на этот тип. |
+| const [SVG_ANGLETYPE_UNSPECIFIED](../../aspose.html.dom.svg.datatypes/svgangle/svg_angletype_unspecified/) | Тип единицы измерения не указан (т. е. указано безразмерное значение). Для углов безразмерное значение обрабатывается так же, как если бы были указаны градусы. |
 
 ### Смотрите также
 
-* class [SVGValueType](../svgvaluetype)
-* пространство имен [Aspose.Html.Dom.Svg.DataTypes](../../aspose.html.dom.svg.datatypes)
+* class [SVGValueType](../svgvaluetype/)
+* пространство имен [Aspose.Html.Dom.Svg.DataTypes](../../aspose.html.dom.svg.datatypes/)
 * сборка [Aspose.HTML](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

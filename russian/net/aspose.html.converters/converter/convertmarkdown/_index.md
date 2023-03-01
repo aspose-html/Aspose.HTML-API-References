@@ -1,14 +1,14 @@
 ---
-title: ConvertMarkdown
+title: Converter.ConvertMarkdown
 second_title: Справочник по Aspose.HTML для .NET API
-description: Преобразование исходного кода Markdown в html. РезультатHTMLDocumentaspose.html/htmldocument.
+description: Converter метод. Преобразование исходного кода Markdown в html. РезультатHTMLDocument .
 type: docs
 weight: 30
 url: /ru/net/aspose.html.converters/converter/convertmarkdown/
 ---
 ## ConvertMarkdown(Stream, string) {#convertmarkdown}
 
-Преобразование исходного кода Markdown в html. Результат[`HTMLDocument`](../../../aspose.html/htmldocument).
+Преобразование исходного кода Markdown в html. Результат[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri)
@@ -16,25 +16,25 @@ public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
+| stream | Stream | Источник конверсии. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
 
 ### Возвращаемое значение
 
-Результат преобразования[`HTMLDocument`](../../../aspose.html/htmldocument).
+Результат преобразования[`HTMLDocument`](../../../aspose.html/htmldocument/).
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(Stream, string, Configuration) {#convertmarkdown_1}
 
-Преобразование исходного кода Markdown в html. Результат[`HTMLDocument`](../../../aspose.html/htmldocument).
+Преобразование исходного кода Markdown в html. Результат[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri, 
@@ -43,27 +43,27 @@ public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
+| stream | Stream | Источник конверсии. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
+| configuration | Configuration | Конфигурация окружения. |
 
 ### Возвращаемое значение
 
-Результат преобразования[`HTMLDocument`](../../../aspose.html/htmldocument).
+Результат преобразования[`HTMLDocument`](../../../aspose.html/htmldocument/).
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(Stream, string, string) {#convertmarkdown_5}
 
-Преобразование исходного кода Markdown в html. Результат - html файл.
+Преобразование исходного кода Markdown в html. Результат - html-файл.
 
 ```csharp
 public static void ConvertMarkdown(Stream stream, string baseUri, string outputPath)
@@ -71,21 +71,21 @@ public static void ConvertMarkdown(Stream stream, string baseUri, string outputP
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
+| stream | Stream | Источник конверсии. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(Stream, string, Configuration, string) {#convertmarkdown_4}
 
-Преобразование исходного кода Markdown в html. Результат - html файл.
+Преобразование исходного кода Markdown в html. Результат - html-файл.
 
 ```csharp
 public static void ConvertMarkdown(Stream stream, string baseUri, Configuration configuration, 
@@ -94,23 +94,23 @@ public static void ConvertMarkdown(Stream stream, string baseUri, Configuration 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
+| stream | Stream | Источник конверсии. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
+| configuration | Configuration | Конфигурация окружения. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(string) {#convertmarkdown_2}
 
-Преобразование исходного кода Markdown в html. Результат[`HTMLDocument`](../../../aspose.html/htmldocument).
+Преобразование исходного кода Markdown в html. Результат[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(string sourcePath)
@@ -122,20 +122,20 @@ public static HTMLDocument ConvertMarkdown(string sourcePath)
 
 ### Возвращаемое значение
 
-Результат преобразования[`HTMLDocument`](../../../aspose.html/htmldocument).
+Результат преобразования[`HTMLDocument`](../../../aspose.html/htmldocument/).
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(string, Configuration) {#convertmarkdown_3}
 
-Преобразование исходного кода Markdown в html. Результат[`HTMLDocument`](../../../aspose.html/htmldocument).
+Преобразование исходного кода Markdown в html. Результат[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(string sourcePath, Configuration configuration)
@@ -144,25 +144,25 @@ public static HTMLDocument ConvertMarkdown(string sourcePath, Configuration conf
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу Markdown. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
+| configuration | Configuration | Конфигурация окружения. |
 
 ### Возвращаемое значение
 
-Результат преобразования[`HTMLDocument`](../../../aspose.html/htmldocument).
+Результат преобразования[`HTMLDocument`](../../../aspose.html/htmldocument/).
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(string, string) {#convertmarkdown_7}
 
-Преобразование исходного кода Markdown в html. Результат - html файл.
+Преобразование исходного кода Markdown в html. Результат - html-файл.
 
 ```csharp
 public static void ConvertMarkdown(string sourcePath, string outputPath)
@@ -175,15 +175,15 @@ public static void ConvertMarkdown(string sourcePath, string outputPath)
 
 ### Смотрите также
 
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(string, Configuration, string) {#convertmarkdown_6}
 
-Преобразование исходного кода Markdown в html. Результат - html файл.
+Преобразование исходного кода Markdown в html. Результат - html-файл.
 
 ```csharp
 public static void ConvertMarkdown(string sourcePath, Configuration configuration, 
@@ -193,14 +193,14 @@ public static void ConvertMarkdown(string sourcePath, Configuration configuratio
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу Markdown. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
+| configuration | Configuration | Конфигурация окружения. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

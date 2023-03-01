@@ -1,14 +1,14 @@
 ---
-title: ConvertEPUB
+title: Converter.ConvertEPUB
 second_title: Справочник по Aspose.HTML для .NET API
-description: Конвертировать источник epub в изображение. Результат - файл изображения.
+description: Converter метод. Преобразование исходного файла epub в изображение. Результатом является файл изображения.
 type: docs
 weight: 10
 url: /ru/net/aspose.html.converters/converter/convertepub/
 ---
 ## ConvertEPUB(string, ImageSaveOptions, ICreateStreamProvider) {#convertepub_42}
 
-Конвертировать источник epub в изображение. Результат - файл изображения.
+Преобразование исходного файла epub в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, ImageSaveOptions options, 
@@ -18,22 +18,22 @@ public static void ConvertEPUB(string sourcePath, ImageSaveOptions options,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, ImageSaveOptions, ICreateStreamProvider) {#convertepub_10}
 
-Конвертировать источник epub в изображение. Результат - файл изображения.
+Преобразование исходного файла epub в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options, 
@@ -42,24 +42,24 @@ public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourceUrl | Url | URL-адрес источника. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertepub_18}
 
-Конвертировать источник epub в изображение. Результат - файл изображения.
+Преобразование исходного файла epub в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, Configuration configuration, 
@@ -68,25 +68,25 @@ public static void ConvertEPUB(Stream stream, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| stream | Stream | Источник конверсии. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertepub_34}
 
-Конвертировать источник epub в изображение. Результат - файл изображения.
+Преобразование исходного файла epub в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, Configuration configuration, 
@@ -96,24 +96,24 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertepub_2}
 
-Конвертировать источник epub в изображение. Результат - файл изображения.
+Преобразование исходного файла epub в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, Configuration configuration, 
@@ -122,26 +122,26 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourceUrl | Url | URL-адрес источника. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, XpsSaveOptions, string) {#convertepub_31}
 
-Конвертировать источник epub в xps. Результат - xps-файл.
+Преобразование источника epub в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, XpsSaveOptions options, string outputPath)
@@ -149,22 +149,22 @@ public static void ConvertEPUB(Stream stream, XpsSaveOptions options, string out
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| stream | Stream | Источник конверсии. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, XpsSaveOptions, string) {#convertepub_47}
 
-Конвертировать источник epub в xps. Результат - xps-файл.
+Преобразование источника epub в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, XpsSaveOptions options, string outputPath)
@@ -173,21 +173,21 @@ public static void ConvertEPUB(string sourcePath, XpsSaveOptions options, string
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, XpsSaveOptions, string) {#convertepub_15}
 
-Конвертировать источник epub в xps. Результат - xps-файл.
+Преобразование источника epub в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options, string outputPath)
@@ -195,23 +195,23 @@ public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options, string out
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| sourceUrl | Url | URL-адрес источника. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, Configuration, XpsSaveOptions, string) {#convertepub_23}
 
-Конвертировать источник epub в xps. Результат - xps-файл.
+Преобразование источника epub в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSaveOptions options, 
@@ -220,24 +220,24 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| stream | Stream | Источник конверсии. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, Configuration, XpsSaveOptions, string) {#convertepub_39}
 
-Конвертировать источник epub в xps. Результат - xps-файл.
+Преобразование источника epub в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, Configuration configuration, 
@@ -247,23 +247,23 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, Configuration, XpsSaveOptions, string) {#convertepub_7}
 
-Конвертировать источник epub в xps. Результат - xps-файл.
+Преобразование источника epub в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSaveOptions options, 
@@ -272,25 +272,25 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| sourceUrl | Url | URL-адрес источника. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, XpsSaveOptions, ICreateStreamProvider) {#convertepub_30}
 
-Конвертировать источник epub в xps. Результат - xps-файл.
+Преобразование источника epub в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, XpsSaveOptions options, 
@@ -299,23 +299,23 @@ public static void ConvertEPUB(Stream stream, XpsSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| stream | Stream | Источник конверсии. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, XpsSaveOptions, ICreateStreamProvider) {#convertepub_46}
 
-Конвертировать источник epub в xps. Результат - xps-файл.
+Преобразование источника epub в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, XpsSaveOptions options, 
@@ -325,22 +325,22 @@ public static void ConvertEPUB(string sourcePath, XpsSaveOptions options,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, XpsSaveOptions, ICreateStreamProvider) {#convertepub_14}
 
-Конвертировать источник epub в xps. Результат - xps-файл.
+Преобразование источника epub в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options, 
@@ -349,24 +349,24 @@ public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourceUrl | Url | URL-адрес источника. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertepub_22}
 
-Конвертировать источник epub в xps. Результат - xps-файл.
+Преобразование источника epub в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSaveOptions options, 
@@ -375,25 +375,25 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| stream | Stream | Источник конверсии. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertepub_38}
 
-Конвертировать источник epub в xps. Результат - xps-файл.
+Преобразование источника epub в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, Configuration configuration, 
@@ -403,24 +403,24 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertepub_6}
 
-Конвертировать источник epub в xps. Результат - xps-файл.
+Преобразование источника epub в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSaveOptions options, 
@@ -429,26 +429,26 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourceUrl | Url | URL-адрес источника. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, DocSaveOptions, string) {#convertepub_25}
 
-Конвертировать исходный файл EPUB в DOCX. Результат - файл docx.
+Преобразовать исходный файл EPUB в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, DocSaveOptions options, string outputPath)
@@ -456,22 +456,22 @@ public static void ConvertEPUB(Stream stream, DocSaveOptions options, string out
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| options | DocSaveOptions | Параметры преобразования. |
+| stream | Stream | Источник конверсии. |
+| options | DocSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, DocSaveOptions, string) {#convertepub_41}
 
-Конвертировать исходный файл EPUB в DOCX. Результат - файл docx.
+Преобразовать исходный файл EPUB в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, DocSaveOptions options, string outputPath)
@@ -480,21 +480,21 @@ public static void ConvertEPUB(string sourcePath, DocSaveOptions options, string
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | DocSaveOptions | Параметры преобразования. |
+| options | DocSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, DocSaveOptions, string) {#convertepub_9}
 
-Конвертировать исходный файл EPUB в DOCX. Результат - файл docx.
+Преобразовать исходный файл EPUB в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options, string outputPath)
@@ -502,23 +502,23 @@ public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options, string out
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| options | DocSaveOptions | Параметры преобразования. |
+| sourceUrl | Url | URL-адрес источника. |
+| options | DocSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, Configuration, DocSaveOptions, string) {#convertepub_17}
 
-Конвертировать исходный файл EPUB в DOCX. Результат - файл docx.
+Преобразовать исходный файл EPUB в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, Configuration configuration, DocSaveOptions options, 
@@ -527,24 +527,24 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, DocSa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| configuration | Configuration | Конфигурация среды. |
-| options | DocSaveOptions | Параметры преобразования. |
+| stream | Stream | Источник конверсии. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | DocSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, Configuration, DocSaveOptions, string) {#convertepub_33}
 
-Конвертировать исходный файл EPUB в DOCX. Результат - файл docx.
+Преобразовать исходный файл EPUB в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, Configuration configuration, 
@@ -554,23 +554,23 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | DocSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | DocSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, Configuration, DocSaveOptions, string) {#convertepub_1}
 
-Конвертировать исходный файл EPUB в DOCX. Результат - файл docx.
+Преобразовать исходный файл EPUB в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSaveOptions options, 
@@ -579,25 +579,25 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| configuration | Configuration | Конфигурация среды. |
-| options | DocSaveOptions | Параметры преобразования. |
+| sourceUrl | Url | URL-адрес источника. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | DocSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, DocSaveOptions, ICreateStreamProvider) {#convertepub_24}
 
-Конвертировать исходный файл EPUB в DOCX. Результат - файл docx.
+Преобразовать исходный файл EPUB в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, DocSaveOptions options, 
@@ -606,23 +606,23 @@ public static void ConvertEPUB(Stream stream, DocSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| options | DocSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| stream | Stream | Источник конверсии. |
+| options | DocSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, DocSaveOptions, ICreateStreamProvider) {#convertepub_40}
 
-Конвертировать исходный файл EPUB в DOCX. Результат - файл docx.
+Преобразовать исходный файл EPUB в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, DocSaveOptions options, 
@@ -632,22 +632,22 @@ public static void ConvertEPUB(string sourcePath, DocSaveOptions options,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | DocSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| options | DocSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, DocSaveOptions, ICreateStreamProvider) {#convertepub_8}
 
-Конвертировать исходный файл EPUB в DOCX. Результат - файл docx.
+Преобразовать исходный файл EPUB в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options, 
@@ -656,24 +656,24 @@ public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| options | DocSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourceUrl | Url | URL-адрес источника. |
+| options | DocSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertepub_16}
 
-Конвертировать исходный файл EPUB в DOCX. Результат - файл docx.
+Преобразовать исходный файл EPUB в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, Configuration configuration, DocSaveOptions options, 
@@ -682,25 +682,25 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, DocSa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| configuration | Configuration | Конфигурация среды. |
-| options | DocSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| stream | Stream | Источник конверсии. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | DocSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertepub_32}
 
-Конвертировать исходный файл EPUB в DOCX. Результат - файл docx.
+Преобразовать исходный файл EPUB в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, Configuration configuration, 
@@ -710,24 +710,24 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | DocSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | DocSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertepub}
 
-Конвертировать исходный файл EPUB в DOCX. Результат - файл docx.
+Преобразовать исходный файл EPUB в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSaveOptions options, 
@@ -736,26 +736,26 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| configuration | Configuration | Конфигурация среды. |
-| options | DocSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourceUrl | Url | URL-адрес источника. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | DocSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, PdfSaveOptions, string) {#convertepub_29}
 
-Конвертировать исходный код epub в pdf. Результат - pdf файл.
+Конвертировать исходный файл epub в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, PdfSaveOptions options, string outputPath)
@@ -763,22 +763,22 @@ public static void ConvertEPUB(Stream stream, PdfSaveOptions options, string out
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| stream | Stream | Источник конверсии. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, PdfSaveOptions, string) {#convertepub_45}
 
-Конвертировать исходный код epub в pdf. Результат - pdf файл.
+Конвертировать исходный файл epub в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, PdfSaveOptions options, string outputPath)
@@ -787,21 +787,21 @@ public static void ConvertEPUB(string sourcePath, PdfSaveOptions options, string
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, PdfSaveOptions, string) {#convertepub_13}
 
-Конвертировать исходный код epub в pdf. Результат - pdf файл.
+Конвертировать исходный файл epub в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options, string outputPath)
@@ -809,23 +809,23 @@ public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options, string out
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| sourceUrl | Url | URL-адрес источника. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, Configuration, PdfSaveOptions, string) {#convertepub_21}
 
-Конвертировать исходный код epub в pdf. Результат - pdf файл.
+Конвертировать исходный файл epub в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSaveOptions options, 
@@ -834,24 +834,24 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| stream | Stream | Источник конверсии. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, Configuration, PdfSaveOptions, string) {#convertepub_37}
 
-Конвертировать исходный код epub в pdf. Результат - pdf файл.
+Конвертировать исходный файл epub в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, Configuration configuration, 
@@ -861,23 +861,23 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, Configuration, PdfSaveOptions, string) {#convertepub_5}
 
-Конвертировать исходный код epub в pdf. Результат - pdf файл.
+Конвертировать исходный файл epub в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSaveOptions options, 
@@ -886,25 +886,25 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| sourceUrl | Url | URL-адрес источника. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, PdfSaveOptions, ICreateStreamProvider) {#convertepub_28}
 
-Конвертировать исходный код epub в pdf. Результат - pdf файл.
+Конвертировать исходный файл epub в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, PdfSaveOptions options, 
@@ -913,23 +913,23 @@ public static void ConvertEPUB(Stream stream, PdfSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| stream | Stream | Источник конверсии. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, PdfSaveOptions, ICreateStreamProvider) {#convertepub_44}
 
-Конвертировать исходный код epub в pdf. Результат - pdf файл.
+Конвертировать исходный файл epub в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, PdfSaveOptions options, 
@@ -939,22 +939,22 @@ public static void ConvertEPUB(string sourcePath, PdfSaveOptions options,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, PdfSaveOptions, ICreateStreamProvider) {#convertepub_12}
 
-Конвертировать исходный код epub в pdf. Результат - pdf файл.
+Конвертировать исходный файл epub в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options, 
@@ -963,24 +963,24 @@ public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourceUrl | Url | URL-адрес источника. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertepub_20}
 
-Конвертировать исходный код epub в pdf. Результат - pdf файл.
+Конвертировать исходный файл epub в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSaveOptions options, 
@@ -989,25 +989,25 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| stream | Stream | Источник конверсии. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertepub_36}
 
-Конвертировать исходный код epub в pdf. Результат - pdf файл.
+Конвертировать исходный файл epub в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, Configuration configuration, 
@@ -1017,24 +1017,24 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertepub_4}
 
-Конвертировать исходный код epub в pdf. Результат - pdf файл.
+Конвертировать исходный файл epub в pdf. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSaveOptions options, 
@@ -1043,26 +1043,26 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourceUrl | Url | URL-адрес источника. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, ImageSaveOptions, string) {#convertepub_27}
 
-Конвертировать источник epub в изображение. Результат - файл изображения.
+Преобразование исходного файла epub в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, ImageSaveOptions options, string outputPath)
@@ -1070,22 +1070,22 @@ public static void ConvertEPUB(Stream stream, ImageSaveOptions options, string o
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| stream | Stream | Источник конверсии. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, ImageSaveOptions, string) {#convertepub_43}
 
-Конвертировать источник epub в изображение. Результат - файл изображения.
+Преобразование исходного файла epub в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, ImageSaveOptions options, string outputPath)
@@ -1094,21 +1094,21 @@ public static void ConvertEPUB(string sourcePath, ImageSaveOptions options, stri
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, ImageSaveOptions, string) {#convertepub_11}
 
-Конвертировать источник epub в изображение. Результат - файл изображения.
+Преобразование исходного файла epub в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options, string outputPath)
@@ -1116,23 +1116,23 @@ public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options, string o
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| sourceUrl | Url | URL-адрес источника. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, Configuration, ImageSaveOptions, string) {#convertepub_19}
 
-Конвертировать источник epub в изображение. Результат - файл изображения.
+Преобразование исходного файла epub в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, Configuration configuration, 
@@ -1141,24 +1141,24 @@ public static void ConvertEPUB(Stream stream, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| stream | Stream | Источник конверсии. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(string, Configuration, ImageSaveOptions, string) {#convertepub_35}
 
-Конвертировать источник epub в изображение. Результат - файл изображения.
+Преобразование исходного файла epub в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertEPUB(string sourcePath, Configuration configuration, 
@@ -1168,23 +1168,23 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | sourcePath | String | Путь к исходному файлу EPUB. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Url, Configuration, ImageSaveOptions, string) {#convertepub_3}
 
-Конвертировать источник epub в изображение. Результат - файл изображения.
+Преобразование исходного файла epub в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertEPUB(Url sourceUrl, Configuration configuration, 
@@ -1193,25 +1193,25 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourceUrl | Url | Исходный URL. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| sourceUrl | Url | URL-адрес источника. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertEPUB(Stream, ImageSaveOptions, ICreateStreamProvider) {#convertepub_26}
 
-Конвертировать источник epub в изображение. Результат - файл изображения.
+Преобразование исходного файла epub в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertEPUB(Stream stream, ImageSaveOptions options, 
@@ -1220,16 +1220,16 @@ public static void ConvertEPUB(Stream stream, ImageSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| stream | Stream | Источник преобразования. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| stream | Stream | Источник конверсии. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

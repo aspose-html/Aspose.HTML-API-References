@@ -1,14 +1,14 @@
 ---
-title: ConvertHTML
+title: Converter.ConvertHTML
 second_title: Справочник по Aspose.HTML для .NET API
-description: Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+description: Converter метод. Преобразование исходного HTMLдокумента в DOCX. Результатом является файл docx.
 type: docs
 weight: 20
 url: /ru/net/aspose.html.converters/converter/converthtml/
 ---
 ## ConvertHTML(HTMLDocument, DocSaveOptions, string) {#converthtml_1}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, DocSaveOptions options, string outputPath)
@@ -16,23 +16,23 @@ public static void ConvertHTML(HTMLDocument document, DocSaveOptions options, st
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | HTMLDocument | Источник преобразования[`HTMLDocument`](../../../aspose.html/htmldocument). |
-| options | DocSaveOptions | Параметры преобразования. |
+| document | HTMLDocument | Источник конверсии[`HTMLDocument`](../../../aspose.html/htmldocument/). |
+| options | DocSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, DocSaveOptions, string) {#converthtml_21}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(Url url, DocSaveOptions options, string outputPath)
@@ -40,23 +40,23 @@ public static void ConvertHTML(Url url, DocSaveOptions options, string outputPat
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | DocSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| options | DocSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, DocSaveOptions, string) {#converthtml_11}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, DocSaveOptions options, 
@@ -65,25 +65,25 @@ public static void ConvertHTML(Url url, Configuration configuration, DocSaveOpti
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | DocSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | DocSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, DocSaveOptions, string) {#converthtml_41}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, DocSaveOptions options, string outputPath)
@@ -91,22 +91,22 @@ public static void ConvertHTML(string sourcePath, DocSaveOptions options, string
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Исходный путь к файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | DocSaveOptions | Параметры преобразования. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | DocSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, DocSaveOptions, string) {#converthtml_31}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -115,24 +115,24 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Исходный путь к файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | DocSaveOptions | Параметры преобразования. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | DocSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, DocSaveOptions, string) {#converthtml_61}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, DocSaveOptions options, 
@@ -141,23 +141,23 @@ public static void ConvertHTML(string content, string baseUri, DocSaveOptions op
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | DocSaveOptions | Параметры преобразования. |
+| options | DocSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, DocSaveOptions, string) {#converthtml_51}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -166,25 +166,25 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | DocSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | DocSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, DocSaveOptions, ICreateStreamProvider) {#converthtml}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, DocSaveOptions options, 
@@ -193,24 +193,24 @@ public static void ConvertHTML(HTMLDocument document, DocSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | HTMLDocument | Источник преобразования[`HTMLDocument`](../../../aspose.html/htmldocument). |
-| options | DocSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| document | HTMLDocument | Источник конверсии[`HTMLDocument`](../../../aspose.html/htmldocument/). |
+| options | DocSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, DocSaveOptions, ICreateStreamProvider) {#converthtml_20}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(Url url, DocSaveOptions options, ICreateStreamProvider provider)
@@ -218,24 +218,24 @@ public static void ConvertHTML(Url url, DocSaveOptions options, ICreateStreamPro
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | DocSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| options | DocSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_10}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, DocSaveOptions options, 
@@ -244,26 +244,26 @@ public static void ConvertHTML(Url url, Configuration configuration, DocSaveOpti
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | DocSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | DocSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, DocSaveOptions, ICreateStreamProvider) {#converthtml_40}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, DocSaveOptions options, 
@@ -272,23 +272,23 @@ public static void ConvertHTML(string sourcePath, DocSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Исходный путь к файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | DocSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | DocSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_30}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -297,25 +297,25 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Исходный путь к файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | DocSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | DocSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, DocSaveOptions, ICreateStreamProvider) {#converthtml_60}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, DocSaveOptions options, 
@@ -324,24 +324,24 @@ public static void ConvertHTML(string content, string baseUri, DocSaveOptions op
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | DocSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| options | DocSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_50}
 
-Преобразование исходного HTML-документа в DOCX. Результат - файл docx.
+Преобразование исходного HTML-документа в DOCX. Результатом является файл docx.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -350,26 +350,26 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | DocSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | DocSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, PdfSaveOptions, string) {#converthtml_7}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, PdfSaveOptions options, string outputPath)
@@ -377,23 +377,23 @@ public static void ConvertHTML(HTMLDocument document, PdfSaveOptions options, st
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | HTMLDocument | Источник преобразования[`HTMLDocument`](../../../aspose.html/htmldocument). |
-| options | PdfSaveOptions | Параметры преобразования. |
+| document | HTMLDocument | Источник конверсии[`HTMLDocument`](../../../aspose.html/htmldocument/). |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, PdfSaveOptions, string) {#converthtml_27}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(Url url, PdfSaveOptions options, string outputPath)
@@ -401,23 +401,23 @@ public static void ConvertHTML(Url url, PdfSaveOptions options, string outputPat
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, PdfSaveOptions, string) {#converthtml_17}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, PdfSaveOptions options, 
@@ -426,25 +426,25 @@ public static void ConvertHTML(Url url, Configuration configuration, PdfSaveOpti
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, PdfSaveOptions, string) {#converthtml_47}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, PdfSaveOptions options, string outputPath)
@@ -452,22 +452,22 @@ public static void ConvertHTML(string sourcePath, PdfSaveOptions options, string
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, PdfSaveOptions, string) {#converthtml_37}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -476,24 +476,24 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, PdfSaveOptions, string) {#converthtml_67}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, PdfSaveOptions options, 
@@ -502,23 +502,23 @@ public static void ConvertHTML(string content, string baseUri, PdfSaveOptions op
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, PdfSaveOptions, string) {#converthtml_57}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -527,25 +527,25 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, PdfSaveOptions, ICreateStreamProvider) {#converthtml_6}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, PdfSaveOptions options, 
@@ -554,24 +554,24 @@ public static void ConvertHTML(HTMLDocument document, PdfSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | HTMLDocument | Источник преобразования[`HTMLDocument`](../../../aspose.html/htmldocument). |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| document | HTMLDocument | Источник конверсии[`HTMLDocument`](../../../aspose.html/htmldocument/). |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, PdfSaveOptions, ICreateStreamProvider) {#converthtml_26}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(Url url, PdfSaveOptions options, ICreateStreamProvider provider)
@@ -579,24 +579,24 @@ public static void ConvertHTML(Url url, PdfSaveOptions options, ICreateStreamPro
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_16}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, PdfSaveOptions options, 
@@ -605,26 +605,26 @@ public static void ConvertHTML(Url url, Configuration configuration, PdfSaveOpti
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, PdfSaveOptions, ICreateStreamProvider) {#converthtml_46}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, PdfSaveOptions options, 
@@ -633,23 +633,23 @@ public static void ConvertHTML(string sourcePath, PdfSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_36}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -658,25 +658,25 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, PdfSaveOptions, ICreateStreamProvider) {#converthtml_66}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, PdfSaveOptions options, 
@@ -685,24 +685,24 @@ public static void ConvertHTML(string content, string baseUri, PdfSaveOptions op
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_56}
 
-Преобразование исходного HTML-документа в PDF. Результат - pdf файл.
+Преобразование исходного HTML-документа в PDF. Результат - pdf-файл.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -711,26 +711,26 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | PdfSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | PdfSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, MHTMLSaveOptions, string) {#converthtml_5}
 
-Преобразование html-документа в mhtml. Результат - файл mhtml.
+Преобразование html-документа в mhtml. Результатом является файл mhtml.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, MHTMLSaveOptions options, string outputPath)
@@ -738,23 +738,23 @@ public static void ConvertHTML(HTMLDocument document, MHTMLSaveOptions options, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | HTMLDocument | Источник преобразования. |
-| options | MHTMLSaveOptions | Параметры преобразования. |
+| document | HTMLDocument | Источник конверсии. |
+| options | MHTMLSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, MHTMLSaveOptions, string) {#converthtml_25}
 
-Преобразование html-документа в mhtml. Результат - файл mhtml.
+Преобразование html-документа в mhtml. Результатом является файл mhtml.
 
 ```csharp
 public static void ConvertHTML(Url url, MHTMLSaveOptions options, string outputPath)
@@ -762,23 +762,23 @@ public static void ConvertHTML(Url url, MHTMLSaveOptions options, string outputP
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | MHTMLSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| options | MHTMLSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, MHTMLSaveOptions, string) {#converthtml_15}
 
-Преобразование html-документа в mhtml. Результат - файл mhtml.
+Преобразование html-документа в mhtml. Результатом является файл mhtml.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, MHTMLSaveOptions options, 
@@ -787,25 +787,25 @@ public static void ConvertHTML(Url url, Configuration configuration, MHTMLSaveOp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | MHTMLSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | MHTMLSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, MHTMLSaveOptions, string) {#converthtml_45}
 
-Преобразование html-документа в mhtml. Результат - файл mhtml.
+Преобразование html-документа в mhtml. Результатом является файл mhtml.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, MHTMLSaveOptions options, string outputPath)
@@ -813,22 +813,22 @@ public static void ConvertHTML(string sourcePath, MHTMLSaveOptions options, stri
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | MHTMLSaveOptions | Параметры преобразования. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | MHTMLSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, MHTMLSaveOptions, string) {#converthtml_35}
 
-Преобразование html-документа в mhtml. Результат - файл mhtml.
+Преобразование html-документа в mhtml. Результатом является файл mhtml.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -837,24 +837,24 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | MHTMLSaveOptions | Параметры преобразования. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | MHTMLSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, MHTMLSaveOptions, string) {#converthtml_65}
 
-Преобразование html-документа в mhtml. Результат - файл mhtml.
+Преобразование html-документа в mhtml. Результатом является файл mhtml.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, MHTMLSaveOptions options, 
@@ -863,23 +863,23 @@ public static void ConvertHTML(string content, string baseUri, MHTMLSaveOptions 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | MHTMLSaveOptions | Параметры преобразования. |
+| options | MHTMLSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, MHTMLSaveOptions, string) {#converthtml_55}
 
-Преобразование html-документа в mhtml. Результат - файл mhtml.
+Преобразование html-документа в mhtml. Результатом является файл mhtml.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -888,25 +888,25 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | MHTMLSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | MHTMLSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, MarkdownSaveOptions, string) {#converthtml_4}
 
-Преобразование HTML-документа в уценку. Результат - файл md.
+Преобразование html-документа в уценку. Результат: файл md.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, MarkdownSaveOptions options, 
@@ -915,23 +915,23 @@ public static void ConvertHTML(HTMLDocument document, MarkdownSaveOptions option
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | HTMLDocument | Источник преобразования. |
-| options | MarkdownSaveOptions | Параметры преобразования. |
+| document | HTMLDocument | Источник конверсии. |
+| options | MarkdownSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, MarkdownSaveOptions, string) {#converthtml_24}
 
-Преобразование исходного html в уценку. Результат - файл md.
+Преобразование исходного html в уценку. Результат: файл md.
 
 ```csharp
 public static void ConvertHTML(Url url, MarkdownSaveOptions options, string outputPath)
@@ -939,23 +939,23 @@ public static void ConvertHTML(Url url, MarkdownSaveOptions options, string outp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | MarkdownSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| options | MarkdownSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, MarkdownSaveOptions, string) {#converthtml_14}
 
-Преобразование исходного html в уценку. Результат - файл md.
+Преобразование исходного html в уценку. Результат: файл md.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, MarkdownSaveOptions options, 
@@ -964,25 +964,25 @@ public static void ConvertHTML(Url url, Configuration configuration, MarkdownSav
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | MarkdownSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | MarkdownSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, MarkdownSaveOptions, string) {#converthtml_44}
 
-Преобразование исходного html в уценку. Результат - файл md.
+Преобразование исходного html в уценку. Результат: файл md.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, MarkdownSaveOptions options, string outputPath)
@@ -990,22 +990,22 @@ public static void ConvertHTML(string sourcePath, MarkdownSaveOptions options, s
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | MarkdownSaveOptions | Параметры преобразования. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | MarkdownSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, MarkdownSaveOptions, string) {#converthtml_34}
 
-Преобразование исходного html в уценку. Результат - файл md.
+Преобразование исходного html в уценку. Результат: файл md.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -1014,24 +1014,24 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | MarkdownSaveOptions | Параметры преобразования. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | MarkdownSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, MarkdownSaveOptions, string) {#converthtml_64}
 
-Преобразование исходного html в уценку. Результат - файл md.
+Преобразование исходного html в уценку. Результат: файл md.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, MarkdownSaveOptions options, 
@@ -1040,23 +1040,23 @@ public static void ConvertHTML(string content, string baseUri, MarkdownSaveOptio
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | MarkdownSaveOptions | Параметры преобразования. |
+| options | MarkdownSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, MarkdownSaveOptions, string) {#converthtml_54}
 
-Преобразование исходного html в уценку. Результат - файл md.
+Преобразование исходного html в уценку. Результат: файл md.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -1065,25 +1065,25 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | MarkdownSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | MarkdownSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, XpsSaveOptions, string) {#converthtml_9}
 
-Преобразование HTML-документа в XPS. Результат - xps-файл.
+Преобразование HTML-документа в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options, string outputPath)
@@ -1091,23 +1091,23 @@ public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options, st
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | HTMLDocument | Источник преобразования. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| document | HTMLDocument | Источник конверсии. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, XpsSaveOptions, string) {#converthtml_29}
 
-Преобразование HTML-документа в XPS. Результат - xps-файл.
+Преобразование HTML-документа в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(Url url, XpsSaveOptions options, string outputPath)
@@ -1115,23 +1115,23 @@ public static void ConvertHTML(Url url, XpsSaveOptions options, string outputPat
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, XpsSaveOptions, string) {#converthtml_19}
 
-Преобразование HTML-документа в XPS. Результат - xps-файл.
+Преобразование HTML-документа в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOptions options, 
@@ -1140,25 +1140,25 @@ public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOpti
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, XpsSaveOptions, string) {#converthtml_49}
 
-Преобразование HTML-документа в XPS. Результат - xps-файл.
+Преобразование HTML-документа в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, XpsSaveOptions options, string outputPath)
@@ -1166,22 +1166,22 @@ public static void ConvertHTML(string sourcePath, XpsSaveOptions options, string
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, XpsSaveOptions, string) {#converthtml_39}
 
-Преобразование HTML-документа в XPS. Результат - xps-файл.
+Преобразование HTML-документа в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -1190,24 +1190,24 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, XpsSaveOptions, string) {#converthtml_69}
 
-Преобразование HTML-документа в XPS. Результат - xps-файл.
+Преобразование HTML-документа в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, XpsSaveOptions options, 
@@ -1216,23 +1216,23 @@ public static void ConvertHTML(string content, string baseUri, XpsSaveOptions op
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, XpsSaveOptions, string) {#converthtml_59}
 
-Преобразование HTML-документа в XPS. Результат - xps-файл.
+Преобразование HTML-документа в XPS. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -1241,25 +1241,25 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, XpsSaveOptions, ICreateStreamProvider) {#converthtml_8}
 
-Преобразование исходного HTML в XPS. Результат - xps-файл.
+Преобразование исходного html в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options, 
@@ -1268,24 +1268,24 @@ public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | HTMLDocument | Источник преобразования. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| document | HTMLDocument | Источник конверсии. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, XpsSaveOptions, ICreateStreamProvider) {#converthtml_28}
 
-Преобразование исходного HTML в XPS. Результат - xps-файл.
+Преобразование исходного html в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(Url url, XpsSaveOptions options, ICreateStreamProvider provider)
@@ -1293,24 +1293,24 @@ public static void ConvertHTML(Url url, XpsSaveOptions options, ICreateStreamPro
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_18}
 
-Преобразование исходного HTML в XPS. Результат - xps-файл.
+Преобразование исходного html в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOptions options, 
@@ -1319,26 +1319,26 @@ public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOpti
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, XpsSaveOptions, ICreateStreamProvider) {#converthtml_48}
 
-Преобразование исходного HTML в XPS. Результат - xps-файл.
+Преобразование исходного html в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, XpsSaveOptions options, 
@@ -1347,23 +1347,23 @@ public static void ConvertHTML(string sourcePath, XpsSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_38}
 
-Преобразование исходного HTML в XPS. Результат - xps-файл.
+Преобразование исходного html в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -1372,25 +1372,25 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, XpsSaveOptions, ICreateStreamProvider) {#converthtml_68}
 
-Преобразование исходного HTML в XPS. Результат - xps-файл.
+Преобразование исходного html в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, XpsSaveOptions options, 
@@ -1399,24 +1399,24 @@ public static void ConvertHTML(string content, string baseUri, XpsSaveOptions op
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_58}
 
-Преобразование исходного HTML в XPS. Результат - xps-файл.
+Преобразование исходного html в xps. Результатом является файл xps.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -1425,26 +1425,26 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | XpsSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | XpsSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, ImageSaveOptions, string) {#converthtml_3}
 
-Преобразование HTML-документа в изображение. Результат - файл изображения.
+Преобразование HTML-документа в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, ImageSaveOptions options, string outputPath)
@@ -1452,23 +1452,23 @@ public static void ConvertHTML(HTMLDocument document, ImageSaveOptions options, 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | HTMLDocument | Источник преобразования. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| document | HTMLDocument | Источник конверсии. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, ImageSaveOptions, string) {#converthtml_23}
 
-Преобразование HTML-документа в изображение. Результат - файл изображения.
+Преобразование HTML-документа в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(Url url, ImageSaveOptions options, string outputPath)
@@ -1476,23 +1476,23 @@ public static void ConvertHTML(Url url, ImageSaveOptions options, string outputP
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, ImageSaveOptions, string) {#converthtml_13}
 
-Преобразование HTML-документа в изображение. Результат - файл изображения.
+Преобразование HTML-документа в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, ImageSaveOptions options, 
@@ -1501,25 +1501,25 @@ public static void ConvertHTML(Url url, Configuration configuration, ImageSaveOp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, ImageSaveOptions, string) {#converthtml_43}
 
-Преобразование HTML-документа в изображение. Результат - файл изображения.
+Преобразование HTML-документа в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, ImageSaveOptions options, string outputPath)
@@ -1527,22 +1527,22 @@ public static void ConvertHTML(string sourcePath, ImageSaveOptions options, stri
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, ImageSaveOptions, string) {#converthtml_33}
 
-Преобразование HTML-документа в изображение. Результат - файл изображения.
+Преобразование HTML-документа в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -1551,24 +1551,24 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, ImageSaveOptions, string) {#converthtml_63}
 
-Преобразование HTML-документа в изображение. Результат - файл изображения.
+Преобразование HTML-документа в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, ImageSaveOptions options, 
@@ -1577,23 +1577,23 @@ public static void ConvertHTML(string content, string baseUri, ImageSaveOptions 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, ImageSaveOptions, string) {#converthtml_53}
 
-Преобразование HTML-документа в изображение. Результат - файл изображения.
+Преобразование HTML-документа в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -1602,25 +1602,25 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(HTMLDocument, ImageSaveOptions, ICreateStreamProvider) {#converthtml_2}
 
-Преобразование исходного html в изображение. Результат - файл изображения.
+Преобразование исходного html в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(HTMLDocument document, ImageSaveOptions options, 
@@ -1629,24 +1629,24 @@ public static void ConvertHTML(HTMLDocument document, ImageSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| document | HTMLDocument | Источник преобразования. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| document | HTMLDocument | Источник конверсии. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, ImageSaveOptions, ICreateStreamProvider) {#converthtml_22}
 
-Преобразование исходного html в изображение. Результат - файл изображения.
+Преобразование исходного html в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(Url url, ImageSaveOptions options, ICreateStreamProvider provider)
@@ -1654,24 +1654,24 @@ public static void ConvertHTML(Url url, ImageSaveOptions options, ICreateStreamP
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_12}
 
-Преобразование исходного html в изображение. Результат - файл изображения.
+Преобразование исходного html в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(Url url, Configuration configuration, ImageSaveOptions options, 
@@ -1680,26 +1680,26 @@ public static void ConvertHTML(Url url, Configuration configuration, ImageSaveOp
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| url | Url | URL-адрес документа. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, ImageSaveOptions, ICreateStreamProvider) {#converthtml_42}
 
-Преобразование исходного html в изображение. Результат - файл изображения.
+Преобразование исходного html в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, ImageSaveOptions options, 
@@ -1708,23 +1708,23 @@ public static void ConvertHTML(string sourcePath, ImageSaveOptions options,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_32}
 
-Преобразование исходного html в изображение. Результат - файл изображения.
+Преобразование исходного html в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(string sourcePath, Configuration configuration, 
@@ -1733,25 +1733,25 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному файлу Html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| sourcePath | String | Путь к исходному файлу HTML. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, ImageSaveOptions, ICreateStreamProvider) {#converthtml_62}
 
-Преобразование исходного html в изображение. Результат - файл изображения.
+Преобразование исходного html в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, ImageSaveOptions options, 
@@ -1760,24 +1760,24 @@ public static void ConvertHTML(string content, string baseUri, ImageSaveOptions 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertHTML(string, string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_52}
 
-Преобразование исходного html в изображение. Результат - файл изображения.
+Преобразование исходного html в изображение. Результатом является файл изображения.
 
 ```csharp
 public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
@@ -1786,19 +1786,19 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Строковый HTML-контент. |
+| content | String | Встроенный строковый HTML-контент. |
 | baseUri | String | Базовый URI документа. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
-| options | ImageSaveOptions | Параметры преобразования. |
-| provider | ICreateStreamProvider | Реализация интерфейса[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider), который будет использоваться для получения выходного потока. |
+| configuration | Configuration | Конфигурация окружения. |
+| options | ImageSaveOptions | Варианты преобразования. |
+| provider | ICreateStreamProvider | Осуществление[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс, который будет использоваться для получения выходного потока. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

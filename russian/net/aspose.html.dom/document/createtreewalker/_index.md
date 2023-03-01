@@ -1,7 +1,7 @@
 ---
-title: CreateTreeWalker
+title: Document.CreateTreeWalker
 second_title: Справочник по Aspose.HTML для .NET API
-description: Создать новый TreeWalker поверх поддерева с корнем в указанном узле .
+description: Document метод. Создать новый TreeWalker поверх поддерева с корнем в указанном узле .
 type: docs
 weight: 940
 url: /ru/net/aspose.html.dom/document/createtreewalker/
@@ -16,7 +16,7 @@ public ITreeWalker CreateTreeWalker(Node root)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | узел, который будет служить корнем для TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. currentNode TreeWalker инициализируется этим узлом, независимо от того, виден он или нет. Корень функционирует как точка остановки для обхода методов , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень должен не быть нулевым. |
+| root | Node | node, который будет служить корнем для the TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. Текущий узел TreeWalker инициализируется этим узлом независимо от того, виден он или нет. Корень функционирует как точка остановки для методов traversal , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень must не должен быть нулевым. |
 
 ### Возвращаемое значение
 
@@ -26,14 +26,14 @@ public ITreeWalker CreateTreeWalker(Node root)
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR:Возникает, если указанный корень null. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
 
 ### Смотрите также
 
-* interface [ITreeWalker](../../../aspose.html.dom.traversal/itreewalker)
-* class [Node](../../node)
-* class [Document](../../document)
-* пространство имен [Aspose.Html.Dom](../../document)
+* interface [ITreeWalker](../../../aspose.html.dom.traversal/itreewalker/)
+* class [Node](../../node/)
+* class [Document](../)
+* пространство имен [Aspose.Html.Dom](../../document/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -48,8 +48,8 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | узел, который будет служить корнем для TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. currentNode TreeWalker инициализируется этим узлом, независимо от того, виден он или нет. Корень функционирует как точка остановки для обхода методов , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень должен не быть нулевым. |
-| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представляемого обходчиком дерева. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью ИЛИ. |
+| root | Node | node, который будет служить корнем для the TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. Текущий узел TreeWalker инициализируется этим узлом независимо от того, виден он или нет. Корень функционирует как точка остановки для методов traversal , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень must не должен быть нулевым. |
+| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представленного обходчиком дерева. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью оператора ИЛИ. |
 
 ### Возвращаемое значение
 
@@ -59,14 +59,14 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow)
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR:Возникает, если указанный корень null. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
 
 ### Смотрите также
 
-* interface [ITreeWalker](../../../aspose.html.dom.traversal/itreewalker)
-* class [Node](../../node)
-* class [Document](../../document)
-* пространство имен [Aspose.Html.Dom](../../document)
+* interface [ITreeWalker](../../../aspose.html.dom.traversal/itreewalker/)
+* class [Node](../../node/)
+* class [Document](../)
+* пространство имен [Aspose.Html.Dom](../../document/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -81,9 +81,9 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filt
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | узел, который будет служить корнем для TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. currentNode TreeWalker инициализируется этим узлом, независимо от того, виден он или нет. Корень функционирует как точка остановки для обхода методов , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень должен не быть нулевым. |
-| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представляемого обходчиком дерева. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью ИЛИ. |
-| filter | INodeFilter | NodeFilter для использования с этим TreeWalker, или нуль, чтобы указать отсутствие фильтра. |
+| root | Node | node, который будет служить корнем для the TreeWalker. Флаги whatToShow и NodeFilter не учитываются при установке этого значения; любой тип узла будет принят в качестве корня. Текущий узел TreeWalker инициализируется этим узлом независимо от того, виден он или нет. Корень функционирует как точка остановки для методов traversal , которые смотрят вверх в структуре документа, таких как parentNode и nextNode. Корень must не должен быть нулевым. |
+| whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представленного обходчиком дерева. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью оператора ИЛИ. |
+| filter | INodeFilter | NodeFilter для использования с this TreeWalker или null, чтобы указать отсутствие фильтра. |
 
 ### Возвращаемое значение
 
@@ -93,15 +93,15 @@ public ITreeWalker CreateTreeWalker(Node root, long whatToShow, INodeFilter filt
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR:Возникает, если указанный корень null. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
 
 ### Смотрите также
 
-* interface [ITreeWalker](../../../aspose.html.dom.traversal/itreewalker)
-* class [Node](../../node)
-* interface [INodeFilter](../../../aspose.html.dom.traversal/inodefilter)
-* class [Document](../../document)
-* пространство имен [Aspose.Html.Dom](../../document)
+* interface [ITreeWalker](../../../aspose.html.dom.traversal/itreewalker/)
+* class [Node](../../node/)
+* interface [INodeFilter](../../../aspose.html.dom.traversal/inodefilter/)
+* class [Document](../)
+* пространство имен [Aspose.Html.Dom](../../document/)
 * сборка [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

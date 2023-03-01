@@ -1,9 +1,9 @@
 ---
-title: Unit
+title: Class Unit
 second_title: Справочник по Aspose.HTML для .NET API
-description: Предоставляет базовый класс для единиц измерения.
+description: Aspose.Html.Drawing.Unit сорт. Предоставляет базовый класс для единиц измерения.
 type: docs
-weight: 2930
+weight: 2850
 url: /ru/net/aspose.html.drawing/unit/
 ---
 ## Unit class
@@ -18,38 +18,38 @@ public abstract class Unit : IEquatable<Unit>
 
 | Имя | Описание |
 | --- | --- |
-| [UnitType](../../aspose.html.drawing/unit/unittype) { get; } | Получает тип единицы измерения[`Unit`](../unit). |
+| [UnitType](../../aspose.html.drawing/unit/unittype/) { get; } | Получает тип единицы измерения`Unit` . |
 
 ## Методы
 
 | Имя | Описание |
 | --- | --- |
-| override [Equals](../../aspose.html.drawing/unit/equals#equals_1)(object) | Определяет, равен ли указанныйObjectэтому экземпляру. |
-| virtual [Equals](../../aspose.html.drawing/unit/equals#equals)(Unit) | Определяет, равен ли указанный[`Unit`](../unit)этому экземпляру. |
-| override [GetHashCode](../../aspose.html.drawing/unit/gethashcode)() | Возвращает хэш-код для этого экземпляра. |
-| override [ToString](../../aspose.html.drawing/unit/tostring)() | ВозвращаетString, представляющий этот экземпляр. |
-| static [FromCentimeters](../../aspose.html.drawing/unit/fromcentimeters)(double) | Возвращает объект[`Length`](../length), представленный в сантиметрах. |
-| static [FromDegrees](../../aspose.html.drawing/unit/fromdegrees)(double) | Возвращает объект[`Angle`](../angle), представленный в градусах. |
-| static [FromDotsPerCentimeters](../../aspose.html.drawing/unit/fromdotspercentimeters)(double) | Возвращает объект[`Resolution`](../resolution), представленный в точках на сантиметр. |
-| static [FromDotsPerInch](../../aspose.html.drawing/unit/fromdotsperinch)(double) | Возвращает объект[`Resolution`](../resolution), представленный в точках на дюйм. |
-| static [FromDotsPerPixel](../../aspose.html.drawing/unit/fromdotsperpixel)(double) | Возвращает объект[`Resolution`](../resolution), представленный в точках на пиксели. |
-| static [FromGradians](../../aspose.html.drawing/unit/fromgradians)(double) | Возвращает объект[`Angle`](../angle), представленный в градусах. |
-| static [FromHertz](../../aspose.html.drawing/unit/fromhertz)(double) | Возвращает объект[`Frequency`](../frequency), представленный в герцах. |
-| static [FromInches](../../aspose.html.drawing/unit/frominches)(double) | Возвращает объект[`Length`](../length), представленный в дюймах. |
-| static [FromKiloHertz](../../aspose.html.drawing/unit/fromkilohertz)(double) | Возвращает объект[`Frequency`](../frequency), представленный в килогерцах. |
-| static [FromMillimeters](../../aspose.html.drawing/unit/frommillimeters)(double) | Возвращает объект[`Length`](../length), представленный в миллиметрах. |
-| static [FromMilliseconds](../../aspose.html.drawing/unit/frommilliseconds)(double) | Возвращает объект[`Time`](../time), представленный в миллисекундах. |
-| static [FromPicas](../../aspose.html.drawing/unit/frompicas)(double) | Возвращает объект[`Length`](../length), представленный в пиках. |
-| static [FromPixels](../../aspose.html.drawing/unit/frompixels)(double) | Возвращает объект[`Length`](../length), представленный в пикселях. |
-| static [FromPoints](../../aspose.html.drawing/unit/frompoints)(double) | Возвращает объект[`Length`](../length), представленный в точках. |
-| static [FromQuarterMillimeters](../../aspose.html.drawing/unit/fromquartermillimeters)(double) | Возвращает объект[`Length`](../length), представленный в четвертях миллиметра. |
-| static [FromRadians](../../aspose.html.drawing/unit/fromradians)(double) | Возвращает объект[`Angle`](../angle), представленный в радианах. |
-| static [FromSeconds](../../aspose.html.drawing/unit/fromseconds)(double) | Возвращает объект[`Time`](../time), который представлен в секундах. |
-| static [FromTurns](../../aspose.html.drawing/unit/fromturns)(double) | Возвращает объект[`Angle`](../angle), представленный по очереди. |
+| override [Equals](../../aspose.html.drawing/unit/equals/#equals_1)(object) | Определяет, является ли указанныйObject , равно этому экземпляру. |
+| virtual [Equals](../../aspose.html.drawing/unit/equals/#equals)(Unit) | Определяет, является ли указанный`Unit` , равно этому экземпляру. |
+| override [GetHashCode](../../aspose.html.drawing/unit/gethashcode/)() | Возвращает хэш-код для этого экземпляра. |
+| override [ToString](../../aspose.html.drawing/unit/tostring/)() | ВозвращаетString который представляет этот экземпляр. |
+| static [FromCentimeters](../../aspose.html.drawing/unit/fromcentimeters/)(double) | Возвращает[`Length`](../length/) объект, представленный в сантиметрах. |
+| static [FromDegrees](../../aspose.html.drawing/unit/fromdegrees/)(double) | Возвращает[`Angle`](../angle/) объект, представленный в градусах. |
+| static [FromDotsPerCentimeters](../../aspose.html.drawing/unit/fromdotspercentimeters/)(double) | Возвращает[`Resolution`](../resolution/) объект, представленный в точках на сантиметр. |
+| static [FromDotsPerInch](../../aspose.html.drawing/unit/fromdotsperinch/)(double) | Возвращает[`Resolution`](../resolution/) объект, представленный в точках на дюйм. |
+| static [FromDotsPerPixel](../../aspose.html.drawing/unit/fromdotsperpixel/)(double) | Возвращает[`Resolution`](../resolution/) объект, представленный в точках на пиксель. |
+| static [FromGradians](../../aspose.html.drawing/unit/fromgradians/)(double) | Возвращает[`Angle`](../angle/)объект, представленный в градусах. |
+| static [FromHertz](../../aspose.html.drawing/unit/fromhertz/)(double) | Возвращает[`Frequency`](../frequency/) объект, представленный в герцах. |
+| static [FromInches](../../aspose.html.drawing/unit/frominches/)(double) | Возвращает[`Length`](../length/) объект, представленный в дюймах. |
+| static [FromKiloHertz](../../aspose.html.drawing/unit/fromkilohertz/)(double) | Возвращает[`Frequency`](../frequency/) объект, представленный в килогерцах. |
+| static [FromMillimeters](../../aspose.html.drawing/unit/frommillimeters/)(double) | Возвращает[`Length`](../length/) объект, представленный в миллиметрах. |
+| static [FromMilliseconds](../../aspose.html.drawing/unit/frommilliseconds/)(double) | Возвращает[`Time`](../time/) объект, представленный в миллисекундах. |
+| static [FromPicas](../../aspose.html.drawing/unit/frompicas/)(double) | Возвращает[`Length`](../length/) объект, представленный в picas. |
+| static [FromPixels](../../aspose.html.drawing/unit/frompixels/)(double) | Возвращает[`Length`](../length/) объект, представленный в пикселях. |
+| static [FromPoints](../../aspose.html.drawing/unit/frompoints/)(double) | Возвращает[`Length`](../length/) объект, представленный в точках. |
+| static [FromQuarterMillimeters](../../aspose.html.drawing/unit/fromquartermillimeters/)(double) | Возвращает[`Length`](../length/) объект, представленный в четверти миллиметра. |
+| static [FromRadians](../../aspose.html.drawing/unit/fromradians/)(double) | Возвращает[`Angle`](../angle/) объект, представленный в радианах. |
+| static [FromSeconds](../../aspose.html.drawing/unit/fromseconds/)(double) | Возвращает[`Time`](../time/) объект, представленный в секундах. |
+| static [FromTurns](../../aspose.html.drawing/unit/fromturns/)(double) | Возвращает[`Angle`](../angle/) объект, представленный по очереди. |
 
 ### Смотрите также
 
-* пространство имен [Aspose.Html.Drawing](../../aspose.html.drawing)
+* пространство имен [Aspose.Html.Drawing](../../aspose.html.drawing/)
 * сборка [Aspose.HTML](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+
