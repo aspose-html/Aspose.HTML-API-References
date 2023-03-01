@@ -1,14 +1,14 @@
 ---
-title: Render
+title: EpubRenderer.Render
 second_title: Referencia de API de Aspose.HTML para .NET
-description: Define el método para renderizar múltiples EPubStream s en específicoIDeviceaspose.html.rendering/idevice . El renderizado se realizará una vez que no haya ninguna operación de red para cargar recursos temporizadores activos tareas de animación o haya transcurrido el tiempo de espera especificado.
+description: EpubRenderer método. Define el método para renderizar múltiples EPubStream s en específicoIDevice . El renderizado se realizará una vez que no haya ninguna operación de red para cargar recursos temporizadores activos tareas de animación o haya transcurrido el tiempo de espera especificado.
 type: docs
 weight: 20
 url: /es/net/aspose.html.rendering/epubrenderer/render/
 ---
 ## Render(IDevice, TimeSpan, params Stream[]) {#render_9}
 
-Define el método para renderizar múltiples EPubStream s en específico[`IDevice`](../../idevice) . El renderizado se realizará una vez que no haya ninguna operación de red para cargar recursos, temporizadores activos, tareas de animación o haya transcurrido el tiempo de espera especificado.
+Define el método para renderizar múltiples EPubStream s en específico[`IDevice`](../../idevice/) . El renderizado se realizará una vez que no haya ninguna operación de red para cargar recursos, temporizadores activos, tareas de animación o haya transcurrido el tiempo de espera especificado.
 
 ```csharp
 public override void Render(IDevice device, TimeSpan timeout, params Stream[] documents)
@@ -22,16 +22,16 @@ public override void Render(IDevice device, TimeSpan timeout, params Stream[] do
 
 ### Ver también
 
-* interface [IDevice](../../idevice)
-* class [EpubRenderer](../../epubrenderer)
-* espacio de nombres [Aspose.Html.Rendering](../../epubrenderer)
+* interface [IDevice](../../idevice/)
+* class [EpubRenderer](../)
+* espacio de nombres [Aspose.Html.Rendering](../../epubrenderer/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, Stream, Configuration) {#render_4}
 
-Representa el documento EPub en el[`IDevice`](../../idevice) .
+Representa el documento EPub en el[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, Stream document, Configuration configuration)
@@ -45,17 +45,17 @@ public void Render(IDevice device, Stream document, Configuration configuration)
 
 ### Ver también
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [EpubRenderer](../../epubrenderer)
-* espacio de nombres [Aspose.Html.Rendering](../../epubrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [EpubRenderer](../)
+* espacio de nombres [Aspose.Html.Rendering](../../epubrenderer/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, Stream, Configuration, TimeSpan) {#render_5}
 
-Representa el documento EPub en el[`IDevice`](../../idevice) . El renderizado se realizará una vez que no haya ninguna operación de red para cargar recursos, temporizadores activos, tareas de animación o haya transcurrido el tiempo de espera especificado.
+Representa el documento EPub en el[`IDevice`](../../idevice/) . El renderizado se realizará una vez que no haya ninguna operación de red para cargar recursos, temporizadores activos, tareas de animación o haya transcurrido el tiempo de espera especificado.
 
 ```csharp
 public void Render(IDevice device, Stream document, Configuration configuration, TimeSpan timeout)
@@ -70,17 +70,17 @@ public void Render(IDevice device, Stream document, Configuration configuration,
 
 ### Ver también
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [EpubRenderer](../../epubrenderer)
-* espacio de nombres [Aspose.Html.Rendering](../../epubrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [EpubRenderer](../)
+* espacio de nombres [Aspose.Html.Rendering](../../epubrenderer/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, IList&lt;Stream&gt;, Configuration) {#render_1}
 
-Representa múltiples documentos EPub en[`IDevice`](../../idevice) .
+Representa múltiples documentos EPub en[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, IList<Stream> documents, Configuration configuration)
@@ -89,22 +89,22 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
 | device | IDevice | El dispositivo. |
-| documents | IList`1 | losIList de documentos a rendir. |
+| documents | IList`1 | ElIList de documentos a rendir. |
 | configuration | Configuration | La configuración. |
 
 ### Ver también
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [EpubRenderer](../../epubrenderer)
-* espacio de nombres [Aspose.Html.Rendering](../../epubrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [EpubRenderer](../)
+* espacio de nombres [Aspose.Html.Rendering](../../epubrenderer/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, IList&lt;Stream&gt;, Configuration, TimeSpan) {#render_2}
 
-Representa múltiples documentos EPub en[`IDevice`](../../idevice) . El renderizado se realizará una vez que no haya ninguna operación de red para cargar recursos, temporizadores activos, tareas de animación o haya transcurrido el tiempo de espera especificado.
+Representa múltiples documentos EPub en[`IDevice`](../../idevice/) . El renderizado se realizará una vez que no haya ninguna operación de red para cargar recursos, temporizadores activos, tareas de animación o haya transcurrido el tiempo de espera especificado.
 
 ```csharp
 public void Render(IDevice device, IList<Stream> documents, Configuration configuration, 
@@ -114,16 +114,16 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
 | device | IDevice | El dispositivo. |
-| documents | IList`1 | losIList de documentos a rendir. |
+| documents | IList`1 | ElIList de documentos a rendir. |
 | configuration | Configuration | La configuración. |
 | timeout | TimeSpan | ATimeSpan que representa el número de milisegundos a esperar, o unTimeSpan eso representa -1 milisegundo para esperar indefinidamente. |
 
 ### Ver también
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [EpubRenderer](../../epubrenderer)
-* espacio de nombres [Aspose.Html.Rendering](../../epubrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [EpubRenderer](../)
+* espacio de nombres [Aspose.Html.Rendering](../../epubrenderer/)
 * asamblea [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+
