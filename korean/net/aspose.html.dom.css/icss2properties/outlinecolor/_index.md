@@ -1,0 +1,27 @@
+---
+title: ICSS2Properties.OutlineColor
+second_title: .NET API 참조용 Aspose.HTML
+description: ICSS2Properties 재산. CSS2의 outlinecolor 속성 정의를 참조하십시오.
+type: docs
+weight: 760
+url: /ko/net/aspose.html.dom.css/icss2properties/outlinecolor/
+---
+## ICSS2Properties.OutlineColor property
+
+CSS2의 outline-color 속성 정의를 참조하십시오.
+
+```csharp
+public string OutlineColor { get; set; }
+```
+
+### 반환 값
+
+외곽선 색상 속성
+
+### 또한보십시오
+
+* interface [ICSS2Properties](../)
+* 네임스페이스 [Aspose.Html.Dom.Css](../../icss2properties/)
+* 집회 [Aspose.HTML](../../../)
+
+
