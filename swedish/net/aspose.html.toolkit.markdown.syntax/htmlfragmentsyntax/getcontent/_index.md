@@ -1,0 +1,27 @@
+---
+title: HTMLFragmentSyntax.GetContent
+second_title: Aspose.HTML för .NET API Referens
+description: HTMLFragmentSyntax metod. Definierar gränssnittet för get Content.
+type: docs
+weight: 20
+url: /sv/net/aspose.html.toolkit.markdown.syntax/htmlfragmentsyntax/getcontent/
+---
+## HTMLFragmentSyntax.GetContent method
+
+Definierar gränssnittet för get Content.
+
+```csharp
+public string GetContent()
+```
+
+### Returvärde
+
+Tråden.
+
+### Se även
+
+* class [HTMLFragmentSyntax](../)
+* namnutrymme [Aspose.Html.Toolkit.Markdown.Syntax](../../htmlfragmentsyntax/)
+* hopsättning [Aspose.HTML](../../../)
+
+

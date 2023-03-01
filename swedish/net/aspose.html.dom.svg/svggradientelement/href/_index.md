@@ -1,0 +1,28 @@
+---
+title: SVGGradientElement.Href
+second_title: Aspose.HTML för .NET API Referens
+description: SVGGradientElement fast egendom. Motsvarar attributet xlinkhref på det givna elementet.
+type: docs
+weight: 30
+url: /sv/net/aspose.html.dom.svg/svggradientelement/href/
+---
+## SVGGradientElement.Href property
+
+Motsvarar attributet 'xlink:href' på det givna elementet.
+
+```csharp
+public SVGAnimatedString Href { get; }
+```
+
+### Fastighetsvärde
+
+'xlink:href' för det givna elementet.
+
+### Se även
+
+* class [SVGAnimatedString](../../../aspose.html.dom.svg.datatypes/svganimatedstring/)
+* class [SVGGradientElement](../)
+* namnutrymme [Aspose.Html.Dom.Svg](../../svggradientelement/)
+* hopsättning [Aspose.HTML](../../../)
+
+
