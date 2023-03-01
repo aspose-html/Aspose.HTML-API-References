@@ -1,14 +1,14 @@
 ---
-title: ConvertTemplate
+title: Converter.ConvertTemplate
 second_title: Справочник по Aspose.HTML для .NET API
-description: Объединить html шаблон с пользовательскими данными. Результат - html файл.
+description: Converter метод. Объединить HTMLшаблон с пользовательскими данными. Результат  htmlфайл.
 type: docs
 weight: 60
 url: /ru/net/aspose.html.converters/converter/converttemplate/
 ---
 ## ConvertTemplate(HTMLDocument, TemplateData, TemplateLoadOptions, string) {#converttemplate_7}
 
-Объединить html шаблон с пользовательскими данными. Результат - html файл.
+Объединить HTML-шаблон с пользовательскими данными. Результат - html-файл.
 
 ```csharp
 public static void ConvertTemplate(HTMLDocument template, TemplateData data, 
@@ -17,25 +17,25 @@ public static void ConvertTemplate(HTMLDocument template, TemplateData data,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| template | HTMLDocument | Исходный скелет html doc. |
+| template | HTMLDocument | Исходный скелет HTML-документа. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(Url, TemplateData, TemplateLoadOptions, string) {#converttemplate_9}
 
-Объединить html шаблон с пользовательскими данными. Результат - html файл.
+Объединить HTML-шаблон с пользовательскими данными. Результат - html-файл.
 
 ```csharp
 public static void ConvertTemplate(Url url, TemplateData data, TemplateLoadOptions options, 
@@ -46,23 +46,23 @@ public static void ConvertTemplate(Url url, TemplateData data, TemplateLoadOptio
 | --- | --- | --- |
 | url | Url | URL исходного документа шаблона. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(Url, Configuration, TemplateData, TemplateLoadOptions, string) {#converttemplate_8}
 
-Объединить html шаблон с пользовательскими данными. Результат - html файл.
+Объединить HTML-шаблон с пользовательскими данными. Результат - html-файл.
 
 ```csharp
 public static void ConvertTemplate(Url url, Configuration configuration, TemplateData data, 
@@ -72,26 +72,26 @@ public static void ConvertTemplate(Url url, Configuration configuration, Templat
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | url | Url | URL исходного документа шаблона. |
-| configuration | Configuration | Конфигурация среды. |
+| configuration | Configuration | Конфигурация окружения. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, TemplateData, TemplateLoadOptions, string) {#converttemplate_11}
 
-Объединить html шаблон с пользовательскими данными. Результат - html файл.
+Объединить HTML-шаблон с пользовательскими данными. Результат - html-файл.
 
 ```csharp
 public static void ConvertTemplate(string sourcePath, TemplateData data, 
@@ -100,24 +100,24 @@ public static void ConvertTemplate(string sourcePath, TemplateData data,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному HTML-файлу шаблона. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| sourcePath | String | Путь к исходному html файлу шаблона. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, Configuration, TemplateData, TemplateLoadOptions, string) {#converttemplate_10}
 
-Объединить html шаблон с пользовательскими данными. Результат - html файл.
+Объединить HTML-шаблон с пользовательскими данными. Результат - html-файл.
 
 ```csharp
 public static void ConvertTemplate(string sourcePath, Configuration configuration, 
@@ -126,26 +126,26 @@ public static void ConvertTemplate(string sourcePath, Configuration configuratio
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному HTML-файлу шаблона. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
+| sourcePath | String | Путь к исходному html файлу шаблона. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, string, TemplateData, TemplateLoadOptions, string) {#converttemplate_13}
 
-Объединить html шаблон с пользовательскими данными. Результат - html файл.
+Объединить HTML-шаблон с пользовательскими данными. Результат - html-файл.
 
 ```csharp
 public static void ConvertTemplate(string content, string baseUrl, TemplateData data, 
@@ -154,25 +154,25 @@ public static void ConvertTemplate(string content, string baseUrl, TemplateData 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенный HTML-шаблон - скелет. |
-| baseUrl | String | Базовый URI шаблона html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| content | String | Встроенный html-шаблон - скелет. |
+| baseUrl | String | Базовый URI html-шаблона. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, string, Configuration, TemplateData, TemplateLoadOptions, string) {#converttemplate_12}
 
-Объединить html шаблон с пользовательскими данными. Результат - html файл.
+Объединить HTML-шаблон с пользовательскими данными. Результат - html-файл.
 
 ```csharp
 public static void ConvertTemplate(string content, string baseUrl, Configuration configuration, 
@@ -181,27 +181,27 @@ public static void ConvertTemplate(string content, string baseUrl, Configuration
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенный HTML-шаблон - скелет. |
-| baseUrl | String | Базовый URI шаблона html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
+| content | String | Встроенный html-шаблон - скелет. |
+| baseUrl | String | Базовый URI html-шаблона. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 | outputPath | String | Путь к выходному файлу. |
 
 ### Смотрите также
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(HTMLDocument, TemplateData, TemplateLoadOptions) {#converttemplate}
 
-Объединить html шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument).
+Объединить HTML-шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(HTMLDocument template, TemplateData data, 
@@ -210,9 +210,9 @@ public static HTMLDocument ConvertTemplate(HTMLDocument template, TemplateData d
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| template | HTMLDocument | Исходный скелет html doc. |
+| template | HTMLDocument | Исходный скелет HTML-документа. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 
 ### Возвращаемое значение
 
@@ -220,18 +220,18 @@ public static HTMLDocument ConvertTemplate(HTMLDocument template, TemplateData d
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(Url, TemplateData, TemplateLoadOptions) {#converttemplate_2}
 
-Объединить html шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument).
+Объединить HTML-шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(Url url, TemplateData data, TemplateLoadOptions options)
@@ -241,7 +241,7 @@ public static HTMLDocument ConvertTemplate(Url url, TemplateData data, TemplateL
 | --- | --- | --- |
 | url | Url | URL исходного документа шаблона. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 
 ### Возвращаемое значение
 
@@ -249,19 +249,19 @@ public static HTMLDocument ConvertTemplate(Url url, TemplateData data, TemplateL
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Url](../../../aspose.html/url)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Url](../../../aspose.html/url/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(Url, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_1}
 
-Объединить html шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument).
+Объединить HTML-шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(Url url, Configuration configuration, TemplateData data, 
@@ -271,9 +271,9 @@ public static HTMLDocument ConvertTemplate(Url url, Configuration configuration,
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | url | Url | URL исходного документа шаблона. |
-| configuration | Configuration | Конфигурация среды. |
+| configuration | Configuration | Конфигурация окружения. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 
 ### Возвращаемое значение
 
@@ -281,20 +281,20 @@ public static HTMLDocument ConvertTemplate(Url url, Configuration configuration,
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, TemplateData, TemplateLoadOptions) {#converttemplate_4}
 
-Объединить html шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument).
+Объединить HTML-шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string sourcePath, TemplateData data, 
@@ -303,9 +303,9 @@ public static HTMLDocument ConvertTemplate(string sourcePath, TemplateData data,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному HTML-файлу шаблона. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| sourcePath | String | Путь к исходному html файлу шаблона. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 
 ### Возвращаемое значение
 
@@ -313,18 +313,18 @@ public static HTMLDocument ConvertTemplate(string sourcePath, TemplateData data,
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_3}
 
-Объединить html шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument).
+Объединить HTML-шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string sourcePath, Configuration configuration, 
@@ -333,10 +333,10 @@ public static HTMLDocument ConvertTemplate(string sourcePath, Configuration conf
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| sourcePath | String | Путь к исходному HTML-файлу шаблона. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
+| sourcePath | String | Путь к исходному html файлу шаблона. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 
 ### Возвращаемое значение
 
@@ -344,19 +344,19 @@ public static HTMLDocument ConvertTemplate(string sourcePath, Configuration conf
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, string, TemplateData, TemplateLoadOptions) {#converttemplate_6}
 
-Объединить html шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument).
+Объединить HTML-шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string content, string baseUrl, TemplateData data, 
@@ -365,10 +365,10 @@ public static HTMLDocument ConvertTemplate(string content, string baseUrl, Templ
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенный HTML-шаблон - скелет. |
-| baseUrl | String | Базовый URI шаблона html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| content | String | Встроенный html-шаблон - скелет. |
+| baseUrl | String | Базовый URI html-шаблона. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 
 ### Возвращаемое значение
 
@@ -376,18 +376,18 @@ public static HTMLDocument ConvertTemplate(string content, string baseUrl, Templ
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertTemplate(string, string, Configuration, TemplateData, TemplateLoadOptions) {#converttemplate_5}
 
-Объединить html шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument).
+Объединить HTML-шаблон с пользовательскими данными. Результат[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertTemplate(string content, string baseUrl, 
@@ -396,11 +396,11 @@ public static HTMLDocument ConvertTemplate(string content, string baseUrl,
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Встроенный HTML-шаблон - скелет. |
-| baseUrl | String | Базовый URI шаблона html. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
-| configuration | Configuration | Конфигурация среды. |
+| content | String | Встроенный html-шаблон - скелет. |
+| baseUrl | String | Базовый URI html-шаблона. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
+| configuration | Configuration | Конфигурация окружения. |
 | data | TemplateData | Данные для слияния (XML, JSON). |
-| options | TemplateLoadOptions | Объединение объекта опций. |
+| options | TemplateLoadOptions | Объединение объектов опций. |
 
 ### Возвращаемое значение
 
@@ -408,12 +408,12 @@ public static HTMLDocument ConvertTemplate(string content, string baseUrl,
 
 ### Смотрите также
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [TemplateData](../../templatedata)
-* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions)
-* class [Converter](../../converter)
-* пространство имен [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TemplateData](../../templatedata/)
+* class [TemplateLoadOptions](../../../aspose.html.loading/templateloadoptions/)
+* class [Converter](../)
+* пространство имен [Aspose.Html.Converters](../../converter/)
 * сборка [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

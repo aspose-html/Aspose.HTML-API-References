@@ -1,7 +1,7 @@
 ---
-title: Submit
+title: FormSubmitter.Submit
 second_title: Справочник по Aspose.HTML для .NET API
-description: Отправляет данные формы на сервер.
+description: FormSubmitter метод. Отправляет данные формы на сервер.
 type: docs
 weight: 50
 url: /ru/net/aspose.html.forms/formsubmitter/submit/
@@ -16,13 +16,13 @@ public SubmissionResult Submit()
 
 ### Возвращаемое значение
 
-Результат отправки.
+Результат подачи.
 
 ### Смотрите также
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* пространство имен [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* пространство имен [Aspose.Html.Forms](../../formsubmitter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -37,17 +37,17 @@ public SubmissionResult Submit(CookieContainer cookieContainer)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| cookieContainer | CookieContainer | Контейнер cookie. |
+| cookieContainer | CookieContainer | Контейнер для печенья. |
 
 ### Возвращаемое значение
 
-Результат отправки.
+Результат подачи.
 
 ### Смотрите также
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* пространство имен [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* пространство имен [Aspose.Html.Forms](../../formsubmitter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -66,13 +66,13 @@ public SubmissionResult Submit(ICredentials credentials)
 
 ### Возвращаемое значение
 
-Результат отправки.
+Результат подачи.
 
 ### Смотрите также
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* пространство имен [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* пространство имен [Aspose.Html.Forms](../../formsubmitter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -88,17 +88,17 @@ public SubmissionResult Submit(ICredentials credentials, CookieContainer cookieC
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | credentials | ICredentials | Информация аутентификации для запроса. |
-| cookieContainer | CookieContainer | Контейнер cookie. |
+| cookieContainer | CookieContainer | Контейнер для печенья. |
 
 ### Возвращаемое значение
 
-Результат отправки.
+Результат подачи.
 
 ### Смотрите также
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* пространство имен [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* пространство имен [Aspose.Html.Forms](../../formsubmitter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -117,20 +117,20 @@ public SubmissionResult Submit(TimeSpan timeout)
 
 ### Возвращаемое значение
 
-Результат отправки.
+Результат подачи.
 
 ### Смотрите также
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* пространство имен [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* пространство имен [Aspose.Html.Forms](../../formsubmitter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## Submit(TimeSpan, CookieContainer) {#submit_9}
 
-Отправляет данные формы на сервер с заданным временем ожидания и куки.
+Отправляет данные формы на сервер с указанным временем ожидания и файлами cookie.
 
 ```csharp
 public SubmissionResult Submit(TimeSpan timeout, CookieContainer cookieContainer)
@@ -139,17 +139,17 @@ public SubmissionResult Submit(TimeSpan timeout, CookieContainer cookieContainer
 | Параметр | Тип | Описание |
 | --- | --- | --- |
 | timeout | TimeSpan | Количество миллисекунд ожидания до истечения времени ожидания запроса. |
-| cookieContainer | CookieContainer | Контейнер cookie. |
+| cookieContainer | CookieContainer | Контейнер для печенья. |
 
 ### Возвращаемое значение
 
-Результат отправки.
+Результат подачи.
 
 ### Смотрите также
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* пространство имен [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* пространство имен [Aspose.Html.Forms](../../formsubmitter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -169,13 +169,13 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout)
 
 ### Возвращаемое значение
 
-Результат отправки.
+Результат подачи.
 
 ### Смотрите также
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* пространство имен [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* пространство имен [Aspose.Html.Forms](../../formsubmitter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -193,17 +193,17 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout,
 | --- | --- | --- |
 | credentials | ICredentials | Информация аутентификации для запроса. |
 | timeout | TimeSpan | Количество миллисекунд ожидания до истечения времени ожидания запроса. |
-| cookieContainer | CookieContainer | Контейнер cookie. |
+| cookieContainer | CookieContainer | Контейнер для печенья. |
 
 ### Возвращаемое значение
 
-Результат отправки.
+Результат подачи.
 
 ### Смотрите также
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* пространство имен [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* пространство имен [Aspose.Html.Forms](../../formsubmitter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -224,13 +224,13 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout, bool 
 
 ### Возвращаемое значение
 
-Результат отправки.
+Результат подачи.
 
 ### Смотрите также
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* пространство имен [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* пространство имен [Aspose.Html.Forms](../../formsubmitter/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -249,17 +249,17 @@ public SubmissionResult Submit(ICredentials credentials, TimeSpan timeout, bool 
 | credentials | ICredentials | Информация аутентификации для запроса. |
 | timeout | TimeSpan | Количество миллисекунд ожидания до истечения времени ожидания запроса. |
 | preAuthenticate | Boolean | Значение, указывающее, следует ли отправлять заголовок авторизации вместе с запросом. |
-| cookieContainer | CookieContainer | Контейнер cookie. |
+| cookieContainer | CookieContainer | Контейнер для печенья. |
 
 ### Возвращаемое значение
 
-Результат отправки.
+Результат подачи.
 
 ### Смотрите также
 
-* class [SubmissionResult](../../submissionresult)
-* class [FormSubmitter](../../formsubmitter)
-* пространство имен [Aspose.Html.Forms](../../formsubmitter)
+* class [SubmissionResult](../../submissionresult/)
+* class [FormSubmitter](../)
+* пространство имен [Aspose.Html.Forms](../../formsubmitter/)
 * сборка [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: RemoveEventListener
+title: EventTarget.RemoveEventListener
 second_title: Справочник по Aspose.HTML для .NET API
-description: Этот метод позволяет удалить прослушиватели событий из цели события. ЕслиIEventListeneraspose.html.dom.events/ieventlistenerудален изEventTargetaspose.html.dom/eventtargetв то время как он обрабатывает событие он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления.
+description: EventTarget метод. Этот метод позволяет удалить прослушиватели событий из цели события. ЕслиIEventListener удаляется изEventTarget пока он обрабатывает событие он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления.
 type: docs
 weight: 40
 url: /ru/net/aspose.html.dom/eventtarget/removeeventlistener/
 ---
 ## RemoveEventListener(string, DOMEventHandler, bool) {#removeeventlistener}
 
-Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../../aspose.html.dom.events/ieventlistener)удален из[`EventTarget`](../../eventtarget)в то время как он обрабатывает событие, он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления.
+Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) удаляется из[`EventTarget`](../) пока он обрабатывает событие, он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления.
 
 ```csharp
 public void RemoveEventListener(string type, DOMEventHandler handler, bool useCapture)
@@ -16,22 +16,22 @@ public void RemoveEventListener(string type, DOMEventHandler handler, bool useCa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | String | Определяет тип события[`IEventListener`](../../../aspose.html.dom.events/ieventlistener)удаляются. |
-| handler | DOMEventHandler | Параметр[`DOMEventHandler`](../../../aspose.html.dom.events/domeventhandler)указывает[`IEventListener`](../../../aspose.html.dom.events/ieventlistener)удалить. |
-| useCapture | Boolean | Указывает, был ли удаляемый EventListener зарегистрирован как прослушиватель захвата или нет. Если прослушиватель был зарегистрирован дважды, один раз с захватом и один без, каждый из них должен быть удален отдельно. Удаление захватывающего приемника не влияет на не захватывающую версию того же приемника, и наоборот. |
+| type | String | Определяет тип события[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) удаляются. |
+| handler | DOMEventHandler | [`DOMEventHandler`](../../../aspose.html.dom.events/domeventhandler/) параметр указывает[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) быть удалены. |
+| useCapture | Boolean | Указывает, был ли удаленный EventListener зарегистрирован как прослушиватель захвата или нет. Если прослушиватель был зарегистрирован дважды, один с захватом и один без, каждый из них должен быть удален отдельно. того же слушателя и наоборот. |
 
 ### Смотрите также
 
-* delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler)
-* class [EventTarget](../../eventtarget)
-* пространство имен [Aspose.Html.Dom](../../eventtarget)
+* delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler/)
+* class [EventTarget](../)
+* пространство имен [Aspose.Html.Dom](../../eventtarget/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## RemoveEventListener(string, IEventListener) {#removeeventlistener_1}
 
-Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../../aspose.html.dom.events/ieventlistener)удален из[`EventTarget`](../../eventtarget)в то время как он обрабатывает событие, он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления.
+Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) удаляется из[`EventTarget`](../) пока он обрабатывает событие, он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления.
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener)
@@ -39,21 +39,21 @@ public void RemoveEventListener(string type, IEventListener listener)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | String | Определяет тип события[`IEventListener`](../../../aspose.html.dom.events/ieventlistener)удаляются. |
-| listener | IEventListener | Параметр[`IEventListener`](../../../aspose.html.dom.events/ieventlistener)указывает[`IEventListener`](../../../aspose.html.dom.events/ieventlistener)удалить. |
+| type | String | Определяет тип события[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) удаляются. |
+| listener | IEventListener | [`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) параметр указывает[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) быть удалены. |
 
 ### Смотрите также
 
-* interface [IEventListener](../../../aspose.html.dom.events/ieventlistener)
-* class [EventTarget](../../eventtarget)
-* пространство имен [Aspose.Html.Dom](../../eventtarget)
+* interface [IEventListener](../../../aspose.html.dom.events/ieventlistener/)
+* class [EventTarget](../)
+* пространство имен [Aspose.Html.Dom](../../eventtarget/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## RemoveEventListener(string, IEventListener, bool) {#removeeventlistener_2}
 
-Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../../aspose.html.dom.events/ieventlistener)удален из[`EventTarget`](../../eventtarget)в то время как он обрабатывает событие, он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления.
+Этот метод позволяет удалить прослушиватели событий из цели события. Если[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) удаляется из[`EventTarget`](../) пока он обрабатывает событие, он не будет запущен текущими действиями. Прослушиватели событий никогда не могут быть вызваны после удаления.
 
 ```csharp
 public void RemoveEventListener(string type, IEventListener listener, bool useCapture)
@@ -61,15 +61,15 @@ public void RemoveEventListener(string type, IEventListener listener, bool useCa
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| type | String | Определяет тип события[`IEventListener`](../../../aspose.html.dom.events/ieventlistener)удаляются. |
-| listener | IEventListener | Параметр[`IEventListener`](../../../aspose.html.dom.events/ieventlistener)указывает[`IEventListener`](../../../aspose.html.dom.events/ieventlistener)удалить. |
-| useCapture | Boolean | Указывает, был ли удаляемый EventListener зарегистрирован как прослушиватель захвата или нет. Если прослушиватель был зарегистрирован дважды, один раз с захватом и один без, каждый из них должен быть удален отдельно. Удаление захватывающего приемника не влияет на не захватывающую версию того же приемника, и наоборот. |
+| type | String | Определяет тип события[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) удаляются. |
+| listener | IEventListener | [`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) параметр указывает[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) быть удалены. |
+| useCapture | Boolean | Указывает, был ли удаленный EventListener зарегистрирован как прослушиватель захвата или нет. Если прослушиватель был зарегистрирован дважды, один с захватом и один без, каждый из них должен быть удален отдельно. того же слушателя и наоборот. |
 
 ### Смотрите также
 
-* interface [IEventListener](../../../aspose.html.dom.events/ieventlistener)
-* class [EventTarget](../../eventtarget)
-* пространство имен [Aspose.Html.Dom](../../eventtarget)
+* interface [IEventListener](../../../aspose.html.dom.events/ieventlistener/)
+* class [EventTarget](../)
+* пространство имен [Aspose.Html.Dom](../../eventtarget/)
 * сборка [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+
