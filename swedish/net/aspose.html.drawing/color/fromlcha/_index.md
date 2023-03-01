@@ -1,0 +1,34 @@
+---
+title: Color.FromLcha
+second_title: Aspose.HTML för .NET API Referens
+description: Color metod. Returnerar en ny färg med de begärda värdena för luminans chroma nyans alfa.
+type: docs
+weight: 150
+url: /sv/net/aspose.html.drawing/color/fromlcha/
+---
+## Color.FromLcha method
+
+Returnerar en ny färg med de begärda värdena för luminans, chroma, nyans, alfa.
+
+```csharp
+public static Color FromLcha(float luminance, float chroma, float hue, float alpha)
+```
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| luminance | Single | En flottör som representerar färgens luminanskomponent. |
+| chroma | Single | En float som representerar färgens chroma-komponent. |
+| hue | Single | En float som representerar nyanskomponenten i färgen. |
+| alpha | Single | En float som representerar alfakomponenten i färgen. |
+
+### Returvärde
+
+En ny instans av[`Color`](../) klass
+
+### Se även
+
+* class [Color](../)
+* namnutrymme [Aspose.Html.Drawing](../../color/)
+* hopsättning [Aspose.HTML](../../../)
+
+
