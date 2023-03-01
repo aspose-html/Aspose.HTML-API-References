@@ -1,14 +1,14 @@
 ---
-title: HTMLDocument
+title: HTMLDocument.HTMLDocument
 second_title: Aspose.HTML für .NET-API-Referenz
-description: Initialisiert eine neue Instanz vonHTMLDocumentaspose.html/htmldocument Klasse.
+description: HTMLDocument constructeur. Initialisiert eine neue Instanz vonHTMLDocument Klasse.
 type: docs
 weight: 10
 url: /de/net/aspose.html/htmldocument/htmldocument/
 ---
 ## HTMLDocument() {#constructor}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse.
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse.
 
 ```csharp
 public HTMLDocument()
@@ -16,15 +16,15 @@ public HTMLDocument()
 
 ### Siehe auch
 
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Configuration) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse.
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse.
 
 ```csharp
 public HTMLDocument(Configuration configuration)
@@ -36,16 +36,16 @@ public HTMLDocument(Configuration configuration)
 
 ### Siehe auch
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Url) {#constructor_4}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(Url url)
@@ -57,16 +57,16 @@ public HTMLDocument(Url url)
 
 ### Siehe auch
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Url, Configuration) {#constructor_5}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(Url url, Configuration configuration)
@@ -79,17 +79,17 @@ public HTMLDocument(Url url, Configuration configuration)
 
 ### Siehe auch
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string) {#constructor_10}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string address)
@@ -101,15 +101,15 @@ public HTMLDocument(string address)
 
 ### Siehe auch
 
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, Configuration) {#constructor_11}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string address, Configuration configuration)
@@ -122,16 +122,16 @@ public HTMLDocument(string address, Configuration configuration)
 
 ### Siehe auch
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, string) {#constructor_14}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string content, string baseUri)
@@ -146,19 +146,19 @@ public HTMLDocument(string content, string baseUri)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | `baseUri` ist`Null`. |
+| ArgumentNullException | `baseUri` Ist`Null`. |
 
 ### Siehe auch
 
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, string, Configuration) {#constructor_15}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string content, string baseUri, Configuration configuration)
@@ -174,20 +174,20 @@ public HTMLDocument(string content, string baseUri, Configuration configuration)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | `baseUri` ist`Null`. |
+| ArgumentNullException | `baseUri` Ist`Null`. |
 
 ### Siehe auch
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, Url) {#constructor_12}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string content, Url baseUri)
@@ -202,20 +202,20 @@ public HTMLDocument(string content, Url baseUri)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | `baseUri` ist`Null`. |
+| ArgumentNullException | `baseUri` Ist`Null`. |
 
 ### Siehe auch
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, Url, Configuration) {#constructor_13}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string content, Url baseUri, Configuration configuration)
@@ -231,21 +231,21 @@ public HTMLDocument(string content, Url baseUri, Configuration configuration)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | `baseUri` ist`Null`. |
+| ArgumentNullException | `baseUri` Ist`Null`. |
 
 ### Siehe auch
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Stream, string) {#constructor_8}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) . Das Laden des Dokuments beginnt an der aktuellen Position im Stream.
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) . Das Laden des Dokuments beginnt an der aktuellen Position im Stream.
 
 ```csharp
 public HTMLDocument(Stream content, string baseUri)
@@ -260,19 +260,19 @@ public HTMLDocument(Stream content, string baseUri)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | `baseUri` ist`Null`. |
+| ArgumentNullException | `baseUri` Ist`Null`. |
 
 ### Siehe auch
 
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Stream, string, Configuration) {#constructor_9}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) . Das Laden des Dokuments beginnt an der aktuellen Position im Stream.
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) . Das Laden des Dokuments beginnt an der aktuellen Position im Stream.
 
 ```csharp
 public HTMLDocument(Stream content, string baseUri, Configuration configuration)
@@ -288,20 +288,20 @@ public HTMLDocument(Stream content, string baseUri, Configuration configuration)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | `baseUri` ist`Null`. |
+| ArgumentNullException | `baseUri` Ist`Null`. |
 
 ### Siehe auch
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Stream, Url) {#constructor_6}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) . Das Laden des Dokuments beginnt an der aktuellen Position im Stream.
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) . Das Laden des Dokuments beginnt an der aktuellen Position im Stream.
 
 ```csharp
 public HTMLDocument(Stream content, Url baseUri)
@@ -316,20 +316,20 @@ public HTMLDocument(Stream content, Url baseUri)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | `baseUri` ist`Null`. |
+| ArgumentNullException | `baseUri` Ist`Null`. |
 
 ### Siehe auch
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Stream, Url, Configuration) {#constructor_7}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) . Das Laden des Dokuments beginnt an der aktuellen Position im Stream.
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) . Das Laden des Dokuments beginnt an der aktuellen Position im Stream.
 
 ```csharp
 public HTMLDocument(Stream content, Url baseUri, Configuration configuration)
@@ -345,21 +345,21 @@ public HTMLDocument(Stream content, Url baseUri, Configuration configuration)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | `baseUri` ist`Null`. |
+| ArgumentNullException | `baseUri` Ist`Null`. |
 
 ### Siehe auch
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(RequestMessage) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(RequestMessage request)
@@ -371,16 +371,16 @@ public HTMLDocument(RequestMessage request)
 
 ### Siehe auch
 
-* class [RequestMessage](../../../aspose.html.net/requestmessage)
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [RequestMessage](../../../aspose.html.net/requestmessage/)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(RequestMessage, Configuration) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`HTMLDocument`](../../htmldocument) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialisiert eine neue Instanz von[`HTMLDocument`](../) Klasse. Der Konstruktor arbeitet synchron, er wartet auf das Laden aller externen Ressourcen (Bilder, Skripte usw.). Um das Dokument asynchron zu laden, verwenden Sie die Methode[`Navigate`](../../../aspose.html.dom/document/navigate/) oder seine Überladungen. Oder Sie können das Laden einiger externer Ressourcen deaktivieren, indem Sie entsprechende Flags setzen[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(RequestMessage request, Configuration configuration)
@@ -393,10 +393,10 @@ public HTMLDocument(RequestMessage request, Configuration configuration)
 
 ### Siehe auch
 
-* class [RequestMessage](../../../aspose.html.net/requestmessage)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* namensraum [Aspose.Html](../../htmldocument)
+* class [RequestMessage](../../../aspose.html.net/requestmessage/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* namensraum [Aspose.Html](../../htmldocument/)
 * Montage [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+
