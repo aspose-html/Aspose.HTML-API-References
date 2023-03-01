@@ -1,9 +1,9 @@
 ---
-title: Location
+title: Class Location
 second_title: Aspose.HTML لمرجع .NET API
-description: توفر كائنات الموقع تمثيلاً لعنوان المستند النشط لسياق استعراض المستند الخاص بهم  وتسمح بتغيير الإدخال الحالي لمحفوظات جلسة سياق الاستعراض  عن طريق إضافة أو استبدال الإدخالات في كائن المحفوظات.
+description: Aspose.Html.Window.Location فصل. توفر كائنات الموقع تمثيلاً لعنوان المستند النشط لسياق استعراض المستند الخاص بهم  وتسمح بتغيير الإدخال الحالي لمحفوظات جلسة سياق الاستعراض  عن طريق إضافة أو استبدال الإدخالات في كائن المحفوظات.
 type: docs
-weight: 4860
+weight: 5880
 url: /ar/net/aspose.html.window/location/
 ---
 ## Location class
@@ -18,36 +18,36 @@ public sealed class Location : Url
 
 | اسم | وصف |
 | --- | --- |
-| [Hash](../../aspose.html/url/hash) { get; set; } | الحصول على تمثيل سلسلة أو تعيينه لقطاع تجزئة عنوان URL المحدد. |
-| [Host](../../aspose.html/url/host) { get; set; } | الحصول على أو تعيين تمثيل سلسلة لمضيف عنوان URL المحدد. |
-| [Hostname](../../aspose.html/url/hostname) { get; set; } | الحصول على أو تعيين سلسلة تمثيل لاسم مضيف URL المحدد. |
-| [Href](../../aspose.html/url/href) { get; set; } | الحصول على أو تعيين تمثيل متسلسل لمثيل عنوان URL المحدد. |
-| [Origin](../../aspose.html/url/origin) { get; } | يحصل على تمثيل سلسلة لأصل عنوان URL المحدد. |
-| [Password](../../aspose.html/url/password) { get; set; } | الحصول على أو تعيين سلسلة تمثيل لكلمة مرور URL المحددة. |
-| [Pathname](../../aspose.html/url/pathname) { get; set; } | الحصول على تمثيل سلسلة لمسار URL المحدد أو تعيينه. |
-| [Port](../../aspose.html/url/port) { get; set; } | الحصول على تمثيل سلسلة لمنفذ URL المحدد أو تعيينه. |
-| [Protocol](../../aspose.html/url/protocol) { get; set; } | الحصول على تمثيل سلسلة لمخطط URL المحدد أو تعيينه. |
-| [Search](../../aspose.html/url/search) { get; set; } | الحصول على أو تعيين تمثيل سلسلة لمقطع بحث URL المحدد. |
-| [SearchParams](../../aspose.html/url/searchparams) { get; } | يحصل على ملف[`IUrlSearchParams`](../../aspose.html/iurlsearchparams) الكائن . |
-| [Username](../../aspose.html/url/username) { get; set; } | الحصول على أو تعيين سلسلة تمثيل لاسم مستخدم URL المحدد. |
+| [Hash](../../aspose.html/url/hash/) { get; set; } | الحصول على تمثيل سلسلة أو تعيينه لقطاع تجزئة عنوان URL المحدد. |
+| [Host](../../aspose.html/url/host/) { get; set; } | الحصول على أو تعيين تمثيل سلسلة لمضيف عنوان URL المحدد. |
+| [Hostname](../../aspose.html/url/hostname/) { get; set; } | الحصول على تمثيل سلسلة لاسم مضيف URL المحدد أو تعيينه. |
+| [Href](../../aspose.html/url/href/) { get; set; } | الحصول على أو تعيين تمثيل متسلسل لمثيل عنوان URL المحدد. |
+| [Origin](../../aspose.html/url/origin/) { get; } | يحصل على تمثيل سلسلة لأصل عنوان URL المحدد. |
+| [Password](../../aspose.html/url/password/) { get; set; } | الحصول على أو تعيين سلسلة تمثيل لكلمة مرور URL المحددة. |
+| [Pathname](../../aspose.html/url/pathname/) { get; set; } | الحصول على تمثيل سلسلة لمسار URL المحدد أو تعيينه. |
+| [Port](../../aspose.html/url/port/) { get; set; } | الحصول على تمثيل سلسلة لمنفذ URL المحدد أو تعيينه. |
+| [Protocol](../../aspose.html/url/protocol/) { get; set; } | الحصول على تمثيل سلسلة لمخطط URL المحدد أو تعيينه. |
+| [Search](../../aspose.html/url/search/) { get; set; } | الحصول على أو تعيين تمثيل سلسلة لمقطع بحث URL المحدد. |
+| [SearchParams](../../aspose.html/url/searchparams/) { get; } | يحصل على ملف[`IUrlSearchParams`](../../aspose.html/iurlsearchparams/) الكائن . |
+| [Username](../../aspose.html/url/username/) { get; set; } | الحصول على أو تعيين سلسلة تمثيل لاسم مستخدم URL المحدد. |
 
 ## طُرق
 
 | اسم | وصف |
 | --- | --- |
-| [Assign](../../aspose.html.window/location/assign)(string) | ينتقل إلى الصفحة المحددة. |
-| override [Equals](../../aspose.html/url/equals)(object) | تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال. |
-| override [GetHashCode](../../aspose.html/url/gethashcode)() | إرجاع رمز تجزئة لهذا المثال. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
-| [Reload](../../aspose.html.window/location/reload)() | إعادة تحميل الصفحة الحالية. |
-| [Replace](../../aspose.html.window/location/replace)(string) | يزيل الصفحة الحالية من محفوظات الجلسة وينتقل إلى الصفحة المحددة. |
-| [ToJson](../../aspose.html/url/tojson)() | إرجاع أString الذي يمثل هذا المثال. |
-| override [ToString](../../aspose.html/url/tostring)() | إرجاع أString الذي يمثل هذا المثال. |
+| [Assign](../../aspose.html.window/location/assign/)(string) | ينتقل إلى الصفحة المحددة. |
+| override [Equals](../../aspose.html/url/equals/)(object) | تحديد ما إذا كان الملف المحددObject ، يساوي هذا المثال. |
+| override [GetHashCode](../../aspose.html/url/gethashcode/)() | إرجاع رمز تجزئة لهذا المثال. |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | تُستخدم هذه الطريقة لاسترداد كائن ECMAScriptType . |
+| [Reload](../../aspose.html.window/location/reload/)() | إعادة تحميل الصفحة الحالية. |
+| [Replace](../../aspose.html.window/location/replace/)(string) | يزيل الصفحة الحالية من محفوظات الجلسة وينتقل إلى الصفحة المحددة. |
+| [ToJson](../../aspose.html/url/tojson/)() | إرجاع أString الذي يمثل هذا المثال. |
+| override [ToString](../../aspose.html/url/tostring/)() | إرجاع أString الذي يمثل هذا المثال. |
 
 ### أنظر أيضا
 
-* class [Url](../../aspose.html/url)
-* مساحة الاسم [Aspose.Html.Window](../../aspose.html.window)
+* class [Url](../../aspose.html/url/)
+* مساحة الاسم [Aspose.Html.Window](../../aspose.html.window/)
 * المجسم [Aspose.HTML](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

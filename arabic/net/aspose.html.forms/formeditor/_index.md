@@ -1,14 +1,14 @@
 ---
-title: FormEditor
+title: Class FormEditor
 second_title: Aspose.HTML لمرجع .NET API
-description: تمثل هذه الفئة المحرر على امتدادHTMLFormElement../aspose.html/htmlformelement التي تخلق طريقة أسهل لمطوري. net لتحرير نماذج html.
+description: Aspose.Html.Forms.FormEditor فصل. تمثل هذه الفئة المحرر على امتدادHTMLFormElement التي تخلق طريقة أسهل لمطوري. net لتحرير نماذج html.
 type: docs
-weight: 2920
+weight: 2930
 url: /ar/net/aspose.html.forms/formeditor/
 ---
 ## FormEditor class
 
-تمثل هذه الفئة المحرر على امتداد[`HTMLFormElement`](../../aspose.html/htmlformelement) التي تخلق طريقة أسهل لمطوري. net لتحرير نماذج html.
+تمثل هذه الفئة المحرر على امتداد[`HTMLFormElement`](../../aspose.html/htmlformelement/) التي تخلق طريقة أسهل لمطوري. net لتحرير نماذج html.
 
 ```csharp
 public class FormEditor : IDisposable, IEnumerable<FormElement>
@@ -18,33 +18,33 @@ public class FormEditor : IDisposable, IEnumerable<FormElement>
 
 | اسم | وصف |
 | --- | --- |
-| [Action](../../aspose.html.forms/formeditor/action) { get; set; } | معالج النموذج من جانب الخادم. راجع تعريف سمة الإجراء في HTML 4.01. |
-| [Count](../../aspose.html.forms/formeditor/count) { get; } | عدد عناصر التحكم في النموذج . |
-| [Form](../../aspose.html.forms/formeditor/form) { get; } | الأصل[`HTMLFormElement`](../../aspose.html/htmlformelement) المرتبط بالمثيل الحالي لـ[`FormEditor`](../formeditor) . |
-| [Item](../../aspose.html.forms/formeditor/item) { get; } | إرجاع العنصر حسب الفهرس المحدد. (2 indexers) |
-| [Method](../../aspose.html.forms/formeditor/method) { get; set; } | طريقة HTTP [[IETF RFC 2616](http://www.ietf.org/rfc/rfc2616.txt) تستخدم لتقديم النموذج. راجع تعريف سمة الأسلوب في HTML 4.01. |
+| [Action](../../aspose.html.forms/formeditor/action/) { get; set; } | معالج النموذج من جانب الخادم. راجع تعريف سمة الإجراء في HTML 4.01. |
+| [Count](../../aspose.html.forms/formeditor/count/) { get; } | عدد عناصر التحكم في النموذج . |
+| [Form](../../aspose.html.forms/formeditor/form/) { get; } | الأصل[`HTMLFormElement`](../../aspose.html/htmlformelement/) المرتبط بالمثيل الحالي لـ`FormEditor` . |
+| [Item](../../aspose.html.forms/formeditor/item/) { get; } | إرجاع العنصر بالفهرس المحدد. (2 indexers) |
+| [Method](../../aspose.html.forms/formeditor/method/) { get; set; } | طريقة HTTP [[IETF RFC 2616](http://www.ietf.org/rfc/rfc2616.txt) تستخدم لتقديم النموذج. راجع تعريف سمة الأسلوب في HTML 4.01. |
 
 ## طُرق
 
 | اسم | وصف |
 | --- | --- |
-| static [Create](../../aspose.html.forms/formeditor/create#create_2)(HTMLFormElement) | ينشئ ملفًا جديدًا[`FormEditor`](../formeditor) مرتكز على[`HTMLFormElement`](../../aspose.html/htmlformelement) . |
-| static [Create](../../aspose.html.forms/formeditor/create#create)(HTMLDocument, int) | ينشئ ملفًا جديدًا[`FormEditor`](../formeditor) مرتكز على[`HTMLFormElement`](../../aspose.html/htmlformelement) المختار من[`Forms`](../../aspose.html/htmldocument/forms) التجميع حسب الفهرس. |
-| static [Create](../../aspose.html.forms/formeditor/create#create_1)(HTMLDocument, string) | ينشئ ملفًا جديدًا[`FormEditor`](../formeditor) مرتكز على[`HTMLFormElement`](../../aspose.html/htmlformelement) محدد من الوثيقة بواسطة id. |
-| static [CreateNew](../../aspose.html.forms/formeditor/createnew)(HTMLDocument) | ينشئ ملفًا جديدًا[`HTMLFormElement`](../../aspose.html/htmlformelement) وربطها بـ[`FormEditor`](../formeditor) .[`HTMLFormElement`](../../aspose.html/htmlformelement) يتم إنشاؤه في حالة منفصلة عن المستند ؛ لإرفاقه بالمستند ، يرجى تحديد الموقع والاستخدام المناسبين[`AppendChild`](../../aspose.html.dom/node/appendchild) طريقة . |
-| [Add&lt;T&gt;](../../aspose.html.forms/formeditor/add)(string) | ينشئ ملفًا جديدًا[`HTMLElement`](../../aspose.html/htmlelement) ويضيفه إلى نهاية النموذج. |
-| [AddInput](../../aspose.html.forms/formeditor/addinput#addinput)(string) | ينشئ ملفًا جديدًا[`InputElement`](../inputelement) ويضيفه إلى نهاية النموذج. |
-| [AddInput](../../aspose.html.forms/formeditor/addinput#addinput_1)(string, InputElementType) | ينشئ ملفًا جديدًا[`InputElement`](../inputelement) ويضيفه إلى نهاية النموذج. |
-| [Dispose](../../aspose.html.forms/formeditor/dispose)() | إصدارات الموارد غير المُدارة والمُدارة . |
-| [Fill](../../aspose.html.forms/formeditor/fill)(Dictionary&lt;string, string&gt;) | هذه الطريقة تملأ النموذج بالكامل بالقيم المحددة. |
-| [GetElement&lt;T&gt;](../../aspose.html.forms/formeditor/getelement#getelement)(int) | إرجاع العنصر حسب الفهرس المحدد. |
-| [GetElement&lt;T&gt;](../../aspose.html.forms/formeditor/getelement#getelement_1)(string) | إرجاع العنصر بالاسم المحدد. |
-| [GetEnumerator](../../aspose.html.forms/formeditor/getenumerator)() | يحصل على العداد . |
+| static [Create](../../aspose.html.forms/formeditor/create/#create_2)(HTMLFormElement) | ينشئ ملفًا جديدًا`FormEditor` مرتكز على[`HTMLFormElement`](../../aspose.html/htmlformelement/) . |
+| static [Create](../../aspose.html.forms/formeditor/create/#create)(HTMLDocument, int) | ينشئ ملفًا جديدًا`FormEditor` مرتكز على[`HTMLFormElement`](../../aspose.html/htmlformelement/) المختار من[`Forms`](../../aspose.html/htmldocument/forms/) التجميع حسب الفهرس. |
+| static [Create](../../aspose.html.forms/formeditor/create/#create_1)(HTMLDocument, string) | ينشئ ملفًا جديدًا`FormEditor` مرتكز على[`HTMLFormElement`](../../aspose.html/htmlformelement/) تم تحديده من المستند بواسطة id. |
+| static [CreateNew](../../aspose.html.forms/formeditor/createnew/)(HTMLDocument) | ينشئ ملفًا جديدًا[`HTMLFormElement`](../../aspose.html/htmlformelement/) وربطها بـ`FormEditor` .[`HTMLFormElement`](../../aspose.html/htmlformelement/) تم إنشاؤه في حالة منفصلة عن المستند ؛ لإرفاقه بالمستند ، يرجى تحديد الموقع والاستخدام المناسبين[`AppendChild`](../../aspose.html.dom/node/appendchild/) طريقة . |
+| [Add&lt;T&gt;](../../aspose.html.forms/formeditor/add/)(string) | ينشئ ملفًا جديدًا[`HTMLElement`](../../aspose.html/htmlelement/) ويضيفه إلى نهاية النموذج. |
+| [AddInput](../../aspose.html.forms/formeditor/addinput/#addinput)(string) | ينشئ ملفًا جديدًا[`InputElement`](../inputelement/) ويضيفه إلى نهاية النموذج. |
+| [AddInput](../../aspose.html.forms/formeditor/addinput/#addinput_1)(string, InputElementType) | ينشئ ملفًا جديدًا[`InputElement`](../inputelement/) ويضيفه إلى نهاية النموذج. |
+| [Dispose](../../aspose.html.forms/formeditor/dispose/)() | إصدارات الموارد غير المُدارة والمُدارة . |
+| [Fill](../../aspose.html.forms/formeditor/fill/)(Dictionary&lt;string, string&gt;) | تملأ هذه الطريقة النموذج بالكامل بالقيم المحددة. |
+| [GetElement&lt;T&gt;](../../aspose.html.forms/formeditor/getelement/#getelement)(int) | إرجاع العنصر بالفهرس المحدد. |
+| [GetElement&lt;T&gt;](../../aspose.html.forms/formeditor/getelement/#getelement_1)(string) | إرجاع العنصر بالاسم المحدد. |
+| [GetEnumerator](../../aspose.html.forms/formeditor/getenumerator/)() | يحصل على العداد . |
 
 ### أنظر أيضا
 
-* class [FormElement](../formelement)
-* مساحة الاسم [Aspose.Html.Forms](../../aspose.html.forms)
+* class [FormElement](../formelement/)
+* مساحة الاسم [Aspose.Html.Forms](../../aspose.html.forms/)
 * المجسم [Aspose.HTML](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

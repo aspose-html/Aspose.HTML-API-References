@@ -1,14 +1,14 @@
 ---
-title: ConvertMarkdown
+title: Converter.ConvertMarkdown
 second_title: Aspose.HTML لمرجع .NET API
-description: تحويل مصدر Markdown إلى html. النتيجةHTMLDocumentaspose.html/htmldocument .
+description: Converter طريقة. تحويل مصدر Markdown إلى html. النتيجةHTMLDocument .
 type: docs
 weight: 30
 url: /ar/net/aspose.html.converters/converter/convertmarkdown/
 ---
 ## ConvertMarkdown(Stream, string) {#convertmarkdown}
 
-تحويل مصدر Markdown إلى html. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument) .
+تحويل مصدر Markdown إلى html. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri)
@@ -21,20 +21,20 @@ public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri)
 
 ### قيمة الإرجاع
 
-نتيجة التحويل[`HTMLDocument`](../../../aspose.html/htmldocument).
+نتيجة التحويل[`HTMLDocument`](../../../aspose.html/htmldocument/).
 
 ### أنظر أيضا
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(Stream, string, Configuration) {#convertmarkdown_1}
 
-تحويل مصدر Markdown إلى html. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument) .
+تحويل مصدر Markdown إلى html. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri, 
@@ -49,14 +49,14 @@ public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri,
 
 ### قيمة الإرجاع
 
-نتيجة التحويل[`HTMLDocument`](../../../aspose.html/htmldocument).
+نتيجة التحويل[`HTMLDocument`](../../../aspose.html/htmldocument/).
 
 ### أنظر أيضا
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -77,8 +77,8 @@ public static void ConvertMarkdown(Stream stream, string baseUri, string outputP
 
 ### أنظر أيضا
 
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -101,16 +101,16 @@ public static void ConvertMarkdown(Stream stream, string baseUri, Configuration 
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(string) {#convertmarkdown_2}
 
-تحويل مصدر Markdown إلى html. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument) .
+تحويل مصدر Markdown إلى html. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(string sourcePath)
@@ -122,20 +122,20 @@ public static HTMLDocument ConvertMarkdown(string sourcePath)
 
 ### قيمة الإرجاع
 
-نتيجة التحويل[`HTMLDocument`](../../../aspose.html/htmldocument).
+نتيجة التحويل[`HTMLDocument`](../../../aspose.html/htmldocument/).
 
 ### أنظر أيضا
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ConvertMarkdown(string, Configuration) {#convertmarkdown_3}
 
-تحويل مصدر Markdown إلى html. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument) .
+تحويل مصدر Markdown إلى html. النتيجة[`HTMLDocument`](../../../aspose.html/htmldocument/) .
 
 ```csharp
 public static HTMLDocument ConvertMarkdown(string sourcePath, Configuration configuration)
@@ -148,14 +148,14 @@ public static HTMLDocument ConvertMarkdown(string sourcePath, Configuration conf
 
 ### قيمة الإرجاع
 
-نتيجة التحويل[`HTMLDocument`](../../../aspose.html/htmldocument).
+نتيجة التحويل[`HTMLDocument`](../../../aspose.html/htmldocument/).
 
 ### أنظر أيضا
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -175,8 +175,8 @@ public static void ConvertMarkdown(string sourcePath, string outputPath)
 
 ### أنظر أيضا
 
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -198,9 +198,9 @@ public static void ConvertMarkdown(string sourcePath, Configuration configuratio
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+
