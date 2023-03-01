@@ -1,0 +1,23 @@
+---
+title: HTMLTextAreaElement.AccessKey
+second_title: Aspose.HTML voor .NET API-referentie
+description: HTMLTextAreaElement eigendom. Een toegangssleutel van één teken om toegang te geven tot het formulierbesturingselement. Zie de definitie van het toegangssleutelkenmerk in HTML 4.01.
+type: docs
+weight: 10
+url: /nl/net/aspose.html/htmltextareaelement/accesskey/
+---
+## HTMLTextAreaElement.AccessKey property
+
+Een toegangssleutel van één teken om toegang te geven tot het formulierbesturingselement. Zie de definitie van het toegangssleutelkenmerk in HTML 4.01.
+
+```csharp
+public string AccessKey { get; set; }
+```
+
+### Zie ook
+
+* class [HTMLTextAreaElement](../)
+* naamruimte [Aspose.Html](../../htmltextareaelement/)
+* montage [Aspose.HTML](../../../)
+
+
