@@ -1,9 +1,9 @@
 ---
-title: INodeIterator
+title: Interface INodeIterator
 second_title: Référence de l'API Aspose.HTML pour .NET
-description: Les itérateurs sont utilisés pour parcourir un ensemble de nœuds par exemple lensemble de nœuds dans une NodeList le sousarbre de documents régi par un nœud particulier les résultats dune requête ou tout autre ensemble de nœuds. Lensemble de nœuds à itérer est déterminé par limplémentation de NodeIterator. DOM niveau 2 spécifie une implémentation unique de NodeIterator pour la traversée de lordre des documents dune sousarborescence de documents. Les instances de ces itérateurs sont créées en appelant DocumentTraversal .createNodeIterator.
+description: Aspose.Html.Dom.Traversal.INodeIterator interface. Les itérateurs sont utilisés pour parcourir un ensemble de nœuds par exemple lensemble de nœuds dans une NodeList le sousarbre de documents régi par un nœud particulier les résultats dune requête ou tout autre ensemble de nœuds. Lensemble de nœuds à itérer est déterminé par limplémentation de NodeIterator. DOM niveau 2 spécifie une implémentation unique de NodeIterator pour la traversée de lordre des documents dune sousarborescence de documents. Les instances de ces itérateurs sont créées en appelant DocumentTraversal .createNodeIterator.
 type: docs
-weight: 2510
+weight: 2500
 url: /fr/net/aspose.html.dom.traversal/inodeiterator/
 ---
 ## INodeIterator interface
@@ -20,21 +20,21 @@ public interface INodeIterator : ITraversal
 
 | Nom | La description |
 | --- | --- |
-| [PointerBeforeReferenceNode](../../aspose.html.dom.traversal/inodeiterator/pointerbeforereferencenode) { get; } | La valeur de cet indicateur détermine si les enfants des nœuds de référence entity sont visibles pour l'itérateur. Si faux, ils et leurs descendants seront rejetés. Notez que ce rejet prend priorité sur whatToShow et le filtre. Notez également qu'il s'agit actuellement de la seule situation où NodeIterators peut rejeter une sous-arborescence complète plutôt que ignorer des nœuds individuels. Pour produire une vue du document qui a des références d'entité développées et n'expose pas le nœud de référence d'entité lui-même, utilisez les indicateurs whatToShow pour masquez la référence d'entité node et définissez expandEntityReferences sur true lors de la création de l'itérateur . Pour produire une vue du document qui a des nœuds d'entité reference mais pas d'expansion d'entité, utilisez le whatToShow flags pour afficher le nœud de référence d'entité et set expandEntityReferences sur false. |
-| [ReferenceNode](../../aspose.html.dom.traversal/inodeiterator/referencenode) { get; } | Le nœud de référence actuel. |
+| [PointerBeforeReferenceNode](../../aspose.html.dom.traversal/inodeiterator/pointerbeforereferencenode/) { get; } | La valeur de cet indicateur détermine si les enfants des nœuds de référence entity sont visibles pour l'itérateur. Si faux, ils et leurs descendants seront rejetés. Notez que ce rejet prend priorité sur whatToShow et le filtre. Notez également qu'il s'agit actuellement de la seule situation où NodeIterators peut rejeter une sous-arborescence complète plutôt que ignorer des nœuds individuels. Pour produire une vue du document qui a des références d'entité développées et n'expose pas le nœud de référence d'entité lui-même, utilisez les indicateurs whatToShow pour masquez la référence d'entité node et définissez expandEntityReferences sur true lors de la création de l'itérateur . Pour produire une vue du document qui a des nœuds d'entité reference mais pas d'expansion d'entité, utilisez le whatToShow flags pour afficher le nœud de référence d'entité et set expandEntityReferences sur false. |
+| [ReferenceNode](../../aspose.html.dom.traversal/inodeiterator/referencenode/) { get; } | Le nœud de référence actuel. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| [Detach](../../aspose.html.dom.traversal/inodeiterator/detach)() | Détache le NodeIterator de l'ensemble sur lequel il a itéré , libérant toutes les ressources de calcul et plaçant l'iterator dans l'état INVALID. Une fois que le détachement a été appelé, les appels à nextNode ou previousNode lèveront l'exception INVALID_STATE_ERR. |
-| [NextNode](../../aspose.html.dom.traversal/inodeiterator/nextnode)() | Renvoie le nœud suivant dans l'ensemble et avance la position de l'itérateur dans l'ensemble. Après la création d'un NodeIterator, le premier appel à nextNode() renvoie le premier nœud dans l'ensemble. |
-| [PreviousNode](../../aspose.html.dom.traversal/inodeiterator/previousnode)() | Renvoie le nœud précédent dans l'ensemble et déplace la position du NodeIterator vers l'arrière dans l'ensemble. |
+| [Detach](../../aspose.html.dom.traversal/inodeiterator/detach/)() | Détache le NodeIterator de l'ensemble sur lequel il a itéré , libérant toutes les ressources de calcul et plaçant l'iterator dans l'état INVALID. Une fois que le détachement a été appelé, les appels à nextNode ou previousNode lèveront l'exception INVALID_STATE_ERR. |
+| [NextNode](../../aspose.html.dom.traversal/inodeiterator/nextnode/)() | Renvoie le nœud suivant dans l'ensemble et avance la position de l'itérateur dans l'ensemble. Après la création d'un NodeIterator, le premier appel à nextNode() renvoie le premier nœud dans l'ensemble. |
+| [PreviousNode](../../aspose.html.dom.traversal/inodeiterator/previousnode/)() | Renvoie le nœud précédent dans l'ensemble et déplace la position du NodeIterator vers l'arrière dans l'ensemble. |
 
 ### Voir également
 
-* interface [ITraversal](../itraversal)
-* espace de noms [Aspose.Html.Dom.Traversal](../../aspose.html.dom.traversal)
+* interface [ITraversal](../itraversal/)
+* espace de noms [Aspose.Html.Dom.Traversal](../../aspose.html.dom.traversal/)
 * Assemblée [Aspose.HTML](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

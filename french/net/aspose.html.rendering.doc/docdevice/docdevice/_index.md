@@ -1,14 +1,14 @@
 ---
-title: DocDevice
+title: DocDevice.DocDevice
 second_title: Référence de l'API Aspose.HTML pour .NET
-description: Initialise une nouvelle instance duDocDeviceaspose.html.rendering.doc/docdevice classe.
+description: DocDevice constructeur. Initialise une nouvelle instance duDocDevice classe.
 type: docs
 weight: 10
 url: /fr/net/aspose.html.rendering.doc/docdevice/docdevice/
 ---
 ## DocDevice(ICreateStreamProvider) {#constructor}
 
-Initialise une nouvelle instance du[`DocDevice`](../../docdevice) classe.
+Initialise une nouvelle instance du[`DocDevice`](../) classe.
 
 ```csharp
 public DocDevice(ICreateStreamProvider streamProvider)
@@ -16,20 +16,20 @@ public DocDevice(ICreateStreamProvider streamProvider)
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | Objet qui implémente le[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface |
+| streamProvider | ICreateStreamProvider | Objet qui implémente le[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface |
 
 ### Voir également
 
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [DocDevice](../../docdevice)
-* espace de noms [Aspose.Html.Rendering.Doc](../../docdevice)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [DocDevice](../)
+* espace de noms [Aspose.Html.Rendering.Doc](../../docdevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## DocDevice(DocRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Initialise une nouvelle instance du[`DocDevice`](../../docdevice) classe en rendant les options et le fournisseur de flux.
+Initialise une nouvelle instance du[`DocDevice`](../) classe en rendant les options et le fournisseur de flux.
 
 ```csharp
 public DocDevice(DocRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public DocDevice(DocRenderingOptions options, ICreateStreamProvider streamProvid
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | options | DocRenderingOptions | Options de rendu. |
-| streamProvider | ICreateStreamProvider | Objet qui implémente le[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface |
+| streamProvider | ICreateStreamProvider | Objet qui implémente le[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface |
 
 ### Voir également
 
-* class [DocRenderingOptions](../../docrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [DocDevice](../../docdevice)
-* espace de noms [Aspose.Html.Rendering.Doc](../../docdevice)
+* class [DocRenderingOptions](../../docrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [DocDevice](../)
+* espace de noms [Aspose.Html.Rendering.Doc](../../docdevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## DocDevice(string) {#constructor_5}
 
-Initialise une nouvelle instance du[`DocDevice`](../../docdevice) classer par nom de fichier de sortie.
+Initialise une nouvelle instance du[`DocDevice`](../) classer par nom de fichier de sortie.
 
 ```csharp
 public DocDevice(string file)
@@ -64,15 +64,15 @@ public DocDevice(string file)
 
 ### Voir également
 
-* class [DocDevice](../../docdevice)
-* espace de noms [Aspose.Html.Rendering.Doc](../../docdevice)
+* class [DocDevice](../)
+* espace de noms [Aspose.Html.Rendering.Doc](../../docdevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## DocDevice(DocRenderingOptions, string) {#constructor_3}
 
-Initialise une nouvelle instance du[`DocDevice`](../../docdevice) classe en rendant les options et le nom du fichier de sortie.
+Initialise une nouvelle instance du[`DocDevice`](../) classe en rendant les options et le nom du fichier de sortie.
 
 ```csharp
 public DocDevice(DocRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public DocDevice(DocRenderingOptions options, string file)
 
 ### Voir également
 
-* class [DocRenderingOptions](../../docrenderingoptions)
-* class [DocDevice](../../docdevice)
-* espace de noms [Aspose.Html.Rendering.Doc](../../docdevice)
+* class [DocRenderingOptions](../../docrenderingoptions/)
+* class [DocDevice](../)
+* espace de noms [Aspose.Html.Rendering.Doc](../../docdevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## DocDevice(Stream) {#constructor_4}
 
-Initialise une nouvelle instance du[`DocDevice`](../../docdevice) classe par flux de sortie.
+Initialise une nouvelle instance du[`DocDevice`](../) classe par flux de sortie.
 
 ```csharp
 public DocDevice(Stream stream)
@@ -106,15 +106,15 @@ public DocDevice(Stream stream)
 
 ### Voir également
 
-* class [DocDevice](../../docdevice)
-* espace de noms [Aspose.Html.Rendering.Doc](../../docdevice)
+* class [DocDevice](../)
+* espace de noms [Aspose.Html.Rendering.Doc](../../docdevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## DocDevice(DocRenderingOptions, Stream) {#constructor_2}
 
-Initialise une nouvelle instance du[`DocDevice`](../../docdevice) classe en rendant les options et le flux de sortie.
+Initialise une nouvelle instance du[`DocDevice`](../) classe en rendant les options et le flux de sortie.
 
 ```csharp
 public DocDevice(DocRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public DocDevice(DocRenderingOptions options, Stream stream)
 
 ### Voir également
 
-* class [DocRenderingOptions](../../docrenderingoptions)
-* class [DocDevice](../../docdevice)
-* espace de noms [Aspose.Html.Rendering.Doc](../../docdevice)
+* class [DocRenderingOptions](../../docrenderingoptions/)
+* class [DocDevice](../)
+* espace de noms [Aspose.Html.Rendering.Doc](../../docdevice/)
 * Assemblée [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: HTMLDocument
+title: HTMLDocument.HTMLDocument
 second_title: Référence de l'API Aspose.HTML pour .NET
-description: Initialise une nouvelle instance duHTMLDocumentaspose.html/htmldocument classe.
+description: HTMLDocument constructeur. Initialise une nouvelle instance duHTMLDocument classe.
 type: docs
 weight: 10
 url: /fr/net/aspose.html/htmldocument/htmldocument/
 ---
 ## HTMLDocument() {#constructor}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classe.
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe.
 
 ```csharp
 public HTMLDocument()
@@ -16,15 +16,15 @@ public HTMLDocument()
 
 ### Voir également
 
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Configuration) {#constructor_1}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classe.
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe.
 
 ```csharp
 public HTMLDocument(Configuration configuration)
@@ -36,16 +36,16 @@ public HTMLDocument(Configuration configuration)
 
 ### Voir également
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Url) {#constructor_4}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(Url url)
@@ -57,16 +57,16 @@ public HTMLDocument(Url url)
 
 ### Voir également
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Url, Configuration) {#constructor_5}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(Url url, Configuration configuration)
@@ -79,17 +79,17 @@ public HTMLDocument(Url url, Configuration configuration)
 
 ### Voir également
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string) {#constructor_10}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string address)
@@ -101,15 +101,15 @@ public HTMLDocument(string address)
 
 ### Voir également
 
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, Configuration) {#constructor_11}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string address, Configuration configuration)
@@ -122,16 +122,16 @@ public HTMLDocument(string address, Configuration configuration)
 
 ### Voir également
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, string) {#constructor_14}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string content, string baseUri)
@@ -150,15 +150,15 @@ public HTMLDocument(string content, string baseUri)
 
 ### Voir également
 
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, string, Configuration) {#constructor_15}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string content, string baseUri, Configuration configuration)
@@ -178,16 +178,16 @@ public HTMLDocument(string content, string baseUri, Configuration configuration)
 
 ### Voir également
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, Url) {#constructor_12}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string content, Url baseUri)
@@ -206,16 +206,16 @@ public HTMLDocument(string content, Url baseUri)
 
 ### Voir également
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(string, Url, Configuration) {#constructor_13}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(string content, Url baseUri, Configuration configuration)
@@ -235,17 +235,17 @@ public HTMLDocument(string content, Url baseUri, Configuration configuration)
 
 ### Voir également
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Stream, string) {#constructor_8}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) . Le chargement du document commence à partir de la position actuelle dans le flux.
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) . Le chargement du document commence à partir de la position actuelle dans le flux.
 
 ```csharp
 public HTMLDocument(Stream content, string baseUri)
@@ -264,15 +264,15 @@ public HTMLDocument(Stream content, string baseUri)
 
 ### Voir également
 
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Stream, string, Configuration) {#constructor_9}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) . Le chargement du document commence à partir de la position actuelle dans le flux.
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) . Le chargement du document commence à partir de la position actuelle dans le flux.
 
 ```csharp
 public HTMLDocument(Stream content, string baseUri, Configuration configuration)
@@ -292,16 +292,16 @@ public HTMLDocument(Stream content, string baseUri, Configuration configuration)
 
 ### Voir également
 
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Stream, Url) {#constructor_6}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) . Le chargement du document commence à partir de la position actuelle dans le flux.
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) . Le chargement du document commence à partir de la position actuelle dans le flux.
 
 ```csharp
 public HTMLDocument(Stream content, Url baseUri)
@@ -320,16 +320,16 @@ public HTMLDocument(Stream content, Url baseUri)
 
 ### Voir également
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(Stream, Url, Configuration) {#constructor_7}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) . Le chargement du document commence à partir de la position actuelle dans le flux.
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) . Le chargement du document commence à partir de la position actuelle dans le flux.
 
 ```csharp
 public HTMLDocument(Stream content, Url baseUri, Configuration configuration)
@@ -349,17 +349,17 @@ public HTMLDocument(Stream content, Url baseUri, Configuration configuration)
 
 ### Voir également
 
-* class [Url](../../url)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(RequestMessage) {#constructor_2}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(RequestMessage request)
@@ -371,16 +371,16 @@ public HTMLDocument(RequestMessage request)
 
 ### Voir également
 
-* class [RequestMessage](../../../aspose.html.net/requestmessage)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [RequestMessage](../../../aspose.html.net/requestmessage/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(RequestMessage, Configuration) {#constructor_3}
 
-Initialise une nouvelle instance du[`HTMLDocument`](../../htmldocument) classer. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security) .
+Initialise une nouvelle instance du[`HTMLDocument`](../) classe. Le constructeur fonctionne de manière synchrone, il attend le chargement de toutes les ressources externes (images, scripts, etc.). Pour charger le document de manière asynchrone, utilisez la méthode[`Navigate`](../../../aspose.html.dom/document/navigate/) ou ses surcharges. Ou vous pouvez désactiver le chargement de certaines ressources externes en définissant les indicateurs appropriés dans[`Security`](../../../aspose.html.dom/ibrowsingcontext/security/) .
 
 ```csharp
 public HTMLDocument(RequestMessage request, Configuration configuration)
@@ -393,10 +393,10 @@ public HTMLDocument(RequestMessage request, Configuration configuration)
 
 ### Voir également
 
-* class [RequestMessage](../../../aspose.html.net/requestmessage)
-* class [Configuration](../../configuration)
-* class [HTMLDocument](../../htmldocument)
-* espace de noms [Aspose.Html](../../htmldocument)
+* class [RequestMessage](../../../aspose.html.net/requestmessage/)
+* class [Configuration](../../configuration/)
+* class [HTMLDocument](../)
+* espace de noms [Aspose.Html](../../htmldocument/)
 * Assemblée [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

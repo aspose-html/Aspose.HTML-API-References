@@ -1,9 +1,9 @@
 ---
-title: PdfDevice.PdfGraphicContext
+title: Class PdfDevice.PdfGraphicContext
 second_title: Référence de l'API Aspose.HTML pour .NET
-description: Contient les paramètres de contrôle graphiques actuels pour le PdfDevice. Ces paramètres définissent le cadre global dans lequel les opérateurs graphiques sexécutent.
+description: Aspose.Html.Rendering.Pdf.PdfDevicePdfGraphicContext classe. Contient les paramètres de contrôle graphiques actuels pour le PdfDevice. Ces paramètres définissent le cadre global dans lequel les opérateurs graphiques sexécutent.
 type: docs
-weight: 4430
+weight: 4450
 url: /fr/net/aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/
 ---
 ## PdfDevice.PdfGraphicContext class
@@ -18,40 +18,40 @@ public class PdfGraphicContext : GraphicContext
 
 | Nom | La description |
 | --- | --- |
-| [PdfGraphicContext](pdfgraphiccontext)() | Default_Constructor |
+| [PdfGraphicContext](pdfgraphiccontext/)() | Default_Constructor |
 
 ## Propriétés
 
 | Nom | La description |
 | --- | --- |
-| virtual [CharacterSpacing](../../aspose.html.rendering/graphiccontext/characterspacing) { get; set; } | Définit ou obtient l'espacement des caractères. |
-| override [FillBrush](../../aspose.html.rendering.pdf/pdfgraphiccontext/fillbrush) { get; set; } | Définit ou obtient l'objet pinceau utilisé pour remplir l'intérieur des chemins. |
-| virtual [Font](../../aspose.html.rendering/graphiccontext/font) { get; set; } | Définit ou obtient l'objet de police True Type utilisé pour le rendu du texte. |
-| virtual [FontSize](../../aspose.html.rendering/graphiccontext/fontsize) { get; set; } | Définit ou obtient la taille de la police du texte. |
-| virtual [FontStyle](../../aspose.html.rendering/graphiccontext/fontstyle) { get; set; } | Définit ou obtient le style de police du texte. |
-| override [LineCap](../../aspose.html.rendering.pdf/pdfgraphiccontext/linecap) { get; set; } | Définit ou obtient le code spécifiant la forme des points de terminaison pour tout chemin ouvert tracé. |
-| virtual [LineDashOffset](../../aspose.html.rendering/graphiccontext/linedashoffset) { get; set; } | Définit ou obtient le décalage de phase du motif de tiret de ligne actuel. |
-| virtual [LineDashPattern](../../aspose.html.rendering/graphiccontext/linedashpattern) { get; set; } | Définit ou obtient la description du motif de tirets à utiliser lorsque les chemins sont tracés. |
-| virtual [LineDashStyle](../../aspose.html.rendering/graphiccontext/linedashstyle) { get; set; } | Ensembles de obtient le style des lignes en pointillés d'un chemin tracé. |
-| override [LineJoin](../../aspose.html.rendering.pdf/pdfgraphiccontext/linejoin) { get; set; } | Définit ou obtient le code spécifiant la forme des joints entre les segments connectés d'un tracé tracé. |
-| override [LineWidth](../../aspose.html.rendering.pdf/pdfgraphiccontext/linewidth) { get; set; } | Définit ou obtient l'épaisseur des chemins à tracer. |
-| override [MiterLimit](../../aspose.html.rendering.pdf/pdfgraphiccontext/miterlimit) { get; set; } | Définit ou obtient la longueur maximale des jointures de lignes en onglet pour les chemins tracés. Ce paramètre limite la longueur des "pointes" produites lorsque les segments de ligne se rejoignent à des angles vifs. |
-| override [StrokeBrush](../../aspose.html.rendering.pdf/pdfgraphiccontext/strokebrush) { get; set; } | Définit ou obtient l'objet pinceau utilisé pour les tracés tracés. |
-| virtual [TextInfo](../../aspose.html.rendering/graphiccontext/textinfo) { get; } | Obtient un[`TextInfo`](../../aspose.html.rendering/textinfo) objet qui contient des informations sur le texte rendu. |
-| override [TransformationMatrix](../../aspose.html.rendering.pdf/pdfgraphiccontext/transformationmatrix) { get; set; } | Définit ou obtient la matrice de transformation. |
+| virtual [CharacterSpacing](../../aspose.html.rendering/graphiccontext/characterspacing/) { get; set; } | Définit ou obtient l'espacement des caractères. |
+| override [FillBrush](../../aspose.html.rendering.pdf/pdfgraphiccontext/fillbrush/) { get; set; } | Définit ou obtient l'objet pinceau utilisé pour remplir l'intérieur des chemins. |
+| virtual [Font](../../aspose.html.rendering/graphiccontext/font/) { get; set; } | Définit ou obtient l'objet de police True Type utilisé pour le rendu du texte. |
+| virtual [FontSize](../../aspose.html.rendering/graphiccontext/fontsize/) { get; set; } | Définit ou obtient la taille de la police du texte. |
+| virtual [FontStyle](../../aspose.html.rendering/graphiccontext/fontstyle/) { get; set; } | Définit ou obtient le style de police du texte. |
+| override [LineCap](../../aspose.html.rendering.pdf/pdfgraphiccontext/linecap/) { get; set; } | Définit ou obtient le code spécifiant la forme des points de terminaison pour tout chemin ouvert tracé. |
+| virtual [LineDashOffset](../../aspose.html.rendering/graphiccontext/linedashoffset/) { get; set; } | Définit ou obtient le décalage de phase du motif de tiret de ligne actuel. |
+| virtual [LineDashPattern](../../aspose.html.rendering/graphiccontext/linedashpattern/) { get; set; } | Définit ou obtient la description du motif de tirets à utiliser lorsque les chemins sont tracés. |
+| virtual [LineDashStyle](../../aspose.html.rendering/graphiccontext/linedashstyle/) { get; set; } | Ensembles de obtient le style des lignes en pointillés d'un chemin tracé. |
+| override [LineJoin](../../aspose.html.rendering.pdf/pdfgraphiccontext/linejoin/) { get; set; } | Définit ou obtient le code spécifiant la forme des joints entre les segments connectés d'un tracé tracé. |
+| override [LineWidth](../../aspose.html.rendering.pdf/pdfgraphiccontext/linewidth/) { get; set; } | Définit ou obtient l'épaisseur des chemins à tracer. |
+| override [MiterLimit](../../aspose.html.rendering.pdf/pdfgraphiccontext/miterlimit/) { get; set; } | Définit ou obtient la longueur maximale des jointures de lignes en onglet pour les chemins tracés. Ce paramètre limite la longueur des "pointes" produites lorsque les segments de ligne se rejoignent à des angles vifs. |
+| override [StrokeBrush](../../aspose.html.rendering.pdf/pdfgraphiccontext/strokebrush/) { get; set; } | Définit ou obtient l'objet pinceau utilisé pour les tracés tracés. |
+| virtual [TextInfo](../../aspose.html.rendering/graphiccontext/textinfo/) { get; } | Obtient un[`TextInfo`](../../aspose.html.rendering/textinfo/) objet qui contient des informations sur le texte rendu. |
+| override [TransformationMatrix](../../aspose.html.rendering.pdf/pdfgraphiccontext/transformationmatrix/) { get; set; } | Définit ou obtient la matrice de transformation. |
 
 ## Méthodes
 
 | Nom | La description |
 | --- | --- |
-| override [Clone](../../aspose.html.rendering.pdf/pdfgraphiccontext/clone)() | Crée une nouvelle instance d'une classe avec les mêmes valeurs de propriété qu'une instance existante. |
-| override [Transform](../../aspose.html.rendering.pdf/pdfgraphiccontext/transform)(Matrix) | Modifier la matrice de transformation actuelle en multipliant la matrice spécifiée. |
+| override [Clone](../../aspose.html.rendering.pdf/pdfgraphiccontext/clone/)() | Crée une nouvelle instance d'une classe avec les mêmes valeurs de propriété qu'une instance existante. |
+| override [Transform](../../aspose.html.rendering.pdf/pdfgraphiccontext/transform/)(Matrix) | Modifier la matrice de transformation actuelle en multipliant la matrice spécifiée. |
 
 ### Voir également
 
-* class [GraphicContext](../../aspose.html.rendering/graphiccontext)
-* class [PdfDevice](../pdfdevice)
-* espace de noms [Aspose.Html.Rendering.Pdf](../../aspose.html.rendering.pdf)
+* class [GraphicContext](../../aspose.html.rendering/graphiccontext/)
+* class [PdfDevice](../pdfdevice/)
+* espace de noms [Aspose.Html.Rendering.Pdf](../../aspose.html.rendering.pdf/)
 * Assemblée [Aspose.HTML](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+
