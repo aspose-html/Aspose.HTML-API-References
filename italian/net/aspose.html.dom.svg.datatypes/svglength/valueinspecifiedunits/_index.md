@@ -1,0 +1,33 @@
+---
+title: SVGLength.ValueInSpecifiedUnits
+second_title: Aspose.HTML per riferimento API .NET
+description: SVGLength proprietà. Il valore come valore in virgola mobile nelle unità espresse da unitType. Limpostazione di questo attributo causerà laggiornamento automatico di value e valueAsString per riflettere questa impostazione.
+type: docs
+weight: 40
+url: /it/net/aspose.html.dom.svg.datatypes/svglength/valueinspecifiedunits/
+---
+## SVGLength.ValueInSpecifiedUnits property
+
+Il valore come valore in virgola mobile, nelle unità espresse da unitType. L'impostazione di questo attributo causerà l'aggiornamento automatico di value e valueAsString per riflettere questa impostazione.
+
+```csharp
+public float ValueInSpecifiedUnits { get; set; }
+```
+
+### Valore della proprietà
+
+Il valore nelle unità specificate.
+
+### Eccezioni
+
+| eccezione | condizione |
+| --- | --- |
+| [DOMException](../../../aspose.html.dom/domexception/) | Codice[`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.html.dom/domexception/no_modification_allowed_err/) Generato quando la lunghezza corrisponde a un attributo di sola lettura o quando l'oggetto stesso è di sola lettura. |
+
+### Guarda anche
+
+* class [SVGLength](../)
+* spazio dei nomi [Aspose.Html.Dom.Svg.DataTypes](../../svglength/)
+* assemblea [Aspose.HTML](../../../)
+
+
