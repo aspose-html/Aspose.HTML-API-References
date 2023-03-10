@@ -1,7 +1,7 @@
 ---
-title: Save
+title: HTMLDocument.Save
 second_title: Aspose.HTML for .NET API Reference
-description: Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder whose name will be constructed as output_file_name  _files.
+description: HTMLDocument method. Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder whose name will be constructed as output_file_name  _files
 type: docs
 weight: 130
 url: /net/aspose.html/htmldocument/save/
@@ -24,7 +24,7 @@ public void Save(Url url)
 | --- | --- |
 | ArgumentException | Raised if the specified `url` is not a valid local file URL. |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -38,7 +38,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -81,7 +81,7 @@ public void Save(IOutputStorage outputStorage)
 | --- | --- | --- |
 | outputStorage | IOutputStorage | The output storage. A custom implementation of IOutputStorage [`interface`](../../../aspose.html.io/ioutputstorage/). See the example below as more detailed view into processing html files and linked resources. |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -95,7 +95,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -194,7 +194,7 @@ public void Save(string path)
 | --- | --- |
 | ArgumentException | Raised if the specified `path` is not a valid local file path. |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -206,7 +206,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -260,7 +260,7 @@ public void Save(string path, HTMLSaveFormat saveFormat)
 | --- | --- |
 | ArgumentException | Raised if the specified `path` is not a valid local file path. |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -274,7 +274,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 # HTML input file content
@@ -431,7 +431,7 @@ public void Save(Url url, HTMLSaveFormat saveFormat)
 | --- | --- |
 | ArgumentException | Raised if the specified `url` is not a valid local file URL. |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -445,7 +445,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -496,7 +496,7 @@ public void Save(IOutputStorage outputStorage, HTMLSaveFormat saveFormat)
 | outputStorage | IOutputStorage | The output storage. Custom implementation of IOutputStorage [`interface`](../../../aspose.html.io/ioutputstorage/). |
 | saveFormat | HTMLSaveFormat | Format in which document is saved. |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -510,7 +510,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -619,7 +619,7 @@ public void Save(string path, HTMLSaveOptions saveOptions)
 | --- | --- |
 | ArgumentException | Raised if the specified `path` is not a valid local file path. |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -633,7 +633,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -693,7 +693,7 @@ public void Save(Url url, HTMLSaveOptions saveOptions)
 | --- | --- |
 | ArgumentException | Raised if the specified `url` is not a valid local file URL. |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -707,7 +707,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -762,7 +762,7 @@ public void Save(IOutputStorage outputStorage, HTMLSaveOptions saveOptions)
 | outputStorage | IOutputStorage | Custom implementation of [`IOutputStorage`](../../../aspose.html.io/ioutputstorage/) interface. |
 | saveOptions | HTMLSaveOptions | [`HTMLSaveOptions`](../../../aspose.html.saving/htmlsaveoptions/) object enables you to manage resource handling process. |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -776,7 +776,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -884,7 +884,7 @@ public void Save(string path, MarkdownSaveOptions saveOptions)
 | --- | --- |
 | ArgumentException | Raised if the specified `path` is not a valid local file path. |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -898,7 +898,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -956,7 +956,7 @@ public void Save(Url url, MarkdownSaveOptions saveOptions)
 | --- | --- |
 | ArgumentException | Raised if the specified `url` is not a valid local file URL. |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -970,7 +970,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -1023,7 +1023,7 @@ public void Save(IOutputStorage outputStorage, MarkdownSaveOptions saveOptions)
 | outputStorage | IOutputStorage | Custom implementation of IOutputStorage [`interface`](../../../aspose.html.io/ioutputstorage/). |
 | saveOptions | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#save-options). |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -1037,7 +1037,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -1141,7 +1141,7 @@ public void Save(string path, MHTMLSaveOptions saveOptions)
 | --- | --- |
 | ArgumentException | Raised if the specified `path` is not a valid local file path. |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -1155,7 +1155,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -1213,7 +1213,7 @@ public void Save(Url url, MHTMLSaveOptions saveOptions)
 | --- | --- |
 | ArgumentException | Raised if the specified `url` is not a valid local file URL. |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -1227,7 +1227,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -1280,7 +1280,7 @@ public void Save(IOutputStorage outputStorage, MHTMLSaveOptions saveOptions)
 | outputStorage | IOutputStorage | The output storage [`interface`](../../../aspose.html.io/ioutputstorage/) implementation. |
 | saveOptions | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#save-options). |
 
-### Remarks
+## Remarks
 
 Save HTML
 
@@ -1294,7 +1294,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
-### Examples
+## Examples
 
 ```csharp
 using System;
@@ -1377,5 +1377,3 @@ public class CustomOutputStorageMhtml : IOutputStorage {
 * class [HTMLDocument](../)
 * namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

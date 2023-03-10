@@ -1,7 +1,7 @@
 ---
-title: ConvertSVG
+title: Converter.ConvertSVG
 second_title: Aspose.HTML for .NET API Reference
-description: Convert SVG source presented by SVGDocumentaspose.html.dom.svg/svgdocument/. Result is docx file formed by output file path.
+description: Converter method. Convert SVG source presented by SVGDocument. Result is docx file formed by output file path
 type: docs
 weight: 50
 url: /net/aspose.html.converters/converter/convertsvg/
@@ -20,7 +20,7 @@ public static void ConvertSVG(SVGDocument source, DocSaveOptions options, string
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -40,7 +40,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -93,7 +93,7 @@ public static void ConvertSVG(Url url, DocSaveOptions options, string outputPath
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -113,7 +113,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -169,7 +169,7 @@ public static void ConvertSVG(Url url, Configuration configuration, DocSaveOptio
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -189,7 +189,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -244,7 +244,7 @@ public static void ConvertSVG(string sourcePath, DocSaveOptions options, string 
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -264,7 +264,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -319,7 +319,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -339,7 +339,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -390,7 +390,7 @@ public static void ConvertSVG(string content, string baseUri, DocSaveOptions opt
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -410,7 +410,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -461,7 +461,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -481,7 +481,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -531,7 +531,7 @@ public static void ConvertSVG(SVGDocument document, DocSaveOptions options,
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -551,7 +551,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -608,7 +608,7 @@ public static void ConvertSVG(Url url, DocSaveOptions options, ICreateStreamProv
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -628,7 +628,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -688,7 +688,7 @@ public static void ConvertSVG(Url url, Configuration configuration, DocSaveOptio
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -708,7 +708,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -768,7 +768,7 @@ public static void ConvertSVG(string sourcePath, DocSaveOptions options,
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -788,7 +788,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -842,7 +842,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -862,7 +862,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -917,7 +917,7 @@ public static void ConvertSVG(string content, string baseUri, DocSaveOptions opt
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -937,7 +937,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -991,7 +991,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-docx/#convert-svg-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1011,7 +1011,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1063,7 +1063,7 @@ public static void ConvertSVG(SVGDocument source, PdfSaveOptions options, string
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1083,7 +1083,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1136,7 +1136,7 @@ public static void ConvertSVG(Url url, PdfSaveOptions options, string outputPath
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1156,7 +1156,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1207,7 +1207,7 @@ public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptio
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1227,7 +1227,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1277,7 +1277,7 @@ public static void ConvertSVG(string sourcePath, PdfSaveOptions options, string 
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1297,7 +1297,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1347,7 +1347,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1367,7 +1367,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1418,7 +1418,7 @@ public static void ConvertSVG(string content, string baseUri, PdfSaveOptions opt
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1438,7 +1438,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1489,7 +1489,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1509,7 +1509,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1559,7 +1559,7 @@ public static void ConvertSVG(SVGDocument document, PdfSaveOptions options,
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1579,7 +1579,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1636,7 +1636,7 @@ public static void ConvertSVG(Url url, PdfSaveOptions options, ICreateStreamProv
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1656,7 +1656,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1711,7 +1711,7 @@ public static void ConvertSVG(Url url, Configuration configuration, PdfSaveOptio
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1731,7 +1731,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1786,7 +1786,7 @@ public static void ConvertSVG(string sourcePath, PdfSaveOptions options,
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1806,7 +1806,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1860,7 +1860,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1880,7 +1880,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1935,7 +1935,7 @@ public static void ConvertSVG(string content, string baseUri, PdfSaveOptions opt
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -1955,7 +1955,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2009,7 +2009,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2029,7 +2029,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2081,7 +2081,7 @@ public static void ConvertSVG(SVGDocument source, ImageSaveOptions options, stri
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2103,7 +2103,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2156,7 +2156,7 @@ public static void ConvertSVG(Url url, ImageSaveOptions options, string outputPa
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2178,7 +2178,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2229,7 +2229,7 @@ public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOpt
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2251,7 +2251,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2301,7 +2301,7 @@ public static void ConvertSVG(string sourcePath, ImageSaveOptions options, strin
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2323,7 +2323,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2373,7 +2373,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2395,7 +2395,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2446,7 +2446,7 @@ public static void ConvertSVG(string content, string baseUri, ImageSaveOptions o
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2468,7 +2468,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2519,7 +2519,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2541,7 +2541,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2591,7 +2591,7 @@ public static void ConvertSVG(SVGDocument document, ImageSaveOptions options,
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2613,7 +2613,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2670,7 +2670,7 @@ public static void ConvertSVG(Url url, ImageSaveOptions options, ICreateStreamPr
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2692,7 +2692,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2747,7 +2747,7 @@ public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOpt
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2769,7 +2769,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2824,7 +2824,7 @@ public static void ConvertSVG(string sourcePath, ImageSaveOptions options,
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2846,7 +2846,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2900,7 +2900,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2922,7 +2922,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2977,7 +2977,7 @@ public static void ConvertSVG(string content, string baseUri, ImageSaveOptions o
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -2999,7 +2999,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -3053,7 +3053,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -3075,7 +3075,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -3127,7 +3127,7 @@ public static void ConvertSVG(SVGDocument source, XpsSaveOptions options, string
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -3149,7 +3149,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -3202,7 +3202,7 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, string outputPath
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -3224,7 +3224,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -3275,7 +3275,7 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -3297,7 +3297,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -3352,7 +3352,7 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string 
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -3374,7 +3374,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -3424,7 +3424,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -3446,7 +3446,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -3497,7 +3497,7 @@ public static void ConvertSVG(string content, string baseUri, XpsSaveOptions opt
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -3519,7 +3519,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -3570,7 +3570,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -3592,7 +3592,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -3642,7 +3642,7 @@ public static void ConvertSVG(SVGDocument document, XpsSaveOptions options,
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -3664,7 +3664,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -3721,7 +3721,7 @@ public static void ConvertSVG(Url url, XpsSaveOptions options, ICreateStreamProv
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -3743,7 +3743,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -3798,7 +3798,7 @@ public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptio
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -3820,7 +3820,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -3875,7 +3875,7 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options,
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -3897,7 +3897,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -3951,7 +3951,7 @@ public static void ConvertSVG(string sourcePath, Configuration configuration,
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -3973,7 +3973,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -4027,7 +4027,7 @@ public static void ConvertSVG(string content, string baseUri, XpsSaveOptions opt
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -4049,7 +4049,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -4103,7 +4103,7 @@ public static void ConvertSVG(string content, string baseUri, Configuration conf
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 SVG Converter
 
@@ -4125,7 +4125,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -4160,5 +4160,3 @@ using Aspose.Html.Converters;
 * class [Converter](../)
 * namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

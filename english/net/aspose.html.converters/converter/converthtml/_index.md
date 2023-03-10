@@ -1,7 +1,7 @@
 ---
-title: ConvertHTML
+title: Converter.ConvertHTML
 second_title: Aspose.HTML for .NET API Reference
-description: Convert HTML source presented by HTMLDocumentaspose.html/htmldocument/. Result is docx file formed by output file path.
+description: Converter method. Convert HTML source presented by HTMLDocument. Result is docx file formed by output file path
 type: docs
 weight: 20
 url: /net/aspose.html.converters/converter/converthtml/
@@ -20,7 +20,7 @@ public static void ConvertHTML(HTMLDocument document, DocSaveOptions options, st
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -90,7 +90,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -144,7 +144,7 @@ public static void ConvertHTML(Url url, DocSaveOptions options, string outputPat
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -214,7 +214,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -264,7 +264,7 @@ public static void ConvertHTML(Url url, Configuration configuration, DocSaveOpti
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -334,7 +334,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -383,7 +383,7 @@ public static void ConvertHTML(string sourcePath, DocSaveOptions options, string
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -453,7 +453,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -502,7 +502,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -572,7 +572,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -622,7 +622,7 @@ public static void ConvertHTML(string content, string baseUri, DocSaveOptions op
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -692,7 +692,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -740,7 +740,7 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | outputPath | String | Full docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -810,7 +810,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -857,7 +857,7 @@ public static void ConvertHTML(HTMLDocument document, DocSaveOptions options,
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -927,7 +927,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -984,7 +984,7 @@ public static void ConvertHTML(Url url, DocSaveOptions options, ICreateStreamPro
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -1054,7 +1054,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -1108,7 +1108,7 @@ public static void ConvertHTML(Url url, Configuration configuration, DocSaveOpti
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -1178,7 +1178,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -1232,7 +1232,7 @@ public static void ConvertHTML(string sourcePath, DocSaveOptions options,
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -1302,7 +1302,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -1355,7 +1355,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -1425,7 +1425,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -1479,7 +1479,7 @@ public static void ConvertHTML(string content, string baseUri, DocSaveOptions op
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -1549,7 +1549,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -1606,7 +1606,7 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to DOCX
 
@@ -1676,7 +1676,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -1731,7 +1731,7 @@ public static void ConvertHTML(HTMLDocument document, PdfSaveOptions options, st
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -1801,7 +1801,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -1856,7 +1856,7 @@ public static void ConvertHTML(Url url, PdfSaveOptions options, string outputPat
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -1926,7 +1926,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -1976,7 +1976,7 @@ public static void ConvertHTML(Url url, Configuration configuration, PdfSaveOpti
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -2046,7 +2046,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -2095,7 +2095,7 @@ public static void ConvertHTML(string sourcePath, PdfSaveOptions options, string
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -2165,7 +2165,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -2214,7 +2214,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -2284,7 +2284,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -2334,7 +2334,7 @@ public static void ConvertHTML(string content, string baseUri, PdfSaveOptions op
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -2404,7 +2404,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -2452,7 +2452,7 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | outputPath | String | Full pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -2522,7 +2522,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -2569,7 +2569,7 @@ public static void ConvertHTML(HTMLDocument document, PdfSaveOptions options,
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -2639,7 +2639,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -2696,7 +2696,7 @@ public static void ConvertHTML(Url url, PdfSaveOptions options, ICreateStreamPro
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -2766,7 +2766,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -2818,7 +2818,7 @@ public static void ConvertHTML(Url url, Configuration configuration, PdfSaveOpti
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -2888,7 +2888,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -2940,7 +2940,7 @@ public static void ConvertHTML(string sourcePath, PdfSaveOptions options,
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -3010,7 +3010,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3063,7 +3063,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -3133,7 +3133,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3187,7 +3187,7 @@ public static void ConvertHTML(string content, string baseUri, PdfSaveOptions op
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -3257,7 +3257,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3309,7 +3309,7 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to PDF
 
@@ -3379,7 +3379,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3429,7 +3429,7 @@ public static void ConvertHTML(HTMLDocument document, MHTMLSaveOptions options, 
 | options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to MHTML
 
@@ -3499,7 +3499,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3549,7 +3549,7 @@ public static void ConvertHTML(Url url, MHTMLSaveOptions options, string outputP
 | options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to MHTML
 
@@ -3619,7 +3619,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3670,7 +3670,7 @@ public static void ConvertHTML(Url url, Configuration configuration, MHTMLSaveOp
 | options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to MHTML
 
@@ -3740,7 +3740,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3790,7 +3790,7 @@ public static void ConvertHTML(string sourcePath, MHTMLSaveOptions options, stri
 | options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to MHTML
 
@@ -3860,7 +3860,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3910,7 +3910,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to MHTML
 
@@ -3980,7 +3980,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -4031,7 +4031,7 @@ public static void ConvertHTML(string content, string baseUri, MHTMLSaveOptions 
 | options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to MHTML
 
@@ -4101,7 +4101,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -4149,7 +4149,7 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | options | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions). |
 | outputPath | String | Full mhtml (.mht) file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to MHTML
 
@@ -4219,7 +4219,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -4266,7 +4266,7 @@ public static void ConvertHTML(HTMLDocument document, MarkdownSaveOptions option
 | options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Markdown
 
@@ -4336,7 +4336,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -4387,7 +4387,7 @@ public static void ConvertHTML(Url url, MarkdownSaveOptions options, string outp
 | options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Markdown
 
@@ -4457,7 +4457,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -4507,7 +4507,7 @@ public static void ConvertHTML(Url url, Configuration configuration, MarkdownSav
 | options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Markdown
 
@@ -4577,7 +4577,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -4626,7 +4626,7 @@ public static void ConvertHTML(string sourcePath, MarkdownSaveOptions options, s
 | options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Markdown
 
@@ -4696,7 +4696,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -4745,7 +4745,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Markdown
 
@@ -4815,7 +4815,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -4865,7 +4865,7 @@ public static void ConvertHTML(string content, string baseUri, MarkdownSaveOptio
 | options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Markdown
 
@@ -4935,7 +4935,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -4983,7 +4983,7 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | options | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-using-markdownsaveoptions). |
 | outputPath | String | Full md file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Markdown
 
@@ -5053,7 +5053,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -5099,7 +5099,7 @@ public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options, st
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -5167,7 +5167,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -5219,7 +5219,7 @@ public static void ConvertHTML(Url url, XpsSaveOptions options, string outputPat
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -5287,7 +5287,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -5337,7 +5337,7 @@ public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOpti
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -5405,7 +5405,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -5454,7 +5454,7 @@ public static void ConvertHTML(string sourcePath, XpsSaveOptions options, string
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -5522,7 +5522,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -5571,7 +5571,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -5639,7 +5639,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -5689,7 +5689,7 @@ public static void ConvertHTML(string content, string baseUri, XpsSaveOptions op
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions). |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -5757,7 +5757,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -5805,7 +5805,7 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | outputPath | String | Full xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -5873,7 +5873,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -5920,7 +5920,7 @@ public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options,
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -5988,7 +5988,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -6044,7 +6044,7 @@ public static void ConvertHTML(Url url, XpsSaveOptions options, ICreateStreamPro
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -6112,7 +6112,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -6166,7 +6166,7 @@ public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOpti
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -6234,7 +6234,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -6288,7 +6288,7 @@ public static void ConvertHTML(string sourcePath, XpsSaveOptions options,
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -6356,7 +6356,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -6409,7 +6409,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -6477,7 +6477,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -6531,7 +6531,7 @@ public static void ConvertHTML(string content, string baseUri, XpsSaveOptions op
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -6599,7 +6599,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -6651,7 +6651,7 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to XPS
 
@@ -6719,7 +6719,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -6769,7 +6769,7 @@ public static void ConvertHTML(HTMLDocument document, ImageSaveOptions options, 
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -6825,7 +6825,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -6876,7 +6876,7 @@ public static void ConvertHTML(Url url, ImageSaveOptions options, string outputP
 | options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -6932,7 +6932,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -6982,7 +6982,7 @@ public static void ConvertHTML(Url url, Configuration configuration, ImageSaveOp
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -7038,7 +7038,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -7087,7 +7087,7 @@ public static void ConvertHTML(string sourcePath, ImageSaveOptions options, stri
 | options | ImageSaveOptions | To learn more about the [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) class, please read the [Fine-Tuning Converters](https://docs.aspose.com/html/net/converting-between-formats/fine-tuning-converters/) article. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -7143,7 +7143,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -7192,7 +7192,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | options | ImageSaveOptions | To learn more about the [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) class, please read the [Fine-Tuning Converters](https://docs.aspose.com/html/net/converting-between-formats/fine-tuning-converters/) article. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -7248,7 +7248,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -7298,7 +7298,7 @@ public static void ConvertHTML(string content, string baseUri, ImageSaveOptions 
 | options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -7354,7 +7354,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -7402,7 +7402,7 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -7458,7 +7458,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -7505,7 +7505,7 @@ public static void ConvertHTML(HTMLDocument document, ImageSaveOptions options,
 | options | ImageSaveOptions | [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)object usage enables you to tune the rendering process. |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -7561,7 +7561,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -7617,7 +7617,7 @@ public static void ConvertHTML(Url url, ImageSaveOptions options, ICreateStreamP
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -7673,7 +7673,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -7727,7 +7727,7 @@ public static void ConvertHTML(Url url, Configuration configuration, ImageSaveOp
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -7783,7 +7783,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -7837,7 +7837,7 @@ public static void ConvertHTML(string sourcePath, ImageSaveOptions options,
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -7893,7 +7893,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -7946,7 +7946,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -8002,7 +8002,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -8056,7 +8056,7 @@ public static void ConvertHTML(string content, string baseUri, ImageSaveOptions 
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -8112,7 +8112,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -8164,7 +8164,7 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert HTML to Image
 
@@ -8220,7 +8220,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -8253,5 +8253,3 @@ using Aspose.Html.Converters;
 * class [Converter](../)
 * namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

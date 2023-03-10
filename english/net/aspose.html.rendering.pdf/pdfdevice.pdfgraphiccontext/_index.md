@@ -1,9 +1,9 @@
 ---
-title: PdfDevice.PdfGraphicContext
+title: PdfDevice.PdfGraphicContext Class
 second_title: Aspose.HTML for .NET API Reference
-description: Holds current graphics control parameters for the PdfDevice. These parameters define the global framework within which the graphics operators execute.
+description: Aspose.Html.Rendering.Pdf.PdfDevicePdfGraphicContext class. Holds current graphics control parameters for the PdfDevice. These parameters define the global framework within which the graphics operators execute
 type: docs
-weight: 4450
+weight: 4460
 url: /net/aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/
 ---
 ## PdfDevice.PdfGraphicContext class
@@ -18,34 +18,34 @@ public class PdfGraphicContext : GraphicContext
 
 | Name | Description |
 | --- | --- |
-| [PdfGraphicContext](pdfgraphiccontext)() | The default constructor. |
+| [PdfGraphicContext](../../aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/.ctor)() | The default constructor. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | virtual [CharacterSpacing](../../aspose.html.rendering/graphiccontext/characterspacing/) { get; set; } | Sets or gets character spacing. |
-| override [FillBrush](../../aspose.html.rendering.pdf/pdfgraphiccontext/fillbrush/) { get; set; } | Sets or gets the brush object that is used to fill the interiors of paths. |
+| override [FillBrush](../../aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/fillbrush) { get; set; } | Sets or gets the brush object that is used to fill the interiors of paths. |
 | virtual [Font](../../aspose.html.rendering/graphiccontext/font/) { get; set; } | Sets or gets the true type font object that is used for rendering text. |
 | virtual [FontSize](../../aspose.html.rendering/graphiccontext/fontsize/) { get; set; } | Sets or gets text font size. |
 | virtual [FontStyle](../../aspose.html.rendering/graphiccontext/fontstyle/) { get; set; } | Sets or gets text font style. |
-| override [LineCap](../../aspose.html.rendering.pdf/pdfgraphiccontext/linecap/) { get; set; } | Sets or gets the code specifying the shape of the endpoints for any open path that is stroked. |
+| override [LineCap](../../aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/linecap) { get; set; } | Sets or gets the code specifying the shape of the endpoints for any open path that is stroked. |
 | virtual [LineDashOffset](../../aspose.html.rendering/graphiccontext/linedashoffset/) { get; set; } | Sets or gets the phase offset of the current line dash pattern. |
 | virtual [LineDashPattern](../../aspose.html.rendering/graphiccontext/linedashpattern/) { get; set; } | Sets or gets the description of the dash pattern to be used when paths are stroked. |
 | virtual [LineDashStyle](../../aspose.html.rendering/graphiccontext/linedashstyle/) { get; set; } | Sets of gets the style of dashed lines of a stroked path. |
-| override [LineJoin](../../aspose.html.rendering.pdf/pdfgraphiccontext/linejoin/) { get; set; } | Sets or gets the code specifying the shape of joints between connected segments of a stroked path. |
-| override [LineWidth](../../aspose.html.rendering.pdf/pdfgraphiccontext/linewidth/) { get; set; } | Sets or gets the thickness of paths to be stroked. |
-| override [MiterLimit](../../aspose.html.rendering.pdf/pdfgraphiccontext/miterlimit/) { get; set; } | Sets or gets the maximum length of mitered line joins for stroked paths. This parameter limits the length of "spikes" produced when line segments join at sharp angles. |
-| override [StrokeBrush](../../aspose.html.rendering.pdf/pdfgraphiccontext/strokebrush/) { get; set; } | Sets or gets the brush object that is used for stroked paths. |
+| override [LineJoin](../../aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/linejoin) { get; set; } | Sets or gets the code specifying the shape of joints between connected segments of a stroked path. |
+| override [LineWidth](../../aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/linewidth) { get; set; } | Sets or gets the thickness of paths to be stroked. |
+| override [MiterLimit](../../aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/miterlimit) { get; set; } | Sets or gets the maximum length of mitered line joins for stroked paths. This parameter limits the length of "spikes" produced when line segments join at sharp angles. |
+| override [StrokeBrush](../../aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/strokebrush) { get; set; } | Sets or gets the brush object that is used for stroked paths. |
 | virtual [TextInfo](../../aspose.html.rendering/graphiccontext/textinfo/) { get; } | Gets a [`TextInfo`](../../aspose.html.rendering/textinfo/) object which contains information about rendered text. |
-| override [TransformationMatrix](../../aspose.html.rendering.pdf/pdfgraphiccontext/transformationmatrix/) { get; set; } | Sets or gets transformation matrix. |
+| override [TransformationMatrix](../../aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/transformationmatrix) { get; set; } | Sets or gets transformation matrix. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Clone](../../aspose.html.rendering.pdf/pdfgraphiccontext/clone/)() | Creates a new instance of a class with the same property values as an existing instance. |
-| override [Transform](../../aspose.html.rendering.pdf/pdfgraphiccontext/transform/)(Matrix) | Modify the current transformation matrix by multiplying the specified matrix. |
+| override [Clone](../../aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/clone)() | Creates a new instance of a class with the same property values as an existing instance. |
+| override [Transform](../../aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/transform)(Matrix) | Modify the current transformation matrix by multiplying the specified matrix. |
 
 ### See Also
 
@@ -53,5 +53,3 @@ public class PdfGraphicContext : GraphicContext
 * class [PdfDevice](../pdfdevice/)
 * namespace [Aspose.Html.Rendering.Pdf](../../aspose.html.rendering.pdf/)
 * assembly [Aspose.HTML](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

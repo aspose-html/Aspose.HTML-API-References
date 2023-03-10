@@ -1,7 +1,7 @@
 ---
-title: HTMLDocument
+title: HTMLDocument Class
 second_title: Aspose.HTML for .NET API Reference
-description: Represents an HTML document. All top level HTML objects are added to this object. This class represents the HTML page as what we see in browser. All forms tables scripts ... are added to the HTML page via the interfaces of this class. HTMLDocumenthttps//dom.spec.whatwg.org/ref-for-dom-domimplementation-createhtmldocument is html implementation of most general Documenthttps//dom.spec.whatwg.org/document interface and both are core or root point of DOMhttps//dom.spec.whatwg.org/ - Document Object Model. These concepts are in full accordance with officical web development basis or standards. For the purposes of web development you can generally think of HTMLDocument as an alias for Document upon which HTMLDocument is based.
+description: Aspose.Html.HTMLDocument class. Represents an HTML document. All top level HTML objects are added to this object. This class represents the HTML page as what we see in browser. All forms tables scripts ... are added to the HTML page via the interfaces of this class. HTMLDocument is html implementation of most general Document interface and both are core or root point of DOM - Document Object Model. These concepts are in full accordance with officical web development basis or standards. For the purposes of web development you can generally think of HTMLDocument as an alias for Document upon which HTMLDocument is based
 type: docs
 weight: 3190
 url: /net/aspose.html/htmldocument/
@@ -18,22 +18,22 @@ public class HTMLDocument : Document, IDocumentCSS
 
 | Name | Description |
 | --- | --- |
-| [HTMLDocument](htmldocument#constructor)() | The HTMLDocument constructor creates a new HTML Document object that is a web page loaded in the browser and serving as an entry point into the page's content. |
-| [HTMLDocument](htmldocument#constructor_1)(Configuration) | The HTMLDocument constructor creates a new HTML Document object that is a web page loaded in the browser and serving as an entry point into the page's content. |
-| [HTMLDocument](htmldocument#constructor_2)(RequestMessage) | Creates an HTML document from the [`RequestMessage`](../../aspose.html.net/requestmessage/) object. |
-| [HTMLDocument](htmldocument#constructor_10)(string) | Loads the HTML document from an address. |
-| [HTMLDocument](htmldocument#constructor_4)(Url) | Loads the HTML document from a URL. |
-| [HTMLDocument](htmldocument#constructor_3)(RequestMessage, Configuration) | Creates an HTML document from the [RequestMessage](T:Aspose.Html.Net.RequestMessage) object. |
-| [HTMLDocument](htmldocument#constructor_8)(Stream, string) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri that is used to resolve the relative resources' path. |
-| [HTMLDocument](htmldocument#constructor_6)(Stream, Url) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri that is used to resolve the relative resources' path. |
-| [HTMLDocument](htmldocument#constructor_11)(string, Configuration) | Loads the HTML document from an address with specified environment configuration settings. |
-| [HTMLDocument](htmldocument#constructor_14)(string, string) | Creates an HTML document from a String content with specified base-uri. |
-| [HTMLDocument](htmldocument#constructor_12)(string, Url) | Creates an HTML document from a String content with specified base-uri. |
-| [HTMLDocument](htmldocument#constructor_5)(Url, Configuration) | Loads the HTML document from a URL with specified environment configuration settings. |
-| [HTMLDocument](htmldocument#constructor_9)(Stream, string, Configuration) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri and environment configuration settings. |
-| [HTMLDocument](htmldocument#constructor_7)(Stream, Url, Configuration) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri and environment configuration settings. |
-| [HTMLDocument](htmldocument#constructor_15)(string, string, Configuration) | Creates an HTML document from a String content with specified base-uri and environment configuration settings. |
-| [HTMLDocument](htmldocument#constructor_13)(string, Url, Configuration) | Creates an HTML document from a String content with specified base-uri and environment configuration settings. |
+| [HTMLDocument](htmldocument/#constructor)() | The HTMLDocument constructor creates a new HTML Document object that is a web page loaded in the browser and serving as an entry point into the page's content. |
+| [HTMLDocument](htmldocument/#constructor_1)(Configuration) | The HTMLDocument constructor creates a new HTML Document object that is a web page loaded in the browser and serving as an entry point into the page's content. |
+| [HTMLDocument](htmldocument/#constructor_2)(RequestMessage) | Creates an HTML document from the [`RequestMessage`](../../aspose.html.net/requestmessage/) object. |
+| [HTMLDocument](htmldocument/#constructor_10)(string) | Loads the HTML document from an address. |
+| [HTMLDocument](htmldocument/#constructor_4)(Url) | Loads the HTML document from a URL. |
+| [HTMLDocument](htmldocument/#constructor_3)(RequestMessage, Configuration) | Creates an HTML document from the [RequestMessage](T:Aspose.Html.Net.RequestMessage) object. |
+| [HTMLDocument](htmldocument/#constructor_8)(Stream, string) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri that is used to resolve the relative resources' path. |
+| [HTMLDocument](htmldocument/#constructor_6)(Stream, Url) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri that is used to resolve the relative resources' path. |
+| [HTMLDocument](htmldocument/#constructor_11)(string, Configuration) | Loads the HTML document from an address with specified environment configuration settings. |
+| [HTMLDocument](htmldocument/#constructor_14)(string, string) | Creates an HTML document from a String content with specified base-uri. |
+| [HTMLDocument](htmldocument/#constructor_12)(string, Url) | Creates an HTML document from a String content with specified base-uri. |
+| [HTMLDocument](htmldocument/#constructor_5)(Url, Configuration) | Loads the HTML document from a URL with specified environment configuration settings. |
+| [HTMLDocument](htmldocument/#constructor_9)(Stream, string, Configuration) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri and environment configuration settings. |
+| [HTMLDocument](htmldocument/#constructor_7)(Stream, Url, Configuration) | Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri and environment configuration settings. |
+| [HTMLDocument](htmldocument/#constructor_15)(string, string, Configuration) | Creates an HTML document from a String content with specified base-uri and environment configuration settings. |
+| [HTMLDocument](htmldocument/#constructor_13)(string, Url, Configuration) | Creates an HTML document from a String content with specified base-uri and environment configuration settings. |
 
 ## Properties
 
@@ -228,7 +228,7 @@ public class HTMLDocument : Document, IDocumentCSS
 | event [OnVolumeChange](../../aspose.html.dom/document/onvolumechange/) | Gets or sets event handler for OnVolumeChange event. |
 | event [OnWaiting](../../aspose.html.dom/document/onwaiting/) | Gets or sets event handler for OnWaiting event. |
 
-### Remarks
+## Remarks
 
 More info about HTMLDocument, Document and DOM can be obtained in popular web development resources:
 
@@ -238,7 +238,7 @@ Standards Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 ```csharp
     // Create an instance of an HTML document
@@ -283,5 +283,3 @@ Standards Reference:
 * interface [IDocumentCSS](../../aspose.html.dom.css/idocumentcss/)
 * namespace [Aspose.Html](../../aspose.html/)
 * assembly [Aspose.HTML](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

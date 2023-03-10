@@ -1,7 +1,7 @@
 ---
-title: ConvertTemplate
+title: Converter.ConvertTemplate
 second_title: Aspose.HTML for .NET API Reference
-description: Merge template source presented by HTMLDocumentaspose.html/htmldocument/ with template data XML JSON. Result is html file formed by output file path.
+description: Converter method. Merge template source presented by HTMLDocument with template data XML JSON. Result is html file formed by output file path
 type: docs
 weight: 60
 url: /net/aspose.html.converters/converter/converttemplate/
@@ -22,7 +22,7 @@ public static void ConvertTemplate(HTMLDocument template, TemplateData data,
 | options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -36,7 +36,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -107,7 +107,7 @@ public static void ConvertTemplate(Url url, TemplateData data, TemplateLoadOptio
 | options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -121,7 +121,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -187,7 +187,7 @@ public static void ConvertTemplate(Url url, Configuration configuration, Templat
 | options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -201,7 +201,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -262,7 +262,7 @@ public static void ConvertTemplate(string sourcePath, TemplateData data,
 | options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -276,7 +276,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -336,7 +336,7 @@ public static void ConvertTemplate(string sourcePath, Configuration configuratio
 | options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -350,7 +350,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -411,7 +411,7 @@ public static void ConvertTemplate(string content, string baseUrl, TemplateData 
 | options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -425,7 +425,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -518,7 +518,7 @@ public static void ConvertTemplate(string content, string baseUrl, Configuration
 | options | TemplateLoadOptions | [`TemplateLoadOptions`](../../../aspose.html.loading/templateloadoptions/) object instance. It used to determine whether the template and data item names match, regardless of case or not (options). |
 | outputPath | String | Full html file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -532,7 +532,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -634,7 +634,7 @@ public static HTMLDocument ConvertTemplate(HTMLDocument template, TemplateData d
 
 New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -648,7 +648,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -722,7 +722,7 @@ public static HTMLDocument ConvertTemplate(Url url, TemplateData data, TemplateL
 
 New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -736,7 +736,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -805,7 +805,7 @@ public static HTMLDocument ConvertTemplate(Url url, Configuration configuration,
 
 New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -819,7 +819,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -888,7 +888,7 @@ public static HTMLDocument ConvertTemplate(string sourcePath, TemplateData data,
 
 New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -902,7 +902,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -970,7 +970,7 @@ public static HTMLDocument ConvertTemplate(string sourcePath, Configuration conf
 
 New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -984,7 +984,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -1053,7 +1053,7 @@ public static HTMLDocument ConvertTemplate(string content, string baseUrl, Templ
 
 New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -1067,7 +1067,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -1145,7 +1145,7 @@ public static HTMLDocument ConvertTemplate(string content, string baseUrl,
 
 New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
-### Remarks
+## Remarks
 
 Template Merger
 
@@ -1159,7 +1159,7 @@ Template source. Define HTML template source by file, [`URL`](../../../aspose.ht
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -1218,5 +1218,3 @@ using Aspose.Html.Converters;
 * class [Converter](../)
 * namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
