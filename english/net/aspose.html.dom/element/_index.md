@@ -1,7 +1,7 @@
 ---
-title: Element
+title: Element Class
 second_title: Aspose.HTML for .NET API Reference
-description: The Element interface represents an element in an HTML or XML document.
+description: Aspose.Html.Dom.Element class. The Element interface represents an element in an HTML or XML document
 type: docs
 weight: 690
 url: /net/aspose.html.dom/element/
@@ -18,7 +18,7 @@ public class Element : Node, IChildNode, IParentNode
 
 | Name | Description |
 | --- | --- |
-| [Element](element)(IElementInit) | Initializes a new instance of the Element class. Don't call this constructor directly, use [`CreateElement(String)`](../document/createelement/) or [`CreateElementNS(String, String)`](../document/createelementns/). |
+| [Element](element/)(IElementInit) | Initializes a new instance of the Element class. Don't call this constructor directly, use [`CreateElement(String)`](../document/createelement/) or [`CreateElementNS(String, String)`](../document/createelementns/). |
 
 ## Properties
 
@@ -46,7 +46,7 @@ public class Element : Node, IChildNode, IParentNode
 | virtual [NodeValue](../../aspose.html.dom/node/nodevalue/) { get; set; } | The nodeValue property of the [`Node `](../node/)interface returns or sets the value of the current node. |
 | [OuterHTML](../../aspose.html.dom/element/outerhtml/) { get; set; } | Returns a fragment of HTML or XML that represents the element and its contents. Can be set, to replace the element with nodes parsed from the given string. |
 | virtual [OwnerDocument](../../aspose.html.dom/node/ownerdocument/) { get; } | The read-only ownerDocument property of the Node interface returns the top-level document object of the node. |
-| [ParentElement](../../aspose.html.dom/node/parentelement/) { get; } | The read-only parentElement property of [`Node`](../node/) interface returns the DOM node's parent [`Element`](./element/), or null if the node either has no parent, or its parent isn't a DOM Element. |
+| [ParentElement](../../aspose.html.dom/node/parentelement/) { get; } | The read-only parentElement property of [`Node`](../node/) interface returns the DOM node's parent `Element`, or null if the node either has no parent, or its parent isn't a DOM Element. |
 | [ParentNode](../../aspose.html.dom/node/parentnode/) { get; } | The read-only parentNode property of the Node interface returns the parent of the specified node in the DOM tree. |
 | override [Prefix](../../aspose.html.dom/element/prefix/) { get; } | The namespace prefix of this node, or null if it is unspecified. When it is defined to be null, setting it has no effect |
 | [PreviousElementSibling](../../aspose.html.dom/element/previouselementsibling/) { get; } | Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree. |
@@ -73,9 +73,9 @@ public class Element : Node, IChildNode, IParentNode
 | [GetAttributeNode](../../aspose.html.dom/element/getattributenode/)(string) | Retrieves an attribute node by name. |
 | [GetAttributeNodeNS](../../aspose.html.dom/element/getattributenodens/)(string, string) | Retrieves an Attr node by local name and namespace URI. |
 | [GetAttributeNS](../../aspose.html.dom/element/getattributens/)(string, string) | Retrieves an attribute value by local name and namespace URI. |
-| [GetElementsByClassName](../../aspose.html.dom/element/getelementsbyclassname/)(string) | Returns [`HTMLCollection`](../../aspose.html.collections/htmlcollection/) object containing all the elements within [`element`](./element/) that have all the classes specified in argument. |
-| [GetElementsByTagName](../../aspose.html.dom/element/getelementsbytagname/)(string) | Returns [`HTMLCollection`](../../aspose.html.collections/htmlcollection/) object containing all [`elements`](./element/) with a given tag name, in document order. |
-| [GetElementsByTagNameNS](../../aspose.html.dom/element/getelementsbytagnamens/)(string, string) | Returns [`HTMLCollection`](../../aspose.html.collections/htmlcollection/) object containing all [`elements`](./element/) with a given local name and namespace URI string in document order. |
+| [GetElementsByClassName](../../aspose.html.dom/element/getelementsbyclassname/)(string) | Returns [`HTMLCollection`](../../aspose.html.collections/htmlcollection/) object containing all the elements within `element` that have all the classes specified in argument. |
+| [GetElementsByTagName](../../aspose.html.dom/element/getelementsbytagname/)(string) | Returns [`HTMLCollection`](../../aspose.html.collections/htmlcollection/) object containing all `elements` with a given tag name, in document order. |
+| [GetElementsByTagNameNS](../../aspose.html.dom/element/getelementsbytagnamens/)(string, string) | Returns [`HTMLCollection`](../../aspose.html.collections/htmlcollection/) object containing all `elements` with a given local name and namespace URI string in document order. |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 | [HasAttribute](../../aspose.html.dom/element/hasattribute/)(string) | Returns true when an attribute with a given name is specified on this element or has a default value, false otherwise. |
 | [HasAttributeNS](../../aspose.html.dom/element/hasattributens/)(string, string) | Returns true when an attribute with a given local name and namespace URI is specified on this element or has a default value, false otherwise. |
@@ -87,7 +87,7 @@ public class Element : Node, IChildNode, IParentNode
 | [IsSameNode](../../aspose.html.dom/node/issamenode/)(Node) | The isSameNode() method of the Node interface is a legacy alias the for the === strict equality operator. That is, it tests whether two nodes are the same (in other words, whether they reference the same object). |
 | [LookupNamespaceURI](../../aspose.html.dom/node/lookupnamespaceuri/)(string) | The lookupNamespaceURI() method of the Node interface takes a prefix as parameter and returns the namespace URI associated with it on the given node if found (and null if not). |
 | [LookupPrefix](../../aspose.html.dom/node/lookupprefix/)(string) | The lookupPrefix() method of the Node interface returns a String containing the prefix for a given namespace URI, if present, and null if not. When multiple prefixes are possible, the first prefix is returned. |
-| [Normalize](../../aspose.html.dom/node/normalize/)() | Puts all [`Text`](../text/) nodes in the full depth of the sub-tree underneath this Node, including attribute nodes, into a "normal" form where only structure (e.g., [`elements`](./element/), [`comments`](../comment/), [`processing instructions`](../processinginstruction/), [`CDATA sections`](../cdatasection/), and [`entity references`](../entityreference/)) separates [`Text`](../text/) nodes, i.e., there are neither adjacent Text nodes nor empty Text nodes. This can be used to ensure that the DOM view of a document is the same as if it were saved and re-loaded, and is useful when operations (such as XPointer [XPointer] lookups) that depend on a particular document tree structure are to be used. If the parameter "normalize-characters" of the [`DOMConfiguration`](../../aspose.html/configuration/) object attached to the [`Node.ownerDocument`](../node/ownerdocument/) is true, this method will also fully normalize the characters of the Text nodes. |
+| [Normalize](../../aspose.html.dom/node/normalize/)() | Puts all [`Text`](../text/) nodes in the full depth of the sub-tree underneath this Node, including attribute nodes, into a "normal" form where only structure (e.g., `elements`, [`comments`](../comment/), [`processing instructions`](../processinginstruction/), [`CDATA sections`](../cdatasection/), and [`entity references`](../entityreference/)) separates [`Text`](../text/) nodes, i.e., there are neither adjacent Text nodes nor empty Text nodes. This can be used to ensure that the DOM view of a document is the same as if it were saved and re-loaded, and is useful when operations (such as XPointer [XPointer] lookups) that depend on a particular document tree structure are to be used. If the parameter "normalize-characters" of the [`DOMConfiguration`](../../aspose.html/configuration/) object attached to the [`Node.ownerDocument`](../node/ownerdocument/) is true, this method will also fully normalize the characters of the Text nodes. |
 | [QuerySelector](../../aspose.html.dom/element/queryselector/)(string) | Returns the first Element in document, which match selector |
 | [QuerySelectorAll](../../aspose.html.dom/element/queryselectorall/)(string) | Returns a NodeList of all the Elements in document, which match selector |
 | [Remove](../../aspose.html.dom/element/remove/)() | Removes this instance. |
@@ -115,5 +115,3 @@ public class Element : Node, IChildNode, IParentNode
 * interface [IParentNode](../iparentnode/)
 * namespace [Aspose.Html.Dom](../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

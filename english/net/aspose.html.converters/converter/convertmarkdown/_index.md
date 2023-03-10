@@ -1,7 +1,7 @@
 ---
-title: ConvertMarkdown
+title: Converter.ConvertMarkdown
 second_title: Aspose.HTML for .NET API Reference
-description: Convert MD markdown source presented by input stream to html. Result is HTMLDocumentaspose.html/htmldocument/ which can be saved through output file path.
+description: Converter method. Convert MD markdown source presented by input stream to html. Result is HTMLDocument which can be saved through output file path
 type: docs
 weight: 30
 url: /net/aspose.html.converters/converter/convertmarkdown/
@@ -23,7 +23,7 @@ public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri)
 
 New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
-### Remarks
+## Remarks
 
 Markdown Converter
 
@@ -41,7 +41,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -105,7 +105,7 @@ public static HTMLDocument ConvertMarkdown(Stream stream, string baseUri,
 
 New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
-### Remarks
+## Remarks
 
 Markdown Converter
 
@@ -123,7 +123,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -181,7 +181,7 @@ public static void ConvertMarkdown(Stream stream, string baseUri, string outputP
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
 | outputPath | String | Full html file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 Markdown Converter
 
@@ -199,7 +199,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -254,7 +254,7 @@ public static void ConvertMarkdown(Stream stream, string baseUri, Configuration 
 | configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 | outputPath | String | Full html file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 Markdown Converter
 
@@ -272,7 +272,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -323,7 +323,7 @@ public static HTMLDocument ConvertMarkdown(string sourcePath)
 
 New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
-### Remarks
+## Remarks
 
 Markdown Converter
 
@@ -341,7 +341,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -393,7 +393,7 @@ public static HTMLDocument ConvertMarkdown(string sourcePath, Configuration conf
 
 New formed [`HTMLDocument`](../../../aspose.html/htmldocument/) as conversion result which can be saved through output file path.
 
-### Remarks
+## Remarks
 
 Markdown Converter
 
@@ -411,7 +411,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -460,7 +460,7 @@ public static void ConvertMarkdown(string sourcePath, string outputPath)
 | sourcePath | String | Path to source Markdown file. It will be combined with the current directory path to form an absolute URL. |
 | outputPath | String | Full html file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 Markdown Converter
 
@@ -478,7 +478,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -523,7 +523,7 @@ public static void ConvertMarkdown(string sourcePath, Configuration configuratio
 | configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
 | outputPath | String | Full html file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 Markdown Converter
 
@@ -541,7 +541,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -569,5 +569,3 @@ using Aspose.Html.Converters;
 * class [Converter](../)
 * namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

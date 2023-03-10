@@ -1,7 +1,7 @@
 ---
-title: ConvertEPUB
+title: Converter.ConvertEPUB
 second_title: Aspose.HTML for .NET API Reference
-description: Convert EPUB source presented by file path to image. Result is image file formed by implementation of ICreateStreamProvideraspose.html.io/icreatestreamprovider/ interface.
+description: Converter method. Convert EPUB source presented by file path to image. Result is image file formed by implementation of ICreateStreamProvider interface
 type: docs
 weight: 10
 url: /net/aspose.html.converters/converter/convertepub/
@@ -21,7 +21,7 @@ public static void ConvertEPUB(string sourcePath, ImageSaveOptions options,
 | options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/#save-options). |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to Image
 
@@ -65,7 +65,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 EPUB to JPG by two lines of code
 
@@ -111,7 +111,7 @@ public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options,
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to Image
 
@@ -155,7 +155,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -210,7 +210,7 @@ public static void ConvertEPUB(Stream stream, Configuration configuration,
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to Image
 
@@ -254,7 +254,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -311,7 +311,7 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. See ICreateStreamProvider implementation sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to Image
 
@@ -355,7 +355,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -406,7 +406,7 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration,
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. See ICreateStreamProvider implementation sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to Image
 
@@ -450,7 +450,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -503,7 +503,7 @@ public static void ConvertEPUB(Stream stream, XpsSaveOptions options, string out
 | options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. |
 | outputPath | String | Full .xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to XPS
 
@@ -527,7 +527,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -587,7 +587,7 @@ public static void ConvertEPUB(string sourcePath, XpsSaveOptions options, string
 | options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full .xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to XPS
 
@@ -611,7 +611,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -658,7 +658,7 @@ public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options, string out
 | options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full .xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to XPS
 
@@ -684,7 +684,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -739,7 +739,7 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSa
 | options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full .xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to XPS
 
@@ -763,7 +763,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -819,7 +819,7 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | options | XpsSaveOptions | Conversion options. [XpsSaveOptions ](https://apireference.aspose.com/html/net/aspose.html.saving/xpssaveoptions)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. |
 | outputPath | String | Full .xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to XPS
 
@@ -843,7 +843,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -893,7 +893,7 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSa
 | options | XpsSaveOptions | Conversion options. [XpsSaveOptions ](https://apireference.aspose.com/html/net/aspose.html.saving/xpssaveoptions)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. |
 | outputPath | String | Full .xps file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to XPS
 
@@ -917,7 +917,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -967,7 +967,7 @@ public static void ConvertEPUB(Stream stream, XpsSaveOptions options,
 | options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. See ICreateStreamProvider implementation sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to XPS
 
@@ -991,7 +991,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -1054,7 +1054,7 @@ public static void ConvertEPUB(string sourcePath, XpsSaveOptions options,
 | options | XpsSaveOptions | Conversion options. [XpsSaveOptions ](https://apireference.aspose.com/html/net/aspose.html.saving/xpssaveoptions)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. |
 | provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to XPS
 
@@ -1078,7 +1078,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1127,7 +1127,7 @@ public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options,
 | options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#save-options). |
 | provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to XPS
 
@@ -1151,7 +1151,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1202,7 +1202,7 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSa
 | options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to XPS
 
@@ -1226,7 +1226,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1277,7 +1277,7 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. |
 | provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to XPS
 
@@ -1301,7 +1301,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1352,7 +1352,7 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSa
 | options | XpsSaveOptions | Conversion options. [`XpsSaveOptions `](../../../aspose.html.saving/xpssaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to XPS
 
@@ -1376,7 +1376,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1426,7 +1426,7 @@ public static void ConvertEPUB(Stream stream, DocSaveOptions options, string out
 | options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | outputPath | String | Full .docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to DOCX
 
@@ -1450,7 +1450,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1498,7 +1498,7 @@ public static void ConvertEPUB(string sourcePath, DocSaveOptions options, string
 | options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/),[` margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | outputPath | String | Full .docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to DOCX
 
@@ -1522,7 +1522,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1569,7 +1569,7 @@ public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options, string out
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`resolutions`](../../../aspose.html.rendering.image/imagerenderingoptions/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | outputPath | String | Full .docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to DOCX
 
@@ -1593,7 +1593,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using Aspose.Html.IO; 
@@ -1643,7 +1643,7 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, DocSa
 | options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | outputPath | String | Full .docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to DOCX
 
@@ -1667,7 +1667,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1718,7 +1718,7 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | options | DocSaveOptions | Conversion options. [DocSaveOptions ](https://apireference.aspose.com/html/net/aspose.html.saving/docsaveoptions)object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | outputPath | String | Full .docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to DOCX
 
@@ -1742,7 +1742,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1792,7 +1792,7 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSa
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`resolutions`](../../../aspose.html.rendering.image/imagerenderingoptions/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | outputPath | String | Full .docx file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to DOCX
 
@@ -1816,7 +1816,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using Aspose.Html.IO; 
@@ -1866,7 +1866,7 @@ public static void ConvertEPUB(Stream stream, DocSaveOptions options,
 | options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to DOCX
 
@@ -1890,7 +1890,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -1940,7 +1940,7 @@ public static void ConvertEPUB(string sourcePath, DocSaveOptions options,
 | options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to DOCX
 
@@ -1964,7 +1964,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2014,7 +2014,7 @@ public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options,
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) usage enables you to tune the rendering process; you can specify the page size, margins, resolutions, CSS, etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to DOCX
 
@@ -2038,7 +2038,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2095,7 +2095,7 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, DocSa
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`resolutions`](../../../aspose.html.rendering.image/imagerenderingoptions/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to DOCX
 
@@ -2119,7 +2119,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2176,7 +2176,7 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | options | DocSaveOptions | Conversion options. [`DocSaveOptions `](../../../aspose.html.saving/docsaveoptions/)object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to DOCX
 
@@ -2200,7 +2200,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2252,7 +2252,7 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSa
 | options | DocSaveOptions | [`DocSaveOptions`](../../../aspose.html.saving/docsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`resolutions`](../../../aspose.html.rendering.image/imagerenderingoptions/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to DOCX
 
@@ -2276,7 +2276,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2334,7 +2334,7 @@ public static void ConvertEPUB(Stream stream, PdfSaveOptions options, string out
 | options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | outputPath | String | Full .pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to PDF
 
@@ -2358,7 +2358,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using Aspose.Html.IO; 
@@ -2405,7 +2405,7 @@ public static void ConvertEPUB(string sourcePath, PdfSaveOptions options, string
 | options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | outputPath | String | Full .pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to PDF
 
@@ -2429,7 +2429,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using Aspose.Html.IO; 
@@ -2476,7 +2476,7 @@ public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options, string out
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`file permissions`](../../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | outputPath | String | Full .pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to PDF
 
@@ -2500,7 +2500,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -2550,7 +2550,7 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSa
 | options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | outputPath | String | Full .pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to PDF
 
@@ -2574,7 +2574,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2629,7 +2629,7 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | outputPath | String | Full .pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to PDF
 
@@ -2653,7 +2653,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -2708,7 +2708,7 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSa
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`file permissions`](../../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | outputPath | String | Full .pdf file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to PDF
 
@@ -2732,7 +2732,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -2790,7 +2790,7 @@ public static void ConvertEPUB(Stream stream, PdfSaveOptions options,
 | options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to PDF
 
@@ -2814,7 +2814,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2864,7 +2864,7 @@ public static void ConvertEPUB(string sourcePath, PdfSaveOptions options,
 | options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to PDF
 
@@ -2888,7 +2888,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -2938,7 +2938,7 @@ public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options,
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`file permissions`](../../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [ICreateStreamProvider](https://apireference.aspose.com/svg/net/aspose.svg.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to PDF
 
@@ -2962,7 +2962,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;
@@ -3019,7 +3019,7 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSa
 | options | PdfSaveOptions | Conversion options. [`PdfSaveOption`](../../../aspose.html.saving/pdfsaveoptions/) object usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to PDF
 
@@ -3043,7 +3043,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -3095,7 +3095,7 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | options | PdfSaveOptions | Conversion options. [PdfSaveOption](https://apireference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions) object usage enables you to tune the rendering process; you can specify the page size, margins, CSS, etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [ICreateStreamProvider](https://apireference.aspose.com/svg/net/aspose.svg.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to PDF
 
@@ -3119,7 +3119,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -3176,7 +3176,7 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSa
 | options | PdfSaveOptions | [`PdfSaveOptions`](../../../aspose.html.saving/pdfsaveoptions/) usage enables you to tune the rendering process; you can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`file permissions`](../../../aspose.html.rendering.pdf.encryption/pdfencryptioninfo/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#save-options). |
 | provider | ICreateStreamProvider | Implementation of [ICreateStreamProvider](https://apireference.aspose.com/svg/net/aspose.svg.io/icreatestreamprovider) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to PDF
 
@@ -3200,7 +3200,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3250,7 +3250,7 @@ public static void ConvertEPUB(Stream stream, ImageSaveOptions options, string o
 | options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/#save-options). |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to Image
 
@@ -3294,7 +3294,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3341,7 +3341,7 @@ public static void ConvertEPUB(string sourcePath, ImageSaveOptions options, stri
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to Image
 
@@ -3385,7 +3385,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3432,7 +3432,7 @@ public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options, string o
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to Image
 
@@ -3476,7 +3476,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3526,7 +3526,7 @@ public static void ConvertEPUB(Stream stream, Configuration configuration,
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to Image
 
@@ -3570,7 +3570,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3620,7 +3620,7 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to Image
 
@@ -3664,7 +3664,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3714,7 +3714,7 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration,
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [page size](https://apireference.aspose.com/html/net/aspose.html.rendering/renderingoptions/properties/pagesetup), [margins](https://apireference.aspose.com/html/net/aspose.html.drawing/page/properties/margin), [CSS media-type](https://apireference.aspose.com/html/net/aspose.html.rendering/mediatype), etc. See [ImageSaveOptions ](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)class. |
 | outputPath | String | Full image file path as output conversion result. |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to Image
 
@@ -3758,7 +3758,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO;  
@@ -3808,7 +3808,7 @@ public static void ConvertEPUB(Stream stream, ImageSaveOptions options,
 | options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
 | provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
 
-### Remarks
+## Remarks
 
 How to convert EPUB to Image
 
@@ -3852,7 +3852,7 @@ Source code
 
 You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
-### Examples
+## Examples
 
 ```csharp
 using System.IO; 
@@ -3884,5 +3884,3 @@ Converter.ConvertEPUB(inputStream, options, sp);
 * class [Converter](../)
 * namespace [Aspose.Html.Converters](../../converter/)
 * assembly [Aspose.HTML](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

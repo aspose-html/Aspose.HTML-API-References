@@ -1,9 +1,9 @@
 ---
-title: DocDevice
+title: DocDevice Class
 second_title: Aspose.HTML for .NET API Reference
-description: Represents rendering to a DOCX document.
+description: Aspose.Html.Rendering.Doc.DocDevice class. Represents rendering to a DOCX document
 type: docs
-weight: 4170
+weight: 4180
 url: /net/aspose.html.rendering.doc/docdevice/
 ---
 ## DocDevice class
@@ -18,19 +18,19 @@ public class DocDevice : Device<DocGraphicContext, DocRenderingOptions>
 
 | Name | Description |
 | --- | --- |
-| [DocDevice](docdevice#constructor)(ICreateStreamProvider) | Initializes a new instance of the [`DocDevice`](./docdevice/) class. |
-| [DocDevice](docdevice#constructor_4)(Stream) | Initializes a new instance of the [`DocDevice`](./docdevice/) class by output stream. |
-| [DocDevice](docdevice#constructor_5)(string) | Initializes a new instance of the [`DocDevice`](./docdevice/) class by output file name. |
-| [DocDevice](docdevice#constructor_1)(DocRenderingOptions, ICreateStreamProvider) | Initializes a new instance of the [`DocDevice`](./docdevice/) class by rendering options and stream provider. |
-| [DocDevice](docdevice#constructor_2)(DocRenderingOptions, Stream) | Initializes a new instance of the [`DocDevice`](./docdevice/) class by rendering options and output stream. |
-| [DocDevice](docdevice#constructor_3)(DocRenderingOptions, string) | Initializes a new instance of the [`DocDevice`](./docdevice/) class by rendering options and output file name. |
+| [DocDevice](docdevice/#constructor)(ICreateStreamProvider) | Initializes a new instance of the `DocDevice` class. |
+| [DocDevice](docdevice/#constructor_4)(Stream) | Initializes a new instance of the `DocDevice` class by output stream. |
+| [DocDevice](docdevice/#constructor_5)(string) | Initializes a new instance of the `DocDevice` class by output file name. |
+| [DocDevice](docdevice/#constructor_1)(DocRenderingOptions, ICreateStreamProvider) | Initializes a new instance of the `DocDevice` class by rendering options and stream provider. |
+| [DocDevice](docdevice/#constructor_2)(DocRenderingOptions, Stream) | Initializes a new instance of the `DocDevice` class by rendering options and output stream. |
+| [DocDevice](docdevice/#constructor_3)(DocRenderingOptions, string) | Initializes a new instance of the `DocDevice` class by rendering options and output file name. |
 
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [GraphicContext](../../aspose.html.rendering/device`2/graphiccontext/) { get; } |  |
-| [Options](../../aspose.html.rendering/device`2/options/) { get; } |  |
+| [GraphicContext](../../aspose.html.rendering/device-2/graphiccontext/) { get; } |  |
+| [Options](../../aspose.html.rendering/device-2/options/) { get; } |  |
 
 ## Methods
 
@@ -43,9 +43,9 @@ public class DocDevice : Device<DocGraphicContext, DocRenderingOptions>
 | override [Clip](../../aspose.html.rendering.doc/docdevice/clip/)(FillMode) | Modifies the current clipping path by intersecting it with the current path, using the FillMode rule to determine the region to fill. This method terminates current path. |
 | override [ClosePath](../../aspose.html.rendering.doc/docdevice/closepath/)() | Closes the current subpath by appending a straight line segment from the current point to the starting point of the subpath. If the current subpath is already closed, "ClosePath" does nothing. This operator terminates the current subpath. Appending another segment to the current path begins a new subpath, even if the new segment begins at the endpoint reached by the "ClosePath" method. |
 | override [CubicBezierTo](../../aspose.html.rendering.doc/docdevice/cubicbezierto/)(PointF, PointF, PointF) | Appends a cubic Bézier curve to the current path. The curve extends from the current point to the point pt2, using pt1 and pt2 as the Bézier control points. The new current point is pt3. |
-| [Dispose](../../aspose.html.rendering/device`2/dispose/)() |  |
+| [Dispose](../../aspose.html.rendering/device-2/dispose/)() |  |
 | override [DrawImage](../../aspose.html.rendering.doc/docdevice/drawimage/)(byte[], ImageType, RectangleF) | Draws the specified image. |
-| virtual [EndDocument](../../aspose.html.rendering/device`2/enddocument/)() |  |
+| virtual [EndDocument](../../aspose.html.rendering/device-2/enddocument/)() |  |
 | override [EndElement](../../aspose.html.rendering.doc/docdevice/endelement/)(Element) | Ends rendering of the html node. |
 | override [EndPage](../../aspose.html.rendering.doc/docdevice/endpage/)() | Ends rendering of the current page. |
 | override [Fill](../../aspose.html.rendering.doc/docdevice/fill/)(FillMode) | Fills the entire region enclosed by the current path. If the path consists of several disconnected subpaths, it fills the insides of all subpaths, considered together. This method terminates current path. |
@@ -72,5 +72,3 @@ public class DocDevice : Device<DocGraphicContext, DocRenderingOptions>
 * class [DocRenderingOptions](../docrenderingoptions/)
 * namespace [Aspose.Html.Rendering.Doc](../../aspose.html.rendering.doc/)
 * assembly [Aspose.HTML](../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->

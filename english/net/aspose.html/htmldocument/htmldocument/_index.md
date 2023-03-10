@@ -1,7 +1,7 @@
 ---
 title: HTMLDocument
 second_title: Aspose.HTML for .NET API Reference
-description: The HTMLDocument constructor creates a new HTML Document object that is a web page loaded in the browser and serving as an entry point into the pages content.
+description: HTMLDocument constructor. The HTMLDocument constructor creates a new HTML Document object that is a web page loaded in the browser and serving as an entry point into the pages content
 type: docs
 weight: 10
 url: /net/aspose.html/htmldocument/htmldocument/
@@ -14,7 +14,7 @@ The HTMLDocument constructor creates a new HTML Document object that is a web pa
 public HTMLDocument()
 ```
 
-### Remarks
+## Remarks
 
 Note: The document is created with a default value for the base-url property that is equal to 'about:blank'.
 
@@ -22,7 +22,7 @@ Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 Once the document object is created, it can be filled later with HTML elements. The following code snippet shows the usage of the default HTMLDocument() constructor to create an empty HTML document and save it to a file.
 
@@ -57,7 +57,7 @@ public HTMLDocument(Configuration configuration)
 | --- | --- | --- |
 | configuration | Configuration | The environment configuration such as scripts policy, custom user stylesheet, etc. |
 
-### Remarks
+## Remarks
 
 Note: The document is created with a default value for the base-url property that is equal to 'about:blank'.
 
@@ -65,7 +65,7 @@ Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 The following example demonstrates how to use the configuration object to disable scripts:
 
@@ -114,13 +114,13 @@ public HTMLDocument(Url url)
 | --- | --- | --- |
 | url | Url | The HTML document URL to open. |
 
-### Remarks
+## Remarks
 
 Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 Load a document from 'https://docs.aspose.com/html/net/working-with-documents/creating-a-document/document.html' web page:
 
@@ -156,13 +156,13 @@ public HTMLDocument(Url url, Configuration configuration)
 | url | Url | The HTML document URL to open. |
 | configuration | Configuration | The environment configuration such as scripts policy, custom user stylesheet, etc. |
 
-### Remarks
+## Remarks
 
 Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 ```csharp
 The following example demonstrates how to use the configuration object to disable scripts:
@@ -212,13 +212,13 @@ public HTMLDocument(string address)
 | --- | --- | --- |
 | address | String | The HTML document address to open. |
 
-### Remarks
+## Remarks
 
 Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 Initialize an HTML document from an address.
 
@@ -252,13 +252,13 @@ public HTMLDocument(string address, Configuration configuration)
 | address | String | The HTML document address to open. |
 | configuration | Configuration | The environment configuration such as scripts policy, custom user stylesheet, etc. |
 
-### Remarks
+## Remarks
 
 Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 ```csharp
 // Create an instance of Configuration
@@ -302,13 +302,13 @@ public HTMLDocument(string content, string baseUri)
 | --- | --- |
 | ArgumentNullException | Throws if the base-uri parament is null. |
 
-### Remarks
+## Remarks
 
 Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 ```csharp
 // Prepare HTML code
@@ -349,13 +349,13 @@ public HTMLDocument(string content, string baseUri, Configuration configuration)
 | --- | --- |
 | ArgumentNullException | Throws if the base-uri parament is null. |
 
-### Remarks
+## Remarks
 
 Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 ```csharp
 // Prepare HTML code
@@ -396,13 +396,13 @@ public HTMLDocument(string content, Url baseUri)
 | --- | --- |
 | ArgumentNullException | Throws if the base-uri parament is null. |
 
-### Remarks
+## Remarks
 
 Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 ```csharp
 // Prepare HTML code
@@ -444,13 +444,13 @@ public HTMLDocument(string content, Url baseUri, Configuration configuration)
 | --- | --- |
 | ArgumentNullException | Throws if the base-uri parament is null. |
 
-### Remarks
+## Remarks
 
 Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 ```csharp
 // Prepare HTML code
@@ -492,13 +492,13 @@ public HTMLDocument(Stream content, string baseUri)
 | --- | --- |
 | ArgumentNullException | Throws if the base-uri parament is null. |
 
-### Remarks
+## Remarks
 
 Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 ```csharp
 // Create a memory stream object
@@ -549,13 +549,13 @@ public HTMLDocument(Stream content, string baseUri, Configuration configuration)
 | --- | --- |
 | ArgumentNullException | Throws if the base-uri parament is null. |
 
-### Remarks
+## Remarks
 
 Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 ```csharp
 // Create a memory stream object
@@ -606,13 +606,13 @@ public HTMLDocument(Stream content, Url baseUri)
 | --- | --- |
 | ArgumentNullException | Throws if the base-uri parament is null. |
 
-### Remarks
+## Remarks
 
 Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 ```csharp
 // Create a memory stream object
@@ -664,13 +664,13 @@ public HTMLDocument(Stream content, Url baseUri, Configuration configuration)
 | --- | --- |
 | ArgumentNullException | Throws if the base-uri parament is null. |
 
-### Remarks
+## Remarks
 
 Reference:
 
 [DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # htmldocument](https://html.spec.whatwg.org/multipage/window-object.html#htmldocument).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
 
-### Examples
+## Examples
 
 ```csharp
 // Create a memory stream object
@@ -715,7 +715,7 @@ public HTMLDocument(RequestMessage request)
 | --- | --- | --- |
 | request | RequestMessage | The request message that contains a [`body`](../../../aspose.html.net/requestmessage/content/) with document content. |
 
-### Remarks
+## Remarks
 
 By definition, a message handler is a class that receives a Web request and returns a Web response. In other words, a message handler is used to process a Web service request during input and/or to process the response during output.
 
@@ -747,7 +747,7 @@ public HTMLDocument(RequestMessage request, Configuration configuration)
 | request | RequestMessage | The request message that contains a [body](P:Aspose.Html.Net.RequestMessage.Content) with document content. |
 | configuration | Configuration | The environment configuration such as scripts policy, custom user stylesheet, etc. |
 
-### Remarks
+## Remarks
 
 By definition, a message handler is a class that receives a Web request and returns a Web response. In other words, a message handler is used to process a Web service request during input and/or to process the response during output.
 
@@ -764,5 +764,3 @@ Reference:
 * class [HTMLDocument](../)
 * namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
-
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
