@@ -1,14 +1,14 @@
 ---
-title: Render
+title: Renderer1.Render
 second_title: Aspose.HTML for .NET API 参考
-description: 定义将TDocument渲染到指定IDeviceaspose.html.rendering/idevice的方法
+description: Renderer 方法. 定义渲染方法TDocument进入指定IDevice.
 type: docs
 weight: 10
 url: /zh/net/aspose.html.rendering/renderer-1/render/
 ---
 ## Render(IDevice, TDocument) {#render_2}
 
-定义将!:TDocument渲染到指定[`IDevice`](../../idevice)的方法。
+定义渲染方法!:TDocument进入指定[`IDevice`](../../idevice/).
 
 ```csharp
 public void Render(IDevice device, TDocument document)
@@ -21,16 +21,16 @@ public void Render(IDevice device, TDocument document)
 
 ### 也可以看看
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* 命名空间 [Aspose.Html.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* 命名空间 [Aspose.Html.Rendering](../../renderer-1/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, TDocument, TimeSpan) {#render_4}
 
-定义将!:TDocument渲染到指定[`IDevice`](../../idevice)的方法。 一旦没有任何用于加载资源、活动计时器、动画任务或指定超时的网络操作，将执行渲染。
+定义渲染方法!:TDocument进入指定[`IDevice`](../../idevice/) . 一旦没有任何用于加载资源、活动计时器、动画任务的网络操作或指定的超时已过，将执行渲染。
 
 ```csharp
 public void Render(IDevice device, TDocument document, TimeSpan timeout)
@@ -40,20 +40,20 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 | --- | --- | --- |
 | device | IDevice | 输出设备。 |
 | document | TDocument | 文档。 |
-| timeout | TimeSpan | ATimeSpan表示等待的毫秒数，或TimeSpan表示 -1 毫秒无限期等待。 |
+| timeout | TimeSpan | ATimeSpan表示要等待的毫秒数，或者TimeSpan表示 -1 毫秒无限期等待。 |
 
 ### 也可以看看
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* 命名空间 [Aspose.Html.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* 命名空间 [Aspose.Html.Rendering](../../renderer-1/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, TDocument, int) {#render_3}
 
-定义将!:TDocument渲染到指定[`IDevice`](../../idevice)的方法。 一旦没有任何用于加载资源、活动计时器、动画任务或指定超时的网络操作，将执行渲染。
+定义渲染方法!:TDocument进入指定[`IDevice`](../../idevice/) . 一旦没有任何用于加载资源、活动计时器、动画任务的网络操作或指定的超时已过，将执行渲染。
 
 ```csharp
 public void Render(IDevice device, TDocument document, int timeout)
@@ -63,20 +63,20 @@ public void Render(IDevice device, TDocument document, int timeout)
 | --- | --- | --- |
 | device | IDevice | 输出设备。 |
 | document | TDocument | 文档。 |
-| timeout | Int32 | 毫秒数，表示等待的毫秒数，或 -1 毫秒无限期等待。 |
+| timeout | Int32 | 表示要等待的毫秒数的毫秒数，或 -1 毫秒表示无限期等待。 |
 
 ### 也可以看看
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* 命名空间 [Aspose.Html.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* 命名空间 [Aspose.Html.Rendering](../../renderer-1/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, params TDocument[]) {#render_5}
 
-定义将多个!:TDocument渲染到特定:::R5:T:Aspose.Html.Rendering.IDevice::的方法:.
+定义渲染多个的方法!:TDocuments具体化[`IDevice`](../../idevice/).
 
 ```csharp
 public void Render(IDevice device, params TDocument[] documents)
@@ -85,20 +85,20 @@ public void Render(IDevice device, params TDocument[] documents)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | device | IDevice | 输出设备。 |
-| documents | TDocument[] | 要渲染的文档。 |
+| documents | TDocument[] | 要呈现的文档。 |
 
 ### 也可以看看
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* 命名空间 [Aspose.Html.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* 命名空间 [Aspose.Html.Rendering](../../renderer-1/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, int, params TDocument[]) {#render}
 
-定义将多个!:TDocument渲染到特定:::R5:T:Aspose.Html.Rendering.IDevice::的方法:. 一旦没有任何用于加载资源、活动计时器、动画任务或指定超时的网络操作，将执行渲染。
+定义渲染多个的方法!:TDocuments具体化[`IDevice`](../../idevice/) . 一旦没有任何用于加载资源、活动计时器、动画任务的网络操作或指定的超时已过，将执行渲染。
 
 ```csharp
 public void Render(IDevice device, int timeout, params TDocument[] documents)
@@ -107,21 +107,21 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | device | IDevice | 输出设备。 |
-| timeout | Int32 | 毫秒数，表示等待的毫秒数，或 -1 毫秒无限期等待。 |
-| documents | TDocument[] | 要渲染的文档。 |
+| timeout | Int32 | 表示要等待的毫秒数的毫秒数，或 -1 毫秒表示无限期等待。 |
+| documents | TDocument[] | 要呈现的文档。 |
 
 ### 也可以看看
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* 命名空间 [Aspose.Html.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* 命名空间 [Aspose.Html.Rendering](../../renderer-1/)
 * 部件 [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, TimeSpan, params TDocument[]) {#render_1}
 
-定义将多个!:TDocument渲染到特定:::R5:T:Aspose.Html.Rendering.IDevice::的方法:. 一旦没有任何用于加载资源、活动计时器、动画任务或指定超时的网络操作，将执行渲染。
+定义渲染多个的方法!:TDocuments具体化[`IDevice`](../../idevice/) . 一旦没有任何用于加载资源、活动计时器、动画任务的网络操作或指定的超时已过，将执行渲染。
 
 ```csharp
 public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
@@ -130,14 +130,14 @@ public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[]
 | 范围 | 类型 | 描述 |
 | --- | --- | --- |
 | device | IDevice | 输出设备。 |
-| timeout | TimeSpan | ATimeSpan表示等待的毫秒数，或TimeSpan表示 -1 毫秒无限期等待。 |
-| documents | TDocument[] | 要渲染的文档。 |
+| timeout | TimeSpan | ATimeSpan表示要等待的毫秒数，或者TimeSpan表示 -1 毫秒无限期等待。 |
+| documents | TDocument[] | 要呈现的文档。 |
 
 ### 也可以看看
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* 命名空间 [Aspose.Html.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* 命名空间 [Aspose.Html.Rendering](../../renderer-1/)
 * 部件 [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

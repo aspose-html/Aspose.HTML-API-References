@@ -1,7 +1,7 @@
 ---
-title: ConvertHTML
+title: Converter.ConvertHTML
 second_title: Référence de l'API Aspose.HTML pour .NET
-description: Convertir le document source HTML en DOCX. Le résultat est un fichier docx.
+description: Converter méthode. Convertir le document source HTML en DOCX. Le résultat est un fichier docx.
 type: docs
 weight: 20
 url: /fr/net/aspose.html.converters/converter/converthtml/
@@ -16,16 +16,16 @@ public static void ConvertHTML(HTMLDocument document, DocSaveOptions options, st
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| document | HTMLDocument | Origine des conversions[`HTMLDocument`](../../../aspose.html/htmldocument). |
+| document | HTMLDocument | Origine des conversions[`HTMLDocument`](../../../aspose.html/htmldocument/). |
 | options | DocSaveOptions | Possibilités de conversion. |
 | outputPath | String | Chemin du fichier de sortie. |
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -46,10 +46,10 @@ public static void ConvertHTML(Url url, DocSaveOptions options, string outputPat
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -72,11 +72,11 @@ public static void ConvertHTML(Url url, Configuration configuration, DocSaveOpti
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -97,9 +97,9 @@ public static void ConvertHTML(string sourcePath, DocSaveOptions options, string
 
 ### Voir également
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -122,10 +122,10 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -148,9 +148,9 @@ public static void ConvertHTML(string content, string baseUri, DocSaveOptions op
 
 ### Voir également
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -174,10 +174,10 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -193,17 +193,17 @@ public static void ConvertHTML(HTMLDocument document, DocSaveOptions options,
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| document | HTMLDocument | Origine des conversions[`HTMLDocument`](../../../aspose.html/htmldocument). |
+| document | HTMLDocument | Origine des conversions[`HTMLDocument`](../../../aspose.html/htmldocument/). |
 | options | DocSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -220,15 +220,15 @@ public static void ConvertHTML(Url url, DocSaveOptions options, ICreateStreamPro
 | --- | --- | --- |
 | url | Url | L'URL du document. |
 | options | DocSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -247,16 +247,16 @@ public static void ConvertHTML(Url url, Configuration configuration, DocSaveOpti
 | url | Url | L'URL du document. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | DocSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -274,14 +274,14 @@ public static void ConvertHTML(string sourcePath, DocSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | Chemin source du fichier HTML. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | options | DocSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -300,15 +300,15 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | sourcePath | String | Chemin source du fichier HTML. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | DocSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -327,14 +327,14 @@ public static void ConvertHTML(string content, string baseUri, DocSaveOptions op
 | content | String | Contenu HTML de chaîne en ligne. |
 | baseUri | String | URI de base du document. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | options | DocSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -354,15 +354,15 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | baseUri | String | URI de base du document. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | DocSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -377,16 +377,16 @@ public static void ConvertHTML(HTMLDocument document, PdfSaveOptions options, st
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| document | HTMLDocument | Origine des conversions[`HTMLDocument`](../../../aspose.html/htmldocument). |
+| document | HTMLDocument | Origine des conversions[`HTMLDocument`](../../../aspose.html/htmldocument/). |
 | options | PdfSaveOptions | Possibilités de conversion. |
 | outputPath | String | Chemin du fichier de sortie. |
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -407,10 +407,10 @@ public static void ConvertHTML(Url url, PdfSaveOptions options, string outputPat
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -433,11 +433,11 @@ public static void ConvertHTML(Url url, Configuration configuration, PdfSaveOpti
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -458,9 +458,9 @@ public static void ConvertHTML(string sourcePath, PdfSaveOptions options, string
 
 ### Voir également
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -483,10 +483,10 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -509,9 +509,9 @@ public static void ConvertHTML(string content, string baseUri, PdfSaveOptions op
 
 ### Voir également
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -535,10 +535,10 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -554,17 +554,17 @@ public static void ConvertHTML(HTMLDocument document, PdfSaveOptions options,
 
 | Paramètre | Taper | La description |
 | --- | --- | --- |
-| document | HTMLDocument | Origine des conversions[`HTMLDocument`](../../../aspose.html/htmldocument). |
+| document | HTMLDocument | Origine des conversions[`HTMLDocument`](../../../aspose.html/htmldocument/). |
 | options | PdfSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -581,15 +581,15 @@ public static void ConvertHTML(Url url, PdfSaveOptions options, ICreateStreamPro
 | --- | --- | --- |
 | url | Url | L'URL du document. |
 | options | PdfSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -608,16 +608,16 @@ public static void ConvertHTML(Url url, Configuration configuration, PdfSaveOpti
 | url | Url | L'URL du document. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | PdfSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -635,14 +635,14 @@ public static void ConvertHTML(string sourcePath, PdfSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | Chemin source du fichier HTML. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | options | PdfSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -661,15 +661,15 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | sourcePath | String | Chemin source du fichier HTML. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | PdfSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -688,14 +688,14 @@ public static void ConvertHTML(string content, string baseUri, PdfSaveOptions op
 | content | String | Contenu html de la chaîne en ligne. |
 | baseUri | String | URI de base du document. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | options | PdfSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -715,15 +715,15 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | baseUri | String | URI de base du document. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | PdfSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -744,10 +744,10 @@ public static void ConvertHTML(HTMLDocument document, MHTMLSaveOptions options, 
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -768,10 +768,10 @@ public static void ConvertHTML(Url url, MHTMLSaveOptions options, string outputP
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -794,11 +794,11 @@ public static void ConvertHTML(Url url, Configuration configuration, MHTMLSaveOp
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -819,9 +819,9 @@ public static void ConvertHTML(string sourcePath, MHTMLSaveOptions options, stri
 
 ### Voir également
 
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -844,10 +844,10 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -870,9 +870,9 @@ public static void ConvertHTML(string content, string baseUri, MHTMLSaveOptions 
 
 ### Voir également
 
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -896,10 +896,10 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -921,10 +921,10 @@ public static void ConvertHTML(HTMLDocument document, MarkdownSaveOptions option
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -945,10 +945,10 @@ public static void ConvertHTML(Url url, MarkdownSaveOptions options, string outp
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -971,11 +971,11 @@ public static void ConvertHTML(Url url, Configuration configuration, MarkdownSav
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -996,9 +996,9 @@ public static void ConvertHTML(string sourcePath, MarkdownSaveOptions options, s
 
 ### Voir également
 
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1021,10 +1021,10 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1047,9 +1047,9 @@ public static void ConvertHTML(string content, string baseUri, MarkdownSaveOptio
 
 ### Voir également
 
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1073,10 +1073,10 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1097,10 +1097,10 @@ public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options, st
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1121,10 +1121,10 @@ public static void ConvertHTML(Url url, XpsSaveOptions options, string outputPat
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1147,11 +1147,11 @@ public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOpti
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1172,9 +1172,9 @@ public static void ConvertHTML(string sourcePath, XpsSaveOptions options, string
 
 ### Voir également
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1197,10 +1197,10 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1223,9 +1223,9 @@ public static void ConvertHTML(string content, string baseUri, XpsSaveOptions op
 
 ### Voir également
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1249,10 +1249,10 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1270,15 +1270,15 @@ public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options,
 | --- | --- | --- |
 | document | HTMLDocument | Source de conversion. |
 | options | XpsSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1295,15 +1295,15 @@ public static void ConvertHTML(Url url, XpsSaveOptions options, ICreateStreamPro
 | --- | --- | --- |
 | url | Url | L'URL du document. |
 | options | XpsSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1322,16 +1322,16 @@ public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOpti
 | url | Url | L'URL du document. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | XpsSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1349,14 +1349,14 @@ public static void ConvertHTML(string sourcePath, XpsSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | Chemin source du fichier HTML. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | options | XpsSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1375,15 +1375,15 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | sourcePath | String | Chemin source du fichier HTML. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | XpsSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1402,14 +1402,14 @@ public static void ConvertHTML(string content, string baseUri, XpsSaveOptions op
 | content | String | Contenu html de la chaîne en ligne. |
 | baseUri | String | URI de base du document. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | options | XpsSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1429,15 +1429,15 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | baseUri | String | URI de base du document. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | XpsSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1458,10 +1458,10 @@ public static void ConvertHTML(HTMLDocument document, ImageSaveOptions options, 
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1482,10 +1482,10 @@ public static void ConvertHTML(Url url, ImageSaveOptions options, string outputP
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1508,11 +1508,11 @@ public static void ConvertHTML(Url url, Configuration configuration, ImageSaveOp
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1533,9 +1533,9 @@ public static void ConvertHTML(string sourcePath, ImageSaveOptions options, stri
 
 ### Voir également
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1558,10 +1558,10 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1584,9 +1584,9 @@ public static void ConvertHTML(string content, string baseUri, ImageSaveOptions 
 
 ### Voir également
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1610,10 +1610,10 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1631,15 +1631,15 @@ public static void ConvertHTML(HTMLDocument document, ImageSaveOptions options,
 | --- | --- | --- |
 | document | HTMLDocument | Source de conversion. |
 | options | ImageSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [HTMLDocument](../../../aspose.html/htmldocument)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1656,15 +1656,15 @@ public static void ConvertHTML(Url url, ImageSaveOptions options, ICreateStreamP
 | --- | --- | --- |
 | url | Url | L'URL du document. |
 | options | ImageSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1683,16 +1683,16 @@ public static void ConvertHTML(Url url, Configuration configuration, ImageSaveOp
 | url | Url | L'URL du document. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | ImageSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1710,14 +1710,14 @@ public static void ConvertHTML(string sourcePath, ImageSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | Chemin source du fichier HTML. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | options | ImageSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1736,15 +1736,15 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 | sourcePath | String | Chemin source du fichier HTML. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | ImageSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1763,14 +1763,14 @@ public static void ConvertHTML(string content, string baseUri, ImageSaveOptions 
 | content | String | Contenu html de la chaîne en ligne. |
 | baseUri | String | URI de base du document. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | options | ImageSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1790,15 +1790,15 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | baseUri | String | URI de base du document. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | ImageSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

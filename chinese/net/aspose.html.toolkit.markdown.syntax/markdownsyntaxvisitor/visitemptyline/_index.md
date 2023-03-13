@@ -1,0 +1,28 @@
+---
+title: MarkdownSyntaxVisitor.VisitEmptyLine
+second_title: Aspose.HTML for .NET API 参考
+description: MarkdownSyntaxVisitor 方法. 定义访问文本行的接口
+type: docs
+weight: 80
+url: /zh/net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitemptyline/
+---
+## MarkdownSyntaxVisitor.VisitEmptyLine method
+
+定义访问文本行的接口。
+
+```csharp
+public virtual void VisitEmptyLine(EmptyLineSyntaxNode textLine)
+```
+
+| 范围 | 类型 | 描述 |
+| --- | --- | --- |
+| textLine | EmptyLineSyntaxNode | 文本行。 |
+
+### 也可以看看
+
+* class [EmptyLineSyntaxNode](../../emptylinesyntaxnode/)
+* class [MarkdownSyntaxVisitor](../)
+* 命名空间 [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* 部件 [Aspose.HTML](../../../)
+
+

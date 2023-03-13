@@ -1,14 +1,14 @@
 ---
-title: XpsDevice
+title: XpsDevice.XpsDevice
 second_title: Aspose.HTML لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفXpsDeviceaspose.html.rendering.xps/xpsdevice فئة .
+description: XpsDevice البناء. يقوم بتهيئة مثيل جديد لملفXpsDevice فئة .
 type: docs
 weight: 10
 url: /ar/net/aspose.html.rendering.xps/xpsdevice/xpsdevice/
 ---
 ## XpsDevice(ICreateStreamProvider) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../../xpsdevice) فئة .
+يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../) فئة .
 
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
@@ -16,20 +16,20 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | مزود الدفق. |
+| streamProvider | ICreateStreamProvider | مزود البث. |
 
 ### أنظر أيضا
 
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* مساحة الاسم [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../../xpsdevice) class عن طريق تقديم الخيارات وموفر البث.
+يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../) class عن طريق تقديم الخيارات وموفر البث.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | options | XpsRenderingOptions | خيارات التقديم. |
-| streamProvider | ICreateStreamProvider | الكائن الذي ينفذ[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) واجهه المستخدم |
+| streamProvider | ICreateStreamProvider | الكائن الذي ينفذ[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهه المستخدم |
 
 ### أنظر أيضا
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* مساحة الاسم [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(string) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../../xpsdevice) فئة .
+يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../) فئة .
 
 ```csharp
 public XpsDevice(string file)
@@ -64,15 +64,15 @@ public XpsDevice(string file)
 
 ### أنظر أيضا
 
-* class [XpsDevice](../../xpsdevice)
-* مساحة الاسم [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../../xpsdevice) class عن طريق تقديم الخيارات واسم ملف الإخراج.
+يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../) class عن طريق تقديم الخيارات واسم ملف الإخراج.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 ### أنظر أيضا
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* مساحة الاسم [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(Stream) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../../xpsdevice) فئة .
+يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../) فئة .
 
 ```csharp
 public XpsDevice(Stream stream)
@@ -106,15 +106,15 @@ public XpsDevice(Stream stream)
 
 ### أنظر أيضا
 
-* class [XpsDevice](../../xpsdevice)
-* مساحة الاسم [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../../xpsdevice)class عن طريق تقديم الخيارات ودفق الإخراج.
+يقوم بتهيئة مثيل جديد لملف[`XpsDevice`](../)class عن طريق تقديم الخيارات ودفق الإخراج.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public XpsDevice(XpsRenderingOptions options, Stream stream)
 
 ### أنظر أيضا
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* مساحة الاسم [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * المجسم [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

@@ -1,14 +1,14 @@
 ---
-title: PdfDevice
+title: PdfDevice.PdfDevice
 second_title: Aspose.HTML لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفPdfDeviceaspose.html.rendering.pdf/pdfdevice فئة .
+description: PdfDevice البناء. يقوم بتهيئة مثيل جديد لملفPdfDevice فئة .
 type: docs
 weight: 10
 url: /ar/net/aspose.html.rendering.pdf/pdfdevice/pdfdevice/
 ---
 ## PdfDevice(ICreateStreamProvider) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../../pdfdevice) فئة .
+يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../) فئة .
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
@@ -16,20 +16,20 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | مزود الدفق. |
+| streamProvider | ICreateStreamProvider | مزود البث. |
 
 ### أنظر أيضا
 
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [PdfDevice](../../pdfdevice)
-* مساحة الاسم [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [PdfDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../../pdfdevice) class عن طريق تقديم الخيارات وموفر البث.
+يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../) class عن طريق تقديم الخيارات وموفر البث.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | options | PdfRenderingOptions | خيارات التقديم. |
-| streamProvider | ICreateStreamProvider | الكائن الذي ينفذ[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) واجهه المستخدم |
+| streamProvider | ICreateStreamProvider | الكائن الذي ينفذ[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهه المستخدم |
 
 ### أنظر أيضا
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [PdfDevice](../../pdfdevice)
-* مساحة الاسم [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [PdfDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(string) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../../pdfdevice) فئة .
+يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../) فئة .
 
 ```csharp
 public PdfDevice(string file)
@@ -64,15 +64,15 @@ public PdfDevice(string file)
 
 ### أنظر أيضا
 
-* class [PdfDevice](../../pdfdevice)
-* مساحة الاسم [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../../pdfdevice) class عن طريق تقديم الخيارات واسم ملف الإخراج.
+يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../) class عن طريق تقديم الخيارات واسم ملف الإخراج.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 ### أنظر أيضا
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* class [PdfDevice](../../pdfdevice)
-* مساحة الاسم [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* class [PdfDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(Stream) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../../pdfdevice) فئة .
+يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../) فئة .
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -106,15 +106,15 @@ public PdfDevice(Stream stream)
 
 ### أنظر أيضا
 
-* class [PdfDevice](../../pdfdevice)
-* مساحة الاسم [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../../pdfdevice)class عن طريق تقديم الخيارات ودفق الإخراج.
+يقوم بتهيئة مثيل جديد لملف[`PdfDevice`](../)class عن طريق تقديم الخيارات ودفق الإخراج.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 
 ### أنظر أيضا
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* class [PdfDevice](../../pdfdevice)
-* مساحة الاسم [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* class [PdfDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * المجسم [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

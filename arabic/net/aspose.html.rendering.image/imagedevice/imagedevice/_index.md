@@ -1,14 +1,14 @@
 ---
-title: ImageDevice
+title: ImageDevice.ImageDevice
 second_title: Aspose.HTML لمرجع .NET API
-description: يقوم بتهيئة مثيل جديد لملفImageDeviceaspose.html.rendering.image/imagedevice فئة .
+description: ImageDevice البناء. يقوم بتهيئة مثيل جديد لملفImageDevice فئة .
 type: docs
 weight: 10
 url: /ar/net/aspose.html.rendering.image/imagedevice/imagedevice/
 ---
 ## ImageDevice(ICreateStreamProvider) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../../imagedevice) فئة .
+يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../) فئة .
 
 ```csharp
 public ImageDevice(ICreateStreamProvider streamProvider)
@@ -16,20 +16,20 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | مزود الدفق. |
+| streamProvider | ICreateStreamProvider | مزود البث. |
 
 ### أنظر أيضا
 
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [ImageDevice](../../imagedevice)
-* مساحة الاسم [Aspose.Html.Rendering.Image](../../imagedevice)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [ImageDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Image](../../imagedevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../../imagedevice) class عن طريق تقديم الخيارات وموفر البث.
+يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../) class عن طريق تقديم الخيارات وموفر البث.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | options | ImageRenderingOptions | خيارات التقديم. |
-| streamProvider | ICreateStreamProvider | الكائن الذي ينفذ[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) واجهه المستخدم |
+| streamProvider | ICreateStreamProvider | الكائن الذي ينفذ[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهه المستخدم |
 
 ### أنظر أيضا
 
-* class [ImageRenderingOptions](../../imagerenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [ImageDevice](../../imagedevice)
-* مساحة الاسم [Aspose.Html.Rendering.Image](../../imagedevice)
+* class [ImageRenderingOptions](../../imagerenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [ImageDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Image](../../imagedevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ImageDevice(string) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../../imagedevice) فئة .
+يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../) فئة .
 
 ```csharp
 public ImageDevice(string file)
@@ -64,15 +64,15 @@ public ImageDevice(string file)
 
 ### أنظر أيضا
 
-* class [ImageDevice](../../imagedevice)
-* مساحة الاسم [Aspose.Html.Rendering.Image](../../imagedevice)
+* class [ImageDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Image](../../imagedevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../../imagedevice) class عن طريق تقديم الخيارات واسم ملف الإخراج.
+يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../) class عن طريق تقديم الخيارات واسم ملف الإخراج.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public ImageDevice(ImageRenderingOptions options, string file)
 
 ### أنظر أيضا
 
-* class [ImageRenderingOptions](../../imagerenderingoptions)
-* class [ImageDevice](../../imagedevice)
-* مساحة الاسم [Aspose.Html.Rendering.Image](../../imagedevice)
+* class [ImageRenderingOptions](../../imagerenderingoptions/)
+* class [ImageDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Image](../../imagedevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ImageDevice(Stream) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../../imagedevice) فئة .
+يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../) فئة .
 
 ```csharp
 public ImageDevice(Stream stream)
@@ -106,15 +106,15 @@ public ImageDevice(Stream stream)
 
 ### أنظر أيضا
 
-* class [ImageDevice](../../imagedevice)
-* مساحة الاسم [Aspose.Html.Rendering.Image](../../imagedevice)
+* class [ImageDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Image](../../imagedevice/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../../imagedevice)class عن طريق تقديم الخيارات ودفق الإخراج.
+يقوم بتهيئة مثيل جديد لملف[`ImageDevice`](../)class عن طريق تقديم الخيارات ودفق الإخراج.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public ImageDevice(ImageRenderingOptions options, Stream stream)
 
 ### أنظر أيضا
 
-* class [ImageRenderingOptions](../../imagerenderingoptions)
-* class [ImageDevice](../../imagedevice)
-* مساحة الاسم [Aspose.Html.Rendering.Image](../../imagedevice)
+* class [ImageRenderingOptions](../../imagerenderingoptions/)
+* class [ImageDevice](../)
+* مساحة الاسم [Aspose.Html.Rendering.Image](../../imagedevice/)
 * المجسم [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

@@ -1,0 +1,23 @@
+---
+title: CSSPrimitiveValue.CSS_REM
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: CSSPrimitiveValue मैदन. मन लंबई रेम है मूल्य getFloatValue वध क उपयग करके प्रप्त कय ज सकत है
+type: docs
+weight: 360
+url: /hi/net/aspose.html.dom.css/cssprimitivevalue/css_rem/
+---
+## CSSPrimitiveValue.CSS_REM field
+
+मान लंबाई (रेम) है। मूल्य getFloatValue विधि का उपयोग करके प्राप्त किया जा सकता है।
+
+```csharp
+public const ushort CSS_REM;
+```
+
+### यह सभी देखें
+
+* class [CSSPrimitiveValue](../)
+* नाम स्थान [Aspose.Html.Dom.Css](../../cssprimitivevalue/)
+* सभा [Aspose.HTML](../../../)
+
+

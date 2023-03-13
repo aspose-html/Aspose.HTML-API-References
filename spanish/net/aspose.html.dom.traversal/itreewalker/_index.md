@@ -1,9 +1,9 @@
 ---
-title: ITreeWalker
+title: Interface ITreeWalker
 second_title: Referencia de API de Aspose.HTML para .NET
-description: Los objetos TreeWalker se utilizan para navegar por un árbol de documentos o un subárbol utilizando la vista del documento definida por sus indicadores y filtros whatToShow si los hay. Cualquier función que realice la navegación usando un TreeWalker automáticamente admitirá cualquier vista definida por un TreeWalker.
+description: Aspose.Html.Dom.Traversal.ITreeWalker interfaz. Los objetos TreeWalker se utilizan para navegar por un árbol de documentos o un subárbol utilizando la vista del documento definida por sus indicadores y filtros whatToShow si los hay. Cualquier función que realice la navegación usando un TreeWalker automáticamente admitirá cualquier vista definida por un TreeWalker.
 type: docs
-weight: 2530
+weight: 2520
 url: /es/net/aspose.html.dom.traversal/itreewalker/
 ---
 ## ITreeWalker interface
@@ -22,24 +22,24 @@ public interface ITreeWalker : ITraversal
 
 | Nombre | Descripción |
 | --- | --- |
-| [CurrentNode](../../aspose.html.dom.traversal/itreewalker/currentnode) { get; set; } | El nodo en el que TreeWalker está posicionado actualmente. Las alteraciones en el árbol DOM pueden hacer que el nodo actual ya no sea aceptado por el filtro asociado de TreeWalker. currentNode también se puede establecer explícitamente en cualquier nodo, ya sea dentro del subárbol especificado por el nodo raíz o sería aceptado por las banderas filter y whatToShow. Se produce un recorrido adicional relativo a currentNode incluso si no es parte de la vista actual, aplicando los filtros en la dirección solicitada; si no es posible atravesar , el nodo actual no cambia. |
+| [CurrentNode](../../aspose.html.dom.traversal/itreewalker/currentnode/) { get; set; } | El nodo en el que TreeWalker está posicionado actualmente. Las alteraciones en el árbol DOM pueden hacer que el nodo actual ya no sea aceptado por el filtro asociado de TreeWalker. currentNode también se puede establecer explícitamente en cualquier nodo, ya sea dentro del subárbol especificado por el nodo raíz o sería aceptado por las banderas filter y whatToShow. Se produce un recorrido adicional relativo a currentNode incluso si no es parte de la vista actual, aplicando los filtros en la dirección solicitada; si no es posible atravesar , el nodo actual no cambia. |
 
 ## Métodos
 
 | Nombre | Descripción |
 | --- | --- |
-| [FirstChild](../../aspose.html.dom.traversal/itreewalker/firstchild)() | Mueve el TreeWalker al primer elemento secundario visible del nodo actual y devuelve el nuevo nodo. Si el nodo actual no tiene elementos secundarios visibles , devuelve un valor nulo y retiene el nodo actual. |
-| [LastChild](../../aspose.html.dom.traversal/itreewalker/lastchild)() | Mueve el TreeWalker al último elemento secundario visible del nodo actual y devuelve el nuevo nodo. Si el nodo actual no tiene elementos secundarios visibles , devuelve un valor nulo y retiene el nodo actual. |
-| [NextNode](../../aspose.html.dom.traversal/itreewalker/nextnode)() | Mueve el TreeWalker al siguiente nodo visible en el orden document relativo al nodo actual y devuelve el nuevo nodo. Si el nodo actual no tiene un nodo siguiente, o si la búsqueda de nextNode intenta subir desde el nodo raíz del TreeWalker, devuelve un valor nulo y retiene el nodo actual. |
-| [NextSibling](../../aspose.html.dom.traversal/itreewalker/nextsibling)() | Mueve el TreeWalker al siguiente hermano del nodo actual y devuelve el nuevo nodo. Si el nodo actual no tiene el siguiente hermano visible , devuelve nulo y retiene el nodo actual. |
-| [ParentNode](../../aspose.html.dom.traversal/itreewalker/parentnode)() | Se desplaza y devuelve el nodo antecesor visible más cercano del nodo actual . Si la búsqueda de parentNode intenta subir hacia arriba desde el nodo raíz del TreeWalker, o si no logra encontrar un nodo antepasado visible, este método conserva la posición actual y devuelve nulo. |
-| [PreviousNode](../../aspose.html.dom.traversal/itreewalker/previousnode)() | Mueve el TreeWalker al nodo visible anterior en el orden del documento relativo al nodo actual y devuelve el nodo new . Si el nodo actual no tiene un nodo anterior, o si la búsqueda de anteriorNodo intenta ascender desde el nodo raíz del TreeWalker , devuelve nulo y retiene el nodo actual. |
-| [PreviousSibling](../../aspose.html.dom.traversal/itreewalker/previoussibling)() | Mueve el TreeWalker al hermano anterior del nodo actual y devuelve el nuevo nodo. Si el nodo actual no tiene un hermano anterior visible , devuelve nulo y retiene el nodo actual . |
+| [FirstChild](../../aspose.html.dom.traversal/itreewalker/firstchild/)() | Mueve el TreeWalker al primer elemento secundario visible del nodo actual y devuelve el nuevo nodo. Si el nodo actual no tiene hijos visibles, devuelve un valor nulo y retiene el nodo actual. |
+| [LastChild](../../aspose.html.dom.traversal/itreewalker/lastchild/)() | Mueve el TreeWalker al último elemento secundario visible del nodo actual y devuelve el nuevo nodo. Si el nodo actual no tiene hijos visibles, devuelve un valor nulo y retiene el nodo actual. |
+| [NextNode](../../aspose.html.dom.traversal/itreewalker/nextnode/)() | Mueve el TreeWalker al siguiente nodo visible en el orden document relativo al nodo actual y devuelve el nuevo nodo. Si el nodo actual no tiene un nodo siguiente, o si la búsqueda de nextNode intenta subir desde el nodo raíz del TreeWalker, devuelve un valor nulo y retiene el nodo actual. |
+| [NextSibling](../../aspose.html.dom.traversal/itreewalker/nextsibling/)() | Mueve el TreeWalker al siguiente hermano del nodo actual y devuelve el nuevo nodo. Si el nodo actual no tiene el siguiente hermano visible , devuelve nulo y retiene el nodo actual. |
+| [ParentNode](../../aspose.html.dom.traversal/itreewalker/parentnode/)() | Se desplaza y devuelve el nodo antecesor visible más cercano del nodo actual . Si la búsqueda de parentNode intenta subir hacia arriba desde el nodo raíz del TreeWalker, o si no logra encontrar un nodo antepasado visible, este método conserva la posición actual y devuelve nulo. |
+| [PreviousNode](../../aspose.html.dom.traversal/itreewalker/previousnode/)() | Mueve el TreeWalker al nodo visible anterior en el orden del documento relativo al nodo actual y devuelve el nodo new . Si el nodo actual no tiene un nodo anterior, o si la búsqueda de anteriorNodo intenta ascender desde el nodo raíz del TreeWalker , devuelve nulo y retiene el nodo actual. |
+| [PreviousSibling](../../aspose.html.dom.traversal/itreewalker/previoussibling/)() | Mueve el TreeWalker al hermano anterior del nodo actual y devuelve el nuevo nodo. Si el nodo actual no tiene un hermano anterior visible , devuelve nulo y retiene el nodo actual . |
 
 ### Ver también
 
-* interface [ITraversal](../itraversal)
-* espacio de nombres [Aspose.Html.Dom.Traversal](../../aspose.html.dom.traversal)
+* interface [ITraversal](../itraversal/)
+* espacio de nombres [Aspose.Html.Dom.Traversal](../../aspose.html.dom.traversal/)
 * asamblea [Aspose.HTML](../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

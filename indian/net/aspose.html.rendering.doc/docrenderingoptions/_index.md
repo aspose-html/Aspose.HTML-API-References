@@ -1,0 +1,42 @@
+---
+title: Class DocRenderingOptions
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: Aspose.Html.Rendering.Doc.DocRenderingOptions कक्ष. के लए रेंडरंग वकल्पं क प्रतनधत्व करत हैDocDevice .
+type: docs
+weight: 4190
+url: /hi/net/aspose.html.rendering.doc/docrenderingoptions/
+---
+## DocRenderingOptions class
+
+के लिए रेंडरिंग विकल्पों का प्रतिनिधित्व करता है[`DocDevice`](../docdevice/) .
+
+```csharp
+public class DocRenderingOptions : RenderingOptions
+```
+
+## कंस्ट्रक्टर्स
+
+| नाम | विवरण |
+| --- | --- |
+| [DocRenderingOptions](docrenderingoptions/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`DocRenderingOptions` वर्ग. |
+| [DocRenderingOptions](docrenderingoptions/#constructor_1)(FontEmbeddingRule) | का एक नया उदाहरण प्रारंभ करता है`DocRenderingOptions` वर्ग निर्दिष्ट फ़ॉन्ट एम्बेडिंग नियम के साथ। |
+
+## गुण
+
+| नाम | विवरण |
+| --- | --- |
+| [BackgroundColor](../../aspose.html.rendering/renderingoptions/backgroundcolor/) { get; set; } | हो जाता है या सेट हो जाता हैColorजो हर पेज की पृष्ठभूमि को भर देगा। डिफ़ॉल्ट मान हैTransparent . |
+| [Css](../../aspose.html.rendering/renderingoptions/css/) { get; } | हो जाता है[`CssOptions`](../../aspose.html.rendering/cssoptions/) ऑब्जेक्ट जो सीएसएस गुण प्रसंस्करण के विन्यास के लिए प्रयोग किया जाता है। |
+| [DocumentFormat](../../aspose.html.rendering.doc/docrenderingoptions/documentformat/) { get; set; } | आउटपुट दस्तावेज़ का फ़ाइल स्वरूप प्राप्त या सेट करता है। डिफ़ॉल्ट मान हैDOCX . |
+| [FontEmbeddingRule](../../aspose.html.rendering.doc/docrenderingoptions/fontembeddingrule/) { get; set; } | फ़ॉन्ट एम्बेडिंग नियम प्राप्त या सेट करता है। डिफ़ॉल्ट मान हैNone . |
+| virtual [HorizontalResolution](../../aspose.html.rendering/renderingoptions/horizontalresolution/) { get; set; } | पिक्सेल प्रति इंच में आंतरिक (जो फ़िल्टर प्रसंस्करण के दौरान उपयोग किया जाता है) छवियों के लिए क्षैतिज रिज़ॉल्यूशन सेट या प्राप्त करता है। डिफ़ॉल्ट रूप से यह गुण 300 dpi. है |
+| [PageSetup](../../aspose.html.rendering/renderingoptions/pagesetup/) { get; } | एक पेज सेटअप ऑब्जेक्ट प्राप्त करता है जिसका उपयोग कॉन्फ़िगरेशन आउटपुट पेज-सेट के लिए किया जाता है। |
+| virtual [VerticalResolution](../../aspose.html.rendering/renderingoptions/verticalresolution/) { get; set; } | पिक्सेल प्रति इंच में आंतरिक (जो फ़िल्टर प्रसंस्करण के दौरान उपयोग किया जाता है) छवियों के लिए लंबवत रिज़ॉल्यूशन सेट करता है या प्राप्त करता है। डिफ़ॉल्ट रूप से यह गुण 300 dpi. है |
+
+### यह सभी देखें
+
+* class [RenderingOptions](../../aspose.html.rendering/renderingoptions/)
+* नाम स्थान [Aspose.Html.Rendering.Doc](../../aspose.html.rendering.doc/)
+* सभा [Aspose.HTML](../../)
+
+

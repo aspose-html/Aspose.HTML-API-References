@@ -1,7 +1,7 @@
 ---
-title: Navigate
+title: Document.Navigate
 second_title: Справочник по Aspose.HTML для .NET API
-description: Загружает документ по указанному универсальному указателю ресурсов URL в текущий экземпляр заменяя предыдущее содержимое.
+description: Document метод. Загружает документ по указанному универсальному указателю ресурсов URL в текущий экземпляр заменяя предыдущее содержимое.
 type: docs
 weight: 1010
 url: /ru/net/aspose.html.dom/document/navigate/
@@ -20,8 +20,8 @@ public void Navigate(string address)
 
 ### Смотрите также
 
-* class [Document](../../document)
-* пространство имен [Aspose.Html.Dom](../../document)
+* class [Document](../)
+* пространство имен [Aspose.Html.Dom](../../document/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -36,13 +36,13 @@ public void Navigate(Url url)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| url | Url | URL документа. |
+| url | Url | URL-адрес документа. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Document](../../document)
-* пространство имен [Aspose.Html.Dom](../../document)
+* class [Url](../../../aspose.html/url/)
+* class [Document](../)
+* пространство имен [Aspose.Html.Dom](../../document/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -57,19 +57,19 @@ public void Navigate(string content, string baseUri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Содержимое документа. |
+| content | String | Содержание документа. |
 | baseUri | String | Базовый URI для разрешения относительных ресурсов. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
-* class [Document](../../document)
-* пространство имен [Aspose.Html.Dom](../../document)
+* class [Document](../)
+* пространство имен [Aspose.Html.Dom](../../document/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -84,20 +84,20 @@ public void Navigate(string content, Url baseUri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | String | Содержимое документа. |
+| content | String | Содержание документа. |
 | baseUri | Url | Базовый URI для разрешения относительных ресурсов. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Document](../../document)
-* пространство имен [Aspose.Html.Dom](../../document)
+* class [Url](../../../aspose.html/url/)
+* class [Document](../)
+* пространство имен [Aspose.Html.Dom](../../document/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -112,19 +112,19 @@ public void Navigate(Stream content, string baseUri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | Stream | Содержимое документа. |
+| content | Stream | Содержание документа. |
 | baseUri | String | Базовый URI для разрешения относительных ресурсов. Он будет объединен с текущим путем к каталогу для формирования абсолютного URL-адреса. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
-* class [Document](../../document)
-* пространство имен [Aspose.Html.Dom](../../document)
+* class [Document](../)
+* пространство имен [Aspose.Html.Dom](../../document/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -139,20 +139,20 @@ public void Navigate(Stream content, Url baseUri)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| content | Stream | Содержимое документа. |
+| content | Stream | Содержание документа. |
 | baseUri | Url | Базовый URI для разрешения относительных ресурсов. |
 
 ### Исключения
 
 | исключение | условие |
 | --- | --- |
-| ArgumentNullException | ` baseUri` is` null` . |
+| ArgumentNullException | `baseUri` является`нулевой`. |
 
 ### Смотрите также
 
-* class [Url](../../../aspose.html/url)
-* class [Document](../../document)
-* пространство имен [Aspose.Html.Dom](../../document)
+* class [Url](../../../aspose.html/url/)
+* class [Document](../)
+* пространство имен [Aspose.Html.Dom](../../document/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -167,13 +167,13 @@ public void Navigate(RequestMessage request)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| request | RequestMessage | Объект запроса, используемый для загрузки содержимого документа. |
+| request | RequestMessage | Объект запроса, который используется для загрузки содержимого документа. |
 
 ### Смотрите также
 
-* class [RequestMessage](../../../aspose.html.net/requestmessage)
-* class [Document](../../document)
-* пространство имен [Aspose.Html.Dom](../../document)
+* class [RequestMessage](../../../aspose.html.net/requestmessage/)
+* class [Document](../)
+* пространство имен [Aspose.Html.Dom](../../document/)
 * сборка [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

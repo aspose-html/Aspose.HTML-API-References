@@ -1,7 +1,7 @@
 ---
-title: AddEventListener
+title: EventTarget.AddEventListener
 second_title: Referencia de API de Aspose.HTML para .NET
-description: Este método permite el registro de detectores de eventos en el destino del evento.
+description: EventTarget método. Este método permite el registro de detectores de eventos en el destino del evento.
 type: docs
 weight: 10
 url: /es/net/aspose.html.dom/eventtarget/addeventlistener/
@@ -17,20 +17,20 @@ public void AddEventListener(string type, DOMEventHandler handler, bool useCaptu
 | Parámetro | Escribe | Descripción |
 | --- | --- | --- |
 | type | String | El tipo de evento para el que el usuario se está registrando |
-| handler | DOMEventHandler | toma un[`DOMEventHandler`](../../../aspose.html.dom.events/domeventhandler) para ser llamado cuando ocurra el evento. |
-| useCapture | Boolean | Si es verdadero, useCapture indica que el usuario desea iniciar la captura. Después de iniciar la captura, todos los eventos del tipo especificado se enviarán al registrado [`IEventListener`](../../../aspose.html.dom.events/ieventlistener) antes de enviarse a cualquier Objetivo de evento debajo de ellos en el árbol. Los eventos que se propagan hacia arriba a través del árbol no activarán un[`IEventListener`](../../../aspose.html.dom.events/ieventlistener) designado para usar la captura. |
+| handler | DOMEventHandler | toma un[`DOMEventHandler`](../../../aspose.html.dom.events/domeventhandler/) para ser llamado cuando ocurra el evento. |
+| useCapture | Boolean | Si es verdadero, useCapture indica que el usuario desea iniciar la captura. Después de iniciar la captura, todos los eventos del tipo especificado se enviarán al registrado [`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) antes de enviarse a cualquier Objetivo de evento debajo de ellos en el árbol. Los eventos que se propagan hacia arriba a través del árbol no activarán un[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) designado para usar la captura. |
 
 ### Observaciones
 
-Si un[`IEventListener`](../../../aspose.html.dom.events/ieventlistener) se agrega a un[`EventTarget`](../../eventtarget) mientras está procesando un evento, no se activará por las acciones actuales, pero puede activarse durante una etapa posterior del flujo del evento, como la fase burbujeante.
+Si un[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) se agrega a un[`EventTarget`](../) mientras está procesando un evento, no se activará por las acciones actuales, pero puede activarse durante una etapa posterior del flujo del evento, como la fase burbujeante.
 
-Si se registran varios detectores de eventos idénticos en el mismo[`EventTarget`](../../eventtarget)con los mismos parámetros se descartan las instancias duplicadas. No provocan el[`IEventListener`](../../../aspose.html.dom.events/ieventlistener) para que se llamen dos veces y como se descartan no hace falta que se eliminen con el [`RemoveEventListener`](../removeeventlistener) método.
+Si se registran varios detectores de eventos idénticos en el mismo[`EventTarget`](../)con los mismos parámetros se descartan las instancias duplicadas. No provocan el[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) para que se llamen dos veces y como se descartan no hace falta que se eliminen con el [`RemoveEventListener`](../removeeventlistener/) método.
 
 ### Ver también
 
-* delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler)
-* class [EventTarget](../../eventtarget)
-* espacio de nombres [Aspose.Html.Dom](../../eventtarget)
+* delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler/)
+* class [EventTarget](../)
+* espacio de nombres [Aspose.Html.Dom](../../eventtarget/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -50,15 +50,15 @@ public void AddEventListener(string type, IEventListener listener)
 
 ### Observaciones
 
-Si un[`IEventListener`](../../../aspose.html.dom.events/ieventlistener) se agrega a un[`EventTarget`](../../eventtarget) mientras está procesando un evento, no se activará por las acciones actuales, pero puede activarse durante una etapa posterior del flujo del evento, como la fase burbujeante.
+Si un[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) se agrega a un[`EventTarget`](../) mientras está procesando un evento, no se activará por las acciones actuales, pero puede activarse durante una etapa posterior del flujo del evento, como la fase burbujeante.
 
-Si se registran varios detectores de eventos idénticos en el mismo[`EventTarget`](../../eventtarget)con los mismos parámetros se descartan las instancias duplicadas. No provocan el[`IEventListener`](../../../aspose.html.dom.events/ieventlistener) para que se llamen dos veces y como se descartan no hace falta que se eliminen con el [`RemoveEventListener`](../removeeventlistener) método.
+Si se registran varios detectores de eventos idénticos en el mismo[`EventTarget`](../)con los mismos parámetros se descartan las instancias duplicadas. No provocan el[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) para que se llamen dos veces y como se descartan no hace falta que se eliminen con el [`RemoveEventListener`](../removeeventlistener/) método.
 
 ### Ver también
 
-* interface [IEventListener](../../../aspose.html.dom.events/ieventlistener)
-* class [EventTarget](../../eventtarget)
-* espacio de nombres [Aspose.Html.Dom](../../eventtarget)
+* interface [IEventListener](../../../aspose.html.dom.events/ieventlistener/)
+* class [EventTarget](../)
+* espacio de nombres [Aspose.Html.Dom](../../eventtarget/)
 * asamblea [Aspose.HTML](../../../)
 
 ---
@@ -75,19 +75,19 @@ public void AddEventListener(string type, IEventListener listener, bool useCaptu
 | --- | --- | --- |
 | type | String | El tipo de evento para el que el usuario se está registrando |
 | listener | IEventListener | Toma una interfaz implementada por el usuario que contiene los métodos que se llamarán cuando ocurra el evento. |
-| useCapture | Boolean | Si es verdadero, useCapture indica que el usuario desea iniciar la captura. Después de iniciar la captura, todos los eventos del tipo especificado se enviarán al registrado [`IEventListener`](../../../aspose.html.dom.events/ieventlistener) antes de enviarse a cualquier Objetivo de evento debajo de ellos en el árbol. Los eventos que se propagan hacia arriba a través del árbol no activarán un[`IEventListener`](../../../aspose.html.dom.events/ieventlistener) designado para usar la captura. |
+| useCapture | Boolean | Si es verdadero, useCapture indica que el usuario desea iniciar la captura. Después de iniciar la captura, todos los eventos del tipo especificado se enviarán al registrado [`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) antes de enviarse a cualquier Objetivo de evento debajo de ellos en el árbol. Los eventos que se propagan hacia arriba a través del árbol no activarán un[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) designado para usar la captura. |
 
 ### Observaciones
 
-Si un[`IEventListener`](../../../aspose.html.dom.events/ieventlistener) se agrega a un[`EventTarget`](../../eventtarget) mientras está procesando un evento, no se activará por las acciones actuales, pero puede activarse durante una etapa posterior del flujo del evento, como la fase burbujeante.
+Si un[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) se agrega a un[`EventTarget`](../) mientras está procesando un evento, no se activará por las acciones actuales, pero puede activarse durante una etapa posterior del flujo del evento, como la fase burbujeante.
 
-Si se registran varios detectores de eventos idénticos en el mismo[`EventTarget`](../../eventtarget)con los mismos parámetros se descartan las instancias duplicadas. No provocan el[`IEventListener`](../../../aspose.html.dom.events/ieventlistener) para que se llamen dos veces y como se descartan no hace falta que se eliminen con el [`RemoveEventListener`](../removeeventlistener) método.
+Si se registran varios detectores de eventos idénticos en el mismo[`EventTarget`](../)con los mismos parámetros se descartan las instancias duplicadas. No provocan el[`IEventListener`](../../../aspose.html.dom.events/ieventlistener/) para que se llamen dos veces y como se descartan no hace falta que se eliminen con el [`RemoveEventListener`](../removeeventlistener/) método.
 
 ### Ver también
 
-* interface [IEventListener](../../../aspose.html.dom.events/ieventlistener)
-* class [EventTarget](../../eventtarget)
-* espacio de nombres [Aspose.Html.Dom](../../eventtarget)
+* interface [IEventListener](../../../aspose.html.dom.events/ieventlistener/)
+* class [EventTarget](../)
+* espacio de nombres [Aspose.Html.Dom](../../eventtarget/)
 * asamblea [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

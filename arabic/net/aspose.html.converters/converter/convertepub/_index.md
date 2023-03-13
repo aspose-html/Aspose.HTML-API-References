@@ -1,7 +1,7 @@
 ---
-title: ConvertEPUB
+title: Converter.ConvertEPUB
 second_title: Aspose.HTML لمرجع .NET API
-description: تحويل مصدر epub إلى صورة. النتيجة هي ملف الصورة.
+description: Converter طريقة. تحويل مصدر epub إلى صورة. النتيجة هي ملف الصورة.
 type: docs
 weight: 10
 url: /ar/net/aspose.html.converters/converter/convertepub/
@@ -19,14 +19,14 @@ public static void ConvertEPUB(string sourcePath, ImageSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | مسار ملف مصدر EPUB. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | options | ImageSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -44,15 +44,15 @@ public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | عنوان URL المصدر. |
 | options | ImageSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -71,15 +71,15 @@ public static void ConvertEPUB(Stream stream, Configuration configuration,
 | stream | Stream | مصدر التحويل. |
 | configuration | Configuration | تكوين البيئة. |
 | options | ImageSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -98,15 +98,15 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | sourcePath | String | مسار ملف مصدر EPUB. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | configuration | Configuration | تكوين البيئة. |
 | options | ImageSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -125,16 +125,16 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration,
 | sourceUrl | Url | عنوان URL المصدر. |
 | configuration | Configuration | تكوين البيئة. |
 | options | ImageSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -155,9 +155,9 @@ public static void ConvertEPUB(Stream stream, XpsSaveOptions options, string out
 
 ### أنظر أيضا
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -178,9 +178,9 @@ public static void ConvertEPUB(string sourcePath, XpsSaveOptions options, string
 
 ### أنظر أيضا
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -201,10 +201,10 @@ public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options, string out
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -227,10 +227,10 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSa
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -253,10 +253,10 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -279,11 +279,11 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSa
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -301,14 +301,14 @@ public static void ConvertEPUB(Stream stream, XpsSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | مصدر التحويل. |
 | options | XpsSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -326,14 +326,14 @@ public static void ConvertEPUB(string sourcePath, XpsSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | مسار ملف مصدر EPUB. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | options | XpsSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -351,15 +351,15 @@ public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | عنوان URL المصدر. |
 | options | XpsSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -378,15 +378,15 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSa
 | stream | Stream | مصدر التحويل. |
 | configuration | Configuration | تكوين البيئة. |
 | options | XpsSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -405,15 +405,15 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | sourcePath | String | مسار ملف مصدر EPUB. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | configuration | Configuration | تكوين البيئة. |
 | options | XpsSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -432,16 +432,16 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSa
 | sourceUrl | Url | عنوان URL المصدر. |
 | configuration | Configuration | تكوين البيئة. |
 | options | XpsSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -462,9 +462,9 @@ public static void ConvertEPUB(Stream stream, DocSaveOptions options, string out
 
 ### أنظر أيضا
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -485,9 +485,9 @@ public static void ConvertEPUB(string sourcePath, DocSaveOptions options, string
 
 ### أنظر أيضا
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -508,10 +508,10 @@ public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options, string out
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -534,10 +534,10 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, DocSa
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -560,10 +560,10 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -586,11 +586,11 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSa
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -608,14 +608,14 @@ public static void ConvertEPUB(Stream stream, DocSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | مصدر التحويل. |
 | options | DocSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -633,14 +633,14 @@ public static void ConvertEPUB(string sourcePath, DocSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | مسار ملف مصدر EPUB. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | options | DocSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -658,15 +658,15 @@ public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | عنوان URL المصدر. |
 | options | DocSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -685,15 +685,15 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, DocSa
 | stream | Stream | مصدر التحويل. |
 | configuration | Configuration | تكوين البيئة. |
 | options | DocSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -712,15 +712,15 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | sourcePath | String | مسار ملف مصدر EPUB. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | configuration | Configuration | تكوين البيئة. |
 | options | DocSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -739,16 +739,16 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSa
 | sourceUrl | Url | عنوان URL المصدر. |
 | configuration | Configuration | تكوين البيئة. |
 | options | DocSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -769,9 +769,9 @@ public static void ConvertEPUB(Stream stream, PdfSaveOptions options, string out
 
 ### أنظر أيضا
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -792,9 +792,9 @@ public static void ConvertEPUB(string sourcePath, PdfSaveOptions options, string
 
 ### أنظر أيضا
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -815,10 +815,10 @@ public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options, string out
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -841,10 +841,10 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSa
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -867,10 +867,10 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -893,11 +893,11 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSa
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -915,14 +915,14 @@ public static void ConvertEPUB(Stream stream, PdfSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | مصدر التحويل. |
 | options | PdfSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -940,14 +940,14 @@ public static void ConvertEPUB(string sourcePath, PdfSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | مسار ملف مصدر EPUB. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | options | PdfSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -965,15 +965,15 @@ public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | عنوان URL المصدر. |
 | options | PdfSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -992,15 +992,15 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSa
 | stream | Stream | مصدر التحويل. |
 | configuration | Configuration | تكوين البيئة. |
 | options | PdfSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1019,15 +1019,15 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | sourcePath | String | مسار ملف مصدر EPUB. سيتم دمجه مع مسار الدليل الحالي لتكوين عنوان URL مطلق. |
 | configuration | Configuration | تكوين البيئة. |
 | options | PdfSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1046,16 +1046,16 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSa
 | sourceUrl | Url | عنوان URL المصدر. |
 | configuration | Configuration | تكوين البيئة. |
 | options | PdfSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1076,9 +1076,9 @@ public static void ConvertEPUB(Stream stream, ImageSaveOptions options, string o
 
 ### أنظر أيضا
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1099,9 +1099,9 @@ public static void ConvertEPUB(string sourcePath, ImageSaveOptions options, stri
 
 ### أنظر أيضا
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1122,10 +1122,10 @@ public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options, string o
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1148,10 +1148,10 @@ public static void ConvertEPUB(Stream stream, Configuration configuration,
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1174,10 +1174,10 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 
 ### أنظر أيضا
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1200,11 +1200,11 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration,
 
 ### أنظر أيضا
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -1222,14 +1222,14 @@ public static void ConvertEPUB(Stream stream, ImageSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | مصدر التحويل. |
 | options | ImageSaveOptions | خيارات التحويل. |
-| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) الواجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
+| provider | ICreateStreamProvider | تنفيذ ل[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) واجهة ، والتي سيتم استخدامها للحصول على تدفق الإخراج. |
 
 ### أنظر أيضا
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* مساحة الاسم [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* مساحة الاسم [Aspose.Html.Converters](../../converter/)
 * المجسم [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

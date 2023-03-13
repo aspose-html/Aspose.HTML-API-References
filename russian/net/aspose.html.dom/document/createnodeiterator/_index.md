@@ -1,7 +1,7 @@
 ---
-title: CreateNodeIterator
+title: Document.CreateNodeIterator
 second_title: Справочник по Aspose.HTML для .NET API
-description: Создать новый NodeIterator поверх поддерева с корнем в указанном узле .
+description: Document метод. Создать новый NodeIterator поверх поддерева с корнем в указанном узле .
 type: docs
 weight: 900
 url: /ru/net/aspose.html.dom/document/createnodeiterator/
@@ -16,7 +16,7 @@ public INodeIterator CreateNodeIterator(Node root)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | узел, который будет повторяться вместе со своими потомками. Первоначально итератор располагается непосредственно перед этим узлом. Флаги whatToShow и фильтр, если они есть, не учитываются при установке этой позиции. Корень не должен быть null. |
+| root | Node | узел, который будет повторяться вместе со своими дочерними элементами. Итератор изначально располагается непосредственно перед этим узлом. Флаги whatToShow и фильтр, если они есть, не учитываются при установке этой позиции. Корень не должен быть нулевым. |
 
 ### Возвращаемое значение
 
@@ -26,14 +26,14 @@ public INodeIterator CreateNodeIterator(Node root)
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR:Возникает, если указанный корень null. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
 
 ### Смотрите также
 
-* interface [INodeIterator](../../../aspose.html.dom.traversal/inodeiterator)
-* class [Node](../../node)
-* class [Document](../../document)
-* пространство имен [Aspose.Html.Dom](../../document)
+* interface [INodeIterator](../../../aspose.html.dom.traversal/inodeiterator/)
+* class [Node](../../node/)
+* class [Document](../)
+* пространство имен [Aspose.Html.Dom](../../document/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -48,7 +48,7 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | узел, который будет повторяться вместе со своими потомками. Первоначально итератор располагается непосредственно перед этим узлом. Флаги whatToShow и фильтр, если они есть, не учитываются при установке этой позиции. Корень не должен быть null. |
+| root | Node | узел, который будет повторяться вместе со своими дочерними элементами. Итератор изначально располагается непосредственно перед этим узлом. Флаги whatToShow и фильтр, если они есть, не учитываются при установке этой позиции. Корень не должен быть нулевым. |
 | whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представляемого итератором. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью ИЛИ. |
 
 ### Возвращаемое значение
@@ -59,14 +59,14 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow)
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR:Возникает, если указанный корень null. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
 
 ### Смотрите также
 
-* interface [INodeIterator](../../../aspose.html.dom.traversal/inodeiterator)
-* class [Node](../../node)
-* class [Document](../../document)
-* пространство имен [Aspose.Html.Dom](../../document)
+* interface [INodeIterator](../../../aspose.html.dom.traversal/inodeiterator/)
+* class [Node](../../node/)
+* class [Document](../)
+* пространство имен [Aspose.Html.Dom](../../document/)
 * сборка [Aspose.HTML](../../../)
 
 ---
@@ -81,9 +81,9 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter 
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| root | Node | узел, который будет повторяться вместе со своими потомками. Первоначально итератор располагается непосредственно перед этим узлом. Флаги whatToShow и фильтр, если они есть, не учитываются при установке этой позиции. Корень не должен быть null. |
+| root | Node | узел, который будет повторяться вместе со своими дочерними элементами. Итератор изначально располагается непосредственно перед этим узлом. Флаги whatToShow и фильтр, если они есть, не учитываются при установке этой позиции. Корень не должен быть нулевым. |
 | whatToShow | Int64 | флаг указывает, какие типы узлов могут появляться в логическом представлении дерева, представляемого итератором. См. описание NodeFilter для набора возможных значений SHOW_. Эти флаги можно комбинировать с помощью ИЛИ. |
-| filter | INodeFilter | NodeFilter для использования с этим TreeWalker, или нуль, чтобы указать отсутствие фильтра. |
+| filter | INodeFilter | NodeFilter для использования с this TreeWalker или null, чтобы указать отсутствие фильтра. |
 
 ### Возвращаемое значение
 
@@ -93,15 +93,15 @@ public INodeIterator CreateNodeIterator(Node root, long whatToShow, INodeFilter 
 
 | исключение | условие |
 | --- | --- |
-| [DOMException](../../domexception) | NOT_SUPPORTED_ERR:Возникает, если указанный корень null. |
+| [DOMException](../../domexception/) | NOT_SUPPORTED_ERR: Возникает, если указанный корень is null. |
 
 ### Смотрите также
 
-* interface [INodeIterator](../../../aspose.html.dom.traversal/inodeiterator)
-* class [Node](../../node)
-* interface [INodeFilter](../../../aspose.html.dom.traversal/inodefilter)
-* class [Document](../../document)
-* пространство имен [Aspose.Html.Dom](../../document)
+* interface [INodeIterator](../../../aspose.html.dom.traversal/inodeiterator/)
+* class [Node](../../node/)
+* interface [INodeFilter](../../../aspose.html.dom.traversal/inodefilter/)
+* class [Document](../)
+* пространство имен [Aspose.Html.Dom](../../document/)
 * сборка [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

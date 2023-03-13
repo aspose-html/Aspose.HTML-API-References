@@ -1,0 +1,53 @@
+---
+title: Class TableRowSyntaxNode
+second_title: Aspose.HTML for .NET API Referansı
+description: Aspose.Html.Toolkit.Markdown.Syntax.TableRowSyntaxNode sınıf. Tablo satırı sözdizimi düğümü.
+type: docs
+weight: 5580
+url: /tr/net/aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/
+---
+## TableRowSyntaxNode class
+
+Tablo satırı sözdizimi düğümü.
+
+```csharp
+public class TableRowSyntaxNode : LeafBlockSyntaxNode
+```
+
+## Özellikleri
+
+| İsim | Tanım |
+| --- | --- |
+| [FirstChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/firstchild/) { get; } | İlk çocuğu alın. |
+| [LastChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/lastchild/) { get; } | Son çocuğu alın. |
+| [NextSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/nextsibling/) { get; } | Sonraki kardeşi alın. |
+| [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Üst düğümü alın. |
+| [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Önceki kardeşi alın. |
+
+## yöntemler
+
+| İsim | Tanım |
+| --- | --- |
+| override [Accept](../../aspose.html.toolkit.markdown.syntax/blocksyntaxnode/accept/)(MarkdownSyntaxVisitor) | Ziyaretçi kabul etmek için arayüzü tanımlar. |
+| [AppendCell](../../aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/appendcell/)(TableCellSyntaxNode) | Hücrenin eklenmesi için arayüzü tanımlar. |
+| [AppendChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/appendchild/)(MarkdownSyntaxNode) | Alt düğümü ekle. |
+| [AppendDelimiter](../../aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/appenddelimiter/)(TableDelimiterSyntaxNode) | Ekleme sınırlayıcı için arabirimi tanımlar. |
+| [ChildNodes](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/childnodes/)() | Alt düğüm koleksiyonunu alın. |
+| [GetCells](../../aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/getcells/)() | Hücreleri almak için arayüzü tanımlar. |
+| [GetLeadingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getleadingtrivia/)() | Önde gelen önemsiz bilgileri alın. |
+| [GetSyntaxTree](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getsyntaxtree/)() | Sözdizimi ağacını alın. |
+| [GetTrailingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/gettrailingtrivia/)() | Sondaki önemsiz bilgileri edinin. |
+| [InsertBefore](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/)(MarkdownSyntaxNode, MarkdownSyntaxNode) | Node. 'den önce ekle |
+| [RemoveChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/removechild/)(MarkdownSyntaxNode) | Alt öğeyi kaldırın. |
+| [ReplaceChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/replacechild/)(MarkdownSyntaxNode, MarkdownSyntaxNode) | Alt düğümü değiştirin. |
+| override [ToString](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/tostring/)() | ToString yöntemini geçersiz kıl. |
+| virtual [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(MarkdownTextWriter) | MarkdownTextWriter. 'a Yaz |
+| [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(TextWriter) | Düğümleri metin yazıcısına yaz. |
+
+### Ayrıca bakınız
+
+* class [LeafBlockSyntaxNode](../leafblocksyntaxnode/)
+* ad alanı [Aspose.Html.Toolkit.Markdown.Syntax](../../aspose.html.toolkit.markdown.syntax/)
+* toplantı [Aspose.HTML](../../)
+
+

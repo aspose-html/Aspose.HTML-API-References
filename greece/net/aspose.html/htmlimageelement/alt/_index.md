@@ -1,0 +1,23 @@
+---
+title: HTMLImageElement.Alt
+second_title: Aspose.HTML για Αναφορά API .NET
+description: HTMLImageElement ιδιοκτησία. Εναλλακτικό κείμενο για πράκτορες χρήστη που δεν αποδίδει το κανονικό περιεχόμενο αυτού του στοιχείου . Δείτε τον ορισμό του χαρακτηριστικού alt στην HTML 4.01.
+type: docs
+weight: 20
+url: /el/net/aspose.html/htmlimageelement/alt/
+---
+## HTMLImageElement.Alt property
+
+Εναλλακτικό κείμενο για πράκτορες χρήστη που δεν αποδίδει το κανονικό περιεχόμενο αυτού του στοιχείου . Δείτε τον ορισμό του χαρακτηριστικού alt στην HTML 4.01.
+
+```csharp
+public string Alt { get; set; }
+```
+
+### Δείτε επίσης
+
+* class [HTMLImageElement](../)
+* χώρος ονομάτων [Aspose.Html](../../htmlimageelement/)
+* συνέλευση [Aspose.HTML](../../../)
+
+

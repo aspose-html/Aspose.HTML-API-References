@@ -1,7 +1,7 @@
 ---
-title: ConvertEPUB
+title: Converter.ConvertEPUB
 second_title: Référence de l'API Aspose.HTML pour .NET
-description: Convertir la source epub en image. Le résultat est un fichier image.
+description: Converter méthode. Convertir la source epub en image. Le résultat est un fichier image.
 type: docs
 weight: 10
 url: /fr/net/aspose.html.converters/converter/convertepub/
@@ -19,14 +19,14 @@ public static void ConvertEPUB(string sourcePath, ImageSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | Chemin du fichier source EPUB. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | options | ImageSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -44,15 +44,15 @@ public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | L'URL source. |
 | options | ImageSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -71,15 +71,15 @@ public static void ConvertEPUB(Stream stream, Configuration configuration,
 | stream | Stream | Source de conversion. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | ImageSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -98,15 +98,15 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | sourcePath | String | Chemin du fichier source EPUB. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | ImageSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -125,16 +125,16 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration,
 | sourceUrl | Url | L'URL source. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | ImageSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -155,9 +155,9 @@ public static void ConvertEPUB(Stream stream, XpsSaveOptions options, string out
 
 ### Voir également
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -178,9 +178,9 @@ public static void ConvertEPUB(string sourcePath, XpsSaveOptions options, string
 
 ### Voir également
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -201,10 +201,10 @@ public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options, string out
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -227,10 +227,10 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSa
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -253,10 +253,10 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -279,11 +279,11 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSa
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -301,14 +301,14 @@ public static void ConvertEPUB(Stream stream, XpsSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | Source de conversion. |
 | options | XpsSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -326,14 +326,14 @@ public static void ConvertEPUB(string sourcePath, XpsSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | Chemin du fichier source EPUB. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | options | XpsSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -351,15 +351,15 @@ public static void ConvertEPUB(Url sourceUrl, XpsSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | L'URL source. |
 | options | XpsSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -378,15 +378,15 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, XpsSa
 | stream | Stream | Source de conversion. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | XpsSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -405,15 +405,15 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | sourcePath | String | Chemin du fichier source EPUB. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | XpsSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -432,16 +432,16 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, XpsSa
 | sourceUrl | Url | L'URL source. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | XpsSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -462,9 +462,9 @@ public static void ConvertEPUB(Stream stream, DocSaveOptions options, string out
 
 ### Voir également
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -485,9 +485,9 @@ public static void ConvertEPUB(string sourcePath, DocSaveOptions options, string
 
 ### Voir également
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -508,10 +508,10 @@ public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options, string out
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -534,10 +534,10 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, DocSa
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -560,10 +560,10 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -586,11 +586,11 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSa
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -608,14 +608,14 @@ public static void ConvertEPUB(Stream stream, DocSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | Source de conversion. |
 | options | DocSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -633,14 +633,14 @@ public static void ConvertEPUB(string sourcePath, DocSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | Chemin du fichier source EPUB. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | options | DocSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -658,15 +658,15 @@ public static void ConvertEPUB(Url sourceUrl, DocSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | L'URL source. |
 | options | DocSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -685,15 +685,15 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, DocSa
 | stream | Stream | Source de conversion. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | DocSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -712,15 +712,15 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | sourcePath | String | Chemin du fichier source EPUB. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | DocSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -739,16 +739,16 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, DocSa
 | sourceUrl | Url | L'URL source. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | DocSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -769,9 +769,9 @@ public static void ConvertEPUB(Stream stream, PdfSaveOptions options, string out
 
 ### Voir également
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -792,9 +792,9 @@ public static void ConvertEPUB(string sourcePath, PdfSaveOptions options, string
 
 ### Voir également
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -815,10 +815,10 @@ public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options, string out
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -841,10 +841,10 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSa
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -867,10 +867,10 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -893,11 +893,11 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSa
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -915,14 +915,14 @@ public static void ConvertEPUB(Stream stream, PdfSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | Source de conversion. |
 | options | PdfSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -940,14 +940,14 @@ public static void ConvertEPUB(string sourcePath, PdfSaveOptions options,
 | --- | --- | --- |
 | sourcePath | String | Chemin du fichier source EPUB. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | options | PdfSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -965,15 +965,15 @@ public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options,
 | --- | --- | --- |
 | sourceUrl | Url | L'URL source. |
 | options | PdfSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -992,15 +992,15 @@ public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSa
 | stream | Stream | Source de conversion. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | PdfSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1019,15 +1019,15 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 | sourcePath | String | Chemin du fichier source EPUB. Il sera combiné avec le chemin du répertoire actuel pour former une URL absolue. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | PdfSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1046,16 +1046,16 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSa
 | sourceUrl | Url | L'URL source. |
 | configuration | Configuration | La configuration de l'environnement. |
 | options | PdfSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1076,9 +1076,9 @@ public static void ConvertEPUB(Stream stream, ImageSaveOptions options, string o
 
 ### Voir également
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1099,9 +1099,9 @@ public static void ConvertEPUB(string sourcePath, ImageSaveOptions options, stri
 
 ### Voir également
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1122,10 +1122,10 @@ public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options, string o
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1148,10 +1148,10 @@ public static void ConvertEPUB(Stream stream, Configuration configuration,
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1174,10 +1174,10 @@ public static void ConvertEPUB(string sourcePath, Configuration configuration,
 
 ### Voir également
 
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1200,11 +1200,11 @@ public static void ConvertEPUB(Url sourceUrl, Configuration configuration,
 
 ### Voir également
 
-* class [Url](../../../aspose.html/url)
-* class [Configuration](../../../aspose.html/configuration)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
@@ -1222,14 +1222,14 @@ public static void ConvertEPUB(Stream stream, ImageSaveOptions options,
 | --- | --- | --- |
 | stream | Stream | Source de conversion. |
 | options | ImageSaveOptions | Possibilités de conversion. |
-| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface, qui sera utilisée pour obtenir un flux de sortie. |
+| provider | ICreateStreamProvider | Implémentation de[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, qui sera utilisée pour obtenir un flux de sortie. |
 
 ### Voir également
 
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [Converter](../../converter)
-* espace de noms [Aspose.Html.Converters](../../converter)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* espace de noms [Aspose.Html.Converters](../../converter/)
 * Assemblée [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

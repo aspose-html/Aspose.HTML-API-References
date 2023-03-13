@@ -1,14 +1,14 @@
 ---
-title: Render
+title: Renderer1.Render
 second_title: Aspose.HTML لمرجع .NET API
-description: يحدد طريقة العرضTDocument في المحددIDeviceaspose.html.rendering/idevice .
+description: Renderer طريقة. يحدد طريقة العرضTDocument في المحددIDevice .
 type: docs
 weight: 10
 url: /ar/net/aspose.html.rendering/renderer-1/render/
 ---
 ## Render(IDevice, TDocument) {#render_2}
 
-يحدد طريقة العرض!:TDocument في المحدد[`IDevice`](../../idevice) .
+يحدد طريقة العرض!:TDocument في المحدد[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, TDocument document)
@@ -21,16 +21,16 @@ public void Render(IDevice device, TDocument document)
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* مساحة الاسم [Aspose.Html.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../renderer-1/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, TDocument, TimeSpan) {#render_4}
 
-يحدد طريقة العرض!:TDocument في المحدد[`IDevice`](../../idevice) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
+يحدد طريقة العرض!:TDocument في المحدد[`IDevice`](../../idevice/) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
 
 ```csharp
 public void Render(IDevice device, TDocument document, TimeSpan timeout)
@@ -44,16 +44,16 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* مساحة الاسم [Aspose.Html.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../renderer-1/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, TDocument, int) {#render_3}
 
-يحدد طريقة العرض!:TDocument في المحدد[`IDevice`](../../idevice) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
+يحدد طريقة العرض!:TDocument في المحدد[`IDevice`](../../idevice/) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
 
 ```csharp
 public void Render(IDevice device, TDocument document, int timeout)
@@ -67,16 +67,16 @@ public void Render(IDevice device, TDocument document, int timeout)
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* مساحة الاسم [Aspose.Html.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../renderer-1/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, params TDocument[]) {#render_5}
 
-يحدد طريقة عرض متعددة!:TDocument ق محددة[`IDevice`](../../idevice) .
+يحدد طريقة عرض متعددة!:TDocument ق محددة[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, params TDocument[] documents)
@@ -89,16 +89,16 @@ public void Render(IDevice device, params TDocument[] documents)
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* مساحة الاسم [Aspose.Html.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../renderer-1/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, int, params TDocument[]) {#render}
 
-يحدد طريقة عرض متعددة!:TDocument ق محددة[`IDevice`](../../idevice) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
+يحدد طريقة عرض متعددة!:TDocument ق محددة[`IDevice`](../../idevice/) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
 
 ```csharp
 public void Render(IDevice device, int timeout, params TDocument[] documents)
@@ -112,16 +112,16 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* مساحة الاسم [Aspose.Html.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../renderer-1/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, TimeSpan, params TDocument[]) {#render_1}
 
-يحدد طريقة عرض متعددة!:TDocument ق محددة[`IDevice`](../../idevice) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
+يحدد طريقة عرض متعددة!:TDocument ق محددة[`IDevice`](../../idevice/) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
 
 ```csharp
 public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
@@ -135,9 +135,9 @@ public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[]
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Renderer&lt;TDocument&gt;](../../renderer-1)
-* مساحة الاسم [Aspose.Html.Rendering](../../renderer-1)
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../renderer-1/)
 * المجسم [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

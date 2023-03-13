@@ -1,0 +1,23 @@
+---
+title: HTMLAnchorElement.Href
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: HTMLAnchorElement संपत्त. पूर्ण यूआरआई आईईटएफ आरएफस 2396 लंक कए गए संसधन क HTML 4.01. में href वशेषत परभष देखें
+type: docs
+weight: 70
+url: /hi/net/aspose.html/htmlanchorelement/href/
+---
+## HTMLAnchorElement.Href property
+
+पूर्ण यूआरआई [[आईईटीएफ आरएफसी 2396](http://www.ietf.org/rfc/rfc2396.txt) लिंक किए गए संसाधन का। HTML 4.01. में href विशेषता परिभाषा देखें
+
+```csharp
+public string Href { get; set; }
+```
+
+### यह सभी देखें
+
+* class [HTMLAnchorElement](../)
+* नाम स्थान [Aspose.Html](../../htmlanchorelement/)
+* सभा [Aspose.HTML](../../../)
+
+

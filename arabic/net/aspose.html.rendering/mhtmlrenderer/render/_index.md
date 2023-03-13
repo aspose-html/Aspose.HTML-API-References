@@ -1,14 +1,14 @@
 ---
-title: Render
+title: MhtmlRenderer.Render
 second_title: Aspose.HTML لمرجع .NET API
-description: يتم عرض مستندات MHTML متعددة في المحددIDeviceaspose.html.rendering/idevice . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
+description: MhtmlRenderer طريقة. يتم عرض مستندات MHTML متعددة في المحددIDevice . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
 type: docs
 weight: 20
 url: /ar/net/aspose.html.rendering/mhtmlrenderer/render/
 ---
 ## Render(IDevice, TimeSpan, params Stream[]) {#render_9}
 
-يتم عرض مستندات MHTML متعددة في المحدد[`IDevice`](../../idevice) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
+يتم عرض مستندات MHTML متعددة في المحدد[`IDevice`](../../idevice/) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
 
 ```csharp
 public override void Render(IDevice device, TimeSpan timeout, params Stream[] documents)
@@ -22,16 +22,16 @@ public override void Render(IDevice device, TimeSpan timeout, params Stream[] do
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [MhtmlRenderer](../../mhtmlrenderer)
-* مساحة الاسم [Aspose.Html.Rendering](../../mhtmlrenderer)
+* interface [IDevice](../../idevice/)
+* class [MhtmlRenderer](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../mhtmlrenderer/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, Stream, Configuration) {#render_4}
 
-يتم عرض مستند MHTML في المحدد[`IDevice`](../../idevice) .
+يتم عرض مستند MHTML في المحدد[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, Stream document, Configuration configuration)
@@ -45,17 +45,17 @@ public void Render(IDevice device, Stream document, Configuration configuration)
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MhtmlRenderer](../../mhtmlrenderer)
-* مساحة الاسم [Aspose.Html.Rendering](../../mhtmlrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MhtmlRenderer](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../mhtmlrenderer/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, Stream, Configuration, TimeSpan) {#render_5}
 
-يتم عرض مستند MHTML في المحدد[`IDevice`](../../idevice) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
+يتم عرض مستند MHTML في المحدد[`IDevice`](../../idevice/) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
 
 ```csharp
 public void Render(IDevice device, Stream document, Configuration configuration, TimeSpan timeout)
@@ -70,17 +70,17 @@ public void Render(IDevice device, Stream document, Configuration configuration,
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MhtmlRenderer](../../mhtmlrenderer)
-* مساحة الاسم [Aspose.Html.Rendering](../../mhtmlrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MhtmlRenderer](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../mhtmlrenderer/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, IList&lt;Stream&gt;, Configuration) {#render_1}
 
-يتم عرض مستندات MHTML متعددة في المحدد[`IDevice`](../../idevice) .
+يتم عرض مستندات MHTML متعددة في المحدد[`IDevice`](../../idevice/) .
 
 ```csharp
 public void Render(IDevice device, IList<Stream> documents, Configuration configuration)
@@ -94,17 +94,17 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MhtmlRenderer](../../mhtmlrenderer)
-* مساحة الاسم [Aspose.Html.Rendering](../../mhtmlrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MhtmlRenderer](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../mhtmlrenderer/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
 
 ## Render(IDevice, IList&lt;Stream&gt;, Configuration, TimeSpan) {#render_2}
 
-يتم عرض مستندات MHTML متعددة في المحدد[`IDevice`](../../idevice) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
+يتم عرض مستندات MHTML متعددة في المحدد[`IDevice`](../../idevice/) . سيتم تنفيذ العرض بمجرد عدم وجود أي عمليات شبكة لتحميل الموارد أو المؤقتات النشطة أو مهام الرسوم المتحركة أو انقضاء المهلة المحددة.
 
 ```csharp
 public void Render(IDevice device, IList<Stream> documents, Configuration configuration, 
@@ -120,10 +120,10 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 
 ### أنظر أيضا
 
-* interface [IDevice](../../idevice)
-* class [Configuration](../../../aspose.html/configuration)
-* class [MhtmlRenderer](../../mhtmlrenderer)
-* مساحة الاسم [Aspose.Html.Rendering](../../mhtmlrenderer)
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MhtmlRenderer](../)
+* مساحة الاسم [Aspose.Html.Rendering](../../mhtmlrenderer/)
 * المجسم [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

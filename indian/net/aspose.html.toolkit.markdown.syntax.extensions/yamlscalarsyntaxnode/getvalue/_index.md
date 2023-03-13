@@ -1,0 +1,27 @@
+---
+title: YamlScalarSyntaxNode.GetValue
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: YamlScalarSyntaxNode तरक. मूल्य प्रप्त करने के लए इंटरफ़ेस क परभषत करत है
+type: docs
+weight: 30
+url: /hi/net/aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/getvalue/
+---
+## YamlScalarSyntaxNode.GetValue method
+
+मूल्य प्राप्त करने के लिए इंटरफ़ेस को परिभाषित करता है।
+
+```csharp
+public string GetValue()
+```
+
+### प्रतिलाभ की मात्रा
+
+डोर।
+
+### यह सभी देखें
+
+* class [YamlScalarSyntaxNode](../)
+* नाम स्थान [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../yamlscalarsyntaxnode/)
+* सभा [Aspose.HTML](../../../)
+
+

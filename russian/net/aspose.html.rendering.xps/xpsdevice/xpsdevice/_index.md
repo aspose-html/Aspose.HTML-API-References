@@ -1,14 +1,14 @@
 ---
-title: XpsDevice
+title: XpsDevice.XpsDevice
 second_title: Справочник по Aspose.HTML для .NET API
-description: Инициализирует новый экземпляр классаXpsDeviceaspose.html.rendering.xps/xpsdevice.
+description: XpsDevice строитель. Инициализирует новый экземплярXpsDevice класс.
 type: docs
 weight: 10
 url: /ru/net/aspose.html.rendering.xps/xpsdevice/xpsdevice/
 ---
 ## XpsDevice(ICreateStreamProvider) {#constructor}
 
-Инициализирует новый экземпляр класса[`XpsDevice`](../../xpsdevice).
+Инициализирует новый экземпляр[`XpsDevice`](../) класс.
 
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
@@ -16,20 +16,20 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| streamProvider | ICreateStreamProvider | Поставщик потока. |
+| streamProvider | ICreateStreamProvider | Провайдер потока. |
 
 ### Смотрите также
 
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* пространство имен [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* пространство имен [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Инициализирует новый экземпляр класса[`XpsDevice`](../../xpsdevice)с помощью параметров рендеринга и поставщика потоков.
+Инициализирует новый экземпляр[`XpsDevice`](../) класс по параметрам рендеринга и потоковому провайдеру.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -37,22 +37,22 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | XpsRenderingOptions | Параметры рендеринга. |
-| streamProvider | ICreateStreamProvider | Объект, реализующий интерфейс[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) |
+| options | XpsRenderingOptions | Варианты рендеринга. |
+| streamProvider | ICreateStreamProvider | Объект, реализующий[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) интерфейс |
 
 ### Смотрите также
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* пространство имен [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* пространство имен [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(string) {#constructor_5}
 
-Инициализирует новый экземпляр класса[`XpsDevice`](../../xpsdevice).
+Инициализирует новый экземпляр[`XpsDevice`](../) класс.
 
 ```csharp
 public XpsDevice(string file)
@@ -64,15 +64,15 @@ public XpsDevice(string file)
 
 ### Смотрите также
 
-* class [XpsDevice](../../xpsdevice)
-* пространство имен [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* пространство имен [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
 
-Инициализирует новый экземпляр класса[`XpsDevice`](../../xpsdevice)с параметрами рендеринга и именем выходного файла.
+Инициализирует новый экземпляр[`XpsDevice`](../) класс по параметрам рендеринга и имени выходного файла.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
@@ -80,21 +80,21 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | XpsRenderingOptions | Параметры рендеринга. |
+| options | XpsRenderingOptions | Варианты рендеринга. |
 | file | String | Имя выходного файла. |
 
 ### Смотрите также
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* пространство имен [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* пространство имен [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(Stream) {#constructor_4}
 
-Инициализирует новый экземпляр класса[`XpsDevice`](../../xpsdevice).
+Инициализирует новый экземпляр[`XpsDevice`](../) класс.
 
 ```csharp
 public XpsDevice(Stream stream)
@@ -106,15 +106,15 @@ public XpsDevice(Stream stream)
 
 ### Смотрите также
 
-* class [XpsDevice](../../xpsdevice)
-* пространство имен [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* пространство имен [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * сборка [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
 
-Инициализирует новый экземпляр класса[`XpsDevice`](../../xpsdevice)с помощью параметров рендеринга и выходного потока.
+Инициализирует новый экземпляр[`XpsDevice`](../)класс по параметрам рендеринга и выходному потоку.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
@@ -122,14 +122,14 @@ public XpsDevice(XpsRenderingOptions options, Stream stream)
 
 | Параметр | Тип | Описание |
 | --- | --- | --- |
-| options | XpsRenderingOptions | Параметры рендеринга. |
+| options | XpsRenderingOptions | Варианты рендеринга. |
 | stream | Stream | Выходной поток. |
 
 ### Смотрите также
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* пространство имен [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* пространство имен [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * сборка [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

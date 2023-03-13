@@ -1,14 +1,14 @@
 ---
-title: ImageDevice
+title: ImageDevice.ImageDevice
 second_title: Référence de l'API Aspose.HTML pour .NET
-description: Initialise une nouvelle instance duImageDeviceaspose.html.rendering.image/imagedevice classe.
+description: ImageDevice constructeur. Initialise une nouvelle instance duImageDevice classe.
 type: docs
 weight: 10
 url: /fr/net/aspose.html.rendering.image/imagedevice/imagedevice/
 ---
 ## ImageDevice(ICreateStreamProvider) {#constructor}
 
-Initialise une nouvelle instance du[`ImageDevice`](../../imagedevice) classe.
+Initialise une nouvelle instance du[`ImageDevice`](../) classe.
 
 ```csharp
 public ImageDevice(ICreateStreamProvider streamProvider)
@@ -20,16 +20,16 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 ### Voir également
 
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [ImageDevice](../../imagedevice)
-* espace de noms [Aspose.Html.Rendering.Image](../../imagedevice)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [ImageDevice](../)
+* espace de noms [Aspose.Html.Rendering.Image](../../imagedevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Initialise une nouvelle instance du[`ImageDevice`](../../imagedevice) classe en rendant les options et le fournisseur de flux.
+Initialise une nouvelle instance du[`ImageDevice`](../) classe en rendant les options et le fournisseur de flux.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | options | ImageRenderingOptions | Options de rendu. |
-| streamProvider | ICreateStreamProvider | Objet qui implémente le[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface |
+| streamProvider | ICreateStreamProvider | Objet qui implémente le[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface |
 
 ### Voir également
 
-* class [ImageRenderingOptions](../../imagerenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [ImageDevice](../../imagedevice)
-* espace de noms [Aspose.Html.Rendering.Image](../../imagedevice)
+* class [ImageRenderingOptions](../../imagerenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [ImageDevice](../)
+* espace de noms [Aspose.Html.Rendering.Image](../../imagedevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## ImageDevice(string) {#constructor_5}
 
-Initialise une nouvelle instance du[`ImageDevice`](../../imagedevice) classe.
+Initialise une nouvelle instance du[`ImageDevice`](../) classe.
 
 ```csharp
 public ImageDevice(string file)
@@ -64,15 +64,15 @@ public ImageDevice(string file)
 
 ### Voir également
 
-* class [ImageDevice](../../imagedevice)
-* espace de noms [Aspose.Html.Rendering.Image](../../imagedevice)
+* class [ImageDevice](../)
+* espace de noms [Aspose.Html.Rendering.Image](../../imagedevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
 
-Initialise une nouvelle instance du[`ImageDevice`](../../imagedevice) classe en rendant les options et le nom du fichier de sortie.
+Initialise une nouvelle instance du[`ImageDevice`](../) classe en rendant les options et le nom du fichier de sortie.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public ImageDevice(ImageRenderingOptions options, string file)
 
 ### Voir également
 
-* class [ImageRenderingOptions](../../imagerenderingoptions)
-* class [ImageDevice](../../imagedevice)
-* espace de noms [Aspose.Html.Rendering.Image](../../imagedevice)
+* class [ImageRenderingOptions](../../imagerenderingoptions/)
+* class [ImageDevice](../)
+* espace de noms [Aspose.Html.Rendering.Image](../../imagedevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## ImageDevice(Stream) {#constructor_4}
 
-Initialise une nouvelle instance du[`ImageDevice`](../../imagedevice) classe.
+Initialise une nouvelle instance du[`ImageDevice`](../) classe.
 
 ```csharp
 public ImageDevice(Stream stream)
@@ -106,15 +106,15 @@ public ImageDevice(Stream stream)
 
 ### Voir également
 
-* class [ImageDevice](../../imagedevice)
-* espace de noms [Aspose.Html.Rendering.Image](../../imagedevice)
+* class [ImageDevice](../)
+* espace de noms [Aspose.Html.Rendering.Image](../../imagedevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
 
-Initialise une nouvelle instance du[`ImageDevice`](../../imagedevice)classe en rendant les options et le flux de sortie.
+Initialise une nouvelle instance du[`ImageDevice`](../)classe en rendant les options et le flux de sortie.
 
 ```csharp
 public ImageDevice(ImageRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public ImageDevice(ImageRenderingOptions options, Stream stream)
 
 ### Voir également
 
-* class [ImageRenderingOptions](../../imagerenderingoptions)
-* class [ImageDevice](../../imagedevice)
-* espace de noms [Aspose.Html.Rendering.Image](../../imagedevice)
+* class [ImageRenderingOptions](../../imagerenderingoptions/)
+* class [ImageDevice](../)
+* espace de noms [Aspose.Html.Rendering.Image](../../imagedevice/)
 * Assemblée [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

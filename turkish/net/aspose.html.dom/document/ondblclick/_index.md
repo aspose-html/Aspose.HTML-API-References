@@ -1,0 +1,24 @@
+---
+title: Document.OnDblClick
+second_title: Aspose.HTML for .NET API Referansı
+description: Document etkinlik. OnDblClick olayı için olay işleyicisini alır veya ayarlar.
+type: docs
+weight: 360
+url: /tr/net/aspose.html.dom/document/ondblclick/
+---
+## Document.OnDblClick event
+
+OnDblClick olayı için olay işleyicisini alır veya ayarlar.
+
+```csharp
+public event DOMEventHandler OnDblClick;
+```
+
+### Ayrıca bakınız
+
+* delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler/)
+* class [Document](../)
+* ad alanı [Aspose.Html.Dom](../../document/)
+* toplantı [Aspose.HTML](../../../)
+
+

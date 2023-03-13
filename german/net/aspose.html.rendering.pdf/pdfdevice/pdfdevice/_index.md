@@ -1,14 +1,14 @@
 ---
-title: PdfDevice
+title: PdfDevice.PdfDevice
 second_title: Aspose.HTML für .NET-API-Referenz
-description: Initialisiert eine neue Instanz vonPdfDeviceaspose.html.rendering.pdf/pdfdevice Klasse.
+description: PdfDevice constructeur. Initialisiert eine neue Instanz vonPdfDevice Klasse.
 type: docs
 weight: 10
 url: /de/net/aspose.html.rendering.pdf/pdfdevice/pdfdevice/
 ---
 ## PdfDevice(ICreateStreamProvider) {#constructor}
 
-Initialisiert eine neue Instanz von[`PdfDevice`](../../pdfdevice) Klasse.
+Initialisiert eine neue Instanz von[`PdfDevice`](../) Klasse.
 
 ```csharp
 public PdfDevice(ICreateStreamProvider streamProvider)
@@ -20,16 +20,16 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 ### Siehe auch
 
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [PdfDevice](../../pdfdevice)
-* namensraum [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [PdfDevice](../)
+* namensraum [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`PdfDevice`](../../pdfdevice) Klasse nach Rendering-Optionen und Stream-Provider.
+Initialisiert eine neue Instanz von[`PdfDevice`](../) Klasse nach Rendering-Optionen und Stream-Provider.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | options | PdfRenderingOptions | Rendering-Optionen. |
-| streamProvider | ICreateStreamProvider | Objekt, das die implementiert[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) Schnittstelle |
+| streamProvider | ICreateStreamProvider | Objekt, das die implementiert[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) Schnittstelle |
 
 ### Siehe auch
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [PdfDevice](../../pdfdevice)
-* namensraum [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [PdfDevice](../)
+* namensraum [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(string) {#constructor_5}
 
-Initialisiert eine neue Instanz von[`PdfDevice`](../../pdfdevice) Klasse.
+Initialisiert eine neue Instanz von[`PdfDevice`](../) Klasse.
 
 ```csharp
 public PdfDevice(string file)
@@ -64,15 +64,15 @@ public PdfDevice(string file)
 
 ### Siehe auch
 
-* class [PdfDevice](../../pdfdevice)
-* namensraum [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfDevice](../)
+* namensraum [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`PdfDevice`](../../pdfdevice) Klasse nach Rendering-Optionen und Name der Ausgabedatei.
+Initialisiert eine neue Instanz von[`PdfDevice`](../) Klasse nach Rendering-Optionen und Name der Ausgabedatei.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 ### Siehe auch
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* class [PdfDevice](../../pdfdevice)
-* namensraum [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* class [PdfDevice](../)
+* namensraum [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(Stream) {#constructor_4}
 
-Initialisiert eine neue Instanz von[`PdfDevice`](../../pdfdevice) Klasse.
+Initialisiert eine neue Instanz von[`PdfDevice`](../) Klasse.
 
 ```csharp
 public PdfDevice(Stream stream)
@@ -106,15 +106,15 @@ public PdfDevice(Stream stream)
 
 ### Siehe auch
 
-* class [PdfDevice](../../pdfdevice)
-* namensraum [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfDevice](../)
+* namensraum [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * Montage [Aspose.HTML](../../../)
 
 ---
 
 ## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`PdfDevice`](../../pdfdevice)Klasse nach Rendering-Optionen und Ausgabestream.
+Initialisiert eine neue Instanz von[`PdfDevice`](../)Klasse nach Rendering-Optionen und Ausgabestream.
 
 ```csharp
 public PdfDevice(PdfRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 
 ### Siehe auch
 
-* class [PdfRenderingOptions](../../pdfrenderingoptions)
-* class [PdfDevice](../../pdfdevice)
-* namensraum [Aspose.Html.Rendering.Pdf](../../pdfdevice)
+* class [PdfRenderingOptions](../../pdfrenderingoptions/)
+* class [PdfDevice](../)
+* namensraum [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * Montage [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

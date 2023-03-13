@@ -1,7 +1,7 @@
 ---
-title: Save
+title: HTMLDocument.Save
 second_title: Aspose.HTML لمرجع .NET API
-description: يحفظ المستند في الملف المحلي المحدد بواسطةعنوان url سيتم حفظ جميع الموارد المستخدمة في هذا المستند في إلى المجلد المجاور  والذي سيتم إنشاء اسمه على النحو التالي output_file_name  _files .
+description: HTMLDocument طريقة. يحفظ المستند في الملف المحلي المحدد بواسطةعنوان url سيتم حفظ جميع الموارد المستخدمة في هذا المستند في إلى المجلد المجاور  والذي سيتم إنشاء اسمه على النحو التالي output_file_name  _files .
 type: docs
 weight: 130
 url: /ar/net/aspose.html/htmldocument/save/
@@ -26,9 +26,9 @@ public void Save(Url url)
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -43,13 +43,13 @@ public void Save(IOutputStorage outputStorage)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 
 ### أنظر أيضا
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -74,8 +74,8 @@ public void Save(string path)
 
 ### أنظر أيضا
 
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -91,7 +91,7 @@ public void Save(string path, HTMLSaveFormat saveFormat)
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | path | String | المسار المحلي لملف الإخراج. |
-| saveFormat | HTMLSaveFormat | التنسيق الذي يتم حفظ المستند فيه. |
+| saveFormat | HTMLSaveFormat | التنسيق الذي يتم حفظ المستند به. |
 
 ### استثناءات
 
@@ -101,9 +101,9 @@ public void Save(string path, HTMLSaveFormat saveFormat)
 
 ### أنظر أيضا
 
-* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -119,7 +119,7 @@ public void Save(Url url, HTMLSaveFormat saveFormat)
 | معامل | يكتب | وصف |
 | --- | --- | --- |
 | url | Url | URL المحلي لملف الإخراج. |
-| saveFormat | HTMLSaveFormat | التنسيق الذي يتم حفظ المستند فيه. |
+| saveFormat | HTMLSaveFormat | التنسيق الذي يتم حفظ المستند به. |
 
 ### استثناءات
 
@@ -129,10 +129,10 @@ public void Save(Url url, HTMLSaveFormat saveFormat)
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -147,15 +147,15 @@ public void Save(IOutputStorage outputStorage, HTMLSaveFormat saveFormat)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
-| saveFormat | HTMLSaveFormat | التنسيق الذي يتم حفظ المستند فيه. |
+| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
+| saveFormat | HTMLSaveFormat | التنسيق الذي يتم حفظ المستند به. |
 
 ### أنظر أيضا
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -181,9 +181,9 @@ public void Save(string path, HTMLSaveOptions saveOptions)
 
 ### أنظر أيضا
 
-* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -209,10 +209,10 @@ public void Save(Url url, HTMLSaveOptions saveOptions)
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -227,15 +227,15 @@ public void Save(IOutputStorage outputStorage, HTMLSaveOptions saveOptions)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveOptions | HTMLSaveOptions | خيارات حفظ HTML. |
 
 ### أنظر أيضا
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -261,9 +261,9 @@ public void Save(string path, MarkdownSaveOptions saveOptions)
 
 ### أنظر أيضا
 
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -289,10 +289,10 @@ public void Save(Url url, MarkdownSaveOptions saveOptions)
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -307,15 +307,15 @@ public void Save(IOutputStorage outputStorage, MarkdownSaveOptions saveOptions)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveOptions | MarkdownSaveOptions | Markdown حفظ الخيارات. |
 
 ### أنظر أيضا
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -341,9 +341,9 @@ public void Save(string path, MHTMLSaveOptions saveOptions)
 
 ### أنظر أيضا
 
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -369,10 +369,10 @@ public void Save(Url url, MHTMLSaveOptions saveOptions)
 
 ### أنظر أيضا
 
-* class [Url](../../url)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* class [Url](../../url/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
 ---
@@ -387,15 +387,15 @@ public void Save(IOutputStorage outputStorage, MHTMLSaveOptions saveOptions)
 
 | معامل | يكتب | وصف |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.html.io/ioutputstorage). |
+| outputStorage | IOutputStorage | تخزين الإخراج[`IOutputStorage`](../../../aspose.html.io/ioutputstorage/). |
 | saveOptions | MHTMLSaveOptions | خيارات حفظ MHTML. |
 
 ### أنظر أيضا
 
-* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage)
-* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions)
-* class [HTMLDocument](../../htmldocument)
-* مساحة الاسم [Aspose.Html](../../htmldocument)
+* interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
+* class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
+* class [HTMLDocument](../)
+* مساحة الاسم [Aspose.Html](../../htmldocument/)
 * المجسم [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+

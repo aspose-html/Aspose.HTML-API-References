@@ -1,0 +1,48 @@
+---
+title: Class SVGLengthList
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: Aspose.Html.Dom.Svg.DataTypes.SVGLengthList कक्ष. यह इंटरफ़ेस SVGLength ऑब्जेक्ट्स क एक सूच क परभषत करत है
+type: docs
+weight: 1210
+url: /hi/net/aspose.html.dom.svg.datatypes/svglengthlist/
+---
+## SVGLengthList class
+
+यह इंटरफ़ेस SVGLength ऑब्जेक्ट्स की एक सूची को परिभाषित करता है।
+
+```csharp
+public class SVGLengthList : SVGListBase<SVGLength>
+```
+
+## गुण
+
+| नाम | विवरण |
+| --- | --- |
+| [Item](../../aspose.html.dom.svg.collections/svglistbase-1/item/) { get; set; } |  |
+| [Length](../../aspose.html.dom.svg.collections/svglistbase-1/length/) { get; } |  |
+| [NumberOfItems](../../aspose.html.dom.svg.collections/svglistbase-1/numberofitems/) { get; } |  |
+
+## तरीकों
+
+| नाम | विवरण |
+| --- | --- |
+| [AppendItem](../../aspose.html.dom.svg.collections/svglistbase-1/appenditem/)(SVGLength) |  |
+| [Clear](../../aspose.html.dom.svg.collections/svglistbase-1/clear/)() |  |
+| [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | अप्रबंधित और - वैकल्पिक रूप से - प्रबंधित संसाधनों को रिलीज़ करता है। |
+| [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase-1/getenumerator/)() |  |
+| [GetItem](../../aspose.html.dom.svg.collections/svglistbase-1/getitem/)(ulong) |  |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | इस विधि का उपयोग ECMAScript ऑब्जेक्ट को पुनः प्राप्त करने के लिए किया जाता हैType . |
+| [Initialize](../../aspose.html.dom.svg.collections/svglistbase-1/initialize/)(SVGLength) |  |
+| [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/)(SVGLength, ulong) |  |
+| [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
+| [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase-1/replaceitem/)(SVGLength, ulong) |  |
+| override [ToString](../../aspose.html.dom.svg.datatypes/svglengthlist/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+
+### यह सभी देखें
+
+* class [SVGListBase&lt;T&gt;](../../aspose.html.dom.svg.collections/svglistbase-1/)
+* class [SVGLength](../svglength/)
+* नाम स्थान [Aspose.Html.Dom.Svg.DataTypes](../../aspose.html.dom.svg.datatypes/)
+* सभा [Aspose.HTML](../../)
+
+

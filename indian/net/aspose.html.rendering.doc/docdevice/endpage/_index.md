@@ -1,0 +1,23 @@
+---
+title: DocDevice.EndPage
+second_title: .NET API संदर्भ के लिए Aspose.HTML
+description: DocDevice तरक. वर्तमन पृष्ठ क प्रतपदन समप्त करत है
+type: docs
+weight: 110
+url: /hi/net/aspose.html.rendering.doc/docdevice/endpage/
+---
+## DocDevice.EndPage method
+
+वर्तमान पृष्ठ का प्रतिपादन समाप्त करता है।
+
+```csharp
+public override void EndPage()
+```
+
+### यह सभी देखें
+
+* class [DocDevice](../)
+* नाम स्थान [Aspose.Html.Rendering.Doc](../../docdevice/)
+* सभा [Aspose.HTML](../../../)
+
+

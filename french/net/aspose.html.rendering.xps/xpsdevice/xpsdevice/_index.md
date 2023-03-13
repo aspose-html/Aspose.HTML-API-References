@@ -1,14 +1,14 @@
 ---
-title: XpsDevice
+title: XpsDevice.XpsDevice
 second_title: Référence de l'API Aspose.HTML pour .NET
-description: Initialise une nouvelle instance duXpsDeviceaspose.html.rendering.xps/xpsdevice classe.
+description: XpsDevice constructeur. Initialise une nouvelle instance duXpsDevice classe.
 type: docs
 weight: 10
 url: /fr/net/aspose.html.rendering.xps/xpsdevice/xpsdevice/
 ---
 ## XpsDevice(ICreateStreamProvider) {#constructor}
 
-Initialise une nouvelle instance du[`XpsDevice`](../../xpsdevice) classe.
+Initialise une nouvelle instance du[`XpsDevice`](../) classe.
 
 ```csharp
 public XpsDevice(ICreateStreamProvider streamProvider)
@@ -20,16 +20,16 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 ### Voir également
 
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* espace de noms [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* espace de noms [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, ICreateStreamProvider) {#constructor_1}
 
-Initialise une nouvelle instance du[`XpsDevice`](../../xpsdevice) classe en rendant les options et le fournisseur de flux.
+Initialise une nouvelle instance du[`XpsDevice`](../) classe en rendant les options et le fournisseur de flux.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvider)
@@ -38,21 +38,21 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 | Paramètre | Taper | La description |
 | --- | --- | --- |
 | options | XpsRenderingOptions | Options de rendu. |
-| streamProvider | ICreateStreamProvider | Objet qui implémente le[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider) interface |
+| streamProvider | ICreateStreamProvider | Objet qui implémente le[`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface |
 
 ### Voir également
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider)
-* class [XpsDevice](../../xpsdevice)
-* espace de noms [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [XpsDevice](../)
+* espace de noms [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(string) {#constructor_5}
 
-Initialise une nouvelle instance du[`XpsDevice`](../../xpsdevice) classe.
+Initialise une nouvelle instance du[`XpsDevice`](../) classe.
 
 ```csharp
 public XpsDevice(string file)
@@ -64,15 +64,15 @@ public XpsDevice(string file)
 
 ### Voir également
 
-* class [XpsDevice](../../xpsdevice)
-* espace de noms [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* espace de noms [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, string) {#constructor_3}
 
-Initialise une nouvelle instance du[`XpsDevice`](../../xpsdevice) classe en rendant les options et le nom du fichier de sortie.
+Initialise une nouvelle instance du[`XpsDevice`](../) classe en rendant les options et le nom du fichier de sortie.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, string file)
@@ -85,16 +85,16 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 ### Voir également
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* espace de noms [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* espace de noms [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(Stream) {#constructor_4}
 
-Initialise une nouvelle instance du[`XpsDevice`](../../xpsdevice) classe.
+Initialise une nouvelle instance du[`XpsDevice`](../) classe.
 
 ```csharp
 public XpsDevice(Stream stream)
@@ -106,15 +106,15 @@ public XpsDevice(Stream stream)
 
 ### Voir également
 
-* class [XpsDevice](../../xpsdevice)
-* espace de noms [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsDevice](../)
+* espace de noms [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * Assemblée [Aspose.HTML](../../../)
 
 ---
 
 ## XpsDevice(XpsRenderingOptions, Stream) {#constructor_2}
 
-Initialise une nouvelle instance du[`XpsDevice`](../../xpsdevice)classe en rendant les options et le flux de sortie.
+Initialise une nouvelle instance du[`XpsDevice`](../)classe en rendant les options et le flux de sortie.
 
 ```csharp
 public XpsDevice(XpsRenderingOptions options, Stream stream)
@@ -127,9 +127,9 @@ public XpsDevice(XpsRenderingOptions options, Stream stream)
 
 ### Voir également
 
-* class [XpsRenderingOptions](../../xpsrenderingoptions)
-* class [XpsDevice](../../xpsdevice)
-* espace de noms [Aspose.Html.Rendering.Xps](../../xpsdevice)
+* class [XpsRenderingOptions](../../xpsrenderingoptions/)
+* class [XpsDevice](../)
+* espace de noms [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * Assemblée [Aspose.HTML](../../../)
 
-<!-- DO NOT EDIT: generated by xmldocmd for Aspose.HTML.dll -->
+
