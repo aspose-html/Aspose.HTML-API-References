@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.FencedCodeBlock
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using FencedCodeBlockSyntax.CreateInstance
+description: MarkdownSyntaxFactory method. Creates FencedCodeBlockSyntaxNode
 type: docs
 weight: 120
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/fencedcodeblock/
 ---
 ## MarkdownSyntaxFactory.FencedCodeBlock method
 
-Creates objects using FencedCodeBlockSyntax.CreateInstance.
+Creates [`FencedCodeBlockSyntaxNode`](../../fencedcodeblocksyntaxnode/).
 
 ```csharp
 public FencedCodeBlockSyntaxNode FencedCodeBlock(MarkdownSyntaxToken opening, TextSyntaxNode info, 

@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.UnorderedListItem
 second_title: Aspose.HTML for .NET API Reference
 description: MarkdownSyntaxFactory method. Creates a new instance of the ListItemSyntaxNode class with unordered list item marker
 type: docs
-weight: 480
+weight: 490
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/unorderedlistitem/
 ---
 ## MarkdownSyntaxFactory.UnorderedListItem method

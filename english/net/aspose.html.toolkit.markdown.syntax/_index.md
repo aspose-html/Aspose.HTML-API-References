@@ -41,7 +41,7 @@ The **Aspose.Html.Toolkit.Markdown.Syntax** namespace contains objects and inter
 | [ListItemSyntaxNode](./listitemsyntaxnode/) | Represent the ListItemSyntaxNode. |
 | [ListSyntaxNode](./listsyntaxnode/) | Base implementation of the ListSyntaxNode. |
 | [MarkdownException](./markdownexception/) | The Markdown exception |
-| [MarkdownSyntaxFactory](./markdownsyntaxfactory/) | Creates objects using CreateInstance |
+| [MarkdownSyntaxFactory](./markdownsyntaxfactory/) | Factory used to create various [`MarkdownSyntaxNode`](../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/) descendants. |
 | [MarkdownSyntaxNode](./markdownsyntaxnode/) | Base implementation of the MarkdownSyntaxNode. |
 | [MarkdownSyntaxNodeFilter](./markdownsyntaxnodefilter/) | Base implementation of the MarkdownSyntaxNodeFilter. |
 | [MarkdownSyntaxToken](./markdownsyntaxtoken/) | Represent the Markdown Syntax Token. |

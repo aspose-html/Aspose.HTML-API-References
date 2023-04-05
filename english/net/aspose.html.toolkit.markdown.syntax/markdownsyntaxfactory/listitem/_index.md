@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.ListItem
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using ListItemSyntax.CreateInstance
+description: MarkdownSyntaxFactory method. Creates ListItemSyntaxNode
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/listitem/
 ---
 ## MarkdownSyntaxFactory.ListItem method
 
-Creates objects using ListItemSyntax.CreateInstance.
+Creates [`ListItemSyntaxNode`](../../listitemsyntaxnode/).
 
 ```csharp
 public ListItemSyntaxNode ListItem(ListItemMarker marker)

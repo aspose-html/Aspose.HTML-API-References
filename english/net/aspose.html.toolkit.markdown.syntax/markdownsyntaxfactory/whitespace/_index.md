@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.Whitespace
 second_title: Aspose.HTML for .NET API Reference
 description: MarkdownSyntaxFactory method. Create the WhitespaceSyntax
 type: docs
-weight: 490
+weight: 500
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/
 ---
 ## Whitespace(int) {#whitespace_2}
@@ -59,7 +59,7 @@ The WhitespaceSyntax.
 
 ## Whitespace(SourceText, TextSpan) {#whitespace_1}
 
-Creates objects using WhitespaceSyntax.CreateWhitespaceInstance
+Creates [`WhitespaceSyntaxNode`](../../whitespacesyntaxnode/).
 
 ```csharp
 public WhitespaceSyntaxNode Whitespace(SourceText source, TextSpan span)

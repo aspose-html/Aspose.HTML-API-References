@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.InlineContainer
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using InlineContainerSyntax.CreateInstance
+description: MarkdownSyntaxFactory method. Creates InlineContainerSyntaxNode
 type: docs
 weight: 200
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinecontainer/
 ---
 ## MarkdownSyntaxFactory.InlineContainer method
 
-Creates objects using InlineContainerSyntax.CreateInstance
+Creates [`InlineContainerSyntaxNode`](../../inlinecontainersyntaxnode/).
 
 ```csharp
 public InlineContainerSyntaxNode InlineContainer()

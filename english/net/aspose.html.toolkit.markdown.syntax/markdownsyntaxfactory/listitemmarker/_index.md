@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.ListItemMarker
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using OrderedListItemMarker.CreateInstance
+description: MarkdownSyntaxFactory method. Creates ListItemMarker
 type: docs
-weight: 280
+weight: 290
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/listitemmarker/
 ---
 ## ListItemMarker(MarkdownSyntaxToken, MarkdownSyntaxToken) {#listitemmarker_1}
 
-Creates objects using OrderedListItemMarker.CreateInstance.
+Creates [`ListItemMarker`](../../listitemmarker/).
 
 ```csharp
 public ListItemMarker ListItemMarker(MarkdownSyntaxToken number, MarkdownSyntaxToken delimiter)
@@ -35,7 +35,7 @@ The ListItemMarker.
 
 ## ListItemMarker(MarkdownSyntaxToken) {#listitemmarker}
 
-Creates objects using UnorderedListItemMarker.CreateInstance.
+Creates [`ListItemMarker`](../../listitemmarker/).
 
 ```csharp
 public ListItemMarker ListItemMarker(MarkdownSyntaxToken token)

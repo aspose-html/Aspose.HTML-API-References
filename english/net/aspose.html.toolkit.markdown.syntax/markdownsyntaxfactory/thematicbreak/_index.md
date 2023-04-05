@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.ThematicBreak
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using ThematicBreakSyntax.CreateInstance
+description: MarkdownSyntaxFactory method. Creates ThematicBreakSyntaxNode
 type: docs
-weight: 440
+weight: 450
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/thematicbreak/
 ---
 ## MarkdownSyntaxFactory.ThematicBreak method
 
-Creates objects using ThematicBreakSyntax.CreateInstance.
+Creates [`ThematicBreakSyntaxNode`](../../thematicbreaksyntaxnode/).
 
 ```csharp
 public ThematicBreakSyntaxNode ThematicBreak(MarkdownSyntaxToken tag)

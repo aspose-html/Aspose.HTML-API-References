@@ -18,7 +18,7 @@ public sealed class YamlSequenceSyntaxNode : ChildFrontMatterSyntaxNode
 
 | Name | Description |
 | --- | --- |
-| [YamlSequenceSyntaxNode](yamlsequencesyntaxnode/)(HugoFrontMatterSyntaxNode,  ​ ) |  |
+| [YamlSequenceSyntaxNode](yamlsequencesyntaxnode/)(HugoFrontMatterSyntaxNode, f) |  |
 
 ## Properties
 
