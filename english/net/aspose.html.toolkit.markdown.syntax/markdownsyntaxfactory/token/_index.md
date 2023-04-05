@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.Token
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using MarkdownSyntaxToken.CreateInstance
+description: MarkdownSyntaxFactory method. Creates MarkdownSyntaxToken
 type: docs
-weight: 450
+weight: 460
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/token/
 ---
 ## Token(SourceText, TextSpan) {#token_1}
 
-Creates objects using MarkdownSyntaxToken.CreateInstance
+Creates [`MarkdownSyntaxToken`](../../markdownsyntaxtoken/).
 
 ```csharp
 public MarkdownSyntaxToken Token(SourceText source, TextSpan span)
@@ -36,7 +36,7 @@ The MarkdownSyntaxToken.
 
 ## Token(SourceText) {#token}
 
-Creates objects using MarkdownSyntaxToken.CreateInstance
+Creates [`MarkdownSyntaxToken`](../../markdownsyntaxtoken/).
 
 ```csharp
 public MarkdownSyntaxToken Token(SourceText source)

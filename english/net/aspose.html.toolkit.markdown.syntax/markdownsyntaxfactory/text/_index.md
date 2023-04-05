@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.Text
 second_title: Aspose.HTML for .NET API Reference
 description: MarkdownSyntaxFactory method. Creates TextSyntax
 type: docs
-weight: 430
+weight: 440
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/text/
 ---
 ## Text(string) {#text_2}

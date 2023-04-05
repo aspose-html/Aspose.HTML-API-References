@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.rendering/renderer-1/render/
 ---
-## Render(IDevice, TDocument) {#render_2}
+## Render(IDevice, TDocument) {#render_3}
 
 Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice/).
 
@@ -28,7 +28,7 @@ public void Render(IDevice device, TDocument document)
 
 ---
 
-## Render(IDevice, TDocument, TimeSpan) {#render_4}
+## Render(IDevice, TDocument, TimeSpan) {#render_5}
 
 Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
@@ -51,7 +51,7 @@ public void Render(IDevice device, TDocument document, TimeSpan timeout)
 
 ---
 
-## Render(IDevice, TDocument, int) {#render_3}
+## Render(IDevice, TDocument, int) {#render_4}
 
 Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
@@ -74,7 +74,7 @@ public void Render(IDevice device, TDocument document, int timeout)
 
 ---
 
-## Render(IDevice, params TDocument[]) {#render_5}
+## Render(IDevice, params TDocument[]) {#render_6}
 
 ```csharp
 public void Render(IDevice device, params TDocument[] documents)
@@ -104,10 +104,26 @@ public void Render(IDevice device, int timeout, params TDocument[] documents)
 
 ---
 
-## Render(IDevice, TimeSpan, params TDocument[]) {#render_1}
+## Render(IDevice, TimeSpan, params TDocument[]) {#render_2}
 
 ```csharp
 public abstract void Render(IDevice device, TimeSpan timeout, params TDocument[] documents)
+```
+
+### See Also
+
+* interface [IDevice](../../idevice/)
+* class [Renderer&lt;TDocument&gt;](../)
+* namespace [Aspose.Html.Rendering](../../renderer-1/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## Render(IDevice, CancellationToken, params TDocument[]) {#render_1}
+
+```csharp
+public abstract void Render(IDevice device, CancellationToken cancellationToken, 
+    params TDocument[] documents)
 ```
 
 ### See Also

@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.BlockProxy
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using Syntax.BlockProxy.CreateInstance
+description: MarkdownSyntaxFactory method. Creates BlockProxy
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/blockproxy/
 ---
 ## MarkdownSyntaxFactory.BlockProxy method
 
-Creates objects using Syntax.BlockProxy.CreateInstance
+Creates [`BlockProxy`](../../blockproxy/).
 
 ```csharp
 public BlockProxy BlockProxy(MarkdownSyntaxNode node)

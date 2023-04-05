@@ -59,7 +59,7 @@ The AtxHeadingSyntax.
 
 ## AtxHeading(MarkdownSyntaxToken, MarkdownSyntaxToken) {#atxheading}
 
-Creates objects using AtxHeadingSyntax.CreateInstance
+Creates [`AtxHeadingSyntaxNode`](../../atxheadingsyntaxnode/).
 
 ```csharp
 public AtxHeadingSyntaxNode AtxHeading(MarkdownSyntaxToken opening, MarkdownSyntaxToken closing)

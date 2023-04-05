@@ -11,12 +11,12 @@ url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/markdownsyntaxt
 Creates the MarkdownSyntaxTree
 
 ```csharp
-public MarkdownSyntaxTree(Configuration config)
+public MarkdownSyntaxTree(Configuration configuration)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| config | Configuration | The Configuration. |
+| configuration | Configuration | The Configuration. |
 
 ### See Also
 

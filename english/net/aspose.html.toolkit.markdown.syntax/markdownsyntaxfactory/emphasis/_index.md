@@ -34,7 +34,7 @@ The EmphasisSyntax.
 
 ## Emphasis(MarkdownSyntaxToken, MarkdownSyntaxToken) {#emphasis_1}
 
-Creates objects using EmphasisSyntax.CreateInstance.
+Creates [`EmphasisSyntaxNode`](../../emphasissyntaxnode/).
 
 ```csharp
 public EmphasisSyntaxNode Emphasis(MarkdownSyntaxToken opening, MarkdownSyntaxToken closing)

@@ -54,7 +54,7 @@ The CodeSpanSyntax.
 
 ## CodeSpan(MarkdownSyntaxToken, MarkdownSyntaxToken) {#codespan_1}
 
-Creates objects using CodeSpanSyntax.CreateInstance
+Creates [`CodeSpanSyntaxNode`](../../codespansyntaxnode/).
 
 ```csharp
 public CodeSpanSyntaxNode CodeSpan(MarkdownSyntaxToken opening, MarkdownSyntaxToken closing)

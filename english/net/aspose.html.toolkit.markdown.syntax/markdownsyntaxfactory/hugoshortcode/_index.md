@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.HugoShortCode
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using HugoShortCodeSyntax.CreateInstance
+description: MarkdownSyntaxFactory method. Creates HugoShortCodeSyntaxNode
 type: docs
 weight: 160
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hugoshortcode/
 ---
 ## MarkdownSyntaxFactory.HugoShortCode method
 
-Creates objects using HugoShortCodeSyntax.CreateInstance
+Creates [`HugoShortCodeSyntaxNode`](../../../aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/).
 
 ```csharp
 public HugoShortCodeSyntaxNode HugoShortCode(MarkdownSyntaxToken opening, 

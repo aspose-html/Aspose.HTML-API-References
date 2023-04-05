@@ -1,14 +1,14 @@
 ---
 title: LinkReferenceDefinitionSyntaxNode.GetTitle
 second_title: Aspose.HTML for .NET API Reference
-description: LinkReferenceDefinitionSyntaxNode method. Defines the interface for get title
+description: LinkReferenceDefinitionSyntaxNode method. Returns the link reference title
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/gettitle/
 ---
 ## LinkReferenceDefinitionSyntaxNode.GetTitle method
 
-Defines the interface for get title.
+Returns the link reference title.
 
 ```csharp
 public LinkTitleSyntaxNode GetTitle()
@@ -16,7 +16,7 @@ public LinkTitleSyntaxNode GetTitle()
 
 ### Return Value
 
-The LinkTitleSyntax.
+The [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/) object.
 
 ### See Also
 

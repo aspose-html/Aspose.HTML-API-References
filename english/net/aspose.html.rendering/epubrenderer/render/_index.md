@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.html.rendering/epubrenderer/render/
 ---
-## Render(IDevice, TimeSpan, params Stream[]) {#render_9}
+## Render(IDevice, TimeSpan, params Stream[]) {#render_10}
 
 Defines method for rendering multiple EPub Streams into specific [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
@@ -18,6 +18,30 @@ public override void Render(IDevice device, TimeSpan timeout, params Stream[] do
 | --- | --- | --- |
 | device | IDevice | The output device. |
 | timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
+| documents | Stream[] | The documents to render. |
+
+### See Also
+
+* interface [IDevice](../../idevice/)
+* class [EpubRenderer](../)
+* namespace [Aspose.Html.Rendering](../../epubrenderer/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## Render(IDevice, CancellationToken, params Stream[]) {#render_9}
+
+Defines a method for rendering multiple EPub documents into a specific [`IDevice`](../../idevice/), using a cancellation token to request cancellation of the operation.
+
+```csharp
+public override void Render(IDevice device, CancellationToken cancellationToken, 
+    params Stream[] documents)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| device | IDevice | The output device. |
+| cancellationToken | CancellationToken | A CancellationToken to observe while waiting for the task to complete. |
 | documents | Stream[] | The documents to render. |
 
 ### See Also

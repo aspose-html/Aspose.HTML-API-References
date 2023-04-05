@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.Table
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using TableSyntax.CreateInstance
+description: MarkdownSyntaxFactory method. Creates TableSyntaxNode
 type: docs
-weight: 370
+weight: 380
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/table/
 ---
 ## MarkdownSyntaxFactory.Table method
 
-Creates objects using TableSyntax.CreateInstance.
+Creates [`TableSyntaxNode`](../../tablesyntaxnode/).
 
 ```csharp
 public TableSyntaxNode Table()

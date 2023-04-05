@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.CharacterReference
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using CharacterReferenceSyntax.CreateInstance
+description: MarkdownSyntaxFactory method. Creates WhitespaceSyntaxNode
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/characterreference/
 ---
 ## MarkdownSyntaxFactory.CharacterReference method
 
-Creates objects using CharacterReferenceSyntax.CreateInstance.
+Creates [`WhitespaceSyntaxNode`](../../whitespacesyntaxnode/).
 
 ```csharp
 public CharacterReferenceSyntaxNode CharacterReference(SourceText source, TextSpan span, 

@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.TaskListItem
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using TaskListItemSyntax.CreateInstance
+description: MarkdownSyntaxFactory method. Creates TaskListItemSyntaxNode
 type: docs
-weight: 410
+weight: 420
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tasklistitem/
 ---
 ## MarkdownSyntaxFactory.TaskListItem method
 
-Creates objects using TaskListItemSyntax.CreateInstance.
+Creates [`TaskListItemSyntaxNode`](../../tasklistitemsyntaxnode/).
 
 ```csharp
 public TaskListItemSyntaxNode TaskListItem(ListItemMarker marker, TaskListItemMarker taskItemMarker)

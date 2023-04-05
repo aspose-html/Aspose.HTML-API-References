@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.AutoLink
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using AutoLinkSyntax.CreateInstance
+description: MarkdownSyntaxFactory method. Creates AutoLinkSyntaxNode
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/autolink/
 ---
 ## MarkdownSyntaxFactory.AutoLink method
 
-Creates objects using AutoLinkSyntax.CreateInstance
+Creates [`AutoLinkSyntaxNode`](../../autolinksyntaxnode/).
 
 ```csharp
 public AutoLinkSyntaxNode AutoLink(MarkdownSyntaxToken opening, TextSyntaxNode content, 

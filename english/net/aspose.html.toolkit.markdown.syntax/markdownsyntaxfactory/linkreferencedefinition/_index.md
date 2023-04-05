@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.LinkReferenceDefinition
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using LinkReferenceDefinitionSyntax.CreateInstance
+description: MarkdownSyntaxFactory method. Creates LinkReferenceDefinitionSyntaxNode
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkreferencedefinition/
 ---
 ## MarkdownSyntaxFactory.LinkReferenceDefinition method
 
-Creates objects using LinkReferenceDefinitionSyntax.CreateInstance.
+Creates [`LinkReferenceDefinitionSyntaxNode`](../../linkreferencedefinitionsyntaxnode/).
 
 ```csharp
 public LinkReferenceDefinitionSyntaxNode LinkReferenceDefinition(MarkdownSyntaxToken labelOpening, 

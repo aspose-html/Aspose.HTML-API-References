@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.InlineProxy
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using Syntax.InlineProxy.CreateInstance
+description: MarkdownSyntaxFactory method. Creates InlineProxy
 type: docs
 weight: 230
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlineproxy/
 ---
 ## MarkdownSyntaxFactory.InlineProxy method
 
-Creates objects using Syntax.InlineProxy.CreateInstance
+Creates [`InlineProxy`](../../inlineproxy/).
 
 ```csharp
 public InlineProxy InlineProxy(MarkdownSyntaxNode node)

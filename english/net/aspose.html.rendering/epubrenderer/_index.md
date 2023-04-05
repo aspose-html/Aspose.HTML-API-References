@@ -27,12 +27,13 @@ public class EpubRenderer : Renderer<Stream>
 | [Dispose](../../aspose.html.rendering/renderer/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 | [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, Stream) |  |
 | [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, params Stream[]) |  |
+| override [Render](../../aspose.html.rendering/epubrenderer/render/#render_9)(IDevice, CancellationToken, params Stream[]) | Defines a method for rendering multiple EPub documents into a specific [`IDevice`](../idevice/), using a cancellation token to request cancellation of the operation. |
 | [Render](../../aspose.html.rendering/epubrenderer/render/#render_1)(IDevice, IList&lt;Stream&gt;, Configuration) | Renders multiple EPub documents into specified [`IDevice`](../idevice/). |
 | [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, int, params Stream[]) |  |
 | [Render](../../aspose.html.rendering/epubrenderer/render/#render_4)(IDevice, Stream, Configuration) | Renders EPub document into specified [`IDevice`](../idevice/). |
 | [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, Stream, int) |  |
 | [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, Stream, TimeSpan) |  |
-| override [Render](../../aspose.html.rendering/epubrenderer/render/#render_9)(IDevice, TimeSpan, params Stream[]) | Defines method for rendering multiple EPub Streams into specific [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
+| override [Render](../../aspose.html.rendering/epubrenderer/render/#render_10)(IDevice, TimeSpan, params Stream[]) | Defines method for rendering multiple EPub Streams into specific [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
 | [Render](../../aspose.html.rendering/epubrenderer/render/#render_2)(IDevice, IList&lt;Stream&gt;, Configuration, TimeSpan) | Renders multiple EPub documents into specified [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
 | [Render](../../aspose.html.rendering/epubrenderer/render/#render_5)(IDevice, Stream, Configuration, TimeSpan) | Renders EPub document into specified [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
 

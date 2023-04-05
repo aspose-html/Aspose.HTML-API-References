@@ -1,14 +1,14 @@
 ---
 title: MarkdownSyntaxFactory.ReferenceLink
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates objects using ReferenceLinkSyntax.CreateInstance
+description: MarkdownSyntaxFactory method. Creates ReferenceLinkSyntaxNode
 type: docs
-weight: 340
+weight: 350
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/referencelink/
 ---
 ## MarkdownSyntaxFactory.ReferenceLink method
 
-Creates objects using ReferenceLinkSyntax.CreateInstance
+Creates [`ReferenceLinkSyntaxNode`](../../referencelinksyntaxnode/).
 
 ```csharp
 public ReferenceLinkSyntaxNode ReferenceLink(MarkdownSyntaxToken contentOpening, 
