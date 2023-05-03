@@ -3,7 +3,7 @@ title: MutationCallback Delegate
 second_title: Aspose.HTML for .NET API Reference
 description: Represents the method that will handle a mutation events
 type: docs
-weight: 960
+weight: 970
 url: /net/aspose.html.dom.mutations/mutationcallback/
 ---
 ## MutationCallback delegate

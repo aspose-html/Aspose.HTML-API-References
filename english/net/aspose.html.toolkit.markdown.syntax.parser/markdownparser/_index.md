@@ -3,7 +3,7 @@ title: MarkdownParser Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Parser.MarkdownParser class. Represents an MarkDown format document parser
 type: docs
-weight: 5490
+weight: 5480
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownparser/
 ---
 ## MarkdownParser class

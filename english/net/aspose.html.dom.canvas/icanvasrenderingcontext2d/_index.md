@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Canvas.ICanvasRenderingContext2D interface. The ICanvasRenderingContext2D interface is used for drawing rectangles text images and other objects onto the canvas element. It provides the 2D rendering context for the drawing surface of a canvas element
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/
 ---
 ## ICanvasRenderingContext2D interface

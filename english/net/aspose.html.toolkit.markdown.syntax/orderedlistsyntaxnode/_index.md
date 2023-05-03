@@ -3,7 +3,7 @@ title: OrderedListSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.OrderedListSyntaxNode class. Represent the Ordered list syntax
 type: docs
-weight: 5310
+weight: 5300
 url: /net/aspose.html.toolkit.markdown.syntax/orderedlistsyntaxnode/
 ---
 ## OrderedListSyntaxNode class

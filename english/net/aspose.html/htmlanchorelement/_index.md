@@ -3,7 +3,7 @@ title: HTMLAnchorElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLAnchorElement class. The anchor element. See the A element definition in HTML 4.01
 type: docs
-weight: 3060
+weight: 3070
 url: /net/aspose.html/htmlanchorelement/
 ---
 ## HTMLAnchorElement class

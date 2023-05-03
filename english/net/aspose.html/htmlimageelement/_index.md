@@ -3,7 +3,7 @@ title: HTMLImageElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLImageElement class. Embedded image. See the IMG element definition in HTML 4.01
 type: docs
-weight: 3310
+weight: 3320
 url: /net/aspose.html/htmlimageelement/
 ---
 ## HTMLImageElement class

@@ -11,7 +11,7 @@ url: /net/aspose.html/configuration/
 Represents the configuration context object that is used to set up the environment settings for the application. Managing configuration you can override document style applying a custom user stylesheet, or handle any web requests from the application as well as to configure scripts policy. Details are in [Environment Configuration guide](https://docs.aspose.com/html/net/working-with-documents/environment-configuration/).
 
 ```csharp
-public class Configuration : IServiceContainer
+public class Configuration : IDisposable, IServiceProvider
 ```
 
 ## Constructors
@@ -30,9 +30,11 @@ public class Configuration : IServiceContainer
 
 | Name | Description |
 | --- | --- |
-| [AddService&lt;TService&gt;](../../aspose.html/configuration/addservice/)(TService) | Adds the specified service to the configuration. |
+| static [Create](../../aspose.html/configuration/create/#create)() | Create and configure the instance of Configuration object. |
+| static [Create](../../aspose.html/configuration/create/#create_1)(Action&lt;IConfigurationBuilder&gt;) | Create and configure the instance of Configuration object. |
 | [Dispose](../../aspose.html/configuration/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
-| [GetService&lt;TService&gt;](../../aspose.html/configuration/getservice/)() | Gets the requested service. |
+| [GetService](../../aspose.html/configuration/getservice/#getservice)(Type) | Gets the requested service. |
+| [GetService&lt;T&gt;](../../aspose.html/configuration/getservice/#getservice_1)() | Gets the requested service. |
 
 ## Remarks
 
@@ -124,6 +126,5 @@ public void SandboxingSample()
 
 ### See Also
 
-* interface [IServiceContainer](../../aspose.html.services/iservicecontainer/)
 * namespace [Aspose.Html](../../aspose.html/)
 * assembly [Aspose.HTML](../../)

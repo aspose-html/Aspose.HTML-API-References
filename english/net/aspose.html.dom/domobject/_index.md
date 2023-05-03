@@ -3,7 +3,7 @@ title: DOMObject Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.DOMObject class. The DOMObject type is used to represent an base object for the entire Document Object Model. For Java and ECMAScript DOMObject is bound to the Object type
 type: docs
-weight: 650
+weight: 660
 url: /net/aspose.html.dom/domobject/
 ---
 ## DOMObject class

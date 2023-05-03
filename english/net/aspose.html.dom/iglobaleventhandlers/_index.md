@@ -3,7 +3,7 @@ title: IGlobalEventHandlers Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.IGlobalEventHandlers interface. Represents interface that must be inherited by all element that is supported system event handling
 type: docs
-weight: 920
+weight: 930
 url: /net/aspose.html.dom/iglobaleventhandlers/
 ---
 ## IGlobalEventHandlers interface

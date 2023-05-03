@@ -3,7 +3,7 @@ title: IOutputStorage Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.IO.IOutputStorage interface. Provides the creation and management of output streams OutputStream
 type: docs
-weight: 3740
+weight: 3760
 url: /net/aspose.html.io/ioutputstorage/
 ---
 ## IOutputStorage interface

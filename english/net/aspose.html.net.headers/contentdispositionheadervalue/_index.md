@@ -3,7 +3,7 @@ title: ContentDispositionHeaderValue Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Net.Headers.ContentDispositionHeaderValue class. Represent Content-Disposition header value
 type: docs
-weight: 3890
+weight: 3910
 url: /net/aspose.html.net.headers/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue class

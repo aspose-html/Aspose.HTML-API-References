@@ -3,7 +3,7 @@ title: SVGLineElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.SVGLineElement class. The SVGLineElement interface corresponds to the line element
 type: docs
-weight: 2130
+weight: 2140
 url: /net/aspose.html.dom.svg/svglineelement/
 ---
 ## SVGLineElement class

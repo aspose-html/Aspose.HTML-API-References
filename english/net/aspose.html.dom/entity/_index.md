@@ -3,7 +3,7 @@ title: Entity Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Entity class. Represents a known entity either parsed or unparsed in an XML document
 type: docs
-weight: 700
+weight: 710
 url: /net/aspose.html.dom/entity/
 ---
 ## Entity class

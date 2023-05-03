@@ -3,7 +3,7 @@ title: INonElementParentNode Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.INonElementParentNode interface. Defines IParentNode that are not Element type
 type: docs
-weight: 940
+weight: 950
 url: /net/aspose.html.dom/inonelementparentnode/
 ---
 ## INonElementParentNode interface

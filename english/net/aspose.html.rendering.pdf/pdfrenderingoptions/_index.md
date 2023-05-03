@@ -3,7 +3,7 @@ title: PdfRenderingOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Pdf.PdfRenderingOptions class. Represents rendering options for PdfDevice
 type: docs
-weight: 4480
+weight: 4500
 url: /net/aspose.html.rendering.pdf/pdfrenderingoptions/
 ---
 ## PdfRenderingOptions class

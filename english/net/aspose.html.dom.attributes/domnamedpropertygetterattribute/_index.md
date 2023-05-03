@@ -3,7 +3,7 @@ title: DOMNamedPropertyGetterAttribute Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Attributes.DOMNamedPropertyGetterAttribute class. Specifies that the method will be used as named property getter
 type: docs
-weight: 150
+weight: 160
 url: /net/aspose.html.dom.attributes/domnamedpropertygetterattribute/
 ---
 ## DOMNamedPropertyGetterAttribute class

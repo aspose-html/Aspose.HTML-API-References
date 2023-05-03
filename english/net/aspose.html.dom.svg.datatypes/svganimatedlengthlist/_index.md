@@ -3,7 +3,7 @@ title: SVGAnimatedLengthList Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.DataTypes.SVGAnimatedLengthList class. Used for attributes of type SVGLengthList which can be animated
 type: docs
-weight: 1120
+weight: 1130
 url: /net/aspose.html.dom.svg.datatypes/svganimatedlengthlist/
 ---
 ## SVGAnimatedLengthList class

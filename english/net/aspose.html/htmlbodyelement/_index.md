@@ -3,7 +3,7 @@ title: HTMLBodyElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLBodyElement class. The HTML document body. This element is always present in the DOM API even if the tags are not present in the source document. See the BODY element definition in HTML 4.01
 type: docs
-weight: 3120
+weight: 3130
 url: /net/aspose.html/htmlbodyelement/
 ---
 ## HTMLBodyElement class

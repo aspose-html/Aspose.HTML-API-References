@@ -3,7 +3,7 @@ title: EntityReference Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.EntityReference class. EntityReference nodes may be used to represent an entity reference in the tree
 type: docs
-weight: 710
+weight: 720
 url: /net/aspose.html.dom/entityreference/
 ---
 ## EntityReference class
