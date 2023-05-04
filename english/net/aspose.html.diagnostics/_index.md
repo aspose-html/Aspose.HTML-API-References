@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /net/aspose.html.diagnostics/
 ---
-
+ The **Aspose.Html.Diagnostics** namespace contains interfaces for working with metrics and collecting logs and traces. 
 
 ## Interfaces
 
