@@ -3,7 +3,7 @@ title: Aspose.Html.Toolkit.Markdown.Syntax.Parser
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Toolkit.Markdown.Syntax.Parser namespace contains objects and methods that allow you to parse the markdown document
 type: docs
-weight: 400
+weight: 410
 url: /net/aspose.html.toolkit.markdown.syntax.parser/
 ---
 The **Aspose.Html.Toolkit.Markdown.Syntax.Parser** namespace contains objects and methods that allow you to parse the markdown document.

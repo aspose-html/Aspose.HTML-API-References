@@ -9,7 +9,7 @@ url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/ya
 ## YamlScalarSyntaxNode constructor
 
 ```csharp
-public YamlScalarSyntaxNode(HugoFrontMatterSyntaxNode owner, e adaptee)
+public YamlScalarSyntaxNode(HugoFrontMatterSyntaxNode owner, f adaptee)
 ```
 
 ### See Also

@@ -3,7 +3,7 @@ title: IUserAgentService Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Services.IUserAgentService interface. An interface that is described a user agent environment
 type: docs
-weight: 4780
+weight: 4770
 url: /net/aspose.html.services/iuseragentservice/
 ---
 ## IUserAgentService interface
@@ -11,7 +11,7 @@ url: /net/aspose.html.services/iuseragentservice/
 An interface that is described a user agent environment.
 
 ```csharp
-public interface IUserAgentService : IService
+public interface IUserAgentService
 ```
 
 ## Properties
@@ -26,6 +26,5 @@ public interface IUserAgentService : IService
 
 ### See Also
 
-* interface [IService](../iservice/)
 * namespace [Aspose.Html.Services](../../aspose.html.services/)
 * assembly [Aspose.HTML](../../)

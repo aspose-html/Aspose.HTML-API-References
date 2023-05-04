@@ -3,7 +3,7 @@ title: ICanvasPathMethods Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Canvas.ICanvasPathMethods interface. The ICanvasPathMethods interface is used to manipulate paths of objects
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.html.dom.canvas/icanvaspathmethods/
 ---
 ## ICanvasPathMethods interface

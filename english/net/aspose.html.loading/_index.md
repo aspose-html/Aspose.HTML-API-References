@@ -3,7 +3,7 @@ title: Aspose.Html.Loading
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Loading namespace contains data classes for description of specific load options at conversion/merging process
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.html.loading/
 ---
 The **Aspose.Html.Loading** namespace contains data classes for description of specific load options at conversion/merging process.

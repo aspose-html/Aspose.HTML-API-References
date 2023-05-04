@@ -6,13 +6,36 @@ type: docs
 weight: 50
 url: /net/aspose.html/configuration/getservice/
 ---
-## Configuration.GetService&lt;TService&gt; method
+## GetService(Type) {#getservice}
 
 Gets the requested service.
 
 ```csharp
-public TService GetService<TService>()
-    where TService : class, IService
+public object GetService(Type serviceType)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| serviceType | Type | The type of service to retrieve. |
+
+### Return Value
+
+An instance of the service if it could be found, or null if it could not be found
+
+### See Also
+
+* class [Configuration](../)
+* namespace [Aspose.Html](../../configuration/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## GetService&lt;T&gt;() {#getservice_1}
+
+Gets the requested service.
+
+```csharp
+public T GetService<T>()
 ```
 
 | Parameter | Description |
@@ -25,7 +48,6 @@ An instance of the service if it could be found, or null if it could not be foun
 
 ### See Also
 
-* interface [IService](../../../aspose.html.services/iservice/)
 * class [Configuration](../)
 * namespace [Aspose.Html](../../configuration/)
 * assembly [Aspose.HTML](../../../)

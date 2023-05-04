@@ -3,7 +3,7 @@ title: ShadowRoot Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.ShadowRoot class. ShadowRoot is a root node of shadow tree
 type: docs
-weight: 1030
+weight: 1040
 url: /net/aspose.html.dom/shadowroot/
 ---
 ## ShadowRoot class

@@ -3,7 +3,7 @@ title: HTMLSelectElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLSelectElement class. The select element allows the selection of an option. The contained options can be directly accessed through the select element as a collection. See the SELECT element definition in HTML 4.01
 type: docs
-weight: 3520
+weight: 3530
 url: /net/aspose.html/htmlselectelement/
 ---
 ## HTMLSelectElement class

@@ -3,7 +3,7 @@ title: IXPathNamespace Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.XPath.IXPathNamespace interface. The XPathNamespace interface is returned by XPathResult interfaces to represent the XPath namespace node type that DOM lacks
 type: docs
-weight: 2590
+weight: 2600
 url: /net/aspose.html.dom.xpath/ixpathnamespace/
 ---
 ## IXPathNamespace interface

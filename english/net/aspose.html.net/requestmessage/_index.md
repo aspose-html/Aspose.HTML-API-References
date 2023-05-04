@@ -3,7 +3,7 @@ title: RequestMessage Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Net.RequestMessage class. Represents a request message
 type: docs
-weight: 4050
+weight: 4070
 url: /net/aspose.html.net/requestmessage/
 ---
 ## RequestMessage class

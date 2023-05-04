@@ -3,7 +3,7 @@ title: Aspose.Html.Rendering.Fonts
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Rendering.Fonts namespace contains classes and methods that allows you to control some parts of the font matching algorithm
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.html.rendering.fonts/
 ---
 The **Aspose.Html.Rendering.Fonts** namespace contains classes and methods that allows you to control some parts of the font matching algorithm.

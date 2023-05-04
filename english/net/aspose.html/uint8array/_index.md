@@ -3,7 +3,7 @@ title: Uint8Array Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Uint8Array class. Represents an array of twos-complement 8-bit unsigned integers
 type: docs
-weight: 5830
+weight: 5820
 url: /net/aspose.html/uint8array/
 ---
 ## Uint8Array class

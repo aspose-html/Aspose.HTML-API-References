@@ -3,7 +3,7 @@ title: Aspose.Html.Saving
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Saving namespace is presented by data classes for description of specific save options at conversion/saving process
 type: docs
-weight: 360
+weight: 370
 url: /net/aspose.html.saving/
 ---
 The **Aspose.Html.Saving** namespace is presented by data classes for description of specific save options at conversion/saving process.

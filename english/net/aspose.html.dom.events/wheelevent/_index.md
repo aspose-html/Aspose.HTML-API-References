@@ -3,7 +3,7 @@ title: WheelEvent Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Events.WheelEvent class. The WheelEvent interface provides specific contextual information associated with wheel events. To create an instance of the WheelEvent interface use the WheelEvent constructor passing an optional WheelEventInit dictionary
 type: docs
-weight: 860
+weight: 870
 url: /net/aspose.html.dom.events/wheelevent/
 ---
 ## WheelEvent class

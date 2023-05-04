@@ -3,7 +3,7 @@ title: SVGScriptElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.SVGScriptElement class. The SVGScriptElement interface corresponds to the script element
 type: docs
-weight: 2270
+weight: 2280
 url: /net/aspose.html.dom.svg/svgscriptelement/
 ---
 ## SVGScriptElement class

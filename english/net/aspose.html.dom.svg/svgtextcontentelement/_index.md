@@ -3,7 +3,7 @@ title: SVGTextContentElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.SVGTextContentElement class. The SVGTextContentElement is inherited by various text-related interfaces such as SVGTextElement SVGTSpanElement SVGTRefElement SVGAltGlyphElement and SVGTextPathElement. For the methods on this interface that refer to an index to a character or a number of characters these references are to be interpreted as an index to a UTF-16 code unit or a number of UTF-16 code units respectively. This is for consistency with DOM Level 2 Core where methods on the CharacterData interface use UTF-16 code units as indexes and counts within the character data.Thus for example if the text content of a text element is a single non-BMP character such as U10000 then invoking getNumberOfChars on that element will return 2 since there are two UTF-16 code unitsthe surrogate pair used to represent that one character
 type: docs
-weight: 2340
+weight: 2350
 url: /net/aspose.html.dom.svg/svgtextcontentelement/
 ---
 ## SVGTextContentElement class

@@ -3,7 +3,7 @@ title: Dimension Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.Dimension class. Provides the base class for dimensions. The general term dimension refers to a number with a unit attached to it and are denoted by UnitType
 type: docs
-weight: 2660
+weight: 2670
 url: /net/aspose.html.drawing/dimension/
 ---
 ## Dimension class

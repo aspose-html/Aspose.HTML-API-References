@@ -3,7 +3,7 @@ title: XPathResultType Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.XPath.XPathResultType enum. An unsigned short indicating what type of result this is. If a specific type is specified then the result will be returned as the corresponding type using XPath type conversions where required and possible
 type: docs
-weight: 2610
+weight: 2620
 url: /net/aspose.html.dom.xpath/xpathresulttype/
 ---
 ## XPathResultType enumeration

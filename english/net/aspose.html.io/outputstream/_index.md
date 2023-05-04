@@ -3,7 +3,7 @@ title: OutputStream Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.IO.OutputStream class. A surrogate stream wraps the real output stream and controls access to it.OutputStream contains URI data that describes location of the output stream
 type: docs
-weight: 3750
+weight: 3770
 url: /net/aspose.html.io/outputstream/
 ---
 ## OutputStream class
@@ -37,10 +37,10 @@ public class OutputStream : Stream
 | --- | --- |
 | override [Close](../../aspose.html.io/outputstream/close/)() | Closes the wrapped output stream and current stream. |
 | override [Flush](../../aspose.html.io/outputstream/flush/)() | Clears all buffers for the wrapped output stream and causes any buffered data to be written to the underlying device. |
-| override [Read](../../aspose.html.io/outputstream/read/)(byte[], int, int) | Reads a sequence of bytes from the wrapped output stream and advances the position within the stream by the number of bytes read. |
+| override [Read](../../aspose.html.io/outputstream/read/#read)(byte[], int, int) | Reads a sequence of bytes from the wrapped output stream and advances the position within the stream by the number of bytes read. |
 | override [Seek](../../aspose.html.io/outputstream/seek/)(long, SeekOrigin) | Sets the position within the wrapped output stream. |
 | override [SetLength](../../aspose.html.io/outputstream/setlength/)(long) | Sets the length of the wrapped output stream. |
-| override [Write](../../aspose.html.io/outputstream/write/)(byte[], int, int) | Writes a sequence of bytes to the wrapped output stream and advances the current position within this stream by the number of bytes written. |
+| override [Write](../../aspose.html.io/outputstream/write/#write)(byte[], int, int) | Writes a sequence of bytes to the wrapped output stream and advances the current position within this stream by the number of bytes written. |
 
 ### See Also
 

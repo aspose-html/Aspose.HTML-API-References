@@ -3,7 +3,7 @@ title: FormUrlEncodedContent Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Net.FormUrlEncodedContent class. A container for name/value tuples encoded using application/x-www-form-urlencoded MIME type
 type: docs
-weight: 3880
+weight: 3900
 url: /net/aspose.html.net/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent class

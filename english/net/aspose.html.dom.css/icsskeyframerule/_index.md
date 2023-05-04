@@ -3,7 +3,7 @@ title: ICSSKeyframeRule Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Css.ICSSKeyframeRule interface. The CSSKeyframeRule interface describes an object representing a set of styles for a given keyframe. It corresponds to the contents of a single keyframe of a keyframes at-rule
 type: docs
-weight: 420
+weight: 430
 url: /net/aspose.html.dom.css/icsskeyframerule/
 ---
 ## ICSSKeyframeRule interface

@@ -3,7 +3,7 @@ title: HTMLAppletElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLAppletElement class. An embedded Java applet. See the APPLET element definition in HTML 4.01. This element is deprecated in HTML 4.01
 type: docs
-weight: 3070
+weight: 3080
 url: /net/aspose.html/htmlappletelement/
 ---
 ## HTMLAppletElement class

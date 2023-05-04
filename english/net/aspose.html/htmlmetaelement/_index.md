@@ -3,7 +3,7 @@ title: HTMLMetaElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLMetaElement class. This contains generic meta-information about the document. See the META element definition in HTML 4.01
 type: docs
-weight: 3400
+weight: 3410
 url: /net/aspose.html/htmlmetaelement/
 ---
 ## HTMLMetaElement class

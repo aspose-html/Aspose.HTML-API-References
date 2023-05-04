@@ -3,7 +3,7 @@ title: DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContext
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Device2PageWritingStrategyTGraphicContextTRenderingOptions enum. Specifies types of strategies for writing pages into output streamstreams
 type: docs
-weight: 4170
+weight: 4190
 url: /net/aspose.html.rendering/device-2.pagewritingstrategy-2/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt; enumeration

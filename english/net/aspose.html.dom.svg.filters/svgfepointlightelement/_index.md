@@ -3,7 +3,7 @@ title: SVGFEPointLightElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.Filters.SVGFEPointLightElement class. The SVGFEPointLightElement interface corresponds to the fePointLight element
 type: docs
-weight: 1560
+weight: 1570
 url: /net/aspose.html.dom.svg.filters/svgfepointlightelement/
 ---
 ## SVGFEPointLightElement class

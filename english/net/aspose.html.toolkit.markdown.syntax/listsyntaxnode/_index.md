@@ -3,7 +3,7 @@ title: ListSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.ListSyntaxNode class. Base implementation of the ListSyntaxNode
 type: docs
-weight: 5170
+weight: 5160
 url: /net/aspose.html.toolkit.markdown.syntax/listsyntaxnode/
 ---
 ## ListSyntaxNode class
