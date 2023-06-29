@@ -17,7 +17,7 @@ public MultipartFormDataContent()
 ### See Also
 
 * class [MultipartFormDataContent](../)
-* namespace [Aspose.Html.Net](../../multipartformdatacontent/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -37,5 +37,5 @@ public MultipartFormDataContent(string boundary)
 ### See Also
 
 * class [MultipartFormDataContent](../)
-* namespace [Aspose.Html.Net](../../multipartformdatacontent/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The ‘preserveAspectRatio’ of the given element.
 
 * class [SVGAnimatedPreserveAspectRatio](../../../aspose.html.dom.svg.datatypes/svganimatedpreserveaspectratio/)
 * class [SVGPatternElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgpatternelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

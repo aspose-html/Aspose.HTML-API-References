@@ -17,5 +17,5 @@ public static readonly byte BYTES_PER_ELEMENT;
 ### See Also
 
 * class [Int16Array](../)
-* namespace [Aspose.Html](../../int16array/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

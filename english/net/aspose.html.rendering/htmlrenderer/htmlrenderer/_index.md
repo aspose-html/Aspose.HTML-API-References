@@ -17,5 +17,5 @@ public HtmlRenderer()
 ### See Also
 
 * class [HtmlRenderer](../)
-* namespace [Aspose.Html.Rendering](../../htmlrenderer/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

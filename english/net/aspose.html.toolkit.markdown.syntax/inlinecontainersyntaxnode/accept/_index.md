@@ -22,5 +22,5 @@ public override void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [InlineContainerSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../inlinecontainersyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

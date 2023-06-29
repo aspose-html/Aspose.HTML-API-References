@@ -18,5 +18,5 @@ public SourceText Source { get; }
 
 * class [SourceText](../../../aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * class [CharacterReferenceSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../characterreferencesyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

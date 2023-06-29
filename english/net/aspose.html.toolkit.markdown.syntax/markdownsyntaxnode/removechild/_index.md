@@ -25,5 +25,5 @@ The MarkdownSyntaxNode.
 ### See Also
 
 * class [MarkdownSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ public Element(IElementInit elementInit)
 
 * interface [IElementInit](../../ielementinit/)
 * class [Element](../)
-* namespace [Aspose.Html.Dom](../../element/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public MarkdownSaveOptions()
 ### See Also
 
 * class [MarkdownSaveOptions](../)
-* namespace [Aspose.Html.Saving](../../markdownsaveoptions/)
+* namespace [Aspose.Html.Saving](../../../aspose.html.saving/)
 * assembly [Aspose.HTML](../../../)

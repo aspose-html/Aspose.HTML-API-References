@@ -18,5 +18,5 @@ public override ChildFrontMatterSyntaxNode FrontMatterRootNode { get; }
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [HugoYamlBasedFrontMatterSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../hugoyamlbasedfrontmattersyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../../aspose.html.toolkit.markdown.syntax.extensions/)
 * assembly [Aspose.HTML](../../../)

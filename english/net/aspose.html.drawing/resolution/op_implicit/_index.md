@@ -15,7 +15,7 @@ public static implicit operator Resolution(double value)
 ### See Also
 
 * class [Resolution](../)
-* namespace [Aspose.Html.Drawing](../../resolution/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -29,5 +29,5 @@ public static implicit operator Resolution(float value)
 ### See Also
 
 * class [Resolution](../)
-* namespace [Aspose.Html.Drawing](../../resolution/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

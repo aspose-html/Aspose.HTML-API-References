@@ -17,5 +17,5 @@ public string Action { get; set; }
 ### See Also
 
 * class [FormEditor](../)
-* namespace [Aspose.Html.Forms](../../formeditor/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

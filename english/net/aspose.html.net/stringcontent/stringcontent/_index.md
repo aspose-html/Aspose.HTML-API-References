@@ -21,7 +21,7 @@ public StringContent(string content)
 ### See Also
 
 * class [StringContent](../)
-* namespace [Aspose.Html.Net](../../stringcontent/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -42,7 +42,7 @@ public StringContent(string content, Encoding encoding)
 ### See Also
 
 * class [StringContent](../)
-* namespace [Aspose.Html.Net](../../stringcontent/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -64,5 +64,5 @@ public StringContent(string content, Encoding encoding, string mediaType)
 ### See Also
 
 * class [StringContent](../)
-* namespace [Aspose.Html.Net](../../stringcontent/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

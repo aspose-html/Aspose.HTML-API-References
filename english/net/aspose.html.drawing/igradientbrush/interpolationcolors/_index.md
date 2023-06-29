@@ -22,5 +22,5 @@ Interpolation colors.
 
 * interface [IInterpolationColor](../../iinterpolationcolor/)
 * interface [IGradientBrush](../)
-* namespace [Aspose.Html.Drawing](../../igradientbrush/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The list style identifier.
 ### See Also
 
 * class [Counter](../)
-* namespace [Aspose.Html.Dom.Css](../../counter/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ public override void RenderTo(IDevice device)
 
 * interface [IDevice](../../../aspose.html.rendering/idevice/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

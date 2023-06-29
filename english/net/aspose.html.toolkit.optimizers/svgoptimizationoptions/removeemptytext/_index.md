@@ -17,5 +17,5 @@ public bool RemoveEmptyText { get; set; }
 ### See Also
 
 * class [SVGOptimizationOptions](../)
-* namespace [Aspose.Html.Toolkit.Optimizers](../../svgoptimizationoptions/)
+* namespace [Aspose.Html.Toolkit.Optimizers](../../../aspose.html.toolkit.optimizers/)
 * assembly [Aspose.HTML](../../../)

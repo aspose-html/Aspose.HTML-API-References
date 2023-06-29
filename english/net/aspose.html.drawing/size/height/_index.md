@@ -22,5 +22,5 @@ The vertical component of this [`Size`](../).
 
 * class [Length](../../length/)
 * class [Size](../)
-* namespace [Aspose.Html.Drawing](../../size/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ public ByteArrayContent(byte[] content)
 ### See Also
 
 * class [ByteArrayContent](../)
-* namespace [Aspose.Html.Net](../../bytearraycontent/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

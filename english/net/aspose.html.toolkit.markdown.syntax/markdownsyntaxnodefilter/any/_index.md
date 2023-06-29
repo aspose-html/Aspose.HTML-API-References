@@ -17,5 +17,5 @@ public static readonly MarkdownSyntaxNodeFilter Any;
 ### See Also
 
 * class [MarkdownSyntaxNodeFilter](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxnodefilter/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

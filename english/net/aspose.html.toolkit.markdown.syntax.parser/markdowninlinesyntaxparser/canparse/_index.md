@@ -26,5 +26,5 @@ True if can parse.
 
 * interface [IInlineParsingContext](../../iinlineparsingcontext/)
 * class [MarkdownInlineSyntaxParser](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../markdowninlinesyntaxparser/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
 * assembly [Aspose.HTML](../../../)

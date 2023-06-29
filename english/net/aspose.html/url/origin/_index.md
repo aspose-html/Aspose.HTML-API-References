@@ -21,5 +21,5 @@ The origin.
 ### See Also
 
 * class [Url](../)
-* namespace [Aspose.Html](../../url/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

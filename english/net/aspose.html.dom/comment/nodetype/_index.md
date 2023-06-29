@@ -21,5 +21,5 @@ The type of the node.
 ### See Also
 
 * class [Comment](../)
-* namespace [Aspose.Html.Dom](../../comment/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

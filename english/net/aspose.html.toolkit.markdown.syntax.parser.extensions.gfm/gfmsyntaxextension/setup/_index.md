@@ -22,5 +22,5 @@ public override void Setup(IMarkdownParserBuilder builder)
 
 * interface [IMarkdownParserBuilder](../../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/)
 * class [GfmSyntaxExtension](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser.Extensions.GFM](../../gfmsyntaxextension/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser.Extensions.GFM](../../../aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/)
 * assembly [Aspose.HTML](../../../)

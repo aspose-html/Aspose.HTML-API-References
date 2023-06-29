@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [SVGAnimatedBoolean](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svganimatedboolean/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
 * assembly [Aspose.HTML](../../../)

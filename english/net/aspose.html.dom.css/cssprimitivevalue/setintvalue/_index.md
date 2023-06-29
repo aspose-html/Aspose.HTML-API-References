@@ -22,5 +22,5 @@ public abstract void SetIntValue(ushort unitType, int intValue)
 ### See Also
 
 * class [CSSPrimitiveValue](../)
-* namespace [Aspose.Html.Dom.Css](../../cssprimitivevalue/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

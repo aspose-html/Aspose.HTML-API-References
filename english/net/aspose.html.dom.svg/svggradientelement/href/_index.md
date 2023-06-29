@@ -22,5 +22,5 @@ The ‘xlink:href’ of the given element.
 
 * class [SVGAnimatedString](../../../aspose.html.dom.svg.datatypes/svganimatedstring/)
 * class [SVGGradientElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svggradientelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

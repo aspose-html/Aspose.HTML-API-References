@@ -32,5 +32,5 @@ The removed item.
 ### See Also
 
 * class [SVGListBase&lt;T&gt;](../)
-* namespace [Aspose.Html.Dom.Svg.Collections](../../svglistbase-1/)
+* namespace [Aspose.Html.Dom.Svg.Collections](../../../aspose.html.dom.svg.collections/)
 * assembly [Aspose.HTML](../../../)

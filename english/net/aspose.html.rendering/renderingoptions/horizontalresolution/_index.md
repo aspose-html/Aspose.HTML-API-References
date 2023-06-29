@@ -18,5 +18,5 @@ public virtual Resolution HorizontalResolution { get; set; }
 
 * class [Resolution](../../../aspose.html.drawing/resolution/)
 * class [RenderingOptions](../)
-* namespace [Aspose.Html.Rendering](../../renderingoptions/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

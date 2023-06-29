@@ -21,5 +21,5 @@ public override void Transform(Matrix matrix)
 ### See Also
 
 * class [DocGraphicContext](../)
-* namespace [Aspose.Html.Rendering.Doc](../../docdevice.docgraphiccontext/)
+* namespace [Aspose.Html.Rendering.Doc](../../../aspose.html.rendering.doc/)
 * assembly [Aspose.HTML](../../../)

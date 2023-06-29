@@ -29,5 +29,5 @@ public void NewValueSpecifiedUnits(ushort newUnitType, float valueInSpecifiedUni
 ### See Also
 
 * class [SVGAngle](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgangle/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
 * assembly [Aspose.HTML](../../../)

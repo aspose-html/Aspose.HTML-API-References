@@ -22,5 +22,5 @@ public void Set(string name, string value)
 ### See Also
 
 * interface [IUrlSearchParams](../)
-* namespace [Aspose.Html](../../iurlsearchparams/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

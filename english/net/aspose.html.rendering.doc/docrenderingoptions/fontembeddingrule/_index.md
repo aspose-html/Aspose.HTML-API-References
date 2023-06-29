@@ -18,5 +18,5 @@ public FontEmbeddingRule FontEmbeddingRule { get; set; }
 
 * enum [FontEmbeddingRule](../../fontembeddingrule/)
 * class [DocRenderingOptions](../)
-* namespace [Aspose.Html.Rendering.Doc](../../docrenderingoptions/)
+* namespace [Aspose.Html.Rendering.Doc](../../../aspose.html.rendering.doc/)
 * assembly [Aspose.HTML](../../../)

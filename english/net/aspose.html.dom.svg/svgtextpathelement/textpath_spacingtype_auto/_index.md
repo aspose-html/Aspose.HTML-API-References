@@ -17,5 +17,5 @@ public const ushort TEXTPATH_SPACINGTYPE_AUTO;
 ### See Also
 
 * class [SVGTextPathElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgtextpathelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

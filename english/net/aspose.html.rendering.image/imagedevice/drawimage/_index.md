@@ -24,5 +24,5 @@ public override void DrawImage(byte[] data, ImageType type, RectangleF rect)
 
 * enum [ImageType](../../../aspose.html.rendering/imagetype/)
 * class [ImageDevice](../)
-* namespace [Aspose.Html.Rendering.Image](../../imagedevice/)
+* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
 * assembly [Aspose.HTML](../../../)

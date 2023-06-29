@@ -22,5 +22,5 @@ The attribute ‘in’ of the given ‘feDiffuseLighting’ element.
 
 * class [SVGAnimatedString](../../../aspose.html.dom.svg.datatypes/svganimatedstring/)
 * class [SVGFEDiffuseLightingElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfediffuselightingelement/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public override string Value { get; set; }
 ### See Also
 
 * class [SelectElement](../)
-* namespace [Aspose.Html.Forms](../../selectelement/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

@@ -16,5 +16,5 @@ public static implicit operator LengthOrAuto(Length length)
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* namespace [Aspose.Html.Drawing](../../lengthorauto/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

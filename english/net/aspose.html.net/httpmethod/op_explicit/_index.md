@@ -15,5 +15,5 @@ public static explicit operator HttpMethod(string name)
 ### See Also
 
 * class [HttpMethod](../)
-* namespace [Aspose.Html.Net](../../httpmethod/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

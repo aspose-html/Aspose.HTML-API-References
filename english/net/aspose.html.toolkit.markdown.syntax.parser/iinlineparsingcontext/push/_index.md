@@ -22,7 +22,7 @@ public void Push(InlineSyntaxNode syntax)
 
 * class [InlineSyntaxNode](../../../aspose.html.toolkit.markdown.syntax/inlinesyntaxnode/)
 * interface [IInlineParsingContext](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../iinlineparsingcontext/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -43,5 +43,5 @@ public void Push(DelimiterRun delimiter)
 
 * class [DelimiterRun](../../delimiterrun/)
 * interface [IInlineParsingContext](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../iinlineparsingcontext/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
 * assembly [Aspose.HTML](../../../)

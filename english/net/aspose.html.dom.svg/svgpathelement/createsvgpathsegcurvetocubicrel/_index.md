@@ -32,5 +32,5 @@ A stand-alone, parentless SVGPathSegCurvetoCubicRel object.
 
 * class [SVGPathSegCurvetoCubicRel](../../../aspose.html.dom.svg.paths/svgpathsegcurvetocubicrel/)
 * class [SVGPathElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgpathelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

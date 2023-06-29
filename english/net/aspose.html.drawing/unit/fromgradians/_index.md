@@ -26,5 +26,5 @@ Returns a [`Angle`](../../angle/) object.
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* namespace [Aspose.Html.Drawing](../../unit/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

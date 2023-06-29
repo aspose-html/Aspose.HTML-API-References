@@ -22,5 +22,5 @@ public virtual void VisitEmptyLine(EmptyLineSyntaxNode textLine)
 
 * class [EmptyLineSyntaxNode](../../emptylinesyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public MediaType MediaType { get; set; }
 
 * enum [MediaType](../../mediatype/)
 * class [CssOptions](../)
-* namespace [Aspose.Html.Rendering](../../cssoptions/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

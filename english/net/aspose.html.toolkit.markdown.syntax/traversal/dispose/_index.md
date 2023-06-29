@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [Traversal](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../traversal/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

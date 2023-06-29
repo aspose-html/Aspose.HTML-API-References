@@ -18,5 +18,5 @@ public override Resolution HorizontalResolution { get; set; }
 
 * class [Resolution](../../../aspose.html.drawing/resolution/)
 * class [ImageRenderingOptions](../)
-* namespace [Aspose.Html.Rendering.Image](../../imagerenderingoptions/)
+* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
 * assembly [Aspose.HTML](../../../)

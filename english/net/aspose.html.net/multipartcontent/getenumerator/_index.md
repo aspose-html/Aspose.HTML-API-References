@@ -22,5 +22,5 @@ An IEnumerator object that can be used to iterate through the collection.
 
 * class [Content](../../content/)
 * class [MultipartContent](../)
-* namespace [Aspose.Html.Net](../../multipartcontent/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

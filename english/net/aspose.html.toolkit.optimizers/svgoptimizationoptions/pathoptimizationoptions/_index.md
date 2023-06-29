@@ -18,5 +18,5 @@ public SVGPathOptimizationOptions PathOptimizationOptions { get; set; }
 
 * class [SVGPathOptimizationOptions](../../svgpathoptimizationoptions/)
 * class [SVGOptimizationOptions](../)
-* namespace [Aspose.Html.Toolkit.Optimizers](../../svgoptimizationoptions/)
+* namespace [Aspose.Html.Toolkit.Optimizers](../../../aspose.html.toolkit.optimizers/)
 * assembly [Aspose.HTML](../../../)

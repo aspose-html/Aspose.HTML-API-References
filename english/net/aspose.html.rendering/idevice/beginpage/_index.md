@@ -21,5 +21,5 @@ public void BeginPage(SizeF size)
 ### See Also
 
 * interface [IDevice](../)
-* namespace [Aspose.Html.Rendering](../../idevice/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

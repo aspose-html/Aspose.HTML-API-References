@@ -18,5 +18,5 @@ public HTMLFormElement Form { get; }
 
 * class [HTMLFormElement](../../htmlformelement/)
 * class [HTMLLabelElement](../)
-* namespace [Aspose.Html](../../htmllabelelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

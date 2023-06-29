@@ -22,5 +22,5 @@ public MutationObserver(MutationCallback callback)
 
 * delegate [MutationCallback](../../mutationcallback/)
 * class [MutationObserver](../)
-* namespace [Aspose.Html.Dom.Mutations](../../mutationobserver/)
+* namespace [Aspose.Html.Dom.Mutations](../../../aspose.html.dom.mutations/)
 * assembly [Aspose.HTML](../../../)

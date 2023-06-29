@@ -22,5 +22,5 @@ The attribute pathLength on the given element.
 
 * class [SVGAnimatedNumber](../../../aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGGeometryElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svggeometryelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public IFileList Files { get; }
 
 * interface [IFileList](../../../aspose.html.io/ifilelist/)
 * class [HTMLInputElement](../)
-* namespace [Aspose.Html](../../htmlinputelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

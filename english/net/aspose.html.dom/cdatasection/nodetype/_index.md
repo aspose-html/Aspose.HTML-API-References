@@ -21,5 +21,5 @@ The type of the node.
 ### See Also
 
 * class [CDATASection](../)
-* namespace [Aspose.Html.Dom](../../cdatasection/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

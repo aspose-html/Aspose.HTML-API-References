@@ -17,5 +17,5 @@ public string Align { get; set; }
 ### See Also
 
 * class [HTMLParagraphElement](../)
-* namespace [Aspose.Html](../../htmlparagraphelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

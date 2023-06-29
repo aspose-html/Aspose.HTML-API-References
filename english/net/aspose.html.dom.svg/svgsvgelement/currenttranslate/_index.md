@@ -22,5 +22,5 @@ The current translate.
 
 * class [SVGPoint](../../../aspose.html.dom.svg.datatypes/svgpoint/)
 * class [SVGSVGElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgsvgelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

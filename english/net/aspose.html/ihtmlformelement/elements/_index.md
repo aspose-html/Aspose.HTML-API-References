@@ -22,5 +22,5 @@ The elements.
 
 * class [HTMLCollection](../../../aspose.html.collections/htmlcollection/)
 * interface [IHTMLFormElement](../)
-* namespace [Aspose.Html](../../ihtmlformelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

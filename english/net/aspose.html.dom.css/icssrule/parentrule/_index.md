@@ -21,5 +21,5 @@ A [`CSSRule`](../) which is the type of the containing rules. If the current rul
 ### See Also
 
 * interface [ICSSRule](../)
-* namespace [Aspose.Html.Dom.Css](../../icssrule/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

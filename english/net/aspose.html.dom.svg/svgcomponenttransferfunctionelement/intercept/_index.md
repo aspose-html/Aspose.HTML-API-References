@@ -22,5 +22,5 @@ The attribute ‘intercept’ of the given element.
 
 * class [SVGAnimatedNumber](../../../aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgcomponenttransferfunctionelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

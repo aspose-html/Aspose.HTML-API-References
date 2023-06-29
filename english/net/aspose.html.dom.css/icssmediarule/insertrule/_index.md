@@ -26,5 +26,5 @@ The insertRule(rule, index) method returns the result of invoking insert a CSS r
 ### See Also
 
 * interface [ICSSMediaRule](../)
-* namespace [Aspose.Html.Dom.Css](../../icssmediarule/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

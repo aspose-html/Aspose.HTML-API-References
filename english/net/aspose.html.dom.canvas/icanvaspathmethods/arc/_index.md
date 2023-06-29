@@ -25,7 +25,7 @@ public void Arc(double x, double y, double radius, double startAngle, double end
 ### See Also
 
 * interface [ICanvasPathMethods](../)
-* namespace [Aspose.Html.Dom.Canvas](../../icanvaspathmethods/)
+* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -51,5 +51,5 @@ public void Arc(double x, double y, double radius, double startAngle, double end
 ### See Also
 
 * interface [ICanvasPathMethods](../)
-* namespace [Aspose.Html.Dom.Canvas](../../icanvaspathmethods/)
+* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
 * assembly [Aspose.HTML](../../../)

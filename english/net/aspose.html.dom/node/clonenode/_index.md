@@ -23,7 +23,7 @@ The new [`Node`](../) cloned. The cloned node has no parent and is not part of t
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.Html.Dom](../../node/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -49,5 +49,5 @@ The new [Node](T:Aspose.Html.Dom.Node) cloned. The cloned node has no parent and
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.Html.Dom](../../node/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

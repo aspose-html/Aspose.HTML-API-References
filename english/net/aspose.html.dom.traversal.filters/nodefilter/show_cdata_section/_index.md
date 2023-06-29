@@ -17,5 +17,5 @@ public const long SHOW_CDATA_SECTION;
 ### See Also
 
 * class [NodeFilter](../)
-* namespace [Aspose.Html.Dom.Traversal.Filters](../../nodefilter/)
+* namespace [Aspose.Html.Dom.Traversal.Filters](../../../aspose.html.dom.traversal.filters/)
 * assembly [Aspose.HTML](../../../)

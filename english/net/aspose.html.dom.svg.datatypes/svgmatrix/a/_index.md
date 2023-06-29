@@ -27,5 +27,5 @@ The A component of the matrix.
 ### See Also
 
 * class [SVGMatrix](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgmatrix/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
 * assembly [Aspose.HTML](../../../)

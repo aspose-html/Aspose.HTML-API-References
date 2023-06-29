@@ -25,5 +25,5 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [ContentDispositionHeaderValue](../)
-* namespace [Aspose.Html.Net.Headers](../../contentdispositionheadervalue/)
+* namespace [Aspose.Html.Net.Headers](../../../aspose.html.net.headers/)
 * assembly [Aspose.HTML](../../../)

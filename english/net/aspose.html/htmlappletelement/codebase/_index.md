@@ -17,5 +17,5 @@ public string CodeBase { get; set; }
 ### See Also
 
 * class [HTMLAppletElement](../)
-* namespace [Aspose.Html](../../htmlappletelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

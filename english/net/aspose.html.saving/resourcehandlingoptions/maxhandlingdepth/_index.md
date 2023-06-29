@@ -17,5 +17,5 @@ public int MaxHandlingDepth { get; set; }
 ### See Also
 
 * class [ResourceHandlingOptions](../)
-* namespace [Aspose.Html.Saving](../../resourcehandlingoptions/)
+* namespace [Aspose.Html.Saving](../../../aspose.html.saving/)
 * assembly [Aspose.HTML](../../../)

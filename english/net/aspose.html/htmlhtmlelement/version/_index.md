@@ -17,5 +17,5 @@ public string Version { get; set; }
 ### See Also
 
 * class [HTMLHtmlElement](../)
-* namespace [Aspose.Html](../../htmlhtmlelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

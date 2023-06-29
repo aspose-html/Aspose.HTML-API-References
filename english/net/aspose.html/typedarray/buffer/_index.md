@@ -22,5 +22,5 @@ The buffer.
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [TypedArray](../)
-* namespace [Aspose.Html](../../typedarray/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

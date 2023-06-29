@@ -21,5 +21,5 @@ The what to show.
 ### See Also
 
 * interface [ITraversal](../)
-* namespace [Aspose.Html.Dom.Traversal](../../itraversal/)
+* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
 * assembly [Aspose.HTML](../../../)

@@ -27,5 +27,5 @@ public virtual void OnClose(BlockSyntaxDescriptor descriptor, MarkdownSyntaxNode
 * class [MarkdownSyntaxNode](../../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/)
 * interface [IBlockParsingContext](../../iblockparsingcontext/)
 * class [MarkdownBlockParser](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../markdownblockparser/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
 * assembly [Aspose.HTML](../../../)

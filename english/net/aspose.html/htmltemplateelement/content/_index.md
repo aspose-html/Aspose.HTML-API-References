@@ -22,5 +22,5 @@ The content.
 
 * class [DocumentFragment](../../../aspose.html.dom/documentfragment/)
 * class [HTMLTemplateElement](../)
-* namespace [Aspose.Html](../../htmltemplateelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

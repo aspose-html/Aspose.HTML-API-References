@@ -22,5 +22,5 @@ public void SetMeteredKey(string publicKey, string privateKey)
 ### See Also
 
 * class [Metered](../)
-* namespace [Aspose.Html](../../metered/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ public MarkdownException(string message)
 ### See Also
 
 * class [MarkdownException](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownexception/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

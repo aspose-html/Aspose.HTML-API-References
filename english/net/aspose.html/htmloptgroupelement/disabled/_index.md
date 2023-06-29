@@ -17,5 +17,5 @@ public bool Disabled { get; set; }
 ### See Also
 
 * class [HTMLOptGroupElement](../)
-* namespace [Aspose.Html](../../htmloptgroupelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

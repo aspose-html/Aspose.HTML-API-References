@@ -21,5 +21,5 @@ Encoded int.
 ### See Also
 
 * class [Color](../)
-* namespace [Aspose.Html.Drawing](../../color/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

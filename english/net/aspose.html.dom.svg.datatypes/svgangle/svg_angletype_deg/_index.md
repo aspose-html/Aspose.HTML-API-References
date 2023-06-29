@@ -17,5 +17,5 @@ public const ushort SVG_ANGLETYPE_DEG;
 ### See Also
 
 * class [SVGAngle](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgangle/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
 * assembly [Aspose.HTML](../../../)

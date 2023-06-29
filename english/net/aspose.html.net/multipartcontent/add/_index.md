@@ -22,5 +22,5 @@ public virtual void Add(Content content)
 
 * class [Content](../../content/)
 * class [MultipartContent](../)
-* namespace [Aspose.Html.Net](../../multipartcontent/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

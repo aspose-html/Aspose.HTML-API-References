@@ -17,5 +17,5 @@ public string Action { get; set; }
 ### See Also
 
 * class [FormSubmitter](../)
-* namespace [Aspose.Html.Forms](../../formsubmitter/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

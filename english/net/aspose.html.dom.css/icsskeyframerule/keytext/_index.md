@@ -21,5 +21,5 @@ Returns the keyframe selector as a comma-separated list of percentage values.
 ### See Also
 
 * interface [ICSSKeyframeRule](../)
-* namespace [Aspose.Html.Dom.Css](../../icsskeyframerule/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

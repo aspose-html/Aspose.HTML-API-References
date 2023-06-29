@@ -25,5 +25,5 @@ The !:T.
 ### See Also
 
 * class [TypedArray&lt;T&gt;](../)
-* namespace [Aspose.Html](../../typedarray-1/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

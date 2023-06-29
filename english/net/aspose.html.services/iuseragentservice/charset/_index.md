@@ -21,5 +21,5 @@ The character set.
 ### See Also
 
 * interface [IUserAgentService](../)
-* namespace [Aspose.Html.Services](../../iuseragentservice/)
+* namespace [Aspose.Html.Services](../../../aspose.html.services/)
 * assembly [Aspose.HTML](../../../)

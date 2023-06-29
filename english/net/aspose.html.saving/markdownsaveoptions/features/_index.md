@@ -18,5 +18,5 @@ public MarkdownFeatures Features { get; set; }
 
 * enum [MarkdownFeatures](../../markdownfeatures/)
 * class [MarkdownSaveOptions](../)
-* namespace [Aspose.Html.Saving](../../markdownsaveoptions/)
+* namespace [Aspose.Html.Saving](../../../aspose.html.saving/)
 * assembly [Aspose.HTML](../../../)

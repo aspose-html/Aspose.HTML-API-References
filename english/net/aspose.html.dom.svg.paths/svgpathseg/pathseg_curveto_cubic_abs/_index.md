@@ -17,5 +17,5 @@ public const ushort PATHSEG_CURVETO_CUBIC_ABS;
 ### See Also
 
 * class [SVGPathSeg](../)
-* namespace [Aspose.Html.Dom.Svg.Paths](../../svgpathseg/)
+* namespace [Aspose.Html.Dom.Svg.Paths](../../../aspose.html.dom.svg.paths/)
 * assembly [Aspose.HTML](../../../)

@@ -25,5 +25,5 @@ The boolean.
 ### See Also
 
 * interface [IInlinePostProcessingContext](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../iinlinepostprocessingcontext/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ A new instance of the [`Color`](../../color/) class
 
 * class [Color](../../color/)
 * interface [IColorComponents](../)
-* namespace [Aspose.Html.Drawing](../../icolorcomponents/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

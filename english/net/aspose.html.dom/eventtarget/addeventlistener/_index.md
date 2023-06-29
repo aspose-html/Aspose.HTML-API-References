@@ -30,7 +30,7 @@ If an is added to an while it is processing an event, it will not be triggered b
 
 * delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler/)
 * class [EventTarget](../)
-* namespace [Aspose.Html.Dom](../../eventtarget/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -58,7 +58,7 @@ If an is added to an while it is processing an event, it will not be triggered b
 
 * interface [IEventListener](../../../aspose.html.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* namespace [Aspose.Html.Dom](../../eventtarget/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -87,5 +87,5 @@ If an is added to an while it is processing an event, it will not be triggered b
 
 * interface [IEventListener](../../../aspose.html.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* namespace [Aspose.Html.Dom](../../eventtarget/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The name.
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* namespace [Aspose.Html.IO](../../filecreatestreamprovider/)
+* namespace [Aspose.Html.IO](../../../aspose.html.io/)
 * assembly [Aspose.HTML](../../../)

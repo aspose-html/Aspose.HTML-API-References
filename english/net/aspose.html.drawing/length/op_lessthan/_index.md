@@ -15,5 +15,5 @@ public static bool operator <(Length a, Length b)
 ### See Also
 
 * class [Length](../)
-* namespace [Aspose.Html.Drawing](../../length/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

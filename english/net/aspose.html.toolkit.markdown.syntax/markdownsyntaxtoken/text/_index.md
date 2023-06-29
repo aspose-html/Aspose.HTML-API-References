@@ -17,5 +17,5 @@ public string Text { get; }
 ### See Also
 
 * class [MarkdownSyntaxToken](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxtoken/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

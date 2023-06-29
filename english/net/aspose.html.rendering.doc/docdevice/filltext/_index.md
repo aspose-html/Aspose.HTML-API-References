@@ -22,5 +22,5 @@ public override void FillText(string text, PointF pt)
 ### See Also
 
 * class [DocDevice](../)
-* namespace [Aspose.Html.Rendering.Doc](../../docdevice/)
+* namespace [Aspose.Html.Rendering.Doc](../../../aspose.html.rendering.doc/)
 * assembly [Aspose.HTML](../../../)

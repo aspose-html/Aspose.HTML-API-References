@@ -26,7 +26,7 @@ Returns node.
 
 * class [Element](../../../aspose.html.dom/element/)
 * interface [IHTMLOptionsCollection](../)
-* namespace [Aspose.Html](../../ihtmloptionscollection/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -51,5 +51,5 @@ Returns node.
 
 * class [Element](../../../aspose.html.dom/element/)
 * interface [IHTMLOptionsCollection](../)
-* namespace [Aspose.Html](../../ihtmloptionscollection/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ A footer element (`TFOOT`).
 
 * class [Element](../../../aspose.html.dom/element/)
 * class [HTMLTableElement](../)
-* namespace [Aspose.Html](../../htmltableelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

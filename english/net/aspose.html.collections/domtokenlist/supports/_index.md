@@ -25,5 +25,5 @@ A Boolean indicating whether the token was found.
 ### See Also
 
 * class [DOMTokenList](../)
-* namespace [Aspose.Html.Collections](../../domtokenlist/)
+* namespace [Aspose.Html.Collections](../../../aspose.html.collections/)
 * assembly [Aspose.HTML](../../../)

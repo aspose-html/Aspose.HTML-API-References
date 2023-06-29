@@ -22,5 +22,5 @@ The type of the content.
 
 * class [ContentTypeHeaderValue](../../../aspose.html.net.headers/contenttypeheadervalue/)
 * class [ResponseHeaders](../)
-* namespace [Aspose.Html.Net](../../responseheaders/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

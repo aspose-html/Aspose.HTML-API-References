@@ -22,5 +22,5 @@ public override void Setup(IMarkdownParserBuilder builder)
 
 * interface [IMarkdownParserBuilder](../../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/)
 * class [HugoSyntaxExtension](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../hugosyntaxextension/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../../aspose.html.toolkit.markdown.syntax.extensions/)
 * assembly [Aspose.HTML](../../../)

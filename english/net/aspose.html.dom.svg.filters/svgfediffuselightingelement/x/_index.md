@@ -22,5 +22,5 @@ The attribute ‘x’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGFEDiffuseLightingElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfediffuselightingelement/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
 * assembly [Aspose.HTML](../../../)

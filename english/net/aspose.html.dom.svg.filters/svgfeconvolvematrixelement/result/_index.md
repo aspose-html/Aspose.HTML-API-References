@@ -22,5 +22,5 @@ The attribute ‘result’ of the given ‘filter’ element.
 
 * class [SVGAnimatedString](../../../aspose.html.dom.svg.datatypes/svganimatedstring/)
 * class [SVGFEConvolveMatrixElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfeconvolvematrixelement/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
 * assembly [Aspose.HTML](../../../)

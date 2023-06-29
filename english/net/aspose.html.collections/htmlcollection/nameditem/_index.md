@@ -26,5 +26,5 @@ The matched element
 
 * class [Element](../../../aspose.html.dom/element/)
 * class [HTMLCollection](../)
-* namespace [Aspose.Html.Collections](../../htmlcollection/)
+* namespace [Aspose.Html.Collections](../../../aspose.html.collections/)
 * assembly [Aspose.HTML](../../../)

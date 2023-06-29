@@ -22,7 +22,7 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* namespace [Aspose.Html.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -45,7 +45,7 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* namespace [Aspose.Html.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -65,7 +65,7 @@ public XpsDevice(string file)
 ### See Also
 
 * class [XpsDevice](../)
-* namespace [Aspose.Html.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -87,7 +87,7 @@ public XpsDevice(XpsRenderingOptions options, string file)
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* namespace [Aspose.Html.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -107,7 +107,7 @@ public XpsDevice(Stream stream)
 ### See Also
 
 * class [XpsDevice](../)
-* namespace [Aspose.Html.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -129,5 +129,5 @@ public XpsDevice(XpsRenderingOptions options, Stream stream)
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* namespace [Aspose.Html.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
 * assembly [Aspose.HTML](../../../)

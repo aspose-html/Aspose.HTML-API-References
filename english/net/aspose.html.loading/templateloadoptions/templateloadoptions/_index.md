@@ -17,5 +17,5 @@ public TemplateLoadOptions()
 ### See Also
 
 * class [TemplateLoadOptions](../)
-* namespace [Aspose.Html.Loading](../../templateloadoptions/)
+* namespace [Aspose.Html.Loading](../../../aspose.html.loading/)
 * assembly [Aspose.HTML](../../../)

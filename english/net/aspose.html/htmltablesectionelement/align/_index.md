@@ -17,5 +17,5 @@ public string Align { get; set; }
 ### See Also
 
 * class [HTMLTableSectionElement](../)
-* namespace [Aspose.Html](../../htmltablesectionelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

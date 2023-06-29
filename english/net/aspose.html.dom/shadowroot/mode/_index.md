@@ -18,5 +18,5 @@ public ShadowRootMode Mode { get; }
 
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [ShadowRoot](../)
-* namespace [Aspose.Html.Dom](../../shadowroot/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

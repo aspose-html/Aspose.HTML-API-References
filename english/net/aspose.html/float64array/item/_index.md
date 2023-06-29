@@ -25,5 +25,5 @@ The Double.
 ### See Also
 
 * class [Float64Array](../)
-* namespace [Aspose.Html](../../float64array/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

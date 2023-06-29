@@ -22,5 +22,5 @@ The filters.
 
 * class [MessageFilter](../../messagefilter/)
 * class [MessageHandler](../)
-* namespace [Aspose.Html.Net](../../messagehandler/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

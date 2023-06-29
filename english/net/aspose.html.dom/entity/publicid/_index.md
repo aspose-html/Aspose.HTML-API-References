@@ -21,5 +21,5 @@ The public identifier.
 ### See Also
 
 * class [Entity](../)
-* namespace [Aspose.Html.Dom](../../entity/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

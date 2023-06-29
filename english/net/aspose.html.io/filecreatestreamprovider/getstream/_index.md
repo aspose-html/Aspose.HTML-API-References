@@ -26,7 +26,7 @@ A Stream object that is used for writing data during the rendering operations.
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* namespace [Aspose.Html.IO](../../filecreatestreamprovider/)
+* namespace [Aspose.Html.IO](../../../aspose.html.io/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -52,5 +52,5 @@ A Stream object that is used for writing data during the rendering operations.
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* namespace [Aspose.Html.IO](../../filecreatestreamprovider/)
+* namespace [Aspose.Html.IO](../../../aspose.html.io/)
 * assembly [Aspose.HTML](../../../)

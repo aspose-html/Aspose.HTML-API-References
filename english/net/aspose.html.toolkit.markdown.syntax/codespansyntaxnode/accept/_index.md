@@ -22,5 +22,5 @@ public override void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [CodeSpanSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../codespansyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

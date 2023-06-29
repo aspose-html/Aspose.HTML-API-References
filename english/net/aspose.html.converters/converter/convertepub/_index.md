@@ -91,7 +91,7 @@ Converter.ConvertEPUB(stream, new ImageSaveOptions(ImageFormat.Jpeg), Path.Combi
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -189,7 +189,7 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -290,7 +290,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -385,7 +385,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -484,7 +484,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -568,7 +568,7 @@ using Aspose.Html.Drawing;
 
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -639,7 +639,7 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -718,7 +718,7 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 * class [Url](../../../aspose.html/url/)
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -798,7 +798,7 @@ Converter.ConvertEPUB(stream, new Configuration(), options, savePath);
 * class [Configuration](../../../aspose.html/configuration/)
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -872,7 +872,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 * class [Configuration](../../../aspose.html/configuration/)
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -947,7 +947,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 * class [Configuration](../../../aspose.html/configuration/)
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1034,7 +1034,7 @@ using Aspose.Html.Saving;
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1107,7 +1107,7 @@ Converter.ConvertEPUB(sourcePath, options, sp);
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1181,7 +1181,7 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1256,7 +1256,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1331,7 +1331,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1407,7 +1407,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1479,7 +1479,7 @@ Converter.ConvertEPUB(inputStream, options, resultPath);
 
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1550,7 +1550,7 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1622,7 +1622,7 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 * class [Url](../../../aspose.html/url/)
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1697,7 +1697,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
 * class [Configuration](../../../aspose.html/configuration/)
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1771,7 +1771,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 * class [Configuration](../../../aspose.html/configuration/)
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1846,7 +1846,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 * class [Configuration](../../../aspose.html/configuration/)
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1920,7 +1920,7 @@ Converter.ConvertEPUB(inputStream, options, sp);
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1994,7 +1994,7 @@ Converter.ConvertEPUB(sourcePath, options, sp);
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2074,7 +2074,7 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2155,7 +2155,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2231,7 +2231,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2315,7 +2315,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2386,7 +2386,7 @@ Converter.ConvertEPUB(inputStream, options, resultPath);
 
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2457,7 +2457,7 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2529,7 +2529,7 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 * class [Url](../../../aspose.html/url/)
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2608,7 +2608,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
 * class [Configuration](../../../aspose.html/configuration/)
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2687,7 +2687,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 * class [Configuration](../../../aspose.html/configuration/)
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2770,7 +2770,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 * class [Configuration](../../../aspose.html/configuration/)
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2844,7 +2844,7 @@ Converter.ConvertEPUB(inputStream, options, sp);
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2918,7 +2918,7 @@ Converter.ConvertEPUB(sourcePath, options, sp);
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2998,7 +2998,7 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3074,7 +3074,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3155,7 +3155,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3231,7 +3231,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3322,7 +3322,7 @@ Converter.ConvertEPUB(inputStream, options, resultPath);
 
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3413,7 +3413,7 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3505,7 +3505,7 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 * class [Url](../../../aspose.html/url/)
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3599,7 +3599,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
 * class [Configuration](../../../aspose.html/configuration/)
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3693,7 +3693,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 * class [Configuration](../../../aspose.html/configuration/)
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3788,7 +3788,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 * class [Configuration](../../../aspose.html/configuration/)
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3882,5 +3882,5 @@ Converter.ConvertEPUB(inputStream, options, sp);
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)

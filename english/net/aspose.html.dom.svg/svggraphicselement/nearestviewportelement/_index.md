@@ -22,5 +22,5 @@ The nearest viewport element.
 
 * class [SVGElement](../../svgelement/)
 * class [SVGGraphicsElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svggraphicselement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

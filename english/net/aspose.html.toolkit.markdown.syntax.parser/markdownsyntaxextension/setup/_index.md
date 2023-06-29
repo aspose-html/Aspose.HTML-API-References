@@ -22,5 +22,5 @@ public abstract void Setup(IMarkdownParserBuilder builder)
 
 * interface [IMarkdownParserBuilder](../../imarkdownparserbuilder/)
 * class [MarkdownSyntaxExtension](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../markdownsyntaxextension/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
 * assembly [Aspose.HTML](../../../)

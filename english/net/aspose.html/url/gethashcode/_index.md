@@ -21,5 +21,5 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [Url](../)
-* namespace [Aspose.Html](../../url/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

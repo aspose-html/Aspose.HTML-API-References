@@ -17,5 +17,5 @@ public override void SaveGraphicContext()
 ### See Also
 
 * class [DocDevice](../)
-* namespace [Aspose.Html.Rendering.Doc](../../docdevice/)
+* namespace [Aspose.Html.Rendering.Doc](../../../aspose.html.rendering.doc/)
 * assembly [Aspose.HTML](../../../)

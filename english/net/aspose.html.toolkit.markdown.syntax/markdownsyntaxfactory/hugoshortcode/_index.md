@@ -30,5 +30,5 @@ The HugoShortCodeSyntax.
 * class [HugoShortCodeSyntaxNode](../../../aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/)
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [MarkdownSyntaxFactory](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

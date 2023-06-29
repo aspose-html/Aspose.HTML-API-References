@@ -17,5 +17,5 @@ public const ushort SVG_EDGEMODE_WRAP;
 ### See Also
 
 * class [SVGFEConvolveMatrixElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfeconvolvematrixelement/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
 * assembly [Aspose.HTML](../../../)

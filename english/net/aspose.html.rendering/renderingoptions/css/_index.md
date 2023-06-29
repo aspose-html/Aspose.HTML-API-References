@@ -22,5 +22,5 @@ The [`CssOptions`](../../cssoptions/) object.
 
 * class [CssOptions](../../cssoptions/)
 * class [RenderingOptions](../)
-* namespace [Aspose.Html.Rendering](../../renderingoptions/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

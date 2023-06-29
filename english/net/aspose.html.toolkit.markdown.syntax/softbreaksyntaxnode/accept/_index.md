@@ -22,5 +22,5 @@ public override void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [SoftBreakSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../softbreaksyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

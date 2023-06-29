@@ -21,5 +21,5 @@ Gets and sets the custom-ident defined as the name for the associated rule.
 ### See Also
 
 * interface [ICSSCounterStyleRule](../)
-* namespace [Aspose.Html.Dom.Css](../../icsscounterstylerule/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

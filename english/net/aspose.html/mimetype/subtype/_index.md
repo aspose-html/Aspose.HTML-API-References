@@ -21,5 +21,5 @@ The sub media type.
 ### See Also
 
 * class [MimeType](../)
-* namespace [Aspose.Html](../../mimetype/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

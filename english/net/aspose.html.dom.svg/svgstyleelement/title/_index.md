@@ -27,5 +27,5 @@ The attribute ‘title’ on the given element.
 ### See Also
 
 * class [SVGStyleElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgstyleelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

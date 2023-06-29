@@ -18,5 +18,5 @@ public Element PreviousElementSibling { get; }
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* namespace [Aspose.Html.Dom](../../documentfragment/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

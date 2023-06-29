@@ -22,5 +22,5 @@ The content of the ‘points’ attribute
 
 * class [SVGPointList](../../../aspose.html.dom.svg.datatypes/svgpointlist/)
 * class [SVGPolygonElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgpolygonelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

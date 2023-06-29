@@ -21,5 +21,5 @@ The length in bytes.
 ### See Also
 
 * class [ArrayBuffer](../)
-* namespace [Aspose.Html](../../arraybuffer/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

@@ -30,7 +30,7 @@ The [`Attr`](../../../aspose.html.dom/attr/).
 
 * class [Attr](../../../aspose.html.dom/attr/)
 * class [NamedNodeMap](../)
-* namespace [Aspose.Html.Collections](../../namednodemap/)
+* namespace [Aspose.Html.Collections](../../../aspose.html.collections/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -59,5 +59,5 @@ The [`Attr`](../../../aspose.html.dom/attr/).
 
 * class [Attr](../../../aspose.html.dom/attr/)
 * class [NamedNodeMap](../)
-* namespace [Aspose.Html.Collections](../../namednodemap/)
+* namespace [Aspose.Html.Collections](../../../aspose.html.collections/)
 * assembly [Aspose.HTML](../../../)

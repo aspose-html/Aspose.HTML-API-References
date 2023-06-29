@@ -27,5 +27,5 @@ public DocumentType(string name, string publicId, string systemId, string intern
 
 * class [Document](../../document/)
 * class [DocumentType](../)
-* namespace [Aspose.Html.Dom](../../documenttype/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

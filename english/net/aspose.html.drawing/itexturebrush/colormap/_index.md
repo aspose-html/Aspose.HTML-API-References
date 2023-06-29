@@ -21,5 +21,5 @@ The color map.
 ### See Also
 
 * interface [ITextureBrush](../)
-* namespace [Aspose.Html.Drawing](../../itexturebrush/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

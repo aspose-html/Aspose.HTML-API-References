@@ -22,7 +22,7 @@ public void SetProperty(string propertyName, string value)
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* namespace [Aspose.Html.Dom.Css](../../icssstyledeclaration/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -44,5 +44,5 @@ public void SetProperty(string propertyName, string value, string priority)
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* namespace [Aspose.Html.Dom.Css](../../icssstyledeclaration/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public string Src { get; set; }
 ### See Also
 
 * class [HTMLIFrameElement](../)
-* namespace [Aspose.Html](../../htmliframeelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

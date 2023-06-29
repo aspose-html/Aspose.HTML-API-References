@@ -25,5 +25,5 @@ The Int16.
 ### See Also
 
 * class [Int16Array](../)
-* namespace [Aspose.Html](../../int16array/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

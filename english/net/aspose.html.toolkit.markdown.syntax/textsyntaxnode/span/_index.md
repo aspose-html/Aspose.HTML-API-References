@@ -18,5 +18,5 @@ public virtual TextSpan Span { get; }
 
 * struct [TextSpan](../../../aspose.html.toolkit.markdown.syntax.text/textspan/)
 * class [TextSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../textsyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

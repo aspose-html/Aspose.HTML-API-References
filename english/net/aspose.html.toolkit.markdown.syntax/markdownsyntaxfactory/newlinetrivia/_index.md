@@ -22,5 +22,5 @@ The WhitespaceSyntax.
 
 * class [WhitespaceSyntaxNode](../../whitespacesyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

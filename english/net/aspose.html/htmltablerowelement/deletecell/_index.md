@@ -27,5 +27,5 @@ public void DeleteCell(int index)
 ### See Also
 
 * class [HTMLTableRowElement](../)
-* namespace [Aspose.Html](../../htmltablerowelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

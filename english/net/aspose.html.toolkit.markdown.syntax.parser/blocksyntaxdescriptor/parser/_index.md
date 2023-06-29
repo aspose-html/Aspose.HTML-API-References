@@ -18,5 +18,5 @@ public MarkdownBlockParser Parser { get; }
 
 * class [MarkdownBlockParser](../../markdownblockparser/)
 * class [BlockSyntaxDescriptor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../blocksyntaxdescriptor/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
 * assembly [Aspose.HTML](../../../)

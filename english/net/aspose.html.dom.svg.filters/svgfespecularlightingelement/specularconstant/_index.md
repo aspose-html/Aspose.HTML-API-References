@@ -22,5 +22,5 @@ The attribute ‘specularConstant’ of the given ‘feSpecularLighting’ eleme
 
 * class [SVGAnimatedNumber](../../../aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFESpecularLightingElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfespecularlightingelement/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
 * assembly [Aspose.HTML](../../../)

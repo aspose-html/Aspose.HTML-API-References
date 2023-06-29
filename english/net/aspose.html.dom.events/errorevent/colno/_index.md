@@ -17,5 +17,5 @@ public uint ColNo { get; }
 ### See Also
 
 * class [ErrorEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../errorevent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)

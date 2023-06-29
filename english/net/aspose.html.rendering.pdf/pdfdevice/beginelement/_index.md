@@ -27,5 +27,5 @@ Returns [true] if element should be processed.
 
 * class [Element](../../../aspose.html.dom/element/)
 * class [PdfDevice](../)
-* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
+* namespace [Aspose.Html.Rendering.Pdf](../../../aspose.html.rendering.pdf/)
 * assembly [Aspose.HTML](../../../)

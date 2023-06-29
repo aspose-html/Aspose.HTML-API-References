@@ -24,5 +24,5 @@ public void QuadraticCurveTo(double cpx, double cpy, double x, double y)
 ### See Also
 
 * interface [ICanvasPathMethods](../)
-* namespace [Aspose.Html.Dom.Canvas](../../icanvaspathmethods/)
+* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
 * assembly [Aspose.HTML](../../../)

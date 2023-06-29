@@ -21,5 +21,5 @@ The old value.
 ### See Also
 
 * class [MutationRecord](../)
-* namespace [Aspose.Html.Dom.Mutations](../../mutationrecord/)
+* namespace [Aspose.Html.Dom.Mutations](../../../aspose.html.dom.mutations/)
 * assembly [Aspose.HTML](../../../)

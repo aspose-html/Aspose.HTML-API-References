@@ -21,5 +21,5 @@ Color of brush
 ### See Also
 
 * interface [ISolidBrush](../)
-* namespace [Aspose.Html.Drawing](../../isolidbrush/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

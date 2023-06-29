@@ -17,5 +17,5 @@ public DocSaveOptions()
 ### See Also
 
 * class [DocSaveOptions](../)
-* namespace [Aspose.Html.Saving](../../docsaveoptions/)
+* namespace [Aspose.Html.Saving](../../../aspose.html.saving/)
 * assembly [Aspose.HTML](../../../)

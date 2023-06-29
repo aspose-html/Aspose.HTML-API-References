@@ -21,5 +21,5 @@ A System.Net.CookieContainer that contains the cookies associated with this requ
 ### See Also
 
 * class [RequestMessage](../)
-* namespace [Aspose.Html.Net](../../requestmessage/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

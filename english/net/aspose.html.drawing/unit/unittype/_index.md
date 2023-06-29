@@ -22,5 +22,5 @@ The type of the unit.
 
 * class [UnitType](../../unittype/)
 * class [Unit](../)
-* namespace [Aspose.Html.Drawing](../../unit/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public const ushort INVALID_CHARACTER_ERR;
 ### See Also
 
 * class [DOMException](../)
-* namespace [Aspose.Html.Dom](../../domexception/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

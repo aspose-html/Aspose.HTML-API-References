@@ -26,5 +26,5 @@ public void BezierCurveTo(double cp1x, double cp1y, double cp2x, double cp2y, do
 ### See Also
 
 * interface [ICanvasPathMethods](../)
-* namespace [Aspose.Html.Dom.Canvas](../../icanvaspathmethods/)
+* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
 * assembly [Aspose.HTML](../../../)
