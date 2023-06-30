@@ -27,5 +27,5 @@ A [`ResponseMessage`](../../responsemessage/) message
 * class [ResponseMessage](../../responsemessage/)
 * class [RequestMessage](../../requestmessage/)
 * interface [INetwork](../)
-* namespace [Aspose.Html.Net](../../inetwork/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

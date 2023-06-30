@@ -13,7 +13,7 @@ The StyleSheetList interface represents a list of [`CSSStyleSheet`](../icssstyle
 The object’s supported property indices are the numbers in the range zero to one less than the number of CSS style sheets represented by the collection. If there are no such CSS style sheets, then there are no supported property indices.
 
 ```csharp
-public interface IStyleSheetList : IEnumerable<IStyleSheet>
+public interface IStyleSheetList : IEnumerable<ICSSStyleSheet>
 ```
 
 ## Properties
@@ -33,6 +33,6 @@ Reference
 
 ### See Also
 
-* interface [IStyleSheet](../istylesheet/)
+* interface [ICSSStyleSheet](../icssstylesheet/)
 * namespace [Aspose.Html.Dom.Css](../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../)

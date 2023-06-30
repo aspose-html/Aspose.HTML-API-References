@@ -26,5 +26,5 @@ Returns a [`Length`](../../length/) object.
 
 * class [Length](../../length/)
 * class [Unit](../)
-* namespace [Aspose.Html.Drawing](../../unit/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

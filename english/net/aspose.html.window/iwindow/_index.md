@@ -34,6 +34,8 @@ public interface IWindow : IDisposable, IDocumentView, IEventTarget, IGlobalEven
 | Name | Description |
 | --- | --- |
 | [Alert](../../aspose.html.window/iwindow/alert/)(string) | Displays a modal alert with the given message, and waits for the user to dismiss it |
+| [Atob](../../aspose.html.window/iwindow/atob/)(string) | Takes the input data, in the form of a Unicode string containing base64-encoded binary data, decodes it, and returns a string consisting of characters in the range U+0000 to U+00FF, each representing a binary byte with values 0x00 to 0xFF respectively, corresponding to that binary data. |
+| [Btoa](../../aspose.html.window/iwindow/btoa/)(string) | Takes the input data, in the form of a Unicode string containing only characters in the range U+0000 to U+00FF, each representing a binary byte with values 0x00 to 0xFF respectively, and converts it to its base64 representation, which it returns. |
 | [Confirm](../../aspose.html.window/iwindow/confirm/)(string) | Displays a modal OK/Cancel prompt with the given message, waits for the user to dismiss it, and returns true if the user clicks OK and false if the user clicks Cancel. |
 | [Prompt](../../aspose.html.window/iwindow/prompt/)(string, string) | Displays a modal text field prompt with the given message, waits for the user to dismiss it, and returns the value that the user entered. If the user cancels the prompt, then returns null instead. If the second argument is present, then the given value is used as a default. |
 

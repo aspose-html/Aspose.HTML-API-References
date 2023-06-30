@@ -3,7 +3,7 @@ title: Location.Replace
 second_title: Aspose.HTML for .NET API Reference
 description: Location method. Removes the current page from the session history and navigates to the given page
 type: docs
-weight: 30
+weight: 120
 url: /net/aspose.html.window/location/replace/
 ---
 ## Location.Replace method
@@ -21,5 +21,5 @@ public void Replace(string url)
 ### See Also
 
 * class [Location](../)
-* namespace [Aspose.Html.Window](../../location/)
+* namespace [Aspose.Html.Window](../../../aspose.html.window/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The vertical resolution.
 
 * class [Resolution](../../../aspose.html.drawing/resolution/)
 * interface [IDeviceInformationService](../)
-* namespace [Aspose.Html.Services](../../ideviceinformationservice/)
+* namespace [Aspose.Html.Services](../../../aspose.html.services/)
 * assembly [Aspose.HTML](../../../)

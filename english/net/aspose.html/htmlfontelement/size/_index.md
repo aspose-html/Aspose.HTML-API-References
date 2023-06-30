@@ -17,5 +17,5 @@ public string Size { get; set; }
 ### See Also
 
 * class [HTMLFontElement](../)
-* namespace [Aspose.Html](../../htmlfontelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

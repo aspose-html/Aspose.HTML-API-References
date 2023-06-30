@@ -21,7 +21,7 @@ public UIEvent(string type)
 ### See Also
 
 * class [UIEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../uievent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public UIEvent(string type, IDictionary<string, object> eventInitDict)
 ### See Also
 
 * class [UIEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../uievent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)

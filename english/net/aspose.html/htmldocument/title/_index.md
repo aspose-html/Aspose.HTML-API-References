@@ -17,5 +17,5 @@ public string Title { get; set; }
 ### See Also
 
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

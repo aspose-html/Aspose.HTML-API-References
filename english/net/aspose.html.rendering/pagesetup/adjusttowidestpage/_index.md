@@ -17,5 +17,5 @@ public bool AdjustToWidestPage { get; set; }
 ### See Also
 
 * class [PageSetup](../)
-* namespace [Aspose.Html.Rendering](../../pagesetup/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

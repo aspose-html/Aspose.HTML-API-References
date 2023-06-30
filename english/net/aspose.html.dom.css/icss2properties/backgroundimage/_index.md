@@ -25,5 +25,5 @@ Values for this property are either , to specify the image, or 'none', when no i
 ### See Also
 
 * interface [ICSS2Properties](../)
-* namespace [Aspose.Html.Dom.Css](../../icss2properties/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

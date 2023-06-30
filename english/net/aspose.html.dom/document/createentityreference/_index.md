@@ -26,5 +26,5 @@ The [`EntityReference`](../../entityreference/).
 
 * class [EntityReference](../../entityreference/)
 * class [Document](../)
-* namespace [Aspose.Html.Dom](../../document/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

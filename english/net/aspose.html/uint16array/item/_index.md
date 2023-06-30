@@ -25,5 +25,5 @@ The UInt16.
 ### See Also
 
 * class [Uint16Array](../)
-* namespace [Aspose.Html](../../uint16array/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

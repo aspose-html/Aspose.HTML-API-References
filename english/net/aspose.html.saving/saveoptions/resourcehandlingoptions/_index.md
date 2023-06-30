@@ -22,5 +22,5 @@ The [`ResourceHandlingOptions`](../../resourcehandlingoptions/) object.
 
 * class [ResourceHandlingOptions](../../resourcehandlingoptions/)
 * class [SaveOptions](../)
-* namespace [Aspose.Html.Saving](../../saveoptions/)
+* namespace [Aspose.Html.Saving](../../../aspose.html.saving/)
 * assembly [Aspose.HTML](../../../)

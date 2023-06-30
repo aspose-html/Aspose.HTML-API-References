@@ -22,5 +22,5 @@ The attribute ‘dx’ of the given element.
 
 * class [SVGAnimatedLengthList](../../../aspose.html.dom.svg.datatypes/svganimatedlengthlist/)
 * class [SVGTextPositioningElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgtextpositioningelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

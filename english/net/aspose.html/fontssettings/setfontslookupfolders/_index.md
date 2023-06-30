@@ -21,7 +21,7 @@ public void SetFontsLookupFolders(string[] fontsFolders)
 ### See Also
 
 * class [FontsSettings](../)
-* namespace [Aspose.Html](../../fontssettings/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -42,5 +42,5 @@ public void SetFontsLookupFolders(string[] fontsFolders, bool recursive)
 ### See Also
 
 * class [FontsSettings](../)
-* namespace [Aspose.Html](../../fontssettings/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

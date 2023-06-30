@@ -17,5 +17,5 @@ public string Face { get; set; }
 ### See Also
 
 * class [HTMLBaseFontElement](../)
-* namespace [Aspose.Html](../../htmlbasefontelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

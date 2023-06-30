@@ -17,5 +17,5 @@ public string Data { get; set; }
 ### See Also
 
 * class [HTMLObjectElement](../)
-* namespace [Aspose.Html](../../htmlobjectelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

@@ -32,5 +32,5 @@ var comment = document.CreateComment(data);
 
 * class [Comment](../../comment/)
 * class [Document](../)
-* namespace [Aspose.Html.Dom](../../document/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public string Charset { get; set; }
 ### See Also
 
 * class [HTMLAnchorElement](../)
-* namespace [Aspose.Html](../../htmlanchorelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

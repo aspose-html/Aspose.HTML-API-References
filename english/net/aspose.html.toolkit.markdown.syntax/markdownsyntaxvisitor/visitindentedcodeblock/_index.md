@@ -22,5 +22,5 @@ public virtual void VisitIndentedCodeBlock(IndentedCodeBlockSyntaxNode codeBlock
 
 * class [IndentedCodeBlockSyntaxNode](../../indentedcodeblocksyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

@@ -22,7 +22,7 @@ public override void Add(Content content)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* namespace [Aspose.Html.Net](../../multipartformdatacontent/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void Add(Content content, string name)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* namespace [Aspose.Html.Net](../../multipartformdatacontent/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -67,5 +67,5 @@ public void Add(Content content, string name, string fileName)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* namespace [Aspose.Html.Net](../../multipartformdatacontent/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

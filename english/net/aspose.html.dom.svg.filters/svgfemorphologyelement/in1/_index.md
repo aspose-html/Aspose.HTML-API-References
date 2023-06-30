@@ -22,5 +22,5 @@ The attribute ‘in’ of the given ‘feMorphology’ element.
 
 * class [SVGAnimatedString](../../../aspose.html.dom.svg.datatypes/svganimatedstring/)
 * class [SVGFEMorphologyElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfemorphologyelement/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
 * assembly [Aspose.HTML](../../../)

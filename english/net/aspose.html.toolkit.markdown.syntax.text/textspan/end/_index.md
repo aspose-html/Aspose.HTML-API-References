@@ -17,5 +17,5 @@ public int End { get; }
 ### See Also
 
 * struct [TextSpan](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../textspan/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../../aspose.html.toolkit.markdown.syntax.text/)
 * assembly [Aspose.HTML](../../../)

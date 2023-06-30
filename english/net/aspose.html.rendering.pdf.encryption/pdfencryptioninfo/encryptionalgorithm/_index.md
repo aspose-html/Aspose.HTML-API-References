@@ -22,5 +22,5 @@ The encryption algorithm.
 
 * enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * class [PdfEncryptionInfo](../)
-* namespace [Aspose.Html.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
+* namespace [Aspose.Html.Rendering.Pdf.Encryption](../../../aspose.html.rendering.pdf.encryption/)
 * assembly [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public virtual SourceText Source { get; }
 
 * class [SourceText](../../../aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * class [TextSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../textsyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

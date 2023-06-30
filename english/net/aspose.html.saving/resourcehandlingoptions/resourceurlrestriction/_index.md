@@ -18,5 +18,5 @@ public UrlRestriction ResourceUrlRestriction { get; set; }
 
 * enum [UrlRestriction](../../urlrestriction/)
 * class [ResourceHandlingOptions](../)
-* namespace [Aspose.Html.Saving](../../resourcehandlingoptions/)
+* namespace [Aspose.Html.Saving](../../../aspose.html.saving/)
 * assembly [Aspose.HTML](../../../)

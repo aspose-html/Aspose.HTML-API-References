@@ -17,5 +17,5 @@ public string Rows { get; set; }
 ### See Also
 
 * class [HTMLFrameSetElement](../)
-* namespace [Aspose.Html](../../htmlframesetelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

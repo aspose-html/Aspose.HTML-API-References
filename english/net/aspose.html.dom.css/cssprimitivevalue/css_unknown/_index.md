@@ -17,5 +17,5 @@ public const ushort CSS_UNKNOWN;
 ### See Also
 
 * class [CSSPrimitiveValue](../)
-* namespace [Aspose.Html.Dom.Css](../../cssprimitivevalue/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

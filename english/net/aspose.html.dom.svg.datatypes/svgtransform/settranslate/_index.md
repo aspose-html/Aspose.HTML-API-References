@@ -28,5 +28,5 @@ public void SetTranslate(float tx, float ty)
 ### See Also
 
 * class [SVGTransform](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgtransform/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
 * assembly [Aspose.HTML](../../../)

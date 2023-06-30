@@ -21,5 +21,5 @@ public void SetContent(string html)
 ### See Also
 
 * class [HTMLFragmentSyntax](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../htmlfragmentsyntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

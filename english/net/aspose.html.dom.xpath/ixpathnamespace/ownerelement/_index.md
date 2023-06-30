@@ -18,5 +18,5 @@ public Element OwnerElement { get; }
 
 * class [Element](../../../aspose.html.dom/element/)
 * interface [IXPathNamespace](../)
-* namespace [Aspose.Html.Dom.XPath](../../ixpathnamespace/)
+* namespace [Aspose.Html.Dom.XPath](../../../aspose.html.dom.xpath/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The attribute ‘stdDeviationX’ of the given ‘feDropShadow’ element.
 
 * class [SVGAnimatedNumber](../../../aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEDropShadowElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfedropshadowelement/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
 * assembly [Aspose.HTML](../../../)

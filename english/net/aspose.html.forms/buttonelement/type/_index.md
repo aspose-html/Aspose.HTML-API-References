@@ -18,5 +18,5 @@ public ButtonType Type { get; set; }
 
 * enum [ButtonType](../../buttontype/)
 * class [ButtonElement](../)
-* namespace [Aspose.Html.Forms](../../buttonelement/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

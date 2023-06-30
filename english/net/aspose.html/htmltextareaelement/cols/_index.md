@@ -17,5 +17,5 @@ public int Cols { get; set; }
 ### See Also
 
 * class [HTMLTextAreaElement](../)
-* namespace [Aspose.Html](../../htmltextareaelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

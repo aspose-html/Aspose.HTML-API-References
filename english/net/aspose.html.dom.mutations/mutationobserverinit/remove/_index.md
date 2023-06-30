@@ -15,7 +15,7 @@ public bool Remove(KeyValuePair<string, object> item)
 ### See Also
 
 * class [MutationObserverInit](../)
-* namespace [Aspose.Html.Dom.Mutations](../../mutationobserverinit/)
+* namespace [Aspose.Html.Dom.Mutations](../../../aspose.html.dom.mutations/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -39,5 +39,5 @@ True if the element is successfully found and removed; otherwise, false.
 ### See Also
 
 * class [MutationObserverInit](../)
-* namespace [Aspose.Html.Dom.Mutations](../../mutationobserverinit/)
+* namespace [Aspose.Html.Dom.Mutations](../../../aspose.html.dom.mutations/)
 * assembly [Aspose.HTML](../../../)

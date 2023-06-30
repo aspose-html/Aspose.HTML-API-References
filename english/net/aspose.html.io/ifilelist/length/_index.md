@@ -17,5 +17,5 @@ public long Length { get; }
 ### See Also
 
 * interface [IFileList](../)
-* namespace [Aspose.Html.IO](../../ifilelist/)
+* namespace [Aspose.Html.IO](../../../aspose.html.io/)
 * assembly [Aspose.HTML](../../../)

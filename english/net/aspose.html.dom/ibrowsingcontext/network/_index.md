@@ -22,5 +22,5 @@ The network services.
 
 * interface [INetwork](../../../aspose.html.net/inetwork/)
 * interface [IBrowsingContext](../)
-* namespace [Aspose.Html.Dom](../../ibrowsingcontext/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

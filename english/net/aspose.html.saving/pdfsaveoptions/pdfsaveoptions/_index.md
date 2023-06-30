@@ -17,5 +17,5 @@ public PdfSaveOptions()
 ### See Also
 
 * class [PdfSaveOptions](../)
-* namespace [Aspose.Html.Saving](../../pdfsaveoptions/)
+* namespace [Aspose.Html.Saving](../../../aspose.html.saving/)
 * assembly [Aspose.HTML](../../../)

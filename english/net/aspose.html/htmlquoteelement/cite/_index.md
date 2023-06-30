@@ -17,5 +17,5 @@ public string Cite { get; set; }
 ### See Also
 
 * class [HTMLQuoteElement](../)
-* namespace [Aspose.Html](../../htmlquoteelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

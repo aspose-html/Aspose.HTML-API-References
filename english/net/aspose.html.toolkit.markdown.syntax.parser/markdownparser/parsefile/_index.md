@@ -26,5 +26,5 @@ The Markdown syntax tree.
 
 * class [MarkdownSyntaxTree](../../../aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/)
 * class [MarkdownParser](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../markdownparser/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
 * assembly [Aspose.HTML](../../../)

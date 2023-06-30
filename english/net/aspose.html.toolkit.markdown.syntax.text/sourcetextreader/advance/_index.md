@@ -17,7 +17,7 @@ public virtual void Advance()
 ### See Also
 
 * class [SourceTextReader](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../sourcetextreader/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../../aspose.html.toolkit.markdown.syntax.text/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -37,5 +37,5 @@ public virtual void Advance(int n)
 ### See Also
 
 * class [SourceTextReader](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../sourcetextreader/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../../aspose.html.toolkit.markdown.syntax.text/)
 * assembly [Aspose.HTML](../../../)

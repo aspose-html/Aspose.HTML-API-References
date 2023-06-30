@@ -17,5 +17,5 @@ public string Type { get; }
 ### See Also
 
 * class [Event](../)
-* namespace [Aspose.Html.Dom.Events](../../event/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ public void SetNumberValue(float value)
 ### See Also
 
 * class [InputElement](../)
-* namespace [Aspose.Html.Forms](../../inputelement/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

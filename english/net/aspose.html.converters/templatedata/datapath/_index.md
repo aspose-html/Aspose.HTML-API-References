@@ -17,5 +17,5 @@ public string DataPath { get; }
 ### See Also
 
 * class [TemplateData](../)
-* namespace [Aspose.Html.Converters](../../templatedata/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)

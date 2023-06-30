@@ -22,5 +22,5 @@ The security.
 
 * enum [Sandbox](../../../aspose.html/sandbox/)
 * interface [IBrowsingContext](../)
-* namespace [Aspose.Html.Dom](../../ibrowsingcontext/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

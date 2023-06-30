@@ -27,5 +27,5 @@ A stand-alone, parentless SVGPathSegLinetoRel object.
 
 * class [SVGPathSegLinetoRel](../../../aspose.html.dom.svg.paths/svgpathseglinetorel/)
 * class [SVGPathElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgpathelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public string Summary { get; set; }
 ### See Also
 
 * class [HTMLTableElement](../)
-* namespace [Aspose.Html](../../htmltableelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

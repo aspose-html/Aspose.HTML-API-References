@@ -24,5 +24,5 @@ public void InitTimeEvent(string typeArg, IAbstractView viewArg, long detailArg)
 
 * interface [IAbstractView](../../../aspose.html.dom.views/iabstractview/)
 * class [TimeEvent](../)
-* namespace [Aspose.Html.Dom.Svg.Events](../../timeevent/)
+* namespace [Aspose.Html.Dom.Svg.Events](../../../aspose.html.dom.svg.events/)
 * assembly [Aspose.HTML](../../../)

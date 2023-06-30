@@ -68,7 +68,7 @@ using Aspose.Html.Converters;
 
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -135,7 +135,7 @@ using Aspose.Html.Converters;
 
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -203,7 +203,7 @@ using Aspose.Html.Converters;
 * class [Url](../../../aspose.html/url/)
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -278,7 +278,7 @@ using Aspose.Html.Converters;
 * class [Configuration](../../../aspose.html/configuration/)
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -348,7 +348,7 @@ using Aspose.Html.Converters;
 * class [Configuration](../../../aspose.html/configuration/)
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -419,7 +419,7 @@ using Aspose.Html.Converters;
 * class [Configuration](../../../aspose.html/configuration/)
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -497,7 +497,7 @@ using Aspose.Html.Converters;
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -575,7 +575,7 @@ using Aspose.Html.Converters;
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -654,7 +654,7 @@ using Aspose.Html.Converters;
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -734,7 +734,7 @@ using Aspose.Html.Converters;
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -809,7 +809,7 @@ using Aspose.Html.Converters;
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -885,7 +885,7 @@ using Aspose.Html.Converters;
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -958,7 +958,7 @@ using Aspose.Html.Converters;
 
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1026,7 +1026,7 @@ using Aspose.Html.Converters;
 
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1100,7 +1100,7 @@ using Aspose.Html.Converters;
 * class [Url](../../../aspose.html/url/)
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1171,7 +1171,7 @@ using Aspose.Html.Converters;
 * class [Configuration](../../../aspose.html/configuration/)
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1242,7 +1242,7 @@ using Aspose.Html.Converters;
 * class [Configuration](../../../aspose.html/configuration/)
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1314,7 +1314,7 @@ using Aspose.Html.Converters;
 * class [Configuration](../../../aspose.html/configuration/)
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1387,7 +1387,7 @@ using Aspose.Html.Converters;
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1460,7 +1460,7 @@ using Aspose.Html.Converters;
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1534,7 +1534,7 @@ using Aspose.Html.Converters;
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1609,7 +1609,7 @@ using Aspose.Html.Converters;
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1684,7 +1684,7 @@ using Aspose.Html.Converters;
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1760,7 +1760,7 @@ using Aspose.Html.Converters;
 * class [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1828,7 +1828,7 @@ using Aspose.Html.Converters;
 
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1896,7 +1896,7 @@ using Aspose.Html.Converters;
 
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1965,7 +1965,7 @@ using Aspose.Html.Converters;
 * class [Url](../../../aspose.html/url/)
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2036,7 +2036,7 @@ using Aspose.Html.Converters;
 * class [Configuration](../../../aspose.html/configuration/)
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2107,7 +2107,7 @@ using Aspose.Html.Converters;
 * class [Configuration](../../../aspose.html/configuration/)
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2179,7 +2179,7 @@ using Aspose.Html.Converters;
 * class [Configuration](../../../aspose.html/configuration/)
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2252,7 +2252,7 @@ using Aspose.Html.Converters;
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2325,7 +2325,7 @@ using Aspose.Html.Converters;
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2399,7 +2399,7 @@ using Aspose.Html.Converters;
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2474,7 +2474,7 @@ using Aspose.Html.Converters;
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2549,7 +2549,7 @@ using Aspose.Html.Converters;
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2625,7 +2625,7 @@ using Aspose.Html.Converters;
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2693,7 +2693,7 @@ using Aspose.Html.Converters;
 
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2761,7 +2761,7 @@ using Aspose.Html.Converters;
 
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2830,7 +2830,7 @@ using Aspose.Html.Converters;
 * class [Url](../../../aspose.html/url/)
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2901,7 +2901,7 @@ using Aspose.Html.Converters;
 * class [Configuration](../../../aspose.html/configuration/)
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -2972,7 +2972,7 @@ using Aspose.Html.Converters;
 * class [Configuration](../../../aspose.html/configuration/)
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3044,7 +3044,7 @@ using Aspose.Html.Converters;
 * class [Configuration](../../../aspose.html/configuration/)
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3117,7 +3117,7 @@ using Aspose.Html.Converters;
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3190,7 +3190,7 @@ using Aspose.Html.Converters;
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3264,7 +3264,7 @@ using Aspose.Html.Converters;
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3339,7 +3339,7 @@ using Aspose.Html.Converters;
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3414,7 +3414,7 @@ using Aspose.Html.Converters;
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -3490,5 +3490,5 @@ using Aspose.Html.Converters;
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)

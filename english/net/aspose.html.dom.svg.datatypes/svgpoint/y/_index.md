@@ -27,5 +27,5 @@ The Y coordinate.
 ### See Also
 
 * class [SVGPoint](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgpoint/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
 * assembly [Aspose.HTML](../../../)

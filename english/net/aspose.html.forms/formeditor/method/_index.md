@@ -18,5 +18,5 @@ public HttpMethod Method { get; set; }
 
 * class [HttpMethod](../../../aspose.html.net/httpmethod/)
 * class [FormEditor](../)
-* namespace [Aspose.Html.Forms](../../formeditor/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

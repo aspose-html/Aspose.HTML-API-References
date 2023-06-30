@@ -17,5 +17,5 @@ public string VAlign { get; set; }
 ### See Also
 
 * class [HTMLTableColElement](../)
-* namespace [Aspose.Html](../../htmltablecolelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

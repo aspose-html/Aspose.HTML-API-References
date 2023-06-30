@@ -17,5 +17,5 @@ public int Width { get; set; }
 ### See Also
 
 * class [HTMLPreElement](../)
-* namespace [Aspose.Html](../../htmlpreelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

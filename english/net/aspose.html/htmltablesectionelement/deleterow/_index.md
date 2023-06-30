@@ -27,5 +27,5 @@ public void DeleteRow(int index)
 ### See Also
 
 * class [HTMLTableSectionElement](../)
-* namespace [Aspose.Html](../../htmltablesectionelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

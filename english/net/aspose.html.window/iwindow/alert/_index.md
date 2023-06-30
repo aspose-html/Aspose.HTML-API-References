@@ -21,5 +21,5 @@ public void Alert(string message)
 ### See Also
 
 * interface [IWindow](../)
-* namespace [Aspose.Html.Window](../../iwindow/)
+* namespace [Aspose.Html.Window](../../../aspose.html.window/)
 * assembly [Aspose.HTML](../../../)

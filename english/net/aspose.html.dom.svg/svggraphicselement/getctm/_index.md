@@ -22,5 +22,5 @@ An SVGMatrix object that defines the CTM.
 
 * class [SVGMatrix](../../../aspose.html.dom.svg.datatypes/svgmatrix/)
 * class [SVGGraphicsElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svggraphicselement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

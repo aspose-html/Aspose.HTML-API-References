@@ -21,7 +21,7 @@ public ArrayBuffer(int length)
 ### See Also
 
 * class [ArrayBuffer](../)
-* namespace [Aspose.Html](../../arraybuffer/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -41,5 +41,5 @@ public ArrayBuffer(byte[] data)
 ### See Also
 
 * class [ArrayBuffer](../)
-* namespace [Aspose.Html](../../arraybuffer/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

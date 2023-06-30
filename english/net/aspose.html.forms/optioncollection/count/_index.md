@@ -17,5 +17,5 @@ public int Count { get; }
 ### See Also
 
 * class [OptionCollection](../)
-* namespace [Aspose.Html.Forms](../../optioncollection/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

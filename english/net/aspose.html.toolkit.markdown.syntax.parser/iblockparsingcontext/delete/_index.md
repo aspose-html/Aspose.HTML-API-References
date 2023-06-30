@@ -22,5 +22,5 @@ public void Delete(BlockSyntaxDescriptor head)
 
 * class [BlockSyntaxDescriptor](../../blocksyntaxdescriptor/)
 * interface [IBlockParsingContext](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../iblockparsingcontext/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
 * assembly [Aspose.HTML](../../../)

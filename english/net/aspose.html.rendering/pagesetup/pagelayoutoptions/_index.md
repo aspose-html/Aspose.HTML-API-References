@@ -18,5 +18,5 @@ public PageLayoutOptions PageLayoutOptions { get; set; }
 
 * enum [PageLayoutOptions](../../pagelayoutoptions/)
 * class [PageSetup](../)
-* namespace [Aspose.Html.Rendering](../../pagesetup/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

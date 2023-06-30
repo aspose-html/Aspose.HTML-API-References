@@ -22,5 +22,5 @@ The body.
 
 * class [Content](../../content/)
 * class [RequestMessage](../)
-* namespace [Aspose.Html.Net](../../requestmessage/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

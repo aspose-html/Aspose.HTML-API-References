@@ -21,5 +21,5 @@ Wrap mode
 ### See Also
 
 * interface [ITransformableBrush](../)
-* namespace [Aspose.Html.Drawing](../../itransformablebrush/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

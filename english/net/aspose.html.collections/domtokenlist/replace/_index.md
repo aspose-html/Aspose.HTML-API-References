@@ -26,5 +26,5 @@ Boolean `true` if the token was found and replaced, `false` otherwise.
 ### See Also
 
 * class [DOMTokenList](../)
-* namespace [Aspose.Html.Collections](../../domtokenlist/)
+* namespace [Aspose.Html.Collections](../../../aspose.html.collections/)
 * assembly [Aspose.HTML](../../../)

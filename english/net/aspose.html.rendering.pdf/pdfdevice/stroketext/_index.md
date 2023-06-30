@@ -22,5 +22,5 @@ public override void StrokeText(string text, PointF pt)
 ### See Also
 
 * class [PdfDevice](../)
-* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
+* namespace [Aspose.Html.Rendering.Pdf](../../../aspose.html.rendering.pdf/)
 * assembly [Aspose.HTML](../../../)

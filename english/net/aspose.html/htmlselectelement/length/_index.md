@@ -17,5 +17,5 @@ public int Length { get; set; }
 ### See Also
 
 * class [HTMLSelectElement](../)
-* namespace [Aspose.Html](../../htmlselectelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

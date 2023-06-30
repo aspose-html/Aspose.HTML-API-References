@@ -21,5 +21,5 @@ The sequence of string.
 ### See Also
 
 * class [TableSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../tablesyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

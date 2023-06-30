@@ -21,5 +21,5 @@ The error code.
 ### See Also
 
 * class [SVGException](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgexception/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

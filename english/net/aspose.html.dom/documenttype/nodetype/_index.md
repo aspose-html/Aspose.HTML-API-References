@@ -21,5 +21,5 @@ The type of the node.
 ### See Also
 
 * class [DocumentType](../)
-* namespace [Aspose.Html.Dom](../../documenttype/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

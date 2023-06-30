@@ -21,5 +21,5 @@ public void SetValue(string value)
 ### See Also
 
 * class [YamlScalarSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../yamlscalarsyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../../aspose.html.toolkit.markdown.syntax.extensions/)
 * assembly [Aspose.HTML](../../../)

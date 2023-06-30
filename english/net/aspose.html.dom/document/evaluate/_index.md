@@ -34,5 +34,5 @@ The result of the evaluation of the XPath expression.
 * interface [IXPathNSResolver](../../../aspose.html.dom.xpath/ixpathnsresolver/)
 * enum [XPathResultType](../../../aspose.html.dom.xpath/xpathresulttype/)
 * class [Document](../)
-* namespace [Aspose.Html.Dom](../../document/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

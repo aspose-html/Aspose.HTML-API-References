@@ -17,5 +17,5 @@ public Metered()
 ### See Also
 
 * class [Metered](../)
-* namespace [Aspose.Html](../../metered/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

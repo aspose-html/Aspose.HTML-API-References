@@ -17,5 +17,5 @@ public const byte AUTO;
 ### See Also
 
 * class [HTMLSaveOptions](../)
-* namespace [Aspose.Html.Saving](../../htmlsaveoptions/)
+* namespace [Aspose.Html.Saving](../../../aspose.html.saving/)
 * assembly [Aspose.HTML](../../../)

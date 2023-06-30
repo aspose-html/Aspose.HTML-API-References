@@ -26,5 +26,5 @@ The [`Text`](../../text/).
 
 * class [Text](../../text/)
 * class [Document](../)
-* namespace [Aspose.Html.Dom](../../document/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

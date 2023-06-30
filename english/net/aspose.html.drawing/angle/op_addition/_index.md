@@ -15,5 +15,5 @@ public static Angle operator +(Angle a, Angle b)
 ### See Also
 
 * class [Angle](../)
-* namespace [Aspose.Html.Drawing](../../angle/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

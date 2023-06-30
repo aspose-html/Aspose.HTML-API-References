@@ -17,5 +17,5 @@ public XpsRenderingOptions()
 ### See Also
 
 * class [XpsRenderingOptions](../)
-* namespace [Aspose.Html.Rendering.Xps](../../xpsrenderingoptions/)
+* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
 * assembly [Aspose.HTML](../../../)

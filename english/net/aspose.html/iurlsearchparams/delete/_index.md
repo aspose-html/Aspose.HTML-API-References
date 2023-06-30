@@ -21,5 +21,5 @@ public void Delete(string name)
 ### See Also
 
 * interface [IUrlSearchParams](../)
-* namespace [Aspose.Html](../../iurlsearchparams/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

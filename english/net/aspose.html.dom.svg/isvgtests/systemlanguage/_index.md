@@ -22,5 +22,5 @@ The system language.
 
 * class [SVGStringList](../../../aspose.html.dom.svg.datatypes/svgstringlist/)
 * interface [ISVGTests](../)
-* namespace [Aspose.Html.Dom.Svg](../../isvgtests/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

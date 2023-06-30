@@ -17,7 +17,7 @@ public SVGStringList()
 ### See Also
 
 * class [SVGStringList](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgstringlist/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -37,5 +37,5 @@ public SVGStringList(IEnumerable<string> enumerable)
 ### See Also
 
 * class [SVGStringList](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgstringlist/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [SVGTransformList](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgtransformlist/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
 * assembly [Aspose.HTML](../../../)

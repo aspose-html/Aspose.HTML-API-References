@@ -17,5 +17,5 @@ public string Name { get; set; }
 ### See Also
 
 * class [HTMLMetaElement](../)
-* namespace [Aspose.Html](../../htmlmetaelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

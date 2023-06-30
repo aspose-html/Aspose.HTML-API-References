@@ -21,5 +21,5 @@ The alternate text.
 ### See Also
 
 * class [ReferenceImageSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../referenceimagesyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

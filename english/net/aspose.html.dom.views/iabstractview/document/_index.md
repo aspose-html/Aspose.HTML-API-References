@@ -22,5 +22,5 @@ The document.
 
 * interface [IDocumentView](../../idocumentview/)
 * interface [IAbstractView](../)
-* namespace [Aspose.Html.Dom.Views](../../iabstractview/)
+* namespace [Aspose.Html.Dom.Views](../../../aspose.html.dom.views/)
 * assembly [Aspose.HTML](../../../)

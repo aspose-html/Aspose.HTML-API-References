@@ -22,5 +22,5 @@ The related target.
 
 * class [EventTarget](../../../aspose.html.dom/eventtarget/)
 * class [FocusEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../focusevent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)

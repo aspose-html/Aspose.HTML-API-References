@@ -17,5 +17,5 @@ public void Submit()
 ### See Also
 
 * class [HTMLFormElement](../)
-* namespace [Aspose.Html](../../htmlformelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

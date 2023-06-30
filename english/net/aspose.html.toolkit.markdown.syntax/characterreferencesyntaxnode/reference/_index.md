@@ -17,5 +17,5 @@ public string Reference { get; }
 ### See Also
 
 * class [CharacterReferenceSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../characterreferencesyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

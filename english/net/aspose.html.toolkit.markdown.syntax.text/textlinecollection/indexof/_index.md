@@ -31,5 +31,5 @@ The index of the collection in the dictionary -or- -1 if the position is not fou
 ### See Also
 
 * class [TextLineCollection](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../textlinecollection/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../../aspose.html.toolkit.markdown.syntax.text/)
 * assembly [Aspose.HTML](../../../)

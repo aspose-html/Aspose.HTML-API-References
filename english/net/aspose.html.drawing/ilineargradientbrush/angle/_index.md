@@ -21,5 +21,5 @@ The angle.
 ### See Also
 
 * interface [ILinearGradientBrush](../)
-* namespace [Aspose.Html.Drawing](../../ilineargradientbrush/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

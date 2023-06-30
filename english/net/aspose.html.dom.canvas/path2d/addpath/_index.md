@@ -21,7 +21,7 @@ public void AddPath(Path2D path)
 ### See Also
 
 * class [Path2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../path2d/)
+* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -43,5 +43,5 @@ public void AddPath(Path2D path, SVGMatrix transformation)
 
 * class [SVGMatrix](../../../aspose.html.dom.svg.datatypes/svgmatrix/)
 * class [Path2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../path2d/)
+* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
 * assembly [Aspose.HTML](../../../)

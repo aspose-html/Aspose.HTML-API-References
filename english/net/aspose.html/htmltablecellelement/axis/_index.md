@@ -17,5 +17,5 @@ public string Axis { get; set; }
 ### See Also
 
 * class [HTMLTableCellElement](../)
-* namespace [Aspose.Html](../../htmltablecellelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

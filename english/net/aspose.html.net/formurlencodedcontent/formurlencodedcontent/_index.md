@@ -15,5 +15,5 @@ public FormUrlEncodedContent(IEnumerable<KeyValuePair<string, string>> nameValue
 ### See Also
 
 * class [FormUrlEncodedContent](../)
-* namespace [Aspose.Html.Net](../../formurlencodedcontent/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

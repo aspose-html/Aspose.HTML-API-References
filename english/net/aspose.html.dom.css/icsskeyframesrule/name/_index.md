@@ -21,5 +21,5 @@ Gets the name of the animation as used by the animation-name property.
 ### See Also
 
 * interface [ICSSKeyframesRule](../)
-* namespace [Aspose.Html.Dom.Css](../../icsskeyframesrule/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

@@ -21,7 +21,7 @@ public DOMException(string message)
 ### See Also
 
 * class [DOMException](../)
-* namespace [Aspose.Html.Dom](../../domexception/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -42,5 +42,5 @@ public DOMException(string name, string message)
 ### See Also
 
 * class [DOMException](../)
-* namespace [Aspose.Html.Dom](../../domexception/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

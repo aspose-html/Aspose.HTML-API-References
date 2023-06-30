@@ -27,5 +27,5 @@ public void AppendMedium(string newMedium)
 ### See Also
 
 * interface [IMediaList](../)
-* namespace [Aspose.Html.Dom.Css](../../imedialist/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

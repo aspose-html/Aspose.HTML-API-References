@@ -17,5 +17,5 @@ public string Cite { get; set; }
 ### See Also
 
 * class [HTMLModElement](../)
-* namespace [Aspose.Html](../../htmlmodelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

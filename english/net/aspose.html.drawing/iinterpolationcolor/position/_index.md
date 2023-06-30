@@ -21,5 +21,5 @@ The position.
 ### See Also
 
 * interface [IInterpolationColor](../)
-* namespace [Aspose.Html.Drawing](../../iinterpolationcolor/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

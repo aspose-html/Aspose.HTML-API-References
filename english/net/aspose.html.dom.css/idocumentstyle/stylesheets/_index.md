@@ -22,5 +22,5 @@ The list containing all the style sheets explicitly linked into or embedded in a
 
 * interface [IStyleSheetList](../../istylesheetlist/)
 * interface [IDocumentStyle](../)
-* namespace [Aspose.Html.Dom.Css](../../idocumentstyle/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

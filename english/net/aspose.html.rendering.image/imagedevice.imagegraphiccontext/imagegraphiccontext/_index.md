@@ -17,5 +17,5 @@ public ImageGraphicContext()
 ### See Also
 
 * class [ImageGraphicContext](../)
-* namespace [Aspose.Html.Rendering.Image](../../imagedevice.imagegraphiccontext/)
+* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
 * assembly [Aspose.HTML](../../../)

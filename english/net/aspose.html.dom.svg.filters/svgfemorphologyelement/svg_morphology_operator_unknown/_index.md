@@ -17,5 +17,5 @@ public const ushort SVG_MORPHOLOGY_OPERATOR_UNKNOWN;
 ### See Also
 
 * class [SVGFEMorphologyElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfemorphologyelement/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
 * assembly [Aspose.HTML](../../../)

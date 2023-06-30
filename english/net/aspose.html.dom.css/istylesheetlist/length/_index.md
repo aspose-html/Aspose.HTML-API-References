@@ -29,5 +29,5 @@ Reference
 ### See Also
 
 * interface [IStyleSheetList](../)
-* namespace [Aspose.Html.Dom.Css](../../istylesheetlist/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

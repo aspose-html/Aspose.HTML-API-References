@@ -24,7 +24,7 @@ public void Close(BlockSyntaxDescriptor head, BlockClosingReason reason)
 * class [BlockSyntaxDescriptor](../../blocksyntaxdescriptor/)
 * enum [BlockClosingReason](../../blockclosingreason/)
 * interface [IBlockParsingContext](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../iblockparsingcontext/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -45,5 +45,5 @@ public void Close(BlockClosingReason reason)
 
 * enum [BlockClosingReason](../../blockclosingreason/)
 * interface [IBlockParsingContext](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../iblockparsingcontext/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
 * assembly [Aspose.HTML](../../../)

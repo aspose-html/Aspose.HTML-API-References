@@ -22,5 +22,5 @@ The margin.
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* namespace [Aspose.Html.Drawing](../../page/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

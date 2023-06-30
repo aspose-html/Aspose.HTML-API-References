@@ -18,5 +18,5 @@ public event DOMEventHandler OnToggle;
 
 * delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler/)
 * class [HTMLElement](../)
-* namespace [Aspose.Html](../../htmlelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

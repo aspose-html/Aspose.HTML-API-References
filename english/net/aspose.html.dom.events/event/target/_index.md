@@ -18,5 +18,5 @@ public EventTarget Target { get; }
 
 * class [EventTarget](../../../aspose.html.dom/eventtarget/)
 * class [Event](../)
-* namespace [Aspose.Html.Dom.Events](../../event/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)

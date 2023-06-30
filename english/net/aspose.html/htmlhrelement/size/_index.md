@@ -17,5 +17,5 @@ public string Size { get; set; }
 ### See Also
 
 * class [HTMLHRElement](../)
-* namespace [Aspose.Html](../../htmlhrelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

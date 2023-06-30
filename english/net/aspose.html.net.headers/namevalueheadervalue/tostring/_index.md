@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [NameValueHeaderValue](../)
-* namespace [Aspose.Html.Net.Headers](../../namevalueheadervalue/)
+* namespace [Aspose.Html.Net.Headers](../../../aspose.html.net.headers/)
 * assembly [Aspose.HTML](../../../)

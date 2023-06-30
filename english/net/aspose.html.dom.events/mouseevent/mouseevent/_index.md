@@ -21,7 +21,7 @@ public MouseEvent(string type)
 ### See Also
 
 * class [MouseEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../mouseevent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public MouseEvent(string type, IDictionary<string, object> eventInitDict)
 ### See Also
 
 * class [MouseEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../mouseevent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)

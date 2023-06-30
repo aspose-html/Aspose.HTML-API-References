@@ -22,5 +22,5 @@ public void SetTransform(SVGMatrix transform)
 
 * class [SVGMatrix](../../../aspose.html.dom.svg.datatypes/svgmatrix/)
 * interface [ICanvasPattern](../)
-* namespace [Aspose.Html.Dom.Canvas](../../icanvaspattern/)
+* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
 * assembly [Aspose.HTML](../../../)

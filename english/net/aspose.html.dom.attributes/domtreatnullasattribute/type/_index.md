@@ -21,5 +21,5 @@ The type.
 ### See Also
 
 * class [DOMTreatNullAsAttribute](../)
-* namespace [Aspose.Html.Dom.Attributes](../../domtreatnullasattribute/)
+* namespace [Aspose.Html.Dom.Attributes](../../../aspose.html.dom.attributes/)
 * assembly [Aspose.HTML](../../../)

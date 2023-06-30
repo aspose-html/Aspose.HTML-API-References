@@ -23,5 +23,5 @@ public override void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
 ### See Also
 
 * class [XpsDevice](../)
-* namespace [Aspose.Html.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
 * assembly [Aspose.HTML](../../../)

@@ -33,5 +33,5 @@ Reference
 ### See Also
 
 * interface [IStyleSheet](../)
-* namespace [Aspose.Html.Dom.Css](../../istylesheet/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public const ushort SVG_STITCHTYPE_UNKNOWN;
 ### See Also
 
 * class [SVGFETurbulenceElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfeturbulenceelement/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The field value as url.
 
 * class [Url](../../../aspose.html/url/)
 * class [InputElement](../)
-* namespace [Aspose.Html.Forms](../../inputelement/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

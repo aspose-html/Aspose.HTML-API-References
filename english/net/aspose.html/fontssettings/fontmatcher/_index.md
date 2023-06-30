@@ -18,5 +18,5 @@ public FontMatcher FontMatcher { get; set; }
 
 * class [FontMatcher](../../../aspose.html.rendering.fonts/fontmatcher/)
 * class [FontsSettings](../)
-* namespace [Aspose.Html](../../fontssettings/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

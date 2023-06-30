@@ -22,5 +22,5 @@ The attribute ‘in2’ of the given ‘feDisplacementMap’ element.
 
 * class [SVGAnimatedString](../../../aspose.html.dom.svg.datatypes/svganimatedstring/)
 * class [SVGFEDisplacementMapElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfedisplacementmapelement/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
 * assembly [Aspose.HTML](../../../)

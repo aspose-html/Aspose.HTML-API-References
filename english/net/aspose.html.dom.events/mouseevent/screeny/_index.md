@@ -21,5 +21,5 @@ The screen y.
 ### See Also
 
 * class [MouseEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../mouseevent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)

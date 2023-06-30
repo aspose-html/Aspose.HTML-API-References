@@ -22,5 +22,5 @@ The Emphasis.
 
 * enum [Emphasis](../../emphasis/)
 * class [EmphasisSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../emphasissyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

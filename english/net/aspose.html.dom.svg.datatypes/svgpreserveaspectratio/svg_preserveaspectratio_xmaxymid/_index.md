@@ -17,5 +17,5 @@ public const ushort SVG_PRESERVEASPECTRATIO_XMAXYMID;
 ### See Also
 
 * class [SVGPreserveAspectRatio](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgpreserveaspectratio/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
 * assembly [Aspose.HTML](../../../)

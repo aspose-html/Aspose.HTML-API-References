@@ -21,5 +21,5 @@ The domain.
 ### See Also
 
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

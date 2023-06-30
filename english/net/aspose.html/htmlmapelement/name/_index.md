@@ -17,5 +17,5 @@ public string Name { get; set; }
 ### See Also
 
 * class [HTMLMapElement](../)
-* namespace [Aspose.Html](../../htmlmapelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

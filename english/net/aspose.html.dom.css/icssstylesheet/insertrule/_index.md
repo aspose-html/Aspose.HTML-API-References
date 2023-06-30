@@ -36,5 +36,5 @@ Reference
 ### See Also
 
 * interface [ICSSStyleSheet](../)
-* namespace [Aspose.Html.Dom.Css](../../icssstylesheet/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [FormEditor](../)
-* namespace [Aspose.Html.Forms](../../formeditor/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

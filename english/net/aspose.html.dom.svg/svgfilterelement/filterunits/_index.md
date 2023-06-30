@@ -22,5 +22,5 @@ The attribute ‘filterUnits’ of the given ‘filter’ element.
 
 * class [SVGAnimatedEnumeration](../../../aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGFilterElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgfilterelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

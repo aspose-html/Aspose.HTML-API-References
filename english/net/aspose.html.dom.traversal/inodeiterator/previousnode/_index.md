@@ -28,5 +28,5 @@ The previous Node in the set being iterated over, or null if there are no more m
 
 * class [Node](../../../aspose.html.dom/node/)
 * interface [INodeIterator](../)
-* namespace [Aspose.Html.Dom.Traversal](../../inodeiterator/)
+* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
 * assembly [Aspose.HTML](../../../)

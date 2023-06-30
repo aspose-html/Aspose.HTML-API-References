@@ -17,5 +17,5 @@ public string AccessKey { get; set; }
 ### See Also
 
 * class [HTMLLabelElement](../)
-* namespace [Aspose.Html](../../htmllabelelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

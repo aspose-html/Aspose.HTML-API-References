@@ -35,5 +35,5 @@ The compiled form of the XPath expression.
 * interface [IXPathExpression](../../../aspose.html.dom.xpath/ixpathexpression/)
 * interface [IXPathNSResolver](../../../aspose.html.dom.xpath/ixpathnsresolver/)
 * class [Document](../)
-* namespace [Aspose.Html.Dom](../../document/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ public override void StrokeText(string text, PointF pt)
 ### See Also
 
 * class [XpsDevice](../)
-* namespace [Aspose.Html.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
 * assembly [Aspose.HTML](../../../)

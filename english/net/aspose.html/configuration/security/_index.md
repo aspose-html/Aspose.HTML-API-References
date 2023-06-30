@@ -26,5 +26,5 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 * enum [Sandbox](../../sandbox/)
 * class [Configuration](../)
-* namespace [Aspose.Html](../../configuration/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

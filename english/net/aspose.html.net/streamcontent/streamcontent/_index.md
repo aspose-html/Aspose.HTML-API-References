@@ -21,5 +21,5 @@ public StreamContent(Stream content)
 ### See Also
 
 * class [StreamContent](../)
-* namespace [Aspose.Html.Net](../../streamcontent/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)
