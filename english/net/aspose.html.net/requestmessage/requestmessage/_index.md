@@ -21,7 +21,7 @@ public RequestMessage(string address)
 ### See Also
 
 * class [RequestMessage](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../requestmessage/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -42,5 +42,5 @@ public RequestMessage(Url uri)
 
 * class [Url](../../../aspose.html/url/)
 * class [RequestMessage](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../requestmessage/)
 * assembly [Aspose.HTML](../../../)

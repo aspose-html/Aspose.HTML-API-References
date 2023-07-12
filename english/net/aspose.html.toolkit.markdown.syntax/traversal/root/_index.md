@@ -18,5 +18,5 @@ public MarkdownSyntaxNode Root { get; }
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [Traversal](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../traversal/)
 * assembly [Aspose.HTML](../../../)

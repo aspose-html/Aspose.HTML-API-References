@@ -22,5 +22,5 @@ public override void Invoke(INetworkOperationContext context)
 
 * interface [INetworkOperationContext](../../../aspose.html.net/inetworkoperationcontext/)
 * class [HttpProtocolMessageHandler](../)
-* namespace [Aspose.Html.Net.MessageHandlers](../../../aspose.html.net.messagehandlers/)
+* namespace [Aspose.Html.Net.MessageHandlers](../../httpprotocolmessagehandler/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [HttpMethod](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../httpmethod/)
 * assembly [Aspose.HTML](../../../)

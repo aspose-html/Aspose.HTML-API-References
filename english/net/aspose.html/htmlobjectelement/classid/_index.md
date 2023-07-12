@@ -21,5 +21,5 @@ The class id.
 ### See Also
 
 * class [HTMLObjectElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlobjectelement/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The new node, or null if the current node has no visible children in the TreeWal
 
 * class [Node](../../../aspose.html.dom/node/)
 * interface [ITreeWalker](../)
-* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
+* namespace [Aspose.Html.Dom.Traversal](../../itreewalker/)
 * assembly [Aspose.HTML](../../../)

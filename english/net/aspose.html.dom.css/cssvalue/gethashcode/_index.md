@@ -21,5 +21,5 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [CSSValue](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../cssvalue/)
 * assembly [Aspose.HTML](../../../)

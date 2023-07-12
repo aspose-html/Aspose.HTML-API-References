@@ -27,5 +27,5 @@ The absolute X coordinate
 ### See Also
 
 * class [SVGPathSegLinetoAbs](../)
-* namespace [Aspose.Html.Dom.Svg.Paths](../../../aspose.html.dom.svg.paths/)
+* namespace [Aspose.Html.Dom.Svg.Paths](../../svgpathseglinetoabs/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The name of the element.
 ### See Also
 
 * class [TextAreaElement](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../textareaelement/)
 * assembly [Aspose.HTML](../../../)

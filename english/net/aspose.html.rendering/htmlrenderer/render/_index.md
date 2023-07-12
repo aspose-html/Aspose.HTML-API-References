@@ -25,7 +25,7 @@ public override void Render(IDevice device, TimeSpan timeout, params Document[] 
 * interface [IDevice](../../idevice/)
 * class [Document](../../../aspose.html.dom/document/)
 * class [HtmlRenderer](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../htmlrenderer/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -50,5 +50,5 @@ public override void Render(IDevice device, CancellationToken cancellationToken,
 * interface [IDevice](../../idevice/)
 * class [Document](../../../aspose.html.dom/document/)
 * class [HtmlRenderer](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../htmlrenderer/)
 * assembly [Aspose.HTML](../../../)

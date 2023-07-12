@@ -17,7 +17,7 @@ public LengthOrAuto()
 ### See Also
 
 * class [LengthOrAuto](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../lengthorauto/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public LengthOrAuto(Length length)
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../lengthorauto/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The attribute ‘x’ of the given ‘feDropShadow’ element.
 
 * class [SVGAnimatedLength](../../../aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGFEDropShadowElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfedropshadowelement/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ An SVGMatrix object.
 
 * class [SVGMatrix](../../../aspose.html.dom.svg.datatypes/svgmatrix/)
 * class [SVGSVGElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgsvgelement/)
 * assembly [Aspose.HTML](../../../)

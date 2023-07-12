@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [Configuration](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../configuration/)
 * assembly [Aspose.HTML](../../../)

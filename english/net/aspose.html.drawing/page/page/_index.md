@@ -24,7 +24,7 @@ public Page(Size size, Margin margin)
 * class [Size](../../size/)
 * class [Margin](../../margin/)
 * class [Page](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../page/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -45,7 +45,7 @@ public Page(Size size)
 
 * class [Size](../../size/)
 * class [Page](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../page/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -66,7 +66,7 @@ public Page(Margin margin)
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../page/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -82,5 +82,5 @@ public Page()
 ### See Also
 
 * class [Page](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../page/)
 * assembly [Aspose.HTML](../../../)

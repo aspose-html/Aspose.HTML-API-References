@@ -25,5 +25,5 @@ The SByte.
 ### See Also
 
 * class [Int8Array](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../int8array/)
 * assembly [Aspose.HTML](../../../)

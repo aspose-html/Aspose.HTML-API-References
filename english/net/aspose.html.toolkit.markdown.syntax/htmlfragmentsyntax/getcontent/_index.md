@@ -21,5 +21,5 @@ The string.
 ### See Also
 
 * class [HTMLFragmentSyntax](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../htmlfragmentsyntax/)
 * assembly [Aspose.HTML](../../../)

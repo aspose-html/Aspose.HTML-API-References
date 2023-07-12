@@ -28,5 +28,5 @@ The value as string.
 ### See Also
 
 * class [SVGLength](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svglength/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [Renderer](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../renderer/)
 * assembly [Aspose.HTML](../../../)

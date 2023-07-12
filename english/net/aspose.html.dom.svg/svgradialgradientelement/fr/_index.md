@@ -22,5 +22,5 @@ The attribute ‘fr’ of the given ‘radialGradient’ element.
 
 * class [SVGAnimatedLength](../../../aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgradialgradientelement/)
 * assembly [Aspose.HTML](../../../)

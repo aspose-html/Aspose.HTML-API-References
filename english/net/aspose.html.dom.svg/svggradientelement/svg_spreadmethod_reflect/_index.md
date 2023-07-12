@@ -17,5 +17,5 @@ public const ushort SVG_SPREADMETHOD_REFLECT;
 ### See Also
 
 * class [SVGGradientElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svggradientelement/)
 * assembly [Aspose.HTML](../../../)

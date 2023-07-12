@@ -21,5 +21,5 @@ public void ReleaseStream(Stream stream)
 ### See Also
 
 * interface [ICreateStreamProvider](../)
-* namespace [Aspose.Html.IO](../../../aspose.html.io/)
+* namespace [Aspose.Html.IO](../../icreatestreamprovider/)
 * assembly [Aspose.HTML](../../../)

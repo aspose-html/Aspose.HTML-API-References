@@ -23,7 +23,7 @@ public void FillText(string text, double x, double y)
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -46,5 +46,5 @@ public void FillText(string text, double x, double y, double maxWidth)
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)

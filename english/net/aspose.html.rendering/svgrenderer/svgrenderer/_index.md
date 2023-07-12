@@ -17,5 +17,5 @@ public SvgRenderer()
 ### See Also
 
 * class [SvgRenderer](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../svgrenderer/)
 * assembly [Aspose.HTML](../../../)

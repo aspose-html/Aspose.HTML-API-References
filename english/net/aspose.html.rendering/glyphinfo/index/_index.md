@@ -21,5 +21,5 @@ Index of the glyph.
 ### See Also
 
 * struct [GlyphInfo](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../glyphinfo/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public RequestHeaders()
 ### See Also
 
 * class [RequestHeaders](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../requestheaders/)
 * assembly [Aspose.HTML](../../../)

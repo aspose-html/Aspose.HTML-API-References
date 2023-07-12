@@ -17,5 +17,5 @@ public bool NoResize { get; set; }
 ### See Also
 
 * class [HTMLFrameElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlframeelement/)
 * assembly [Aspose.HTML](../../../)

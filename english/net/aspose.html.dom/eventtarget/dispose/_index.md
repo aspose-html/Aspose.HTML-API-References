@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [EventTarget](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../eventtarget/)
 * assembly [Aspose.HTML](../../../)

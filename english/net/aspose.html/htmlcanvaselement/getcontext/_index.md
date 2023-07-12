@@ -25,5 +25,5 @@ A RenderingContext
 ### See Also
 
 * class [HTMLCanvasElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlcanvaselement/)
 * assembly [Aspose.HTML](../../../)

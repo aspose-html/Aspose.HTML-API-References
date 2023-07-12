@@ -15,7 +15,7 @@ public static implicit operator MimeType(string @string)
 ### See Also
 
 * class [MimeType](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../mimetype/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -29,5 +29,5 @@ public static implicit operator string(MimeType type)
 ### See Also
 
 * class [MimeType](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../mimetype/)
 * assembly [Aspose.HTML](../../../)

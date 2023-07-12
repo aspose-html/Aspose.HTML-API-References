@@ -18,5 +18,5 @@ public ICSSStyleDeclaration Style { get; }
 
 * interface [ICSSStyleDeclaration](../../../aspose.html.dom.css/icssstyledeclaration/)
 * class [HTMLElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlelement/)
 * assembly [Aspose.HTML](../../../)

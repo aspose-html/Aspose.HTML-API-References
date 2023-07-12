@@ -21,5 +21,5 @@ The type of the primitive.
 ### See Also
 
 * class [CSSPrimitiveValue](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../cssprimitivevalue/)
 * assembly [Aspose.HTML](../../../)

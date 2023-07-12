@@ -3,7 +3,7 @@ title: TreeWalker Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.TreeWalker class. A tree walker
 type: docs
-weight: 5700
+weight: 5710
 url: /net/aspose.html.toolkit.markdown.syntax/treewalker/
 ---
 ## TreeWalker class

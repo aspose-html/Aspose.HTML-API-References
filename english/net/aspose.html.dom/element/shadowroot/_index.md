@@ -22,5 +22,5 @@ The shadowRoot.
 
 * class [ShadowRoot](../../shadowroot/)
 * class [Element](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../element/)
 * assembly [Aspose.HTML](../../../)

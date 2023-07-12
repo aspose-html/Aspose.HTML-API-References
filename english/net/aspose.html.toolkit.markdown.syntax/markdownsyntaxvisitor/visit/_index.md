@@ -22,7 +22,7 @@ public void Visit(MarkdownSyntaxTree syntaxTree)
 
 * class [MarkdownSyntaxTree](../../markdownsyntaxtree/)
 * class [MarkdownSyntaxVisitor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -43,5 +43,5 @@ public void Visit(MarkdownSyntaxNode node)
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
 * assembly [Aspose.HTML](../../../)

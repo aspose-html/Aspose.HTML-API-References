@@ -17,5 +17,5 @@ public bool Selected { get; set; }
 ### See Also
 
 * class [OptionElement](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../optionelement/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public string Dir { get; set; }
 ### See Also
 
 * class [HTMLElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlelement/)
 * assembly [Aspose.HTML](../../../)

@@ -21,7 +21,7 @@ public Float64Array(int length)
 ### See Also
 
 * class [Float64Array](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../float64array/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -41,7 +41,7 @@ public Float64Array(double[] data)
 ### See Also
 
 * class [Float64Array](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../float64array/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -62,7 +62,7 @@ public Float64Array(ArrayBuffer buffer)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Float64Array](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../float64array/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -84,7 +84,7 @@ public Float64Array(ArrayBuffer buffer, int byteOffset)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Float64Array](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../float64array/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -107,5 +107,5 @@ public Float64Array(ArrayBuffer buffer, int byteOffset, int length)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Float64Array](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../float64array/)
 * assembly [Aspose.HTML](../../../)

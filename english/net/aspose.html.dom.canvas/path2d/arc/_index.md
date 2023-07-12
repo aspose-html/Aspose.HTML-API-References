@@ -25,7 +25,7 @@ public void Arc(double x, double y, double radius, double startAngle, double end
 ### See Also
 
 * class [Path2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../path2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -51,5 +51,5 @@ public void Arc(double x, double y, double radius, double startAngle, double end
 ### See Also
 
 * class [Path2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../path2d/)
 * assembly [Aspose.HTML](../../../)

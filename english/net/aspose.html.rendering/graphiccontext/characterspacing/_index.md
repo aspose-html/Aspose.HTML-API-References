@@ -17,5 +17,5 @@ public virtual float CharacterSpacing { get; set; }
 ### See Also
 
 * class [GraphicContext](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../graphiccontext/)
 * assembly [Aspose.HTML](../../../)

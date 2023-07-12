@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [DocumentType](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../documenttype/)
 * assembly [Aspose.HTML](../../../)

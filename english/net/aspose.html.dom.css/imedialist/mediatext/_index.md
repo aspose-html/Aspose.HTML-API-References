@@ -27,5 +27,5 @@ The parsable textual representation of the media list. This is a comma-separated
 ### See Also
 
 * interface [IMediaList](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../imedialist/)
 * assembly [Aspose.HTML](../../../)

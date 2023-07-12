@@ -17,5 +17,5 @@ public bool RemoveSpaceAfterFlags { get; set; }
 ### See Also
 
 * class [SVGPathOptimizationOptions](../)
-* namespace [Aspose.Html.Toolkit.Optimizers](../../../aspose.html.toolkit.optimizers/)
+* namespace [Aspose.Html.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
 * assembly [Aspose.HTML](../../../)

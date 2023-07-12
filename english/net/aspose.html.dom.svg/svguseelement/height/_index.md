@@ -22,5 +22,5 @@ Corresponds to attribute ‘height’ on the given ‘use’ element.
 
 * class [SVGAnimatedLength](../../../aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGUseElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svguseelement/)
 * assembly [Aspose.HTML](../../../)

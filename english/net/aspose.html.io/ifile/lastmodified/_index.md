@@ -17,5 +17,5 @@ public long LastModified { get; }
 ### See Also
 
 * interface [IFile](../)
-* namespace [Aspose.Html.IO](../../../aspose.html.io/)
+* namespace [Aspose.Html.IO](../../ifile/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The type of the content.
 ### See Also
 
 * class [Document](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../document/)
 * assembly [Aspose.HTML](../../../)

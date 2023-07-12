@@ -21,5 +21,5 @@ The system identifier.
 ### See Also
 
 * class [Entity](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../entity/)
 * assembly [Aspose.HTML](../../../)

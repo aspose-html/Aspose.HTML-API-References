@@ -22,5 +22,5 @@ public IUrlSearchParams SearchParams { get; }
 
 * interface [IUrlSearchParams](../../iurlsearchparams/)
 * class [Url](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../url/)
 * assembly [Aspose.HTML](../../../)

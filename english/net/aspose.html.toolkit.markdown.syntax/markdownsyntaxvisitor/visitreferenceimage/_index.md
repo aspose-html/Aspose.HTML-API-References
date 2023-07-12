@@ -22,5 +22,5 @@ public virtual void VisitReferenceImage(ReferenceImageSyntaxNode image)
 
 * class [ReferenceImageSyntaxNode](../../referenceimagesyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
 * assembly [Aspose.HTML](../../../)

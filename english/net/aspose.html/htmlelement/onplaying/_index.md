@@ -18,5 +18,5 @@ public event DOMEventHandler OnPlaying;
 
 * delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler/)
 * class [HTMLElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlelement/)
 * assembly [Aspose.HTML](../../../)

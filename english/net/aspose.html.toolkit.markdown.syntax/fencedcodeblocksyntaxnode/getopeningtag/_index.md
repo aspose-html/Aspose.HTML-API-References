@@ -22,5 +22,5 @@ The MarkdownSyntaxToken.
 
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [FencedCodeBlockSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../fencedcodeblocksyntaxnode/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public override LineJoin LineJoin { get; set; }
 ### See Also
 
 * class [PdfGraphicContext](../)
-* namespace [Aspose.Html.Rendering.Pdf](../../../aspose.html.rendering.pdf/)
+* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice.pdfgraphiccontext/)
 * assembly [Aspose.HTML](../../../)

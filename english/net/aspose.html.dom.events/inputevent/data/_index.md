@@ -21,5 +21,5 @@ The event data.
 ### See Also
 
 * class [InputEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../inputevent/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public int Size { get; set; }
 ### See Also
 
 * class [HTMLInputElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlinputelement/)
 * assembly [Aspose.HTML](../../../)

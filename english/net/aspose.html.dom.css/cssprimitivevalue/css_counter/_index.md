@@ -17,5 +17,5 @@ public const ushort CSS_COUNTER;
 ### See Also
 
 * class [CSSPrimitiveValue](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../cssprimitivevalue/)
 * assembly [Aspose.HTML](../../../)

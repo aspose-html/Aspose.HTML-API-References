@@ -17,5 +17,5 @@ public override Matrix TransformationMatrix { get; set; }
 ### See Also
 
 * class [DocGraphicContext](../)
-* namespace [Aspose.Html.Rendering.Doc](../../../aspose.html.rendering.doc/)
+* namespace [Aspose.Html.Rendering.Doc](../../docdevice.docgraphiccontext/)
 * assembly [Aspose.HTML](../../../)

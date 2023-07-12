@@ -22,5 +22,5 @@ The attribute ‘patternUnits’ of the given ‘pattern’ element.
 
 * class [SVGAnimatedEnumeration](../../../aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGPatternElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgpatternelement/)
 * assembly [Aspose.HTML](../../../)

@@ -21,7 +21,7 @@ public FocusEvent(string type)
 ### See Also
 
 * class [FocusEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../focusevent/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public FocusEvent(string type, IDictionary<string, object> eventInitDict)
 ### See Also
 
 * class [FocusEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../focusevent/)
 * assembly [Aspose.HTML](../../../)

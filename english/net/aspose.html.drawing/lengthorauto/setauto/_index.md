@@ -17,5 +17,5 @@ public void SetAuto()
 ### See Also
 
 * class [LengthOrAuto](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../lengthorauto/)
 * assembly [Aspose.HTML](../../../)

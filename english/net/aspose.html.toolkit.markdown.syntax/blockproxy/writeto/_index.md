@@ -22,5 +22,5 @@ public override void WriteTo(MarkdownTextWriter writer)
 
 * class [MarkdownTextWriter](../../markdowntextwriter/)
 * class [BlockProxy](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../blockproxy/)
 * assembly [Aspose.HTML](../../../)

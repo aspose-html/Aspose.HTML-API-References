@@ -21,7 +21,7 @@ the character on position or Character.Null
 ### See Also
 
 * class [SourceTextReader](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../../aspose.html.toolkit.markdown.syntax.text/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../sourcetextreader/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -45,5 +45,5 @@ The char at the positon + delta or Character.Null
 ### See Also
 
 * class [SourceTextReader](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../../aspose.html.toolkit.markdown.syntax.text/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../sourcetextreader/)
 * assembly [Aspose.HTML](../../../)

@@ -23,5 +23,5 @@ public override void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
 ### See Also
 
 * class [PdfDevice](../)
-* namespace [Aspose.Html.Rendering.Pdf](../../../aspose.html.rendering.pdf/)
+* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * assembly [Aspose.HTML](../../../)

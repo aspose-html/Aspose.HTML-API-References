@@ -17,5 +17,5 @@ public string UserStyleSheet { get; set; }
 ### See Also
 
 * interface [IUserAgentService](../)
-* namespace [Aspose.Html.Services](../../../aspose.html.services/)
+* namespace [Aspose.Html.Services](../../iuseragentservice/)
 * assembly [Aspose.HTML](../../../)

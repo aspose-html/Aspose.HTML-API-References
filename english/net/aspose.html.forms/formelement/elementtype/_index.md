@@ -22,5 +22,5 @@ The type of the element.
 
 * enum [FormElementType](../../formelementtype/)
 * class [FormElement](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../formelement/)
 * assembly [Aspose.HTML](../../../)

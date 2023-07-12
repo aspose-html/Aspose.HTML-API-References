@@ -17,5 +17,5 @@ public IWindow Top { get; }
 ### See Also
 
 * interface [IWindow](../)
-* namespace [Aspose.Html.Window](../../../aspose.html.window/)
+* namespace [Aspose.Html.Window](../../iwindow/)
 * assembly [Aspose.HTML](../../../)

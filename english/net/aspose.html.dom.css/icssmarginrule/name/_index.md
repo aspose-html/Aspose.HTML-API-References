@@ -21,5 +21,5 @@ Returns the name of the margin at-rule. The @ character is not included in the n
 ### See Also
 
 * interface [ICSSMarginRule](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../icssmarginrule/)
 * assembly [Aspose.HTML](../../../)

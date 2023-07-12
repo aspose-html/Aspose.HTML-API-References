@@ -25,7 +25,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 ### See Also
 
 * class [HttpMethod](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../httpmethod/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -49,5 +49,5 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [HttpMethod](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../httpmethod/)
 * assembly [Aspose.HTML](../../../)

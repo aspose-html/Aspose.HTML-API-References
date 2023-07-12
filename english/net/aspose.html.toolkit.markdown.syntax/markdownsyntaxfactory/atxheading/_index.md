@@ -26,7 +26,7 @@ The AtxHeadingSyntax.
 
 * class [AtxHeadingSyntaxNode](../../atxheadingsyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -52,7 +52,7 @@ The AtxHeadingSyntax.
 
 * class [AtxHeadingSyntaxNode](../../atxheadingsyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -79,5 +79,5 @@ The AtxHeadingSyntax.
 * class [AtxHeadingSyntaxNode](../../atxheadingsyntaxnode/)
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [MarkdownSyntaxFactory](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
 * assembly [Aspose.HTML](../../../)

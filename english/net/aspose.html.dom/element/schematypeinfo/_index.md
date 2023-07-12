@@ -22,5 +22,5 @@ The schema type information.
 
 * class [TypeInfo](../../typeinfo/)
 * class [Element](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../element/)
 * assembly [Aspose.HTML](../../../)

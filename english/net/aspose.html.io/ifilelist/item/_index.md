@@ -26,5 +26,5 @@ The file.
 
 * interface [IFile](../../ifile/)
 * interface [IFileList](../)
-* namespace [Aspose.Html.IO](../../../aspose.html.io/)
+* namespace [Aspose.Html.IO](../../ifilelist/)
 * assembly [Aspose.HTML](../../../)

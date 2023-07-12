@@ -17,5 +17,5 @@ public XpsSaveOptions()
 ### See Also
 
 * class [XpsSaveOptions](../)
-* namespace [Aspose.Html.Saving](../../../aspose.html.saving/)
+* namespace [Aspose.Html.Saving](../../xpssaveoptions/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* namespace [Aspose.Html.IO](../../../aspose.html.io/)
+* namespace [Aspose.Html.IO](../../filecreatestreamprovider/)
 * assembly [Aspose.HTML](../../../)

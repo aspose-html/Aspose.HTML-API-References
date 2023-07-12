@@ -22,5 +22,5 @@ public virtual void RenderTo(IDevice device)
 
 * interface [IDevice](../../../aspose.html.rendering/idevice/)
 * class [Document](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../document/)
 * assembly [Aspose.HTML](../../../)

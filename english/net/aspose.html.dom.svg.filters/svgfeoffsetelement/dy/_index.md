@@ -22,5 +22,5 @@ The attribute ‘dy’ of the given ‘feOffset’ element.
 
 * class [SVGAnimatedNumber](../../../aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEOffsetElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfeoffsetelement/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public string Type { get; }
 ### See Also
 
 * class [SelectElement](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../selectelement/)
 * assembly [Aspose.HTML](../../../)

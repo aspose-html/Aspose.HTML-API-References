@@ -22,5 +22,5 @@ public virtual void VisitNodeList(NodeList list)
 
 * class [NodeList](../../nodelist/)
 * class [MarkdownSyntaxVisitor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
 * assembly [Aspose.HTML](../../../)

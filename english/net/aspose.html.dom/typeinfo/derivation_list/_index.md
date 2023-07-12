@@ -17,5 +17,5 @@ public const ulong DERIVATION_LIST;
 ### See Also
 
 * class [TypeInfo](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../typeinfo/)
 * assembly [Aspose.HTML](../../../)

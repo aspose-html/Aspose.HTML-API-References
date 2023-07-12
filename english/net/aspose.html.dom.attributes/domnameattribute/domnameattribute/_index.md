@@ -21,5 +21,5 @@ public DOMNameAttribute(string name)
 ### See Also
 
 * class [DOMNameAttribute](../)
-* namespace [Aspose.Html.Dom.Attributes](../../../aspose.html.dom.attributes/)
+* namespace [Aspose.Html.Dom.Attributes](../../domnameattribute/)
 * assembly [Aspose.HTML](../../../)

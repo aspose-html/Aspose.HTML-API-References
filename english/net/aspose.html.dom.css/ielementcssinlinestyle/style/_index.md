@@ -22,5 +22,5 @@ The associated CSS declaration block for the node or null if there is no associa
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [IElementCSSInlineStyle](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../ielementcssinlinestyle/)
 * assembly [Aspose.HTML](../../../)

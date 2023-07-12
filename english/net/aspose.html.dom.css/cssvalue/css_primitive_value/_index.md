@@ -17,5 +17,5 @@ public const ushort CSS_PRIMITIVE_VALUE;
 ### See Also
 
 * class [CSSValue](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../cssvalue/)
 * assembly [Aspose.HTML](../../../)

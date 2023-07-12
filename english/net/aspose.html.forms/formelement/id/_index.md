@@ -21,5 +21,5 @@ The identifier.
 ### See Also
 
 * class [FormElement](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../formelement/)
 * assembly [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public TemplateContentOptions ContentOptions { get; }
 
 * class [TemplateContentOptions](../../templatecontentoptions/)
 * class [TemplateData](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* namespace [Aspose.Html.Converters](../../templatedata/)
 * assembly [Aspose.HTML](../../../)

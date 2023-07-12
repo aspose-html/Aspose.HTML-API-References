@@ -17,5 +17,5 @@ public Color BackgroundColor { get; set; }
 ### See Also
 
 * class [RenderingOptions](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../renderingoptions/)
 * assembly [Aspose.HTML](../../../)

@@ -32,5 +32,5 @@ The newly created [`Event`](../../../aspose.html.dom.events/event/)
 
 * class [Event](../../../aspose.html.dom.events/event/)
 * class [Document](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../document/)
 * assembly [Aspose.HTML](../../../)

@@ -32,5 +32,5 @@ The newly created cell.
 
 * class [HTMLElement](../../htmlelement/)
 * class [HTMLTableRowElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmltablerowelement/)
 * assembly [Aspose.HTML](../../../)

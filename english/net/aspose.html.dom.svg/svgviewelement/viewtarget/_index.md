@@ -22,5 +22,5 @@ The attribute ‘viewTarget’ of the given ‘view’ element.
 
 * class [SVGStringList](../../../aspose.html.dom.svg.datatypes/svgstringlist/)
 * class [SVGViewElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgviewelement/)
 * assembly [Aspose.HTML](../../../)

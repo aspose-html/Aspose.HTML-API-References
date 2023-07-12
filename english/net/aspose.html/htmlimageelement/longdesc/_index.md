@@ -17,5 +17,5 @@ public string LongDesc { get; set; }
 ### See Also
 
 * class [HTMLImageElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlimageelement/)
 * assembly [Aspose.HTML](../../../)

@@ -34,5 +34,5 @@ The T type.
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [HugoYamlBasedFrontMatterSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../../aspose.html.toolkit.markdown.syntax.extensions/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../hugoyamlbasedfrontmattersyntaxnode/)
 * assembly [Aspose.HTML](../../../)

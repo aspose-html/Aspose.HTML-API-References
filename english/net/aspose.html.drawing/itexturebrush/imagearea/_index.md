@@ -21,5 +21,5 @@ Image area
 ### See Also
 
 * interface [ITextureBrush](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../itexturebrush/)
 * assembly [Aspose.HTML](../../../)

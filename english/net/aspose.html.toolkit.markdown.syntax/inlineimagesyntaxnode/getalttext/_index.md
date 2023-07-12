@@ -21,5 +21,5 @@ The string.
 ### See Also
 
 * class [InlineImageSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../inlineimagesyntaxnode/)
 * assembly [Aspose.HTML](../../../)

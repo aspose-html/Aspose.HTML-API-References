@@ -21,5 +21,5 @@ The transformation type.
 ### See Also
 
 * class [SVGTransform](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgtransform/)
 * assembly [Aspose.HTML](../../../)

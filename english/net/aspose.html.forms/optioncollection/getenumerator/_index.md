@@ -22,5 +22,5 @@ Returns the enumerator of option elements
 
 * class [OptionElement](../../optionelement/)
 * class [OptionCollection](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../optioncollection/)
 * assembly [Aspose.HTML](../../../)

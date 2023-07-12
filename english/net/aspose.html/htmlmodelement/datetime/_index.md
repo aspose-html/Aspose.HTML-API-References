@@ -17,5 +17,5 @@ public string DateTime { get; set; }
 ### See Also
 
 * class [HTMLModElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlmodelement/)
 * assembly [Aspose.HTML](../../../)

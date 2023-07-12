@@ -21,7 +21,7 @@ public Event(string type)
 ### See Also
 
 * class [Event](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../event/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public Event(string type, IDictionary<string, object> eventInitDict)
 ### See Also
 
 * class [Event](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../event/)
 * assembly [Aspose.HTML](../../../)

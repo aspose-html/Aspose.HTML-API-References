@@ -25,5 +25,5 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [Url](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../url/)
 * assembly [Aspose.HTML](../../../)

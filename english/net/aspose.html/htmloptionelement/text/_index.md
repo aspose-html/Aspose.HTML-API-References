@@ -17,5 +17,5 @@ public string Text { get; }
 ### See Also
 
 * class [HTMLOptionElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmloptionelement/)
 * assembly [Aspose.HTML](../../../)

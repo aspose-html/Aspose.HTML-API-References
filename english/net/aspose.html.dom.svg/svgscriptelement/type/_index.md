@@ -27,5 +27,5 @@ The attribute ‘type’ of the given ‘script’ element.
 ### See Also
 
 * class [SVGScriptElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgscriptelement/)
 * assembly [Aspose.HTML](../../../)

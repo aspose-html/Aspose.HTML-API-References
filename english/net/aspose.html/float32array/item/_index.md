@@ -25,5 +25,5 @@ The Single.
 ### See Also
 
 * class [Float32Array](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../float32array/)
 * assembly [Aspose.HTML](../../../)

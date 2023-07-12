@@ -21,5 +21,5 @@ The string.
 ### See Also
 
 * class [IndentedCodeBlockSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../indentedcodeblocksyntaxnode/)
 * assembly [Aspose.HTML](../../../)

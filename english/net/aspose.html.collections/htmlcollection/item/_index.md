@@ -30,5 +30,5 @@ The [`Element`](../../../aspose.html.dom/element/).
 
 * class [Element](../../../aspose.html.dom/element/)
 * class [HTMLCollection](../)
-* namespace [Aspose.Html.Collections](../../../aspose.html.collections/)
+* namespace [Aspose.Html.Collections](../../htmlcollection/)
 * assembly [Aspose.HTML](../../../)

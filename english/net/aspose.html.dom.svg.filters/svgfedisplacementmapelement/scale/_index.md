@@ -22,5 +22,5 @@ The attribute ‘scale’ of the given ‘feDisplacementMap’ element.
 
 * class [SVGAnimatedNumber](../../../aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEDisplacementMapElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfedisplacementmapelement/)
 * assembly [Aspose.HTML](../../../)

@@ -17,7 +17,7 @@ public MultipartContent()
 ### See Also
 
 * class [MultipartContent](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../multipartcontent/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -37,7 +37,7 @@ public MultipartContent(string subtype)
 ### See Also
 
 * class [MultipartContent](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../multipartcontent/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -64,5 +64,5 @@ public MultipartContent(string subtype, string boundary)
 ### See Also
 
 * class [MultipartContent](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../multipartcontent/)
 * assembly [Aspose.HTML](../../../)

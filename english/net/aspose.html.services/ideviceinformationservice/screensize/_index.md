@@ -22,5 +22,5 @@ The size of the screen.
 
 * class [Size](../../../aspose.html.drawing/size/)
 * interface [IDeviceInformationService](../)
-* namespace [Aspose.Html.Services](../../../aspose.html.services/)
+* namespace [Aspose.Html.Services](../../ideviceinformationservice/)
 * assembly [Aspose.HTML](../../../)

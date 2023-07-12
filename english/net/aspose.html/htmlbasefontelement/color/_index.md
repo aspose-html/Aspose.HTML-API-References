@@ -17,5 +17,5 @@ public string Color { get; set; }
 ### See Also
 
 * class [HTMLBaseFontElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlbasefontelement/)
 * assembly [Aspose.HTML](../../../)

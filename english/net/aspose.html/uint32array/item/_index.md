@@ -25,5 +25,5 @@ The UInt32.
 ### See Also
 
 * class [Uint32Array](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../uint32array/)
 * assembly [Aspose.HTML](../../../)

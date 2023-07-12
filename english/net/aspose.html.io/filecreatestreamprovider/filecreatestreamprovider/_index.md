@@ -17,7 +17,7 @@ public FileCreateStreamProvider()
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* namespace [Aspose.Html.IO](../../../aspose.html.io/)
+* namespace [Aspose.Html.IO](../../filecreatestreamprovider/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -37,7 +37,7 @@ public FileCreateStreamProvider(string name)
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* namespace [Aspose.Html.IO](../../../aspose.html.io/)
+* namespace [Aspose.Html.IO](../../filecreatestreamprovider/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -58,5 +58,5 @@ public FileCreateStreamProvider(string directory, string name)
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* namespace [Aspose.Html.IO](../../../aspose.html.io/)
+* namespace [Aspose.Html.IO](../../filecreatestreamprovider/)
 * assembly [Aspose.HTML](../../../)

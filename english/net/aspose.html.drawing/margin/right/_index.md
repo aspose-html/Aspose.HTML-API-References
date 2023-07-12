@@ -22,5 +22,5 @@ The right.
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../margin/)
 * assembly [Aspose.HTML](../../../)

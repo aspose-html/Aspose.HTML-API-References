@@ -21,5 +21,5 @@ The content of the text.
 ### See Also
 
 * class [ProcessingInstruction](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../processinginstruction/)
 * assembly [Aspose.HTML](../../../)

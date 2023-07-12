@@ -21,7 +21,7 @@ The instance of Configuration object.
 ### See Also
 
 * class [Configuration](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../configuration/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -46,5 +46,5 @@ The instance of Configuration object.
 
 * interface [IConfigurationBuilder](../../iconfigurationbuilder/)
 * class [Configuration](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../configuration/)
 * assembly [Aspose.HTML](../../../)

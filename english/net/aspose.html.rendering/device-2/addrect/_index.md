@@ -21,5 +21,5 @@ public abstract void AddRect(RectangleF rect)
 ### See Also
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../device-2/)
 * assembly [Aspose.HTML](../../../)

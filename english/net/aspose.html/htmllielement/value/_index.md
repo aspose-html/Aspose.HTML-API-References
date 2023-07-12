@@ -17,5 +17,5 @@ public int Value { get; set; }
 ### See Also
 
 * class [HTMLLIElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmllielement/)
 * assembly [Aspose.HTML](../../../)

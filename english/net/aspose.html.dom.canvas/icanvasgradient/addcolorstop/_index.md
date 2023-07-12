@@ -22,5 +22,5 @@ public void AddColorStop(double offset, string color)
 ### See Also
 
 * interface [ICanvasGradient](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasgradient/)
 * assembly [Aspose.HTML](../../../)

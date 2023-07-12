@@ -17,5 +17,5 @@ public string Type { get; }
 ### See Also
 
 * class [TextAreaElement](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../textareaelement/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The HTML element.
 ### See Also
 
 * class [FormElement&lt;T&gt;](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../formelement-1/)
 * assembly [Aspose.HTML](../../../)

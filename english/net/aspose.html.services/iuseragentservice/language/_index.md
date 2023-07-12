@@ -21,5 +21,5 @@ The user agent language.
 ### See Also
 
 * interface [IUserAgentService](../)
-* namespace [Aspose.Html.Services](../../../aspose.html.services/)
+* namespace [Aspose.Html.Services](../../iuseragentservice/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The string label.
 ### See Also
 
 * class [ReferenceImageSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../referenceimagesyntaxnode/)
 * assembly [Aspose.HTML](../../../)

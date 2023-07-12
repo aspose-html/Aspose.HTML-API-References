@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [Path2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../path2d/)
 * assembly [Aspose.HTML](../../../)

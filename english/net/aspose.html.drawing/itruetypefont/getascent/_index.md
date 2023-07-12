@@ -25,5 +25,5 @@ The ascent in points.
 ### See Also
 
 * interface [ITrueTypeFont](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../itruetypefont/)
 * assembly [Aspose.HTML](../../../)

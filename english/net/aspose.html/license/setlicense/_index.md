@@ -63,7 +63,7 @@ license.setLicense("MyLicense.lic");
 ### See Also
 
 * class [License](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../license/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -96,5 +96,5 @@ license.SetLicense(myStream);
 ### See Also
 
 * class [License](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../license/)
 * assembly [Aspose.HTML](../../../)

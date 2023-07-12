@@ -21,5 +21,5 @@ public override void Clip(FillMode mode)
 ### See Also
 
 * class [ImageDevice](../)
-* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
+* namespace [Aspose.Html.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.HTML](../../../)

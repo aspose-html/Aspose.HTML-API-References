@@ -18,5 +18,5 @@ public IStyleSheet Sheet { get; }
 
 * interface [IStyleSheet](../../../aspose.html.dom.css/istylesheet/)
 * class [SVGStyleElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgstyleelement/)
 * assembly [Aspose.HTML](../../../)

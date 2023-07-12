@@ -21,5 +21,5 @@ The value.
 ### See Also
 
 * class [NameValueHeaderValue](../)
-* namespace [Aspose.Html.Net.Headers](../../../aspose.html.net.headers/)
+* namespace [Aspose.Html.Net.Headers](../../namevalueheadervalue/)
 * assembly [Aspose.HTML](../../../)

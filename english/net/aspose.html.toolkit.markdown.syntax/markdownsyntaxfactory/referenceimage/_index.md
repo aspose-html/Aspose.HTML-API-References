@@ -34,5 +34,5 @@ The ReferenceImageSyntax.
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [InlineContainerSyntaxNode](../../inlinecontainersyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
 * assembly [Aspose.HTML](../../../)

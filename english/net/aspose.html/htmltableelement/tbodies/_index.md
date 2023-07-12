@@ -18,5 +18,5 @@ public HTMLCollection TBodies { get; }
 
 * class [HTMLCollection](../../../aspose.html.collections/htmlcollection/)
 * class [HTMLTableElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmltableelement/)
 * assembly [Aspose.HTML](../../../)

@@ -43,7 +43,7 @@ Reference
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.html.dom/element/)
 * interface [IViewCSS](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../iviewcss/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -86,5 +86,5 @@ Reference
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * class [Element](../../../aspose.html.dom/element/)
 * interface [IViewCSS](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../iviewcss/)
 * assembly [Aspose.HTML](../../../)

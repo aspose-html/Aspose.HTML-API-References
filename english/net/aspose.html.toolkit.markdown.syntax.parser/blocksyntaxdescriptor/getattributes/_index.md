@@ -21,5 +21,5 @@ The IEnumerable.
 ### See Also
 
 * class [BlockSyntaxDescriptor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../blocksyntaxdescriptor/)
 * assembly [Aspose.HTML](../../../)

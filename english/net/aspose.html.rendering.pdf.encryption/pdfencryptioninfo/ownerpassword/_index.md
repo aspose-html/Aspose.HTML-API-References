@@ -25,5 +25,5 @@ Opening the document with the correct owner password (assuming it is not the sam
 ### See Also
 
 * class [PdfEncryptionInfo](../)
-* namespace [Aspose.Html.Rendering.Pdf.Encryption](../../../aspose.html.rendering.pdf.encryption/)
+* namespace [Aspose.Html.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
 * assembly [Aspose.HTML](../../../)

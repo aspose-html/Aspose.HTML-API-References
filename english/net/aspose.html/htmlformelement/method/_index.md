@@ -17,5 +17,5 @@ public string Method { get; set; }
 ### See Also
 
 * class [HTMLFormElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlformelement/)
 * assembly [Aspose.HTML](../../../)

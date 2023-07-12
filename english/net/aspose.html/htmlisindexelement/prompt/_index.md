@@ -17,5 +17,5 @@ public string Prompt { get; set; }
 ### See Also
 
 * class [HTMLIsIndexElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlisindexelement/)
 * assembly [Aspose.HTML](../../../)

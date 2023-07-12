@@ -22,5 +22,5 @@ The root.
 
 * class [Node](../../../aspose.html.dom/node/)
 * interface [ITraversal](../)
-* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
+* namespace [Aspose.Html.Dom.Traversal](../../itraversal/)
 * assembly [Aspose.HTML](../../../)

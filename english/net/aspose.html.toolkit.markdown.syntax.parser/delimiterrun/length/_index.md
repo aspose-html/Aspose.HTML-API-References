@@ -17,5 +17,5 @@ public int Length { get; }
 ### See Also
 
 * class [DelimiterRun](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../delimiterrun/)
 * assembly [Aspose.HTML](../../../)

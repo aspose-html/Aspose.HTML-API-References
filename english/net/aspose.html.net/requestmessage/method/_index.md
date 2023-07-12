@@ -22,5 +22,5 @@ The [`HttpMethod`](../../httpmethod/).
 
 * class [HttpMethod](../../httpmethod/)
 * class [RequestMessage](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../requestmessage/)
 * assembly [Aspose.HTML](../../../)

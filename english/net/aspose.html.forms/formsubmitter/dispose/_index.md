@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [FormSubmitter](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../formsubmitter/)
 * assembly [Aspose.HTML](../../../)

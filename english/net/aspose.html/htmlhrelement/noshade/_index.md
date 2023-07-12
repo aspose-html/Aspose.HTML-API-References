@@ -17,5 +17,5 @@ public bool NoShade { get; set; }
 ### See Also
 
 * class [HTMLHRElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlhrelement/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public bool RemoveDescriptions { get; set; }
 ### See Also
 
 * class [SVGOptimizationOptions](../)
-* namespace [Aspose.Html.Toolkit.Optimizers](../../../aspose.html.toolkit.optimizers/)
+* namespace [Aspose.Html.Toolkit.Optimizers](../../svgoptimizationoptions/)
 * assembly [Aspose.HTML](../../../)

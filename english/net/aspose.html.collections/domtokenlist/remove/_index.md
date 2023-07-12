@@ -21,5 +21,5 @@ public void Remove(params string[] tokens)
 ### See Also
 
 * class [DOMTokenList](../)
-* namespace [Aspose.Html.Collections](../../../aspose.html.collections/)
+* namespace [Aspose.Html.Collections](../../domtokenlist/)
 * assembly [Aspose.HTML](../../../)

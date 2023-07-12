@@ -17,5 +17,5 @@ public static readonly UnitType Grad;
 ### See Also
 
 * class [UnitType](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../unittype/)
 * assembly [Aspose.HTML](../../../)

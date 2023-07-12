@@ -18,5 +18,5 @@ public MarkdownSyntaxNode CurrentNode { get; set; }
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [TreeWalker](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../treewalker/)
 * assembly [Aspose.HTML](../../../)

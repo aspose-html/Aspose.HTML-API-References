@@ -18,5 +18,5 @@ public event DOMEventHandler OnPageHide;
 
 * delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* namespace [Aspose.Html.Window](../../../aspose.html.window/)
+* namespace [Aspose.Html.Window](../../iwindoweventhandlers/)
 * assembly [Aspose.HTML](../../../)

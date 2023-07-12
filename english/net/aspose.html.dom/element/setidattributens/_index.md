@@ -23,5 +23,5 @@ public void SetIdAttributeNS(string namespaceURI, string localName, bool isId)
 ### See Also
 
 * class [Element](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../element/)
 * assembly [Aspose.HTML](../../../)

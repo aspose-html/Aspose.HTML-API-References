@@ -17,5 +17,5 @@ public string Width { get; set; }
 ### See Also
 
 * class [HTMLTableColElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmltablecolelement/)
 * assembly [Aspose.HTML](../../../)

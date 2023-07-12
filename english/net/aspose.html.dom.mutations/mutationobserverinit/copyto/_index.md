@@ -15,5 +15,5 @@ public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
 ### See Also
 
 * class [MutationObserverInit](../)
-* namespace [Aspose.Html.Dom.Mutations](../../../aspose.html.dom.mutations/)
+* namespace [Aspose.Html.Dom.Mutations](../../mutationobserverinit/)
 * assembly [Aspose.HTML](../../../)

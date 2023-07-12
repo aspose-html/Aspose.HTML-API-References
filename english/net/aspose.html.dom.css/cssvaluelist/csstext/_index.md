@@ -23,5 +23,5 @@ A DOMString representing the current CSS property value.
 ### See Also
 
 * class [CSSValueList](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../cssvaluelist/)
 * assembly [Aspose.HTML](../../../)

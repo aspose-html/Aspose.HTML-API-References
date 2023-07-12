@@ -17,5 +17,5 @@ public string Scheme { get; set; }
 ### See Also
 
 * class [HTMLMetaElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlmetaelement/)
 * assembly [Aspose.HTML](../../../)

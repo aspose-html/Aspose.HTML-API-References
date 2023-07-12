@@ -34,5 +34,5 @@ Created [`ShadowRoot`](../../shadowroot/).
 * class [ShadowRoot](../../shadowroot/)
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [Element](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../element/)
 * assembly [Aspose.HTML](../../../)

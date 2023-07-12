@@ -29,5 +29,5 @@ Returns the next node.
 
 * class [Node](../../../aspose.html.dom/node/)
 * interface [IXPathResult](../)
-* namespace [Aspose.Html.Dom.XPath](../../../aspose.html.dom.xpath/)
+* namespace [Aspose.Html.Dom.XPath](../../ixpathresult/)
 * assembly [Aspose.HTML](../../../)

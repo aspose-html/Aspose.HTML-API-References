@@ -21,5 +21,5 @@ An IEnumerator object that can be used to iterate through the collection.
 ### See Also
 
 * class [DOMTokenList](../)
-* namespace [Aspose.Html.Collections](../../../aspose.html.collections/)
+* namespace [Aspose.Html.Collections](../../domtokenlist/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public string Referrer { get; }
 ### See Also
 
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)

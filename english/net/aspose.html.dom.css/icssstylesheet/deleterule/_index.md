@@ -29,5 +29,5 @@ Reference
 ### See Also
 
 * interface [ICSSStyleSheet](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../icssstylesheet/)
 * assembly [Aspose.HTML](../../../)

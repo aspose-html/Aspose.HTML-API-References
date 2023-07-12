@@ -17,5 +17,5 @@ public static MarkdownSaveOptions Git { get; }
 ### See Also
 
 * class [MarkdownSaveOptions](../)
-* namespace [Aspose.Html.Saving](../../../aspose.html.saving/)
+* namespace [Aspose.Html.Saving](../../markdownsaveoptions/)
 * assembly [Aspose.HTML](../../../)

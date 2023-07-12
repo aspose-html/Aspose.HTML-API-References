@@ -27,5 +27,5 @@ The attribute ‘media’ on the given element.
 ### See Also
 
 * class [SVGStyleElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgstyleelement/)
 * assembly [Aspose.HTML](../../../)

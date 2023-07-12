@@ -21,5 +21,5 @@ An System.Net.ICredentials that contains the authentication credentials associat
 ### See Also
 
 * class [RequestMessage](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../requestmessage/)
 * assembly [Aspose.HTML](../../../)

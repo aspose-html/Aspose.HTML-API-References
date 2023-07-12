@@ -15,5 +15,5 @@ public static bool operator ==(InlineParsingInstruction left, InlineParsingInstr
 ### See Also
 
 * struct [InlineParsingInstruction](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../inlineparsinginstruction/)
 * assembly [Aspose.HTML](../../../)

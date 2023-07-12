@@ -21,5 +21,5 @@ public void AppendRule(string rule)
 ### See Also
 
 * interface [ICSSKeyframesRule](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../icsskeyframesrule/)
 * assembly [Aspose.HTML](../../../)

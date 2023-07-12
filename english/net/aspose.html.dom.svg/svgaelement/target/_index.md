@@ -22,5 +22,5 @@ The attribute ‘target’ of the given ‘a’ element.
 
 * class [SVGAnimatedString](../../../aspose.html.dom.svg.datatypes/svganimatedstring/)
 * class [SVGAElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgaelement/)
 * assembly [Aspose.HTML](../../../)

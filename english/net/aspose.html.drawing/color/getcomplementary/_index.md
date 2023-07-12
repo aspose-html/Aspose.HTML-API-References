@@ -21,5 +21,5 @@ A new instance of the [`Color`](../) class.
 ### See Also
 
 * class [Color](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../color/)
 * assembly [Aspose.HTML](../../../)

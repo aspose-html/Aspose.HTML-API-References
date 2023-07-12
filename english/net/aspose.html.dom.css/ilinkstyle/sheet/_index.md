@@ -22,5 +22,5 @@ The [associated CSS style sheet](https://www.w3.org/TR/cssom-1/#associated-css-s
 
 * interface [IStyleSheet](../../istylesheet/)
 * interface [ILinkStyle](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../ilinkstyle/)
 * assembly [Aspose.HTML](../../../)

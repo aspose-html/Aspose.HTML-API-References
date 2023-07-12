@@ -18,5 +18,5 @@ public Element Host { get; }
 
 * class [Element](../../element/)
 * class [ShadowRoot](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../shadowroot/)
 * assembly [Aspose.HTML](../../../)

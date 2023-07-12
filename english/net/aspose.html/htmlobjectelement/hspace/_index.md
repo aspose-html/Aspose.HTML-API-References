@@ -17,5 +17,5 @@ public int Hspace { get; set; }
 ### See Also
 
 * class [HTMLObjectElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlobjectelement/)
 * assembly [Aspose.HTML](../../../)

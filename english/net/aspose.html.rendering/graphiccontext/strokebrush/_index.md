@@ -18,5 +18,5 @@ public virtual IBrush StrokeBrush { get; set; }
 
 * interface [IBrush](../../../aspose.html.drawing/ibrush/)
 * class [GraphicContext](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../graphiccontext/)
 * assembly [Aspose.HTML](../../../)

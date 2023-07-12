@@ -21,5 +21,5 @@ Gets and sets the value of the fallback descriptor. If the descriptor does not h
 ### See Also
 
 * interface [ICSSCounterStyleRule](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../icsscounterstylerule/)
 * assembly [Aspose.HTML](../../../)

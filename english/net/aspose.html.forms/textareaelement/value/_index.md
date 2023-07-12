@@ -17,5 +17,5 @@ public override string Value { get; set; }
 ### See Also
 
 * class [TextAreaElement](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../textareaelement/)
 * assembly [Aspose.HTML](../../../)

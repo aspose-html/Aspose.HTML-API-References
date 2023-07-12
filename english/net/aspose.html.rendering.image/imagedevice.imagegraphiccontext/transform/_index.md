@@ -21,5 +21,5 @@ public override void Transform(Matrix matrix)
 ### See Also
 
 * class [ImageGraphicContext](../)
-* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
+* namespace [Aspose.Html.Rendering.Image](../../imagedevice.imagegraphiccontext/)
 * assembly [Aspose.HTML](../../../)

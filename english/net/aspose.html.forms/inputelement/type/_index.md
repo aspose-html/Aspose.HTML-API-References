@@ -18,5 +18,5 @@ public InputElementType Type { get; set; }
 
 * enum [InputElementType](../../inputelementtype/)
 * class [InputElement](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../inputelement/)
 * assembly [Aspose.HTML](../../../)

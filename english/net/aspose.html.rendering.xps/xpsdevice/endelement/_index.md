@@ -22,5 +22,5 @@ public override void EndElement(Element element)
 
 * class [Element](../../../aspose.html.dom/element/)
 * class [XpsDevice](../)
-* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
+* namespace [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * assembly [Aspose.HTML](../../../)

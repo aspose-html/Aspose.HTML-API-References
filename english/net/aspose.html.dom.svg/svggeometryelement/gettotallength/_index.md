@@ -21,5 +21,5 @@ The total length of the path.
 ### See Also
 
 * class [SVGGeometryElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svggeometryelement/)
 * assembly [Aspose.HTML](../../../)

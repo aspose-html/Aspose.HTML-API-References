@@ -22,5 +22,5 @@ The permissions.
 
 * enum [PdfPermissions](../../pdfpermissions/)
 * class [PdfEncryptionInfo](../)
-* namespace [Aspose.Html.Rendering.Pdf.Encryption](../../../aspose.html.rendering.pdf.encryption/)
+* namespace [Aspose.Html.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
 * assembly [Aspose.HTML](../../../)

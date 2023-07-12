@@ -21,5 +21,5 @@ public bool PreAuthenticate { get; set; }
 ### See Also
 
 * class [RequestMessage](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../requestmessage/)
 * assembly [Aspose.HTML](../../../)

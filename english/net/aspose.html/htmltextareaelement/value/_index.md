@@ -17,5 +17,5 @@ public string Value { get; set; }
 ### See Also
 
 * class [HTMLTextAreaElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmltextareaelement/)
 * assembly [Aspose.HTML](../../../)

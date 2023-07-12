@@ -22,5 +22,5 @@ The attribute ‘type’ of the given ‘feColorMatrix’ element.
 
 * class [SVGAnimatedEnumeration](../../../aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEColorMatrixElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfecolormatrixelement/)
 * assembly [Aspose.HTML](../../../)

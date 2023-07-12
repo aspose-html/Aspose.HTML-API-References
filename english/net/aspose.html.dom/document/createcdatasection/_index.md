@@ -32,5 +32,5 @@ var cdata = document.CreateCDATASection(data)
 
 * class [CDATASection](../../cdatasection/)
 * class [Document](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../document/)
 * assembly [Aspose.HTML](../../../)

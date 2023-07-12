@@ -18,5 +18,5 @@ public virtual ITrueTypeFont Font { get; set; }
 
 * interface [ITrueTypeFont](../../../aspose.html.drawing/itruetypefont/)
 * class [GraphicContext](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../graphiccontext/)
 * assembly [Aspose.HTML](../../../)

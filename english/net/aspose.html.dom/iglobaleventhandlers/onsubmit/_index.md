@@ -18,5 +18,5 @@ public event DOMEventHandler OnSubmit;
 
 * delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../iglobaleventhandlers/)
 * assembly [Aspose.HTML](../../../)

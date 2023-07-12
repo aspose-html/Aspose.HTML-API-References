@@ -32,7 +32,7 @@ The YamlSyntaxNode.
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [YamlMappingSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../../aspose.html.toolkit.markdown.syntax.extensions/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../yamlmappingsyntaxnode/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -63,5 +63,5 @@ The YamlSyntaxNode.
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [YamlMappingSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../../aspose.html.toolkit.markdown.syntax.extensions/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../yamlmappingsyntaxnode/)
 * assembly [Aspose.HTML](../../../)

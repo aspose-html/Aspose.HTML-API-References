@@ -27,5 +27,5 @@ Returns a new Blob object with bytes ranging from the optional start parameter u
 ### See Also
 
 * interface [IBlob](../)
-* namespace [Aspose.Html.IO](../../../aspose.html.io/)
+* namespace [Aspose.Html.IO](../../iblob/)
 * assembly [Aspose.HTML](../../../)

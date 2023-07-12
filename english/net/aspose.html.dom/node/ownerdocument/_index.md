@@ -30,5 +30,5 @@ Reference:
 
 * class [Document](../../document/)
 * class [Node](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../node/)
 * assembly [Aspose.HTML](../../../)

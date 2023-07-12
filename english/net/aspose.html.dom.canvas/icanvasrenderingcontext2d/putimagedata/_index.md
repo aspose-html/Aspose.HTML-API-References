@@ -24,7 +24,7 @@ public void PutImageData(IImageData imagedata, double dx, double dy)
 
 * interface [IImageData](../../iimagedata/)
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -52,5 +52,5 @@ public void PutImageData(IImageData imagedata, double dx, double dy, double dirt
 
 * interface [IImageData](../../iimagedata/)
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)

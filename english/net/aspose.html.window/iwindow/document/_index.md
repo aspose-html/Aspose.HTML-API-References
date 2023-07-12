@@ -22,5 +22,5 @@ The document.
 
 * class [Document](../../../aspose.html.dom/document/)
 * interface [IWindow](../)
-* namespace [Aspose.Html.Window](../../../aspose.html.window/)
+* namespace [Aspose.Html.Window](../../iwindow/)
 * assembly [Aspose.HTML](../../../)

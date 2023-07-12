@@ -38,5 +38,5 @@ The result of the evaluation of the XPath expression. For XPath 1.0 results, thi
 * class [Node](../../../aspose.html.dom/node/)
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathExpression](../)
-* namespace [Aspose.Html.Dom.XPath](../../../aspose.html.dom.xpath/)
+* namespace [Aspose.Html.Dom.XPath](../../ixpathexpression/)
 * assembly [Aspose.HTML](../../../)

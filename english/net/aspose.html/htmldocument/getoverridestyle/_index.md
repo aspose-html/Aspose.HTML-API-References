@@ -28,5 +28,5 @@ The override style declaration
 * interface [ICSSStyleDeclaration](../../../aspose.html.dom.css/icssstyledeclaration/)
 * class [Element](../../../aspose.html.dom/element/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)

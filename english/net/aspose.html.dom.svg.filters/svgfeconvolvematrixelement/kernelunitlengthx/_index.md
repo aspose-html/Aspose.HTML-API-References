@@ -22,5 +22,5 @@ The attribute ‘kernelUnitLength’ of the given ‘feConvolveMatrix’ element
 
 * class [SVGAnimatedNumber](../../../aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEConvolveMatrixElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfeconvolvematrixelement/)
 * assembly [Aspose.HTML](../../../)

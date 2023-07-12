@@ -17,5 +17,5 @@ public RectangleF Rect { get; }
 ### See Also
 
 * interface [ILinearGradientBrush](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../ilineargradientbrush/)
 * assembly [Aspose.HTML](../../../)

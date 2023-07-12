@@ -17,5 +17,5 @@ public string FrameBorder { get; set; }
 ### See Also
 
 * class [HTMLIFrameElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmliframeelement/)
 * assembly [Aspose.HTML](../../../)

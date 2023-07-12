@@ -17,5 +17,5 @@ public const byte XHTML;
 ### See Also
 
 * class [HTMLSaveOptions](../)
-* namespace [Aspose.Html.Saving](../../../aspose.html.saving/)
+* namespace [Aspose.Html.Saving](../../htmlsaveoptions/)
 * assembly [Aspose.HTML](../../../)

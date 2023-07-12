@@ -22,7 +22,7 @@ public virtual void VisitList(UnorderedListSyntaxNode list)
 
 * class [UnorderedListSyntaxNode](../../unorderedlistsyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -43,5 +43,5 @@ public virtual void VisitList(OrderedListSyntaxNode list)
 
 * class [OrderedListSyntaxNode](../../orderedlistsyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
 * assembly [Aspose.HTML](../../../)

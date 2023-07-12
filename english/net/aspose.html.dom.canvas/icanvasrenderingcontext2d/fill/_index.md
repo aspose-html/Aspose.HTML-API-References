@@ -17,7 +17,7 @@ public void Fill()
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -38,7 +38,7 @@ public void Fill(CanvasFillRule fillRule)
 
 * enum [CanvasFillRule](../../canvasfillrule/)
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -59,7 +59,7 @@ public void Fill(Path2D path)
 
 * class [Path2D](../../path2d/)
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -82,5 +82,5 @@ public void Fill(Path2D path, CanvasFillRule fillRule)
 * class [Path2D](../../path2d/)
 * enum [CanvasFillRule](../../canvasfillrule/)
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)

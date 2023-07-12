@@ -3,7 +3,7 @@ title: EmphasisSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.EmphasisSyntaxNode class. Represents the EmphasisSyntaxNode
 type: docs
-weight: 4870
+weight: 4880
 url: /net/aspose.html.toolkit.markdown.syntax/emphasissyntaxnode/
 ---
 ## EmphasisSyntaxNode class

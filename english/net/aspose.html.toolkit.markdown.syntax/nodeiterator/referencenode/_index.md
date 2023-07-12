@@ -18,5 +18,5 @@ public MarkdownSyntaxNode ReferenceNode { get; }
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [NodeIterator](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../nodeiterator/)
 * assembly [Aspose.HTML](../../../)

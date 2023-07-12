@@ -21,5 +21,5 @@ The string value.
 ### See Also
 
 * class [TableCellSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../tablecellsyntaxnode/)
 * assembly [Aspose.HTML](../../../)

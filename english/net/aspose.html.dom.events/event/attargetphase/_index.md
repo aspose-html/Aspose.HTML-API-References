@@ -17,5 +17,5 @@ public const ushort AtTargetPhase;
 ### See Also
 
 * class [Event](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../event/)
 * assembly [Aspose.HTML](../../../)

@@ -28,7 +28,7 @@ The InlineImageSyntax.
 
 * class [InlineImageSyntaxNode](../../inlineimagesyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -64,5 +64,5 @@ The InlineImageSyntax.
 * class [LinkDestinationSyntaxNode](../../linkdestinationsyntaxnode/)
 * class [LinkTitleSyntaxNode](../../linktitlesyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public string BgColor { get; set; }
 ### See Also
 
 * class [HTMLTableElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmltableelement/)
 * assembly [Aspose.HTML](../../../)

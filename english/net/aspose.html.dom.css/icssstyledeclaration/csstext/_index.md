@@ -21,5 +21,5 @@ Setting this attribute changes the inline style. If you want a text representati
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../icssstyledeclaration/)
 * assembly [Aspose.HTML](../../../)

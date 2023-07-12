@@ -27,5 +27,5 @@ The total number of bytes read into the buffer. This can be less than the number
 ### See Also
 
 * class [OutputStream](../)
-* namespace [Aspose.Html.IO](../../../aspose.html.io/)
+* namespace [Aspose.Html.IO](../../outputstream/)
 * assembly [Aspose.HTML](../../../)

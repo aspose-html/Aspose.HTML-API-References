@@ -22,5 +22,5 @@ The attribute ‘in’ of the given ‘feConvolveMatrix’ element.
 
 * class [SVGAnimatedString](../../../aspose.html.dom.svg.datatypes/svganimatedstring/)
 * class [SVGFEConvolveMatrixElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfeconvolvematrixelement/)
 * assembly [Aspose.HTML](../../../)

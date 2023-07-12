@@ -22,5 +22,5 @@ The attribute ‘type’ of the given ‘feTurbulence’ element.
 
 * class [SVGAnimatedEnumeration](../../../aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGFETurbulenceElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfeturbulenceelement/)
 * assembly [Aspose.HTML](../../../)

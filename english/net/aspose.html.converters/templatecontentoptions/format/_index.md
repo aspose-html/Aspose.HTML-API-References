@@ -17,5 +17,5 @@ public string Format { get; }
 ### See Also
 
 * class [TemplateContentOptions](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* namespace [Aspose.Html.Converters](../../templatecontentoptions/)
 * assembly [Aspose.HTML](../../../)

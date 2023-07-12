@@ -18,5 +18,5 @@ public override IBrush StrokeBrush { get; set; }
 
 * interface [IBrush](../../../aspose.html.drawing/ibrush/)
 * class [PdfGraphicContext](../)
-* namespace [Aspose.Html.Rendering.Pdf](../../../aspose.html.rendering.pdf/)
+* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice.pdfgraphiccontext/)
 * assembly [Aspose.HTML](../../../)

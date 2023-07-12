@@ -22,5 +22,5 @@ The required features.
 
 * class [SVGStringList](../../../aspose.html.dom.svg.datatypes/svgstringlist/)
 * interface [ISVGTests](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../isvgtests/)
 * assembly [Aspose.HTML](../../../)

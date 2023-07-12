@@ -17,5 +17,5 @@ public string Keywords { get; set; }
 ### See Also
 
 * class [PdfDocumentInfo](../)
-* namespace [Aspose.Html.Rendering.Pdf](../../../aspose.html.rendering.pdf/)
+* namespace [Aspose.Html.Rendering.Pdf](../../pdfdocumentinfo/)
 * assembly [Aspose.HTML](../../../)

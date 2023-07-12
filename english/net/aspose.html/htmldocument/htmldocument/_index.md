@@ -40,7 +40,7 @@ using (var document = new HTMLDocument())
 ### See Also
 
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -95,7 +95,7 @@ using (var configuration = new Configuration())
 
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -136,7 +136,7 @@ using (var document = new HTMLDocument("https://docs.aspose.com/html/net/working
 
 * class [Url](../../url/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -193,7 +193,7 @@ using (var configuration = new Configuration())
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -232,7 +232,7 @@ using (var document = new HTMLDocument("./my-folder/document.html")))
 ### See Also
 
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -278,7 +278,7 @@ using (var configuration = new Configuration())
 
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -324,7 +324,7 @@ using (var document = new HTMLDocument(html_code, "."))
 ### See Also
 
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -372,7 +372,7 @@ using (var document = new HTMLDocument(html_code, "."))
 
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -419,7 +419,7 @@ using (var document = new HTMLDocument(html_code, "."))
 
 * class [Url](../../url/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -468,7 +468,7 @@ using (var document = new HTMLDocument(html_code, "."))
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -524,7 +524,7 @@ using (var sw = new StreamWriter(mem))
 ### See Also
 
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -582,7 +582,7 @@ using (var sw = new StreamWriter(mem))
 
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -639,7 +639,7 @@ using (var sw = new StreamWriter(mem))
 
 * class [Url](../../url/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -698,7 +698,7 @@ using (var sw = new StreamWriter(mem))
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -729,7 +729,7 @@ Reference:
 
 * class [RequestMessage](../../../aspose.html.net/requestmessage/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -762,5 +762,5 @@ Reference:
 * class [RequestMessage](../../../aspose.html.net/requestmessage/)
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)

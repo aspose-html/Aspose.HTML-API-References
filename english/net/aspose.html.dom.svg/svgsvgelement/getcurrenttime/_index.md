@@ -21,5 +21,5 @@ The current time in seconds, or 0 if the document timeline has not yet begun.
 ### See Also
 
 * class [SVGSVGElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgsvgelement/)
 * assembly [Aspose.HTML](../../../)

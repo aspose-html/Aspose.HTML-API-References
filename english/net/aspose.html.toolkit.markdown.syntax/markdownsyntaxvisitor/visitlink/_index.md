@@ -22,7 +22,7 @@ public virtual void VisitLink(InlineLinkSyntaxNode link)
 
 * class [InlineLinkSyntaxNode](../../inlinelinksyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -43,5 +43,5 @@ public virtual void VisitLink(AutoLinkSyntaxNode link)
 
 * class [AutoLinkSyntaxNode](../../autolinksyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public abstract void ClosePath()
 ### See Also
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../device-2/)
 * assembly [Aspose.HTML](../../../)

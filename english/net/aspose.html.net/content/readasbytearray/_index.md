@@ -21,5 +21,5 @@ Serialized byte array that represents the content
 ### See Also
 
 * class [Content](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../content/)
 * assembly [Aspose.HTML](../../../)

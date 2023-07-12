@@ -17,5 +17,5 @@ public override long Position { get; set; }
 ### See Also
 
 * class [OutputStream](../)
-* namespace [Aspose.Html.IO](../../../aspose.html.io/)
+* namespace [Aspose.Html.IO](../../outputstream/)
 * assembly [Aspose.HTML](../../../)

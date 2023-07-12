@@ -25,7 +25,7 @@ public override void Render(IDevice device, TimeSpan timeout, params SVGDocument
 * interface [IDevice](../../idevice/)
 * class [SVGDocument](../../../aspose.html.dom.svg/svgdocument/)
 * class [SvgRenderer](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../svgrenderer/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -50,5 +50,5 @@ public override void Render(IDevice device, CancellationToken cancellationToken,
 * interface [IDevice](../../idevice/)
 * class [SVGDocument](../../../aspose.html.dom.svg/svgdocument/)
 * class [SvgRenderer](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../svgrenderer/)
 * assembly [Aspose.HTML](../../../)

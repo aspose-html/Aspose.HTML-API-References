@@ -25,5 +25,5 @@ index is the index of the node to be fetched. The index is zero-based.
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../icssstyledeclaration/)
 * assembly [Aspose.HTML](../../../)

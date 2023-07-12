@@ -17,5 +17,5 @@ public MessageHandlerCollection()
 ### See Also
 
 * class [MessageHandlerCollection](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../messagehandlercollection/)
 * assembly [Aspose.HTML](../../../)

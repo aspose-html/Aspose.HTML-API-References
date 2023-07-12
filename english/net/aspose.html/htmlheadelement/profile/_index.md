@@ -17,5 +17,5 @@ public string Profile { get; set; }
 ### See Also
 
 * class [HTMLHeadElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlheadelement/)
 * assembly [Aspose.HTML](../../../)

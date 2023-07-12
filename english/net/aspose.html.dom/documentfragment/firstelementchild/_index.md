@@ -22,5 +22,5 @@ The first element child.
 
 * class [Element](../../element/)
 * class [DocumentFragment](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../documentfragment/)
 * assembly [Aspose.HTML](../../../)

@@ -15,5 +15,5 @@ public static bool operator <=(Resolution a, Resolution b)
 ### See Also
 
 * class [Resolution](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../resolution/)
 * assembly [Aspose.HTML](../../../)

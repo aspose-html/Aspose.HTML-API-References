@@ -26,5 +26,5 @@ public override bool Equals(Unit other)
 
 * class [Unit](../../unit/)
 * class [Numeric](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../numeric/)
 * assembly [Aspose.HTML](../../../)

@@ -25,5 +25,5 @@ True if the item was found and removed; otherwise, false.
 ### See Also
 
 * class [SyntaxNodeCollection&lt;T&gt;](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../syntaxnodecollection-1/)
 * assembly [Aspose.HTML](../../../)

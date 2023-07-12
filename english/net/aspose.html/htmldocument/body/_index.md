@@ -18,5 +18,5 @@ public HTMLElement Body { get; set; }
 
 * class [HTMLElement](../../htmlelement/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldocument/)
 * assembly [Aspose.HTML](../../../)

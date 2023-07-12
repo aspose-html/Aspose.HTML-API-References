@@ -25,5 +25,5 @@ The Byte.
 ### See Also
 
 * class [ArrayBuffer](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../arraybuffer/)
 * assembly [Aspose.HTML](../../../)

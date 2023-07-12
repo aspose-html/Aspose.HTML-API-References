@@ -17,5 +17,5 @@ public string Value { get; }
 ### See Also
 
 * class [LineBreakSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../linebreaksyntaxnode/)
 * assembly [Aspose.HTML](../../../)

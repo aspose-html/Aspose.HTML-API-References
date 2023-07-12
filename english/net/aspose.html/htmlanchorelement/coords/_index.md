@@ -17,5 +17,5 @@ public string Coords { get; set; }
 ### See Also
 
 * class [HTMLAnchorElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlanchorelement/)
 * assembly [Aspose.HTML](../../../)

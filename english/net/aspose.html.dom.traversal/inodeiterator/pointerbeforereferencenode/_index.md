@@ -21,5 +21,5 @@ public bool PointerBeforeReferenceNode { get; }
 ### See Also
 
 * interface [INodeIterator](../)
-* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
+* namespace [Aspose.Html.Dom.Traversal](../../inodeiterator/)
 * assembly [Aspose.HTML](../../../)

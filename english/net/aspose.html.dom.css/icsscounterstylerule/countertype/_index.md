@@ -21,5 +21,5 @@ Gets the value of the counter type descriptor of current instance.
 ### See Also
 
 * interface [ICSSCounterStyleRule](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../icsscounterstylerule/)
 * assembly [Aspose.HTML](../../../)

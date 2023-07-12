@@ -21,5 +21,5 @@ Total number of characters.
 ### See Also
 
 * class [SVGTextContentElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgtextcontentelement/)
 * assembly [Aspose.HTML](../../../)

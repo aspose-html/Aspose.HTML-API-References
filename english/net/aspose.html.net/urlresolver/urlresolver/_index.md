@@ -17,5 +17,5 @@ public UrlResolver()
 ### See Also
 
 * class [UrlResolver](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../urlresolver/)
 * assembly [Aspose.HTML](../../../)

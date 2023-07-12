@@ -18,5 +18,5 @@ public HTMLTableCaptionElement Caption { get; }
 
 * class [HTMLTableCaptionElement](../../htmltablecaptionelement/)
 * class [HTMLTableElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmltableelement/)
 * assembly [Aspose.HTML](../../../)

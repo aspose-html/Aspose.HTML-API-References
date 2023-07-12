@@ -18,5 +18,5 @@ public TypeInfo SchemaTypeInfo { get; }
 
 * class [TypeInfo](../../typeinfo/)
 * class [Attr](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../attr/)
 * assembly [Aspose.HTML](../../../)

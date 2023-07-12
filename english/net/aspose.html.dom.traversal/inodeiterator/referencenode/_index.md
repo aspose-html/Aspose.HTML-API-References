@@ -22,5 +22,5 @@ The reference node.
 
 * class [Node](../../../aspose.html.dom/node/)
 * interface [INodeIterator](../)
-* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
+* namespace [Aspose.Html.Dom.Traversal](../../inodeiterator/)
 * assembly [Aspose.HTML](../../../)

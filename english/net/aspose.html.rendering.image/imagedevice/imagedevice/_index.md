@@ -22,7 +22,7 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
+* namespace [Aspose.Html.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -45,7 +45,7 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
+* namespace [Aspose.Html.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -65,7 +65,7 @@ public ImageDevice(string file)
 ### See Also
 
 * class [ImageDevice](../)
-* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
+* namespace [Aspose.Html.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -87,7 +87,7 @@ public ImageDevice(ImageRenderingOptions options, string file)
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
+* namespace [Aspose.Html.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -107,7 +107,7 @@ public ImageDevice(Stream stream)
 ### See Also
 
 * class [ImageDevice](../)
-* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
+* namespace [Aspose.Html.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -129,5 +129,5 @@ public ImageDevice(ImageRenderingOptions options, Stream stream)
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
+* namespace [Aspose.Html.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.HTML](../../../)

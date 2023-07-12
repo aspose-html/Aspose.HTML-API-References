@@ -21,5 +21,5 @@ public void RemoveAt(int index)
 ### See Also
 
 * class [SyntaxNodeCollection&lt;T&gt;](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../syntaxnodecollection-1/)
 * assembly [Aspose.HTML](../../../)

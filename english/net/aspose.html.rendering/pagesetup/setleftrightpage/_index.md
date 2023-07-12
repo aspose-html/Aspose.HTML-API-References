@@ -23,5 +23,5 @@ public void SetLeftRightPage(Page leftPage, Page rightPage)
 
 * class [Page](../../../aspose.html.drawing/page/)
 * class [PageSetup](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../pagesetup/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ public void RemoveAttributeNS(string namespaceURI, string localName)
 ### See Also
 
 * class [Element](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../element/)
 * assembly [Aspose.HTML](../../../)

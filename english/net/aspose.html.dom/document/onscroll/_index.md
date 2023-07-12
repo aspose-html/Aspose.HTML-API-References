@@ -18,5 +18,5 @@ public event DOMEventHandler OnScroll;
 
 * delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler/)
 * class [Document](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../document/)
 * assembly [Aspose.HTML](../../../)

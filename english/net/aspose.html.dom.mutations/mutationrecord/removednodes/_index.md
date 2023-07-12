@@ -22,5 +22,5 @@ The removed nodes.
 
 * class [NodeList](../../../aspose.html.collections/nodelist/)
 * class [MutationRecord](../)
-* namespace [Aspose.Html.Dom.Mutations](../../../aspose.html.dom.mutations/)
+* namespace [Aspose.Html.Dom.Mutations](../../mutationrecord/)
 * assembly [Aspose.HTML](../../../)

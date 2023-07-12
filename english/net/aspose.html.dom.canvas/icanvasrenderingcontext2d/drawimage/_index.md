@@ -24,7 +24,7 @@ public void DrawImage(HTMLImageElement image, double dx, double dy)
 
 * class [HTMLImageElement](../../../aspose.html/htmlimageelement/)
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -47,7 +47,7 @@ public void DrawImage(HTMLCanvasElement image, double dx, double dy)
 
 * class [HTMLCanvasElement](../../../aspose.html/htmlcanvaselement/)
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -72,7 +72,7 @@ public void DrawImage(HTMLImageElement image, double dx, double dy, double dw, d
 
 * class [HTMLImageElement](../../../aspose.html/htmlimageelement/)
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -97,7 +97,7 @@ public void DrawImage(HTMLCanvasElement image, double dx, double dy, double dw, 
 
 * class [HTMLCanvasElement](../../../aspose.html/htmlcanvaselement/)
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -127,7 +127,7 @@ public void DrawImage(HTMLImageElement image, double sx, double sy, double sw, d
 
 * class [HTMLImageElement](../../../aspose.html/htmlimageelement/)
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -157,5 +157,5 @@ public void DrawImage(HTMLCanvasElement image, double sx, double sy, double sw, 
 
 * class [HTMLCanvasElement](../../../aspose.html/htmlcanvaselement/)
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
 * assembly [Aspose.HTML](../../../)

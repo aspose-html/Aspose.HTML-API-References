@@ -21,5 +21,5 @@ The name of the node.
 ### See Also
 
 * class [CDATASection](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../cdatasection/)
 * assembly [Aspose.HTML](../../../)

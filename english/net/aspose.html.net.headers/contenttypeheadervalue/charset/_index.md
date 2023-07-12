@@ -21,5 +21,5 @@ The character set.
 ### See Also
 
 * class [ContentTypeHeaderValue](../)
-* namespace [Aspose.Html.Net.Headers](../../../aspose.html.net.headers/)
+* namespace [Aspose.Html.Net.Headers](../../contenttypeheadervalue/)
 * assembly [Aspose.HTML](../../../)

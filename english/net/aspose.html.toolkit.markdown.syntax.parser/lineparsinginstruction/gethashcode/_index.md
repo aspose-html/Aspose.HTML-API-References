@@ -21,5 +21,5 @@ The Instruction.
 ### See Also
 
 * struct [LineParsingInstruction](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../lineparsinginstruction/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The active document.
 
 * class [Document](../../document/)
 * interface [IBrowsingContext](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../ibrowsingcontext/)
 * assembly [Aspose.HTML](../../../)

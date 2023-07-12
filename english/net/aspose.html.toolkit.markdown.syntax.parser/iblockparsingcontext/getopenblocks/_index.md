@@ -22,5 +22,5 @@ The collection of BlockSyntaxDescriptor.
 
 * class [BlockSyntaxDescriptor](../../blocksyntaxdescriptor/)
 * interface [IBlockParsingContext](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../iblockparsingcontext/)
 * assembly [Aspose.HTML](../../../)

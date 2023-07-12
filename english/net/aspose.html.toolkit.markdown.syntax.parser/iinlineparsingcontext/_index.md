@@ -3,7 +3,7 @@ title: IInlineParsingContext Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Parser.IInlineParsingContext interface. Defines the IInlineParsingContext interface
 type: docs
-weight: 5400
+weight: 5410
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/
 ---
 ## IInlineParsingContext interface

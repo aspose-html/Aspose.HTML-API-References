@@ -22,5 +22,5 @@ Returns Rect value
 
 * class [Rect](../../rect/)
 * class [CSSPrimitiveValue](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../cssprimitivevalue/)
 * assembly [Aspose.HTML](../../../)

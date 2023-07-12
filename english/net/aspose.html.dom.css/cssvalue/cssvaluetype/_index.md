@@ -21,5 +21,5 @@ The type of the CSS value.
 ### See Also
 
 * class [CSSValue](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../cssvalue/)
 * assembly [Aspose.HTML](../../../)

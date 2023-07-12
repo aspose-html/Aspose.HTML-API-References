@@ -17,5 +17,5 @@ public string Target { get; set; }
 ### See Also
 
 * class [HTMLBaseElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlbaseelement/)
 * assembly [Aspose.HTML](../../../)

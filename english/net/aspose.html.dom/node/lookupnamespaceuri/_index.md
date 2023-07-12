@@ -25,5 +25,5 @@ A String containing the namespace URI corresponding to the prefix. If the prefix
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../node/)
 * assembly [Aspose.HTML](../../../)

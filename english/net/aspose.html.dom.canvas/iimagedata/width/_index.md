@@ -17,5 +17,5 @@ public ulong Width { get; }
 ### See Also
 
 * interface [IImageData](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../iimagedata/)
 * assembly [Aspose.HTML](../../../)

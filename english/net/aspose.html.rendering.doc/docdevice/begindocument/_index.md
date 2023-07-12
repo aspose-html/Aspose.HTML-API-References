@@ -22,5 +22,5 @@ public override void BeginDocument(Document document)
 
 * class [Document](../../../aspose.html.dom/document/)
 * class [DocDevice](../)
-* namespace [Aspose.Html.Rendering.Doc](../../../aspose.html.rendering.doc/)
+* namespace [Aspose.Html.Rendering.Doc](../../docdevice/)
 * assembly [Aspose.HTML](../../../)

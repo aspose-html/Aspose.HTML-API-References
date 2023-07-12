@@ -22,5 +22,5 @@ The attribute ‘in’ of the given ‘feSpecularLighting’ element.
 
 * class [SVGAnimatedString](../../../aspose.html.dom.svg.datatypes/svganimatedstring/)
 * class [SVGFESpecularLightingElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfespecularlightingelement/)
 * assembly [Aspose.HTML](../../../)

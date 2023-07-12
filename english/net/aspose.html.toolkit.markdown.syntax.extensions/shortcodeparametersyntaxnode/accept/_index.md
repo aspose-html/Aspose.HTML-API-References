@@ -22,5 +22,5 @@ public override void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../../aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/)
 * class [ShortCodeParameterSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../../aspose.html.toolkit.markdown.syntax.extensions/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../shortcodeparametersyntaxnode/)
 * assembly [Aspose.HTML](../../../)

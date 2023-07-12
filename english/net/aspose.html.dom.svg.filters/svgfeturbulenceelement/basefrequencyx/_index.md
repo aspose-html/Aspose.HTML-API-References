@@ -22,5 +22,5 @@ The attribute ‘baseFrequency’ of the given ‘feTurbulence’ element.
 
 * class [SVGAnimatedNumber](../../../aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFETurbulenceElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfeturbulenceelement/)
 * assembly [Aspose.HTML](../../../)

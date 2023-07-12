@@ -17,5 +17,5 @@ public void EndPage()
 ### See Also
 
 * interface [IDevice](../)
-* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* namespace [Aspose.Html.Rendering](../../idevice/)
 * assembly [Aspose.HTML](../../../)

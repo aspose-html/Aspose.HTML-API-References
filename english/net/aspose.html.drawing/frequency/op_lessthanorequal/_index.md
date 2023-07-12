@@ -15,5 +15,5 @@ public static bool operator <=(Frequency a, Frequency b)
 ### See Also
 
 * class [Frequency](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../frequency/)
 * assembly [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public HTMLCollection Areas { get; }
 
 * class [HTMLCollection](../../../aspose.html.collections/htmlcollection/)
 * class [HTMLMapElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlmapelement/)
 * assembly [Aspose.HTML](../../../)

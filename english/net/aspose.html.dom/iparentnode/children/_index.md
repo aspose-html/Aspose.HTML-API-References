@@ -22,5 +22,5 @@ The children.
 
 * class [HTMLCollection](../../../aspose.html.collections/htmlcollection/)
 * interface [IParentNode](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../iparentnode/)
 * assembly [Aspose.HTML](../../../)

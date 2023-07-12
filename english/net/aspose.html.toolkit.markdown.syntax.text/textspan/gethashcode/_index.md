@@ -21,5 +21,5 @@ The hashcode.
 ### See Also
 
 * struct [TextSpan](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../../aspose.html.toolkit.markdown.syntax.text/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../textspan/)
 * assembly [Aspose.HTML](../../../)

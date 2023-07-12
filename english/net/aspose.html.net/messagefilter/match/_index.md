@@ -26,5 +26,5 @@ true if the Context object satisfies the filter criteria; otherwise, false.
 
 * interface [INetworkOperationContext](../../inetworkoperationcontext/)
 * class [MessageFilter](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../messagefilter/)
 * assembly [Aspose.HTML](../../../)

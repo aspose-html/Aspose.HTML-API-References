@@ -27,5 +27,5 @@ The X coordinate of the rectangle, in user units.
 ### See Also
 
 * class [SVGRect](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgrect/)
 * assembly [Aspose.HTML](../../../)

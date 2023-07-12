@@ -18,5 +18,5 @@ public HTMLCollection Options { get; }
 
 * class [HTMLCollection](../../../aspose.html.collections/htmlcollection/)
 * class [HTMLDataListElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmldatalistelement/)
 * assembly [Aspose.HTML](../../../)

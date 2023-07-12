@@ -21,5 +21,5 @@ Returns a String that represents this instance.
 ### See Also
 
 * class [ContentDispositionHeaderValue](../)
-* namespace [Aspose.Html.Net.Headers](../../../aspose.html.net.headers/)
+* namespace [Aspose.Html.Net.Headers](../../contentdispositionheadervalue/)
 * assembly [Aspose.HTML](../../../)

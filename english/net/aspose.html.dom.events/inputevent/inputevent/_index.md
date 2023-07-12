@@ -21,7 +21,7 @@ public InputEvent(string type)
 ### See Also
 
 * class [InputEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../inputevent/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public InputEvent(string type, IDictionary<string, object> eventInitDict)
 ### See Also
 
 * class [InputEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../inputevent/)
 * assembly [Aspose.HTML](../../../)

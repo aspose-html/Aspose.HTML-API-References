@@ -17,5 +17,5 @@ public int FontWeight { get; }
 ### See Also
 
 * class [FontMatchingProperties](../)
-* namespace [Aspose.Html.Rendering.Fonts](../../../aspose.html.rendering.fonts/)
+* namespace [Aspose.Html.Rendering.Fonts](../../fontmatchingproperties/)
 * assembly [Aspose.HTML](../../../)

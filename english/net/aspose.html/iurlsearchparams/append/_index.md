@@ -22,5 +22,5 @@ public void Append(string name, string value)
 ### See Also
 
 * interface [IUrlSearchParams](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../iurlsearchparams/)
 * assembly [Aspose.HTML](../../../)

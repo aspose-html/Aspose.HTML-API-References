@@ -23,5 +23,5 @@ public TemplateContentOptions(string dataContent, TemplateContent contentType)
 
 * enum [TemplateContent](../../templatecontent/)
 * class [TemplateContentOptions](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* namespace [Aspose.Html.Converters](../../templatecontentoptions/)
 * assembly [Aspose.HTML](../../../)

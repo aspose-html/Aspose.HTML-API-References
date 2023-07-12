@@ -26,5 +26,5 @@ The new position within the current stream.
 ### See Also
 
 * class [OutputStream](../)
-* namespace [Aspose.Html.IO](../../../aspose.html.io/)
+* namespace [Aspose.Html.IO](../../outputstream/)
 * assembly [Aspose.HTML](../../../)

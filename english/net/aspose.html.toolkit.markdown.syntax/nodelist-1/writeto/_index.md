@@ -21,5 +21,5 @@ public void WriteTo(TextWriter writer)
 ### See Also
 
 * class [NodeList&lt;T&gt;](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../nodelist-1/)
 * assembly [Aspose.HTML](../../../)

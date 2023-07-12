@@ -21,7 +21,7 @@ public WheelEvent(string type)
 ### See Also
 
 * class [WheelEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../wheelevent/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public WheelEvent(string type, IDictionary<string, object> eventInitDict)
 ### See Also
 
 * class [WheelEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../wheelevent/)
 * assembly [Aspose.HTML](../../../)

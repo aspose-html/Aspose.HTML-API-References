@@ -25,7 +25,7 @@ An instance of the service if it could be found, or null if it could not be foun
 ### See Also
 
 * class [Configuration](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../configuration/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -49,5 +49,5 @@ An instance of the service if it could be found, or null if it could not be foun
 ### See Also
 
 * class [Configuration](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../configuration/)
 * assembly [Aspose.HTML](../../../)

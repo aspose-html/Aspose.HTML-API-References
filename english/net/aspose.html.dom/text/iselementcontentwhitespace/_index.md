@@ -21,5 +21,5 @@ public bool IsElementContentWhitespace { get; }
 ### See Also
 
 * class [Text](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../text/)
 * assembly [Aspose.HTML](../../../)

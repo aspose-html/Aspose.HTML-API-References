@@ -17,5 +17,5 @@ public ulong Size { get; }
 ### See Also
 
 * interface [IBlob](../)
-* namespace [Aspose.Html.IO](../../../aspose.html.io/)
+* namespace [Aspose.Html.IO](../../iblob/)
 * assembly [Aspose.HTML](../../../)

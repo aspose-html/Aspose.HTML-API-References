@@ -28,7 +28,7 @@ public void Ellipse(double x, double y, double radiusX, double radiusY, double r
 ### See Also
 
 * class [Path2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../path2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -56,5 +56,5 @@ public void Ellipse(double x, double y, double radiusX, double radiusY, double r
 ### See Also
 
 * class [Path2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../path2d/)
 * assembly [Aspose.HTML](../../../)

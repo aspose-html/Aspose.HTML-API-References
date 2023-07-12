@@ -20,6 +20,7 @@ The **Aspose.Html.Saving** namespace is presented by data classes for descriptio
 | [PdfSaveOptions](./pdfsaveoptions/) | Specific data class provides few properties to manage conversion result. For example [`PageSetup`](../aspose.html.rendering/pagesetup/) specifies page characteristics. Refer to documentation [article](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
 | [ResourceHandlingOptions](./resourcehandlingoptions/) | Represents resource handling options. |
 | [SaveOptions](./saveoptions/) | This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format. |
+| [TextSaveOptions](./textsaveoptions/) | Represents Text save options |
 | [XpsSaveOptions](./xpssaveoptions/) | Specific options data class provides few properties to manage conversion result. For example [`PageSetup`](../aspose.html.rendering/pagesetup/) specifies page characteristics. Refer to documentation [article](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#save-options). |
 ## Enumeration
 

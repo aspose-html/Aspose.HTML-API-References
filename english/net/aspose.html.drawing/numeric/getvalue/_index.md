@@ -21,7 +21,7 @@ The object value.
 ### See Also
 
 * class [Numeric](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../numeric/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -52,5 +52,5 @@ Returns value that is converted to specified type.
 
 * class [UnitType](../../unittype/)
 * class [Numeric](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../numeric/)
 * assembly [Aspose.HTML](../../../)

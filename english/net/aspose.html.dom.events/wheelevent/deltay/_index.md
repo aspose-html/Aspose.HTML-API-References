@@ -21,5 +21,5 @@ The deltaY attribute.
 ### See Also
 
 * class [WheelEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../wheelevent/)
 * assembly [Aspose.HTML](../../../)

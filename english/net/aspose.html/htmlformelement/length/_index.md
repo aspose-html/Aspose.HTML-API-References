@@ -17,5 +17,5 @@ public int Length { get; }
 ### See Also
 
 * class [HTMLFormElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlformelement/)
 * assembly [Aspose.HTML](../../../)

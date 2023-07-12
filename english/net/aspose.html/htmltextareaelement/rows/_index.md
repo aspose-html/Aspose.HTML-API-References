@@ -17,5 +17,5 @@ public int Rows { get; set; }
 ### See Also
 
 * class [HTMLTextAreaElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmltextareaelement/)
 * assembly [Aspose.HTML](../../../)

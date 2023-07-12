@@ -22,5 +22,5 @@ The x-axis value of the right side of the rectangle.
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../rect/)
 * assembly [Aspose.HTML](../../../)

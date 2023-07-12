@@ -21,5 +21,5 @@ public void ClearTimeout(int handle)
 ### See Also
 
 * interface [IWindowTimers](../)
-* namespace [Aspose.Html.Window](../../../aspose.html.window/)
+* namespace [Aspose.Html.Window](../../iwindowtimers/)
 * assembly [Aspose.HTML](../../../)

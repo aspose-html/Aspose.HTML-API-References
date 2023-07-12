@@ -24,5 +24,5 @@ public void Rect(double x, double y, double w, double h)
 ### See Also
 
 * interface [ICanvasPathMethods](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvaspathmethods/)
 * assembly [Aspose.HTML](../../../)

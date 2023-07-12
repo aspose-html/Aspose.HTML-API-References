@@ -25,5 +25,5 @@ value is a string containing the value of the property. If not set, returns the 
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../icssstyledeclaration/)
 * assembly [Aspose.HTML](../../../)

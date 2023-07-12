@@ -17,5 +17,5 @@ public int Length { get; }
 ### See Also
 
 * class [NamedNodeMap](../)
-* namespace [Aspose.Html.Collections](../../../aspose.html.collections/)
+* namespace [Aspose.Html.Collections](../../namednodemap/)
 * assembly [Aspose.HTML](../../../)

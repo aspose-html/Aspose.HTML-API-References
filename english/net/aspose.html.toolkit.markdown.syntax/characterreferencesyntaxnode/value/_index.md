@@ -17,5 +17,5 @@ public string Value { get; }
 ### See Also
 
 * class [CharacterReferenceSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../characterreferencesyntaxnode/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ A [`StyleSheet`](../../istylesheet/) object in which the current rule is defined
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [ICSSRule](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../icssrule/)
 * assembly [Aspose.HTML](../../../)

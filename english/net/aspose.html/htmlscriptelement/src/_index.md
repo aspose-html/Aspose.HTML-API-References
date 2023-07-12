@@ -17,5 +17,5 @@ public string Src { get; set; }
 ### See Also
 
 * class [HTMLScriptElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlscriptelement/)
 * assembly [Aspose.HTML](../../../)

@@ -26,5 +26,5 @@ The text data
 ### See Also
 
 * class [CharacterData](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../characterdata/)
 * assembly [Aspose.HTML](../../../)

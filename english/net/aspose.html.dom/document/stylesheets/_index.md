@@ -18,5 +18,5 @@ public IStyleSheetList StyleSheets { get; }
 
 * interface [IStyleSheetList](../../../aspose.html.dom.css/istylesheetlist/)
 * class [Document](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../document/)
 * assembly [Aspose.HTML](../../../)

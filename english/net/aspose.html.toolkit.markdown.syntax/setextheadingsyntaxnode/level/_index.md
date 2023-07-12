@@ -17,5 +17,5 @@ public int Level { get; }
 ### See Also
 
 * class [SetextHeadingSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../setextheadingsyntaxnode/)
 * assembly [Aspose.HTML](../../../)

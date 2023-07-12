@@ -26,5 +26,5 @@ Returns document.
 
 * class [Document](../../document/)
 * interface [IDOMImplementation](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../idomimplementation/)
 * assembly [Aspose.HTML](../../../)

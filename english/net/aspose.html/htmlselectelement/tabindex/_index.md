@@ -17,5 +17,5 @@ public int TabIndex { get; set; }
 ### See Also
 
 * class [HTMLSelectElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlselectelement/)
 * assembly [Aspose.HTML](../../../)

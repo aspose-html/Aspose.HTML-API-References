@@ -17,5 +17,5 @@ public static readonly UnitType Rem;
 ### See Also
 
 * class [UnitType](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../unittype/)
 * assembly [Aspose.HTML](../../../)

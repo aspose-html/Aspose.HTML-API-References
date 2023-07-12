@@ -22,5 +22,5 @@ public override void EndElement(Element element)
 
 * class [Element](../../../aspose.html.dom/element/)
 * class [ImageDevice](../)
-* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
+* namespace [Aspose.Html.Rendering.Image](../../imagedevice/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public const ushort PATHSEG_UNKNOWN;
 ### See Also
 
 * class [SVGPathSeg](../)
-* namespace [Aspose.Html.Dom.Svg.Paths](../../../aspose.html.dom.svg.paths/)
+* namespace [Aspose.Html.Dom.Svg.Paths](../../svgpathseg/)
 * assembly [Aspose.HTML](../../../)

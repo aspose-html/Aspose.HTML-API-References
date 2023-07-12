@@ -17,5 +17,5 @@ public const ushort TYPE_MISMATCH_ERR;
 ### See Also
 
 * class [DOMException](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../domexception/)
 * assembly [Aspose.HTML](../../../)

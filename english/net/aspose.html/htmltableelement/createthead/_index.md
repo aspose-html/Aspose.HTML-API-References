@@ -22,5 +22,5 @@ A new table header element (`THEAD`).
 
 * class [Element](../../../aspose.html.dom/element/)
 * class [HTMLTableElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmltableelement/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public string Cols { get; set; }
 ### See Also
 
 * class [HTMLFrameSetElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlframesetelement/)
 * assembly [Aspose.HTML](../../../)

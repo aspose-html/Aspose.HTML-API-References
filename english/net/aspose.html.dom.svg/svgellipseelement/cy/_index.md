@@ -22,5 +22,5 @@ The attribute ‘cy’ of the given ‘circle’ element.
 
 * class [SVGAnimatedLength](../../../aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGEllipseElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgellipseelement/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public string Media { get; set; }
 ### See Also
 
 * class [HTMLStyleElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlstyleelement/)
 * assembly [Aspose.HTML](../../../)

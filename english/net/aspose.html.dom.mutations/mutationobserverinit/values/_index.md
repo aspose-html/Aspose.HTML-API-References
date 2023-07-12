@@ -21,5 +21,5 @@ A collection containing the values.
 ### See Also
 
 * class [MutationObserverInit](../)
-* namespace [Aspose.Html.Dom.Mutations](../../../aspose.html.dom.mutations/)
+* namespace [Aspose.Html.Dom.Mutations](../../mutationobserverinit/)
 * assembly [Aspose.HTML](../../../)

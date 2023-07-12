@@ -18,5 +18,5 @@ public List<InlineSyntaxNode> Content { get; }
 
 * class [InlineSyntaxNode](../../../aspose.html.toolkit.markdown.syntax/inlinesyntaxnode/)
 * interface [IInlinePostProcessingContext](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../iinlinepostprocessingcontext/)
 * assembly [Aspose.HTML](../../../)

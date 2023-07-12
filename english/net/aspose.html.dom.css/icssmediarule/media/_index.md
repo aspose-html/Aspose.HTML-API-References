@@ -22,5 +22,5 @@ The media attribute must return a MediaList object for the list of media queries
 
 * interface [IMediaList](../../imedialist/)
 * interface [ICSSMediaRule](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../icssmediarule/)
 * assembly [Aspose.HTML](../../../)

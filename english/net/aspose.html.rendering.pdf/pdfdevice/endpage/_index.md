@@ -17,5 +17,5 @@ public override void EndPage()
 ### See Also
 
 * class [PdfDevice](../)
-* namespace [Aspose.Html.Rendering.Pdf](../../../aspose.html.rendering.pdf/)
+* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice/)
 * assembly [Aspose.HTML](../../../)

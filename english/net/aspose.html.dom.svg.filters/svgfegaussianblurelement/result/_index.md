@@ -22,5 +22,5 @@ The attribute �result� of the given �filter� element.
 
 * class [SVGAnimatedString](../../../aspose.html.dom.svg.datatypes/svganimatedstring/)
 * class [SVGFEGaussianBlurElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfegaussianblurelement/)
 * assembly [Aspose.HTML](../../../)

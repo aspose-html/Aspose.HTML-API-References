@@ -26,5 +26,5 @@ Returns a [`Resolution`](../../resolution/) object.
 
 * class [Resolution](../../resolution/)
 * class [Unit](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../unit/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public string Link { get; set; }
 ### See Also
 
 * class [HTMLBodyElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlbodyelement/)
 * assembly [Aspose.HTML](../../../)

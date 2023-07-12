@@ -21,7 +21,7 @@ public void WriteTo(TextWriter writer)
 ### See Also
 
 * class [MarkdownSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxnode/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -42,5 +42,5 @@ public virtual void WriteTo(MarkdownTextWriter writer)
 
 * class [MarkdownTextWriter](../../markdowntextwriter/)
 * class [MarkdownSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxnode/)
 * assembly [Aspose.HTML](../../../)

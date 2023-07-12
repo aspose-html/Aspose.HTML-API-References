@@ -25,5 +25,5 @@ Returns the associated namespace URI or `null` if none is found.
 ### See Also
 
 * interface [IXPathNSResolver](../)
-* namespace [Aspose.Html.Dom.XPath](../../../aspose.html.dom.xpath/)
+* namespace [Aspose.Html.Dom.XPath](../../ixpathnsresolver/)
 * assembly [Aspose.HTML](../../../)

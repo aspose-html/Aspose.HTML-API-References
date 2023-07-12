@@ -28,5 +28,5 @@ public void SetStdDeviation(float stdDeviationX, float stdDeviationY)
 ### See Also
 
 * class [SVGFEDropShadowElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfedropshadowelement/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The MarkdownSyntaxNode.
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [InlineProxy](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../inlineproxy/)
 * assembly [Aspose.HTML](../../../)

@@ -25,7 +25,7 @@ public virtual bool Equals(Unit other)
 ### See Also
 
 * class [Unit](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../unit/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -49,5 +49,5 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [Unit](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../unit/)
 * assembly [Aspose.HTML](../../../)

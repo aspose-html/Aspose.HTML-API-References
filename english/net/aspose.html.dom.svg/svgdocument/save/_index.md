@@ -28,7 +28,7 @@ public void Save(Url url)
 
 * class [Url](../../../aspose.html/url/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -54,7 +54,7 @@ public void Save(string path)
 ### See Also
 
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -75,7 +75,7 @@ public void Save(IOutputStorage outputStorage)
 
 * interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -103,7 +103,7 @@ public void Save(string path, SVGSaveFormat saveFormat)
 
 * enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -126,7 +126,7 @@ public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat)
 * interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
 * enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -154,7 +154,7 @@ public void Save(string path, SVGSaveOptions saveOptions)
 
 * class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -177,7 +177,7 @@ public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions)
 * interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
 * class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -206,7 +206,7 @@ public void Save(Url url, SVGSaveFormat saveFormat)
 * class [Url](../../../aspose.html/url/)
 * enum [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -235,5 +235,5 @@ public void Save(Url url, SVGSaveOptions saveOptions)
 * class [Url](../../../aspose.html/url/)
 * class [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
 * assembly [Aspose.HTML](../../../)

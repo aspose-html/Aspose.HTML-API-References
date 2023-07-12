@@ -21,5 +21,5 @@ public void DeleteRule(long index)
 ### See Also
 
 * interface [ICSSMediaRule](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../icssmediarule/)
 * assembly [Aspose.HTML](../../../)

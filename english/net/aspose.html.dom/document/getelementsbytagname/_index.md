@@ -93,5 +93,5 @@ Paragraph styled by class name =kkk fff=
 
 * class [HTMLCollection](../../../aspose.html.collections/htmlcollection/)
 * class [Document](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../document/)
 * assembly [Aspose.HTML](../../../)

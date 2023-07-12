@@ -18,5 +18,5 @@ public ResourceHandling JavaScript { get; set; }
 
 * enum [ResourceHandling](../../resourcehandling/)
 * class [ResourceHandlingOptions](../)
-* namespace [Aspose.Html.Saving](../../../aspose.html.saving/)
+* namespace [Aspose.Html.Saving](../../resourcehandlingoptions/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public int Position { get; }
 ### See Also
 
 * class [SourceTextReader](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../../aspose.html.toolkit.markdown.syntax.text/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../sourcetextreader/)
 * assembly [Aspose.HTML](../../../)

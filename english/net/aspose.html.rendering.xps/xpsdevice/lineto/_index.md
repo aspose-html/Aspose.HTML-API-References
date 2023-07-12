@@ -21,5 +21,5 @@ public override void LineTo(PointF pt)
 ### See Also
 
 * class [XpsDevice](../)
-* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
+* namespace [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * assembly [Aspose.HTML](../../../)

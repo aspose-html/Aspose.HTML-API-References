@@ -22,5 +22,5 @@ The target.
 
 * class [Node](../../../aspose.html.dom/node/)
 * class [MutationRecord](../)
-* namespace [Aspose.Html.Dom.Mutations](../../../aspose.html.dom.mutations/)
+* namespace [Aspose.Html.Dom.Mutations](../../mutationrecord/)
 * assembly [Aspose.HTML](../../../)

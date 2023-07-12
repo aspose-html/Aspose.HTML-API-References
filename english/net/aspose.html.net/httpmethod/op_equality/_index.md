@@ -15,5 +15,5 @@ public static bool operator ==(HttpMethod left, HttpMethod right)
 ### See Also
 
 * class [HttpMethod](../)
-* namespace [Aspose.Html.Net](../../../aspose.html.net/)
+* namespace [Aspose.Html.Net](../../httpmethod/)
 * assembly [Aspose.HTML](../../../)

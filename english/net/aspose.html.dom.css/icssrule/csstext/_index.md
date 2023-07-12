@@ -23,5 +23,5 @@ Returns a serialization of the CSS rule. On setting the cssText attribute must d
 ### See Also
 
 * interface [ICSSRule](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../icssrule/)
 * assembly [Aspose.HTML](../../../)

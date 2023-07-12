@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.MarkdownSyntaxFactory class. Factory used to create various MarkdownSyntaxNode descendants
 type: docs
-weight: 5180
+weight: 5190
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/
 ---
 ## MarkdownSyntaxFactory class

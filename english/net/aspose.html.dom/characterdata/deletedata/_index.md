@@ -22,5 +22,5 @@ public virtual void DeleteData(int offset, int count)
 ### See Also
 
 * class [CharacterData](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../characterdata/)
 * assembly [Aspose.HTML](../../../)

@@ -27,7 +27,7 @@ public Url(string url)
 ### See Also
 
 * class [Url](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../url/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -54,5 +54,5 @@ public Url(string url, string baseUrl)
 ### See Also
 
 * class [Url](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../url/)
 * assembly [Aspose.HTML](../../../)

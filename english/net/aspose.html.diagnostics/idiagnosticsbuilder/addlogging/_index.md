@@ -25,5 +25,5 @@ The [`IDiagnosticsBuilder`](../) so that additional calls can be chained.
 ### See Also
 
 * interface [IDiagnosticsBuilder](../)
-* namespace [Aspose.Html.Diagnostics](../../../aspose.html.diagnostics/)
+* namespace [Aspose.Html.Diagnostics](../../idiagnosticsbuilder/)
 * assembly [Aspose.HTML](../../../)

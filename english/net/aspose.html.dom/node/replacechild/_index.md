@@ -26,5 +26,5 @@ The replaced Node. This is the same node as oldChild.
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../node/)
 * assembly [Aspose.HTML](../../../)

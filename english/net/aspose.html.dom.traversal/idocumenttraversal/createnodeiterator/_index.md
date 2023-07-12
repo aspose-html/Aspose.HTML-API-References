@@ -33,7 +33,7 @@ The newly created NodeIterator.
 * interface [INodeIterator](../../inodeiterator/)
 * class [Node](../../../aspose.html.dom/node/)
 * interface [IDocumentTraversal](../)
-* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
+* namespace [Aspose.Html.Dom.Traversal](../../idocumenttraversal/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -66,7 +66,7 @@ The newly created NodeIterator.
 * interface [INodeIterator](../../inodeiterator/)
 * class [Node](../../../aspose.html.dom/node/)
 * interface [IDocumentTraversal](../)
-* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
+* namespace [Aspose.Html.Dom.Traversal](../../idocumenttraversal/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -101,5 +101,5 @@ The newly created NodeIterator.
 * class [Node](../../../aspose.html.dom/node/)
 * interface [INodeFilter](../../inodefilter/)
 * interface [IDocumentTraversal](../)
-* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
+* namespace [Aspose.Html.Dom.Traversal](../../idocumenttraversal/)
 * assembly [Aspose.HTML](../../../)

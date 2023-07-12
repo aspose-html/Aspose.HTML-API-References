@@ -22,5 +22,5 @@ The attribute ‘xChannelSelector’ of the given ‘feDisplacementMap’ elemen
 
 * class [SVGAnimatedEnumeration](../../../aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEDisplacementMapElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfedisplacementmapelement/)
 * assembly [Aspose.HTML](../../../)

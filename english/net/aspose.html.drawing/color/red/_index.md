@@ -17,5 +17,5 @@ public float Red { get; }
 ### See Also
 
 * class [Color](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../color/)
 * assembly [Aspose.HTML](../../../)

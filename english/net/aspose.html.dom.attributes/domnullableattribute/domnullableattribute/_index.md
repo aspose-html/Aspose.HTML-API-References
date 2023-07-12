@@ -17,5 +17,5 @@ public DOMNullableAttribute()
 ### See Also
 
 * class [DOMNullableAttribute](../)
-* namespace [Aspose.Html.Dom.Attributes](../../../aspose.html.dom.attributes/)
+* namespace [Aspose.Html.Dom.Attributes](../../domnullableattribute/)
 * assembly [Aspose.HTML](../../../)

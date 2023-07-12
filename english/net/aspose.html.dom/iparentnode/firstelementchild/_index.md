@@ -22,5 +22,5 @@ The first element child.
 
 * class [Element](../../element/)
 * interface [IParentNode](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../iparentnode/)
 * assembly [Aspose.HTML](../../../)

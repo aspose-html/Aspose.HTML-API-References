@@ -22,5 +22,5 @@ public override void BeginDocument(Document document)
 
 * class [Document](../../../aspose.html.dom/document/)
 * class [XpsDevice](../)
-* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
+* namespace [Aspose.Html.Rendering.Xps](../../xpsdevice/)
 * assembly [Aspose.HTML](../../../)

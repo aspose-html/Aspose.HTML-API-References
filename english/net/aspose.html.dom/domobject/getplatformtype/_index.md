@@ -21,5 +21,5 @@ The ECMAScript object.
 ### See Also
 
 * class [DOMObject](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../domobject/)
 * assembly [Aspose.HTML](../../../)

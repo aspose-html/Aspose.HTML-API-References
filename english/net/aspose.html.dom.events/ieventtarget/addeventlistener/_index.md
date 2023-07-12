@@ -29,7 +29,7 @@ If an is added to an while it is processing an event, it will not be triggered b
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../ieventtarget/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -58,5 +58,5 @@ If an is added to an while it is processing an event, it will not be triggered b
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../ieventtarget/)
 * assembly [Aspose.HTML](../../../)

@@ -25,7 +25,7 @@ public override bool Equals(object obj)
 ### See Also
 
 * class [UnitType](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../unittype/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -49,5 +49,5 @@ public bool Equals(UnitType other)
 ### See Also
 
 * class [UnitType](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../unittype/)
 * assembly [Aspose.HTML](../../../)

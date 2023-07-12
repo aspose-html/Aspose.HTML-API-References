@@ -17,5 +17,5 @@ public bool IsTaggedPdf { get; set; }
 ### See Also
 
 * class [PdfRenderingOptions](../)
-* namespace [Aspose.Html.Rendering.Pdf](../../../aspose.html.rendering.pdf/)
+* namespace [Aspose.Html.Rendering.Pdf](../../pdfrenderingoptions/)
 * assembly [Aspose.HTML](../../../)

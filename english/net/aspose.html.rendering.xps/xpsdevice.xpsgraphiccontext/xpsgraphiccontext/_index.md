@@ -17,5 +17,5 @@ public XpsGraphicContext()
 ### See Also
 
 * class [XpsGraphicContext](../)
-* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
+* namespace [Aspose.Html.Rendering.Xps](../../xpsdevice.xpsgraphiccontext/)
 * assembly [Aspose.HTML](../../../)

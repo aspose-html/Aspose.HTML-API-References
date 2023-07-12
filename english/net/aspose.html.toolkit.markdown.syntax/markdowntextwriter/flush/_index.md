@@ -17,5 +17,5 @@ public override void Flush()
 ### See Also
 
 * class [MarkdownTextWriter](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdowntextwriter/)
 * assembly [Aspose.HTML](../../../)

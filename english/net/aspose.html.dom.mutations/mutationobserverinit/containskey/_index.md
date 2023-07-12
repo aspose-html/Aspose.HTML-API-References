@@ -25,5 +25,5 @@ True if the [`MutationObserverInit`](../) contain a specified key; otherwise, fa
 ### See Also
 
 * class [MutationObserverInit](../)
-* namespace [Aspose.Html.Dom.Mutations](../../../aspose.html.dom.mutations/)
+* namespace [Aspose.Html.Dom.Mutations](../../mutationobserverinit/)
 * assembly [Aspose.HTML](../../../)

@@ -26,5 +26,5 @@ Removed node.
 
 * class [Attr](../../../aspose.html.dom/attr/)
 * class [NamedNodeMap](../)
-* namespace [Aspose.Html.Collections](../../../aspose.html.collections/)
+* namespace [Aspose.Html.Collections](../../namednodemap/)
 * assembly [Aspose.HTML](../../../)

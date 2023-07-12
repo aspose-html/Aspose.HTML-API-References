@@ -21,5 +21,5 @@ public void AddFile(string uri)
 ### See Also
 
 * class [InputElement](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../inputelement/)
 * assembly [Aspose.HTML](../../../)

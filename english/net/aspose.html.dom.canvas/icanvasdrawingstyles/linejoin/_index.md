@@ -17,5 +17,5 @@ public string LineJoin { get; set; }
 ### See Also
 
 * interface [ICanvasDrawingStyles](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../icanvasdrawingstyles/)
 * assembly [Aspose.HTML](../../../)

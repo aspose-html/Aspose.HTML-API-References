@@ -19,5 +19,5 @@ public IEnumerable<KeyValuePair<ChildFrontMatterSyntaxNode, ChildFrontMatterSynt
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [YamlMappingSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../../aspose.html.toolkit.markdown.syntax.extensions/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../yamlmappingsyntaxnode/)
 * assembly [Aspose.HTML](../../../)

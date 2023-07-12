@@ -26,5 +26,5 @@ The returned point in user space.
 
 * class [SVGPoint](../../../aspose.html.dom.svg.datatypes/svgpoint/)
 * class [SVGGeometryElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svggeometryelement/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The ECMAScript object Type.
 ### See Also
 
 * class [CSSValue](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../cssvalue/)
 * assembly [Aspose.HTML](../../../)

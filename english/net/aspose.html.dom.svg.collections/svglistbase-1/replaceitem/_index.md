@@ -33,5 +33,5 @@ The inserted item.
 ### See Also
 
 * class [SVGListBase&lt;T&gt;](../)
-* namespace [Aspose.Html.Dom.Svg.Collections](../../../aspose.html.dom.svg.collections/)
+* namespace [Aspose.Html.Dom.Svg.Collections](../../svglistbase-1/)
 * assembly [Aspose.HTML](../../../)

@@ -27,5 +27,5 @@ If the document's schema is a DTD or no schema is associated with the document, 
 ### See Also
 
 * class [TypeInfo](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../typeinfo/)
 * assembly [Aspose.HTML](../../../)

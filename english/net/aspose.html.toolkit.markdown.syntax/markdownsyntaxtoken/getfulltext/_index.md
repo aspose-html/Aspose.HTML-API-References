@@ -21,5 +21,5 @@ The string.
 ### See Also
 
 * class [MarkdownSyntaxToken](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxtoken/)
 * assembly [Aspose.HTML](../../../)

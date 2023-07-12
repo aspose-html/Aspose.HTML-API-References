@@ -21,5 +21,5 @@ The filename.
 ### See Also
 
 * class [ErrorEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../errorevent/)
 * assembly [Aspose.HTML](../../../)

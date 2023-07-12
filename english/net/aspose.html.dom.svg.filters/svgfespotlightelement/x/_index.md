@@ -22,5 +22,5 @@ The attribute ‘x’ of the given ‘feSpotLight’ element.
 
 * class [SVGAnimatedNumber](../../../aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFESpotLightElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfespotlightelement/)
 * assembly [Aspose.HTML](../../../)

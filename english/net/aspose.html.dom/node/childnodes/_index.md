@@ -32,5 +32,5 @@ Reference:
 
 * class [NodeList](../../../aspose.html.collections/nodelist/)
 * class [Node](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../node/)
 * assembly [Aspose.HTML](../../../)

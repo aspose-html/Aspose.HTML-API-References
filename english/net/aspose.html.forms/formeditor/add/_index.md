@@ -28,5 +28,5 @@ A new instance of form element
 
 * class [FormElement](../../formelement/)
 * class [FormEditor](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../formeditor/)
 * assembly [Aspose.HTML](../../../)

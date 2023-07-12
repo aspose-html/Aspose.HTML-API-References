@@ -22,5 +22,5 @@ The owner document.
 
 * class [Document](../../document/)
 * interface [IElementInit](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../ielementinit/)
 * assembly [Aspose.HTML](../../../)

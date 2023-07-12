@@ -17,5 +17,5 @@ public const ushort SVG_CHANNEL_R;
 ### See Also
 
 * class [SVGFEDisplacementMapElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfedisplacementmapelement/)
 * assembly [Aspose.HTML](../../../)

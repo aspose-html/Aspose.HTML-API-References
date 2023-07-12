@@ -27,5 +27,5 @@ String representation of the color components.
 ### See Also
 
 * interface [IColorComponents](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../icolorcomponents/)
 * assembly [Aspose.HTML](../../../)

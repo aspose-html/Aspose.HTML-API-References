@@ -17,5 +17,5 @@ public int Vspace { get; set; }
 ### See Also
 
 * class [HTMLAppletElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlappletelement/)
 * assembly [Aspose.HTML](../../../)

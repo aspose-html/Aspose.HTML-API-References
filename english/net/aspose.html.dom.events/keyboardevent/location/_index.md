@@ -21,5 +21,5 @@ The location.
 ### See Also
 
 * class [KeyboardEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../keyboardevent/)
 * assembly [Aspose.HTML](../../../)

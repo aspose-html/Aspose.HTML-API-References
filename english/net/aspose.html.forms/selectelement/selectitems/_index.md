@@ -21,7 +21,7 @@ public void SelectItems(params int[] indexes)
 ### See Also
 
 * class [SelectElement](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../selectelement/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -41,5 +41,5 @@ public void SelectItems(params string[] values)
 ### See Also
 
 * class [SelectElement](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../selectelement/)
 * assembly [Aspose.HTML](../../../)

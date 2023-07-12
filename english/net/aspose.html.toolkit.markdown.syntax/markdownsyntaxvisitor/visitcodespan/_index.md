@@ -22,5 +22,5 @@ public virtual void VisitCodeSpan(CodeSpanSyntaxNode codeSpan)
 
 * class [CodeSpanSyntaxNode](../../codespansyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
 * assembly [Aspose.HTML](../../../)

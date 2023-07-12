@@ -21,5 +21,5 @@ public void SetCheckboxValue(bool value)
 ### See Also
 
 * class [InputElement](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../inputelement/)
 * assembly [Aspose.HTML](../../../)

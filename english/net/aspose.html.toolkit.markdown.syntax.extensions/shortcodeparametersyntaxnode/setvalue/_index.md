@@ -21,5 +21,5 @@ public void SetValue(string value)
 ### See Also
 
 * class [ShortCodeParameterSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../../aspose.html.toolkit.markdown.syntax.extensions/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../shortcodeparametersyntaxnode/)
 * assembly [Aspose.HTML](../../../)

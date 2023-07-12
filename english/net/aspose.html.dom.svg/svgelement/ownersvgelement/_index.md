@@ -22,5 +22,5 @@ The owner SVG element.
 
 * class [SVGSVGElement](../../svgsvgelement/)
 * class [SVGElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgelement/)
 * assembly [Aspose.HTML](../../../)

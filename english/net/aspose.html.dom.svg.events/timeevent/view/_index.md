@@ -22,5 +22,5 @@ The current view.
 
 * interface [IAbstractView](../../../aspose.html.dom.views/iabstractview/)
 * class [TimeEvent](../)
-* namespace [Aspose.Html.Dom.Svg.Events](../../../aspose.html.dom.svg.events/)
+* namespace [Aspose.Html.Dom.Svg.Events](../../timeevent/)
 * assembly [Aspose.HTML](../../../)

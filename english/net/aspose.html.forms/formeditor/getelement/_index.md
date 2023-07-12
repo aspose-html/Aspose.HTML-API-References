@@ -28,7 +28,7 @@ Returns the element.
 
 * class [FormElement](../../formelement/)
 * class [FormEditor](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../formeditor/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -55,5 +55,5 @@ Returns the element.
 
 * class [FormElement](../../formelement/)
 * class [FormEditor](../)
-* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
+* namespace [Aspose.Html.Forms](../../formeditor/)
 * assembly [Aspose.HTML](../../../)

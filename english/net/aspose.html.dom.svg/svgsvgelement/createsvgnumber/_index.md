@@ -22,5 +22,5 @@ An SVGNumber object.
 
 * class [SVGNumber](../../../aspose.html.dom.svg.datatypes/svgnumber/)
 * class [SVGSVGElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgsvgelement/)
 * assembly [Aspose.HTML](../../../)

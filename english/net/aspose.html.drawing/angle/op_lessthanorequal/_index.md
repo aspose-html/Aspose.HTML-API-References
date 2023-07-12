@@ -15,5 +15,5 @@ public static bool operator <=(Angle a, Angle b)
 ### See Also
 
 * class [Angle](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../angle/)
 * assembly [Aspose.HTML](../../../)

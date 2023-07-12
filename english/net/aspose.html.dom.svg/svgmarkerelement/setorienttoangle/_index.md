@@ -28,5 +28,5 @@ public void SetOrientToAngle(SVGAngle angle)
 
 * class [SVGAngle](../../../aspose.html.dom.svg.datatypes/svgangle/)
 * class [SVGMarkerElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgmarkerelement/)
 * assembly [Aspose.HTML](../../../)

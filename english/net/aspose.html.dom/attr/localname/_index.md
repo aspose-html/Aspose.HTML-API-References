@@ -21,5 +21,5 @@ The name of the local.
 ### See Also
 
 * class [Attr](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../attr/)
 * assembly [Aspose.HTML](../../../)

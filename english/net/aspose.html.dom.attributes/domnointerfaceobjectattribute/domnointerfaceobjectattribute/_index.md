@@ -17,5 +17,5 @@ public DOMNoInterfaceObjectAttribute()
 ### See Also
 
 * class [DOMNoInterfaceObjectAttribute](../)
-* namespace [Aspose.Html.Dom.Attributes](../../../aspose.html.dom.attributes/)
+* namespace [Aspose.Html.Dom.Attributes](../../domnointerfaceobjectattribute/)
 * assembly [Aspose.HTML](../../../)

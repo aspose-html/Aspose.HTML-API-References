@@ -17,5 +17,5 @@ public int Start { get; set; }
 ### See Also
 
 * class [HTMLOListElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlolistelement/)
 * assembly [Aspose.HTML](../../../)

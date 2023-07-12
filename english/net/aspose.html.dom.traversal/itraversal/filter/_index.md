@@ -22,5 +22,5 @@ The filter.
 
 * interface [INodeFilter](../../inodefilter/)
 * interface [ITraversal](../)
-* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
+* namespace [Aspose.Html.Dom.Traversal](../../itraversal/)
 * assembly [Aspose.HTML](../../../)

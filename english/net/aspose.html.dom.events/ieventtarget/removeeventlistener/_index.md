@@ -23,7 +23,7 @@ public void RemoveEventListener(string type, IEventListener listener)
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../ieventtarget/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -46,5 +46,5 @@ public void RemoveEventListener(string type, IEventListener listener, bool useCa
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../ieventtarget/)
 * assembly [Aspose.HTML](../../../)

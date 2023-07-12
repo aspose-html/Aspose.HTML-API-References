@@ -21,5 +21,5 @@ The ECMAScript object Type.
 ### See Also
 
 * class [NodeFilter](../)
-* namespace [Aspose.Html.Dom.Traversal.Filters](../../../aspose.html.dom.traversal.filters/)
+* namespace [Aspose.Html.Dom.Traversal.Filters](../../nodefilter/)
 * assembly [Aspose.HTML](../../../)

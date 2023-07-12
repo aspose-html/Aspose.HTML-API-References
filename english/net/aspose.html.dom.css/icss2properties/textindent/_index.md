@@ -25,5 +25,5 @@ text-indent property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
+* namespace [Aspose.Html.Dom.Css](../../icss2properties/)
 * assembly [Aspose.HTML](../../../)

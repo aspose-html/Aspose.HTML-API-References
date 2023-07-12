@@ -21,5 +21,5 @@ If this method is called by any [`IEventListener`](../../ieventlistener/) the ev
 ### See Also
 
 * class [Event](../)
-* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
+* namespace [Aspose.Html.Dom.Events](../../event/)
 * assembly [Aspose.HTML](../../../)

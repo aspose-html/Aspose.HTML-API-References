@@ -21,5 +21,5 @@ The boolean value.
 ### See Also
 
 * class [ListSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../listsyntaxnode/)
 * assembly [Aspose.HTML](../../../)

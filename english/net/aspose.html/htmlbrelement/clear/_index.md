@@ -17,5 +17,5 @@ public string Clear { get; set; }
 ### See Also
 
 * class [HTMLBRElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmlbrelement/)
 * assembly [Aspose.HTML](../../../)

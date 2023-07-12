@@ -17,5 +17,5 @@ public const ushort SVG_STITCHTYPE_STITCH;
 ### See Also
 
 * class [SVGFETurbulenceElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfeturbulenceelement/)
 * assembly [Aspose.HTML](../../../)

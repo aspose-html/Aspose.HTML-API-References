@@ -21,5 +21,5 @@ The integer result.
 ### See Also
 
 * class [YamlSequenceSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../../aspose.html.toolkit.markdown.syntax.extensions/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../yamlsequencesyntaxnode/)
 * assembly [Aspose.HTML](../../../)

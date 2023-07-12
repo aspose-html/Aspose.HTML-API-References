@@ -17,7 +17,7 @@ public Path2D()
 ### See Also
 
 * class [Path2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../path2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -37,7 +37,7 @@ public Path2D(Path2D path)
 ### See Also
 
 * class [Path2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../path2d/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -57,5 +57,5 @@ public Path2D(string d)
 ### See Also
 
 * class [Path2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
+* namespace [Aspose.Html.Dom.Canvas](../../path2d/)
 * assembly [Aspose.HTML](../../../)

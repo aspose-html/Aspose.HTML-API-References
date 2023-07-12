@@ -22,5 +22,5 @@ Type of brush
 
 * enum [BrushType](../../brushtype/)
 * interface [IBrush](../)
-* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
+* namespace [Aspose.Html.Drawing](../../ibrush/)
 * assembly [Aspose.HTML](../../../)

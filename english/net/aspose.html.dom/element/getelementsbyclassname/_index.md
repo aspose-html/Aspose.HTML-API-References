@@ -87,5 +87,5 @@ The div element styled pStyle class...
 
 * class [HTMLCollection](../../../aspose.html.collections/htmlcollection/)
 * class [Element](../)
-* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
+* namespace [Aspose.Html.Dom](../../element/)
 * assembly [Aspose.HTML](../../../)

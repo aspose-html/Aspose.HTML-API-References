@@ -18,5 +18,5 @@ public DelimiterState State { get; set; }
 
 * enum [DelimiterState](../../delimiterstate/)
 * class [DelimiterRun](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../delimiterrun/)
 * assembly [Aspose.HTML](../../../)

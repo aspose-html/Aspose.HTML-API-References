@@ -17,5 +17,5 @@ public string Ch { get; set; }
 ### See Also
 
 * class [HTMLTableRowElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmltablerowelement/)
 * assembly [Aspose.HTML](../../../)

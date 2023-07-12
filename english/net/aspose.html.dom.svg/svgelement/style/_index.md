@@ -22,5 +22,5 @@ The style.
 
 * interface [ICSSStyleDeclaration](../../../aspose.html.dom.css/icssstyledeclaration/)
 * class [SVGElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
+* namespace [Aspose.Html.Dom.Svg](../../svgelement/)
 * assembly [Aspose.HTML](../../../)

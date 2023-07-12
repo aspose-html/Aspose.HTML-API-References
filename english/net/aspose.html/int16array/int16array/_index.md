@@ -21,7 +21,7 @@ public Int16Array(int length)
 ### See Also
 
 * class [Int16Array](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../int16array/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -41,7 +41,7 @@ public Int16Array(short[] data)
 ### See Also
 
 * class [Int16Array](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../int16array/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -62,7 +62,7 @@ public Int16Array(ArrayBuffer buffer)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Int16Array](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../int16array/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -84,7 +84,7 @@ public Int16Array(ArrayBuffer buffer, int byteOffset)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Int16Array](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../int16array/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -107,5 +107,5 @@ public Int16Array(ArrayBuffer buffer, int byteOffset, int length)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Int16Array](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../int16array/)
 * assembly [Aspose.HTML](../../../)

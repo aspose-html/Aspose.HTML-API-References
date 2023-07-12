@@ -21,5 +21,5 @@ consumption quantity
 ### See Also
 
 * class [Metered](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../metered/)
 * assembly [Aspose.HTML](../../../)

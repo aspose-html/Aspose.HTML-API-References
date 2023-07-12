@@ -17,5 +17,5 @@ public string ChOff { get; set; }
 ### See Also
 
 * class [HTMLTableSectionElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../htmltablesectionelement/)
 * assembly [Aspose.HTML](../../../)

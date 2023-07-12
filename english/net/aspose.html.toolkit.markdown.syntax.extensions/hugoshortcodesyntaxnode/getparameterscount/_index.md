@@ -21,5 +21,5 @@ Teh count.
 ### See Also
 
 * class [HugoShortCodeSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../../aspose.html.toolkit.markdown.syntax.extensions/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](../../hugoshortcodesyntaxnode/)
 * assembly [Aspose.HTML](../../../)

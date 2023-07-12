@@ -26,7 +26,7 @@ The WhitespaceSyntax.
 
 * class [WhitespaceSyntaxNode](../../whitespacesyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -52,7 +52,7 @@ The WhitespaceSyntax.
 * class [WhitespaceSyntaxNode](../../whitespacesyntaxnode/)
 * class [SourceText](../../../aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * class [MarkdownSyntaxFactory](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -80,5 +80,5 @@ The WhitespaceSyntax.
 * class [SourceText](../../../aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * struct [TextSpan](../../../aspose.html.toolkit.markdown.syntax.text/textspan/)
 * class [MarkdownSyntaxFactory](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
 * assembly [Aspose.HTML](../../../)

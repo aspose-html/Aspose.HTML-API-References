@@ -22,5 +22,5 @@ The ICollection.
 
 * class [SourceText](../../../aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * class [BlockSyntaxDescriptor](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../blocksyntaxdescriptor/)
 * assembly [Aspose.HTML](../../../)

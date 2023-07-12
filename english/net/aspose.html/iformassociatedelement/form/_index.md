@@ -22,5 +22,5 @@ The [`Element`](../../../aspose.html.dom/element/) instance.
 
 * class [Element](../../../aspose.html.dom/element/)
 * interface [IFormAssociatedElement](../)
-* namespace [Aspose.Html](../../../aspose.html/)
+* namespace [Aspose.Html](../../iformassociatedelement/)
 * assembly [Aspose.HTML](../../../)

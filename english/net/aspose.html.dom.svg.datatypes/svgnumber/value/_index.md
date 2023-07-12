@@ -27,5 +27,5 @@ The value.
 ### See Also
 
 * class [SVGNumber](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgnumber/)
 * assembly [Aspose.HTML](../../../)

@@ -22,7 +22,7 @@ public MarkdownSyntaxTree(Configuration configuration)
 
 * class [Configuration](../../../aspose.html/configuration/)
 * class [MarkdownSyntaxTree](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxtree/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public MarkdownSyntaxTree()
 ### See Also
 
 * class [MarkdownSyntaxTree](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdownsyntaxtree/)
 * assembly [Aspose.HTML](../../../)
