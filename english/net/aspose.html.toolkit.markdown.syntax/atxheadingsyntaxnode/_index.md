@@ -3,7 +3,7 @@ title: AtxHeadingSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.AtxHeadingSyntaxNode class. Represents the AtxHeadingSyntaxNode
 type: docs
-weight: 4780
+weight: 4790
 url: /net/aspose.html.toolkit.markdown.syntax/atxheadingsyntaxnode/
 ---
 ## AtxHeadingSyntaxNode class

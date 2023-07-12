@@ -130,7 +130,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, DocSaveOptions, string) {#converthtml_21}
+## ConvertHTML(Url, DocSaveOptions, string) {#converthtml_23}
 
 Convert HTML source presented by URL. Result is docx file formed by output file path.
 
@@ -248,7 +248,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, Configuration, DocSaveOptions, string) {#converthtml_11}
+## ConvertHTML(Url, Configuration, DocSaveOptions, string) {#converthtml_12}
 
 Convert HTML source presented by URL. Result is docx file formed by output file path.
 
@@ -369,7 +369,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, DocSaveOptions, string) {#converthtml_41}
+## ConvertHTML(string, DocSaveOptions, string) {#converthtml_45}
 
 Convert HTML source presented by full file path to DOCX. Result is docx file formed by output file path.
 
@@ -486,7 +486,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, Configuration, DocSaveOptions, string) {#converthtml_31}
+## ConvertHTML(string, Configuration, DocSaveOptions, string) {#converthtml_34}
 
 Convert HTML source presented by full file path to DOCX. Result is docx file formed by output file path.
 
@@ -606,7 +606,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, DocSaveOptions, string) {#converthtml_61}
+## ConvertHTML(string, string, DocSaveOptions, string) {#converthtml_67}
 
 Convert HTML source presented by inline content. Result is docx file formed by output file path.
 
@@ -723,7 +723,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, Configuration, DocSaveOptions, string) {#converthtml_51}
+## ConvertHTML(string, string, Configuration, DocSaveOptions, string) {#converthtml_56}
 
 Convert HTML source presented by inline content. Result is docx file formed by output file path.
 
@@ -970,7 +970,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, DocSaveOptions, ICreateStreamProvider) {#converthtml_20}
+## ConvertHTML(Url, DocSaveOptions, ICreateStreamProvider) {#converthtml_22}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1092,7 +1092,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_10}
+## ConvertHTML(Url, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_11}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1217,7 +1217,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, DocSaveOptions, ICreateStreamProvider) {#converthtml_40}
+## ConvertHTML(string, DocSaveOptions, ICreateStreamProvider) {#converthtml_44}
 
 Convert HTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1339,7 +1339,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_30}
+## ConvertHTML(string, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_33}
 
 Convert HTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1463,7 +1463,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, DocSaveOptions, ICreateStreamProvider) {#converthtml_60}
+## ConvertHTML(string, string, DocSaveOptions, ICreateStreamProvider) {#converthtml_66}
 
 Convert HTML source presented by inline content to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1589,7 +1589,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_50}
+## ConvertHTML(string, string, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_55}
 
 Convert HTML source presented by inline content to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1842,7 +1842,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, PdfSaveOptions, string) {#converthtml_27}
+## ConvertHTML(Url, PdfSaveOptions, string) {#converthtml_29}
 
 Convert HTML source presented by URL. Result is pdf file formed by output file path.
 
@@ -1960,7 +1960,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, Configuration, PdfSaveOptions, string) {#converthtml_17}
+## ConvertHTML(Url, Configuration, PdfSaveOptions, string) {#converthtml_18}
 
 Convert HTML source presented by URL. Result is pdf file formed by output file path.
 
@@ -2081,7 +2081,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, PdfSaveOptions, string) {#converthtml_47}
+## ConvertHTML(string, PdfSaveOptions, string) {#converthtml_51}
 
 Convert HTML source presented by full file path to PDF. Result is pdf file formed by output file path.
 
@@ -2198,7 +2198,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, Configuration, PdfSaveOptions, string) {#converthtml_37}
+## ConvertHTML(string, Configuration, PdfSaveOptions, string) {#converthtml_40}
 
 Convert HTML source presented by full file path to PDF. Result is pdf file formed by output file path.
 
@@ -2318,7 +2318,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, PdfSaveOptions, string) {#converthtml_67}
+## ConvertHTML(string, string, PdfSaveOptions, string) {#converthtml_73}
 
 Convert HTML source presented by inline content to PDF. Result is pdf file formed by output file path.
 
@@ -2435,7 +2435,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, Configuration, PdfSaveOptions, string) {#converthtml_57}
+## ConvertHTML(string, string, Configuration, PdfSaveOptions, string) {#converthtml_62}
 
 Convert HTML source presented by inline content to PDF. Result is pdf file formed by output file path.
 
@@ -2682,7 +2682,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, PdfSaveOptions, ICreateStreamProvider) {#converthtml_26}
+## ConvertHTML(Url, PdfSaveOptions, ICreateStreamProvider) {#converthtml_28}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -2802,7 +2802,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_16}
+## ConvertHTML(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_17}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -2925,7 +2925,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, PdfSaveOptions, ICreateStreamProvider) {#converthtml_46}
+## ConvertHTML(string, PdfSaveOptions, ICreateStreamProvider) {#converthtml_50}
 
 Convert HTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -3047,7 +3047,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_36}
+## ConvertHTML(string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_39}
 
 Convert HTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -3171,7 +3171,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, PdfSaveOptions, ICreateStreamProvider) {#converthtml_66}
+## ConvertHTML(string, string, PdfSaveOptions, ICreateStreamProvider) {#converthtml_72}
 
 Convert HTML source presented by inline content to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -3292,7 +3292,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_56}
+## ConvertHTML(string, string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_61}
 
 Convert HTML source presented by inline content to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -3535,7 +3535,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, MHTMLSaveOptions, string) {#converthtml_25}
+## ConvertHTML(Url, MHTMLSaveOptions, string) {#converthtml_27}
 
 Convert HTML source presented by URL. Result is mhtml (.mht) file formed by output file path.
 
@@ -3654,7 +3654,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, Configuration, MHTMLSaveOptions, string) {#converthtml_15}
+## ConvertHTML(Url, Configuration, MHTMLSaveOptions, string) {#converthtml_16}
 
 Convert HTML source presented by URL. Result is mhtml (.mht) file formed by output file path.
 
@@ -3776,7 +3776,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, MHTMLSaveOptions, string) {#converthtml_45}
+## ConvertHTML(string, MHTMLSaveOptions, string) {#converthtml_49}
 
 Convert HTML source presented by full file path to MHTML. Result is mhtml (.mht) file formed by output file path.
 
@@ -3894,7 +3894,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, Configuration, MHTMLSaveOptions, string) {#converthtml_35}
+## ConvertHTML(string, Configuration, MHTMLSaveOptions, string) {#converthtml_38}
 
 Convert HTML source presented by full file path to MHTML. Result is mhtml (.mht) file formed by output file path.
 
@@ -4015,7 +4015,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, MHTMLSaveOptions, string) {#converthtml_65}
+## ConvertHTML(string, string, MHTMLSaveOptions, string) {#converthtml_71}
 
 Convert HTML source presented by inline content to MHTML. Result is mhtml (.mht) file formed by output file path.
 
@@ -4132,7 +4132,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, Configuration, MHTMLSaveOptions, string) {#converthtml_55}
+## ConvertHTML(string, string, Configuration, MHTMLSaveOptions, string) {#converthtml_60}
 
 Convert HTML source presented by inline content to MHTML. Result is mhtml (.mht) file formed by output file path.
 
@@ -4373,7 +4373,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, MarkdownSaveOptions, string) {#converthtml_24}
+## ConvertHTML(Url, MarkdownSaveOptions, string) {#converthtml_26}
 
 Convert HTML source presented by URL. Result is markdown (.md) file formed by output file path.
 
@@ -4491,7 +4491,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, Configuration, MarkdownSaveOptions, string) {#converthtml_14}
+## ConvertHTML(Url, Configuration, MarkdownSaveOptions, string) {#converthtml_15}
 
 Convert HTML source presented by URL. Result is markdown (.md) file formed by output file path.
 
@@ -4612,7 +4612,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, MarkdownSaveOptions, string) {#converthtml_44}
+## ConvertHTML(string, MarkdownSaveOptions, string) {#converthtml_48}
 
 Convert HTML source presented by full file path to Markdown. Result is markdown (.md) file formed by output file path.
 
@@ -4729,7 +4729,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, Configuration, MarkdownSaveOptions, string) {#converthtml_34}
+## ConvertHTML(string, Configuration, MarkdownSaveOptions, string) {#converthtml_37}
 
 Convert HTML source presented by full file path to Markdown. Result is markdown (.md) file formed by output file path.
 
@@ -4849,7 +4849,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, MarkdownSaveOptions, string) {#converthtml_64}
+## ConvertHTML(string, string, MarkdownSaveOptions, string) {#converthtml_70}
 
 Convert HTML source presented by inline content to Markdown. Result is mhtml (.mht) file formed by output file path.
 
@@ -4966,7 +4966,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, Configuration, MarkdownSaveOptions, string) {#converthtml_54}
+## ConvertHTML(string, string, Configuration, MarkdownSaveOptions, string) {#converthtml_59}
 
 Convert HTML source presented by inline content to Markdown. Result is mhtml (.mht) file formed by output file path.
 
@@ -5085,7 +5085,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(HTMLDocument, XpsSaveOptions, string) {#converthtml_9}
+## ConvertHTML(HTMLDocument, XpsSaveOptions, string) {#converthtml_10}
 
 Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). Result is xps file formed by output file path.
 
@@ -5205,7 +5205,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, XpsSaveOptions, string) {#converthtml_29}
+## ConvertHTML(Url, XpsSaveOptions, string) {#converthtml_32}
 
 Convert HTML source presented by URL. Result is xps file formed by output file path.
 
@@ -5321,7 +5321,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, Configuration, XpsSaveOptions, string) {#converthtml_19}
+## ConvertHTML(Url, Configuration, XpsSaveOptions, string) {#converthtml_21}
 
 Convert HTML source presented by URL. Result is xps file formed by output file path.
 
@@ -5440,7 +5440,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, XpsSaveOptions, string) {#converthtml_49}
+## ConvertHTML(string, XpsSaveOptions, string) {#converthtml_54}
 
 Convert HTML source presented by full file path to XPS. Result is xps file formed by output file path.
 
@@ -5555,7 +5555,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, Configuration, XpsSaveOptions, string) {#converthtml_39}
+## ConvertHTML(string, Configuration, XpsSaveOptions, string) {#converthtml_43}
 
 Convert HTML source presented by full file path to XPS. Result is xps file formed by output file path.
 
@@ -5673,7 +5673,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, XpsSaveOptions, string) {#converthtml_69}
+## ConvertHTML(string, string, XpsSaveOptions, string) {#converthtml_76}
 
 Convert HTML source presented by inline content to XPS. Result is xps file formed by output file path.
 
@@ -5788,7 +5788,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, Configuration, XpsSaveOptions, string) {#converthtml_59}
+## ConvertHTML(string, string, Configuration, XpsSaveOptions, string) {#converthtml_65}
 
 Convert HTML source presented by inline content to XPS. Result is xps file formed by output file path.
 
@@ -5905,7 +5905,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(HTMLDocument, XpsSaveOptions, ICreateStreamProvider) {#converthtml_8}
+## ConvertHTML(HTMLDocument, XpsSaveOptions, ICreateStreamProvider) {#converthtml_9}
 
 Convert HTML source presented by [`HTMLDocument`](../../../aspose.html/htmldocument/). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -6030,7 +6030,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, XpsSaveOptions, ICreateStreamProvider) {#converthtml_28}
+## ConvertHTML(Url, XpsSaveOptions, ICreateStreamProvider) {#converthtml_31}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -6150,7 +6150,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_18}
+## ConvertHTML(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_20}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -6273,7 +6273,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, XpsSaveOptions, ICreateStreamProvider) {#converthtml_48}
+## ConvertHTML(string, XpsSaveOptions, ICreateStreamProvider) {#converthtml_53}
 
 Convert HTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -6393,7 +6393,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_38}
+## ConvertHTML(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_42}
 
 Convert HTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -6515,7 +6515,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, XpsSaveOptions, ICreateStreamProvider) {#converthtml_68}
+## ConvertHTML(string, string, XpsSaveOptions, ICreateStreamProvider) {#converthtml_75}
 
 Convert HTML source presented by inline content to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -6634,7 +6634,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_58}
+## ConvertHTML(string, string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_64}
 
 Convert HTML source presented by inline content to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -6862,7 +6862,7 @@ using (HTMLDocument document = new HTMLDocument(sourcePath, new Configuration())
 
 ---
 
-## ConvertHTML(Url, ImageSaveOptions, string) {#converthtml_23}
+## ConvertHTML(Url, ImageSaveOptions, string) {#converthtml_25}
 
 Convert HTML source presented by URL. Result is image file formed by output file path.
 
@@ -6966,7 +6966,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, Configuration, ImageSaveOptions, string) {#converthtml_13}
+## ConvertHTML(Url, Configuration, ImageSaveOptions, string) {#converthtml_14}
 
 Convert HTML source presented by URL. Result is image file formed by output file path.
 
@@ -7073,7 +7073,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, ImageSaveOptions, string) {#converthtml_43}
+## ConvertHTML(string, ImageSaveOptions, string) {#converthtml_47}
 
 Convert HTML source presented by full file path to image. Result is image file formed by output file path.
 
@@ -7176,7 +7176,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, Configuration, ImageSaveOptions, string) {#converthtml_33}
+## ConvertHTML(string, Configuration, ImageSaveOptions, string) {#converthtml_36}
 
 Convert HTML source presented by full file path to image. Result is image file formed by output file path.
 
@@ -7282,7 +7282,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, ImageSaveOptions, string) {#converthtml_63}
+## ConvertHTML(string, string, ImageSaveOptions, string) {#converthtml_69}
 
 Convert HTML source presented by inline content to image. Result is image file formed by output file path.
 
@@ -7385,7 +7385,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, Configuration, ImageSaveOptions, string) {#converthtml_53}
+## ConvertHTML(string, string, Configuration, ImageSaveOptions, string) {#converthtml_58}
 
 Convert HTML source presented by inline content to image. Result is image file formed by output file path.
 
@@ -7603,7 +7603,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, ImageSaveOptions, ICreateStreamProvider) {#converthtml_22}
+## ConvertHTML(Url, ImageSaveOptions, ICreateStreamProvider) {#converthtml_24}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -7711,7 +7711,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_12}
+## ConvertHTML(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_13}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -7822,7 +7822,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, ImageSaveOptions, ICreateStreamProvider) {#converthtml_42}
+## ConvertHTML(string, ImageSaveOptions, ICreateStreamProvider) {#converthtml_46}
 
 Convert HTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -7930,7 +7930,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_32}
+## ConvertHTML(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_35}
 
 Convert HTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -8040,7 +8040,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, ImageSaveOptions, ICreateStreamProvider) {#converthtml_62}
+## ConvertHTML(string, string, ImageSaveOptions, ICreateStreamProvider) {#converthtml_68}
 
 Convert HTML source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -8147,7 +8147,7 @@ using Aspose.Html.Converters;
 
 ---
 
-## ConvertHTML(string, string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_52}
+## ConvertHTML(string, string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_57}
 
 Convert HTML source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -8250,6 +8250,182 @@ using Aspose.Html.Converters;
 * class [Configuration](../../../aspose.html/configuration/)
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(HTMLDocument, TextSaveOptions, string) {#converthtml_8}
+
+Convert html document to text. Result is TXT file.
+
+```csharp
+public static void ConvertHTML(HTMLDocument document, TextSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | HTMLDocument | Conversion source. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(Url, TextSaveOptions, string) {#converthtml_30}
+
+Convert html document to text. Result is TXT file.
+
+```csharp
+public static void ConvertHTML(Url url, TextSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| url | Url | The document URL. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Url](../../../aspose.html/url/)
+* class [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(Url, Configuration, TextSaveOptions, string) {#converthtml_19}
+
+Convert html document to text. Result is TXT file.
+
+```csharp
+public static void ConvertHTML(Url url, Configuration configuration, TextSaveOptions options, 
+    string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| url | Url | The document URL. |
+| configuration | Configuration | The environment configuration. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(string, TextSaveOptions, string) {#converthtml_52}
+
+Convert html document to text. Result is TXT file.
+
+```csharp
+public static void ConvertHTML(string sourcePath, TextSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | Html file source path. It will be combined with the current directory path to form an absolute URL. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(string, Configuration, TextSaveOptions, string) {#converthtml_41}
+
+Convert html document to text. Result is TXT file.
+
+```csharp
+public static void ConvertHTML(string sourcePath, Configuration configuration, 
+    TextSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | Html file source path. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(string, string, TextSaveOptions, string) {#converthtml_74}
+
+Convert html document to text. Result is TXT file.
+
+```csharp
+public static void ConvertHTML(string content, string baseUri, TextSaveOptions options, 
+    string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | Inline string html content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(string, string, Configuration, TextSaveOptions, string) {#converthtml_63}
+
+Convert html document to text. Result is TXT file.
+
+```csharp
+public static void ConvertHTML(string content, string baseUri, Configuration configuration, 
+    TextSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | Inline string html content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/)
 * class [Converter](../)
 * namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)

@@ -9,7 +9,7 @@ url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/
 ## YamlSequenceSyntaxNode constructor
 
 ```csharp
-public YamlSequenceSyntaxNode(HugoFrontMatterSyntaxNode owner, g adaptee)
+public YamlSequenceSyntaxNode(HugoFrontMatterSyntaxNode owner, q adaptee)
 ```
 
 ### See Also
