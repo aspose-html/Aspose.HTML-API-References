@@ -17,5 +17,5 @@ public bool ReadOnly { get; set; }
 ### See Also
 
 * class [HTMLInputElement](../)
-* namespace [Aspose.Html](../../htmlinputelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

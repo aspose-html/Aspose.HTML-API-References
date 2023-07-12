@@ -27,5 +27,5 @@ The background position value from the list as it defined above.
 ### See Also
 
 * interface [ICSS2Properties](../)
-* namespace [Aspose.Html.Dom.Css](../../icss2properties/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

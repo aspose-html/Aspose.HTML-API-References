@@ -17,5 +17,5 @@ public string Value { get; set; }
 ### See Also
 
 * class [HTMLParamElement](../)
-* namespace [Aspose.Html](../../htmlparamelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

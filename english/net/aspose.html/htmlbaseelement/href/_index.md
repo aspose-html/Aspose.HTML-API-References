@@ -17,5 +17,5 @@ public string Href { get; set; }
 ### See Also
 
 * class [HTMLBaseElement](../)
-* namespace [Aspose.Html](../../htmlbaseelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

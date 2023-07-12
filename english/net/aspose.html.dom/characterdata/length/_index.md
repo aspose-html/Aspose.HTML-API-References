@@ -17,5 +17,5 @@ public int Length { get; }
 ### See Also
 
 * class [CharacterData](../)
-* namespace [Aspose.Html.Dom](../../characterdata/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

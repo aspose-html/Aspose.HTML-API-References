@@ -18,5 +18,5 @@ public virtual IBrush FillBrush { get; set; }
 
 * interface [IBrush](../../../aspose.html.drawing/ibrush/)
 * class [GraphicContext](../)
-* namespace [Aspose.Html.Rendering](../../graphiccontext/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The attribute ‘preserveAspectRatio’ of the given ‘feImage’ element.
 
 * class [SVGAnimatedPreserveAspectRatio](../../../aspose.html.dom.svg.datatypes/svganimatedpreserveaspectratio/)
 * class [SVGFEImageElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfeimageelement/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ public ProtocolMessageFilter(params string[] protocols)
 ### See Also
 
 * class [ProtocolMessageFilter](../)
-* namespace [Aspose.Html.Net.MessageFilters](../../protocolmessagefilter/)
+* namespace [Aspose.Html.Net.MessageFilters](../../../aspose.html.net.messagefilters/)
 * assembly [Aspose.HTML](../../../)

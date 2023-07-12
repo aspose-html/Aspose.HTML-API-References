@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [SVGAnimatedPreserveAspectRatio](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svganimatedpreserveaspectratio/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The type of the node.
 ### See Also
 
 * class [Attr](../)
-* namespace [Aspose.Html.Dom](../../attr/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

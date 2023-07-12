@@ -21,5 +21,5 @@ Offset in points.
 ### See Also
 
 * struct [GlyphInfo](../)
-* namespace [Aspose.Html.Rendering](../../glyphinfo/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

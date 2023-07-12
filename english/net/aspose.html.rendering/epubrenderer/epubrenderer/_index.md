@@ -17,5 +17,5 @@ public EpubRenderer()
 ### See Also
 
 * class [EpubRenderer](../)
-* namespace [Aspose.Html.Rendering](../../epubrenderer/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

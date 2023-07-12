@@ -21,5 +21,5 @@ The string.
 ### See Also
 
 * class [FencedCodeBlockSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../fencedcodeblocksyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

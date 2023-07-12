@@ -22,5 +22,5 @@ public virtual void InsertData(int offset, string data)
 ### See Also
 
 * class [CharacterData](../)
-* namespace [Aspose.Html.Dom](../../characterdata/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

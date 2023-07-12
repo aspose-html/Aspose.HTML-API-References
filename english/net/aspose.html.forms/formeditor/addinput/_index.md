@@ -26,7 +26,7 @@ Returns a new created [`InputElement`](../../inputelement/).
 
 * class [InputElement](../../inputelement/)
 * class [FormEditor](../)
-* namespace [Aspose.Html.Forms](../../formeditor/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -53,5 +53,5 @@ Returns a new created [`InputElement`](../../inputelement/).
 * class [InputElement](../../inputelement/)
 * enum [InputElementType](../../inputelementtype/)
 * class [FormEditor](../)
-* namespace [Aspose.Html.Forms](../../formeditor/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

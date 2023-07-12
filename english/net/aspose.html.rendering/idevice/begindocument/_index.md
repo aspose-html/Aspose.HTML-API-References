@@ -22,5 +22,5 @@ public void BeginDocument(Document document)
 
 * class [Document](../../../aspose.html.dom/document/)
 * interface [IDevice](../)
-* namespace [Aspose.Html.Rendering](../../idevice/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

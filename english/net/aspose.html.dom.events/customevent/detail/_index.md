@@ -21,5 +21,5 @@ The detail.
 ### See Also
 
 * class [CustomEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../customevent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)

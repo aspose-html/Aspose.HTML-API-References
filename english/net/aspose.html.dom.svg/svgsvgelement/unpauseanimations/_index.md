@@ -17,5 +17,5 @@ public void UnpauseAnimations()
 ### See Also
 
 * class [SVGSVGElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgsvgelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

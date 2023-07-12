@@ -22,5 +22,5 @@ public DataListElement(HTMLDataListElement element)
 
 * class [HTMLDataListElement](../../../aspose.html/htmldatalistelement/)
 * class [DataListElement](../)
-* namespace [Aspose.Html.Forms](../../datalistelement/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

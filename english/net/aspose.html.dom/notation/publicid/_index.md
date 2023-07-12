@@ -21,5 +21,5 @@ The public identifier.
 ### See Also
 
 * class [Notation](../)
-* namespace [Aspose.Html.Dom](../../notation/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

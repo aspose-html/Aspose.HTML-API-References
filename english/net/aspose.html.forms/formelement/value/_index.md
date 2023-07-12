@@ -17,5 +17,5 @@ public virtual string Value { get; set; }
 ### See Also
 
 * class [FormElement](../)
-* namespace [Aspose.Html.Forms](../../formelement/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

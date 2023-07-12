@@ -17,5 +17,5 @@ public ulong Width { get; set; }
 ### See Also
 
 * class [HTMLCanvasElement](../)
-* namespace [Aspose.Html](../../htmlcanvaselement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

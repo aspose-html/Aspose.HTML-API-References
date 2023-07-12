@@ -21,7 +21,7 @@ A DOMString containing the requested data URI.
 ### See Also
 
 * class [HTMLCanvasElement](../)
-* namespace [Aspose.Html](../../htmlcanvaselement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -45,7 +45,7 @@ A DOMString containing the requested data URI.
 ### See Also
 
 * class [HTMLCanvasElement](../)
-* namespace [Aspose.Html](../../htmlcanvaselement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -70,5 +70,5 @@ A DOMString containing the requested data URI.
 ### See Also
 
 * class [HTMLCanvasElement](../)
-* namespace [Aspose.Html](../../htmlcanvaselement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

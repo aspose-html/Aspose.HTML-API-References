@@ -21,5 +21,5 @@ The name.
 ### See Also
 
 * class [DOMNameAttribute](../)
-* namespace [Aspose.Html.Dom.Attributes](../../domnameattribute/)
+* namespace [Aspose.Html.Dom.Attributes](../../../aspose.html.dom.attributes/)
 * assembly [Aspose.HTML](../../../)

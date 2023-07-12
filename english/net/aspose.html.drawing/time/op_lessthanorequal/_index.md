@@ -15,5 +15,5 @@ public static bool operator <=(Time a, Time b)
 ### See Also
 
 * class [Time](../)
-* namespace [Aspose.Html.Drawing](../../time/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

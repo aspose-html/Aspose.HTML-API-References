@@ -22,5 +22,5 @@ The attribute ‘x’ of the given ‘mask’ element.
 
 * class [SVGAnimatedLength](../../../aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGMaskElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgmaskelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

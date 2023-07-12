@@ -22,5 +22,5 @@ The attribute ‘in’ of the given ‘feOffset’ element.
 
 * class [SVGAnimatedString](../../../aspose.html.dom.svg.datatypes/svganimatedstring/)
 * class [SVGFEOffsetElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfeoffsetelement/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
 * assembly [Aspose.HTML](../../../)

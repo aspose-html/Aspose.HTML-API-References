@@ -21,5 +21,5 @@ public MimeType(string value)
 ### See Also
 
 * class [MimeType](../)
-* namespace [Aspose.Html](../../mimetype/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The content of the text.
 ### See Also
 
 * class [Element](../)
-* namespace [Aspose.Html.Dom](../../element/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

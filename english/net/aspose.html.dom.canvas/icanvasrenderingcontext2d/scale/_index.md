@@ -22,5 +22,5 @@ public void Scale(double x, double y)
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* namespace [Aspose.Html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* namespace [Aspose.Html.Dom.Canvas](../../../aspose.html.dom.canvas/)
 * assembly [Aspose.HTML](../../../)

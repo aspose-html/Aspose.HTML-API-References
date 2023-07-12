@@ -22,5 +22,5 @@ The window.
 
 * interface [IWindow](../../../aspose.html.window/iwindow/)
 * interface [IBrowsingContext](../)
-* namespace [Aspose.Html.Dom](../../ibrowsingcontext/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

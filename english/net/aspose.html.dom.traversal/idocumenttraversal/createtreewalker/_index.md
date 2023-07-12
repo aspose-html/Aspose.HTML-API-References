@@ -27,7 +27,7 @@ The newly created TreeWalker.
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.html.dom/node/)
 * interface [IDocumentTraversal](../)
-* namespace [Aspose.Html.Dom.Traversal](../../idocumenttraversal/)
+* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -54,7 +54,7 @@ The newly created TreeWalker.
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../aspose.html.dom/node/)
 * interface [IDocumentTraversal](../)
-* namespace [Aspose.Html.Dom.Traversal](../../idocumenttraversal/)
+* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -83,5 +83,5 @@ The newly created TreeWalker.
 * class [Node](../../../aspose.html.dom/node/)
 * interface [INodeFilter](../../inodefilter/)
 * interface [IDocumentTraversal](../)
-* namespace [Aspose.Html.Dom.Traversal](../../idocumenttraversal/)
+* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
 * assembly [Aspose.HTML](../../../)

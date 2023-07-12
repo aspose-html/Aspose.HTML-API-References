@@ -23,5 +23,5 @@ pause-before property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* namespace [Aspose.Html.Dom.Css](../../icss2properties/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

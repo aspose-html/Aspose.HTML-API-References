@@ -22,5 +22,5 @@ Instance of a [`GraphicContext`](../../../aspose.html.rendering/graphiccontext/)
 
 * class [GraphicContext](../../../aspose.html.rendering/graphiccontext/)
 * class [DocGraphicContext](../)
-* namespace [Aspose.Html.Rendering.Doc](../../docdevice.docgraphiccontext/)
+* namespace [Aspose.Html.Rendering.Doc](../../../aspose.html.rendering.doc/)
 * assembly [Aspose.HTML](../../../)

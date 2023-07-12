@@ -17,5 +17,5 @@ public int TabIndex { get; set; }
 ### See Also
 
 * class [HTMLAreaElement](../)
-* namespace [Aspose.Html](../../htmlareaelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

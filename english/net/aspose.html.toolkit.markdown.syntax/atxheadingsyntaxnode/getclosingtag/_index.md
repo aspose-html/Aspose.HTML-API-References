@@ -22,5 +22,5 @@ The closing tag.
 
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [AtxHeadingSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../atxheadingsyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

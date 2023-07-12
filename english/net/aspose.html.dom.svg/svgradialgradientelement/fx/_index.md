@@ -22,5 +22,5 @@ The attribute ‘fx’ of the given ‘radialGradient’ element.
 
 * class [SVGAnimatedLength](../../../aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgradialgradientelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

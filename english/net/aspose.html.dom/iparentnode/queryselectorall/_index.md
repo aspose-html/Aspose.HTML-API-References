@@ -26,5 +26,5 @@ Returns the static result of running scope-match a selectors string selectors ag
 
 * class [NodeList](../../../aspose.html.collections/nodelist/)
 * interface [IParentNode](../)
-* namespace [Aspose.Html.Dom](../../iparentnode/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

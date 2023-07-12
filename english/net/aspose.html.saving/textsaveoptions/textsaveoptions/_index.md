@@ -17,5 +17,5 @@ public TextSaveOptions()
 ### See Also
 
 * class [TextSaveOptions](../)
-* namespace [Aspose.Html.Saving](../../textsaveoptions/)
+* namespace [Aspose.Html.Saving](../../../aspose.html.saving/)
 * assembly [Aspose.HTML](../../../)

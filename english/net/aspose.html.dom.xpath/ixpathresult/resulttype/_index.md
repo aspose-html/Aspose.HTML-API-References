@@ -18,5 +18,5 @@ public XPathResultType ResultType { get; }
 
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathResult](../)
-* namespace [Aspose.Html.Dom.XPath](../../ixpathresult/)
+* namespace [Aspose.Html.Dom.XPath](../../../aspose.html.dom.xpath/)
 * assembly [Aspose.HTML](../../../)

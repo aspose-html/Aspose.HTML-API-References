@@ -27,5 +27,5 @@ The relative Y coordinate.
 ### See Also
 
 * class [SVGPathSegCurvetoQuadraticSmoothRel](../)
-* namespace [Aspose.Html.Dom.Svg.Paths](../../svgpathsegcurvetoquadraticsmoothrel/)
+* namespace [Aspose.Html.Dom.Svg.Paths](../../../aspose.html.dom.svg.paths/)
 * assembly [Aspose.HTML](../../../)

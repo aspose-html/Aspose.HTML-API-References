@@ -17,7 +17,7 @@ public SVGDocument()
 ### See Also
 
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -38,7 +38,7 @@ public SVGDocument(Configuration configuration)
 
 * class [Configuration](../../../aspose.html/configuration/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -58,7 +58,7 @@ public SVGDocument(string address)
 ### See Also
 
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -79,7 +79,7 @@ public SVGDocument(Url url)
 
 * class [Url](../../../aspose.html/url/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -101,7 +101,7 @@ public SVGDocument(string address, Configuration configuration)
 
 * class [Configuration](../../../aspose.html/configuration/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -124,7 +124,7 @@ public SVGDocument(Url url, Configuration configuration)
 * class [Url](../../../aspose.html/url/)
 * class [Configuration](../../../aspose.html/configuration/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -151,7 +151,7 @@ public SVGDocument(Stream content, string baseUri)
 ### See Also
 
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -180,7 +180,7 @@ public SVGDocument(Stream content, string baseUri, Configuration configuration)
 
 * class [Configuration](../../../aspose.html/configuration/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -208,7 +208,7 @@ public SVGDocument(Stream content, Url baseUri)
 
 * class [Url](../../../aspose.html/url/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -238,7 +238,7 @@ public SVGDocument(Stream content, Url baseUri, Configuration configuration)
 * class [Url](../../../aspose.html/url/)
 * class [Configuration](../../../aspose.html/configuration/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -265,7 +265,7 @@ public SVGDocument(string content, string baseUri)
 ### See Also
 
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -294,7 +294,7 @@ public SVGDocument(string content, string baseUri, Configuration configuration)
 
 * class [Configuration](../../../aspose.html/configuration/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -322,7 +322,7 @@ public SVGDocument(string content, Url baseUri)
 
 * class [Url](../../../aspose.html/url/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -352,7 +352,7 @@ public SVGDocument(string content, Url baseUri, Configuration configuration)
 * class [Url](../../../aspose.html/url/)
 * class [Configuration](../../../aspose.html/configuration/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -373,7 +373,7 @@ public SVGDocument(RequestMessage request)
 
 * class [RequestMessage](../../../aspose.html.net/requestmessage/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -396,5 +396,5 @@ public SVGDocument(RequestMessage request, Configuration configuration)
 * class [RequestMessage](../../../aspose.html.net/requestmessage/)
 * class [Configuration](../../../aspose.html/configuration/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ public override void AddRect(RectangleF rect)
 ### See Also
 
 * class [XpsDevice](../)
-* namespace [Aspose.Html.Rendering.Xps](../../xpsdevice/)
+* namespace [Aspose.Html.Rendering.Xps](../../../aspose.html.rendering.xps/)
 * assembly [Aspose.HTML](../../../)

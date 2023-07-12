@@ -21,5 +21,5 @@ The string.
 ### See Also
 
 * class [CodeSpanSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../codespansyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

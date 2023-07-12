@@ -22,5 +22,5 @@ public void SetUrlValue(Url value)
 
 * class [Url](../../../aspose.html/url/)
 * class [InputElement](../)
-* namespace [Aspose.Html.Forms](../../inputelement/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

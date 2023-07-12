@@ -22,5 +22,5 @@ The window instance.
 
 * interface [IWindow](../../../aspose.html.window/iwindow/)
 * class [UIEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../uievent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)

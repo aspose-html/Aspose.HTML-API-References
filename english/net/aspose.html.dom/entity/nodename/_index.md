@@ -21,5 +21,5 @@ The name of the node.
 ### See Also
 
 * class [Entity](../)
-* namespace [Aspose.Html.Dom](../../entity/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

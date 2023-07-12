@@ -22,5 +22,5 @@ The DOM implementation.
 
 * interface [IDOMImplementation](../../idomimplementation/)
 * interface [IBrowsingContext](../)
-* namespace [Aspose.Html.Dom](../../ibrowsingcontext/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

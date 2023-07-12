@@ -22,5 +22,5 @@ public override void WriteTo(MarkdownTextWriter writer)
 
 * class [MarkdownTextWriter](../../markdowntextwriter/)
 * class [InlineProxy](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../inlineproxy/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

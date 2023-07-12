@@ -44,5 +44,5 @@ The result of the evaluation of the XPath expression. For XPath 1.0 results, thi
 * interface [IXPathNSResolver](../../ixpathnsresolver/)
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathEvaluator](../)
-* namespace [Aspose.Html.Dom.XPath](../../ixpathevaluator/)
+* namespace [Aspose.Html.Dom.XPath](../../../aspose.html.dom.xpath/)
 * assembly [Aspose.HTML](../../../)

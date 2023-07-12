@@ -18,5 +18,5 @@ public DataListElement List { get; }
 
 * class [DataListElement](../../datalistelement/)
 * class [InputElement](../)
-* namespace [Aspose.Html.Forms](../../inputelement/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

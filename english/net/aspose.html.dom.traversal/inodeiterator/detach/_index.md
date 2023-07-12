@@ -17,5 +17,5 @@ public void Detach()
 ### See Also
 
 * interface [INodeIterator](../)
-* namespace [Aspose.Html.Dom.Traversal](../../inodeiterator/)
+* namespace [Aspose.Html.Dom.Traversal](../../../aspose.html.dom.traversal/)
 * assembly [Aspose.HTML](../../../)

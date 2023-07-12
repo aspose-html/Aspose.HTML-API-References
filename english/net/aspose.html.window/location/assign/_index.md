@@ -21,5 +21,5 @@ public void Assign(string url)
 ### See Also
 
 * class [Location](../)
-* namespace [Aspose.Html.Window](../../location/)
+* namespace [Aspose.Html.Window](../../../aspose.html.window/)
 * assembly [Aspose.HTML](../../../)

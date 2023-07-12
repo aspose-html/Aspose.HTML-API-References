@@ -27,5 +27,5 @@ The value in specified units.
 ### See Also
 
 * class [SVGAngle](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgangle/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
 * assembly [Aspose.HTML](../../../)

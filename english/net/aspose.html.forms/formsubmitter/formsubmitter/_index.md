@@ -22,7 +22,7 @@ public FormSubmitter(HTMLFormElement form)
 
 * class [HTMLFormElement](../../../aspose.html/htmlformelement/)
 * class [FormSubmitter](../)
-* namespace [Aspose.Html.Forms](../../formsubmitter/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -44,7 +44,7 @@ public FormSubmitter(HTMLDocument document, int index)
 
 * class [HTMLDocument](../../../aspose.html/htmldocument/)
 * class [FormSubmitter](../)
-* namespace [Aspose.Html.Forms](../../formsubmitter/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -66,7 +66,7 @@ public FormSubmitter(HTMLDocument document, string id)
 
 * class [HTMLDocument](../../../aspose.html/htmldocument/)
 * class [FormSubmitter](../)
-* namespace [Aspose.Html.Forms](../../formsubmitter/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -87,5 +87,5 @@ public FormSubmitter(FormEditor editor)
 
 * class [FormEditor](../../formeditor/)
 * class [FormSubmitter](../)
-* namespace [Aspose.Html.Forms](../../formsubmitter/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

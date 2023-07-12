@@ -24,5 +24,5 @@ public abstract void CopyTo(int sourceIndex, char[] destination, int destination
 ### See Also
 
 * class [SourceText](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../sourcetext/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../../aspose.html.toolkit.markdown.syntax.text/)
 * assembly [Aspose.HTML](../../../)

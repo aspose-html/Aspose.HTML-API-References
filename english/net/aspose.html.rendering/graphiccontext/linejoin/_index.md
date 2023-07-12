@@ -17,5 +17,5 @@ public virtual LineJoin LineJoin { get; set; }
 ### See Also
 
 * class [GraphicContext](../)
-* namespace [Aspose.Html.Rendering](../../graphiccontext/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

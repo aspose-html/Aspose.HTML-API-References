@@ -21,5 +21,5 @@ public override void Write(char value)
 ### See Also
 
 * class [MarkdownTextWriter](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdowntextwriter/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

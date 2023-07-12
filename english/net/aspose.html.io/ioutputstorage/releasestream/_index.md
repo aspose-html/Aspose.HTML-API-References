@@ -22,5 +22,5 @@ public void ReleaseStream(OutputStream stream)
 
 * class [OutputStream](../../outputstream/)
 * interface [IOutputStorage](../)
-* namespace [Aspose.Html.IO](../../ioutputstorage/)
+* namespace [Aspose.Html.IO](../../../aspose.html.io/)
 * assembly [Aspose.HTML](../../../)

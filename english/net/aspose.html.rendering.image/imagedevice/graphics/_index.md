@@ -17,5 +17,5 @@ public virtual Graphics Graphics { get; }
 ### See Also
 
 * class [ImageDevice](../)
-* namespace [Aspose.Html.Rendering.Image](../../imagedevice/)
+* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The attribute ‘offset’ of the given ‘radialGradient’ element.
 
 * class [SVGAnimatedNumber](../../../aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGStopElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgstopelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

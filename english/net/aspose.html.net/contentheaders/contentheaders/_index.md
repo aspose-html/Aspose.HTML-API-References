@@ -17,5 +17,5 @@ public ContentHeaders()
 ### See Also
 
 * class [ContentHeaders](../)
-* namespace [Aspose.Html.Net](../../contentheaders/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

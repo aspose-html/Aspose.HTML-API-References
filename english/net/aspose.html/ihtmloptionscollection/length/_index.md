@@ -17,5 +17,5 @@ public int Length { get; }
 ### See Also
 
 * interface [IHTMLOptionsCollection](../)
-* namespace [Aspose.Html](../../ihtmloptionscollection/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

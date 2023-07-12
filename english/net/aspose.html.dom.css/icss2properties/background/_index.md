@@ -25,5 +25,5 @@ Gets or sets a shorthand property for setting the individual background properti
 ### See Also
 
 * interface [ICSS2Properties](../)
-* namespace [Aspose.Html.Dom.Css](../../icss2properties/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

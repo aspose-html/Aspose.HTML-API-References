@@ -17,5 +17,5 @@ public string Name { get; set; }
 ### See Also
 
 * class [HTMLFrameElement](../)
-* namespace [Aspose.Html](../../htmlframeelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

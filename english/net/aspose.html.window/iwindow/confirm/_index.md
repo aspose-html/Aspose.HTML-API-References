@@ -25,5 +25,5 @@ Returns true if the user clicks OK and false if the user clicks Cancel
 ### See Also
 
 * interface [IWindow](../)
-* namespace [Aspose.Html.Window](../../iwindow/)
+* namespace [Aspose.Html.Window](../../../aspose.html.window/)
 * assembly [Aspose.HTML](../../../)

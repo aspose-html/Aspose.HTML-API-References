@@ -26,5 +26,5 @@ The [`OptionElement`](../../optionelement/).
 
 * class [OptionElement](../../optionelement/)
 * class [OptionCollection](../)
-* namespace [Aspose.Html.Forms](../../optioncollection/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

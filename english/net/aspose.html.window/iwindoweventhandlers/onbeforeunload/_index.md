@@ -18,5 +18,5 @@ public event DOMEventHandler OnBeforeUnload;
 
 * delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* namespace [Aspose.Html.Window](../../iwindoweventhandlers/)
+* namespace [Aspose.Html.Window](../../../aspose.html.window/)
 * assembly [Aspose.HTML](../../../)

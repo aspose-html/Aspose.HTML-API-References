@@ -22,5 +22,5 @@ The body rows.
 
 * class [TableRowSyntaxNode](../../tablerowsyntaxnode/)
 * class [TableSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../tablesyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

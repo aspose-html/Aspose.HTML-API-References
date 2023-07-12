@@ -21,5 +21,5 @@ The string value.
 ### See Also
 
 * class [UnorderedListSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../unorderedlistsyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

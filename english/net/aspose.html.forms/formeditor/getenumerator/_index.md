@@ -22,5 +22,5 @@ Returns the FormElements enumerator.
 
 * class [FormElement](../../formelement/)
 * class [FormEditor](../)
-* namespace [Aspose.Html.Forms](../../formeditor/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

@@ -27,5 +27,5 @@ The InlineParsingInstruction.
 * struct [InlineParsingInstruction](../../inlineparsinginstruction/)
 * interface [IInlinePostProcessingContext](../../iinlinepostprocessingcontext/)
 * interface [IInlinePostProcessing](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../iinlinepostprocessing/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Parser](../../../aspose.html.toolkit.markdown.syntax.parser/)
 * assembly [Aspose.HTML](../../../)

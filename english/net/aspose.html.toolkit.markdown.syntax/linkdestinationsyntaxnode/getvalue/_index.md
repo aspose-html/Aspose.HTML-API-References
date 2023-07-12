@@ -21,5 +21,5 @@ The string.
 ### See Also
 
 * class [LinkDestinationSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../linkdestinationsyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

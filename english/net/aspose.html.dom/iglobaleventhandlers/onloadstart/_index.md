@@ -18,5 +18,5 @@ public event DOMEventHandler OnLoadStart;
 
 * delegate [DOMEventHandler](../../../aspose.html.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* namespace [Aspose.Html.Dom](../../iglobaleventhandlers/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

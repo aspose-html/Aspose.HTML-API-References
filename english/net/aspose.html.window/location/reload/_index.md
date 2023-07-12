@@ -17,5 +17,5 @@ public void Reload()
 ### See Also
 
 * class [Location](../)
-* namespace [Aspose.Html.Window](../../location/)
+* namespace [Aspose.Html.Window](../../../aspose.html.window/)
 * assembly [Aspose.HTML](../../../)

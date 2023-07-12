@@ -17,5 +17,5 @@ public TextRenderingHint TextRenderingHint { get; set; }
 ### See Also
 
 * class [TextOptions](../)
-* namespace [Aspose.Html.Rendering.Image](../../textoptions/)
+* namespace [Aspose.Html.Rendering.Image](../../../aspose.html.rendering.image/)
 * assembly [Aspose.HTML](../../../)

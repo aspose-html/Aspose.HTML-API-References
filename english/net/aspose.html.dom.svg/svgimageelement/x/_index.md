@@ -22,5 +22,5 @@ Corresponds to attribute ‘x’ on the given ‘image’ element.
 
 * class [SVGAnimatedLength](../../../aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGImageElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgimageelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

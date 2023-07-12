@@ -18,5 +18,5 @@ public HTMLCollection Rows { get; }
 
 * class [HTMLCollection](../../../aspose.html.collections/htmlcollection/)
 * class [HTMLTableSectionElement](../)
-* namespace [Aspose.Html](../../htmltablesectionelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

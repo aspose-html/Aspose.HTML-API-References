@@ -21,5 +21,5 @@ A copy of fonts folders array.
 ### See Also
 
 * class [FontsSettings](../)
-* namespace [Aspose.Html](../../fontssettings/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

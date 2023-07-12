@@ -27,5 +27,5 @@ If the node is a [`DocumentType`](../../documenttype/) or a [`DocumentFragment`]
 ### See Also
 
 * class [Node](../)
-* namespace [Aspose.Html.Dom](../../node/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

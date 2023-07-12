@@ -25,5 +25,5 @@ The char.
 ### See Also
 
 * class [SourceText](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../sourcetext/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax.Text](../../../aspose.html.toolkit.markdown.syntax.text/)
 * assembly [Aspose.HTML](../../../)

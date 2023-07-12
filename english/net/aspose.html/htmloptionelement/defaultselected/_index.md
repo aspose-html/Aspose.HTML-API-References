@@ -17,5 +17,5 @@ public bool DefaultSelected { get; set; }
 ### See Also
 
 * class [HTMLOptionElement](../)
-* namespace [Aspose.Html](../../htmloptionelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

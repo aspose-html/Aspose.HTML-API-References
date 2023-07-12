@@ -17,5 +17,5 @@ public string Src { get; set; }
 ### See Also
 
 * class [HTMLImageElement](../)
-* namespace [Aspose.Html](../../htmlimageelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

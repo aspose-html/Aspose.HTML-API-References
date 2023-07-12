@@ -22,5 +22,5 @@ public abstract void EndElement(Element element)
 
 * class [Element](../../../aspose.html.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* namespace [Aspose.Html.Rendering](../../device-2/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

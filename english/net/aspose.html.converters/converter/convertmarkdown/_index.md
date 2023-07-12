@@ -81,7 +81,7 @@ using Aspose.Html.Converters;
 
 * class [HTMLDocument](../../../aspose.html/htmldocument/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -162,7 +162,7 @@ using Aspose.Html.Converters;
 * class [HTMLDocument](../../../aspose.html/htmldocument/)
 * class [Configuration](../../../aspose.html/configuration/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -233,7 +233,7 @@ using Aspose.Html.Converters;
 ### See Also
 
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -302,7 +302,7 @@ using Aspose.Html.Converters;
 
 * class [Configuration](../../../aspose.html/configuration/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -371,7 +371,7 @@ using Aspose.Html.Converters;
 
 * class [HTMLDocument](../../../aspose.html/htmldocument/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -442,7 +442,7 @@ using Aspose.Html.Converters;
 * class [HTMLDocument](../../../aspose.html/htmldocument/)
 * class [Configuration](../../../aspose.html/configuration/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -503,7 +503,7 @@ using Aspose.Html.Converters;
 ### See Also
 
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -567,5 +567,5 @@ using Aspose.Html.Converters;
 
 * class [Configuration](../../../aspose.html/configuration/)
 * class [Converter](../)
-* namespace [Aspose.Html.Converters](../../converter/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)

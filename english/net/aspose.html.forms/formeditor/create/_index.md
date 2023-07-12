@@ -26,7 +26,7 @@ Return a new instance of the [`FormEditor`](../) class
 
 * class [HTMLFormElement](../../../aspose.html/htmlformelement/)
 * class [FormEditor](../)
-* namespace [Aspose.Html.Forms](../../formeditor/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -58,7 +58,7 @@ Return a new instance of the [`FormEditor`](../) class
 
 * class [HTMLDocument](../../../aspose.html/htmldocument/)
 * class [FormEditor](../)
-* namespace [Aspose.Html.Forms](../../formeditor/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -90,5 +90,5 @@ Return a new instance of the [`FormEditor`](../) class
 
 * class [HTMLDocument](../../../aspose.html/htmldocument/)
 * class [FormEditor](../)
-* namespace [Aspose.Html.Forms](../../formeditor/)
+* namespace [Aspose.Html.Forms](../../../aspose.html.forms/)
 * assembly [Aspose.HTML](../../../)

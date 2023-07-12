@@ -21,7 +21,7 @@ public MarkdownTextWriter(Stream stream)
 ### See Also
 
 * class [MarkdownTextWriter](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdowntextwriter/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -41,7 +41,7 @@ public MarkdownTextWriter(string path)
 ### See Also
 
 * class [MarkdownTextWriter](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdowntextwriter/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -62,7 +62,7 @@ public MarkdownTextWriter(string path, bool append)
 ### See Also
 
 * class [MarkdownTextWriter](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdowntextwriter/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -82,5 +82,5 @@ public MarkdownTextWriter(TextWriter writer)
 ### See Also
 
 * class [MarkdownTextWriter](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../markdowntextwriter/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

@@ -31,5 +31,5 @@ The string consisting of characters in the range U+0000 to U+00FF
 ### See Also
 
 * interface [IWindow](../)
-* namespace [Aspose.Html.Window](../../iwindow/)
+* namespace [Aspose.Html.Window](../../../aspose.html.window/)
 * assembly [Aspose.HTML](../../../)

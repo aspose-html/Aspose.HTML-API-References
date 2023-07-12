@@ -21,5 +21,5 @@ The length in bytes.
 ### See Also
 
 * class [TypedArray](../)
-* namespace [Aspose.Html](../../typedarray/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

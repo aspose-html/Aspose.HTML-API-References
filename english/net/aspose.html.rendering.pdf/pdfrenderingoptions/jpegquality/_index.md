@@ -17,5 +17,5 @@ public int JpegQuality { get; set; }
 ### See Also
 
 * class [PdfRenderingOptions](../)
-* namespace [Aspose.Html.Rendering.Pdf](../../pdfrenderingoptions/)
+* namespace [Aspose.Html.Rendering.Pdf](../../../aspose.html.rendering.pdf/)
 * assembly [Aspose.HTML](../../../)

@@ -28,5 +28,5 @@ Reference:
 
 * class [NamedNodeMap](../../../aspose.html.collections/namednodemap/)
 * class [Node](../)
-* namespace [Aspose.Html.Dom](../../node/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

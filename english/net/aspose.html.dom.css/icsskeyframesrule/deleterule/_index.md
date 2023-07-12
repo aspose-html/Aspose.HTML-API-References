@@ -21,5 +21,5 @@ public void DeleteRule(string key)
 ### See Also
 
 * interface [ICSSKeyframesRule](../)
-* namespace [Aspose.Html.Dom.Css](../../icsskeyframesrule/)
+* namespace [Aspose.Html.Dom.Css](../../../aspose.html.dom.css/)
 * assembly [Aspose.HTML](../../../)

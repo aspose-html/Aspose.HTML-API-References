@@ -64,7 +64,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 * class [Url](../../url/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -171,7 +171,7 @@ class CustomOutputStorage : IOutputStorage
 
 * interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -236,7 +236,7 @@ using Aspose.Html;
 ### See Also
 
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -407,7 +407,7 @@ Content-Location: main.css
 
 * enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -478,7 +478,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 * class [Url](../../url/)
 * enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -595,7 +595,7 @@ class CustomOutputStorage : IOutputStorage
 * interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
 * enum [HTMLSaveFormat](../../../aspose.html.saving/htmlsaveformat/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -669,7 +669,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 * class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -744,7 +744,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 * class [Url](../../url/)
 * class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -860,7 +860,7 @@ class CustomOutputStorage : IOutputStorage
 * interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
 * class [HTMLSaveOptions](../../../aspose.html.saving/htmlsaveoptions/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -932,7 +932,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 * class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1005,7 +1005,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 * class [Url](../../url/)
 * class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1117,7 +1117,7 @@ class CustomOutputStorageMD : IOutputStorage
 * interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
 * class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1189,7 +1189,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 * class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1262,7 +1262,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 * class [Url](../../url/)
 * class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -1375,5 +1375,5 @@ public class CustomOutputStorageMhtml : IOutputStorage {
 * interface [IOutputStorage](../../../aspose.html.io/ioutputstorage/)
 * class [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/)
 * class [HTMLDocument](../)
-* namespace [Aspose.Html](../../htmldocument/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

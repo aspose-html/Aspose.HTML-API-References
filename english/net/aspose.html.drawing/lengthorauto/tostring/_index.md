@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [LengthOrAuto](../)
-* namespace [Aspose.Html.Drawing](../../lengthorauto/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

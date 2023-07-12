@@ -22,5 +22,5 @@ public OutputStream(Stream stream, string uri)
 ### See Also
 
 * class [OutputStream](../)
-* namespace [Aspose.Html.IO](../../outputstream/)
+* namespace [Aspose.Html.IO](../../../aspose.html.io/)
 * assembly [Aspose.HTML](../../../)

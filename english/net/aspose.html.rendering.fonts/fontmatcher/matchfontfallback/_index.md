@@ -28,5 +28,5 @@ A byte array containing the fonts data or `null`.
 
 * class [FontMatchingProperties](../../fontmatchingproperties/)
 * class [FontMatcher](../)
-* namespace [Aspose.Html.Rendering.Fonts](../../fontmatcher/)
+* namespace [Aspose.Html.Rendering.Fonts](../../../aspose.html.rendering.fonts/)
 * assembly [Aspose.HTML](../../../)

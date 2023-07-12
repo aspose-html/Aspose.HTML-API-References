@@ -17,7 +17,7 @@ public PlatformException()
 ### See Also
 
 * class [PlatformException](../)
-* namespace [Aspose.Html](../../platformexception/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -37,7 +37,7 @@ public PlatformException(string message)
 ### See Also
 
 * class [PlatformException](../)
-* namespace [Aspose.Html](../../platformexception/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -58,5 +58,5 @@ public PlatformException(string message, Exception innerException)
 ### See Also
 
 * class [PlatformException](../)
-* namespace [Aspose.Html](../../platformexception/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

@@ -27,5 +27,5 @@ The absolute URI
 
 * class [Url](../../../aspose.html/url/)
 * class [UrlResolver](../)
-* namespace [Aspose.Html.Net](../../urlresolver/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

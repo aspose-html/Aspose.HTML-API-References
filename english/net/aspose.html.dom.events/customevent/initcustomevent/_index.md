@@ -28,5 +28,5 @@ This method may only be called before the Event has been dispatched via the [`Di
 ### See Also
 
 * class [CustomEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../customevent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)

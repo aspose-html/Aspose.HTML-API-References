@@ -21,5 +21,5 @@ The type of the node.
 ### See Also
 
 * class [Notation](../)
-* namespace [Aspose.Html.Dom](../../notation/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

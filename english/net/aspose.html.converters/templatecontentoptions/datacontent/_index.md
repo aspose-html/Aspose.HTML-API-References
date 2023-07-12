@@ -17,5 +17,5 @@ public string DataContent { get; }
 ### See Also
 
 * class [TemplateContentOptions](../)
-* namespace [Aspose.Html.Converters](../../templatecontentoptions/)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The preserve aspect ratio.
 
 * class [SVGAnimatedPreserveAspectRatio](../../../aspose.html.dom.svg.datatypes/svganimatedpreserveaspectratio/)
 * class [SVGImageElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgimageelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

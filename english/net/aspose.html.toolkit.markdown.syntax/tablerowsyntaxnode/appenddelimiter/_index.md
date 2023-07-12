@@ -26,5 +26,5 @@ The table delimiter syntax.
 
 * class [TableDelimiterSyntaxNode](../../tabledelimitersyntaxnode/)
 * class [TableRowSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../tablerowsyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

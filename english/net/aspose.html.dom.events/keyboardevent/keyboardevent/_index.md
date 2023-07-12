@@ -21,7 +21,7 @@ public KeyboardEvent(string type)
 ### See Also
 
 * class [KeyboardEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../keyboardevent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public KeyboardEvent(string type, IDictionary<string, object> eventInitDict)
 ### See Also
 
 * class [KeyboardEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../keyboardevent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)

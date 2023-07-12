@@ -22,5 +22,5 @@ The headers.
 
 * class [ResponseHeaders](../../responseheaders/)
 * class [ResponseMessage](../)
-* namespace [Aspose.Html.Net](../../responsemessage/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

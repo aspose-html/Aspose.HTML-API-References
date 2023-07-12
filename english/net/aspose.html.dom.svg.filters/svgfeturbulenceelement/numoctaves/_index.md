@@ -22,5 +22,5 @@ The attribute ‘numOctaves’ of the given ‘feTurbulence’ element.
 
 * class [SVGAnimatedInteger](../../../aspose.html.dom.svg.datatypes/svganimatedinteger/)
 * class [SVGFETurbulenceElement](../)
-* namespace [Aspose.Html.Dom.Svg.Filters](../../svgfeturbulenceelement/)
+* namespace [Aspose.Html.Dom.Svg.Filters](../../../aspose.html.dom.svg.filters/)
 * assembly [Aspose.HTML](../../../)

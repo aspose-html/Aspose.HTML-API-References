@@ -22,5 +22,5 @@ A IEnumerator that can be used to iterate through the collection.
 
 * class [InlineSyntaxNode](../../inlinesyntaxnode/)
 * class [InlineContainerSyntaxNode](../)
-* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../inlinecontainersyntaxnode/)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
 * assembly [Aspose.HTML](../../../)

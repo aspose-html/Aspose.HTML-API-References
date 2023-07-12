@@ -17,5 +17,5 @@ public DOMObject()
 ### See Also
 
 * class [DOMObject](../)
-* namespace [Aspose.Html.Dom](../../domobject/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

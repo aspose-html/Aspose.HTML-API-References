@@ -17,5 +17,5 @@ public const ushort SVG_FECOMPONENTTRANSFER_TYPE_LINEAR;
 ### See Also
 
 * class [SVGComponentTransferFunctionElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgcomponenttransferfunctionelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

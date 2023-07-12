@@ -22,5 +22,5 @@ The attribute ‘orient’ of the given ‘marker’ element.
 
 * class [SVGAnimatedEnumeration](../../../aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGMarkerElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgmarkerelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

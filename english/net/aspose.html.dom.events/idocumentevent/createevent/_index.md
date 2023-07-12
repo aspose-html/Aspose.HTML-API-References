@@ -32,5 +32,5 @@ Returns the newly created event of the specified event type.
 
 * class [Event](../../event/)
 * interface [IDocumentEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../idocumentevent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)

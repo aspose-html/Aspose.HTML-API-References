@@ -21,5 +21,5 @@ public override void Transform(Matrix matrix)
 ### See Also
 
 * class [PdfGraphicContext](../)
-* namespace [Aspose.Html.Rendering.Pdf](../../pdfdevice.pdfgraphiccontext/)
+* namespace [Aspose.Html.Rendering.Pdf](../../../aspose.html.rendering.pdf/)
 * assembly [Aspose.HTML](../../../)

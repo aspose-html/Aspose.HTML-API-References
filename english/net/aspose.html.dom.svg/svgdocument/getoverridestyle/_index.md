@@ -28,5 +28,5 @@ The override style declaration
 * interface [ICSSStyleDeclaration](../../../aspose.html.dom.css/icssstyledeclaration/)
 * class [Element](../../../aspose.html.dom/element/)
 * class [SVGDocument](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgdocument/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

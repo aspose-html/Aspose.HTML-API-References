@@ -26,5 +26,5 @@ public NodeList QuerySelectorAll(string selector)
 
 * class [NodeList](../../../aspose.html.collections/nodelist/)
 * class [DocumentFragment](../)
-* namespace [Aspose.Html.Dom](../../documentfragment/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

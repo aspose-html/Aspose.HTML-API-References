@@ -27,5 +27,5 @@ The type of the alignment
 ### See Also
 
 * class [SVGPreserveAspectRatio](../)
-* namespace [Aspose.Html.Dom.Svg.DataTypes](../../svgpreserveaspectratio/)
+* namespace [Aspose.Html.Dom.Svg.DataTypes](../../../aspose.html.dom.svg.datatypes/)
 * assembly [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public const ushort SVG_MARKERUNITS_STROKEWIDTH;
 ### See Also
 
 * class [SVGMarkerElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svgmarkerelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

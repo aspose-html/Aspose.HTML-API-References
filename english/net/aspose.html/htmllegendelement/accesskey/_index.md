@@ -17,5 +17,5 @@ public string AccessKey { get; set; }
 ### See Also
 
 * class [HTMLLegendElement](../)
-* namespace [Aspose.Html](../../htmllegendelement/)
+* namespace [Aspose.Html](../../../aspose.html/)
 * assembly [Aspose.HTML](../../../)

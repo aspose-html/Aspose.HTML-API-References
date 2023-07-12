@@ -17,5 +17,5 @@ public string Uri { get; }
 ### See Also
 
 * class [OutputStreamContext](../)
-* namespace [Aspose.Html.IO](../../outputstreamcontext/)
+* namespace [Aspose.Html.IO](../../../aspose.html.io/)
 * assembly [Aspose.HTML](../../../)

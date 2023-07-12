@@ -21,7 +21,7 @@ public ErrorEvent(Exception exception)
 ### See Also
 
 * class [ErrorEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../errorevent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public ErrorEvent(IDictionary<string, object> eventInitDict)
 ### See Also
 
 * class [ErrorEvent](../)
-* namespace [Aspose.Html.Dom.Events](../../errorevent/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)

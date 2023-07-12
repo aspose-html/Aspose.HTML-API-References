@@ -17,5 +17,5 @@ public void Remove()
 ### See Also
 
 * interface [IChildNode](../)
-* namespace [Aspose.Html.Dom](../../ichildnode/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

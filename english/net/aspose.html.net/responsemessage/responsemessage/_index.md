@@ -21,5 +21,5 @@ public ResponseMessage(HttpStatusCode status)
 ### See Also
 
 * class [ResponseMessage](../)
-* namespace [Aspose.Html.Net](../../responsemessage/)
+* namespace [Aspose.Html.Net](../../../aspose.html.net/)
 * assembly [Aspose.HTML](../../../)

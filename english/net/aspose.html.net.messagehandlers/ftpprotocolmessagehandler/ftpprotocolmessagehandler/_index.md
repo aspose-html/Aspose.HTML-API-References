@@ -17,5 +17,5 @@ public FtpProtocolMessageHandler()
 ### See Also
 
 * class [FtpProtocolMessageHandler](../)
-* namespace [Aspose.Html.Net.MessageHandlers](../../ftpprotocolmessagehandler/)
+* namespace [Aspose.Html.Net.MessageHandlers](../../../aspose.html.net.messagehandlers/)
 * assembly [Aspose.HTML](../../../)

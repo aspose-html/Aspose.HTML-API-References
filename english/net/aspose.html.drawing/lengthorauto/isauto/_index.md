@@ -21,5 +21,5 @@ public bool IsAuto { get; }
 ### See Also
 
 * class [LengthOrAuto](../)
-* namespace [Aspose.Html.Drawing](../../lengthorauto/)
+* namespace [Aspose.Html.Drawing](../../../aspose.html.drawing/)
 * assembly [Aspose.HTML](../../../)

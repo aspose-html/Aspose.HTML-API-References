@@ -21,5 +21,5 @@ The type of the node.
 ### See Also
 
 * class [DocumentFragment](../)
-* namespace [Aspose.Html.Dom](../../documentfragment/)
+* namespace [Aspose.Html.Dom](../../../aspose.html.dom/)
 * assembly [Aspose.HTML](../../../)

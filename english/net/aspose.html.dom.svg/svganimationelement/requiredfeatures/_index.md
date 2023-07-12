@@ -22,5 +22,5 @@ The required features.
 
 * class [SVGStringList](../../../aspose.html.dom.svg.datatypes/svgstringlist/)
 * class [SVGAnimationElement](../)
-* namespace [Aspose.Html.Dom.Svg](../../svganimationelement/)
+* namespace [Aspose.Html.Dom.Svg](../../../aspose.html.dom.svg/)
 * assembly [Aspose.HTML](../../../)

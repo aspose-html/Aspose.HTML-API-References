@@ -22,5 +22,5 @@ Any page.
 
 * class [Page](../../../aspose.html.drawing/page/)
 * class [PageSetup](../)
-* namespace [Aspose.Html.Rendering](../../pagesetup/)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

@@ -27,5 +27,5 @@ This method may only be called before the Event has been dispatched via the [`Di
 ### See Also
 
 * class [Event](../)
-* namespace [Aspose.Html.Dom.Events](../../event/)
+* namespace [Aspose.Html.Dom.Events](../../../aspose.html.dom.events/)
 * assembly [Aspose.HTML](../../../)
