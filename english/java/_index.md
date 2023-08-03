@@ -2,14 +2,8 @@
 title: Aspose.HTML for Java
 type: docs
 weight: 11
+url: /java/
 description: The articles in Aspose.HTML for Java documentation provide detailed information about C# library - how to parse and manipulate HTML.
-lastmod: "2023-03-11"
-sitemap:
-    changefreq: "weekly"
-    priority: 0.5
-aliases: 
-    - /net/
-    - /display/htmlnet/Home
 is_root: true
 ---
 
