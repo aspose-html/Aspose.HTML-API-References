@@ -1,0 +1,25 @@
+---
+title: IDevice.BeginPage
+second_title: Aspose.HTML for Java API Reference
+description: IDevice method. Begins rendering of the new page
+type: docs
+weight: 60
+url: /net/com.aspose.html.rendering/idevice/beginpage/
+---
+## IDevice.BeginPage method
+
+Begins rendering of the new page.
+
+```java
+public void BeginPage(SizeF size)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| size | SizeF | Size of the page. |
+
+### See Also
+
+* interface [IDevice](../)
+* package [com.aspose.html.Rendering](../../idevice/)
+* package [Aspose.HTML](../../../)

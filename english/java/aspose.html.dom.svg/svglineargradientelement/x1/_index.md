@@ -1,0 +1,26 @@
+---
+title: SVGLinearGradientElement.X1
+second_title: Aspose.HTML for Java API Reference
+description: SVGLinearGradientElement property. Corresponds to attribute x1 on the given linearGradient element
+type: docs
+weight: 10
+url: /net/com.aspose.html.dom.svg/svglineargradientelement/x1/
+---
+## SVGLinearGradientElement.X1 property
+
+Corresponds to attribute ‘x1’ on the given ‘linearGradient’ element.
+
+```java
+public SVGAnimatedLength X1 { get; }
+```
+
+### Property Value
+
+The attribute ‘x1’ of the given ‘linearGradient’ element.
+
+### See Also
+
+* class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
+* class [SVGLinearGradientElement](../)
+* package [com.aspose.html.Dom.Svg](../../svglineargradientelement/)
+* package [Aspose.HTML](../../../)

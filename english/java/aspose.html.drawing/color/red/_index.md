@@ -1,0 +1,21 @@
+---
+title: Color.Red
+second_title: Aspose.HTML for Java API Reference
+description: Color property. Represents the red component of the color
+type: docs
+weight: 270
+url: /net/com.aspose.html.drawing/color/red/
+---
+## Color.Red property
+
+Represents the red component of the color
+
+```java
+public float Red { get; }
+```
+
+### See Also
+
+* class [Color](../)
+* package [com.aspose.html.Drawing](../../color/)
+* package [Aspose.HTML](../../../)

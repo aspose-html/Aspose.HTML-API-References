@@ -1,0 +1,21 @@
+---
+title: UnitType.Grad
+second_title: Aspose.HTML for Java API Reference
+description: UnitType field. Measurement is in gradians
+type: docs
+weight: 100
+url: /net/com.aspose.html.drawing/unittype/grad/
+---
+## UnitType.Grad field
+
+Measurement is in gradians.
+
+```java
+public static readonly UnitType Grad;
+```
+
+### See Also
+
+* class [UnitType](../)
+* package [com.aspose.html.Drawing](../../unittype/)
+* package [Aspose.HTML](../../../)
