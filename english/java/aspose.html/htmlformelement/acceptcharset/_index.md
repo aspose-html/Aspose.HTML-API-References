@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLFormElement property. List of character sets supported by the server. See the accept-charset attribute definition in HTML 4.01
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmlformelement/acceptcharset/
+url: /java/com.aspose.html/htmlformelement/acceptcharset/
 ---
 ## HTMLFormElement.AcceptCharset property
 

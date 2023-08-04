@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SyntaxNodeCollection method. Inserts the given item at the specified index
 type: docs
 weight: 120
-url: /net/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/insert/
+url: /java/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/insert/
 ---
 ## SyntaxNodeCollection&lt;T&gt;.Insert method
 

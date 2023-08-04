@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Mutations.MutationRecord class. A MutationRecord represents an individual DOM mutation. It is the object that is passed to MutationObservers MutationCallback
 type: docs
 weight: 1000
-url: /net/com.aspose.html.dom.mutations/mutationrecord/
+url: /java/com.aspose.html.dom.mutations/mutationrecord/
 ---
 ## MutationRecord class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OptionElement property. Option label for use in hierarchical menus. See the label attribute definition in HTML 4.01
 type: docs
 weight: 20
-url: /net/com.aspose.html.forms/optionelement/label/
+url: /java/com.aspose.html.forms/optionelement/label/
 ---
 ## OptionElement.Label property
 

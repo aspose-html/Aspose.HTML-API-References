@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FormEditor method. Gets the enumerator
 type: docs
 weight: 130
-url: /net/com.aspose.html.forms/formeditor/getenumerator/
+url: /java/com.aspose.html.forms/formeditor/getenumerator/
 ---
 ## FormEditor.GetEnumerator method
 

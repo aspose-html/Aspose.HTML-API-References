@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ListItemSyntaxNode method. Get true if is tight
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax/listitemsyntaxnode/istight/
+url: /java/com.aspose.html.toolkit.markdown.syntax/listitemsyntaxnode/istight/
 ---
 ## ListItemSyntaxNode.IsTight method
 

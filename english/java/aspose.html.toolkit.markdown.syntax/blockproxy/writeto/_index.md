@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: BlockProxy method. Defines the interface for Write To writer
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax/blockproxy/writeto/
+url: /java/com.aspose.html.toolkit.markdown.syntax/blockproxy/writeto/
 ---
 ## BlockProxy.WriteTo method
 

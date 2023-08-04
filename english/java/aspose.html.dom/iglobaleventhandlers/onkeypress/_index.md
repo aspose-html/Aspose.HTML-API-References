@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnKeyPress event
 type: docs
 weight: 180
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onkeypress/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onkeypress/
 ---
 ## IGlobalEventHandlers.OnKeyPress event
 

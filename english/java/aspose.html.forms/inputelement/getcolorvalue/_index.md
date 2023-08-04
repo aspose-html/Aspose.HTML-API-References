@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: InputElement method. This method is used to get the value as a color. This method is valid if only only type of the input element is color
 type: docs
 weight: 80
-url: /net/com.aspose.html.forms/inputelement/getcolorvalue/
+url: /java/com.aspose.html.forms/inputelement/getcolorvalue/
 ---
 ## InputElement.GetColorValue method
 

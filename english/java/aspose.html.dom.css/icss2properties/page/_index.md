@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The page property can be used to specify a particular type of page where an element should be displayed
 type: docs
 weight: 850
-url: /net/com.aspose.html.dom.css/icss2properties/page/
+url: /java/com.aspose.html.dom.css/icss2properties/page/
 ---
 ## ICSS2Properties.Page property
 

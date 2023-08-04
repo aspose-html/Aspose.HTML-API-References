@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MhtmlRenderer method. Renders multiple MHTML documents into specified IDevice. The rendering will be performed once there are no any network operations for loading resources active timers animation tasks or specified timeout is elapsed
 type: docs
 weight: 20
-url: /net/com.aspose.html.rendering/mhtmlrenderer/render/
+url: /java/com.aspose.html.rendering/mhtmlrenderer/render/
 ---
 ## Render(IDevice, TimeSpan, params Stream[]) {#render_10}
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Path2D method. Adds an arc to the path which is centered at x y position with radius r starting at startAngle and ending at endAngle going in the given direction by anticlockwise defaulting to clockwise
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.canvas/path2d/arc/
+url: /java/com.aspose.html.dom.canvas/path2d/arc/
 ---
 ## Arc(double, double, double, double, double) {#arc}
 

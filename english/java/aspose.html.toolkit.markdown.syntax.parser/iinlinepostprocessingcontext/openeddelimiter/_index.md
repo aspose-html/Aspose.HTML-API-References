@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IInlinePostProcessingContext property. Get and set the OpenedDelimiter/
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/openeddelimiter/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/openeddelimiter/
 ---
 ## IInlinePostProcessingContext.OpenedDelimiter property
 

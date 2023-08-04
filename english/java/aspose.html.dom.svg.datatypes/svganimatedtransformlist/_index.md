@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.DataTypes.SVGAnimatedTransformList class. Used for the various attributes which specify a set of transformations such as the transform attribute which is available for many of SVGs elements and which can be animated
 type: docs
 weight: 1190
-url: /net/com.aspose.html.dom.svg.datatypes/svganimatedtransformlist/
+url: /java/com.aspose.html.dom.svg.datatypes/svganimatedtransformlist/
 ---
 ## SVGAnimatedTransformList class
 

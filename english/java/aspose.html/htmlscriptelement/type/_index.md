@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLScriptElement property. The content type of the script language. See the type attribute definition in HTML 4.01
 type: docs
 weight: 60
-url: /net/com.aspose.html/htmlscriptelement/type/
+url: /java/com.aspose.html/htmlscriptelement/type/
 ---
 ## HTMLScriptElement.Type property
 

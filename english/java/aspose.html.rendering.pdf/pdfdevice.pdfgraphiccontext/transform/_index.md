@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfGraphicContext method. Modify the current transformation matrix by multiplying the specified matrix
 type: docs
 weight: 100
-url: /net/com.aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/transform/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/transform/
 ---
 ## PdfDevice.PdfGraphicContext.Transform method
 

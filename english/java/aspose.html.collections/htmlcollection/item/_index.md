@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLCollection property. Returns the index-th item in the collection. If index is greater than or equal to the number of nodes in the list this returns null
 type: docs
 weight: 10
-url: /net/com.aspose.html.collections/htmlcollection/item/
+url: /java/com.aspose.html.collections/htmlcollection/item/
 ---
 ## HTMLCollection indexer
 

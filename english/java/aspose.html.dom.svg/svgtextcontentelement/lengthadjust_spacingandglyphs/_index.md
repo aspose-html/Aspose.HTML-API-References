@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTextContentElement field. Corresponds to value spacingAndGlyphs
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom.svg/svgtextcontentelement/lengthadjust_spacingandglyphs/
+url: /java/com.aspose.html.dom.svg/svgtextcontentelement/lengthadjust_spacingandglyphs/
 ---
 ## SVGTextContentElement.LENGTHADJUST_SPACINGANDGLYPHS field
 

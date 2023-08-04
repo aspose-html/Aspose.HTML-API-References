@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLOptionElement property. The control is unavailable in this context. See the disabled attribute definition in HTML 4.01
 type: docs
 weight: 20
-url: /net/com.aspose.html/htmloptionelement/disabled/
+url: /java/com.aspose.html/htmloptionelement/disabled/
 ---
 ## HTMLOptionElement.Disabled property
 

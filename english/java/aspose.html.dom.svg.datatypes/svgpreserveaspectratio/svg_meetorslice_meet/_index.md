@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPreserveAspectRatio field. Corresponds to value meet for attribute preserveAspectRatio
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_meet/
+url: /java/com.aspose.html.dom.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_meet/
 ---
 ## SVGPreserveAspectRatio.SVG_MEETORSLICE_MEET field
 

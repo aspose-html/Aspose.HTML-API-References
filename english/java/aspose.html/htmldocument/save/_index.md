@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLDocument method. Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder whose name will be constructed as output_file_name  _files
 type: docs
 weight: 130
-url: /net/com.aspose.html/htmldocument/save/
+url: /java/com.aspose.html/htmldocument/save/
 ---
 ## Save(Url) {#save_5}
 

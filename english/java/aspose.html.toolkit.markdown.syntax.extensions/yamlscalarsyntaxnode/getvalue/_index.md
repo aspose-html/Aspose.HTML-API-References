@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: YamlScalarSyntaxNode method. Defines the interface for get value
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/getvalue/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/getvalue/
 ---
 ## YamlScalarSyntaxNode.GetValue method
 

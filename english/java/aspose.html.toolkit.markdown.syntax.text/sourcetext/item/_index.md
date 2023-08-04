@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SourceText property. Gets the value at the given index
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/item/
+url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/item/
 ---
 ## SourceText indexer
 

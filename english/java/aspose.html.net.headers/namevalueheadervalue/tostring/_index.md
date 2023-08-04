@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NameValueHeaderValue method. Returns a String that represents this instance
 type: docs
 weight: 30
-url: /net/com.aspose.html.net.headers/namevalueheadervalue/toString/
+url: /java/com.aspose.html.net.headers/namevalueheadervalue/toString/
 ---
 ## NameValueHeaderValue.ToString method
 

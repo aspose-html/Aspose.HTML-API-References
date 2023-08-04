@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TextOptions property. Sets or gets TextRenderingHint which influences text rendering quality. By default this property is SystemDefault
 type: docs
 weight: 10
-url: /net/com.aspose.html.rendering.image/textoptions/textrenderinghint/
+url: /java/com.aspose.html.rendering.image/textoptions/textrenderinghint/
 ---
 ## TextOptions.TextRenderingHint property
 

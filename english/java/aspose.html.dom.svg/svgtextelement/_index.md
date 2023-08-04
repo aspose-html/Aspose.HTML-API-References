@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGTextElement class. The SVGTextElement interface corresponds to the text element
 type: docs
 weight: 2360
-url: /net/com.aspose.html.dom.svg/svgtextelement/
+url: /java/com.aspose.html.dom.svg/svgtextelement/
 ---
 ## SVGTextElement class
 

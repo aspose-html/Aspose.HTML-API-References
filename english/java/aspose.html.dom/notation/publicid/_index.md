@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Notation property. The public identifier of this notation. If the public identifier was not specified this is null
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom/notation/publicid/
+url: /java/com.aspose.html.dom/notation/publicid/
 ---
 ## Notation.PublicId property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ImageDevice method. Ends rendering of the element
 type: docs
 weight: 120
-url: /net/com.aspose.html.rendering.image/imagedevice/endelement/
+url: /java/com.aspose.html.rendering.image/imagedevice/endelement/
 ---
 ## ImageDevice.EndElement method
 

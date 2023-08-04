@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Configuration method. Performs application-defined tasks associated with freeing releasing or resetting unmanaged resources
 type: docs
 weight: 40
-url: /net/com.aspose.html/configuration/dispose/
+url: /java/com.aspose.html/configuration/dispose/
 ---
 ## Configuration.Dispose method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Paths.SVGPathSegArcRel class. The SVGPathSegArcRel interface corresponds to a relative arcto a path data command
 type: docs
 weight: 1720
-url: /net/com.aspose.html.dom.svg.paths/svgpathsegarcrel/
+url: /java/com.aspose.html.dom.svg.paths/svgpathsegarcrel/
 ---
 ## SVGPathSegArcRel class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Encodes the Color ARGB components into int
 type: docs
 weight: 360
-url: /net/com.aspose.html.drawing/color/toint/
+url: /java/com.aspose.html.drawing/color/toint/
 ---
 ## Color.ToInt method
 

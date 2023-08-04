@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: InputElement method. This method is used to get the value as a DateTime object object. This method is valid if only only type of the input element is datetime-local
 type: docs
 weight: 90
-url: /net/com.aspose.html.forms/inputelement/getdatetimelocalvalue/
+url: /java/com.aspose.html.forms/inputelement/getdatetimelocalvalue/
 ---
 ## InputElement.GetDateTimeLocalValue method
 

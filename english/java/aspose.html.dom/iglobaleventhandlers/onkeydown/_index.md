@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnKeyDown event
 type: docs
 weight: 170
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onkeydown/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onkeydown/
 ---
 ## IGlobalEventHandlers.OnKeyDown event
 

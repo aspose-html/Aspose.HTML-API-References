@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnChange event
 type: docs
 weight: 330
-url: /net/com.aspose.html.dom/document/onchange/
+url: /java/com.aspose.html.dom/document/onchange/
 ---
 ## Document.OnChange event
 

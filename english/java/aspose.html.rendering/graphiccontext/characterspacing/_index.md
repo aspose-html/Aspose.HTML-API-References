@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: GraphicContext property. Sets or gets character spacing
 type: docs
 weight: 20
-url: /net/com.aspose.html.rendering/graphiccontext/characterspacing/
+url: /java/com.aspose.html.rendering/graphiccontext/characterspacing/
 ---
 ## GraphicContext.CharacterSpacing property
 

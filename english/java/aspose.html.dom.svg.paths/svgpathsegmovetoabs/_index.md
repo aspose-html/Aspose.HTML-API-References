@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Paths.SVGPathSegMovetoAbs class. The SVGPathSegMovetoAbs interface corresponds to an absolute moveto M path data command
 type: docs
 weight: 1890
-url: /net/com.aspose.html.dom.svg.paths/svgpathsegmovetoabs/
+url: /java/com.aspose.html.dom.svg.paths/svgpathsegmovetoabs/
 ---
 ## SVGPathSegMovetoAbs class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IColorComponents method. Converts the color components to the Color object
 type: docs
 weight: 40
-url: /net/com.aspose.html.drawing/icolorcomponents/tocolor/
+url: /java/com.aspose.html.drawing/icolorcomponents/tocolor/
 ---
 ## IColorComponents.ToColor method
 

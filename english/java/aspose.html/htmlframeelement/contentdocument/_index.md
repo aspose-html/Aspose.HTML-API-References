@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLFrameElement property. The document this frame contains if there is any and it is available or null otherwise. since DOM Level 2
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmlframeelement/contentdocument/
+url: /java/com.aspose.html/htmlframeelement/contentdocument/
 ---
 ## HTMLFrameElement.ContentDocument property
 

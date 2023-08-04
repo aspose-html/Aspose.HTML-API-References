@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Net.MessageFilter class. Represents abstract base class for different classes of filters used to query messages
 type: docs
 weight: 3970
-url: /net/com.aspose.html.net/messagefilter/
+url: /java/com.aspose.html.net/messagefilter/
 ---
 ## MessageFilter class
 

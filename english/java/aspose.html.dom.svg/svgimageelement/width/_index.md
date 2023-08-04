@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGImageElement property. Corresponds to attribute width on the given image element
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg/svgimageelement/width/
+url: /java/com.aspose.html.dom.svg/svgimageelement/width/
 ---
 ## SVGImageElement.Width property
 

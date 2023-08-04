@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CSSPrimitiveValue field. The value is a percentage of the viewport width or height whichever is smaller
 type: docs
 weight: 440
-url: /net/com.aspose.html.dom.css/cssprimitivevalue/css_vmin/
+url: /java/com.aspose.html.dom.css/cssprimitivevalue/css_vmin/
 ---
 ## CSSPrimitiveValue.CSS_VMIN field
 

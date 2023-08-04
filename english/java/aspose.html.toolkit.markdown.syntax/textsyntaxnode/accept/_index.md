@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TextSyntaxNode method. Defines the interface for accept visitor
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax/textsyntaxnode/accept/
+url: /java/com.aspose.html.toolkit.markdown.syntax/textsyntaxnode/accept/
 ---
 ## TextSyntaxNode.Accept method
 

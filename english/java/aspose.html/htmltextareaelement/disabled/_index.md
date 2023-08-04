@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTextAreaElement property. The control is unavailable in this context. See the disabled attribute definition in HTML 4.01
 type: docs
 weight: 40
-url: /net/com.aspose.html/htmltextareaelement/disabled/
+url: /java/com.aspose.html/htmltextareaelement/disabled/
 ---
 ## HTMLTextAreaElement.Disabled property
 

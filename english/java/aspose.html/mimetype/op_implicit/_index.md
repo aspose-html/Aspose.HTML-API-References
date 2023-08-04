@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MimeType method. 
 type: docs
 weight: 90
-url: /net/com.aspose.html/mimetype/op_implicit/
+url: /java/com.aspose.html/mimetype/op_implicit/
 ---
 ## implicit operator {#op_implicit}
 

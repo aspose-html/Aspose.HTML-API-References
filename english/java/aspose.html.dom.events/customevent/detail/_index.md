@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CustomEvent property. Gets the custom data
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.events/customevent/detail/
+url: /java/com.aspose.html.dom.events/customevent/detail/
 ---
 ## CustomEvent.Detail property
 

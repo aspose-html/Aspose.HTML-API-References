@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node field. An Attribute of an Element
 type: docs
 weight: 320
-url: /net/com.aspose.html.dom/node/attribute_node/
+url: /java/com.aspose.html.dom/node/attribute_node/
 ---
 ## Node.ATTRIBUTE_NODE field
 

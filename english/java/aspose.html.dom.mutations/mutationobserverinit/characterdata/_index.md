@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit property. Set to true if mutations to targets data are to be observed. Can be omitted if characterDataOldValue is specified
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.mutations/mutationobserverinit/characterdata/
+url: /java/com.aspose.html.dom.mutations/mutationobserverinit/characterdata/
 ---
 ## MutationObserverInit.CharacterData property
 

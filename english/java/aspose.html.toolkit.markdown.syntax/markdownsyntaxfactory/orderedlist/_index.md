@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates OrderedListSyntaxNode
 type: docs
 weight: 310
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/orderedlist/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/orderedlist/
 ---
 ## MarkdownSyntaxFactory.OrderedList method
 

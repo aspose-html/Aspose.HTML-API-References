@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLLabelElement class. Form field label text. See the LABEL element definition in HTML 4.01
 type: docs
 weight: 3360
-url: /net/com.aspose.html/htmllabelelement/
+url: /java/com.aspose.html/htmllabelelement/
 ---
 ## HTMLLabelElement class
 

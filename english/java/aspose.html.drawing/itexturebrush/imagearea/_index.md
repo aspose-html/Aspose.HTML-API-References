@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ITextureBrush property. Specifies the portion of the image used by the brush. If it equals RectangleF.Empty then the whole image will be used. Coordinates are in pixels
 type: docs
 weight: 30
-url: /net/com.aspose.html.drawing/itexturebrush/imagearea/
+url: /java/com.aspose.html.drawing/itexturebrush/imagearea/
 ---
 ## ITextureBrush.ImageArea property
 

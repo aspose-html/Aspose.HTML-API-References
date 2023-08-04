@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnError event
 type: docs
 weight: 190
-url: /net/com.aspose.html/htmlelement/onerror/
+url: /java/com.aspose.html/htmlelement/onerror/
 ---
 ## HTMLElement.OnError event
 

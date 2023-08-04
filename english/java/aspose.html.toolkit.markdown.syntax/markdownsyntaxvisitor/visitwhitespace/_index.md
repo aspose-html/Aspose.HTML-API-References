@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit Whitespace Syntax
 type: docs
 weight: 290
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitwhitespace/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitwhitespace/
 ---
 ## MarkdownSyntaxVisitor.VisitWhitespace method
 

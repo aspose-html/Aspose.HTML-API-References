@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Uint16Array class. Represents an array of twos-complement 16-bit unsigned integers in the platform byte order
 type: docs
 weight: 5800
-url: /net/com.aspose.html/uint16array/
+url: /java/com.aspose.html/uint16array/
 ---
 ## Uint16Array class
 

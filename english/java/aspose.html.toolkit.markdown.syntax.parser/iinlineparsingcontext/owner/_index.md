@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IInlineParsingContext property. Get the Owner
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/owner/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/owner/
 ---
 ## IInlineParsingContext.Owner property
 

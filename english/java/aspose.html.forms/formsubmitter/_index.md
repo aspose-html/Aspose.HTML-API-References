@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Forms.FormSubmitter class. This class allows to prepare specified HTMLFormElement collects values from the form element submit them to the remote server and receives a response
 type: docs
 weight: 2980
-url: /net/com.aspose.html.forms/formsubmitter/
+url: /java/com.aspose.html.forms/formsubmitter/
 ---
 ## FormSubmitter class
 

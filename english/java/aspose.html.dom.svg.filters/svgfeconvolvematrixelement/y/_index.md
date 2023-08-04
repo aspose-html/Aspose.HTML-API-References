@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEConvolveMatrixElement property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 170
-url: /net/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/y/
+url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/y/
 ---
 ## SVGFEConvolveMatrixElement.Y property
 

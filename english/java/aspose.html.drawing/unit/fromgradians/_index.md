@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Angle object that is represented in gradians
 type: docs
 weight: 100
-url: /net/com.aspose.html.drawing/unit/fromgradians/
+url: /java/com.aspose.html.drawing/unit/fromgradians/
 ---
 ## Unit.FromGradians method
 

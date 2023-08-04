@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxExtension method. Defines the interface for Setup
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/markdownsyntaxextension/setup/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownsyntaxextension/setup/
 ---
 ## MarkdownSyntaxExtension.Setup method
 

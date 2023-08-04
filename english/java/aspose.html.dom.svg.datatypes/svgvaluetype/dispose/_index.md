@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGValueType method. Releases unmanaged and - optionally - managed resources
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.datatypes/svgvaluetype/dispose/
+url: /java/com.aspose.html.dom.svg.datatypes/svgvaluetype/dispose/
 ---
 ## SVGValueType.Dispose method
 

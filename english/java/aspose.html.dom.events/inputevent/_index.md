@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Events.InputEvent class. Input events are sent as notifications whenever the DOM is being updated
 type: docs
 weight: 830
-url: /net/com.aspose.html.dom.events/inputevent/
+url: /java/com.aspose.html.dom.events/inputevent/
 ---
 ## InputEvent class
 

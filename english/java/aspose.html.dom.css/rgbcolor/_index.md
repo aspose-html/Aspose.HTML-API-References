@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Css.RGBColor class. The RGBColor interface is used to represent any RGB color value. This interface reflects the values in the underlying style property. Hence modifications made to the CSSPrimitiveValue objects modify the style property
 type: docs
 weight: 630
-url: /net/com.aspose.html.dom.css/rgbcolor/
+url: /java/com.aspose.html.dom.css/rgbcolor/
 ---
 ## RGBColor class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEFloodElement property. Corresponds to attribute result on the given filter element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg.filters/svgfefloodelement/result/
+url: /java/com.aspose.html.dom.svg.filters/svgfefloodelement/result/
 ---
 ## SVGFEFloodElement.Result property
 

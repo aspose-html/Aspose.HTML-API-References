@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.Window package is related for window object which represents a window containing a DOM document. It includes classes and interfaces related to active document address and browsing history
 type: docs
 weight: 450
-url: /net/com.aspose.html.window/
+url: /java/com.aspose.html.window/
 ---
 The **com.aspose.html.Window** package is related for window object which represents a window containing a DOM document. It includes classes and interfaces related to active document address and browsing history.
 

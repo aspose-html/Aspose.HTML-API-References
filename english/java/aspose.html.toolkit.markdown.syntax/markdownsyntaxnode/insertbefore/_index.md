@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode method. Insert before node
 type: docs
 weight: 120
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/
 ---
 ## MarkdownSyntaxNode.InsertBefore method
 

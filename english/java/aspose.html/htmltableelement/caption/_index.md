@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableElement property. Returns the tables CAPTION or void if none exists. version DOM Level 2
 type: docs
 weight: 40
-url: /net/com.aspose.html/htmltableelement/caption/
+url: /java/com.aspose.html/htmltableelement/caption/
 ---
 ## HTMLTableElement.Caption property
 

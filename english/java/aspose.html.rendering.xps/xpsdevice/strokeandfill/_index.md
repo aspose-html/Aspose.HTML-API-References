@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: XpsDevice method. Strokes and fill current path. This method terminates current path
 type: docs
 weight: 190
-url: /net/com.aspose.html.rendering.xps/xpsdevice/strokeandfill/
+url: /java/com.aspose.html.rendering.xps/xpsdevice/strokeandfill/
 ---
 ## XpsDevice.StrokeAndFill method
 

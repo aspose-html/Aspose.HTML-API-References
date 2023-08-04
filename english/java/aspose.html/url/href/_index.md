@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Url property. Gets or sets a serialized representation for the specified URL instance
 type: docs
 weight: 50
-url: /net/com.aspose.html/url/href/
+url: /java/com.aspose.html/url/href/
 ---
 ## Url.Href property
 

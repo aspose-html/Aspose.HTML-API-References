@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSStyleSheet property. The read-only CSSStyleSheet property ownerRule returns the CSSImportRule corresponding to the import at-rule which imported the stylesheet into the document. If the stylesheet wasnt imported into the document using import the returned value is null
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.css/icssstylesheet/ownerrule/
+url: /java/com.aspose.html.dom.css/icssstylesheet/ownerrule/
 ---
 ## ICSSStyleSheet.OwnerRule property
 

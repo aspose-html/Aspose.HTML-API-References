@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGLinearGradientElement property. Corresponds to attribute y1 on the given linearGradient element
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg/svglineargradientelement/y1/
+url: /java/com.aspose.html.dom.svg/svglineargradientelement/y1/
 ---
 ## SVGLinearGradientElement.Y1 property
 

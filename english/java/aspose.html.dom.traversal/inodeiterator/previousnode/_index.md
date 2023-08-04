@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: INodeIterator method. Returns the previous node in the set and moves the position of the NodeIterator backwards in the set
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.traversal/inodeiterator/previousnode/
+url: /java/com.aspose.html.dom.traversal/inodeiterator/previousnode/
 ---
 ## INodeIterator.PreviousNode method
 

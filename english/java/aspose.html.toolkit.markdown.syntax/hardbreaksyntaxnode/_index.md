@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.HardBreakSyntaxNode class. Represents the HardBreakSyntaxNode
 type: docs
 weight: 5010
-url: /net/com.aspose.html.toolkit.markdown.syntax/hardbreaksyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/hardbreaksyntaxnode/
 ---
 ## HardBreakSyntaxNode class
 

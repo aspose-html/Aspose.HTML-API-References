@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Url method. Determines whether the specified Object is equal to this instance
 type: docs
 weight: 140
-url: /net/com.aspose.html/url/equals/
+url: /java/com.aspose.html/url/equals/
 ---
 ## Url.Equals method
 

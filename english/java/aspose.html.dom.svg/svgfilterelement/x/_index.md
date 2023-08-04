@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFilterElement property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom.svg/svgfilterelement/x/
+url: /java/com.aspose.html.dom.svg/svgfilterelement/x/
 ---
 ## SVGFilterElement.X property
 

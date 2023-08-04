@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLAnchorElement property. Language code of the linked resource. See the hreflang attribute definition in HTML 4.01
 type: docs
 weight: 80
-url: /net/com.aspose.html/htmlanchorelement/hreflang/
+url: /java/com.aspose.html/htmlanchorelement/hreflang/
 ---
 ## HTMLAnchorElement.Hreflang property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGMatrix method. Post-multiplies a non-uniform scale transformation on the current matrix and returns the resulting matrix
 type: docs
 weight: 100
-url: /net/com.aspose.html.dom.svg.datatypes/svgmatrix/scalenonuniform/
+url: /java/com.aspose.html.dom.svg.datatypes/svgmatrix/scalenonuniform/
 ---
 ## SVGMatrix.ScaleNonUniform method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Element method. Removes this instance
 type: docs
 weight: 360
-url: /net/com.aspose.html.dom/element/remove/
+url: /java/com.aspose.html.dom/element/remove/
 ---
 ## Element.Remove method
 

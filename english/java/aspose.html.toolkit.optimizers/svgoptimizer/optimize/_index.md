@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGOptimizer method. Optimizes SVGDocument by applying a set of default optimization options
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.optimizers/svgoptimizer/optimize/
+url: /java/com.aspose.html.toolkit.optimizers/svgoptimizer/optimize/
 ---
 ## Optimize(SVGDocument) {#optimize}
 

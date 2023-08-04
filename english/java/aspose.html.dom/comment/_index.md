@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Comment class. Inherits from CharacterData and represents the content of a comment i.e. all the characters between the starting 
 type: docs
 weight: 320
-url: /net/com.aspose.html.dom/comment/
+url: /java/com.aspose.html.dom/comment/
 ---
 ## Comment class
 

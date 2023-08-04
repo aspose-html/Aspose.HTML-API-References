@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnKeyUp event
 type: docs
 weight: 460
-url: /net/com.aspose.html.dom/document/onkeyup/
+url: /java/com.aspose.html.dom/document/onkeyup/
 ---
 ## Document.OnKeyUp event
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Length object that is represented in picas
 type: docs
 weight: 160
-url: /net/com.aspose.html.drawing/unit/frompicas/
+url: /java/com.aspose.html.drawing/unit/frompicas/
 ---
 ## Unit.FromPicas method
 

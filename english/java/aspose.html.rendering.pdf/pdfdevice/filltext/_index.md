@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDevice method. Fills the specified text String at the specified location
 type: docs
 weight: 140
-url: /net/com.aspose.html.rendering.pdf/pdfdevice/filltext/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice/filltext/
 ---
 ## PdfDevice.FillText method
 

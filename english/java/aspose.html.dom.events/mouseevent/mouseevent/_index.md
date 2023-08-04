@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MouseEvent constructor. Initializes a new instance of the MouseEvent class
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.events/mouseevent/mouseevent/
+url: /java/com.aspose.html.dom.events/mouseevent/mouseevent/
 ---
 ## MouseEvent(String) {#constructor}
 

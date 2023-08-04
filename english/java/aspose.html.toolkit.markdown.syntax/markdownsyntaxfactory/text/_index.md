@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates TextSyntax
 type: docs
 weight: 440
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/text/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/text/
 ---
 ## Text(String) {#text_2}
 

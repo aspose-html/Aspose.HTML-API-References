@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEGaussianBlurElement method. Sets the values for attribute stdDeviation
 type: docs
 weight: 90
-url: /net/com.aspose.html.dom.svg.filters/svgfegaussianblurelement/setstddeviation/
+url: /java/com.aspose.html.dom.svg.filters/svgfegaussianblurelement/setstddeviation/
 ---
 ## SVGFEGaussianBlurElement.SetStdDeviation method
 

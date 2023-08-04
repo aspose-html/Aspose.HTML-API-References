@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Traversal class. The abstract class Traversal
 type: docs
 weight: 5690
-url: /net/com.aspose.html.toolkit.markdown.syntax/traversal/
+url: /java/com.aspose.html.toolkit.markdown.syntax/traversal/
 ---
 ## Traversal class
 

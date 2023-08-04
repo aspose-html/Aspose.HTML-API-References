@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IStyleSheet property. The media property of the StyleSheet interface specifies the intended destination media for style information. It is a read-only array-like MediaList object and can be removed with deleteMedium and added with appendMedium
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.css/istylesheet/media/
+url: /java/com.aspose.html.dom.css/istylesheet/media/
 ---
 ## IStyleSheet.Media property
 

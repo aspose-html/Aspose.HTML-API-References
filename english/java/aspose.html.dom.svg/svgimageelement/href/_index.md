@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGImageElement property. Corresponds to attribute xlinkhref on the given element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg/svgimageelement/href/
+url: /java/com.aspose.html.dom.svg/svgimageelement/href/
 ---
 ## SVGImageElement.Href property
 

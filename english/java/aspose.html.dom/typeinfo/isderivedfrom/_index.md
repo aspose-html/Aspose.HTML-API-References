@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TypeInfo method. This method returns if there is a derivation between the reference type definition i.e. the TypeInfo on which the method is being called and the other type definition i.e. the one passed as parameters
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom/typeinfo/isderivedfrom/
+url: /java/com.aspose.html.dom/typeinfo/isderivedfrom/
 ---
 ## TypeInfo.IsDerivedFrom method
 

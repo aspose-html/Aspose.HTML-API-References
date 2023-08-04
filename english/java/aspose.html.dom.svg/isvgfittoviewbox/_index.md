@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.ISVGFitToViewBox interface. Interface SVGFitToViewBox defines DOM attributes that apply to elements which have XML attributes viewBox and preserveAspectRatio
 type: docs
 weight: 1630
-url: /net/com.aspose.html.dom.svg/isvgfittoviewbox/
+url: /java/com.aspose.html.dom.svg/isvgfittoviewbox/
 ---
 ## ISVGFitToViewBox interface
 

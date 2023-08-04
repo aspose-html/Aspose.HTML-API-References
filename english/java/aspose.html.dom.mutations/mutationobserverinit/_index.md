@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Mutations.MutationObserverInit class. This class represents an options collection which is used to configure MutationObserver
 type: docs
 weight: 990
-url: /net/com.aspose.html.dom.mutations/mutationobserverinit/
+url: /java/com.aspose.html.dom.mutations/mutationobserverinit/
 ---
 ## MutationObserverInit class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode method. Remove the child
 type: docs
 weight: 130
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/removechild/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/removechild/
 ---
 ## MarkdownSyntaxNode.RemoveChild method
 

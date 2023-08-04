@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Events.WheelEvent class. The WheelEvent interface provides specific contextual information associated with wheel events. To create an instance of the WheelEvent interface use the WheelEvent constructor passing an optional WheelEventInit dictionary
 type: docs
 weight: 870
-url: /net/com.aspose.html.dom.events/wheelevent/
+url: /java/com.aspose.html.dom.events/wheelevent/
 ---
 ## WheelEvent class
 

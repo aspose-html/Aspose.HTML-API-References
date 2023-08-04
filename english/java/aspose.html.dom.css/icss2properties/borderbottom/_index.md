@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This is a shorthand property for setting the width style and color of the top right bottom and left border of a box
 type: docs
 weight: 90
-url: /net/com.aspose.html.dom.css/icss2properties/borderbottom/
+url: /java/com.aspose.html.dom.css/icss2properties/borderbottom/
 ---
 ## ICSS2Properties.BorderBottom property
 

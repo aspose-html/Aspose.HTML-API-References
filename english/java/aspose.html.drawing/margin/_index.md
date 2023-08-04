@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Drawing.Margin class. Represents page margin
 type: docs
 weight: 2800
-url: /net/com.aspose.html.drawing/margin/
+url: /java/com.aspose.html.drawing/margin/
 ---
 ## Margin class
 

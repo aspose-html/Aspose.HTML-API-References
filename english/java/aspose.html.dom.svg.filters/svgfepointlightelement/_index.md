@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Filters.SVGFEPointLightElement class. The SVGFEPointLightElement interface corresponds to the fePointLight element
 type: docs
 weight: 1570
-url: /net/com.aspose.html.dom.svg.filters/svgfepointlightelement/
+url: /java/com.aspose.html.dom.svg.filters/svgfepointlightelement/
 ---
 ## SVGFEPointLightElement class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Element property. Returns a fragment of HTML or XML that represents the elements contents. Can be set to replace the contents of the element with nodes parsed from the given String
 type: docs
 weight: 90
-url: /net/com.aspose.html.dom/element/innerhtml/
+url: /java/com.aspose.html.dom/element/innerhtml/
 ---
 ## Element.InnerHTML property
 

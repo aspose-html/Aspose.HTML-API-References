@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IMarkdownParserBuilder method. Defines the UseInlineParser method
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useinlineparser/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useinlineparser/
 ---
 ## IMarkdownParserBuilder.UseInlineParser&lt;T&gt; method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownTextWriter property. Get the encoding
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdowntextwriter/encoding/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdowntextwriter/encoding/
 ---
 ## MarkdownTextWriter.Encoding property
 

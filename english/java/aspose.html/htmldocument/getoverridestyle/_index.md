@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLDocument method. This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element
 type: docs
 weight: 110
-url: /net/com.aspose.html/htmldocument/getoverridestyle/
+url: /java/com.aspose.html/htmldocument/getoverridestyle/
 ---
 ## HTMLDocument.GetOverrideStyle method
 

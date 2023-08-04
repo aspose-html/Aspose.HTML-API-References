@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Saving contains secondary role classes to specify saving process. For example save options and format in which document is saved
 type: docs
 weight: 170
-url: /net/com.aspose.html.dom.svg.saving/
+url: /java/com.aspose.html.dom.svg.saving/
 ---
 **com.aspose.html.Dom.Svg.Saving** contains secondary role classes to specify saving process. For example, save options and format in which document is saved.
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Device method. Flushes all data to output stream
 type: docs
 weight: 170
-url: /net/com.aspose.html.rendering/device-2/flush/
+url: /java/com.aspose.html.rendering/device-2/flush/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.Flush method
 

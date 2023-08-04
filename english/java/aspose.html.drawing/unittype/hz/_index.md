@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is in hertz
 type: docs
 weight: 110
-url: /net/com.aspose.html.drawing/unittype/hz/
+url: /java/com.aspose.html.drawing/unittype/hz/
 ---
 ## UnitType.Hz field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: WheelEvent field. The units of measurement for the delta MUST be individual lines of text. This is the case for many form controls
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom.events/wheelevent/dom_delta_line/
+url: /java/com.aspose.html.dom.events/wheelevent/dom_delta_line/
 ---
 ## WheelEvent.DOM_DELTA_LINE field
 

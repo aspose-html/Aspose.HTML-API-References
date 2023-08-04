@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGComponentTransferFunctionElement class. This interface defines a base interface used by the component transfer function interfaces
 type: docs
 weight: 1980
-url: /net/com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/
+url: /java/com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/
 ---
 ## SVGComponentTransferFunctionElement class
 

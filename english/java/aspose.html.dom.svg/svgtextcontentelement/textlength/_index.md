@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTextContentElement property. Corresponds to attribute textLength on the given element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg/svgtextcontentelement/textlength/
+url: /java/com.aspose.html.dom.svg/svgtextcontentelement/textlength/
 ---
 ## SVGTextContentElement.TextLength property
 

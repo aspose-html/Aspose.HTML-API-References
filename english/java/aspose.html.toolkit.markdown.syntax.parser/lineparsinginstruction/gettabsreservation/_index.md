@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LineParsingInstruction method. Defines the interface for get TabsReservation
 type: docs
 weight: 80
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/gettabsreservation/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/gettabsreservation/
 ---
 ## LineParsingInstruction.GetTabsReservation method
 

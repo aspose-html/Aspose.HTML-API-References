@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Url property. Gets a String representation for the specified URL origin
 type: docs
 weight: 60
-url: /net/com.aspose.html/url/origin/
+url: /java/com.aspose.html/url/origin/
 ---
 ## Url.Origin property
 

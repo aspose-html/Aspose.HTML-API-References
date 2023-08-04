@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document method. Evaluates an XPath expression String and returns a result of the specified type if possible
 type: docs
 weight: 950
-url: /net/com.aspose.html.dom/document/evaluate/
+url: /java/com.aspose.html.dom/document/evaluate/
 ---
 ## Document.Evaluate method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ParagraphSyntaxNode method. Defines the interface for get content
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/paragraphsyntaxnode/getcontent/
+url: /java/com.aspose.html.toolkit.markdown.syntax/paragraphsyntaxnode/getcontent/
 ---
 ## ParagraphSyntaxNode.GetContent method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Uint8ClampedArray property. Gets or sets the Byte at the specified index
 type: docs
 weight: 20
-url: /net/com.aspose.html/uint8clampedarray/item/
+url: /java/com.aspose.html/uint8clampedarray/item/
 ---
 ## Uint8ClampedArray indexer
 

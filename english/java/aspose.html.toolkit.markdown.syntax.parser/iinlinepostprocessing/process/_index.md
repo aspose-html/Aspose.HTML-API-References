@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IInlinePostProcessing method. Defines the Process method
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessing/process/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessing/process/
 ---
 ## IInlinePostProcessing.Process method
 

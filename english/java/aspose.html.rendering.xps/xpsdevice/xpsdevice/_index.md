@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: XpsDevice constructor. Initializes a new instance of the XpsDevice class
 type: docs
 weight: 10
-url: /net/com.aspose.html.rendering.xps/xpsdevice/xpsdevice/
+url: /java/com.aspose.html.rendering.xps/xpsdevice/xpsdevice/
 ---
 ## XpsDevice(ICreateStreamProvider) {#constructor}
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DocDevice method. Ends rendering of the html node
 type: docs
 weight: 100
-url: /net/com.aspose.html.rendering.doc/docdevice/endelement/
+url: /java/com.aspose.html.rendering.doc/docdevice/endelement/
 ---
 ## DocDevice.EndElement method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Converters.TemplateContentOptions class. Inline content object for merging processing
 type: docs
 weight: 90
-url: /net/com.aspose.html.converters/templatecontentoptions/
+url: /java/com.aspose.html.converters/templatecontentoptions/
 ---
 ## TemplateContentOptions class
 

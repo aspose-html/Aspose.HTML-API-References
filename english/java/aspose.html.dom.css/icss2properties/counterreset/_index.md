@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The counter-reset property also contains a list of one or more names of counters each one optionally followed by an integer. The integer gives the value that the counter is set to on each occurrence of the element. The default is 0
 type: docs
 weight: 370
-url: /net/com.aspose.html.dom.css/icss2properties/counterreset/
+url: /java/com.aspose.html.dom.css/icss2properties/counterreset/
 ---
 ## ICSS2Properties.CounterReset property
 

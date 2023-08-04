@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.MarkdownException class. The Markdown exception
 type: docs
 weight: 5170
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownexception/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownexception/
 ---
 ## MarkdownException class
 

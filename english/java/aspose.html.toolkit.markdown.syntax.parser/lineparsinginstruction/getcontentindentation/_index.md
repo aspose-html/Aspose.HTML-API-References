@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LineParsingInstruction method. Defines the interface for get indentation
 type: docs
 weight: 60
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/getcontentindentation/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/getcontentindentation/
 ---
 ## LineParsingInstruction.GetContentIndentation method
 

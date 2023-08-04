@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Text method. Replaces the text of the current node and all logically-adjacent text nodes with the specified text. All logically-adjacent text nodes are removed including the current node unless it was the recipient of the replacement text
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom/text/replacewholetext/
+url: /java/com.aspose.html.dom/text/replacewholetext/
 ---
 ## Text.ReplaceWholeText method
 

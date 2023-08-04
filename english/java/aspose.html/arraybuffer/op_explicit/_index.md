@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ArrayBuffer method. 
 type: docs
 weight: 40
-url: /net/com.aspose.html/arraybuffer/op_explicit/
+url: /java/com.aspose.html/arraybuffer/op_explicit/
 ---
 ## ArrayBuffer Explicit operator
 

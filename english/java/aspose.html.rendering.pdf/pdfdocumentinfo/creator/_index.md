@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDocumentInfo property. The name of the product that created the original document
 type: docs
 weight: 30
-url: /net/com.aspose.html.rendering.pdf/pdfdocumentinfo/creator/
+url: /java/com.aspose.html.rendering.pdf/pdfdocumentinfo/creator/
 ---
 ## PdfDocumentInfo.Creator property
 

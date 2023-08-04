@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGSymbolElement class. The SVGSymbolElement interface corresponds to the symbol element
 type: docs
 weight: 2330
-url: /net/com.aspose.html.dom.svg/svgsymbolelement/
+url: /java/com.aspose.html.dom.svg/svgsymbolelement/
 ---
 ## SVGSymbolElement class
 

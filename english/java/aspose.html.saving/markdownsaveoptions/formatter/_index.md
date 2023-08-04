@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSaveOptions property. Gets or sets the markdown formatting style
 type: docs
 weight: 50
-url: /net/com.aspose.html.saving/markdownsaveoptions/formatter/
+url: /java/com.aspose.html.saving/markdownsaveoptions/formatter/
 ---
 ## MarkdownSaveOptions.Formatter property
 

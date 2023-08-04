@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFETurbulenceElement field. Corresponds to value turbulence
 type: docs
 weight: 160
-url: /net/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_turbulence_type_turbulence/
+url: /java/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_turbulence_type_turbulence/
 ---
 ## SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_TURBULENCE field
 

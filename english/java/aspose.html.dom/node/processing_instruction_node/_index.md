@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node field. A ProcessingInstruction of an XML document such as xml-stylesheet  
 type: docs
 weight: 420
-url: /net/com.aspose.html.dom/node/processing_instruction_node/
+url: /java/com.aspose.html.dom/node/processing_instruction_node/
 ---
 ## Node.PROCESSING_INSTRUCTION_NODE field
 

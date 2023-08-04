@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CSSValue method. Returns a hash code for this instance
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.css/cssvalue/gethashcode/
+url: /java/com.aspose.html.dom.css/cssvalue/gethashcode/
 ---
 ## CSSValue.GetHashCode method
 

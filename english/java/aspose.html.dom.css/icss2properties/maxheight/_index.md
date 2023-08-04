@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. These two properties allow authors to constrain box heights to a certain range. Values have the following meanings
 type: docs
 weight: 700
-url: /net/com.aspose.html.dom.css/icss2properties/maxheight/
+url: /java/com.aspose.html.dom.css/icss2properties/maxheight/
 ---
 ## ICSS2Properties.MaxHeight property
 

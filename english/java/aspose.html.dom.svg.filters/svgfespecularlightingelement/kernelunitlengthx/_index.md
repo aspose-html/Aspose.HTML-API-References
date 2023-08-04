@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFESpecularLightingElement property. Corresponds to attribute kernelUnitLength on the given feSpecularLighting element
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/kernelunitlengthx/
+url: /java/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/kernelunitlengthx/
 ---
 ## SVGFESpecularLightingElement.KernelUnitLengthX property
 

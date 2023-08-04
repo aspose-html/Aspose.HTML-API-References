@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IElementTraversal property. Returns the last child element node of this element. null if this element has no child elements
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.traversal/ielementtraversal/lastelementchild/
+url: /java/com.aspose.html.dom.traversal/ielementtraversal/lastelementchild/
 ---
 ## IElementTraversal.LastElementChild property
 

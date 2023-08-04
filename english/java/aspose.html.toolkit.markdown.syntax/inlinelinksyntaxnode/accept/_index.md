@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: InlineLinkSyntaxNode method. Defines the interface for accept visitor
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/inlinelinksyntaxnode/accept/
+url: /java/com.aspose.html.toolkit.markdown.syntax/inlinelinksyntaxnode/accept/
 ---
 ## InlineLinkSyntaxNode.Accept method
 

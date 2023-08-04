@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSStyleDeclaration method. Used to retrieve the object representation of the value of a CSS property if it has been explicitly set within this declaration block. This method returns null if the property is a shorthand property. Shorthand property values can only be accessed and modified as Strings using the getPropertyValue and setProperty methods
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.css/icssstyledeclaration/getpropertycssvalue/
+url: /java/com.aspose.html.dom.css/icssstyledeclaration/getpropertycssvalue/
 ---
 ## ICSSStyleDeclaration.GetPropertyCSSValue method
 

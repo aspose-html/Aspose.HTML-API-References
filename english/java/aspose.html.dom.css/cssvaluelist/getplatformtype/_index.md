@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CSSValueList method. This method is used to retrieve ECMAScript object Type
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom.css/cssvaluelist/getplatformtype/
+url: /java/com.aspose.html.dom.css/cssvaluelist/getplatformtype/
 ---
 ## CSSValueList.GetPlatformType method
 

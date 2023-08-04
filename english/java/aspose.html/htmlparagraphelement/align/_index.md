@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLParagraphElement property. Horizontal text alignment. See the align attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmlparagraphelement/align/
+url: /java/com.aspose.html/htmlparagraphelement/align/
 ---
 ## HTMLParagraphElement.Align property
 

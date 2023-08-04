@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node field. A Comment node such as --  --
 type: docs
 weight: 340
-url: /net/com.aspose.html.dom/node/comment_node/
+url: /java/com.aspose.html.dom/node/comment_node/
 ---
 ## Node.COMMENT_NODE field
 

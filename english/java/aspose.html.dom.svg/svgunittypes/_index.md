@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGUnitTypes enum. The SVGUnitTypes enumeration defines a commonly used set of constants and is a base interface used by SVGGradientElement SVGPatternElement SVGClipPathElement SVGMaskElement and SVGFilterElement
 type: docs
 weight: 2400
-url: /net/com.aspose.html.dom.svg/svgunittypes/
+url: /java/com.aspose.html.dom.svg/svgunittypes/
 ---
 ## SVGUnitTypes enumeration
 

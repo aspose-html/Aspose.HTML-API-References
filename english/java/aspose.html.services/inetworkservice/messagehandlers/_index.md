@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: INetworkService property. Gets an list of MessageHandler instances to be invoked as an RequestMessage executes
 type: docs
 weight: 10
-url: /net/com.aspose.html.services/inetworkservice/messagehandlers/
+url: /java/com.aspose.html.services/inetworkservice/messagehandlers/
 ---
 ## INetworkService.MessageHandlers property
 

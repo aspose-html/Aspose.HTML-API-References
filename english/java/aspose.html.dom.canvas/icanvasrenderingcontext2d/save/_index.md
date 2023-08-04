@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Saves the current drawing style state using a stack so you can revert any change you make to it using restore
 type: docs
 weight: 340
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/save/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/save/
 ---
 ## ICanvasRenderingContext2D.Save method
 

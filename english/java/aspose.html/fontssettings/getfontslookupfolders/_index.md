@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FontsSettings method. Gets a copy of array which contains fonts folders. Fonts found in these folders are used for characters rendering
 type: docs
 weight: 20
-url: /net/com.aspose.html/fontssettings/getfontslookupfolders/
+url: /java/com.aspose.html/fontssettings/getfontslookupfolders/
 ---
 ## FontsSettings.GetFontsLookupFolders method
 

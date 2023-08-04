@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGMaskElement class. The SVGMaskElement interface corresponds to the mask element
 type: docs
 weight: 2180
-url: /net/com.aspose.html.dom.svg/svgmaskelement/
+url: /java/com.aspose.html.dom.svg/svgmaskelement/
 ---
 ## SVGMaskElement class
 

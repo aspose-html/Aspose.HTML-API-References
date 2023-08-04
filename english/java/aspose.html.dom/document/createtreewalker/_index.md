@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document method. Create a new TreeWalker over the subtree rooted at the specified node
 type: docs
 weight: 940
-url: /net/com.aspose.html.dom/document/createtreewalker/
+url: /java/com.aspose.html.dom/document/createtreewalker/
 ---
 ## CreateTreeWalker(Node) {#createtreewalker}
 

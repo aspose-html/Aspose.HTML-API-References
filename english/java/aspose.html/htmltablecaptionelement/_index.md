@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLTableCaptionElement class. Table caption See the CAPTION element definition in HTML 4.01
 type: docs
 weight: 3550
-url: /net/com.aspose.html/htmltablecaptionelement/
+url: /java/com.aspose.html/htmltablecaptionelement/
 ---
 ## HTMLTableCaptionElement class
 

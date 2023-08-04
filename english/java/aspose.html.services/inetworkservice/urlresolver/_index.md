@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: INetworkService property. Gets or sets the URL resolver
 type: docs
 weight: 20
-url: /net/com.aspose.html.services/inetworkservice/urlresolver/
+url: /java/com.aspose.html.services/inetworkservice/urlresolver/
 ---
 ## INetworkService.UrlResolver property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SyntaxNodeCollection constructor. The default constructor
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/syntaxnodecollection/
+url: /java/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/syntaxnodecollection/
 ---
 ## SyntaxNodeCollection&lt;T&gt; constructor
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMTokenList method. Returns true if a given token is in the associated attributes supported tokens
 type: docs
 weight: 90
-url: /net/com.aspose.html.collections/domtokenlist/supports/
+url: /java/com.aspose.html.collections/domtokenlist/supports/
 ---
 ## DOMTokenList.Supports method
 

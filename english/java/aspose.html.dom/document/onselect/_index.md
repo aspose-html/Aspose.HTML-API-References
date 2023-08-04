@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnSelect event
 type: docs
 weight: 700
-url: /net/com.aspose.html.dom/document/onselect/
+url: /java/com.aspose.html.dom/document/onselect/
 ---
 ## Document.OnSelect event
 

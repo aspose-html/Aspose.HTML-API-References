@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSStyleSheet property. The read-only CSSStyleSheet property cssRules returns a live CSSRuleList which provides a real-time up-to-date list of every CSS rule which comprises the stylesheet. Each item in the list is a CSSRule defining a single rule
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.css/icssstylesheet/cssrules/
+url: /java/com.aspose.html.dom.css/icssstylesheet/cssrules/
 ---
 ## ICSSStyleSheet.CSSRules property
 

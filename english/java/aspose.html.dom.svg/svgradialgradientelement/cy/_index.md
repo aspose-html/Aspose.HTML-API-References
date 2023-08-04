@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGRadialGradientElement property. Corresponds to attribute cy on the given radialGradient element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg/svgradialgradientelement/cy/
+url: /java/com.aspose.html.dom.svg/svgradialgradientelement/cy/
 ---
 ## SVGRadialGradientElement.Cy property
 

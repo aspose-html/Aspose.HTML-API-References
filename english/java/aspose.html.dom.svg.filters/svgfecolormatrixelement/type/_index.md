@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEColorMatrixElement property. Corresponds to attribute type on the given feColorMatrix element. Takes one of the SVG_FECOLORMATRIX_TYPE_ constants defined on this interface
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg.filters/svgfecolormatrixelement/type/
+url: /java/com.aspose.html.dom.svg.filters/svgfecolormatrixelement/type/
 ---
 ## SVGFEColorMatrixElement.Type property
 

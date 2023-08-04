@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies how far a boxs bottom content edge is offset above the bottom of the boxs containing block
 type: docs
 weight: 300
-url: /net/com.aspose.html.dom.css/icss2properties/bottom/
+url: /java/com.aspose.html.dom.css/icss2properties/bottom/
 ---
 ## ICSS2Properties.Bottom property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.DOMObject class. The DOMObject type is used to represent an base object for the entire Document Object Model. For Java and ECMAScript DOMObject is bound to the Object type
 type: docs
 weight: 660
-url: /net/com.aspose.html.dom/domobject/
+url: /java/com.aspose.html.dom/domobject/
 ---
 ## DOMObject class
 

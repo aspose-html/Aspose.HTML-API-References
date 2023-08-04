@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: InlineImageSyntaxNode method. Defines the interface for get title
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax/inlineimagesyntaxnode/gettitle/
+url: /java/com.aspose.html.toolkit.markdown.syntax/inlineimagesyntaxnode/gettitle/
 ---
 ## InlineImageSyntaxNode.GetTitle method
 

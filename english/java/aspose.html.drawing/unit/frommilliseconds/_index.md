@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Time object that is represented in milliseconds
 type: docs
 weight: 150
-url: /net/com.aspose.html.drawing/unit/frommilliseconds/
+url: /java/com.aspose.html.drawing/unit/frommilliseconds/
 ---
 ## Unit.FromMilliseconds method
 

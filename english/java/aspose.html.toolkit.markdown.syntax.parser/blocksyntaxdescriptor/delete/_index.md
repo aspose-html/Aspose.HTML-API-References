@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: BlockSyntaxDescriptor method. Defines the interface for Delete
 type: docs
 weight: 50
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/delete/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/delete/
 ---
 ## BlockSyntaxDescriptor.Delete method
 

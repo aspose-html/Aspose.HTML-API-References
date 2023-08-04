@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CustomEvent method. /// The InitEvent method is used to initialize the value of an Event created through the IDocumentEvent interface
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.events/customevent/initcustomevent/
+url: /java/com.aspose.html.dom.events/customevent/initcustomevent/
 ---
 ## CustomEvent.InitCustomEvent method
 

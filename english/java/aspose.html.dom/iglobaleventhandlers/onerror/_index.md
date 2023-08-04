@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnError event
 type: docs
 weight: 130
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onerror/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onerror/
 ---
 ## IGlobalEventHandlers.OnError event
 

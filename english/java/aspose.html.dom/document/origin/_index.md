@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document property. Gets the document origin
 type: docs
 weight: 200
-url: /net/com.aspose.html.dom/document/origin/
+url: /java/com.aspose.html.dom/document/origin/
 ---
 ## Document.Origin property
 

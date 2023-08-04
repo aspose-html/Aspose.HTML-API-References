@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Filters.SVGFEFuncRElement class. The SVGFEFuncRElement interface corresponds to the feFuncR element
 type: docs
 weight: 1500
-url: /net/com.aspose.html.dom.svg.filters/svgfefuncrelement/
+url: /java/com.aspose.html.dom.svg.filters/svgfefuncrelement/
 ---
 ## SVGFEFuncRElement class
 

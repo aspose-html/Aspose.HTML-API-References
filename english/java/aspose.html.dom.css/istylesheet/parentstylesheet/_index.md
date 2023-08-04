@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IStyleSheet property. For style sheet languages that support the concept of style sheet inclusion this attribute represents the including style sheet if one exists. If the style sheet is a top-level style sheet or the style sheet language does not support inclusion the value of this attribute is null
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.css/istylesheet/parentstylesheet/
+url: /java/com.aspose.html.dom.css/istylesheet/parentstylesheet/
 ---
 ## IStyleSheet.ParentStyleSheet property
 

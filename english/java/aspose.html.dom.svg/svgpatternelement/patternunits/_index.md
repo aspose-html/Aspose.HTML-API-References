@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPatternElement property. Corresponds to attribute patternUnits on the given pattern element. Takes one of the constants defined in SVGUnitTypes
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.svg/svgpatternelement/patternunits/
+url: /java/com.aspose.html.dom.svg/svgpatternelement/patternunits/
 ---
 ## SVGPatternElement.PatternUnits property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Net.ResponseMessage class. Represents a response message
 type: docs
 weight: 4090
-url: /net/com.aspose.html.net/responsemessage/
+url: /java/com.aspose.html.net/responsemessage/
 ---
 ## ResponseMessage class
 

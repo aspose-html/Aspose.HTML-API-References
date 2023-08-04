@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Element method. Returns HTMLCollection object containing all the elements within element that have all the classes specified in argument
 type: docs
 weight: 280
-url: /net/com.aspose.html.dom/element/getelementsbyclassname/
+url: /java/com.aspose.html.dom/element/getelementsbyclassname/
 ---
 ## Element.GetElementsByClassName method
 

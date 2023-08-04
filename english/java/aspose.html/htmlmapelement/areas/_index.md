@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLMapElement property. The list of areas defined for the image map
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmlmapelement/areas/
+url: /java/com.aspose.html/htmlmapelement/areas/
 ---
 ## HTMLMapElement.Areas property
 

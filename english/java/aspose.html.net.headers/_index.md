@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.Net.Headers provides few data classes for describing header content at networking
 type: docs
 weight: 270
-url: /net/com.aspose.html.net.headers/
+url: /java/com.aspose.html.net.headers/
 ---
 The **com.aspose.html.Net.Headers** provides few data classes for describing header content at networking.
 

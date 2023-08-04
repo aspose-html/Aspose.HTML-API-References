@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TreeWalker method. Defines the interface for get previous node
 type: docs
 weight: 70
-url: /net/com.aspose.html.toolkit.markdown.syntax/treewalker/previousnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/treewalker/previousnode/
 ---
 ## TreeWalker.PreviousNode method
 

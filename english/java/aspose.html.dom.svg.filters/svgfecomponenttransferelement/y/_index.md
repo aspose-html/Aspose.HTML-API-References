@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEComponentTransferElement property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom.svg.filters/svgfecomponenttransferelement/y/
+url: /java/com.aspose.html.dom.svg.filters/svgfecomponenttransferelement/y/
 ---
 ## SVGFEComponentTransferElement.Y property
 

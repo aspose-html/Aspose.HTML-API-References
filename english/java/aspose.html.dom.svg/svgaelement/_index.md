@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGAElement class. The SVGAElement interface corresponds to the a element
 type: docs
 weight: 1910
-url: /net/com.aspose.html.dom.svg/svgaelement/
+url: /java/com.aspose.html.dom.svg/svgaelement/
 ---
 ## SVGAElement class
 

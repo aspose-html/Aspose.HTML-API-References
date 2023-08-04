@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SaveOptions property. Gets a ResourceHandlingOptions object which is used for configuration of resources handling
 type: docs
 weight: 10
-url: /net/com.aspose.html.saving/saveoptions/resourcehandlingoptions/
+url: /java/com.aspose.html.saving/saveoptions/resourcehandlingoptions/
 ---
 ## SaveOptions.ResourceHandlingOptions property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLParagraphElement class. Paragraphs. See the P element definition in HTML 4.01
 type: docs
 weight: 3480
-url: /net/com.aspose.html/htmlparagraphelement/
+url: /java/com.aspose.html/htmlparagraphelement/
 ---
 ## HTMLParagraphElement class
 

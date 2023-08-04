@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGCircleElement property. Corresponds to attribute r on the given circle element
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg/svgcircleelement/r/
+url: /java/com.aspose.html.dom.svg/svgcircleelement/r/
 ---
 ## SVGCircleElement.R property
 

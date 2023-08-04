@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.TriviaCollection class. A collection of trivia
 type: docs
 weight: 5710
-url: /net/com.aspose.html.toolkit.markdown.syntax/triviacollection/
+url: /java/com.aspose.html.toolkit.markdown.syntax/triviacollection/
 ---
 ## TriviaCollection class
 

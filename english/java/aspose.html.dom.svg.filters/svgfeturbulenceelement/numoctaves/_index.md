@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFETurbulenceElement property. Corresponds to attribute numOctaves on the given feTurbulence element
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/numoctaves/
+url: /java/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/numoctaves/
 ---
 ## SVGFETurbulenceElement.NumOctaves property
 

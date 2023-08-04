@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: InputElement method. This method is used to get the value as a number. This method is valid if only only type of the input element is number
 type: docs
 weight: 130
-url: /net/com.aspose.html.forms/inputelement/getnumbervalue/
+url: /java/com.aspose.html.forms/inputelement/getnumbervalue/
 ---
 ## InputElement.GetNumberValue method
 

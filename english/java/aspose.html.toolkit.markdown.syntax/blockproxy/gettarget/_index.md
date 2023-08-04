@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: BlockProxy method. Get the target node
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/blockproxy/gettarget/
+url: /java/com.aspose.html.toolkit.markdown.syntax/blockproxy/gettarget/
 ---
 ## BlockProxy.GetTarget method
 

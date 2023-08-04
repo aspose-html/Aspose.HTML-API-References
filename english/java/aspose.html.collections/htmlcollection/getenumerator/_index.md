@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLCollection method. Gets the enumerator
 type: docs
 weight: 30
-url: /net/com.aspose.html.collections/htmlcollection/getenumerator/
+url: /java/com.aspose.html.collections/htmlcollection/getenumerator/
 ---
 ## HTMLCollection.GetEnumerator method
 

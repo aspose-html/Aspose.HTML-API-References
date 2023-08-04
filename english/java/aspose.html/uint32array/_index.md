@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Uint32Array class. Represents an array of twos-complement 32-bit unsigned integers in the platform byte order
 type: docs
 weight: 5810
-url: /net/com.aspose.html/uint32array/
+url: /java/com.aspose.html/uint32array/
 ---
 ## Uint32Array class
 

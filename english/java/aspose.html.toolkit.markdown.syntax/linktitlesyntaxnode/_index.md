@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.LinkTitleSyntaxNode class. Represent the LinkTitleSyntaxNode
 type: docs
 weight: 5130
-url: /net/com.aspose.html.toolkit.markdown.syntax/linktitlesyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/linktitlesyntaxnode/
 ---
 ## LinkTitleSyntaxNode class
 

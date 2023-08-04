@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnRateChange event
 type: docs
 weight: 420
-url: /net/com.aspose.html/htmlelement/onratechange/
+url: /java/com.aspose.html/htmlelement/onratechange/
 ---
 ## HTMLElement.OnRateChange event
 

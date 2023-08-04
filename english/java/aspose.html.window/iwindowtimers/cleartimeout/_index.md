@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IWindowTimers method. Cancels the timeout set with setTimeout identified by handle
 type: docs
 weight: 20
-url: /net/com.aspose.html.window/iwindowtimers/cleartimeout/
+url: /java/com.aspose.html.window/iwindowtimers/cleartimeout/
 ---
 ## IWindowTimers.ClearTimeout method
 

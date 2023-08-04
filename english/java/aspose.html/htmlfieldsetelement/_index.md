@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLFieldSetElement class. Organizes form controls into logical groups. See the FIELDSET element definition in HTML 4.01
 type: docs
 weight: 3220
-url: /net/com.aspose.html/htmlfieldsetelement/
+url: /java/com.aspose.html/htmlfieldsetelement/
 ---
 ## HTMLFieldSetElement class
 

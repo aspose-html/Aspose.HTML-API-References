@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLOptionElement property. The text contained within the option element
 type: docs
 weight: 70
-url: /net/com.aspose.html/htmloptionelement/text/
+url: /java/com.aspose.html/htmloptionelement/text/
 ---
 ## HTMLOptionElement.Text property
 

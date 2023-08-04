@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.BlockSyntaxNode class. Base implementation of the BlockSyntaxNode
 type: docs
 weight: 4820
-url: /net/com.aspose.html.toolkit.markdown.syntax/blocksyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/blocksyntaxnode/
 ---
 ## BlockSyntaxNode class
 

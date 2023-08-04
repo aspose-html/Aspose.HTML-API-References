@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OptionCollection method. Remove the option from list
 type: docs
 weight: 50
-url: /net/com.aspose.html.forms/optioncollection/remove/
+url: /java/com.aspose.html.forms/optioncollection/remove/
 ---
 ## OptionCollection.Remove method
 

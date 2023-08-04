@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnProgress event
 type: docs
 weight: 350
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onprogress/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onprogress/
 ---
 ## IGlobalEventHandlers.OnProgress event
 

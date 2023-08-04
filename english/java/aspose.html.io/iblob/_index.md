@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.IO.IBlob interface. A Blob object refers to a byte sequence and has a size attribute which is the total number of bytes in the byte sequence and a type attribute which is an ASCII-encoded String in lower case representing the media type of the byte sequence
 type: docs
 weight: 3720
-url: /net/com.aspose.html.io/iblob/
+url: /java/com.aspose.html.io/iblob/
 ---
 ## IBlob interface
 

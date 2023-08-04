@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Window.Location class. Location objects provide a representation of the address of the active document of their Documents browsing context and allow the current entry of the browsing contexts session history to be changed by adding or replacing entries in the history object
 type: docs
 weight: 5880
-url: /net/com.aspose.html.window/location/
+url: /java/com.aspose.html.window/location/
 ---
 ## Location class
 

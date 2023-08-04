@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Angle method. 
 type: docs
 weight: 80
-url: /net/com.aspose.html.drawing/angle/op_subtraction/
+url: /java/com.aspose.html.drawing/angle/op_subtraction/
 ---
 ## Angle Subtraction operator
 

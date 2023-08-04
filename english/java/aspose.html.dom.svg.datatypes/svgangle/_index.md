@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.DataTypes.SVGAngle class. The SVGAngle interface corresponds to the angle basic data type
 type: docs
 weight: 1070
-url: /net/com.aspose.html.dom.svg.datatypes/svgangle/
+url: /java/com.aspose.html.dom.svg.datatypes/svgangle/
 ---
 ## SVGAngle class
 

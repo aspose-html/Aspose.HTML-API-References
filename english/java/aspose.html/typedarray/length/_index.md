@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TypedArray property. Gets the length of a typed array
 type: docs
 weight: 40
-url: /net/com.aspose.html/typedarray/length/
+url: /java/com.aspose.html/typedarray/length/
 ---
 ## TypedArray.Length property
 

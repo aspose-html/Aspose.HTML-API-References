@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: XpsDevice method. Strokes the specified text String at the specified location
 type: docs
 weight: 200
-url: /net/com.aspose.html.rendering.xps/xpsdevice/stroketext/
+url: /java/com.aspose.html.rendering.xps/xpsdevice/stroketext/
 ---
 ## XpsDevice.StrokeText method
 

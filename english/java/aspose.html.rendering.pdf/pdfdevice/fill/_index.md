@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDevice method. Fills the entire region enclosed by the current path. If the path consists of several disconnected subpaths it fills the insides of all subpaths considered together. This method terminates current path
 type: docs
 weight: 130
-url: /net/com.aspose.html.rendering.pdf/pdfdevice/fill/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice/fill/
 ---
 ## PdfDevice.Fill method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGListBase method. Removes an existing item from the list
 type: docs
 weight: 100
-url: /net/com.aspose.html.dom.svg.collections/svglistbase-1/removeitem/
+url: /java/com.aspose.html.dom.svg.collections/svglistbase-1/removeitem/
 ---
 ## SVGListBase&lt;T&gt;.RemoveItem method
 

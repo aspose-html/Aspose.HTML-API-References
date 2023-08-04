@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a String that consists of the RGBA component values
 type: docs
 weight: 430
-url: /net/com.aspose.html.drawing/color/toString/
+url: /java/com.aspose.html.drawing/color/toString/
 ---
 ## Color.ToString method
 

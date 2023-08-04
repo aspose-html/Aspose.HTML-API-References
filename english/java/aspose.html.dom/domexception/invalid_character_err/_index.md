@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMException field. If an invalid or illegal character is specified such as in an XML name
 type: docs
 weight: 120
-url: /net/com.aspose.html.dom/domexception/invalid_character_err/
+url: /java/com.aspose.html.dom/domexception/invalid_character_err/
 ---
 ## DOMException.INVALID_CHARACTER_ERR field
 

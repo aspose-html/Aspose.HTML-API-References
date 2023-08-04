@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node method. The lookupPrefix method of the Node interface returns a String containing the prefix for a given package URI if present and null if not. When multiple prefixes are possible the first prefix is returned
 type: docs
 weight: 270
-url: /net/com.aspose.html.dom/node/lookupprefix/
+url: /java/com.aspose.html.dom/node/lookupprefix/
 ---
 ## Node.LookupPrefix method
 

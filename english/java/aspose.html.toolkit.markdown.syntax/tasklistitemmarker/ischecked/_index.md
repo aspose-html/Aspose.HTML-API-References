@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TaskListItemMarker method. Defines the interface for get checked status
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/tasklistitemmarker/ischecked/
+url: /java/com.aspose.html.toolkit.markdown.syntax/tasklistitemmarker/ischecked/
 ---
 ## TaskListItemMarker.IsChecked method
 

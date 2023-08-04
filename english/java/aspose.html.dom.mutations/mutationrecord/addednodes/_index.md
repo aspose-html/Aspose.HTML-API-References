@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MutationRecord property. Return the nodes added
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.mutations/mutationrecord/addednodes/
+url: /java/com.aspose.html.dom.mutations/mutationrecord/addednodes/
 ---
 ## MutationRecord.AddedNodes property
 

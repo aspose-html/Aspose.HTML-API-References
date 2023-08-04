@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownParser constructor. Initializes a new instance of the MarkdownParser class
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/markdownparser/markdownparser/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownparser/markdownparser/
 ---
 ## MarkdownParser() {#constructor}
 

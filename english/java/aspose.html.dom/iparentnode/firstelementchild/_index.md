@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IParentNode property. Returns the first child that is an element and null otherwise
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom/iparentnode/firstelementchild/
+url: /java/com.aspose.html.dom/iparentnode/firstelementchild/
 ---
 ## IParentNode.FirstElementChild property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGGeometryElement class. Interface SVGGeometryElement represents SVG elements whose rendering is defined by geometry with an equivalent path and which can be filled and stroked. This includes paths and the basic shapes
 type: docs
 weight: 2100
-url: /net/com.aspose.html.dom.svg/svggeometryelement/
+url: /java/com.aspose.html.dom.svg/svggeometryelement/
 ---
 ## SVGGeometryElement class
 

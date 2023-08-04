@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit text line
 type: docs
 weight: 80
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitemptyline/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitemptyline/
 ---
 ## MarkdownSyntaxVisitor.VisitEmptyLine method
 

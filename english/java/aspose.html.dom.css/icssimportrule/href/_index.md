@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSImportRule property. The read-only href property of the CSSImportRule interface returns the URL specified by the import at-rule
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.css/icssimportrule/href/
+url: /java/com.aspose.html.dom.css/icssimportrule/href/
 ---
 ## ICSSImportRule.Href property
 

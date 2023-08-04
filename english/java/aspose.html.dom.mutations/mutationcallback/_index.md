@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Represents the method that will handle a mutation events
 type: docs
 weight: 970
-url: /net/com.aspose.html.dom.mutations/mutationcallback/
+url: /java/com.aspose.html.dom.mutations/mutationcallback/
 ---
 ## MutationCallback delegate
 

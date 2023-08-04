@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SetextHeadingSyntaxNode method. Defines the interface for accept of the visitor
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/setextheadingsyntaxnode/accept/
+url: /java/com.aspose.html.toolkit.markdown.syntax/setextheadingsyntaxnode/accept/
 ---
 ## SetextHeadingSyntaxNode.Accept method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates BlockQuoteSyntaxNode
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/blockquote/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/blockquote/
 ---
 ## MarkdownSyntaxFactory.BlockQuote method
 

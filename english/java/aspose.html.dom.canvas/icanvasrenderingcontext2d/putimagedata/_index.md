@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Paints data from the given ImageData object onto the bitmap. If a dirty rectangle is provided only the pixels from that rectangle are painted. This method is not affected by the canvas transformation matrix
 type: docs
 weight: 290
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/putimagedata/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/putimagedata/
 ---
 ## PutImageData(IImageData, double, double) {#putimagedata}
 

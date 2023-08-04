@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: GraphicContext property. Sets or gets the phase offset of the current line dash pattern
 type: docs
 weight: 80
-url: /net/com.aspose.html.rendering/graphiccontext/linedashoffset/
+url: /java/com.aspose.html.rendering/graphiccontext/linedashoffset/
 ---
 ## GraphicContext.LineDashOffset property
 

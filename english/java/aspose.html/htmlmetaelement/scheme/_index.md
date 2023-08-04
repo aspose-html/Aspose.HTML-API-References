@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLMetaElement property. Select form of content. See the scheme attribute definition in HTML 4.01
 type: docs
 weight: 40
-url: /net/com.aspose.html/htmlmetaelement/scheme/
+url: /java/com.aspose.html/htmlmetaelement/scheme/
 ---
 ## HTMLMetaElement.Scheme property
 

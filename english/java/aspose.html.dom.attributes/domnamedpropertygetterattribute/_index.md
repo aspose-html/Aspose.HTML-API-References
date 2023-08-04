@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Attributes.DOMNamedPropertyGetterAttribute class. Specifies that the method will be used as named property getter
 type: docs
 weight: 160
-url: /net/com.aspose.html.dom.attributes/domnamedpropertygetterattribute/
+url: /java/com.aspose.html.dom.attributes/domnamedpropertygetterattribute/
 ---
 ## DOMNamedPropertyGetterAttribute class
 

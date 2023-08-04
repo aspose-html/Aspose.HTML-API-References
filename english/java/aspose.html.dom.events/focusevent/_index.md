@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Events.FocusEvent class. The FocusEvent interface provides specific contextual information associated with Focus events
 type: docs
 weight: 790
-url: /net/com.aspose.html.dom.events/focusevent/
+url: /java/com.aspose.html.dom.events/focusevent/
 ---
 ## FocusEvent class
 

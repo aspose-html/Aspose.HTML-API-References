@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.MarkdownSyntaxToken class. Represent the Markdown Syntax Token
 type: docs
 weight: 5210
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/
 ---
 ## MarkdownSyntaxToken class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IXPathEvaluator method. Creates a parsed XPath expression with resolved packages. This is useful when an expression will be reused in an application since it makes it possible to compile the expression String into a more efficient internal form and preresolve all package prefixes which occur within the expression
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.xpath/ixpathevaluator/createexpression/
+url: /java/com.aspose.html.dom.xpath/ixpathevaluator/createexpression/
 ---
 ## IXPathEvaluator.CreateExpression method
 

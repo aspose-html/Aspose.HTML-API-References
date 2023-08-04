@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType method. Determines whether the specified Object is equal to this instance
 type: docs
 weight: 310
-url: /net/com.aspose.html.drawing/unittype/equals/
+url: /java/com.aspose.html.drawing/unittype/equals/
 ---
 ## Equals(object) {#equals_1}
 

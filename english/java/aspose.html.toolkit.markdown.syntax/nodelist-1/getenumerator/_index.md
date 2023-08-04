@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NodeList method. Gets the nodes in the collection
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax/nodelist-1/getenumerator/
+url: /java/com.aspose.html.toolkit.markdown.syntax/nodelist-1/getenumerator/
 ---
 ## NodeList&lt;T&gt;.GetEnumerator method
 

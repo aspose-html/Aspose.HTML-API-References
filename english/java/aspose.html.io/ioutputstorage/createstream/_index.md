@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IOutputStorage method. Creates the output stream OutputStream
 type: docs
 weight: 10
-url: /net/com.aspose.html.io/ioutputstorage/createstream/
+url: /java/com.aspose.html.io/ioutputstorage/createstream/
 ---
 ## IOutputStorage.CreateStream method
 

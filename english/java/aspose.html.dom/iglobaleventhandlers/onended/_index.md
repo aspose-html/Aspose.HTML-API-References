@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnEnded event
 type: docs
 weight: 120
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onended/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onended/
 ---
 ## IGlobalEventHandlers.OnEnded event
 

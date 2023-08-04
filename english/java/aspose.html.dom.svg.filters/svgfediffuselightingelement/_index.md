@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Filters.SVGFEDiffuseLightingElement class. The SVGFEDiffuseLightingElement interface corresponds to the feDiffuseLighting element
 type: docs
 weight: 1420
-url: /net/com.aspose.html.dom.svg.filters/svgfediffuselightingelement/
+url: /java/com.aspose.html.dom.svg.filters/svgfediffuselightingelement/
 ---
 ## SVGFEDiffuseLightingElement class
 

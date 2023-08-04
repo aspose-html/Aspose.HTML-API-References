@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NodeList property. The number of nodes in the list
 type: docs
 weight: 20
-url: /net/com.aspose.html.collections/nodelist/length/
+url: /java/com.aspose.html.collections/nodelist/length/
 ---
 ## NodeList.Length property
 

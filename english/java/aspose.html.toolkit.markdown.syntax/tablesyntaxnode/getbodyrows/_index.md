@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TableSyntaxNode method. Defines the interface for get body rows
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax/tablesyntaxnode/getbodyrows/
+url: /java/com.aspose.html.toolkit.markdown.syntax/tablesyntaxnode/getbodyrows/
 ---
 ## TableSyntaxNode.GetBodyRows method
 

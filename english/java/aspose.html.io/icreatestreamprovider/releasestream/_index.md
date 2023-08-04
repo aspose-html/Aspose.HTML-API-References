@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICreateStreamProvider method. Releases the stream
 type: docs
 weight: 20
-url: /net/com.aspose.html.io/icreatestreamprovider/releasestream/
+url: /java/com.aspose.html.io/icreatestreamprovider/releasestream/
 ---
 ## ICreateStreamProvider.ReleaseStream method
 

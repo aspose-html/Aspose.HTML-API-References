@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNodeFilter field. The AnyMarkdownSyntaxNodeFilter
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/any/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/any/
 ---
 ## MarkdownSyntaxNodeFilter.Any field
 

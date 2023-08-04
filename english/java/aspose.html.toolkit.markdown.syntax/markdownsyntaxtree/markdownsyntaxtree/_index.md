@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxTree constructor. Creates the MarkdownSyntaxTree
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/markdownsyntaxtree/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/markdownsyntaxtree/
 ---
 ## MarkdownSyntaxTree(Configuration) {#constructor_1}
 

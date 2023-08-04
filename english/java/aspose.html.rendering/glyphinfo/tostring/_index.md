@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: GlyphInfo method. Returns a String that represents this instance
 type: docs
 weight: 50
-url: /net/com.aspose.html.rendering/glyphinfo/toString/
+url: /java/com.aspose.html.rendering/glyphinfo/toString/
 ---
 ## GlyphInfo.ToString method
 

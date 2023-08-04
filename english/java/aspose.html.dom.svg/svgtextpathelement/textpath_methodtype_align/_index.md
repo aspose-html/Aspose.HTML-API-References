@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTextPathElement field. Corresponds to value align
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.svg/svgtextpathelement/textpath_methodtype_align/
+url: /java/com.aspose.html.dom.svg/svgtextpathelement/textpath_methodtype_align/
 ---
 ## SVGTextPathElement.TEXTPATH_METHODTYPE_ALIGN field
 

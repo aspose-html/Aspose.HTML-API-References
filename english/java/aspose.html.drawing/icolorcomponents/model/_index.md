@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IColorComponents property. Returns the color model
 type: docs
 weight: 30
-url: /net/com.aspose.html.drawing/icolorcomponents/model/
+url: /java/com.aspose.html.drawing/icolorcomponents/model/
 ---
 ## IColorComponents.Model property
 

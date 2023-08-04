@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnStalled event
 type: docs
 weight: 440
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onstalled/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onstalled/
 ---
 ## IGlobalEventHandlers.OnStalled event
 

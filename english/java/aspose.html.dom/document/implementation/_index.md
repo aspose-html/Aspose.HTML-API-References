@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document property. The DOMImplementation object that handles this document
 type: docs
 weight: 130
-url: /net/com.aspose.html.dom/document/implementation/
+url: /java/com.aspose.html.dom/document/implementation/
 ---
 ## Document.Implementation property
 

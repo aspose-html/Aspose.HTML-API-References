@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEDistantLightElement property. Corresponds to attribute elevation on the given feDistantLight element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg.filters/svgfedistantlightelement/elevation/
+url: /java/com.aspose.html.dom.svg.filters/svgfedistantlightelement/elevation/
 ---
 ## SVGFEDistantLightElement.Elevation property
 

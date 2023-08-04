@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.ISVGUnitTypes interface. The SVGUnitTypes interface defines a commonly used set of constants and is a base interface used by SVGGradientElement SVGPatternElement SVGClipPathElement SVGMaskElement and SVGFilterElement
 type: docs
 weight: 1670
-url: /net/com.aspose.html.dom.svg/isvgunittypes/
+url: /java/com.aspose.html.dom.svg/isvgunittypes/
 ---
 ## ISVGUnitTypes interface
 

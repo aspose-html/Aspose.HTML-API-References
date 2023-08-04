@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnResize event
 type: docs
 weight: 660
-url: /net/com.aspose.html.dom/document/onresize/
+url: /java/com.aspose.html.dom/document/onresize/
 ---
 ## Document.OnResize event
 

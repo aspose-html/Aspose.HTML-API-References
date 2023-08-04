@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGRect property. The Y coordinate of the rectangle in user units
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg.datatypes/svgrect/y/
+url: /java/com.aspose.html.dom.svg.datatypes/svgrect/y/
 ---
 ## SVGRect.Y property
 

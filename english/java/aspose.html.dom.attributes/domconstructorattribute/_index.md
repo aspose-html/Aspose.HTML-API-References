@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Attributes.DOMConstructorAttribute class. Specifies a constructor that is defined by the W3C
 type: docs
 weight: 140
-url: /net/com.aspose.html.dom.attributes/domconstructorattribute/
+url: /java/com.aspose.html.dom.attributes/domconstructorattribute/
 ---
 ## DOMConstructorAttribute class
 

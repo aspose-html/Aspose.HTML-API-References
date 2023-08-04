@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnInvalid event
 type: docs
 weight: 160
-url: /net/com.aspose.html.dom/iglobaleventhandlers/oninvalid/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/oninvalid/
 ---
 ## IGlobalEventHandlers.OnInvalid event
 

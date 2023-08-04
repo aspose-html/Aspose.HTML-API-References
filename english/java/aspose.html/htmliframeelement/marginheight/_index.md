@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLIFrameElement property. Frame margin height in pixels. See the marginheight attribute definition in HTML 4.01
 type: docs
 weight: 50
-url: /net/com.aspose.html/htmliframeelement/marginheight/
+url: /java/com.aspose.html/htmliframeelement/marginheight/
 ---
 ## HTMLIFrameElement.MarginHeight property
 

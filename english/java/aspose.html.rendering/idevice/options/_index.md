@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDevice property. Gets rendering options
 type: docs
 weight: 20
-url: /net/com.aspose.html.rendering/idevice/options/
+url: /java/com.aspose.html.rendering/idevice/options/
 ---
 ## IDevice.Options property
 

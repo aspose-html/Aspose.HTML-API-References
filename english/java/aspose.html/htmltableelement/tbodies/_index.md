@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableElement property. Returns a collection of the table bodies including implicit ones
 type: docs
 weight: 110
-url: /net/com.aspose.html/htmltableelement/tbodies/
+url: /java/com.aspose.html/htmltableelement/tbodies/
 ---
 ## HTMLTableElement.TBodies property
 

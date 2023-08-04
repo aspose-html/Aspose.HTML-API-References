@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableSectionElement property. Offset of alignment character. See the charoff attribute definition in HTML 4.01
 type: docs
 weight: 30
-url: /net/com.aspose.html/htmltablesectionelement/choff/
+url: /java/com.aspose.html/htmltablesectionelement/choff/
 ---
 ## HTMLTableSectionElement.ChOff property
 

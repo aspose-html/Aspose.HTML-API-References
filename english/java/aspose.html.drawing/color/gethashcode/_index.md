@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a hash code
 type: docs
 weight: 320
-url: /net/com.aspose.html.drawing/color/gethashcode/
+url: /java/com.aspose.html.drawing/color/gethashcode/
 ---
 ## Color.GetHashCode method
 

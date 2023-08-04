@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLAppletElement property. Applet class file. See the code attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01
 type: docs
 weight: 40
-url: /net/com.aspose.html/htmlappletelement/code/
+url: /java/com.aspose.html/htmlappletelement/code/
 ---
 ## HTMLAppletElement.Code property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Css.ICSSStyleSheet interface. The CSSStyleSheet interface represents a single CSS stylesheet and lets you inspect and modify the list of rules contained in the stylesheet. It inherits properties and methods from its parent StyleSheet
 type: docs
 weight: 520
-url: /net/com.aspose.html.dom.css/icssstylesheet/
+url: /java/com.aspose.html.dom.css/icssstylesheet/
 ---
 ## ICSSStyleSheet interface
 

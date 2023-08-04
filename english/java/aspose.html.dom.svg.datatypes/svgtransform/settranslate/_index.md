@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTransform method. Sets the transform type to SVG_TRANSFORM_TRANSLATE with parameters tx and ty defining the translation amounts
 type: docs
 weight: 90
-url: /net/com.aspose.html.dom.svg.datatypes/svgtransform/settranslate/
+url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/settranslate/
 ---
 ## SVGTransform.SetTranslate method
 

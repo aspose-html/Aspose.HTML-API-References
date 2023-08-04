@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Frequency method. 
 type: docs
 weight: 30
-url: /net/com.aspose.html.drawing/frequency/op_greaterthan/
+url: /java/com.aspose.html.drawing/frequency/op_greaterthan/
 ---
 ## Frequency GreaterThan operator
 

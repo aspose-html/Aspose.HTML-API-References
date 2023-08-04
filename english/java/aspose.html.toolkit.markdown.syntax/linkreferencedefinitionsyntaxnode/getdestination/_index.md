@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LinkReferenceDefinitionSyntaxNode method. Returns the link reference destination
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/getdestination/
+url: /java/com.aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/getdestination/
 ---
 ## LinkReferenceDefinitionSyntaxNode.GetDestination method
 

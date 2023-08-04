@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDocumentInfo property. The name of the product that converted the document
 type: docs
 weight: 60
-url: /net/com.aspose.html.rendering.pdf/pdfdocumentinfo/producer/
+url: /java/com.aspose.html.rendering.pdf/pdfdocumentinfo/producer/
 ---
 ## PdfDocumentInfo.Producer property
 

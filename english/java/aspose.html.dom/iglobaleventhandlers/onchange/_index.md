@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnChange event
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onchange/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onchange/
 ---
 ## IGlobalEventHandlers.OnChange event
 

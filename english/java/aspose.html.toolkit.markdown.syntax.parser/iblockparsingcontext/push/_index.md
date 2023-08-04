@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IBlockParsingContext method. Defines the Push method
 type: docs
 weight: 110
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/push/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/push/
 ---
 ## IBlockParsingContext.Push method
 

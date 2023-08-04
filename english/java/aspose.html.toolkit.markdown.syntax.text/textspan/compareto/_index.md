@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TextSpan method. Compare with other TextSpan
 type: docs
 weight: 90
-url: /net/com.aspose.html.toolkit.markdown.syntax.text/textspan/compareto/
+url: /java/com.aspose.html.toolkit.markdown.syntax.text/textspan/compareto/
 ---
 ## TextSpan.CompareTo method
 

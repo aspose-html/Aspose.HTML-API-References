@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HttpMethod method. Indicates whether the current object is equal to another object of the same type
 type: docs
 weight: 60
-url: /net/com.aspose.html.net/httpmethod/equals/
+url: /java/com.aspose.html.net/httpmethod/equals/
 ---
 ## Equals(HttpMethod) {#equals}
 

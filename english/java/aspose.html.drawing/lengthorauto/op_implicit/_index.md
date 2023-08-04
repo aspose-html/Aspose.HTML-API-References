@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LengthOrAuto method. 
 type: docs
 weight: 80
-url: /net/com.aspose.html.drawing/lengthorauto/op_implicit/
+url: /java/com.aspose.html.drawing/lengthorauto/op_implicit/
 ---
 ## LengthOrAuto Implicit operator
 

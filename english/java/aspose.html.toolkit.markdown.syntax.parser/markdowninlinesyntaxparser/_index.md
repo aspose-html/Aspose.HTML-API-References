@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.MarkdownInlineSyntaxParser class. Defines the base class MarkdownInlineSyntaxParser
 type: docs
 weight: 5470
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/
 ---
 ## MarkdownInlineSyntaxParser class
 

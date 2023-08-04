@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node field. The actual Text inside an Element or Attr
 type: docs
 weight: 430
-url: /net/com.aspose.html.dom/node/text_node/
+url: /java/com.aspose.html.dom/node/text_node/
 ---
 ## Node.TEXT_NODE field
 

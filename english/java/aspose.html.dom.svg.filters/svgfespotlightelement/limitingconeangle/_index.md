@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFESpotLightElement property. Corresponds to attribute limitingConeAngle on the given feSpotLight element
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.filters/svgfespotlightelement/limitingconeangle/
+url: /java/com.aspose.html.dom.svg.filters/svgfespotlightelement/limitingconeangle/
 ---
 ## SVGFESpotLightElement.LimitingConeAngle property
 

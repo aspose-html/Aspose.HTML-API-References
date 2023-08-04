@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. In high-quality printing marks are often added outside the page box. This property specifies whether cross marks or crop marks or both should be rendered just outside the page box edge
 type: docs
 weight: 690
-url: /net/com.aspose.html.dom.css/icss2properties/marks/
+url: /java/com.aspose.html.dom.css/icss2properties/marks/
 ---
 ## ICSS2Properties.Marks property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Length object that is represented in millimeters
 type: docs
 weight: 140
-url: /net/com.aspose.html.drawing/unit/frommillimeters/
+url: /java/com.aspose.html.drawing/unit/frommillimeters/
 ---
 ## Unit.FromMillimeters method
 

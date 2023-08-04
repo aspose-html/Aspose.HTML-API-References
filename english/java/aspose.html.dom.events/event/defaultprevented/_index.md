@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Event property. Returns true if preventDefault was invoked while the cancelable attribute value is true and false otherwise
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.events/event/defaultprevented/
+url: /java/com.aspose.html.dom.events/event/defaultprevented/
 ---
 ## Event.DefaultPrevented property
 

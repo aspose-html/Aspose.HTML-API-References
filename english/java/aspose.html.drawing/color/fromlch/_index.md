@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a new Color with the requested luminance chroma hue values
 type: docs
 weight: 140
-url: /net/com.aspose.html.drawing/color/fromlch/
+url: /java/com.aspose.html.drawing/color/fromlch/
 ---
 ## Color.FromLch method
 

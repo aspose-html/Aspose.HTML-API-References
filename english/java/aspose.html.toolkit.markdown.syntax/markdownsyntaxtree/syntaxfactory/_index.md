@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxTree property. Get the SyntaxFactory
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/syntaxfactory/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/syntaxfactory/
 ---
 ## MarkdownSyntaxTree.SyntaxFactory property
 

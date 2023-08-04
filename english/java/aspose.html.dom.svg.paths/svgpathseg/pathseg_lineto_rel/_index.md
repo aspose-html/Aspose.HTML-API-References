@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPathSeg field. Corresponds to a relative lineto l path data command
 type: docs
 weight: 170
-url: /net/com.aspose.html.dom.svg.paths/svgpathseg/pathseg_lineto_rel/
+url: /java/com.aspose.html.dom.svg.paths/svgpathseg/pathseg_lineto_rel/
 ---
 ## SVGPathSeg.PATHSEG_LINETO_REL field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Creates copy of the Color with specified alpha component
 type: docs
 weight: 450
-url: /net/com.aspose.html.drawing/color/withalpha/
+url: /java/com.aspose.html.drawing/color/withalpha/
 ---
 ## Color.WithAlpha method
 

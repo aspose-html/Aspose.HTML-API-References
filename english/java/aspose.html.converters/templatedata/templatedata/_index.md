@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TemplateData constructor. Inline content based on initialization XML JSON
 type: docs
 weight: 10
-url: /net/com.aspose.html.converters/templatedata/templatedata/
+url: /java/com.aspose.html.converters/templatedata/templatedata/
 ---
 ## TemplateData(TemplateContentOptions) {#constructor}
 

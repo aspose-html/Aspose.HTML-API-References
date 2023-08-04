@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a String containing the RGB color specified by rgbR G B
 type: docs
 weight: 420
-url: /net/com.aspose.html.drawing/color/torgbString/
+url: /java/com.aspose.html.drawing/color/torgbString/
 ---
 ## Color.ToRgbString method
 

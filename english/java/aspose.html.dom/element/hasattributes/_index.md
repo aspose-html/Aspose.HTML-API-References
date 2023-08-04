@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Element method. Returns whether this node if it is an element has any attributes
 type: docs
 weight: 330
-url: /net/com.aspose.html.dom/element/hasattributes/
+url: /java/com.aspose.html.dom/element/hasattributes/
 ---
 ## Element.HasAttributes method
 

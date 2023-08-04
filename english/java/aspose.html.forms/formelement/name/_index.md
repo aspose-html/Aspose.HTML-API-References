@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FormElement property. Gets or sets the name of the form element
 type: docs
 weight: 30
-url: /net/com.aspose.html.forms/formelement/name/
+url: /java/com.aspose.html.forms/formelement/name/
 ---
 ## FormElement.Name property
 

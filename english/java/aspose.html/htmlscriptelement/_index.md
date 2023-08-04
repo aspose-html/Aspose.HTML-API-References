@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLScriptElement class. Script statements. See the SCRIPT element definition in HTML 4.01
 type: docs
 weight: 3520
-url: /net/com.aspose.html/htmlscriptelement/
+url: /java/com.aspose.html/htmlscriptelement/
 ---
 ## HTMLScriptElement class
 

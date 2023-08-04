@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D property. Color or style to use inside shapes. Default black
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/fillstyle/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/fillstyle/
 ---
 ## ICanvasRenderingContext2D.FillStyle property
 

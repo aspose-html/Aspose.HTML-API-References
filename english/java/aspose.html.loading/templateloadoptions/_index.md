@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Loading.TemplateLoadOptions class. Specific load options data class
 type: docs
 weight: 3840
-url: /net/com.aspose.html.loading/templateloadoptions/
+url: /java/com.aspose.html.loading/templateloadoptions/
 ---
 ## TemplateLoadOptions class
 

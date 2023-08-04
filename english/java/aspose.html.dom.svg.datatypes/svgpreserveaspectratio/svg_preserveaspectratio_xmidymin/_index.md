@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPreserveAspectRatio field. Corresponds to value xMidYMin for attribute preserveAspectRatio
 type: docs
 weight: 140
-url: /net/com.aspose.html.dom.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmidymin/
+url: /java/com.aspose.html.dom.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmidymin/
 ---
 ## SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMIDYMIN field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGOptimizationOptions property. Gets or sets the option to remove metadata. It is true by default
 type: docs
 weight: 110
-url: /net/com.aspose.html.toolkit.optimizers/svgoptimizationoptions/removemetadata/
+url: /java/com.aspose.html.toolkit.optimizers/svgoptimizationoptions/removemetadata/
 ---
 ## SVGOptimizationOptions.RemoveMetadata property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a new Color with the requested lightness A B alpha values for OKLAB model
 type: docs
 weight: 170
-url: /net/com.aspose.html.drawing/color/fromoklaba/
+url: /java/com.aspose.html.drawing/color/fromoklaba/
 ---
 ## Color.FromOklaba method
 

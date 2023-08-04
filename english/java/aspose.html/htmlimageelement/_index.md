@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLImageElement class. Embedded image. See the IMG element definition in HTML 4.01
 type: docs
 weight: 3320
-url: /net/com.aspose.html/htmlimageelement/
+url: /java/com.aspose.html/htmlimageelement/
 ---
 ## HTMLImageElement class
 

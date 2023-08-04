@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Window.IWindowEventHandlers interface. Represents interface that must be inherited by window object
 type: docs
 weight: 5860
-url: /net/com.aspose.html.window/iwindoweventhandlers/
+url: /java/com.aspose.html.window/iwindoweventhandlers/
 ---
 ## IWindowEventHandlers interface
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableCellElement property. Vertical alignment of data in cell. See the valign attribute definition in HTML 4.01
 type: docs
 weight: 140
-url: /net/com.aspose.html/htmltablecellelement/valign/
+url: /java/com.aspose.html/htmltablecellelement/valign/
 ---
 ## HTMLTableCellElement.VAlign property
 

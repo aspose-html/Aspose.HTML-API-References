@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLDocument constructor. The HTMLDocument constructor creates a new HTML Document object that is a web page loaded in the browser and serving as an entry point into the pages content
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmldocument/htmldocument/
+url: /java/com.aspose.html/htmldocument/htmldocument/
 ---
 ## HTMLDocument() {#constructor}
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LineParsingInstruction method. Overrides the GetHashCode
 type: docs
 weight: 70
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/gethashcode/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/gethashcode/
 ---
 ## LineParsingInstruction.GetHashCode method
 

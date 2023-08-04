@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Text method. Breaks this node into two nodes at the specified offset keeping both in the tree as siblings
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom/text/splittext/
+url: /java/com.aspose.html.dom/text/splittext/
 ---
 ## Text.SplitText method
 

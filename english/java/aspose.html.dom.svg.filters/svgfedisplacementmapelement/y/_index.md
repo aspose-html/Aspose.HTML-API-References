@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEDisplacementMapElement property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 90
-url: /net/com.aspose.html.dom.svg.filters/svgfedisplacementmapelement/y/
+url: /java/com.aspose.html.dom.svg.filters/svgfedisplacementmapelement/y/
 ---
 ## SVGFEDisplacementMapElement.Y property
 

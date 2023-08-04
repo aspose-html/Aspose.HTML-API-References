@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DataListElement constructor. Initializes a new instance of the DataListElement class
 type: docs
 weight: 10
-url: /net/com.aspose.html.forms/datalistelement/datalistelement/
+url: /java/com.aspose.html.forms/datalistelement/datalistelement/
 ---
 ## DataListElement constructor
 

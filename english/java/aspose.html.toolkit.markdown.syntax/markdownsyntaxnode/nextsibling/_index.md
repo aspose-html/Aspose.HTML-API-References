@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode property. Get ghe next sibling
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/nextsibling/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/nextsibling/
 ---
 ## MarkdownSyntaxNode.NextSibling property
 

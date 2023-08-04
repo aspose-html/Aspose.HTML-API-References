@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Net.ContentHeaders class. Contains the headers associated with a content
 type: docs
 weight: 3890
-url: /net/com.aspose.html.net/contentheaders/
+url: /java/com.aspose.html.net/contentheaders/
 ---
 ## ContentHeaders class
 

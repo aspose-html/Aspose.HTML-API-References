@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Device method. Strokes the specified text String at the specified location
 type: docs
 weight: 240
-url: /net/com.aspose.html.rendering/device-2/stroketext/
+url: /java/com.aspose.html.rendering/device-2/stroketext/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeText method
 

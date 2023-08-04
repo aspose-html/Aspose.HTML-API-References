@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.HtmlRenderer class. Represents an HTML document renderer
 type: docs
 weight: 4300
-url: /net/com.aspose.html.rendering/htmlrenderer/
+url: /java/com.aspose.html.rendering/htmlrenderer/
 ---
 ## HtmlRenderer class
 

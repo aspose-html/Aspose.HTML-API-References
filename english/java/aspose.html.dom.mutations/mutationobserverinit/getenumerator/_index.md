@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit method. Returns an enumerator that iterates through the MutationObserverInit elements
 type: docs
 weight: 190
-url: /net/com.aspose.html.dom.mutations/mutationobserverinit/getenumerator/
+url: /java/com.aspose.html.dom.mutations/mutationobserverinit/getenumerator/
 ---
 ## MutationObserverInit.GetEnumerator method
 

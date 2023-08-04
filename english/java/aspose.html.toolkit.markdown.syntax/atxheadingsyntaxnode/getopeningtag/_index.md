@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: AtxHeadingSyntaxNode method. Defines the interface for get OpeningTag
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax/atxheadingsyntaxnode/getopeningtag/
+url: /java/com.aspose.html.toolkit.markdown.syntax/atxheadingsyntaxnode/getopeningtag/
 ---
 ## AtxHeadingSyntaxNode.GetOpeningTag method
 

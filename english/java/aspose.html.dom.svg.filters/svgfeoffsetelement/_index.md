@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Filters.SVGFEOffsetElement class. The SVGFEOffsetElement interface corresponds to the feOffset element
 type: docs
 weight: 1560
-url: /net/com.aspose.html.dom.svg.filters/svgfeoffsetelement/
+url: /java/com.aspose.html.dom.svg.filters/svgfeoffsetelement/
 ---
 ## SVGFEOffsetElement class
 

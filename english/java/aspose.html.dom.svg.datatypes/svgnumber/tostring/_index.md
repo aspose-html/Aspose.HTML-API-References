@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGNumber method. Returns a String that represents this instance
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg.datatypes/svgnumber/toString/
+url: /java/com.aspose.html.dom.svg.datatypes/svgnumber/toString/
 ---
 ## SVGNumber.ToString method
 

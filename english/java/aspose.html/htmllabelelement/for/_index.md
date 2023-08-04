@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLLabelElement property. This attribute links this label with another form control by id attribute. See the for attribute definition in HTML 4.01
 type: docs
 weight: 20
-url: /net/com.aspose.html/htmllabelelement/for/
+url: /java/com.aspose.html/htmllabelelement/for/
 ---
 ## HTMLLabelElement.For property
 

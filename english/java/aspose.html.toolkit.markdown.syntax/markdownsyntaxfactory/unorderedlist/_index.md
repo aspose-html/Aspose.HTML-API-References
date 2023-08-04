@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates UnorderedListSyntaxNode
 type: docs
 weight: 480
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/unorderedlist/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/unorderedlist/
 ---
 ## MarkdownSyntaxFactory.UnorderedList method
 

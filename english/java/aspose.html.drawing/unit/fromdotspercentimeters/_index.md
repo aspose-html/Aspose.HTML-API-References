@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Resolution object that is represented in dots per centimeters
 type: docs
 weight: 70
-url: /net/com.aspose.html.drawing/unit/fromdotspercentimeters/
+url: /java/com.aspose.html.drawing/unit/fromdotspercentimeters/
 ---
 ## Unit.FromDotsPerCentimeters method
 

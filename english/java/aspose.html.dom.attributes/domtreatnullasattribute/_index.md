@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Attributes.DOMTreatNullAsAttribute class. Indicates that null of the member value will be treated as specified value
 type: docs
 weight: 200
-url: /net/com.aspose.html.dom.attributes/domtreatnullasattribute/
+url: /java/com.aspose.html.dom.attributes/domtreatnullasattribute/
 ---
 ## DOMTreatNullAsAttribute class
 

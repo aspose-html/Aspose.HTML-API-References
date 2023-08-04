@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSRuleList property. The length property of the CSSRuleList interface returns the number of CSSRule objects in the list
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.css/icssrulelist/length/
+url: /java/com.aspose.html.dom.css/icssrulelist/length/
 ---
 ## ICSSRuleList.Length property
 

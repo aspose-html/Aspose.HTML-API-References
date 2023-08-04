@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The font-stretch property selects a normal condensed or extended face from a font family. Absolute keyword values have the following ordering from narrowest to widest 
 type: docs
 weight: 510
-url: /net/com.aspose.html.dom.css/icss2properties/fontstretch/
+url: /java/com.aspose.html.dom.css/icss2properties/fontstretch/
 ---
 ## ICSS2Properties.FontStretch property
 

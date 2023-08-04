@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnCancel event
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom/iglobaleventhandlers/oncancel/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/oncancel/
 ---
 ## IGlobalEventHandlers.OnCancel event
 

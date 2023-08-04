@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FormEditor method. Creates a new FormEditor based on HTMLFormElement
 type: docs
 weight: 10
-url: /net/com.aspose.html.forms/formeditor/create/
+url: /java/com.aspose.html.forms/formeditor/create/
 ---
 ## Create(HTMLFormElement) {#create_2}
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEDisplacementMapElement property. Corresponds to attribute scale on the given feDisplacementMap element
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.svg.filters/svgfedisplacementmapelement/scale/
+url: /java/com.aspose.html.dom.svg.filters/svgfedisplacementmapelement/scale/
 ---
 ## SVGFEDisplacementMapElement.Scale property
 

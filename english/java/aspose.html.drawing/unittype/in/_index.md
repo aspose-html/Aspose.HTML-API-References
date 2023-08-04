@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is in inches
 type: docs
 weight: 120
-url: /net/com.aspose.html.drawing/unittype/in/
+url: /java/com.aspose.html.drawing/unittype/in/
 ---
 ## UnitType.In field
 

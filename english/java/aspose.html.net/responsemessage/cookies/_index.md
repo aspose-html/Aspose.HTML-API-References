@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ResponseMessage property. Gets or sets the cookie collection
 type: docs
 weight: 30
-url: /net/com.aspose.html.net/responsemessage/cookies/
+url: /java/com.aspose.html.net/responsemessage/cookies/
 ---
 ## ResponseMessage.Cookies property
 

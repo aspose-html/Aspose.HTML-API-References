@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FencedCodeBlockSyntaxNode method. Defines the interface for get Closing Tag
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode/getclosingtag/
+url: /java/com.aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode/getclosingtag/
 ---
 ## FencedCodeBlockSyntaxNode.GetClosingTag method
 

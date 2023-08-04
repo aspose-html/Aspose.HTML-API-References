@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Time method. 
 type: docs
 weight: 80
-url: /net/com.aspose.html.drawing/time/op_subtraction/
+url: /java/com.aspose.html.drawing/time/op_subtraction/
 ---
 ## Time Subtraction operator
 

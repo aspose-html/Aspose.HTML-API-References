@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. Similar to the cue-before and cue-after properties this property specifies a sound to be played as a background while an elements content is spoken
 type: docs
 weight: 940
-url: /net/com.aspose.html.dom.css/icss2properties/playduring/
+url: /java/com.aspose.html.dom.css/icss2properties/playduring/
 ---
 ## ICSS2Properties.PlayDuring property
 

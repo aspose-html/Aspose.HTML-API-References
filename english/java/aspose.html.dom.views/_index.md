@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Views package describes AbstractView and DocumentView interfaces according Document Object Model Views specification
 type: docs
 weight: 200
-url: /net/com.aspose.html.dom.views/
+url: /java/com.aspose.html.dom.views/
 ---
 **com.aspose.html.Dom.Views** package describes AbstractView and DocumentView interfaces according Document Object Model Views specification.
 

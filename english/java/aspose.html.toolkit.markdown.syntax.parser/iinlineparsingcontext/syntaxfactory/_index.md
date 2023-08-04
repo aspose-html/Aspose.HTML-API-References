@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IInlineParsingContext property. Get the SyntaxFactory
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/syntaxfactory/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/syntaxfactory/
 ---
 ## IInlineParsingContext.SyntaxFactory property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates InlineImageSyntaxNode
 type: docs
 weight: 210
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlineimage/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlineimage/
 ---
 ## InlineImage(String, String, String) {#inlineimage_1}
 

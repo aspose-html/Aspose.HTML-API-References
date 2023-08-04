@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CSSPrimitiveValue field. The value is a frequency Hz. The value can be obtained by using the getFloatValue method
 type: docs
 weight: 230
-url: /net/com.aspose.html.dom.css/cssprimitivevalue/css_hz/
+url: /java/com.aspose.html.dom.css/cssprimitivevalue/css_hz/
 ---
 ## CSSPrimitiveValue.CSS_HZ field
 

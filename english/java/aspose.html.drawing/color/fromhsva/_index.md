@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a new Color with the requested hue saturation value alpha
 type: docs
 weight: 80
-url: /net/com.aspose.html.drawing/color/fromhsva/
+url: /java/com.aspose.html.drawing/color/fromhsva/
 ---
 ## Color.FromHsva method
 

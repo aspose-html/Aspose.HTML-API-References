@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDevice method. Restores the entire graphics context to its former value by popping it from the stack
 type: docs
 weight: 190
-url: /net/com.aspose.html.rendering/idevice/restoregraphiccontext/
+url: /java/com.aspose.html.rendering/idevice/restoregraphiccontext/
 ---
 ## IDevice.RestoreGraphicContext method
 

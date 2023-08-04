@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Uint8ClampedArray constructor. Initializes a new instance of the Uint8ClampedArray class
 type: docs
 weight: 10
-url: /net/com.aspose.html/uint8clampedarray/uint8clampedarray/
+url: /java/com.aspose.html/uint8clampedarray/uint8clampedarray/
 ---
 ## Uint8ClampedArray(int) {#constructor_4}
 

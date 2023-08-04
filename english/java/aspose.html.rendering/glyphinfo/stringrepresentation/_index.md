@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: GlyphInfo property. Gets the String representation of this glyph
 type: docs
 weight: 30
-url: /net/com.aspose.html.rendering/glyphinfo/Stringrepresentation/
+url: /java/com.aspose.html.rendering/glyphinfo/Stringrepresentation/
 ---
 ## GlyphInfo.StringRepresentation property
 

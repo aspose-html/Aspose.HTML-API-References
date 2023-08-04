@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates ParagraphSyntaxNode
 type: docs
 weight: 330
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/paragraph/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/paragraph/
 ---
 ## MarkdownSyntaxFactory.Paragraph method
 

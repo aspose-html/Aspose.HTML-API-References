@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ReferenceLinkSyntaxNode method. Defines the interface for accept of the visitor
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/referencelinksyntaxnode/accept/
+url: /java/com.aspose.html.toolkit.markdown.syntax/referencelinksyntaxnode/accept/
 ---
 ## ReferenceLinkSyntaxNode.Accept method
 

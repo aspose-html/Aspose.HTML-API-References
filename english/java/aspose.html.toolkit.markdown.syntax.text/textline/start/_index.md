@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TextLine property. Get the start position
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax.text/textline/start/
+url: /java/com.aspose.html.toolkit.markdown.syntax.text/textline/start/
 ---
 ## TextLine.Start property
 

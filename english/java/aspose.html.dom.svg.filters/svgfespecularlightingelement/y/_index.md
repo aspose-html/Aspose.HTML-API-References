@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFESpecularLightingElement property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 110
-url: /net/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/y/
+url: /java/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/y/
 ---
 ## SVGFESpecularLightingElement.Y property
 

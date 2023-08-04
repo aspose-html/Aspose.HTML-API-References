@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegArcAbs property. The value of the sweep-flag parameter
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.svg.paths/svgpathsegarcabs/sweepflag/
+url: /java/com.aspose.html.dom.svg.paths/svgpathsegarcabs/sweepflag/
 ---
 ## SVGPathSegArcAbs.SweepFlag property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.DataTypes.SVGRect class. Represents rectangular geometry. Rectangles are defined as consisting of a xy coordinate pair identifying a minimum X value a minimum Y value and a width and height which are usually constrained to be non-negative
 type: docs
 weight: 1290
-url: /net/com.aspose.html.dom.svg.datatypes/svgrect/
+url: /java/com.aspose.html.dom.svg.datatypes/svgrect/
 ---
 ## SVGRect class
 

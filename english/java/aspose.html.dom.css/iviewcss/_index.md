@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Css.IViewCSS interface. The IViewCSS interface represents an extension to the Window object that give an access to the values of all CSS properties of an element
 type: docs
 weight: 620
-url: /net/com.aspose.html.dom.css/iviewcss/
+url: /java/com.aspose.html.dom.css/iviewcss/
 ---
 ## IViewCSS interface
 

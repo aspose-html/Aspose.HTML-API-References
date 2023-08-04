@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSMediaRule method. The insertRule method of the CSSGroupingRule interface adds a new CSS rule to a list of CSS rules
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.css/icssmediarule/insertrule/
+url: /java/com.aspose.html.dom.css/icssmediarule/insertrule/
 ---
 ## ICSSMediaRule.InsertRule method
 

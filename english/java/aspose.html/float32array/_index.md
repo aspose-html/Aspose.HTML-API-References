@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Float32Array class. Represents an array of 32-bit floating point numbers corresponding to the C float data type in the platform byte order
 type: docs
 weight: 2880
-url: /net/com.aspose.html/float32array/
+url: /java/com.aspose.html/float32array/
 ---
 ## Float32Array class
 

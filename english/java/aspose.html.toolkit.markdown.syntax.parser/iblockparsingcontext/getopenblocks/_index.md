@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IBlockParsingContext method. Defines the GetOpenBlocks
 type: docs
 weight: 90
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getopenblocks/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getopenblocks/
 ---
 ## IBlockParsingContext.GetOpenBlocks method
 

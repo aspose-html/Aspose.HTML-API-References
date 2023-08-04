@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Angle object that is represented in degrees
 type: docs
 weight: 60
-url: /net/com.aspose.html.drawing/unit/fromdegrees/
+url: /java/com.aspose.html.drawing/unit/fromdegrees/
 ---
 ## Unit.FromDegrees method
 

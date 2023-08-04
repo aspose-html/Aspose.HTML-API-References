@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Text property. Returns whether this text node contains element content whitespace often abusively called ignorable whitespace
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom/text/iselementcontentwhitespace/
+url: /java/com.aspose.html.dom/text/iselementcontentwhitespace/
 ---
 ## Text.IsElementContentWhitespace property
 

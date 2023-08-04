@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates InlineLinkSyntaxNode
 type: docs
 weight: 220
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinelink/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinelink/
 ---
 ## InlineLink(MarkdownSyntaxToken, MarkdownSyntaxToken, MarkdownSyntaxToken, LinkDestinationSyntaxNode, LinkTitleSyntaxNode, MarkdownSyntaxToken) {#inlinelink}
 

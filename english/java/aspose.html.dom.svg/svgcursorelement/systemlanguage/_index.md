@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGCursorElement property. Corresponds to attribute systemLanguage on the given element
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg/svgcursorelement/systemlanguage/
+url: /java/com.aspose.html.dom.svg/svgcursorelement/systemlanguage/
 ---
 ## SVGCursorElement.SystemLanguage property
 

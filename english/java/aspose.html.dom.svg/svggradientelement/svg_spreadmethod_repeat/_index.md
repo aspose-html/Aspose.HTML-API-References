@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGGradientElement field. Corresponds to value repeat
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.svg/svggradientelement/svg_spreadmethod_repeat/
+url: /java/com.aspose.html.dom.svg/svggradientelement/svg_spreadmethod_repeat/
 ---
 ## SVGGradientElement.SVG_SPREADMETHOD_REPEAT field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OutputStream method. Sets the position within the wrapped output stream
 type: docs
 weight: 110
-url: /net/com.aspose.html.io/outputstream/seek/
+url: /java/com.aspose.html.io/outputstream/seek/
 ---
 ## OutputStream.Seek method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node field. An Element node like p or div
 type: docs
 weight: 380
-url: /net/com.aspose.html.dom/node/element_node/
+url: /java/com.aspose.html.dom/node/element_node/
 ---
 ## Node.ELEMENT_NODE field
 

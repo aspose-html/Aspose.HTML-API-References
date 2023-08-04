@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEOffsetElement property. Corresponds to attribute height on the given filter element
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg.filters/svgfeoffsetelement/height/
+url: /java/com.aspose.html.dom.svg.filters/svgfeoffsetelement/height/
 ---
 ## SVGFEOffsetElement.Height property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TreeWalker method. Defines the interface for get first child node
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/treewalker/firstchild/
+url: /java/com.aspose.html.toolkit.markdown.syntax/treewalker/firstchild/
 ---
 ## TreeWalker.FirstChild method
 

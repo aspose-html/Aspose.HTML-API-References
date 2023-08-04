@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegLinetoVerticalRel property. The relative Y coordinate for the end point of this path segment
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.paths/svgpathseglinetoverticalrel/y/
+url: /java/com.aspose.html.dom.svg.paths/svgpathseglinetoverticalrel/y/
 ---
 ## SVGPathSegLinetoVerticalRel.Y property
 

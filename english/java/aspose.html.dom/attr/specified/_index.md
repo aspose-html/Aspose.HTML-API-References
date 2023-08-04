@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Attr property. True if this attribute was explicitly given a value in the instance document false otherwise
 type: docs
 weight: 110
-url: /net/com.aspose.html.dom/attr/specified/
+url: /java/com.aspose.html.dom/attr/specified/
 ---
 ## Attr.Specified property
 

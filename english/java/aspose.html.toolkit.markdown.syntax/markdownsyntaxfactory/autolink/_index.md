@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates AutoLinkSyntaxNode
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/autolink/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/autolink/
 ---
 ## MarkdownSyntaxFactory.AutoLink method
 

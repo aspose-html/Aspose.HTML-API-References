@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OrderedListSyntaxNode method. Defines the interface for get the start index
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax/orderedlistsyntaxnode/getstart/
+url: /java/com.aspose.html.toolkit.markdown.syntax/orderedlistsyntaxnode/getstart/
 ---
 ## OrderedListSyntaxNode.GetStart method
 

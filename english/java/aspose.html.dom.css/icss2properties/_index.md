@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Css.ICSS2Properties interface. The CSS2Properties interface represents a convenience mechanism for retrieving and setting properties within a CSSStyleDeclaration. The attributes of this interface correspond to all the properties specified in CSS2. Getting an attribute of this interface is equivalent to calling the getPropertyValue method of the CSSStyleDeclaration interface. Setting an attribute of this interface is equivalent to calling the setProperty method of the CSSStyleDeclaration interface
 type: docs
 weight: 380
-url: /net/com.aspose.html.dom.css/icss2properties/
+url: /java/com.aspose.html.dom.css/icss2properties/
 ---
 ## ICSS2Properties interface
 

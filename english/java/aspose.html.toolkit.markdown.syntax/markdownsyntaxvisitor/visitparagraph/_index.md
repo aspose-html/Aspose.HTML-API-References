@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit paragraph
 type: docs
 weight: 200
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitparagraph/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitparagraph/
 ---
 ## MarkdownSyntaxVisitor.VisitParagraph method
 

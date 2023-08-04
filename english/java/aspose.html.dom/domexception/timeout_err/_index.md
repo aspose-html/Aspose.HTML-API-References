@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMException field. The operation timed out
 type: docs
 weight: 260
-url: /net/com.aspose.html.dom/domexception/timeout_err/
+url: /java/com.aspose.html.dom/domexception/timeout_err/
 ---
 ## DOMException.TIMEOUT_ERR field
 

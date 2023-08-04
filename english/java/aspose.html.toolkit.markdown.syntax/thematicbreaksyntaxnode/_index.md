@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.ThematicBreakSyntaxNode class. Imlemented the Thematic Break Syntax Node
 type: docs
 weight: 5680
-url: /net/com.aspose.html.toolkit.markdown.syntax/thematicbreaksyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/thematicbreaksyntaxnode/
 ---
 ## ThematicBreakSyntaxNode class
 

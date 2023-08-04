@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLBaseElement property. The base URI IETF RFC 2396. See the href attribute definition in HTML 4.01
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmlbaseelement/href/
+url: /java/com.aspose.html/htmlbaseelement/href/
 ---
 ## HTMLBaseElement.Href property
 

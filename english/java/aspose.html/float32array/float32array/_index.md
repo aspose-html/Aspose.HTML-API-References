@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Float32Array constructor. Initializes a new instance of the Float32Array class
 type: docs
 weight: 10
-url: /net/com.aspose.html/float32array/float32array/
+url: /java/com.aspose.html/float32array/float32array/
 ---
 ## Float32Array(int) {#constructor_3}
 

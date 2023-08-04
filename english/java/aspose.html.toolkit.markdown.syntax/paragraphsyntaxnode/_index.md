@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.ParagraphSyntaxNode class. Represent the paragraph syntax node
 type: docs
 weight: 5310
-url: /net/com.aspose.html.toolkit.markdown.syntax/paragraphsyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/paragraphsyntaxnode/
 ---
 ## ParagraphSyntaxNode class
 

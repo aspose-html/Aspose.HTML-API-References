@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SelectElement property. Represent the name attribute of the input element
 type: docs
 weight: 30
-url: /net/com.aspose.html.forms/selectelement/name/
+url: /java/com.aspose.html.forms/selectelement/name/
 ---
 ## SelectElement.Name property
 

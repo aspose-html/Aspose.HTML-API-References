@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLInputElement class. Form control. Depending upon the environment in which the page is being viewed the value property may be read-only for the file upload input type. For the password input type the actual value returned may be masked to prevent unauthorized use. See the INPUT element definition in HTML 4.01.See also the Document object Model DOM Level 2 HTML Specification
 type: docs
 weight: 3330
-url: /net/com.aspose.html/htmlinputelement/
+url: /java/com.aspose.html/htmlinputelement/
 ---
 ## HTMLInputElement class
 

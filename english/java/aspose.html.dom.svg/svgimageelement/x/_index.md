@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGImageElement property. Corresponds to attribute x on the given image element
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.svg/svgimageelement/x/
+url: /java/com.aspose.html.dom.svg/svgimageelement/x/
 ---
 ## SVGImageElement.X property
 

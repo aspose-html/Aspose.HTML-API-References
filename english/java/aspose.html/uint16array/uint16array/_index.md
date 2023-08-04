@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Uint16Array constructor. Initializes a new instance of the Uint16Array class
 type: docs
 weight: 10
-url: /net/com.aspose.html/uint16array/uint16array/
+url: /java/com.aspose.html/uint16array/uint16array/
 ---
 ## Uint16Array(int) {#constructor_3}
 

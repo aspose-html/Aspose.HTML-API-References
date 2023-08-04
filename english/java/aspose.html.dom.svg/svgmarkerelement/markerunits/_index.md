@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGMarkerElement property. Corresponds to attribute markerUnits on the given marker element. One of the Marker Unit Types defined on this interface
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg/svgmarkerelement/markerunits/
+url: /java/com.aspose.html.dom.svg/svgmarkerelement/markerunits/
 ---
 ## SVGMarkerElement.MarkerUnits property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.NodeList1T class. Base implementation of the NodeList
 type: docs
 weight: 5280
-url: /net/com.aspose.html.toolkit.markdown.syntax/nodelist-1/
+url: /java/com.aspose.html.toolkit.markdown.syntax/nodelist-1/
 ---
 ## NodeList&lt;T&gt; class
 

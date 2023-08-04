@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFECompositeElement property. Corresponds to attribute in2 on the given feComposite element
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg.filters/svgfecompositeelement/in2/
+url: /java/com.aspose.html.dom.svg.filters/svgfecompositeelement/in2/
 ---
 ## SVGFECompositeElement.In2 property
 

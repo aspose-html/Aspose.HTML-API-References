@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a hexadecimal color is specified with RRGGBB
 type: docs
 weight: 410
-url: /net/com.aspose.html.drawing/color/torgbhexString/
+url: /java/com.aspose.html.drawing/color/torgbhexString/
 ---
 ## Color.ToRgbHexString method
 

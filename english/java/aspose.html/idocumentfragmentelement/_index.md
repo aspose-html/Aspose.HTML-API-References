@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.IDocumentFragmentElement interface. Represents common interface for all Document Fragment elements
 type: docs
 weight: 3670
-url: /net/com.aspose.html/idocumentfragmentelement/
+url: /java/com.aspose.html/idocumentfragmentelement/
 ---
 ## IDocumentFragmentElement interface
 

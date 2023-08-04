@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Drawing.Resolution class. Represents a resolution unit
 type: docs
 weight: 2830
-url: /net/com.aspose.html.drawing/resolution/
+url: /java/com.aspose.html.drawing/resolution/
 ---
 ## Resolution class
 

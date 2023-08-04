@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit CodeSpanSyntax
 type: docs
 weight: 60
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitcodespan/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitcodespan/
 ---
 ## MarkdownSyntaxVisitor.VisitCodeSpan method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: GraphicContext property. Sets or gets the code specifying the shape of the endpoints for any open path that is stroked
 type: docs
 weight: 70
-url: /net/com.aspose.html.rendering/graphiccontext/linecap/
+url: /java/com.aspose.html.rendering/graphiccontext/linecap/
 ---
 ## GraphicContext.LineCap property
 

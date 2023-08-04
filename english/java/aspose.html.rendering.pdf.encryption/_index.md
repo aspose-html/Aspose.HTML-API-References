@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.Rendering.Pdf.Encryption package contains data classes describing pdf encryption details like password encryption algorithm and so on
 type: docs
 weight: 350
-url: /net/com.aspose.html.rendering.pdf.encryption/
+url: /java/com.aspose.html.rendering.pdf.encryption/
 ---
 The **com.aspose.html.Rendering.Pdf.Encryption** package contains data classes describing pdf encryption details like password, encryption algorithm and so on.
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.InlineParsingInstruction struct. Defines the InlineParsingInstruction struct
 type: docs
 weight: 5440
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/
 ---
 ## InlineParsingInstruction structure
 

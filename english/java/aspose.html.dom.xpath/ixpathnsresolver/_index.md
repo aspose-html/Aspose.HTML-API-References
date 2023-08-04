@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.XPath.IXPathNSResolver interface. The XPathNSResolver interface permit prefix Strings in the expression to be properly bound to packageURI Strings. IXPathEvaluator can construct an implementation of IXPathNSResolver from a node or the interface may be implemented by any application
 type: docs
 weight: 2590
-url: /net/com.aspose.html.dom.xpath/ixpathnsresolver/
+url: /java/com.aspose.html.dom.xpath/ixpathnsresolver/
 ---
 ## IXPathNSResolver interface
 

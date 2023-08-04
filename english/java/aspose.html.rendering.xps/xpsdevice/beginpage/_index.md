@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: XpsDevice method. Begins rendering of the new page
 type: docs
 weight: 50
-url: /net/com.aspose.html.rendering.xps/xpsdevice/beginpage/
+url: /java/com.aspose.html.rendering.xps/xpsdevice/beginpage/
 ---
 ## XpsDevice.BeginPage method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGSVGElement method. Creates an SVGLength object outside of any document trees. The object is initialized to the value of 0 user units
 type: docs
 weight: 130
-url: /net/com.aspose.html.dom.svg/svgsvgelement/createsvglength/
+url: /java/com.aspose.html.dom.svg/svgsvgelement/createsvglength/
 ---
 ## SVGSVGElement.CreateSVGLength method
 

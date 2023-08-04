@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Entity class. Represents a known entity either parsed or unparsed in an XML document
 type: docs
 weight: 710
-url: /net/com.aspose.html.dom/entity/
+url: /java/com.aspose.html.dom/entity/
 ---
 ## Entity class
 

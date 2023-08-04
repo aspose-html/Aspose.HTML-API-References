@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NodeFilter field. Show Element nodes
 type: docs
 weight: 130
-url: /net/com.aspose.html.dom.traversal.filters/nodefilter/show_element/
+url: /java/com.aspose.html.dom.traversal.filters/nodefilter/show_element/
 ---
 ## NodeFilter.SHOW_ELEMENT field
 

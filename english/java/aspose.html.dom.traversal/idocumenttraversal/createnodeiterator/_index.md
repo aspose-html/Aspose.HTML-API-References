@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDocumentTraversal method. Create a new NodeIterator over the subtree rooted at the specified node
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.traversal/idocumenttraversal/createnodeiterator/
+url: /java/com.aspose.html.dom.traversal/idocumenttraversal/createnodeiterator/
 ---
 ## CreateNodeIterator(Node) {#createnodeiterator}
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit escape character
 type: docs
 weight: 90
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitescapedcharacter/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitescapedcharacter/
 ---
 ## MarkdownSyntaxVisitor.VisitEscapedCharacter method
 

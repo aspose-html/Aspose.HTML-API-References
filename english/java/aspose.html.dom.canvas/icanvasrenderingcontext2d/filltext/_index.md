@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Draws fills a given text at the given xy position
 type: docs
 weight: 240
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/filltext/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/filltext/
 ---
 ## FillText(String, double, double) {#filltext}
 

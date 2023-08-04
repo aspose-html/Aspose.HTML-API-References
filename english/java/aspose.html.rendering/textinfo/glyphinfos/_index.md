@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TextInfo property. Gets information about rendered glyphs
 type: docs
 weight: 10
-url: /net/com.aspose.html.rendering/textinfo/glyphinfos/
+url: /java/com.aspose.html.rendering/textinfo/glyphinfos/
 ---
 ## TextInfo.GlyphInfos property
 

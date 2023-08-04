@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies spacing behavior between words. Values have the following meanings
 type: docs
 weight: 1210
-url: /net/com.aspose.html.dom.css/icss2properties/wordspacing/
+url: /java/com.aspose.html.dom.css/icss2properties/wordspacing/
 ---
 ## ICSS2Properties.WordSpacing property
 

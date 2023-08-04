@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IWindowTimers method. Schedules a timeout to run handler every timeout milliseconds. Any arguments are passed straight through to the handler
 type: docs
 weight: 30
-url: /net/com.aspose.html.window/iwindowtimers/setinterval/
+url: /java/com.aspose.html.window/iwindowtimers/setinterval/
 ---
 ## IWindowTimers.SetInterval method
 

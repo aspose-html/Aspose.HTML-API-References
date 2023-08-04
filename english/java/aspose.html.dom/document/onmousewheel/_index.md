@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnMouseWheel event
 type: docs
 weight: 580
-url: /net/com.aspose.html.dom/document/onmousewheel/
+url: /java/com.aspose.html.dom/document/onmousewheel/
 ---
 ## Document.OnMouseWheel event
 

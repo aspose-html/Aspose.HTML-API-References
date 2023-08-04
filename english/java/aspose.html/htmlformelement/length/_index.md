@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLFormElement property. The number of form controls in the form
 type: docs
 weight: 50
-url: /net/com.aspose.html/htmlformelement/length/
+url: /java/com.aspose.html/htmlformelement/length/
 ---
 ## HTMLFormElement.Length property
 

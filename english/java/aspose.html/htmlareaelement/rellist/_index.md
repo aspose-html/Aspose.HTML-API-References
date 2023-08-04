@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLAreaElement property. Returns a live DOMTokenList which contains tokens received from parsing the rel attribute
 type: docs
 weight: 60
-url: /net/com.aspose.html/htmlareaelement/rellist/
+url: /java/com.aspose.html/htmlareaelement/rellist/
 ---
 ## HTMLAreaElement.RelList property
 

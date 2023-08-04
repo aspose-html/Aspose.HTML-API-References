@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.IConfigurationBuilder interface. Represents a Configuration object builder
 type: docs
 weight: 3660
-url: /net/com.aspose.html/iconfigurationbuilder/
+url: /java/com.aspose.html/iconfigurationbuilder/
 ---
 ## IConfigurationBuilder interface
 

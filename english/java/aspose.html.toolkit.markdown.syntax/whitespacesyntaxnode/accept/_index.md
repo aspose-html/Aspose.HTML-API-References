@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: WhitespaceSyntaxNode method. Defines the interface for visiting nodes of the syntax
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/whitespacesyntaxnode/accept/
+url: /java/com.aspose.html.toolkit.markdown.syntax/whitespacesyntaxnode/accept/
 ---
 ## WhitespaceSyntaxNode.Accept method
 

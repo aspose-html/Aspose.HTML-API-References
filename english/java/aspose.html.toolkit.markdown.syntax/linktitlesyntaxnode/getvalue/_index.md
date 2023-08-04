@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LinkTitleSyntaxNode method. Defines the interface for get String value
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/linktitlesyntaxnode/getvalue/
+url: /java/com.aspose.html.toolkit.markdown.syntax/linktitlesyntaxnode/getvalue/
 ---
 ## LinkTitleSyntaxNode.GetValue method
 

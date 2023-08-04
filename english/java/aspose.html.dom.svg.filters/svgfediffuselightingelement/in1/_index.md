@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEDiffuseLightingElement property. Corresponds to attribute in on the given feDiffuseLighting element
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg.filters/svgfediffuselightingelement/in1/
+url: /java/com.aspose.html.dom.svg.filters/svgfediffuselightingelement/in1/
 ---
 ## SVGFEDiffuseLightingElement.In1 property
 

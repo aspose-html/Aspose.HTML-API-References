@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Canvas.ITextMetrics interface. Represents the dimension of a text in the canvas
 type: docs
 weight: 290
-url: /net/com.aspose.html.dom.canvas/itextmetrics/
+url: /java/com.aspose.html.dom.canvas/itextmetrics/
 ---
 ## ITextMetrics interface
 

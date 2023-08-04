@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OutputStream property. Gets or sets the position within the wrapped output stream
 type: docs
 weight: 60
-url: /net/com.aspose.html.io/outputstream/position/
+url: /java/com.aspose.html.io/outputstream/position/
 ---
 ## OutputStream.Position property
 

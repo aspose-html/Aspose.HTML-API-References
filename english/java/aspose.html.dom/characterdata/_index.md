@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.CharacterData class. The CharacterData extends Node with a set of attributes and methods for accessing character data in the DOM
 type: docs
 weight: 310
-url: /net/com.aspose.html.dom/characterdata/
+url: /java/com.aspose.html.dom/characterdata/
 ---
 ## CharacterData class
 

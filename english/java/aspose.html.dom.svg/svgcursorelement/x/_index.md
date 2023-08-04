@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGCursorElement property. Corresponds to attribute x on the given cursor element
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.svg/svgcursorelement/x/
+url: /java/com.aspose.html.dom.svg/svgcursorelement/x/
 ---
 ## SVGCursorElement.X property
 

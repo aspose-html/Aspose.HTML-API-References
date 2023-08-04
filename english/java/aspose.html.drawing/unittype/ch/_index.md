@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is relative to width of the 0 zero
 type: docs
 weight: 20
-url: /net/com.aspose.html.drawing/unittype/ch/
+url: /java/com.aspose.html.drawing/unittype/ch/
 ---
 ## UnitType.Ch field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FileCreateStreamProvider method. Provides a stream for rendering
 type: docs
 weight: 50
-url: /net/com.aspose.html.io/filecreatestreamprovider/getstream/
+url: /java/com.aspose.html.io/filecreatestreamprovider/getstream/
 ---
 ## GetStream(String, String) {#getstream}
 

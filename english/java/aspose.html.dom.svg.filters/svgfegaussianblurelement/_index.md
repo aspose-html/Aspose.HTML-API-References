@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Filters.SVGFEGaussianBlurElement class. The SVGFEGaussianBlurElement interface corresponds to the feGaussianBlur element
 type: docs
 weight: 1510
-url: /net/com.aspose.html.dom.svg.filters/svgfegaussianblurelement/
+url: /java/com.aspose.html.dom.svg.filters/svgfegaussianblurelement/
 ---
 ## SVGFEGaussianBlurElement class
 

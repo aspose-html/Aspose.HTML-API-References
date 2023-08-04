@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownParser method. Parse an file
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/markdownparser/parsefile/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownparser/parsefile/
 ---
 ## MarkdownParser.ParseFile method
 

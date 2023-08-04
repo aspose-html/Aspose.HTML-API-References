@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode property. Get the previous sibling
 type: docs
 weight: 50
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/
 ---
 ## MarkdownSyntaxNode.PreviousSibling property
 

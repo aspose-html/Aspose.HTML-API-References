@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document property. Gets the document content type
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom/document/contenttype/
+url: /java/com.aspose.html.dom/document/contenttype/
 ---
 ## Document.ContentType property
 

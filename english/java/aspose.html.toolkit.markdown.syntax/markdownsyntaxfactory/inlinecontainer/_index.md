@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates InlineContainerSyntaxNode
 type: docs
 weight: 200
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinecontainer/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinecontainer/
 ---
 ## MarkdownSyntaxFactory.InlineContainer method
 

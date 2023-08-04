@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IHTMLOptionsCollection property. The number of nodes in the list
 type: docs
 weight: 20
-url: /net/com.aspose.html/ihtmloptionscollection/length/
+url: /java/com.aspose.html/ihtmloptionscollection/length/
 ---
 ## IHTMLOptionsCollection.Length property
 

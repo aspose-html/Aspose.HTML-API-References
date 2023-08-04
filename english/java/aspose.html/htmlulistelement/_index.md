@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLUListElement class. Unordered list. See the UL element definition in HTML 4.01
 type: docs
 weight: 3640
-url: /net/com.aspose.html/htmlulistelement/
+url: /java/com.aspose.html/htmlulistelement/
 ---
 ## HTMLUListElement class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Css.ICSSKeyframesRule interface. The name property of the CSSKeyframeRule interface gets and sets the name of the animation as used by the animation-name property
 type: docs
 weight: 440
-url: /net/com.aspose.html.dom.css/icsskeyframesrule/
+url: /java/com.aspose.html.dom.css/icsskeyframesrule/
 ---
 ## ICSSKeyframesRule interface
 

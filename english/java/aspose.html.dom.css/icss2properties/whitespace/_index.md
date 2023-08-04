@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property declares how whitespace inside the element is handled. Values have the following meanings
 type: docs
 weight: 1180
-url: /net/com.aspose.html.dom.css/icss2properties/whitespace/
+url: /java/com.aspose.html.dom.css/icss2properties/whitespace/
 ---
 ## ICSS2Properties.WhiteSpace property
 

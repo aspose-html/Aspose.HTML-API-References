@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. Specifies the average pitch a frequency of the speaking voice. The average pitch of a voice depends on the voice family. For example the average pitch for a standard male voice is around 120Hz but for a female voice its around 210Hz
 type: docs
 weight: 920
-url: /net/com.aspose.html.dom.css/icss2properties/pitch/
+url: /java/com.aspose.html.dom.css/icss2properties/pitch/
 ---
 ## ICSS2Properties.Pitch property
 

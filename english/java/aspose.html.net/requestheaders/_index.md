@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Net.RequestHeaders class. Contains protocol headers associated with a request
 type: docs
 weight: 4060
-url: /net/com.aspose.html.net/requestheaders/
+url: /java/com.aspose.html.net/requestheaders/
 ---
 ## RequestHeaders class
 

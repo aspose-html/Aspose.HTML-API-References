@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TextSpan method. 
 type: docs
 weight: 150
-url: /net/com.aspose.html.toolkit.markdown.syntax.text/textspan/op_inequality/
+url: /java/com.aspose.html.toolkit.markdown.syntax.text/textspan/op_inequality/
 ---
 ## TextSpan Inequality operator
 

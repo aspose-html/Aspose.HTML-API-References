@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.IDOMImplementation interface. The DOMImplementation interface provides a number of methods for performing operations that are independent of any particular instance of the document object model
 type: docs
 weight: 900
-url: /net/com.aspose.html.dom/idomimplementation/
+url: /java/com.aspose.html.dom/idomimplementation/
 ---
 ## IDOMImplementation interface
 

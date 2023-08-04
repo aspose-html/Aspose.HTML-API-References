@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMException field. The operation was aborted
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom/domexception/abort_err/
+url: /java/com.aspose.html.dom/domexception/abort_err/
 ---
 ## DOMException.ABORT_ERR field
 

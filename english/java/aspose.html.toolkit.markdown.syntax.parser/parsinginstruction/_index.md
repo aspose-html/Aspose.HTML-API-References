@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.ParsingInstruction enum. The ParsingInstruction enum
 type: docs
 weight: 5500
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/parsinginstruction/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/parsinginstruction/
 ---
 ## ParsingInstruction enumeration
 

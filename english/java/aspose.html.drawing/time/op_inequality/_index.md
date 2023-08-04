@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Time method. 
 type: docs
 weight: 50
-url: /net/com.aspose.html.drawing/time/op_inequality/
+url: /java/com.aspose.html.drawing/time/op_inequality/
 ---
 ## Time Inequality operator
 

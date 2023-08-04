@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit InlineImageSyntax
 type: docs
 weight: 120
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitimage/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitimage/
 ---
 ## MarkdownSyntaxVisitor.VisitImage method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Reports whether or not the specified point is contained in the current path
 type: docs
 weight: 260
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/ispointinpath/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/ispointinpath/
 ---
 ## IsPointInPath(double, double) {#ispointinpath_2}
 

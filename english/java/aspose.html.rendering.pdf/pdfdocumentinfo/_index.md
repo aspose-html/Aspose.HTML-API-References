@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.Pdf.PdfDocumentInfo class. Represents the information about the PDF document
 type: docs
 weight: 4490
-url: /net/com.aspose.html.rendering.pdf/pdfdocumentinfo/
+url: /java/com.aspose.html.rendering.pdf/pdfdocumentinfo/
 ---
 ## PdfDocumentInfo class
 

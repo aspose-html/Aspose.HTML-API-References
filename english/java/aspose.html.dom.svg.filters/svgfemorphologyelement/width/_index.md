@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEMorphologyElement property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.svg.filters/svgfemorphologyelement/width/
+url: /java/com.aspose.html.dom.svg.filters/svgfemorphologyelement/width/
 ---
 ## SVGFEMorphologyElement.Width property
 

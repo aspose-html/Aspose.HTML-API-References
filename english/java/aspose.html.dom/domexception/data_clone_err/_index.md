@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMException field. The object can not be cloned
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom/domexception/data_clone_err/
+url: /java/com.aspose.html.dom/domexception/data_clone_err/
 ---
 ## DOMException.DATA_CLONE_ERR field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DocumentFragment method. Returns a NodeList of all the Elements in document which match selector
 type: docs
 weight: 130
-url: /net/com.aspose.html.dom/documentfragment/queryselectorall/
+url: /java/com.aspose.html.dom/documentfragment/queryselectorall/
 ---
 ## DocumentFragment.QuerySelectorAll method
 

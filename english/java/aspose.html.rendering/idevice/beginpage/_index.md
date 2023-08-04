@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDevice method. Begins rendering of the new page
 type: docs
 weight: 60
-url: /net/com.aspose.html.rendering/idevice/beginpage/
+url: /java/com.aspose.html.rendering/idevice/beginpage/
 ---
 ## IDevice.BeginPage method
 

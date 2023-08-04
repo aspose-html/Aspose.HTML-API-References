@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGEllipseElement property. Corresponds to attribute ry on the given circle element
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg/svgellipseelement/ry/
+url: /java/com.aspose.html.dom.svg/svgellipseelement/ry/
 ---
 ## SVGEllipseElement.Ry property
 

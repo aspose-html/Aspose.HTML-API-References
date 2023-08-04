@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLObjectElement property. Content type for data downloaded via data attribute. See the type attribute definition in HTML 4.01
 type: docs
 weight: 160
-url: /net/com.aspose.html/htmlobjectelement/type/
+url: /java/com.aspose.html/htmlobjectelement/type/
 ---
 ## HTMLObjectElement.Type property
 

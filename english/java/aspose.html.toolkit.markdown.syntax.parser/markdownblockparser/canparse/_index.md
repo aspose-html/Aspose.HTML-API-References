@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownBlockParser method. Defines interface for get the CanParse value
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/canparse/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/canparse/
 ---
 ## MarkdownBlockParser.CanParse method
 

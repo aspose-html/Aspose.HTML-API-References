@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node property. The read-only parentElement property of Node interface returns the DOM nodes parent Element or null if the node either has no parent or its parent isnt a DOM Element
 type: docs
 weight: 130
-url: /net/com.aspose.html.dom/node/parentelement/
+url: /java/com.aspose.html.dom/node/parentelement/
 ---
 ## Node.ParentElement property
 

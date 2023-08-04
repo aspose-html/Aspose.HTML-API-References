@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Time method. 
 type: docs
 weight: 70
-url: /net/com.aspose.html.drawing/time/op_lessthanorequal/
+url: /java/com.aspose.html.drawing/time/op_lessthanorequal/
 ---
 ## Time LessThanOrEqual operator
 

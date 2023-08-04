@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEMergeElement property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg.filters/svgfemergeelement/width/
+url: /java/com.aspose.html.dom.svg.filters/svgfemergeelement/width/
 ---
 ## SVGFEMergeElement.Width property
 

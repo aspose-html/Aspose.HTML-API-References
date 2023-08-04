@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CSSValue method. 
 type: docs
 weight: 110
-url: /net/com.aspose.html.dom.css/cssvalue/op_equality/
+url: /java/com.aspose.html.dom.css/cssvalue/op_equality/
 ---
 ## CSSValue Equality operator
 

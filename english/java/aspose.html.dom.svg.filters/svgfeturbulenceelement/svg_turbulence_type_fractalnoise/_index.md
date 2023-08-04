@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFETurbulenceElement field. Corresponds to value fractalNoise
 type: docs
 weight: 150
-url: /net/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_turbulence_type_fractalnoise/
+url: /java/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_turbulence_type_fractalnoise/
 ---
 ## SVGFETurbulenceElement.SVG_TURBULENCE_TYPE_FRACTALNOISE field
 

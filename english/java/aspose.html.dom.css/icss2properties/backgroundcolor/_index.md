@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property sets the background color of an element either a value or the keyword transparent to make the underlying colors shine through
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.css/icss2properties/backgroundcolor/
+url: /java/com.aspose.html.dom.css/icss2properties/backgroundcolor/
 ---
 ## ICSS2Properties.BackgroundColor property
 

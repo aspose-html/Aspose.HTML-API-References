@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.AutoLinkSyntaxNode class. Represents the AutoLinkSyntaxNode
 type: docs
 weight: 4790
-url: /net/com.aspose.html.toolkit.markdown.syntax/autolinksyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/autolinksyntaxnode/
 ---
 ## AutoLinkSyntaxNode class
 

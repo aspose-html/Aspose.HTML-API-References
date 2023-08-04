@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGDefsElement class. The SVGDefsElement interface corresponds to the defs element
 type: docs
 weight: 2000
-url: /net/com.aspose.html.dom.svg/svgdefselement/
+url: /java/com.aspose.html.dom.svg/svgdefselement/
 ---
 ## SVGDefsElement class
 

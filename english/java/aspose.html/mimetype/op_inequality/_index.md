@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MimeType method. 
 type: docs
 weight: 100
-url: /net/com.aspose.html/mimetype/op_inequality/
+url: /java/com.aspose.html/mimetype/op_inequality/
 ---
 ## MimeType Inequality operator
 

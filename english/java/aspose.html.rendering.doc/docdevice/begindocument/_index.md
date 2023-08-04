@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DocDevice method. Begins rendering of the document
 type: docs
 weight: 30
-url: /net/com.aspose.html.rendering.doc/docdevice/begindocument/
+url: /java/com.aspose.html.rendering.doc/docdevice/begindocument/
 ---
 ## DocDevice.BeginDocument method
 

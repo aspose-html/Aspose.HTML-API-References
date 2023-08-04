@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEDropShadowElement property. Corresponds to attribute dx on the given feDropShadow element
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.filters/svgfedropshadowelement/dx/
+url: /java/com.aspose.html.dom.svg.filters/svgfedropshadowelement/dx/
 ---
 ## SVGFEDropShadowElement.Dx property
 

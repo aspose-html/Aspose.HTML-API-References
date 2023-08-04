@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: All classes in com.aspose.html.Dom.Svg package are based on w3c SVG2 recommendations. Using this package you can load navigate or render the SVG file as per your requirements
 type: docs
 weight: 110
-url: /net/com.aspose.html.dom.svg/
+url: /java/com.aspose.html.dom.svg/
 ---
 All classes in **com.aspose.html.Dom.Svg** package are based on w3c SVG2 recommendations. Using this package, you can load, navigate or render the SVG file as per your requirements.
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: The package contains methods to navigate through elements and attributes in an XML document
 type: docs
 weight: 210
-url: /net/com.aspose.html.dom.xpath/
+url: /java/com.aspose.html.dom.xpath/
 ---
 The package contains methods to navigate through elements and attributes in an XML document.
 

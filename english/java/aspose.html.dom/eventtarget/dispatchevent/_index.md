@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: EventTarget method. Dispatches an Event at the specified EventTarget synchronously invoking the affected EventListeners in the appropriate order. The normal event processing rules including the capturing and optional bubbling phase also apply to events dispatched manually with dispatchEvent
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom/eventtarget/dispatchevent/
+url: /java/com.aspose.html.dom/eventtarget/dispatchevent/
 ---
 ## EventTarget.DispatchEvent method
 

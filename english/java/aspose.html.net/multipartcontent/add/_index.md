@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MultipartContent method. Add a new content to the MultipartContent
 type: docs
 weight: 20
-url: /net/com.aspose.html.net/multipartcontent/add/
+url: /java/com.aspose.html.net/multipartcontent/add/
 ---
 ## MultipartContent.Add method
 

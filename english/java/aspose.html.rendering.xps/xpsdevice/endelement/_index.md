@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: XpsDevice method. Ends rendering of the element
 type: docs
 weight: 100
-url: /net/com.aspose.html.rendering.xps/xpsdevice/endelement/
+url: /java/com.aspose.html.rendering.xps/xpsdevice/endelement/
 ---
 ## XpsDevice.EndElement method
 

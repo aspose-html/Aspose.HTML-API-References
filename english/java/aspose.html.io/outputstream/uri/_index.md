@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OutputStream property. Gets the URI of stream location
 type: docs
 weight: 70
-url: /net/com.aspose.html.io/outputstream/uri/
+url: /java/com.aspose.html.io/outputstream/uri/
 ---
 ## OutputStream.Uri property
 

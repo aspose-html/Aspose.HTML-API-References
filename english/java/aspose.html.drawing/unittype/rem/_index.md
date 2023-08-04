@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is relative to font-size of the root element
 type: docs
 weight: 240
-url: /net/com.aspose.html.drawing/unittype/rem/
+url: /java/com.aspose.html.drawing/unittype/rem/
 ---
 ## UnitType.Rem field
 

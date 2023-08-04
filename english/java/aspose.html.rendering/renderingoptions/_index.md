@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.RenderingOptions class. Represents rendering options
 type: docs
 weight: 4530
-url: /net/com.aspose.html.rendering/renderingoptions/
+url: /java/com.aspose.html.rendering/renderingoptions/
 ---
 ## RenderingOptions class
 

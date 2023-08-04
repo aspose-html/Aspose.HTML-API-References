@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownBlockParser method. Defines interface for CanClose method
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/canclose/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/canclose/
 ---
 ## MarkdownBlockParser.CanClose method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit text syntax
 type: docs
 weight: 270
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visittext/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visittext/
 ---
 ## MarkdownSyntaxVisitor.VisitText method
 

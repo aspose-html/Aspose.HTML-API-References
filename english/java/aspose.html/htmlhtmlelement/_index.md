@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLHtmlElement class. Root of an HTML document. See the HTML element definition in HTML 4.01
 type: docs
 weight: 3300
-url: /net/com.aspose.html/htmlhtmlelement/
+url: /java/com.aspose.html/htmlhtmlelement/
 ---
 ## HTMLHtmlElement class
 

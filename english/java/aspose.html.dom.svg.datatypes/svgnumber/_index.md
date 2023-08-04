@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.DataTypes.SVGNumber class. Used for attributes of basic type number
 type: docs
 weight: 1240
-url: /net/com.aspose.html.dom.svg.datatypes/svgnumber/
+url: /java/com.aspose.html.dom.svg.datatypes/svgnumber/
 ---
 ## SVGNumber class
 

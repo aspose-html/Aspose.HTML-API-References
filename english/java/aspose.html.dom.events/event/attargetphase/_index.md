@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Event field. The current event phase is the capturing phase
 type: docs
 weight: 150
-url: /net/com.aspose.html.dom.events/event/attargetphase/
+url: /java/com.aspose.html.dom.events/event/attargetphase/
 ---
 ## Event.AtTargetPhase field
 

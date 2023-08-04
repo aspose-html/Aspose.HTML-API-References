@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.AtxHeadingSyntaxNode class. Represents the AtxHeadingSyntaxNode
 type: docs
 weight: 4780
-url: /net/com.aspose.html.toolkit.markdown.syntax/atxheadingsyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/atxheadingsyntaxnode/
 ---
 ## AtxHeadingSyntaxNode class
 

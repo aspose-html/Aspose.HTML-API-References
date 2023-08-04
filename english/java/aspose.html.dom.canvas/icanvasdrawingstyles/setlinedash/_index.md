@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasDrawingStyles method. Sets the current line dash pattern
 type: docs
 weight: 100
-url: /net/com.aspose.html.dom.canvas/icanvasdrawingstyles/setlinedash/
+url: /java/com.aspose.html.dom.canvas/icanvasdrawingstyles/setlinedash/
 ---
 ## ICanvasDrawingStyles.SetLineDash method
 

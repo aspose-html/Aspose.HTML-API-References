@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxTree method. Defines the interface for create the tree walker
 type: docs
 weight: 50
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/createtreewalker/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/createtreewalker/
 ---
 ## CreateTreeWalker(MarkdownSyntaxNodeFilter) {#createtreewalker_2}
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node field. A DocumentType node such as DOCTYPE html
 type: docs
 weight: 370
-url: /net/com.aspose.html.dom/node/document_type_node/
+url: /java/com.aspose.html.dom/node/document_type_node/
 ---
 ## Node.DOCUMENT_TYPE_NODE field
 

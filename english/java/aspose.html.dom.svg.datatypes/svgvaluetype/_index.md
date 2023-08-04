@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.DataTypes.SVGValueType class. The SVGValueType type is used to represent an base SVG value type
 type: docs
 weight: 1330
-url: /net/com.aspose.html.dom.svg.datatypes/svgvaluetype/
+url: /java/com.aspose.html.dom.svg.datatypes/svgvaluetype/
 ---
 ## SVGValueType class
 

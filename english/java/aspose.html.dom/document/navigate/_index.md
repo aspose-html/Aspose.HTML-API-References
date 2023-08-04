@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document method. Loads the document at the specified Uniform Resource Locator URL into the current instance replacing the previous content
 type: docs
 weight: 1010
-url: /net/com.aspose.html.dom/document/navigate/
+url: /java/com.aspose.html.dom/document/navigate/
 ---
 ## Navigate(String) {#navigate_4}
 

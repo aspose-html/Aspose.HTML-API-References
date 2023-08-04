@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableElement property. Returns the tables TFOOT or null if none exists
 type: docs
 weight: 80
-url: /net/com.aspose.html/htmltableelement/rows/
+url: /java/com.aspose.html/htmltableelement/rows/
 ---
 ## HTMLTableElement.Rows property
 

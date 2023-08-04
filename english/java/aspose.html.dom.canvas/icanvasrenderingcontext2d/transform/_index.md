@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Multiplies the current transformation matrix with the matrix described by its arguments
 type: docs
 weight: 400
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/transform/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/transform/
 ---
 ## ICanvasRenderingContext2D.Transform method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: InputElement method. Returns the checkedness state for the input element with the radio type
 type: docs
 weight: 150
-url: /net/com.aspose.html.forms/inputelement/getradiovalue/
+url: /java/com.aspose.html.forms/inputelement/getradiovalue/
 ---
 ## InputElement.GetRadioValue method
 

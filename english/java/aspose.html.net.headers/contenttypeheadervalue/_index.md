@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Net.Headers.ContentTypeHeaderValue class. Represents a Content-Type header value
 type: docs
 weight: 3920
-url: /net/com.aspose.html.net.headers/contenttypeheadervalue/
+url: /java/com.aspose.html.net.headers/contenttypeheadervalue/
 ---
 ## ContentTypeHeaderValue class
 

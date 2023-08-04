@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DocRenderingOptions constructor. Initializes a new instance of the DocRenderingOptions class
 type: docs
 weight: 10
-url: /net/com.aspose.html.rendering.doc/docrenderingoptions/docrenderingoptions/
+url: /java/com.aspose.html.rendering.doc/docrenderingoptions/docrenderingoptions/
 ---
 ## DocRenderingOptions() {#constructor}
 

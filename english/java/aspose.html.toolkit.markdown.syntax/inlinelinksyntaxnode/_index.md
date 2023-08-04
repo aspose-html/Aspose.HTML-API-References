@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.InlineLinkSyntaxNode class. Represents the InlineLinkSyntaxNode
 type: docs
 weight: 5060
-url: /net/com.aspose.html.toolkit.markdown.syntax/inlinelinksyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/inlinelinksyntaxnode/
 ---
 ## InlineLinkSyntaxNode class
 

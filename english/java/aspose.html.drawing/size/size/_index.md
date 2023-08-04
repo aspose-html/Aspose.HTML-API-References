@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Size constructor. Initializes a new instance of the Size class
 type: docs
 weight: 10
-url: /net/com.aspose.html.drawing/size/size/
+url: /java/com.aspose.html.drawing/size/size/
 ---
 ## Size() {#constructor}
 

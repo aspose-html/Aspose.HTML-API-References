@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEComponentTransferElement property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg.filters/svgfecomponenttransferelement/width/
+url: /java/com.aspose.html.dom.svg.filters/svgfecomponenttransferelement/width/
 ---
 ## SVGFEComponentTransferElement.Width property
 

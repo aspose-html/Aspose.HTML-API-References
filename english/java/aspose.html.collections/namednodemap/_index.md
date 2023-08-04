@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Collections.NamedNodeMap class. Represents collections of attributes that can be accessed by name
 type: docs
 weight: 40
-url: /net/com.aspose.html.collections/namednodemap/
+url: /java/com.aspose.html.collections/namednodemap/
 ---
 ## NamedNodeMap class
 

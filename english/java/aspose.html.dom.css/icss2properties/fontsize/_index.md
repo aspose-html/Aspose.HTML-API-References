@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property describes the size of the font when set solid
 type: docs
 weight: 490
-url: /net/com.aspose.html.dom.css/icss2properties/fontsize/
+url: /java/com.aspose.html.dom.css/icss2properties/fontsize/
 ---
 ## ICSS2Properties.FontSize property
 

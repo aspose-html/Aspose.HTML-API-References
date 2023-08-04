@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is in picas
 type: docs
 weight: 170
-url: /net/com.aspose.html.drawing/unittype/pc/
+url: /java/com.aspose.html.drawing/unittype/pc/
 ---
 ## UnitType.Pc field
 

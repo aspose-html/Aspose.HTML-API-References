@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CSSPrimitiveValue field. The value is an angle deg. The value can be obtained by using the getFloatValue method
 type: docs
 weight: 150
-url: /net/com.aspose.html.dom.css/cssprimitivevalue/css_deg/
+url: /java/com.aspose.html.dom.css/cssprimitivevalue/css_deg/
 ---
 ## CSSPrimitiveValue.CSS_DEG field
 

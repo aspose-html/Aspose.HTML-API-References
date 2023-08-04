@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TreeWalker property. The Current node property
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/treewalker/currentnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/treewalker/currentnode/
 ---
 ## TreeWalker.CurrentNode property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLInputElement property. Alternate text for user agents not rendering the normal content of this element. See the alt attribute definition in HTML 4.01
 type: docs
 weight: 40
-url: /net/com.aspose.html/htmlinputelement/alt/
+url: /java/com.aspose.html/htmlinputelement/alt/
 ---
 ## HTMLInputElement.Alt property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node method. The isEqualNode method of the Node interface tests whether two nodes are equal. Two nodes are equal when they have the same type defining characteristics for elements this would be their ID number of children and so forth its attributes match and so on. The specific set of data points that must match varies depending on the types of the nodes
 type: docs
 weight: 240
-url: /net/com.aspose.html.dom/node/isequalnode/
+url: /java/com.aspose.html.dom/node/isequalnode/
 ---
 ## Node.IsEqualNode method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.ProcessingInstruction class. The ProcessingInstruction represents a processing instruction used in XML as a way to keep processor-specific information in the text of the document
 type: docs
 weight: 1030
-url: /net/com.aspose.html.dom/processinginstruction/
+url: /java/com.aspose.html.dom/processinginstruction/
 ---
 ## ProcessingInstruction class
 

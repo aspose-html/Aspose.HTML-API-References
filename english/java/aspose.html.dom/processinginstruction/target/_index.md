@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ProcessingInstruction property. The target of this processing instruction
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom/processinginstruction/target/
+url: /java/com.aspose.html.dom/processinginstruction/target/
 ---
 ## ProcessingInstruction.Target property
 

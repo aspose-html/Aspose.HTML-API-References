@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document method. In an HTML document the document.createElement method creates the HTML element specified by tagName or an HTMLUnknownElement if tagName isnt recognized
 type: docs
 weight: 850
-url: /net/com.aspose.html.dom/document/createelement/
+url: /java/com.aspose.html.dom/document/createelement/
 ---
 ## Document.CreateElement method
 

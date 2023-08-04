@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfGraphicContext property. Sets or gets transformation matrix
 type: docs
 weight: 80
-url: /net/com.aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/transformationmatrix/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/transformationmatrix/
 ---
 ## PdfDevice.PdfGraphicContext.TransformationMatrix property
 

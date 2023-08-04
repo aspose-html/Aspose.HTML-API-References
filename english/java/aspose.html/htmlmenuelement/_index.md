@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLMenuElement class. Menu list. See the MENU element definition in HTML 4.01. This element is deprecated in HTML 4.01
 type: docs
 weight: 3400
-url: /net/com.aspose.html/htmlmenuelement/
+url: /java/com.aspose.html/htmlmenuelement/
 ---
 ## HTMLMenuElement class
 

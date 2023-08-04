@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is in milliseconds
 type: docs
 weight: 160
-url: /net/com.aspose.html.drawing/unittype/ms/
+url: /java/com.aspose.html.drawing/unittype/ms/
 ---
 ## UnitType.Ms field
 

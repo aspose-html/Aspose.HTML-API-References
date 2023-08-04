@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document property. The location of the document
 type: docs
 weight: 160
-url: /net/com.aspose.html.dom/document/location/
+url: /java/com.aspose.html.dom/document/location/
 ---
 ## Document.Location property
 

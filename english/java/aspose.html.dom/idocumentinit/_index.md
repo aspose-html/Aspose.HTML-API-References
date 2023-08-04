@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.IDocumentInit interface. This interface provides Document initialization info
 type: docs
 weight: 910
-url: /net/com.aspose.html.dom/idocumentinit/
+url: /java/com.aspose.html.dom/idocumentinit/
 ---
 ## IDocumentInit interface
 

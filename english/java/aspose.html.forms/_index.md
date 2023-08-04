@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: The package provides access to numerous objects elements which are responsible to user interactivity within form as web page component
 type: docs
 weight: 230
-url: /net/com.aspose.html.forms/
+url: /java/com.aspose.html.forms/
 ---
 The package provides access to numerous objects (elements) which are responsible to user interactivity within form as web page component.
 

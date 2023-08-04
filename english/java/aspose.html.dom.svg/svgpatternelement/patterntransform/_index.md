@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPatternElement property. Corresponds to attribute patternTransform on the given pattern element
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg/svgpatternelement/patterntransform/
+url: /java/com.aspose.html.dom.svg/svgpatternelement/patterntransform/
 ---
 ## SVGPatternElement.PatternTransform property
 

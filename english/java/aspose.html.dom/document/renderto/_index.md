@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document method. This method is used to render the contents of the current document to a specified graphical device
 type: docs
 weight: 1040
-url: /net/com.aspose.html.dom/document/renderto/
+url: /java/com.aspose.html.dom/document/renderto/
 ---
 ## Document.RenderTo method
 

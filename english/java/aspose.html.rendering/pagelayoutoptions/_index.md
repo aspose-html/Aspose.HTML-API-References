@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.PageLayoutOptions enum. Specifies flags that together with other PageSetup options determine sizes and layouts of pages. These flags can be combined together according to their descriptions
 type: docs
 weight: 4410
-url: /net/com.aspose.html.rendering/pagelayoutoptions/
+url: /java/com.aspose.html.rendering/pagelayoutoptions/
 ---
 ## PageLayoutOptions enumeration
 

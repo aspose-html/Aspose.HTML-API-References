@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NodeIterator method. Defines the interface for get the next node
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax/nodeiterator/nextnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/nodeiterator/nextnode/
 ---
 ## NodeIterator.NextNode method
 

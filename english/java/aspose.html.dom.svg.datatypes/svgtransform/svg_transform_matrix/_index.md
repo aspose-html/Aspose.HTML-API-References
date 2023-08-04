@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTransform field. A matrix transformation
 type: docs
 weight: 110
-url: /net/com.aspose.html.dom.svg.datatypes/svgtransform/svg_transform_matrix/
+url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/svg_transform_matrix/
 ---
 ## SVGTransform.SVG_TRANSFORM_MATRIX field
 

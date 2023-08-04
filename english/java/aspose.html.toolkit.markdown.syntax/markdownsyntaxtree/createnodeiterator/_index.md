@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxTree method. Defines the interface for create of the node iterator
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/createnodeiterator/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/createnodeiterator/
 ---
 ## CreateNodeIterator(MarkdownSyntaxNodeFilter) {#createnodeiterator_2}
 

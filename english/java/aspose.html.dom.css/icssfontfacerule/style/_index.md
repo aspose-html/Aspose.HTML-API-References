@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSFontFaceRule property. The read-only style property of the CSSFontFaceRule interface returns the style information from the font-face at-rule. This will be in the form of a CSSStyleDeclaration object
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.css/icssfontfacerule/style/
+url: /java/com.aspose.html.dom.css/icssfontfacerule/style/
 ---
 ## ICSSFontFaceRule.Style property
 

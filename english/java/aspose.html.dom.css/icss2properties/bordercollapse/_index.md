@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property selects a tables border model. The value separate selects the separated borders border model. The value collapse selects the collapsing borders model. The models are described below
 type: docs
 weight: 130
-url: /net/com.aspose.html.dom.css/icss2properties/bordercollapse/
+url: /java/com.aspose.html.dom.css/icss2properties/bordercollapse/
 ---
 ## ICSS2Properties.BorderCollapse property
 

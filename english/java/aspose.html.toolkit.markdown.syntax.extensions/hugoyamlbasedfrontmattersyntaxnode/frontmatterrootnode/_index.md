@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HugoYamlBasedFrontMatterSyntaxNode property. Get and set the RootNode
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/frontmatterrootnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/frontmatterrootnode/
 ---
 ## HugoYamlBasedFrontMatterSyntaxNode.FrontMatterRootNode property
 

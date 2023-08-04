@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node property. The attributes property returns a live collection of all attribute nodes registered to the specified node. Attributes is a key/value pair of Strings that represents any information regarding that attribute
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom/node/attributes/
+url: /java/com.aspose.html.dom/node/attributes/
 ---
 ## Node.Attributes property
 

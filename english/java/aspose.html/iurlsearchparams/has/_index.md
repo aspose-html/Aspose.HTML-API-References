@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IUrlSearchParams method. Checks if there is a name-value pair whose name is name in list
 type: docs
 weight: 50
-url: /net/com.aspose.html/iurlsearchparams/has/
+url: /java/com.aspose.html/iurlsearchparams/has/
 ---
 ## IUrlSearchParams.Has method
 

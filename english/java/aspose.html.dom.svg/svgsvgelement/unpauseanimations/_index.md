@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGSVGElement method. Unsuspends i.e. unpauses currently running animations that are defined within the SVG document fragment causing the animation clock to continue from the time at which it was suspended
 type: docs
 weight: 240
-url: /net/com.aspose.html.dom.svg/svgsvgelement/unpauseanimations/
+url: /java/com.aspose.html.dom.svg/svgsvgelement/unpauseanimations/
 ---
 ## SVGSVGElement.UnpauseAnimations method
 

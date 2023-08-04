@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Emphasis enum. Represents the Emphasis
 type: docs
 weight: 4860
-url: /net/com.aspose.html.toolkit.markdown.syntax/emphasis/
+url: /java/com.aspose.html.toolkit.markdown.syntax/emphasis/
 ---
 ## Emphasis enumeration
 

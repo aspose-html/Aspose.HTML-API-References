@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.Image.TextOptions class. Represents text rendering options for ImageDevice
 type: docs
 weight: 4370
-url: /net/com.aspose.html.rendering.image/textoptions/
+url: /java/com.aspose.html.rendering.image/textoptions/
 ---
 ## TextOptions class
 

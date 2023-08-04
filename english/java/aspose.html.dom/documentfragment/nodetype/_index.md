@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DocumentFragment property. A code representing the type of the underlying object
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom/documentfragment/nodetype/
+url: /java/com.aspose.html.dom/documentfragment/nodetype/
 ---
 ## DocumentFragment.NodeType property
 

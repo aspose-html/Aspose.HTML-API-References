@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTransform method. Sets the transform type to SVG_TRANSFORM_SKEWX with parameter angle defining the amount of skew
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.svg.datatypes/svgtransform/setskewx/
+url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/setskewx/
 ---
 ## SVGTransform.SetSkewX method
 

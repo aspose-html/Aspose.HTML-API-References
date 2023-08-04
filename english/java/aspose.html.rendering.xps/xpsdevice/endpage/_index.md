@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: XpsDevice method. Ends rendering of the current page
 type: docs
 weight: 110
-url: /net/com.aspose.html.rendering.xps/xpsdevice/endpage/
+url: /java/com.aspose.html.rendering.xps/xpsdevice/endpage/
 ---
 ## XpsDevice.EndPage method
 

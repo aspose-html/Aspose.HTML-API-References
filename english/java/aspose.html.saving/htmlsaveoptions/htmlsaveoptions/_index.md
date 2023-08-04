@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLSaveOptions constructor. The default constructor
 type: docs
 weight: 10
-url: /net/com.aspose.html.saving/htmlsaveoptions/htmlsaveoptions/
+url: /java/com.aspose.html.saving/htmlsaveoptions/htmlsaveoptions/
 ---
 ## HTMLSaveOptions constructor
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HugoYamlBasedFrontMatterSyntaxNode method. Defines the interface for find T by String Path
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/find/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/find/
 ---
 ## HugoYamlBasedFrontMatterSyntaxNode.Find&lt;T&gt; method
 

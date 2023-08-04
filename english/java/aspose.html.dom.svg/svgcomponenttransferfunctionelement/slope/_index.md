@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGComponentTransferFunctionElement property. Corresponds to attribute slope on the given element
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/slope/
+url: /java/com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/slope/
 ---
 ## SVGComponentTransferFunctionElement.Slope property
 

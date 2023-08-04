@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPatternElement property. Corresponds to attribute x on the given pattern element
 type: docs
 weight: 120
-url: /net/com.aspose.html.dom.svg/svgpatternelement/x/
+url: /java/com.aspose.html.dom.svg/svgpatternelement/x/
 ---
 ## SVGPatternElement.X property
 

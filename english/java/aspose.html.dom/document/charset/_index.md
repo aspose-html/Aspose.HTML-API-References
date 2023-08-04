@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document property. Gets the documents encoding
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom/document/charset/
+url: /java/com.aspose.html.dom/document/charset/
 ---
 ## Document.Charset property
 

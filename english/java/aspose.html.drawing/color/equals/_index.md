@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Determines whether the specified Color is equal to this instance
 type: docs
 weight: 300
-url: /net/com.aspose.html.drawing/color/equals/
+url: /java/com.aspose.html.drawing/color/equals/
 ---
 ## Color.Equals method
 

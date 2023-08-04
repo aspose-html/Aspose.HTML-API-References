@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.Device class. Represents a base class for implementing rendering devices that are used to draw graphics in various formats and environments
 type: docs
 weight: 4160
-url: /net/com.aspose.html.rendering/device/
+url: /java/com.aspose.html.rendering/device/
 ---
 ## Device class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Creates copy of the Color with specified Hue
 type: docs
 weight: 460
-url: /net/com.aspose.html.drawing/color/withhue/
+url: /java/com.aspose.html.drawing/color/withhue/
 ---
 ## Color.WithHue method
 

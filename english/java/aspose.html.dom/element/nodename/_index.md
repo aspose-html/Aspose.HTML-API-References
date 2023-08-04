@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Element property. The name of this node depending on its type
 type: docs
 weight: 140
-url: /net/com.aspose.html.dom/element/nodename/
+url: /java/com.aspose.html.dom/element/nodename/
 ---
 ## Element.NodeName property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates TextSyntaxNode
 type: docs
 weight: 110
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/escapedcharacter/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/escapedcharacter/
 ---
 ## EscapedCharacter(char) {#escapedcharacter_1}
 

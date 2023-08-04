@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IColorComponents property. Returns the alpha component
 type: docs
 weight: 10
-url: /net/com.aspose.html.drawing/icolorcomponents/alpha/
+url: /java/com.aspose.html.drawing/icolorcomponents/alpha/
 ---
 ## IColorComponents.Alpha property
 

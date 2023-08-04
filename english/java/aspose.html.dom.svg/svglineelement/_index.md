@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGLineElement class. The SVGLineElement interface corresponds to the line element
 type: docs
 weight: 2140
-url: /net/com.aspose.html.dom.svg/svglineelement/
+url: /java/com.aspose.html.dom.svg/svglineelement/
 ---
 ## SVGLineElement class
 

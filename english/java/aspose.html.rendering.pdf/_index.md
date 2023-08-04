@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.Rendering.Pdf package provides specific device class as well as few rendering options classes responsible for rendering to a pdf document
 type: docs
 weight: 340
-url: /net/com.aspose.html.rendering.pdf/
+url: /java/com.aspose.html.rendering.pdf/
 ---
 The **com.aspose.html.Rendering.Pdf** package provides specific device class as well as few rendering options classes responsible for rendering to a pdf document.
 

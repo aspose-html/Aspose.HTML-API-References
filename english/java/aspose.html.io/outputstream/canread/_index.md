@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OutputStream property. Gets a value indicating whether the wrapped output stream supports reading
 type: docs
 weight: 20
-url: /net/com.aspose.html.io/outputstream/canread/
+url: /java/com.aspose.html.io/outputstream/canread/
 ---
 ## OutputStream.CanRead property
 

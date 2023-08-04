@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. These properties set the top right bottom and left padding of a box
 type: docs
 weight: 840
-url: /net/com.aspose.html.dom.css/icss2properties/paddingtop/
+url: /java/com.aspose.html.dom.css/icss2properties/paddingtop/
 ---
 ## ICSS2Properties.PaddingTop property
 

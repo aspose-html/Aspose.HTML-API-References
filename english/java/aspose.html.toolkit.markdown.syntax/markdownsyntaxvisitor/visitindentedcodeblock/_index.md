@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit IndentedCodeBlockSyntax
 type: docs
 weight: 130
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitindentedcodeblock/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitindentedcodeblock/
 ---
 ## MarkdownSyntaxVisitor.VisitIndentedCodeBlock method
 

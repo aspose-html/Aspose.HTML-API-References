@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Mutations.MutationObserver class. A object can be used to observe mutations to the tree of 
 type: docs
 weight: 980
-url: /net/com.aspose.html.dom.mutations/mutationobserver/
+url: /java/com.aspose.html.dom.mutations/mutationobserver/
 ---
 ## MutationObserver class
 

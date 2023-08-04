@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is in degrees
 type: docs
 weight: 40
-url: /net/com.aspose.html.drawing/unittype/deg/
+url: /java/com.aspose.html.drawing/unittype/deg/
 ---
 ## UnitType.Deg field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLTableCellElement class. The object used to represent the TH and TDelements. See the TD element definition in HTML 4.01
 type: docs
 weight: 3560
-url: /net/com.aspose.html/htmltablecellelement/
+url: /java/com.aspose.html/htmltablecellelement/
 ---
 ## HTMLTableCellElement class
 

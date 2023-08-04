@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGMaskElement property. Corresponds to attribute requiredFeatures on the given element
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.svg/svgmaskelement/requiredfeatures/
+url: /java/com.aspose.html.dom.svg/svgmaskelement/requiredfeatures/
 ---
 ## SVGMaskElement.RequiredFeatures property
 

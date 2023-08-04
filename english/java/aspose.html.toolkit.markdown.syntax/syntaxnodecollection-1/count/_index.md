@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SyntaxNodeCollection property. Gets the number of values in the collection
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/count/
+url: /java/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/count/
 ---
 ## SyntaxNodeCollection&lt;T&gt;.Count property
 

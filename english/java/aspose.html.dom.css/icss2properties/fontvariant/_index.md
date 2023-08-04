@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. In a small-caps font the glyphs for lowercase letters look similar to the uppercase ones but in a smaller size and with slightly different proportions. The font-variant property requests such a font for bicameral having two cases as with Latin script. This property has no visible effect for scripts that are unicameral having only one case as with most of the worlds writing systems
 type: docs
 weight: 530
-url: /net/com.aspose.html.dom.css/icss2properties/fontvariant/
+url: /java/com.aspose.html.dom.css/icss2properties/fontvariant/
 ---
 ## ICSS2Properties.FontVariant property
 

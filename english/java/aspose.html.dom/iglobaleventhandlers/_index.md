@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.IGlobalEventHandlers interface. Represents interface that must be inherited by all element that is supported system event handling
 type: docs
 weight: 930
-url: /net/com.aspose.html.dom/iglobaleventhandlers/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/
 ---
 ## IGlobalEventHandlers interface
 

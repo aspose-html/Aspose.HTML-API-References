@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IXPathResult property. The value of this single node result which may be null
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.xpath/ixpathresult/singlenodevalue/
+url: /java/com.aspose.html.dom.xpath/ixpathresult/singlenodevalue/
 ---
 ## IXPathResult.SingleNodeValue property
 

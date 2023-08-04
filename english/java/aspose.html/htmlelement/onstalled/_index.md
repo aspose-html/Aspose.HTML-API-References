@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnStalled event
 type: docs
 weight: 500
-url: /net/com.aspose.html/htmlelement/onstalled/
+url: /java/com.aspose.html/htmlelement/onstalled/
 ---
 ## HTMLElement.OnStalled event
 

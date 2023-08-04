@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: BlockSyntaxDescriptor method. Defines the interface for set attribute
 type: docs
 weight: 100
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/setattributevalue/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/setattributevalue/
 ---
 ## BlockSyntaxDescriptor.SetAttributeValue&lt;T&gt; method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Drawing.Numeric class. Provides the base class for numeric types
 type: docs
 weight: 2810
-url: /net/com.aspose.html.drawing/numeric/
+url: /java/com.aspose.html.drawing/numeric/
 ---
 ## Numeric class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SelectElement property. The type of this form control. This is the String select-multiple when the multiple attribute is true and the String select-one when false
 type: docs
 weight: 60
-url: /net/com.aspose.html.forms/selectelement/type/
+url: /java/com.aspose.html.forms/selectelement/type/
 ---
 ## SelectElement.Type property
 

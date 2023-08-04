@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. If a background image is specified this property specifies whether the image is repeated tiled and how. All tiling covers the content and padding areas of a box. Values have the following meanings
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.css/icss2properties/backgroundrepeat/
+url: /java/com.aspose.html.dom.css/icss2properties/backgroundrepeat/
 ---
 ## ICSS2Properties.BackgroundRepeat property
 

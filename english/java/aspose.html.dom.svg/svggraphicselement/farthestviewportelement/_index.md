@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGGraphicsElement property. The farthest ancestor svg element. Null if the current element is the outermost svg element
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg/svggraphicselement/farthestviewportelement/
+url: /java/com.aspose.html.dom.svg/svggraphicselement/farthestviewportelement/
 ---
 ## SVGGraphicsElement.FarthestViewportElement property
 

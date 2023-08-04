@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDevice method. Appends a straight line segment from the current point to the point pt. The new current point is pt
 type: docs
 weight: 160
-url: /net/com.aspose.html.rendering.pdf/pdfdevice/lineto/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice/lineto/
 ---
 ## PdfDevice.LineTo method
 

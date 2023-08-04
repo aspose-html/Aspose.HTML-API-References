@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Length method. 
 type: docs
 weight: 20
-url: /net/com.aspose.html.drawing/length/op_equality/
+url: /java/com.aspose.html.drawing/length/op_equality/
 ---
 ## Length Equality operator
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: INonElementParentNode method. Returns the first element within nodes descendants whose ID is elementId
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom/inonelementparentnode/getelementbyid/
+url: /java/com.aspose.html.dom/inonelementparentnode/getelementbyid/
 ---
 ## INonElementParentNode.GetElementById method
 

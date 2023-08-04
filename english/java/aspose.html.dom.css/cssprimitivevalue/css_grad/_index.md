@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CSSPrimitiveValue field. The value is an angle grad. The value can be obtained by using the getFloatValue method
 type: docs
 weight: 220
-url: /net/com.aspose.html.dom.css/cssprimitivevalue/css_grad/
+url: /java/com.aspose.html.dom.css/cssprimitivevalue/css_grad/
 ---
 ## CSSPrimitiveValue.CSS_GRAD field
 

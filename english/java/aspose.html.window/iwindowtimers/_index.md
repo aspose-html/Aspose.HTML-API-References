@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Window.IWindowTimers interface. Allows authors to schedule timer-based callbacks
 type: docs
 weight: 5870
-url: /net/com.aspose.html.window/iwindowtimers/
+url: /java/com.aspose.html.window/iwindowtimers/
 ---
 ## IWindowTimers interface
 

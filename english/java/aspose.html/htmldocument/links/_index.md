@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLDocument property. A collection of all AREA elements and anchor A elements in a document with a value for the href attribute
 type: docs
 weight: 80
-url: /net/com.aspose.html/htmldocument/links/
+url: /java/com.aspose.html/htmldocument/links/
 ---
 ## HTMLDocument.Links property
 

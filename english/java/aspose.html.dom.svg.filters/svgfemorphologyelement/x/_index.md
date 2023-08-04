@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEMorphologyElement property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.svg.filters/svgfemorphologyelement/x/
+url: /java/com.aspose.html.dom.svg.filters/svgfemorphologyelement/x/
 ---
 ## SVGFEMorphologyElement.X property
 

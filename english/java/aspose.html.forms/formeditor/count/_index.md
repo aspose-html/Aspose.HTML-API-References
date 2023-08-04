@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FormEditor property. The number of form controls in the form
 type: docs
 weight: 40
-url: /net/com.aspose.html.forms/formeditor/count/
+url: /java/com.aspose.html.forms/formeditor/count/
 ---
 ## FormEditor.Count property
 

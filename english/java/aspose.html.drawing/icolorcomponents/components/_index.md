@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IColorComponents property. Returns the color components as float array
 type: docs
 weight: 20
-url: /net/com.aspose.html.drawing/icolorcomponents/components/
+url: /java/com.aspose.html.drawing/icolorcomponents/components/
 ---
 ## IColorComponents.Components property
 

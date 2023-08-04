@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGSVGElement class. A key interface definition is the SVGSVGElement interface which is the interface that corresponds to the svg element. This interface contains various miscellaneous commonly-used utility methods such as matrix operations and the ability to control the time of redraw on visual rendering devices
 type: docs
 weight: 2270
-url: /net/com.aspose.html.dom.svg/svgsvgelement/
+url: /java/com.aspose.html.dom.svg/svgsvgelement/
 ---
 ## SVGSVGElement class
 

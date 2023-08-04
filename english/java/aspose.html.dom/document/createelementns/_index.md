@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document method. Creates an element of the given qualified name and package URI
 type: docs
 weight: 860
-url: /net/com.aspose.html.dom/document/createelementns/
+url: /java/com.aspose.html.dom/document/createelementns/
 ---
 ## Document.CreateElementNS method
 

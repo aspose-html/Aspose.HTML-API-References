@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates ListItemMarker
 type: docs
 weight: 290
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/listitemmarker/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/listitemmarker/
 ---
 ## ListItemMarker(MarkdownSyntaxToken, MarkdownSyntaxToken) {#listitemmarker_1}
 

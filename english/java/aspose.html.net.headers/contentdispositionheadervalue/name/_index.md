@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ContentDispositionHeaderValue property. The name for a content body part
 type: docs
 weight: 40
-url: /net/com.aspose.html.net.headers/contentdispositionheadervalue/name/
+url: /java/com.aspose.html.net.headers/contentdispositionheadervalue/name/
 ---
 ## ContentDispositionHeaderValue.Name property
 

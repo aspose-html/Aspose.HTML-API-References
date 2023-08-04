@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMTokenList method. Removes the specified tokens from the list
 type: docs
 weight: 70
-url: /net/com.aspose.html.collections/domtokenlist/remove/
+url: /java/com.aspose.html.collections/domtokenlist/remove/
 ---
 ## DOMTokenList.Remove method
 

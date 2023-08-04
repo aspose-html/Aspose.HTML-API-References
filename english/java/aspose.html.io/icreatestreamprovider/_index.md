@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.IO.ICreateStreamProvider interface. Represents an interface that can be implemented by classes providing streams to the rendering devices
 type: docs
 weight: 3730
-url: /net/com.aspose.html.io/icreatestreamprovider/
+url: /java/com.aspose.html.io/icreatestreamprovider/
 ---
 ## ICreateStreamProvider interface
 

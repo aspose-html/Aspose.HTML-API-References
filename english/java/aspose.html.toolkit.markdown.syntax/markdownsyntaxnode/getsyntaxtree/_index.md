@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode method. Get the syntax tree
 type: docs
 weight: 100
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getsyntaxtree/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getsyntaxtree/
 ---
 ## MarkdownSyntaxNode.GetSyntaxTree method
 

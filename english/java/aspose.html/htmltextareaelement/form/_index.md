@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTextAreaElement property. Returns the FORM element containing this control. Returns null if this control is not within the context of a form
 type: docs
 weight: 50
-url: /net/com.aspose.html/htmltextareaelement/form/
+url: /java/com.aspose.html/htmltextareaelement/form/
 ---
 ## HTMLTextAreaElement.Form property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PageSetup property. Gets or sets AtPagePriority which will determine order of applying page size declarations. By default options will override css page rules 
 type: docs
 weight: 30
-url: /net/com.aspose.html.rendering/pagesetup/atpagepriority/
+url: /java/com.aspose.html.rendering/pagesetup/atpagepriority/
 ---
 ## PageSetup.AtPagePriority property
 

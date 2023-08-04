@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Collections.HTMLCollection class. The HTMLCollection represents a generic collection of Element
 type: docs
 weight: 30
-url: /net/com.aspose.html.collections/htmlcollection/
+url: /java/com.aspose.html.collections/htmlcollection/
 ---
 ## HTMLCollection class
 

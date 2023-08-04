@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a color components in the format of the specified color model
 type: docs
 weight: 290
-url: /net/com.aspose.html.drawing/color/convert/
+url: /java/com.aspose.html.drawing/color/convert/
 ---
 ## Color.Convert method
 

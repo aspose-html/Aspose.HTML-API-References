@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CSSValue field. The value is a custom value
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.css/cssvalue/css_custom/
+url: /java/com.aspose.html.dom.css/cssvalue/css_custom/
 ---
 ## CSSValue.CSS_CUSTOM field
 

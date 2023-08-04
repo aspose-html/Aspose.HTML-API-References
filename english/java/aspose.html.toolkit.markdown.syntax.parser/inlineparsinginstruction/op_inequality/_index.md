@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: InlineParsingInstruction method. 
 type: docs
 weight: 70
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/op_inequality/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/op_inequality/
 ---
 ## InlineParsingInstruction Inequality operator
 

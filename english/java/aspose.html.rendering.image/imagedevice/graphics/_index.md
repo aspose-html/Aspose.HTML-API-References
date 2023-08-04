@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ImageDevice property. Gets the instance of Graphics
 type: docs
 weight: 20
-url: /net/com.aspose.html.rendering.image/imagedevice/graphics/
+url: /java/com.aspose.html.rendering.image/imagedevice/graphics/
 ---
 ## ImageDevice.Graphics property
 

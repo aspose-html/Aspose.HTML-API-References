@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableColElement property. Alignment character for cells in a column. See the char attribute definition in HTML 4.01
 type: docs
 weight: 20
-url: /net/com.aspose.html/htmltablecolelement/ch/
+url: /java/com.aspose.html/htmltablecolelement/ch/
 ---
 ## HTMLTableColElement.Ch property
 

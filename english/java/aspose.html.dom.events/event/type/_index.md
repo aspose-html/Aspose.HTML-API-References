@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Event property. The name of the event case-insensitive. The name must be an XML name
 type: docs
 weight: 100
-url: /net/com.aspose.html.dom.events/event/type/
+url: /java/com.aspose.html.dom.events/event/type/
 ---
 ## Event.Type property
 

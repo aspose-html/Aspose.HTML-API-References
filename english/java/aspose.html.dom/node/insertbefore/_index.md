@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node method. The insertBefore method of the Node interface inserts a node before a reference node as a child of a specified parent node
 type: docs
 weight: 220
-url: /net/com.aspose.html.dom/node/insertbefore/
+url: /java/com.aspose.html.dom/node/insertbefore/
 ---
 ## Node.InsertBefore method
 

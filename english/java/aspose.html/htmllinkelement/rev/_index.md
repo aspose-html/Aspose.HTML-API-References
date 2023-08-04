@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLLinkElement property. Reverse link type. See the rev attribute definition in HTML 4.01
 type: docs
 weight: 80
-url: /net/com.aspose.html/htmllinkelement/rev/
+url: /java/com.aspose.html/htmllinkelement/rev/
 ---
 ## HTMLLinkElement.Rev property
 

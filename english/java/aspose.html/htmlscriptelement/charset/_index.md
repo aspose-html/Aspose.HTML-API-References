@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLScriptElement property. The character encoding of the linked resource. See the charset attribute definition in HTML 4.01
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmlscriptelement/charset/
+url: /java/com.aspose.html/htmlscriptelement/charset/
 ---
 ## HTMLScriptElement.Charset property
 

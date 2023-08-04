@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Saving.MHTMLSaveOptions class. Represents MHTML save options. By assigning specific properties you can manage resource processing such as max handling depth and so on. More info see in documentation article
 type: docs
 weight: 4640
-url: /net/com.aspose.html.saving/mhtmlsaveoptions/
+url: /java/com.aspose.html.saving/mhtmlsaveoptions/
 ---
 ## MHTMLSaveOptions class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLLegendElement property. Returns the FORM element containing this control. Returns null if this control is not within the context of a form
 type: docs
 weight: 30
-url: /net/com.aspose.html/htmllegendelement/form/
+url: /java/com.aspose.html/htmllegendelement/form/
 ---
 ## HTMLLegendElement.Form property
 

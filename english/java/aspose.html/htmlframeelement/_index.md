@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLFrameElement class. Create a frame. See the FRAME element definition in HTML 4.01
 type: docs
 weight: 3250
-url: /net/com.aspose.html/htmlframeelement/
+url: /java/com.aspose.html/htmlframeelement/
 ---
 ## HTMLFrameElement class
 

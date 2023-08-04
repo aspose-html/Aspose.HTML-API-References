@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: XpsGraphicContext constructor. The default constructor
 type: docs
 weight: 10
-url: /net/com.aspose.html.rendering.xps/xpsdevice.xpsgraphiccontext/xpsgraphiccontext/
+url: /java/com.aspose.html.rendering.xps/xpsdevice.xpsgraphiccontext/xpsgraphiccontext/
 ---
 ## XpsDevice.XpsGraphicContext constructor
 

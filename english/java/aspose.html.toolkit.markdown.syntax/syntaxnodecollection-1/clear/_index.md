@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SyntaxNodeCollection method. Removes all items from the collection
 type: docs
 weight: 60
-url: /net/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/clear/
+url: /java/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/clear/
 ---
 ## SyntaxNodeCollection&lt;T&gt;.Clear method
 

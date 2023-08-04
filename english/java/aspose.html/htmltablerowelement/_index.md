@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLTableRowElement class. A row in a table. See the TR element definition in HTML 4.01
 type: docs
 weight: 3590
-url: /net/com.aspose.html/htmltablerowelement/
+url: /java/com.aspose.html/htmltablerowelement/
 ---
 ## HTMLTableRowElement class
 

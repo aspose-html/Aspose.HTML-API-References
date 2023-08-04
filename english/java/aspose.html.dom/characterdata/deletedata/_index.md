@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CharacterData method. Remove a range of 16-bit units from the node
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom/characterdata/deletedata/
+url: /java/com.aspose.html.dom/characterdata/deletedata/
 ---
 ## CharacterData.DeleteData method
 

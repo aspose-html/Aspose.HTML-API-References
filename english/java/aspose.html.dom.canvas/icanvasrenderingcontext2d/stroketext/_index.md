@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Draws strokes a given text at the given x y position
 type: docs
 weight: 390
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/stroketext/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/stroketext/
 ---
 ## StrokeText(String, double, double) {#stroketext}
 

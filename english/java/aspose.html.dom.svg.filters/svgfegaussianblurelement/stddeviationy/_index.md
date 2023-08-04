@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEGaussianBlurElement property. Corresponds to attribute stdDeviation on the given feGaussianBlur element. Contains the Y component possibly computed automatically of attribute stdDeviation
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.svg.filters/svgfegaussianblurelement/stddeviationy/
+url: /java/com.aspose.html.dom.svg.filters/svgfegaussianblurelement/stddeviationy/
 ---
 ## SVGFEGaussianBlurElement.StdDeviationY property
 

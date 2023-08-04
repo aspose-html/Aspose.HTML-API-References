@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Converter method. Convert EPUB source presented by file path to image. Result is image file formed by implementation of ICreateStreamProvider interface
 type: docs
 weight: 10
-url: /net/com.aspose.html.converters/converter/convertepub/
+url: /java/com.aspose.html.converters/converter/convertepub/
 ---
 ## ConvertEPUB(String, ImageSaveOptions, ICreateStreamProvider) {#convertepub_42}
 

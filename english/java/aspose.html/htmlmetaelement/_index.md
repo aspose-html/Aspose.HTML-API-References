@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLMetaElement class. This contains generic meta-information about the document. See the META element definition in HTML 4.01
 type: docs
 weight: 3410
-url: /net/com.aspose.html/htmlmetaelement/
+url: /java/com.aspose.html/htmlmetaelement/
 ---
 ## HTMLMetaElement class
 

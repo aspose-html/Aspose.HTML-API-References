@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: XpsDevice method. Fills the specified text String at the specified location
 type: docs
 weight: 130
-url: /net/com.aspose.html.rendering.xps/xpsdevice/filltext/
+url: /java/com.aspose.html.rendering.xps/xpsdevice/filltext/
 ---
 ## XpsDevice.FillText method
 

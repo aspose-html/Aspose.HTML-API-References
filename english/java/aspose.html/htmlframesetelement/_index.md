@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLFrameSetElement class. Create a grid of frames. See the FRAMESET element definition in HTML 4.01
 type: docs
 weight: 3260
-url: /net/com.aspose.html/htmlframesetelement/
+url: /java/com.aspose.html/htmlframesetelement/
 ---
 ## HTMLFrameSetElement class
 

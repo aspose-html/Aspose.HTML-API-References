@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Device method. Fills the specified text String at the specified location
 type: docs
 weight: 160
-url: /net/com.aspose.html.rendering/device-2/filltext/
+url: /java/com.aspose.html.rendering/device-2/filltext/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.FillText method
 

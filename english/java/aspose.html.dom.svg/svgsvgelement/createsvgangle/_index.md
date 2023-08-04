@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGSVGElement method. Creates an SVGAngle object outside of any document trees. The object is initialized to the value 0 degrees unitless
 type: docs
 weight: 120
-url: /net/com.aspose.html.dom.svg/svgsvgelement/createsvgangle/
+url: /java/com.aspose.html.dom.svg/svgsvgelement/createsvgangle/
 ---
 ## SVGSVGElement.CreateSVGAngle method
 

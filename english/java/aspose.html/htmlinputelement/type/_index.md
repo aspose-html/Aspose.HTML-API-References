@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLInputElement property. The type of control created all lower case. See the type attribute definition in HTML 4.01. version DOM Level 2
 type: docs
 weight: 180
-url: /net/com.aspose.html/htmlinputelement/type/
+url: /java/com.aspose.html/htmlinputelement/type/
 ---
 ## HTMLInputElement.Type property
 

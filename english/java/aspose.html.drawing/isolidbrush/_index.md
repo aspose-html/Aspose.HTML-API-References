@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Drawing.ISolidBrush interface. Defines brush interface of a single color
 type: docs
 weight: 2740
-url: /net/com.aspose.html.drawing/isolidbrush/
+url: /java/com.aspose.html.drawing/isolidbrush/
 ---
 ## ISolidBrush interface
 

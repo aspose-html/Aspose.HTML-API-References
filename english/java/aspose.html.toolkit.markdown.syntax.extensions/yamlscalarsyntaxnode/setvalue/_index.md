@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: YamlScalarSyntaxNode method. Defines the interface for set value
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/setvalue/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/setvalue/
 ---
 ## YamlScalarSyntaxNode.SetValue method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnMouseOut event
 type: docs
 weight: 340
-url: /net/com.aspose.html/htmlelement/onmouseout/
+url: /java/com.aspose.html/htmlelement/onmouseout/
 ---
 ## HTMLElement.OnMouseOut event
 

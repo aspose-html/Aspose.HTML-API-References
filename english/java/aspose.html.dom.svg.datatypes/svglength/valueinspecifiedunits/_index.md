@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGLength property. The value as a floating point value in the units expressed by unitType. Setting this attribute will cause value and valueAsString to be updated automatically to reflect this setting
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg.datatypes/svglength/valueinspecifiedunits/
+url: /java/com.aspose.html.dom.svg.datatypes/svglength/valueinspecifiedunits/
 ---
 ## SVGLength.ValueInSpecifiedUnits property
 

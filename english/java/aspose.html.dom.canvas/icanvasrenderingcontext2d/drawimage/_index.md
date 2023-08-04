@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Draws the specified image
 type: docs
 weight: 210
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/drawimage/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/drawimage/
 ---
 ## DrawImage(HTMLImageElement, double, double) {#drawimage_3}
 

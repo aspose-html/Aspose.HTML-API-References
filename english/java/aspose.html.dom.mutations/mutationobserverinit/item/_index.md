@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit property. Gets or sets the element with the specified key
 type: docs
 weight: 100
-url: /net/com.aspose.html.dom.mutations/mutationobserverinit/item/
+url: /java/com.aspose.html.dom.mutations/mutationobserverinit/item/
 ---
 ## MutationObserverInit indexer
 

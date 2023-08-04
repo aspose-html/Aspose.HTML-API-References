@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. Values of this property have the following meanings
 type: docs
 weight: 440
-url: /net/com.aspose.html.dom.css/icss2properties/elevation/
+url: /java/com.aspose.html.dom.css/icss2properties/elevation/
 ---
 ## ICSS2Properties.Elevation property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: WheelEvent constructor. Initializes a new instance of the WheelEvent class
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.events/wheelevent/wheelevent/
+url: /java/com.aspose.html.dom.events/wheelevent/wheelevent/
 ---
 ## WheelEvent(String) {#constructor}
 

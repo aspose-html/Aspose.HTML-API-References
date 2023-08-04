@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. Values for this property have the following meanings
 type: docs
 weight: 1130
-url: /net/com.aspose.html.dom.css/icss2properties/unicodebidi/
+url: /java/com.aspose.html.dom.css/icss2properties/unicodebidi/
 ---
 ## ICSS2Properties.UnicodeBidi property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.DelimiterState enum. Defines the DelimiterState enum
 type: docs
 weight: 5350
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/delimiterstate/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/delimiterstate/
 ---
 ## DelimiterState enumeration
 

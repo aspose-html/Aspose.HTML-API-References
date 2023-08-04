@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnReadyStateChange event
 type: docs
 weight: 640
-url: /net/com.aspose.html.dom/document/onreadystatechange/
+url: /java/com.aspose.html.dom/document/onreadystatechange/
 ---
 ## Document.OnReadyStateChange event
 

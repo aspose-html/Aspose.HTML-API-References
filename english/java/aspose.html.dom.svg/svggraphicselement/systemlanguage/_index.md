@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGGraphicsElement property. Corresponds to attribute systemLanguage on the given element
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.svg/svggraphicselement/systemlanguage/
+url: /java/com.aspose.html.dom.svg/svggraphicselement/systemlanguage/
 ---
 ## SVGGraphicsElement.SystemLanguage property
 

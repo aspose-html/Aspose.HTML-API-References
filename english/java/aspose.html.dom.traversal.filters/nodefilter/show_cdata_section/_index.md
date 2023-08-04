@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NodeFilter field. Show CDATASection nodes
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.traversal.filters/nodefilter/show_cdata_section/
+url: /java/com.aspose.html.dom.traversal.filters/nodefilter/show_cdata_section/
 ---
 ## NodeFilter.SHOW_CDATA_SECTION field
 

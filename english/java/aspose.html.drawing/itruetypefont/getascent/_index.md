@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ITrueTypeFont method. Returns the ascent in points
 type: docs
 weight: 50
-url: /net/com.aspose.html.drawing/itruetypefont/getascent/
+url: /java/com.aspose.html.drawing/itruetypefont/getascent/
 ---
 ## ITrueTypeFont.GetAscent method
 

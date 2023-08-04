@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegCurvetoCubicAbs property. The absolute X coordinate for the end point of this path segment
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.paths/svgpathsegcurvetocubicabs/x/
+url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetocubicabs/x/
 ---
 ## SVGPathSegCurvetoCubicAbs.X property
 

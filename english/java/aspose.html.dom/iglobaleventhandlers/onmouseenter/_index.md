@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnMouseEnter event
 type: docs
 weight: 250
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onmouseenter/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onmouseenter/
 ---
 ## IGlobalEventHandlers.OnMouseEnter event
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Forms.InputElementType enum. Represent states of the input field
 type: docs
 weight: 3000
-url: /net/com.aspose.html.forms/inputelementtype/
+url: /java/com.aspose.html.forms/inputelementtype/
 ---
 ## InputElementType enumeration
 

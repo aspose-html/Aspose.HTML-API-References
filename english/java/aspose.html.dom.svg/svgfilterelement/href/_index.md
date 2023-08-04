@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFilterElement property. Corresponds to attribute xlinkhref on the given element
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg/svgfilterelement/href/
+url: /java/com.aspose.html.dom.svg/svgfilterelement/href/
 ---
 ## SVGFilterElement.Href property
 

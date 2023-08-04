@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FormElement property. Gets the HTMLElement
 type: docs
 weight: 10
-url: /net/com.aspose.html.forms/formelement-1/htmlelement/
+url: /java/com.aspose.html.forms/formelement-1/htmlelement/
 ---
 ## FormElement&lt;T&gt;.HtmlElement property
 

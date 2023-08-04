@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TaskListItemSyntaxNode method. Defines the interface for get checked status
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/tasklistitemsyntaxnode/ischecked/
+url: /java/com.aspose.html.toolkit.markdown.syntax/tasklistitemsyntaxnode/ischecked/
 ---
 ## TaskListItemSyntaxNode.IsChecked method
 

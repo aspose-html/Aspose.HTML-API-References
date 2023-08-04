@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEConvolveMatrixElement property. Corresponds to attribute kernelUnitLength on the given feConvolveMatrix element
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/kernelunitlengthx/
+url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/kernelunitlengthx/
 ---
 ## SVGFEConvolveMatrixElement.KernelUnitLengthX property
 

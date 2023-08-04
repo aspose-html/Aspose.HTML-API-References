@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: YamlMappingSyntaxNode constructor. 
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/yamlmappingsyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/yamlmappingsyntaxnode/
 ---
 ## YamlMappingSyntaxNode constructor
 

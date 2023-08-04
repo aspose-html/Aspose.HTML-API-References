@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: XpsGraphicContext method. Creates a new instance of a XpsGraphicContext class with the same property values as an existing instance
 type: docs
 weight: 20
-url: /net/com.aspose.html.rendering.xps/xpsdevice.xpsgraphiccontext/clone/
+url: /java/com.aspose.html.rendering.xps/xpsdevice.xpsgraphiccontext/clone/
 ---
 ## XpsDevice.XpsGraphicContext.Clone method
 

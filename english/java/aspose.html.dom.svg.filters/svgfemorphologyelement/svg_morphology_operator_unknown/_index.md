@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEMorphologyElement field. The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type
 type: docs
 weight: 120
-url: /net/com.aspose.html.dom.svg.filters/svgfemorphologyelement/svg_morphology_operator_unknown/
+url: /java/com.aspose.html.dom.svg.filters/svgfemorphologyelement/svg_morphology_operator_unknown/
 ---
 ## SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_UNKNOWN field
 

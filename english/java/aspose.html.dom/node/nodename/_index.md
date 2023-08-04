@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node property. The read-only nodeName property of Node returns the name of the current node as a String
 type: docs
 weight: 90
-url: /net/com.aspose.html.dom/node/nodename/
+url: /java/com.aspose.html.dom/node/nodename/
 ---
 ## Node.NodeName property
 

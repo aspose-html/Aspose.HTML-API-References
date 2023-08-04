@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ShadowRoot property. Host is an element which contains this ShadowRoot
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom/shadowroot/host/
+url: /java/com.aspose.html.dom/shadowroot/host/
 ---
 ## ShadowRoot.Host property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLLinkElement class. The LINK element specifies a link to an external resource and defines this documents relationship to that resource or vice versa. See the LINK element definition in HTML 4.01 see also the LinkStyle interface in the StyleSheet module DOM Level 2 Style Sheets and CSS
 type: docs
 weight: 3380
-url: /net/com.aspose.html/htmllinkelement/
+url: /java/com.aspose.html/htmllinkelement/
 ---
 ## HTMLLinkElement class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfGraphicContext property. Sets or gets the brush object that is used for stroked paths
 type: docs
 weight: 70
-url: /net/com.aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/strokebrush/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/strokebrush/
 ---
 ## PdfDevice.PdfGraphicContext.StrokeBrush property
 

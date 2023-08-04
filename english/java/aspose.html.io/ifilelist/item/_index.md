@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IFileList property. Returns the indexth file in the list
 type: docs
 weight: 10
-url: /net/com.aspose.html.io/ifilelist/item/
+url: /java/com.aspose.html.io/ifilelist/item/
 ---
 ## IFileList indexer
 

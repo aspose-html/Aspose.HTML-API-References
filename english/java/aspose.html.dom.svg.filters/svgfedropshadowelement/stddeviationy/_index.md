@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEDropShadowElement property. Corresponds to attribute stdDeviation on the given feDropShadow element. Contains the Y component possibly computed automatically of attribute stdDeviation
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.svg.filters/svgfedropshadowelement/stddeviationy/
+url: /java/com.aspose.html.dom.svg.filters/svgfedropshadowelement/stddeviationy/
 ---
 ## SVGFEDropShadowElement.StdDeviationY property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Converter method. Convert SVG source presented by SVGDocument. Result is docx file formed by output file path
 type: docs
 weight: 50
-url: /net/com.aspose.html.converters/converter/convertsvg/
+url: /java/com.aspose.html.converters/converter/convertsvg/
 ---
 ## ConvertSVG(SVGDocument, DocSaveOptions, String) {#convertsvg_1}
 

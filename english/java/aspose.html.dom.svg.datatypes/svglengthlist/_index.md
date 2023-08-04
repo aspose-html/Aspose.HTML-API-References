@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.DataTypes.SVGLengthList class. This interface defines a list of SVGLength objects
 type: docs
 weight: 1220
-url: /net/com.aspose.html.dom.svg.datatypes/svglengthlist/
+url: /java/com.aspose.html.dom.svg.datatypes/svglengthlist/
 ---
 ## SVGLengthList class
 

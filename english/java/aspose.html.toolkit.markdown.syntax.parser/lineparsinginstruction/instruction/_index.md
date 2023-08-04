@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LineParsingInstruction property. Get the Instruction
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/instruction/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/instruction/
 ---
 ## LineParsingInstruction.Instruction property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegCurvetoQuadraticAbs property. The absolute Y coordinate for the first control point
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticabs/y1/
+url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticabs/y1/
 ---
 ## SVGPathSegCurvetoQuadraticAbs.Y1 property
 

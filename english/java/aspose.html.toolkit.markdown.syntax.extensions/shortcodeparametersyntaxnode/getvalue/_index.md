@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ShortCodeParameterSyntaxNode method. Get String Value
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/getvalue/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/getvalue/
 ---
 ## ShortCodeParameterSyntaxNode.GetValue method
 

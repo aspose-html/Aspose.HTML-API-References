@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEPointLightElement property. Corresponds to attribute x on the given fePointLight element
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.filters/svgfepointlightelement/x/
+url: /java/com.aspose.html.dom.svg.filters/svgfepointlightelement/x/
 ---
 ## SVGFEPointLightElement.X property
 

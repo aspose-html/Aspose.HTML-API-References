@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEMorphologyElement property. Corresponds to attribute in on the given feMorphology element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg.filters/svgfemorphologyelement/in1/
+url: /java/com.aspose.html.dom.svg.filters/svgfemorphologyelement/in1/
 ---
 ## SVGFEMorphologyElement.In1 property
 

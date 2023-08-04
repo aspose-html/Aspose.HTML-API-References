@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLAnchorElement property. Gets or sets a String representation of the scheme segment of the associated URL
 type: docs
 weight: 140
-url: /net/com.aspose.html/htmlanchorelement/protocol/
+url: /java/com.aspose.html/htmlanchorelement/protocol/
 ---
 ## HTMLAnchorElement.Protocol property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document method. Returns the first Element in document which match selector
 type: docs
 weight: 1020
-url: /net/com.aspose.html.dom/document/queryselector/
+url: /java/com.aspose.html.dom/document/queryselector/
 ---
 ## Document.QuerySelector method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PageSetup property. Gets the Odd Page configuration
 type: docs
 weight: 50
-url: /net/com.aspose.html.rendering/pagesetup/leftpage/
+url: /java/com.aspose.html.rendering/pagesetup/leftpage/
 ---
 ## PageSetup.LeftPage property
 

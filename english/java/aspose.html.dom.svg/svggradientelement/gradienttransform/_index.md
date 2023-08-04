@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGGradientElement property. Corresponds to attribute gradientTransform on the given element
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg/svggradientelement/gradienttransform/
+url: /java/com.aspose.html.dom.svg/svggradientelement/gradienttransform/
 ---
 ## SVGGradientElement.GradientTransform property
 

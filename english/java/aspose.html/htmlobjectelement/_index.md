@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLObjectElement class. Generic embedded object.In principle all properties on the object element are read-write but in some environments some properties may be read-only once the underlying object is instantiated. See the OBJECT element definition in HTML 4.01
 type: docs
 weight: 3450
-url: /net/com.aspose.html/htmlobjectelement/
+url: /java/com.aspose.html/htmlobjectelement/
 ---
 ## HTMLObjectElement class
 

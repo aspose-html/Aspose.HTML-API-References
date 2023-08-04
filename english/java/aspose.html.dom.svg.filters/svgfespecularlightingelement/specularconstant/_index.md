@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFESpecularLightingElement property. Corresponds to attribute specularConstant on the given feSpecularLighting element
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/specularconstant/
+url: /java/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/specularconstant/
 ---
 ## SVGFESpecularLightingElement.SpecularConstant property
 

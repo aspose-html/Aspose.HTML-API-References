@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DocumentFragment property. Returns the child elements of current element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom/documentfragment/children/
+url: /java/com.aspose.html.dom/documentfragment/children/
 ---
 ## DocumentFragment.Children property
 

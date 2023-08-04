@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Net.INetwork interface. Provides an interface for network services
 type: docs
 weight: 3950
-url: /net/com.aspose.html.net/inetwork/
+url: /java/com.aspose.html.net/inetwork/
 ---
 ## INetwork interface
 

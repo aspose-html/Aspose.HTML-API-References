@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableCellElement property. Suppress word wrapping. See the nowrap attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01
 type: docs
 weight: 110
-url: /net/com.aspose.html/htmltablecellelement/nowrap/
+url: /java/com.aspose.html/htmltablecellelement/nowrap/
 ---
 ## HTMLTableCellElement.NoWrap property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The border-color property sets the color of the four borders. Values have the following meanings
 type: docs
 weight: 160
-url: /net/com.aspose.html.dom.css/icss2properties/borderleftcolor/
+url: /java/com.aspose.html.dom.css/icss2properties/borderleftcolor/
 ---
 ## ICSS2Properties.BorderLeftColor property
 

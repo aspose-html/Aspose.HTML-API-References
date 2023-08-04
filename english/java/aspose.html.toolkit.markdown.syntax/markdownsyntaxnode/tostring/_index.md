@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode method. Override ToString method
 type: docs
 weight: 150
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/toString/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/toString/
 ---
 ## MarkdownSyntaxNode.ToString method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: AtxHeadingSyntaxNode method. Defines the interface for get ClosingTag
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/atxheadingsyntaxnode/getclosingtag/
+url: /java/com.aspose.html.toolkit.markdown.syntax/atxheadingsyntaxnode/getclosingtag/
 ---
 ## AtxHeadingSyntaxNode.GetClosingTag method
 

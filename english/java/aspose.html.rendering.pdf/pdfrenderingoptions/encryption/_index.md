@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfRenderingOptions property. Gets or sets a encryption details. If not set then no encryption will be performed
 type: docs
 weight: 30
-url: /net/com.aspose.html.rendering.pdf/pdfrenderingoptions/encryption/
+url: /java/com.aspose.html.rendering.pdf/pdfrenderingoptions/encryption/
 ---
 ## PdfRenderingOptions.Encryption property
 

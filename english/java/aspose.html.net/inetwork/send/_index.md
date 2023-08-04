@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: INetwork method. Sends a RequestMessage message
 type: docs
 weight: 10
-url: /net/com.aspose.html.net/inetwork/send/
+url: /java/com.aspose.html.net/inetwork/send/
 ---
 ## INetwork.Send method
 

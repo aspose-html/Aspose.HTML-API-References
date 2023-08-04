@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.DataTypes.SVGAnimatedBoolean class. Used for attributes of type boolean which can be animated
 type: docs
 weight: 1090
-url: /net/com.aspose.html.dom.svg.datatypes/svganimatedboolean/
+url: /java/com.aspose.html.dom.svg.datatypes/svganimatedboolean/
 ---
 ## SVGAnimatedBoolean class
 

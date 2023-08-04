@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ILinearGradientBrush property. Get the starting color of the linear gradient
 type: docs
 weight: 50
-url: /net/com.aspose.html.drawing/ilineargradientbrush/startcolor/
+url: /java/com.aspose.html.drawing/ilineargradientbrush/startcolor/
 ---
 ## ILinearGradientBrush.StartColor property
 

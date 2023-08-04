@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableCellElement property. Number of columns spanned by cell. See the colspan attribute definition in HTML 4.01
 type: docs
 weight: 80
-url: /net/com.aspose.html/htmltablecellelement/colspan/
+url: /java/com.aspose.html/htmltablecellelement/colspan/
 ---
 ## HTMLTableCellElement.ColSpan property
 

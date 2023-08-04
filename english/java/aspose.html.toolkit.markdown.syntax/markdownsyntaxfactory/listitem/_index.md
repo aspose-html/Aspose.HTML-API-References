@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates ListItemSyntaxNode
 type: docs
 weight: 280
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/listitem/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/listitem/
 ---
 ## MarkdownSyntaxFactory.ListItem method
 

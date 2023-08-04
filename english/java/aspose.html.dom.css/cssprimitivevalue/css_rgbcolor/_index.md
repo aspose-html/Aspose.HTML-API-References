@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CSSPrimitiveValue field. The value is a RGB color. The value can be obtained by using the GetRGBColorValue method
 type: docs
 weight: 370
-url: /net/com.aspose.html.dom.css/cssprimitivevalue/css_rgbcolor/
+url: /java/com.aspose.html.dom.css/cssprimitivevalue/css_rgbcolor/
 ---
 ## CSSPrimitiveValue.CSS_RGBCOLOR field
 

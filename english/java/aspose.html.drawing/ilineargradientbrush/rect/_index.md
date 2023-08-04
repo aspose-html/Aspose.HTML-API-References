@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ILinearGradientBrush property. Get a rectangular region that defines the starting and ending points of the gradient
 type: docs
 weight: 40
-url: /net/com.aspose.html.drawing/ilineargradientbrush/rect/
+url: /java/com.aspose.html.drawing/ilineargradientbrush/rect/
 ---
 ## ILinearGradientBrush.Rect property
 

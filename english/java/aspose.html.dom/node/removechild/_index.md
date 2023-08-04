@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node method. The removeChild method of the Node interface removes a child node from the DOM and returns the removed node
 type: docs
 weight: 290
-url: /net/com.aspose.html.dom/node/removechild/
+url: /java/com.aspose.html.dom/node/removechild/
 ---
 ## Node.RemoveChild method
 

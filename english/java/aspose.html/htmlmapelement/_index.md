@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLMapElement class. Client-side image map. See the MAP element definition in HTML 4.01
 type: docs
 weight: 3390
-url: /net/com.aspose.html/htmlmapelement/
+url: /java/com.aspose.html/htmlmapelement/
 ---
 ## HTMLMapElement class
 

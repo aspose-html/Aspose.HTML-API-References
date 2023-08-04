@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Css.CSSValue class. Represents a simple or a complex value. A CSSValue object only occurs in a context of a CSS property
 type: docs
 weight: 350
-url: /net/com.aspose.html.dom.css/cssvalue/
+url: /java/com.aspose.html.dom.css/cssvalue/
 ---
 ## CSSValue class
 

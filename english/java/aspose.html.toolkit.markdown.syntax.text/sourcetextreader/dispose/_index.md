@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SourceTextReader method. Defines the Dispose interface
 type: docs
 weight: 60
-url: /net/com.aspose.html.toolkit.markdown.syntax.text/sourcetextreader/dispose/
+url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetextreader/dispose/
 ---
 ## SourceTextReader.Dispose method
 

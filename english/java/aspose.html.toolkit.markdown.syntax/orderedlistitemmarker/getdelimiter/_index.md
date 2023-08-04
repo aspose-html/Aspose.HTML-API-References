@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OrderedListItemMarker method. Defines the interface for get of the delimiter
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/orderedlistitemmarker/getdelimiter/
+url: /java/com.aspose.html.toolkit.markdown.syntax/orderedlistitemmarker/getdelimiter/
 ---
 ## OrderedListItemMarker.GetDelimiter method
 

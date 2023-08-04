@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies the type of cursor to be displayed for the pointing device
 type: docs
 weight: 410
-url: /net/com.aspose.html.dom.css/icss2properties/cursor/
+url: /java/com.aspose.html.dom.css/icss2properties/cursor/
 ---
 ## ICSS2Properties.Cursor property
 

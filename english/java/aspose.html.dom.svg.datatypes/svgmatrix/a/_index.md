@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGMatrix property. The A component of the matrix
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.datatypes/svgmatrix/a/
+url: /java/com.aspose.html.dom.svg.datatypes/svgmatrix/a/
 ---
 ## SVGMatrix.A property
 

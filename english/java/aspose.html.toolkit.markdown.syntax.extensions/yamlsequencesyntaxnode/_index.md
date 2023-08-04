@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Extensions.YamlSequenceSyntaxNode class. Defines the YamlSequenceSyntaxNode
 type: docs
 weight: 4980
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/
 ---
 ## YamlSequenceSyntaxNode class
 

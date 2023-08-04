@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NamedNodeMap method. Returns an enumerator that iterates through the collection
 type: docs
 weight: 30
-url: /net/com.aspose.html.collections/namednodemap/getenumerator/
+url: /java/com.aspose.html.collections/namednodemap/getenumerator/
 ---
 ## NamedNodeMap.GetEnumerator method
 

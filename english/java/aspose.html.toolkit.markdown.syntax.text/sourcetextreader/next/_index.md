@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SourceTextReader method. Get the next character and advance position
 type: docs
 weight: 80
-url: /net/com.aspose.html.toolkit.markdown.syntax.text/sourcetextreader/next/
+url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetextreader/next/
 ---
 ## SourceTextReader.Next method
 

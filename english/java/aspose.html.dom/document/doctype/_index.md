@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document property. The Document Type Declaration associated with this document
 type: docs
 weight: 90
-url: /net/com.aspose.html.dom/document/doctype/
+url: /java/com.aspose.html.dom/document/doctype/
 ---
 ## Document.Doctype property
 

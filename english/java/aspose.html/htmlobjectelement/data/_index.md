@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLObjectElement property. A URI IETF RFC 2396 specifying the location of the objects data. See the data attribute definition in HTML 4.01
 type: docs
 weight: 80
-url: /net/com.aspose.html/htmlobjectelement/data/
+url: /java/com.aspose.html/htmlobjectelement/data/
 ---
 ## HTMLObjectElement.Data property
 

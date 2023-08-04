@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.TableRowSyntaxNode class. The table row syntax node
 type: docs
 weight: 5580
-url: /net/com.aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/
 ---
 ## TableRowSyntaxNode class
 

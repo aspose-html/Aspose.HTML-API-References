@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Forms.TextAreaElement class. The TextAreaElement represents a wrapper that is associated with the HTMLTextAreaElement
 type: docs
 weight: 3050
-url: /net/com.aspose.html.forms/textareaelement/
+url: /java/com.aspose.html.forms/textareaelement/
 ---
 ## TextAreaElement class
 

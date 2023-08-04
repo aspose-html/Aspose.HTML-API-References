@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGSVGElement method. Creates an SVGMatrix object outside of any document trees. The object is initialized to the identity matrix
 type: docs
 weight: 140
-url: /net/com.aspose.html.dom.svg/svgsvgelement/createsvgmatrix/
+url: /java/com.aspose.html.dom.svg/svgsvgelement/createsvgmatrix/
 ---
 ## SVGSVGElement.CreateSVGMatrix method
 

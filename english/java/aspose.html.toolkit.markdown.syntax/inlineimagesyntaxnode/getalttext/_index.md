@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: InlineImageSyntaxNode method. Defines the interface for get all text
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/inlineimagesyntaxnode/getalttext/
+url: /java/com.aspose.html.toolkit.markdown.syntax/inlineimagesyntaxnode/getalttext/
 ---
 ## InlineImageSyntaxNode.GetAltText method
 

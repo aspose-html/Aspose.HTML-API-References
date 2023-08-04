@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Net.StringContent class. Represents content based on a String
 type: docs
 weight: 4110
-url: /net/com.aspose.html.net/Stringcontent/
+url: /java/com.aspose.html.net/Stringcontent/
 ---
 ## StringContent class
 

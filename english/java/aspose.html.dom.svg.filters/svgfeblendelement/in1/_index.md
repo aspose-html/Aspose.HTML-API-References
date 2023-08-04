@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEBlendElement property. Corresponds to attribute in on the given feBlend element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg.filters/svgfeblendelement/in1/
+url: /java/com.aspose.html.dom.svg.filters/svgfeblendelement/in1/
 ---
 ## SVGFEBlendElement.In1 property
 

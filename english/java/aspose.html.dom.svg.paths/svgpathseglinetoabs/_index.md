@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Paths.SVGPathSegLinetoAbs class. The SVGPathSegLinetoAbs interface corresponds to an absolute lineto L path data command
 type: docs
 weight: 1820
-url: /net/com.aspose.html.dom.svg.paths/svgpathseglinetoabs/
+url: /java/com.aspose.html.dom.svg.paths/svgpathseglinetoabs/
 ---
 ## SVGPathSegLinetoAbs class
 

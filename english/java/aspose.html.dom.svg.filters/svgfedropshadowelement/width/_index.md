@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEDropShadowElement property. Corresponds to attribute width on the given feDropShadow element
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.svg.filters/svgfedropshadowelement/width/
+url: /java/com.aspose.html.dom.svg.filters/svgfedropshadowelement/width/
 ---
 ## SVGFEDropShadowElement.Width property
 

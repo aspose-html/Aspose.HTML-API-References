@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.EmptyLineSyntaxNode class. Represents the EmptyLineSyntaxNode
 type: docs
 weight: 4880
-url: /net/com.aspose.html.toolkit.markdown.syntax/emptylinesyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/emptylinesyntaxnode/
 ---
 ## EmptyLineSyntaxNode class
 

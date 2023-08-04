@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGSVGElement method. Creates an SVGNumber object outside of any document trees. The object is initialized to a value of zero
 type: docs
 weight: 150
-url: /net/com.aspose.html.dom.svg/svgsvgelement/createsvgnumber/
+url: /java/com.aspose.html.dom.svg/svgsvgelement/createsvgnumber/
 ---
 ## SVGSVGElement.CreateSVGNumber method
 

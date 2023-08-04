@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGSaveOptions constructor. The default constructor
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.saving/svgsaveoptions/svgsaveoptions/
+url: /java/com.aspose.html.dom.svg.saving/svgsaveoptions/svgsaveoptions/
 ---
 ## SVGSaveOptions constructor
 

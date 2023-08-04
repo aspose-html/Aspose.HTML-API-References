@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGUseElement property. Corresponds to attribute x on the given use element
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg/svguseelement/x/
+url: /java/com.aspose.html.dom.svg/svguseelement/x/
 ---
 ## SVGUseElement.X property
 

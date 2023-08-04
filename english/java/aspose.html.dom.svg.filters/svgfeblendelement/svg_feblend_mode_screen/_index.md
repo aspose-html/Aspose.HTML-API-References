@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEBlendElement field. Corresponds to value screen
 type: docs
 weight: 230
-url: /net/com.aspose.html.dom.svg.filters/svgfeblendelement/svg_feblend_mode_screen/
+url: /java/com.aspose.html.dom.svg.filters/svgfeblendelement/svg_feblend_mode_screen/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_SCREEN field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEColorMatrixElement field. Corresponds to value matrix
 type: docs
 weight: 110
-url: /net/com.aspose.html.dom.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_matrix/
+url: /java/com.aspose.html.dom.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_matrix/
 ---
 ## SVGFEColorMatrixElement.SVG_FECOLORMATRIX_TYPE_MATRIX field
 

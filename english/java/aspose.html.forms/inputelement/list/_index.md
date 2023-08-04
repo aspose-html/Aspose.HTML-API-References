@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: InputElement property. Represents a list of options
 type: docs
 weight: 20
-url: /net/com.aspose.html.forms/inputelement/list/
+url: /java/com.aspose.html.forms/inputelement/list/
 ---
 ## InputElement.List property
 

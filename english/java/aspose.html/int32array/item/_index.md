@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Int32Array property. Gets or sets the Int32 at the specified index
 type: docs
 weight: 20
-url: /net/com.aspose.html/int32array/item/
+url: /java/com.aspose.html/int32array/item/
 ---
 ## Int32Array indexer
 

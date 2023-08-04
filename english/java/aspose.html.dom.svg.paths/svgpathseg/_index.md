@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Paths.SVGPathSeg class. The SVGPathSeg interface is a base interface that corresponds to a single command within a path data specification
 type: docs
 weight: 1700
-url: /net/com.aspose.html.dom.svg.paths/svgpathseg/
+url: /java/com.aspose.html.dom.svg.paths/svgpathseg/
 ---
 ## SVGPathSeg class
 

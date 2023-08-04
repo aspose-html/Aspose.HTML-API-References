@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGSVGElement property. Corresponds to attribute height on the given svg element
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg/svgsvgelement/height/
+url: /java/com.aspose.html.dom.svg/svgsvgelement/height/
 ---
 ## SVGSVGElement.Height property
 

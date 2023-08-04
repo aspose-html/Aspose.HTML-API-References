@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnProgress event
 type: docs
 weight: 410
-url: /net/com.aspose.html/htmlelement/onprogress/
+url: /java/com.aspose.html/htmlelement/onprogress/
 ---
 ## HTMLElement.OnProgress event
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLFrameSetElement property. The number of columns of frames in the frameset. See the cols attribute definition in HTML 4.01
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmlframesetelement/cols/
+url: /java/com.aspose.html/htmlframesetelement/cols/
 ---
 ## HTMLFrameSetElement.Cols property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CharacterReferenceSyntaxNode property. Get the reference
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/reference/
+url: /java/com.aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/reference/
 ---
 ## CharacterReferenceSyntaxNode.Reference property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DocDevice method. Appends a cubic Bézier curve to the current path. The curve extends from the current point to the point pt2 using pt1 and pt2 as the Bézier control points. The new current point is pt3
 type: docs
 weight: 80
-url: /net/com.aspose.html.rendering.doc/docdevice/cubicbezierto/
+url: /java/com.aspose.html.rendering.doc/docdevice/cubicbezierto/
 ---
 ## DocDevice.CubicBezierTo method
 

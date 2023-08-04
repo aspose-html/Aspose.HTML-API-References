@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Url class. Provides an object representation of a universal identifier URL
 type: docs
 weight: 5840
-url: /net/com.aspose.html/url/
+url: /java/com.aspose.html/url/
 ---
 ## Url class
 

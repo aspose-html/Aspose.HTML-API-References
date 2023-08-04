@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Int8Array property. Gets or sets the SByte at the specified index
 type: docs
 weight: 20
-url: /net/com.aspose.html/int8array/item/
+url: /java/com.aspose.html/int8array/item/
 ---
 ## Int8Array indexer
 

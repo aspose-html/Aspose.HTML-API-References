@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Net.MessageHandlers.HttpProtocolMessageHandler class. Represents the http protocol message handler
 type: docs
 weight: 4030
-url: /net/com.aspose.html.net.messagehandlers/httpprotocolmessagehandler/
+url: /java/com.aspose.html.net.messagehandlers/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler class
 

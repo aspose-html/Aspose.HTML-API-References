@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Canvas.ICanvasRenderingContext2D interface. The ICanvasRenderingContext2D interface is used for drawing rectangles text images and other objects onto the canvas element. It provides the 2D rendering context for the drawing surface of a canvas element
 type: docs
 weight: 270
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/
 ---
 ## ICanvasRenderingContext2D interface
 

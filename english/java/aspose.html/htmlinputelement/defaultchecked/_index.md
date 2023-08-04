@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLInputElement property. When type has the value radio or checkbox this represents the HTML checked attribute of the element. The value of this attribute does not change if the state of the corresponding form control in an interactive user agent changes. See the checked attribute definition in HTML 4.01
 type: docs
 weight: 60
-url: /net/com.aspose.html/htmlinputelement/defaultchecked/
+url: /java/com.aspose.html/htmlinputelement/defaultchecked/
 ---
 ## HTMLInputElement.DefaultChecked property
 

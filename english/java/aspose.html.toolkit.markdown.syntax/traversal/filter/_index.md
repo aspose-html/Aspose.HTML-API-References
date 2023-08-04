@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Traversal property. Defines the interface for get Filter
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/traversal/filter/
+url: /java/com.aspose.html.toolkit.markdown.syntax/traversal/filter/
 ---
 ## Traversal.Filter property
 

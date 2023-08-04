@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPreserveAspectRatio field. Corresponds to value none for attribute preserveAspectRatio
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_none/
+url: /java/com.aspose.html.dom.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_none/
 ---
 ## SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_NONE field
 

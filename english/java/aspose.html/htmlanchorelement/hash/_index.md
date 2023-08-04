@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLAnchorElement property. Gets or sets a String representation of the hash segment of the associated URL
 type: docs
 weight: 40
-url: /net/com.aspose.html/htmlanchorelement/hash/
+url: /java/com.aspose.html/htmlanchorelement/hash/
 ---
 ## HTMLAnchorElement.Hash property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OutputStream method. Closes the wrapped output stream and current stream
 type: docs
 weight: 80
-url: /net/com.aspose.html.io/outputstream/close/
+url: /java/com.aspose.html.io/outputstream/close/
 ---
 ## OutputStream.Close method
 

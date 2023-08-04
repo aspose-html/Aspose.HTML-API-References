@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ResponseMessage method. Performs application-defined tasks associated with freeing releasing or resetting unmanaged resources
 type: docs
 weight: 80
-url: /net/com.aspose.html.net/responsemessage/dispose/
+url: /java/com.aspose.html.net/responsemessage/dispose/
 ---
 ## ResponseMessage.Dispose method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document property. A list containing all the style sheets explicitly linked into or embedded in a document. For HTML documents this includes external style sheets included via the HTML LINK element and inline STYLE elements
 type: docs
 weight: 250
-url: /net/com.aspose.html.dom/document/stylesheets/
+url: /java/com.aspose.html.dom/document/stylesheets/
 ---
 ## Document.StyleSheets property
 

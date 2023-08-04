@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OutputStream property. Gets the length in bytes of the wrapped output stream
 type: docs
 weight: 50
-url: /net/com.aspose.html.io/outputstream/length/
+url: /java/com.aspose.html.io/outputstream/length/
 ---
 ## OutputStream.Length property
 

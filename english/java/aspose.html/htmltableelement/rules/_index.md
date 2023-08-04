@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableElement property. Specifies which internal table borders to render. See the rules attribute definition in HTML 4.01
 type: docs
 weight: 90
-url: /net/com.aspose.html/htmltableelement/rules/
+url: /java/com.aspose.html/htmltableelement/rules/
 ---
 ## HTMLTableElement.Rules property
 

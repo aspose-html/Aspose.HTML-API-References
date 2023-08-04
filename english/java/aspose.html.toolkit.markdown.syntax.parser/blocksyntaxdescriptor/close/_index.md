@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: BlockSyntaxDescriptor method. Defines the interface for Close
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/close/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/close/
 ---
 ## BlockSyntaxDescriptor.Close method
 

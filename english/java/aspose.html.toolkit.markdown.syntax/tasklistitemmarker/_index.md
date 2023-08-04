@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.TaskListItemMarker class. The task list item marker
 type: docs
 weight: 5600
-url: /net/com.aspose.html.toolkit.markdown.syntax/tasklistitemmarker/
+url: /java/com.aspose.html.toolkit.markdown.syntax/tasklistitemmarker/
 ---
 ## TaskListItemMarker class
 

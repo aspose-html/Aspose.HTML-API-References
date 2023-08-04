@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Events.TimeEvent class. The TimeEvent interface provides specific contextual information associated with Time events.The different types of events that can occur are beginEvent endEvent and repeatEvent
 type: docs
 weight: 1350
-url: /net/com.aspose.html.dom.svg.events/timeevent/
+url: /java/com.aspose.html.dom.svg.events/timeevent/
 ---
 ## TimeEvent class
 

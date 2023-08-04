@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies the position of the caption box with respect to the table box. Values have the following meanings
 type: docs
 weight: 310
-url: /net/com.aspose.html.dom.css/icss2properties/captionside/
+url: /java/com.aspose.html.dom.css/icss2properties/captionside/
 ---
 ## ICSS2Properties.CaptionSide property
 

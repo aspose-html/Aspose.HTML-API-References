@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGTextPositioningElement class. The SVGTextPositioningElement interface is inherited by text-related interfaces SVGTextElement SVGTSpanElement SVGTRefElement and SVGAltGlyphElement
 type: docs
 weight: 2380
-url: /net/com.aspose.html.dom.svg/svgtextpositioningelement/
+url: /java/com.aspose.html.dom.svg/svgtextpositioningelement/
 ---
 ## SVGTextPositioningElement class
 

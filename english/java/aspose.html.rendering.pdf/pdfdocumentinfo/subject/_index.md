@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDocumentInfo property. The subject of the document
 type: docs
 weight: 70
-url: /net/com.aspose.html.rendering.pdf/pdfdocumentinfo/subject/
+url: /java/com.aspose.html.rendering.pdf/pdfdocumentinfo/subject/
 ---
 ## PdfDocumentInfo.Subject property
 

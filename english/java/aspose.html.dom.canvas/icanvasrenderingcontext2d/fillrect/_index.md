@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Draws a filled rectangle at x y position whose size is determined by width and height
 type: docs
 weight: 230
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/fillrect/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/fillrect/
 ---
 ## ICanvasRenderingContext2D.FillRect method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: StringContent constructor. Initializes a new instance of the StringContent class
 type: docs
 weight: 10
-url: /net/com.aspose.html.net/Stringcontent/Stringcontent/
+url: /java/com.aspose.html.net/Stringcontent/Stringcontent/
 ---
 ## StringContent(String) {#constructor}
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Create the EmphasisSyntax
 type: docs
 weight: 70
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emphasis/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emphasis/
 ---
 ## Emphasis(Emphasis) {#emphasis}
 

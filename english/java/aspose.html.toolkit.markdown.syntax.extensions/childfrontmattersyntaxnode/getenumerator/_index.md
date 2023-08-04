@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ChildFrontMatterSyntaxNode method. Get the IEnumerator
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/childfrontmattersyntaxnode/getenumerator/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/childfrontmattersyntaxnode/getenumerator/
 ---
 ## ChildFrontMatterSyntaxNode.GetEnumerator method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TypedArray property. Gets the ArrayBuffer referenced by this instance
 type: docs
 weight: 10
-url: /net/com.aspose.html/typedarray/buffer/
+url: /java/com.aspose.html/typedarray/buffer/
 ---
 ## TypedArray.Buffer property
 

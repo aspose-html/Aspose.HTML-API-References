@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D property. Horizontal distance the shadow will be offset. Default 0
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/shadowoffsetx/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/shadowoffsetx/
 ---
 ## ICanvasRenderingContext2D.ShadowOffsetX property
 

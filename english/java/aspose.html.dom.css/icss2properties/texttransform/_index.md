@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property controls capitalization effects of an elements text. Values have the following meanings
 type: docs
 weight: 1110
-url: /net/com.aspose.html.dom.css/icss2properties/texttransform/
+url: /java/com.aspose.html.dom.css/icss2properties/texttransform/
 ---
 ## ICSS2Properties.TextTransform property
 

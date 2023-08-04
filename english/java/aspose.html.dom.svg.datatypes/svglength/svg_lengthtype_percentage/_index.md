@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGLength field. A percentage value was specified
 type: docs
 weight: 150
-url: /net/com.aspose.html.dom.svg.datatypes/svglength/svg_lengthtype_percentage/
+url: /java/com.aspose.html.dom.svg.datatypes/svglength/svg_lengthtype_percentage/
 ---
 ## SVGLength.SVG_LENGTHTYPE_PERCENTAGE field
 

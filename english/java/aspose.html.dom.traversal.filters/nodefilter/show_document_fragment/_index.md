@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NodeFilter field. Show DocumentFragment nodes
 type: docs
 weight: 110
-url: /net/com.aspose.html.dom.traversal.filters/nodefilter/show_document_fragment/
+url: /java/com.aspose.html.dom.traversal.filters/nodefilter/show_document_fragment/
 ---
 ## NodeFilter.SHOW_DOCUMENT_FRAGMENT field
 

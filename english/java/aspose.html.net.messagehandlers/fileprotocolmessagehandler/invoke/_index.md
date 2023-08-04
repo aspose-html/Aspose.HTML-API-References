@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FileProtocolMessageHandler method. When overridden in a derived class is used to implement the message handling
 type: docs
 weight: 20
-url: /net/com.aspose.html.net.messagehandlers/fileprotocolmessagehandler/invoke/
+url: /java/com.aspose.html.net.messagehandlers/fileprotocolmessagehandler/invoke/
 ---
 ## FileProtocolMessageHandler.Invoke method
 

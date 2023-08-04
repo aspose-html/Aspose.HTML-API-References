@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FormElement property. The value of field
 type: docs
 weight: 40
-url: /net/com.aspose.html.forms/formelement/value/
+url: /java/com.aspose.html.forms/formelement/value/
 ---
 ## FormElement.Value property
 

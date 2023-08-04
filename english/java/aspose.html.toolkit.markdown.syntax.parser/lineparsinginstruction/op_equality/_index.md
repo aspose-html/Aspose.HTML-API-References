@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LineParsingInstruction method. 
 type: docs
 weight: 110
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/op_equality/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/op_equality/
 ---
 ## LineParsingInstruction Equality operator
 

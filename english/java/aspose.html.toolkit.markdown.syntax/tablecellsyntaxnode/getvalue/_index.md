@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TableCellSyntaxNode method. Defines the interface for get String value
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/tablecellsyntaxnode/getvalue/
+url: /java/com.aspose.html.toolkit.markdown.syntax/tablecellsyntaxnode/getvalue/
 ---
 ## TableCellSyntaxNode.GetValue method
 

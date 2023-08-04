@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMException property. Returns a value that contains one of the error code constants or 0 if none match. This field is used for historical reasons
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom/domexception/code/
+url: /java/com.aspose.html.dom/domexception/code/
 ---
 ## DOMException.Code property
 

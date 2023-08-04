@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLFormElement method. Restores a form elements default values. It performs the same action as a reset button
 type: docs
 weight: 90
-url: /net/com.aspose.html/htmlformelement/reset/
+url: /java/com.aspose.html/htmlformelement/reset/
 ---
 ## HTMLFormElement.Reset method
 

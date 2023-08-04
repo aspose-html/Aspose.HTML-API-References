@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: YamlMappingSyntaxNode method. Gets the enumerator
 type: docs
 weight: 60
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/getenumerator/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/getenumerator/
 ---
 ## YamlMappingSyntaxNode.GetEnumerator method
 

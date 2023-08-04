@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OutputStream method. Reads a sequence of bytes from the wrapped output stream and advances the position within the stream by the number of bytes read
 type: docs
 weight: 100
-url: /net/com.aspose.html.io/outputstream/read/
+url: /java/com.aspose.html.io/outputstream/read/
 ---
 ## OutputStream.Read method
 

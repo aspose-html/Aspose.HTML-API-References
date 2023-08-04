@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LineBreakSyntaxNode property. Get the span
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/span/
+url: /java/com.aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/span/
 ---
 ## LineBreakSyntaxNode.Span property
 

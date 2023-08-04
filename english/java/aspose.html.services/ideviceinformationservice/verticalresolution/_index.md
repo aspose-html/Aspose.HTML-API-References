@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDeviceInformationService property. Gets or sets the vertical resolution
 type: docs
 weight: 30
-url: /net/com.aspose.html.services/ideviceinformationservice/verticalresolution/
+url: /java/com.aspose.html.services/ideviceinformationservice/verticalresolution/
 ---
 ## IDeviceInformationService.VerticalResolution property
 

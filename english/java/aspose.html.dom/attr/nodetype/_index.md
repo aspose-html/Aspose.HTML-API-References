@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Attr property. A code representing the type of the underlying object
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom/attr/nodetype/
+url: /java/com.aspose.html.dom/attr/nodetype/
 ---
 ## Attr.NodeType property
 

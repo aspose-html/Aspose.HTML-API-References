@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IFormAssociatedElement property. Gets or sets the form instance
 type: docs
 weight: 10
-url: /net/com.aspose.html/iformassociatedelement/form/
+url: /java/com.aspose.html/iformassociatedelement/form/
 ---
 ## IFormAssociatedElement.Form property
 

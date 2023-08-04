@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSStyleRule property. The read-only style property is the CSSStyleDeclaration interface for the declaration block of the CSSStyleRule
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.css/icssstylerule/style/
+url: /java/com.aspose.html.dom.css/icssstylerule/style/
 ---
 ## ICSSStyleRule.Style property
 

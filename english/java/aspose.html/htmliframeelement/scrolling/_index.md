@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLIFrameElement property. Specify whether or not the frame should have scrollbars. See the scrolling attribute definition in HTML 4.01
 type: docs
 weight: 80
-url: /net/com.aspose.html/htmliframeelement/scrolling/
+url: /java/com.aspose.html/htmliframeelement/scrolling/
 ---
 ## HTMLIFrameElement.Scrolling property
 

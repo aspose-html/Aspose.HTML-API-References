@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a new Color with the requested ged green blue values. All color components must be in the range 0-255
 type: docs
 weight: 200
-url: /net/com.aspose.html.drawing/color/fromrgb/
+url: /java/com.aspose.html.drawing/color/fromrgb/
 ---
 ## FromRgb(byte, byte, byte) {#fromrgb}
 

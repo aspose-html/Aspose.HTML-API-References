@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.DataTypes.SVGAnimatedLengthList class. Used for attributes of type SVGLengthList which can be animated
 type: docs
 weight: 1130
-url: /net/com.aspose.html.dom.svg.datatypes/svganimatedlengthlist/
+url: /java/com.aspose.html.dom.svg.datatypes/svganimatedlengthlist/
 ---
 ## SVGAnimatedLengthList class
 

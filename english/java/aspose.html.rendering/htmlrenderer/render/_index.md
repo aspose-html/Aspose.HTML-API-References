@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HtmlRenderer method. Defines method for rendering multiple Documents into specific IDevice. The rendering will be performed once there are no any network operations for loading resources active timers animation tasks or specified timeout is elapsed
 type: docs
 weight: 20
-url: /net/com.aspose.html.rendering/htmlrenderer/render/
+url: /java/com.aspose.html.rendering/htmlrenderer/render/
 ---
 ## Render(IDevice, TimeSpan, params Document[]) {#render_6}
 

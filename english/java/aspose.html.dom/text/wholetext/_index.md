@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Text property. Returns all text of Text nodes logically-adjacent text nodes to this node concatenated in document order
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom/text/wholetext/
+url: /java/com.aspose.html.dom/text/wholetext/
 ---
 ## Text.WholeText property
 

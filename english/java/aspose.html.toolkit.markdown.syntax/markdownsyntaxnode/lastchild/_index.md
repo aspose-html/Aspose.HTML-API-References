@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode property. Get the last child
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/lastchild/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/lastchild/
 ---
 ## MarkdownSyntaxNode.LastChild property
 

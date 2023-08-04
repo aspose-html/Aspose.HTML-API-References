@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.XPath.IXPathEvaluator interface. The evaluation of XPath expressions is provided by IXPathEvaluator
 type: docs
 weight: 2570
-url: /net/com.aspose.html.dom.xpath/ixpathevaluator/
+url: /java/com.aspose.html.dom.xpath/ixpathevaluator/
 ---
 ## IXPathEvaluator interface
 

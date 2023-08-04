@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLDocument property. A collection of all the forms of a document
 type: docs
 weight: 60
-url: /net/com.aspose.html/htmldocument/forms/
+url: /java/com.aspose.html/htmldocument/forms/
 ---
 ## HTMLDocument.Forms property
 

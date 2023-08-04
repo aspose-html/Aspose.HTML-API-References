@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TextLine property. Get the end position
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.text/textline/end/
+url: /java/com.aspose.html.toolkit.markdown.syntax.text/textline/end/
 ---
 ## TextLine.End property
 

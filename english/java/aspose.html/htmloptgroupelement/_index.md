@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLOptGroupElement class. Group options together in logical subdivisions. See the OPTGROUP element definition in HTML 4.01
 type: docs
 weight: 3460
-url: /net/com.aspose.html/htmloptgroupelement/
+url: /java/com.aspose.html/htmloptgroupelement/
 ---
 ## HTMLOptGroupElement class
 

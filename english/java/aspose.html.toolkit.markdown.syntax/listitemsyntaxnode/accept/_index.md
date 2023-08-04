@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ListItemSyntaxNode method. Defines the interface for accept visitor
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/listitemsyntaxnode/accept/
+url: /java/com.aspose.html.toolkit.markdown.syntax/listitemsyntaxnode/accept/
 ---
 ## ListItemSyntaxNode.Accept method
 

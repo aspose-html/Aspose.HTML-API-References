@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FocusEvent property. Used to identify a secondary EventTarget related to a Focus event depending on the type of event
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.events/focusevent/relatedtarget/
+url: /java/com.aspose.html.dom.events/focusevent/relatedtarget/
 ---
 ## FocusEvent.RelatedTarget property
 

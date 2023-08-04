@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTextPositioningElement property. Corresponds to attribute x on the given element
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg/svgtextpositioningelement/x/
+url: /java/com.aspose.html.dom.svg/svgtextpositioningelement/x/
 ---
 ## SVGTextPositioningElement.X property
 

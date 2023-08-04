@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: InputElement method. This method is used to get the value as an email String object. This method is valid if only only type of the input element is email
 type: docs
 weight: 110
-url: /net/com.aspose.html.forms/inputelement/getemailvalue/
+url: /java/com.aspose.html.forms/inputelement/getemailvalue/
 ---
 ## InputElement.GetEmailValue method
 

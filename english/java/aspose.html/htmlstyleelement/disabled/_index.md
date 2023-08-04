@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLStyleElement property. Enables/disables the style sheet
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmlstyleelement/disabled/
+url: /java/com.aspose.html/htmlstyleelement/disabled/
 ---
 ## HTMLStyleElement.Disabled property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NodeFilter field. Show EntityReference nodes
 type: docs
 weight: 150
-url: /net/com.aspose.html.dom.traversal.filters/nodefilter/show_entity_reference/
+url: /java/com.aspose.html.dom.traversal.filters/nodefilter/show_entity_reference/
 ---
 ## NodeFilter.SHOW_ENTITY_REFERENCE field
 

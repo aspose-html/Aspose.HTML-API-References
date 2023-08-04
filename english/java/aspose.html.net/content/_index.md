@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Net.Content class. Represents a base class for an HTTP entity body and content headers
 type: docs
 weight: 3880
-url: /net/com.aspose.html.net/content/
+url: /java/com.aspose.html.net/content/
 ---
 ## Content class
 

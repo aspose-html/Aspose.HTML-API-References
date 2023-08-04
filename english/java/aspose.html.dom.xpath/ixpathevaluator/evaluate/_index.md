@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IXPathEvaluator method. Evaluates an XPath expression String and returns a result of the specified type if possible
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.xpath/ixpathevaluator/evaluate/
+url: /java/com.aspose.html.dom.xpath/ixpathevaluator/evaluate/
 ---
 ## IXPathEvaluator.Evaluate method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.EventTarget class. The EventTarget interface is implemented by objects that can receive events and may have listeners for them. In other words any target of events implements the three methods associated with this interface
 type: docs
 weight: 730
-url: /net/com.aspose.html.dom/eventtarget/
+url: /java/com.aspose.html.dom/eventtarget/
 ---
 ## EventTarget class
 

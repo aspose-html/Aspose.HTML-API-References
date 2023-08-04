@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CSSPrimitiveValue field. The value is a dots per px unit dppx
 type: docs
 weight: 190
-url: /net/com.aspose.html.dom.css/cssprimitivevalue/css_dppx/
+url: /java/com.aspose.html.dom.css/cssprimitivevalue/css_dppx/
 ---
 ## CSSPrimitiveValue.CSS_DPPX field
 

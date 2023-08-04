@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEMorphologyElement field. Corresponds to value erode
 type: docs
 weight: 110
-url: /net/com.aspose.html.dom.svg.filters/svgfemorphologyelement/svg_morphology_operator_erode/
+url: /java/com.aspose.html.dom.svg.filters/svgfemorphologyelement/svg_morphology_operator_erode/
 ---
 ## SVGFEMorphologyElement.SVG_MORPHOLOGY_OPERATOR_ERODE field
 

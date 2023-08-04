@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ResourceHandlingOptions property. Gets or sets enum which represents default way of resources handling. Currently Save Ignore and Embed values are supported. Default value is Save
 type: docs
 weight: 10
-url: /net/com.aspose.html.saving/resourcehandlingoptions/default/
+url: /java/com.aspose.html.saving/resourcehandlingoptions/default/
 ---
 ## ResourceHandlingOptions.Default property
 

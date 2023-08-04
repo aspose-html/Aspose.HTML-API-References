@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDOMImplementation method. Test if the DOM implementation implements a specific feature and version as specified in DOM Features
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom/idomimplementation/hasfeature/
+url: /java/com.aspose.html.dom/idomimplementation/hasfeature/
 ---
 ## IDOMImplementation.HasFeature method
 

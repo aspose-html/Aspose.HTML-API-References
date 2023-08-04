@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: XpsDevice method. Restores the entire graphics context to its former value by popping it from the stack
 type: docs
 weight: 170
-url: /net/com.aspose.html.rendering.xps/xpsdevice/restoregraphiccontext/
+url: /java/com.aspose.html.rendering.xps/xpsdevice/restoregraphiccontext/
 ---
 ## XpsDevice.RestoreGraphicContext method
 

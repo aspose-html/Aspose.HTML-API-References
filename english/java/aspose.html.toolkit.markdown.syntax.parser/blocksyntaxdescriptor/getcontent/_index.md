@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: BlockSyntaxDescriptor method. Defines the interface for get content
 type: docs
 weight: 80
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/getcontent/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/getcontent/
 ---
 ## BlockSyntaxDescriptor.GetContent method
 

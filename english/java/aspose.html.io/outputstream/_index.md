@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.IO.OutputStream class. A surrogate stream wraps the real output stream and controls access to it.OutputStream contains URI data that describes location of the output stream
 type: docs
 weight: 3770
-url: /net/com.aspose.html.io/outputstream/
+url: /java/com.aspose.html.io/outputstream/
 ---
 ## OutputStream class
 

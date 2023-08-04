@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OptionCollection property. The number of Option in the list
 type: docs
 weight: 10
-url: /net/com.aspose.html.forms/optioncollection/count/
+url: /java/com.aspose.html.forms/optioncollection/count/
 ---
 ## OptionCollection.Count property
 

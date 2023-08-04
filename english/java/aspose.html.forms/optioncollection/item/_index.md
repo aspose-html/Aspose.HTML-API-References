@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OptionCollection property. Gets the OptionElement at the specified index
 type: docs
 weight: 20
-url: /net/com.aspose.html.forms/optioncollection/item/
+url: /java/com.aspose.html.forms/optioncollection/item/
 ---
 ## OptionCollection indexer
 

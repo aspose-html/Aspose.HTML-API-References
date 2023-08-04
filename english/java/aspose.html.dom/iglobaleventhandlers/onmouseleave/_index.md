@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnMouseLeave event
 type: docs
 weight: 260
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onmouseleave/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onmouseleave/
 ---
 ## IGlobalEventHandlers.OnMouseLeave event
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: GfmSyntaxExtension method. Override the Setup
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/gfmsyntaxextension/setup/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/gfmsyntaxextension/setup/
 ---
 ## GfmSyntaxExtension.Setup method
 

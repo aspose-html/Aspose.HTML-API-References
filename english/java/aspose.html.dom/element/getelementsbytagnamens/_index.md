@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Element method. Returns HTMLCollection object containing all elements with a given local name and package URI String in document order
 type: docs
 weight: 300
-url: /net/com.aspose.html.dom/element/getelementsbytagnamens/
+url: /java/com.aspose.html.dom/element/getelementsbytagnamens/
 ---
 ## Element.GetElementsByTagNameNS method
 

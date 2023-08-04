@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Paths.SVGPathSegCurvetoQuadraticRel class. The SVGPathSegCurvetoQuadraticRel interface corresponds to a relative quadratic Bézier curveto q path data command
 type: docs
 weight: 1790
-url: /net/com.aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticrel/
+url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticrel/
 ---
 ## SVGPathSegCurvetoQuadraticRel class
 

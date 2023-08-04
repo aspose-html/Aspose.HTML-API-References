@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ISVGAnimatedPoints property. Provides access to the base i.e. static contents of the points attribute
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg/isvganimatedpoints/points/
+url: /java/com.aspose.html.dom.svg/isvganimatedpoints/points/
 ---
 ## ISVGAnimatedPoints.Points property
 

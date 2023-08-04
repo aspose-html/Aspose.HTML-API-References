@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Text class. The Text interface inherits from CharacterData and represents the textual content termed character data in XML of an Element or Attr
 type: docs
 weight: 2460
-url: /net/com.aspose.html.dom/text/
+url: /java/com.aspose.html.dom/text/
 ---
 ## Text class
 

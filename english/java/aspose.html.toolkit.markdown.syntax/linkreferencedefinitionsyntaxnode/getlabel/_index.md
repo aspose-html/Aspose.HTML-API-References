@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LinkReferenceDefinitionSyntaxNode method. Returns the link reference label
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/getlabel/
+url: /java/com.aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/getlabel/
 ---
 ## LinkReferenceDefinitionSyntaxNode.GetLabel method
 

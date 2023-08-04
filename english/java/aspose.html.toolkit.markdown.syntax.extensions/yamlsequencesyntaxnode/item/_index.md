@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: YamlSequenceSyntaxNode property. Get the YamlSyntaxNode by index
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/item/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/item/
 ---
 ## YamlSequenceSyntaxNode indexer
 

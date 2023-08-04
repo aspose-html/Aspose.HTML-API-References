@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGLength field. A value was specified using the pt units defined in CSS2
 type: docs
 weight: 160
-url: /net/com.aspose.html.dom.svg.datatypes/svglength/svg_lengthtype_pt/
+url: /java/com.aspose.html.dom.svg.datatypes/svglength/svg_lengthtype_pt/
 ---
 ## SVGLength.SVG_LENGTHTYPE_PT field
 

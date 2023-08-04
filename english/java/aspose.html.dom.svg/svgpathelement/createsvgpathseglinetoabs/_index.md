@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegLinetoAbs object
 type: docs
 weight: 140
-url: /net/com.aspose.html.dom.svg/svgpathelement/createsvgpathseglinetoabs/
+url: /java/com.aspose.html.dom.svg/svgpathelement/createsvgpathseglinetoabs/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoAbs method
 

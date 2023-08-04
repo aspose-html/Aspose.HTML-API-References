@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LinkReferenceDefinitionSyntaxNode method. Sets the link reference label
 type: docs
 weight: 60
-url: /net/com.aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/setlabel/
+url: /java/com.aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/setlabel/
 ---
 ## LinkReferenceDefinitionSyntaxNode.SetLabel method
 

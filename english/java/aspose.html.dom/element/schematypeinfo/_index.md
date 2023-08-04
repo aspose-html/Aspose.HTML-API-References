@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Element property. The type information associated with this element
 type: docs
 weight: 190
-url: /net/com.aspose.html.dom/element/schematypeinfo/
+url: /java/com.aspose.html.dom/element/schematypeinfo/
 ---
 ## Element.SchemaTypeInfo property
 

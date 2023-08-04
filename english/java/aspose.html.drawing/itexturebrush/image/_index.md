@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ITextureBrush property. Gets or sets the image used by the brush
 type: docs
 weight: 20
-url: /net/com.aspose.html.drawing/itexturebrush/image/
+url: /java/com.aspose.html.drawing/itexturebrush/image/
 ---
 ## ITextureBrush.Image property
 

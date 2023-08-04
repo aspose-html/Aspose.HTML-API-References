@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FormEditor method. Returns the element by specified index
 type: docs
 weight: 120
-url: /net/com.aspose.html.forms/formeditor/getelement/
+url: /java/com.aspose.html.forms/formeditor/getelement/
 ---
 ## GetElement&lt;T&gt;(int) {#getelement}
 

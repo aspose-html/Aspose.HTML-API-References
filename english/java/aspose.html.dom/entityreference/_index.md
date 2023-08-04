@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.EntityReference class. EntityReference nodes may be used to represent an entity reference in the tree
 type: docs
 weight: 720
-url: /net/com.aspose.html.dom/entityreference/
+url: /java/com.aspose.html.dom/entityreference/
 ---
 ## EntityReference class
 

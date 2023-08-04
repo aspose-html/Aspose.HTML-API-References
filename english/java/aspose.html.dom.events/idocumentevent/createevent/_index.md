@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDocumentEvent method. The createEvent method is used in creating Events when it is either inconvenient or unnecessary for the user to create an Event themselves
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.events/idocumentevent/createevent/
+url: /java/com.aspose.html.dom.events/idocumentevent/createevent/
 ---
 ## IDocumentEvent.CreateEvent method
 

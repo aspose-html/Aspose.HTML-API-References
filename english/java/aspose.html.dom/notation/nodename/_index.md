@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Notation property. The name of this node depending on its type
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom/notation/nodename/
+url: /java/com.aspose.html.dom/notation/nodename/
 ---
 ## Notation.NodeName property
 

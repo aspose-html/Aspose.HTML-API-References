@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableRowElement property. The collection of cells in this row. version DOM Level 2
 type: docs
 weight: 30
-url: /net/com.aspose.html/htmltablerowelement/cells/
+url: /java/com.aspose.html/htmltablerowelement/cells/
 ---
 ## HTMLTableRowElement.Cells property
 

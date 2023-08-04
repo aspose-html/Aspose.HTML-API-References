@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Uint16Array property. Gets or sets the UInt16 at the specified index
 type: docs
 weight: 20
-url: /net/com.aspose.html/uint16array/item/
+url: /java/com.aspose.html/uint16array/item/
 ---
 ## Uint16Array indexer
 

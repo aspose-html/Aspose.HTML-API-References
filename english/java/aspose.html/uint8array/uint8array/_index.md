@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Uint8Array constructor. Initializes a new instance of the Uint8Array class
 type: docs
 weight: 10
-url: /net/com.aspose.html/uint8array/uint8array/
+url: /java/com.aspose.html/uint8array/uint8array/
 ---
 ## Uint8Array(int) {#constructor_4}
 

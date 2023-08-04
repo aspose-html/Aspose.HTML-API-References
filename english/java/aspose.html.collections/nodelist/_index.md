@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Collections.NodeList class. The NodeList provides the abstraction of an ordered collection of nodes without defining or constraining how this collection is implemented
 type: docs
 weight: 50
-url: /net/com.aspose.html.collections/nodelist/
+url: /java/com.aspose.html.collections/nodelist/
 ---
 ## NodeList class
 

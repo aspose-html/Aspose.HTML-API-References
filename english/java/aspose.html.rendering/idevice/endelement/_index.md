@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDevice method. Ends rendering of the element
 type: docs
 weight: 120
-url: /net/com.aspose.html.rendering/idevice/endelement/
+url: /java/com.aspose.html.rendering/idevice/endelement/
 ---
 ## IDevice.EndElement method
 

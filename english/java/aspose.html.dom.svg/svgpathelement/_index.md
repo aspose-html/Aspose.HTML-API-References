@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGPathElement class. The SVGPathElement interface corresponds to the path element
 type: docs
 weight: 2200
-url: /net/com.aspose.html.dom.svg/svgpathelement/
+url: /java/com.aspose.html.dom.svg/svgpathelement/
 ---
 ## SVGPathElement class
 

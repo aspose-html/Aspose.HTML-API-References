@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IInlinePostProcessingContext property. Get and set the ClosedDelimiter
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/closeddelimiter/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/closeddelimiter/
 ---
 ## IInlinePostProcessingContext.ClosedDelimiter property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnTimeUpdate event
 type: docs
 weight: 470
-url: /net/com.aspose.html.dom/iglobaleventhandlers/ontimeupdate/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/ontimeupdate/
 ---
 ## IGlobalEventHandlers.OnTimeUpdate event
 

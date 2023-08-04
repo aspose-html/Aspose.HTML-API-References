@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document property. Gets the documents encoding
 type: docs
 weight: 140
-url: /net/com.aspose.html.dom/document/inputencoding/
+url: /java/com.aspose.html.dom/document/inputencoding/
 ---
 ## Document.InputEncoding property
 

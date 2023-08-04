@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Float64Array class. Represents an array of 64-bit floating point numbers corresponding to the C float data type in the platform byte order
 type: docs
 weight: 2890
-url: /net/com.aspose.html/float64array/
+url: /java/com.aspose.html/float64array/
 ---
 ## Float64Array class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HttpMethod method. Returns a hash code for this instance
 type: docs
 weight: 70
-url: /net/com.aspose.html.net/httpmethod/gethashcode/
+url: /java/com.aspose.html.net/httpmethod/gethashcode/
 ---
 ## HttpMethod.GetHashCode method
 

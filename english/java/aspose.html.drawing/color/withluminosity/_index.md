@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Creates copy of the Color with specified luminosity
 type: docs
 weight: 470
-url: /net/com.aspose.html.drawing/color/withluminosity/
+url: /java/com.aspose.html.drawing/color/withluminosity/
 ---
 ## Color.WithLuminosity method
 

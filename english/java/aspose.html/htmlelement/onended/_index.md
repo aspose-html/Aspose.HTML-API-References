@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnEnded event
 type: docs
 weight: 180
-url: /net/com.aspose.html/htmlelement/onended/
+url: /java/com.aspose.html/htmlelement/onended/
 ---
 ## HTMLElement.OnEnded event
 

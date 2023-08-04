@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Css.IMediaList interface. The MediaList interface provides the abstraction of an ordered collection of media without defining or constraining how this collection is implemented. An empty list is the same as a list that contains the medium all
 type: docs
 weight: 590
-url: /net/com.aspose.html.dom.css/imedialist/
+url: /java/com.aspose.html.dom.css/imedialist/
 ---
 ## IMediaList interface
 

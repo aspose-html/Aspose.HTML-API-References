@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.IInlineParsingContext interface. Defines the IInlineParsingContext interface
 type: docs
 weight: 5400
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/
 ---
 ## IInlineParsingContext interface
 

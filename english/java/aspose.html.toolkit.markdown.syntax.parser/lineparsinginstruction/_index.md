@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.LineParsingInstruction struct. Defines the LineParsingInstruction
 type: docs
 weight: 5450
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/
 ---
 ## LineParsingInstruction structure
 

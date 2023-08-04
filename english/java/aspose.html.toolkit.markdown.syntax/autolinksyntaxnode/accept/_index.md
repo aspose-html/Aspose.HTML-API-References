@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: AutoLinkSyntaxNode method. Defines the interface for accept visitor
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/autolinksyntaxnode/accept/
+url: /java/com.aspose.html.toolkit.markdown.syntax/autolinksyntaxnode/accept/
 ---
 ## AutoLinkSyntaxNode.Accept method
 

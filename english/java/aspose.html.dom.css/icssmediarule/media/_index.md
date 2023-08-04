@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSMediaRule property. The read-only media property of the CSSMediaRule interface MediaList represents the intended destination medium for style information
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.css/icssmediarule/media/
+url: /java/com.aspose.html.dom.css/icssmediarule/media/
 ---
 ## ICSSMediaRule.Media property
 

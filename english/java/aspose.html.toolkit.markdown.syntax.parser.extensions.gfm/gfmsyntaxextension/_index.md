@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.Extensions.GFM.GfmSyntaxExtension class. Defines the GfmSyntaxExtension
 type: docs
 weight: 5360
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/gfmsyntaxextension/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/gfmsyntaxextension/
 ---
 ## GfmSyntaxExtension class
 

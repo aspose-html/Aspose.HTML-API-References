@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownTextWriter method. Clears all buffers for the current writer and causes any buffered data to be written to the underlying device
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdowntextwriter/flush/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdowntextwriter/flush/
 ---
 ## MarkdownTextWriter.Flush method
 

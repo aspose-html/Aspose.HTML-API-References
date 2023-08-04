@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TextAreaElement property. The type of this form control
 type: docs
 weight: 20
-url: /net/com.aspose.html.forms/textareaelement/type/
+url: /java/com.aspose.html.forms/textareaelement/type/
 ---
 ## TextAreaElement.Type property
 

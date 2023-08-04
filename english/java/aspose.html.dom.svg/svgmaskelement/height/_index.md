@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGMaskElement property. Corresponds to attribute height on the given mask element. Takes one of the constants defined in SVGUnitTypes
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg/svgmaskelement/height/
+url: /java/com.aspose.html.dom.svg/svgmaskelement/height/
 ---
 ## SVGMaskElement.Height property
 

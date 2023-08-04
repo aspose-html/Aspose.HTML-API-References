@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnWaiting event
 type: docs
 weight: 560
-url: /net/com.aspose.html/htmlelement/onwaiting/
+url: /java/com.aspose.html/htmlelement/onwaiting/
 ---
 ## HTMLElement.OnWaiting event
 

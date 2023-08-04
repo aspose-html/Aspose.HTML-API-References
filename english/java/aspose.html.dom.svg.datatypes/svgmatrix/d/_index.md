@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGMatrix property. The D component of the matrix
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg.datatypes/svgmatrix/d/
+url: /java/com.aspose.html.dom.svg.datatypes/svgmatrix/d/
 ---
 ## SVGMatrix.D property
 

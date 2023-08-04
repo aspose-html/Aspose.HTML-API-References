@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLObjectElement property. Message to render while loading the object. See the standby attribute definition in HTML 4.01
 type: docs
 weight: 140
-url: /net/com.aspose.html/htmlobjectelement/standby/
+url: /java/com.aspose.html/htmlobjectelement/standby/
 ---
 ## HTMLObjectElement.Standby property
 

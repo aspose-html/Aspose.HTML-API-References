@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfGraphicContext property. Sets or gets the code specifying the shape of joints between connected segments of a stroked path
 type: docs
 weight: 40
-url: /net/com.aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/linejoin/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/linejoin/
 ---
 ## PdfDevice.PdfGraphicContext.LineJoin property
 

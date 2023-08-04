@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PageSetup property. Gets or sets the first page configuration
 type: docs
 weight: 40
-url: /net/com.aspose.html.rendering/pagesetup/firstpage/
+url: /java/com.aspose.html.rendering/pagesetup/firstpage/
 ---
 ## PageSetup.FirstPage property
 

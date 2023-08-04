@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit CharacterReferenceSyntax
 type: docs
 weight: 50
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitcharacterreference/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitcharacterreference/
 ---
 ## MarkdownSyntaxVisitor.VisitCharacterReference method
 

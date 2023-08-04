@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLDocument property. Returns the URI IETF RFC 2396 of the page that linked to this page. The value is an empty String if the user navigated to the page directly not through a link but for example via a bookmark
 type: docs
 weight: 90
-url: /net/com.aspose.html/htmldocument/referrer/
+url: /java/com.aspose.html/htmldocument/referrer/
 ---
 ## HTMLDocument.Referrer property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGViewElement property. Corresponds to attribute zoomAndPan on the given element. The value must be one of the SVG_ZOOMANDPAN_ constants defined on this interface
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg/svgviewelement/zoomandpan/
+url: /java/com.aspose.html.dom.svg/svgviewelement/zoomandpan/
 ---
 ## SVGViewElement.ZoomAndPan property
 

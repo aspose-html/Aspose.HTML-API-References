@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IInlineParsingContext method. Defines the Push method
 type: docs
 weight: 50
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/push/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/push/
 ---
 ## Push(InlineSyntaxNode) {#push}
 

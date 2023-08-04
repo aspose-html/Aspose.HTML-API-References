@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGForeignObjectElement property. Corresponds to attribute y on the given foreignObject element
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg/svgforeignobjectelement/y/
+url: /java/com.aspose.html.dom.svg/svgforeignobjectelement/y/
 ---
 ## SVGForeignObjectElement.Y property
 

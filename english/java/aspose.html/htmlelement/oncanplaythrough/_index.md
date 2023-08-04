@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnCanPlayThrough event
 type: docs
 weight: 110
-url: /net/com.aspose.html/htmlelement/oncanplaythrough/
+url: /java/com.aspose.html/htmlelement/oncanplaythrough/
 ---
 ## HTMLElement.OnCanPlayThrough event
 

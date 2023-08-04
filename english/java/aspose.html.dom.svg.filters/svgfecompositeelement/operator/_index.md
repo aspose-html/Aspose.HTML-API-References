@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFECompositeElement property. Corresponds to attribute operator on the given feComposite element. Takes one of the SVG_FECOMPOSITE_OPERATOR_ constants defined on this interface
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.svg.filters/svgfecompositeelement/operator/
+url: /java/com.aspose.html.dom.svg.filters/svgfecompositeelement/operator/
 ---
 ## SVGFECompositeElement.Operator property
 

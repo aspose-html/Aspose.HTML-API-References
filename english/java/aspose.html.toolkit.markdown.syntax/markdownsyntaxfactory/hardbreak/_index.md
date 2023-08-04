@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates HardBreakSyntaxNode
 type: docs
 weight: 130
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hardbreak/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hardbreak/
 ---
 ## MarkdownSyntaxFactory.HardBreak method
 

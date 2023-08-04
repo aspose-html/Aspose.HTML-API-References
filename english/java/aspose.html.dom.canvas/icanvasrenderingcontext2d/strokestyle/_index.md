@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D property. Color or style to use for the lines around shapes. Default black
 type: docs
 weight: 100
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/strokestyle/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/strokestyle/
 ---
 ## ICanvasRenderingContext2D.StrokeStyle property
 

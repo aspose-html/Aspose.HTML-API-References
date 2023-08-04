@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.DataTypes.SVGLength class. The SVGLength interface corresponds to the length basic data type. An SVGLength object can be designated as read only which means that attempts to modify the object will result in an exception being thrown as described below
 type: docs
 weight: 1210
-url: /net/com.aspose.html.dom.svg.datatypes/svglength/
+url: /java/com.aspose.html.dom.svg.datatypes/svglength/
 ---
 ## SVGLength class
 

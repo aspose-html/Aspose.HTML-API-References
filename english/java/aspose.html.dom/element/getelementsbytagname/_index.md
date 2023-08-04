@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Element method. Returns HTMLCollection object containing all elements with a given tag name in document order
 type: docs
 weight: 290
-url: /net/com.aspose.html.dom/element/getelementsbytagname/
+url: /java/com.aspose.html.dom/element/getelementsbytagname/
 ---
 ## Element.GetElementsByTagName method
 

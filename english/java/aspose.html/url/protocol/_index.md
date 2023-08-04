@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Url property. Gets or sets a String representation for the specified URL schema
 type: docs
 weight: 100
-url: /net/com.aspose.html/url/protocol/
+url: /java/com.aspose.html/url/protocol/
 ---
 ## Url.Protocol property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: 
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.canvas/
+url: /java/com.aspose.html.dom.canvas/
 ---
 
 

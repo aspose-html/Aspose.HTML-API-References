@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGLength property. The type of the value as specified by one of the SVG_LENGTHTYPE_ constants defined on this interface
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.datatypes/svglength/unittype/
+url: /java/com.aspose.html.dom.svg.datatypes/svglength/unittype/
 ---
 ## SVGLength.UnitType property
 

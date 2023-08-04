@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OutputStream method. Writes a sequence of bytes to the wrapped output stream and advances the current position within this stream by the number of bytes written
 type: docs
 weight: 130
-url: /net/com.aspose.html.io/outputstream/write/
+url: /java/com.aspose.html.io/outputstream/write/
 ---
 ## OutputStream.Write method
 

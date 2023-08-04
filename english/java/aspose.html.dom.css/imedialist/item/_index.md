@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IMediaList property. RetuThe itemindex method must return a serialization of the media query in the collection of media queries given by index or null if index is greater than or equal to the number of media queries in the collection of media queries
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.css/imedialist/item/
+url: /java/com.aspose.html.dom.css/imedialist/item/
 ---
 ## IMediaList indexer
 

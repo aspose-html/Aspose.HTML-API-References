@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegCurvetoQuadraticRel property. The relative Y coordinate for the end point of this path segment
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticrel/y/
+url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticrel/y/
 ---
 ## SVGPathSegCurvetoQuadraticRel.Y property
 

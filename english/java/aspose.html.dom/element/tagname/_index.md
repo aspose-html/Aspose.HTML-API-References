@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Element property. The name of the element
 type: docs
 weight: 210
-url: /net/com.aspose.html.dom/element/tagname/
+url: /java/com.aspose.html.dom/element/tagname/
 ---
 ## Element.TagName property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: KeyboardEvent field. The key activation MUST NOT be distinguished as the left or right version of the key and other than the NumLock key did not originate from the numeric keypad or did not originate with a virtual key corresponding to the numeric keypad
 type: docs
 weight: 140
-url: /net/com.aspose.html.dom.events/keyboardevent/dom_key_location_standard/
+url: /java/com.aspose.html.dom.events/keyboardevent/dom_key_location_standard/
 ---
 ## KeyboardEvent.DOM_KEY_LOCATION_STANDARD field
 

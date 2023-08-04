@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DelimiterRun property. Get and Set the Span
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/delimiterrun/span/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/delimiterrun/span/
 ---
 ## DelimiterRun.Span property
 

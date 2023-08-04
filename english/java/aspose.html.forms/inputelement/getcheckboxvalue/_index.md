@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: InputElement method. Returns the checkedness state for the input element with the Checkbox type 
 type: docs
 weight: 70
-url: /net/com.aspose.html.forms/inputelement/getcheckboxvalue/
+url: /java/com.aspose.html.forms/inputelement/getcheckboxvalue/
 ---
 ## InputElement.GetCheckboxValue method
 

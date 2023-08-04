@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.Doc.DocDevice class. Represents rendering to a DOCX document
 type: docs
 weight: 4200
-url: /net/com.aspose.html.rendering.doc/docdevice/
+url: /java/com.aspose.html.rendering.doc/docdevice/
 ---
 ## DocDevice class
 

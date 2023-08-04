@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSRule property. The cssText property of the CSSRule interface returns the actual text of a CSSStyleSheet style-rule
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.css/icssrule/csstext/
+url: /java/com.aspose.html.dom.css/icssrule/csstext/
 ---
 ## ICSSRule.CSSText property
 

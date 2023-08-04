@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: WheelEvent field. The units of measurement for the delta MUST be pages either defined as a single screen or as a demarcated page
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.events/wheelevent/dom_delta_page/
+url: /java/com.aspose.html.dom.events/wheelevent/dom_delta_page/
 ---
 ## WheelEvent.DOM_DELTA_PAGE field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGDocument property. The domain name of the server that served the document or a null String if the server cannot be identified by a domain name
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg/svgdocument/domain/
+url: /java/com.aspose.html.dom.svg/svgdocument/domain/
 ---
 ## SVGDocument.Domain property
 

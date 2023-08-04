@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The table-layout property controls the algorithm used to lay out the table cells rows and columns. Values have the following meaning
 type: docs
 weight: 1060
-url: /net/com.aspose.html.dom.css/icss2properties/tablelayout/
+url: /java/com.aspose.html.dom.css/icss2properties/tablelayout/
 ---
 ## ICSS2Properties.TableLayout property
 

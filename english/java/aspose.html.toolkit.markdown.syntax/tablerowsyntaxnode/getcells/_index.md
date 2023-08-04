@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TableRowSyntaxNode method. Defines the interface for get cells
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/getcells/
+url: /java/com.aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/getcells/
 ---
 ## TableRowSyntaxNode.GetCells method
 

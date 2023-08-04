@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IWindowEventHandlers event. Gets or sets event handler
 type: docs
 weight: 100
-url: /net/com.aspose.html.window/iwindoweventhandlers/onpopstate/
+url: /java/com.aspose.html.window/iwindoweventhandlers/onpopstate/
 ---
 ## IWindowEventHandlers.OnPopState event
 

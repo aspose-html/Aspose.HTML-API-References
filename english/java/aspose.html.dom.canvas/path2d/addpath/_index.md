@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Path2D method. Adds to the path the path given by the argument
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.canvas/path2d/addpath/
+url: /java/com.aspose.html.dom.canvas/path2d/addpath/
 ---
 ## AddPath(Path2D) {#addpath}
 

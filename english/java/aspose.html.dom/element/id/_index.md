@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Element property. The elements identifier. See the id attribute definition in HTML 4.01
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom/element/id/
+url: /java/com.aspose.html.dom/element/id/
 ---
 ## Element.Id property
 

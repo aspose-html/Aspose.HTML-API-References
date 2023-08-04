@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownTextWriter constructor. Initializes a new instance of an MarkdownTextWriter
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdowntextwriter/markdowntextwriter/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdowntextwriter/markdowntextwriter/
 ---
 ## MarkdownTextWriter(Stream) {#constructor}
 

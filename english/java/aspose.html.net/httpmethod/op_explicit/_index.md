@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HttpMethod method. 
 type: docs
 weight: 100
-url: /net/com.aspose.html.net/httpmethod/op_explicit/
+url: /java/com.aspose.html.net/httpmethod/op_explicit/
 ---
 ## HttpMethod Explicit operator
 

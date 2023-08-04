@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HugoShortCodeSyntaxNode method. Defines the GetParameter
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/getparameter/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/getparameter/
 ---
 ## HugoShortCodeSyntaxNode.GetParameter method
 

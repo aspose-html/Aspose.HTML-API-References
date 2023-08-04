@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTransform field. A rotate transformation
 type: docs
 weight: 120
-url: /net/com.aspose.html.dom.svg.datatypes/svgtransform/svg_transform_rotate/
+url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/svg_transform_rotate/
 ---
 ## SVGTransform.SVG_TRANSFORM_ROTATE field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfGraphicContext property. Sets or gets the brush object that is used to fill the interiors of paths
 type: docs
 weight: 20
-url: /net/com.aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/fillbrush/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/fillbrush/
 ---
 ## PdfDevice.PdfGraphicContext.FillBrush property
 

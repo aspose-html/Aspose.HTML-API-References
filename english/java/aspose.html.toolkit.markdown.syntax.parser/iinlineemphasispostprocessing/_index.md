@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.IInlineEmphasisPostProcessing interface. Defines the IInlineEmphasisPostProcessing interface
 type: docs
 weight: 5380
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/iinlineemphasispostprocessing/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iinlineemphasispostprocessing/
 ---
 ## IInlineEmphasisPostProcessing interface
 

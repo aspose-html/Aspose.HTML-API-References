@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGException class. This exception is raised when a specific SVG operation is impossible to perform
 type: docs
 weight: 2060
-url: /net/com.aspose.html.dom.svg/svgexception/
+url: /java/com.aspose.html.dom.svg/svgexception/
 ---
 ## SVGException class
 

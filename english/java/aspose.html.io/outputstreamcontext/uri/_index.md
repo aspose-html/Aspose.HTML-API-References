@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OutputStreamContext property. Gets the original URI of the saved resource
 type: docs
 weight: 10
-url: /net/com.aspose.html.io/outputstreamcontext/uri/
+url: /java/com.aspose.html.io/outputstreamcontext/uri/
 ---
 ## OutputStreamContext.Uri property
 

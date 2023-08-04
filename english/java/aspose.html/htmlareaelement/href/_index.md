@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLAreaElement property. The URI IETF RFC 2396 of the linked resource. See the href attribute definition in HTML 4.01
 type: docs
 weight: 40
-url: /net/com.aspose.html/htmlareaelement/href/
+url: /java/com.aspose.html/htmlareaelement/href/
 ---
 ## HTMLAreaElement.Href property
 

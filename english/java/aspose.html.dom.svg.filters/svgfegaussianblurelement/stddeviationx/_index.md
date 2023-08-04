@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEGaussianBlurElement property. Corresponds to attribute stdDeviation on the given feGaussianBlur element. Contains the X component of attribute stdDeviation
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg.filters/svgfegaussianblurelement/stddeviationx/
+url: /java/com.aspose.html.dom.svg.filters/svgfegaussianblurelement/stddeviationx/
 ---
 ## SVGFEGaussianBlurElement.StdDeviationX property
 

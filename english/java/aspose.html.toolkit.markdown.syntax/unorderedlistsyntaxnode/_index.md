@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.UnorderedListSyntaxNode class. Represent the unordered list syntax node
 type: docs
 weight: 5730
-url: /net/com.aspose.html.toolkit.markdown.syntax/unorderedlistsyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/unorderedlistsyntaxnode/
 ---
 ## UnorderedListSyntaxNode class
 

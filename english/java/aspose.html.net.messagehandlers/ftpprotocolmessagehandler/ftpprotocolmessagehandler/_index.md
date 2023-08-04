@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FtpProtocolMessageHandler constructor. Initializes a new instance of the FtpProtocolMessageHandler class
 type: docs
 weight: 10
-url: /net/com.aspose.html.net.messagehandlers/ftpprotocolmessagehandler/ftpprotocolmessagehandler/
+url: /java/com.aspose.html.net.messagehandlers/ftpprotocolmessagehandler/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler constructor
 

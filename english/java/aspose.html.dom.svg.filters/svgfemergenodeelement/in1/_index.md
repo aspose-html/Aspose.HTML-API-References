@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEMergeNodeElement property. Corresponds to attribute in on the given feMergeNode element
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.filters/svgfemergenodeelement/in1/
+url: /java/com.aspose.html.dom.svg.filters/svgfemergenodeelement/in1/
 ---
 ## SVGFEMergeNodeElement.In1 property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSCounterStyleRule property. The name property of the CSSCounterStyleRule interface gets and sets the custom-ident defined as the name for the associated rule
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.css/icsscounterstylerule/name/
+url: /java/com.aspose.html.dom.css/icsscounterstylerule/name/
 ---
 ## ICSSCounterStyleRule.Name property
 

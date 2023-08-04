@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLObjectElement property. Override height. See the height attribute definition in HTML 4.01
 type: docs
 weight: 110
-url: /net/com.aspose.html/htmlobjectelement/height/
+url: /java/com.aspose.html/htmlobjectelement/height/
 ---
 ## HTMLObjectElement.Height property
 

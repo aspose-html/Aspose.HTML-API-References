@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Drawing.IBrush interface. Declares method for getting of brush type
 type: docs
 weight: 2690
-url: /net/com.aspose.html.drawing/ibrush/
+url: /java/com.aspose.html.drawing/ibrush/
 ---
 ## IBrush interface
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnVolumeChange event
 type: docs
 weight: 490
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onvolumechange/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onvolumechange/
 ---
 ## IGlobalEventHandlers.OnVolumeChange event
 

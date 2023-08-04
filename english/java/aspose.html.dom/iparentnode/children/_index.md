@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IParentNode property. Returns the child elements
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom/iparentnode/children/
+url: /java/com.aspose.html.dom/iparentnode/children/
 ---
 ## IParentNode.Children property
 

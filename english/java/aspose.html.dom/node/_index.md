@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Node class. The Node interface is the primary datatype for the entire Document Object Model. It represents a single node in the document tree. While all objects implementing the Node interface expose methods for dealing with children not all objects implementing the Node interface may have children. For example Text nodes may not have children and adding children to such nodes results in a DOMException being raised
 type: docs
 weight: 1010
-url: /net/com.aspose.html.dom/node/
+url: /java/com.aspose.html.dom/node/
 ---
 ## Node class
 

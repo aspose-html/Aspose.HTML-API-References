@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Forms.ButtonElement class. The ButtonElement represents a wrapper that is associated with the HTMLButtonElement
 type: docs
 weight: 2910
-url: /net/com.aspose.html.forms/buttonelement/
+url: /java/com.aspose.html.forms/buttonelement/
 ---
 ## ButtonElement class
 

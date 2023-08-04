@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IUrlSearchParams method. Appends a new name-value pair whose name is name and value is value
 type: docs
 weight: 10
-url: /net/com.aspose.html/iurlsearchparams/append/
+url: /java/com.aspose.html/iurlsearchparams/append/
 ---
 ## IUrlSearchParams.Append method
 

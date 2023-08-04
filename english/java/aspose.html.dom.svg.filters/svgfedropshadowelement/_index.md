@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Filters.SVGFEDropShadowElement class. The SVGFEDropShadowElement interface corresponds to the feDropShadow element
 type: docs
 weight: 1450
-url: /net/com.aspose.html.dom.svg.filters/svgfedropshadowelement/
+url: /java/com.aspose.html.dom.svg.filters/svgfedropshadowelement/
 ---
 ## SVGFEDropShadowElement class
 

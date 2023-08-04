@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IXPathNSResolver method. Look up the package URI associated to the given package prefix. The XPath evaluator must never call this with a null or empty argument because the result of doing this is undefined
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.xpath/ixpathnsresolver/lookuppackageuri/
+url: /java/com.aspose.html.dom.xpath/ixpathnsresolver/lookuppackageuri/
 ---
 ## IXPathNSResolver.LookupNamespaceURI method
 

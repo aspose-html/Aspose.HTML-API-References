@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Extensions.YamlMappingSyntaxNode class. Defines the YamlMappingSyntaxNode
 type: docs
 weight: 4960
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/
 ---
 ## YamlMappingSyntaxNode class
 

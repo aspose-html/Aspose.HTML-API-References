@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.ShadowRoot class. ShadowRoot is a root node of shadow tree
 type: docs
 weight: 1040
-url: /net/com.aspose.html.dom/shadowroot/
+url: /java/com.aspose.html.dom/shadowroot/
 ---
 ## ShadowRoot class
 

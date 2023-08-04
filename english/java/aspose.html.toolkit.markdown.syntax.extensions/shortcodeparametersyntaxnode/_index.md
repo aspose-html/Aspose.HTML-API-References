@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Extensions.ShortCodeParameterSyntaxNode class. Defines the ShortCodeParameterSyntax
 type: docs
 weight: 4950
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/
 ---
 ## ShortCodeParameterSyntaxNode class
 

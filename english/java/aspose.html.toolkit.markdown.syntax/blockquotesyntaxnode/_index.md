@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.BlockQuoteSyntaxNode class. Represents the BlockQuoteSyntaxNode
 type: docs
 weight: 4810
-url: /net/com.aspose.html.toolkit.markdown.syntax/blockquotesyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/blockquotesyntaxnode/
 ---
 ## BlockQuoteSyntaxNode class
 

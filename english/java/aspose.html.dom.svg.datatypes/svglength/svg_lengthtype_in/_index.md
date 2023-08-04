@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGLength field. A value was specified using the in units defined in CSS2
 type: docs
 weight: 110
-url: /net/com.aspose.html.dom.svg.datatypes/svglength/svg_lengthtype_in/
+url: /java/com.aspose.html.dom.svg.datatypes/svglength/svg_lengthtype_in/
 ---
 ## SVGLength.SVG_LENGTHTYPE_IN field
 

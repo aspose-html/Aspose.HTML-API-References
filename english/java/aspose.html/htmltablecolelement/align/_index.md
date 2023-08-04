@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableColElement property. Horizontal alignment of cell data in column. See the align attribute definition in HTML 4.01
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmltablecolelement/align/
+url: /java/com.aspose.html/htmltablecolelement/align/
 ---
 ## HTMLTableColElement.Align property
 

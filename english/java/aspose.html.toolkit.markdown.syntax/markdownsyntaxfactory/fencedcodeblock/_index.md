@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates FencedCodeBlockSyntaxNode
 type: docs
 weight: 120
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/fencedcodeblock/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/fencedcodeblock/
 ---
 ## MarkdownSyntaxFactory.FencedCodeBlock method
 

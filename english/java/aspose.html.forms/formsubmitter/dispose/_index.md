@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FormSubmitter method. Releases unmanaged and - optionally - managed resources
 type: docs
 weight: 40
-url: /net/com.aspose.html.forms/formsubmitter/dispose/
+url: /java/com.aspose.html.forms/formsubmitter/dispose/
 ---
 ## FormSubmitter.Dispose method
 

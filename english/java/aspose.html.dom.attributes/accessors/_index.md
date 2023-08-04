@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Attributes.Accessors enum. Represents the enumeration of member accessors that is defined by the W3C
 type: docs
 weight: 130
-url: /net/com.aspose.html.dom.attributes/accessors/
+url: /java/com.aspose.html.dom.attributes/accessors/
 ---
 ## Accessors enumeration
 

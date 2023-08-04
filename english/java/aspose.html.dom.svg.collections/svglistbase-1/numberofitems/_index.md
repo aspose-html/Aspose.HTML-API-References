@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGListBase property. The number of items in the list
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg.collections/svglistbase-1/numberofitems/
+url: /java/com.aspose.html.dom.svg.collections/svglistbase-1/numberofitems/
 ---
 ## SVGListBase&lt;T&gt;.NumberOfItems property
 

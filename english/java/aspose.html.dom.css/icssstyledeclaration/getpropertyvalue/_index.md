@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSStyleDeclaration method. The CSSStyleDeclaration.getPropertyValue method interface returns a String containing the value of a specified CSS property
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.css/icssstyledeclaration/getpropertyvalue/
+url: /java/com.aspose.html.dom.css/icssstyledeclaration/getpropertyvalue/
 ---
 ## ICSSStyleDeclaration.GetPropertyValue method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.IParentNode interface. Defines the IParentNode interface that is implemented by any possible parents
 type: docs
 weight: 960
-url: /net/com.aspose.html.dom/iparentnode/
+url: /java/com.aspose.html.dom/iparentnode/
 ---
 ## IParentNode interface
 

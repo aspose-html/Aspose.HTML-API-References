@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Saving.ResourceHandlingOptions class. Represents resource handling options
 type: docs
 weight: 4700
-url: /net/com.aspose.html.saving/resourcehandlingoptions/
+url: /java/com.aspose.html.saving/resourcehandlingoptions/
 ---
 ## ResourceHandlingOptions class
 

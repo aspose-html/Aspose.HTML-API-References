@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableRowElement method. Delete a cell from the current row
 type: docs
 weight: 90
-url: /net/com.aspose.html/htmltablerowelement/deletecell/
+url: /java/com.aspose.html/htmltablerowelement/deletecell/
 ---
 ## HTMLTableRowElement.DeleteCell method
 

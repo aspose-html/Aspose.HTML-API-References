@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.Drawing package contains objects and interfaces to specify measurement and units as well as drawing attribute objects like brushes colors and fonts
 type: docs
 weight: 220
-url: /net/com.aspose.html.drawing/
+url: /java/com.aspose.html.drawing/
 ---
 The **com.aspose.html.Drawing** package contains objects and interfaces to specify measurement and units as well as drawing attribute objects like brushes, colors and fonts.
 

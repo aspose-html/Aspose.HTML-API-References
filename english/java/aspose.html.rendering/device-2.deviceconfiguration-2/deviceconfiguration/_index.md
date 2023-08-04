@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DeviceConfiguration constructor. The default constructor
 type: docs
 weight: 10
-url: /net/com.aspose.html.rendering/device-2.deviceconfiguration-2/deviceconfiguration/
+url: /java/com.aspose.html.rendering/device-2.deviceconfiguration-2/deviceconfiguration/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; constructor
 

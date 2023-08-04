@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFECompositeElement field. The type is not one of predefined types. It is invalid to attempt to define a new value of this type or to attempt to switch an existing value to this type
 type: docs
 weight: 180
-url: /net/com.aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_unknown/
+url: /java/com.aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_unknown/
 ---
 ## SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_UNKNOWN field
 

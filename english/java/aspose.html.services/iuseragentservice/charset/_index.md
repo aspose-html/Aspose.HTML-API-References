@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IUserAgentService property. Gets or sets the primary character-set for a document
 type: docs
 weight: 10
-url: /net/com.aspose.html.services/iuseragentservice/charset/
+url: /java/com.aspose.html.services/iuseragentservice/charset/
 ---
 ## IUserAgentService.CharSet property
 

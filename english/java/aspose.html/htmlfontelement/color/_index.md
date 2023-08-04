@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLFontElement property. Font color. See the color attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmlfontelement/color/
+url: /java/com.aspose.html/htmlfontelement/color/
 ---
 ## HTMLFontElement.Color property
 

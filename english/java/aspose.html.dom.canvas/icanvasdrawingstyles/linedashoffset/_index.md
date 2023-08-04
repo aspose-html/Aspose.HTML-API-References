@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasDrawingStyles property. Specifies where to start a dash array on a line
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.canvas/icanvasdrawingstyles/linedashoffset/
+url: /java/com.aspose.html.dom.canvas/icanvasdrawingstyles/linedashoffset/
 ---
 ## ICanvasDrawingStyles.LineDashOffset property
 

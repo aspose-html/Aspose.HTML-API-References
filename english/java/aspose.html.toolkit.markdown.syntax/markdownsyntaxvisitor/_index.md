@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.MarkdownSyntaxVisitor class. The base class for markdown syntax visitor
 type: docs
 weight: 5230
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/
 ---
 ## MarkdownSyntaxVisitor class
 

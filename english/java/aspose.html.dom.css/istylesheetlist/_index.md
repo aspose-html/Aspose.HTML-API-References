@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Css.IStyleSheetList interface. The StyleSheetList interface represents a list of CSSStyleSheet objects. An instance of this object can be returned by Document.styleSheets
 type: docs
 weight: 610
-url: /net/com.aspose.html.dom.css/istylesheetlist/
+url: /java/com.aspose.html.dom.css/istylesheetlist/
 ---
 ## IStyleSheetList interface
 

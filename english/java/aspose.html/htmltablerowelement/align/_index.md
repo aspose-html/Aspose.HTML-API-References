@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableRowElement property. Horizontal alignment of data within cells of this row. See the align attribute definition in HTML 4.01
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmltablerowelement/align/
+url: /java/com.aspose.html/htmltablerowelement/align/
 ---
 ## HTMLTableRowElement.Align property
 

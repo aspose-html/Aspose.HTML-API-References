@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSPageRule property. The selectorText property of the CSSPageRule interface gets and sets the selectors associated with the CSSPageRule
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.css/icsspagerule/selectortext/
+url: /java/com.aspose.html.dom.css/icsspagerule/selectortext/
 ---
 ## ICSSPageRule.SelectorText property
 

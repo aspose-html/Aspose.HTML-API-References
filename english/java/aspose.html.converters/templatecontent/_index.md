@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Converters.TemplateContent enum. Content type identifier
 type: docs
 weight: 80
-url: /net/com.aspose.html.converters/templatecontent/
+url: /java/com.aspose.html.converters/templatecontent/
 ---
 ## TemplateContent enumeration
 

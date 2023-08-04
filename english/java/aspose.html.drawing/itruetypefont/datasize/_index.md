@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ITrueTypeFont property. Returns the size of the font data in bytes
 type: docs
 weight: 10
-url: /net/com.aspose.html.drawing/itruetypefont/datasize/
+url: /java/com.aspose.html.drawing/itruetypefont/datasize/
 ---
 ## ITrueTypeFont.DataSize property
 

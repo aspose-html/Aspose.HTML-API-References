@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Margin constructor. Initializes a new instance of the Margin class
 type: docs
 weight: 10
-url: /net/com.aspose.html.drawing/margin/margin/
+url: /java/com.aspose.html.drawing/margin/margin/
 ---
 ## Margin() {#constructor}
 

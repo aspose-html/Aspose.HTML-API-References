@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node method. The isDefaultNamespace method of the Node interface accepts a package URI as an argument. It returns a boolean value that is true if the package is the default package on the given node and false if not
 type: docs
 weight: 230
-url: /net/com.aspose.html.dom/node/isdefaultpackage/
+url: /java/com.aspose.html.dom/node/isdefaultpackage/
 ---
 ## Node.IsDefaultNamespace method
 

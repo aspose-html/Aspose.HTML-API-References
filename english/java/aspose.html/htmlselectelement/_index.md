@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLSelectElement class. The select element allows the selection of an option. The contained options can be directly accessed through the select element as a collection. See the SELECT element definition in HTML 4.01
 type: docs
 weight: 3530
-url: /net/com.aspose.html/htmlselectelement/
+url: /java/com.aspose.html/htmlselectelement/
 ---
 ## HTMLSelectElement class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The pause property is a shorthand for setting pause-before and pause-after. If two values are given the first value is pause-before and the second is pause-after. If only one value is given it applies to both properties
 type: docs
 weight: 890
-url: /net/com.aspose.html.dom.css/icss2properties/pause/
+url: /java/com.aspose.html.dom.css/icss2properties/pause/
 ---
 ## ICSS2Properties.Pause property
 

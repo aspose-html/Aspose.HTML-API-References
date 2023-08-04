@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfEncryptionInfo property. Gets or sets the permissions
 type: docs
 weight: 40
-url: /net/com.aspose.html.rendering.pdf.encryption/pdfencryptioninfo/permissions/
+url: /java/com.aspose.html.rendering.pdf.encryption/pdfencryptioninfo/permissions/
 ---
 ## PdfEncryptionInfo.Permissions property
 

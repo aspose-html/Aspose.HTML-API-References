@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LengthOrAuto method. Returns a String that represents this instance
 type: docs
 weight: 70
-url: /net/com.aspose.html.drawing/lengthorauto/toString/
+url: /java/com.aspose.html.drawing/lengthorauto/toString/
 ---
 ## LengthOrAuto.ToString method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEDiffuseLightingElement property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.svg.filters/svgfediffuselightingelement/width/
+url: /java/com.aspose.html.dom.svg.filters/svgfediffuselightingelement/width/
 ---
 ## SVGFEDiffuseLightingElement.Width property
 

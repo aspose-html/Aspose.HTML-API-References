@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGAnimateElement class. The SVGAnimateElement interface corresponds to the animate element. Object-oriented access to the attributes of the animate element via the SVG DOM is not available
 type: docs
 weight: 1920
-url: /net/com.aspose.html.dom.svg/svganimateelement/
+url: /java/com.aspose.html.dom.svg/svganimateelement/
 ---
 ## SVGAnimateElement class
 

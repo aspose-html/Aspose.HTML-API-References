@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: RequestMessage property. Gets or sets the HttpMethod
 type: docs
 weight: 60
-url: /net/com.aspose.html.net/requestmessage/method/
+url: /java/com.aspose.html.net/requestmessage/method/
 ---
 ## RequestMessage.Method property
 

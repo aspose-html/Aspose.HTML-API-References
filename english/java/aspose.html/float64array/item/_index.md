@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Float64Array property. Gets or sets the Double at the specified index
 type: docs
 weight: 20
-url: /net/com.aspose.html/float64array/item/
+url: /java/com.aspose.html/float64array/item/
 ---
 ## Float64Array indexer
 

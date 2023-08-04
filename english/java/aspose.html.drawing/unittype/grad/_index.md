@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is in gradians
 type: docs
 weight: 100
-url: /net/com.aspose.html.drawing/unittype/grad/
+url: /java/com.aspose.html.drawing/unittype/grad/
 ---
 ## UnitType.Grad field
 

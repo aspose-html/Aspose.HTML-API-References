@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGTSpanElement class. The SVGTSpanElement interface corresponds to the tspan element
 type: docs
 weight: 2340
-url: /net/com.aspose.html.dom.svg/svgtspanelement/
+url: /java/com.aspose.html.dom.svg/svgtspanelement/
 ---
 ## SVGTSpanElement class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDevice method. Strokes the specified text String at the specified location
 type: docs
 weight: 220
-url: /net/com.aspose.html.rendering.pdf/pdfdevice/stroketext/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice/stroketext/
 ---
 ## PdfDevice.StrokeText method
 

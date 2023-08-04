@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. If a given element is focused this method draws a focus ring around the current path
 type: docs
 weight: 200
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/drawfocusifneeded/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/drawfocusifneeded/
 ---
 ## ICanvasRenderingContext2D.DrawFocusIfNeeded method
 

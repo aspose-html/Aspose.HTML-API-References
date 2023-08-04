@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSKeyframesRule method. The findRule method returns the rule with a key matching the passed key. If no such rule exists a null value is returned
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.css/icsskeyframesrule/findrule/
+url: /java/com.aspose.html.dom.css/icsskeyframesrule/findrule/
 ---
 ## ICSSKeyframesRule.FindRule method
 

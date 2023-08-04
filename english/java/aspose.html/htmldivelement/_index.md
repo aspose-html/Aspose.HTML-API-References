@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLDivElement class. Generic block container. See the DIV element definition in HTML 4.01
 type: docs
 weight: 3190
-url: /net/com.aspose.html/htmldivelement/
+url: /java/com.aspose.html/htmldivelement/
 ---
 ## HTMLDivElement class
 

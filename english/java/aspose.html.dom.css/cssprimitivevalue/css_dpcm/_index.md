@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CSSPrimitiveValue field. The value is a dots per centimeter dpcm
 type: docs
 weight: 170
-url: /net/com.aspose.html.dom.css/cssprimitivevalue/css_dpcm/
+url: /java/com.aspose.html.dom.css/cssprimitivevalue/css_dpcm/
 ---
 ## CSSPrimitiveValue.CSS_DPCM field
 

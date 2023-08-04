@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDOMImplementation method. Creates an empty DocumentType node. Entity declarations and notations are not made available. Entity reference expansions and default attribute additions do not occur
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom/idomimplementation/createdocumenttype/
+url: /java/com.aspose.html.dom/idomimplementation/createdocumenttype/
 ---
 ## IDOMImplementation.CreateDocumentType method
 

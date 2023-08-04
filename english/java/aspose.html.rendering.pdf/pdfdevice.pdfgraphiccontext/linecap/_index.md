@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfGraphicContext property. Sets or gets the code specifying the shape of the endpoints for any open path that is stroked
 type: docs
 weight: 30
-url: /net/com.aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/linecap/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/linecap/
 ---
 ## PdfDevice.PdfGraphicContext.LineCap property
 

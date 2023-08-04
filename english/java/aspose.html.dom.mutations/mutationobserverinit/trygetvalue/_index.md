@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit method. Gets the value associated with the specified key
 type: docs
 weight: 210
-url: /net/com.aspose.html.dom.mutations/mutationobserverinit/trygetvalue/
+url: /java/com.aspose.html.dom.mutations/mutationobserverinit/trygetvalue/
 ---
 ## MutationObserverInit.TryGetValue method
 

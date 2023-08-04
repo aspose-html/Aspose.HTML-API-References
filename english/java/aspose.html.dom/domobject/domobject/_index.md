@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMObject constructor. The default constructor
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom/domobject/domobject/
+url: /java/com.aspose.html.dom/domobject/domobject/
 ---
 ## DOMObject constructor
 

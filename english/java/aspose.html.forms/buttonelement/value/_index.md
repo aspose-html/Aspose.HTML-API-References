@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ButtonElement property. Represents the String value of the button element that is directly mapped to the value attribute
 type: docs
 weight: 40
-url: /net/com.aspose.html.forms/buttonelement/value/
+url: /java/com.aspose.html.forms/buttonelement/value/
 ---
 ## ButtonElement.Value property
 

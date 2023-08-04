@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEMorphologyElement property. Corresponds to attribute result on the given filter element
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom.svg.filters/svgfemorphologyelement/result/
+url: /java/com.aspose.html.dom.svg.filters/svgfemorphologyelement/result/
 ---
 ## SVGFEMorphologyElement.Result property
 

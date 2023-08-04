@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMException field. The quota has been exceeded
 type: docs
 weight: 230
-url: /net/com.aspose.html.dom/domexception/quota_exceeded_err/
+url: /java/com.aspose.html.dom/domexception/quota_exceeded_err/
 ---
 ## DOMException.QUOTA_EXCEEDED_ERR field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IWindowEventHandlers event. Gets or sets event handler
 type: docs
 weight: 60
-url: /net/com.aspose.html.window/iwindoweventhandlers/onoffline/
+url: /java/com.aspose.html.window/iwindoweventhandlers/onoffline/
 ---
 ## IWindowEventHandlers.OnOffline event
 

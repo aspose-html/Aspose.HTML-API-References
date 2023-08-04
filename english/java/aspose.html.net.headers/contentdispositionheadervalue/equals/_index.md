@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ContentDispositionHeaderValue method. Determines whether the specified Object is equal to this instance
 type: docs
 weight: 60
-url: /net/com.aspose.html.net.headers/contentdispositionheadervalue/equals/
+url: /java/com.aspose.html.net.headers/contentdispositionheadervalue/equals/
 ---
 ## ContentDispositionHeaderValue.Equals method
 

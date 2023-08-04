@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FontsSettings property. Gets or sets the class which allows you to control some parts of the font matching algorithm
 type: docs
 weight: 10
-url: /net/com.aspose.html/fontssettings/fontmatcher/
+url: /java/com.aspose.html/fontssettings/fontmatcher/
 ---
 ## FontsSettings.FontMatcher property
 

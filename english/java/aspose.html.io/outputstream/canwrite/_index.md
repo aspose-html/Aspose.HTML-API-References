@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OutputStream property. Gets a value indicating whether the wrapped output stream supports writing
 type: docs
 weight: 40
-url: /net/com.aspose.html.io/outputstream/canwrite/
+url: /java/com.aspose.html.io/outputstream/canwrite/
 ---
 ## OutputStream.CanWrite property
 

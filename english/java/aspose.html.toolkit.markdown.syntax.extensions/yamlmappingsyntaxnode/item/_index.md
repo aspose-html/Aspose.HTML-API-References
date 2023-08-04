@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: YamlMappingSyntaxNode property. Get the value by index
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/item/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/item/
 ---
 ## YamlMappingSyntaxNode indexer (1 of 2)
 

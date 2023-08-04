@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PageSetup property. Gets the Even Page configuration
 type: docs
 weight: 70
-url: /net/com.aspose.html.rendering/pagesetup/rightpage/
+url: /java/com.aspose.html.rendering/pagesetup/rightpage/
 ---
 ## PageSetup.RightPage property
 

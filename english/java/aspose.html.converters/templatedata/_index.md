@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Converters.TemplateData class. Merging User data object
 type: docs
 weight: 100
-url: /net/com.aspose.html.converters/templatedata/
+url: /java/com.aspose.html.converters/templatedata/
 ---
 ## TemplateData class
 

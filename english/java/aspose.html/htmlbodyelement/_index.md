@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLBodyElement class. The HTML document body. This element is always present in the DOM API even if the tags are not present in the source document. See the BODY element definition in HTML 4.01
 type: docs
 weight: 3130
-url: /net/com.aspose.html/htmlbodyelement/
+url: /java/com.aspose.html/htmlbodyelement/
 ---
 ## HTMLBodyElement class
 

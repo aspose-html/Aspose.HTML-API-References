@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.TypeInfo class. The TypeInfo represents a type referenced from Element or Attr nodes specified in the schemas associated with the document
 type: docs
 weight: 2540
-url: /net/com.aspose.html.dom/typeinfo/
+url: /java/com.aspose.html.dom/typeinfo/
 ---
 ## TypeInfo class
 

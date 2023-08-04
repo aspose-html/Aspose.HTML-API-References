@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSCounterStyleRule property. The glyphs property of the CSSCounterStyleRule interface gets and sets the value of the symbols descriptor. If the descriptor does not have a value set this attribute returns an empty String
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.css/icsscounterstylerule/glyphs/
+url: /java/com.aspose.html.dom.css/icsscounterstylerule/glyphs/
 ---
 ## ICSSCounterStyleRule.Glyphs property
 

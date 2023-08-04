@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Filters.SVGFEDisplacementMapElement class. The SVGFEDisplacementMapElement interface corresponds to the feDisplacementMap element
 type: docs
 weight: 1430
-url: /net/com.aspose.html.dom.svg.filters/svgfedisplacementmapelement/
+url: /java/com.aspose.html.dom.svg.filters/svgfedisplacementmapelement/
 ---
 ## SVGFEDisplacementMapElement class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ILinearGradientBrush property. Get the starting point of the linear gradient
 type: docs
 weight: 60
-url: /net/com.aspose.html.drawing/ilineargradientbrush/startpoint/
+url: /java/com.aspose.html.drawing/ilineargradientbrush/startpoint/
 ---
 ## ILinearGradientBrush.StartPoint property
 

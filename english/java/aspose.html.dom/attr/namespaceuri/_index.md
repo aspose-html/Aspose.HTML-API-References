@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Attr property. The package URI of this node or null if it is unspecified
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom/attr/packageuri/
+url: /java/com.aspose.html.dom/attr/packageuri/
 ---
 ## Attr.NamespaceURI property
 

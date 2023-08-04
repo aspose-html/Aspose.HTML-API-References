@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEBlendElement property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.svg.filters/svgfeblendelement/x/
+url: /java/com.aspose.html.dom.svg.filters/svgfeblendelement/x/
 ---
 ## SVGFEBlendElement.X property
 

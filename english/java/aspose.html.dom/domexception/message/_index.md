@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMException property. Returns a String representing a message or description associated with the given error name
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom/domexception/message/
+url: /java/com.aspose.html.dom/domexception/message/
 ---
 ## DOMException.Message property
 

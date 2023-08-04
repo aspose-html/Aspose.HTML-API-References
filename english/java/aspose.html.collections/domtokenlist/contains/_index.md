@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMTokenList method. Returns true if the list contains the given token otherwise false
 type: docs
 weight: 50
-url: /net/com.aspose.html.collections/domtokenlist/contains/
+url: /java/com.aspose.html.collections/domtokenlist/contains/
 ---
 ## DOMTokenList.Contains method
 

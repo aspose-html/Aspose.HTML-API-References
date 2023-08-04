@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFETurbulenceElement field. Corresponds to value noStitch
 type: docs
 weight: 120
-url: /net/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_stitchtype_nostitch/
+url: /java/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_stitchtype_nostitch/
 ---
 ## SVGFETurbulenceElement.SVG_STITCHTYPE_NOSTITCH field
 

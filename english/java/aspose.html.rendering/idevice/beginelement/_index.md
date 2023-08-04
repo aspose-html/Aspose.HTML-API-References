@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDevice method. Begins rendering of the element
 type: docs
 weight: 50
-url: /net/com.aspose.html.rendering/idevice/beginelement/
+url: /java/com.aspose.html.rendering/idevice/beginelement/
 ---
 ## IDevice.BeginElement method
 

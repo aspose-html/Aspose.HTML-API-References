@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: InlineContainerSyntaxNode method. Returns an enumerator that iterates through the collection
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/inlinecontainersyntaxnode/getenumerator/
+url: /java/com.aspose.html.toolkit.markdown.syntax/inlinecontainersyntaxnode/getenumerator/
 ---
 ## InlineContainerSyntaxNode.GetEnumerator method
 

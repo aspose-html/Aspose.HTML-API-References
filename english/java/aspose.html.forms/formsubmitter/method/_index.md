@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FormSubmitter property. HTTP method IETF RFC 2616 used to submit form. See the method attribute definition in HTML 4.01
 type: docs
 weight: 30
-url: /net/com.aspose.html.forms/formsubmitter/method/
+url: /java/com.aspose.html.forms/formsubmitter/method/
 ---
 ## FormSubmitter.Method property
 

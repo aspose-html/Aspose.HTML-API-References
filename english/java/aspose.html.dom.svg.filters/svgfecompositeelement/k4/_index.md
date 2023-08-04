@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFECompositeElement property. Corresponds to attribute k4 on the given feComposite element
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.svg.filters/svgfecompositeelement/k4/
+url: /java/com.aspose.html.dom.svg.filters/svgfecompositeelement/k4/
 ---
 ## SVGFECompositeElement.K4 property
 

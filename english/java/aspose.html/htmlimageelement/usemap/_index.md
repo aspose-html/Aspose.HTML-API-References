@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLImageElement property. Use client-side image map. See the usemap attribute definition in HTML 4.01
 type: docs
 weight: 100
-url: /net/com.aspose.html/htmlimageelement/usemap/
+url: /java/com.aspose.html/htmlimageelement/usemap/
 ---
 ## HTMLImageElement.UseMap property
 

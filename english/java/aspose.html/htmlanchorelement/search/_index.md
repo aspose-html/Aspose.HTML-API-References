@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLAnchorElement property. Gets or sets a String representation of the search segment of the associated URL
 type: docs
 weight: 180
-url: /net/com.aspose.html/htmlanchorelement/search/
+url: /java/com.aspose.html/htmlanchorelement/search/
 ---
 ## HTMLAnchorElement.Search property
 

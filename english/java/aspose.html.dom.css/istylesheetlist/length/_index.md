@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IStyleSheetList property. The length attribute must return the number of CSS style sheets represented by the collection. The range of valid child stylesheet indices is 0 to length-1 inclusive
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.css/istylesheetlist/length/
+url: /java/com.aspose.html.dom.css/istylesheetlist/length/
 ---
 ## IStyleSheetList.Length property
 

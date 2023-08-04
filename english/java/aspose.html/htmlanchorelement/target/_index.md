@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLAnchorElement property. Frame to render the resource in. See the target attribute definition in HTML 4.01
 type: docs
 weight: 210
-url: /net/com.aspose.html/htmlanchorelement/target/
+url: /java/com.aspose.html/htmlanchorelement/target/
 ---
 ## HTMLAnchorElement.Target property
 

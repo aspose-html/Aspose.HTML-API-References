@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.InlineProxy class. Represents InlineProxy
 type: docs
 weight: 5070
-url: /net/com.aspose.html.toolkit.markdown.syntax/inlineproxy/
+url: /java/com.aspose.html.toolkit.markdown.syntax/inlineproxy/
 ---
 ## InlineProxy class
 

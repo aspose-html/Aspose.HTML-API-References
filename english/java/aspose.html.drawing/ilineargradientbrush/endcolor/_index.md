@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ILinearGradientBrush property. Get the ending color of the linear gradient
 type: docs
 weight: 20
-url: /net/com.aspose.html.drawing/ilineargradientbrush/endcolor/
+url: /java/com.aspose.html.drawing/ilineargradientbrush/endcolor/
 ---
 ## ILinearGradientBrush.EndColor property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is relative to 1 of the width of the viewport
 type: docs
 weight: 300
-url: /net/com.aspose.html.drawing/unittype/vw/
+url: /java/com.aspose.html.drawing/unittype/vw/
 ---
 ## UnitType.Vw field
 

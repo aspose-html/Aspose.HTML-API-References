@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node method. The cloneNode method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not
 type: docs
 weight: 190
-url: /net/com.aspose.html.dom/node/clonenode/
+url: /java/com.aspose.html.dom/node/clonenode/
 ---
 ## CloneNode() {#clonenode}
 

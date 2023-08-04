@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLPreElement class. Preformatted text. See the PRE element definition in HTML 4.01
 type: docs
 weight: 3500
-url: /net/com.aspose.html/htmlpreelement/
+url: /java/com.aspose.html/htmlpreelement/
 ---
 ## HTMLPreElement class
 

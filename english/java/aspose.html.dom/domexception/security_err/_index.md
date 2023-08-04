@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMException field. The operation is insecure
 type: docs
 weight: 240
-url: /net/com.aspose.html.dom/domexception/security_err/
+url: /java/com.aspose.html.dom/domexception/security_err/
 ---
 ## DOMException.SECURITY_ERR field
 

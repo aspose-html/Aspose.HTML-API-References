@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEDisplacementMapElement property. Corresponds to attribute in2 on the given feDisplacementMap element
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg.filters/svgfedisplacementmapelement/in2/
+url: /java/com.aspose.html.dom.svg.filters/svgfedisplacementmapelement/in2/
 ---
 ## SVGFEDisplacementMapElement.In2 property
 

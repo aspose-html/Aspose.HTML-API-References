@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSKeyframesRule property. The read-only cssRules property of the CSSKeyframeRule interface returns a CSSRuleList containing the rules in the keyframes at-rule
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.css/icsskeyframesrule/cssrules/
+url: /java/com.aspose.html.dom.css/icsskeyframesrule/cssrules/
 ---
 ## ICSSKeyframesRule.CSSRules property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Saving.ResourceHandling enum. This enum represents resource handling options
 type: docs
 weight: 4690
-url: /net/com.aspose.html.saving/resourcehandling/
+url: /java/com.aspose.html.saving/resourcehandling/
 ---
 ## ResourceHandling enumeration
 

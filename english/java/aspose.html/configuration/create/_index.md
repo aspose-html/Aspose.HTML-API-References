@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Configuration method. Create and configure the instance of Configuration object
 type: docs
 weight: 20
-url: /net/com.aspose.html/configuration/create/
+url: /java/com.aspose.html/configuration/create/
 ---
 ## Create() {#create}
 

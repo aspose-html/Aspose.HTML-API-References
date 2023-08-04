@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEBlendElement field. Corresponds to value luminosity
 type: docs
 weight: 180
-url: /net/com.aspose.html.dom.svg.filters/svgfeblendelement/svg_feblend_mode_luminosity/
+url: /java/com.aspose.html.dom.svg.filters/svgfeblendelement/svg_feblend_mode_luminosity/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_LUMINOSITY field
 

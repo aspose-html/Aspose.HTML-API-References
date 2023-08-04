@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableElement method. Delete the table caption if one exists
 type: docs
 weight: 180
-url: /net/com.aspose.html/htmltableelement/deletecaption/
+url: /java/com.aspose.html/htmltableelement/deletecaption/
 ---
 ## HTMLTableElement.DeleteCaption method
 

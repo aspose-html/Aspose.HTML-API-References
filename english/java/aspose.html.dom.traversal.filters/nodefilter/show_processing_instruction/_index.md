@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NodeFilter field. Show ProcessingInstruction nodes
 type: docs
 weight: 170
-url: /net/com.aspose.html.dom.traversal.filters/nodefilter/show_processing_instruction/
+url: /java/com.aspose.html.dom.traversal.filters/nodefilter/show_processing_instruction/
 ---
 ## NodeFilter.SHOW_PROCESSING_INSTRUCTION field
 

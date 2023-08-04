@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Rect property. This attribute is used for the top of the rect
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.css/rect/top/
+url: /java/com.aspose.html.dom.css/rect/top/
 ---
 ## Rect.Top property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MutationObserver method. Stops observer from observing any mutations. Until the observe method is used again observers callback will not be invoked
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.mutations/mutationobserver/disconnect/
+url: /java/com.aspose.html.dom.mutations/mutationobserver/disconnect/
 ---
 ## MutationObserver.Disconnect method
 

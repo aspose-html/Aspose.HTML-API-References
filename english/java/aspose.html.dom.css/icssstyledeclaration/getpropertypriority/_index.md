@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSStyleDeclaration method. Used to retrieve the priority of a CSS property e.g. the important qualifier if the property has been explicitly set in this declaration block
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom.css/icssstyledeclaration/getpropertypriority/
+url: /java/com.aspose.html.dom.css/icssstyledeclaration/getpropertypriority/
 ---
 ## ICSSStyleDeclaration.GetPropertyPriority method
 

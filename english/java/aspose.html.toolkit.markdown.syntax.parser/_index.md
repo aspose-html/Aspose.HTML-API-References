@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.Toolkit.Markdown.Syntax.Parser package contains objects and methods that allow you to parse the markdown document
 type: docs
 weight: 410
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/
 ---
 The **com.aspose.html.Toolkit.Markdown.Syntax.Parser** package contains objects and methods that allow you to parse the markdown document.
 

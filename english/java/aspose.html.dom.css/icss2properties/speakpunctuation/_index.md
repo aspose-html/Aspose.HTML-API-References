@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies how punctuation is spoken. Values have the following meanings
 type: docs
 weight: 1030
-url: /net/com.aspose.html.dom.css/icss2properties/speakpunctuation/
+url: /java/com.aspose.html.dom.css/icss2properties/speakpunctuation/
 ---
 ## ICSS2Properties.SpeakPunctuation property
 

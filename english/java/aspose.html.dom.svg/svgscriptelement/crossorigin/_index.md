@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGScriptElement property. Corresponds to attribute crossorigin on the given script element
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg/svgscriptelement/crossorigin/
+url: /java/com.aspose.html.dom.svg/svgscriptelement/crossorigin/
 ---
 ## SVGScriptElement.CrossOrigin property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: BlockSyntaxDescriptor method. Override the ToString interface
 type: docs
 weight: 110
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/toString/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/toString/
 ---
 ## BlockSyntaxDescriptor.ToString method
 

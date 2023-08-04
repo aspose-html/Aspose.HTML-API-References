@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit property. Gets the number of key/value pairs contained in the MutationObserverInit collection
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.mutations/mutationobserverinit/count/
+url: /java/com.aspose.html.dom.mutations/mutationobserverinit/count/
 ---
 ## MutationObserverInit.Count property
 

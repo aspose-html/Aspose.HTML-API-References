@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OutputStream property. Gets a value indicating whether the wrapped output stream supports seeking
 type: docs
 weight: 30
-url: /net/com.aspose.html.io/outputstream/canseek/
+url: /java/com.aspose.html.io/outputstream/canseek/
 ---
 ## OutputStream.CanSeek property
 

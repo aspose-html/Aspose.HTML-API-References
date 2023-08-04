@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: INetworkOperationContext property. Gets or sets the request message
 type: docs
 weight: 10
-url: /net/com.aspose.html.net/inetworkoperationcontext/request/
+url: /java/com.aspose.html.net/inetworkoperationcontext/request/
 ---
 ## INetworkOperationContext.Request property
 

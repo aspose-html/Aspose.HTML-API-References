@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IMediaList property. The length attribute must return the number of media queries in the collection of media queries. The range of valid media is 0 to length-1 inclusive
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.css/imedialist/length/
+url: /java/com.aspose.html.dom.css/imedialist/length/
 ---
 ## IMediaList.Length property
 

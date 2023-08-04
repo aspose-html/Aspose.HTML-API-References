@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGStringList constructor. Initializes a new instance of the SVGStringList class
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.datatypes/svgStringlist/svgStringlist/
+url: /java/com.aspose.html.dom.svg.datatypes/svgStringlist/svgStringlist/
 ---
 ## SVGStringList() {#constructor}
 

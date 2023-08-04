@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLHRElement property. Align the rule on the page. See the align attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmlhrelement/align/
+url: /java/com.aspose.html/htmlhrelement/align/
 ---
 ## HTMLHRElement.Align property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLOptionElement class. A selectable choice. See the OPTION element definition in HTML 4.01
 type: docs
 weight: 3470
-url: /net/com.aspose.html/htmloptionelement/
+url: /java/com.aspose.html/htmloptionelement/
 ---
 ## HTMLOptionElement class
 

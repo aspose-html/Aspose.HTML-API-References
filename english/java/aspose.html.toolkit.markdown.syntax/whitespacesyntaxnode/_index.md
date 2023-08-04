@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.WhitespaceSyntaxNode class. Represent the whitespace syntax node
 type: docs
 weight: 5740
-url: /net/com.aspose.html.toolkit.markdown.syntax/whitespacesyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/whitespacesyntaxnode/
 ---
 ## WhitespaceSyntaxNode class
 

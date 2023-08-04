@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnMouseOver event
 type: docs
 weight: 290
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onmouseover/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onmouseover/
 ---
 ## IGlobalEventHandlers.OnMouseOver event
 

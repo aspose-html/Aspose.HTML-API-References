@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ContentDispositionHeaderValue property. Get or set disposition type
 type: docs
 weight: 20
-url: /net/com.aspose.html.net.headers/contentdispositionheadervalue/dispositiontype/
+url: /java/com.aspose.html.net.headers/contentdispositionheadervalue/dispositiontype/
 ---
 ## ContentDispositionHeaderValue.DispositionType property
 

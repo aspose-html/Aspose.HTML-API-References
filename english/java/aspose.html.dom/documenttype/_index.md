@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.DocumentType class. The DocumentType provides an interface to the list of entities that are defined for the document
 type: docs
 weight: 690
-url: /net/com.aspose.html.dom/documenttype/
+url: /java/com.aspose.html.dom/documenttype/
 ---
 ## DocumentType class
 

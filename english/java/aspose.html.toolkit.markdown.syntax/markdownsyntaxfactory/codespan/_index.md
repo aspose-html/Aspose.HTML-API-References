@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates the CodeSpanSyntaxNode with the specified number of backticks
 type: docs
 weight: 60
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/codespan/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/codespan/
 ---
 ## CodeSpan(int) {#codespan_2}
 

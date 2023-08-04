@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGMetadataElement class. The SVGMetadataElement interface corresponds to the metadata element
 type: docs
 weight: 2190
-url: /net/com.aspose.html.dom.svg/svgmetadataelement/
+url: /java/com.aspose.html.dom.svg/svgmetadataelement/
 ---
 ## SVGMetadataElement class
 

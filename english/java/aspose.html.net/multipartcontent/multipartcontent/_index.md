@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MultipartContent constructor. Create a new instance of the MultipartContent class
 type: docs
 weight: 10
-url: /net/com.aspose.html.net/multipartcontent/multipartcontent/
+url: /java/com.aspose.html.net/multipartcontent/multipartcontent/
 ---
 ## MultipartContent() {#constructor}
 

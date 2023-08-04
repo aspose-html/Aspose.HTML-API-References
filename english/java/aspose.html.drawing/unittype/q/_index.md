@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is in quarter-millimeters
 type: docs
 weight: 210
-url: /net/com.aspose.html.drawing/unittype/q/
+url: /java/com.aspose.html.drawing/unittype/q/
 ---
 ## UnitType.Q field
 

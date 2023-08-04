@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IOutputStorage method. Releases the output stream
 type: docs
 weight: 20
-url: /net/com.aspose.html.io/ioutputstorage/releasestream/
+url: /java/com.aspose.html.io/ioutputstorage/releasestream/
 ---
 ## IOutputStorage.ReleaseStream method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Events.KeyboardEvent class. The KeyboardEvent interface provides specific contextual information associated with keyboard devices. Each keyboard event references a key using a value. Keyboard events are commonly directed at the element that has the focus
 type: docs
 weight: 840
-url: /net/com.aspose.html.dom.events/keyboardevent/
+url: /java/com.aspose.html.dom.events/keyboardevent/
 ---
 ## KeyboardEvent class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Uint8ClampedArray field. The property represents the size in bytes of each element in an typed array
 type: docs
 weight: 30
-url: /net/com.aspose.html/uint8clampedarray/bytes_per_element/
+url: /java/com.aspose.html/uint8clampedarray/bytes_per_element/
 ---
 ## Uint8ClampedArray.BYTES_PER_ELEMENT field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTextPathElement property. Corresponds to attribute startOffset on the given textPath element
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg/svgtextpathelement/startoffset/
+url: /java/com.aspose.html.dom.svg/svgtextpathelement/startoffset/
 ---
 ## SVGTextPathElement.StartOffset property
 

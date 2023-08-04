@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLTableColElement class. Regroups the COL and COLGROUP elements. See the COL element definition in HTML 4.01
 type: docs
 weight: 3570
-url: /net/com.aspose.html/htmltablecolelement/
+url: /java/com.aspose.html/htmltablecolelement/
 ---
 ## HTMLTableColElement class
 

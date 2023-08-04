@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TextSpan constructor. Create the TextSpan
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.text/textspan/textspan/
+url: /java/com.aspose.html.toolkit.markdown.syntax.text/textspan/textspan/
 ---
 ## TextSpan constructor
 

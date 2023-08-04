@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLAppletElement property. Comma-separated archive list. See the archive attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01
 type: docs
 weight: 30
-url: /net/com.aspose.html/htmlappletelement/archive/
+url: /java/com.aspose.html/htmlappletelement/archive/
 ---
 ## HTMLAppletElement.Archive property
 

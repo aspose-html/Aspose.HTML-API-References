@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Counter property. This attribute is used for the separator of the nested counters
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.css/counter/separator/
+url: /java/com.aspose.html.dom.css/counter/separator/
 ---
 ## Counter.Separator property
 

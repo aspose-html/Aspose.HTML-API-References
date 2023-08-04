@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGNumber property. The value of the given attribute
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.datatypes/svgnumber/value/
+url: /java/com.aspose.html.dom.svg.datatypes/svgnumber/value/
 ---
 ## SVGNumber.Value property
 

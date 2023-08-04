@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLStyleElement class. Style information. See the STYLE element definition in HTML 4.01 the CSS module DOM Level 2 Style Sheets and CSS and the LinkStyle interface in the StyleSheets module DOM Level 2 Style Sheets and CSS
 type: docs
 weight: 3540
-url: /net/com.aspose.html/htmlstyleelement/
+url: /java/com.aspose.html/htmlstyleelement/
 ---
 ## HTMLStyleElement class
 

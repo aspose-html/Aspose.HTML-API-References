@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEDisplacementMapElement field. Corresponds to value B
 type: docs
 weight: 120
-url: /net/com.aspose.html.dom.svg.filters/svgfedisplacementmapelement/svg_channel_b/
+url: /java/com.aspose.html.dom.svg.filters/svgfedisplacementmapelement/svg_channel_b/
 ---
 ## SVGFEDisplacementMapElement.SVG_CHANNEL_B field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NamedNodeMap method. Retrieves a node specified by local name and package URI
 type: docs
 weight: 50
-url: /net/com.aspose.html.collections/namednodemap/getnameditemns/
+url: /java/com.aspose.html.collections/namednodemap/getnameditemns/
 ---
 ## NamedNodeMap.GetNamedItemNS method
 

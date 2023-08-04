@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEMorphologyElement property. Corresponds to attribute operator on the given feMorphology element. Takes one of the SVG_MORPHOLOGY_OPERATOR_ constants defined on this interface
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg.filters/svgfemorphologyelement/operator/
+url: /java/com.aspose.html.dom.svg.filters/svgfemorphologyelement/operator/
 ---
 ## SVGFEMorphologyElement.Operator property
 

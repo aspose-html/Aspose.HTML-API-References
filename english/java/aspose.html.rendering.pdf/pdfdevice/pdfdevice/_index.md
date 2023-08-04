@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDevice constructor. Initializes a new instance of the PdfDevice class
 type: docs
 weight: 10
-url: /net/com.aspose.html.rendering.pdf/pdfdevice/pdfdevice/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice/pdfdevice/
 ---
 ## PdfDevice(ICreateStreamProvider) {#constructor}
 

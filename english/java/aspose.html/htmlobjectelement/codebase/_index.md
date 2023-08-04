@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLObjectElement property. Base URI IETF RFC 2396 for classid data and archive attributes. See the codebase attribute definition in HTML 4.01
 type: docs
 weight: 60
-url: /net/com.aspose.html/htmlobjectelement/codebase/
+url: /java/com.aspose.html/htmlobjectelement/codebase/
 ---
 ## HTMLObjectElement.CodeBase property
 

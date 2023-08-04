@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTransform method. Sets the transform type to SVG_TRANSFORM_SCALE with parameters sx and sy defining the scale amounts
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom.svg.datatypes/svgtransform/setscale/
+url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/setscale/
 ---
 ## SVGTransform.SetScale method
 

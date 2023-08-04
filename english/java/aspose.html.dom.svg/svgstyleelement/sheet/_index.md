@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGStyleElement property. Gets the associated style sheet
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg/svgstyleelement/sheet/
+url: /java/com.aspose.html.dom.svg/svgstyleelement/sheet/
 ---
 ## SVGStyleElement.Sheet property
 

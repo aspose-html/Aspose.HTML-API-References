@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MhtmlRenderer constructor. The default constructor
 type: docs
 weight: 10
-url: /net/com.aspose.html.rendering/mhtmlrenderer/mhtmlrenderer/
+url: /java/com.aspose.html.rendering/mhtmlrenderer/mhtmlrenderer/
 ---
 ## MhtmlRenderer constructor
 

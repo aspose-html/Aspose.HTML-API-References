@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is not defined
 type: docs
 weight: 10
-url: /net/com.aspose.html.drawing/unittype/auto/
+url: /java/com.aspose.html.drawing/unittype/auto/
 ---
 ## UnitType.Auto field
 

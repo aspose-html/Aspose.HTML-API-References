@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMException field. The given URL does not match another URL
 type: docs
 weight: 290
-url: /net/com.aspose.html.dom/domexception/url_mismatch_err/
+url: /java/com.aspose.html.dom/domexception/url_mismatch_err/
 ---
 ## DOMException.URL_MISMATCH_ERR field
 

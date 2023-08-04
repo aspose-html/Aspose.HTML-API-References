@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: InlineParsingInstruction field. The ParsingInstruction.None
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/none/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/none/
 ---
 ## InlineParsingInstruction.None field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: AutoLinkSyntaxNode method. Get the uri
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/autolinksyntaxnode/geturi/
+url: /java/com.aspose.html.toolkit.markdown.syntax/autolinksyntaxnode/geturi/
 ---
 ## AutoLinkSyntaxNode.GetUri method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLTableSectionElement class. The THEAD TFOOT and TBODYelements
 type: docs
 weight: 3600
-url: /net/com.aspose.html/htmltablesectionelement/
+url: /java/com.aspose.html/htmltablesectionelement/
 ---
 ## HTMLTableSectionElement class
 

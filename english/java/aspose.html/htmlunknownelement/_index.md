@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLUnknownElement class. The Unknown html element
 type: docs
 weight: 3650
-url: /net/com.aspose.html/htmlunknownelement/
+url: /java/com.aspose.html/htmlunknownelement/
 ---
 ## HTMLUnknownElement class
 

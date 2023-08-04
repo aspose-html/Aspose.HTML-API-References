@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnFocus event
 type: docs
 weight: 200
-url: /net/com.aspose.html/htmlelement/onfocus/
+url: /java/com.aspose.html/htmlelement/onfocus/
 ---
 ## HTMLElement.OnFocus event
 

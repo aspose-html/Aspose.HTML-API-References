@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.MultiLineContainerBlockSyntaxNode class. Base implementation of an MultiLine Container Block Syntax Node
 type: docs
 weight: 5250
-url: /net/com.aspose.html.toolkit.markdown.syntax/multilinecontainerblocksyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/multilinecontainerblocksyntaxnode/
 ---
 ## MultiLineContainerBlockSyntaxNode class
 

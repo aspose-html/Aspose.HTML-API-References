@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.ImageType enum. Specifies the file format of the image
 type: docs
 weight: 4380
-url: /net/com.aspose.html.rendering/imagetype/
+url: /java/com.aspose.html.rendering/imagetype/
 ---
 ## ImageType enumeration
 

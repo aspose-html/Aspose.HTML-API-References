@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Collections provides access to specific generic collections
 type: docs
 weight: 120
-url: /net/com.aspose.html.dom.svg.collections/
+url: /java/com.aspose.html.dom.svg.collections/
 ---
 **com.aspose.html.Dom.Svg.Collections** provides access to specific generic collections.
 

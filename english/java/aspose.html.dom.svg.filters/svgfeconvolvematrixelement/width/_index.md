@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEConvolveMatrixElement property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 150
-url: /net/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/width/
+url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/width/
 ---
 ## SVGFEConvolveMatrixElement.Width property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TreeWalker method. Defines the interface for get last child node
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax/treewalker/lastchild/
+url: /java/com.aspose.html.toolkit.markdown.syntax/treewalker/lastchild/
 ---
 ## TreeWalker.LastChild method
 

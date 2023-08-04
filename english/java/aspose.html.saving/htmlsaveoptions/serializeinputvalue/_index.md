@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLSaveOptions property. This option controls whether to serialize the value of the HTMLInputElements or the HTMLTextAreaElements value property into the value attribute
 type: docs
 weight: 30
-url: /net/com.aspose.html.saving/htmlsaveoptions/serializeinputvalue/
+url: /java/com.aspose.html.saving/htmlsaveoptions/serializeinputvalue/
 ---
 ## HTMLSaveOptions.SerializeInputValue property
 

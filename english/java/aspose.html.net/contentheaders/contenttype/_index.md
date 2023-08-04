@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ContentHeaders property. Gets the Content-Type header value
 type: docs
 weight: 20
-url: /net/com.aspose.html.net/contentheaders/contenttype/
+url: /java/com.aspose.html.net/contentheaders/contenttype/
 ---
 ## ContentHeaders.ContentType property
 

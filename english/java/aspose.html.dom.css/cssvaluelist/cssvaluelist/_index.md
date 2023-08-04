@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CSSValueList constructor. Initializes a new instance of the CSSValueList class
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.css/cssvaluelist/cssvaluelist/
+url: /java/com.aspose.html.dom.css/cssvaluelist/cssvaluelist/
 ---
 ## CSSValueList() {#constructor}
 

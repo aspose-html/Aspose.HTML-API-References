@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableCellElement property. Names group of related headers. See the axis attribute definition in HTML 4.01
 type: docs
 weight: 30
-url: /net/com.aspose.html/htmltablecellelement/axis/
+url: /java/com.aspose.html/htmltablecellelement/axis/
 ---
 ## HTMLTableCellElement.Axis property
 

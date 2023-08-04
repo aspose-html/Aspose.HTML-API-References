@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: INonDocumentTypeChildNode property. Returns the first following sibling that is an element and null otherwise
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom/inondocumenttypechildnode/nextelementsibling/
+url: /java/com.aspose.html.dom/inondocumenttypechildnode/nextelementsibling/
 ---
 ## INonDocumentTypeChildNode.NextElementSibling property
 

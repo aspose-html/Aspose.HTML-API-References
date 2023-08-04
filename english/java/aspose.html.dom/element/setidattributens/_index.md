@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Element method. If the parameter isId is true this method declares the specified attribute to be a user-determined ID attribute
 type: docs
 weight: 460
-url: /net/com.aspose.html.dom/element/setidattributens/
+url: /java/com.aspose.html.dom/element/setidattributens/
 ---
 ## Element.SetIdAttributeNS method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableCellElement property. List of id attribute values for header cells. See the headers attribute definition in HTML 4.01
 type: docs
 weight: 90
-url: /net/com.aspose.html/htmltablecellelement/headers/
+url: /java/com.aspose.html/htmltablecellelement/headers/
 ---
 ## HTMLTableCellElement.Headers property
 

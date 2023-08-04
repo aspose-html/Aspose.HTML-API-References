@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEBlendElement field. Corresponds to value color
 type: docs
 weight: 90
-url: /net/com.aspose.html.dom.svg.filters/svgfeblendelement/svg_feblend_mode_color/
+url: /java/com.aspose.html.dom.svg.filters/svgfeblendelement/svg_feblend_mode_color/
 ---
 ## SVGFEBlendElement.SVG_FEBLEND_MODE_COLOR field
 

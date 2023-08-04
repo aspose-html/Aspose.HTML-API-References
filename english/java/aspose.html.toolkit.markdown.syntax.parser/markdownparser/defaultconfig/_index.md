@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownParser field. The default config actions
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/markdownparser/defaultconfig/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownparser/defaultconfig/
 ---
 ## MarkdownParser.DefaultConfig field
 

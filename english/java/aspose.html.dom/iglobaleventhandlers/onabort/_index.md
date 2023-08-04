@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnAbort event
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onabort/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onabort/
 ---
 ## IGlobalEventHandlers.OnAbort event
 

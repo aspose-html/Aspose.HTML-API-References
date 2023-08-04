@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLAnchorElement property. Gets or sets a String representation of the password segment of the associated URL
 type: docs
 weight: 110
-url: /net/com.aspose.html/htmlanchorelement/password/
+url: /java/com.aspose.html/htmlanchorelement/password/
 ---
 ## HTMLAnchorElement.Password property
 

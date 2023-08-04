@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is relative to 1 of the height of the viewport Try it
 type: docs
 weight: 270
-url: /net/com.aspose.html.drawing/unittype/vh/
+url: /java/com.aspose.html.drawing/unittype/vh/
 ---
 ## UnitType.Vh field
 

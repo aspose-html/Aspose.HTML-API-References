@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TableSyntaxNode method. Defines the interface for get aligment
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax/tablesyntaxnode/getalignment/
+url: /java/com.aspose.html.toolkit.markdown.syntax/tablesyntaxnode/getalignment/
 ---
 ## TableSyntaxNode.GetAlignment method
 

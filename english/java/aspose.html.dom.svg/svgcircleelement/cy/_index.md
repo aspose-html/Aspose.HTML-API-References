@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGCircleElement property. Corresponds to attribute cy on the given circle element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg/svgcircleelement/cy/
+url: /java/com.aspose.html.dom.svg/svgcircleelement/cy/
 ---
 ## SVGCircleElement.Cy property
 

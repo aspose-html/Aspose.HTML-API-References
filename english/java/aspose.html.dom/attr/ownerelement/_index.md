@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Attr property. The Element node this attribute is attached to or null if this attribute is not in use
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom/attr/ownerelement/
+url: /java/com.aspose.html.dom/attr/ownerelement/
 ---
 ## Attr.OwnerElement property
 

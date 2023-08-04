@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TextSyntaxNode property. Return the source text
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/textsyntaxnode/source/
+url: /java/com.aspose.html.toolkit.markdown.syntax/textsyntaxnode/source/
 ---
 ## TextSyntaxNode.Source property
 

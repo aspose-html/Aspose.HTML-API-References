@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.DataTypes.SVGAnimatedValue1T class. Used for attributes of types which can be animated
 type: docs
 weight: 1200
-url: /net/com.aspose.html.dom.svg.datatypes/svganimatedvalue-1/
+url: /java/com.aspose.html.dom.svg.datatypes/svganimatedvalue-1/
 ---
 ## SVGAnimatedValue&lt;T&gt; class
 

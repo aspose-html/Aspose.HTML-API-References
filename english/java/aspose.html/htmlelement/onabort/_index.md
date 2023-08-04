@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnAbort event
 type: docs
 weight: 70
-url: /net/com.aspose.html/htmlelement/onabort/
+url: /java/com.aspose.html/htmlelement/onabort/
 ---
 ## HTMLElement.OnAbort event
 

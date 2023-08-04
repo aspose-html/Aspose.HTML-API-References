@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DocumentType property. The name of DTD i.e. the name immediately following the DOCTYPE keyword
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom/documenttype/name/
+url: /java/com.aspose.html.dom/documenttype/name/
 ---
 ## DocumentType.Name property
 

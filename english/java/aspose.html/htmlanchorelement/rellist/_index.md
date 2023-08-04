@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLAnchorElement property. Returns a live DOMTokenList which contains tokens received from parsing the rel attribute
 type: docs
 weight: 160
-url: /net/com.aspose.html/htmlanchorelement/rellist/
+url: /java/com.aspose.html/htmlanchorelement/rellist/
 ---
 ## HTMLAnchorElement.RelList property
 

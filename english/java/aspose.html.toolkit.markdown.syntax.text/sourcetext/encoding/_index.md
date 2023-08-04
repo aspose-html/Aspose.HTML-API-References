@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SourceText property. Get encoding
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/encoding/
+url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/encoding/
 ---
 ## SourceText.Encoding property
 

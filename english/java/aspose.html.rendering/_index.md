@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.Rendering package consists of numerous renderer objects as well as appropriate low level options classes which are responsible to render documents/files into IDevice implementation
 type: docs
 weight: 300
-url: /net/com.aspose.html.rendering/
+url: /java/com.aspose.html.rendering/
 ---
 The **com.aspose.html.Rendering** package consists of numerous renderer objects as well as appropriate low level options classes which are responsible to render documents/files into IDevice implementation.
 

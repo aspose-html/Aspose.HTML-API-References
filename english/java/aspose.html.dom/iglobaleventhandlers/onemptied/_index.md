@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnEmptied event
 type: docs
 weight: 110
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onemptied/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onemptied/
 ---
 ## IGlobalEventHandlers.OnEmptied event
 

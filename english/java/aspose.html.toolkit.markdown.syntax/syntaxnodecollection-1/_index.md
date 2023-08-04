@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.SyntaxNodeCollection1T class. Represents a collection of syntax nodes
 type: docs
 weight: 5550
-url: /net/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/
+url: /java/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/
 ---
 ## SyntaxNodeCollection&lt;T&gt; class
 

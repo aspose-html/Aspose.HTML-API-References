@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Dimension method. Returns a String that represents this instance
 type: docs
 weight: 10
-url: /net/com.aspose.html.drawing/dimension/toString/
+url: /java/com.aspose.html.drawing/dimension/toString/
 ---
 ## Dimension.ToString method
 

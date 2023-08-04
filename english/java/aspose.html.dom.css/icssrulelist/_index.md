@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Css.ICSSRuleList interface. A CSSRuleList represents an ordered collection of read-only CSSRule objects
 type: docs
 weight: 490
-url: /net/com.aspose.html.dom.css/icssrulelist/
+url: /java/com.aspose.html.dom.css/icssrulelist/
 ---
 ## ICSSRuleList interface
 

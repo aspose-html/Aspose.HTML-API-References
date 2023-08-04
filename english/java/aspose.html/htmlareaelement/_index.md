@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLAreaElement class. Client-side image map area definition. See the AREA element definition in HTML 4.01
 type: docs
 weight: 3090
-url: /net/com.aspose.html/htmlareaelement/
+url: /java/com.aspose.html/htmlareaelement/
 ---
 ## HTMLAreaElement class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFECompositeElement property. Corresponds to attribute result on the given filter element
 type: docs
 weight: 90
-url: /net/com.aspose.html.dom.svg.filters/svgfecompositeelement/result/
+url: /java/com.aspose.html.dom.svg.filters/svgfecompositeelement/result/
 ---
 ## SVGFECompositeElement.Result property
 

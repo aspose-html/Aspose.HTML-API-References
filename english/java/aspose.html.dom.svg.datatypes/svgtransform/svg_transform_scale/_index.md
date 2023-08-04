@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTransform field. A scale transformation
 type: docs
 weight: 130
-url: /net/com.aspose.html.dom.svg.datatypes/svgtransform/svg_transform_scale/
+url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/svg_transform_scale/
 ---
 ## SVGTransform.SVG_TRANSFORM_SCALE field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.Pdf.FormFieldBehaviour enum. This enumeration is used to specify the behavior of form fields in the output PDF document
 type: docs
 weight: 4460
-url: /net/com.aspose.html.rendering.pdf/formfieldbehaviour/
+url: /java/com.aspose.html.rendering.pdf/formfieldbehaviour/
 ---
 ## FormFieldBehaviour enumeration
 

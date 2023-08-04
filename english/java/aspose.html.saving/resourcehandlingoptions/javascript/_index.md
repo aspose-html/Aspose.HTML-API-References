@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ResourceHandlingOptions property. Gets or sets enum which represents the way scripts are handled. Currently Save Ignore Discard and Embed values are supported. Default value is Save
 type: docs
 weight: 20
-url: /net/com.aspose.html.saving/resourcehandlingoptions/javascript/
+url: /java/com.aspose.html.saving/resourcehandlingoptions/javascript/
 ---
 ## ResourceHandlingOptions.JavaScript property
 

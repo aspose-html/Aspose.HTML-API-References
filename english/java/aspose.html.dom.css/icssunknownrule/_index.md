@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Css.ICSSUnknownRule interface. The CSSUnknownRule interface represents an at-rule not supported by this user agent
 type: docs
 weight: 530
-url: /net/com.aspose.html.dom.css/icssunknownrule/
+url: /java/com.aspose.html.dom.css/icssunknownrule/
 ---
 ## ICSSUnknownRule interface
 

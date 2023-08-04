@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Node field. A CDATASection such as CDATA  
 type: docs
 weight: 330
-url: /net/com.aspose.html.dom/node/cdata_section_node/
+url: /java/com.aspose.html.dom/node/cdata_section_node/
 ---
 ## Node.CDATA_SECTION_NODE field
 

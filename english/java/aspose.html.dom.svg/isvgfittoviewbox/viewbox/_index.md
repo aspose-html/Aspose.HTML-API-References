@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ISVGFitToViewBox property. Corresponds to attribute viewBox on the given element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg/isvgfittoviewbox/viewbox/
+url: /java/com.aspose.html.dom.svg/isvgfittoviewbox/viewbox/
 ---
 ## ISVGFitToViewBox.ViewBox property
 

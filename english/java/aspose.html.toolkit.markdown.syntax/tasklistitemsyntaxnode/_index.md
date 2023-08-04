@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.TaskListItemSyntaxNode class. The task list item syntax node
 type: docs
 weight: 5610
-url: /net/com.aspose.html.toolkit.markdown.syntax/tasklistitemsyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/tasklistitemsyntaxnode/
 ---
 ## TaskListItemSyntaxNode class
 

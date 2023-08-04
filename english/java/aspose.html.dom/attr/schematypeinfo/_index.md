@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Attr property. The type information associated with this attribute
 type: docs
 weight: 100
-url: /net/com.aspose.html.dom/attr/schematypeinfo/
+url: /java/com.aspose.html.dom/attr/schematypeinfo/
 ---
 ## Attr.SchemaTypeInfo property
 

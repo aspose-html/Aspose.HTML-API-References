@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType method. Returns a String that represents this instance
 type: docs
 weight: 330
-url: /net/com.aspose.html.drawing/unittype/toString/
+url: /java/com.aspose.html.drawing/unittype/toString/
 ---
 ## UnitType.ToString method
 

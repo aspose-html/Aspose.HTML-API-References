@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnKeyDown event
 type: docs
 weight: 230
-url: /net/com.aspose.html/htmlelement/onkeydown/
+url: /java/com.aspose.html/htmlelement/onkeydown/
 ---
 ## HTMLElement.OnKeyDown event
 

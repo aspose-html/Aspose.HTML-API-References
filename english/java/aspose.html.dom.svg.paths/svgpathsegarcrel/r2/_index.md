@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegArcRel property. The y-axis radius for the ellipse i.e. r2
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg.paths/svgpathsegarcrel/r2/
+url: /java/com.aspose.html.dom.svg.paths/svgpathsegarcrel/r2/
 ---
 ## SVGPathSegArcRel.R2 property
 

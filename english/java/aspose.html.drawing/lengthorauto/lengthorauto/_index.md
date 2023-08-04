@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LengthOrAuto constructor. Initializes a new instance of the LengthOrAuto class and sets state to auto
 type: docs
 weight: 10
-url: /net/com.aspose.html.drawing/lengthorauto/lengthorauto/
+url: /java/com.aspose.html.drawing/lengthorauto/lengthorauto/
 ---
 ## LengthOrAuto() {#constructor}
 

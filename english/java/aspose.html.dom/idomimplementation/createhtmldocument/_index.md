@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDOMImplementation method. Returns a document with a basic tree already constructed including a title element unless the title argument is omitted
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom/idomimplementation/createhtmldocument/
+url: /java/com.aspose.html.dom/idomimplementation/createhtmldocument/
 ---
 ## IDOMImplementation.CreateHTMLDocument method
 

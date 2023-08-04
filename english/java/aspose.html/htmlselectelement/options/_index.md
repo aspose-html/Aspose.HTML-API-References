@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLSelectElement property. The collection of OPTION elements contained by this element. version DOM Level 2
 type: docs
 weight: 60
-url: /net/com.aspose.html/htmlselectelement/options/
+url: /java/com.aspose.html/htmlselectelement/options/
 ---
 ## HTMLSelectElement.Options property
 

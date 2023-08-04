@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnTimeUpdate event
 type: docs
 weight: 530
-url: /net/com.aspose.html/htmlelement/ontimeupdate/
+url: /java/com.aspose.html/htmlelement/ontimeupdate/
 ---
 ## HTMLElement.OnTimeUpdate event
 

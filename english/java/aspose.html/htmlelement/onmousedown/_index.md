@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnMouseDown event
 type: docs
 weight: 300
-url: /net/com.aspose.html/htmlelement/onmousedown/
+url: /java/com.aspose.html/htmlelement/onmousedown/
 ---
 ## HTMLElement.OnMouseDown event
 

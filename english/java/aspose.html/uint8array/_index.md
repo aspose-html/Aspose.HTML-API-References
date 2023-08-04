@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Uint8Array class. Represents an array of twos-complement 8-bit unsigned integers
 type: docs
 weight: 5820
-url: /net/com.aspose.html/uint8array/
+url: /java/com.aspose.html/uint8array/
 ---
 ## Uint8Array class
 

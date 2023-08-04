@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ImageGraphicContext method. Creates a new instance of a GdiGraphicContext class with the same property values as an existing instance
 type: docs
 weight: 30
-url: /net/com.aspose.html.rendering.image/imagedevice.imagegraphiccontext/clone/
+url: /java/com.aspose.html.rendering.image/imagedevice.imagegraphiccontext/clone/
 ---
 ## ImageDevice.ImageGraphicContext.Clone method
 

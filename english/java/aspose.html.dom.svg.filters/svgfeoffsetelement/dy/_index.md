@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEOffsetElement property. Corresponds to attribute dy on the given feOffset element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg.filters/svgfeoffsetelement/dy/
+url: /java/com.aspose.html.dom.svg.filters/svgfeoffsetelement/dy/
 ---
 ## SVGFEOffsetElement.Dy property
 

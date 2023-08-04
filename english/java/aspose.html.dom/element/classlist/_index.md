@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Element property. Returns a live DOMTokenList which contains tokens received from parsing the class attribute
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom/element/classlist/
+url: /java/com.aspose.html.dom/element/classlist/
 ---
 ## Element.ClassList property
 

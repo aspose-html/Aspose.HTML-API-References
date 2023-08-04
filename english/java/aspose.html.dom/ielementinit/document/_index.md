@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IElementInit property. This property represents the owner document
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom/ielementinit/document/
+url: /java/com.aspose.html.dom/ielementinit/document/
 ---
 ## IElementInit.Document property
 

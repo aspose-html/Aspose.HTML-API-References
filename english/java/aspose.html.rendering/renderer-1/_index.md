@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.Renderer1TDocument class. Represents an abstract class for the all renderers
 type: docs
 weight: 4520
-url: /net/com.aspose.html.rendering/renderer-1/
+url: /java/com.aspose.html.rendering/renderer-1/
 ---
 ## Renderer&lt;TDocument&gt; class
 

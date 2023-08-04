@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.Doc.DocRenderingOptions class. Represents the rendering options for DocDevice
 type: docs
 weight: 4220
-url: /net/com.aspose.html.rendering.doc/docrenderingoptions/
+url: /java/com.aspose.html.rendering.doc/docrenderingoptions/
 ---
 ## DocRenderingOptions class
 

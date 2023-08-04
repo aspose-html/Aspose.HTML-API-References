@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSaveOptions property. Returns set of options which are compatible with default Markdown documentation
 type: docs
 weight: 20
-url: /net/com.aspose.html.saving/markdownsaveoptions/default/
+url: /java/com.aspose.html.saving/markdownsaveoptions/default/
 ---
 ## MarkdownSaveOptions.Default property
 

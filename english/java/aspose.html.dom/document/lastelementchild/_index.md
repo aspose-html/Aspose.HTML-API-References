@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document property. Returns the last child element node of this element. null if this element has no child elements
 type: docs
 weight: 150
-url: /net/com.aspose.html.dom/document/lastelementchild/
+url: /java/com.aspose.html.dom/document/lastelementchild/
 ---
 ## Document.LastElementChild property
 

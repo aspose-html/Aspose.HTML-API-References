@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ProtocolMessageFilter method. When overridden in a derived class tests whether a Context satisfies the filter criteria
 type: docs
 weight: 20
-url: /net/com.aspose.html.net.messagefilters/protocolmessagefilter/match/
+url: /java/com.aspose.html.net.messagefilters/protocolmessagefilter/match/
 ---
 ## ProtocolMessageFilter.Match method
 

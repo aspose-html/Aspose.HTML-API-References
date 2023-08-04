@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Frequency method. 
 type: docs
 weight: 80
-url: /net/com.aspose.html.drawing/frequency/op_subtraction/
+url: /java/com.aspose.html.drawing/frequency/op_subtraction/
 ---
 ## Frequency Subtraction operator
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPatternElement property. Corresponds to attribute requiredExtensions on the given element
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.svg/svgpatternelement/requiredextensions/
+url: /java/com.aspose.html.dom.svg/svgpatternelement/requiredextensions/
 ---
 ## SVGPatternElement.RequiredExtensions property
 

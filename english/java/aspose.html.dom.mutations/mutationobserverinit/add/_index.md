@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit method. 
 type: docs
 weight: 140
-url: /net/com.aspose.html.dom.mutations/mutationobserverinit/add/
+url: /java/com.aspose.html.dom.mutations/mutationobserverinit/add/
 ---
 ## Add(KeyValuePair&lt;String, object&gt;) {#add}
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ContentDispositionHeaderValue property. Get collection of paremeters
 type: docs
 weight: 50
-url: /net/com.aspose.html.net.headers/contentdispositionheadervalue/parameters/
+url: /java/com.aspose.html.net.headers/contentdispositionheadervalue/parameters/
 ---
 ## ContentDispositionHeaderValue.Parameters property
 

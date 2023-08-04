@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FileCreateStreamProvider property. Gets or sets the directory
 type: docs
 weight: 20
-url: /net/com.aspose.html.io/filecreatestreamprovider/directory/
+url: /java/com.aspose.html.io/filecreatestreamprovider/directory/
 ---
 ## FileCreateStreamProvider.Directory property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEOffsetElement property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.svg.filters/svgfeoffsetelement/y/
+url: /java/com.aspose.html.dom.svg.filters/svgfeoffsetelement/y/
 ---
 ## SVGFEOffsetElement.Y property
 

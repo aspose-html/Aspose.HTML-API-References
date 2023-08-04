@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFECompositeElement property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 100
-url: /net/com.aspose.html.dom.svg.filters/svgfecompositeelement/width/
+url: /java/com.aspose.html.dom.svg.filters/svgfecompositeelement/width/
 ---
 ## SVGFECompositeElement.Width property
 

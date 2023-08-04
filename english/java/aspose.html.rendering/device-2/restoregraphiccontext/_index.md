@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Device method. Restores the entire graphics context to its former value by popping it from the stack
 type: docs
 weight: 200
-url: /net/com.aspose.html.rendering/device-2/restoregraphiccontext/
+url: /java/com.aspose.html.rendering/device-2/restoregraphiccontext/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.RestoreGraphicContext method
 

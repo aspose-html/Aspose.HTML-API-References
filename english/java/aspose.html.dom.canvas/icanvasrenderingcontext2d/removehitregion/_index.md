@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Removes the hit region with the specified id from the canvas
 type: docs
 weight: 300
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/removehitregion/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/removehitregion/
 ---
 ## ICanvasRenderingContext2D.RemoveHitRegion method
 

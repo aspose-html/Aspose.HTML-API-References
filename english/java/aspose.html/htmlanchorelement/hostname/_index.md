@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLAnchorElement property. Gets or sets a String representation of the host segment of the associated URL
 type: docs
 weight: 60
-url: /net/com.aspose.html/htmlanchorelement/hostname/
+url: /java/com.aspose.html/htmlanchorelement/hostname/
 ---
 ## HTMLAnchorElement.Hostname property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Saving.ImageSaveOptions class. Specific options data class. It provides properties to manage image result resolution smooting quality format as well as page settings and etc. More info you can obtain in documentation article
 type: docs
 weight: 4630
-url: /net/com.aspose.html.saving/imagesaveoptions/
+url: /java/com.aspose.html.saving/imagesaveoptions/
 ---
 ## ImageSaveOptions class
 

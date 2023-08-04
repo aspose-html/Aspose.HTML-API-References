@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a String containing the RGBA color specified by rgbaR G B A
 type: docs
 weight: 400
-url: /net/com.aspose.html.drawing/color/torgbaString/
+url: /java/com.aspose.html.drawing/color/torgbaString/
 ---
 ## Color.ToRgbaString method
 

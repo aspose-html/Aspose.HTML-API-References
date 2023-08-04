@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLMetaElement property. HTTP response header name IETF RFC 2616. See the http-equiv attribute definition in HTML 4.01
 type: docs
 weight: 20
-url: /net/com.aspose.html/htmlmetaelement/httpequiv/
+url: /java/com.aspose.html/htmlmetaelement/httpequiv/
 ---
 ## HTMLMetaElement.HttpEquiv property
 

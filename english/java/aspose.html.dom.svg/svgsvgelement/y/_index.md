@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGSVGElement property. Corresponds to attribute y on the given svg element
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.svg/svgsvgelement/y/
+url: /java/com.aspose.html.dom.svg/svgsvgelement/y/
 ---
 ## SVGSVGElement.Y property
 

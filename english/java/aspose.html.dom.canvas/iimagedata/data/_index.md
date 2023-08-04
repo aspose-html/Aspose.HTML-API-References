@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IImageData property. Is a Uint8ClampedArray representing a one-dimensional array containing the data in the RGBA order with integer values between 0 and 255 included
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.canvas/iimagedata/data/
+url: /java/com.aspose.html.dom.canvas/iimagedata/data/
 ---
 ## IImageData.Data property
 

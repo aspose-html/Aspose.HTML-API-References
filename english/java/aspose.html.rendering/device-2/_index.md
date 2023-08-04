@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.Device2TGraphicContextTRenderingOptions class. Represents base class for implementation particular rendering devices
 type: docs
 weight: 4170
-url: /net/com.aspose.html.rendering/device-2/
+url: /java/com.aspose.html.rendering/device-2/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt; class
 

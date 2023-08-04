@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color property. Represents the alpha component of the color
 type: docs
 weight: 240
-url: /net/com.aspose.html.drawing/color/alpha/
+url: /java/com.aspose.html.drawing/color/alpha/
 ---
 ## Color.Alpha property
 

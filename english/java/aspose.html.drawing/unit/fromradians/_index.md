@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Angle object that is represented in radians
 type: docs
 weight: 200
-url: /net/com.aspose.html.drawing/unit/fromradians/
+url: /java/com.aspose.html.drawing/unit/fromradians/
 ---
 ## Unit.FromRadians method
 

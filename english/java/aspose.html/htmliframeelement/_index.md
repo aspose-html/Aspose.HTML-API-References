@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLIFrameElement class. Inline subwindows. See the IFRAME element definition in HTML 4.01
 type: docs
 weight: 3310
-url: /net/com.aspose.html/htmliframeelement/
+url: /java/com.aspose.html/htmliframeelement/
 ---
 ## HTMLIFrameElement class
 

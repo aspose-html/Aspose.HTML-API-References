@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: RGBColor property. Gets the red component value of this Color structure
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.css/rgbcolor/red/
+url: /java/com.aspose.html.dom.css/rgbcolor/red/
 ---
 ## RGBColor.Red property
 

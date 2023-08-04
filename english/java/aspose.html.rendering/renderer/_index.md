@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.Renderer class. Represents a base class for all renderers and implemnts IDisposable interface
 type: docs
 weight: 4510
-url: /net/com.aspose.html.rendering/renderer/
+url: /java/com.aspose.html.rendering/renderer/
 ---
 ## Renderer class
 

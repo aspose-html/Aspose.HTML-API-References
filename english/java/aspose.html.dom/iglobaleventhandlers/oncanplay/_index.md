@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnCanplay event
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom/iglobaleventhandlers/oncanplay/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/oncanplay/
 ---
 ## IGlobalEventHandlers.OnCanplay event
 

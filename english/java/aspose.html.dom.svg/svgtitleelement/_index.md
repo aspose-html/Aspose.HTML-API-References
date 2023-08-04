@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGTitleElement class. The SVGTitleElement interface corresponds to the title element
 type: docs
 weight: 2390
-url: /net/com.aspose.html.dom.svg/svgtitleelement/
+url: /java/com.aspose.html.dom.svg/svgtitleelement/
 ---
 ## SVGTitleElement class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: EmphasisSyntaxNode method. Defines the interface for get Emphasis Type
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/emphasissyntaxnode/getemphasistype/
+url: /java/com.aspose.html.toolkit.markdown.syntax/emphasissyntaxnode/getemphasistype/
 ---
 ## EmphasisSyntaxNode.GetEmphasisType method
 

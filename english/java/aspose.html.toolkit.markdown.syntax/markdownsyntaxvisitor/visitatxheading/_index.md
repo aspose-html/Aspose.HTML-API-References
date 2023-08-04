@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit AtxHeadingSyntax
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitatxheading/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitatxheading/
 ---
 ## MarkdownSyntaxVisitor.VisitAtxHeading method
 

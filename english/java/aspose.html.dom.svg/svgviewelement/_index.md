@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGViewElement class. The SVGViewElement interface corresponds to the view element
 type: docs
 weight: 2420
-url: /net/com.aspose.html.dom.svg/svgviewelement/
+url: /java/com.aspose.html.dom.svg/svgviewelement/
 ---
 ## SVGViewElement class
 

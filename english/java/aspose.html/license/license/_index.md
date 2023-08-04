@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: License constructor. Initializes a new instance of this class
 type: docs
 weight: 10
-url: /net/com.aspose.html/license/license/
+url: /java/com.aspose.html/license/license/
 ---
 ## License constructor
 

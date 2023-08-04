@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ImageDevice method. Fills the specified text String at the specified location
 type: docs
 weight: 150
-url: /net/com.aspose.html.rendering.image/imagedevice/filltext/
+url: /java/com.aspose.html.rendering.image/imagedevice/filltext/
 ---
 ## ImageDevice.FillText method
 

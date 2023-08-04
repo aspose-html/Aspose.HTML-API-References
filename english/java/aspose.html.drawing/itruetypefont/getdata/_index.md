@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ITrueTypeFont method. Open the stream with font data. The caller is responsible for disposing the stream
 type: docs
 weight: 60
-url: /net/com.aspose.html.drawing/itruetypefont/getdata/
+url: /java/com.aspose.html.drawing/itruetypefont/getdata/
 ---
 ## ITrueTypeFont.GetData method
 

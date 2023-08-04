@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Net.RequestMessage class. Represents a request message
 type: docs
 weight: 4070
-url: /net/com.aspose.html.net/requestmessage/
+url: /java/com.aspose.html.net/requestmessage/
 ---
 ## RequestMessage class
 

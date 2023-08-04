@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableColElement property. Default column width. See the width attribute definition in HTML 4.01
 type: docs
 weight: 60
-url: /net/com.aspose.html/htmltablecolelement/width/
+url: /java/com.aspose.html/htmltablecolelement/width/
 ---
 ## HTMLTableColElement.Width property
 

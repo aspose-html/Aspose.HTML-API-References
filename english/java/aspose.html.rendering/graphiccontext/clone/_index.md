@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: GraphicContext method. Creates a new instance of a GraphicContext class with the same property values as an existing instance
 type: docs
 weight: 170
-url: /net/com.aspose.html.rendering/graphiccontext/clone/
+url: /java/com.aspose.html.rendering/graphiccontext/clone/
 ---
 ## GraphicContext.Clone method
 

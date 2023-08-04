@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGPolylineElement class. The SVGPolylineElement interface corresponds to the polyline element
 type: docs
 weight: 2230
-url: /net/com.aspose.html.dom.svg/svgpolylineelement/
+url: /java/com.aspose.html.dom.svg/svgpolylineelement/
 ---
 ## SVGPolylineElement class
 

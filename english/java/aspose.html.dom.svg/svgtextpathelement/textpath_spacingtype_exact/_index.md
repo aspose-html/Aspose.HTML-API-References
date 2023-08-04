@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTextPathElement field. Corresponds to value exact
 type: docs
 weight: 90
-url: /net/com.aspose.html.dom.svg/svgtextpathelement/textpath_spacingtype_exact/
+url: /java/com.aspose.html.dom.svg/svgtextpathelement/textpath_spacingtype_exact/
 ---
 ## SVGTextPathElement.TEXTPATH_SPACINGTYPE_EXACT field
 

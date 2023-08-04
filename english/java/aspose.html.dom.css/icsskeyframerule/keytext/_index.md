@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSKeyframeRule property. The keyText property of the CSSKeyframeRule interface represents the keyframe selector as a comma-separated list of percentage values. The from and to keywords map to 0 and 100 respectively
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.css/icsskeyframerule/keytext/
+url: /java/com.aspose.html.dom.css/icsskeyframerule/keytext/
 ---
 ## ICSSKeyframeRule.KeyText property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLInputElement property. Returns the FORM element containing this control. Returns null if this control is not within the context of a form
 type: docs
 weight: 100
-url: /net/com.aspose.html/htmlinputelement/form/
+url: /java/com.aspose.html/htmlinputelement/form/
 ---
 ## HTMLInputElement.Form property
 

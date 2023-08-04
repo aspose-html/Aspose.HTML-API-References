@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NodeFilter field. Skip this single node. Navigation methods defined for NodeIterator or TreeWalker will not return this node. For both NodeIterator and TreeWalker the children of this node will still be considered
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.traversal.filters/nodefilter/filter_skip/
+url: /java/com.aspose.html.dom.traversal.filters/nodefilter/filter_skip/
 ---
 ## NodeFilter.FILTER_SKIP field
 

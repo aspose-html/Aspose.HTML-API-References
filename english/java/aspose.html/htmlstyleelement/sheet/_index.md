@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLStyleElement property. Gets the associated style sheet
 type: docs
 weight: 30
-url: /net/com.aspose.html/htmlstyleelement/sheet/
+url: /java/com.aspose.html/htmlstyleelement/sheet/
 ---
 ## HTMLStyleElement.Sheet property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLScriptElement property. Reserved for future use
 type: docs
 weight: 30
-url: /net/com.aspose.html/htmlscriptelement/event/
+url: /java/com.aspose.html/htmlscriptelement/event/
 ---
 ## HTMLScriptElement.Event property
 

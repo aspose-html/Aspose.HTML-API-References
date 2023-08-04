@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Creates a linear gradient along the line given by the coordinates represented by the parameters
 type: docs
 weight: 170
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/createlineargradient/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/createlineargradient/
 ---
 ## ICanvasRenderingContext2D.CreateLinearGradient method
 

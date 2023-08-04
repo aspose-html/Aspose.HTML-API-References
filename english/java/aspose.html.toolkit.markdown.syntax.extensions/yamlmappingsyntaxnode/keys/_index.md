@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: YamlMappingSyntaxNode property. Get all Keys
 type: docs
 weight: 40
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/keys/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/keys/
 ---
 ## YamlMappingSyntaxNode.Keys property
 

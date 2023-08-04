@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGEllipseElement class. The SVGEllipseElement interface corresponds to the ellipse element
 type: docs
 weight: 2050
-url: /net/com.aspose.html.dom.svg/svgellipseelement/
+url: /java/com.aspose.html.dom.svg/svgellipseelement/
 ---
 ## SVGEllipseElement class
 

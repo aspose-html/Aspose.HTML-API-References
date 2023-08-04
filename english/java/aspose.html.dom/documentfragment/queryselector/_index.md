@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DocumentFragment method. Returns the first Element in document which match selector
 type: docs
 weight: 120
-url: /net/com.aspose.html.dom/documentfragment/queryselector/
+url: /java/com.aspose.html.dom/documentfragment/queryselector/
 ---
 ## DocumentFragment.QuerySelector method
 

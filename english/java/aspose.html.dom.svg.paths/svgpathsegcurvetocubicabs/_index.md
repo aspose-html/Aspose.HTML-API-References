@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Paths.SVGPathSegCurvetoCubicAbs class. The SVGPathSegCurvetoCubicAbs interface corresponds to an absolute cubic Bézier curveto C path data command
 type: docs
 weight: 1740
-url: /net/com.aspose.html.dom.svg.paths/svgpathsegcurvetocubicabs/
+url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetocubicabs/
 ---
 ## SVGPathSegCurvetoCubicAbs class
 

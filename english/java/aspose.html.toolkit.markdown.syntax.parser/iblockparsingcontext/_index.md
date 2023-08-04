@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.IBlockParsingContext interface. Defines the IBlockParsingContext interface
 type: docs
 weight: 5370
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/
 ---
 ## IBlockParsingContext interface
 

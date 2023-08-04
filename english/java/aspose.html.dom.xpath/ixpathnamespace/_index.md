@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.XPath.IXPathNamespace interface. The XPathNamespace interface is returned by XPathResult interfaces to represent the XPath package node type that DOM lacks
 type: docs
 weight: 2600
-url: /net/com.aspose.html.dom.xpath/ixpathpackage/
+url: /java/com.aspose.html.dom.xpath/ixpathpackage/
 ---
 ## IXPathNamespace interface
 

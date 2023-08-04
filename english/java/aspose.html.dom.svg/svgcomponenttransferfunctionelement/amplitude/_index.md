@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGComponentTransferFunctionElement property. Corresponds to attribute amplitude on the given element
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/amplitude/
+url: /java/com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/amplitude/
 ---
 ## SVGComponentTransferFunctionElement.Amplitude property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ResourceHandlingOptions property. Gets or sets restriction applied to URLs of handled pages. Default value is RootAndSubFolders
 type: docs
 weight: 40
-url: /net/com.aspose.html.saving/resourcehandlingoptions/pageurlrestriction/
+url: /java/com.aspose.html.saving/resourcehandlingoptions/pageurlrestriction/
 ---
 ## ResourceHandlingOptions.PageUrlRestriction property
 

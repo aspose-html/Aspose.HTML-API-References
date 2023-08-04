@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDevice method. Strokes and fill current path. This method terminates current path
 type: docs
 weight: 220
-url: /net/com.aspose.html.rendering/idevice/strokeandfill/
+url: /java/com.aspose.html.rendering/idevice/strokeandfill/
 ---
 ## IDevice.StrokeAndFill method
 

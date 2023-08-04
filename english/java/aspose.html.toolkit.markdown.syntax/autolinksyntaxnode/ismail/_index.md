@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: AutoLinkSyntaxNode method. Get true if is mail
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax/autolinksyntaxnode/ismail/
+url: /java/com.aspose.html.toolkit.markdown.syntax/autolinksyntaxnode/ismail/
 ---
 ## AutoLinkSyntaxNode.IsMail method
 

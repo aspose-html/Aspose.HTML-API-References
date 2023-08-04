@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. Auditory icons are another way to distinguish semantic elements. Sounds may be played before and/or after the element to delimit it
 type: docs
 weight: 400
-url: /net/com.aspose.html.dom.css/icss2properties/cuebefore/
+url: /java/com.aspose.html.dom.css/icss2properties/cuebefore/
 ---
 ## ICSS2Properties.CueBefore property
 

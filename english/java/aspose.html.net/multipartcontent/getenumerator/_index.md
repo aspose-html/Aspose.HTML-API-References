@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MultipartContent method. Returns an enumerator that iterates through a collection
 type: docs
 weight: 30
-url: /net/com.aspose.html.net/multipartcontent/getenumerator/
+url: /java/com.aspose.html.net/multipartcontent/getenumerator/
 ---
 ## MultipartContent.GetEnumerator method
 

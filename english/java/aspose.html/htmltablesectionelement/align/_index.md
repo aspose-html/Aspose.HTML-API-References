@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLTableSectionElement property. Horizontal alignment of data in cells. See the alignattribute for HTMLTheadElement for details
 type: docs
 weight: 10
-url: /net/com.aspose.html/htmltablesectionelement/align/
+url: /java/com.aspose.html/htmltablesectionelement/align/
 ---
 ## HTMLTableSectionElement.Align property
 

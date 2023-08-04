@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Extensions.YamlScalarSyntaxNode class. Defines the YamlScalarSyntaxNode
 type: docs
 weight: 4970
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/
 ---
 ## YamlScalarSyntaxNode class
 

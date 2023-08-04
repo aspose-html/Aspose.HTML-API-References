@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Filters.ISVGFilterPrimitiveStandardAttributes interface. This interface defines the set of DOM attributes that are common across the filter primitive interfaces
 type: docs
 weight: 1360
-url: /net/com.aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/
+url: /java/com.aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/
 ---
 ## ISVGFilterPrimitiveStandardAttributes interface
 

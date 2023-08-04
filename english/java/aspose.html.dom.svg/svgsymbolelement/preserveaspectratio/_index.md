@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGSymbolElement property. Corresponds to attribute preserveAspectRatio on the given element
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg/svgsymbolelement/preserveaspectratio/
+url: /java/com.aspose.html.dom.svg/svgsymbolelement/preserveaspectratio/
 ---
 ## SVGSymbolElement.PreserveAspectRatio property
 

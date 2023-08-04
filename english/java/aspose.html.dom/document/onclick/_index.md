@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnClick event
 type: docs
 weight: 340
-url: /net/com.aspose.html.dom/document/onclick/
+url: /java/com.aspose.html.dom/document/onclick/
 ---
 ## Document.OnClick event
 

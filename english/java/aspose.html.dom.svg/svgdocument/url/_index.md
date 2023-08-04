@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGDocument property. The complete URI of the document
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom.svg/svgdocument/url/
+url: /java/com.aspose.html.dom.svg/svgdocument/url/
 ---
 ## SVGDocument.URL property
 

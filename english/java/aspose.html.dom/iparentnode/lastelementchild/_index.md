@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IParentNode property. Returns the last child that is an element and null otherwise
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom/iparentnode/lastelementchild/
+url: /java/com.aspose.html.dom/iparentnode/lastelementchild/
 ---
 ## IParentNode.LastElementChild property
 

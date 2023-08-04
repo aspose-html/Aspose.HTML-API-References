@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGDescElement class. The SVGDescElement interface corresponds to the desc element
 type: docs
 weight: 2010
-url: /net/com.aspose.html.dom.svg/svgdescelement/
+url: /java/com.aspose.html.dom.svg/svgdescelement/
 ---
 ## SVGDescElement class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGCursorElement property. Corresponds to attribute requiredExtensions on the given element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg/svgcursorelement/requiredextensions/
+url: /java/com.aspose.html.dom.svg/svgcursorelement/requiredextensions/
 ---
 ## SVGCursorElement.RequiredExtensions property
 

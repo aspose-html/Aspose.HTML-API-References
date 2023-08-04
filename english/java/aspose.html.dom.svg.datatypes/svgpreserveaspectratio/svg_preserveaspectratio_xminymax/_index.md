@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPreserveAspectRatio field. Corresponds to value xMinYMax for attribute preserveAspectRatio
 type: docs
 weight: 150
-url: /net/com.aspose.html.dom.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xminymax/
+url: /java/com.aspose.html.dom.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xminymax/
 ---
 ## SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMINYMAX field
 

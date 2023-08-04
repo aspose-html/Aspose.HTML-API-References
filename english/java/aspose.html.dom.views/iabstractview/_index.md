@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Views.IAbstractView interface. A base interface that all views shall derive from
 type: docs
 weight: 2550
-url: /net/com.aspose.html.dom.views/iabstractview/
+url: /java/com.aspose.html.dom.views/iabstractview/
 ---
 ## IAbstractView interface
 

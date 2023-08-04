@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEImageElement property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom.svg.filters/svgfeimageelement/y/
+url: /java/com.aspose.html.dom.svg.filters/svgfeimageelement/y/
 ---
 ## SVGFEImageElement.Y property
 

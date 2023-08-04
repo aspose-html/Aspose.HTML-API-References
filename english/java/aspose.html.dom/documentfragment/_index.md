@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.DocumentFragment class. DocumentFragment is a lightweight or minimal Document object. It is very common to want to be able to extract a portion of a documents tree or to create a new fragment of a document
 type: docs
 weight: 680
-url: /net/com.aspose.html.dom/documentfragment/
+url: /java/com.aspose.html.dom/documentfragment/
 ---
 ## DocumentFragment class
 

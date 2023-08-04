@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SyntaxNodeCollection method. Gets the index of the given item
 type: docs
 weight: 110
-url: /net/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/indexof/
+url: /java/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/indexof/
 ---
 ## SyntaxNodeCollection&lt;T&gt;.IndexOf method
 

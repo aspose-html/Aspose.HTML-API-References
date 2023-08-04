@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ImageGraphicContext property. Sets or gets transformation matrix
 type: docs
 weight: 20
-url: /net/com.aspose.html.rendering.image/imagedevice.imagegraphiccontext/transformationmatrix/
+url: /java/com.aspose.html.rendering.image/imagedevice.imagegraphiccontext/transformationmatrix/
 ---
 ## ImageDevice.ImageGraphicContext.TransformationMatrix property
 

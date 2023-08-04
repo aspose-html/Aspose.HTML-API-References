@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: GraphicContext property. Sets of gets the style of dashed lines of a stroked path
 type: docs
 weight: 100
-url: /net/com.aspose.html.rendering/graphiccontext/linedashstyle/
+url: /java/com.aspose.html.rendering/graphiccontext/linedashstyle/
 ---
 ## GraphicContext.LineDashStyle property
 

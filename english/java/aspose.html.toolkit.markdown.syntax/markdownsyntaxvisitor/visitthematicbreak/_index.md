@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit ThematicBreakSyntax
 type: docs
 weight: 280
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitthematicbreak/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitthematicbreak/
 ---
 ## MarkdownSyntaxVisitor.VisitThematicBreak method
 

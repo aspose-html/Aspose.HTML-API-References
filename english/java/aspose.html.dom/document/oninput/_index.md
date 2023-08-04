@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnInput event
 type: docs
 weight: 420
-url: /net/com.aspose.html.dom/document/oninput/
+url: /java/com.aspose.html.dom/document/oninput/
 ---
 ## Document.OnInput event
 

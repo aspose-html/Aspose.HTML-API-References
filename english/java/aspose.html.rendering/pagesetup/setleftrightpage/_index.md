@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PageSetup method. Sets the Left/Right page configuration
 type: docs
 weight: 80
-url: /net/com.aspose.html.rendering/pagesetup/setleftrightpage/
+url: /java/com.aspose.html.rendering/pagesetup/setleftrightpage/
 ---
 ## PageSetup.SetLeftRightPage method
 

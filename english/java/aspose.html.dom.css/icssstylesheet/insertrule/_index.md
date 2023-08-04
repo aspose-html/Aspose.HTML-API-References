@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSStyleSheet method. The CSSStyleSheet.insertRule method inserts a new CSS rule into the current style sheet with some restrictions
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.css/icssstylesheet/insertrule/
+url: /java/com.aspose.html.dom.css/icssstylesheet/insertrule/
 ---
 ## ICSSStyleSheet.InsertRule method
 

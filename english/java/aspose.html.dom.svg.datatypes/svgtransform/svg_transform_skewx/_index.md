@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTransform field. A skewX transformation
 type: docs
 weight: 140
-url: /net/com.aspose.html.dom.svg.datatypes/svgtransform/svg_transform_skewx/
+url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/svg_transform_skewx/
 ---
 ## SVGTransform.SVG_TRANSFORM_SKEWX field
 

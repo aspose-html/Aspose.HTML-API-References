@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLDocument property. The element that contains the content for the document. In documents with BODY contents returns the BODYelement. In frameset documents this returns the outermost FRAMESET element
 type: docs
 weight: 40
-url: /net/com.aspose.html/htmldocument/body/
+url: /java/com.aspose.html/htmldocument/body/
 ---
 ## HTMLDocument.Body property
 

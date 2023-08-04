@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownInlineSyntaxParser method. Get the can parse boolean value
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/canparse/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/canparse/
 ---
 ## MarkdownInlineSyntaxParser.CanParse method
 

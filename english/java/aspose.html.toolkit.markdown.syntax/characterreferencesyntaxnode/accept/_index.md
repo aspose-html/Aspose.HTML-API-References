@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CharacterReferenceSyntaxNode method. Defines the interface for accept visitor
 type: docs
 weight: 50
-url: /net/com.aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/accept/
+url: /java/com.aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/accept/
 ---
 ## CharacterReferenceSyntaxNode.Accept method
 

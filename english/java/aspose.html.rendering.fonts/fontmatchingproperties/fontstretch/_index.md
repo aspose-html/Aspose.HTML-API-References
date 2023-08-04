@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: FontMatchingProperties property. Gets the font stretch value
 type: docs
 weight: 20
-url: /net/com.aspose.html.rendering.fonts/fontmatchingproperties/fontstretch/
+url: /java/com.aspose.html.rendering.fonts/fontmatchingproperties/fontstretch/
 ---
 ## FontMatchingProperties.FontStretch property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode property. Get the first child
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/firstchild/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/firstchild/
 ---
 ## MarkdownSyntaxNode.FirstChild property
 

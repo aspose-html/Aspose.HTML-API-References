@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTextPathElement field. Corresponds to value auto
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.svg/svgtextpathelement/textpath_spacingtype_auto/
+url: /java/com.aspose.html.dom.svg/svgtextpathelement/textpath_spacingtype_auto/
 ---
 ## SVGTextPathElement.TEXTPATH_SPACINGTYPE_AUTO field
 

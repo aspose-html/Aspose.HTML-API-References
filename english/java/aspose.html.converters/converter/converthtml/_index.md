@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Converter method. Convert HTML source presented by HTMLDocument. Result is docx file formed by output file path
 type: docs
 weight: 20
-url: /net/com.aspose.html.converters/converter/converthtml/
+url: /java/com.aspose.html.converters/converter/converthtml/
 ---
 ## ConvertHTML(HTMLDocument, DocSaveOptions, String) {#converthtml_1}
 

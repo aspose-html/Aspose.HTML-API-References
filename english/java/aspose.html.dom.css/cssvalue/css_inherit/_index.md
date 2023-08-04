@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: CSSValue field. The value is inherited and the cssText contains inherit
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.css/cssvalue/css_inherit/
+url: /java/com.aspose.html.dom.css/cssvalue/css_inherit/
 ---
 ## CSSValue.CSS_INHERIT field
 

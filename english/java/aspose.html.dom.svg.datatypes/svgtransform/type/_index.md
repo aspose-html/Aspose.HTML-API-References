@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGTransform property. The type of the value as specified by one of the SVG_TRANSFORM_ constants defined on this interface
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg.datatypes/svgtransform/type/
+url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/type/
 ---
 ## SVGTransform.Type property
 

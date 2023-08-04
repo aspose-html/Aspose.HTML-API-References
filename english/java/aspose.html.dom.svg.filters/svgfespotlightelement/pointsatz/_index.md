@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFESpotLightElement property. Corresponds to attribute pointsAtZ on the given feSpotLight element
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg.filters/svgfespotlightelement/pointsatz/
+url: /java/com.aspose.html.dom.svg.filters/svgfespotlightelement/pointsatz/
 ---
 ## SVGFESpotLightElement.PointsAtZ property
 

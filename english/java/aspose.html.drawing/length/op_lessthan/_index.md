@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Length method. 
 type: docs
 weight: 60
-url: /net/com.aspose.html.drawing/length/op_lessthan/
+url: /java/com.aspose.html.drawing/length/op_lessthan/
 ---
 ## Length LessThan operator
 

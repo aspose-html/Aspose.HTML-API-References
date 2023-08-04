@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ImageRenderingOptions property. Gets or sets the rendering quality for this Graphics
 type: docs
 weight: 50
-url: /net/com.aspose.html.rendering.image/imagerenderingoptions/smoothingmode/
+url: /java/com.aspose.html.rendering.image/imagerenderingoptions/smoothingmode/
 ---
 ## ImageRenderingOptions.SmoothingMode property
 

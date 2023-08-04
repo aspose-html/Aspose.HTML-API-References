@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDevice method. Ends rendering of the current page
 type: docs
 weight: 120
-url: /net/com.aspose.html.rendering.pdf/pdfdevice/endpage/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice/endpage/
 ---
 ## PdfDevice.EndPage method
 

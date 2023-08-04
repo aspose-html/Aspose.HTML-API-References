@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.IO.OutputStreamContext class. A context for initialization of the output stream
 type: docs
 weight: 3780
-url: /net/com.aspose.html.io/outputstreamcontext/
+url: /java/com.aspose.html.io/outputstreamcontext/
 ---
 ## OutputStreamContext class
 

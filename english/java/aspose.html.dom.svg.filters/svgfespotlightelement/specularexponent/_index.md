@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFESpotLightElement property. Corresponds to attribute specularExponent on the given feSpotLight element
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.svg.filters/svgfespotlightelement/specularexponent/
+url: /java/com.aspose.html.dom.svg.filters/svgfespotlightelement/specularexponent/
 ---
 ## SVGFESpotLightElement.SpecularExponent property
 

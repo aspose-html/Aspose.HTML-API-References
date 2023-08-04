@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NameValueHeaderValue property. Gets the parameter name
 type: docs
 weight: 10
-url: /net/com.aspose.html.net.headers/namevalueheadervalue/name/
+url: /java/com.aspose.html.net.headers/namevalueheadervalue/name/
 ---
 ## NameValueHeaderValue.Name property
 

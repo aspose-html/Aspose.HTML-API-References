@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Path2D method. Moves the starting point of a new sub-path to the x y coordinates
 type: docs
 weight: 100
-url: /net/com.aspose.html.dom.canvas/path2d/moveto/
+url: /java/com.aspose.html.dom.canvas/path2d/moveto/
 ---
 ## Path2D.MoveTo method
 

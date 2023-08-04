@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasPathMethods method. Adds a quadratic Bézier curve to the current path
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.canvas/icanvaspathmethods/quadraticcurveto/
+url: /java/com.aspose.html.dom.canvas/icanvaspathmethods/quadraticcurveto/
 ---
 ## ICanvasPathMethods.QuadraticCurveTo method
 

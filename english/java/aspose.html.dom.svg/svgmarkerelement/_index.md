@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGMarkerElement class. The SVGMarkerElement interface corresponds to the marker element
 type: docs
 weight: 2170
-url: /net/com.aspose.html.dom.svg/svgmarkerelement/
+url: /java/com.aspose.html.dom.svg/svgmarkerelement/
 ---
 ## SVGMarkerElement class
 

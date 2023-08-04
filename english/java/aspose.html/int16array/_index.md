@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Int16Array class. Represents an array of twos-complement 16-bit signed integers in the platform byte order
 type: docs
 weight: 3800
-url: /net/com.aspose.html/int16array/
+url: /java/com.aspose.html/int16array/
 ---
 ## Int16Array class
 

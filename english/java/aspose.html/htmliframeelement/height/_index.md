@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLIFrameElement property. Frame height. See the height attribute definition in HTML 4.01
 type: docs
 weight: 30
-url: /net/com.aspose.html/htmliframeelement/height/
+url: /java/com.aspose.html/htmliframeelement/height/
 ---
 ## HTMLIFrameElement.Height property
 

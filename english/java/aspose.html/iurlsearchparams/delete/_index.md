@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IUrlSearchParams method. Removes all name-value pairs whose name is name
 type: docs
 weight: 20
-url: /net/com.aspose.html/iurlsearchparams/delete/
+url: /java/com.aspose.html/iurlsearchparams/delete/
 ---
 ## IUrlSearchParams.Delete method
 

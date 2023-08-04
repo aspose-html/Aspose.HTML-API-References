@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnReset event
 type: docs
 weight: 370
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onreset/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onreset/
 ---
 ## IGlobalEventHandlers.OnReset event
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasDrawingStyles property. Baseline alignment setting. Possible values top hanging middle alphabetic default ideographic bottom
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.canvas/icanvasdrawingstyles/textbaseline/
+url: /java/com.aspose.html.dom.canvas/icanvasdrawingstyles/textbaseline/
 ---
 ## ICanvasDrawingStyles.TextBaseline property
 

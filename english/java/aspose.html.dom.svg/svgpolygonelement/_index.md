@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.SVGPolygonElement class. The SVGPolygonElement interface corresponds to the polygon element
 type: docs
 weight: 2220
-url: /net/com.aspose.html.dom.svg/svgpolygonelement/
+url: /java/com.aspose.html.dom.svg/svgpolygonelement/
 ---
 ## SVGPolygonElement class
 

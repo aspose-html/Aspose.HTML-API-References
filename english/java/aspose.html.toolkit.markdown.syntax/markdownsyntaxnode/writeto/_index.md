@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode method. Write nodes to text writer
 type: docs
 weight: 160
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/
 ---
 ## WriteTo(TextWriter) {#writeto_1}
 

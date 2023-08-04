@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Url method. Returns a hash code for this instance
 type: docs
 weight: 150
-url: /net/com.aspose.html/url/gethashcode/
+url: /java/com.aspose.html/url/gethashcode/
 ---
 ## Url.GetHashCode method
 

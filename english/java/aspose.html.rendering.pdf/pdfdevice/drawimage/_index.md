@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDevice method. Draws the specified image
 type: docs
 weight: 90
-url: /net/com.aspose.html.rendering.pdf/pdfdevice/drawimage/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice/drawimage/
 ---
 ## PdfDevice.DrawImage method
 

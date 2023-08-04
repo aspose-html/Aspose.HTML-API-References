@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDiagnosticsBuilder method. Enables traces collection
 type: docs
 weight: 30
-url: /net/com.aspose.html.diagnostics/idiagnosticsbuilder/addtracing/
+url: /java/com.aspose.html.diagnostics/idiagnosticsbuilder/addtracing/
 ---
 ## IDiagnosticsBuilder.AddTracing method
 

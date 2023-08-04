@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: BlockSyntaxDescriptor method. Defines the interface for get attribute
 type: docs
 weight: 60
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/getattributes/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/getattributes/
 ---
 ## BlockSyntaxDescriptor.GetAttributes method
 

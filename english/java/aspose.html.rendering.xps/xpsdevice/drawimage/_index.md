@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: XpsDevice method. Draws the specified image
 type: docs
 weight: 90
-url: /net/com.aspose.html.rendering.xps/xpsdevice/drawimage/
+url: /java/com.aspose.html.rendering.xps/xpsdevice/drawimage/
 ---
 ## XpsDevice.DrawImage method
 

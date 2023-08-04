@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: OutputStream constructor. Initializes a new instance of the OutputStream class
 type: docs
 weight: 10
-url: /net/com.aspose.html.io/outputstream/outputstream/
+url: /java/com.aspose.html.io/outputstream/outputstream/
 ---
 ## OutputStream constructor
 

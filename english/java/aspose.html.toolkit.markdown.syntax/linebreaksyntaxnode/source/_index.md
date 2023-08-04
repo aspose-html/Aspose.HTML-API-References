@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LineBreakSyntaxNode property. Get the source
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/source/
+url: /java/com.aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/source/
 ---
 ## LineBreakSyntaxNode.Source property
 

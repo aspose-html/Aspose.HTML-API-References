@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMException field. If index or size is negative or greater than the allowed value
 type: docs
 weight: 90
-url: /net/com.aspose.html.dom/domexception/index_size_err/
+url: /java/com.aspose.html.dom/domexception/index_size_err/
 ---
 ## DOMException.INDEX_SIZE_ERR field
 

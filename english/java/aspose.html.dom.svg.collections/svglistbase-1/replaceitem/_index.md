@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGListBase method. Replaces an existing item in the list with a new item
 type: docs
 weight: 110
-url: /net/com.aspose.html.dom.svg.collections/svglistbase-1/replaceitem/
+url: /java/com.aspose.html.dom.svg.collections/svglistbase-1/replaceitem/
 ---
 ## SVGListBase&lt;T&gt;.ReplaceItem method
 

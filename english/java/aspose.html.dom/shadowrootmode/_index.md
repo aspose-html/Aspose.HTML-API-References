@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.ShadowRootMode enum. Modes in which ShadowRoot can operate
 type: docs
 weight: 1050
-url: /net/com.aspose.html.dom/shadowrootmode/
+url: /java/com.aspose.html.dom/shadowrootmode/
 ---
 ## ShadowRootMode enumeration
 

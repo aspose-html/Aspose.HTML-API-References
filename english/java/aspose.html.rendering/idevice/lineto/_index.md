@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDevice method. Appends a straight line segment from the current point to the point pt. The new current point is pt
 type: docs
 weight: 170
-url: /net/com.aspose.html.rendering/idevice/lineto/
+url: /java/com.aspose.html.rendering/idevice/lineto/
 ---
 ## IDevice.LineTo method
 

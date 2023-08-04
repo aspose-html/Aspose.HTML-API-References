@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnMouseMove event
 type: docs
 weight: 270
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onmousemove/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onmousemove/
 ---
 ## IGlobalEventHandlers.OnMouseMove event
 

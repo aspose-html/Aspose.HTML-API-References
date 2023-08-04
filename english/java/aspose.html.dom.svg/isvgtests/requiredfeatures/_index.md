@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ISVGTests property. Corresponds to attribute requiredFeatures on the given element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg/isvgtests/requiredfeatures/
+url: /java/com.aspose.html.dom.svg/isvgtests/requiredfeatures/
 ---
 ## ISVGTests.RequiredFeatures property
 

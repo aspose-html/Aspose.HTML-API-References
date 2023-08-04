@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Saving.XpsSaveOptions class. Specific options data class provides few properties to manage conversion result. For example PageSetup specifies page characteristics. Refer to documentation article
 type: docs
 weight: 4730
-url: /net/com.aspose.html.saving/xpssaveoptions/
+url: /java/com.aspose.html.saving/xpssaveoptions/
 ---
 ## XpsSaveOptions class
 

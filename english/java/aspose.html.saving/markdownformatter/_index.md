@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Saving.MarkdownFormatter enum. Specifies the way output will be formatted
 type: docs
 weight: 4660
-url: /net/com.aspose.html.saving/markdownformatter/
+url: /java/com.aspose.html.saving/markdownformatter/
 ---
 ## MarkdownFormatter enumeration
 

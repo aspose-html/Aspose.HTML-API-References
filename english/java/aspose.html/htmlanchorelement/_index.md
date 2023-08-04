@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLAnchorElement class. The anchor element. See the A element definition in HTML 4.01
 type: docs
 weight: 3070
-url: /net/com.aspose.html/htmlanchorelement/
+url: /java/com.aspose.html/htmlanchorelement/
 ---
 ## HTMLAnchorElement class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Resolution method. 
 type: docs
 weight: 80
-url: /net/com.aspose.html.drawing/resolution/op_lessthanorequal/
+url: /java/com.aspose.html.drawing/resolution/op_lessthanorequal/
 ---
 ## Resolution LessThanOrEqual operator
 

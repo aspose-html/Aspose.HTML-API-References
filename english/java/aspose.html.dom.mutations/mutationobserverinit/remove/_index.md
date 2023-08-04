@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit method. 
 type: docs
 weight: 200
-url: /net/com.aspose.html.dom.mutations/mutationobserverinit/remove/
+url: /java/com.aspose.html.dom.mutations/mutationobserverinit/remove/
 ---
 ## Remove(KeyValuePair&lt;String, object&gt;) {#remove}
 

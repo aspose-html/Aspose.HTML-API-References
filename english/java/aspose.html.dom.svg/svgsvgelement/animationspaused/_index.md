@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGSVGElement method. Returns true if this SVG document fragment is in a paused state
 type: docs
 weight: 100
-url: /net/com.aspose.html.dom.svg/svgsvgelement/animationspaused/
+url: /java/com.aspose.html.dom.svg/svgsvgelement/animationspaused/
 ---
 ## SVGSVGElement.AnimationsPaused method
 

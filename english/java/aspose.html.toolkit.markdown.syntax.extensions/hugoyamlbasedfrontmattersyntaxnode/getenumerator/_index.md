@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HugoYamlBasedFrontMatterSyntaxNode method. Get Enumerator
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/getenumerator/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/getenumerator/
 ---
 ## HugoYamlBasedFrontMatterSyntaxNode.GetEnumerator method
 

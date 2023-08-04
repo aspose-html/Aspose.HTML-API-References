@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is in percentage
 type: docs
 weight: 180
-url: /net/com.aspose.html.drawing/unittype/percentage/
+url: /java/com.aspose.html.drawing/unittype/percentage/
 ---
 ## UnitType.Percentage field
 

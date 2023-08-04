@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSSRule property. The parentStyleSheet property of the CSSRule interface returns the StyleSheet object in which the current rule is defined
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.css/icssrule/parentstylesheet/
+url: /java/com.aspose.html.dom.css/icssrule/parentstylesheet/
 ---
 ## ICSSRule.ParentStyleSheet property
 

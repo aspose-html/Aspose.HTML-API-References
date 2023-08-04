@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDevice method. Appends a rectangle to the current path as a complete subpath
 type: docs
 weight: 20
-url: /net/com.aspose.html.rendering.pdf/pdfdevice/addrect/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice/addrect/
 ---
 ## PdfDevice.AddRect method
 

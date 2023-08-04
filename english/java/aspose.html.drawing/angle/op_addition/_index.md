@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Angle method. 
 type: docs
 weight: 10
-url: /net/com.aspose.html.drawing/angle/op_addition/
+url: /java/com.aspose.html.drawing/angle/op_addition/
 ---
 ## Angle Addition operator
 

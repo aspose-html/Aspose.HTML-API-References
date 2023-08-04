@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLIsIndexElement class. This element is used for single-line text input. See the ISINDEX element definition in HTML 4.01. This element is deprecated in HTML 4.01
 type: docs
 weight: 3340
-url: /net/com.aspose.html/htmlisindexelement/
+url: /java/com.aspose.html/htmlisindexelement/
 ---
 ## HTMLIsIndexElement class
 

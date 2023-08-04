@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document method. Create a new NodeIterator over the subtree rooted at the specified node
 type: docs
 weight: 900
-url: /net/com.aspose.html.dom/document/createnodeiterator/
+url: /java/com.aspose.html.dom/document/createnodeiterator/
 ---
 ## CreateNodeIterator(Node) {#createnodeiterator}
 

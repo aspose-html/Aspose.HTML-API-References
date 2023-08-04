@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLLinkElement property. Designed for use with one or more target media. See the media attribute definition in HTML 4.01
 type: docs
 weight: 50
-url: /net/com.aspose.html/htmllinkelement/media/
+url: /java/com.aspose.html/htmllinkelement/media/
 ---
 ## HTMLLinkElement.Media property
 

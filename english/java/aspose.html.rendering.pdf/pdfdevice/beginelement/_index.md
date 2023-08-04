@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDevice method. Begins rendering of the element
 type: docs
 weight: 40
-url: /net/com.aspose.html.rendering.pdf/pdfdevice/beginelement/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice/beginelement/
 ---
 ## PdfDevice.BeginElement method
 

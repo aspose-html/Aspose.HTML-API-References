@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HttpMethod property. Represents an HTTP POST protocol method
 type: docs
 weight: 40
-url: /net/com.aspose.html.net/httpmethod/post/
+url: /java/com.aspose.html.net/httpmethod/post/
 ---
 ## HttpMethod.Post property
 

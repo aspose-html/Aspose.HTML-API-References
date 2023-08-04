@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Drawing.Dimension class. Provides the base class for dimensions. The general term dimension refers to a number with a unit attached to it and are denoted by UnitType
 type: docs
 weight: 2670
-url: /net/com.aspose.html.drawing/dimension/
+url: /java/com.aspose.html.drawing/dimension/
 ---
 ## Dimension class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnSeeked event
 type: docs
 weight: 680
-url: /net/com.aspose.html.dom/document/onseeked/
+url: /java/com.aspose.html.dom/document/onseeked/
 ---
 ## Document.OnSeeked event
 

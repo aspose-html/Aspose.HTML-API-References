@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MouseEvent property. Refer to the shiftKey attribute
 type: docs
 weight: 120
-url: /net/com.aspose.html.dom.events/mouseevent/shiftkey/
+url: /java/com.aspose.html.dom.events/mouseevent/shiftkey/
 ---
 ## MouseEvent.ShiftKey property
 

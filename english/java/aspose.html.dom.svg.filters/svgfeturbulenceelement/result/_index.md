@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFETurbulenceElement property. Corresponds to attribute result on the given filter element
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/result/
+url: /java/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/result/
 ---
 ## SVGFETurbulenceElement.Result property
 

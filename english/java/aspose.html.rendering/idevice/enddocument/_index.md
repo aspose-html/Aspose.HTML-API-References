@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDevice method. Ends rendering of the document
 type: docs
 weight: 110
-url: /net/com.aspose.html.rendering/idevice/enddocument/
+url: /java/com.aspose.html.rendering/idevice/enddocument/
 ---
 ## IDevice.EndDocument method
 

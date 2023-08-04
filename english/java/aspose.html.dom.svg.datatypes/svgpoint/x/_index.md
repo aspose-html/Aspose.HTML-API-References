@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPoint property. The X coordinate
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.datatypes/svgpoint/x/
+url: /java/com.aspose.html.dom.svg.datatypes/svgpoint/x/
 ---
 ## SVGPoint.X property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ITextureBrush property. Get opacity value in a color transform matrix
 type: docs
 weight: 40
-url: /net/com.aspose.html.drawing/itexturebrush/opacity/
+url: /java/com.aspose.html.drawing/itexturebrush/opacity/
 ---
 ## ITextureBrush.Opacity property
 

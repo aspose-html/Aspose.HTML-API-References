@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.TreeWalker class. A tree walker
 type: docs
 weight: 5700
-url: /net/com.aspose.html.toolkit.markdown.syntax/treewalker/
+url: /java/com.aspose.html.toolkit.markdown.syntax/treewalker/
 ---
 ## TreeWalker class
 

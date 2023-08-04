@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.MarkdownTextWriter class. Represent the Markdown text writer
 type: docs
 weight: 5240
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdowntextwriter/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdowntextwriter/
 ---
 ## MarkdownTextWriter class
 

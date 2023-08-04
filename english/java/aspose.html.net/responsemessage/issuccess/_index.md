@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ResponseMessage property. Gets a value indicating whether this message is success
 type: docs
 weight: 50
-url: /net/com.aspose.html.net/responsemessage/issuccess/
+url: /java/com.aspose.html.net/responsemessage/issuccess/
 ---
 ## ResponseMessage.IsSuccess property
 

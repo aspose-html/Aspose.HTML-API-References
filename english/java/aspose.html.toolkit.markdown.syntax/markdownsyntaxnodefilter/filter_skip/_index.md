@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNodeFilter field. The filter skip constant
 type: docs
 weight: 50
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/filter_skip/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/filter_skip/
 ---
 ## MarkdownSyntaxNodeFilter.FILTER_SKIP field
 

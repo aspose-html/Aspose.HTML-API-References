@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegLinetoVerticalAbs object
 type: docs
 weight: 180
-url: /net/com.aspose.html.dom.svg/svgpathelement/createsvgpathseglinetoverticalabs/
+url: /java/com.aspose.html.dom.svg/svgpathelement/createsvgpathseglinetoverticalabs/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoVerticalAbs method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ButtonElement property. Represent the name attribute of the Button element
 type: docs
 weight: 20
-url: /net/com.aspose.html.forms/buttonelement/name/
+url: /java/com.aspose.html.forms/buttonelement/name/
 ---
 ## ButtonElement.Name property
 

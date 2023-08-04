@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Uint8ClampedArray class. Represents an array of 8-bit unsigned integers clamped to 0-255 if you specified a value that is out of the range of 0255 0 or 255 will be set instead
 type: docs
 weight: 5830
-url: /net/com.aspose.html/uint8clampedarray/
+url: /java/com.aspose.html/uint8clampedarray/
 ---
 ## Uint8ClampedArray class
 

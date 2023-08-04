@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DocDevice method. Appends a straight line segment from the current point to the point pt. The new current point is pt
 type: docs
 weight: 150
-url: /net/com.aspose.html.rendering.doc/docdevice/lineto/
+url: /java/com.aspose.html.rendering.doc/docdevice/lineto/
 ---
 ## DocDevice.LineTo method
 

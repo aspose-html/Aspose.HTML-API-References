@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit method. 
 type: docs
 weight: 180
-url: /net/com.aspose.html.dom.mutations/mutationobserverinit/copyto/
+url: /java/com.aspose.html.dom.mutations/mutationobserverinit/copyto/
 ---
 ## MutationObserverInit.CopyTo method
 

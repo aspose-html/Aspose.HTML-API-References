@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFEComponentTransferElement property. Corresponds to attribute in on the given feComponentTransfer element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg.filters/svgfecomponenttransferelement/in1/
+url: /java/com.aspose.html.dom.svg.filters/svgfecomponenttransferelement/in1/
 ---
 ## SVGFEComponentTransferElement.In1 property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDocumentInfo property. Keywords associated with the document
 type: docs
 weight: 40
-url: /net/com.aspose.html.rendering.pdf/pdfdocumentinfo/keywords/
+url: /java/com.aspose.html.rendering.pdf/pdfdocumentinfo/keywords/
 ---
 ## PdfDocumentInfo.Keywords property
 

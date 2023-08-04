@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ImageDevice method. Modifies the current clipping path by intersecting it with the current path using the FillMode rule to determine the region to fill. This method terminates current path
 type: docs
 weight: 70
-url: /net/com.aspose.html.rendering.image/imagedevice/clip/
+url: /java/com.aspose.html.rendering.image/imagedevice/clip/
 ---
 ## ImageDevice.Clip method
 

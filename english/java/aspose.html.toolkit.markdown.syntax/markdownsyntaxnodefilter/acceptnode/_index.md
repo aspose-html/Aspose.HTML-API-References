@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNodeFilter method. Defines the interface for accept node
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/acceptnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/acceptnode/
 ---
 ## MarkdownSyntaxNodeFilter.AcceptNode method
 

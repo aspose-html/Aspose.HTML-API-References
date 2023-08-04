@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MimeType method. Creates a new MIME type based on file extension
 type: docs
 weight: 20
-url: /net/com.aspose.html/mimetype/fromfileextension/
+url: /java/com.aspose.html/mimetype/fromfileextension/
 ---
 ## MimeType.FromFileExtension method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode method. Replace the child node
 type: docs
 weight: 140
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/replacechild/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/replacechild/
 ---
 ## MarkdownSyntaxNode.ReplaceChild method
 

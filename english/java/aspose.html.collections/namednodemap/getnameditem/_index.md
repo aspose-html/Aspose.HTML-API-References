@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NamedNodeMap method. Retrieves a node specified by name
 type: docs
 weight: 40
-url: /net/com.aspose.html.collections/namednodemap/getnameditem/
+url: /java/com.aspose.html.collections/namednodemap/getnameditem/
 ---
 ## NamedNodeMap.GetNamedItem method
 

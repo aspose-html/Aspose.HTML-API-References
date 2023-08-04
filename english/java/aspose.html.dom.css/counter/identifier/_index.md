@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Counter property. This attribute is used for the identifier of the counter
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.css/counter/identifier/
+url: /java/com.aspose.html.dom.css/counter/identifier/
 ---
 ## Counter.Identifier property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IMediaList property. A Stringifier that returns a DOMString representing the MediaList as text and also allows you to set a new MediaList
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.css/imedialist/mediatext/
+url: /java/com.aspose.html.dom.css/imedialist/mediatext/
 ---
 ## IMediaList.MediaText property
 

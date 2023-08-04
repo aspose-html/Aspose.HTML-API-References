@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGLineElement property. Corresponds to attribute y1 on the given line element
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom.svg/svglineelement/y1/
+url: /java/com.aspose.html.dom.svg/svglineelement/y1/
 ---
 ## SVGLineElement.Y1 property
 

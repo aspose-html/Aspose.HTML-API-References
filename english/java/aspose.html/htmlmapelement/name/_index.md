@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLMapElement property. Names the map for use with usemap. See the name attribute definition in HTML 4.01
 type: docs
 weight: 20
-url: /net/com.aspose.html/htmlmapelement/name/
+url: /java/com.aspose.html/htmlmapelement/name/
 ---
 ## HTMLMapElement.Name property
 

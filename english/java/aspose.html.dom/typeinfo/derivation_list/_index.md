@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TypeInfo field. If the documents schema is an XML Schema XML Schema Part 1 this constant represents the list
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom/typeinfo/derivation_list/
+url: /java/com.aspose.html.dom/typeinfo/derivation_list/
 ---
 ## TypeInfo.DERIVATION_LIST field
 

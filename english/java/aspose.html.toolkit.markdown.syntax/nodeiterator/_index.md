@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.NodeIterator class. The nodes iterator
 type: docs
 weight: 5260
-url: /net/com.aspose.html.toolkit.markdown.syntax/nodeiterator/
+url: /java/com.aspose.html.toolkit.markdown.syntax/nodeiterator/
 ---
 ## NodeIterator class
 

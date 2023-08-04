@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: TableRowSyntaxNode method. Defines the interface for append delimiter
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/appenddelimiter/
+url: /java/com.aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/appenddelimiter/
 ---
 ## TableRowSyntaxNode.AppendDelimiter method
 

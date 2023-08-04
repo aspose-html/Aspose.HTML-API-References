@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType method. 
 type: docs
 weight: 370
-url: /net/com.aspose.html.drawing/unittype/op_inequality/
+url: /java/com.aspose.html.drawing/unittype/op_inequality/
 ---
 ## UnitType Inequality operator
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MouseEvent property. Refer to the metaKey attribute
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.events/mouseevent/metakey/
+url: /java/com.aspose.html.dom.events/mouseevent/metakey/
 ---
 ## MouseEvent.MetaKey property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Device method. Pushes a copy of the entire graphics context onto the stack
 type: docs
 weight: 210
-url: /net/com.aspose.html.rendering/device-2/savegraphiccontext/
+url: /java/com.aspose.html.rendering/device-2/savegraphiccontext/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.SaveGraphicContext method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: YamlScalarSyntaxNode constructor. 
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/yamlscalarsyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/yamlscalarsyntaxnode/
 ---
 ## YamlScalarSyntaxNode constructor
 

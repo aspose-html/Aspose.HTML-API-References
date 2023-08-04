@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLElement class. All HTML element interfaces derive from this class. Elements that only expose the HTML core attributes are represented by the base HTMLElement interface. These elements are as follows special SUB SUP SPAN BDOfont TT I B U S STRIKE BIG SMALL phrase EM STRONG DFN CODE SAMP KBD VAR CITE ACRONYM ABBRlist DD DTNOFRAMES NOSCRIPTADDRESS CENTERThe style attribute of an HTML element is accessible through the ElementCSSInlineStyle interface which is defined in the CSS module DOM Level 2 Style Sheets and CSS
 type: docs
 weight: 3210
-url: /net/com.aspose.html/htmlelement/
+url: /java/com.aspose.html/htmlelement/
 ---
 ## HTMLElement class
 

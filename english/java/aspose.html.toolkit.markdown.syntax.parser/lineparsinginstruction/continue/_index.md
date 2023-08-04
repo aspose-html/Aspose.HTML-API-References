@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LineParsingInstruction field. The Continue
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/continue/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/continue/
 ---
 ## LineParsingInstruction.Continue field
 

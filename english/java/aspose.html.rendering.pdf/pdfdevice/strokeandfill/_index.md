@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDevice method. Strokes and fill current path. This method terminates current path
 type: docs
 weight: 210
-url: /net/com.aspose.html.rendering.pdf/pdfdevice/strokeandfill/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice/strokeandfill/
 ---
 ## PdfDevice.StrokeAndFill method
 

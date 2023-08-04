@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies quotation marks for any number of embedded quotations
 type: docs
 weight: 960
-url: /net/com.aspose.html.dom.css/icss2properties/quotes/
+url: /java/com.aspose.html.dom.css/icss2properties/quotes/
 ---
 ## ICSS2Properties.Quotes property
 

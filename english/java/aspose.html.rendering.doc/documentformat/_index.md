@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Rendering.Doc.DocumentFormat enum. Represents the file format of the output document
 type: docs
 weight: 4230
-url: /net/com.aspose.html.rendering.doc/documentformat/
+url: /java/com.aspose.html.rendering.doc/documentformat/
 ---
 ## DocumentFormat enumeration
 

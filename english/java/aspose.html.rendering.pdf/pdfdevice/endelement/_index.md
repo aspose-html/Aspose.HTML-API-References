@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: PdfDevice method. Ends rendering of the element
 type: docs
 weight: 110
-url: /net/com.aspose.html.rendering.pdf/pdfdevice/endelement/
+url: /java/com.aspose.html.rendering.pdf/pdfdevice/endelement/
 ---
 ## PdfDevice.EndElement method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDevice method. Strokes the specified text String at the specified location
 type: docs
 weight: 230
-url: /net/com.aspose.html.rendering/idevice/stroketext/
+url: /java/com.aspose.html.rendering/idevice/stroketext/
 ---
 ## IDevice.StrokeText method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: LineParsingInstruction field. The NextLine
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/nextline/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/nextline/
 ---
 ## LineParsingInstruction.NextLine field
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Notation class. Represents a notation declared in the DTD
 type: docs
 weight: 1020
-url: /net/com.aspose.html.dom/notation/
+url: /java/com.aspose.html.dom/notation/
 ---
 ## Notation class
 

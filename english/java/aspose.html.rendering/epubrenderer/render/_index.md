@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: EpubRenderer method. Defines method for rendering multiple EPub Streams into specific IDevice. The rendering will be performed once there are no any network operations for loading resources active timers animation tasks or specified timeout is elapsed
 type: docs
 weight: 20
-url: /net/com.aspose.html.rendering/epubrenderer/render/
+url: /java/com.aspose.html.rendering/epubrenderer/render/
 ---
 ## Render(IDevice, TimeSpan, params Stream[]) {#render_10}
 

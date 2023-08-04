@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit constructor. Initializes a new instance of the MutationObserverInit class
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.mutations/mutationobserverinit/mutationobserverinit/
+url: /java/com.aspose.html.dom.mutations/mutationobserverinit/mutationobserverinit/
 ---
 ## MutationObserverInit constructor
 

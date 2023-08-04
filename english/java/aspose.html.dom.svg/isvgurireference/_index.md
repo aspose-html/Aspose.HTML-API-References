@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.ISVGURIReference interface. Interface SVGURIReference defines an interface which applies to all elements which have the collection of XLink attributes such as xlinkhref which define a URI reference
 type: docs
 weight: 1660
-url: /net/com.aspose.html.dom.svg/isvgurireference/
+url: /java/com.aspose.html.dom.svg/isvgurireference/
 ---
 ## ISVGURIReference interface
 

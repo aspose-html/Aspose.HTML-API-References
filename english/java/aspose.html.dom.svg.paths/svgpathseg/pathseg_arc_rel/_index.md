@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPathSeg field. Corresponds to a relative arcto a path data command
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.svg.paths/svgpathseg/pathseg_arc_rel/
+url: /java/com.aspose.html.dom.svg.paths/svgpathseg/pathseg_arc_rel/
 ---
 ## SVGPathSeg.PATHSEG_ARC_REL field
 

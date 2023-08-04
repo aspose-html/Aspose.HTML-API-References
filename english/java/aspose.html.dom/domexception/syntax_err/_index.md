@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DOMException field. If an invalid or illegal String is specified
 type: docs
 weight: 250
-url: /net/com.aspose.html.dom/domexception/syntax_err/
+url: /java/com.aspose.html.dom/domexception/syntax_err/
 ---
 ## DOMException.SYNTAX_ERR field
 

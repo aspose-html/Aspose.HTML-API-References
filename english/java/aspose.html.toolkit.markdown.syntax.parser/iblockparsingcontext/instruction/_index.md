@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IBlockParsingContext property. Get the Instruction
 type: docs
 weight: 10
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/instruction/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/instruction/
 ---
 ## IBlockParsingContext.Instruction property
 

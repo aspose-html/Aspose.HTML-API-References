@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Filters.SVGFESpecularLightingElement class. The SVGFESpecularLightingElement interface corresponds to the feSpecularLighting element
 type: docs
 weight: 1580
-url: /net/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/
+url: /java/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/
 ---
 ## SVGFESpecularLightingElement class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SourceText property. Get the Lines collection
 type: docs
 weight: 50
-url: /net/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/lines/
+url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/lines/
 ---
 ## SourceText.Lines property
 

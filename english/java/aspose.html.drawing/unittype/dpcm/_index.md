@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is in dots per centimeters
 type: docs
 weight: 50
-url: /net/com.aspose.html.drawing/unittype/dpcm/
+url: /java/com.aspose.html.drawing/unittype/dpcm/
 ---
 ## UnitType.Dpcm field
 

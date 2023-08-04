@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegCurvetoCubicRel property. The relative Y coordinate for the first control point
 type: docs
 weight: 50
-url: /net/com.aspose.html.dom.svg.paths/svgpathsegcurvetocubicrel/y1/
+url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetocubicrel/y1/
 ---
 ## SVGPathSegCurvetoCubicRel.Y1 property
 

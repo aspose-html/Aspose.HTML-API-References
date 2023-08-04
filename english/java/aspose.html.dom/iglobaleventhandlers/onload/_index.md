@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnLoad event
 type: docs
 weight: 200
-url: /net/com.aspose.html.dom/iglobaleventhandlers/onload/
+url: /java/com.aspose.html.dom/iglobaleventhandlers/onload/
 ---
 ## IGlobalEventHandlers.OnLoad event
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Drawing.Unit class. Provides the base class for units of measurement
 type: docs
 weight: 2860
-url: /net/com.aspose.html.drawing/unit/
+url: /java/com.aspose.html.drawing/unit/
 ---
 ## Unit class
 

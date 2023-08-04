@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLAreaElement property. Frame to render the resource in. See the target attribute definition in HTML 4.01
 type: docs
 weight: 90
-url: /net/com.aspose.html/htmlareaelement/target/
+url: /java/com.aspose.html/htmlareaelement/target/
 ---
 ## HTMLAreaElement.Target property
 

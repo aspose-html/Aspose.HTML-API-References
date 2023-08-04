@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IInterpolationColor property. Gets the color position
 type: docs
 weight: 20
-url: /net/com.aspose.html.drawing/iinterpolationcolor/position/
+url: /java/com.aspose.html.drawing/iinterpolationcolor/position/
 ---
 ## IInterpolationColor.Position property
 

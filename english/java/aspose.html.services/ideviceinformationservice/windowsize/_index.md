@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IDeviceInformationService property. Gets or sets the size of the window
 type: docs
 weight: 40
-url: /net/com.aspose.html.services/ideviceinformationservice/windowsize/
+url: /java/com.aspose.html.services/ideviceinformationservice/windowsize/
 ---
 ## IDeviceInformationService.WindowSize property
 

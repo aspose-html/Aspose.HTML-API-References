@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownInlineSyntaxParser method. Defines the interface for parse
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/parse/
+url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/parse/
 ---
 ## MarkdownInlineSyntaxParser.Parse method
 

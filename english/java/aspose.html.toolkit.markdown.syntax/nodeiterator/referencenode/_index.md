@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: NodeIterator property. Get the reference node
 type: docs
 weight: 20
-url: /net/com.aspose.html.toolkit.markdown.syntax/nodeiterator/referencenode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/nodeiterator/referencenode/
 ---
 ## NodeIterator.ReferenceNode property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates TableCellSyntaxNode
 type: docs
 weight: 390
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tablecell/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tablecell/
 ---
 ## MarkdownSyntaxFactory.TableCell method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGClipPathElement property. Corresponds to attribute clipPathUnits on the given clipPath element. Takes one of the constants defined in SVGUnitTypes
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg/svgclippathelement/clippathunits/
+url: /java/com.aspose.html.dom.svg/svgclippathelement/clippathunits/
 ---
 ## SVGClipPathElement.ClipPathUnits property
 

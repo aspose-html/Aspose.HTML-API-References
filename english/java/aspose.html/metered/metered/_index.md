@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Metered constructor. Initializes a new instance of this class
 type: docs
 weight: 10
-url: /net/com.aspose.html/metered/metered/
+url: /java/com.aspose.html/metered/metered/
 ---
 ## Metered constructor
 

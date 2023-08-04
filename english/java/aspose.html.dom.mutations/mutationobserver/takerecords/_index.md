@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MutationObserver method. The method returns a copy of the record queue and then empty the record queue
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.mutations/mutationobserver/takerecords/
+url: /java/com.aspose.html.dom.mutations/mutationobserver/takerecords/
 ---
 ## MutationObserver.TakeRecords method
 

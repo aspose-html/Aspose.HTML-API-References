@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a new Color with the requested cyan magenta yellow key black alpha values
 type: docs
 weight: 30
-url: /net/com.aspose.html.drawing/color/fromcmyka/
+url: /java/com.aspose.html.drawing/color/fromcmyka/
 ---
 ## Color.FromCmyka method
 

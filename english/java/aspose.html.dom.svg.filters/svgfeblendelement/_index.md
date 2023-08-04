@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Filters.SVGFEBlendElement class. The SVGFEBlendElement interface corresponds to the feBlend element
 type: docs
 weight: 1370
-url: /net/com.aspose.html.dom.svg.filters/svgfeblendelement/
+url: /java/com.aspose.html.dom.svg.filters/svgfeblendelement/
 ---
 ## SVGFEBlendElement class
 

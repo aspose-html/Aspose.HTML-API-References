@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Drawing.Frequency class. The frequency unit
 type: docs
 weight: 2680
-url: /net/com.aspose.html.drawing/frequency/
+url: /java/com.aspose.html.drawing/frequency/
 ---
 ## Frequency class
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLFragmentSyntax method. Defines the interface for set Content
 type: docs
 weight: 30
-url: /net/com.aspose.html.toolkit.markdown.syntax/htmlfragmentsyntax/setcontent/
+url: /java/com.aspose.html.toolkit.markdown.syntax/htmlfragmentsyntax/setcontent/
 ---
 ## HTMLFragmentSyntax.SetContent method
 

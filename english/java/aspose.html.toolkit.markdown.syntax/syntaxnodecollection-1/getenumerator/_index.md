@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SyntaxNodeCollection method. Gets the values in the collection
 type: docs
 weight: 100
-url: /net/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/getenumerator/
+url: /java/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/getenumerator/
 ---
 ## SyntaxNodeCollection&lt;T&gt;.GetEnumerator method
 

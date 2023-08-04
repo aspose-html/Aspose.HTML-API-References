@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D property. With globalAlpha applied this sets how shapes and images are drawn onto the existing bitmap. Default source-over
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/globalcompositeoperation/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/globalcompositeoperation/
 ---
 ## ICanvasRenderingContext2D.GlobalCompositeOperation property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: IBrowsingContext property. Gets the network services
 type: docs
 weight: 30
-url: /net/com.aspose.html.dom/ibrowsingcontext/network/
+url: /java/com.aspose.html.dom/ibrowsingcontext/network/
 ---
 ## IBrowsingContext.Network property
 

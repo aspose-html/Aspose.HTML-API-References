@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.MarkdownSyntaxNode class. Base implementation of the MarkdownSyntaxNode
 type: docs
 weight: 5190
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/
 ---
 ## MarkdownSyntaxNode class
 

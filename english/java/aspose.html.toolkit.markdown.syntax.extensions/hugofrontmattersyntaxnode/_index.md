@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Toolkit.Markdown.Syntax.Extensions.HugoFrontMatterSyntaxNode class. Defines the base class HugoFrontMatterSyntaxNode
 type: docs
 weight: 4910
-url: /net/com.aspose.html.toolkit.markdown.syntax.extensions/hugofrontmattersyntaxnode/
+url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugofrontmattersyntaxnode/
 ---
 ## HugoFrontMatterSyntaxNode class
 

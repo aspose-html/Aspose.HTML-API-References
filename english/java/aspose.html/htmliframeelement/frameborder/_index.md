@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: HTMLIFrameElement property. Request frame borders. See the frameborder attribute definition in HTML 4.01
 type: docs
 weight: 20
-url: /net/com.aspose.html/htmliframeelement/frameborder/
+url: /java/com.aspose.html/htmliframeelement/frameborder/
 ---
 ## HTMLIFrameElement.FrameBorder property
 

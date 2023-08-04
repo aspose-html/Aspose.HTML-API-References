@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates ReferenceImageSyntaxNode
 type: docs
 weight: 340
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/referenceimage/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/referenceimage/
 ---
 ## MarkdownSyntaxFactory.ReferenceImage method
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Forms.FormEditor class. This class represents the editor over the HTMLFormElement that creates a easier way for .net developers to edit the html forms
 type: docs
 weight: 2940
-url: /net/com.aspose.html.forms/formeditor/
+url: /java/com.aspose.html.forms/formeditor/
 ---
 ## FormEditor class
 

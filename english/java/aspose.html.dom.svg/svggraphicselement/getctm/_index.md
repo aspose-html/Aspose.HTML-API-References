@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGGraphicsElement method. Returns the transformation matrix from current user units i.e. after application of the transform attribute if any to the viewport coordinate system for the nearestViewportElement
 type: docs
 weight: 80
-url: /net/com.aspose.html.dom.svg/svggraphicselement/getctm/
+url: /java/com.aspose.html.dom.svg/svggraphicselement/getctm/
 ---
 ## SVGGraphicsElement.GetCTM method
 

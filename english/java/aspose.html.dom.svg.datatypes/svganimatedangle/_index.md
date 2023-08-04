@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.DataTypes.SVGAnimatedAngle class. Used for attributes of basic data type angle that can be animated
 type: docs
 weight: 1080
-url: /net/com.aspose.html.dom.svg.datatypes/svganimatedangle/
+url: /java/com.aspose.html.dom.svg.datatypes/svganimatedangle/
 ---
 ## SVGAnimatedAngle class
 

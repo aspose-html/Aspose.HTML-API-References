@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates LinkTitleSyntaxNode
 type: docs
 weight: 270
-url: /net/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linktitle/
+url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linktitle/
 ---
 ## LinkTitle(MarkdownSyntaxToken, MarkdownSyntaxToken) {#linktitle}
 

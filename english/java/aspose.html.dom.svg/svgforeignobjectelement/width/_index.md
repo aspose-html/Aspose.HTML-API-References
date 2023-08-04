@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGForeignObjectElement property. Corresponds to attribute width on the given foreignObject element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg/svgforeignobjectelement/width/
+url: /java/com.aspose.html.dom.svg/svgforeignobjectelement/width/
 ---
 ## SVGForeignObjectElement.Width property
 

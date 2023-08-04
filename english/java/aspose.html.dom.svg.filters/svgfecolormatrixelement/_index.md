@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Dom.Svg.Filters.SVGFEColorMatrixElement class. The SVGFEColorMatrixElement interface corresponds to the feColorMatrix element
 type: docs
 weight: 1380
-url: /net/com.aspose.html.dom.svg.filters/svgfecolormatrixelement/
+url: /java/com.aspose.html.dom.svg.filters/svgfecolormatrixelement/
 ---
 ## SVGFEColorMatrixElement class
 

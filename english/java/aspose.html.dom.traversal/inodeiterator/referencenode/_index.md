@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: INodeIterator property. The current reference node
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.traversal/inodeiterator/referencenode/
+url: /java/com.aspose.html.dom.traversal/inodeiterator/referencenode/
 ---
 ## INodeIterator.ReferenceNode property
 

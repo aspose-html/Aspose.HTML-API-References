@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D property. Specifies the blurring effect. Default 0
 type: docs
 weight: 60
-url: /net/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/shadowblur/
+url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/shadowblur/
 ---
 ## ICanvasRenderingContext2D.ShadowBlur property
 

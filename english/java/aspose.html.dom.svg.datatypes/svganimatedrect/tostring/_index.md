@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGAnimatedRect method. Returns a String that represents this instance
 type: docs
 weight: 10
-url: /net/com.aspose.html.dom.svg.datatypes/svganimatedrect/toString/
+url: /java/com.aspose.html.dom.svg.datatypes/svganimatedrect/toString/
 ---
 ## SVGAnimatedRect.ToString method
 

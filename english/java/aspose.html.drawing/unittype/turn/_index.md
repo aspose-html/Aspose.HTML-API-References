@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is in turns
 type: docs
 weight: 260
-url: /net/com.aspose.html.drawing/unittype/turn/
+url: /java/com.aspose.html.drawing/unittype/turn/
 ---
 ## UnitType.Turn field
 

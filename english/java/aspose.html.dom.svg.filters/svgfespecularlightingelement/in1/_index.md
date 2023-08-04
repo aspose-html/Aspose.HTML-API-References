@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: SVGFESpecularLightingElement property. Corresponds to attribute in on the given feSpecularLighting element
 type: docs
 weight: 20
-url: /net/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/in1/
+url: /java/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/in1/
 ---
 ## SVGFESpecularLightingElement.In1 property
 

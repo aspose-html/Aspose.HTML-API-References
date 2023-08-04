@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.IHTMLFormElement interface. Represents a base interface that should be implemented by HTML Form Elements
 type: docs
 weight: 3690
-url: /net/com.aspose.html/ihtmlformelement/
+url: /java/com.aspose.html/ihtmlformelement/
 ---
 ## IHTMLFormElement interface
 

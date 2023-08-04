@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Element property. Returns the child elements of current element
 type: docs
 weight: 40
-url: /net/com.aspose.html.dom/element/children/
+url: /java/com.aspose.html.dom/element/children/
 ---
 ## Element.Children property
 

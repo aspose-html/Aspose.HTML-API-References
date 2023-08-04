@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: DocumentFragment property. The name of this node depending on its type
 type: docs
 weight: 70
-url: /net/com.aspose.html.dom/documentfragment/nodename/
+url: /java/com.aspose.html.dom/documentfragment/nodename/
 ---
 ## DocumentFragment.NodeName property
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: ITextureBrush property. The number of elements must be even. Every even element is old color. Every odd element is new color
 type: docs
 weight: 10
-url: /net/com.aspose.html.drawing/itexturebrush/colormap/
+url: /java/com.aspose.html.drawing/itexturebrush/colormap/
 ---
 ## ITextureBrush.ColorMap property
 

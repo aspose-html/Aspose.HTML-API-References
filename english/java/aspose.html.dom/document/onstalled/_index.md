@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnStalled event
 type: docs
 weight: 720
-url: /net/com.aspose.html.dom/document/onstalled/
+url: /java/com.aspose.html.dom/document/onstalled/
 ---
 ## Document.OnStalled event
 
