@@ -1,0 +1,20 @@
+---
+title: LengthOrAuto.op_Implicit
+second_title: Aspose.HTML for Java API Reference
+description: LengthOrAuto method. 
+type: docs
+weight: 80
+url: /java/com.aspose.html.drawing/lengthorauto/op_implicit/
+---
+## LengthOrAuto Implicit operator
+
+```java
+public static implicit operator LengthOrAuto(Length length)
+```
+
+### See Also
+
+* class [Length](../../length/)
+* class [LengthOrAuto](../)
+* package [com.aspose.html.Drawing](../../lengthorauto/)
+* package [Aspose.HTML](../../../)
