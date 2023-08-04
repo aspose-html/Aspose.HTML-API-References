@@ -1,6 +1,6 @@
 ---
-title: Aspose.Words for Java
-linktitle: Aspose.Words for Java
+title: Aspose.HTML for Java
+linktitle: Aspose.HTML for Java
 type: docs
 weight: 11
 url: /java/
