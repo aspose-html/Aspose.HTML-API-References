@@ -3,7 +3,7 @@ title: Converter Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Converters.Converter class. Shared facade only for most often conversion scenarios. It provides a wide range of conversions to the popular formats such as PDF XPS image formats etc. More specific conversion rendering saving user cases are presented by well known and documented low level API functions
 type: docs
-weight: 70
+weight: 210
 url: /net/aspose.html.converters/converter/
 ---
 ## Converter class

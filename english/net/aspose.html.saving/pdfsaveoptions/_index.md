@@ -3,7 +3,7 @@ title: PdfSaveOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.PdfSaveOptions class. Specific data class provides few properties to manage conversion result. For example PageSetup specifies page characteristics. Refer to documentation article
 type: docs
-weight: 4680
+weight: 4810
 url: /net/aspose.html.saving/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

@@ -3,7 +3,7 @@ title: SVGAnimatedNumber Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.DataTypes.SVGAnimatedNumber class. Used for attributes of basic type number which can be animated
 type: docs
-weight: 1140
+weight: 1270
 url: /net/aspose.html.dom.svg.datatypes/svganimatednumber/
 ---
 ## SVGAnimatedNumber class

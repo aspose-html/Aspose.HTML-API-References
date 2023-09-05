@@ -3,7 +3,7 @@ title: InputEvent Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Events.InputEvent class. Input events are sent as notifications whenever the DOM is being updated
 type: docs
-weight: 830
+weight: 970
 url: /net/aspose.html.dom.events/inputevent/
 ---
 ## InputEvent class

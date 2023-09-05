@@ -3,7 +3,7 @@ title: DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContext
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Device2DeviceConfigurationTGraphicContextTRenderingOptions class. 
 type: docs
-weight: 4180
+weight: 4310
 url: /net/aspose.html.rendering/device-2.deviceconfiguration-2/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; class

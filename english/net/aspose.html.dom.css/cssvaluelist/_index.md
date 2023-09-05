@@ -3,7 +3,7 @@ title: CSSValueList Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Css.CSSValueList class. The CSSValueList interface provides the abstraction of an ordered collection of CSS values
 type: docs
-weight: 360
+weight: 500
 url: /net/aspose.html.dom.css/cssvaluelist/
 ---
 ## CSSValueList class

@@ -3,7 +3,7 @@ title: Aspose.Html.Dom.Svg
 second_title: Aspose.HTML for .NET API Reference
 description: All classes in Aspose.Html.Dom.Svg namespace are based on w3c SVG2 recommendations. Using this namespace you can load navigate or render the SVG file as per your requirements
 type: docs
-weight: 110
+weight: 130
 url: /net/aspose.html.dom.svg/
 ---
 All classes in **Aspose.Html.Dom.Svg** namespace are based on w3c SVG2 recommendations. Using this namespace, you can load, navigate or render the SVG file as per your requirements.

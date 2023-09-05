@@ -3,7 +3,7 @@ title: Aspose.Html.Dom.Canvas
 second_title: Aspose.HTML for .NET API Reference
 description: 
 type: docs
-weight: 70
+weight: 90
 url: /net/aspose.html.dom.canvas/
 ---
 

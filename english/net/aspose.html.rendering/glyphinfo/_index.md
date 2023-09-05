@@ -3,7 +3,7 @@ title: GlyphInfo Struct
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.GlyphInfo struct. Contains glyph related information
 type: docs
-weight: 4280
+weight: 4410
 url: /net/aspose.html.rendering/glyphinfo/
 ---
 ## GlyphInfo structure

@@ -3,7 +3,7 @@ title: IInterpolationColor Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.IInterpolationColor interface. Desclares methods for getting interpolation color
 type: docs
-weight: 2720
+weight: 2850
 url: /net/aspose.html.drawing/iinterpolationcolor/
 ---
 ## IInterpolationColor interface

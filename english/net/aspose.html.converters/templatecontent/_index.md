@@ -3,7 +3,7 @@ title: TemplateContent Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Converters.TemplateContent enum. Content type identifier
 type: docs
-weight: 80
+weight: 220
 url: /net/aspose.html.converters/templatecontent/
 ---
 ## TemplateContent enumeration

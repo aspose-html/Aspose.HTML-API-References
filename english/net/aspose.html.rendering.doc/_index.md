@@ -3,7 +3,7 @@ title: Aspose.Html.Rendering.Doc
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Rendering.Doc namespace provides specific device class as well as few rendering options classes responsible for rendering to a DOCX document
 type: docs
-weight: 310
+weight: 330
 url: /net/aspose.html.rendering.doc/
 ---
 The **Aspose.Html.Rendering.Doc** namespace provides specific device class as well as few rendering options classes responsible for rendering to a DOCX document.

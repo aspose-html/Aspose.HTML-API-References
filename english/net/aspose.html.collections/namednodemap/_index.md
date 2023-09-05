@@ -3,7 +3,7 @@ title: NamedNodeMap Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Collections.NamedNodeMap class. Represents collections of attributes that can be accessed by name
 type: docs
-weight: 40
+weight: 180
 url: /net/aspose.html.collections/namednodemap/
 ---
 ## NamedNodeMap class

@@ -3,7 +3,7 @@ title: Resolution Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.Resolution class. Represents a resolution unit
 type: docs
-weight: 2830
+weight: 2960
 url: /net/aspose.html.drawing/resolution/
 ---
 ## Resolution class

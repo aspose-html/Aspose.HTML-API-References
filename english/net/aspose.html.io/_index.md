@@ -3,7 +3,7 @@ title: Aspose.Html.IO
 second_title: Aspose.HTML for .NET API Reference
 description: In addition to standard IO input-output tools the Aspose.Html.IO namespace contains helper classes and interfaces
 type: docs
-weight: 240
+weight: 260
 url: /net/aspose.html.io/
 ---
 In addition to standard IO (input-output) tools the **Aspose.Html.IO** namespace contains helper classes and interfaces.

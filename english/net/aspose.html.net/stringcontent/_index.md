@@ -3,7 +3,7 @@ title: StringContent Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Net.StringContent class. Represents content based on a string
 type: docs
-weight: 4110
+weight: 4240
 url: /net/aspose.html.net/stringcontent/
 ---
 ## StringContent class

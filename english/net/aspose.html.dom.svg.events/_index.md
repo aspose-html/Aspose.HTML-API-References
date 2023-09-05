@@ -3,7 +3,7 @@ title: Aspose.Html.Dom.Svg.Events
 second_title: Aspose.HTML for .NET API Reference
 description: The namespace consists of classes for event based interactivity like time events and zooming
 type: docs
-weight: 140
+weight: 160
 url: /net/aspose.html.dom.svg.events/
 ---
 The namespace consists of classes for event based interactivity like time events and zooming.

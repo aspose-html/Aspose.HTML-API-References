@@ -3,7 +3,7 @@ title: YamlScalarSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Extensions.YamlScalarSyntaxNode class. Defines the YamlScalarSyntaxNode
 type: docs
-weight: 4980
+weight: 5110
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/
 ---
 ## YamlScalarSyntaxNode class
@@ -13,12 +13,6 @@ Defines the YamlScalarSyntaxNode
 ```csharp
 public sealed class YamlScalarSyntaxNode : ChildFrontMatterSyntaxNode
 ```
-
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [YamlScalarSyntaxNode](yamlscalarsyntaxnode/)(HugoFrontMatterSyntaxNode, p) |  |
 
 ## Methods
 

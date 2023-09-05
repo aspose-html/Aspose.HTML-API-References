@@ -3,7 +3,7 @@ title: Aspose.Html.Dom.XPath
 second_title: Aspose.HTML for .NET API Reference
 description: The namespace contains methods to navigate through elements and attributes in an XML document
 type: docs
-weight: 210
+weight: 230
 url: /net/aspose.html.dom.xpath/
 ---
 The namespace contains methods to navigate through elements and attributes in an XML document.

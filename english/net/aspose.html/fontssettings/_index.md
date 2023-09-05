@@ -3,7 +3,7 @@ title: FontsSettings Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.FontsSettings class. Represents fonts handling settings
 type: docs
-weight: 2900
+weight: 3030
 url: /net/aspose.html/fontssettings/
 ---
 ## FontsSettings class

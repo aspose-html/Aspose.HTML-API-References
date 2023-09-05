@@ -3,7 +3,7 @@ title: SVGAnimatedRect Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.DataTypes.SVGAnimatedRect class. Used for attributes of type SVGRect which can be animated
 type: docs
-weight: 1170
+weight: 1300
 url: /net/aspose.html.dom.svg.datatypes/svganimatedrect/
 ---
 ## SVGAnimatedRect class

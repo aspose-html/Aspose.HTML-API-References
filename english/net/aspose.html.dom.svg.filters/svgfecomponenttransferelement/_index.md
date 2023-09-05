@@ -3,7 +3,7 @@ title: SVGFEComponentTransferElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.Filters.SVGFEComponentTransferElement class. The SVGFEComponentTransferElement interface corresponds to the feComponentTransfer element
 type: docs
-weight: 1390
+weight: 1520
 url: /net/aspose.html.dom.svg.filters/svgfecomponenttransferelement/
 ---
 ## SVGFEComponentTransferElement class

@@ -3,7 +3,7 @@ title: SVGTransformList Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.DataTypes.SVGTransformList class. This interface defines a list of SVGTransform objects
 type: docs
-weight: 1320
+weight: 1450
 url: /net/aspose.html.dom.svg.datatypes/svgtransformlist/
 ---
 ## SVGTransformList class

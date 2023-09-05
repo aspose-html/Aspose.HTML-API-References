@@ -3,7 +3,7 @@ title: SVGDocument Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.SVGDocument class. An SVGDocument is the root of the SVG hierarchy and holds the entire content. Besides providing access to the hierarchy it also provides some convenience methods for accessing certain sets of information from the document. When an svg element is embedded inline as a component of a document from another namespace such as when an svg element is embedded inline within an XHTML document XHTML then an SVGDocument object will not exist instead the root object in the document object hierarchy will be a Document object of a different type such as an HTMLDocument object. However an SVGDocument object will indeed exist when the root element of the XML document hierarchy is an svg element such as when viewing a stand-alone SVG filei.e. a file with MIME type image/svgxml. In this case the SVGDocument object will be the root object of the document object model hierarchy
 type: docs
-weight: 2020
+weight: 2150
 url: /net/aspose.html.dom.svg/svgdocument/
 ---
 ## SVGDocument class

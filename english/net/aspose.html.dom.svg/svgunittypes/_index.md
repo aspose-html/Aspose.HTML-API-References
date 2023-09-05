@@ -3,7 +3,7 @@ title: SVGUnitTypes Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.SVGUnitTypes enum. The SVGUnitTypes enumeration defines a commonly used set of constants and is a base interface used by SVGGradientElement SVGPatternElement SVGClipPathElement SVGMaskElement and SVGFilterElement
 type: docs
-weight: 2400
+weight: 2530
 url: /net/aspose.html.dom.svg/svgunittypes/
 ---
 ## SVGUnitTypes enumeration
