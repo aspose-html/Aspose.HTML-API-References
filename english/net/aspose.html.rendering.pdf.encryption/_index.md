@@ -3,7 +3,7 @@ title: Aspose.Html.Rendering.Pdf.Encryption
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Rendering.Pdf.Encryption namespace contains data classes describing pdf encryption details like password encryption algorithm and so on
 type: docs
-weight: 350
+weight: 370
 url: /net/aspose.html.rendering.pdf.encryption/
 ---
 The **Aspose.Html.Rendering.Pdf.Encryption** namespace contains data classes describing pdf encryption details like password, encryption algorithm and so on.

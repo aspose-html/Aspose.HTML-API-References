@@ -3,7 +3,7 @@ title: IElementInit Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.IElementInit interface. This interface provides Element initialization info
 type: docs
-weight: 920
+weight: 1050
 url: /net/aspose.html.dom/ielementinit/
 ---
 ## IElementInit interface

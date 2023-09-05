@@ -3,7 +3,7 @@ title: ButtonElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Forms.ButtonElement class. The ButtonElement represents a wrapper that is associated with the HTMLButtonElement
 type: docs
-weight: 2910
+weight: 3040
 url: /net/aspose.html.forms/buttonelement/
 ---
 ## ButtonElement class

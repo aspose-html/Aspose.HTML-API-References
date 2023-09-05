@@ -3,7 +3,7 @@ title: FormElementType Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Forms.FormElementType enum. Represents an enumeration of the Form Elements types and their corresponding to the HTML Elements
 type: docs
-weight: 2960
+weight: 3090
 url: /net/aspose.html.forms/formelementtype/
 ---
 ## FormElementType enumeration

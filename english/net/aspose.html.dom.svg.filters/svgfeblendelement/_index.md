@@ -3,7 +3,7 @@ title: SVGFEBlendElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.Filters.SVGFEBlendElement class. The SVGFEBlendElement interface corresponds to the feBlend element
 type: docs
-weight: 1370
+weight: 1500
 url: /net/aspose.html.dom.svg.filters/svgfeblendelement/
 ---
 ## SVGFEBlendElement class

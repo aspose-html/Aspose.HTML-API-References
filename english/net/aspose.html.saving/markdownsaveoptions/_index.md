@@ -3,7 +3,7 @@ title: MarkdownSaveOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.MarkdownSaveOptions class. Represents Markdown save options. For example you can set markdown formatting style use predefined GitLab Flavored Markdown compatible options and configurate resources handling. Refer to more info in article
 type: docs
-weight: 4670
+weight: 4800
 url: /net/aspose.html.saving/markdownsaveoptions/
 ---
 ## MarkdownSaveOptions class

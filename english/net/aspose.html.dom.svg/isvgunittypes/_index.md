@@ -3,7 +3,7 @@ title: ISVGUnitTypes Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.ISVGUnitTypes interface. The SVGUnitTypes interface defines a commonly used set of constants and is a base interface used by SVGGradientElement SVGPatternElement SVGClipPathElement SVGMaskElement and SVGFilterElement
 type: docs
-weight: 1670
+weight: 1800
 url: /net/aspose.html.dom.svg/isvgunittypes/
 ---
 ## ISVGUnitTypes interface

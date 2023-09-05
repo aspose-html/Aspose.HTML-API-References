@@ -3,7 +3,7 @@ title: YamlMappingSyntaxNode.Item
 second_title: Aspose.HTML for .NET API Reference
 description: YamlMappingSyntaxNode property. Get the value by index
 type: docs
-weight: 30
+weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/item/
 ---
 ## YamlMappingSyntaxNode indexer (1 of 2)
@@ -20,7 +20,7 @@ public ChildFrontMatterSyntaxNode this[int index] { get; }
 
 ### Return Value
 
-The YamlSyntaxNode.
+The ChildFrontMatterSyntaxNode.
 
 ### Exceptions
 
@@ -39,7 +39,7 @@ The YamlSyntaxNode.
 
 ## YamlMappingSyntaxNode indexer (2 of 2)
 
-Get the YamlSyntaxNode by string key.
+Get the ChildFrontMatterSyntaxNode by string key.
 
 ```csharp
 public ChildFrontMatterSyntaxNode this[string key] { get; }
@@ -51,7 +51,7 @@ public ChildFrontMatterSyntaxNode this[string key] { get; }
 
 ### Return Value
 
-The YamlSyntaxNode.
+The ChildFrontMatterSyntaxNode.
 
 ### Exceptions
 

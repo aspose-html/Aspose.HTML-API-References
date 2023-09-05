@@ -3,7 +3,7 @@ title: Aspose.Html.Dom
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Dom Document Object Model namespace provides API that represents and interacts with any HTML XML or SVG documents. The DOM is a document model loaded in the browser and representing the document as a node tree where each node represents part of the document e.g. an element text string or comment
 type: docs
-weight: 50
+weight: 70
 url: /net/aspose.html.dom/
 ---
 The **Aspose.Html.Dom (Document Object Model)** namespace provides API that represents and interacts with any HTML, XML or SVG documents. The DOM is a document model loaded in the browser and representing the document as a node tree, where each node represents part of the document (e.g. an element, text string, or comment).
@@ -37,7 +37,6 @@ The **Aspose.Html.Dom (Document Object Model)** namespace provides API that repr
 | --- | --- |
 | [IBrowsingContext](./ibrowsingcontext/) | A browsing context is an environment in which [`Document`](../aspose.html.dom/document/) objects are presented to the user. |
 | [IChildNode](./ichildnode/) | Defines [`IChildNode`](../aspose.html.dom/ichildnode/) interface that should be implemented by [`Node`](../aspose.html.dom/node/) that can have a parent. |
-| [IDocumentInit](./idocumentinit/) | This interface provides [`Document`](../aspose.html.dom/document/) initialization info. |
 | [IDOMImplementation](./idomimplementation/) | The DOMImplementation interface provides a number of methods for performing operations that are independent of any particular instance of the document object model. |
 | [IElementInit](./ielementinit/) | This interface provides [`Element`](../aspose.html.dom/element/) initialization info. |
 | [IGlobalEventHandlers](./iglobaleventhandlers/) | Represents interface that must be inherited by all element that is supported system event handling |

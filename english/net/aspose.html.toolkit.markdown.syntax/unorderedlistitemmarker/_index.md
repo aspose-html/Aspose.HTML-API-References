@@ -3,7 +3,7 @@ title: UnorderedListItemMarker Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.UnorderedListItemMarker class. Represent the unordered list item syntax
 type: docs
-weight: 5730
+weight: 5860
 url: /net/aspose.html.toolkit.markdown.syntax/unorderedlistitemmarker/
 ---
 ## UnorderedListItemMarker class

@@ -3,7 +3,7 @@ title: HTMLDirectoryElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLDirectoryElement class. Directory list. See the DIR element definition in HTML 4.01. This element is deprecated in HTML 4.01
 type: docs
-weight: 3180
+weight: 3310
 url: /net/aspose.html/htmldirectoryelement/
 ---
 ## HTMLDirectoryElement class

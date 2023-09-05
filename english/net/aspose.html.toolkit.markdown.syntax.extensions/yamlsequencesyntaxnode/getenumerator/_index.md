@@ -3,7 +3,7 @@ title: YamlSequenceSyntaxNode.GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
 description: YamlSequenceSyntaxNode method. Defines the interface for get enumerator
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/getenumerator/
 ---
 ## YamlSequenceSyntaxNode.GetEnumerator method

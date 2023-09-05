@@ -3,7 +3,7 @@ title: ICanvasDrawingStyles Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Canvas.ICanvasDrawingStyles interface. The ICanvasDrawingStyles interface provides methods and properties control how lines are drawn and how text is laid out
 type: docs
-weight: 230
+weight: 370
 url: /net/aspose.html.dom.canvas/icanvasdrawingstyles/
 ---
 ## ICanvasDrawingStyles interface

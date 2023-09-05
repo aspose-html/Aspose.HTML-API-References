@@ -3,7 +3,7 @@ title: Aspose.Html.Dom.Svg.DataTypes
 second_title: Aspose.HTML for .NET API Reference
 description: The namespace provides access to all SVG specific data types
 type: docs
-weight: 130
+weight: 150
 url: /net/aspose.html.dom.svg.datatypes/
 ---
 The namespace provides access to all SVG specific data types.

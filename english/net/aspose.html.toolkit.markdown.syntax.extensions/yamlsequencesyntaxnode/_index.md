@@ -3,7 +3,7 @@ title: YamlSequenceSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Extensions.YamlSequenceSyntaxNode class. Defines the YamlSequenceSyntaxNode
 type: docs
-weight: 4990
+weight: 5120
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/
 ---
 ## YamlSequenceSyntaxNode class
@@ -14,17 +14,11 @@ Defines the YamlSequenceSyntaxNode
 public sealed class YamlSequenceSyntaxNode : ChildFrontMatterSyntaxNode
 ```
 
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [YamlSequenceSyntaxNode](yamlsequencesyntaxnode/)(HugoFrontMatterSyntaxNode, q) |  |
-
 ## Properties
 
 | Name | Description |
 | --- | --- |
-| [Item](../../aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/item/) { get; } | Get the YamlSyntaxNode by index. |
+| [Item](../../aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/item/) { get; } | Get the ChildFrontMatterSyntaxNode by index. |
 
 ## Methods
 

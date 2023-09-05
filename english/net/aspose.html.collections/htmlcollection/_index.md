@@ -3,7 +3,7 @@ title: HTMLCollection Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Collections.HTMLCollection class. The HTMLCollection represents a generic collection of Element
 type: docs
-weight: 30
+weight: 170
 url: /net/aspose.html.collections/htmlcollection/
 ---
 ## HTMLCollection class

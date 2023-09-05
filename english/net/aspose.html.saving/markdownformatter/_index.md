@@ -3,7 +3,7 @@ title: MarkdownFormatter Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.MarkdownFormatter enum. Specifies the way output will be formatted
 type: docs
-weight: 4660
+weight: 4790
 url: /net/aspose.html.saving/markdownformatter/
 ---
 ## MarkdownFormatter enumeration

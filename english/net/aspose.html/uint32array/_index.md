@@ -3,7 +3,7 @@ title: Uint32Array Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Uint32Array class. Represents an array of twos-complement 32-bit unsigned integers in the platform byte order
 type: docs
-weight: 5820
+weight: 5950
 url: /net/aspose.html/uint32array/
 ---
 ## Uint32Array class

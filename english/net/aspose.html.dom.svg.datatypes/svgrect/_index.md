@@ -3,7 +3,7 @@ title: SVGRect Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.DataTypes.SVGRect class. Represents rectangular geometry. Rectangles are defined as consisting of a xy coordinate pair identifying a minimum X value a minimum Y value and a width and height which are usually constrained to be non-negative
 type: docs
-weight: 1290
+weight: 1420
 url: /net/aspose.html.dom.svg.datatypes/svgrect/
 ---
 ## SVGRect class

@@ -3,7 +3,7 @@ title: FencedCodeBlockSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.FencedCodeBlockSyntaxNode class. Represents the FencedCodeBlockSyntaxNode
 type: docs
-weight: 5000
+weight: 5130
 url: /net/aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode/
 ---
 ## FencedCodeBlockSyntaxNode class

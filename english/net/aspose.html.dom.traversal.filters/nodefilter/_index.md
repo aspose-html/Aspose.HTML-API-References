@@ -3,7 +3,7 @@ title: NodeFilter Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Traversal.Filters.NodeFilter class. Filters are objects that know how to filter out nodes
 type: docs
-weight: 2470
+weight: 2600
 url: /net/aspose.html.dom.traversal.filters/nodefilter/
 ---
 ## NodeFilter class

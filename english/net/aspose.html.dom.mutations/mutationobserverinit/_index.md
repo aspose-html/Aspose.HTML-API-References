@@ -3,7 +3,7 @@ title: MutationObserverInit Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Mutations.MutationObserverInit class. This class represents an options collection which is used to configure MutationObserver
 type: docs
-weight: 990
+weight: 1120
 url: /net/aspose.html.dom.mutations/mutationobserverinit/
 ---
 ## MutationObserverInit class

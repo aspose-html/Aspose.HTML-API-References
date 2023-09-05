@@ -3,7 +3,7 @@ title: YamlMappingSyntaxNode.Children
 second_title: Aspose.HTML for .NET API Reference
 description: YamlMappingSyntaxNode property. Get the all Children
 type: docs
-weight: 20
+weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/children/
 ---
 ## YamlMappingSyntaxNode.Children property

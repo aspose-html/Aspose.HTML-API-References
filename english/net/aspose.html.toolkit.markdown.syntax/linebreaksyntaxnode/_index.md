@@ -3,7 +3,7 @@ title: LineBreakSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.LineBreakSyntaxNode class. Represent the LineBreakSyntaxNode
 type: docs
-weight: 5110
+weight: 5240
 url: /net/aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/
 ---
 ## LineBreakSyntaxNode class

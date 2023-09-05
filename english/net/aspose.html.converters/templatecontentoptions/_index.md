@@ -3,7 +3,7 @@ title: TemplateContentOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Converters.TemplateContentOptions class. Inline content object for merging processing
 type: docs
-weight: 90
+weight: 230
 url: /net/aspose.html.converters/templatecontentoptions/
 ---
 ## TemplateContentOptions class

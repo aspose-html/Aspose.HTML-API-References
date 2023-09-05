@@ -3,7 +3,7 @@ title: HugoYamlBasedFrontMatterSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Extensions.HugoYamlBasedFrontMatterSyntaxNode class. Defines the HugoYamlBasedFrontMatterSyntaxNode
 type: docs
-weight: 4950
+weight: 5080
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/
 ---
 ## HugoYamlBasedFrontMatterSyntaxNode class
@@ -12,7 +12,7 @@ Defines the HugoYamlBasedFrontMatterSyntaxNode
 
 ```csharp
 public class HugoYamlBasedFrontMatterSyntaxNode : HugoFrontMatterSyntaxNode, 
-    IEnumerable<KeyValuePair<string, ChildFrontMatterSyntaxNode>>
+    IEnumerable<KeyValuePair<ChildFrontMatterSyntaxNode, ChildFrontMatterSyntaxNode>>
 ```
 
 ## Properties
@@ -20,7 +20,7 @@ public class HugoYamlBasedFrontMatterSyntaxNode : HugoFrontMatterSyntaxNode,
 | Name | Description |
 | --- | --- |
 | [FirstChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/firstchild/) { get; } | Get the first child. |
-| override [FrontMatterRootNode](../../aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/frontmatterrootnode/) { get; } | Get and set the RootNode. |
+| override [FrontMatterRootNode](../../aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/frontmatterrootnode/) { get; } | Get the RootNode. |
 | [LastChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/lastchild/) { get; } | Get the last child. |
 | [NextSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/nextsibling/) { get; } | Get ghe next sibling. |
 | [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |

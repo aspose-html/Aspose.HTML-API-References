@@ -11,7 +11,8 @@ url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmatte
 Get Enumerator.
 
 ```csharp
-public IEnumerator<KeyValuePair<string, ChildFrontMatterSyntaxNode>> GetEnumerator()
+public IEnumerator<KeyValuePair<ChildFrontMatterSyntaxNode, ChildFrontMatterSyntaxNode>> 
+    GetEnumerator()
 ```
 
 ### Return Value

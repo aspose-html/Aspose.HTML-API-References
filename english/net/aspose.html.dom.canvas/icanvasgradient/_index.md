@@ -3,7 +3,7 @@ title: ICanvasGradient Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Canvas.ICanvasGradient interface. Represents an opaque object describing a gradient
 type: docs
-weight: 240
+weight: 380
 url: /net/aspose.html.dom.canvas/icanvasgradient/
 ---
 ## ICanvasGradient interface

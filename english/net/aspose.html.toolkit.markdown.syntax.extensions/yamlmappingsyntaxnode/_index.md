@@ -3,7 +3,7 @@ title: YamlMappingSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Extensions.YamlMappingSyntaxNode class. Defines the YamlMappingSyntaxNode
 type: docs
-weight: 4970
+weight: 5100
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/
 ---
 ## YamlMappingSyntaxNode class
@@ -13,12 +13,6 @@ Defines the YamlMappingSyntaxNode
 ```csharp
 public sealed class YamlMappingSyntaxNode : ChildFrontMatterSyntaxNode
 ```
-
-## Constructors
-
-| Name | Description |
-| --- | --- |
-| [YamlMappingSyntaxNode](yamlmappingsyntaxnode/)(HugoFrontMatterSyntaxNode, o) |  |
 
 ## Properties
 
