@@ -11,7 +11,7 @@ url: /net/aspose.html.dom.mutations/mutationobserver/takerecords/
 The method returns a copy of the record queue and then empty the record queue.
 
 ```csharp
-public IEnumerable<MutationRecord> TakeRecords()
+public IList<MutationRecord> TakeRecords()
 ```
 
 ### Return Value

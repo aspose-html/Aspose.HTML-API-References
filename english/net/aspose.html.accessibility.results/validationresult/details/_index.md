@@ -11,12 +11,12 @@ url: /net/aspose.html.accessibility.results/validationresult/details/
 Validation result details
 
 ```csharp
-public IList<CriterionResult> Details { get; }
+public IList<RuleValidationResult> Details { get; }
 ```
 
 ### See Also
 
-* class [CriterionResult](../../criterionresult/)
+* class [RuleValidationResult](../../rulevalidationresult/)
 * class [ValidationResult](../)
 * namespace [Aspose.Html.Accessibility.Results](../../../aspose.html.accessibility.results/)
 * assembly [Aspose.HTML](../../../)

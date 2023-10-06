@@ -28,6 +28,7 @@ The **Aspose.Html.Dom (Document Object Model)** namespace provides API that repr
 | [Node](./node/) | The Node interface is the primary datatype for the entire Document Object Model. It represents a single node in the document tree. While all objects implementing the Node interface expose methods for dealing with children, not all objects implementing the Node interface may have children. For example, [`Text`](../aspose.html.dom/text/) nodes may not have children, and adding children to such nodes results in a [`DOMException`](../aspose.html.dom/domexception/) being raised. |
 | [Notation](./notation/) | Represents a notation declared in the DTD. |
 | [ProcessingInstruction](./processinginstruction/) | The ProcessingInstruction represents a "processing instruction", used in XML as a way to keep processor-specific information in the text of the document. |
+| [QualifiedName](./qualifiedname/) | Represents an HTML qualified name. |
 | [ShadowRoot](./shadowroot/) | ShadowRoot is a root node of shadow tree. |
 | [Text](./text/) | The Text interface inherits from CharacterData and represents the textual content (termed character data in XML) of an Element or Attr. |
 | [TypeInfo](./typeinfo/) | The TypeInfo represents a type referenced from Element or Attr nodes, specified in the schemas associated with the document. |
@@ -38,11 +39,11 @@ The **Aspose.Html.Dom (Document Object Model)** namespace provides API that repr
 | [IBrowsingContext](./ibrowsingcontext/) | A browsing context is an environment in which [`Document`](../aspose.html.dom/document/) objects are presented to the user. |
 | [IChildNode](./ichildnode/) | Defines [`IChildNode`](../aspose.html.dom/ichildnode/) interface that should be implemented by [`Node`](../aspose.html.dom/node/) that can have a parent. |
 | [IDOMImplementation](./idomimplementation/) | The DOMImplementation interface provides a number of methods for performing operations that are independent of any particular instance of the document object model. |
-| [IElementInit](./ielementinit/) | This interface provides [`Element`](../aspose.html.dom/element/) initialization info. |
 | [IGlobalEventHandlers](./iglobaleventhandlers/) | Represents interface that must be inherited by all element that is supported system event handling |
 | [INonDocumentTypeChildNode](./inondocumenttypechildnode/) | Defines [`IChildNode`](../aspose.html.dom/ichildnode/) that are not [`DOCUMENT_TYPE_NODE`](../aspose.html.dom/node/document_type_node/). |
 | [INonElementParentNode](./inonelementparentnode/) | Defines [`IParentNode`](../aspose.html.dom/iparentnode/) that are not Element type. |
 | [IParentNode](./iparentnode/) | Defines the [`IParentNode`](../aspose.html.dom/iparentnode/) interface that is implemented by any possible parents. |
+| [IStorage](./istorage/) | This interface of the Web Storage API provides access to a particular domain's session or local storage. See Web Storage specification: !:https://html.spec.whatwg.org/multipage/webstorage.html#webstorage |
 ## Enumeration
 
 | Enumeration | Description |

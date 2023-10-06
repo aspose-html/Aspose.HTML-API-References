@@ -11,7 +11,7 @@ url: /net/aspose.html.collections/domtokenlist/item/
 Returns the item in the list by its index, or null if index is greater than or equal to the list's length.
 
 ```csharp
-public string this[ulong index] { get; }
+public string this[uint index] { get; }
 ```
 
 | Parameter | Description |

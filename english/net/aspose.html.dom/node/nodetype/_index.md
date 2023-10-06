@@ -3,7 +3,7 @@ title: Node.NodeType
 second_title: Aspose.HTML for .NET API Reference
 description: Node property. A code representing the type of the underlying object
 type: docs
-weight: 100
+weight: 90
 url: /net/aspose.html.dom/node/nodetype/
 ---
 ## Node.NodeType property

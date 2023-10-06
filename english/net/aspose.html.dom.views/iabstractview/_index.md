@@ -3,7 +3,7 @@ title: IAbstractView Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Views.IAbstractView interface. A base interface that all views shall derive from
 type: docs
-weight: 2680
+weight: 2690
 url: /net/aspose.html.dom.views/iabstractview/
 ---
 ## IAbstractView interface

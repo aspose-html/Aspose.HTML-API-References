@@ -3,7 +3,7 @@ title: IConfigurationBuilder Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.IConfigurationBuilder interface. Represents a Configuration object builder
 type: docs
-weight: 3790
+weight: 3800
 url: /net/aspose.html/iconfigurationbuilder/
 ---
 ## IConfigurationBuilder interface

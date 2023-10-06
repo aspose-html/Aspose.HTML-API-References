@@ -11,7 +11,7 @@ url: /net/aspose.html.dom/element/hasattributes/
 Returns whether this node (if it is an element) has any attributes
 
 ```csharp
-public override bool HasAttributes()
+public bool HasAttributes()
 ```
 
 ### Return Value

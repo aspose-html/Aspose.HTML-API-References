@@ -97,7 +97,6 @@ The Aspose.Html namespace contains classes and methods to manipulate [`HTML docu
 | --- | --- |
 | [IConfigurationBuilder](./iconfigurationbuilder/) | Represents a Configuration object builder. |
 | [IDocumentFragmentElement](./idocumentfragmentelement/) | Represents common interface for all Document Fragment elements. |
-| [IFormAssociatedElement](./iformassociatedelement/) | A form-associated element can have a relationship with a form element, which is called the element's form owner. If a form-associated element is not associated with a form element, its form owner is said to be null. A form-associated element is, by default, associated with its nearest ancestor form element (as described below), but, if it is reassociateable, may have a form attribute specified to override this. |
 | [IHTMLFormElement](./ihtmlformelement/) | Represents a base interface that should be implemented by HTML Form Elements. |
 | [IHTMLOptionsCollection](./ihtmloptionscollection/) | An `HTMLOptionsCollection` is a list of nodes representing HTML option element. An individual node may be accessed by either ordinal index or the node's `name` or `id` attributes. Collections in the HTML DOM are assumed to be live meaning that they are automatically updated when the underlying document is changed. |
 | [IUrlSearchParams](./iurlsearchparams/) | Provides methods to work with URLs query string. |

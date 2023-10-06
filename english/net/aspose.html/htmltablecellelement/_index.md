@@ -3,7 +3,7 @@ title: HTMLTableCellElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLTableCellElement class. The object used to represent the TH and TDelements. See the TD element definition in HTML 4.01
 type: docs
-weight: 3690
+weight: 3700
 url: /net/aspose.html/htmltablecellelement/
 ---
 ## HTMLTableCellElement class
@@ -22,7 +22,7 @@ public class HTMLTableCellElement : HTMLElement
 | --- | --- |
 | [Abbr](../../aspose.html/htmltablecellelement/abbr/) { get; set; } | Abbreviation for header cells. See the abbr attribute definition in HTML 4.01. |
 | [Align](../../aspose.html/htmltablecellelement/align/) { get; set; } | Horizontal alignment of data in cell. See the align attribute definition in HTML 4.01. |
-| override [Attributes](../../aspose.html.dom/element/attributes/) { get; } | A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise. |
+| [Attributes](../../aspose.html.dom/element/attributes/) { get; } | A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise. |
 | [Axis](../../aspose.html/htmltablecellelement/axis/) { get; set; } | Names group of related headers. See the axis attribute definition in HTML 4.01. |
 | virtual [BaseURI](../../aspose.html.dom/node/baseuri/) { get; } | The read-only baseURI property of the Node interface returns the absolute base URL of the document containing the node. |
 | [BgColor](../../aspose.html/htmltablecellelement/bgcolor/) { get; set; } | Cell background color. See the bgcolor attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01. |
@@ -61,7 +61,6 @@ public class HTMLTableCellElement : HTMLElement
 | [PreviousElementSibling](../../aspose.html.dom/element/previouselementsibling/) { get; } | Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree. |
 | [PreviousSibling](../../aspose.html.dom/node/previoussibling/) { get; } | The read-only previousSibling property of the [`Node`](../../aspose.html.dom/node/) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../../aspose.html.dom/node/firstchild/) list, or null if the specified node is the first in that list. |
 | [RowSpan](../../aspose.html/htmltablecellelement/rowspan/) { get; set; } | Number of rows spanned by cell. See the rowspan attribute definition in HTML 4.01. |
-| [SchemaTypeInfo](../../aspose.html.dom/element/schematypeinfo/) { get; } | The type information associated with this element. |
 | [Scope](../../aspose.html/htmltablecellelement/scope/) { get; set; } | Scope covered by header cells. See the scope attribute definition in HTML 4.01. |
 | [ShadowRoot](../../aspose.html.dom/element/shadowroot/) { get; } | Returns shadowRoot stored on this element or null if it's closed. |
 | [Style](../../aspose.html/htmlelement/style/) { get; } | Represents a style attribute that allows author to directly apply style information to specific element. |
@@ -85,6 +84,7 @@ public class HTMLTableCellElement : HTMLElement
 | [DispatchEvent](../../aspose.html.dom/eventtarget/dispatchevent/)(Event) | Dispatches an Event at the specified [`EventTarget`](../../aspose.html.dom.events/ieventtarget/), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`dispatchEvent()`](../../aspose.html.dom.events/ieventtarget/dispatchevent/). |
 | [Dispose](../../aspose.html.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [GetAttribute](../../aspose.html.dom/element/getattribute/)(string) | Retrieves an attribute value by name. |
+| [GetAttributeNames](../../aspose.html.dom/element/getattributenames/)() | Returns the attribute names of the element as an Array of strings. If the element has no attributes it returns an empty array. |
 | [GetAttributeNode](../../aspose.html.dom/element/getattributenode/)(string) | Retrieves an attribute node by name. |
 | [GetAttributeNodeNS](../../aspose.html.dom/element/getattributenodens/)(string, string) | Retrieves an Attr node by local name and namespace URI. |
 | [GetAttributeNS](../../aspose.html.dom/element/getattributens/)(string, string) | Retrieves an attribute value by local name and namespace URI. |
@@ -94,7 +94,7 @@ public class HTMLTableCellElement : HTMLElement
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 | [HasAttribute](../../aspose.html.dom/element/hasattribute/)(string) | Returns true when an attribute with a given name is specified on this element or has a default value, false otherwise. |
 | [HasAttributeNS](../../aspose.html.dom/element/hasattributens/)(string, string) | Returns true when an attribute with a given local name and namespace URI is specified on this element or has a default value, false otherwise. |
-| override [HasAttributes](../../aspose.html.dom/element/hasattributes/)() | Returns whether this node (if it is an element) has any attributes |
+| [HasAttributes](../../aspose.html.dom/element/hasattributes/)() | Returns whether this node (if it is an element) has any attributes |
 | [HasChildNodes](../../aspose.html.dom/node/haschildnodes/)() | The hasChildNodes() method of the Node interface returns a boolean value indicating whether the given [`Node`](../../aspose.html.dom/node/) has child nodes or not. |
 | [InsertBefore](../../aspose.html.dom/node/insertbefore/)(Node, Node) | The insertBefore() method of the Node interface inserts a node before a reference node as a child of a specified parent node. |
 | [IsDefaultNamespace](../../aspose.html.dom/node/isdefaultnamespace/)(string) | The isDefaultNamespace() method of the Node interface accepts a namespace URI as an argument. It returns a boolean value that is true if the namespace is the default namespace on the given node and false if not. |
@@ -118,9 +118,8 @@ public class HTMLTableCellElement : HTMLElement
 | [SetAttributeNode](../../aspose.html.dom/element/setattributenode/)(Attr) | Adds a new attribute node. If an attribute with that name (nodeName) is already present in the element, it is replaced by the new one. |
 | [SetAttributeNodeNS](../../aspose.html.dom/element/setattributenodens/)(Attr) | Adds a new attribute. If an attribute with that local name and that namespace URI is already present in the element, it is replaced by the new one. |
 | [SetAttributeNS](../../aspose.html.dom/element/setattributens/)(string, string, string) | Adds a new attribute. If an attribute with the same local name and namespace URI is already present on the element, its prefix is changed to be the prefix part of the qualifiedName, and its value is changed to be the value parameter. |
-| [SetIdAttribute](../../aspose.html.dom/element/setidattribute/)(string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [SetIdAttributeNode](../../aspose.html.dom/element/setidattributenode/)(Attr, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [SetIdAttributeNS](../../aspose.html.dom/element/setidattributens/)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
+| [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(string) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
+| [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(string, bool) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
 ## Events

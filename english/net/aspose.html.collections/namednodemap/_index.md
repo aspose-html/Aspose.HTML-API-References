@@ -11,7 +11,7 @@ url: /net/aspose.html.collections/namednodemap/
 Represents collections of attributes that can be accessed by name.
 
 ```csharp
-public class NamedNodeMap : DOMObject, IDisposable, IEnumerable<Attr>
+public class NamedNodeMap : DOMObject
 ```
 
 ## Properties
@@ -25,7 +25,6 @@ public class NamedNodeMap : DOMObject, IDisposable, IEnumerable<Attr>
 
 | Name | Description |
 | --- | --- |
-| [GetEnumerator](../../aspose.html.collections/namednodemap/getenumerator/)() | Returns an enumerator that iterates through the collection. |
 | [GetNamedItem](../../aspose.html.collections/namednodemap/getnameditem/)(string) | Retrieves a node specified by name. |
 | [GetNamedItemNS](../../aspose.html.collections/namednodemap/getnameditemns/)(string, string) | Retrieves a node specified by local name and namespace URI. |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
@@ -37,6 +36,5 @@ public class NamedNodeMap : DOMObject, IDisposable, IEnumerable<Attr>
 ### See Also
 
 * class [DOMObject](../../aspose.html.dom/domobject/)
-* class [Attr](../../aspose.html.dom/attr/)
 * namespace [Aspose.Html.Collections](../../aspose.html.collections/)
 * assembly [Aspose.HTML](../../)

@@ -3,7 +3,7 @@ title: Node.LookupNamespaceURI
 second_title: Aspose.HTML for .NET API Reference
 description: Node method. The lookupNamespaceURI method of the Node interface takes a prefix as parameter and returns the namespace URI associated with it on the given node if found and null if not
 type: docs
-weight: 260
+weight: 240
 url: /net/aspose.html.dom/node/lookupnamespaceuri/
 ---
 ## Node.LookupNamespaceURI method

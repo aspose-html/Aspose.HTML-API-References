@@ -3,7 +3,7 @@ title: EventTarget.AddEventListener
 second_title: Aspose.HTML for .NET API Reference
 description: EventTarget method. The addEventListener method of the EventTarget interface sets up a function that will be called whenever the specified event is delivered to the target
 type: docs
-weight: 10
+weight: 20
 url: /net/aspose.html.dom/eventtarget/addeventlistener/
 ---
 ## AddEventListener(string, DOMEventHandler, bool) {#addeventlistener}

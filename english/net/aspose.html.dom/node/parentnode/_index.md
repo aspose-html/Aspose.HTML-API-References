@@ -3,7 +3,7 @@ title: Node.ParentNode
 second_title: Aspose.HTML for .NET API Reference
 description: Node property. The read-only parentNode property of the Node interface returns the parent of the specified node in the DOM tree
 type: docs
-weight: 140
+weight: 130
 url: /net/aspose.html.dom/node/parentnode/
 ---
 ## Node.ParentNode property

@@ -11,7 +11,7 @@ url: /net/aspose.html.accessibility/principle/description/
 Description of Rule from the quick reference WCAG. https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0
 
 ```csharp
-public string Description { get; set; }
+public string Description { get; }
 ```
 
 ### See Also

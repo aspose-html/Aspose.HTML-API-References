@@ -3,7 +3,7 @@ title: ITreeWalker Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Traversal.ITreeWalker interface. TreeWalker objects are used to navigate a document tree or subtree using the view of the document defined by their whatToShow flags and filter if any. Any function which performs navigation using a TreeWalker will automatically support any view defined by a TreeWalker
 type: docs
-weight: 2660
+weight: 2670
 url: /net/aspose.html.dom.traversal/itreewalker/
 ---
 ## ITreeWalker interface

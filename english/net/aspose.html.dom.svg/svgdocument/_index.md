@@ -3,7 +3,7 @@ title: SVGDocument Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.SVGDocument class. An SVGDocument is the root of the SVG hierarchy and holds the entire content. Besides providing access to the hierarchy it also provides some convenience methods for accessing certain sets of information from the document. When an svg element is embedded inline as a component of a document from another namespace such as when an svg element is embedded inline within an XHTML document XHTML then an SVGDocument object will not exist instead the root object in the document object hierarchy will be a Document object of a different type such as an HTMLDocument object. However an SVGDocument object will indeed exist when the root element of the XML document hierarchy is an svg element such as when viewing a stand-alone SVG filei.e. a file with MIME type image/svgxml. In this case the SVGDocument object will be the root object of the document object model hierarchy
 type: docs
-weight: 2150
+weight: 2160
 url: /net/aspose.html.dom.svg/svgdocument/
 ---
 ## SVGDocument class
@@ -39,7 +39,6 @@ public class SVGDocument : Document, IDocumentCSS
 
 | Name | Description |
 | --- | --- |
-| virtual [Attributes](../../aspose.html.dom/node/attributes/) { get; } | The attributes property returns a live collection of all attribute nodes registered to the specified node. Attributes is a key/value pair of strings that represents any information regarding that attribute. |
 | override [BaseURI](../../aspose.html.dom/document/baseuri/) { get; } | The absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
 | [CharacterSet](../../aspose.html.dom/document/characterset/) { get; } | Gets the document's encoding. |
 | [Charset](../../aspose.html.dom/document/charset/) { get; } | Gets the document's encoding. |
@@ -124,7 +123,6 @@ public class SVGDocument : Document, IDocumentCSS
 | [GetElementsByTagNameNS](../../aspose.html.dom/document/getelementsbytagnamens/)(string, string) | Returns a list of elements with the given tag name belonging to the given namespace. The complete document is searched, including the root node. |
 | [GetOverrideStyle](../../aspose.html.dom.svg/svgdocument/getoverridestyle/)(Element, string) | This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element. |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| virtual [HasAttributes](../../aspose.html.dom/node/hasattributes/)() | The hasAttributes() method of the [`Element`](../../aspose.html.dom/element/) interface returns a boolean value indicating whether the current element has any attributes or not. |
 | [HasChildNodes](../../aspose.html.dom/node/haschildnodes/)() | The hasChildNodes() method of the Node interface returns a boolean value indicating whether the given [`Node`](../../aspose.html.dom/node/) has child nodes or not. |
 | [ImportNode](../../aspose.html.dom/document/importnode/)(Node, bool) | Imports a node from another document to this document, without altering or removing the source node from the original document; this method creates a new copy of the source node. |
 | [InsertBefore](../../aspose.html.dom/node/insertbefore/)(Node, Node) | The insertBefore() method of the Node interface inserts a node before a reference node as a child of a specified parent node. |

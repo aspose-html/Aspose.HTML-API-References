@@ -11,7 +11,7 @@ url: /net/aspose.html.collections/domtokenlist/length/
 Returns an ulong which represents the number of tokens stored in this list.
 
 ```csharp
-public ulong Length { get; }
+public uint Length { get; }
 ```
 
 ### See Also

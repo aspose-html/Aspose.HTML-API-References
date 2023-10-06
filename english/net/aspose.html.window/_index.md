@@ -13,6 +13,7 @@ The **Aspose.Html.Window** namespace is related for window object which represen
 | Class | Description |
 | --- | --- |
 | [Location](./location/) | Location objects provide a representation of the address of the active document of their Document's browsing context, and allow the current entry of the browsing context's session history to be changed, by adding or replacing entries in the history object. |
+| [MediaQueryList](./mediaquerylist/) | A MediaQueryList object stores information on a media query applied to a document, with support for both immediate and event-driven matching against the state of the document. See CSSOM View Module specification: !:https://www.w3.org/TR/cssom-view/#the-mediaquerylist-interface |
 ## Interfaces
 
 | Interface | Description |

@@ -31,10 +31,14 @@ public class WebAccessibility
 | Name | Description |
 | --- | --- |
 | [CreateValidator](../../aspose.html.accessibility/webaccessibility/createvalidator/#createvalidator)() | An AccessibilityValidator instance is created according to all the rules with a ValidationBuilder.All object. |
-| [CreateValidator](../../aspose.html.accessibility/webaccessibility/createvalidator/#createvalidator_4)(Action&lt;ValidationBuilder&gt;) | Create AccessibilityValidator instance |
-| [CreateValidator](../../aspose.html.accessibility/webaccessibility/createvalidator/#createvalidator_3)(ValidationBuilder) | Create AccessibilityValidator instance |
-| [CreateValidator](../../aspose.html.accessibility/webaccessibility/createvalidator/#createvalidator_2)(IRule, Action&lt;ValidationBuilder&gt;) | Create AccessibilityValidator instance |
-| [CreateValidator](../../aspose.html.accessibility/webaccessibility/createvalidator/#createvalidator_1)(IRule, ValidationBuilder) | Create AccessibilityValidator instance |
+| [CreateValidator](../../aspose.html.accessibility/webaccessibility/createvalidator/#createvalidator_5)(Action&lt;ValidationBuilder&gt;) | Create AccessibilityValidator instance |
+| [CreateValidator](../../aspose.html.accessibility/webaccessibility/createvalidator/#createvalidator_6)(IList&lt;IRule&gt;) | An AccessibilityValidator instance is created for a specific rules list. |
+| [CreateValidator](../../aspose.html.accessibility/webaccessibility/createvalidator/#createvalidator_1)(IRule) | An AccessibilityValidator instance is created for a specific rule, given the full parameters of the ValidationBuilder.All object. |
+| [CreateValidator](../../aspose.html.accessibility/webaccessibility/createvalidator/#createvalidator_4)(ValidationBuilder) | Create AccessibilityValidator instance |
+| [CreateValidator](../../aspose.html.accessibility/webaccessibility/createvalidator/#createvalidator_8)(IList&lt;IRule&gt;, Action&lt;ValidationBuilder&gt;) | An AccessibilityValidator instance is created for a specific rules list. |
+| [CreateValidator](../../aspose.html.accessibility/webaccessibility/createvalidator/#createvalidator_7)(IList&lt;IRule&gt;, ValidationBuilder) | An AccessibilityValidator instance is created for a specific rules list. |
+| [CreateValidator](../../aspose.html.accessibility/webaccessibility/createvalidator/#createvalidator_3)(IRule, Action&lt;ValidationBuilder&gt;) | Create AccessibilityValidator instance |
+| [CreateValidator](../../aspose.html.accessibility/webaccessibility/createvalidator/#createvalidator_2)(IRule, ValidationBuilder) | Create AccessibilityValidator instance |
 
 ### See Also
 

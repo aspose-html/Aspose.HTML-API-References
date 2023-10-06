@@ -3,7 +3,7 @@ title: HTMLInputElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLInputElement class. Form control. Depending upon the environment in which the page is being viewed the value property may be read-only for the file upload input type. For the password input type the actual value returned may be masked to prevent unauthorized use. See the INPUT element definition in HTML 4.01.See also the Document object Model DOM Level 2 HTML Specification
 type: docs
-weight: 3460
+weight: 3470
 url: /net/aspose.html/htmlinputelement/
 ---
 ## HTMLInputElement class
@@ -22,7 +22,7 @@ public class HTMLInputElement : HTMLElement
 | [AccessKey](../../aspose.html/htmlinputelement/accesskey/) { get; set; } | A single character access key to give access to the form control. See the accesskey attribute definition in HTML 4.01. |
 | [Align](../../aspose.html/htmlinputelement/align/) { get; set; } | Aligns this object (vertically or horizontally) with respect to its surrounding text. See the align attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01. |
 | [Alt](../../aspose.html/htmlinputelement/alt/) { get; set; } | Alternate text for user agents not rendering the normal content of this element. See the alt attribute definition in HTML 4.01. |
-| override [Attributes](../../aspose.html.dom/element/attributes/) { get; } | A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise. |
+| [Attributes](../../aspose.html.dom/element/attributes/) { get; } | A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise. |
 | virtual [BaseURI](../../aspose.html.dom/node/baseuri/) { get; } | The read-only baseURI property of the Node interface returns the absolute base URL of the document containing the node. |
 | [Checked](../../aspose.html/htmlinputelement/checked/) { get; set; } | When the `type` attribute of the element has the value "radio" or "checkbox", this represents the current state of the form control, in an interactive user agent. Changes to this attribute change the state of the form control, but do not change the value of the HTML checked attribute of the INPUT element.During the handling of a click event on an input element with a type attribute that has the value "radio" or "checkbox", some implementations may change the value of this property before the event is being dispatched in the document. If the default action of the event is canceled, the value of the property may be changed back to its original value. This means that the value of this property during the handling of click events is implementation dependent. |
 | [ChildElementCount](../../aspose.html.dom/element/childelementcount/) { get; } | Returns the current number of element nodes that are children of this element. 0 if this element has no child nodes that are of nodeType 1. |
@@ -61,7 +61,6 @@ public class HTMLInputElement : HTMLElement
 | [PreviousElementSibling](../../aspose.html.dom/element/previouselementsibling/) { get; } | Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree. |
 | [PreviousSibling](../../aspose.html.dom/node/previoussibling/) { get; } | The read-only previousSibling property of the [`Node`](../../aspose.html.dom/node/) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../../aspose.html.dom/node/firstchild/) list, or null if the specified node is the first in that list. |
 | [ReadOnly](../../aspose.html/htmlinputelement/readonly/) { get; set; } | This control is read-only. Relevant only when `type` has the value "text" or "password". See the readonly attribute definition in HTML 4.01. |
-| [SchemaTypeInfo](../../aspose.html.dom/element/schematypeinfo/) { get; } | The type information associated with this element. |
 | [ShadowRoot](../../aspose.html.dom/element/shadowroot/) { get; } | Returns shadowRoot stored on this element or null if it's closed. |
 | [Size](../../aspose.html/htmlinputelement/size/) { get; set; } | Size information. The precise meaning is specific to each type of field. See the size attribute definition in HTML 4.01. @version DOM Level 2 |
 | [Src](../../aspose.html/htmlinputelement/src/) { get; set; } | When the `type` attribute has the value "image", this attribute specifies the location of the image to be used to decorate the graphical submit button. See the src attribute definition in HTML 4.01. |
@@ -88,6 +87,7 @@ public class HTMLInputElement : HTMLElement
 | [DispatchEvent](../../aspose.html.dom/eventtarget/dispatchevent/)(Event) | Dispatches an Event at the specified [`EventTarget`](../../aspose.html.dom.events/ieventtarget/), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`dispatchEvent()`](../../aspose.html.dom.events/ieventtarget/dispatchevent/). |
 | [Dispose](../../aspose.html.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [GetAttribute](../../aspose.html.dom/element/getattribute/)(string) | Retrieves an attribute value by name. |
+| [GetAttributeNames](../../aspose.html.dom/element/getattributenames/)() | Returns the attribute names of the element as an Array of strings. If the element has no attributes it returns an empty array. |
 | [GetAttributeNode](../../aspose.html.dom/element/getattributenode/)(string) | Retrieves an attribute node by name. |
 | [GetAttributeNodeNS](../../aspose.html.dom/element/getattributenodens/)(string, string) | Retrieves an Attr node by local name and namespace URI. |
 | [GetAttributeNS](../../aspose.html.dom/element/getattributens/)(string, string) | Retrieves an attribute value by local name and namespace URI. |
@@ -97,7 +97,7 @@ public class HTMLInputElement : HTMLElement
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 | [HasAttribute](../../aspose.html.dom/element/hasattribute/)(string) | Returns true when an attribute with a given name is specified on this element or has a default value, false otherwise. |
 | [HasAttributeNS](../../aspose.html.dom/element/hasattributens/)(string, string) | Returns true when an attribute with a given local name and namespace URI is specified on this element or has a default value, false otherwise. |
-| override [HasAttributes](../../aspose.html.dom/element/hasattributes/)() | Returns whether this node (if it is an element) has any attributes |
+| [HasAttributes](../../aspose.html.dom/element/hasattributes/)() | Returns whether this node (if it is an element) has any attributes |
 | [HasChildNodes](../../aspose.html.dom/node/haschildnodes/)() | The hasChildNodes() method of the Node interface returns a boolean value indicating whether the given [`Node`](../../aspose.html.dom/node/) has child nodes or not. |
 | [InsertBefore](../../aspose.html.dom/node/insertbefore/)(Node, Node) | The insertBefore() method of the Node interface inserts a node before a reference node as a child of a specified parent node. |
 | [IsDefaultNamespace](../../aspose.html.dom/node/isdefaultnamespace/)(string) | The isDefaultNamespace() method of the Node interface accepts a namespace URI as an argument. It returns a boolean value that is true if the namespace is the default namespace on the given node and false if not. |
@@ -121,9 +121,8 @@ public class HTMLInputElement : HTMLElement
 | [SetAttributeNode](../../aspose.html.dom/element/setattributenode/)(Attr) | Adds a new attribute node. If an attribute with that name (nodeName) is already present in the element, it is replaced by the new one. |
 | [SetAttributeNodeNS](../../aspose.html.dom/element/setattributenodens/)(Attr) | Adds a new attribute. If an attribute with that local name and that namespace URI is already present in the element, it is replaced by the new one. |
 | [SetAttributeNS](../../aspose.html.dom/element/setattributens/)(string, string, string) | Adds a new attribute. If an attribute with the same local name and namespace URI is already present on the element, its prefix is changed to be the prefix part of the qualifiedName, and its value is changed to be the value parameter. |
-| [SetIdAttribute](../../aspose.html.dom/element/setidattribute/)(string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [SetIdAttributeNode](../../aspose.html.dom/element/setidattributenode/)(Attr, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [SetIdAttributeNS](../../aspose.html.dom/element/setidattributens/)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
+| [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(string) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
+| [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(string, bool) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
 ## Events

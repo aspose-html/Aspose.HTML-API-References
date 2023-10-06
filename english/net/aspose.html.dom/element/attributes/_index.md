@@ -11,7 +11,7 @@ url: /net/aspose.html.dom/element/attributes/
 A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise.
 
 ```csharp
-public override NamedNodeMap Attributes { get; }
+public NamedNodeMap Attributes { get; }
 ```
 
 ### See Also

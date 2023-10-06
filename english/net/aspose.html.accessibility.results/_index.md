@@ -12,5 +12,5 @@ The **Aspose.Html.Accessibility.Results** namespace contains classes that descri
 
 | Class | Description |
 | --- | --- |
-| [CriterionResult](./criterionresult/) | Class - result of criteria check, contains a list of method Results, which are ways to satisfy the success criteria. |
+| [RuleValidationResult](./rulevalidationresult/) | Class - result of rule check, contains a list of [`ITechniqueResult`](../aspose.html.accessibility/itechniqueresult/), which are ways to satisfy the success criteria. |
 | [ValidationResult](./validationresult/) | The main result class, that contains Results for all Criterion from AccessibilityRules object. |
