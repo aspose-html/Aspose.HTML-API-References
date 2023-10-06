@@ -11,7 +11,7 @@ url: /net/aspose.html.accessibility/criterion/level/
 Compliance levels: A (lowest), AA and AAA (highest).
 
 ```csharp
-public string Level { get; set; }
+public string Level { get; }
 ```
 
 ### See Also

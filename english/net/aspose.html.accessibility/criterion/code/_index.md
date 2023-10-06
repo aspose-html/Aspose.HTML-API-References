@@ -11,7 +11,7 @@ url: /net/aspose.html.accessibility/criterion/code/
 Rule code from the quick reference WCAG. https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0
 
 ```csharp
-public string Code { get; set; }
+public string Code { get; }
 ```
 
 ### See Also

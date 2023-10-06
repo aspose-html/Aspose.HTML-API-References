@@ -11,7 +11,7 @@ url: /net/aspose.html.dom/element/removeattribute/
 Removes an attribute by name.
 
 ```csharp
-public void RemoveAttribute(string name)
+public void RemoveAttribute(string qualifiedName)
 ```
 
 | Parameter | Type | Description |

@@ -3,7 +3,7 @@ title: Attr.NamespaceURI
 second_title: Aspose.HTML for .NET API Reference
 description: Attr property. The namespace URI of this node or null if it is unspecified
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.html.dom/attr/namespaceuri/
 ---
 ## Attr.NamespaceURI property

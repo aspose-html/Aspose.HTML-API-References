@@ -11,7 +11,7 @@ url: /net/aspose.html.dom/element/setattribute/
 Adds a new attribute. If an attribute with that name is already present in the element, its value is changed to be that of the value parameter
 
 ```csharp
-public void SetAttribute(string name, string value)
+public void SetAttribute(string qualifiedName, string value)
 ```
 
 | Parameter | Type | Description |

@@ -3,7 +3,7 @@ title: HTMLTableElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLTableElement class. The create and delete methods on the table allow authors to construct and modify tables. HTML 4.01 specifies that only one of each of the CAPTION THEAD and TFOOT elements may exist in a table. Therefore if one exists and the createTHead or createTFoot method is called the method returns the existing THead or TFoot element. See the TABLE element definition in HTML 4.01
 type: docs
-weight: 3710
+weight: 3720
 url: /net/aspose.html/htmltableelement/
 ---
 ## HTMLTableElement class
@@ -21,7 +21,7 @@ public class HTMLTableElement : HTMLElement
 | Name | Description |
 | --- | --- |
 | [Align](../../aspose.html/htmltableelement/align/) { get; set; } | Specifies the table's position with respect to the rest of the document. See the align attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01. |
-| override [Attributes](../../aspose.html.dom/element/attributes/) { get; } | A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise. |
+| [Attributes](../../aspose.html.dom/element/attributes/) { get; } | A NamedNodeMap containing the attributes of this node (if it is an Element) or null otherwise. |
 | virtual [BaseURI](../../aspose.html.dom/node/baseuri/) { get; } | The read-only baseURI property of the Node interface returns the absolute base URL of the document containing the node. |
 | [BgColor](../../aspose.html/htmltableelement/bgcolor/) { get; set; } | Cell background color. See the bgcolor attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01. |
 | [Border](../../aspose.html/htmltableelement/border/) { get; set; } | The width of the border around the table. See the border attribute definition in HTML 4.01. |
@@ -58,7 +58,6 @@ public class HTMLTableElement : HTMLElement
 | [PreviousSibling](../../aspose.html.dom/node/previoussibling/) { get; } | The read-only previousSibling property of the [`Node`](../../aspose.html.dom/node/) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../../aspose.html.dom/node/firstchild/) list, or null if the specified node is the first in that list. |
 | [Rows](../../aspose.html/htmltableelement/rows/) { get; } | Returns the table's `TFOOT`, or `null` if none exists. |
 | [Rules](../../aspose.html/htmltableelement/rules/) { get; set; } | Specifies which internal table borders to render. See the rules attribute definition in HTML 4.01. |
-| [SchemaTypeInfo](../../aspose.html.dom/element/schematypeinfo/) { get; } | The type information associated with this element. |
 | [ShadowRoot](../../aspose.html.dom/element/shadowroot/) { get; } | Returns shadowRoot stored on this element or null if it's closed. |
 | [Style](../../aspose.html/htmlelement/style/) { get; } | Represents a style attribute that allows author to directly apply style information to specific element. |
 | [Summary](../../aspose.html/htmltableelement/summary/) { get; set; } | Description about the purpose or structure of a table. See the summary attribute definition in HTML 4.01. |
@@ -91,6 +90,7 @@ public class HTMLTableElement : HTMLElement
 | [DispatchEvent](../../aspose.html.dom/eventtarget/dispatchevent/)(Event) | Dispatches an Event at the specified [`EventTarget`](../../aspose.html.dom.events/ieventtarget/), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`dispatchEvent()`](../../aspose.html.dom.events/ieventtarget/dispatchevent/). |
 | [Dispose](../../aspose.html.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [GetAttribute](../../aspose.html.dom/element/getattribute/)(string) | Retrieves an attribute value by name. |
+| [GetAttributeNames](../../aspose.html.dom/element/getattributenames/)() | Returns the attribute names of the element as an Array of strings. If the element has no attributes it returns an empty array. |
 | [GetAttributeNode](../../aspose.html.dom/element/getattributenode/)(string) | Retrieves an attribute node by name. |
 | [GetAttributeNodeNS](../../aspose.html.dom/element/getattributenodens/)(string, string) | Retrieves an Attr node by local name and namespace URI. |
 | [GetAttributeNS](../../aspose.html.dom/element/getattributens/)(string, string) | Retrieves an attribute value by local name and namespace URI. |
@@ -100,7 +100,7 @@ public class HTMLTableElement : HTMLElement
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 | [HasAttribute](../../aspose.html.dom/element/hasattribute/)(string) | Returns true when an attribute with a given name is specified on this element or has a default value, false otherwise. |
 | [HasAttributeNS](../../aspose.html.dom/element/hasattributens/)(string, string) | Returns true when an attribute with a given local name and namespace URI is specified on this element or has a default value, false otherwise. |
-| override [HasAttributes](../../aspose.html.dom/element/hasattributes/)() | Returns whether this node (if it is an element) has any attributes |
+| [HasAttributes](../../aspose.html.dom/element/hasattributes/)() | Returns whether this node (if it is an element) has any attributes |
 | [HasChildNodes](../../aspose.html.dom/node/haschildnodes/)() | The hasChildNodes() method of the Node interface returns a boolean value indicating whether the given [`Node`](../../aspose.html.dom/node/) has child nodes or not. |
 | [InsertBefore](../../aspose.html.dom/node/insertbefore/)(Node, Node) | The insertBefore() method of the Node interface inserts a node before a reference node as a child of a specified parent node. |
 | [InsertRow](../../aspose.html/htmltableelement/insertrow/)(int) | Insert a new empty row in the table. The new row is inserted immediately before and in the same section as the current `index`th row in the table. If `index` is -1 or equal to the number of rows, the new row is appended. In addition, when the table is empty the row is inserted into a `TBODY`which is created and inserted into the table.A table row cannot be empty according to [[HTML 4.01](http://www.w3.org/TR/1999/REC-html401-19991224)]. |
@@ -125,9 +125,8 @@ public class HTMLTableElement : HTMLElement
 | [SetAttributeNode](../../aspose.html.dom/element/setattributenode/)(Attr) | Adds a new attribute node. If an attribute with that name (nodeName) is already present in the element, it is replaced by the new one. |
 | [SetAttributeNodeNS](../../aspose.html.dom/element/setattributenodens/)(Attr) | Adds a new attribute. If an attribute with that local name and that namespace URI is already present in the element, it is replaced by the new one. |
 | [SetAttributeNS](../../aspose.html.dom/element/setattributens/)(string, string, string) | Adds a new attribute. If an attribute with the same local name and namespace URI is already present on the element, its prefix is changed to be the prefix part of the qualifiedName, and its value is changed to be the value parameter. |
-| [SetIdAttribute](../../aspose.html.dom/element/setidattribute/)(string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [SetIdAttributeNode](../../aspose.html.dom/element/setidattributenode/)(Attr, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [SetIdAttributeNS](../../aspose.html.dom/element/setidattributens/)(string, string, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
+| [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(string) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
+| [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(string, bool) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
 ## Events

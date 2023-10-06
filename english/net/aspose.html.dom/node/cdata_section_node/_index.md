@@ -3,7 +3,7 @@ title: Node.CDATA_SECTION_NODE
 second_title: Aspose.HTML for .NET API Reference
 description: Node field. A CDATASection such as CDATA  
 type: docs
-weight: 330
+weight: 310
 url: /net/aspose.html.dom/node/cdata_section_node/
 ---
 ## Node.CDATA_SECTION_NODE field

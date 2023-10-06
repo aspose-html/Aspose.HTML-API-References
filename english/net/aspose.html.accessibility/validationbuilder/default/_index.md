@@ -1,17 +1,17 @@
 ---
 title: ValidationBuilder.Default
 second_title: Aspose.HTML for .NET API Reference
-description: ValidationBuilder field. Default settings only General technologies and Failures are used The array of levels is empty and the check goes through all levels
+description: ValidationBuilder property. Default settings only General technologies is used and for Lowest criterion level
 type: docs
 weight: 20
 url: /net/aspose.html.accessibility/validationbuilder/default/
 ---
-## ValidationBuilder.Default field
+## ValidationBuilder.Default property
 
-Default settings: only General technologies and Failures are used The array of levels is empty and the check goes through all levels
+Default settings: only General technologies is used and for Lowest criterion level
 
 ```csharp
-public static readonly ValidationBuilder Default;
+public static ValidationBuilder Default { get; }
 ```
 
 ### See Also

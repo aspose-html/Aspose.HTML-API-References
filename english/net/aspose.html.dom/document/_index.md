@@ -19,7 +19,6 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 
 | Name | Description |
 | --- | --- |
-| virtual [Attributes](../../aspose.html.dom/node/attributes/) { get; } | The attributes property returns a live collection of all attribute nodes registered to the specified node. Attributes is a key/value pair of strings that represents any information regarding that attribute. |
 | override [BaseURI](../../aspose.html.dom/document/baseuri/) { get; } | The absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
 | [CharacterSet](../../aspose.html.dom/document/characterset/) { get; } | Gets the document's encoding. |
 | [Charset](../../aspose.html.dom/document/charset/) { get; } | Gets the document's encoding. |
@@ -98,7 +97,6 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 | [GetElementsByTagName](../../aspose.html.dom/document/getelementsbytagname/)(string) | The getElementsByTagName method of `Document` interface returns an [`HTMLCollection`](../../aspose.html.collections/htmlcollection/) of elements with the given tag name. |
 | [GetElementsByTagNameNS](../../aspose.html.dom/document/getelementsbytagnamens/)(string, string) | Returns a list of elements with the given tag name belonging to the given namespace. The complete document is searched, including the root node. |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| virtual [HasAttributes](../../aspose.html.dom/node/hasattributes/)() | The hasAttributes() method of the [`Element`](../element/) interface returns a boolean value indicating whether the current element has any attributes or not. |
 | [HasChildNodes](../../aspose.html.dom/node/haschildnodes/)() | The hasChildNodes() method of the Node interface returns a boolean value indicating whether the given [`Node`](../node/) has child nodes or not. |
 | [ImportNode](../../aspose.html.dom/document/importnode/)(Node, bool) | Imports a node from another document to this document, without altering or removing the source node from the original document; this method creates a new copy of the source node. |
 | [InsertBefore](../../aspose.html.dom/node/insertbefore/)(Node, Node) | The insertBefore() method of the Node interface inserts a node before a reference node as a child of a specified parent node. |

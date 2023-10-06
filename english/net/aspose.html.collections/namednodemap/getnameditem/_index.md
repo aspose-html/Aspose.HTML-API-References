@@ -3,7 +3,7 @@ title: NamedNodeMap.GetNamedItem
 second_title: Aspose.HTML for .NET API Reference
 description: NamedNodeMap method. Retrieves a node specified by name
 type: docs
-weight: 40
+weight: 30
 url: /net/aspose.html.collections/namednodemap/getnameditem/
 ---
 ## NamedNodeMap.GetNamedItem method

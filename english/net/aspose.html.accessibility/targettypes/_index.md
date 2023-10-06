@@ -18,9 +18,9 @@ public enum TargetTypes
 
 | Name | Value | Description |
 | --- | --- | --- |
-| HTMLElement | `0` | The element that contains the note is of type Target. |
-| CSSStyleRule | `1` | The element that contains the note is of type Target. |
-| CSSStyleSheet | `2` | The element that contains the note is of type Target. |
+| HTMLElement | `0` | The element containing the HTMLElement from document |
+| CSSStyleRule | `1` | The element containing the CSSStyleRule from document |
+| CSSStyleSheet | `2` | The element containing the CSSStyleSheet from document |
 
 ### See Also
 

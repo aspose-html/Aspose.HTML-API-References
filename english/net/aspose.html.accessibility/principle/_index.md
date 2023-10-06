@@ -18,8 +18,8 @@ public class Principle : IRule
 
 | Name | Description |
 | --- | --- |
-| [Code](../../aspose.html.accessibility/principle/code/) { get; set; } | Rule code from the quick reference WCAG https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0 |
-| [Description](../../aspose.html.accessibility/principle/description/) { get; set; } | Description of Rule from the quick reference WCAG. https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0 |
+| [Code](../../aspose.html.accessibility/principle/code/) { get; } | Rule code from the quick reference WCAG https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0 |
+| [Description](../../aspose.html.accessibility/principle/description/) { get; } | Description of Rule from the quick reference WCAG. https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0 |
 
 ## Methods
 

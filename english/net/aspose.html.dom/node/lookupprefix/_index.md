@@ -3,7 +3,7 @@ title: Node.LookupPrefix
 second_title: Aspose.HTML for .NET API Reference
 description: Node method. The lookupPrefix method of the Node interface returns a String containing the prefix for a given namespace URI if present and null if not. When multiple prefixes are possible the first prefix is returned
 type: docs
-weight: 270
+weight: 250
 url: /net/aspose.html.dom/node/lookupprefix/
 ---
 ## Node.LookupPrefix method

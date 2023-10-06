@@ -18,11 +18,9 @@ public sealed class Attr : Node
 
 | Name | Description |
 | --- | --- |
-| virtual [Attributes](../../aspose.html.dom/node/attributes/) { get; } | The attributes property returns a live collection of all attribute nodes registered to the specified node. Attributes is a key/value pair of strings that represents any information regarding that attribute. |
 | virtual [BaseURI](../../aspose.html.dom/node/baseuri/) { get; } | The read-only baseURI property of the Node interface returns the absolute base URL of the document containing the node. |
 | [ChildNodes](../../aspose.html.dom/node/childnodes/) { get; } | The read-only childNodes property of the Node interface returns a live [`NodeList`](../../aspose.html.collections/nodelist/) of child nodes of the given element where the first child node is assigned index 0. Child nodes include elements, text and comments. |
 | [FirstChild](../../aspose.html.dom/node/firstchild/) { get; } | The read-only firstChild property of the [`Node`](../node/) interface returns the node's first child in the tree, or null if the node has no children. |
-| [IsId](../../aspose.html.dom/attr/isid/) { get; } | Returns whether this attribute is known to be of type ID (i.e. to contain an identifier for its owner element) or not. |
 | [LastChild](../../aspose.html.dom/node/lastchild/) { get; } | The read-only lastChild property of the [`Node`](../node/) interface returns the last child of the node. If its parent is an element, then the child is generally an element node, a text node, or a comment node. It returns null if there are no child elements |
 | override [LocalName](../../aspose.html.dom/attr/localname/) { get; } | Returns the local part of the qualified name of this node. For nodes of any type other than ELEMENT_NODE and ATTRIBUTE_NODE and nodes created with a DOM Level 1 method, such as Document.createElement(), this is always null. |
 | [Name](../../aspose.html.dom/attr/name/) { get; } | Returns the name of this attribute. |
@@ -37,7 +35,6 @@ public sealed class Attr : Node
 | [ParentNode](../../aspose.html.dom/node/parentnode/) { get; } | The read-only parentNode property of the Node interface returns the parent of the specified node in the DOM tree. |
 | override [Prefix](../../aspose.html.dom/attr/prefix/) { get; } | The namespace prefix of this node, or null if it is unspecified. When it is defined to be null, setting it has no effect |
 | [PreviousSibling](../../aspose.html.dom/node/previoussibling/) { get; } | The read-only previousSibling property of the [`Node`](../node/) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../node/firstchild/) list, or null if the specified node is the first in that list. |
-| [SchemaTypeInfo](../../aspose.html.dom/attr/schematypeinfo/) { get; } | The type information associated with this attribute. |
 | [Specified](../../aspose.html.dom/attr/specified/) { get; } | True if this attribute was explicitly given a value in the instance document, false otherwise. |
 | override [TextContent](../../aspose.html.dom/attr/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new string is not empty or null, replaced by a single Text node containing the string this attribute is set to. |
 | [Value](../../aspose.html.dom/attr/value/) { get; set; } | On retrieval, the value of the attribute is returned as a string. |
@@ -55,7 +52,6 @@ public sealed class Attr : Node
 | [DispatchEvent](../../aspose.html.dom/eventtarget/dispatchevent/)(Event) | Dispatches an Event at the specified [`EventTarget`](../../aspose.html.dom.events/ieventtarget/), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`dispatchEvent()`](../../aspose.html.dom.events/ieventtarget/dispatchevent/). |
 | [Dispose](../../aspose.html.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| virtual [HasAttributes](../../aspose.html.dom/node/hasattributes/)() | The hasAttributes() method of the [`Element`](../element/) interface returns a boolean value indicating whether the current element has any attributes or not. |
 | [HasChildNodes](../../aspose.html.dom/node/haschildnodes/)() | The hasChildNodes() method of the Node interface returns a boolean value indicating whether the given [`Node`](../node/) has child nodes or not. |
 | [InsertBefore](../../aspose.html.dom/node/insertbefore/)(Node, Node) | The insertBefore() method of the Node interface inserts a node before a reference node as a child of a specified parent node. |
 | [IsDefaultNamespace](../../aspose.html.dom/node/isdefaultnamespace/)(string) | The isDefaultNamespace() method of the Node interface accepts a namespace URI as an argument. It returns a boolean value that is true if the namespace is the default namespace on the given node and false if not. |

@@ -11,7 +11,7 @@ url: /net/aspose.html.dom/element/hasattribute/
 Returns true when an attribute with a given name is specified on this element or has a default value, false otherwise.
 
 ```csharp
-public bool HasAttribute(string name)
+public bool HasAttribute(string qualifiedName)
 ```
 
 | Parameter | Type | Description |

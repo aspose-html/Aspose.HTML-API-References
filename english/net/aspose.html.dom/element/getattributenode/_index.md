@@ -11,7 +11,7 @@ url: /net/aspose.html.dom/element/getattributenode/
 Retrieves an attribute node by name.
 
 ```csharp
-public Attr GetAttributeNode(string name)
+public Attr GetAttributeNode(string qualifiedName)
 ```
 
 | Parameter | Type | Description |

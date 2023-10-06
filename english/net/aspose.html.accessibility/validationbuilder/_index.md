@@ -14,11 +14,19 @@ The ValidationBuilder class provides concrete implementations of the configurati
 public class ValidationBuilder
 ```
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| static [All](../../aspose.html.accessibility/validationbuilder/all/) { get; } | Includes all levels and all technologies settings |
+| static [Default](../../aspose.html.accessibility/validationbuilder/default/) { get; } | Default settings: only General technologies is used and for Lowest criterion level |
+| static [None](../../aspose.html.accessibility/validationbuilder/none/) { get; } | None settings - none of the parameters are specified. |
+
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [AllLevels](../../aspose.html.accessibility/validationbuilder/alllevels/)() | Method that sets all criteria levels |
+| [AllLevels](../../aspose.html.accessibility/validationbuilder/alllevels/)() | A method that sets all criteria levels. And indicates that the document will be checked according to the criteria of all three levels. |
 | [AllTechnologies](../../aspose.html.accessibility/validationbuilder/alltechnologies/)() | A method that sets all technologies to test criterion |
 | [SetHTMLTags](../../aspose.html.accessibility/validationbuilder/sethtmltags/)(params string[]) | List of html tags to check If the tags are not specified explicitly, then the tags array is empty and the check passes through all |
 | [UseCSS](../../aspose.html.accessibility/validationbuilder/usecss/)() | A method that includes CSS technologies in a set of rules |
@@ -29,14 +37,6 @@ public class ValidationBuilder
 | [UseLowestLevel](../../aspose.html.accessibility/validationbuilder/uselowestlevel/)() | Use Lowest Level A of Criterion in Rules |
 | [UseMiddleLevel](../../aspose.html.accessibility/validationbuilder/usemiddlelevel/)() | Use Middle Level AA of Criterion in Rules |
 | [UseScript](../../aspose.html.accessibility/validationbuilder/usescript/)() | A method that includes ClientSideScript technologies in a set of rules |
-
-## Fields
-
-| Name | Description |
-| --- | --- |
-| static readonly [All](../../aspose.html.accessibility/validationbuilder/all/) | Includes all levels and all technologies settings |
-| static readonly [Default](../../aspose.html.accessibility/validationbuilder/default/) | Default settings: only General technologies and Failures are used The array of levels is empty and the check goes through all levels |
-| static readonly [None](../../aspose.html.accessibility/validationbuilder/none/) | None settings - none of the parameters are specified. The array of levels is empty and the check goes through all levels. |
 
 ### See Also
 

@@ -3,7 +3,7 @@ title: HTMLDocument Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLDocument class. Represents an HTML document. All top level HTML objects are added to this object. This class represents the HTML page as what we see in browser. All forms tables scripts ... are added to the HTML page via the interfaces of this class. HTMLDocument is html implementation of most general Document interface and both are core or root point of DOM - Document Object Model. These concepts are in full accordance with officical web development basis or standards. For the purposes of web development you can generally think of HTMLDocument as an alias for Document upon which HTMLDocument is based
 type: docs
-weight: 3330
+weight: 3340
 url: /net/aspose.html/htmldocument/
 ---
 ## HTMLDocument class
@@ -41,7 +41,6 @@ public class HTMLDocument : Document, IDocumentCSS
 | --- | --- |
 | [Anchors](../../aspose.html/htmldocument/anchors/) { get; } | A collection of all the anchor (`A`) elements in a document with a value for the `name` attribute. For reasons of backward compatibility, the returned set of anchors only contains those anchors created with the `name` attribute, not those created with the `id` attribute. Note that in [[XHTML 1.0](http://www.w3.org/TR/2002/REC-xhtml1-20020801)], the `name` attribute (see section 4.10) has no semantics and is only present for legacy user agents: the `id` attribute is used instead. Users should prefer the iterator mechanisms provided by [[DOM Level 2 Traversal](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113)] instead. |
 | [Applets](../../aspose.html/htmldocument/applets/) { get; } | A collection of all the `OBJECT` elements that include applets and `APPLET` (deprecated) elements in a document. |
-| virtual [Attributes](../../aspose.html.dom/node/attributes/) { get; } | The attributes property returns a live collection of all attribute nodes registered to the specified node. Attributes is a key/value pair of strings that represents any information regarding that attribute. |
 | override [BaseURI](../../aspose.html.dom/document/baseuri/) { get; } | The absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
 | [Body](../../aspose.html/htmldocument/body/) { get; set; } | The element that contains the content for the document. In documents with `BODY` contents, returns the `BODY`element. In frameset documents, this returns the outermost `FRAMESET` element. |
 | [CharacterSet](../../aspose.html.dom/document/characterset/) { get; } | Gets the document's encoding. |
@@ -128,7 +127,6 @@ public class HTMLDocument : Document, IDocumentCSS
 | [GetElementsByTagNameNS](../../aspose.html.dom/document/getelementsbytagnamens/)(string, string) | Returns a list of elements with the given tag name belonging to the given namespace. The complete document is searched, including the root node. |
 | [GetOverrideStyle](../../aspose.html/htmldocument/getoverridestyle/)(Element, string) | This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element. |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| virtual [HasAttributes](../../aspose.html.dom/node/hasattributes/)() | The hasAttributes() method of the [`Element`](../../aspose.html.dom/element/) interface returns a boolean value indicating whether the current element has any attributes or not. |
 | [HasChildNodes](../../aspose.html.dom/node/haschildnodes/)() | The hasChildNodes() method of the Node interface returns a boolean value indicating whether the given [`Node`](../../aspose.html.dom/node/) has child nodes or not. |
 | [ImportNode](../../aspose.html.dom/document/importnode/)(Node, bool) | Imports a node from another document to this document, without altering or removing the source node from the original document; this method creates a new copy of the source node. |
 | [InsertBefore](../../aspose.html.dom/node/insertbefore/)(Node, Node) | The insertBefore() method of the Node interface inserts a node before a reference node as a child of a specified parent node. |
