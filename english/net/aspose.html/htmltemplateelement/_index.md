@@ -3,7 +3,7 @@ title: HTMLTemplateElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLTemplateElement class. The template element
 type: docs
-weight: 3750
+weight: 3760
 url: /net/aspose.html/htmltemplateelement/
 ---
 ## HTMLTemplateElement class

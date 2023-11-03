@@ -3,7 +3,7 @@ title: SVGAnimatedEnumeration Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.DataTypes.SVGAnimatedEnumeration class. Used for attributes whose value must be a constant from a particular enumeration and which can be animated
 type: docs
-weight: 1240
+weight: 1250
 url: /net/aspose.html.dom.svg.datatypes/svganimatedenumeration/
 ---
 ## SVGAnimatedEnumeration class

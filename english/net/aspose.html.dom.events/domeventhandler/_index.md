@@ -3,7 +3,7 @@ title: DOMEventHandler Delegate
 second_title: Aspose.HTML for .NET API Reference
 description: Represents a generic callback delegate for Document Object Model DOM event handling
 type: docs
-weight: 890
+weight: 900
 url: /net/aspose.html.dom.events/domeventhandler/
 ---
 ## DOMEventHandler delegate

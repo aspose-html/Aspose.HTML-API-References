@@ -18,7 +18,6 @@ public interface IError
 
 | Name | Description |
 | --- | --- |
-| [Code](../../aspose.html.accessibility/ierror/code/) { get; } | Code of error |
 | [ErrorMessage](../../aspose.html.accessibility/ierror/errormessage/) { get; } | Message of the error or warning. |
 | [ErrorType](../../aspose.html.accessibility/ierror/errortype/) { get; } | returns Error type numeric value |
 | [ErrorTypeName](../../aspose.html.accessibility/ierror/errortypename/) { get; } | Presentation description of object |

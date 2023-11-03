@@ -3,7 +3,7 @@ title: Accessors Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Attributes.Accessors enum. Represents the enumeration of member accessors that is defined by the W3C
 type: docs
-weight: 270
+weight: 280
 url: /net/aspose.html.dom.attributes/accessors/
 ---
 ## Accessors enumeration

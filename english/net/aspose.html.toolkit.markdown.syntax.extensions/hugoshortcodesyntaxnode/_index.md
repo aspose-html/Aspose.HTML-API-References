@@ -3,7 +3,7 @@ title: HugoShortCodeSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Extensions.HugoShortCodeSyntaxNode class. Defines the HugoShortCodeSyntaxNode
 type: docs
-weight: 5060
+weight: 5070
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/
 ---
 ## HugoShortCodeSyntaxNode class

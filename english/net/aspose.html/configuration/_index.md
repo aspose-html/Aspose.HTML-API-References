@@ -3,7 +3,7 @@ title: Configuration Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Configuration class. Represents the configuration context object that is used to set up the environment settings for the application. Managing configuration you can override document style applying a custom user stylesheet or handle any web requests from the application as well as to configure scripts policy. Details are in Environment Configuration guide
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.html/configuration/
 ---
 ## Configuration class

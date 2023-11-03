@@ -3,7 +3,7 @@ title: ErrorEvent Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Events.ErrorEvent class. The ErrorEvent provides contextual information about an errors that occurred during runtime
 type: docs
-weight: 910
+weight: 920
 url: /net/aspose.html.dom.events/errorevent/
 ---
 ## ErrorEvent class

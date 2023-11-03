@@ -3,7 +3,7 @@ title: Comment Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Comment class. Inherits from CharacterData and represents the content of a comment i.e. all the characters between the starting 
 type: docs
-weight: 460
+weight: 470
 url: /net/aspose.html.dom/comment/
 ---
 ## Comment class

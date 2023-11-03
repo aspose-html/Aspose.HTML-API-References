@@ -3,7 +3,7 @@ title: SVGFEFuncAElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.Filters.SVGFEFuncAElement class. The SVGFEFuncAElement interface corresponds to the feFuncA element
 type: docs
-weight: 1610
+weight: 1620
 url: /net/aspose.html.dom.svg.filters/svgfefuncaelement/
 ---
 ## SVGFEFuncAElement class

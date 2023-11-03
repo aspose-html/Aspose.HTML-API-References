@@ -11,7 +11,7 @@ url: /net/aspose.html.accessibility/accessibilityrules/getprinciples/
 Get list of all rules from quick reference
 
 ```csharp
-public IList<Principle> GetPrinciples()
+public IEnumerable<Principle> GetPrinciples()
 ```
 
 ### Return Value

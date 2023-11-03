@@ -3,7 +3,7 @@ title: AtPagePriority Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.AtPagePriority enum. Specifies possible orders of applying page size declarations
 type: docs
-weight: 4270
+weight: 4280
 url: /net/aspose.html.rendering/atpagepriority/
 ---
 ## AtPagePriority enumeration

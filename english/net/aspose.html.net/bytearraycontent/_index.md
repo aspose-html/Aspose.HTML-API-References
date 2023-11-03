@@ -3,7 +3,7 @@ title: ByteArrayContent Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Net.ByteArrayContent class. Represents content based on a byte array
 type: docs
-weight: 4000
+weight: 4010
 url: /net/aspose.html.net/bytearraycontent/
 ---
 ## ByteArrayContent class

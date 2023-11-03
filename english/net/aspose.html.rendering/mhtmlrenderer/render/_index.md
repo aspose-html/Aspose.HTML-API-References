@@ -11,7 +11,7 @@ url: /net/aspose.html.rendering/mhtmlrenderer/render/
 Renders multiple MHTML documents into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```csharp
-public override void Render(IDevice device, TimeSpan timeout, params Stream[] documents)
+public override void Render(IDevice device, TimeSpan timeout, params Stream[] sources)
 ```
 
 | Parameter | Type | Description |
@@ -35,14 +35,14 @@ Defines a method for rendering multiple MHTML documents into a specific [`IDevic
 
 ```csharp
 public override void Render(IDevice device, CancellationToken cancellationToken, 
-    params Stream[] documents)
+    params Stream[] sources)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | IDevice | The output device. |
 | cancellationToken | CancellationToken | A CancellationToken to observe while waiting for the task to complete. |
-| documents | Stream[] | The documents to render. |
+| sources | Stream[] | The MHTML documents to render. |
 
 ### See Also
 
@@ -58,7 +58,7 @@ public override void Render(IDevice device, CancellationToken cancellationToken,
 Renders MHTML document into specified [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, Stream document, Configuration configuration)
+public void Render(IDevice device, Stream source, Configuration configuration)
 ```
 
 | Parameter | Type | Description |
@@ -82,7 +82,7 @@ public void Render(IDevice device, Stream document, Configuration configuration)
 Renders MHTML document into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```csharp
-public void Render(IDevice device, Stream document, Configuration configuration, TimeSpan timeout)
+public void Render(IDevice device, Stream source, Configuration configuration, TimeSpan timeout)
 ```
 
 | Parameter | Type | Description |
@@ -107,7 +107,7 @@ public void Render(IDevice device, Stream document, Configuration configuration,
 Renders multiple MHTML documents into specified [`IDevice`](../../idevice/).
 
 ```csharp
-public void Render(IDevice device, IList<Stream> documents, Configuration configuration)
+public void Render(IDevice device, IList<Stream> sources, Configuration configuration)
 ```
 
 | Parameter | Type | Description |
@@ -131,7 +131,7 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 Renders multiple MHTML documents into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```csharp
-public void Render(IDevice device, IList<Stream> documents, Configuration configuration, 
+public void Render(IDevice device, IList<Stream> sources, Configuration configuration, 
     TimeSpan timeout)
 ```
 

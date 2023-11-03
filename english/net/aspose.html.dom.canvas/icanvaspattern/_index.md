@@ -3,7 +3,7 @@ title: ICanvasPattern Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Canvas.ICanvasPattern interface. Represents an opaque object describing a pattern based on an image a canvas or a video
 type: docs
-weight: 400
+weight: 410
 url: /net/aspose.html.dom.canvas/icanvaspattern/
 ---
 ## ICanvasPattern interface

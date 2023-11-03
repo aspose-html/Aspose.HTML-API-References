@@ -3,7 +3,7 @@ title: HTMLUListElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLUListElement class. Unordered list. See the UL element definition in HTML 4.01
 type: docs
-weight: 3780
+weight: 3790
 url: /net/aspose.html/htmlulistelement/
 ---
 ## HTMLUListElement class

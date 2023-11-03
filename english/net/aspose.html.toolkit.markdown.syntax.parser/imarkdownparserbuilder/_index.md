@@ -3,7 +3,7 @@ title: IMarkdownParserBuilder Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Parser.IMarkdownParserBuilder interface. Defines the base interface IMarkdownParserBuilder
 type: docs
-weight: 5570
+weight: 5580
 url: /net/aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/
 ---
 ## IMarkdownParserBuilder interface

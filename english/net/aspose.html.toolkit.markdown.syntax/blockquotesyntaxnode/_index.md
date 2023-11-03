@@ -3,7 +3,7 @@ title: BlockQuoteSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.BlockQuoteSyntaxNode class. Represents the BlockQuoteSyntaxNode
 type: docs
-weight: 4950
+weight: 4960
 url: /net/aspose.html.toolkit.markdown.syntax/blockquotesyntaxnode/
 ---
 ## BlockQuoteSyntaxNode class

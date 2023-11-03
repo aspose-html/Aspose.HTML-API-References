@@ -3,7 +3,7 @@ title: Counter Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Css.Counter class. The Counter interface is used to represent any counter or counters function value. This interface reflects the values in the underlying style property
 type: docs
-weight: 510
+weight: 520
 url: /net/aspose.html.dom.css/counter/
 ---
 ## Counter class

@@ -1,22 +1,22 @@
 ---
 title: Principle.GetGuidelines
 second_title: Aspose.HTML for .NET API Reference
-description: Principle method. Get all Guideline by code from Principle
+description: Principle method. Get all the Guidelines contained in the Principle
 type: docs
-weight: 40
+weight: 20
 url: /net/aspose.html.accessibility/principle/getguidelines/
 ---
 ## Principle.GetGuidelines method
 
-Get all Guideline by code from Principle
+Get all the Guidelines contained in the Principle
 
 ```csharp
-public IList<Guideline> GetGuidelines()
+public Guideline[] GetGuidelines()
 ```
 
 ### Return Value
 
-list of Guideline
+list of Guidelines
 
 ### See Also
 

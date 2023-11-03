@@ -3,7 +3,7 @@ title: TextAreaElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Forms.TextAreaElement class. The TextAreaElement represents a wrapper that is associated with the HTMLTextAreaElement
 type: docs
-weight: 3190
+weight: 3200
 url: /net/aspose.html.forms/textareaelement/
 ---
 ## TextAreaElement class

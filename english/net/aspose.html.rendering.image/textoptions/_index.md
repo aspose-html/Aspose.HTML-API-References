@@ -3,7 +3,7 @@ title: TextOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Image.TextOptions class. Represents text rendering options for ImageDevice
 type: docs
-weight: 4500
+weight: 4510
 url: /net/aspose.html.rendering.image/textoptions/
 ---
 ## TextOptions class

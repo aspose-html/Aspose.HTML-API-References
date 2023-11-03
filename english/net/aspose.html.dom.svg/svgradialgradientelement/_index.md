@@ -3,7 +3,7 @@ title: SVGRadialGradientElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.SVGRadialGradientElement class. The SVGRadialGradientElement interface corresponds to the radialGradient element
 type: docs
-weight: 2380
+weight: 2390
 url: /net/aspose.html.dom.svg/svgradialgradientelement/
 ---
 ## SVGRadialGradientElement class

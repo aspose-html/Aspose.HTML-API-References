@@ -3,7 +3,7 @@ title: SvgRenderer Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.SvgRenderer class. Represents SVG document renderer
 type: docs
-weight: 4670
+weight: 4680
 url: /net/aspose.html.rendering/svgrenderer/
 ---
 ## SvgRenderer class
@@ -36,6 +36,6 @@ public class SvgRenderer : Renderer<SVGDocument>
 ### See Also
 
 * class [SVGDocument](../../aspose.html.dom.svg/svgdocument/)
-* class [Renderer&lt;TDocument&gt;](../renderer-1/)
+* class [Renderer&lt;TSource&gt;](../renderer-1/)
 * namespace [Aspose.Html.Rendering](../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../)

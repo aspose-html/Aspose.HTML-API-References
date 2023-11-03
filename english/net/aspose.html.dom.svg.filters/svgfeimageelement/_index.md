@@ -3,7 +3,7 @@ title: SVGFEImageElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.Filters.SVGFEImageElement class. The SVGFEImageElement interface corresponds to the feImage element
 type: docs
-weight: 1660
+weight: 1670
 url: /net/aspose.html.dom.svg.filters/svgfeimageelement/
 ---
 ## SVGFEImageElement class

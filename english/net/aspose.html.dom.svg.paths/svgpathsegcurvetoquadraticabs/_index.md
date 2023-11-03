@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoQuadraticAbs Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.Paths.SVGPathSegCurvetoQuadraticAbs class. The SVGPathSegCurvetoQuadraticAbs interface corresponds to an absolute quadratic Bézier curveto Q path data command
 type: docs
-weight: 1920
+weight: 1930
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticabs/
 ---
 ## SVGPathSegCurvetoQuadraticAbs class

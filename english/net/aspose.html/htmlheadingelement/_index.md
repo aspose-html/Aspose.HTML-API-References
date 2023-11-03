@@ -3,7 +3,7 @@ title: HTMLHeadingElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLHeadingElement class. For the H1 to H6 elements. See the H1 element definition in HTML 4.01
 type: docs
-weight: 3430
+weight: 3440
 url: /net/aspose.html/htmlheadingelement/
 ---
 ## HTMLHeadingElement class
