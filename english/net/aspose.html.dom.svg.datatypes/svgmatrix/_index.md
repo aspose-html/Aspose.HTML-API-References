@@ -3,7 +3,7 @@ title: SVGMatrix Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.DataTypes.SVGMatrix class. Many of SVGs graphics operations utilize 2x3 matrices of the form a c e b d f which when expanded into a 3x3 matrix for the purposes of matrix arithmetic become a c e b d f 0 0 1
 type: docs
-weight: 1370
+weight: 1380
 url: /net/aspose.html.dom.svg.datatypes/svgmatrix/
 ---
 ## SVGMatrix class

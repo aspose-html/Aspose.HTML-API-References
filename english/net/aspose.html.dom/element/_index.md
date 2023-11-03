@@ -3,7 +3,7 @@ title: Element Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Element class. The Element interface represents an element in an HTML or XML document
 type: docs
-weight: 840
+weight: 850
 url: /net/aspose.html.dom/element/
 ---
 ## Element class

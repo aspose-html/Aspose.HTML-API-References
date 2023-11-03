@@ -3,7 +3,7 @@ title: SVGFEMergeNodeElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.Filters.SVGFEMergeNodeElement class. The SVGFEMergeNodeElement interface corresponds to the feMergeNode element
 type: docs
-weight: 1680
+weight: 1690
 url: /net/aspose.html.dom.svg.filters/svgfemergenodeelement/
 ---
 ## SVGFEMergeNodeElement class

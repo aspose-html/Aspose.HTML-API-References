@@ -3,7 +3,7 @@ title: SVGGeometryElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.SVGGeometryElement class. Interface SVGGeometryElement represents SVG elements whose rendering is defined by geometry with an equivalent path and which can be filled and stroked. This includes paths and the basic shapes
 type: docs
-weight: 2240
+weight: 2250
 url: /net/aspose.html.dom.svg/svggeometryelement/
 ---
 ## SVGGeometryElement class

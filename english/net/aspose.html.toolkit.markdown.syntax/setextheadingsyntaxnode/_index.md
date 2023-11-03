@@ -3,7 +3,7 @@ title: SetextHeadingSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.SetextHeadingSyntaxNode class. Represent the Setext heading syntax node
 type: docs
-weight: 5670
+weight: 5680
 url: /net/aspose.html.toolkit.markdown.syntax/setextheadingsyntaxnode/
 ---
 ## SetextHeadingSyntaxNode class

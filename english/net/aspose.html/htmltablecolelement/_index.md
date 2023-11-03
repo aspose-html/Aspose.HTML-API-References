@@ -3,7 +3,7 @@ title: HTMLTableColElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLTableColElement class. Regroups the COL and COLGROUP elements. See the COL element definition in HTML 4.01
 type: docs
-weight: 3710
+weight: 3720
 url: /net/aspose.html/htmltablecolelement/
 ---
 ## HTMLTableColElement class

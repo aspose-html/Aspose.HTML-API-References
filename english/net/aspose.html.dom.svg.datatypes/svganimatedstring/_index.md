@@ -3,7 +3,7 @@ title: SVGAnimatedString Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.DataTypes.SVGAnimatedString class. Used for attributes of type DOMString which can be animated
 type: docs
-weight: 1320
+weight: 1330
 url: /net/aspose.html.dom.svg.datatypes/svganimatedstring/
 ---
 ## SVGAnimatedString class

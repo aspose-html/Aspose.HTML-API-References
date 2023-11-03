@@ -3,7 +3,7 @@ title: HTMLAddressElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLAddressElement class. The address element. See the ADDRESS element definition in HTML 4.01
 type: docs
-weight: 3200
+weight: 3210
 url: /net/aspose.html/htmladdresselement/
 ---
 ## HTMLAddressElement class

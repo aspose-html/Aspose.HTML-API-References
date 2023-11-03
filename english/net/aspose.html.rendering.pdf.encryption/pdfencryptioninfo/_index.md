@@ -3,7 +3,7 @@ title: PdfEncryptionInfo Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Pdf.Encryption.PdfEncryptionInfo class. Contains details for a pdf encryption
 type: docs
-weight: 4570
+weight: 4580
 url: /net/aspose.html.rendering.pdf.encryption/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo class

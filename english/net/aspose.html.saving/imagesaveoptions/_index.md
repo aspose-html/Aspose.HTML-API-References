@@ -3,7 +3,7 @@ title: ImageSaveOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.ImageSaveOptions class. Specific options data class. It provides properties to manage image result resolution smooting quality format as well as page settings and etc. More info you can obtain in documentation article
 type: docs
-weight: 4760
+weight: 4770
 url: /net/aspose.html.saving/imagesaveoptions/
 ---
 ## ImageSaveOptions class

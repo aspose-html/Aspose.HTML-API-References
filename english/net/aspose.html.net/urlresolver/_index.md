@@ -3,7 +3,7 @@ title: UrlResolver Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Net.UrlResolver class. Represents utility class for resolving absolute URL by a Uniform Resource Identifier URI
 type: docs
-weight: 4250
+weight: 4260
 url: /net/aspose.html.net/urlresolver/
 ---
 ## UrlResolver class

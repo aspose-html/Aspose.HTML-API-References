@@ -3,7 +3,7 @@ title: IFileList Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.IO.IFileList interface. Represent the interface for list of files
 type: docs
-weight: 3880
+weight: 3890
 url: /net/aspose.html.io/ifilelist/
 ---
 ## IFileList interface

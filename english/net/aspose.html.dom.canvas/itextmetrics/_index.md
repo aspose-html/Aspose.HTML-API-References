@@ -3,7 +3,7 @@ title: ITextMetrics Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Canvas.ITextMetrics interface. Represents the dimension of a text in the canvas
 type: docs
-weight: 430
+weight: 440
 url: /net/aspose.html.dom.canvas/itextmetrics/
 ---
 ## ITextMetrics interface

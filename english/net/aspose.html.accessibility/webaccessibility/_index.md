@@ -3,7 +3,7 @@ title: WebAccessibility Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Accessibility.WebAccessibility class. Object to Web Content Accessibility Guidelines WCAG 2 requirements success criteria and techniques. https//www.w3.org/WAI/WCAG21/quickref/
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.html.accessibility/webaccessibility/
 ---
 ## WebAccessibility class

@@ -3,7 +3,7 @@ title: OutputStream Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.IO.OutputStream class. A surrogate stream wraps the real output stream and controls access to it.OutputStream contains URI data that describes location of the output stream
 type: docs
-weight: 3900
+weight: 3910
 url: /net/aspose.html.io/outputstream/
 ---
 ## OutputStream class

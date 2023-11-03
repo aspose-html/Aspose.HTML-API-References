@@ -3,7 +3,7 @@ title: CanvasFillRule Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Canvas.CanvasFillRule enum. This enumeration is used to select the fill rule algorithm by which to determine if a point is inside or outside a path
 type: docs
-weight: 360
+weight: 370
 url: /net/aspose.html.dom.canvas/canvasfillrule/
 ---
 ## CanvasFillRule enumeration

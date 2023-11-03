@@ -3,7 +3,7 @@ title: SVGGradientElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.SVGGradientElement class. The SVGGradientElement interface is a base interface used by SVGLinearGradientElement and SVGRadialGradientElement
 type: docs
-weight: 2250
+weight: 2260
 url: /net/aspose.html.dom.svg/svggradientelement/
 ---
 ## SVGGradientElement class

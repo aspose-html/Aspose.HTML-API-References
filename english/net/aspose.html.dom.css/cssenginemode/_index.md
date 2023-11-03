@@ -3,7 +3,7 @@ title: CSSEngineMode Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Css.CSSEngineMode enum. Specifies CSSEngine mode. Values have the following meaning
 type: docs
-weight: 470
+weight: 480
 url: /net/aspose.html.dom.css/cssenginemode/
 ---
 ## CSSEngineMode enumeration

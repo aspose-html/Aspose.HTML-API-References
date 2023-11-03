@@ -3,7 +3,7 @@ title: Attr Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Attr class. The Attr interface represents an attribute in an Element object. Typically the allowable values for the attribute are defined in a schema associated with the document
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.html.dom/attr/
 ---
 ## Attr class

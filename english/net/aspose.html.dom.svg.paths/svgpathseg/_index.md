@@ -3,7 +3,7 @@ title: SVGPathSeg Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.Paths.SVGPathSeg class. The SVGPathSeg interface is a base interface that corresponds to a single command within a path data specification
 type: docs
-weight: 1840
+weight: 1850
 url: /net/aspose.html.dom.svg.paths/svgpathseg/
 ---
 ## SVGPathSeg class

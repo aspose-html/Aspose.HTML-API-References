@@ -3,7 +3,7 @@ title: SVGAnimatedAngle Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.DataTypes.SVGAnimatedAngle class. Used for attributes of basic data type angle that can be animated
 type: docs
-weight: 1220
+weight: 1230
 url: /net/aspose.html.dom.svg.datatypes/svganimatedangle/
 ---
 ## SVGAnimatedAngle class

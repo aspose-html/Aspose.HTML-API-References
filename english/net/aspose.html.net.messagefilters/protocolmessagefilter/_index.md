@@ -3,7 +3,7 @@ title: ProtocolMessageFilter Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Net.MessageFilters.ProtocolMessageFilter class. Represents implementation of message filter by the resource protocol
 type: docs
-weight: 4110
+weight: 4120
 url: /net/aspose.html.net.messagefilters/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter class

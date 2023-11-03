@@ -3,7 +3,7 @@ title: ICSSStyleSheet Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Css.ICSSStyleSheet interface. The CSSStyleSheet interface represents a single CSS stylesheet and lets you inspect and modify the list of rules contained in the stylesheet. It inherits properties and methods from its parent StyleSheet
 type: docs
-weight: 660
+weight: 670
 url: /net/aspose.html.dom.css/icssstylesheet/
 ---
 ## ICSSStyleSheet interface

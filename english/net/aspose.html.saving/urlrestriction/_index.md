@@ -3,7 +3,7 @@ title: UrlRestriction Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.UrlRestriction enum. This enum represents restriction applied to URLs of processed resources
 type: docs
-weight: 4860
+weight: 4870
 url: /net/aspose.html.saving/urlrestriction/
 ---
 ## UrlRestriction enumeration

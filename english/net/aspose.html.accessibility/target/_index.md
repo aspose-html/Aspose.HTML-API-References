@@ -3,7 +3,7 @@ title: Target Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Accessibility.Target class. Class contains item of html or css element where the error was found
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.html.accessibility/target/
 ---
 ## Target class
