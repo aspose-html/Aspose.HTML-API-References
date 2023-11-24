@@ -20,7 +20,7 @@ EPUB, PNG, TIFF, JPEG, BMP και άλλες μορφές.
 
 Αυτοί είναι σύνδεσμοι προς μερικούς χρήσιμους πόρους:
 - [Aspose.HTML για Αναφορά API .NET](/html/el/net/)
-
+- [Aspose.HTML for .NET API Tutorials](/tutorials/html/net/)
 
 ## Aspose.HTML για Java
 
@@ -34,4 +34,5 @@ EPUB, PNG, TIFF, JPEG, BMP και άλλες μορφές.
 {{% /alert %}} 
 
 Αυτοί είναι σύνδεσμοι προς μερικούς χρήσιμους πόρους:
-- [Aspose.HTML για Αναφορά API .Java](/html/java/)
+- [Aspose.HTML για Αναφορά API .NET](/html/java/)
+- [Aspose.HTML for Java API Tutorials](/tutorials/html/java/)
