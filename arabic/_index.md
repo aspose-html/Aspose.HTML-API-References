@@ -20,6 +20,7 @@ EPUB و PNG و TIFF و JPEG و BMP وتنسيقات أخرى.
 
 هذه روابط لبعض المصادر المفيدة:
 - [Aspose.HTML لمرجع .NET API](/html/ar/net/)
+- [Aspose.HTML لبرامج .NET API التعليمية](/tutorials/html/ar/net/)
 
 
 ## Aspose.HTML لجافا
@@ -35,3 +36,4 @@ Aspose.HTML for Java عبارة عن واجهة برمجة تطبيقات متق
 
 هذه روابط لبعض المصادر المفيدة:
 - [Aspose.HTML لمرجع جافا API](/html/java/)
+- [Aspose.HTML لبرامج Java API التعليمية](/tutorials/html/ar/java/)

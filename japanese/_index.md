@@ -20,7 +20,7 @@ EPUB、PNG、TIFF、JPEG、BMP、その他の形式。
 
 これらは、いくつかの有用なリソースへのリンクです。
 - [Aspose.HTML for .NET API リファレンス](/html/ja/net/)
-
+- [Aspose.HTML for .NET API チュートリアル](/tutorials/html/net/)
 
 ## Aspose.HTML for Java
 
@@ -35,3 +35,4 @@ Aspose.HTML for Java は、Java アプリケーション内でさまざまな HT
 
 これらは、いくつかの有用なリソースへのリンクです。
 - [Aspose.HTML for .Java API リファレンス](/html/java/)
+- [Aspose.HTML for Java API チュートリアル](/tutorials/html/java/)

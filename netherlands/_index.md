@@ -20,7 +20,7 @@ EPUB, PNG, TIFF, JPEG, BMP en andere formaten.
 
 Dit zijn links naar enkele nuttige bronnen:
 - [Aspose.HTML voor .NET API-referentie](/html/nl/net/)
-
+- [Aspose.HTML voor .NET API-zelfstudies](/tutorials/html/net/)
 
 ## Aspose.HTML voor Java
 
@@ -35,3 +35,4 @@ Aspose.HTML voor Java is een geavanceerde HTML-manipulatie-API die is gebouwd om
 
 Dit zijn links naar enkele nuttige bronnen:
 - [Aspose.HTML voor .Java API-referentie](/html/java/)
+- [Aspose.HTML voor Java API-zelfstudies](/tutorials/html/java/)

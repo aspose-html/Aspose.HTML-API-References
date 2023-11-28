@@ -20,7 +20,7 @@ EPUB、PNG、TIFF、JPEG、BMP 等格式。
 
 这些是一些有用资源的链接：
 - [Aspose.HTML for .NET API 参考](/html/zh/net/)
-
+- [Aspose.HTML for .NET API 教程](/tutorials/html/zh/net/)
 
 ## Aspose.HTML for Java
 
@@ -35,3 +35,4 @@ Aspose.HTML for Java 是一种高级 HTML 操作 API，可直接在 Java 应用�
 
 这些是一些有用资源的链接：
 - [Aspose.HTML for .Java API 参考](/html/java/)
+- [Java API 教程的 Aspose.HTML](/tutorials/html/zh/java/)
