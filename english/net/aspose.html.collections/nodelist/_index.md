@@ -3,7 +3,7 @@ title: NodeList Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Collections.NodeList class. The NodeList provides the abstraction of an ordered collection of nodes without defining or constraining how this collection is implemented
 type: docs
-weight: 200
+weight: 210
 url: /net/aspose.html.collections/nodelist/
 ---
 ## NodeList class

@@ -3,7 +3,7 @@ title: Aspose.Html.Dom
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Dom Document Object Model namespace provides API that represents and interacts with any HTML XML or SVG documents. The DOM is a document model loaded in the browser and representing the document as a node tree where each node represents part of the document e.g. an element text string or comment
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.html.dom/
 ---
 The **Aspose.Html.Dom (Document Object Model)** namespace provides API that represents and interacts with any HTML, XML or SVG documents. The DOM is a document model loaded in the browser and representing the document as a node tree, where each node represents part of the document (e.g. an element, text string, or comment).

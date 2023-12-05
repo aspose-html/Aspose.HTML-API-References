@@ -3,7 +3,7 @@ title: BlockSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.BlockSyntaxNode class. Base implementation of the BlockSyntaxNode
 type: docs
-weight: 4970
+weight: 4980
 url: /net/aspose.html.toolkit.markdown.syntax/blocksyntaxnode/
 ---
 ## BlockSyntaxNode class

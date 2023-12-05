@@ -3,7 +3,7 @@ title: ShadowRootMode Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.ShadowRootMode enum. Modes in which ShadowRoot can operate
 type: docs
-weight: 1200
+weight: 1210
 url: /net/aspose.html.dom/shadowrootmode/
 ---
 ## ShadowRootMode enumeration

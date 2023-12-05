@@ -3,7 +3,7 @@ title: PageSetup Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.PageSetup class. Represents a page setup object is used for configuration output page-set
 type: docs
-weight: 4560
+weight: 4570
 url: /net/aspose.html.rendering/pagesetup/
 ---
 ## PageSetup class

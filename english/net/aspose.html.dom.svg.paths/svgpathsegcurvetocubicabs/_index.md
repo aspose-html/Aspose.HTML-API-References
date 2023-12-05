@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoCubicAbs Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.Paths.SVGPathSegCurvetoCubicAbs class. The SVGPathSegCurvetoCubicAbs interface corresponds to an absolute cubic Bézier curveto C path data command
 type: docs
-weight: 1890
+weight: 1900
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetocubicabs/
 ---
 ## SVGPathSegCurvetoCubicAbs class

@@ -3,7 +3,7 @@ title: FontEmbeddingRule Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Doc.FontEmbeddingRule enum. Represents the font embedding rules
 type: docs
-weight: 4380
+weight: 4390
 url: /net/aspose.html.rendering.doc/fontembeddingrule/
 ---
 ## FontEmbeddingRule enumeration

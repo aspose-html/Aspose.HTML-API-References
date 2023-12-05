@@ -3,7 +3,7 @@ title: DataListElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Forms.DataListElement class. The DataListElement represents a wrapper that is associated with the HTMLDataListElement
 type: docs
-weight: 3080
+weight: 3090
 url: /net/aspose.html.forms/datalistelement/
 ---
 ## DataListElement class

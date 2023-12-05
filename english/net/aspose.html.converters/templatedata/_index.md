@@ -3,7 +3,7 @@ title: TemplateData Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Converters.TemplateData class. Merging User data object
 type: docs
-weight: 250
+weight: 260
 url: /net/aspose.html.converters/templatedata/
 ---
 ## TemplateData class

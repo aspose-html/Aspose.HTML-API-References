@@ -3,7 +3,7 @@ title: IStorage Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.IStorage interface. This interface of the Web Storage API provides access to a particular domains session or local storage. See Web Storage specification https//html.spec.whatwg.org/multipage/webstorage.htmlwebstorage
 type: docs
-weight: 1100
+weight: 1110
 url: /net/aspose.html.dom/istorage/
 ---
 ## IStorage interface

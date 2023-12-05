@@ -20,6 +20,7 @@ EPUB, PNG, TIFF, JPEG, BMP और अन्य प्रारूप।
 
 ये कुछ उपयोगी संसाधनों के लिंक हैं:
 - [.NET API संदर्भ के लिए Aspose.HTML](/html/hi/net/)
+- [.NET एपीआई ट्यूटोरियल के लिए Aspose.HTML](/tutorials/html/net/)
 
 
 ## जावा के लिए Aspose.HTML
@@ -35,3 +36,4 @@ EPUB, PNG, TIFF, JPEG, BMP और अन्य प्रारूप।
 
 ये कुछ उपयोगी संसाधनों के लिंक हैं:
 - [Aspose.HTML .Java API संदर्भ के लिए](/html/java/)
+- [जावा एपीआई ट्यूटोरियल के लिए Aspose.HTML](/tutorials/html/java/)

@@ -20,6 +20,7 @@ EPUB, PNG, TIFF, JPEG, BMP och andra format.
 
 Det här är länkar till några användbara resurser:
 - [Aspose.HTML för .NET API Referens](/html/sv/net/)
+- [Handledning för Aspose.HTML för .NET API](/tutorials/html/sv/net/)
 
 
 ## Aspose.HTML för Java
@@ -35,3 +36,4 @@ Aspose.HTML för Java är ett avancerat HTML-manipulerings-API byggt för att ut
 
 Det här är länkar till några användbara resurser:
 - [Aspose.HTML för .Java API-referens](/html/java/)
+- [Aspose.HTML för Java API Tutorials](/tutorials/html/sv/java/)

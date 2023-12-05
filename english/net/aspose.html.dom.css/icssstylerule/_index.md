@@ -3,7 +3,7 @@ title: ICSSStyleRule Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Css.ICSSStyleRule interface. The CSSStyleRule interface represents a single CSS style rule. The selectorText attribute on getting must return the result of serializing the associated group of selectors
 type: docs
-weight: 660
+weight: 670
 url: /net/aspose.html.dom.css/icssstylerule/
 ---
 ## ICSSStyleRule interface

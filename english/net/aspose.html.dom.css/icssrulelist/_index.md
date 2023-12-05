@@ -3,7 +3,7 @@ title: ICSSRuleList Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Css.ICSSRuleList interface. A CSSRuleList represents an ordered collection of read-only CSSRule objects
 type: docs
-weight: 640
+weight: 650
 url: /net/aspose.html.dom.css/icssrulelist/
 ---
 ## ICSSRuleList interface

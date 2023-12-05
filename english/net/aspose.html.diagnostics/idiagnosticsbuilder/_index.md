@@ -3,7 +3,7 @@ title: IDiagnosticsBuilder Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Diagnostics.IDiagnosticsBuilder interface. An interface for configuring diagnostic tools
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.html.diagnostics/idiagnosticsbuilder/
 ---
 ## IDiagnosticsBuilder interface

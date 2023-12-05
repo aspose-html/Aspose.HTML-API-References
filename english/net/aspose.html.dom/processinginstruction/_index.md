@@ -3,7 +3,7 @@ title: ProcessingInstruction Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.ProcessingInstruction class. The ProcessingInstruction represents a processing instruction used in XML as a way to keep processor-specific information in the text of the document
 type: docs
-weight: 1170
+weight: 1180
 url: /net/aspose.html.dom/processinginstruction/
 ---
 ## ProcessingInstruction class

@@ -3,7 +3,7 @@ title: HTMLParagraphElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLParagraphElement class. Paragraphs. See the P element definition in HTML 4.01
 type: docs
-weight: 3630
+weight: 3640
 url: /net/aspose.html/htmlparagraphelement/
 ---
 ## HTMLParagraphElement class

@@ -3,7 +3,7 @@ title: ArrayBuffer Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.ArrayBuffer class. The ArrayBuffer object is used to represent a generic fixed-length raw binary data buffer
 type: docs
-weight: 160
+weight: 170
 url: /net/aspose.html/arraybuffer/
 ---
 ## ArrayBuffer class

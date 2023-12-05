@@ -3,7 +3,7 @@ title: ImageType Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.ImageType enum. Specifies the file format of the image
 type: docs
-weight: 4520
+weight: 4530
 url: /net/aspose.html.rendering/imagetype/
 ---
 ## ImageType enumeration

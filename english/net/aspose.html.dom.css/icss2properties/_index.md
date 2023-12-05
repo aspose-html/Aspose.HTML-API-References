@@ -3,7 +3,7 @@ title: ICSS2Properties Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Css.ICSS2Properties interface. The CSS2Properties interface represents a convenience mechanism for retrieving and setting properties within a CSSStyleDeclaration. The attributes of this interface correspond to all the properties specified in CSS2. Getting an attribute of this interface is equivalent to calling the getPropertyValue method of the CSSStyleDeclaration interface. Setting an attribute of this interface is equivalent to calling the setProperty method of the CSSStyleDeclaration interface
 type: docs
-weight: 530
+weight: 540
 url: /net/aspose.html.dom.css/icss2properties/
 ---
 ## ICSS2Properties interface

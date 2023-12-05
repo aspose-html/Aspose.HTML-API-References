@@ -3,7 +3,7 @@ title: ImageDevice Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Image.ImageDevice class. Represents rendering to raster formats jpeg png bmp gif tiff
 type: docs
-weight: 4470
+weight: 4480
 url: /net/aspose.html.rendering.image/imagedevice/
 ---
 ## ImageDevice class

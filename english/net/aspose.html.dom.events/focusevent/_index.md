@@ -3,7 +3,7 @@ title: FocusEvent Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Events.FocusEvent class. The FocusEvent interface provides specific contextual information associated with Focus events
 type: docs
-weight: 940
+weight: 950
 url: /net/aspose.html.dom.events/focusevent/
 ---
 ## FocusEvent class

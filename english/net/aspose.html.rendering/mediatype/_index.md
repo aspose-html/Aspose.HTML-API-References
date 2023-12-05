@@ -3,7 +3,7 @@ title: MediaType Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.MediaType enum. Specifies possible media types used during rendering
 type: docs
-weight: 4530
+weight: 4540
 url: /net/aspose.html.rendering/mediatype/
 ---
 ## MediaType enumeration

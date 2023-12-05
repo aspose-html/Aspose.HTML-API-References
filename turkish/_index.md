@@ -20,6 +20,7 @@ EPUB, PNG, TIFF, JPEG, BMP ve diğer formatlar.
 
 Bunlar bazı faydalı kaynaklara bağlantılar:
 - [Aspose.HTML for .NET API Referansı](/html/tr/net/)
+- [Aspose.HTML for .NET API Eğitimleri](/tutorials/html/tr/net/)
 
 
 ## Java için Aspose.HTML
@@ -35,3 +36,4 @@ Aspose.HTML for Java, doğrudan Java uygulamaları içinde çok çeşitli HTML i
 
 Bunlar bazı faydalı kaynaklara bağlantılar:
 - [.Java API Referansı için Aspose.HTML](/html/java/)
+- [Java API Eğitimleri için Aspose.HTML](/tutorials/html/tr/java/)
