@@ -3,7 +3,7 @@ title: SVGPolylineElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.SVGPolylineElement class. The SVGPolylineElement interface corresponds to the polyline element
 type: docs
-weight: 2380
+weight: 2390
 url: /net/aspose.html.dom.svg/svgpolylineelement/
 ---
 ## SVGPolylineElement class

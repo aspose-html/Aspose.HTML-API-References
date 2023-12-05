@@ -3,7 +3,7 @@ title: FileCreateStreamProvider Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.IO.FileCreateStreamProvider class. Represents FileStream implementation for providing streams to the rendering devices
 type: docs
-weight: 3850
+weight: 3860
 url: /net/aspose.html.io/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider class

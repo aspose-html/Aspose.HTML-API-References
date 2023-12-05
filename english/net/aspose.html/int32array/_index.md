@@ -3,7 +3,7 @@ title: Int32Array Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Int32Array class. Represents an array of twos-complement 32-bit signed integers in the platform byte order
 type: docs
-weight: 3950
+weight: 3960
 url: /net/aspose.html/int32array/
 ---
 ## Int32Array class

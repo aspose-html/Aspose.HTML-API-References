@@ -3,7 +3,7 @@ title: Aspose.Html.Net.MessageHandlers
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Net.MessageHandlers namespace is presented by classes - message handlers of different protocols
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.html.net.messagehandlers/
 ---
 The **Aspose.Html.Net.MessageHandlers** namespace is presented by classes - message handlers of different protocols.

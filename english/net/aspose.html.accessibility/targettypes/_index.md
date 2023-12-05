@@ -3,7 +3,7 @@ title: TargetTypes Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Accessibility.TargetTypes enum. Enum of types of the resulting object from the html document containing the error
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.html.accessibility/targettypes/
 ---
 ## TargetTypes enumeration

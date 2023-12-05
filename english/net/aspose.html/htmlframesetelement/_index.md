@@ -3,7 +3,7 @@ title: HTMLFrameSetElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLFrameSetElement class. Create a grid of frames. See the FRAMESET element definition in HTML 4.01
 type: docs
-weight: 3410
+weight: 3420
 url: /net/aspose.html/htmlframesetelement/
 ---
 ## HTMLFrameSetElement class

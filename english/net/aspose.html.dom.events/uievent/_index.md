@@ -3,7 +3,7 @@ title: UIEvent Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Events.UIEvent class. The UIEvent interface provides specific contextual information associated with User Interface events
 type: docs
-weight: 1010
+weight: 1020
 url: /net/aspose.html.dom.events/uievent/
 ---
 ## UIEvent class

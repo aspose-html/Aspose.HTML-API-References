@@ -3,7 +3,7 @@ title: Aspose.Html.Dom.Events
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Dom.Events namespace provides objects for any events related DOM updating. It includes subscription to specific contextual information observation associated with event as well as custom events construction
 type: docs
-weight: 110
+weight: 120
 url: /net/aspose.html.dom.events/
 ---
 The **Aspose.Html.Dom.Events** namespace provides objects for any events related DOM updating. It includes subscription to specific contextual information observation associated with event as well as custom events construction.

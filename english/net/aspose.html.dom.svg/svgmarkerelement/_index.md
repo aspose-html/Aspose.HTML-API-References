@@ -3,7 +3,7 @@ title: SVGMarkerElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.SVGMarkerElement class. The SVGMarkerElement interface corresponds to the marker element
 type: docs
-weight: 2320
+weight: 2330
 url: /net/aspose.html.dom.svg/svgmarkerelement/
 ---
 ## SVGMarkerElement class

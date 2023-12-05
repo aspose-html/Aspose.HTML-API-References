@@ -3,7 +3,7 @@ title: InputElementType Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Forms.InputElementType enum. Represent states of the input field
 type: docs
-weight: 3150
+weight: 3160
 url: /net/aspose.html.forms/inputelementtype/
 ---
 ## InputElementType enumeration

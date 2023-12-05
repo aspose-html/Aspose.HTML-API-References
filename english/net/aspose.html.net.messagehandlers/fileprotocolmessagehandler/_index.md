@@ -3,7 +3,7 @@ title: FileProtocolMessageHandler Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Net.MessageHandlers.FileProtocolMessageHandler class. Represents the file protocol message handler
 type: docs
-weight: 4150
+weight: 4160
 url: /net/aspose.html.net.messagehandlers/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler class

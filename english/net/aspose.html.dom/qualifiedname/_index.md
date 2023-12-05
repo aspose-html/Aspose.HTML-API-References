@@ -3,7 +3,7 @@ title: QualifiedName Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.QualifiedName class. Represents an HTML qualified name
 type: docs
-weight: 1180
+weight: 1190
 url: /net/aspose.html.dom/qualifiedname/
 ---
 ## QualifiedName class

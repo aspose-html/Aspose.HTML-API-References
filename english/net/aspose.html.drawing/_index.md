@@ -3,7 +3,7 @@ title: Aspose.Html.Drawing
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Drawing namespace contains objects and interfaces to specify measurement and units as well as drawing attribute objects like brushes colors and fonts
 type: docs
-weight: 240
+weight: 250
 url: /net/aspose.html.drawing/
 ---
 The **Aspose.Html.Drawing** namespace contains objects and interfaces to specify measurement and units as well as drawing attribute objects like brushes, colors and fonts.

@@ -3,7 +3,7 @@ title: Aspose.Html.Collections
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Collections namespace consists of classes to represent store and manipulate nodes and elements
 type: docs
-weight: 40
+weight: 50
 url: /net/aspose.html.collections/
 ---
 The **Aspose.Html.Collections** namespace consists of classes to represent, store and manipulate nodes and elements.

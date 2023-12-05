@@ -3,7 +3,7 @@ title: Aspose.Html.Dom.Mutations
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Dom.Mutations provides opportunity to observe DOM mutations and getting specific callback information
 type: docs
-weight: 120
+weight: 130
 url: /net/aspose.html.dom.mutations/
 ---
 The **Aspose.Html.Dom.Mutations** provides opportunity to observe DOM mutations and getting specific callback information.

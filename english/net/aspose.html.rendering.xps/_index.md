@@ -3,7 +3,7 @@ title: Aspose.Html.Rendering.Xps
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Rendering.Xps namespace provides specific device class as well as few rendering options classes responsible for rendering to a xps document
 type: docs
-weight: 380
+weight: 390
 url: /net/aspose.html.rendering.xps/
 ---
 The **Aspose.Html.Rendering.Xps** namespace provides specific device class as well as few rendering options classes responsible for rendering to a xps document.

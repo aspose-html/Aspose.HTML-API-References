@@ -3,7 +3,7 @@ title: ISVGFitToViewBox Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.ISVGFitToViewBox interface. Interface SVGFitToViewBox defines DOM attributes that apply to elements which have XML attributes viewBox and preserveAspectRatio
 type: docs
-weight: 1780
+weight: 1790
 url: /net/aspose.html.dom.svg/isvgfittoviewbox/
 ---
 ## ISVGFitToViewBox interface

@@ -3,7 +3,7 @@ title: IFile Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.IO.IFile interface. A File object is a Blob object with a name attribute which is a string it can be created within the web application via a constructor or is a reference to a byte sequence from a file from the underlying OS file system
 type: docs
-weight: 3880
+weight: 3890
 url: /net/aspose.html.io/ifile/
 ---
 ## IFile interface

@@ -3,7 +3,7 @@ title: DocumentFormat Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Doc.DocumentFormat enum. Represents the file format of the output document
 type: docs
-weight: 4370
+weight: 4380
 url: /net/aspose.html.rendering.doc/documentformat/
 ---
 ## DocumentFormat enumeration

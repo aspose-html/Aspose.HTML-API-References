@@ -3,7 +3,7 @@ title: Aspose.Html.Toolkit.Optimizers
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Toolkit.Optimizers namespace contains classes for optimizing SVG documents. The optimization process involves removing unused or invisible elements and their attributes merging groups and reducing the size of path segments
 type: docs
-weight: 460
+weight: 470
 url: /net/aspose.html.toolkit.optimizers/
 ---
 The **Aspose.Html.Toolkit.Optimizers** namespace contains classes for optimizing SVG documents. The optimization process involves removing unused or invisible elements and their attributes, merging groups, and reducing the size of path segments.

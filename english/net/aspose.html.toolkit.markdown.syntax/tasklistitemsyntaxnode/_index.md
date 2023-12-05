@@ -3,7 +3,7 @@ title: TaskListItemSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.TaskListItemSyntaxNode class. The task list item syntax node
 type: docs
-weight: 5760
+weight: 5770
 url: /net/aspose.html.toolkit.markdown.syntax/tasklistitemsyntaxnode/
 ---
 ## TaskListItemSyntaxNode class

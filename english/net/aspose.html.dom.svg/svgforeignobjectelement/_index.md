@@ -3,7 +3,7 @@ title: SVGForeignObjectElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Svg.SVGForeignObjectElement class. The SVGForeignObjectElement interface corresponds to the foreignObject element
 type: docs
-weight: 2230
+weight: 2240
 url: /net/aspose.html.dom.svg/svgforeignobjectelement/
 ---
 ## SVGForeignObjectElement class
