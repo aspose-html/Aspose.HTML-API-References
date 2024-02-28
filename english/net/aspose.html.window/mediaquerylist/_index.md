@@ -3,12 +3,12 @@ title: MediaQueryList Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Window.MediaQueryList class. A MediaQueryList object stores information on a media query applied to a document with support for both immediate and event-driven matching against the state of the document. See CSSOM View Module specification https//www.w3.org/TR/cssom-view/the-mediaquerylist-interface
 type: docs
-weight: 6050
+weight: 6070
 url: /net/aspose.html.window/mediaquerylist/
 ---
 ## MediaQueryList class
 
-A MediaQueryList object stores information on a media query applied to a document, with support for both immediate and event-driven matching against the state of the document. See CSSOM View Module specification: !:https://www.w3.org/TR/cssom-view/#the-mediaquerylist-interface
+A MediaQueryList object stores information on a media query applied to a document, with support for both immediate and event-driven matching against the state of the document. See CSSOM View Module specification: [https://www.w3.org/TR/cssom-view/#the-mediaquerylist-interface](https://www.w3.org/TR/cssom-view/#the-mediaquerylist-interface)
 
 ```csharp
 public class MediaQueryList : EventTarget

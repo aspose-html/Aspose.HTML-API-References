@@ -3,7 +3,7 @@ title: IWindow Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Window.IWindow interface. The window object represents a window containing a DOM document
 type: docs
-weight: 6010
+weight: 6030
 url: /net/aspose.html.window/iwindow/
 ---
 ## IWindow interface
@@ -38,7 +38,7 @@ public interface IWindow : IDisposable, IDocumentView, IEventTarget, IGlobalEven
 | [Atob](../../aspose.html.window/iwindow/atob/)(string) | Takes the input data, in the form of a Unicode string containing base64-encoded binary data, decodes it, and returns a string consisting of characters in the range U+0000 to U+00FF, each representing a binary byte with values 0x00 to 0xFF respectively, corresponding to that binary data. |
 | [Btoa](../../aspose.html.window/iwindow/btoa/)(string) | Takes the input data, in the form of a Unicode string containing only characters in the range U+0000 to U+00FF, each representing a binary byte with values 0x00 to 0xFF respectively, and converts it to its base64 representation, which it returns. |
 | [Confirm](../../aspose.html.window/iwindow/confirm/)(string) | Displays a modal OK/Cancel prompt with the given message, waits for the user to dismiss it, and returns true if the user clicks OK and false if the user clicks Cancel. |
-| [MatchMedia](../../aspose.html.window/iwindow/matchmedia/)(string) | Returns a new MediaQueryList object that can then be used to determine if the document matches the media query string, as well as to monitor the document to detect when it matches (or stops matching) that media query. See CSSOM View Module specification: !:https://www.w3.org/TR/cssom-view/#extensions-to-the-window-interface |
+| [MatchMedia](../../aspose.html.window/iwindow/matchmedia/)(string) | Returns a new MediaQueryList object that can then be used to determine if the document matches the media query string, as well as to monitor the document to detect when it matches (or stops matching) that media query. See CSSOM View Module specification: [https://www.w3.org/TR/cssom-view/#extensions-to-the-window-interface](https://www.w3.org/TR/cssom-view/#extensions-to-the-window-interface) |
 | [Prompt](../../aspose.html.window/iwindow/prompt/)(string, string) | Displays a modal text field prompt with the given message, waits for the user to dismiss it, and returns the value that the user entered. If the user cancels the prompt, then returns null instead. If the second argument is present, then the given value is used as a default. |
 
 ### See Also

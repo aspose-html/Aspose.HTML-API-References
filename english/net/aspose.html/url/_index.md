@@ -3,7 +3,7 @@ title: Url Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Url class. Provides an object representation of a universal identifier URL
 type: docs
-weight: 6000
+weight: 6020
 url: /net/aspose.html/url/
 ---
 ## Url class

@@ -3,7 +3,7 @@ title: MarkdownSyntaxTree Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.MarkdownSyntaxTree class. Represent the Markdown Syntax Tree
 type: docs
-weight: 5380
+weight: 5400
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/
 ---
 ## MarkdownSyntaxTree class

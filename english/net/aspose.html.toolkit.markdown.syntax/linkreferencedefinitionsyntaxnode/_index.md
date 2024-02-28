@@ -3,7 +3,7 @@ title: LinkReferenceDefinitionSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.LinkReferenceDefinitionSyntaxNode class. Represent the LinkReferenceDefinitionSyntaxNode
 type: docs
-weight: 5280
+weight: 5300
 url: /net/aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/
 ---
 ## LinkReferenceDefinitionSyntaxNode class

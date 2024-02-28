@@ -3,7 +3,7 @@ title: MHTMLSaveOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.MHTMLSaveOptions class. Represents MHTML save options. By assigning specific properties you can manage resource processing such as max handling depth and so on. More info see in documentation article
 type: docs
-weight: 4790
+weight: 4760
 url: /net/aspose.html.saving/mhtmlsaveoptions/
 ---
 ## MHTMLSaveOptions class

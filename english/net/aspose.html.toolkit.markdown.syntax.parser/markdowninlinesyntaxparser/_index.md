@@ -3,7 +3,7 @@ title: MarkdownInlineSyntaxParser Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Parser.MarkdownInlineSyntaxParser class. Defines the base class MarkdownInlineSyntaxParser
 type: docs
-weight: 5630
+weight: 5650
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/
 ---
 ## MarkdownInlineSyntaxParser class

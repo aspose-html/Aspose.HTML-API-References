@@ -3,7 +3,7 @@ title: HardBreakSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.HardBreakSyntaxNode class. Represents the HardBreakSyntaxNode
 type: docs
-weight: 5170
+weight: 5190
 url: /net/aspose.html.toolkit.markdown.syntax/hardbreaksyntaxnode/
 ---
 ## HardBreakSyntaxNode class

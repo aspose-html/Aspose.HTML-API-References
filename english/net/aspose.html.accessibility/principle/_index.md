@@ -1,14 +1,14 @@
 ---
 title: Principle Class
 second_title: Aspose.HTML for .NET API Reference
-description: Aspose.Html.Accessibility.Principle class. Accessibility Principle - The highest levels that provide the foundation of web accessibility contain a list of Guidelines with type RuleCollection/. The object is not allowed to be created outside the assembly. https//www.w3.org/WAI/fundamentals/accessibility-principles/
+description: Aspose.Html.Accessibility.Principle class. Accessibility Principle - The highest levels that provide the foundation of web accessibility contain a list of Guidelines with type RuleCollectionGuideline. The object is not allowed to be created outside the assembly. https//www.w3.org/WAI/fundamentals/accessibility-principles/
 type: docs
 weight: 80
 url: /net/aspose.html.accessibility/principle/
 ---
 ## Principle class
 
-Accessibility Principle - The highest levels that provide the foundation of web accessibility, contain a list of Guidelines with type RuleCollection/. The object is not allowed to be created outside the assembly. https://www.w3.org/WAI/fundamentals/accessibility-principles/
+Accessibility Principle - The highest levels that provide the foundation of web accessibility, contain a list of Guidelines with type RuleCollection{Guideline}. The object is not allowed to be created outside the assembly. https://www.w3.org/WAI/fundamentals/accessibility-principles/
 
 ```csharp
 public class Principle : Rule

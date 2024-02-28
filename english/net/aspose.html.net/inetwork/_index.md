@@ -3,7 +3,7 @@ title: INetwork Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Net.INetwork interface. Provides an interface for network services
 type: docs
-weight: 4100
+weight: 4070
 url: /net/aspose.html.net/inetwork/
 ---
 ## INetwork interface

@@ -3,7 +3,7 @@ title: Aspose.Html.Toolkit.Markdown.Syntax
 second_title: Aspose.HTML for .NET API Reference
 description: The Aspose.Html.Toolkit.Markdown.Syntax namespace contains objects and interfaces for working with the syntax tree of a Markdown document
 type: docs
-weight: 420
+weight: 430
 url: /net/aspose.html.toolkit.markdown.syntax/
 ---
 The **Aspose.Html.Toolkit.Markdown.Syntax** namespace contains objects and interfaces for working with the syntax tree of a Markdown document.

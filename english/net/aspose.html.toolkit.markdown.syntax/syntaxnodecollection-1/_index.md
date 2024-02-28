@@ -3,7 +3,7 @@ title: SyntaxNodeCollectionT Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.SyntaxNodeCollection1T class. Represents a collection of syntax nodes
 type: docs
-weight: 5710
+weight: 5730
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/
 ---
 ## SyntaxNodeCollection&lt;T&gt; class

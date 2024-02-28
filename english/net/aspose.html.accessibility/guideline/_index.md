@@ -1,14 +1,14 @@
 ---
 title: Guideline Class
 second_title: Aspose.HTML for .NET API Reference
-description: Aspose.Html.Accessibility.Guideline class. Guidelines - the next level after principles. There are not testable but outline frameworks and general goals that help authors understand success criteria and better apply the techniques. Guidelines are a list of acceptance criteria with type RuleDirectory/
+description: Aspose.Html.Accessibility.Guideline class. Guidelines - the next level after principles. There are not testable but outline frameworks and general goals that help authors understand success criteria and better apply the techniques. Guidelines are a list of acceptance criteria with type RuleDirectoryCriterion
 type: docs
 weight: 40
 url: /net/aspose.html.accessibility/guideline/
 ---
 ## Guideline class
 
-Guidelines - the next level after principles. There are not testable, but outline frameworks and general goals that help authors understand success criteria and better apply the techniques. Guidelines are a list of acceptance criteria with type RuleDirectory/.
+Guidelines - the next level after principles. There are not testable, but outline frameworks and general goals that help authors understand success criteria and better apply the techniques. Guidelines are a list of acceptance criteria with type RuleDirectory{Criterion}.
 
 ```csharp
 public class Guideline : Rule

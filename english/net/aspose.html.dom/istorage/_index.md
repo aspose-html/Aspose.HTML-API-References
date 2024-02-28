@@ -8,7 +8,7 @@ url: /net/aspose.html.dom/istorage/
 ---
 ## IStorage interface
 
-This interface of the Web Storage API provides access to a particular domain's session or local storage. See Web Storage specification: !:https://html.spec.whatwg.org/multipage/webstorage.html#webstorage
+This interface of the Web Storage API provides access to a particular domain's session or local storage. See Web Storage specification: [https://html.spec.whatwg.org/multipage/webstorage.html#webstorage](https://html.spec.whatwg.org/multipage/webstorage.html#webstorage)
 
 ```csharp
 public interface IStorage
