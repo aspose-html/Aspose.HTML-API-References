@@ -3,7 +3,7 @@ title: FtpProtocolMessageHandler Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Net.MessageHandlers.FtpProtocolMessageHandler class. Represents the ftp protocol message handler
 type: docs
-weight: 4170
+weight: 4140
 url: /net/aspose.html.net.messagehandlers/ftpprotocolmessagehandler/
 ---
 ## FtpProtocolMessageHandler class

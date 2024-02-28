@@ -3,7 +3,7 @@ title: DocSaveOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.DocSaveOptions class. Specific options data class. By assigning properties you can manage rendering characteristics such as resolution page size background color as well as doc specific options such as font embedding. More info see in documentation article
 type: docs
-weight: 4750
+weight: 4720
 url: /net/aspose.html.saving/docsaveoptions/
 ---
 ## DocSaveOptions class

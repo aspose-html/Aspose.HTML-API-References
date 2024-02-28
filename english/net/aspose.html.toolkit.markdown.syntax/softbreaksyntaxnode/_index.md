@@ -3,7 +3,7 @@ title: SoftBreakSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.SoftBreakSyntaxNode class. Represent the soft breaking syntax
 type: docs
-weight: 5700
+weight: 5720
 url: /net/aspose.html.toolkit.markdown.syntax/softbreaksyntaxnode/
 ---
 ## SoftBreakSyntaxNode class

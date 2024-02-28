@@ -3,7 +3,7 @@ title: TableCellSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.TableCellSyntaxNode class. Represent the table cell syntax node
 type: docs
-weight: 5720
+weight: 5740
 url: /net/aspose.html.toolkit.markdown.syntax/tablecellsyntaxnode/
 ---
 ## TableCellSyntaxNode class

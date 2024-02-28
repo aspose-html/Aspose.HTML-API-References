@@ -3,7 +3,7 @@ title: TableRowSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.TableRowSyntaxNode class. The table row syntax node
 type: docs
-weight: 5740
+weight: 5760
 url: /net/aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/
 ---
 ## TableRowSyntaxNode class

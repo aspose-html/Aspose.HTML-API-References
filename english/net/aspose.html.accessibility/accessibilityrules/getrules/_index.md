@@ -20,7 +20,7 @@ public IList<IRule> GetRules(params string[] codes)
 
 ### Return Value
 
-IList/ object
+IList{IRule} object
 
 ### See Also
 

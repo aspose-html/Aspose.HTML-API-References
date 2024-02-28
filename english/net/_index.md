@@ -51,6 +51,7 @@ is_root: true
 | [Aspose.Html.Rendering.Pdf.Encryption](./aspose.html.rendering.pdf.encryption/) | The **Aspose.Html.Rendering.Pdf.Encryption** namespace contains data classes describing pdf encryption details like password, encryption algorithm and so on. |
 | [Aspose.Html.Rendering.Xps](./aspose.html.rendering.xps/) | The **Aspose.Html.Rendering.Xps** namespace provides specific device class as well as few rendering options classes responsible for rendering to a xps document. |
 | [Aspose.Html.Saving](./aspose.html.saving/) | The **Aspose.Html.Saving** namespace is presented by data classes for description of specific save options at conversion/saving process. |
+| [Aspose.Html.Saving.ResourceHandlers](./aspose.html.saving.resourcehandlers/) | The **Aspose.Html.Saving.ResourceHandlers** namespace contains classes responsible for handling resources. |
 | [Aspose.Html.Services](./aspose.html.services/) | The **Aspose.Html.Services** namespace contains interfaces as protocols for service implementations. |
 | [Aspose.Html.Toolkit.Markdown.Syntax](./aspose.html.toolkit.markdown.syntax/) | The **Aspose.Html.Toolkit.Markdown.Syntax** namespace contains objects and interfaces for working with the syntax tree of a Markdown document. |
 | [Aspose.Html.Toolkit.Markdown.Syntax.Extensions](./aspose.html.toolkit.markdown.syntax.extensions/) | The **Aspose.Html.Toolkit.Markdown.Syntax.Extensions** namespace contains objects and methods that allows you to handle various extensions of the Markdown format, such as ShortCode, FrontMatter, etc. |

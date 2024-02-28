@@ -43,7 +43,7 @@ The **Aspose.Html.Dom (Document Object Model)** namespace provides API that repr
 | [INonDocumentTypeChildNode](./inondocumenttypechildnode/) | Defines [`IChildNode`](../aspose.html.dom/ichildnode/) that are not [`DOCUMENT_TYPE_NODE`](../aspose.html.dom/node/document_type_node/). |
 | [INonElementParentNode](./inonelementparentnode/) | Defines [`IParentNode`](../aspose.html.dom/iparentnode/) that are not Element type. |
 | [IParentNode](./iparentnode/) | Defines the [`IParentNode`](../aspose.html.dom/iparentnode/) interface that is implemented by any possible parents. |
-| [IStorage](./istorage/) | This interface of the Web Storage API provides access to a particular domain's session or local storage. See Web Storage specification: !:https://html.spec.whatwg.org/multipage/webstorage.html#webstorage |
+| [IStorage](./istorage/) | This interface of the Web Storage API provides access to a particular domain's session or local storage. See Web Storage specification: [https://html.spec.whatwg.org/multipage/webstorage.html#webstorage](https://html.spec.whatwg.org/multipage/webstorage.html#webstorage) |
 ## Enumeration
 
 | Enumeration | Description |

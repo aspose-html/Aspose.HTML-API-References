@@ -3,7 +3,7 @@ title: WhitespaceSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.WhitespaceSyntaxNode class. Represent the whitespace syntax node
 type: docs
-weight: 5900
+weight: 5920
 url: /net/aspose.html.toolkit.markdown.syntax/whitespacesyntaxnode/
 ---
 ## WhitespaceSyntaxNode class

@@ -18,6 +18,8 @@ The **Aspose.Html.Saving** namespace is presented by data classes for descriptio
 | [MarkdownSaveOptions](./markdownsaveoptions/) | Represents Markdown save options. For example, you can set markdown formatting style, use predefined GitLab Flavored Markdown compatible options and configurate resources handling. Refer to more info in [article](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#save-options). |
 | [MHTMLSaveOptions](./mhtmlsaveoptions/) | Represents MHTML save options. By assigning specific properties you can manage resource processing such as max handling depth and so on. More info see in documentation [article](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#save-options). |
 | [PdfSaveOptions](./pdfsaveoptions/) | Specific data class provides few properties to manage conversion result. For example [`PageSetup`](../aspose.html.rendering/pagesetup/) specifies page characteristics. Refer to documentation [article](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions). |
+| [Resource](./resource/) | This class describes a resource and provides methods for processing it. |
+| [ResourceHandlingContext](./resourcehandlingcontext/) | This class contains information used when processing resources. |
 | [ResourceHandlingOptions](./resourcehandlingoptions/) | Represents resource handling options. |
 | [SaveOptions](./saveoptions/) | This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format. |
 | [TextSaveOptions](./textsaveoptions/) | Represents Text save options |
@@ -30,4 +32,5 @@ The **Aspose.Html.Saving** namespace is presented by data classes for descriptio
 | [MarkdownFeatures](./markdownfeatures/) | A [`MarkdownFeatures`](../aspose.html.saving/markdownfeatures/) flag set is a set of zero or more of the following flags, which are used to select elements converted to markdown. |
 | [MarkdownFormatter](./markdownformatter/) | Specifies the way output will be formatted. |
 | [ResourceHandling](./resourcehandling/) | This enum represents resource handling options. |
+| [ResourceStatus](./resourcestatus/) | Indicates the resource status. |
 | [UrlRestriction](./urlrestriction/) | This enum represents restriction applied to URLs of processed resources. |
