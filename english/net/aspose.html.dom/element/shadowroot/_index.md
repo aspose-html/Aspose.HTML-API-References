@@ -3,7 +3,7 @@ title: Element.ShadowRoot
 second_title: Aspose.HTML for .NET API Reference
 description: Element property. Returns shadowRoot stored on this element or null if its closed
 type: docs
-weight: 190
+weight: 180
 url: /net/aspose.html.dom/element/shadowroot/
 ---
 ## Element.ShadowRoot property
