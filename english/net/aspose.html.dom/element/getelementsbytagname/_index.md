@@ -3,7 +3,7 @@ title: Element.GetElementsByTagName
 second_title: Aspose.HTML for .NET API Reference
 description: Element method. Returns HTMLCollection object containing all elements with a given tag name in document order
 type: docs
-weight: 290
+weight: 280
 url: /net/aspose.html.dom/element/getelementsbytagname/
 ---
 ## Element.GetElementsByTagName method

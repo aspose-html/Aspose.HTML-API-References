@@ -3,7 +3,7 @@ title: Element.QuerySelectorAll
 second_title: Aspose.HTML for .NET API Reference
 description: Element method. Returns a NodeList of all the Elements in document which match selector
 type: docs
-weight: 350
+weight: 340
 url: /net/aspose.html.dom/element/queryselectorall/
 ---
 ## Element.QuerySelectorAll method
