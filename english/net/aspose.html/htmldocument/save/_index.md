@@ -6,7 +6,7 @@ type: docs
 weight: 130
 url: /net/aspose.html/htmldocument/save/
 ---
-## Save(Url) {#save_10}
+## Save(Url) {#save_5}
 
 Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files".
 
@@ -69,7 +69,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## Save(ResourceHandler) {#save_5}
+## Save(ResourceHandler) {#save}
 
 Saves the document content and resources using the [`ResourceHandler`](../../../aspose.html.saving.resourcehandlers/resourcehandler/).
 
@@ -90,7 +90,7 @@ public void Save(ResourceHandler resourceHandler)
 
 ---
 
-## Save(string) {#save_15}
+## Save(string) {#save_10}
 
 Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -155,7 +155,7 @@ using Aspose.Html;
 
 ---
 
-## Save(string, HTMLSaveFormat) {#save_16}
+## Save(string, HTMLSaveFormat) {#save_11}
 
 Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files".
 
@@ -326,7 +326,7 @@ Content-Location: main.css
 
 ---
 
-## Save(Url, HTMLSaveFormat) {#save_11}
+## Save(Url, HTMLSaveFormat) {#save_6}
 
 Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files".
 
@@ -397,7 +397,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## Save(ResourceHandler, HTMLSaveFormat) {#save_6}
+## Save(ResourceHandler, HTMLSaveFormat) {#save_1}
 
 Saves the document content and resources using the [`ResourceHandler`](../../../aspose.html.saving.resourcehandlers/resourcehandler/).
 
@@ -420,7 +420,7 @@ public void Save(ResourceHandler resourceHandler, HTMLSaveFormat saveFormat)
 
 ---
 
-## Save(string, HTMLSaveOptions) {#save_17}
+## Save(string, HTMLSaveOptions) {#save_12}
 
 Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -494,7 +494,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## Save(Url, HTMLSaveOptions) {#save_12}
+## Save(Url, HTMLSaveOptions) {#save_7}
 
 Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -569,7 +569,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## Save(ResourceHandler, HTMLSaveOptions) {#save_7}
+## Save(ResourceHandler, HTMLSaveOptions) {#save_2}
 
 Saves the document content and resources using the [`ResourceHandler`](../../../aspose.html.saving.resourcehandlers/resourcehandler/).
 
@@ -592,7 +592,7 @@ public void Save(ResourceHandler resourceHandler, HTMLSaveOptions saveOptions)
 
 ---
 
-## Save(string, MarkdownSaveOptions) {#save_18}
+## Save(string, MarkdownSaveOptions) {#save_13}
 
 Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -664,7 +664,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## Save(Url, MarkdownSaveOptions) {#save_13}
+## Save(Url, MarkdownSaveOptions) {#save_8}
 
 Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -737,7 +737,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## Save(ResourceHandler, MarkdownSaveOptions) {#save_8}
+## Save(ResourceHandler, MarkdownSaveOptions) {#save_3}
 
 Saves the document content and resources using the [`ResourceHandler`](../../../aspose.html.saving.resourcehandlers/resourcehandler/).
 
@@ -760,7 +760,7 @@ public void Save(ResourceHandler resourceHandler, MarkdownSaveOptions saveOption
 
 ---
 
-## Save(string, MHTMLSaveOptions) {#save_19}
+## Save(string, MHTMLSaveOptions) {#save_14}
 
 Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -832,7 +832,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## Save(Url, MHTMLSaveOptions) {#save_14}
+## Save(Url, MHTMLSaveOptions) {#save_9}
 
 Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -905,7 +905,7 @@ using (var document = new HTMLDocument(inputHtmlPath))
 
 ---
 
-## Save(ResourceHandler, MHTMLSaveOptions) {#save_9}
+## Save(ResourceHandler, MHTMLSaveOptions) {#save_4}
 
 Saves the document content and resources using the [`ResourceHandler`](../../../aspose.html.saving.resourcehandlers/resourcehandler/).
 

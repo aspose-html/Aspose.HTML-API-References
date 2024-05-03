@@ -29,6 +29,7 @@ public class HTMLObjectElement : HTMLElement
 | [ChildNodes](../../aspose.html.dom/node/childnodes/) { get; } | The read-only childNodes property of the Node interface returns a live [`NodeList`](../../aspose.html.collections/nodelist/) of child nodes of the given element where the first child node is assigned index 0. Child nodes include elements, text and comments. |
 | [Children](../../aspose.html.dom/element/children/) { get; } | Returns the child elements of current element. |
 | [ClassId](../../aspose.html/htmlobjectelement/classid/) { get; set; } | Defines a class ID value as set in the Windows Registry or a URL |
+| [ClassList](../../aspose.html.dom/element/classlist/) { get; } | Returns a live DOMTokenList which contains tokens received from parsing the "class" attribute. |
 | [ClassName](../../aspose.html/htmlelement/classname/) { get; set; } | The class attribute of the element. This attribute has been renamed due to conflicts with the "class" keyword exposed by many languages. See the class attribute definition in HTML 4.01. |
 | [Code](../../aspose.html/htmlobjectelement/code/) { get; set; } | Applet class file. See the `code` attribute for HTMLAppletElement. |
 | [CodeBase](../../aspose.html/htmlobjectelement/codebase/) { get; set; } | Base URI [[IETF RFC 2396](http://www.ietf.org/rfc/rfc2396.txt)] for `classid`, `data`, and `archive` attributes. See the codebase attribute definition in HTML 4.01. |

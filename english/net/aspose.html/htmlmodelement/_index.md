@@ -26,6 +26,7 @@ public class HTMLModElement : HTMLElement
 | [ChildNodes](../../aspose.html.dom/node/childnodes/) { get; } | The read-only childNodes property of the Node interface returns a live [`NodeList`](../../aspose.html.collections/nodelist/) of child nodes of the given element where the first child node is assigned index 0. Child nodes include elements, text and comments. |
 | [Children](../../aspose.html.dom/element/children/) { get; } | Returns the child elements of current element. |
 | [Cite](../../aspose.html/htmlmodelement/cite/) { get; set; } | A URI [[IETF RFC 2396](http://www.ietf.org/rfc/rfc2396.txt)] designating a document that describes the reason for the change. See the cite attribute definition in HTML 4.01. |
+| [ClassList](../../aspose.html.dom/element/classlist/) { get; } | Returns a live DOMTokenList which contains tokens received from parsing the "class" attribute. |
 | [ClassName](../../aspose.html/htmlelement/classname/) { get; set; } | The class attribute of the element. This attribute has been renamed due to conflicts with the "class" keyword exposed by many languages. See the class attribute definition in HTML 4.01. |
 | [DateTime](../../aspose.html/htmlmodelement/datetime/) { get; set; } | The date and time of the change. See the datetime attribute definition in HTML 4.01. |
 | [Dir](../../aspose.html/htmlelement/dir/) { get; set; } | Specifies the base direction of directionally neutral text and the directionality of tables. See the dir attribute definition in HTML 4.01. |

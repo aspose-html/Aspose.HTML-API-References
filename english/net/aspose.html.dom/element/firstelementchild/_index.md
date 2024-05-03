@@ -3,7 +3,7 @@ title: Element.FirstElementChild
 second_title: Aspose.HTML for .NET API Reference
 description: Element property. Returns the first child element node of this element. null if this element has no child elements
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.html.dom/element/firstelementchild/
 ---
 ## Element.FirstElementChild property
