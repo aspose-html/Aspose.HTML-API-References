@@ -26,6 +26,7 @@ public class HTMLButtonElement : HTMLElement
 | [ChildElementCount](../../aspose.html.dom/element/childelementcount/) { get; } | Returns the current number of element nodes that are children of this element. 0 if this element has no child nodes that are of nodeType 1. |
 | [ChildNodes](../../aspose.html.dom/node/childnodes/) { get; } | The read-only childNodes property of the Node interface returns a live [`NodeList`](../../aspose.html.collections/nodelist/) of child nodes of the given element where the first child node is assigned index 0. Child nodes include elements, text and comments. |
 | [Children](../../aspose.html.dom/element/children/) { get; } | Returns the child elements of current element. |
+| [ClassList](../../aspose.html.dom/element/classlist/) { get; } | Returns a live DOMTokenList which contains tokens received from parsing the "class" attribute. |
 | [ClassName](../../aspose.html/htmlelement/classname/) { get; set; } | The class attribute of the element. This attribute has been renamed due to conflicts with the "class" keyword exposed by many languages. See the class attribute definition in HTML 4.01. |
 | [Dir](../../aspose.html/htmlelement/dir/) { get; set; } | Specifies the base direction of directionally neutral text and the directionality of tables. See the dir attribute definition in HTML 4.01. |
 | [Disabled](../../aspose.html/htmlbuttonelement/disabled/) { get; set; } | The control is unavailable in this context. See the disabled attribute definition in HTML 4.01. |

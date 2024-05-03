@@ -3,7 +3,7 @@ title: Element.GetAttributeNS
 second_title: Aspose.HTML for .NET API Reference
 description: Element method. Retrieves an attribute value by local name and namespace URI
 type: docs
-weight: 260
+weight: 270
 url: /net/aspose.html.dom/element/getattributens/
 ---
 ## Element.GetAttributeNS method

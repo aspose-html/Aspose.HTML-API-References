@@ -24,6 +24,7 @@ public class SVGFEDistantLightElement : SVGElement
 | [ChildElementCount](../../aspose.html.dom/element/childelementcount/) { get; } | Returns the current number of element nodes that are children of this element. 0 if this element has no child nodes that are of nodeType 1. |
 | [ChildNodes](../../aspose.html.dom/node/childnodes/) { get; } | The read-only childNodes property of the Node interface returns a live [`NodeList`](../../aspose.html.collections/nodelist/) of child nodes of the given element where the first child node is assigned index 0. Child nodes include elements, text and comments. |
 | [Children](../../aspose.html.dom/element/children/) { get; } | Returns the child elements of current element. |
+| [ClassList](../../aspose.html.dom/element/classlist/) { get; } | Returns a live DOMTokenList which contains tokens received from parsing the "class" attribute. |
 | [ClassName](../../aspose.html.dom.svg/svgelement/classname/) { get; } | Corresponds to attribute ‘class’ on the given element. |
 | [ClassName](../../aspose.html.dom/element/classname/) { get; set; } | The class attribute of the element. This attribute has been renamed due to conflicts with the "class" keyword exposed by many languages. See the class attribute definition in HTML 4.01. |
 | [Elevation](../../aspose.html.dom.svg.filters/svgfedistantlightelement/elevation/) { get; } | Corresponds to attribute ‘elevation’ on the given ‘feDistantLight’ element. |

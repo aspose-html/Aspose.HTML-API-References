@@ -3,7 +3,7 @@ title: Element.HasAttributeNS
 second_title: Aspose.HTML for .NET API Reference
 description: Element method. Returns true when an attribute with a given local name and namespace URI is specified on this element or has a default value false otherwise
 type: docs
-weight: 310
+weight: 320
 url: /net/aspose.html.dom/element/hasattributens/
 ---
 ## Element.HasAttributeNS method
