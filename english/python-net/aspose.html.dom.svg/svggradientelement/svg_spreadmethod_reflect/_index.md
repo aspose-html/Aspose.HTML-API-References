@@ -1,0 +1,18 @@
+﻿---
+title: SVG_SPREADMETHOD_REFLECT property
+second_title: Aspose.HTML for Python via .NET API References
+description: 
+type: docs
+weight: 540
+url: /aspose.html.dom.svg/svggradientelement/svg_spreadmethod_reflect/
+is_root: false
+---
+
+## SVG_SPREADMETHOD_REFLECT property
+
+
+Corresponds to value 'reflect'.
+
+### See Also
+* module [`aspose.html.dom.svg`](../../)
+* class [`SVGGradientElement`](/html/python-net/aspose.html.dom.svg/svggradientelement)

@@ -1,0 +1,28 @@
+﻿---
+title: align property
+second_title: Aspose.HTML for Python via .NET API References
+description: 
+type: docs
+weight: 540
+url: /aspose.html/htmlhrelement/align/
+is_root: false
+---
+
+## align property
+
+
+Align the rule on the page. See the align attribute definition in HTML 
+4.01. This attribute is deprecated in HTML 4.01.
+### Definition:
+```python
+@property
+def align(self):
+    ...
+@align.setter
+def align(self, value):
+    ...
+```
+
+### See Also
+* module [`aspose.html`](../../)
+* class [`HTMLHRElement`](/html/python-net/aspose.html/htmlhrelement)

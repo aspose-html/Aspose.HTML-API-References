@@ -1,0 +1,28 @@
+﻿---
+title: DOMNullableAttribute constructor
+second_title: Aspose.HTML for Python via .NET API References
+description: 
+type: docs
+weight: 10
+url: /aspose.html.dom.attributes/domnullableattribute/__init__/
+is_root: false
+---
+
+## __init__ {#}
+
+Constructs a new instance of DOMNullableAttribute
+
+
+
+```python
+def __init__(self):
+    ...
+```
+
+
+
+
+
+### See Also
+* module [`aspose.html.dom.attributes`](../../)
+* class [`DOMNullableAttribute`](/html/python-net/aspose.html.dom.attributes/domnullableattribute)

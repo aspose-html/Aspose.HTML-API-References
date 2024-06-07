@@ -1,0 +1,18 @@
+﻿---
+title: DOCUMENT_NODE property
+second_title: Aspose.HTML for Python via .NET API References
+description: 
+type: docs
+weight: 470
+url: /aspose.html.dom.svg.filters/svgfedropshadowelement/document_node/
+is_root: false
+---
+
+## DOCUMENT_NODE property
+
+
+A document node
+
+### See Also
+* module [`aspose.html.dom.svg.filters`](../../)
+* class [`SVGFEDropShadowElement`](/html/python-net/aspose.html.dom.svg.filters/svgfedropshadowelement)

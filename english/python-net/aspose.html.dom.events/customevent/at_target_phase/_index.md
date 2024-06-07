@@ -1,0 +1,18 @@
+﻿---
+title: AT_TARGET_PHASE property
+second_title: Aspose.HTML for Python via .NET API References
+description: 
+type: docs
+weight: 90
+url: /aspose.html.dom.events/customevent/at_target_phase/
+is_root: false
+---
+
+## AT_TARGET_PHASE property
+
+
+The current event phase is the capturing phase.
+
+### See Also
+* module [`aspose.html.dom.events`](../../)
+* class [`CustomEvent`](/html/python-net/aspose.html.dom.events/customevent)

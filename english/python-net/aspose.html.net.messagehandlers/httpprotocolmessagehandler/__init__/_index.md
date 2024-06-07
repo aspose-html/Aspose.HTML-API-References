@@ -1,0 +1,28 @@
+﻿---
+title: HttpProtocolMessageHandler constructor
+second_title: Aspose.HTML for Python via .NET API References
+description: 
+type: docs
+weight: 10
+url: /aspose.html.net.messagehandlers/httpprotocolmessagehandler/__init__/
+is_root: false
+---
+
+## __init__ {#}
+
+Initializes a new instance of the [`HttpProtocolMessageHandler`](/html/python-net/aspose.html.net.messagehandlers/httpprotocolmessagehandler) class.
+
+
+
+```python
+def __init__(self):
+    ...
+```
+
+
+
+
+
+### See Also
+* module [`aspose.html.net.messagehandlers`](../../)
+* class [`HttpProtocolMessageHandler`](/html/python-net/aspose.html.net.messagehandlers/httpprotocolmessagehandler)

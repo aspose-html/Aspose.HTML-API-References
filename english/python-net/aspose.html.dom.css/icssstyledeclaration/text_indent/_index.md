@@ -1,0 +1,18 @@
+﻿---
+title: text_indent property
+second_title: Aspose.HTML for Python via .NET API References
+description: 
+type: docs
+weight: 1190
+url: /aspose.html.dom.css/icssstyledeclaration/text_indent/
+is_root: false
+---
+
+## text_indent property
+
+
+See the text-indent property definition in CSS2.
+
+### See Also
+* module [`aspose.html.dom.css`](../../)
+* class [`ICSSStyleDeclaration`](/html/python-net/aspose.html.dom.css/icssstyledeclaration)

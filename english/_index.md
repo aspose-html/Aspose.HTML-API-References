@@ -37,3 +37,20 @@ Aspose.HTML for Java is an advanced HTML manipulation API built to perform a wid
 These are links to some useful resources:
 - [Aspose.HTML for .Java API Reference](/html/java/)
 - [Aspose.HTML for Java API Tutorials](/tutorials/html/java/)
+
+
+## Aspose.HTML for Python via .NET
+
+{{% alert color="primary" %}} 
+
+![Aspose.HTML for Python via .NET Product Logo](home_1.png)
+
+
+[Aspose.HTML for Python via .NET](https://products.aspose.com/html/python-net/) is an advanced HTML processing API to perform a wide range of management and manipulation tasks within cross-platform applications. API is designed to create, modify, extract data, convert and render HTML documents without any external software. Also, it supports popular file formats such as EPUB, MHTML, XML, SVG, and Markdown and rendering to PDF, DOCX, XPS and Image file formats. Moreover, the HTML Document Object Model is integrated with embedded formats and specifications such as CSS, HTML Canvas, SVG, XPath and JavaScript out-of-the-box that extend the manipulation functional and rendering quality.
+
+{{% /alert %}} 
+
+These are links to some useful resources:
+- [Aspose.HTML for Python via .NET API Reference](/html/python-net/)
+- [Aspose.HTML for Python via .NET API Tutorials](/tutorials/html/python-net/)
+
