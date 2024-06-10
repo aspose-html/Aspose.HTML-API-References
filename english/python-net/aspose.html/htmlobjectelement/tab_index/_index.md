@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 990
-url: /aspose.html/htmlobjectelement/tab_index/
+url: /python-net/aspose.html/htmlobjectelement/tab_index/
 is_root: false
 ---
 

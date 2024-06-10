@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 570
-url: /aspose.html/htmlmetaelement/child_nodes/
+url: /python-net/aspose.html/htmlmetaelement/child_nodes/
 is_root: false
 ---
 

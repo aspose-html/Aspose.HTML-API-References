@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 450
-url: /aspose.html/htmlobjectelement/
+url: /python-net/aspose.html/htmlobjectelement/
 is_root: false
 ---
 

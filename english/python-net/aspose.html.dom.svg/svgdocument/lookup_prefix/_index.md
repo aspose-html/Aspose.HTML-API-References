@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 360
-url: /aspose.html.dom.svg/svgdocument/lookup_prefix/
+url: /python-net/aspose.html.dom.svg/svgdocument/lookup_prefix/
 is_root: false
 ---
 

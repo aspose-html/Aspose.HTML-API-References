@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.dom.svg.datatypes/svgtransformlist/clear/
+url: /python-net/aspose.html.dom.svg.datatypes/svgtransformlist/clear/
 is_root: false
 ---
 

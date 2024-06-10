@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 850
-url: /aspose.html/htmlquoteelement/style/
+url: /python-net/aspose.html/htmlquoteelement/style/
 is_root: false
 ---
 

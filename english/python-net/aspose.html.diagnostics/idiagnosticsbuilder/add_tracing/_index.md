@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.diagnostics/idiagnosticsbuilder/add_tracing/
+url: /python-net/aspose.html.diagnostics/idiagnosticsbuilder/add_tracing/
 is_root: false
 ---
 

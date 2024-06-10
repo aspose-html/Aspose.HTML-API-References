@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 1280
-url: /aspose.html.dom.css/icssstyledeclaration/white_space/
+url: /python-net/aspose.html.dom.css/icssstyledeclaration/white_space/
 is_root: false
 ---
 

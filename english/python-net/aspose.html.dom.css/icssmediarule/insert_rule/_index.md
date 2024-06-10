@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.dom.css/icssmediarule/insert_rule/
+url: /python-net/aspose.html.dom.css/icssmediarule/insert_rule/
 is_root: false
 ---
 

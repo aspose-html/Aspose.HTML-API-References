@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /aspose.html.dom.svg.events/timeevent/target/
+url: /python-net/aspose.html.dom.svg.events/timeevent/target/
 is_root: false
 ---
 

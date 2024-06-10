@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 210
-url: /aspose.html.dom.events/errorevent/line_no/
+url: /python-net/aspose.html.dom.events/errorevent/line_no/
 is_root: false
 ---
 

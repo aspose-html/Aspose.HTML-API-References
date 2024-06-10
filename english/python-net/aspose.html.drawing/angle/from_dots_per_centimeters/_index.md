@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.html.drawing/angle/from_dots_per_centimeters/
+url: /python-net/aspose.html.drawing/angle/from_dots_per_centimeters/
 is_root: false
 ---
 

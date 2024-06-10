@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 620
-url: /aspose.html/htmlmodelement/date_time/
+url: /python-net/aspose.html/htmlmodelement/date_time/
 is_root: false
 ---
 

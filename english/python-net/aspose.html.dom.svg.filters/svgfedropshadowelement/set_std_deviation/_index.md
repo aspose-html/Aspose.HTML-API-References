@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 400
-url: /aspose.html.dom.svg.filters/svgfedropshadowelement/set_std_deviation/
+url: /python-net/aspose.html.dom.svg.filters/svgfedropshadowelement/set_std_deviation/
 is_root: false
 ---
 

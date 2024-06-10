@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.html.toolkit.optimizers/svgoptimizationoptions/path_optimization_options/
+url: /python-net/aspose.html.toolkit.optimizers/svgoptimizationoptions/path_optimization_options/
 is_root: false
 ---
 

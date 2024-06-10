@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 250
-url: /aspose.html/htmltablecaptionelement/lookup_prefix/
+url: /python-net/aspose.html/htmltablecaptionelement/lookup_prefix/
 is_root: false
 ---
 

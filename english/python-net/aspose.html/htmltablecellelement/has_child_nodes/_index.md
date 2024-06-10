@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 190
-url: /aspose.html/htmltablecellelement/has_child_nodes/
+url: /python-net/aspose.html/htmltablecellelement/has_child_nodes/
 is_root: false
 ---
 

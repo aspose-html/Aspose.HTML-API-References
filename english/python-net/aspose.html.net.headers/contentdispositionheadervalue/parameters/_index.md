@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.html.net.headers/contentdispositionheadervalue/parameters/
+url: /python-net/aspose.html.net.headers/contentdispositionheadervalue/parameters/
 is_root: false
 ---
 

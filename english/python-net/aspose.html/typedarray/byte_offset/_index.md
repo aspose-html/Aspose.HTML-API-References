@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.html/typedarray/byte_offset/
+url: /python-net/aspose.html/typedarray/byte_offset/
 is_root: false
 ---
 

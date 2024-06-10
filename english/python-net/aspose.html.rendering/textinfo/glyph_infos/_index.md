@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.rendering/textinfo/glyph_infos/
+url: /python-net/aspose.html.rendering/textinfo/glyph_infos/
 is_root: false
 ---
 

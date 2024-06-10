@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.drawing/isolidbrush/color/
+url: /python-net/aspose.html.drawing/isolidbrush/color/
 is_root: false
 ---
 

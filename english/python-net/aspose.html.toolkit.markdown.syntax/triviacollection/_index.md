@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 580
-url: /aspose.html.toolkit.markdown.syntax/triviacollection/
+url: /python-net/aspose.html.toolkit.markdown.syntax/triviacollection/
 is_root: false
 ---
 

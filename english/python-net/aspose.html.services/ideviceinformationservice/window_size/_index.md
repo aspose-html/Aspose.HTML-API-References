@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.html.services/ideviceinformationservice/window_size/
+url: /python-net/aspose.html.services/ideviceinformationservice/window_size/
 is_root: false
 ---
 

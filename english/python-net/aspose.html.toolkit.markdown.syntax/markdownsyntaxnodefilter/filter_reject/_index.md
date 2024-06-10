@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/filter_reject/
+url: /python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/filter_reject/
 is_root: false
 ---
 

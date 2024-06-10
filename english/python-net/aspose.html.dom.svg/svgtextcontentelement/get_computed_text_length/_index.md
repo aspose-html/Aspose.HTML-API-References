@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.html.dom.svg/svgtextcontentelement/get_computed_text_length/
+url: /python-net/aspose.html.dom.svg/svgtextcontentelement/get_computed_text_length/
 is_root: false
 ---
 

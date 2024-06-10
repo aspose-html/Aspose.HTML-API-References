@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.html.rendering/atpagepriority/
+url: /python-net/aspose.html.rendering/atpagepriority/
 is_root: false
 ---
 

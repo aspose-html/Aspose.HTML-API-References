@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.html.rendering.pdf/pdfdevice/fill/
+url: /python-net/aspose.html.rendering.pdf/pdfdevice/fill/
 is_root: false
 ---
 

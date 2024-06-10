@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.html.dom.canvas/icanvasrenderingcontext2d/clip/
+url: /python-net/aspose.html.dom.canvas/icanvasrenderingcontext2d/clip/
 is_root: false
 ---
 

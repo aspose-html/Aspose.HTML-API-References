@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.html/htmlnoscriptelement/attach_shadow/
+url: /python-net/aspose.html/htmlnoscriptelement/attach_shadow/
 is_root: false
 ---
 

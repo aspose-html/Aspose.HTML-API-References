@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 380
-url: /aspose.html.dom.canvas/icanvasrenderingcontext2d/stroke/
+url: /python-net/aspose.html.dom.canvas/icanvasrenderingcontext2d/stroke/
 is_root: false
 ---
 

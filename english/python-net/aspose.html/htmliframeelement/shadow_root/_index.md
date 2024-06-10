@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 910
-url: /aspose.html/htmliframeelement/shadow_root/
+url: /python-net/aspose.html/htmliframeelement/shadow_root/
 is_root: false
 ---
 

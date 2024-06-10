@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.html.drawing/unittype/dppx/
+url: /python-net/aspose.html.drawing/unittype/dppx/
 is_root: false
 ---
 

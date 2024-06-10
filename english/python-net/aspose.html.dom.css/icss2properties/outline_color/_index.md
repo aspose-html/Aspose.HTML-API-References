@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 780
-url: /aspose.html.dom.css/icss2properties/outline_color/
+url: /python-net/aspose.html.dom.css/icss2properties/outline_color/
 is_root: false
 ---
 

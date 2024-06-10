@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.html/htmldocument/create_cdata_section/
+url: /python-net/aspose.html/htmldocument/create_cdata_section/
 is_root: false
 ---
 

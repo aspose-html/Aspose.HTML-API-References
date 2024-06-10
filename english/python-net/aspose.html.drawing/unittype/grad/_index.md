@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.html.drawing/unittype/grad/
+url: /python-net/aspose.html.drawing/unittype/grad/
 is_root: false
 ---
 

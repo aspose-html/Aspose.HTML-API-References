@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 360
-url: /aspose.html/htmltablerowelement/remove_event_listener/
+url: /python-net/aspose.html/htmltablerowelement/remove_event_listener/
 is_root: false
 ---
 

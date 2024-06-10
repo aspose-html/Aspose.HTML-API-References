@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 960
-url: /aspose.html.dom.svg/svgsymbolelement/view_box/
+url: /python-net/aspose.html.dom.svg/svgsymbolelement/view_box/
 is_root: false
 ---
 

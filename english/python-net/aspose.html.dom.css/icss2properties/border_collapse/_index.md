@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /aspose.html.dom.css/icss2properties/border_collapse/
+url: /python-net/aspose.html.dom.css/icss2properties/border_collapse/
 is_root: false
 ---
 

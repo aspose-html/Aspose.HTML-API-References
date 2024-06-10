@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 330
-url: /aspose.html/htmloptionelement/remove_child/
+url: /python-net/aspose.html/htmloptionelement/remove_child/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 360
-url: /aspose.html.dom.svg/svgforeignobjectelement/remove_child/
+url: /python-net/aspose.html.dom.svg/svgforeignobjectelement/remove_child/
 is_root: false
 ---
 

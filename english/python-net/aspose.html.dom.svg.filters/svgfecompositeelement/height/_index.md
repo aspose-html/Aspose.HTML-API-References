@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 700
-url: /aspose.html.dom.svg.filters/svgfecompositeelement/height/
+url: /python-net/aspose.html.dom.svg.filters/svgfecompositeelement/height/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.html.accessibility/target/
+url: /python-net/aspose.html.accessibility/target/
 is_root: false
 ---
 

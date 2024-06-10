@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.html.rendering.pdf/pdfrenderingoptions/form_field_behaviour/
+url: /python-net/aspose.html.rendering.pdf/pdfrenderingoptions/form_field_behaviour/
 is_root: false
 ---
 

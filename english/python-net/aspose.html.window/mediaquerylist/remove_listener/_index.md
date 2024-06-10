@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.html.window/mediaquerylist/remove_listener/
+url: /python-net/aspose.html.window/mediaquerylist/remove_listener/
 is_root: false
 ---
 

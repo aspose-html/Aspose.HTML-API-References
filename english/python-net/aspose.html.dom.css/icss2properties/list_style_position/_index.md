@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 630
-url: /aspose.html.dom.css/icss2properties/list_style_position/
+url: /python-net/aspose.html.dom.css/icss2properties/list_style_position/
 is_root: false
 ---
 

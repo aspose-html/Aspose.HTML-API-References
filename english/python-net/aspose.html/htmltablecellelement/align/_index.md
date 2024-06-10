@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 550
-url: /aspose.html/htmltablecellelement/align/
+url: /python-net/aspose.html/htmltablecellelement/align/
 is_root: false
 ---
 

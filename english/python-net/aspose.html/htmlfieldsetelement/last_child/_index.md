@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 680
-url: /aspose.html/htmlfieldsetelement/last_child/
+url: /python-net/aspose.html/htmlfieldsetelement/last_child/
 is_root: false
 ---
 

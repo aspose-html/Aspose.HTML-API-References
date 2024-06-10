@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 870
-url: /aspose.html/htmlhrelement/style/
+url: /python-net/aspose.html/htmlhrelement/style/
 is_root: false
 ---
 

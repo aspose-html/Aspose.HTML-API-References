@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 680
-url: /aspose.html/htmltextareaelement/form/
+url: /python-net/aspose.html/htmltextareaelement/form/
 is_root: false
 ---
 

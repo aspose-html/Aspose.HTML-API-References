@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.html.rendering/graphiccontext/line_dash_pattern/
+url: /python-net/aspose.html.rendering/graphiccontext/line_dash_pattern/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.html.dom.mutations/mutationrecord/removed_nodes/
+url: /python-net/aspose.html.dom.mutations/mutationrecord/removed_nodes/
 is_root: false
 ---
 

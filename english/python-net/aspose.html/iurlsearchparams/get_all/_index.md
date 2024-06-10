@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.html/iurlsearchparams/get_all/
+url: /python-net/aspose.html/iurlsearchparams/get_all/
 is_root: false
 ---
 

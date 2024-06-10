@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 320
-url: /aspose.html/htmlparagraphelement/remove_attribute_ns/
+url: /python-net/aspose.html/htmlparagraphelement/remove_attribute_ns/
 is_root: false
 ---
 

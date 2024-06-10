@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 490
-url: /aspose.html.dom/documenttype/system_id/
+url: /python-net/aspose.html.dom/documenttype/system_id/
 is_root: false
 ---
 

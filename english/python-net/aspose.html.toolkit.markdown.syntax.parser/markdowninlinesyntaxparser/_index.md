@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/
+url: /python-net/aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/
 is_root: false
 ---
 

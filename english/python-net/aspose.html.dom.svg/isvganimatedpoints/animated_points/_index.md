@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.dom.svg/isvganimatedpoints/animated_points/
+url: /python-net/aspose.html.dom.svg/isvganimatedpoints/animated_points/
 is_root: false
 ---
 

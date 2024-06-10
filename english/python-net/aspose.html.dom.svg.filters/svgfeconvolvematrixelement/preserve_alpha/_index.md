@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 940
-url: /aspose.html.dom.svg.filters/svgfeconvolvematrixelement/preserve_alpha/
+url: /python-net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/preserve_alpha/
 is_root: false
 ---
 

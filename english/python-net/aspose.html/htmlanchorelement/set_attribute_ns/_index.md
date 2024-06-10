@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 410
-url: /aspose.html/htmlanchorelement/set_attribute_ns/
+url: /python-net/aspose.html/htmlanchorelement/set_attribute_ns/
 is_root: false
 ---
 

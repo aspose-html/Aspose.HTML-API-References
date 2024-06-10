@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 190
-url: /aspose.html.dom.svg.datatypes/svgpreserveaspectratio/meet_or_slice/
+url: /python-net/aspose.html.dom.svg.datatypes/svgpreserveaspectratio/meet_or_slice/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 420
-url: /aspose.html.toolkit.markdown.syntax/orderedlistsyntaxnode/
+url: /python-net/aspose.html.toolkit.markdown.syntax/orderedlistsyntaxnode/
 is_root: false
 ---
 

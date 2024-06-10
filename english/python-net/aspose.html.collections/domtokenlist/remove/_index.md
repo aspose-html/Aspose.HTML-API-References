@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.html.collections/domtokenlist/remove/
+url: /python-net/aspose.html.collections/domtokenlist/remove/
 is_root: false
 ---
 

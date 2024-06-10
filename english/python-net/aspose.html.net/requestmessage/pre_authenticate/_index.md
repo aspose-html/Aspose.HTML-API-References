@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.html.net/requestmessage/pre_authenticate/
+url: /python-net/aspose.html.net/requestmessage/pre_authenticate/
 is_root: false
 ---
 

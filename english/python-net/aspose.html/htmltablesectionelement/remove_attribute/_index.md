@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 320
-url: /aspose.html/htmltablesectionelement/remove_attribute/
+url: /python-net/aspose.html/htmltablesectionelement/remove_attribute/
 is_root: false
 ---
 

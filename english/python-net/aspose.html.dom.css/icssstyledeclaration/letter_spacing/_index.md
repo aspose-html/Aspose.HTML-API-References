@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 660
-url: /aspose.html.dom.css/icssstyledeclaration/letter_spacing/
+url: /python-net/aspose.html.dom.css/icssstyledeclaration/letter_spacing/
 is_root: false
 ---
 

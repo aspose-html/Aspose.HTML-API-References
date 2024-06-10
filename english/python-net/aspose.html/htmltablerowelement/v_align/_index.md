@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 970
-url: /aspose.html/htmltablerowelement/v_align/
+url: /python-net/aspose.html/htmltablerowelement/v_align/
 is_root: false
 ---
 

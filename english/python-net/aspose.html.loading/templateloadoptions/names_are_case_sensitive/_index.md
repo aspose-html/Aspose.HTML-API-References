@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.loading/templateloadoptions/names_are_case_sensitive/
+url: /python-net/aspose.html.loading/templateloadoptions/names_are_case_sensitive/
 is_root: false
 ---
 

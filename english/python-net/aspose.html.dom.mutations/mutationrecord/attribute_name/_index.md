@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.html.dom.mutations/mutationrecord/attribute_name/
+url: /python-net/aspose.html.dom.mutations/mutationrecord/attribute_name/
 is_root: false
 ---
 

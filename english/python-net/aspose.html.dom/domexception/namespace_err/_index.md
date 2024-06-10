@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /aspose.html.dom/domexception/namespace_err/
+url: /python-net/aspose.html.dom/domexception/namespace_err/
 is_root: false
 ---
 

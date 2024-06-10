@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.html.forms/formeditor/create_new/
+url: /python-net/aspose.html.forms/formeditor/create_new/
 is_root: false
 ---
 

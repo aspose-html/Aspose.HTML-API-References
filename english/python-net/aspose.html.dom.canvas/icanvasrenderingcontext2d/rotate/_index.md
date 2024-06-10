@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 330
-url: /aspose.html.dom.canvas/icanvasrenderingcontext2d/rotate/
+url: /python-net/aspose.html.dom.canvas/icanvasrenderingcontext2d/rotate/
 is_root: false
 ---
 

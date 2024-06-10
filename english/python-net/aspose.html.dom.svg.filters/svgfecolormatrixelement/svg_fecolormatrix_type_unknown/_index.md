@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 570
-url: /aspose.html.dom.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_unknown/
+url: /python-net/aspose.html.dom.svg.filters/svgfecolormatrixelement/svg_fecolormatrix_type_unknown/
 is_root: false
 ---
 

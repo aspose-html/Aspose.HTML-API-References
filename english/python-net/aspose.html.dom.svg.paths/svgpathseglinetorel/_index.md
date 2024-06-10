@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.html.dom.svg.paths/svgpathseglinetorel/
+url: /python-net/aspose.html.dom.svg.paths/svgpathseglinetorel/
 is_root: false
 ---
 

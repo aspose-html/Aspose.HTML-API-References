@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.html.dom.svg.events/svgzoomevent/is_trusted/
+url: /python-net/aspose.html.dom.svg.events/svgzoomevent/is_trusted/
 is_root: false
 ---
 

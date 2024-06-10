@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 470
-url: /aspose.html.dom.css/icss2properties/empty_cells/
+url: /python-net/aspose.html.dom.css/icss2properties/empty_cells/
 is_root: false
 ---
 

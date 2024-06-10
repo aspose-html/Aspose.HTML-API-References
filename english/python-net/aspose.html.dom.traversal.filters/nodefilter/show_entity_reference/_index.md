@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.html.dom.traversal.filters/nodefilter/show_entity_reference/
+url: /python-net/aspose.html.dom.traversal.filters/nodefilter/show_entity_reference/
 is_root: false
 ---
 

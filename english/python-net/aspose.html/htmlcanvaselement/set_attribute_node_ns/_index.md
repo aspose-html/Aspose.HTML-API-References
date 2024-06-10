@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 390
-url: /aspose.html/htmlcanvaselement/set_attribute_node_ns/
+url: /python-net/aspose.html/htmlcanvaselement/set_attribute_node_ns/
 is_root: false
 ---
 

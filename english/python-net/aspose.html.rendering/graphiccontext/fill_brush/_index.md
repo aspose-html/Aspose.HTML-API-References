@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.html.rendering/graphiccontext/fill_brush/
+url: /python-net/aspose.html.rendering/graphiccontext/fill_brush/
 is_root: false
 ---
 

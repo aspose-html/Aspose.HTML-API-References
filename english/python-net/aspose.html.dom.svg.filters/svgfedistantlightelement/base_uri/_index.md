@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 560
-url: /aspose.html.dom.svg.filters/svgfedistantlightelement/base_uri/
+url: /python-net/aspose.html.dom.svg.filters/svgfedistantlightelement/base_uri/
 is_root: false
 ---
 

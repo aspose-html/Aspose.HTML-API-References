@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 540
-url: /aspose.html/htmltablecaptionelement/align/
+url: /python-net/aspose.html/htmltablecaptionelement/align/
 is_root: false
 ---
 

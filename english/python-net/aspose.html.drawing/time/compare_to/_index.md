@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.html.drawing/time/compare_to/
+url: /python-net/aspose.html.drawing/time/compare_to/
 is_root: false
 ---
 

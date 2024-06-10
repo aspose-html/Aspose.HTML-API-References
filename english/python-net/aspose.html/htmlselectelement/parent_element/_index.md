@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 840
-url: /aspose.html/htmlselectelement/parent_element/
+url: /python-net/aspose.html/htmlselectelement/parent_element/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.html.saving.resourcehandlers/resourcehandler/
+url: /python-net/aspose.html.saving.resourcehandlers/resourcehandler/
 is_root: false
 ---
 

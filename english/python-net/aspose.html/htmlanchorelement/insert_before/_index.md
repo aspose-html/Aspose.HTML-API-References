@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 220
-url: /aspose.html/htmlanchorelement/insert_before/
+url: /python-net/aspose.html/htmlanchorelement/insert_before/
 is_root: false
 ---
 

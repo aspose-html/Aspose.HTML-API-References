@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 330
-url: /aspose.html.drawing/color/to_rgb_hex_string/
+url: /python-net/aspose.html.drawing/color/to_rgb_hex_string/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/indented_code/
+url: /python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/indented_code/
 is_root: false
 ---
 

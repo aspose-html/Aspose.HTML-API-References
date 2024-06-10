@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.html/htmldlistelement/get_attribute_ns/
+url: /python-net/aspose.html/htmldlistelement/get_attribute_ns/
 is_root: false
 ---
 

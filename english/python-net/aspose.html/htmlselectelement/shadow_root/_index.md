@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 900
-url: /aspose.html/htmlselectelement/shadow_root/
+url: /python-net/aspose.html/htmlselectelement/shadow_root/
 is_root: false
 ---
 

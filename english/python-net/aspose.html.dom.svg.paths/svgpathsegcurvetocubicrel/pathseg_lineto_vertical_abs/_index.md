@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 190
-url: /aspose.html.dom.svg.paths/svgpathsegcurvetocubicrel/pathseg_lineto_vertical_abs/
+url: /python-net/aspose.html.dom.svg.paths/svgpathsegcurvetocubicrel/pathseg_lineto_vertical_abs/
 is_root: false
 ---
 

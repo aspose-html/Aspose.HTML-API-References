@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 960
-url: /aspose.html.dom.svg/svgellipseelement/ry/
+url: /python-net/aspose.html.dom.svg/svgellipseelement/ry/
 is_root: false
 ---
 

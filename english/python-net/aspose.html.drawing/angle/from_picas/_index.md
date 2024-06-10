@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /aspose.html.drawing/angle/from_picas/
+url: /python-net/aspose.html.drawing/angle/from_picas/
 is_root: false
 ---
 

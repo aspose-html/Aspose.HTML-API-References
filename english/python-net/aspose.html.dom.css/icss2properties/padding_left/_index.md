@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 840
-url: /aspose.html.dom.css/icss2properties/padding_left/
+url: /python-net/aspose.html.dom.css/icss2properties/padding_left/
 is_root: false
 ---
 

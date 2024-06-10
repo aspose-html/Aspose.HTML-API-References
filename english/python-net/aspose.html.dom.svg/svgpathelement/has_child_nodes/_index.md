@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 440
-url: /aspose.html.dom.svg/svgpathelement/has_child_nodes/
+url: /python-net/aspose.html.dom.svg/svgpathelement/has_child_nodes/
 is_root: false
 ---
 

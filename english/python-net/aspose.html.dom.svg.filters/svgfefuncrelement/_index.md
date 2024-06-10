@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 150
-url: /aspose.html.dom.svg.filters/svgfefuncrelement/
+url: /python-net/aspose.html.dom.svg.filters/svgfefuncrelement/
 is_root: false
 ---
 

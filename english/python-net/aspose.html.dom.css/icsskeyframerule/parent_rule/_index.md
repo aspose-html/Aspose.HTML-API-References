@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.html.dom.css/icsskeyframerule/parent_rule/
+url: /python-net/aspose.html.dom.css/icsskeyframerule/parent_rule/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 640
-url: /aspose.html/htmlfontelement/first_child/
+url: /python-net/aspose.html/htmlfontelement/first_child/
 is_root: false
 ---
 

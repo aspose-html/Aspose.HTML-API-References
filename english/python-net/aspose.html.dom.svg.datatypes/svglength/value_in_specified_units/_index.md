@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /aspose.html.dom.svg.datatypes/svglength/value_in_specified_units/
+url: /python-net/aspose.html.dom.svg.datatypes/svglength/value_in_specified_units/
 is_root: false
 ---
 

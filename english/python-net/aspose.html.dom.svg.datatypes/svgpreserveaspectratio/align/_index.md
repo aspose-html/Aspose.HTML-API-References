@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 180
-url: /aspose.html.dom.svg.datatypes/svgpreserveaspectratio/align/
+url: /python-net/aspose.html.dom.svg.datatypes/svgpreserveaspectratio/align/
 is_root: false
 ---
 

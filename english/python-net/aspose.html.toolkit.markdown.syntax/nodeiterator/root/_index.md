@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.html.toolkit.markdown.syntax/nodeiterator/root/
+url: /python-net/aspose.html.toolkit.markdown.syntax/nodeiterator/root/
 is_root: false
 ---
 

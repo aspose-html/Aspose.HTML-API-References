@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 400
-url: /aspose.html.toolkit.markdown.syntax/nodelist/
+url: /python-net/aspose.html.toolkit.markdown.syntax/nodelist/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 260
-url: /aspose.html.forms/inputelement/set_week_value/
+url: /python-net/aspose.html.forms/inputelement/set_week_value/
 is_root: false
 ---
 

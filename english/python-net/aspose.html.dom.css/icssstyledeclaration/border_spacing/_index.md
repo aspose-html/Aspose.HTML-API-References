@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 300
-url: /aspose.html.dom.css/icssstyledeclaration/border_spacing/
+url: /python-net/aspose.html.dom.css/icssstyledeclaration/border_spacing/
 is_root: false
 ---
 

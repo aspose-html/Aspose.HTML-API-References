@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 280
-url: /aspose.html/htmltableelement/insert_row/
+url: /python-net/aspose.html/htmltableelement/insert_row/
 is_root: false
 ---
 

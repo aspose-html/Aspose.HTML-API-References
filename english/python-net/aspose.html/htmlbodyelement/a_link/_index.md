@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 540
-url: /aspose.html/htmlbodyelement/a_link/
+url: /python-net/aspose.html/htmlbodyelement/a_link/
 is_root: false
 ---
 

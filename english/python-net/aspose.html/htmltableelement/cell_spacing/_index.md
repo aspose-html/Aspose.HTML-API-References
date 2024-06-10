@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 690
-url: /aspose.html/htmltableelement/cell_spacing/
+url: /python-net/aspose.html/htmltableelement/cell_spacing/
 is_root: false
 ---
 

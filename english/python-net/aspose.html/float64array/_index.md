@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.html/float64array/
+url: /python-net/aspose.html/float64array/
 is_root: false
 ---
 

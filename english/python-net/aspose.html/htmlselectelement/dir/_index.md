@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 610
-url: /aspose.html/htmlselectelement/dir/
+url: /python-net/aspose.html/htmlselectelement/dir/
 is_root: false
 ---
 

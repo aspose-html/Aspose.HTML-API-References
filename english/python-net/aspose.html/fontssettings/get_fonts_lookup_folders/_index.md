@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.html/fontssettings/get_fonts_lookup_folders/
+url: /python-net/aspose.html/fontssettings/get_fonts_lookup_folders/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.html.dom.canvas/icanvaspathmethods/rect/
+url: /python-net/aspose.html.dom.canvas/icanvaspathmethods/rect/
 is_root: false
 ---
 

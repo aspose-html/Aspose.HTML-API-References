@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 690
-url: /aspose.html.dom.svg/svgradialgradientelement/fr/
+url: /python-net/aspose.html.dom.svg/svgradialgradientelement/fr/
 is_root: false
 ---
 

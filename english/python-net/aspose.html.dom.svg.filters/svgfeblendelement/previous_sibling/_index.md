@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 1020
-url: /aspose.html.dom.svg.filters/svgfeblendelement/previous_sibling/
+url: /python-net/aspose.html.dom.svg.filters/svgfeblendelement/previous_sibling/
 is_root: false
 ---
 

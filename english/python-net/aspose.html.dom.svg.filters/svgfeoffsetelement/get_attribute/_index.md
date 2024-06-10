@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.html.dom.svg.filters/svgfeoffsetelement/get_attribute/
+url: /python-net/aspose.html.dom.svg.filters/svgfeoffsetelement/get_attribute/
 is_root: false
 ---
 

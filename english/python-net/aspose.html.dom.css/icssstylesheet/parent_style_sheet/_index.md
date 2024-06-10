@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 110
-url: /aspose.html.dom.css/icssstylesheet/parent_style_sheet/
+url: /python-net/aspose.html.dom.css/icssstylesheet/parent_style_sheet/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 620
-url: /aspose.html.dom.svg/svgtextcontentelement/attributes/
+url: /python-net/aspose.html.dom.svg/svgtextcontentelement/attributes/
 is_root: false
 ---
 

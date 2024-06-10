@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.html.dom.events/keyboardevent/dom_key_location_numpad/
+url: /python-net/aspose.html.dom.events/keyboardevent/dom_key_location_numpad/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 780
-url: /aspose.html.dom.css/icssstyledeclaration/marks/
+url: /python-net/aspose.html.dom.css/icssstyledeclaration/marks/
 is_root: false
 ---
 

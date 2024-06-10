@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.dom.canvas/icanvasrenderingcontext2d/arc_to/
+url: /python-net/aspose.html.dom.canvas/icanvasrenderingcontext2d/arc_to/
 is_root: false
 ---
 

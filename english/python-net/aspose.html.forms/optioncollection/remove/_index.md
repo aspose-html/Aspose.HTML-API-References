@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.forms/optioncollection/remove/
+url: /python-net/aspose.html.forms/optioncollection/remove/
 is_root: false
 ---
 

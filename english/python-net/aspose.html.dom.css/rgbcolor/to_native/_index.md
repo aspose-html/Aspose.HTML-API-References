@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.dom.css/rgbcolor/to_native/
+url: /python-net/aspose.html.dom.css/rgbcolor/to_native/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 290
-url: /aspose.html.dom.css/icss2properties/border_top_style/
+url: /python-net/aspose.html.dom.css/icss2properties/border_top_style/
 is_root: false
 ---
 

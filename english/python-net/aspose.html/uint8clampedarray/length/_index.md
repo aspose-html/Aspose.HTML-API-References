@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.html/uint8clampedarray/length/
+url: /python-net/aspose.html/uint8clampedarray/length/
 is_root: false
 ---
 

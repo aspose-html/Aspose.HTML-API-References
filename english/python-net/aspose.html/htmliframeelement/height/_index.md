@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 660
-url: /aspose.html/htmliframeelement/height/
+url: /python-net/aspose.html/htmliframeelement/height/
 is_root: false
 ---
 

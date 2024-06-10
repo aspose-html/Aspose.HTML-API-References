@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.html.rendering/renderingoptions/vertical_resolution/
+url: /python-net/aspose.html.rendering/renderingoptions/vertical_resolution/
 is_root: false
 ---
 

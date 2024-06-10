@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 680
-url: /aspose.html/htmlfontelement/lang/
+url: /python-net/aspose.html/htmlfontelement/lang/
 is_root: false
 ---
 

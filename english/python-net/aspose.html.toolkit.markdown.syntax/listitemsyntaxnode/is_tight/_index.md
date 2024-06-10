@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.html.toolkit.markdown.syntax/listitemsyntaxnode/is_tight/
+url: /python-net/aspose.html.toolkit.markdown.syntax/listitemsyntaxnode/is_tight/
 is_root: false
 ---
 

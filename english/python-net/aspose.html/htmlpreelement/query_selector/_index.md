@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 270
-url: /aspose.html/htmlpreelement/query_selector/
+url: /python-net/aspose.html/htmlpreelement/query_selector/
 is_root: false
 ---
 

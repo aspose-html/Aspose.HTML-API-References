@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 570
-url: /aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_turbulence_type_turbulence/
+url: /python-net/aspose.html.dom.svg.filters/svgfeturbulenceelement/svg_turbulence_type_turbulence/
 is_root: false
 ---
 

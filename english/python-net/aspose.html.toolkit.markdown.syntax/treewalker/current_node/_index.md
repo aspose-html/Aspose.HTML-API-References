@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.html.toolkit.markdown.syntax/treewalker/current_node/
+url: /python-net/aspose.html.toolkit.markdown.syntax/treewalker/current_node/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.html.drawing/unit/equals/
+url: /python-net/aspose.html.drawing/unit/equals/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 730
-url: /aspose.html/int8array/
+url: /python-net/aspose.html/int8array/
 is_root: false
 ---
 

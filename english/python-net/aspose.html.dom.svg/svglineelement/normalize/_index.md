@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 320
-url: /aspose.html.dom.svg/svglineelement/normalize/
+url: /python-net/aspose.html.dom.svg/svglineelement/normalize/
 is_root: false
 ---
 

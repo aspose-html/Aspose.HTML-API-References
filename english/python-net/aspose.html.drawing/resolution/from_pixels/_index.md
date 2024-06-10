@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /aspose.html.drawing/resolution/from_pixels/
+url: /python-net/aspose.html.drawing/resolution/from_pixels/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 10
-url: /aspose.html.io/filecreatestreamprovider/
+url: /python-net/aspose.html.io/filecreatestreamprovider/
 is_root: false
 ---
 

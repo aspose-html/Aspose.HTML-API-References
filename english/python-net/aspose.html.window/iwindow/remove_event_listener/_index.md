@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.html.window/iwindow/remove_event_listener/
+url: /python-net/aspose.html.window/iwindow/remove_event_listener/
 is_root: false
 ---
 

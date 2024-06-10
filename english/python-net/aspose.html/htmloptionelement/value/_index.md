@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 950
-url: /aspose.html/htmloptionelement/value/
+url: /python-net/aspose.html/htmloptionelement/value/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 400
-url: /aspose.html.dom.events/wheelevent/view/
+url: /python-net/aspose.html.dom.events/wheelevent/view/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.dom.css/ilinkstyle/sheet/
+url: /python-net/aspose.html.dom.css/ilinkstyle/sheet/
 is_root: false
 ---
 

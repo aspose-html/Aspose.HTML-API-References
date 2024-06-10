@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 1110
-url: /aspose.html.dom.css/icssstyledeclaration/speak_header/
+url: /python-net/aspose.html.dom.css/icssstyledeclaration/speak_header/
 is_root: false
 ---
 

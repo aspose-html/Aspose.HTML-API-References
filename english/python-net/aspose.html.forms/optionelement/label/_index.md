@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.html.forms/optionelement/label/
+url: /python-net/aspose.html.forms/optionelement/label/
 is_root: false
 ---
 

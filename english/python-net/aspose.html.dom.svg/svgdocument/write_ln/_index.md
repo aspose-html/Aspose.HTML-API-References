@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 470
-url: /aspose.html.dom.svg/svgdocument/write_ln/
+url: /python-net/aspose.html.dom.svg/svgdocument/write_ln/
 is_root: false
 ---
 

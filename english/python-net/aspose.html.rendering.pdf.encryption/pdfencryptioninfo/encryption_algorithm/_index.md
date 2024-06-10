@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.rendering.pdf.encryption/pdfencryptioninfo/encryption_algorithm/
+url: /python-net/aspose.html.rendering.pdf.encryption/pdfencryptioninfo/encryption_algorithm/
 is_root: false
 ---
 

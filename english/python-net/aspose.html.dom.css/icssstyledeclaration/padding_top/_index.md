@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 930
-url: /aspose.html.dom.css/icssstyledeclaration/padding_top/
+url: /python-net/aspose.html.dom.css/icssstyledeclaration/padding_top/
 is_root: false
 ---
 

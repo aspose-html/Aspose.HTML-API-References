@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 360
-url: /aspose.html.dom.canvas/icanvasrenderingcontext2d/set_line_dash/
+url: /python-net/aspose.html.dom.canvas/icanvasrenderingcontext2d/set_line_dash/
 is_root: false
 ---
 

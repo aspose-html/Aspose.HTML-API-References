@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.html.collections/namednodemap/set_named_item_ns/
+url: /python-net/aspose.html.collections/namednodemap/set_named_item_ns/
 is_root: false
 ---
 

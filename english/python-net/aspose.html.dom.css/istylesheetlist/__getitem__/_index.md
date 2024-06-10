@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.html.dom.css/istylesheetlist/__getitem__/
+url: /python-net/aspose.html.dom.css/istylesheetlist/__getitem__/
 is_root: false
 ---
 

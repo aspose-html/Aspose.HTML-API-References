@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 790
-url: /aspose.html/htmlinputelement/list/
+url: /python-net/aspose.html/htmlinputelement/list/
 is_root: false
 ---
 

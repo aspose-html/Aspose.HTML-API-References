@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.html/htmltablecaptionelement/get_elements_by_tag_name_ns/
+url: /python-net/aspose.html/htmltablecaptionelement/get_elements_by_tag_name_ns/
 is_root: false
 ---
 

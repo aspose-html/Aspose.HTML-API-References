@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 640
-url: /aspose.html.dom.svg/svgtitleelement/inner_html/
+url: /python-net/aspose.html.dom.svg/svgtitleelement/inner_html/
 is_root: false
 ---
 

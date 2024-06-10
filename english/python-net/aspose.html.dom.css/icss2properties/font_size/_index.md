@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 510
-url: /aspose.html.dom.css/icss2properties/font_size/
+url: /python-net/aspose.html.dom.css/icss2properties/font_size/
 is_root: false
 ---
 

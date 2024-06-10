@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.html.dom.events/documentloaderrorevent/col_no/
+url: /python-net/aspose.html.dom.events/documentloaderrorevent/col_no/
 is_root: false
 ---
 

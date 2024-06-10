@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.html.drawing/ilineargradientbrush/end_point/
+url: /python-net/aspose.html.drawing/ilineargradientbrush/end_point/
 is_root: false
 ---
 

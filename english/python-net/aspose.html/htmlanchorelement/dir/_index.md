@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 660
-url: /aspose.html/htmlanchorelement/dir/
+url: /python-net/aspose.html/htmlanchorelement/dir/
 is_root: false
 ---
 

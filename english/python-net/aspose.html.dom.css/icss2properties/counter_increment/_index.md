@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 380
-url: /aspose.html.dom.css/icss2properties/counter_increment/
+url: /python-net/aspose.html.dom.css/icss2properties/counter_increment/
 is_root: false
 ---
 

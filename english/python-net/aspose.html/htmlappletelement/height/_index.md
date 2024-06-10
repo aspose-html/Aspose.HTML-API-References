@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 690
-url: /aspose.html/htmlappletelement/height/
+url: /python-net/aspose.html/htmlappletelement/height/
 is_root: false
 ---
 

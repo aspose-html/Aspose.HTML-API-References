@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.html.dom.events/uievent/bubbles/
+url: /python-net/aspose.html.dom.events/uievent/bubbles/
 is_root: false
 ---
 

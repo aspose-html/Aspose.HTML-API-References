@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 880
-url: /aspose.html/htmlareaelement/rel_list/
+url: /python-net/aspose.html/htmlareaelement/rel_list/
 is_root: false
 ---
 

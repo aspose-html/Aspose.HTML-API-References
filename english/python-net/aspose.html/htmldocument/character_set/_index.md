@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 650
-url: /aspose.html/htmldocument/character_set/
+url: /python-net/aspose.html/htmldocument/character_set/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.html.rendering.pdf/pdfrenderingoptions/is_tagged_pdf/
+url: /python-net/aspose.html.rendering.pdf/pdfrenderingoptions/is_tagged_pdf/
 is_root: false
 ---
 

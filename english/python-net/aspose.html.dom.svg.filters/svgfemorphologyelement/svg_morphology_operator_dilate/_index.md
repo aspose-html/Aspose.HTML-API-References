@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 530
-url: /aspose.html.dom.svg.filters/svgfemorphologyelement/svg_morphology_operator_dilate/
+url: /python-net/aspose.html.dom.svg.filters/svgfemorphologyelement/svg_morphology_operator_dilate/
 is_root: false
 ---
 

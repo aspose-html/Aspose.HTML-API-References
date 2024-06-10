@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.html.dom.mutations/mutationobserver/disconnect/
+url: /python-net/aspose.html.dom.mutations/mutationobserver/disconnect/
 is_root: false
 ---
 

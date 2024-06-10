@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.html.saving/htmlsaveoptions/serialize_input_value/
+url: /python-net/aspose.html.saving/htmlsaveoptions/serialize_input_value/
 is_root: false
 ---
 

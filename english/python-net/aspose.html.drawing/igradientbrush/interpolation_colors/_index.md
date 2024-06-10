@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.html.drawing/igradientbrush/interpolation_colors/
+url: /python-net/aspose.html.drawing/igradientbrush/interpolation_colors/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 900
-url: /aspose.html/htmlframeelement/scrolling/
+url: /python-net/aspose.html/htmlframeelement/scrolling/
 is_root: false
 ---
 

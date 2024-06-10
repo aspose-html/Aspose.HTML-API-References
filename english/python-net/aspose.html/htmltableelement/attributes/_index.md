@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 630
-url: /aspose.html/htmltableelement/attributes/
+url: /python-net/aspose.html/htmltableelement/attributes/
 is_root: false
 ---
 

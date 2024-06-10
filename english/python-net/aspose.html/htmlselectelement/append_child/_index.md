@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html/htmlselectelement/append_child/
+url: /python-net/aspose.html/htmlselectelement/append_child/
 is_root: false
 ---
 

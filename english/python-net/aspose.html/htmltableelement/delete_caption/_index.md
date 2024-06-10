@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 90
-url: /aspose.html/htmltableelement/delete_caption/
+url: /python-net/aspose.html/htmltableelement/delete_caption/
 is_root: false
 ---
 

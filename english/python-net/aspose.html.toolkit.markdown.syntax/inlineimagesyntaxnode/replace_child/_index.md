@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.html.toolkit.markdown.syntax/inlineimagesyntaxnode/replace_child/
+url: /python-net/aspose.html.toolkit.markdown.syntax/inlineimagesyntaxnode/replace_child/
 is_root: false
 ---
 

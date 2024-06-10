@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 530
-url: /aspose.html.dom.css/cssprimitivevalue/css_value_type/
+url: /python-net/aspose.html.dom.css/cssprimitivevalue/css_value_type/
 is_root: false
 ---
 

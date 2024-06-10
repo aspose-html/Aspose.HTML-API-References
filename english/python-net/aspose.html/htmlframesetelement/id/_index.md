@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 650
-url: /aspose.html/htmlframesetelement/id/
+url: /python-net/aspose.html/htmlframesetelement/id/
 is_root: false
 ---
 

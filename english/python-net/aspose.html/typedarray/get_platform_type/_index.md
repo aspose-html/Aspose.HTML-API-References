@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.html/typedarray/get_platform_type/
+url: /python-net/aspose.html/typedarray/get_platform_type/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.html.dom.mutations/mutationobserverinit/subtree/
+url: /python-net/aspose.html.dom.mutations/mutationobserverinit/subtree/
 is_root: false
 ---
 

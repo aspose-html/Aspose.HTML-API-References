@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 510
-url: /aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/
+url: /python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/
 is_root: false
 ---
 

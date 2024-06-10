@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.services/iruntimeservice/
+url: /python-net/aspose.html.services/iruntimeservice/
 is_root: false
 ---
 

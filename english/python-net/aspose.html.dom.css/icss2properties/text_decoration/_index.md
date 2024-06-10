@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 1100
-url: /aspose.html.dom.css/icss2properties/text_decoration/
+url: /python-net/aspose.html.dom.css/icss2properties/text_decoration/
 is_root: false
 ---
 

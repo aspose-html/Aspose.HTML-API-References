@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.html.drawing/lengthorauto/from_millimeters/
+url: /python-net/aspose.html.drawing/lengthorauto/from_millimeters/
 is_root: false
 ---
 

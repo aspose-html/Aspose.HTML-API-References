@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.html.toolkit.optimizers/svgoptimizationoptions/remove_unused_namespaces/
+url: /python-net/aspose.html.toolkit.optimizers/svgoptimizationoptions/remove_unused_namespaces/
 is_root: false
 ---
 

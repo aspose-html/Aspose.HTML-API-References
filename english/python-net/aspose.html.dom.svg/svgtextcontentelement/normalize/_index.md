@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 310
-url: /aspose.html.dom.svg/svgtextcontentelement/normalize/
+url: /python-net/aspose.html.dom.svg/svgtextcontentelement/normalize/
 is_root: false
 ---
 

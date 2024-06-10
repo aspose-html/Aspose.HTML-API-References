@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 1060
-url: /aspose.html.dom.css/icss2properties/speech_rate/
+url: /python-net/aspose.html.dom.css/icss2properties/speech_rate/
 is_root: false
 ---
 

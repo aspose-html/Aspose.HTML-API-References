@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 270
-url: /aspose.html.dom.events/mouseevent/screen_x/
+url: /python-net/aspose.html.dom.events/mouseevent/screen_x/
 is_root: false
 ---
 

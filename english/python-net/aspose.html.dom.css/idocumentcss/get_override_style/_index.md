@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.html.dom.css/idocumentcss/get_override_style/
+url: /python-net/aspose.html.dom.css/idocumentcss/get_override_style/
 is_root: false
 ---
 

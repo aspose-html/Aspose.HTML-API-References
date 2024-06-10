@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 160
-url: /aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visit_link/
+url: /python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visit_link/
 is_root: false
 ---
 

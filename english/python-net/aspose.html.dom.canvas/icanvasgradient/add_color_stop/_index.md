@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.html.dom.canvas/icanvasgradient/add_color_stop/
+url: /python-net/aspose.html.dom.canvas/icanvasgradient/add_color_stop/
 is_root: false
 ---
 

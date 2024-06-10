@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 100
-url: /aspose.html.toolkit.optimizers/svgoptimizationoptions/remove_hidden_elements/
+url: /python-net/aspose.html.toolkit.optimizers/svgoptimizationoptions/remove_hidden_elements/
 is_root: false
 ---
 

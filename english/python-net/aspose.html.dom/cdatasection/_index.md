@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.html.dom/cdatasection/
+url: /python-net/aspose.html.dom/cdatasection/
 is_root: false
 ---
 

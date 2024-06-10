@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.dom.svg.paths/isvganimatedpathdata/animated_path_seg_list/
+url: /python-net/aspose.html.dom.svg.paths/isvganimatedpathdata/animated_path_seg_list/
 is_root: false
 ---
 

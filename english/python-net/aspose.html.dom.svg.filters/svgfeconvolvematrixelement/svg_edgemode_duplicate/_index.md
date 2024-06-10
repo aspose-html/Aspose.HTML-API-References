@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 530
-url: /aspose.html.dom.svg.filters/svgfeconvolvematrixelement/svg_edgemode_duplicate/
+url: /python-net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/svg_edgemode_duplicate/
 is_root: false
 ---
 

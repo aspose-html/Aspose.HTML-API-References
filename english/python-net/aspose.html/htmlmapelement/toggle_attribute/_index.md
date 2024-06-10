@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 400
-url: /aspose.html/htmlmapelement/toggle_attribute/
+url: /python-net/aspose.html/htmlmapelement/toggle_attribute/
 is_root: false
 ---
 

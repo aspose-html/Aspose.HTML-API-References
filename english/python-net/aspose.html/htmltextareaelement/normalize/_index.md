@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 260
-url: /aspose.html/htmltextareaelement/normalize/
+url: /python-net/aspose.html/htmltextareaelement/normalize/
 is_root: false
 ---
 

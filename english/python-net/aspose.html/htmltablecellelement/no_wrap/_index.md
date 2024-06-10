@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 830
-url: /aspose.html/htmltablecellelement/no_wrap/
+url: /python-net/aspose.html/htmltablecellelement/no_wrap/
 is_root: false
 ---
 

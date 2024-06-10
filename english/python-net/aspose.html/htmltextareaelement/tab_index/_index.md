@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 930
-url: /aspose.html/htmltextareaelement/tab_index/
+url: /python-net/aspose.html/htmltextareaelement/tab_index/
 is_root: false
 ---
 

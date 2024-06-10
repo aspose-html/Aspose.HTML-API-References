@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.html.services/iuseragentservice/language/
+url: /python-net/aspose.html.services/iuseragentservice/language/
 is_root: false
 ---
 

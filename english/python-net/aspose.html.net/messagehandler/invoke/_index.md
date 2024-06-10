@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.html.net/messagehandler/invoke/
+url: /python-net/aspose.html.net/messagehandler/invoke/
 is_root: false
 ---
 

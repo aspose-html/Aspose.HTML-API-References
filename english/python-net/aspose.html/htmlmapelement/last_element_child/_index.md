@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 690
-url: /aspose.html/htmlmapelement/last_element_child/
+url: /python-net/aspose.html/htmlmapelement/last_element_child/
 is_root: false
 ---
 

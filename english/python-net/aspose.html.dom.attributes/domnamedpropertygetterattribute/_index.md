@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.dom.attributes/domnamedpropertygetterattribute/
+url: /python-net/aspose.html.dom.attributes/domnamedpropertygetterattribute/
 is_root: false
 ---
 

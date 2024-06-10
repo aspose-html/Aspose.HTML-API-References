@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 780
-url: /aspose.html/htmltableelement/frame/
+url: /python-net/aspose.html/htmltableelement/frame/
 is_root: false
 ---
 

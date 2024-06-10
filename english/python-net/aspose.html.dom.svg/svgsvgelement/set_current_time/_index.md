@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 560
-url: /aspose.html.dom.svg/svgsvgelement/set_current_time/
+url: /python-net/aspose.html.dom.svg/svgsvgelement/set_current_time/
 is_root: false
 ---
 

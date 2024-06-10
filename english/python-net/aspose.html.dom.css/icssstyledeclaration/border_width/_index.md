@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 360
-url: /aspose.html.dom.css/icssstyledeclaration/border_width/
+url: /python-net/aspose.html.dom.css/icssstyledeclaration/border_width/
 is_root: false
 ---
 

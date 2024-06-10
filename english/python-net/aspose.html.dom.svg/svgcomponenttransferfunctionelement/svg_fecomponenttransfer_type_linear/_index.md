@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 560
-url: /aspose.html.dom.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_linear/
+url: /python-net/aspose.html.dom.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_linear/
 is_root: false
 ---
 

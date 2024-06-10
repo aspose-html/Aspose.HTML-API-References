@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.html.drawing/color/from_int/
+url: /python-net/aspose.html.drawing/color/from_int/
 is_root: false
 ---
 

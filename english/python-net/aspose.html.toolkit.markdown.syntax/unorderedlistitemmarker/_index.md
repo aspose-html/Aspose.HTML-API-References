@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 590
-url: /aspose.html.toolkit.markdown.syntax/unorderedlistitemmarker/
+url: /python-net/aspose.html.toolkit.markdown.syntax/unorderedlistitemmarker/
 is_root: false
 ---
 

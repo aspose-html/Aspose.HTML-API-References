@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.html.accessibility/ierror/error_type/
+url: /python-net/aspose.html.accessibility/ierror/error_type/
 is_root: false
 ---
 

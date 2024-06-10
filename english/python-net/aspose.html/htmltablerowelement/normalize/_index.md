@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 280
-url: /aspose.html/htmltablerowelement/normalize/
+url: /python-net/aspose.html/htmltablerowelement/normalize/
 is_root: false
 ---
 

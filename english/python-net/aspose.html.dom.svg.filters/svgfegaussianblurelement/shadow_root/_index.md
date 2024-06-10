@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 860
-url: /aspose.html.dom.svg.filters/svgfegaussianblurelement/shadow_root/
+url: /python-net/aspose.html.dom.svg.filters/svgfegaussianblurelement/shadow_root/
 is_root: false
 ---
 

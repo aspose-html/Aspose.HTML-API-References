@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.html.rendering.fonts/fontmatchingproperties/font_weight/
+url: /python-net/aspose.html.rendering.fonts/fontmatchingproperties/font_weight/
 is_root: false
 ---
 

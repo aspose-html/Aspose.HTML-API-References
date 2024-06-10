@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 170
-url: /aspose.html.dom/document/create_ns_resolver/
+url: /python-net/aspose.html.dom/document/create_ns_resolver/
 is_root: false
 ---
 

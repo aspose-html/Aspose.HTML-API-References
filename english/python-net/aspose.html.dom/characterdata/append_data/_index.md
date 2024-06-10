@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.html.dom/characterdata/append_data/
+url: /python-net/aspose.html.dom/characterdata/append_data/
 is_root: false
 ---
 

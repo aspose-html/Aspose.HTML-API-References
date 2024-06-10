@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 680
-url: /aspose.html/htmlimageelement/hspace/
+url: /python-net/aspose.html/htmlimageelement/hspace/
 is_root: false
 ---
 

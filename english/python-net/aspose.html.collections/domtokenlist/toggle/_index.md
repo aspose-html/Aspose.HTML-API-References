@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.html.collections/domtokenlist/toggle/
+url: /python-net/aspose.html.collections/domtokenlist/toggle/
 is_root: false
 ---
 

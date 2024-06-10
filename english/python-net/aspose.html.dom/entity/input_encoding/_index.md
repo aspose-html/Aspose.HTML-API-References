@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 340
-url: /aspose.html.dom/entity/input_encoding/
+url: /python-net/aspose.html.dom/entity/input_encoding/
 is_root: false
 ---
 

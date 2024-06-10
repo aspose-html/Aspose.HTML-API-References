@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 860
-url: /aspose.html.dom.svg.filters/svgfespecularlightingelement/result/
+url: /python-net/aspose.html.dom.svg.filters/svgfespecularlightingelement/result/
 is_root: false
 ---
 

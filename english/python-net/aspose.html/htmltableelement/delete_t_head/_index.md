@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.html/htmltableelement/delete_t_head/
+url: /python-net/aspose.html/htmltableelement/delete_t_head/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode/
+url: /python-net/aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.html.rendering.xps/xpsrenderingoptions/page_setup/
+url: /python-net/aspose.html.rendering.xps/xpsrenderingoptions/page_setup/
 is_root: false
 ---
 

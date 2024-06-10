@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.accessibility/itechniqueresult/error/
+url: /python-net/aspose.html.accessibility/itechniqueresult/error/
 is_root: false
 ---
 

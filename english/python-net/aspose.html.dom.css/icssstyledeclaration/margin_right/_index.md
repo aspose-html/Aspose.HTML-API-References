@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 750
-url: /aspose.html.dom.css/icssstyledeclaration/margin_right/
+url: /python-net/aspose.html.dom.css/icssstyledeclaration/margin_right/
 is_root: false
 ---
 

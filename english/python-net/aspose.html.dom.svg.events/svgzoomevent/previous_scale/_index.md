@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /aspose.html.dom.svg.events/svgzoomevent/previous_scale/
+url: /python-net/aspose.html.dom.svg.events/svgzoomevent/previous_scale/
 is_root: false
 ---
 

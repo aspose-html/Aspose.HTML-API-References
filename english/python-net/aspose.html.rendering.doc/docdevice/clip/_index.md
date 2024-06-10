@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.html.rendering.doc/docdevice/clip/
+url: /python-net/aspose.html.rendering.doc/docdevice/clip/
 is_root: false
 ---
 

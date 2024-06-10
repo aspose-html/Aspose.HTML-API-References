@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 310
-url: /aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/new_line_trivia/
+url: /python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/new_line_trivia/
 is_root: false
 ---
 

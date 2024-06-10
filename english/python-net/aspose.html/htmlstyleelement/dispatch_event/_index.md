@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 60
-url: /aspose.html/htmlstyleelement/dispatch_event/
+url: /python-net/aspose.html/htmlstyleelement/dispatch_event/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 620
-url: /aspose.html.dom.svg.filters/svgfeturbulenceelement/base_frequency_y/
+url: /python-net/aspose.html.dom.svg.filters/svgfeturbulenceelement/base_frequency_y/
 is_root: false
 ---
 

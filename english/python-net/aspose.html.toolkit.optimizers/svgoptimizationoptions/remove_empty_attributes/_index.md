@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.html.toolkit.optimizers/svgoptimizationoptions/remove_empty_attributes/
+url: /python-net/aspose.html.toolkit.optimizers/svgoptimizationoptions/remove_empty_attributes/
 is_root: false
 ---
 

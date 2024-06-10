@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 810
-url: /aspose.html.dom.svg/svgtspanelement/nearest_viewport_element/
+url: /python-net/aspose.html.dom.svg/svgtspanelement/nearest_viewport_element/
 is_root: false
 ---
 

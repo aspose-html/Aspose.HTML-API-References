@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.html/metered/is_metered_licensed/
+url: /python-net/aspose.html/metered/is_metered_licensed/
 is_root: false
 ---
 

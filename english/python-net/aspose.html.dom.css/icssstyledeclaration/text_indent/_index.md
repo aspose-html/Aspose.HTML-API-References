@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 1190
-url: /aspose.html.dom.css/icssstyledeclaration/text_indent/
+url: /python-net/aspose.html.dom.css/icssstyledeclaration/text_indent/
 is_root: false
 ---
 

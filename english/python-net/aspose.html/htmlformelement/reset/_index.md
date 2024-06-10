@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 360
-url: /aspose.html/htmlformelement/reset/
+url: /python-net/aspose.html/htmlformelement/reset/
 is_root: false
 ---
 

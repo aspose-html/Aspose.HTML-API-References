@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 570
-url: /aspose.html/htmlformelement/action/
+url: /python-net/aspose.html/htmlformelement/action/
 is_root: false
 ---
 

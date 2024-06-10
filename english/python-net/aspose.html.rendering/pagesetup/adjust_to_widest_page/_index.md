@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.html.rendering/pagesetup/adjust_to_widest_page/
+url: /python-net/aspose.html.rendering/pagesetup/adjust_to_widest_page/
 is_root: false
 ---
 

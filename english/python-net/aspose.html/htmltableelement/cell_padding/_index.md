@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 680
-url: /aspose.html/htmltableelement/cell_padding/
+url: /python-net/aspose.html/htmltableelement/cell_padding/
 is_root: false
 ---
 

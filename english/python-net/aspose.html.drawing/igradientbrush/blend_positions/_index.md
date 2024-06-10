@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.html.drawing/igradientbrush/blend_positions/
+url: /python-net/aspose.html.drawing/igradientbrush/blend_positions/
 is_root: false
 ---
 

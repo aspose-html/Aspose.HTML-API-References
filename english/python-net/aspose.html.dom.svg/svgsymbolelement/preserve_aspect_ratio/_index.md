@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 850
-url: /aspose.html.dom.svg/svgsymbolelement/preserve_aspect_ratio/
+url: /python-net/aspose.html.dom.svg/svgsymbolelement/preserve_aspect_ratio/
 is_root: false
 ---
 

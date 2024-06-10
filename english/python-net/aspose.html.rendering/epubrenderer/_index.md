@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.rendering/epubrenderer/
+url: /python-net/aspose.html.rendering/epubrenderer/
 is_root: false
 ---
 

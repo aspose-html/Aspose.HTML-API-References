@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 30
-url: /aspose.html.net/multipartcontent/read_as_byte_array/
+url: /python-net/aspose.html.net/multipartcontent/read_as_byte_array/
 is_root: false
 ---
 

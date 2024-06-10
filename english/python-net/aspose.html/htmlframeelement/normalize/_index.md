@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 260
-url: /aspose.html/htmlframeelement/normalize/
+url: /python-net/aspose.html/htmlframeelement/normalize/
 is_root: false
 ---
 

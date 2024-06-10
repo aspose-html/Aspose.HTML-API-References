@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 40
-url: /aspose.html.dom/idomimplementation/create_html_document/
+url: /python-net/aspose.html.dom/idomimplementation/create_html_document/
 is_root: false
 ---
 

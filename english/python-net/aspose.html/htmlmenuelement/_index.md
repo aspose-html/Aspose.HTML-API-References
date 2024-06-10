@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 400
-url: /aspose.html/htmlmenuelement/
+url: /python-net/aspose.html/htmlmenuelement/
 is_root: false
 ---
 

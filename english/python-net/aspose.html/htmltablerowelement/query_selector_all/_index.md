@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 300
-url: /aspose.html/htmltablerowelement/query_selector_all/
+url: /python-net/aspose.html/htmltablerowelement/query_selector_all/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 210
-url: /aspose.html.dom/shadowroot/attribute_node/
+url: /python-net/aspose.html.dom/shadowroot/attribute_node/
 is_root: false
 ---
 

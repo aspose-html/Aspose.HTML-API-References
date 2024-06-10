@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 20
-url: /aspose.html/license/set_license/
+url: /python-net/aspose.html/license/set_license/
 is_root: false
 ---
 

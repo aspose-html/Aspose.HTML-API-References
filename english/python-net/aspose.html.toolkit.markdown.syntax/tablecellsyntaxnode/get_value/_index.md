@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.html.toolkit.markdown.syntax/tablecellsyntaxnode/get_value/
+url: /python-net/aspose.html.toolkit.markdown.syntax/tablecellsyntaxnode/get_value/
 is_root: false
 ---
 

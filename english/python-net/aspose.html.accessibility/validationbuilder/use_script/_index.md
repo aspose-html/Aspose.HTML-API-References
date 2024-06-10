@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.html.accessibility/validationbuilder/use_script/
+url: /python-net/aspose.html.accessibility/validationbuilder/use_script/
 is_root: false
 ---
 

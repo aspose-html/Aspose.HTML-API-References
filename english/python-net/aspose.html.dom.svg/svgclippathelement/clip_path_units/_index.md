@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 610
-url: /aspose.html.dom.svg/svgclippathelement/clip_path_units/
+url: /python-net/aspose.html.dom.svg/svgclippathelement/clip_path_units/
 is_root: false
 ---
 

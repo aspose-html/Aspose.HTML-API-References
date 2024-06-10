@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 130
-url: /aspose.html.toolkit.optimizers/svgoptimizationoptions/remove_unused_defs/
+url: /python-net/aspose.html.toolkit.optimizers/svgoptimizationoptions/remove_unused_defs/
 is_root: false
 ---
 

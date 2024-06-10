@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 140
-url: /aspose.html.dom.canvas/icanvasrenderingcontext2d/draw_focus_if_needed/
+url: /python-net/aspose.html.dom.canvas/icanvasrenderingcontext2d/draw_focus_if_needed/
 is_root: false
 ---
 

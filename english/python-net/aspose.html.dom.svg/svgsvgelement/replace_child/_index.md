@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 510
-url: /aspose.html.dom.svg/svgsvgelement/replace_child/
+url: /python-net/aspose.html.dom.svg/svgsvgelement/replace_child/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 240
-url: /aspose.html.dom.events/documentloaderrorevent/time_stamp/
+url: /python-net/aspose.html.dom.events/documentloaderrorevent/time_stamp/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 660
-url: /aspose.html.dom.svg/svggraphicselement/first_element_child/
+url: /python-net/aspose.html.dom.svg/svggraphicselement/first_element_child/
 is_root: false
 ---
 

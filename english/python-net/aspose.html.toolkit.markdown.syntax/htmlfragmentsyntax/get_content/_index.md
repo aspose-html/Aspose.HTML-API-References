@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.html.toolkit.markdown.syntax/htmlfragmentsyntax/get_content/
+url: /python-net/aspose.html.toolkit.markdown.syntax/htmlfragmentsyntax/get_content/
 is_root: false
 ---
 

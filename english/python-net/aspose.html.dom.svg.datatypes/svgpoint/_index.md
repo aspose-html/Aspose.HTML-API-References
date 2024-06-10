@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 190
-url: /aspose.html.dom.svg.datatypes/svgpoint/
+url: /python-net/aspose.html.dom.svg.datatypes/svgpoint/
 is_root: false
 ---
 

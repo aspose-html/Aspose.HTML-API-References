@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 50
-url: /aspose.html.dom/idomimplementation/has_feature/
+url: /python-net/aspose.html.dom/idomimplementation/has_feature/
 is_root: false
 ---
 

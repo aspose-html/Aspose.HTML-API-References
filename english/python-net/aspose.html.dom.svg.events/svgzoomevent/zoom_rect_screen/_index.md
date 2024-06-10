@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 250
-url: /aspose.html.dom.svg.events/svgzoomevent/zoom_rect_screen/
+url: /python-net/aspose.html.dom.svg.events/svgzoomevent/zoom_rect_screen/
 is_root: false
 ---
 

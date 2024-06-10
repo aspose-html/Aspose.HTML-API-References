@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 590
-url: /aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_xor/
+url: /python-net/aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_xor/
 is_root: false
 ---
 

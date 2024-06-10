@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 260
-url: /aspose.html.dom/domexception/type_mismatch_err/
+url: /python-net/aspose.html.dom/domexception/type_mismatch_err/
 is_root: false
 ---
 

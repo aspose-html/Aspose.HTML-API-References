@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 690
-url: /aspose.html/htmlcanvaselement/lang/
+url: /python-net/aspose.html/htmlcanvaselement/lang/
 is_root: false
 ---
 

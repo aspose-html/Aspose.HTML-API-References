@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.html.saving/xpssaveoptions/
+url: /python-net/aspose.html.saving/xpssaveoptions/
 is_root: false
 ---
 

@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 80
-url: /aspose.html.drawing/numeric/from_dots_per_pixel/
+url: /python-net/aspose.html.drawing/numeric/from_dots_per_pixel/
 is_root: false
 ---
 

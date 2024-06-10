@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 120
-url: /aspose.html.forms/buttontype/
+url: /python-net/aspose.html.forms/buttontype/
 is_root: false
 ---
 

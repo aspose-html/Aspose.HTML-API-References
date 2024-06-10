@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 480
-url: /aspose.html.dom.canvas/icanvasrenderingcontext2d/global_composite_operation/
+url: /python-net/aspose.html.dom.canvas/icanvasrenderingcontext2d/global_composite_operation/
 is_root: false
 ---
 

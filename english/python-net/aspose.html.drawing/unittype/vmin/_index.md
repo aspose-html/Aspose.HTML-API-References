@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 320
-url: /aspose.html.drawing/unittype/vmin/
+url: /python-net/aspose.html.drawing/unittype/vmin/
 is_root: false
 ---
 

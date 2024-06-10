@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 280
-url: /aspose.html.dom.events/keyboardevent/location/
+url: /python-net/aspose.html.dom.events/keyboardevent/location/
 is_root: false
 ---
 

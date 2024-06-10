@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 200
-url: /aspose.html.dom.events/inputevent/is_trusted/
+url: /python-net/aspose.html.dom.events/inputevent/is_trusted/
 is_root: false
 ---
 

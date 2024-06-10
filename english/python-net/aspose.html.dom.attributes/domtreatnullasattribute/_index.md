@@ -4,7 +4,7 @@ second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
 weight: 70
-url: /aspose.html.dom.attributes/domtreatnullasattribute/
+url: /python-net/aspose.html.dom.attributes/domtreatnullasattribute/
 is_root: false
 ---
 
