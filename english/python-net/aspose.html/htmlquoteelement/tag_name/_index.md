@@ -1,0 +1,24 @@
+﻿---
+title: tag_name property
+second_title: Aspose.HTML for Python via .NET API References
+description: 
+type: docs
+weight: 860
+url: /python-net/aspose.html/htmlquoteelement/tag_name/
+is_root: false
+---
+
+## tag_name property
+
+
+The name of the element.
+### Definition:
+```python
+@property
+def tag_name(self):
+    ...
+```
+
+### See Also
+* module [`aspose.html`](../../)
+* class [`HTMLQuoteElement`](/html/python-net/aspose.html/htmlquoteelement)

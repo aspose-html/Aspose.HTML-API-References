@@ -1,0 +1,25 @@
+﻿---
+title: last_child property
+second_title: Aspose.HTML for Python via .NET API References
+description: 
+type: docs
+weight: 150
+url: /python-net/aspose.html.toolkit.markdown.syntax/blockproxy/last_child/
+is_root: false
+---
+
+## last_child property
+
+
+Get the last child.
+### Definition:
+```python
+@property
+def last_child(self):
+    ...
+```
+
+### See Also
+* module [`aspose.html.toolkit.markdown.syntax`](../../)
+* class [`BlockProxy`](/html/python-net/aspose.html.toolkit.markdown.syntax/blockproxy)
+* class [`MarkdownSyntaxNode`](/html/python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode)
