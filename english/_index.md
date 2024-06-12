@@ -52,5 +52,5 @@ These are links to some useful resources:
 
 These are links to some useful resources:
 - [Aspose.HTML for Python via .NET API Reference](/html/python-net/)
-- [Aspose.HTML for Python via .NET API Tutorials](/tutorials/html/python-net/)
+
 
