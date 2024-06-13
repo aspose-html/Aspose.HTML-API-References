@@ -43,7 +43,9 @@ These are links to some useful resources:
 
 {{% alert color="primary" %}} 
 
-![Aspose.HTML for Python via .NET Product Logo](home_1.png)
+<p align="left">
+<img src='https://products.aspose.com/html/images/aspose_html-for-python-net.svg' alt='Aspose.HTML for Python via .NET Product Logo' width='128' height='128'>
+</p>
 
 
 [Aspose.HTML for Python via .NET](https://products.aspose.com/html/python-net/) is an advanced HTML processing API to perform a wide range of management and manipulation tasks within cross-platform applications. API is designed to create, modify, extract data, convert and render HTML documents without any external software. Also, it supports popular file formats such as EPUB, MHTML, XML, SVG, and Markdown and rendering to PDF, DOCX, XPS and Image file formats. Moreover, the HTML Document Object Model is integrated with embedded formats and specifications such as CSS, HTML Canvas, SVG, XPath and JavaScript out-of-the-box that extend the manipulation functional and rendering quality.
