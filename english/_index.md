@@ -44,7 +44,7 @@ These are links to some useful resources:
 {{% alert color="primary" %}} 
 
 <p align="left">
-<img src='https://products.aspose.com/html/images/aspose_html-for-python-net.svg' alt='Aspose.HTML for Python via .NET Product Logo' width='128' height='128'>
+<img src='aspose_html-for-python-net.svg' alt='Aspose.HTML for Python via .NET Product Logo' width='128' height='128'>
 </p>
 
 
