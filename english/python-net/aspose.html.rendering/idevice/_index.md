@@ -40,12 +40,12 @@ The IDevice type exposes the following members:
 | [add_rect](/html/python-net/aspose.html.rendering/idevice/add_rect/#aspose.pydrawing.RectangleF) | Appends a rectangle to the current path as a complete subpath. |
 | [cubic_bezier_to](/html/python-net/aspose.html.rendering/idevice/cubic_bezier_to/#aspose.pydrawing.PointF-aspose.pydrawing.PointF-aspose.pydrawing.PointF) | Appends a cubic Bézier curve to the current path. The curve extends from the current point to the point pt3,<br/>using pt1 and pt2 as the Bézier control points. The new current point is pt3. |
 | [stroke](/html/python-net/aspose.html.rendering/idevice/stroke/#) | Strokes a line along the current path. The stroked line follows each straight or curved segment in the path, <br/>centered on the segment with sides parallel to it. Each of the path’s subpaths is treated separately. <br/>This method terminates current path. |
-| [fill](/html/python-net/aspose.html.rendering/idevice/fill/#aspose.pydrawing.drawing2d.FillMode) | Fills the entire region enclosed by the current path. <br/>If the path consists of several disconnected subpaths, it fills the insides of all subpaths, <br/>considered together. <br/>This method terminates current path. |
-| [clip](/html/python-net/aspose.html.rendering/idevice/clip/#aspose.pydrawing.drawing2d.FillMode) | Modifies the current clipping path by intersecting it with the current path, using the FillMode rule to determine the region to fill. <br/>This method terminates current path. |
-| [stroke_and_fill](/html/python-net/aspose.html.rendering/idevice/stroke_and_fill/#aspose.pydrawing.drawing2d.FillMode) | Strokes and fill current path.<br/>This method terminates current path. |
+| [fill](/html/python-net/aspose.html.rendering/idevice/fill/#aspose.html.rendering.FillRule) | Fills the entire region enclosed by the current path. <br/>If the path consists of several disconnected subpaths, it fills the insides of all subpaths, <br/>considered together. <br/>This method terminates current path. |
+| [clip](/html/python-net/aspose.html.rendering/idevice/clip/#aspose.html.rendering.FillRule) | Modifies the current clipping path by intersecting it with the current path, using the FillRule to determine the region to fill. <br/>This method terminates current path. |
+| [stroke_and_fill](/html/python-net/aspose.html.rendering/idevice/stroke_and_fill/#aspose.html.rendering.FillRule) | Strokes and fill current path.<br/>This method terminates current path. |
 | [fill_text](/html/python-net/aspose.html.rendering/idevice/fill_text/#str-aspose.pydrawing.PointF) | Fills the specified text string at the specified location. |
 | [stroke_text](/html/python-net/aspose.html.rendering/idevice/stroke_text/#str-aspose.pydrawing.PointF) | Strokes the specified text string at the specified location. |
-| [draw_image](/html/python-net/aspose.html.rendering/idevice/draw_image/#bytes-aspose.html.rendering.ImageType-aspose.pydrawing.RectangleF) | Draws the specified image. |
+| [draw_image](/html/python-net/aspose.html.rendering/idevice/draw_image/#bytes-aspose.html.drawing.WebImageFormat-aspose.pydrawing.RectangleF) | Draws the specified image. |
 | [flush](/html/python-net/aspose.html.rendering/idevice/flush/#) | Flushes all data to output stream. |
 
 

@@ -3,7 +3,7 @@ title: ITextureBrush class
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 110
+weight: 130
 url: /python-net/aspose.html.drawing/itexturebrush/
 is_root: false
 ---
@@ -24,11 +24,12 @@ The ITextureBrush type exposes the following members:
 | [image_area](/html/python-net/aspose.html.drawing/itexturebrush/image_area) | Specifies the portion of the image used by the brush.<br/>If it equals RectangleF.Empty then the whole image will be used.<br/>Coordinates are in pixels. |
 | [color_map](/html/python-net/aspose.html.drawing/itexturebrush/color_map) | The number of elements must be even. Every even element is old color. Every odd element is new color. |
 | [transformation_matrix](/html/python-net/aspose.html.drawing/itexturebrush/transformation_matrix) | Get the transform. The transform defines a local geometric transform for this brush. |
-| [wrap_mode](/html/python-net/aspose.html.drawing/itexturebrush/wrap_mode) | Gets or sets the wrap mode. Wrap mode specifies how a texture or gradient is tiled<br/>when it is smaller than the area being filled. |
-| [type](/html/python-net/aspose.html.drawing/itexturebrush/type) | Get type of brush; |
+| [spread_mode](/html/python-net/aspose.html.drawing/itexturebrush/spread_mode) | Gets or sets the SpreadMode mode. SpreadMode mode specifies how a texture or gradient is tiled<br/>when it is smaller than the area being filled. |
+| [type](/html/python-net/aspose.html.drawing/itexturebrush/type) | Gets type of brush as [`BrushType`](/html/python-net/aspose.html.drawing/brushtype). |
 
 
 
 ### See Also
 * module [`aspose.html.drawing`](..)
+* class [`BrushType`](/html/python-net/aspose.html.drawing/brushtype)
 * class [`ITransformableBrush`](/html/python-net/aspose.html.drawing/itransformablebrush)

@@ -10,7 +10,7 @@ is_root: false
 
 ## begin_document {#aspose.html.dom.Document}
 
-Begins rendering of the document.
+
 
 
 
@@ -22,7 +22,7 @@ def begin_document(self, document):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| document | aspose.html.dom.Document | The document. |
+| document | aspose.html.dom.Document |  |
 
 
 

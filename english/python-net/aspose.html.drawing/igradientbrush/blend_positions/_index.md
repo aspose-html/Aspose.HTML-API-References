@@ -11,11 +11,14 @@ is_root: false
 ## blend_positions property
 
 
-Get the blend positions that define a custom falloff for the gradient.
+Gets or sets the blend positions that define a custom falloff for the gradient.
 ### Definition:
 ```python
 @property
 def blend_positions(self):
+    ...
+@blend_positions.setter
+def blend_positions(self, value):
     ...
 ```
 

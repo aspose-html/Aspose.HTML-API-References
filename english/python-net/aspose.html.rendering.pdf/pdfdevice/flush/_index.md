@@ -10,7 +10,7 @@ is_root: false
 
 ## flush {#}
 
-Flushes all data to output stream.
+
 
 
 

@@ -10,7 +10,7 @@ is_root: false
 
 ## end_page {#}
 
-Ends rendering of the current page.
+
 
 
 

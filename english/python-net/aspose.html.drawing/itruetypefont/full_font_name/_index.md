@@ -11,11 +11,7 @@ is_root: false
 ## full_font_name property
 
 
-This should be a combination of "FamilyName" and "SubFamilyName". Exception: if the font is "Regular" as indicated 
-in "SubFamilyName", then use only the family name contained in "FamilyName". 
-An exception to the above definition of Full font name is for Microsoft platform strings 
-for CFF OpenType fonts: in this case, the Full font name string must be identical to the PostScript 
-FontName in the CFF Name INDEX.
+Full font name is generally represented as combination of Family and Subfamily names.
 ### Definition:
 ```python
 @property

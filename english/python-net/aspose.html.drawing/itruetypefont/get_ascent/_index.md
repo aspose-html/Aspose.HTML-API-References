@@ -10,13 +10,13 @@ is_root: false
 
 ## get_ascent {#float}
 
-Returns the ascent, in points.
+Gets the ascent of the font in points using the specified font size.
 
 
 ### Returns 
 
 
-The ascent in points.
+The ascent of the font in points.
 
 
 ```python
@@ -27,7 +27,7 @@ def get_ascent(self, font_size):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| font_size | float | Size of the font. |
+| font_size | float | The size of the font. |
 
 
 

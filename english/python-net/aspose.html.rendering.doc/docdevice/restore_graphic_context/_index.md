@@ -10,7 +10,7 @@ is_root: false
 
 ## restore_graphic_context {#}
 
-Restores the entire graphics context to its former value by popping it from the stack.
+
 
 
 

@@ -3,7 +3,7 @@ title: stroke_brush property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 160
 url: /python-net/aspose.html.rendering/graphiccontext/stroke_brush/
 is_root: false
 ---

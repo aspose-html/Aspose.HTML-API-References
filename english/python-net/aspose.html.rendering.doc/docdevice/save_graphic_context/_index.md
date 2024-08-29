@@ -10,7 +10,7 @@ is_root: false
 
 ## save_graphic_context {#}
 
-Pushes a copy of the entire graphics context onto the stack.
+
 
 
 

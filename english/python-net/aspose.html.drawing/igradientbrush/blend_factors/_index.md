@@ -11,11 +11,14 @@ is_root: false
 ## blend_factors property
 
 
-Get the blend factors that define a custom falloff for the gradient.
+Gets or sets the blend factors that define a custom falloff for the gradient.
 ### Definition:
 ```python
 @property
 def blend_factors(self):
+    ...
+@blend_factors.setter
+def blend_factors(self, value):
     ...
 ```
 

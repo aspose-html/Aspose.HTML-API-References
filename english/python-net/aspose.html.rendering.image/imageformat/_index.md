@@ -24,6 +24,7 @@ The ImageFormat type exposes the following members:
 | BMP | The bitmap (BMP) image format. |
 | GIF | The Graphics Interchange Format (GIF) image format. |
 | TIFF | The Tagged Image File Format (TIFF) image format. |
+| WEBP | The Web Picture format (WebP), a modern image format that provides superior lossless and lossy compression for images on the web. |
 
 
 

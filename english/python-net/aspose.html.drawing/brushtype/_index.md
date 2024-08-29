@@ -3,7 +3,7 @@ title: BrushType enumeration
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 240
+weight: 260
 url: /python-net/aspose.html.drawing/brushtype/
 is_root: false
 ---

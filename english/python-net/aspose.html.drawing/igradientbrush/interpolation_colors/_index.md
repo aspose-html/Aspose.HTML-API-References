@@ -11,11 +11,14 @@ is_root: false
 ## interpolation_colors property
 
 
-Get the interpolation colors that defines a multicolor linear gradient.
+Gets or sets the interpolation colors that defines a multicolor linear gradient.
 ### Definition:
 ```python
 @property
 def interpolation_colors(self):
+    ...
+@interpolation_colors.setter
+def interpolation_colors(self, value):
     ...
 ```
 

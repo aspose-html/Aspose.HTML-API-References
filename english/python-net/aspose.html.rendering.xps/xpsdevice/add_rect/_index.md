@@ -10,7 +10,7 @@ is_root: false
 
 ## add_rect {#aspose.pydrawing.RectangleF}
 
-Appends a rectangle to the current path as a complete subpath.
+
 
 
 
@@ -22,7 +22,7 @@ def add_rect(self, rect):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| rect | aspose.pydrawing.RectangleF | A rectangle to draw. |
+| rect | aspose.pydrawing.RectangleF |  |
 
 
 

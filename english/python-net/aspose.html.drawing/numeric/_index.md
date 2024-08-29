@@ -3,7 +3,7 @@ title: Numeric class
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 190
 url: /python-net/aspose.html.drawing/numeric/
 is_root: false
 ---
