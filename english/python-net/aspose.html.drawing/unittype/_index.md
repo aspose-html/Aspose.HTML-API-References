@@ -3,7 +3,7 @@ title: UnitType class
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 230
+weight: 250
 url: /python-net/aspose.html.drawing/unittype/
 is_root: false
 ---

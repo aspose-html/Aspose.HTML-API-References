@@ -25,3 +25,4 @@ def line_cap(self, value):
 ### See Also
 * module [`aspose.html.rendering`](../../)
 * class [`GraphicContext`](/html/python-net/aspose.html.rendering/graphiccontext)
+* class [`StrokeLineCap`](/html/python-net/aspose.html.rendering/strokelinecap)

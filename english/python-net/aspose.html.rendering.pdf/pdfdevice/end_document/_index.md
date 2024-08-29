@@ -10,7 +10,7 @@ is_root: false
 
 ## end_document {#}
 
-Ends rendering of the document.
+
 
 
 

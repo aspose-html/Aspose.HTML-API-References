@@ -10,7 +10,7 @@ is_root: false
 
 ## begin_page {#aspose.pydrawing.SizeF}
 
-Begins rendering of the new page.
+
 
 
 
@@ -22,7 +22,7 @@ def begin_page(self, size):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| size | aspose.pydrawing.SizeF | Size of the page. |
+| size | aspose.pydrawing.SizeF |  |
 
 
 

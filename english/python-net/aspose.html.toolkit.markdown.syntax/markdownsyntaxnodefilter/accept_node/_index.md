@@ -10,7 +10,7 @@ is_root: false
 
 ## accept_node {#aspose.html.toolkit.markdown.syntax.MarkdownSyntaxNode}
 
-Defines the interface for accept node.
+Defines the interface for accepting node.
 
 
 ### Returns 

@@ -28,7 +28,7 @@ The MarkdownSyntaxNodeFilter type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [accept_node](/html/python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/accept_node/#aspose.html.toolkit.markdown.syntax.MarkdownSyntaxNode) | Defines the interface for accept node. |
+| [accept_node](/html/python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/accept_node/#aspose.html.toolkit.markdown.syntax.MarkdownSyntaxNode) | Defines the interface for accepting node. |
 
 
 

@@ -11,7 +11,7 @@ is_root: false
 ## blend_factors property
 
 
-Get the blend factors that define a custom falloff for the gradient.
+Gets or sets the blend factors that define a custom falloff for the gradient.
 
 ### See Also
 * module [`aspose.html.drawing`](../../)

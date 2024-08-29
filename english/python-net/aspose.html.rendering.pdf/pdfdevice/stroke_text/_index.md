@@ -10,7 +10,7 @@ is_root: false
 
 ## stroke_text {#str-aspose.pydrawing.PointF}
 
-Strokes the specified text string at the specified location.
+
 
 
 
@@ -22,8 +22,8 @@ def stroke_text(self, text, pt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | String to stroke. |
-| pt | aspose.pydrawing.PointF | Point that specifies the coordinates where to start the text. |
+| text | str |  |
+| pt | aspose.pydrawing.PointF |  |
 
 
 

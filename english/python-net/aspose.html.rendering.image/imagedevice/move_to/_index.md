@@ -10,9 +10,7 @@ is_root: false
 
 ## move_to {#aspose.pydrawing.PointF}
 
-Begins a new subpath by moving the current point to coordinates of the parameter pt, omitting any connecting line segment. 
-If the previous path construction method in the current path was also "MoveTo", the new "MoveTo" overrides it; 
-no vestige of the previous "MoveTo" operation remains in the path.
+
 
 
 
@@ -24,7 +22,7 @@ def move_to(self, pt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pt | aspose.pydrawing.PointF | Point of where to move the path to. |
+| pt | aspose.pydrawing.PointF |  |
 
 
 

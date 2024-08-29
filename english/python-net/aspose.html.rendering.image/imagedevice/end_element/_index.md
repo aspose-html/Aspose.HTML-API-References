@@ -10,7 +10,7 @@ is_root: false
 
 ## end_element {#aspose.html.dom.Element}
 
-Ends rendering of the element.
+
 
 
 
@@ -22,11 +22,10 @@ def end_element(self, element):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| element | aspose.html.dom.Element | The [`Element`](/html/python-net/aspose.html.dom/element). |
+| element | aspose.html.dom.Element |  |
 
 
 
 ### See Also
 * module [`aspose.html.rendering.image`](../../)
-* class [`Element`](/html/python-net/aspose.html.dom/element)
 * class [`ImageDevice`](/html/python-net/aspose.html.rendering.image/imagedevice)

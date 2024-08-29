@@ -3,7 +3,7 @@ title: line_join property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 140
+weight: 130
 url: /python-net/aspose.html.rendering/graphiccontext/line_join/
 is_root: false
 ---
@@ -25,3 +25,4 @@ def line_join(self, value):
 ### See Also
 * module [`aspose.html.rendering`](../../)
 * class [`GraphicContext`](/html/python-net/aspose.html.rendering/graphiccontext)
+* class [`StrokeLineJoin`](/html/python-net/aspose.html.rendering/strokelinejoin)

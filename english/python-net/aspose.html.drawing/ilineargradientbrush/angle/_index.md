@@ -11,11 +11,14 @@ is_root: false
 ## angle property
 
 
-Gets the angle, measured in degrees clockwise from the x-axis, of the gradient's orientation line.
+Gets or sets the angle, measured in degrees clockwise from the x-axis, of the gradient's orientation line.
 ### Definition:
 ```python
 @property
 def angle(self):
+    ...
+@angle.setter
+def angle(self, value):
     ...
 ```
 

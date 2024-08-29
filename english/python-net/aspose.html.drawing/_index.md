@@ -21,13 +21,15 @@ drawing attribute objects like brushes, colors and fonts.
 | [`Frequency`](/html/python-net/aspose.html.drawing/frequency) | The 'frequency' unit. |
 | [`IBrush`](/html/python-net/aspose.html.drawing/ibrush) | Declares method for getting of brush type. |
 | [`IColorComponents`](/html/python-net/aspose.html.drawing/icolorcomponents) | Declares method and properties for processing color components. |
+| [`IDrawingFactory`](/html/python-net/aspose.html.drawing/idrawingfactory) | Represents a factory for creating drawing-related objects. |
 | [`IGradientBrush`](/html/python-net/aspose.html.drawing/igradientbrush) | Declare methods for getting common properties of gradient brushes. |
 | [`IInterpolationColor`](/html/python-net/aspose.html.drawing/iinterpolationcolor) | Desclares methods for getting interpolation color. |
-| [`ILinearGradientBrush`](/html/python-net/aspose.html.drawing/ilineargradientbrush) | Defines brush interface with a linear gradient. |
+| [`ILinearGradientBrush`](/html/python-net/aspose.html.drawing/ilineargradientbrush) | Defines an interface for a brush with a linear gradient. |
+| [`IMatrix`](/html/python-net/aspose.html.drawing/imatrix) | Represents a matrix used for transformations. |
 | [`ISolidBrush`](/html/python-net/aspose.html.drawing/isolidbrush) | Defines brush interface of a single color |
 | [`ITextureBrush`](/html/python-net/aspose.html.drawing/itexturebrush) | Defines brush interface that uses an image to fill the interior of a shape. |
 | [`ITransformableBrush`](/html/python-net/aspose.html.drawing/itransformablebrush) | Desclares methods for getting transformation matrix and wrap mode. |
-| [`ITrueTypeFont`](/html/python-net/aspose.html.drawing/itruetypefont) | Declares methods for working with TrueType font. |
+| [`ITrueTypeFont`](/html/python-net/aspose.html.drawing/itruetypefont) | Declares methods for working with TrueType fonts. |
 | [`Length`](/html/python-net/aspose.html.drawing/length) | Represents a length measurement unit. |
 | [`LengthOrAuto`](/html/python-net/aspose.html.drawing/lengthorauto) | Represents a container for storage length or 'auto' units.. |
 | [`Margin`](/html/python-net/aspose.html.drawing/margin) | Represents page margin. |
@@ -45,5 +47,8 @@ drawing attribute objects like brushes, colors and fonts.
 | :- | :- |
 | [`BrushType`](/html/python-net/aspose.html.drawing/brushtype) | Specifies the type of brush. |
 | [`ColorModel`](/html/python-net/aspose.html.drawing/colormodel) | This enumeration is used to select the color model for working with color components. |
+| [`SpreadMode`](/html/python-net/aspose.html.drawing/spreadmode) | Specifies how a texture or gradient is tiled when it is smaller than the area being filled. |
+| [`WebImageFormat`](/html/python-net/aspose.html.drawing/webimageformat) | Specifies the supported image formats. |
+| [`WebMatrixOrder`](/html/python-net/aspose.html.drawing/webmatrixorder) | Specifies the order in which matrix transformations are applied. |
 
 

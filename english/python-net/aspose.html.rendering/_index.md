@@ -35,8 +35,10 @@ render documents/files into IDevice implementation.
 | Enumeration | Description |
 | :- | :- |
 | [`AtPagePriority`](/html/python-net/aspose.html.rendering/atpagepriority) | Specifies possible orders of applying page size declarations. |
-| [`ImageType`](/html/python-net/aspose.html.rendering/imagetype) | Specifies the file format of the image |
+| [`FillRule`](/html/python-net/aspose.html.rendering/fillrule) | Specifies the fill rule used in rendering SVG and HTML. |
 | [`MediaType`](/html/python-net/aspose.html.rendering/mediatype) | Specifies possible media types used during rendering. |
 | [`PageLayoutOptions`](/html/python-net/aspose.html.rendering/pagelayoutoptions) | Specifies flags that together with other PageSetup options determine sizes and layouts of pages.<br/>These flags can be combined together according to their descriptions. |
+| [`StrokeLineCap`](/html/python-net/aspose.html.rendering/strokelinecap) | Specifies the line cap used in rendering SVG and HTML. |
+| [`StrokeLineJoin`](/html/python-net/aspose.html.rendering/strokelinejoin) | Specifies the line join style used in rendering SVG and HTML. |
 
 

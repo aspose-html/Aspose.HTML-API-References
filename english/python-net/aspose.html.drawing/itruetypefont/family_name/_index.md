@@ -11,7 +11,7 @@ is_root: false
 ## family_name property
 
 
-Get the name of the font family.
+Gets the name of the font family.
 ### Definition:
 ```python
 @property

@@ -10,13 +10,13 @@ is_root: false
 
 ## get_descent {#float}
 
-Returns the descent, in points.
+Gets the descent of the font in points using the specified font size.
 
 
 ### Returns 
 
 
-The descent in points.
+The descent of the font in points.
 
 
 ```python
@@ -27,7 +27,7 @@ def get_descent(self, font_size):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| font_size | float | Size of the font. |
+| font_size | float | The size of the font. |
 
 
 

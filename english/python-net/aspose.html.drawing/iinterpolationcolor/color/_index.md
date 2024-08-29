@@ -11,11 +11,14 @@ is_root: false
 ## color property
 
 
-Get the color that represents the colors to use at corresponding positions along a gradient.
+Get or sets the color that represents the colors to use at corresponding positions along a gradient.
 ### Definition:
 ```python
 @property
 def color(self):
+    ...
+@color.setter
+def color(self, value):
     ...
 ```
 

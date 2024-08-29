@@ -10,13 +10,8 @@ is_root: false
 
 ## begin_element {#aspose.html.dom.Element-aspose.pydrawing.RectangleF}
 
-Begins rendering of the element.
 
 
-### Returns 
-
-
-Returns [true] if element should be processed.
 
 
 ```python
@@ -27,12 +22,11 @@ def begin_element(self, element, rect):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| element | aspose.html.dom.Element | The [`Element`](/html/python-net/aspose.html.dom/element). |
-| rect | aspose.pydrawing.RectangleF | Bounding box of the node. |
+| element | aspose.html.dom.Element |  |
+| rect | aspose.pydrawing.RectangleF |  |
 
 
 
 ### See Also
 * module [`aspose.html.rendering.pdf`](../../)
-* class [`Element`](/html/python-net/aspose.html.dom/element)
 * class [`PdfDevice`](/html/python-net/aspose.html.rendering.pdf/pdfdevice)

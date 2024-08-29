@@ -11,7 +11,7 @@ is_root: false
 ## data_size property
 
 
-Returns the size of the font data in bytes
+Gets the size of the font data in bytes.
 ### Definition:
 ```python
 @property

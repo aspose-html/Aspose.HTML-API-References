@@ -10,7 +10,7 @@ is_root: false
 
 ## line_to {#aspose.pydrawing.PointF}
 
-Appends a straight line segment from the current point to the point (pt). The new current point is pt.
+
 
 
 
@@ -22,7 +22,7 @@ def line_to(self, pt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pt | aspose.pydrawing.PointF | Point of where to create the line to. |
+| pt | aspose.pydrawing.PointF |  |
 
 
 

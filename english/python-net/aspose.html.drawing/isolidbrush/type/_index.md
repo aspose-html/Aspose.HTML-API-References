@@ -11,8 +11,9 @@ is_root: false
 ## type property
 
 
-Get type of brush;
+Gets type of brush as [`BrushType`](/html/python-net/aspose.html.drawing/brushtype).
 
 ### See Also
 * module [`aspose.html.drawing`](../../)
+* class [`BrushType`](/html/python-net/aspose.html.drawing/brushtype)
 * class [`ISolidBrush`](/html/python-net/aspose.html.drawing/isolidbrush)

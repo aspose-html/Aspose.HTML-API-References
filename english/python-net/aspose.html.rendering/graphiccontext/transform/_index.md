@@ -8,7 +8,7 @@ url: /python-net/aspose.html.rendering/graphiccontext/transform/
 is_root: false
 ---
 
-## transform {#aspose.pydrawing.drawing2d.Matrix}
+## transform {#aspose.html.drawing.IMatrix}
 
 Modify the current transformation matrix by multiplying the specified matrix.
 
@@ -22,7 +22,7 @@ def transform(self, matrix):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| matrix | aspose.pydrawing.drawing2d.Matrix | Transformation matrix. |
+| matrix | aspose.html.drawing.IMatrix | Transformation matrix. |
 
 
 

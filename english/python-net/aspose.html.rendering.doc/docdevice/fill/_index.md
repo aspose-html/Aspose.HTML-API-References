@@ -8,7 +8,7 @@ url: /python-net/aspose.html.rendering.doc/docdevice/fill/
 is_root: false
 ---
 
-## fill {#aspose.pydrawing.drawing2d.FillMode}
+## fill {#aspose.html.rendering.FillRule}
 
 Fills the entire region enclosed by the current path. 
 If the path consists of several disconnected subpaths, it fills the insides of all subpaths, 
@@ -25,7 +25,7 @@ def fill(self, mode):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mode | aspose.pydrawing.drawing2d.FillMode | Filling mode specifies how the interior of a closed path is filled |
+| mode | [`FillRule`](/html/python-net/aspose.html.rendering/fillrule) | Filling mode specifies how the interior of a closed path is filled |
 
 
 

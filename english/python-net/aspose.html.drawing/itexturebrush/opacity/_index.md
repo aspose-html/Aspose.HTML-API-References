@@ -17,6 +17,9 @@ Get opacity value in a color transform matrix.
 @property
 def opacity(self):
     ...
+@opacity.setter
+def opacity(self, value):
+    ...
 ```
 
 ### See Also

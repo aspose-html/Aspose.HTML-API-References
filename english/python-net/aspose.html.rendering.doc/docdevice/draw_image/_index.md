@@ -8,14 +8,14 @@ url: /python-net/aspose.html.rendering.doc/docdevice/draw_image/
 is_root: false
 ---
 
-## draw_image {#bytes-aspose.html.rendering.ImageType-aspose.pydrawing.RectangleF}
+## draw_image {#bytes-aspose.html.drawing.WebImageFormat-aspose.pydrawing.RectangleF}
 
 Draws the specified image.
 
 
 
 ```python
-def draw_image(self, data, type, rect):
+def draw_image(self, data, image_format, rect):
     ...
 ```
 
@@ -23,7 +23,7 @@ def draw_image(self, data, type, rect):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | data | bytes | An array of bytes representing the image. |
-| type | [`ImageType`](/html/python-net/aspose.html.rendering/imagetype) | Image type. |
+| image_format | aspose.html.drawing.WebImageFormat | Image format. |
 | rect | aspose.pydrawing.RectangleF | A rectangel which determines position and size to draw. |
 
 

@@ -11,11 +11,14 @@ is_root: false
 ## position property
 
 
-Gets the color position.
+Gets or sets the color position.
 ### Definition:
 ```python
 @property
 def position(self):
+    ...
+@position.setter
+def position(self, value):
     ...
 ```
 

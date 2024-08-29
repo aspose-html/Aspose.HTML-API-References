@@ -19,9 +19,10 @@ The IBrush type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [type](/html/python-net/aspose.html.drawing/ibrush/type) | Get type of brush; |
+| [type](/html/python-net/aspose.html.drawing/ibrush/type) | Gets type of brush as [`BrushType`](/html/python-net/aspose.html.drawing/brushtype). |
 
 
 
 ### See Also
 * module [`aspose.html.drawing`](..)
+* class [`BrushType`](/html/python-net/aspose.html.drawing/brushtype)

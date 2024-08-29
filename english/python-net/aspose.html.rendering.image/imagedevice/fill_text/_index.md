@@ -10,7 +10,7 @@ is_root: false
 
 ## fill_text {#str-aspose.pydrawing.PointF}
 
-Fills the specified text string at the specified location.
+
 
 
 
@@ -22,8 +22,8 @@ def fill_text(self, text, pt):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| text | str | String to fill. |
-| pt | aspose.pydrawing.PointF | Point that specifies the coordinates of the text. |
+| text | str |  |
+| pt | aspose.pydrawing.PointF |  |
 
 
 

@@ -10,8 +10,7 @@ is_root: false
 
 ## cubic_bezier_to {#aspose.pydrawing.PointF-aspose.pydrawing.PointF-aspose.pydrawing.PointF}
 
-Appends a cubic Bézier curve to the current path. The curve extends from the current point to the point pt2,
-using pt1 and pt2 as the Bézier control points. The new current point is pt3.
+
 
 
 
@@ -23,9 +22,9 @@ def cubic_bezier_to(self, pt1, pt2, pt3):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| pt1 | aspose.pydrawing.PointF | Coordinates of first point |
-| pt2 | aspose.pydrawing.PointF | Coordinates of second point |
-| pt3 | aspose.pydrawing.PointF | Coordinates of third point |
+| pt1 | aspose.pydrawing.PointF |  |
+| pt2 | aspose.pydrawing.PointF |  |
+| pt3 | aspose.pydrawing.PointF |  |
 
 
 

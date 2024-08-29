@@ -8,22 +8,21 @@ url: /python-net/aspose.html.rendering.image/imagedevice/stroke_and_fill/
 is_root: false
 ---
 
-## stroke_and_fill {#aspose.pydrawing.drawing2d.FillMode}
+## stroke_and_fill {#aspose.html.rendering.FillRule}
 
-Strokes and fill current path.
-This method terminates current path.
+
 
 
 
 ```python
-def stroke_and_fill(self, mode):
+def stroke_and_fill(self, rule):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mode | aspose.pydrawing.drawing2d.FillMode | Filling mode specifies how the interior of a closed path is filled. |
+| rule | [`FillRule`](/html/python-net/aspose.html.rendering/fillrule) |  |
 
 
 

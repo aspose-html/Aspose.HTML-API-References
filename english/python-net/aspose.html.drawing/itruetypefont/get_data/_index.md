@@ -10,13 +10,13 @@ is_root: false
 
 ## get_data {#}
 
-Open the stream with font data. The caller is responsible for disposing the stream.
+Opens the stream with the font data. The caller is responsible for disposing the stream.
 
 
 ### Returns 
 
 
-Stream with the font data
+The stream with the font data.
 
 
 ```python

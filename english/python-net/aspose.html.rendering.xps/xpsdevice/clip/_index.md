@@ -8,22 +8,21 @@ url: /python-net/aspose.html.rendering.xps/xpsdevice/clip/
 is_root: false
 ---
 
-## clip {#aspose.pydrawing.drawing2d.FillMode}
+## clip {#aspose.html.rendering.FillRule}
 
-Modifies the current clipping path by intersecting it with the current path, using the FillMode rule to determine the region to fill. 
-This method terminates current path.
+
 
 
 
 ```python
-def clip(self, mode):
+def clip(self, rule):
     ...
 ```
 
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| mode | aspose.pydrawing.drawing2d.FillMode | Filling mode specifies how the interior of a closed path is clipped |
+| rule | [`FillRule`](/html/python-net/aspose.html.rendering/fillrule) |  |
 
 
 
