@@ -3,7 +3,7 @@ title: HTMLSaveFormat Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.HTMLSaveFormat enum. Specifies format in which document is saved. You can find more info about saving HTMLDocument in article
 type: docs
-weight: 4730
+weight: 4800
 url: /net/aspose.html.saving/htmlsaveformat/
 ---
 ## HTMLSaveFormat enumeration

@@ -3,7 +3,7 @@ title: TextSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.TextSyntaxNode class. Implemented the text syntax node
 type: docs
-weight: 5850
+weight: 5920
 url: /net/aspose.html.toolkit.markdown.syntax/textsyntaxnode/
 ---
 ## TextSyntaxNode class

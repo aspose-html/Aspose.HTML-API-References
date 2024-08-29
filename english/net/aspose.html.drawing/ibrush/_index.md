@@ -11,7 +11,7 @@ url: /net/aspose.html.drawing/ibrush/
 Declares method for getting of brush type.
 
 ```csharp
-public interface IBrush
+public interface IBrush : IDisposable
 ```
 
 ## Properties

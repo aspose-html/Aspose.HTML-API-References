@@ -3,7 +3,7 @@ title: IInterpolationColor Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.IInterpolationColor interface. Desclares methods for getting interpolation color
 type: docs
-weight: 2880
+weight: 2890
 url: /net/aspose.html.drawing/iinterpolationcolor/
 ---
 ## IInterpolationColor interface
@@ -18,8 +18,8 @@ public interface IInterpolationColor
 
 | Name | Description |
 | --- | --- |
-| [Color](../../aspose.html.drawing/iinterpolationcolor/color/) { get; } | Get the color that represents the colors to use at corresponding positions along a gradient. |
-| [Position](../../aspose.html.drawing/iinterpolationcolor/position/) { get; } | Gets the color position. |
+| [Color](../../aspose.html.drawing/iinterpolationcolor/color/) { get; set; } | Get the color that represents the colors to use at corresponding positions along a gradient. |
+| [Position](../../aspose.html.drawing/iinterpolationcolor/position/) { get; set; } | Gets the color position. |
 
 ### See Also
 

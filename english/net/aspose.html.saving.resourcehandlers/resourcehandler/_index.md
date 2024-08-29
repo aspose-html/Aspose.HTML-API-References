@@ -3,7 +3,7 @@ title: ResourceHandler Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.ResourceHandlers.ResourceHandler class. This class is responsible for handling resources. It provides methods that allow you to control what will be done with the Resource as well as what reference will be written to the parent Resource
 type: docs
-weight: 4830
+weight: 4900
 url: /net/aspose.html.saving.resourcehandlers/resourcehandler/
 ---
 ## ResourceHandler class

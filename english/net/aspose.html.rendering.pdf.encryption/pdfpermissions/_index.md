@@ -3,7 +3,7 @@ title: PdfPermissions Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Pdf.Encryption.PdfPermissions enum. This enum represents users permissions for a pdf
 type: docs
-weight: 4570
+weight: 4620
 url: /net/aspose.html.rendering.pdf.encryption/pdfpermissions/
 ---
 ## PdfPermissions enumeration

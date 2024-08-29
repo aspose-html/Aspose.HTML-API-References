@@ -11,15 +11,16 @@ url: /net/aspose.html.rendering/device-2/strokeandfill/
 Strokes and fill current path. This method terminates current path.
 
 ```csharp
-public abstract void StrokeAndFill(FillMode mode)
+public virtual void StrokeAndFill(FillRule rule)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mode | FillMode | Filling mode specifies how the interior of a closed path is filled. |
+| rule | FillRule | Filling rule specifies how the interior of a closed path is filled. |
 
 ### See Also
 
+* enum [FillRule](../../fillrule/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
 * namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: Unit Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.Unit class. Provides the base class for units of measurement
 type: docs
-weight: 3020
+weight: 3050
 url: /net/aspose.html.drawing/unit/
 ---
 ## Unit class

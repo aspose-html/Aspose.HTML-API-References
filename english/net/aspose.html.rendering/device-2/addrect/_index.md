@@ -11,7 +11,7 @@ url: /net/aspose.html.rendering/device-2/addrect/
 Appends a rectangle to the current path as a complete subpath.
 
 ```csharp
-public abstract void AddRect(RectangleF rect)
+public virtual void AddRect(RectangleF rect)
 ```
 
 | Parameter | Type | Description |

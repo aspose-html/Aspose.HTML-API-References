@@ -11,7 +11,7 @@ url: /net/aspose.html.rendering/device-2/stroketext/
 Strokes the specified text string at the specified location.
 
 ```csharp
-public abstract void StrokeText(string text, PointF pt)
+public virtual void StrokeText(string text, PointF pt)
 ```
 
 | Parameter | Type | Description |

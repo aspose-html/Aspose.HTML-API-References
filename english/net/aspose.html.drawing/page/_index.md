@@ -3,7 +3,7 @@ title: Page Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.Page class. Represents a page object is used for configuration output page. The lacuna value for page size is A4210x297mm
 type: docs
-weight: 2980
+weight: 3000
 url: /net/aspose.html.drawing/page/
 ---
 ## Page class

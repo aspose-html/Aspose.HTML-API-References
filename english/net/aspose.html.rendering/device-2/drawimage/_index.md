@@ -11,18 +11,18 @@ url: /net/aspose.html.rendering/device-2/drawimage/
 Draws the specified image.
 
 ```csharp
-public abstract void DrawImage(byte[] data, ImageType type, RectangleF rect)
+public virtual void DrawImage(byte[] data, WebImageFormat imageFormat, RectangleF rect)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | data | Byte[] | An array of bytes representing the image. |
-| type | ImageType | Image type. |
-| rect | RectangleF | A rectangel which determines position and size to draw. |
+| imageFormat | WebImageFormat | Image format. |
+| rect | RectangleF | A rectangle which determines position and size to draw. |
 
 ### See Also
 
-* enum [ImageType](../../imagetype/)
+* enum [WebImageFormat](../../../aspose.html.drawing/webimageformat/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
 * namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

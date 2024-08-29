@@ -11,7 +11,7 @@ url: /net/aspose.html.rendering/device-2/lineto/
 Appends a straight line segment from the current point to the point (pt). The new current point is pt.
 
 ```csharp
-public abstract void LineTo(PointF pt)
+public virtual void LineTo(PointF pt)
 ```
 
 | Parameter | Type | Description |

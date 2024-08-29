@@ -11,7 +11,7 @@ url: /net/aspose.html.rendering/device-2/beginelement/
 Begins rendering of the node.
 
 ```csharp
-public abstract bool BeginElement(Element element, RectangleF rect)
+public virtual bool BeginElement(Element element, RectangleF rect)
 ```
 
 | Parameter | Type | Description |

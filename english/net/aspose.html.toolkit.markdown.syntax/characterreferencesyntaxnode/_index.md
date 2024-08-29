@@ -3,7 +3,7 @@ title: CharacterReferenceSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.CharacterReferenceSyntaxNode class. Represents the CharacterReferenceSyntaxNode
 type: docs
-weight: 5010
+weight: 5080
 url: /net/aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/
 ---
 ## CharacterReferenceSyntaxNode class

@@ -40,6 +40,8 @@ The **Aspose.Html.Rendering** namespace consists of numerous renderer objects as
 | Enumeration | Description |
 | --- | --- |
 | [AtPagePriority](./atpagepriority/) | Specifies possible orders of applying page size declarations. |
-| [ImageType](./imagetype/) | Specifies the file format of the image |
+| [FillRule](./fillrule/) | Specifies the fill rule used in rendering SVG and HTML. |
 | [MediaType](./mediatype/) | Specifies possible media types used during rendering. |
 | [PageLayoutOptions](./pagelayoutoptions/) | Specifies flags that together with other PageSetup options determine sizes and layouts of pages. These flags can be combined together according to their descriptions. |
+| [StrokeLineCap](./strokelinecap/) | Specifies the line cap used in rendering SVG and HTML. |
+| [StrokeLineJoin](./strokelinejoin/) | Specifies the line join style used in rendering SVG and HTML. |

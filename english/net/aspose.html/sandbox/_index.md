@@ -3,7 +3,7 @@ title: Sandbox Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Sandbox enum. A sandboxing flag set is a set of zero or more of the following flags which are used to restrict the abilities that potentially untrusted resources
 type: docs
-weight: 4710
+weight: 4780
 url: /net/aspose.html/sandbox/
 ---
 ## Sandbox enumeration
