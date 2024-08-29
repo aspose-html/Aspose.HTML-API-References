@@ -3,7 +3,7 @@ title: XpsDevice.XpsGraphicContext Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Xps.XpsDeviceXpsGraphicContext class. Holds current graphics control parameters for the XpsDevice. These parameters define the global framework within which the graphics operators execute
 type: docs
-weight: 4690
+weight: 4760
 url: /net/aspose.html.rendering.xps/xpsdevice.xpsgraphiccontext/
 ---
 ## XpsDevice.XpsGraphicContext class
@@ -32,7 +32,6 @@ public class XpsGraphicContext : GraphicContext
 | virtual [LineCap](../../aspose.html.rendering/graphiccontext/linecap/) { get; set; } | Sets or gets the code specifying the shape of the endpoints for any open path that is stroked. |
 | virtual [LineDashOffset](../../aspose.html.rendering/graphiccontext/linedashoffset/) { get; set; } | Sets or gets the phase offset of the current line dash pattern. |
 | virtual [LineDashPattern](../../aspose.html.rendering/graphiccontext/linedashpattern/) { get; set; } | Sets or gets the description of the dash pattern to be used when paths are stroked. |
-| virtual [LineDashStyle](../../aspose.html.rendering/graphiccontext/linedashstyle/) { get; set; } | Sets of gets the style of dashed lines of a stroked path. |
 | virtual [LineJoin](../../aspose.html.rendering/graphiccontext/linejoin/) { get; set; } | Sets or gets the code specifying the shape of joints between connected segments of a stroked path. |
 | virtual [LineWidth](../../aspose.html.rendering/graphiccontext/linewidth/) { get; set; } | Sets or gets the thickness of paths to be stroked. |
 | virtual [MiterLimit](../../aspose.html.rendering/graphiccontext/miterlimit/) { get; set; } | Sets or gets the maximum length of mitered line joins for stroked paths. This parameter limits the length of "spikes" produced when line segments join at sharp angles. |
@@ -44,8 +43,8 @@ public class XpsGraphicContext : GraphicContext
 
 | Name | Description |
 | --- | --- |
-| override [Clone](../../aspose.html.rendering.xps/xpsdevice.xpsgraphiccontext/clone)() | Creates a new instance of a XpsGraphicContext class with the same property values as an existing instance. |
-| virtual [Transform](../../aspose.html.rendering/graphiccontext/transform/)(Matrix) | Modify the current transformation matrix by multiplying the specified matrix. |
+| virtual [Clone](../../aspose.html.rendering/graphiccontext/clone/)() | Creates a new instance of a GraphicContext class with the same property values as an existing instance. |
+| virtual [Transform](../../aspose.html.rendering/graphiccontext/transform/)(IMatrix) | Modify the current transformation matrix by multiplying the specified matrix. |
 
 ### See Also
 

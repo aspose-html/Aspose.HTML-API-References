@@ -11,7 +11,7 @@ url: /net/aspose.html.rendering/device-2/filltext/
 Fills the specified text string at the specified location.
 
 ```csharp
-public abstract void FillText(string text, PointF pt)
+public virtual void FillText(string text, PointF pt)
 ```
 
 | Parameter | Type | Description |

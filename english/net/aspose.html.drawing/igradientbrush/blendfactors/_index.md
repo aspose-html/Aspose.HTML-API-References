@@ -11,7 +11,7 @@ url: /net/aspose.html.drawing/igradientbrush/blendfactors/
 Get the blend factors that define a custom falloff for the gradient.
 
 ```csharp
-public float[] BlendFactors { get; }
+public float[] BlendFactors { get; set; }
 ```
 
 ### Return Value

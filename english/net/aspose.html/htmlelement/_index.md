@@ -3,7 +3,7 @@ title: HTMLElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLElement class. All HTML element interfaces derive from this class. Elements that only expose the HTML core attributes are represented by the base HTMLElement interface. These elements are as follows special SUB SUP SPAN BDOfont TT I B U S STRIKE BIG SMALL phrase EM STRONG DFN CODE SAMP KBD VAR CITE ACRONYM ABBRlist DD DTNOFRAMES NOSCRIPTADDRESS CENTERThe style attribute of an HTML element is accessible through the ElementCSSInlineStyle interface which is defined in the CSS module DOM Level 2 Style Sheets and CSS
 type: docs
-weight: 3370
+weight: 3420
 url: /net/aspose.html/htmlelement/
 ---
 ## HTMLElement class

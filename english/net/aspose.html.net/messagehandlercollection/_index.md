@@ -3,7 +3,7 @@ title: MessageHandlerCollection Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Net.MessageHandlerCollection class. Represents collection of the MessageHandler
 type: docs
-weight: 4120
+weight: 4170
 url: /net/aspose.html.net/messagehandlercollection/
 ---
 ## MessageHandlerCollection class

@@ -3,7 +3,7 @@ title: Device Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Device class. Represents a base class for implementing rendering devices that are used to draw graphics in various formats and environments
 type: docs
-weight: 4280
+weight: 4330
 url: /net/aspose.html.rendering/device/
 ---
 ## Device class
@@ -13,6 +13,12 @@ Represents a base class for implementing rendering devices that are used to draw
 ```csharp
 public abstract class Device
 ```
+
+## Constructors
+
+| Name | Description |
+| --- | --- |
+| [Device](device/)() | Initializes a new instance of the `Device` class. |
 
 ### See Also
 

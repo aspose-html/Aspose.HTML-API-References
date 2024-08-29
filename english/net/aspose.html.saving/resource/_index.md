@@ -3,7 +3,7 @@ title: Resource Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.Resource class. This class describes a resource and provides methods for processing it
 type: docs
-weight: 4810
+weight: 4880
 url: /net/aspose.html.saving/resource/
 ---
 ## Resource class

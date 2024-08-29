@@ -3,7 +3,7 @@ title: HTMLTableCellElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLTableCellElement class. The object used to represent the TH and TDelements. See the TD element definition in HTML 4.01
 type: docs
-weight: 3720
+weight: 3770
 url: /net/aspose.html/htmltablecellelement/
 ---
 ## HTMLTableCellElement class

@@ -3,7 +3,7 @@ title: GraphicContext.Transform
 second_title: Aspose.HTML for .NET API Reference
 description: GraphicContext method. Modify the current transformation matrix by multiplying the specified matrix
 type: docs
-weight: 180
+weight: 170
 url: /net/aspose.html.rendering/graphiccontext/transform/
 ---
 ## GraphicContext.Transform method
@@ -11,15 +11,16 @@ url: /net/aspose.html.rendering/graphiccontext/transform/
 Modify the current transformation matrix by multiplying the specified matrix.
 
 ```csharp
-public virtual void Transform(Matrix matrix)
+public virtual void Transform(IMatrix matrix)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| matrix | Matrix | Transformation matrix. |
+| matrix | IMatrix | Transformation matrix. |
 
 ### See Also
 
+* interface [IMatrix](../../../aspose.html.drawing/imatrix/)
 * class [GraphicContext](../)
 * namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

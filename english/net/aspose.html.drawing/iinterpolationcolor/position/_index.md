@@ -11,7 +11,7 @@ url: /net/aspose.html.drawing/iinterpolationcolor/position/
 Gets the color position.
 
 ```csharp
-public float Position { get; }
+public float Position { get; set; }
 ```
 
 ### Property Value

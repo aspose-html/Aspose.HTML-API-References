@@ -11,7 +11,7 @@ url: /net/aspose.html.drawing/igradientbrush/blendpositions/
 Get the blend positions that define a custom falloff for the gradient.
 
 ```csharp
-public float[] BlendPositions { get; }
+public float[] BlendPositions { get; set; }
 ```
 
 ### Return Value

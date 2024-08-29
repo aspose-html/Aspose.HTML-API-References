@@ -11,7 +11,7 @@ url: /net/aspose.html.drawing/igradientbrush/interpolationcolors/
 Get the interpolation colors that defines a multicolor linear gradient.
 
 ```csharp
-public IInterpolationColor[] InterpolationColors { get; }
+public IInterpolationColor[] InterpolationColors { get; set; }
 ```
 
 ### Return Value

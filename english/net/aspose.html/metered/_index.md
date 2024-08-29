@@ -3,7 +3,7 @@ title: Metered Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Metered class. Provides methods to set metered key
 type: docs
-weight: 3970
+weight: 4020
 url: /net/aspose.html/metered/
 ---
 ## Metered class

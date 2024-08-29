@@ -11,7 +11,7 @@ url: /net/aspose.html.rendering/device-2/cubicbezierto/
 Appends a cubic Bézier curve to the current path. The curve extends from the current point to the point pt2, using pt1 and pt2 as the Bézier control points. The new current point is pt3.
 
 ```csharp
-public abstract void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
+public virtual void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
 ```
 
 | Parameter | Type | Description |

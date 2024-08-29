@@ -11,7 +11,7 @@ url: /net/aspose.html.drawing/iinterpolationcolor/color/
 Get the color that represents the colors to use at corresponding positions along a gradient.
 
 ```csharp
-public Color Color { get; }
+public Color Color { get; set; }
 ```
 
 ### See Also

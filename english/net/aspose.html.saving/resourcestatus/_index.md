@@ -3,7 +3,7 @@ title: ResourceStatus Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.ResourceStatus enum. Indicates the resource status
 type: docs
-weight: 4870
+weight: 4940
 url: /net/aspose.html.saving/resourcestatus/
 ---
 ## ResourceStatus enumeration

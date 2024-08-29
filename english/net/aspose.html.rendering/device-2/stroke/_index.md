@@ -11,7 +11,7 @@ url: /net/aspose.html.rendering/device-2/stroke/
 Strokes a line along the current path. The stroked line follows each straight or curved segment in the path, centered on the segment with sides parallel to it. Each of the path’s subpaths is treated separately. This method terminates current path.
 
 ```csharp
-public abstract void Stroke()
+public virtual void Stroke()
 ```
 
 ### See Also

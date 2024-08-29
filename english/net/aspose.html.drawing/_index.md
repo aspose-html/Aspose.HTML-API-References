@@ -32,9 +32,11 @@ The **Aspose.Html.Drawing** namespace contains objects and interfaces to specify
 | --- | --- |
 | [IBrush](./ibrush/) | Declares method for getting of brush type. |
 | [IColorComponents](./icolorcomponents/) | Declares method and properties for processing color components. |
+| [IDrawingFactory](./idrawingfactory/) | Represents a factory for creating drawing-related objects. |
 | [IGradientBrush](./igradientbrush/) | Declare methods for getting common properties of gradient brushes. |
 | [IInterpolationColor](./iinterpolationcolor/) | Desclares methods for getting interpolation color. |
 | [ILinearGradientBrush](./ilineargradientbrush/) | Defines brush interface with a linear gradient. |
+| [IMatrix](./imatrix/) | Represents a matrix used for transformations. |
 | [ISolidBrush](./isolidbrush/) | Defines brush interface of a single color |
 | [ITextureBrush](./itexturebrush/) | Defines brush interface that uses an image to fill the interior of a shape. |
 | [ITransformableBrush](./itransformablebrush/) | Desclares methods for getting transformation matrix and wrap mode. |
@@ -45,3 +47,6 @@ The **Aspose.Html.Drawing** namespace contains objects and interfaces to specify
 | --- | --- |
 | [BrushType](./brushtype/) | Specifies the type of brush. |
 | [ColorModel](./colormodel/) | This enumeration is used to select the color model for working with color components. |
+| [SpreadMode](./spreadmode/) | Specifies how a texture or gradient is tiled when it is smaller than the area being filled. |
+| [WebImageFormat](./webimageformat/) | Specifies the supported image formats. |
+| [WebMatrixOrder](./webmatrixorder/) | Specifies the order in which matrix transformations are applied. |

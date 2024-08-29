@@ -3,7 +3,7 @@ title: GraphicContext.Clone
 second_title: Aspose.HTML for .NET API Reference
 description: GraphicContext method. Creates a new instance of a GraphicContext class with the same property values as an existing instance
 type: docs
-weight: 170
+weight: 160
 url: /net/aspose.html.rendering/graphiccontext/clone/
 ---
 ## GraphicContext.Clone method

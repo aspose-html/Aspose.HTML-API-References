@@ -11,7 +11,7 @@ url: /net/aspose.html.rendering/device-2/endelement/
 Ends rendering of the node.
 
 ```csharp
-public abstract void EndElement(Element element)
+public virtual void EndElement(Element element)
 ```
 
 | Parameter | Type | Description |

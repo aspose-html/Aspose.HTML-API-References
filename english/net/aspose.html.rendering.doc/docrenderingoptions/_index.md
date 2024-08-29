@@ -3,7 +3,7 @@ title: DocRenderingOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Doc.DocRenderingOptions class. Represents the rendering options for DocDevice
 type: docs
-weight: 4340
+weight: 4390
 url: /net/aspose.html.rendering.doc/docrenderingoptions/
 ---
 ## DocRenderingOptions class

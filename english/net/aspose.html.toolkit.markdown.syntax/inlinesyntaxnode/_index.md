@@ -3,7 +3,7 @@ title: InlineSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.InlineSyntaxNode class. Base implementation of the InlineSyntaxNode
 type: docs
-weight: 5260
+weight: 5330
 url: /net/aspose.html.toolkit.markdown.syntax/inlinesyntaxnode/
 ---
 ## InlineSyntaxNode class

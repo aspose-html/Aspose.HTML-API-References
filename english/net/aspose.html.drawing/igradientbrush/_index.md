@@ -3,7 +3,7 @@ title: IGradientBrush Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.IGradientBrush interface. Declare methods for getting common properties of gradient brushes
 type: docs
-weight: 2870
+weight: 2880
 url: /net/aspose.html.drawing/igradientbrush/
 ---
 ## IGradientBrush interface
@@ -18,9 +18,9 @@ public interface IGradientBrush : ITransformableBrush
 
 | Name | Description |
 | --- | --- |
-| [BlendFactors](../../aspose.html.drawing/igradientbrush/blendfactors/) { get; } | Get the blend factors that define a custom falloff for the gradient. |
-| [BlendPositions](../../aspose.html.drawing/igradientbrush/blendpositions/) { get; } | Get the blend positions that define a custom falloff for the gradient. |
-| [InterpolationColors](../../aspose.html.drawing/igradientbrush/interpolationcolors/) { get; } | Get the interpolation colors that defines a multicolor linear gradient. |
+| [BlendFactors](../../aspose.html.drawing/igradientbrush/blendfactors/) { get; set; } | Get the blend factors that define a custom falloff for the gradient. |
+| [BlendPositions](../../aspose.html.drawing/igradientbrush/blendpositions/) { get; set; } | Get the blend positions that define a custom falloff for the gradient. |
+| [InterpolationColors](../../aspose.html.drawing/igradientbrush/interpolationcolors/) { get; set; } | Get the interpolation colors that defines a multicolor linear gradient. |
 
 ### See Also
 

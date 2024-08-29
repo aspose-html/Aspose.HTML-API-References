@@ -11,15 +11,16 @@ url: /net/aspose.html.rendering.doc/docdevice.docgraphiccontext/transform/
 Modify the current transformation matrix by multiplying the specified matrix.
 
 ```csharp
-public override void Transform(Matrix matrix)
+public override void Transform(IMatrix matrix)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| matrix | Matrix | Transformation matrix. |
+| matrix | IMatrix | Transformation matrix. |
 
 ### See Also
 
+* interface [IMatrix](../../../aspose.html.drawing/imatrix/)
 * class [DocGraphicContext](../)
 * namespace [Aspose.Html.Rendering.Doc](../../../aspose.html.rendering.doc/)
 * assembly [Aspose.HTML](../../../)

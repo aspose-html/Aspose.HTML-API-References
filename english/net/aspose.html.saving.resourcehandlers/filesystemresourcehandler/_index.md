@@ -3,7 +3,7 @@ title: FileSystemResourceHandler Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.ResourceHandlers.FileSystemResourceHandler class. This class is an implementation of the ResourceHandler class designed to save resources to the local file system
 type: docs
-weight: 4820
+weight: 4890
 url: /net/aspose.html.saving.resourcehandlers/filesystemresourcehandler/
 ---
 ## FileSystemResourceHandler class

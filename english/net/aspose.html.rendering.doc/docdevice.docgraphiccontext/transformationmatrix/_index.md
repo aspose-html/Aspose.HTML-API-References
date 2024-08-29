@@ -11,11 +11,12 @@ url: /net/aspose.html.rendering.doc/docdevice.docgraphiccontext/transformationma
 Sets or gets transformation matrix.
 
 ```csharp
-public override Matrix TransformationMatrix { get; set; }
+public override IMatrix TransformationMatrix { get; set; }
 ```
 
 ### See Also
 
+* interface [IMatrix](../../../aspose.html.drawing/imatrix/)
 * class [DocGraphicContext](../)
 * namespace [Aspose.Html.Rendering.Doc](../../../aspose.html.rendering.doc/)
 * assembly [Aspose.HTML](../../../)

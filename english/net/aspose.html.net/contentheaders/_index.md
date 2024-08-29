@@ -3,7 +3,7 @@ title: ContentHeaders Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Net.ContentHeaders class. Contains the headers associated with a content
 type: docs
-weight: 4010
+weight: 4060
 url: /net/aspose.html.net/contentheaders/
 ---
 ## ContentHeaders class

@@ -11,7 +11,7 @@ url: /net/aspose.html.drawing/ilineargradientbrush/angle/
 Gets the angle, measured in degrees clockwise from the x-axis, of the gradient's orientation line.
 
 ```csharp
-public float Angle { get; }
+public float Angle { get; set; }
 ```
 
 ### Property Value

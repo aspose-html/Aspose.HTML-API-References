@@ -3,7 +3,7 @@ title: ImageFormat Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Image.ImageFormat enum. Specifies the file format of the image
 type: docs
-weight: 4470
+weight: 4530
 url: /net/aspose.html.rendering.image/imageformat/
 ---
 ## ImageFormat enumeration
@@ -23,6 +23,7 @@ public enum ImageFormat
 | Bmp | `3` | The bitmap (BMP) image format. |
 | Gif | `4` | The Graphics Interchange Format (GIF) image format. |
 | Tiff | `5` | The Tagged Image File Format (TIFF) image format. |
+| Webp | `6` | The Web Picture format (WebP), a modern image format that provides superior lossless and lossy compression for images on the web. |
 
 ### See Also
 
