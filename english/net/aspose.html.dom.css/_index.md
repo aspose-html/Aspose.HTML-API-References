@@ -36,7 +36,7 @@ Provides interfaces for DOM Level 2 Style Specification. Cascading Style Sheets 
 | [ICSSRuleList](./icssrulelist/) | A CSSRuleList represents an ordered collection of read-only [`CSSRule`](../aspose.html.dom.css/icssrule/) objects. |
 | [ICSSStyleDeclaration](./icssstyledeclaration/) | The CSSStyleDeclaration interface represents an object that is a CSS declaration block, and exposes style information and various style-related methods and properties. |
 | [ICSSStyleRule](./icssstylerule/) | The CSSStyleRule interface represents a single CSS style rule. The selectorText attribute, on getting, must return the result of serializing the associated group of selectors |
-| [ICSSStyleSheet](./icssstylesheet/) | The CSSStyleSheet interface represents a single CSS stylesheet, and lets you inspect and modify the list of rules contained in the stylesheet. It inherits properties and methods from its parent, [`StyleSheet`](../aspose.html.dom.css/istylesheet/). |
+| [ICSSStyleSheet](./icssstylesheet/) | The CSSStyleSheet interface represents a single CSS stylesheet, and lets you inspect and modify the list of rules contained in the stylesheet. It inherits properties and methods from its parent, [`IStyleSheet`](../aspose.html.dom.css/istylesheet/). |
 | [ICSSUnknownRule](./icssunknownrule/) | The CSSUnknownRule interface represents an at-rule not supported by this user agent. |
 | [ICSSValueList](./icssvaluelist/) | The CSSValueList interface derives from the [`CSSValue`](../aspose.html.dom.css/cssvalue/) interface and provides the abstraction of an ordered collection of CSS values. |
 | [IDocumentCSS](./idocumentcss/) | This interface represents a document with a CSS view. |
