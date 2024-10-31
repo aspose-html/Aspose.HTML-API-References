@@ -25,3 +25,4 @@ def font_style(self, value):
 ### See Also
 * module [`aspose.html.rendering`](../../)
 * class [`GraphicContext`](/html/python-net/aspose.html.rendering/graphiccontext)
+* class [`WebFontStyle`](/html/python-net/aspose.html.drawing/webfontstyle)

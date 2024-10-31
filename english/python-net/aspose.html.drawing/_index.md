@@ -48,6 +48,7 @@ drawing attribute objects like brushes, colors and fonts.
 | [`BrushType`](/html/python-net/aspose.html.drawing/brushtype) | Specifies the type of brush. |
 | [`ColorModel`](/html/python-net/aspose.html.drawing/colormodel) | This enumeration is used to select the color model for working with color components. |
 | [`SpreadMode`](/html/python-net/aspose.html.drawing/spreadmode) | Specifies how a texture or gradient is tiled when it is smaller than the area being filled. |
+| [`WebFontStyle`](/html/python-net/aspose.html.drawing/webfontstyle) | Specifies the formatting applied to the text. |
 | [`WebImageFormat`](/html/python-net/aspose.html.drawing/webimageformat) | Specifies the supported image formats. |
 | [`WebMatrixOrder`](/html/python-net/aspose.html.drawing/webmatrixorder) | Specifies the order in which matrix transformations are applied. |
 

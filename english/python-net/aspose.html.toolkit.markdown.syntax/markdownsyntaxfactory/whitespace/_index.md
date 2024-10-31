@@ -8,6 +8,25 @@ url: /python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/white
 is_root: false
 ---
 
+## whitespace {#}
+
+Create the WhitespaceSyntax.
+
+
+### Returns 
+
+
+The WhitespaceSyntax.
+
+
+```python
+def whitespace(self):
+    ...
+```
+
+
+
+
 ## whitespace {#int}
 
 Create the WhitespaceSyntax.

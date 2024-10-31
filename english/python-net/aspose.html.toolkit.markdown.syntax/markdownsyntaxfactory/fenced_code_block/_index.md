@@ -8,6 +8,29 @@ url: /python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/fence
 is_root: false
 ---
 
+## fenced_code_block {#aspose.html.toolkit.markdown.syntax.MarkdownSyntaxToken-aspose.html.toolkit.markdown.syntax.TextSyntaxNode}
+
+Creates [`FencedCodeBlockSyntaxNode`](/html/python-net/aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode).
+
+
+### Returns 
+
+
+The FencedCodeBlockSyntax.
+
+
+```python
+def fenced_code_block(self, opening, info):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| opening | [`MarkdownSyntaxToken`](/html/python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken) | The opening token. |
+| info | [`TextSyntaxNode`](/html/python-net/aspose.html.toolkit.markdown.syntax/textsyntaxnode) | The TextSyntax. |
+
+
 ## fenced_code_block {#aspose.html.toolkit.markdown.syntax.MarkdownSyntaxToken-aspose.html.toolkit.markdown.syntax.TextSyntaxNode-aspose.html.toolkit.markdown.syntax.MarkdownSyntaxToken}
 
 Creates [`FencedCodeBlockSyntaxNode`](/html/python-net/aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode).

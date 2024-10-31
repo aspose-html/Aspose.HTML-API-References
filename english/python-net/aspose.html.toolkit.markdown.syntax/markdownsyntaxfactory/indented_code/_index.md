@@ -8,6 +8,25 @@ url: /python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inden
 is_root: false
 ---
 
+## indented_code {#}
+
+Creates [`IndentedCodeBlockSyntaxNode`](/html/python-net/aspose.html.toolkit.markdown.syntax/indentedcodeblocksyntaxnode).
+
+
+### Returns 
+
+
+The IndentedCodeBlockSyntax.
+
+
+```python
+def indented_code(self):
+    ...
+```
+
+
+
+
 ## indented_code {#int}
 
 Creates [`IndentedCodeBlockSyntaxNode`](/html/python-net/aspose.html.toolkit.markdown.syntax/indentedcodeblocksyntaxnode).

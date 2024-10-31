@@ -19,7 +19,7 @@ The TextOptions type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [text_rendering_hint](/html/python-net/aspose.html.rendering.image/textoptions/text_rendering_hint) | Sets or gets TextRenderingHint which influences text rendering quality. By default this property is SystemDefault. |
+| [use_hinting](/html/python-net/aspose.html.rendering.image/textoptions/use_hinting) | Specifies whether to use text hinting. By default, hinting is disabled. |
 
 
 

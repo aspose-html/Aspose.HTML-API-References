@@ -40,7 +40,7 @@ The ImageSaveOptions type exposes the following members:
 | [format](/html/python-net/aspose.html.saving/imagesaveoptions/format) | Sets or gets [`ImageFormat`](/html/python-net/aspose.html.rendering.image/imageformat). By default this property is [`ImageFormat.PNG`](/html/python-net/aspose.html.rendering.image/imageformat#PNG). |
 | [compression](/html/python-net/aspose.html.saving/imagesaveoptions/compression) | Sets or gets Tagged Image File Format (TIFF) [`Compression`](/html/python-net/aspose.html.rendering.image/compression). By default this property is [`Compression.LZW`](/html/python-net/aspose.html.rendering.image/compression#LZW). |
 | [text](/html/python-net/aspose.html.saving/imagesaveoptions/text) | Gets a [`TextOptions`](/html/python-net/aspose.html.rendering.image/textoptions) object which is used for configuration of text rendering. |
-| [smoothing_mode](/html/python-net/aspose.html.saving/imagesaveoptions/smoothing_mode) | Gets or sets the rendering quality for this Graphics. |
+| [use_antialiasing](/html/python-net/aspose.html.saving/imagesaveoptions/use_antialiasing) | Specifies whether to use antialiasing. By default, antialiasing is enabled. |
 
 
 
