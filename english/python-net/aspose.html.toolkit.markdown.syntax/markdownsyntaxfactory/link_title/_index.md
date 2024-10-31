@@ -8,6 +8,25 @@ url: /python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/link_
 is_root: false
 ---
 
+## link_title {#}
+
+Creates [`LinkTitleSyntaxNode`](/html/python-net/aspose.html.toolkit.markdown.syntax/linktitlesyntaxnode).
+
+
+### Returns 
+
+
+The [`LinkTitleSyntaxNode`](/html/python-net/aspose.html.toolkit.markdown.syntax/linktitlesyntaxnode) object.
+
+
+```python
+def link_title(self):
+    ...
+```
+
+
+
+
 ## link_title {#str}
 
 Creates LinkTitleSyntaxNode object from a string.

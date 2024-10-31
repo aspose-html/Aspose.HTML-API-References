@@ -24,6 +24,7 @@ The IUserAgentService type exposes the following members:
 | [char_set](/html/python-net/aspose.html.services/iuseragentservice/char_set) | Gets or sets the primary character-set for a document. |
 | [css_engine_mode](/html/python-net/aspose.html.services/iuseragentservice/css_engine_mode) | Gets or sets mode in which CSS engine works. |
 | [fonts_settings](/html/python-net/aspose.html.services/iuseragentservice/fonts_settings) | Gets a [`FontsSettings`](/html/python-net/aspose.html/fontssettings) object which is used for configuration of fonts handling. |
+| [show_image_placeholders](/html/python-net/aspose.html.services/iuseragentservice/show_image_placeholders) | Images can have fallback content: content that should be used when an external resource cannot be used (for example, because it is in an unsupported format). The property [`IUserAgentService.show_image_placeholders`](/html/python-net/aspose.html.services/iuseragentservice#show_image_placeholders) specifies whether to display the fallback image (default is true) |
 
 
 

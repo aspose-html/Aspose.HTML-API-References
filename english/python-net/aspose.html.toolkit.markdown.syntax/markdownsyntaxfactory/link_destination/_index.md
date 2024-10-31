@@ -8,6 +8,25 @@ url: /python-net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/link_
 is_root: false
 ---
 
+## link_destination {#}
+
+Creates [`LinkDestinationSyntaxNode`](/html/python-net/aspose.html.toolkit.markdown.syntax/linkdestinationsyntaxnode).
+
+
+### Returns 
+
+
+The [`LinkDestinationSyntaxNode`](/html/python-net/aspose.html.toolkit.markdown.syntax/linkdestinationsyntaxnode) object .
+
+
+```python
+def link_destination(self):
+    ...
+```
+
+
+
+
 ## link_destination {#str}
 
 Creates LinkDestinationSyntaxNode object from a string.

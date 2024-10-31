@@ -36,10 +36,11 @@ The SourceTextReader type exposes the following members:
 | [advance](/html/python-net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/advance/#int) | The increment position on N |
 | [peek](/html/python-net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/peek/#) | Get the character on position or Character.Null |
 | [peek](/html/python-net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/peek/#int) | Get the char. |
+| [get_line_reader](/html/python-net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/get_line_reader/#) | Get the SourceTextReader |
+| [get_line_reader](/html/python-net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/get_line_reader/#bool) | Get the SourceTextReader |
 | [back](/html/python-net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/back/#) | The decrement position. |
 | [next](/html/python-net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/next/#) | Get the next character and advance position. |
 | [reset](/html/python-net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/reset/#int) | Reset position to index |
-| [get_line_reader](/html/python-net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/get_line_reader/#bool) | Get the SourceTextReader |
 
 
 

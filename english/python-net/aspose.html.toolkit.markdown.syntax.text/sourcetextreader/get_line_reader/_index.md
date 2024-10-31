@@ -8,6 +8,25 @@ url: /python-net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/get_l
 is_root: false
 ---
 
+## get_line_reader {#}
+
+Get the SourceTextReader
+
+
+### Returns 
+
+
+The SourceTextReader.
+
+
+```python
+def get_line_reader(self):
+    ...
+```
+
+
+
+
 ## get_line_reader {#bool}
 
 Get the SourceTextReader
