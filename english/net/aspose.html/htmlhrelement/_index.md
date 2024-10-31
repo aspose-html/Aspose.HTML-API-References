@@ -3,7 +3,7 @@ title: HTMLHRElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLHRElement class. Create a horizontal rule. See the HR element definition in HTML 4.01
 type: docs
-weight: 3480
+weight: 3490
 url: /net/aspose.html/htmlhrelement/
 ---
 ## HTMLHRElement class

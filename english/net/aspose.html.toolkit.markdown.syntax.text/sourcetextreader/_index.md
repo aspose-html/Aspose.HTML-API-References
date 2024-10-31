@@ -3,7 +3,7 @@ title: SourceTextReader Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Text.SourceTextReader class. Represents the SourceTextReader
 type: docs
-weight: 5880
+weight: 5890
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/
 ---
 ## SourceTextReader class
@@ -35,7 +35,8 @@ public class SourceTextReader : IDisposable
 | virtual [Advance](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/advance/#advance_1)(int) | The increment position on N |
 | virtual [Back](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/back/)() | The decrement position. |
 | [Dispose](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/dispose/)() | Defines the Dispose interface. |
-| [GetLineReader](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/getlinereader/)(bool) | Get the SourceTextReader |
+| [GetLineReader](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/getlinereader/#getlinereader)() | Get the SourceTextReader |
+| [GetLineReader](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/getlinereader/#getlinereader_1)(bool) | Get the SourceTextReader |
 | [Next](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/next/)() | Get the next character and advance position. |
 | [Peek](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/peek/#peek)() | Get the character on position or Character.Null |
 | [Peek](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/peek/#peek_1)(int) | Get the char. |

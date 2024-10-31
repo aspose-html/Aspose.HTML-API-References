@@ -3,7 +3,7 @@ title: SourceText Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Text.SourceText class. Base class implements the SourceText
 type: docs
-weight: 5870
+weight: 5880
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetext/
 ---
 ## SourceText class

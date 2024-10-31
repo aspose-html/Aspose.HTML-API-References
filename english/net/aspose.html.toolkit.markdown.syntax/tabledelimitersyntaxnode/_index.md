@@ -3,7 +3,7 @@ title: TableDelimiterSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.TableDelimiterSyntaxNode class. Represent the table delimiter syntax node
 type: docs
-weight: 5820
+weight: 5830
 url: /net/aspose.html.toolkit.markdown.syntax/tabledelimitersyntaxnode/
 ---
 ## TableDelimiterSyntaxNode class

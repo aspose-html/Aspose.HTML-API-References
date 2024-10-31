@@ -3,7 +3,7 @@ title: XpsDevice Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Xps.XpsDevice class. Represents rendering to a xps document
 type: docs
-weight: 4750
+weight: 4760
 url: /net/aspose.html.rendering.xps/xpsdevice/
 ---
 ## XpsDevice class

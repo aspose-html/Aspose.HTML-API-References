@@ -3,7 +3,7 @@ title: GfmSyntaxExtension Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Parser.Extensions.GFM.GfmSyntaxExtension class. Defines the GfmSyntaxExtension
 type: docs
-weight: 5610
+weight: 5620
 url: /net/aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/gfmsyntaxextension/
 ---
 ## GfmSyntaxExtension class

@@ -3,7 +3,7 @@ title: Emphasis Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Emphasis enum. Represents the Emphasis
 type: docs
-weight: 5110
+weight: 5120
 url: /net/aspose.html.toolkit.markdown.syntax/emphasis/
 ---
 ## Emphasis enumeration

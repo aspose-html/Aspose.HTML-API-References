@@ -3,7 +3,7 @@ title: ParsingInstruction Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Parser.ParsingInstruction enum. The ParsingInstruction enum
 type: docs
-weight: 5750
+weight: 5760
 url: /net/aspose.html.toolkit.markdown.syntax.parser/parsinginstruction/
 ---
 ## ParsingInstruction enumeration

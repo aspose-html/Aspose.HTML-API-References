@@ -3,7 +3,7 @@ title: XpsSaveOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.XpsSaveOptions class. Specific options data class provides few properties to manage conversion result. For example PageSetup specifies page characteristics. Refer to documentation article
 type: docs
-weight: 4980
+weight: 4990
 url: /net/aspose.html.saving/xpssaveoptions/
 ---
 ## XpsSaveOptions class

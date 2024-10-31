@@ -3,7 +3,7 @@ title: WebMatrixOrder Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.WebMatrixOrder enum. Specifies the order in which matrix transformations are applied
 type: docs
-weight: 3080
+weight: 3090
 url: /net/aspose.html.drawing/webmatrixorder/
 ---
 ## WebMatrixOrder enumeration

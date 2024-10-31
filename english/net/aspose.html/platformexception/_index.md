@@ -3,7 +3,7 @@ title: PlatformException Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.PlatformException class. Represents the base class for all exceptions that may occur during the application execution
 type: docs
-weight: 4300
+weight: 4310
 url: /net/aspose.html/platformexception/
 ---
 ## PlatformException class

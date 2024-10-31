@@ -6,13 +6,34 @@ type: docs
 weight: 240
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkdestination/
 ---
-## LinkDestination(MarkdownSyntaxToken, MarkdownSyntaxToken) {#linkdestination}
+## LinkDestination() {#linkdestination}
 
 Creates [`LinkDestinationSyntaxNode`](../../linkdestinationsyntaxnode/).
 
 ```csharp
-public LinkDestinationSyntaxNode LinkDestination(MarkdownSyntaxToken opening = null, 
-    MarkdownSyntaxToken closing = null)
+public LinkDestinationSyntaxNode LinkDestination()
+```
+
+### Return Value
+
+The [`LinkDestinationSyntaxNode`](../../linkdestinationsyntaxnode/) object .
+
+### See Also
+
+* class [LinkDestinationSyntaxNode](../../linkdestinationsyntaxnode/)
+* class [MarkdownSyntaxFactory](../)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## LinkDestination(MarkdownSyntaxToken, MarkdownSyntaxToken) {#linkdestination_1}
+
+Creates [`LinkDestinationSyntaxNode`](../../linkdestinationsyntaxnode/).
+
+```csharp
+public LinkDestinationSyntaxNode LinkDestination(MarkdownSyntaxToken opening, 
+    MarkdownSyntaxToken closing)
 ```
 
 | Parameter | Type | Description |
@@ -34,7 +55,7 @@ The [`LinkDestinationSyntaxNode`](../../linkdestinationsyntaxnode/) object .
 
 ---
 
-## LinkDestination(string) {#linkdestination_1}
+## LinkDestination(string) {#linkdestination_2}
 
 Creates LinkDestinationSyntaxNode object from a string.
 
