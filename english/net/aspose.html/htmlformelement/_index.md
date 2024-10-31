@@ -3,7 +3,7 @@ title: HTMLFormElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLFormElement class. The FORM element encompasses behavior similar to a collection and an element. It provides direct access to the contained form controls as well as the attributes of the form element. See the FORM element definition in HTML 4.01
 type: docs
-weight: 3450
+weight: 3460
 url: /net/aspose.html/htmlformelement/
 ---
 ## HTMLFormElement class

@@ -3,7 +3,7 @@ title: HTMLScriptElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLScriptElement class. Script statements. See the SCRIPT element definition in HTML 4.01
 type: docs
-weight: 3730
+weight: 3740
 url: /net/aspose.html/htmlscriptelement/
 ---
 ## HTMLScriptElement class

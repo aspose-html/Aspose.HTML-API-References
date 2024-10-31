@@ -3,7 +3,7 @@ title: ImageRenderingOptions.Text
 second_title: Aspose.HTML for .NET API Reference
 description: ImageRenderingOptions property. Gets a TextOptions object which is used for configuration of text rendering
 type: docs
-weight: 60
+weight: 50
 url: /net/aspose.html.rendering.image/imagerenderingoptions/text/
 ---
 ## ImageRenderingOptions.Text property

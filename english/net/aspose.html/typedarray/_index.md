@@ -3,7 +3,7 @@ title: TypedArray Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.TypedArray class. TypedArray objects present an array-like view of an underlying binary data buffer
 type: docs
-weight: 6030
+weight: 6040
 url: /net/aspose.html/typedarray/
 ---
 ## TypedArray class

@@ -6,12 +6,33 @@ type: docs
 weight: 500
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/
 ---
-## Whitespace(int) {#whitespace_2}
+## Whitespace() {#whitespace}
 
 Create the WhitespaceSyntax.
 
 ```csharp
-public WhitespaceSyntaxNode Whitespace(int count = 1)
+public WhitespaceSyntaxNode Whitespace()
+```
+
+### Return Value
+
+The WhitespaceSyntax.
+
+### See Also
+
+* class [WhitespaceSyntaxNode](../../whitespacesyntaxnode/)
+* class [MarkdownSyntaxFactory](../)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## Whitespace(int) {#whitespace_3}
+
+Create the WhitespaceSyntax.
+
+```csharp
+public WhitespaceSyntaxNode Whitespace(int count)
 ```
 
 | Parameter | Type | Description |
@@ -31,7 +52,7 @@ The WhitespaceSyntax.
 
 ---
 
-## Whitespace(SourceText) {#whitespace}
+## Whitespace(SourceText) {#whitespace_1}
 
 Create the WhitespaceSyntax.
 
@@ -57,7 +78,7 @@ The WhitespaceSyntax.
 
 ---
 
-## Whitespace(SourceText, TextSpan) {#whitespace_1}
+## Whitespace(SourceText, TextSpan) {#whitespace_2}
 
 Creates [`WhitespaceSyntaxNode`](../../whitespacesyntaxnode/).
 

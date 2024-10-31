@@ -48,5 +48,6 @@ The **Aspose.Html.Drawing** namespace contains objects and interfaces to specify
 | [BrushType](./brushtype/) | Specifies the type of brush. |
 | [ColorModel](./colormodel/) | This enumeration is used to select the color model for working with color components. |
 | [SpreadMode](./spreadmode/) | Specifies how a texture or gradient is tiled when it is smaller than the area being filled. |
+| [WebFontStyle](./webfontstyle/) | Specifies the formatting applied to the text. |
 | [WebImageFormat](./webimageformat/) | Specifies the supported image formats. |
 | [WebMatrixOrder](./webmatrixorder/) | Specifies the order in which matrix transformations are applied. |

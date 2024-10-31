@@ -3,7 +3,7 @@ title: ContainerBlockSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.ContainerBlockSyntaxNode class. Base implementation of the ContainerBlockSyntaxNode
 type: docs
-weight: 5100
+weight: 5110
 url: /net/aspose.html.toolkit.markdown.syntax/containerblocksyntaxnode/
 ---
 ## ContainerBlockSyntaxNode class

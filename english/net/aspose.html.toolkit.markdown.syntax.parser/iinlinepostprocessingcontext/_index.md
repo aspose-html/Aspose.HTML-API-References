@@ -3,7 +3,7 @@ title: IInlinePostProcessingContext Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Parser.IInlinePostProcessingContext interface. Defines the interface IInlinePostProcessingContext
 type: docs
-weight: 5670
+weight: 5680
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/
 ---
 ## IInlinePostProcessingContext interface

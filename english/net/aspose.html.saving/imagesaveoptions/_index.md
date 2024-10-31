@@ -3,7 +3,7 @@ title: ImageSaveOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.ImageSaveOptions class. Specific options data class. It provides properties to manage image result resolution smooting quality format as well as page settings and etc. More info you can obtain in documentation article
 type: docs
-weight: 4820
+weight: 4830
 url: /net/aspose.html.saving/imagesaveoptions/
 ---
 ## ImageSaveOptions class
@@ -31,8 +31,8 @@ public class ImageSaveOptions : ImageRenderingOptions
 | [Format](../../aspose.html.rendering.image/imagerenderingoptions/format/) { get; set; } | Sets or gets [`ImageFormat`](../../aspose.html.rendering.image/imageformat/). By default this property is Png. |
 | override [HorizontalResolution](../../aspose.html.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | Sets or gets horizontal resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 | [PageSetup](../../aspose.html.rendering/renderingoptions/pagesetup/) { get; } | Gets a page setup object is used for configuration output page-set. |
-| [SmoothingMode](../../aspose.html.rendering.image/imagerenderingoptions/smoothingmode/) { get; set; } | Gets or sets the rendering quality for this Graphics. |
 | [Text](../../aspose.html.rendering.image/imagerenderingoptions/text/) { get; } | Gets a [`TextOptions`](../../aspose.html.rendering.image/textoptions/) object which is used for configuration of text rendering. |
+| [UseAntialiasing](../../aspose.html.rendering.image/imagerenderingoptions/useantialiasing/) { get; set; } | Specifies whether to use antialiasing. By default, antialiasing is enabled. |
 | override [VerticalResolution](../../aspose.html.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | Sets or gets vertical resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 
 ## Remarks

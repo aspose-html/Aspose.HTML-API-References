@@ -6,13 +6,33 @@ type: docs
 weight: 270
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linktitle/
 ---
-## LinkTitle(MarkdownSyntaxToken, MarkdownSyntaxToken) {#linktitle}
+## LinkTitle() {#linktitle}
 
 Creates [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/).
 
 ```csharp
-public LinkTitleSyntaxNode LinkTitle(MarkdownSyntaxToken opening = null, 
-    MarkdownSyntaxToken closing = null)
+public LinkTitleSyntaxNode LinkTitle()
+```
+
+### Return Value
+
+The [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/) object.
+
+### See Also
+
+* class [LinkTitleSyntaxNode](../../linktitlesyntaxnode/)
+* class [MarkdownSyntaxFactory](../)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## LinkTitle(MarkdownSyntaxToken, MarkdownSyntaxToken) {#linktitle_1}
+
+Creates [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/).
+
+```csharp
+public LinkTitleSyntaxNode LinkTitle(MarkdownSyntaxToken opening, MarkdownSyntaxToken closing)
 ```
 
 | Parameter | Type | Description |
@@ -34,7 +54,7 @@ The [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/) object.
 
 ---
 
-## LinkTitle(string) {#linktitle_1}
+## LinkTitle(string) {#linktitle_2}
 
 Creates LinkTitleSyntaxNode object from a string.
 

@@ -11,11 +11,12 @@ url: /net/aspose.html.rendering/graphiccontext/fontstyle/
 Sets or gets text font style.
 
 ```csharp
-public virtual FontStyle FontStyle { get; set; }
+public virtual WebFontStyle FontStyle { get; set; }
 ```
 
 ### See Also
 
+* enum [WebFontStyle](../../../aspose.html.drawing/webfontstyle/)
 * class [GraphicContext](../)
 * namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

@@ -6,13 +6,41 @@ type: docs
 weight: 120
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/fencedcodeblock/
 ---
-## MarkdownSyntaxFactory.FencedCodeBlock method
+## FencedCodeBlock(MarkdownSyntaxToken, TextSyntaxNode) {#fencedcodeblock}
+
+Creates [`FencedCodeBlockSyntaxNode`](../../fencedcodeblocksyntaxnode/).
+
+```csharp
+public FencedCodeBlockSyntaxNode FencedCodeBlock(MarkdownSyntaxToken opening, TextSyntaxNode info)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| opening | MarkdownSyntaxToken | The opening token. |
+| info | TextSyntaxNode | The TextSyntax. |
+
+### Return Value
+
+The FencedCodeBlockSyntax.
+
+### See Also
+
+* class [FencedCodeBlockSyntaxNode](../../fencedcodeblocksyntaxnode/)
+* class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
+* class [TextSyntaxNode](../../textsyntaxnode/)
+* class [MarkdownSyntaxFactory](../)
+* namespace [Aspose.Html.Toolkit.Markdown.Syntax](../../../aspose.html.toolkit.markdown.syntax/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## FencedCodeBlock(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken) {#fencedcodeblock_1}
 
 Creates [`FencedCodeBlockSyntaxNode`](../../fencedcodeblocksyntaxnode/).
 
 ```csharp
 public FencedCodeBlockSyntaxNode FencedCodeBlock(MarkdownSyntaxToken opening, TextSyntaxNode info, 
-    MarkdownSyntaxToken closing = null)
+    MarkdownSyntaxToken closing)
 ```
 
 | Parameter | Type | Description |

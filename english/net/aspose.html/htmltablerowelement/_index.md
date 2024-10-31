@@ -3,7 +3,7 @@ title: HTMLTableRowElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLTableRowElement class. A row in a table. See the TR element definition in HTML 4.01
 type: docs
-weight: 3800
+weight: 3810
 url: /net/aspose.html/htmltablerowelement/
 ---
 ## HTMLTableRowElement class

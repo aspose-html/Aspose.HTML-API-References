@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.MarkdownSyntaxFactory class. Factory used to create various MarkdownSyntaxNode descendants
 type: docs
-weight: 5430
+weight: 5440
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/
 ---
 ## MarkdownSyntaxFactory class
@@ -21,7 +21,8 @@ public class MarkdownSyntaxFactory
 | [AtxHeading](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/atxheading/#atxheading_1)(string) | Creates AtxHeadingSyntaxNode with text content. |
 | [AtxHeading](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/atxheading/#atxheading)(MarkdownSyntaxToken, MarkdownSyntaxToken) | Creates [`AtxHeadingSyntaxNode`](../atxheadingsyntaxnode/). |
 | [AtxHeading](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/atxheading/#atxheading_2)(string, int) | Creates AtxHeadingSyntaxNode with text content and heading level. |
-| [AutoLink](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/autolink/)(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken, bool) | Creates [`AutoLinkSyntaxNode`](../autolinksyntaxnode/). |
+| [AutoLink](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/autolink/#autolink)(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken) | Creates [`AutoLinkSyntaxNode`](../autolinksyntaxnode/). |
+| [AutoLink](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/autolink/#autolink_1)(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken, bool) | Creates [`AutoLinkSyntaxNode`](../autolinksyntaxnode/). |
 | [BlockProxy](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/blockproxy/)(MarkdownSyntaxNode) | Creates [`BlockProxy`](../blockproxy/). |
 | [BlockQuote](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/blockquote/)() | Creates [`BlockQuoteSyntaxNode`](../blockquotesyntaxnode/). |
 | [CharacterReference](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/characterreference/)(SourceText, TextSpan, string) | Creates [`WhitespaceSyntaxNode`](../whitespacesyntaxnode/). |
@@ -35,7 +36,8 @@ public class MarkdownSyntaxFactory
 | [EmptyLine](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emptyline/)() | Creates [`EmptyLineSyntaxNode`](../emptylinesyntaxnode/). |
 | [EscapedCharacter](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/escapedcharacter/#escapedcharacter_1)(char) | Creates [`TextSyntaxNode`](../textsyntaxnode/). |
 | [EscapedCharacter](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/escapedcharacter/#escapedcharacter)(SourceText, TextSpan) | Creates [`TextSyntaxNode`](../textsyntaxnode/). |
-| [FencedCodeBlock](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/fencedcodeblock/)(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken) | Creates [`FencedCodeBlockSyntaxNode`](../fencedcodeblocksyntaxnode/). |
+| [FencedCodeBlock](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/fencedcodeblock/#fencedcodeblock)(MarkdownSyntaxToken, TextSyntaxNode) | Creates [`FencedCodeBlockSyntaxNode`](../fencedcodeblocksyntaxnode/). |
+| [FencedCodeBlock](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/fencedcodeblock/#fencedcodeblock_1)(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken) | Creates [`FencedCodeBlockSyntaxNode`](../fencedcodeblocksyntaxnode/). |
 | [HardBreak](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hardbreak/)(MarkdownSyntaxToken, SourceText, TextSpan) | Creates [`HardBreakSyntaxNode`](../hardbreaksyntaxnode/). |
 | [HardBreakingTag](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hardbreakingtag/)(SourceText, TextSpan) | Create HardBreakingTag. |
 | [HTMLFragment](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/htmlfragment/#htmlfragment)() | Creates [`HTMLFragmentSyntax`](../htmlfragmentsyntax/). |
@@ -43,19 +45,22 @@ public class MarkdownSyntaxFactory
 | [HugoShortCode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hugoshortcode/)(MarkdownSyntaxToken, MarkdownSyntaxToken, MarkdownSyntaxToken) | Creates [`HugoShortCodeSyntaxNode`](../../aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/). |
 | [HugoShortCodeParameter](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hugoshortcodeparameter/)(TextSyntaxNode, MarkdownSyntaxToken, MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken) | Creates [`ShortCodeParameterSyntaxNode`](../../aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/). |
 | [HugoYamlBasedFrontMatter](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hugoyamlbasedfrontmatter/)(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken) | Creates [`HugoYamlBasedFrontMatterSyntaxNode`](../../aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/). |
-| [IndentedCode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/indentedcode/)(int) | Creates [`IndentedCodeBlockSyntaxNode`](../indentedcodeblocksyntaxnode/). |
+| [IndentedCode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/indentedcode/#indentedcode)() | Creates [`IndentedCodeBlockSyntaxNode`](../indentedcodeblocksyntaxnode/). |
+| [IndentedCode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/indentedcode/#indentedcode_1)(int) | Creates [`IndentedCodeBlockSyntaxNode`](../indentedcodeblocksyntaxnode/). |
 | [InlineContainer](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinecontainer/)() | Creates [`InlineContainerSyntaxNode`](../inlinecontainersyntaxnode/). |
 | [InlineImage](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlineimage/#inlineimage_1)(string, string, string) | Creates [`InlineImageSyntaxNode`](../inlineimagesyntaxnode/). |
 | [InlineImage](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlineimage/#inlineimage)(MarkdownSyntaxToken, MarkdownSyntaxToken, MarkdownSyntaxToken, LinkDestinationSyntaxNode, LinkTitleSyntaxNode, MarkdownSyntaxToken) | Creates [`InlineImageSyntaxNode`](../inlineimagesyntaxnode/). |
 | [InlineLink](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinelink/#inlinelink_1)(string, string, string) | Creates InlineLink. |
 | [InlineLink](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinelink/#inlinelink)(MarkdownSyntaxToken, MarkdownSyntaxToken, MarkdownSyntaxToken, LinkDestinationSyntaxNode, LinkTitleSyntaxNode, MarkdownSyntaxToken) | Creates [`InlineLinkSyntaxNode`](../inlinelinksyntaxnode/). |
 | [InlineProxy](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlineproxy/)(MarkdownSyntaxNode) | Creates [`InlineProxy`](../inlineproxy/). |
-| [LinkDestination](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkdestination/#linkdestination_1)(string) | Creates LinkDestinationSyntaxNode object from a string. |
-| [LinkDestination](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkdestination/#linkdestination)(MarkdownSyntaxToken, MarkdownSyntaxToken) | Creates [`LinkDestinationSyntaxNode`](../linkdestinationsyntaxnode/). |
+| [LinkDestination](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkdestination/#linkdestination)() | Creates [`LinkDestinationSyntaxNode`](../linkdestinationsyntaxnode/). |
+| [LinkDestination](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkdestination/#linkdestination_2)(string) | Creates LinkDestinationSyntaxNode object from a string. |
+| [LinkDestination](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkdestination/#linkdestination_1)(MarkdownSyntaxToken, MarkdownSyntaxToken) | Creates [`LinkDestinationSyntaxNode`](../linkdestinationsyntaxnode/). |
 | [LinkLabel](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linklabel/)(string) | Creates link label from a string. |
 | [LinkReferenceDefinition](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkreferencedefinition/)(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken, LinkDestinationSyntaxNode, LinkTitleSyntaxNode) | Creates [`LinkReferenceDefinitionSyntaxNode`](../linkreferencedefinitionsyntaxnode/). |
-| [LinkTitle](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linktitle/#linktitle_1)(string) | Creates LinkTitleSyntaxNode object from a string. |
-| [LinkTitle](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linktitle/#linktitle)(MarkdownSyntaxToken, MarkdownSyntaxToken) | Creates [`LinkTitleSyntaxNode`](../linktitlesyntaxnode/). |
+| [LinkTitle](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linktitle/#linktitle)() | Creates [`LinkTitleSyntaxNode`](../linktitlesyntaxnode/). |
+| [LinkTitle](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linktitle/#linktitle_2)(string) | Creates LinkTitleSyntaxNode object from a string. |
+| [LinkTitle](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linktitle/#linktitle_1)(MarkdownSyntaxToken, MarkdownSyntaxToken) | Creates [`LinkTitleSyntaxNode`](../linktitlesyntaxnode/). |
 | [ListItem](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/listitem/)(ListItemMarker) | Creates [`ListItemSyntaxNode`](../listitemsyntaxnode/). |
 | [ListItemMarker](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/listitemmarker/#listitemmarker)(MarkdownSyntaxToken) | Creates [`ListItemMarker`](../listitemmarker/). |
 | [ListItemMarker](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/listitemmarker/#listitemmarker_1)(MarkdownSyntaxToken, MarkdownSyntaxToken) | Creates [`ListItemMarker`](../listitemmarker/). |
@@ -82,9 +87,10 @@ public class MarkdownSyntaxFactory
 | [Trivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/trivia/)(SourceText, TextSpan) | Creates Whitespace. |
 | [UnorderedList](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/unorderedlist/)() | Creates [`UnorderedListSyntaxNode`](../unorderedlistsyntaxnode/). |
 | [UnorderedListItem](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/unorderedlistitem/)(string) | Creates a new instance of the [`ListItemSyntaxNode`](../listitemsyntaxnode/) class with unordered list item marker. |
-| [Whitespace](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/#whitespace_2)(int) | Create the WhitespaceSyntax. |
-| [Whitespace](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/#whitespace)(SourceText) | Create the WhitespaceSyntax. |
-| [Whitespace](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/#whitespace_1)(SourceText, TextSpan) | Creates [`WhitespaceSyntaxNode`](../whitespacesyntaxnode/). |
+| [Whitespace](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/#whitespace)() | Create the WhitespaceSyntax. |
+| [Whitespace](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/#whitespace_3)(int) | Create the WhitespaceSyntax. |
+| [Whitespace](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/#whitespace_1)(SourceText) | Create the WhitespaceSyntax. |
+| [Whitespace](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/#whitespace_2)(SourceText, TextSpan) | Creates [`WhitespaceSyntaxNode`](../whitespacesyntaxnode/). |
 
 ### See Also
 

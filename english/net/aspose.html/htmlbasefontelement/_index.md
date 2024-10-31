@@ -3,7 +3,7 @@ title: HTMLBaseFontElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLBaseFontElement class. Base font. See the BASEFONT element definition in HTML 4.01. This element is deprecated in HTML 4.01
 type: docs
-weight: 3330
+weight: 3340
 url: /net/aspose.html/htmlbasefontelement/
 ---
 ## HTMLBaseFontElement class

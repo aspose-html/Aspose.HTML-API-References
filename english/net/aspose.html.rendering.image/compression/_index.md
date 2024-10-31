@@ -3,7 +3,7 @@ title: Compression Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Image.Compression enum. Specifies the possible compression schemes for Tagged Image File Format TIFF bitmap images
 type: docs
-weight: 4500
+weight: 4510
 url: /net/aspose.html.rendering.image/compression/
 ---
 ## Compression enumeration

@@ -3,7 +3,7 @@ title: SVGPathOptimizationOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Optimizers.SVGPathOptimizationOptions class. SVGPathOptimizationOptions is a class for storing options for optimizing segments of SVG path elements
 type: docs
-weight: 6020
+weight: 6030
 url: /net/aspose.html.toolkit.optimizers/svgpathoptimizationoptions/
 ---
 ## SVGPathOptimizationOptions class

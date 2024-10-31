@@ -3,7 +3,7 @@ title: SelectElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Forms.SelectElement class. The SelectElement represents a wrapper that is associated with the HTMLSelectElement
 type: docs
-weight: 3240
+weight: 3250
 url: /net/aspose.html.forms/selectelement/
 ---
 ## SelectElement class

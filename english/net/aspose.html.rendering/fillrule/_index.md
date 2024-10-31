@@ -3,7 +3,7 @@ title: FillRule Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.FillRule enum. Specifies the fill rule used in rendering SVG and HTML
 type: docs
-weight: 4430
+weight: 4440
 url: /net/aspose.html.rendering/fillrule/
 ---
 ## FillRule enumeration
