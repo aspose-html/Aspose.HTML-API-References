@@ -1,10 +1,10 @@
 ---
 title: ValidationBuilder.UseHighestLevel
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: ValidationBuilder method. Use Highest Level AAA of Criterion in Rules
 type: docs
 weight: 100
-url: /net/com.aspose.html.accessibility/validationbuilder/usehighestlevel/
+url: /java/com.aspose.html.accessibility/validationbuilder/usehighestlevel/
 ---
 ## ValidationBuilder.UseHighestLevel method
 

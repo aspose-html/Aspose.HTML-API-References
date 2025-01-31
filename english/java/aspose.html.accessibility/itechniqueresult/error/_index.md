@@ -1,10 +1,10 @@
 ---
 title: ITechniqueResult.Error
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: ITechniqueResult property. Error object that implemented interface IError
 type: docs
 weight: 10
-url: /net/com.aspose.html.accessibility/itechniqueresult/error/
+url: /java/com.aspose.html.accessibility/itechniqueresult/error/
 ---
 ## ITechniqueResult.Error property
 

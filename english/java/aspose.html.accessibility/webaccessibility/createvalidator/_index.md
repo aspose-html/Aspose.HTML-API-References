@@ -1,10 +1,10 @@
 ---
 title: WebAccessibility.CreateValidator
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: WebAccessibility method. An AccessibilityValidator instance is created for a specific rule given the full parameters of the ValidationBuilder.All object
 type: docs
 weight: 30
-url: /net/com.aspose.html.accessibility/webaccessibility/createvalidator/
+url: /java/com.aspose.html.accessibility/webaccessibility/createvalidator/
 ---
 ## CreateValidator(IRule) {#createvalidator_1}
 

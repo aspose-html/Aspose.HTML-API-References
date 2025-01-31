@@ -1,10 +1,10 @@
 ---
 title: WebAccessibility Class
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Accessibility.WebAccessibility class. Object to Web Content Accessibility Guidelines WCAG 2 requirements success criteria and techniques. https//www.w3.org/WAI/WCAG21/quickref/
 type: docs
 weight: 160
-url: /net/com.aspose.html.accessibility/webaccessibility/
+url: /java/com.aspose.html.accessibility/webaccessibility/
 ---
 ## WebAccessibility class
 

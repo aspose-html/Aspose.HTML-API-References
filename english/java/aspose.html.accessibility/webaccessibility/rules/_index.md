@@ -1,10 +1,10 @@
 ---
 title: WebAccessibility.Rules
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: WebAccessibility property. Return list of all rules
 type: docs
 weight: 20
-url: /net/com.aspose.html.accessibility/webaccessibility/rules/
+url: /java/com.aspose.html.accessibility/webaccessibility/rules/
 ---
 ## WebAccessibility.Rules property
 

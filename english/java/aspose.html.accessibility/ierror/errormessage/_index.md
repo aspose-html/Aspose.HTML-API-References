@@ -1,10 +1,10 @@
 ---
 title: IError.ErrorMessage
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: IError property. Message of the error or warning
 type: docs
 weight: 10
-url: /net/com.aspose.html.accessibility/ierror/errormessage/
+url: /java/com.aspose.html.accessibility/ierror/errormessage/
 ---
 ## IError.ErrorMessage property
 

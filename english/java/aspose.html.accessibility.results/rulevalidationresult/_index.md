@@ -1,10 +1,10 @@
 ---
 title: RuleValidationResult Class
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Accessibility.Results.RuleValidationResult class. Class - result of rule check contains a list of ITechniqueResult which are ways to satisfy the success criteria
 type: docs
 weight: 90
-url: /net/com.aspose.html.accessibility.results/rulevalidationresult/
+url: /java/com.aspose.html.accessibility.results/rulevalidationresult/
 ---
 ## RuleValidationResult class
 

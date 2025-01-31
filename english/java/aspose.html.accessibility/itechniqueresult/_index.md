@@ -1,10 +1,10 @@
 ---
 title: ITechniqueResult Interface
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Accessibility.ITechniqueResult interface. Describes the result of the technique validation
 type: docs
 weight: 70
-url: /net/com.aspose.html.accessibility/itechniqueresult/
+url: /java/com.aspose.html.accessibility/itechniqueresult/
 ---
 ## ITechniqueResult interface
 

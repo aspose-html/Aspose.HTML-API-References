@@ -1,10 +1,10 @@
 ---
 title: ValidationBuilder.UseScript
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: ValidationBuilder method. A method that includes ClientSideScript technologies in a set of rules
 type: docs
 weight: 140
-url: /net/com.aspose.html.accessibility/validationbuilder/usescript/
+url: /java/com.aspose.html.accessibility/validationbuilder/usescript/
 ---
 ## ValidationBuilder.UseScript method
 

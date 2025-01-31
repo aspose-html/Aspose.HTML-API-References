@@ -1,10 +1,10 @@
 ---
 title: ValidationBuilder.All
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: ValidationBuilder property. Includes all levels and all technologies settings
 type: docs
 weight: 10
-url: /net/com.aspose.html.accessibility/validationbuilder/all/
+url: /java/com.aspose.html.accessibility/validationbuilder/all/
 ---
 ## ValidationBuilder.All property
 

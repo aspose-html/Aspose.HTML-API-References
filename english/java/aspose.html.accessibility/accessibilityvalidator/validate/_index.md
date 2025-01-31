@@ -1,10 +1,10 @@
 ---
 title: AccessibilityValidator.Validate
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: AccessibilityValidator method. Checks all methods in the Rule List
 type: docs
 weight: 10
-url: /net/com.aspose.html.accessibility/accessibilityvalidator/validate/
+url: /java/com.aspose.html.accessibility/accessibilityvalidator/validate/
 ---
 ## AccessibilityValidator.Validate method
 

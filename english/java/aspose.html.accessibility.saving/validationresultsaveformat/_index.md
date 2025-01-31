@@ -1,10 +1,10 @@
 ---
 title: ValidationResultSaveFormat Enum
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Accessibility.Saving.ValidationResultSaveFormat enum. Specifies format in which result is saved
 type: docs
 weight: 120
-url: /net/com.aspose.html.accessibility.saving/validationresultsaveformat/
+url: /java/com.aspose.html.accessibility.saving/validationresultsaveformat/
 ---
 ## ValidationResultSaveFormat enumeration
 

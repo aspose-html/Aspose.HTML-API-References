@@ -1,10 +1,10 @@
 ---
 title: ValidationResult Class
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Accessibility.Results.ValidationResult class. The main result class that contains Results for all Criterion from AccessibilityRules object
 type: docs
 weight: 100
-url: /net/com.aspose.html.accessibility.results/validationresult/
+url: /java/com.aspose.html.accessibility.results/validationresult/
 ---
 ## ValidationResult class
 

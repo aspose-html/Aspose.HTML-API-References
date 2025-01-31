@@ -1,10 +1,10 @@
 ---
 title: IError.Success
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: IError property. Returns result of the criterion
 type: docs
 weight: 40
-url: /net/com.aspose.html.accessibility/ierror/success/
+url: /java/com.aspose.html.accessibility/ierror/success/
 ---
 ## IError.Success property
 

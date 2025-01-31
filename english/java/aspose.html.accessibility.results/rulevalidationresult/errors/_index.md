@@ -1,10 +1,10 @@
 ---
 title: RuleValidationResult.Errors
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: RuleValidationResult property. Collection of results with Errors
 type: docs
 weight: 10
-url: /net/com.aspose.html.accessibility.results/rulevalidationresult/errors/
+url: /java/com.aspose.html.accessibility.results/rulevalidationresult/errors/
 ---
 ## RuleValidationResult.Errors property
 

@@ -1,10 +1,10 @@
 ---
 title: Guideline.GetCriterion
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: Guideline method. Get Criterion by code from WCAG
 type: docs
 weight: 10
-url: /net/com.aspose.html.accessibility/guideline/getcriterion/
+url: /java/com.aspose.html.accessibility/guideline/getcriterion/
 ---
 ## Guideline.GetCriterion method
 

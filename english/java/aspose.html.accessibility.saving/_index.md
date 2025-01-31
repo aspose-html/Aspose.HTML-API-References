@@ -1,10 +1,10 @@
 ---
 title: com.aspose.html.Accessibility.Saving
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.Accessibility.Saving package is designed to save validation results various formats
 type: docs
 weight: 40
-url: /net/com.aspose.html.accessibility.saving/
+url: /java/com.aspose.html.accessibility.saving/
 ---
 The **com.aspose.html.Accessibility.Saving** package is designed to save validation results various formats.
 

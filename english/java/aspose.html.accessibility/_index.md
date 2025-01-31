@@ -1,10 +1,10 @@
 ---
 title: com.aspose.html.Accessibility
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.Dom.Accessibility package is for all Web Accessibility related manipulations. complies with international standards W3C Web Accessibility Initiative
 type: docs
 weight: 20
-url: /net/com.aspose.html.accessibility/
+url: /java/com.aspose.html.accessibility/
 ---
 The **com.aspose.html.Dom.Accessibility** package is for all Web Accessibility related manipulations. complies with international standards W3C Web Accessibility Initiative
 

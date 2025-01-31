@@ -1,10 +1,10 @@
 ---
 title: Rule Class
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Accessibility.Rule class. An abstract class that defines the characteristics of a Rule and implements interface IRule
 type: docs
 weight: 110
-url: /net/com.aspose.html.accessibility/rule/
+url: /java/com.aspose.html.accessibility/rule/
 ---
 ## Rule class
 

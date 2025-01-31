@@ -1,10 +1,10 @@
 ---
 title: IError.ErrorType
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: IError property. returns Error type numeric value
 type: docs
 weight: 20
-url: /net/com.aspose.html.accessibility/ierror/errortype/
+url: /java/com.aspose.html.accessibility/ierror/errortype/
 ---
 ## IError.ErrorType property
 

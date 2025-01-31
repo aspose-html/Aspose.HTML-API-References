@@ -1,10 +1,10 @@
 ---
 title: AccessibilityRules.GetRules
-second_title: Aspose.HTML for .NET API Reference
+second_title: Aspose.HTML for Java API Reference
 description: AccessibilityRules method. Get rules by codes from WCAG with type IRule
 type: docs
 weight: 30
-url: /net/com.aspose.html.accessibility/accessibilityrules/getrules/
+url: /java/com.aspose.html.accessibility/accessibilityrules/getrules/
 ---
 ## AccessibilityRules.GetRules method
 
