@@ -1,16 +1,16 @@
 ---
 title: Target Class
 second_title: Aspose.HTML for .NET API Reference
-description: Aspose.Html.Accessibility.Target class. Class contains item of html or css element where the error was found
+description: com.aspose.html.Accessibility.Target class. Class contains item of html or css element where the error was found
 type: docs
 weight: 130
-url: /net/aspose.html.accessibility/target/
+url: /net/com.aspose.html.accessibility/target/
 ---
 ## Target class
 
 Class contains item of html or css element where the error was found.
 
-```csharp
+```java
 public class Target
 ```
 
@@ -18,10 +18,10 @@ public class Target
 
 | Name | Description |
 | --- | --- |
-| [Item](../../aspose.html.accessibility/target/item/) { get; } | Returns Object of html or css element. |
-| [TargetType](../../aspose.html.accessibility/target/targettype/) { get; } | Returns the type of the contained object |
+| [getItem](../../com.aspose.html.accessibility/target/item/) Returns Object of html or css element. |
+| [getTargetType](../../com.aspose.html.accessibility/target/targettype/) Returns the type of the contained object |
 
 ### See Also
 
-* namespace [Aspose.Html.Accessibility](../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../)
+* package [com.aspose.html.Accessibility](../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../)

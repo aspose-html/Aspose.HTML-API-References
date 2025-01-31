@@ -1,16 +1,16 @@
 ---
 title: IError Interface
 second_title: Aspose.HTML for .NET API Reference
-description: Aspose.Html.Accessibility.IError interface. The interface describes the error of the validation
+description: com.aspose.html.Accessibility.IError interface. The interface describes the error of the validation
 type: docs
 weight: 50
-url: /net/aspose.html.accessibility/ierror/
+url: /net/com.aspose.html.accessibility/ierror/
 ---
 ## IError interface
 
 The interface describes the error of the validation
 
-```csharp
+```java
 public interface IError
 ```
 
@@ -18,13 +18,13 @@ public interface IError
 
 | Name | Description |
 | --- | --- |
-| [ErrorMessage](../../aspose.html.accessibility/ierror/errormessage/) { get; } | Message of the error or warning. |
-| [ErrorType](../../aspose.html.accessibility/ierror/errortype/) { get; } | returns Error type numeric value |
-| [ErrorTypeName](../../aspose.html.accessibility/ierror/errortypename/) { get; } | Presentation description of object |
-| [Success](../../aspose.html.accessibility/ierror/success/) { get; } | Returns result of the criterion. |
-| [Target](../../aspose.html.accessibility/ierror/target/) { get; } | Return html or css object with error |
+| [getErrorMessage](../../com.aspose.html.accessibility/ierror/errormessage/) Message of the error or warning. |
+| [getErrorType](../../com.aspose.html.accessibility/ierror/errortype/) returns Error type numeric value |
+| [getErrorTypeName](../../com.aspose.html.accessibility/ierror/errortypename/) Presentation description of object |
+| [getSuccess](../../com.aspose.html.accessibility/ierror/success/) Returns result of the criterion. |
+| [getTarget](../../com.aspose.html.accessibility/ierror/target/) Return html or css object with error |
 
 ### See Also
 
-* namespace [Aspose.Html.Accessibility](../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../)
+* package [com.aspose.html.Accessibility](../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../)

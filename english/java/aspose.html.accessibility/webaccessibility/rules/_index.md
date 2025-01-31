@@ -4,13 +4,13 @@ second_title: Aspose.HTML for .NET API Reference
 description: WebAccessibility property. Return list of all rules
 type: docs
 weight: 20
-url: /net/aspose.html.accessibility/webaccessibility/rules/
+url: /net/com.aspose.html.accessibility/webaccessibility/rules/
 ---
 ## WebAccessibility.Rules property
 
 Return list of all rules
 
-```csharp
+```java
 public AccessibilityRules Rules { get; }
 ```
 
@@ -18,5 +18,5 @@ public AccessibilityRules Rules { get; }
 
 * class [AccessibilityRules](../../accessibilityrules/)
 * class [WebAccessibility](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

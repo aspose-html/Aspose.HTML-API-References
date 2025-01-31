@@ -4,13 +4,13 @@ second_title: Aspose.HTML for .NET API Reference
 description: Criterion property. The methods are of a recommendatory nature
 type: docs
 weight: 10
-url: /net/aspose.html.accessibility/criterion/advisorytechniques/
+url: /net/com.aspose.html.accessibility/criterion/advisorytechniques/
 ---
 ## Criterion.AdvisoryTechniques property
 
 The methods are of a recommendatory nature.
 
-```csharp
+```java
 public IList<IRule> AdvisoryTechniques { get; }
 ```
 
@@ -18,5 +18,5 @@ public IList<IRule> AdvisoryTechniques { get; }
 
 * interface [IRule](../../irule/)
 * class [Criterion](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

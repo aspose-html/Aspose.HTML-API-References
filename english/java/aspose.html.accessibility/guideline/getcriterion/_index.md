@@ -4,14 +4,14 @@ second_title: Aspose.HTML for .NET API Reference
 description: Guideline method. Get Criterion by code from WCAG
 type: docs
 weight: 10
-url: /net/aspose.html.accessibility/guideline/getcriterion/
+url: /net/com.aspose.html.accessibility/guideline/getcriterion/
 ---
 ## Guideline.GetCriterion method
 
 Get Criterion by code from WCAG
 
-```csharp
-public Criterion GetCriterion(string code)
+```java
+public Criterion GetCriterion(String code)
 ```
 
 | Parameter | Type | Description |
@@ -26,5 +26,5 @@ Criterion object
 
 * class [Criterion](../../criterion/)
 * class [Guideline](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

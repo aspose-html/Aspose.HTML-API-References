@@ -4,13 +4,13 @@ second_title: Aspose.HTML for .NET API Reference
 description: Principle method. Get all the Guidelines contained in the Principle
 type: docs
 weight: 20
-url: /net/aspose.html.accessibility/principle/getguidelines/
+url: /net/com.aspose.html.accessibility/principle/getguidelines/
 ---
 ## Principle.GetGuidelines method
 
 Get all the Guidelines contained in the Principle
 
-```csharp
+```java
 public Guideline[] GetGuidelines()
 ```
 
@@ -22,5 +22,5 @@ list of Guidelines
 
 * class [Guideline](../../guideline/)
 * class [Principle](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

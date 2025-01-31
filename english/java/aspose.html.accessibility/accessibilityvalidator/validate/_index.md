@@ -4,13 +4,13 @@ second_title: Aspose.HTML for .NET API Reference
 description: AccessibilityValidator method. Checks all methods in the Rule List
 type: docs
 weight: 10
-url: /net/aspose.html.accessibility/accessibilityvalidator/validate/
+url: /net/com.aspose.html.accessibility/accessibilityvalidator/validate/
 ---
 ## AccessibilityValidator.Validate method
 
 Checks all methods in the Rule List.
 
-```csharp
+```java
 public ValidationResult Validate(HTMLDocument document)
 ```
 
@@ -24,8 +24,8 @@ result object of validation.
 
 ### See Also
 
-* class [ValidationResult](../../../aspose.html.accessibility.results/validationresult/)
-* class [HTMLDocument](../../../aspose.html/htmldocument/)
+* class [ValidationResult](../../../com.aspose.html.accessibility.results/validationresult/)
+* class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [AccessibilityValidator](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

@@ -4,14 +4,14 @@ second_title: Aspose.HTML for .NET API Reference
 description: AccessibilityRules method. Get Principle by code from WCAG
 type: docs
 weight: 10
-url: /net/aspose.html.accessibility/accessibilityrules/getprinciple/
+url: /net/com.aspose.html.accessibility/accessibilityrules/getprinciple/
 ---
 ## AccessibilityRules.GetPrinciple method
 
 Get Principle by code from WCAG
 
-```csharp
-public Principle GetPrinciple(string code)
+```java
+public Principle GetPrinciple(String code)
 ```
 
 | Parameter | Type | Description |
@@ -26,5 +26,5 @@ Principle object
 
 * class [Principle](../../principle/)
 * class [AccessibilityRules](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

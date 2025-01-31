@@ -4,13 +4,13 @@ second_title: Aspose.HTML for .NET API Reference
 description: Criterion property. The methods are sufficient to fulfill the success criteria
 type: docs
 weight: 40
-url: /net/aspose.html.accessibility/criterion/sufficienttechniques/
+url: /net/com.aspose.html.accessibility/criterion/sufficienttechniques/
 ---
 ## Criterion.SufficientTechniques property
 
 The methods are sufficient to fulfill the success criteria.
 
-```csharp
+```java
 public IList<IRule> SufficientTechniques { get; }
 ```
 
@@ -18,5 +18,5 @@ public IList<IRule> SufficientTechniques { get; }
 
 * interface [IRule](../../irule/)
 * class [Criterion](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

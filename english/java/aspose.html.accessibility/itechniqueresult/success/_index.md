@@ -4,18 +4,18 @@ second_title: Aspose.HTML for .NET API Reference
 description: ITechniqueResult property. Returns result of the criterion
 type: docs
 weight: 30
-url: /net/aspose.html.accessibility/itechniqueresult/success/
+url: /net/com.aspose.html.accessibility/itechniqueresult/success/
 ---
 ## ITechniqueResult.Success property
 
 Returns result of the criterion.
 
-```csharp
+```java
 public bool Success { get; }
 ```
 
 ### See Also
 
 * interface [ITechniqueResult](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

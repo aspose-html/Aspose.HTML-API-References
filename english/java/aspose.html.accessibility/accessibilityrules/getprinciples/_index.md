@@ -4,13 +4,13 @@ second_title: Aspose.HTML for .NET API Reference
 description: AccessibilityRules method. Get list of all rules from quick reference
 type: docs
 weight: 20
-url: /net/aspose.html.accessibility/accessibilityrules/getprinciples/
+url: /net/com.aspose.html.accessibility/accessibilityrules/getprinciples/
 ---
 ## AccessibilityRules.GetPrinciples method
 
 Get list of all rules from quick reference
 
-```csharp
+```java
 public IEnumerable<Principle> GetPrinciples()
 ```
 
@@ -22,5 +22,5 @@ list objects of Priniciple
 
 * class [Principle](../../principle/)
 * class [AccessibilityRules](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

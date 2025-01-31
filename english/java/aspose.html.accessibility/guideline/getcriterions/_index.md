@@ -4,13 +4,13 @@ second_title: Aspose.HTML for .NET API Reference
 description: Guideline method. Get all the criteria contained in the Guideline
 type: docs
 weight: 20
-url: /net/aspose.html.accessibility/guideline/getcriterions/
+url: /net/com.aspose.html.accessibility/guideline/getcriterions/
 ---
 ## Guideline.GetCriterions method
 
 Get all the criteria contained in the Guideline
 
-```csharp
+```java
 public Criterion[] GetCriterions()
 ```
 
@@ -22,5 +22,5 @@ list of Criterion
 
 * class [Criterion](../../criterion/)
 * class [Guideline](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

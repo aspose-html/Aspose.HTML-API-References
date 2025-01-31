@@ -4,14 +4,14 @@ second_title: Aspose.HTML for .NET API Reference
 description: AccessibilityRules method. Get rules by codes from WCAG with type IRule
 type: docs
 weight: 30
-url: /net/aspose.html.accessibility/accessibilityrules/getrules/
+url: /net/com.aspose.html.accessibility/accessibilityrules/getrules/
 ---
 ## AccessibilityRules.GetRules method
 
 Get rules by codes from WCAG with type IRule
 
-```csharp
-public IList<IRule> GetRules(params string[] codes)
+```java
+public IList<IRule> GetRules(params String[] codes)
 ```
 
 | Parameter | Type | Description |
@@ -26,5 +26,5 @@ IList{IRule} object
 
 * interface [IRule](../../irule/)
 * class [AccessibilityRules](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

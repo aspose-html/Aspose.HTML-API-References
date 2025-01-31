@@ -4,13 +4,13 @@ second_title: Aspose.HTML for .NET API Reference
 description: ValidationBuilder method. A method that sets all technologies to test criterion
 type: docs
 weight: 50
-url: /net/aspose.html.accessibility/validationbuilder/alltechnologies/
+url: /net/com.aspose.html.accessibility/validationbuilder/alltechnologies/
 ---
 ## ValidationBuilder.AllTechnologies method
 
 A method that sets all technologies to test criterion
 
-```csharp
+```java
 public ValidationBuilder AllTechnologies()
 ```
 
@@ -21,5 +21,5 @@ set technologies and init in settings.
 ### See Also
 
 * class [ValidationBuilder](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

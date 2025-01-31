@@ -1,16 +1,16 @@
 ---
 title: Rule Class
 second_title: Aspose.HTML for .NET API Reference
-description: Aspose.Html.Accessibility.Rule class. An abstract class that defines the characteristics of a Rule and implements interface IRule
+description: com.aspose.html.Accessibility.Rule class. An abstract class that defines the characteristics of a Rule and implements interface IRule
 type: docs
 weight: 110
-url: /net/aspose.html.accessibility/rule/
+url: /net/com.aspose.html.accessibility/rule/
 ---
 ## Rule class
 
 An abstract class that defines the characteristics of a Rule and implements interface IRule
 
-```csharp
+```java
 public abstract class Rule : IRule
 ```
 
@@ -18,11 +18,11 @@ public abstract class Rule : IRule
 
 | Name | Description |
 | --- | --- |
-| [Code](../../aspose.html.accessibility/rule/code/) { get; } | Rule code from the quick reference WCAG https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0 |
-| [Description](../../aspose.html.accessibility/rule/description/) { get; } | Description of Rule from the quick reference WCAG. https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0 |
+| [getCode](../../com.aspose.html.accessibility/rule/code/) Rule code from the quick reference WCAG https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0 |
+| [getDescription](../../com.aspose.html.accessibility/rule/description/) Description of Rule from the quick reference WCAG. https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0 |
 
 ### See Also
 
 * interface [IRule](../irule/)
-* namespace [Aspose.Html.Accessibility](../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../)
+* package [com.aspose.html.Accessibility](../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../)

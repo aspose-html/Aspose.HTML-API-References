@@ -4,13 +4,13 @@ second_title: Aspose.HTML for .NET API Reference
 description: WebAccessibility method. An AccessibilityValidator instance is created for a specific rule given the full parameters of the ValidationBuilder.All object
 type: docs
 weight: 30
-url: /net/aspose.html.accessibility/webaccessibility/createvalidator/
+url: /net/com.aspose.html.accessibility/webaccessibility/createvalidator/
 ---
 ## CreateValidator(IRule) {#createvalidator_1}
 
 An AccessibilityValidator instance is created for a specific rule, given the full parameters of the ValidationBuilder.All object.
 
-```csharp
+```java
 public AccessibilityValidator CreateValidator(IRule rule)
 ```
 
@@ -27,8 +27,8 @@ AccessibilityValidator object
 * class [AccessibilityValidator](../../accessibilityvalidator/)
 * interface [IRule](../../irule/)
 * class [WebAccessibility](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)
 
 ---
 
@@ -36,7 +36,7 @@ AccessibilityValidator object
 
 Create AccessibilityValidator instance
 
-```csharp
+```java
 public AccessibilityValidator CreateValidator(IRule rule, ValidationBuilder builder)
 ```
 
@@ -55,8 +55,8 @@ AccessibilityValidator object
 * interface [IRule](../../irule/)
 * class [ValidationBuilder](../../validationbuilder/)
 * class [WebAccessibility](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)
 
 ---
 
@@ -64,7 +64,7 @@ AccessibilityValidator object
 
 Create AccessibilityValidator instance
 
-```csharp
+```java
 public AccessibilityValidator CreateValidator(IRule rule, Action<ValidationBuilder> builder)
 ```
 
@@ -83,8 +83,8 @@ AccessibilityValidator object
 * interface [IRule](../../irule/)
 * class [ValidationBuilder](../../validationbuilder/)
 * class [WebAccessibility](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)
 
 ---
 
@@ -92,7 +92,7 @@ AccessibilityValidator object
 
 Create AccessibilityValidator instance
 
-```csharp
+```java
 public AccessibilityValidator CreateValidator(ValidationBuilder builder)
 ```
 
@@ -109,8 +109,8 @@ AccessibilityValidator object
 * class [AccessibilityValidator](../../accessibilityvalidator/)
 * class [ValidationBuilder](../../validationbuilder/)
 * class [WebAccessibility](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)
 
 ---
 
@@ -118,7 +118,7 @@ AccessibilityValidator object
 
 Create AccessibilityValidator instance
 
-```csharp
+```java
 public AccessibilityValidator CreateValidator(Action<ValidationBuilder> builder)
 ```
 
@@ -135,8 +135,8 @@ AccessibilityValidator object
 * class [AccessibilityValidator](../../accessibilityvalidator/)
 * class [ValidationBuilder](../../validationbuilder/)
 * class [WebAccessibility](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)
 
 ---
 
@@ -144,7 +144,7 @@ AccessibilityValidator object
 
 An AccessibilityValidator instance is created according to all the rules with a ValidationBuilder.All object.
 
-```csharp
+```java
 public AccessibilityValidator CreateValidator()
 ```
 
@@ -156,8 +156,8 @@ AccessibilityValidator object
 
 * class [AccessibilityValidator](../../accessibilityvalidator/)
 * class [WebAccessibility](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)
 
 ---
 
@@ -165,7 +165,7 @@ AccessibilityValidator object
 
 An AccessibilityValidator instance is created for a specific rules list.
 
-```csharp
+```java
 public AccessibilityValidator CreateValidator(IList<IRule> rules)
 ```
 
@@ -182,8 +182,8 @@ AccessibilityValidator object
 * class [AccessibilityValidator](../../accessibilityvalidator/)
 * interface [IRule](../../irule/)
 * class [WebAccessibility](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)
 
 ---
 
@@ -191,7 +191,7 @@ AccessibilityValidator object
 
 An AccessibilityValidator instance is created for a specific rules list.
 
-```csharp
+```java
 public AccessibilityValidator CreateValidator(IList<IRule> rules, ValidationBuilder builder)
 ```
 
@@ -210,8 +210,8 @@ AccessibilityValidator object
 * interface [IRule](../../irule/)
 * class [ValidationBuilder](../../validationbuilder/)
 * class [WebAccessibility](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)
 
 ---
 
@@ -219,7 +219,7 @@ AccessibilityValidator object
 
 An AccessibilityValidator instance is created for a specific rules list.
 
-```csharp
+```java
 public AccessibilityValidator CreateValidator(IList<IRule> rules, Action<ValidationBuilder> builder)
 ```
 
@@ -238,5 +238,5 @@ AccessibilityValidator object
 * interface [IRule](../../irule/)
 * class [ValidationBuilder](../../validationbuilder/)
 * class [WebAccessibility](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

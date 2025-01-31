@@ -1,12 +1,12 @@
 ---
-title: Aspose.Html.Accessibility
+title: com.aspose.html.Accessibility
 second_title: Aspose.HTML for .NET API Reference
-description: The Aspose.Html.Dom.Accessibility namespace is for all Web Accessibility related manipulations. complies with international standards W3C Web Accessibility Initiative
+description: The com.aspose.html.Dom.Accessibility package is for all Web Accessibility related manipulations. complies with international standards W3C Web Accessibility Initiative
 type: docs
 weight: 20
-url: /net/aspose.html.accessibility/
+url: /net/com.aspose.html.accessibility/
 ---
-The **Aspose.Html.Dom.Accessibility** namespace is for all Web Accessibility related manipulations. complies with international standards W3C Web Accessibility Initiative
+The **com.aspose.html.Dom.Accessibility** package is for all Web Accessibility related manipulations. complies with international standards W3C Web Accessibility Initiative
 
 ## Classes
 

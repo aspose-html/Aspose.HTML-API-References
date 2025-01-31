@@ -4,18 +4,18 @@ second_title: Aspose.HTML for .NET API Reference
 description: ValidationBuilder property. Includes all levels and all technologies settings
 type: docs
 weight: 10
-url: /net/aspose.html.accessibility/validationbuilder/all/
+url: /net/com.aspose.html.accessibility/validationbuilder/all/
 ---
 ## ValidationBuilder.All property
 
 Includes all levels and all technologies settings
 
-```csharp
+```java
 public static ValidationBuilder All { get; }
 ```
 
 ### See Also
 
 * class [ValidationBuilder](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

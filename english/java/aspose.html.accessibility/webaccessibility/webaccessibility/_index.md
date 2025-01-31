@@ -4,18 +4,18 @@ second_title: Aspose.HTML for .NET API Reference
 description: WebAccessibility constructor. Initializes a new instance of the WebAccessibility class
 type: docs
 weight: 10
-url: /net/aspose.html.accessibility/webaccessibility/webaccessibility/
+url: /net/com.aspose.html.accessibility/webaccessibility/webaccessibility/
 ---
 ## WebAccessibility constructor
 
 Initializes a new instance of the WebAccessibility class.
 
-```csharp
+```java
 public WebAccessibility()
 ```
 
 ### See Also
 
 * class [WebAccessibility](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)

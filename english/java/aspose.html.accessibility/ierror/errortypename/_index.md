@@ -4,18 +4,18 @@ second_title: Aspose.HTML for .NET API Reference
 description: IError property. Presentation description of object
 type: docs
 weight: 30
-url: /net/aspose.html.accessibility/ierror/errortypename/
+url: /net/com.aspose.html.accessibility/ierror/errortypename/
 ---
 ## IError.ErrorTypeName property
 
 Presentation description of object
 
-```csharp
-public string ErrorTypeName { get; }
+```java
+public String ErrorTypeName { get; }
 ```
 
 ### See Also
 
 * interface [IError](../)
-* namespace [Aspose.Html.Accessibility](../../../aspose.html.accessibility/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../../)
