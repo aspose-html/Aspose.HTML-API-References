@@ -1,12 +1,12 @@
 ---
-title: Aspose.Html.Accessibility.Saving
+title: com.aspose.html.Accessibility.Saving
 second_title: Aspose.HTML for .NET API Reference
-description: The Aspose.Html.Accessibility.Saving namespace is designed to save validation results various formats
+description: The com.aspose.html.Accessibility.Saving package is designed to save validation results various formats
 type: docs
 weight: 40
-url: /net/aspose.html.accessibility.saving/
+url: /net/com.aspose.html.accessibility.saving/
 ---
-The **Aspose.Html.Accessibility.Saving** namespace is designed to save validation results various formats.
+The **com.aspose.html.Accessibility.Saving** package is designed to save validation results various formats.
 
 ## Enumeration
 
