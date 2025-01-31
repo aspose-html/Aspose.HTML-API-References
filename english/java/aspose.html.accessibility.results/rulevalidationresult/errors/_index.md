@@ -4,19 +4,19 @@ second_title: Aspose.HTML for .NET API Reference
 description: RuleValidationResult property. Collection of results with Errors
 type: docs
 weight: 10
-url: /net/aspose.html.accessibility.results/rulevalidationresult/errors/
+url: /net/com.aspose.html.accessibility.results/rulevalidationresult/errors/
 ---
 ## RuleValidationResult.Errors property
 
 Collection of results with Errors
 
-```csharp
+```java
 public IList<ITechniqueResult> Errors { get; }
 ```
 
 ### See Also
 
-* interface [ITechniqueResult](../../../aspose.html.accessibility/itechniqueresult/)
+* interface [ITechniqueResult](../../../com.aspose.html.accessibility/itechniqueresult/)
 * class [RuleValidationResult](../)
-* namespace [Aspose.Html.Accessibility.Results](../../../aspose.html.accessibility.results/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility.Results](../../../com.aspose.html.accessibility.results/)
+* package [Aspose.HTML](../../../)

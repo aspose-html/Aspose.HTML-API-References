@@ -4,13 +4,13 @@ second_title: Aspose.HTML for .NET API Reference
 description: ValidationResult property. Validation result details
 type: docs
 weight: 10
-url: /net/aspose.html.accessibility.results/validationresult/details/
+url: /net/com.aspose.html.accessibility.results/validationresult/details/
 ---
 ## ValidationResult.Details property
 
 Validation result details
 
-```csharp
+```java
 public IList<RuleValidationResult> Details { get; }
 ```
 
@@ -18,5 +18,5 @@ public IList<RuleValidationResult> Details { get; }
 
 * class [RuleValidationResult](../../rulevalidationresult/)
 * class [ValidationResult](../)
-* namespace [Aspose.Html.Accessibility.Results](../../../aspose.html.accessibility.results/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility.Results](../../../com.aspose.html.accessibility.results/)
+* package [Aspose.HTML](../../../)

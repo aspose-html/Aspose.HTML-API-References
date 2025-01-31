@@ -4,13 +4,13 @@ second_title: Aspose.HTML for .NET API Reference
 description: ValidationResult method. Save validation results to the TextWriter object
 type: docs
 weight: 30
-url: /net/aspose.html.accessibility.results/validationresult/saveto/
+url: /net/com.aspose.html.accessibility.results/validationresult/saveto/
 ---
 ## SaveTo(TextWriter, ValidationResultSaveFormat) {#saveto_1}
 
 Save validation results to the TextWriter object
 
-```csharp
+```java
 public void SaveTo(TextWriter writer, ValidationResultSaveFormat format)
 ```
 
@@ -21,10 +21,10 @@ public void SaveTo(TextWriter writer, ValidationResultSaveFormat format)
 
 ### See Also
 
-* enum [ValidationResultSaveFormat](../../../aspose.html.accessibility.saving/validationresultsaveformat/)
+* enum [ValidationResultSaveFormat](../../../com.aspose.html.accessibility.saving/validationresultsaveformat/)
 * class [ValidationResult](../)
-* namespace [Aspose.Html.Accessibility.Results](../../../aspose.html.accessibility.results/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility.Results](../../../com.aspose.html.accessibility.results/)
+* package [Aspose.HTML](../../../)
 
 ---
 
@@ -32,7 +32,7 @@ public void SaveTo(TextWriter writer, ValidationResultSaveFormat format)
 
 Save validation results to the TextWriter object
 
-```csharp
+```java
 public void SaveTo(TextWriter writer)
 ```
 
@@ -43,5 +43,5 @@ public void SaveTo(TextWriter writer)
 ### See Also
 
 * class [ValidationResult](../)
-* namespace [Aspose.Html.Accessibility.Results](../../../aspose.html.accessibility.results/)
-* assembly [Aspose.HTML](../../../)
+* package [com.aspose.html.Accessibility.Results](../../../com.aspose.html.accessibility.results/)
+* package [Aspose.HTML](../../../)
