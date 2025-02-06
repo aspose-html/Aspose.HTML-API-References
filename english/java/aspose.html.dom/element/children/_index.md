@@ -22,5 +22,5 @@ The children collection
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../element/)
 * package [Aspose.HTML](../../../)

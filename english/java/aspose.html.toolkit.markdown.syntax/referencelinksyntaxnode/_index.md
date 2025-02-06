@@ -1,7 +1,7 @@
 ---
 title: ReferenceLinkSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.ReferenceLinkSyntaxNode class. Represent the reference link syntax
+description: com.aspose.html.toolkit.markdown.syntax.ReferenceLinkSyntaxNode class. Represent the reference link syntax
 type: docs
 weight: 5520
 url: /java/com.aspose.html.toolkit.markdown.syntax/referencelinksyntaxnode/
@@ -46,5 +46,5 @@ public sealed class ReferenceLinkSyntaxNode : InlineSyntaxNode
 ### See Also
 
 * class [InlineSyntaxNode](../inlinesyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

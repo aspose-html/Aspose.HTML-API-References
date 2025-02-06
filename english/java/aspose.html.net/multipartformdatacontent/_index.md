@@ -1,7 +1,7 @@
 ---
 title: MultipartFormDataContent Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Net.MultipartFormDataContent class. Represent content for multipart/form-data encoding algorithm
+description: com.aspose.html.net.MultipartFormDataContent class. Represent content for multipart/form-data encoding algorithm
 type: docs
 weight: 4050
 url: /java/com.aspose.html.net/multipartformdatacontent/
@@ -43,5 +43,5 @@ public class MultipartFormDataContent : MultipartContent
 ### See Also
 
 * class [MultipartContent](../multipartcontent/)
-* package [com.aspose.html.Net](../../com.aspose.html.net/)
+* package [com.aspose.html.net](../../com.aspose.html.net/)
 * package [Aspose.HTML](../../)

@@ -22,5 +22,5 @@ public void VisitHtml(HTMLFragmentSyntax html)
 
 * class [HTMLFragmentSyntax](../../htmlfragmentsyntax/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxvisitor/)
 * package [Aspose.HTML](../../../)

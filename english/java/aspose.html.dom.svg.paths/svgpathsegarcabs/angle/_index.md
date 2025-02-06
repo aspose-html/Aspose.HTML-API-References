@@ -27,5 +27,5 @@ The rotation angle
 ### See Also
 
 * class [SVGPathSegArcAbs](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathsegarcabs/)
+* package [com.aspose.html.dom.svg.paths](../../svgpathsegarcabs/)
 * package [Aspose.HTML](../../../)

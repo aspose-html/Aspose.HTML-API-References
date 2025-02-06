@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [EmptyLineSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../emptylinesyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../emptylinesyntaxnode/)
 * package [Aspose.HTML](../../../)

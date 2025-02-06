@@ -16,5 +16,5 @@ public PageWritingStrategy<TGraphicContext, TRenderingOptions> PageWritingStrate
 
 * enum [PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt;](../../device-2.pagewritingstrategy-2/)
 * class [DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* package [com.aspose.html.Rendering](../../device-2.deviceconfiguration-2/)
+* package [com.aspose.html.rendering](../../device-2.deviceconfiguration-2/)
 * package [Aspose.HTML](../../../)

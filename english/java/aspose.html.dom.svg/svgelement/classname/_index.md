@@ -22,5 +22,5 @@ The name of the class.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgelement/)
+* package [com.aspose.html.dom.svg](../../svgelement/)
 * package [Aspose.HTML](../../../)

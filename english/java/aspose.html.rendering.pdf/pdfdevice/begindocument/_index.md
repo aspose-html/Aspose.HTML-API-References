@@ -22,5 +22,5 @@ public void BeginDocument(Document document)
 
 * class [Document](../../../com.aspose.html.dom/document/)
 * class [PdfDevice](../)
-* package [com.aspose.html.Rendering.Pdf](../../pdfdevice/)
+* package [com.aspose.html.rendering.pdf](../../pdfdevice/)
 * package [Aspose.HTML](../../../)

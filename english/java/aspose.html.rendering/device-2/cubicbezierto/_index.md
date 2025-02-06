@@ -23,5 +23,5 @@ public abstract void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
 ### See Also
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* package [com.aspose.html.Rendering](../../device-2/)
+* package [com.aspose.html.rendering](../../device-2/)
 * package [Aspose.HTML](../../../)

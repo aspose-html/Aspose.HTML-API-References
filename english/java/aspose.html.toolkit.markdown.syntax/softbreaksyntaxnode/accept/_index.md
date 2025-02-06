@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [SoftBreakSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../softbreaksyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../softbreaksyntaxnode/)
 * package [Aspose.HTML](../../../)

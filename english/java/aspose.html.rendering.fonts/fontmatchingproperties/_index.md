@@ -1,7 +1,7 @@
 ---
 title: FontMatchingProperties Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Fonts.FontMatchingProperties class. This class contains properties which describe the font being matched
+description: com.aspose.html.rendering.fonts.FontMatchingProperties class. This class contains properties which describe the font being matched
 type: docs
 weight: 4270
 url: /java/com.aspose.html.rendering.fonts/fontmatchingproperties/
@@ -25,5 +25,5 @@ public class FontMatchingProperties
 
 ### See Also
 
-* package [com.aspose.html.Rendering.Fonts](../../com.aspose.html.rendering.fonts/)
+* package [com.aspose.html.rendering.fonts](../../com.aspose.html.rendering.fonts/)
 * package [Aspose.HTML](../../)

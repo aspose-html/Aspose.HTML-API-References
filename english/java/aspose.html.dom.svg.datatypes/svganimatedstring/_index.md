@@ -1,7 +1,7 @@
 ---
 title: SVGAnimatedString Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.DataTypes.SVGAnimatedString class. Used for attributes of type DOMString which can be animated
+description: com.aspose.html.dom.svg.datatypes.SVGAnimatedString class. Used for attributes of type DOMString which can be animated
 type: docs
 weight: 1180
 url: /java/com.aspose.html.dom.svg.datatypes/svganimatedString/
@@ -33,5 +33,5 @@ public class SVGAnimatedString : SVGAnimatedValue<String>
 ### See Also
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../)

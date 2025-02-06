@@ -1,7 +1,7 @@
 ---
 title: OrderedListSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.OrderedListSyntaxNode class. Represent the Ordered list syntax
+description: com.aspose.html.toolkit.markdown.syntax.OrderedListSyntaxNode class. Represent the Ordered list syntax
 type: docs
 weight: 5300
 url: /java/com.aspose.html.toolkit.markdown.syntax/orderedlistsyntaxnode/
@@ -47,5 +47,5 @@ public class OrderedListSyntaxNode : ListSyntaxNode
 ### See Also
 
 * class [ListSyntaxNode](../listsyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

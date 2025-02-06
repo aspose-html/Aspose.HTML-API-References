@@ -17,5 +17,5 @@ public bool IsSuccess { get; }
 ### See Also
 
 * class [SubmissionResult](../)
-* package [com.aspose.html.Forms](../../submissionresult/)
+* package [com.aspose.html.forms](../../submissionresult/)
 * package [Aspose.HTML](../../../)

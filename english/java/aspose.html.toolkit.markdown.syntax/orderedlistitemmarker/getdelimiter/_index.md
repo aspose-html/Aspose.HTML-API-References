@@ -21,5 +21,5 @@ The String delimiter.
 ### See Also
 
 * class [OrderedListItemMarker](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../orderedlistitemmarker/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../orderedlistitemmarker/)
 * package [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public EventTarget CurrentTarget { get; }
 
 * class [EventTarget](../../../com.aspose.html.dom/eventtarget/)
 * class [Event](../)
-* package [com.aspose.html.Dom.Events](../../event/)
+* package [com.aspose.html.dom.events](../../event/)
 * package [Aspose.HTML](../../../)

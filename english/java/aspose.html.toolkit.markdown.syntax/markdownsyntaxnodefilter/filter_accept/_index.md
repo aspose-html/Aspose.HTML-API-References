@@ -17,5 +17,5 @@ public const short FILTER_ACCEPT;
 ### See Also
 
 * class [MarkdownSyntaxNodeFilter](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxnodefilter/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxnodefilter/)
 * package [Aspose.HTML](../../../)

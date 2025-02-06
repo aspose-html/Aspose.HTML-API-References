@@ -21,5 +21,5 @@ The parent.
 ### See Also
 
 * interface [IBrowsingContext](../)
-* package [com.aspose.html.Dom](../../ibrowsingcontext/)
+* package [com.aspose.html.dom](../../ibrowsingcontext/)
 * package [Aspose.HTML](../../../)

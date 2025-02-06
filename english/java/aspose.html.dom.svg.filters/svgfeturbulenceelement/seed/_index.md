@@ -22,5 +22,5 @@ The attribute ‘seed’ of the given ‘feTurbulence’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFETurbulenceElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeturbulenceelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfeturbulenceelement/)
 * package [Aspose.HTML](../../../)

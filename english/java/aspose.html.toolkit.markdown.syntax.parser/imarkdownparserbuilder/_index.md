@@ -1,7 +1,7 @@
 ---
 title: IMarkdownParserBuilder Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.IMarkdownParserBuilder interface. Defines the base interface IMarkdownParserBuilder
+description: com.aspose.html.toolkit.markdown.syntax.parser.IMarkdownParserBuilder interface. Defines the base interface IMarkdownParserBuilder
 type: docs
 weight: 5430
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/
@@ -24,5 +24,5 @@ public interface IMarkdownParserBuilder
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../)

@@ -1,7 +1,7 @@
 ---
 title: ICSSStyleDeclaration Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Css.ICSSStyleDeclaration interface. The CSSStyleDeclaration interface represents an object that is a CSS declaration block and exposes style information and various style-related methods and properties
+description: com.aspose.html.dom.css.ICSSStyleDeclaration interface. The CSSStyleDeclaration interface represents an object that is a CSS declaration block and exposes style information and various style-related methods and properties
 type: docs
 weight: 500
 url: /java/com.aspose.html.dom.css/icssstyledeclaration/
@@ -50,5 +50,5 @@ Reference
 ### See Also
 
 * interface [ICSS2Properties](../icss2properties/)
-* package [com.aspose.html.Dom.Css](../../com.aspose.html.dom.css/)
+* package [com.aspose.html.dom.css](../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../)

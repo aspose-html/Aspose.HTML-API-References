@@ -21,5 +21,5 @@ A String that represents this glyph.
 ### See Also
 
 * struct [GlyphInfo](../)
-* package [com.aspose.html.Rendering](../../glyphinfo/)
+* package [com.aspose.html.rendering](../../glyphinfo/)
 * package [Aspose.HTML](../../../)

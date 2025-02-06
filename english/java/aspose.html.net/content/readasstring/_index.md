@@ -21,5 +21,5 @@ Serialized String that represents the content
 ### See Also
 
 * class [Content](../)
-* package [com.aspose.html.Net](../../content/)
+* package [com.aspose.html.net](../../content/)
 * package [Aspose.HTML](../../../)

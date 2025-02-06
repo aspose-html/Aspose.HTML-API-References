@@ -27,5 +27,5 @@ The IMarkdownParserBuilder.
 
 * class [MarkdownBlockParser](../../markdownblockparser/)
 * interface [IMarkdownParserBuilder](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../imarkdownparserbuilder/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../imarkdownparserbuilder/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ public void WriteTo(MarkdownTextWriter writer)
 
 * class [MarkdownTextWriter](../../markdowntextwriter/)
 * class [BlockProxy](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../blockproxy/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../blockproxy/)
 * package [Aspose.HTML](../../../)

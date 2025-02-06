@@ -21,5 +21,5 @@ public void MoveTo(PointF pt)
 ### See Also
 
 * class [XpsDevice](../)
-* package [com.aspose.html.Rendering.Xps](../../xpsdevice/)
+* package [com.aspose.html.rendering.xps](../../xpsdevice/)
 * package [Aspose.HTML](../../../)

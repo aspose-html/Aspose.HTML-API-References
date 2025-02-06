@@ -26,5 +26,5 @@ Returns node.
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * class [NodeList](../)
-* package [com.aspose.html.Collections](../../nodelist/)
+* package [com.aspose.html.collections](../../nodelist/)
 * package [Aspose.HTML](../../../)

@@ -15,5 +15,5 @@ public static Resolution operator -(Resolution a, Resolution b)
 ### See Also
 
 * class [Resolution](../)
-* package [com.aspose.html.Drawing](../../resolution/)
+* package [com.aspose.html.drawing](../../resolution/)
 * package [Aspose.HTML](../../../)

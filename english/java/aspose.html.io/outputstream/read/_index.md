@@ -27,5 +27,5 @@ The total number of bytes read into the buffer. This can be less than the number
 ### See Also
 
 * class [OutputStream](../)
-* package [com.aspose.html.IO](../../outputstream/)
+* package [com.aspose.html.io](../../outputstream/)
 * package [Aspose.HTML](../../../)

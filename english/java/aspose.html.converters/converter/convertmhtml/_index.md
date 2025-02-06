@@ -44,8 +44,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -68,7 +68,7 @@ import com.aspose.html.Converters;
 
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -111,8 +111,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
 	var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -135,7 +135,7 @@ import com.aspose.html.Converters;
 
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -178,8 +178,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
 	var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -203,7 +203,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -248,8 +248,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -278,7 +278,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -323,8 +323,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -348,7 +348,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -393,8 +393,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -419,7 +419,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -463,9 +463,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -497,7 +497,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -541,9 +541,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -575,7 +575,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -619,9 +619,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO; 
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io; 
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -654,7 +654,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -699,9 +699,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -734,7 +734,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -779,9 +779,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -809,7 +809,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -854,9 +854,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -885,7 +885,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -928,9 +928,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -958,7 +958,7 @@ import com.aspose.html.Converters;
 
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1001,9 +1001,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -1026,7 +1026,7 @@ import com.aspose.html.Converters;
 
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1069,9 +1069,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -1100,7 +1100,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1145,9 +1145,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -1171,7 +1171,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1216,9 +1216,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -1242,7 +1242,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1287,9 +1287,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -1314,7 +1314,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1358,9 +1358,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -1387,7 +1387,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1431,9 +1431,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -1460,7 +1460,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1504,9 +1504,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -1534,7 +1534,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1579,9 +1579,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -1609,7 +1609,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1654,9 +1654,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -1684,7 +1684,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1729,9 +1729,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -1760,7 +1760,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1803,9 +1803,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -1828,7 +1828,7 @@ import com.aspose.html.Converters;
 
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1871,9 +1871,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -1896,7 +1896,7 @@ import com.aspose.html.Converters;
 
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1939,9 +1939,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -1965,7 +1965,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2010,9 +2010,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -2036,7 +2036,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2081,9 +2081,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -2107,7 +2107,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2152,9 +2152,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -2179,7 +2179,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2223,9 +2223,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -2252,7 +2252,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2296,9 +2296,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -2325,7 +2325,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2369,9 +2369,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -2399,7 +2399,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2444,9 +2444,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -2474,7 +2474,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2519,9 +2519,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -2549,7 +2549,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2594,9 +2594,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -2625,7 +2625,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2668,9 +2668,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -2693,7 +2693,7 @@ import com.aspose.html.Converters;
 
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2736,9 +2736,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -2761,7 +2761,7 @@ import com.aspose.html.Converters;
 
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2804,9 +2804,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -2830,7 +2830,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2875,9 +2875,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -2901,7 +2901,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2946,9 +2946,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -2972,7 +2972,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3017,9 +3017,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -3044,7 +3044,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3088,9 +3088,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -3117,7 +3117,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3161,9 +3161,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -3190,7 +3190,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3234,9 +3234,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -3264,7 +3264,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3309,9 +3309,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -3339,7 +3339,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3384,9 +3384,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.mht");
@@ -3414,7 +3414,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3459,9 +3459,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.mht"));
@@ -3490,5 +3490,5 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)

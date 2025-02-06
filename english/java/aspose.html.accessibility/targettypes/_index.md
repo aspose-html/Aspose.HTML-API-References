@@ -1,7 +1,7 @@
 ---
 title: TargetTypes Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Accessibility.TargetTypes enum. Enum of types of the resulting object from the html document containing the error
+description: com.aspose.html.accessibility.TargetTypes enum. Enum of types of the resulting object from the html document containing the error
 type: docs
 weight: 140
 url: /java/com.aspose.html.accessibility/targettypes/
@@ -24,5 +24,5 @@ public enum TargetTypes
 
 ### See Also
 
-* package [com.aspose.html.Accessibility](../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../)

@@ -21,5 +21,5 @@ The XML version.
 ### See Also
 
 * class [Entity](../)
-* package [com.aspose.html.Dom](../../entity/)
+* package [com.aspose.html.dom](../../entity/)
 * package [Aspose.HTML](../../../)

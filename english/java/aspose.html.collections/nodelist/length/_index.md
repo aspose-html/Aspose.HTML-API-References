@@ -17,5 +17,5 @@ public abstract int Length { get; }
 ### See Also
 
 * class [NodeList](../)
-* package [com.aspose.html.Collections](../../nodelist/)
+* package [com.aspose.html.collections](../../nodelist/)
 * package [Aspose.HTML](../../../)

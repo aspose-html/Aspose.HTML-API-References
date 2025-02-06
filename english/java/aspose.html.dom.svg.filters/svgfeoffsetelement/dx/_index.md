@@ -22,5 +22,5 @@ The attribute ‘dx’ of the given ‘feOffset’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEOffsetElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeoffsetelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfeoffsetelement/)
 * package [Aspose.HTML](../../../)

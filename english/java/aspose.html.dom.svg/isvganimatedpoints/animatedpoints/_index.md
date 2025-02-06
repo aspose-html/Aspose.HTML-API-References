@@ -22,5 +22,5 @@ The animated points.
 
 * class [SVGPointList](../../../com.aspose.html.dom.svg.datatypes/svgpointlist/)
 * interface [ISVGAnimatedPoints](../)
-* package [com.aspose.html.Dom.Svg](../../isvganimatedpoints/)
+* package [com.aspose.html.dom.svg](../../isvganimatedpoints/)
 * package [Aspose.HTML](../../../)

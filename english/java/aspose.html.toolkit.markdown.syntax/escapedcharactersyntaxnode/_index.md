@@ -1,7 +1,7 @@
 ---
 title: EscapedCharacterSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.EscapedCharacterSyntaxNode class. Implemented the escape character syntax node
+description: com.aspose.html.toolkit.markdown.syntax.EscapedCharacterSyntaxNode class. Implemented the escape character syntax node
 type: docs
 weight: 4890
 url: /java/com.aspose.html.toolkit.markdown.syntax/escapedcharactersyntaxnode/
@@ -47,5 +47,5 @@ public class EscapedCharacterSyntaxNode : TextSyntaxNode
 ### See Also
 
 * class [TextSyntaxNode](../textsyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

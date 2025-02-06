@@ -26,5 +26,5 @@ Returns the last declared [`CSSKeyframeRule`](../../icsskeyframerule/) matching 
 
 * interface [ICSSKeyframeRule](../../icsskeyframerule/)
 * interface [ICSSKeyframesRule](../)
-* package [com.aspose.html.Dom.Css](../../icsskeyframesrule/)
+* package [com.aspose.html.dom.css](../../icsskeyframesrule/)
 * package [Aspose.HTML](../../../)

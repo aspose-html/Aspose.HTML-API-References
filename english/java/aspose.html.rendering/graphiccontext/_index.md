@@ -1,7 +1,7 @@
 ---
 title: GraphicContext Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.GraphicContext class. Holds current graphics control parameters. These parameters define the global framework within which the graphics operators execute
+description: com.aspose.html.rendering.GraphicContext class. Holds current graphics control parameters. These parameters define the global framework within which the graphics operators execute
 type: docs
 weight: 4290
 url: /java/com.aspose.html.rendering/graphiccontext/
@@ -63,5 +63,5 @@ public class GraphicContext : ICloneable
 
 ### See Also
 
-* package [com.aspose.html.Rendering](../../com.aspose.html.rendering/)
+* package [com.aspose.html.rendering](../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../)

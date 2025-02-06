@@ -21,5 +21,5 @@ The position.
 ### See Also
 
 * interface [IInterpolationColor](../)
-* package [com.aspose.html.Drawing](../../iinterpolationcolor/)
+* package [com.aspose.html.drawing](../../iinterpolationcolor/)
 * package [Aspose.HTML](../../../)

@@ -24,5 +24,5 @@ public void DrawImage(byte[] data, ImageType type, RectangleF rect)
 
 * enum [ImageType](../../../com.aspose.html.rendering/imagetype/)
 * class [XpsDevice](../)
-* package [com.aspose.html.Rendering.Xps](../../xpsdevice/)
+* package [com.aspose.html.rendering.xps](../../xpsdevice/)
 * package [Aspose.HTML](../../../)

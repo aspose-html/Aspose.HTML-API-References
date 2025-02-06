@@ -22,5 +22,5 @@ The default view.
 
 * interface [IAbstractView](../../iabstractview/)
 * interface [IDocumentView](../)
-* package [com.aspose.html.Dom.Views](../../idocumentview/)
+* package [com.aspose.html.dom.views](../../idocumentview/)
 * package [Aspose.HTML](../../../)

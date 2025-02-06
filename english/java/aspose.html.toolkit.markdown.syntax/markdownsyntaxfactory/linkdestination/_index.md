@@ -29,7 +29,7 @@ The [`LinkDestinationSyntaxNode`](../../linkdestinationsyntaxnode/) object .
 * class [LinkDestinationSyntaxNode](../../linkdestinationsyntaxnode/)
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -54,5 +54,5 @@ The [`LinkDestinationSyntaxNode`](../../linkdestinationsyntaxnode/) object .
 
 * class [LinkDestinationSyntaxNode](../../linkdestinationsyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
 * package [Aspose.HTML](../../../)

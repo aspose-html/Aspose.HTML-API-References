@@ -22,5 +22,5 @@ The sequence of the cells.
 
 * class [TableCellSyntaxNode](../../tablecellsyntaxnode/)
 * class [TableRowSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../tablerowsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../tablerowsyntaxnode/)
 * package [Aspose.HTML](../../../)

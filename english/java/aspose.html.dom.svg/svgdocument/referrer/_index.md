@@ -21,5 +21,5 @@ The referrer.
 ### See Also
 
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../svgdocument/)
 * package [Aspose.HTML](../../../)

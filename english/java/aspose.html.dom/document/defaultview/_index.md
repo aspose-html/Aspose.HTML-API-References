@@ -18,5 +18,5 @@ public IWindow DefaultView { get; }
 
 * interface [IWindow](../../../com.aspose.html.window/iwindow/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../document/)
 * package [Aspose.HTML](../../../)

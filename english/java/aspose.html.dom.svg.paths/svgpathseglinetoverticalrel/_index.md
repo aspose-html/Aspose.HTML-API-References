@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegLinetoVerticalRel Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.Paths.SVGPathSegLinetoVerticalRel class. The SVGPathSegLinetoVerticalRel interface corresponds to a relative vertical lineto v path data command
+description: com.aspose.html.dom.svg.paths.SVGPathSegLinetoVerticalRel class. The SVGPathSegLinetoVerticalRel interface corresponds to a relative vertical lineto v path data command
 type: docs
 weight: 1870
 url: /java/com.aspose.html.dom.svg.paths/svgpathseglinetoverticalrel/
@@ -32,5 +32,5 @@ public class SVGPathSegLinetoVerticalRel : SVGPathSeg
 ### See Also
 
 * class [SVGPathSeg](../svgpathseg/)
-* package [com.aspose.html.Dom.Svg.Paths](../../com.aspose.html.dom.svg.paths/)
+* package [com.aspose.html.dom.svg.paths](../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../)

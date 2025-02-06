@@ -1,7 +1,7 @@
 ---
 title: PdfEncryptionAlgorithm Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Pdf.Encryption.PdfEncryptionAlgorithm enum. Encryption mode enum. Describe using algorithm and key length. This enum is extended in order to be able to further increase functionality. This enum implements Base-to-Core pattern
+description: com.aspose.html.rendering.pdf.encryption.PdfEncryptionAlgorithm enum. Encryption mode enum. Describe using algorithm and key length. This enum is extended in order to be able to further increase functionality. This enum implements Base-to-Core pattern
 type: docs
 weight: 4430
 url: /java/com.aspose.html.rendering.pdf.encryption/pdfencryptionalgorithm/
@@ -23,5 +23,5 @@ public enum PdfEncryptionAlgorithm
 
 ### See Also
 
-* package [com.aspose.html.Rendering.Pdf.Encryption](../../com.aspose.html.rendering.pdf.encryption/)
+* package [com.aspose.html.rendering.pdf.encryption](../../com.aspose.html.rendering.pdf.encryption/)
 * package [Aspose.HTML](../../)

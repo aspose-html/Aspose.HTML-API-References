@@ -27,5 +27,5 @@ The handle
 ### See Also
 
 * interface [IWindowTimers](../)
-* package [com.aspose.html.Window](../../iwindowtimers/)
+* package [com.aspose.html.window](../../iwindowtimers/)
 * package [Aspose.HTML](../../../)

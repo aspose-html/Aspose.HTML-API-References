@@ -22,5 +22,5 @@ The attribute ‘result’ of the given ‘feDropShadow’ element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFEDropShadowElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfedropshadowelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfedropshadowelement/)
 * package [Aspose.HTML](../../../)

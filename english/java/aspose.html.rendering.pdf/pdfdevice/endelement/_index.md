@@ -22,5 +22,5 @@ public void EndElement(Element element)
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * class [PdfDevice](../)
-* package [com.aspose.html.Rendering.Pdf](../../pdfdevice/)
+* package [com.aspose.html.rendering.pdf](../../pdfdevice/)
 * package [Aspose.HTML](../../../)

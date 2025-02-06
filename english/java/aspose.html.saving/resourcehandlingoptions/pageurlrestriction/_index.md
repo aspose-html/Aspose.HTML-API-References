@@ -18,5 +18,5 @@ public UrlRestriction PageUrlRestriction { get; set; }
 
 * enum [UrlRestriction](../../urlrestriction/)
 * class [ResourceHandlingOptions](../)
-* package [com.aspose.html.Saving](../../resourcehandlingoptions/)
+* package [com.aspose.html.saving](../../resourcehandlingoptions/)
 * package [Aspose.HTML](../../../)

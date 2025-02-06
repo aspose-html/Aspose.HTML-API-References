@@ -24,5 +24,5 @@ public void DrawImage(byte[] data, ImageType type, RectangleF rect)
 
 * enum [ImageType](../../../com.aspose.html.rendering/imagetype/)
 * class [PdfDevice](../)
-* package [com.aspose.html.Rendering.Pdf](../../pdfdevice/)
+* package [com.aspose.html.rendering.pdf](../../pdfdevice/)
 * package [Aspose.HTML](../../../)

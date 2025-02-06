@@ -22,5 +22,5 @@ Returns the CSS Stylesheet specified by the @import at-rule. This will be in the
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [ICSSImportRule](../)
-* package [com.aspose.html.Dom.Css](../../icssimportrule/)
+* package [com.aspose.html.dom.css](../../icssimportrule/)
 * package [Aspose.HTML](../../../)

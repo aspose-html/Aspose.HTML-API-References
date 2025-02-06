@@ -1,7 +1,7 @@
 ---
 title: ByteArrayContent Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Net.ByteArrayContent class. Represents content based on a byte array
+description: com.aspose.html.net.ByteArrayContent class. Represents content based on a byte array
 type: docs
 weight: 3870
 url: /java/com.aspose.html.net/bytearraycontent/
@@ -38,5 +38,5 @@ public class ByteArrayContent : Content
 ### See Also
 
 * class [Content](../content/)
-* package [com.aspose.html.Net](../../com.aspose.html.net/)
+* package [com.aspose.html.net](../../com.aspose.html.net/)
 * package [Aspose.HTML](../../)

@@ -1,7 +1,7 @@
 ---
 title: ICanvasRenderingContext2D Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Canvas.ICanvasRenderingContext2D interface. The ICanvasRenderingContext2D interface is used for drawing rectangles text images and other objects onto the canvas element. It provides the 2D rendering context for the drawing surface of a canvas element
+description: com.aspose.html.dom.canvas.ICanvasRenderingContext2D interface. The ICanvasRenderingContext2D interface is used for drawing rectangles text images and other objects onto the canvas element. It provides the 2D rendering context for the drawing surface of a canvas element
 type: docs
 weight: 270
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/
@@ -98,5 +98,5 @@ public interface ICanvasRenderingContext2D : ICanvasDrawingStyles, ICanvasPathMe
 
 * interface [ICanvasDrawingStyles](../icanvasdrawingstyles/)
 * interface [ICanvasPathMethods](../icanvaspathmethods/)
-* package [com.aspose.html.Dom.Canvas](../../com.aspose.html.dom.canvas/)
+* package [com.aspose.html.dom.canvas](../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../)

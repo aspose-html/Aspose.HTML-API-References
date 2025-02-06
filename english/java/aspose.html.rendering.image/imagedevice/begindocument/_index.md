@@ -22,5 +22,5 @@ public void BeginDocument(Document document)
 
 * class [Document](../../../com.aspose.html.dom/document/)
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../imagedevice/)
 * package [Aspose.HTML](../../../)

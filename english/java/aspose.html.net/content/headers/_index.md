@@ -22,5 +22,5 @@ The headers.
 
 * class [ContentHeaders](../../contentheaders/)
 * class [Content](../)
-* package [com.aspose.html.Net](../../content/)
+* package [com.aspose.html.net](../../content/)
 * package [Aspose.HTML](../../../)

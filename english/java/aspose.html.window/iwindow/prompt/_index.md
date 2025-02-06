@@ -26,5 +26,5 @@ Returns the value that the user entered
 ### See Also
 
 * interface [IWindow](../)
-* package [com.aspose.html.Window](../../iwindow/)
+* package [com.aspose.html.window](../../iwindow/)
 * package [Aspose.HTML](../../../)

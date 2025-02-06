@@ -21,5 +21,5 @@ The system identifier.
 ### See Also
 
 * class [Notation](../)
-* package [com.aspose.html.Dom](../../notation/)
+* package [com.aspose.html.dom](../../notation/)
 * package [Aspose.HTML](../../../)

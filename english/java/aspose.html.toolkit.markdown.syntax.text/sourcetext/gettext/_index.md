@@ -21,7 +21,7 @@ The SourceText.
 ### See Also
 
 * class [SourceText](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../sourcetext/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../sourcetext/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -46,7 +46,7 @@ The SourceText.
 
 * struct [TextSpan](../../textspan/)
 * class [SourceText](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../sourcetext/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../sourcetext/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -76,5 +76,5 @@ The SourceText.
 ### See Also
 
 * class [SourceText](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../sourcetext/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../sourcetext/)
 * package [Aspose.HTML](../../../)

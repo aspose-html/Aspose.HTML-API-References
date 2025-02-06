@@ -16,5 +16,5 @@ public YamlScalarSyntaxNode(HugoFrontMatterSyntaxNode owner, f adaptee)
 
 * class [HugoFrontMatterSyntaxNode](../../hugofrontmattersyntaxnode/)
 * class [YamlScalarSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../yamlscalarsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../yamlscalarsyntaxnode/)
 * package [Aspose.HTML](../../../)

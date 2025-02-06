@@ -1,7 +1,7 @@
 ---
 title: ButtonElement Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Forms.ButtonElement class. The ButtonElement represents a wrapper that is associated with the HTMLButtonElement
+description: com.aspose.html.forms.ButtonElement class. The ButtonElement represents a wrapper that is associated with the HTMLButtonElement
 type: docs
 weight: 2910
 url: /java/com.aspose.html.forms/buttonelement/
@@ -33,5 +33,5 @@ public class ButtonElement : FormElement<HTMLButtonElement>
 
 * class [FormElement&lt;T&gt;](../formelement-1/)
 * class [HTMLButtonElement](../../com.aspose.html/htmlbuttonelement/)
-* package [com.aspose.html.Forms](../../com.aspose.html.forms/)
+* package [com.aspose.html.forms](../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../)

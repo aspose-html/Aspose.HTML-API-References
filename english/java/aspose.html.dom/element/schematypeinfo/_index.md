@@ -22,5 +22,5 @@ The schema type information.
 
 * class [TypeInfo](../../typeinfo/)
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../element/)
 * package [Aspose.HTML](../../../)

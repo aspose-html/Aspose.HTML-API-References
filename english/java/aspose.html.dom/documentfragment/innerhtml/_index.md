@@ -21,5 +21,5 @@ The inner HTML.
 ### See Also
 
 * class [DocumentFragment](../)
-* package [com.aspose.html.Dom](../../documentfragment/)
+* package [com.aspose.html.dom](../../documentfragment/)
 * package [Aspose.HTML](../../../)

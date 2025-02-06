@@ -17,5 +17,5 @@ public Matrix TransformationMatrix { get; set; }
 ### See Also
 
 * class [ImageGraphicContext](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice.imagegraphiccontext/)
+* package [com.aspose.html.rendering.image](../../imagedevice.imagegraphiccontext/)
 * package [Aspose.HTML](../../../)

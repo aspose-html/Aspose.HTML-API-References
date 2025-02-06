@@ -21,5 +21,5 @@ public bool IsAuto { get; }
 ### See Also
 
 * class [LengthOrAuto](../)
-* package [com.aspose.html.Drawing](../../lengthorauto/)
+* package [com.aspose.html.drawing](../../lengthorauto/)
 * package [Aspose.HTML](../../../)

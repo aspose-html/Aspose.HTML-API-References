@@ -17,5 +17,5 @@ public String NamespaceURI { get; }
 ### See Also
 
 * class [Attr](../)
-* package [com.aspose.html.Dom](../../attr/)
+* package [com.aspose.html.dom](../../attr/)
 * package [Aspose.HTML](../../../)

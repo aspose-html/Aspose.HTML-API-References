@@ -22,5 +22,5 @@ The required extensions.
 
 * class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
 * interface [ISVGTests](../)
-* package [com.aspose.html.Dom.Svg](../../isvgtests/)
+* package [com.aspose.html.dom.svg](../../isvgtests/)
 * package [Aspose.HTML](../../../)

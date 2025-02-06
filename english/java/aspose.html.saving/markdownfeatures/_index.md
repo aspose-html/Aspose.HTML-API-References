@@ -1,7 +1,7 @@
 ---
 title: MarkdownFeatures Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Saving.MarkdownFeatures enum. A MarkdownFeatures flag set is a set of zero or more of the following flags which are used to select elements converted to markdown
+description: com.aspose.html.saving.MarkdownFeatures enum. A MarkdownFeatures flag set is a set of zero or more of the following flags which are used to select elements converted to markdown
 type: docs
 weight: 4650
 url: /java/com.aspose.html.saving/markdownfeatures/
@@ -39,5 +39,5 @@ public enum MarkdownFeatures
 
 ### See Also
 
-* package [com.aspose.html.Saving](../../com.aspose.html.saving/)
+* package [com.aspose.html.saving](../../com.aspose.html.saving/)
 * package [Aspose.HTML](../../)

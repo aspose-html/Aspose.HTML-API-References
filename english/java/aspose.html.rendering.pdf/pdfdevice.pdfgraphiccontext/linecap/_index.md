@@ -17,5 +17,5 @@ public LineCap LineCap { get; set; }
 ### See Also
 
 * class [PdfGraphicContext](../)
-* package [com.aspose.html.Rendering.Pdf](../../pdfdevice.pdfgraphiccontext/)
+* package [com.aspose.html.rendering.pdf](../../pdfdevice.pdfgraphiccontext/)
 * package [Aspose.HTML](../../../)

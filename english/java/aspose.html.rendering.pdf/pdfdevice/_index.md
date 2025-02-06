@@ -1,7 +1,7 @@
 ---
 title: PdfDevice Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Pdf.PdfDevice class. Represents rendering to a pdf document
+description: com.aspose.html.rendering.pdf.PdfDevice class. Represents rendering to a pdf document
 type: docs
 weight: 4470
 url: /java/com.aspose.html.rendering.pdf/pdfdevice/
@@ -70,5 +70,5 @@ public class PdfDevice : Device<PdfGraphicContext, PdfRenderingOptions>
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../../com.aspose.html.rendering/device-2/)
 * class [PdfGraphicContext](../pdfdevice.pdfgraphiccontext/)
 * class [PdfRenderingOptions](../pdfrenderingoptions/)
-* package [com.aspose.html.Rendering.Pdf](../../com.aspose.html.rendering.pdf/)
+* package [com.aspose.html.rendering.pdf](../../com.aspose.html.rendering.pdf/)
 * package [Aspose.HTML](../../)

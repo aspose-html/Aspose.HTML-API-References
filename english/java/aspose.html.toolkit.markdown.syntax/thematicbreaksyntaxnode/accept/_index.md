@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [ThematicBreakSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../thematicbreaksyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../thematicbreaksyntaxnode/)
 * package [Aspose.HTML](../../../)

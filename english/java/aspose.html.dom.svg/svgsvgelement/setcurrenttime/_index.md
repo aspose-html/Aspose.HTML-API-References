@@ -21,5 +21,5 @@ public void SetCurrentTime(float seconds)
 ### See Also
 
 * class [SVGSVGElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgsvgelement/)
+* package [com.aspose.html.dom.svg](../../svgsvgelement/)
 * package [Aspose.HTML](../../../)

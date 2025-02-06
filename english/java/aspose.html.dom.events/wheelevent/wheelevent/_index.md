@@ -21,7 +21,7 @@ public WheelEvent(String type)
 ### See Also
 
 * class [WheelEvent](../)
-* package [com.aspose.html.Dom.Events](../../wheelevent/)
+* package [com.aspose.html.dom.events](../../wheelevent/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public WheelEvent(String type, IDictionary<String, object> eventInitDict)
 ### See Also
 
 * class [WheelEvent](../)
-* package [com.aspose.html.Dom.Events](../../wheelevent/)
+* package [com.aspose.html.dom.events](../../wheelevent/)
 * package [Aspose.HTML](../../../)

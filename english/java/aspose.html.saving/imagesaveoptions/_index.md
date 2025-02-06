@@ -1,7 +1,7 @@
 ---
 title: ImageSaveOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Saving.ImageSaveOptions class. Specific options data class. It provides properties to manage image result resolution smooting quality format as well as page settings and etc. More info you can obtain in documentation article
+description: com.aspose.html.saving.ImageSaveOptions class. Specific options data class. It provides properties to manage image result resolution smooting quality format as well as page settings and etc. More info you can obtain in documentation article
 type: docs
 weight: 4630
 url: /java/com.aspose.html.saving/imagesaveoptions/
@@ -49,10 +49,10 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import com.aspose.html;
-import com.aspose.html.Converters;
-import com.aspose.html.Drawing;
-import com.aspose.html.Rendering.Image;
-import com.aspose.html.Saving;
+import com.aspose.html.converters;
+import com.aspose.html.drawing;
+import com.aspose.html.rendering.image;
+import com.aspose.html.saving;
 ...
       // Prepare a path to a source HTML file
       String documentPath = Path.Combine(DataDir, "nature.html");
@@ -79,5 +79,5 @@ import com.aspose.html.Saving;
 ### See Also
 
 * class [ImageRenderingOptions](../../com.aspose.html.rendering.image/imagerenderingoptions/)
-* package [com.aspose.html.Saving](../../com.aspose.html.saving/)
+* package [com.aspose.html.saving](../../com.aspose.html.saving/)
 * package [Aspose.HTML](../../)

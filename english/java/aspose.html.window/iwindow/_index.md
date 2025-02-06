@@ -1,7 +1,7 @@
 ---
 title: IWindow Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Window.IWindow interface. The window object represents a window containing a DOM document
+description: com.aspose.html.window.IWindow interface. The window object represents a window containing a DOM document
 type: docs
 weight: 5850
 url: /java/com.aspose.html.window/iwindow/
@@ -45,5 +45,5 @@ public interface IWindow : IDisposable, IDocumentView, IEventTarget, IGlobalEven
 * interface [IGlobalEventHandlers](../../com.aspose.html.dom/iglobaleventhandlers/)
 * interface [IWindowEventHandlers](../iwindoweventhandlers/)
 * interface [IWindowTimers](../iwindowtimers/)
-* package [com.aspose.html.Window](../../com.aspose.html.window/)
+* package [com.aspose.html.window](../../com.aspose.html.window/)
 * package [Aspose.HTML](../../)

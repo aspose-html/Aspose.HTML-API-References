@@ -17,5 +17,5 @@ public String FontStyle { get; }
 ### See Also
 
 * class [FontMatchingProperties](../)
-* package [com.aspose.html.Rendering.Fonts](../../fontmatchingproperties/)
+* package [com.aspose.html.rendering.fonts](../../fontmatchingproperties/)
 * package [Aspose.HTML](../../../)

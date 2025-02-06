@@ -34,5 +34,5 @@ Reference
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [IStyleSheetList](../)
-* package [com.aspose.html.Dom.Css](../../istylesheetlist/)
+* package [com.aspose.html.dom.css](../../istylesheetlist/)
 * package [Aspose.HTML](../../../)

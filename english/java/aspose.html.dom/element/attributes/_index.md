@@ -18,5 +18,5 @@ public NamedNodeMap Attributes { get; }
 
 * class [NamedNodeMap](../../../com.aspose.html.collections/namednodemap/)
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../element/)
 * package [Aspose.HTML](../../../)

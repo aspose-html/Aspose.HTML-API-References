@@ -21,5 +21,5 @@ The boolean.
 ### See Also
 
 * class [TaskListItemMarker](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../tasklistitemmarker/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../tasklistitemmarker/)
 * package [Aspose.HTML](../../../)

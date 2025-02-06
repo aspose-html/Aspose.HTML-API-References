@@ -1,7 +1,7 @@
 ---
 title: AccessibilityRules Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Accessibility.AccessibilityRules class. Quick reference to Web Content Accessibility Guidelines WCAG 2 requirements success criteria and techniques. Contain a list of Principle. https//www.w3.org/WAI/WCAG21/quickref/
+description: com.aspose.html.accessibility.AccessibilityRules class. Quick reference to Web Content Accessibility Guidelines WCAG 2 requirements success criteria and techniques. Contain a list of Principle. https//www.w3.org/WAI/WCAG21/quickref/
 type: docs
 weight: 10
 url: /java/com.aspose.html.accessibility/accessibilityrules/
@@ -24,5 +24,5 @@ public class AccessibilityRules
 
 ### See Also
 
-* package [com.aspose.html.Accessibility](../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../)

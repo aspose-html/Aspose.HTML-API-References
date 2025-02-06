@@ -22,5 +22,5 @@ public void Add(Content content)
 
 * class [Content](../../content/)
 * class [MultipartContent](../)
-* package [com.aspose.html.Net](../../multipartcontent/)
+* package [com.aspose.html.net](../../multipartcontent/)
 * package [Aspose.HTML](../../../)

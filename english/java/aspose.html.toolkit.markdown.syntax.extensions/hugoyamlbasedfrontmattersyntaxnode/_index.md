@@ -1,7 +1,7 @@
 ---
 title: HugoYamlBasedFrontMatterSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Extensions.HugoYamlBasedFrontMatterSyntaxNode class. Defines the HugoYamlBasedFrontMatterSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.extensions.HugoYamlBasedFrontMatterSyntaxNode class. Defines the HugoYamlBasedFrontMatterSyntaxNode
 type: docs
 weight: 4940
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/
@@ -50,5 +50,5 @@ public class HugoYamlBasedFrontMatterSyntaxNode : HugoFrontMatterSyntaxNode,
 
 * class [HugoFrontMatterSyntaxNode](../hugofrontmattersyntaxnode/)
 * class [ChildFrontMatterSyntaxNode](../childfrontmattersyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../com.aspose.html.toolkit.markdown.syntax.extensions/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../)

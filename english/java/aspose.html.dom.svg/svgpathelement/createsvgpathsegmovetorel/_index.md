@@ -27,5 +27,5 @@ A stand-alone, parentless SVGPathSegMovetoRel object.
 
 * class [SVGPathSegMovetoRel](../../../com.aspose.html.dom.svg.paths/svgpathsegmovetorel/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../svgpathelement/)
 * package [Aspose.HTML](../../../)

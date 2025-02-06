@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [Dimension](../)
-* package [com.aspose.html.Drawing](../../dimension/)
+* package [com.aspose.html.drawing](../../dimension/)
 * package [Aspose.HTML](../../../)

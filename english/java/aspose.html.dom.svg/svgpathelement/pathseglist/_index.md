@@ -22,5 +22,5 @@ The path segment list.
 
 * class [SVGPathSegList](../../../com.aspose.html.dom.svg.paths/svgpathseglist/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../svgpathelement/)
 * package [Aspose.HTML](../../../)

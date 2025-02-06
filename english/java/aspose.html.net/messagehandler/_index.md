@@ -1,7 +1,7 @@
 ---
 title: MessageHandler Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Net.MessageHandler class. Represents a base type for message handlers
+description: com.aspose.html.net.MessageHandler class. Represents a base type for message handlers
 type: docs
 weight: 3990
 url: /java/com.aspose.html.net/messagehandler/
@@ -28,5 +28,5 @@ public abstract class MessageHandler
 
 ### See Also
 
-* package [com.aspose.html.Net](../../com.aspose.html.net/)
+* package [com.aspose.html.net](../../com.aspose.html.net/)
 * package [Aspose.HTML](../../)

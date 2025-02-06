@@ -29,7 +29,7 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
 
@@ -71,9 +71,9 @@ EPUB to JPG by two lines of code
 
 ```java
 import System.IO;
-import com.aspose.html.Converters;
-import com.aspose.html.Rendering.Image;
-import com.aspose.html.Saving;
+import com.aspose.html.converters;
+import com.aspose.html.rendering.image;
+import com.aspose.html.saving;
 ...
 // Open an existing EPUB file for reading.
 import var stream = File.OpenRead(DataDir + "input.epub");
@@ -91,7 +91,7 @@ Converter.ConvertEPUB(stream, new ImageSaveOptions(ImageFormat.Jpeg), Path.Combi
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -119,7 +119,7 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
 
@@ -159,9 +159,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 
 // Create Url based on input file path
@@ -189,7 +189,7 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -218,7 +218,7 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
 
@@ -258,9 +258,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Open existing file for reading as stream  
 var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
@@ -290,7 +290,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -319,7 +319,7 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
 
@@ -359,8 +359,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters; 
+import com.aspose.html.saving;  
+import com.aspose.html.converters; 
 ...
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub"); 
@@ -385,7 +385,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -414,7 +414,7 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
 
@@ -454,8 +454,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters;
+import com.aspose.html.saving; 
+import com.aspose.html.converters;
 ...
 // Form source Url by input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -484,7 +484,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -509,7 +509,7 @@ How to convert EPUB to XPS
 
 An XPS file represents page layout files that are based on XML Paper Specifications created by Microsoft. It was developed as a replacement of EMF file format and is similar to PDF file format, but uses XML in layout, appearance, and printing information of a document.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
@@ -532,10 +532,10 @@ You can download the complete examples and data files from [GitHub](https://gith
 ```java
 import System.IO;
 import com.aspose.html;
-import com.aspose.html.Converters;
-import com.aspose.html.Saving;
+import com.aspose.html.converters;
+import com.aspose.html.saving;
 import System.Drawing;
-import com.aspose.html.Drawing;
+import com.aspose.html.drawing;
 ...
   // Open an existing EPUB file for reading
   using var stream = File.OpenRead(DataDir + "input.epub");
@@ -550,7 +550,7 @@ import com.aspose.html.Drawing;
       {
         AnyPage = new Page()
         {
-          Size = new com.aspose.html.Drawing.Size(Length.FromPixels(500), Length.FromPixels(500))
+          Size = new com.aspose.html.drawing.Size(Length.FromPixels(500), Length.FromPixels(500))
         }
       },
     BackgroundColor = Color.LightGray
@@ -568,7 +568,7 @@ import com.aspose.html.Drawing;
 
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -593,7 +593,7 @@ How to convert EPUB to XPS
 
 An XPS file represents page layout files that are based on XML Paper Specifications created by Microsoft. It was developed as a replacement of EMF file format and is similar to PDF file format, but uses XML in layout, appearance, and printing information of a document.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
@@ -615,8 +615,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.Saving;
-import com.aspose.html.Converters;
+import com.aspose.html.saving;
+import com.aspose.html.converters;
 ...
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub");
@@ -639,7 +639,7 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -664,7 +664,7 @@ How to convert EPUB to XPS
 
 An XPS file represents page layout files that are based on XML Paper Specifications created by Microsoft. It was developed as a replacement of EMF file format and is similar to PDF file format, but uses XML in layout, appearance, and printing information of a document.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
@@ -688,8 +688,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters;
+import com.aspose.html.saving; 
+import com.aspose.html.converters;
 ...
 // Form source Url by input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -718,7 +718,7 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 * class [Url](../../../com.aspose.html/url/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -745,7 +745,7 @@ How to convert EPUB to XPS
 
 An XPS file represents page layout files that are based on XML Paper Specifications created by Microsoft. It was developed as a replacement of EMF file format and is similar to PDF file format, but uses XML in layout, appearance, and printing information of a document.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
@@ -767,8 +767,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters;
+import com.aspose.html.saving; 
+import com.aspose.html.converters;
 ...
 
 // Open an existing EPUB file for reading
@@ -798,7 +798,7 @@ Converter.ConvertEPUB(stream, new Configuration(), options, savePath);
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -825,7 +825,7 @@ How to convert EPUB to XPS
 
 An XPS file represents page layout files that are based on XML Paper Specifications created by Microsoft. It was developed as a replacement of EMF file format and is similar to PDF file format, but uses XML in layout, appearance, and printing information of a document.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
@@ -847,8 +847,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.Saving;
-import com.aspose.html.Converters;
+import com.aspose.html.saving;
+import com.aspose.html.converters;
 ...
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub");
@@ -872,7 +872,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -899,7 +899,7 @@ How to convert EPUB to XPS
 
 An XPS file represents page layout files that are based on XML Paper Specifications created by Microsoft. It was developed as a replacement of EMF file format and is similar to PDF file format, but uses XML in layout, appearance, and printing information of a document.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
@@ -921,8 +921,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.Saving;
-import com.aspose.html.Converters;
+import com.aspose.html.saving;
+import com.aspose.html.converters;
 ...
 // Form source Url by input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -947,7 +947,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -973,7 +973,7 @@ How to convert EPUB to XPS
 
 An XPS file represents page layout files that are based on XML Paper Specifications created by Microsoft. It was developed as a replacement of EMF file format and is similar to PDF file format, but uses XML in layout, appearance, and printing information of a document.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
@@ -997,8 +997,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 import System.IO;
 import com.aspose.html;
 import System.Linq;
-import com.aspose.html.Converters;
-import com.aspose.html.Saving;
+import com.aspose.html.converters;
+import com.aspose.html.saving;
 ...
  // Create an instance of MemoryStreamProvider
  using var streamProvider = new MemoryStreamProvider();
@@ -1034,7 +1034,7 @@ import com.aspose.html.Saving;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1060,7 +1060,7 @@ How to convert EPUB to XPS
 
 An XPS file represents page layout files that are based on XML Paper Specifications created by Microsoft. It was developed as a replacement of EMF file format and is similar to PDF file format, but uses XML in layout, appearance, and printing information of a document.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
@@ -1082,8 +1082,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters;
+import com.aspose.html.saving; 
+import com.aspose.html.converters;
 
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub");
@@ -1107,7 +1107,7 @@ Converter.ConvertEPUB(sourcePath, options, sp);
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1133,7 +1133,7 @@ How to convert EPUB to XPS
 
 An XPS file represents page layout files that are based on XML Paper Specifications created by Microsoft. It was developed as a replacement of EMF file format and is similar to PDF file format, but uses XML in layout, appearance, and printing information of a document.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
@@ -1155,8 +1155,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters;
+import com.aspose.html.saving; 
+import com.aspose.html.converters;
 
 // Form source Url by input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -1181,7 +1181,7 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1208,7 +1208,7 @@ How to convert EPUB to XPS
 
 An XPS file represents page layout files that are based on XML Paper Specifications created by Microsoft. It was developed as a replacement of EMF file format and is similar to PDF file format, but uses XML in layout, appearance, and printing information of a document.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
@@ -1230,8 +1230,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters;
+import com.aspose.html.saving; 
+import com.aspose.html.converters;
 
 // Open existing file for reading as stream  
 var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
@@ -1256,7 +1256,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1283,7 +1283,7 @@ How to convert EPUB to XPS
 
 An XPS file represents page layout files that are based on XML Paper Specifications created by Microsoft. It was developed as a replacement of EMF file format and is similar to PDF file format, but uses XML in layout, appearance, and printing information of a document.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
@@ -1305,8 +1305,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters;
+import com.aspose.html.saving; 
+import com.aspose.html.converters;
 
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub");
@@ -1331,7 +1331,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1358,7 +1358,7 @@ How to convert EPUB to XPS
 
 An XPS file represents page layout files that are based on XML Paper Specifications created by Microsoft. It was developed as a replacement of EMF file format and is similar to PDF file format, but uses XML in layout, appearance, and printing information of a document.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter XPS specific guide, you find the following article:
 
@@ -1380,8 +1380,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters;
+import com.aspose.html.saving; 
+import com.aspose.html.converters;
 
 // Form source Url by input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -1407,7 +1407,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1432,7 +1432,7 @@ How to convert EPUB to DOCX
 
 DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. DOCX files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word, which support DOC file extensions. EPUB to DOCX conversion is often required to take advantage of DOCX format for specific user tasks.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
@@ -1454,9 +1454,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Open existing file for reading as stream  
 var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
@@ -1479,7 +1479,7 @@ Converter.ConvertEPUB(inputStream, options, resultPath);
 
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1504,7 +1504,7 @@ How to convert EPUB to DOCX
 
 DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. DOCX files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word, which support DOC file extensions. EPUB to DOCX conversion is often required to take advantage of DOCX format for specific user tasks.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
@@ -1526,8 +1526,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub");
@@ -1550,7 +1550,7 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1575,7 +1575,7 @@ How to convert EPUB to DOCX
 
 DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. DOCX files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word, which support DOC file extensions. EPUB to DOCX conversion is often required to take advantage of DOCX format for specific user tasks.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
@@ -1596,9 +1596,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 ## Examples
 
 ```java
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Form source Url by input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -1622,7 +1622,7 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 * class [Url](../../../com.aspose.html/url/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1649,7 +1649,7 @@ How to convert EPUB to DOCX
 
 DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. DOCX files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word, which support DOC file extensions. EPUB to DOCX conversion is often required to take advantage of DOCX format for specific user tasks.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
@@ -1671,9 +1671,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Open existing file for reading as stream  
 var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
@@ -1697,7 +1697,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1724,7 +1724,7 @@ How to convert EPUB to DOCX
 
 DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. DOCX files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word, which support DOC file extensions. EPUB to DOCX conversion is often required to take advantage of DOCX format for specific user tasks.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
@@ -1746,8 +1746,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub");
@@ -1771,7 +1771,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1798,7 +1798,7 @@ How to convert EPUB to DOCX
 
 DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. DOCX files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word, which support DOC file extensions. EPUB to DOCX conversion is often required to take advantage of DOCX format for specific user tasks.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
@@ -1819,9 +1819,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 ## Examples
 
 ```java
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Form source Url by input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -1846,7 +1846,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1872,7 +1872,7 @@ How to convert EPUB to DOCX
 
 DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. DOCX files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word, which support DOC file extensions. EPUB to DOCX conversion is often required to take advantage of DOCX format for specific user tasks.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
@@ -1894,9 +1894,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Open existing file for reading as stream  
 var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
@@ -1920,7 +1920,7 @@ Converter.ConvertEPUB(inputStream, options, sp);
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1946,7 +1946,7 @@ How to convert EPUB to DOCX
 
 DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. DOCX files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word, which support DOC file extensions. EPUB to DOCX conversion is often required to take advantage of DOCX format for specific user tasks.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
@@ -1968,9 +1968,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub");
@@ -1994,7 +1994,7 @@ Converter.ConvertEPUB(sourcePath, options, sp);
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2020,7 +2020,7 @@ How to convert EPUB to DOCX
 
 DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. DOCX files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word, which support DOC file extensions. EPUB to DOCX conversion is often required to take advantage of DOCX format for specific user tasks.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
@@ -2042,9 +2042,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Form source Url by input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -2074,7 +2074,7 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2101,7 +2101,7 @@ How to convert EPUB to DOCX
 
 DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. DOCX files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word, which support DOC file extensions. EPUB to DOCX conversion is often required to take advantage of DOCX format for specific user tasks.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
@@ -2123,9 +2123,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Open existing file for reading as stream  
 var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
@@ -2155,7 +2155,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2182,7 +2182,7 @@ How to convert EPUB to DOCX
 
 DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. DOCX files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word, which support DOC file extensions. EPUB to DOCX conversion is often required to take advantage of DOCX format for specific user tasks.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
@@ -2204,9 +2204,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub");
@@ -2231,7 +2231,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2258,7 +2258,7 @@ How to convert EPUB to DOCX
 
 DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. DOCX files can be opened with Word 2007 and lateral versions but not with the earlier versions of MS Word, which support DOC file extensions. EPUB to DOCX conversion is often required to take advantage of DOCX format for specific user tasks.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter DOCX specific guide, you find the following article:
 
@@ -2280,9 +2280,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Create Url based on input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -2315,7 +2315,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2340,7 +2340,7 @@ How to convert EPUB to PDF
 
 EPUB is an e-book file format that provides a standard digital publication format. It is created by International Digital Publishing Forum ([IDPF](http://idpf.org/)), and now it is supported by many e-readers and software applications. EPUB to PDF conversion is often required to take advantage of PDF format. PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, metadata, etc. PDF files can be opened in Adobe Acrobat Reader/Writer and most modern browsers like Chrome, Safari, Firefox. They are optimized for printing, and they are ideal for creating physical copies of your documents; you can also configure the security settings for PDF.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
@@ -2361,9 +2361,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 ## Examples
 
 ```java
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Open existing file for reading as stream  
 var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
@@ -2386,7 +2386,7 @@ Converter.ConvertEPUB(inputStream, options, resultPath);
 
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2411,7 +2411,7 @@ How to convert EPUB to PDF
 
 EPUB is an e-book file format that provides a standard digital publication format. It is created by International Digital Publishing Forum ([IDPF](http://idpf.org/)), and now it is supported by many e-readers and software applications. EPUB to PDF conversion is often required to take advantage of PDF format. PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, metadata, etc. PDF files can be opened in Adobe Acrobat Reader/Writer and most modern browsers like Chrome, Safari, Firefox. They are optimized for printing, and they are ideal for creating physical copies of your documents; you can also configure the security settings for PDF.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
@@ -2432,9 +2432,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 ## Examples
 
 ```java
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub");
@@ -2457,7 +2457,7 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2482,7 +2482,7 @@ How to convert EPUB to PDF
 
 EPUB is an e-book file format that provides a standard digital publication format. It is created by International Digital Publishing Forum ([IDPF](http://idpf.org/)), and now it is supported by many e-readers and software applications. EPUB to PDF conversion is often required to take advantage of PDF format. PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, metadata, etc. PDF files can be opened in Adobe Acrobat Reader/Writer and most modern browsers like Chrome, Safari, Firefox. They are optimized for printing, and they are ideal for creating physical copies of your documents; you can also configure the security settings for PDF.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
@@ -2504,8 +2504,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters; 
+import com.aspose.html.saving;  
+import com.aspose.html.converters; 
 
 // Create Url based on input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -2514,7 +2514,7 @@ var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
 var resultPath = Path.Combine(OutputFolder, "sample.pdf");
 
 // Define default options instance
-var options = new com.aspose.html.Saving.PdfSaveOptions();
+var options = new com.aspose.html.saving.PdfSaveOptions();
 
 // Raise conversion process
 Converter.ConvertEPUB(sourceUrl, options, resultPath);
@@ -2529,7 +2529,7 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 * class [Url](../../../com.aspose.html/url/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2556,7 +2556,7 @@ How to convert EPUB to PDF
 
 EPUB is an e-book file format that provides a standard digital publication format. It is created by International Digital Publishing Forum ([IDPF](http://idpf.org/)), and now it is supported by many e-readers and software applications. EPUB to PDF conversion is often required to take advantage of PDF format. PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, metadata, etc. PDF files can be opened in Adobe Acrobat Reader/Writer and most modern browsers like Chrome, Safari, Firefox. They are optimized for printing, and they are ideal for creating physical copies of your documents; you can also configure the security settings for PDF.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
@@ -2578,8 +2578,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Open existing file for reading as stream  
 var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
@@ -2608,7 +2608,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2635,7 +2635,7 @@ How to convert EPUB to PDF
 
 EPUB is an e-book file format that provides a standard digital publication format. It is created by International Digital Publishing Forum ([IDPF](http://idpf.org/)), and now it is supported by many e-readers and software applications. EPUB to PDF conversion is often required to take advantage of PDF format. PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, metadata, etc. PDF files can be opened in Adobe Acrobat Reader/Writer and most modern browsers like Chrome, Safari, Firefox. They are optimized for printing, and they are ideal for creating physical copies of your documents; you can also configure the security settings for PDF.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
@@ -2657,8 +2657,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters; 
+import com.aspose.html.saving;  
+import com.aspose.html.converters; 
 ...
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub");
@@ -2687,7 +2687,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2714,7 +2714,7 @@ How to convert EPUB to PDF
 
 EPUB is an e-book file format that provides a standard digital publication format. It is created by International Digital Publishing Forum ([IDPF](http://idpf.org/)), and now it is supported by many e-readers and software applications. EPUB to PDF conversion is often required to take advantage of PDF format. PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, metadata, etc. PDF files can be opened in Adobe Acrobat Reader/Writer and most modern browsers like Chrome, Safari, Firefox. They are optimized for printing, and they are ideal for creating physical copies of your documents; you can also configure the security settings for PDF.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
@@ -2736,9 +2736,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;
-import com.aspose.html.Converters;
+import com.aspose.html.io;
+import com.aspose.html.saving;
+import com.aspose.html.converters;
 ...  
 // Create Url based on input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -2770,7 +2770,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2796,7 +2796,7 @@ How to convert EPUB to PDF
 
 EPUB is an e-book file format that provides a standard digital publication format. It is created by International Digital Publishing Forum ([IDPF](http://idpf.org/)), and now it is supported by many e-readers and software applications. EPUB to PDF conversion is often required to take advantage of PDF format. PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, metadata, etc. PDF files can be opened in Adobe Acrobat Reader/Writer and most modern browsers like Chrome, Safari, Firefox. They are optimized for printing, and they are ideal for creating physical copies of your documents; you can also configure the security settings for PDF.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
@@ -2818,9 +2818,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Open existing file for reading as stream  
 var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
@@ -2844,7 +2844,7 @@ Converter.ConvertEPUB(inputStream, options, sp);
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2870,7 +2870,7 @@ How to convert EPUB to PDF
 
 EPUB is an e-book file format that provides a standard digital publication format. It is created by International Digital Publishing Forum ([IDPF](http://idpf.org/)), and now it is supported by many e-readers and software applications. EPUB to PDF conversion is often required to take advantage of PDF format. PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, metadata, etc. PDF files can be opened in Adobe Acrobat Reader/Writer and most modern browsers like Chrome, Safari, Firefox. They are optimized for printing, and they are ideal for creating physical copies of your documents; you can also configure the security settings for PDF.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
@@ -2892,9 +2892,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub");  
@@ -2918,7 +2918,7 @@ Converter.ConvertEPUB(sourcePath, options, sp);
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2944,7 +2944,7 @@ How to convert EPUB to PDF
 
 EPUB is an e-book file format that provides a standard digital publication format. It is created by International Digital Publishing Forum ([IDPF](http://idpf.org/)), and now it is supported by many e-readers and software applications. EPUB to PDF conversion is often required to take advantage of PDF format. PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, metadata, etc. PDF files can be opened in Adobe Acrobat Reader/Writer and most modern browsers like Chrome, Safari, Firefox. They are optimized for printing, and they are ideal for creating physical copies of your documents; you can also configure the security settings for PDF.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
@@ -2966,9 +2966,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;   
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters; 
+import com.aspose.html.io;   
+import com.aspose.html.saving;  
+import com.aspose.html.converters; 
 ...
 // Create Url based on input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -2998,7 +2998,7 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3025,7 +3025,7 @@ How to convert EPUB to PDF
 
 EPUB is an e-book file format that provides a standard digital publication format. It is created by International Digital Publishing Forum ([IDPF](http://idpf.org/)), and now it is supported by many e-readers and software applications. EPUB to PDF conversion is often required to take advantage of PDF format. PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, metadata, etc. PDF files can be opened in Adobe Acrobat Reader/Writer and most modern browsers like Chrome, Safari, Firefox. They are optimized for printing, and they are ideal for creating physical copies of your documents; you can also configure the security settings for PDF.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The [`com.aspose.html.Converters`](../) package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The [`com.aspose.html.converters`](../) package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
@@ -3047,9 +3047,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Open existing file for reading as stream  
 var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
@@ -3074,7 +3074,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3101,7 +3101,7 @@ How to convert EPUB to PDF
 
 EPUB is an e-book file format that provides a standard digital publication format. It is created by International Digital Publishing Forum ([IDPF](http://idpf.org/)), and now it is supported by many e-readers and software applications. EPUB to PDF conversion is often required to take advantage of PDF format. PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, metadata, etc. PDF files can be opened in Adobe Acrobat Reader/Writer and most modern browsers like Chrome, Safari, Firefox. They are optimized for printing, and they are ideal for creating physical copies of your documents; you can also configure the security settings for PDF.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
@@ -3123,9 +3123,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub");  
@@ -3155,7 +3155,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3182,7 +3182,7 @@ How to convert EPUB to PDF
 
 EPUB is an e-book file format that provides a standard digital publication format. It is created by International Digital Publishing Forum ([IDPF](http://idpf.org/)), and now it is supported by many e-readers and software applications. EPUB to PDF conversion is often required to take advantage of PDF format. PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, metadata, etc. PDF files can be opened in Adobe Acrobat Reader/Writer and most modern browsers like Chrome, Safari, Firefox. They are optimized for printing, and they are ideal for creating physical copies of your documents; you can also configure the security settings for PDF.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter PDF specific guide, you find the following article:
 
@@ -3204,8 +3204,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters; 
+import com.aspose.html.saving;  
+import com.aspose.html.converters; 
 ...
 // Create Url based on input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -3231,7 +3231,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3258,7 +3258,7 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
 
@@ -3298,8 +3298,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
 // Open existing file for reading as stream
 var inputStream = System.IO.File.OpenRead(Path.Combine(InputFolder, "sample.epub"));
@@ -3322,7 +3322,7 @@ Converter.ConvertEPUB(inputStream, options, resultPath);
 
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3349,7 +3349,7 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
 
@@ -3389,8 +3389,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters; 
+import com.aspose.html.saving;  
+import com.aspose.html.converters; 
 ...
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub"); 
@@ -3413,7 +3413,7 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3440,7 +3440,7 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
 
@@ -3480,8 +3480,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
 // Create Url based on input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
@@ -3505,7 +3505,7 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 * class [Url](../../../com.aspose.html/url/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3534,7 +3534,7 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
 
@@ -3574,8 +3574,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
 // Open existing file for reading as stream
 var inputStream = System.IO.File.OpenRead(Path.Combine(InputFolder, "sample.epub"));
@@ -3599,7 +3599,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3628,7 +3628,7 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
 
@@ -3668,8 +3668,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters; 
+import com.aspose.html.saving;  
+import com.aspose.html.converters; 
 ...
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "sample.epub"); 
@@ -3693,7 +3693,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3722,7 +3722,7 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
 
@@ -3762,8 +3762,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
 // Create Url based on input file path
 var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));  
@@ -3788,7 +3788,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3816,7 +3816,7 @@ EPUB is an e-book file format that provides a standard digital publication forma
 
 Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
 
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
 
 This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
 
@@ -3856,9 +3856,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO; 
-import com.aspose.html.Saving; 
-import com.aspose.html.Converters; 
+import com.aspose.html.io; 
+import com.aspose.html.saving; 
+import com.aspose.html.converters; 
 ...  
 // Open existing file for reading as stream  
 var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
@@ -3882,5 +3882,5 @@ Converter.ConvertEPUB(inputStream, options, sp);
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)

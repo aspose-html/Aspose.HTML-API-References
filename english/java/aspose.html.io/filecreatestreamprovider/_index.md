@@ -1,7 +1,7 @@
 ---
 title: FileCreateStreamProvider Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.IO.FileCreateStreamProvider class. Represents FileStream implementation for providing streams to the rendering devices
+description: com.aspose.html.io.FileCreateStreamProvider class. Represents FileStream implementation for providing streams to the rendering devices
 type: docs
 weight: 3710
 url: /java/com.aspose.html.io/filecreatestreamprovider/
@@ -43,5 +43,5 @@ public class FileCreateStreamProvider : ICreateStreamProvider
 ### See Also
 
 * interface [ICreateStreamProvider](../icreatestreamprovider/)
-* package [com.aspose.html.IO](../../com.aspose.html.io/)
+* package [com.aspose.html.io](../../com.aspose.html.io/)
 * package [Aspose.HTML](../../)

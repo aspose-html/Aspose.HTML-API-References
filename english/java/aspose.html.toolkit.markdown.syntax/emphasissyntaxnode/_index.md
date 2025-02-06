@@ -1,7 +1,7 @@
 ---
 title: EmphasisSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.EmphasisSyntaxNode class. Represents the EmphasisSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.EmphasisSyntaxNode class. Represents the EmphasisSyntaxNode
 type: docs
 weight: 4870
 url: /java/com.aspose.html.toolkit.markdown.syntax/emphasissyntaxnode/
@@ -46,5 +46,5 @@ public class EmphasisSyntaxNode : InlineContainerSyntaxNode
 ### See Also
 
 * class [InlineContainerSyntaxNode](../inlinecontainersyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

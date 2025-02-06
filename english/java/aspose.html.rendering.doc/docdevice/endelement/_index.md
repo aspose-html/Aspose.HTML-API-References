@@ -22,5 +22,5 @@ public void EndElement(Element element)
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * class [DocDevice](../)
-* package [com.aspose.html.Rendering.Doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../docdevice/)
 * package [Aspose.HTML](../../../)

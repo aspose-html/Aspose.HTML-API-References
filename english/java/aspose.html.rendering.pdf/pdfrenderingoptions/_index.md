@@ -1,7 +1,7 @@
 ---
 title: PdfRenderingOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Pdf.PdfRenderingOptions class. Represents rendering options for PdfDevice
+description: com.aspose.html.rendering.pdf.PdfRenderingOptions class. Represents rendering options for PdfDevice
 type: docs
 weight: 4500
 url: /java/com.aspose.html.rendering.pdf/pdfrenderingoptions/
@@ -43,5 +43,5 @@ public class PdfRenderingOptions : RenderingOptions
 ### See Also
 
 * class [RenderingOptions](../../com.aspose.html.rendering/renderingoptions/)
-* package [com.aspose.html.Rendering.Pdf](../../com.aspose.html.rendering.pdf/)
+* package [com.aspose.html.rendering.pdf](../../com.aspose.html.rendering.pdf/)
 * package [Aspose.HTML](../../)

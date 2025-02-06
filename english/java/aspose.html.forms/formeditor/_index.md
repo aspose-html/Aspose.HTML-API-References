@@ -1,7 +1,7 @@
 ---
 title: FormEditor Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Forms.FormEditor class. This class represents the editor over the HTMLFormElement that creates a easier way for .net developers to edit the html forms
+description: com.aspose.html.forms.FormEditor class. This class represents the editor over the HTMLFormElement that creates a easier way for .net developers to edit the html forms
 type: docs
 weight: 2940
 url: /java/com.aspose.html.forms/formeditor/
@@ -46,5 +46,5 @@ public class FormEditor : IDisposable, IEnumerable<FormElement>
 ### See Also
 
 * class [FormElement](../formelement/)
-* package [com.aspose.html.Forms](../../com.aspose.html.forms/)
+* package [com.aspose.html.forms](../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../)

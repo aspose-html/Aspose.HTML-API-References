@@ -21,5 +21,5 @@ The name.
 ### See Also
 
 * class [NameValueHeaderValue](../)
-* package [com.aspose.html.Net.Headers](../../namevalueheadervalue/)
+* package [com.aspose.html.net.headers](../../namevalueheadervalue/)
 * package [Aspose.HTML](../../../)

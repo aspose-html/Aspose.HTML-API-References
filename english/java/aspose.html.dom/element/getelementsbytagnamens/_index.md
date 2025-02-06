@@ -54,8 +54,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 # C# code
 import System;
 import com.aspose.html;
-import com.aspose.html.Collections;
-import com.aspose.html.Dom;
+import com.aspose.html.collections;
+import com.aspose.html.dom;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -84,5 +84,5 @@ Custom package custom tag content goes here...
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../element/)
 * package [Aspose.HTML](../../../)

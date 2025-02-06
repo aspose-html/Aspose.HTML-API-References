@@ -27,5 +27,5 @@ A boolean value that holds the return value true or false, indicating if the par
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../node/)
 * package [Aspose.HTML](../../../)

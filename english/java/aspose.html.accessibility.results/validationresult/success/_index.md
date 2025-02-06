@@ -17,5 +17,5 @@ public bool Success { get; }
 ### See Also
 
 * class [ValidationResult](../)
-* package [com.aspose.html.Accessibility.Results](../../../com.aspose.html.accessibility.results/)
+* package [com.aspose.html.accessibility.results](../../../com.aspose.html.accessibility.results/)
 * package [Aspose.HTML](../../../)

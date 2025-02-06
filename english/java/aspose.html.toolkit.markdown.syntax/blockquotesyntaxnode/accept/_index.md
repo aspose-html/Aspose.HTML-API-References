@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [BlockQuoteSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../blockquotesyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../blockquotesyntaxnode/)
 * package [Aspose.HTML](../../../)

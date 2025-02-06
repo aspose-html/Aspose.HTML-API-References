@@ -22,5 +22,5 @@ The ListItemMarker.
 
 * class [ListItemMarker](../../listitemmarker/)
 * class [ListItemSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../listitemsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../listitemsyntaxnode/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The ‘viewBox’ of the given element.
 
 * class [SVGAnimatedRect](../../../com.aspose.html.dom.svg.datatypes/svganimatedrect/)
 * class [SVGPatternElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpatternelement/)
+* package [com.aspose.html.dom.svg](../../svgpatternelement/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The String value.
 ### See Also
 
 * class [UnorderedListSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../unorderedlistsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../unorderedlistsyntaxnode/)
 * package [Aspose.HTML](../../../)

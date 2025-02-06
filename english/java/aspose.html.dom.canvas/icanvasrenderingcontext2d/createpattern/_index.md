@@ -28,7 +28,7 @@ An opaque object describing a pattern.
 * interface [ICanvasPattern](../../icanvaspattern/)
 * class [HTMLImageElement](../../../com.aspose.html/htmlimageelement/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -55,5 +55,5 @@ An opaque object describing a pattern.
 * interface [ICanvasPattern](../../icanvaspattern/)
 * class [HTMLCanvasElement](../../../com.aspose.html/htmlcanvaselement/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
 * package [Aspose.HTML](../../../)

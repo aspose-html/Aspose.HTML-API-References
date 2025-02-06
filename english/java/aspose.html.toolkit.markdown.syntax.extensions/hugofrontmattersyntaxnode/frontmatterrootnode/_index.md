@@ -18,5 +18,5 @@ public abstract ChildFrontMatterSyntaxNode FrontMatterRootNode { get; }
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [HugoFrontMatterSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../hugofrontmattersyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../hugofrontmattersyntaxnode/)
 * package [Aspose.HTML](../../../)

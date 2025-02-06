@@ -26,5 +26,5 @@ public void SetTransform(double a, double b, double c, double d, double e, doubl
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
 * package [Aspose.HTML](../../../)

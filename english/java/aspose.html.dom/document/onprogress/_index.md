@@ -18,5 +18,5 @@ public event DOMEventHandler OnProgress;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../document/)
 * package [Aspose.HTML](../../../)

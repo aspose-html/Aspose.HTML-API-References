@@ -1,7 +1,7 @@
 ---
 title: SVGListBaseT Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.Collections.SVGListBase1T class. This interface defines a base list of all SVG lists
+description: com.aspose.html.dom.svg.collections.SVGListBase1T class. This interface defines a base list of all SVG lists
 type: docs
 weight: 1060
 url: /java/com.aspose.html.dom.svg.collections/svglistbase-1/
@@ -45,5 +45,5 @@ public abstract class SVGListBase<T> : SVGValueType, IEnumerable<T>
 ### See Also
 
 * class [SVGValueType](../../com.aspose.html.dom.svg.datatypes/svgvaluetype/)
-* package [com.aspose.html.Dom.Svg.Collections](../../com.aspose.html.dom.svg.collections/)
+* package [com.aspose.html.dom.svg.collections](../../com.aspose.html.dom.svg.collections/)
 * package [Aspose.HTML](../../)

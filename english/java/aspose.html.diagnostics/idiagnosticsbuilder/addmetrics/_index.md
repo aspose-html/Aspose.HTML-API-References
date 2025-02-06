@@ -21,5 +21,5 @@ The [`IDiagnosticsBuilder`](../) so that additional calls can be chained.
 ### See Also
 
 * interface [IDiagnosticsBuilder](../)
-* package [com.aspose.html.Diagnostics](../../idiagnosticsbuilder/)
+* package [com.aspose.html.diagnostics](../../idiagnosticsbuilder/)
 * package [Aspose.HTML](../../../)

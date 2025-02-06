@@ -17,5 +17,5 @@ public static ValidationBuilder None { get; }
 ### See Also
 
 * class [ValidationBuilder](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

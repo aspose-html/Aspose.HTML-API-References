@@ -15,5 +15,5 @@ public static implicit operator UnitType(String value)
 ### See Also
 
 * class [UnitType](../)
-* package [com.aspose.html.Drawing](../../unittype/)
+* package [com.aspose.html.drawing](../../unittype/)
 * package [Aspose.HTML](../../../)

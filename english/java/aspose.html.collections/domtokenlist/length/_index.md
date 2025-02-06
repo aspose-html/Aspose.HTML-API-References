@@ -17,5 +17,5 @@ public ulong Length { get; }
 ### See Also
 
 * class [DOMTokenList](../)
-* package [com.aspose.html.Collections](../../domtokenlist/)
+* package [com.aspose.html.collections](../../domtokenlist/)
 * package [Aspose.HTML](../../../)

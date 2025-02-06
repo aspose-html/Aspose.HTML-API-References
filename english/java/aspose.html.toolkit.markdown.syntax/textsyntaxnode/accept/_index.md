@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [TextSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../textsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../textsyntaxnode/)
 * package [Aspose.HTML](../../../)

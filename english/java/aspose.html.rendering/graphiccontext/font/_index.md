@@ -18,5 +18,5 @@ public ITrueTypeFont Font { get; set; }
 
 * interface [ITrueTypeFont](../../../com.aspose.html.drawing/itruetypefont/)
 * class [GraphicContext](../)
-* package [com.aspose.html.Rendering](../../graphiccontext/)
+* package [com.aspose.html.rendering](../../graphiccontext/)
 * package [Aspose.HTML](../../../)

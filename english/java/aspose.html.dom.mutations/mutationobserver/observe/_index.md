@@ -22,7 +22,7 @@ public void Observe(Node target)
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * class [MutationObserver](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserver/)
+* package [com.aspose.html.dom.mutations](../../mutationobserver/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -45,5 +45,5 @@ public void Observe(Node target, MutationObserverInit options)
 * class [Node](../../../com.aspose.html.dom/node/)
 * class [MutationObserverInit](../../mutationobserverinit/)
 * class [MutationObserver](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserver/)
+* package [com.aspose.html.dom.mutations](../../mutationobserver/)
 * package [Aspose.HTML](../../../)

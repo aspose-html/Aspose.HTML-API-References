@@ -22,5 +22,5 @@ public void WriteTo(MarkdownTextWriter writer)
 
 * class [MarkdownTextWriter](../../markdowntextwriter/)
 * class [InlineProxy](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../inlineproxy/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../inlineproxy/)
 * package [Aspose.HTML](../../../)

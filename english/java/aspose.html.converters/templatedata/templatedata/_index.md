@@ -22,7 +22,7 @@ public TemplateData(TemplateContentOptions contentOptions)
 
 * class [TemplateContentOptions](../../templatecontentoptions/)
 * class [TemplateData](../)
-* package [com.aspose.html.Converters](../../templatedata/)
+* package [com.aspose.html.converters](../../templatedata/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -42,5 +42,5 @@ public TemplateData(String dataPath)
 ### See Also
 
 * class [TemplateData](../)
-* package [com.aspose.html.Converters](../../templatedata/)
+* package [com.aspose.html.converters](../../templatedata/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The name of the node.
 ### See Also
 
 * class [EntityReference](../)
-* package [com.aspose.html.Dom](../../entityreference/)
+* package [com.aspose.html.dom](../../entityreference/)
 * package [Aspose.HTML](../../../)

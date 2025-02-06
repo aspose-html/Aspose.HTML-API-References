@@ -22,5 +22,5 @@ The attribute ‘edgeMode’ of the given ‘feConvolveMatrix’ element.
 
 * class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEConvolveMatrixElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeconvolvematrixelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfeconvolvematrixelement/)
 * package [Aspose.HTML](../../../)

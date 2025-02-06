@@ -22,5 +22,5 @@ An SVGRect object that defines the bounding box.
 
 * class [SVGRect](../../../com.aspose.html.dom.svg.datatypes/svgrect/)
 * class [SVGGraphicsElement](../)
-* package [com.aspose.html.Dom.Svg](../../svggraphicselement/)
+* package [com.aspose.html.dom.svg](../../svggraphicselement/)
 * package [Aspose.HTML](../../../)

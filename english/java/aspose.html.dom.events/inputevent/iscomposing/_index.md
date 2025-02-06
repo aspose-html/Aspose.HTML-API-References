@@ -21,5 +21,5 @@ public bool IsComposing { get; }
 ### See Also
 
 * class [InputEvent](../)
-* package [com.aspose.html.Dom.Events](../../inputevent/)
+* package [com.aspose.html.dom.events](../../inputevent/)
 * package [Aspose.HTML](../../../)

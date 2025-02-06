@@ -27,5 +27,5 @@ It has been superseded by a modern, but incompatible, [CSS Typed Object Model AP
 ### See Also
 
 * interface [ICSSValueList](../)
-* package [com.aspose.html.Dom.Css](../../icssvaluelist/)
+* package [com.aspose.html.dom.css](../../icssvaluelist/)
 * package [Aspose.HTML](../../../)

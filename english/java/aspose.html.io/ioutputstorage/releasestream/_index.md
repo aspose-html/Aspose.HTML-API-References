@@ -22,5 +22,5 @@ public void ReleaseStream(OutputStream stream)
 
 * class [OutputStream](../../outputstream/)
 * interface [IOutputStorage](../)
-* package [com.aspose.html.IO](../../ioutputstorage/)
+* package [com.aspose.html.io](../../ioutputstorage/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public DOMObjectAttribute()
 ### See Also
 
 * class [DOMObjectAttribute](../)
-* package [com.aspose.html.Dom.Attributes](../../domobjectattribute/)
+* package [com.aspose.html.dom.attributes](../../domobjectattribute/)
 * package [Aspose.HTML](../../../)

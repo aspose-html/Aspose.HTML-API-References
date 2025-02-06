@@ -32,5 +32,5 @@ var comment = document.CreateComment(data);
 
 * class [Comment](../../comment/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../document/)
 * package [Aspose.HTML](../../../)

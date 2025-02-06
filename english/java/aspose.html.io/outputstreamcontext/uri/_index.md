@@ -17,5 +17,5 @@ public String Uri { get; }
 ### See Also
 
 * class [OutputStreamContext](../)
-* package [com.aspose.html.IO](../../outputstreamcontext/)
+* package [com.aspose.html.io](../../outputstreamcontext/)
 * package [Aspose.HTML](../../../)

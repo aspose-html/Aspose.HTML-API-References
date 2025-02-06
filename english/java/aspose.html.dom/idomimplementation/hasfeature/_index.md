@@ -21,5 +21,5 @@ public bool HasFeature()
 ### See Also
 
 * interface [IDOMImplementation](../)
-* package [com.aspose.html.Dom](../../idomimplementation/)
+* package [com.aspose.html.dom](../../idomimplementation/)
 * package [Aspose.HTML](../../../)

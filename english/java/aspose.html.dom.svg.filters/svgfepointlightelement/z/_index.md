@@ -22,5 +22,5 @@ The attribute ‘z’ of the given ‘fePointLight’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEPointLightElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfepointlightelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfepointlightelement/)
 * package [Aspose.HTML](../../../)

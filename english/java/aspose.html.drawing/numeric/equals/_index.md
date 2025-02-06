@@ -26,5 +26,5 @@ public bool Equals(Unit other)
 
 * class [Unit](../../unit/)
 * class [Numeric](../)
-* package [com.aspose.html.Drawing](../../numeric/)
+* package [com.aspose.html.drawing](../../numeric/)
 * package [Aspose.HTML](../../../)

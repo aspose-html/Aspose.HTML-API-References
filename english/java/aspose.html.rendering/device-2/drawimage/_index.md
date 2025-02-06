@@ -24,5 +24,5 @@ public abstract void DrawImage(byte[] data, ImageType type, RectangleF rect)
 
 * enum [ImageType](../../imagetype/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* package [com.aspose.html.Rendering](../../device-2/)
+* package [com.aspose.html.rendering](../../device-2/)
 * package [Aspose.HTML](../../../)

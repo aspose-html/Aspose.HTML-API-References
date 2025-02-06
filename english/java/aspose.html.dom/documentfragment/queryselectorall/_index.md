@@ -26,5 +26,5 @@ public NodeList QuerySelectorAll(String selector)
 
 * class [NodeList](../../../com.aspose.html.collections/nodelist/)
 * class [DocumentFragment](../)
-* package [com.aspose.html.Dom](../../documentfragment/)
+* package [com.aspose.html.dom](../../documentfragment/)
 * package [Aspose.HTML](../../../)

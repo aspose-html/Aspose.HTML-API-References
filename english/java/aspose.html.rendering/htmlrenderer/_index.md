@@ -1,7 +1,7 @@
 ---
 title: HtmlRenderer Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.HtmlRenderer class. Represents an HTML document renderer
+description: com.aspose.html.rendering.HtmlRenderer class. Represents an HTML document renderer
 type: docs
 weight: 4300
 url: /java/com.aspose.html.rendering/htmlrenderer/
@@ -37,5 +37,5 @@ public class HtmlRenderer : Renderer<Document>
 
 * class [Document](../../com.aspose.html.dom/document/)
 * class [Renderer&lt;TDocument&gt;](../renderer-1/)
-* package [com.aspose.html.Rendering](../../com.aspose.html.rendering/)
+* package [com.aspose.html.rendering](../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../)

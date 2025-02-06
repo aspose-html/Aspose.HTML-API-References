@@ -1,7 +1,7 @@
 ---
 title: ICanvasPattern Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Canvas.ICanvasPattern interface. Represents an opaque object describing a pattern based on an image a canvas or a video
+description: com.aspose.html.dom.canvas.ICanvasPattern interface. Represents an opaque object describing a pattern based on an image a canvas or a video
 type: docs
 weight: 260
 url: /java/com.aspose.html.dom.canvas/icanvaspattern/
@@ -22,5 +22,5 @@ public interface ICanvasPattern
 
 ### See Also
 
-* package [com.aspose.html.Dom.Canvas](../../com.aspose.html.dom.canvas/)
+* package [com.aspose.html.dom.canvas](../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../)

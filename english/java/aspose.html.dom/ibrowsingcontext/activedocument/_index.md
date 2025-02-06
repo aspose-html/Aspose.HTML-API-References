@@ -22,5 +22,5 @@ The active document.
 
 * class [Document](../../document/)
 * interface [IBrowsingContext](../)
-* package [com.aspose.html.Dom](../../ibrowsingcontext/)
+* package [com.aspose.html.dom](../../ibrowsingcontext/)
 * package [Aspose.HTML](../../../)

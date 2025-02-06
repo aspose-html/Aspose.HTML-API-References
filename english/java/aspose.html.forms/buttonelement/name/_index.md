@@ -17,5 +17,5 @@ public String Name { get; set; }
 ### See Also
 
 * class [ButtonElement](../)
-* package [com.aspose.html.Forms](../../buttonelement/)
+* package [com.aspose.html.forms](../../buttonelement/)
 * package [Aspose.HTML](../../../)

@@ -1,7 +1,7 @@
 ---
 title: ThematicBreakSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.ThematicBreakSyntaxNode class. Imlemented the Thematic Break Syntax Node
+description: com.aspose.html.toolkit.markdown.syntax.ThematicBreakSyntaxNode class. Imlemented the Thematic Break Syntax Node
 type: docs
 weight: 5680
 url: /java/com.aspose.html.toolkit.markdown.syntax/thematicbreaksyntaxnode/
@@ -44,5 +44,5 @@ public sealed class ThematicBreakSyntaxNode : LeafBlockSyntaxNode
 ### See Also
 
 * class [LeafBlockSyntaxNode](../leafblocksyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

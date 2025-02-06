@@ -22,5 +22,5 @@ Returns a [`CSSRuleList`](../../icssrulelist/) containing the rules in the keyfr
 
 * interface [ICSSRuleList](../../icssrulelist/)
 * interface [ICSSKeyframesRule](../)
-* package [com.aspose.html.Dom.Css](../../icsskeyframesrule/)
+* package [com.aspose.html.dom.css](../../icsskeyframesrule/)
 * package [Aspose.HTML](../../../)

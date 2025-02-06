@@ -21,5 +21,5 @@ Full name of font
 ### See Also
 
 * interface [ITrueTypeFont](../)
-* package [com.aspose.html.Drawing](../../itruetypefont/)
+* package [com.aspose.html.drawing](../../itruetypefont/)
 * package [Aspose.HTML](../../../)

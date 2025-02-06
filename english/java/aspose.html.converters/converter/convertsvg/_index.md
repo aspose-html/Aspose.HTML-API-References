@@ -44,9 +44,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.svg");
@@ -74,7 +74,7 @@ import com.aspose.html.Converters;
 * class [SVGDocument](../../../com.aspose.html.dom.svg/svgdocument/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -117,9 +117,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -148,7 +148,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -193,9 +193,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -225,7 +225,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -268,9 +268,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -298,7 +298,7 @@ import com.aspose.html.Converters;
 
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -343,9 +343,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -369,7 +369,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -414,9 +414,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form inline svg content
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
@@ -439,7 +439,7 @@ import com.aspose.html.Converters;
 
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -485,9 +485,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form inline svg content
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
@@ -511,7 +511,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -555,9 +555,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.svg");
@@ -589,7 +589,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -632,9 +632,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -667,7 +667,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -712,9 +712,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -748,7 +748,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -792,9 +792,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -821,7 +821,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -866,9 +866,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -896,7 +896,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -941,9 +941,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
         <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
@@ -969,7 +969,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1015,9 +1015,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
         <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
@@ -1044,7 +1044,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1087,9 +1087,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.svg");
@@ -1117,7 +1117,7 @@ import com.aspose.html.Converters;
 * class [SVGDocument](../../../com.aspose.html.dom.svg/svgdocument/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1160,9 +1160,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -1186,7 +1186,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1231,9 +1231,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -1258,7 +1258,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1301,9 +1301,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -1326,7 +1326,7 @@ import com.aspose.html.Converters;
 
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1371,9 +1371,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -1397,7 +1397,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1442,9 +1442,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form inline svg content
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
@@ -1467,7 +1467,7 @@ import com.aspose.html.Converters;
 
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1513,9 +1513,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form inline svg content
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
@@ -1539,7 +1539,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1583,9 +1583,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.svg");
@@ -1617,7 +1617,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1660,9 +1660,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -1690,7 +1690,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1735,9 +1735,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -1766,7 +1766,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1810,9 +1810,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -1839,7 +1839,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1884,9 +1884,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -1914,7 +1914,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1959,9 +1959,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
         <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
@@ -1987,7 +1987,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2033,9 +2033,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
         <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
@@ -2062,7 +2062,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2107,9 +2107,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.svg");
@@ -2137,7 +2137,7 @@ import com.aspose.html.Converters;
 * class [SVGDocument](../../../com.aspose.html.dom.svg/svgdocument/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2182,9 +2182,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -2208,7 +2208,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2255,9 +2255,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -2282,7 +2282,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2327,9 +2327,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -2352,7 +2352,7 @@ import com.aspose.html.Converters;
 
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2399,9 +2399,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -2425,7 +2425,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2472,9 +2472,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form inline svg content
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
@@ -2497,7 +2497,7 @@ import com.aspose.html.Converters;
 
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2545,9 +2545,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form inline svg content
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
@@ -2571,7 +2571,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2617,9 +2617,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.svg");
@@ -2651,7 +2651,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2696,9 +2696,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -2726,7 +2726,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2773,9 +2773,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -2804,7 +2804,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2850,9 +2850,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -2879,7 +2879,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2926,9 +2926,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -2956,7 +2956,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3003,9 +3003,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
         <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
@@ -3031,7 +3031,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3079,9 +3079,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
         <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
@@ -3108,7 +3108,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3153,9 +3153,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.svg");
@@ -3183,7 +3183,7 @@ import com.aspose.html.Converters;
 * class [SVGDocument](../../../com.aspose.html.dom.svg/svgdocument/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3228,9 +3228,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path     
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -3254,7 +3254,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3301,9 +3301,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -3333,7 +3333,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3378,9 +3378,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -3403,7 +3403,7 @@ import com.aspose.html.Converters;
 
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3450,9 +3450,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
@@ -3476,7 +3476,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3523,9 +3523,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form inline svg content
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
@@ -3548,7 +3548,7 @@ import com.aspose.html.Converters;
 
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3596,9 +3596,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form inline svg content
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
@@ -3622,7 +3622,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3668,9 +3668,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.svg");
@@ -3702,7 +3702,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3747,9 +3747,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -3777,7 +3777,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3824,9 +3824,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
@@ -3855,7 +3855,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3901,9 +3901,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.svg");
@@ -3930,7 +3930,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3977,9 +3977,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       var sourcePath = Path.Combine(InputFolder, "sample.svg");
 
@@ -4006,7 +4006,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -4053,9 +4053,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
         <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
@@ -4081,7 +4081,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -4129,9 +4129,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
         <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
@@ -4158,5 +4158,5 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)

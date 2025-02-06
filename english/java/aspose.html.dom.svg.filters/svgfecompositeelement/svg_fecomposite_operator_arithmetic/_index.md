@@ -17,5 +17,5 @@ public const ushort SVG_FECOMPOSITE_OPERATOR_ARITHMETIC;
 ### See Also
 
 * class [SVGFECompositeElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfecompositeelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfecompositeelement/)
 * package [Aspose.HTML](../../../)

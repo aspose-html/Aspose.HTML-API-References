@@ -1,7 +1,7 @@
 ---
 title: DocDevice Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Doc.DocDevice class. Represents rendering to a DOCX document
+description: com.aspose.html.rendering.doc.DocDevice class. Represents rendering to a DOCX document
 type: docs
 weight: 4200
 url: /java/com.aspose.html.rendering.doc/docdevice/
@@ -70,5 +70,5 @@ public class DocDevice : Device<DocGraphicContext, DocRenderingOptions>
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../../com.aspose.html.rendering/device-2/)
 * class [DocGraphicContext](../docdevice.docgraphiccontext/)
 * class [DocRenderingOptions](../docrenderingoptions/)
-* package [com.aspose.html.Rendering.Doc](../../com.aspose.html.rendering.doc/)
+* package [com.aspose.html.rendering.doc](../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../)

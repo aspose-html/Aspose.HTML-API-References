@@ -22,5 +22,5 @@ The system language.
 
 * class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
 * class [SVGAnimationElement](../)
-* package [com.aspose.html.Dom.Svg](../../svganimationelement/)
+* package [com.aspose.html.dom.svg](../../svganimationelement/)
 * package [Aspose.HTML](../../../)

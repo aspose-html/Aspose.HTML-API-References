@@ -17,5 +17,5 @@ public void Reload()
 ### See Also
 
 * class [Location](../)
-* package [com.aspose.html.Window](../../location/)
+* package [com.aspose.html.window](../../location/)
 * package [Aspose.HTML](../../../)

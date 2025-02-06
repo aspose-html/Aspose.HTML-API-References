@@ -21,5 +21,5 @@ An integer representing the number of CSS rules into this collection.
 ### See Also
 
 * interface [ICSSRuleList](../)
-* package [com.aspose.html.Dom.Css](../../icssrulelist/)
+* package [com.aspose.html.dom.css](../../icssrulelist/)
 * package [Aspose.HTML](../../../)

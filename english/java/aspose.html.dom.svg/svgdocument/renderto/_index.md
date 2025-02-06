@@ -22,5 +22,5 @@ public void RenderTo(IDevice device)
 
 * interface [IDevice](../../../com.aspose.html.rendering/idevice/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../svgdocument/)
 * package [Aspose.HTML](../../../)

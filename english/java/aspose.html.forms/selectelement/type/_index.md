@@ -17,5 +17,5 @@ public String Type { get; }
 ### See Also
 
 * class [SelectElement](../)
-* package [com.aspose.html.Forms](../../selectelement/)
+* package [com.aspose.html.forms](../../selectelement/)
 * package [Aspose.HTML](../../../)

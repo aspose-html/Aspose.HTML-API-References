@@ -18,5 +18,5 @@ public SourceText Source { get; }
 
 * class [SourceText](../../sourcetext/)
 * class [SourceTextReader](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../sourcetextreader/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../sourcetextreader/)
 * package [Aspose.HTML](../../../)

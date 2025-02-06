@@ -22,5 +22,5 @@ The attribute ‘in’ of the given ‘feTile’ element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFETileElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfetileelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfetileelement/)
 * package [Aspose.HTML](../../../)

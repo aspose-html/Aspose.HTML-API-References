@@ -24,7 +24,7 @@ public void Render(IDevice device, TimeSpan timeout, params Stream[] documents)
 
 * interface [IDevice](../../idevice/)
 * class [EpubRenderer](../)
-* package [com.aspose.html.Rendering](../../epubrenderer/)
+* package [com.aspose.html.rendering](../../epubrenderer/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -48,7 +48,7 @@ public void Render(IDevice device, CancellationToken cancellationToken,
 
 * interface [IDevice](../../idevice/)
 * class [EpubRenderer](../)
-* package [com.aspose.html.Rendering](../../epubrenderer/)
+* package [com.aspose.html.rendering](../../epubrenderer/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -72,7 +72,7 @@ public void Render(IDevice device, Stream document, Configuration configuration)
 * interface [IDevice](../../idevice/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [EpubRenderer](../)
-* package [com.aspose.html.Rendering](../../epubrenderer/)
+* package [com.aspose.html.rendering](../../epubrenderer/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -97,7 +97,7 @@ public void Render(IDevice device, Stream document, Configuration configuration,
 * interface [IDevice](../../idevice/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [EpubRenderer](../)
-* package [com.aspose.html.Rendering](../../epubrenderer/)
+* package [com.aspose.html.rendering](../../epubrenderer/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -121,7 +121,7 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 * interface [IDevice](../../idevice/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [EpubRenderer](../)
-* package [com.aspose.html.Rendering](../../epubrenderer/)
+* package [com.aspose.html.rendering](../../epubrenderer/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -147,5 +147,5 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 * interface [IDevice](../../idevice/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [EpubRenderer](../)
-* package [com.aspose.html.Rendering](../../epubrenderer/)
+* package [com.aspose.html.rendering](../../epubrenderer/)
 * package [Aspose.HTML](../../../)

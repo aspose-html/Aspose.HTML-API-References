@@ -21,5 +21,5 @@ The TimeSpan object.
 ### See Also
 
 * class [InputElement](../)
-* package [com.aspose.html.Forms](../../inputelement/)
+* package [com.aspose.html.forms](../../inputelement/)
 * package [Aspose.HTML](../../../)

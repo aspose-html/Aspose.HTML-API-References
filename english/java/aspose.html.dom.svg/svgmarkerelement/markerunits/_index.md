@@ -22,5 +22,5 @@ The attribute ‘markerUnits’ of the given ‘marker’ element.
 
 * class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGMarkerElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgmarkerelement/)
+* package [com.aspose.html.dom.svg](../../svgmarkerelement/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The String.
 ### See Also
 
 * class [IndentedCodeBlockSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../indentedcodeblocksyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../indentedcodeblocksyntaxnode/)
 * package [Aspose.HTML](../../../)

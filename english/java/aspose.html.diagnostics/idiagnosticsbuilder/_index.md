@@ -1,7 +1,7 @@
 ---
 title: IDiagnosticsBuilder Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Diagnostics.IDiagnosticsBuilder interface. An interface for configuring diagnostic tools
+description: com.aspose.html.diagnostics.IDiagnosticsBuilder interface. An interface for configuring diagnostic tools
 type: docs
 weight: 110
 url: /java/com.aspose.html.diagnostics/idiagnosticsbuilder/
@@ -24,5 +24,5 @@ public interface IDiagnosticsBuilder
 
 ### See Also
 
-* package [com.aspose.html.Diagnostics](../../com.aspose.html.diagnostics/)
+* package [com.aspose.html.diagnostics](../../com.aspose.html.diagnostics/)
 * package [Aspose.HTML](../../)

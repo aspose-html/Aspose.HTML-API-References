@@ -21,5 +21,5 @@ An IEnumerator object that can be used to iterate through the [`MutationObserver
 ### See Also
 
 * class [MutationObserverInit](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserverinit/)
+* package [com.aspose.html.dom.mutations](../../mutationobserverinit/)
 * package [Aspose.HTML](../../../)

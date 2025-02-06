@@ -22,5 +22,5 @@ The type of the TargetTypes.
 
 * enum [TargetTypes](../../targettypes/)
 * class [Target](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

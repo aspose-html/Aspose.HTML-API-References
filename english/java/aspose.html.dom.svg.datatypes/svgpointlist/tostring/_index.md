@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [SVGPointList](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgpointlist/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgpointlist/)
 * package [Aspose.HTML](../../../)

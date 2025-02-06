@@ -22,5 +22,5 @@ The attribute �x� of the given �filter� element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGFEGaussianBlurElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfegaussianblurelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfegaussianblurelement/)
 * package [Aspose.HTML](../../../)

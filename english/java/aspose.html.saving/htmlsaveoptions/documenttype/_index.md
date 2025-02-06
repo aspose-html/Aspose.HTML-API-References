@@ -17,5 +17,5 @@ public byte DocumentType { get; set; }
 ### See Also
 
 * class [HTMLSaveOptions](../)
-* package [com.aspose.html.Saving](../../htmlsaveoptions/)
+* package [com.aspose.html.saving](../../htmlsaveoptions/)
 * package [Aspose.HTML](../../../)

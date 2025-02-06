@@ -1,7 +1,7 @@
 ---
 title: DataListElement Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Forms.DataListElement class. The DataListElement represents a wrapper that is associated with the HTMLDataListElement
+description: com.aspose.html.forms.DataListElement class. The DataListElement represents a wrapper that is associated with the HTMLDataListElement
 type: docs
 weight: 2930
 url: /java/com.aspose.html.forms/datalistelement/
@@ -38,5 +38,5 @@ public class DataListElement : FormElement<HTMLDataListElement>
 
 * class [FormElement&lt;T&gt;](../formelement-1/)
 * class [HTMLDataListElement](../../com.aspose.html/htmldatalistelement/)
-* package [com.aspose.html.Forms](../../com.aspose.html.forms/)
+* package [com.aspose.html.forms](../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../)

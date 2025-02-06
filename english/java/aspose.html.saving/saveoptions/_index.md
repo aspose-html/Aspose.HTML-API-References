@@ -1,7 +1,7 @@
 ---
 title: SaveOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Saving.SaveOptions class. This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format
+description: com.aspose.html.saving.SaveOptions class. This is an abstract base class for classes that allow the user to specify additional options when saving a document into a particular format
 type: docs
 weight: 4710
 url: /java/com.aspose.html.saving/saveoptions/
@@ -22,5 +22,5 @@ public abstract class SaveOptions
 
 ### See Also
 
-* package [com.aspose.html.Saving](../../com.aspose.html.saving/)
+* package [com.aspose.html.saving](../../com.aspose.html.saving/)
 * package [Aspose.HTML](../../)

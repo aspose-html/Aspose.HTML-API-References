@@ -22,5 +22,5 @@ public void VisitTable(TableSyntaxNode table)
 
 * class [TableSyntaxNode](../../tablesyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxvisitor/)
 * package [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public IList<IRule> AdvisoryTechniques { get; }
 
 * interface [IRule](../../irule/)
 * class [Criterion](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

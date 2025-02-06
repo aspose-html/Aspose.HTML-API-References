@@ -25,7 +25,7 @@ public void Render(IDevice device, TimeSpan timeout, params SVGDocument[] docume
 * interface [IDevice](../../idevice/)
 * class [SVGDocument](../../../com.aspose.html.dom.svg/svgdocument/)
 * class [SvgRenderer](../)
-* package [com.aspose.html.Rendering](../../svgrenderer/)
+* package [com.aspose.html.rendering](../../svgrenderer/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -50,5 +50,5 @@ public void Render(IDevice device, CancellationToken cancellationToken,
 * interface [IDevice](../../idevice/)
 * class [SVGDocument](../../../com.aspose.html.dom.svg/svgdocument/)
 * class [SvgRenderer](../)
-* package [com.aspose.html.Rendering](../../svgrenderer/)
+* package [com.aspose.html.rendering](../../svgrenderer/)
 * package [Aspose.HTML](../../../)

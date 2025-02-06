@@ -27,5 +27,5 @@ A new instance of the [`IColorComponents`](../../icolorcomponents/) interface
 * interface [IColorComponents](../../icolorcomponents/)
 * enum [ColorModel](../../colormodel/)
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../color/)
 * package [Aspose.HTML](../../../)

@@ -1,7 +1,7 @@
 ---
 title: SVGLengthList Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.DataTypes.SVGLengthList class. This interface defines a list of SVGLength objects
+description: com.aspose.html.dom.svg.datatypes.SVGLengthList class. This interface defines a list of SVGLength objects
 type: docs
 weight: 1220
 url: /java/com.aspose.html.dom.svg.datatypes/svglengthlist/
@@ -43,5 +43,5 @@ public class SVGLengthList : SVGListBase<SVGLength>
 
 * class [SVGListBase&lt;T&gt;](../../com.aspose.html.dom.svg.collections/svglistbase-1/)
 * class [SVGLength](../svglength/)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../)

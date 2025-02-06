@@ -22,5 +22,5 @@ The attribute ‘r’ of the given ‘circle’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgcircleelement/)
+* package [com.aspose.html.dom.svg](../../svgcircleelement/)
 * package [Aspose.HTML](../../../)

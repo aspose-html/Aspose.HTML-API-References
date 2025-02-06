@@ -22,7 +22,7 @@ public XpsDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* package [com.aspose.html.Rendering.Xps](../../xpsdevice/)
+* package [com.aspose.html.rendering.xps](../../xpsdevice/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -45,7 +45,7 @@ public XpsDevice(XpsRenderingOptions options, ICreateStreamProvider streamProvid
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [XpsDevice](../)
-* package [com.aspose.html.Rendering.Xps](../../xpsdevice/)
+* package [com.aspose.html.rendering.xps](../../xpsdevice/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -65,7 +65,7 @@ public XpsDevice(String file)
 ### See Also
 
 * class [XpsDevice](../)
-* package [com.aspose.html.Rendering.Xps](../../xpsdevice/)
+* package [com.aspose.html.rendering.xps](../../xpsdevice/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -87,7 +87,7 @@ public XpsDevice(XpsRenderingOptions options, String file)
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* package [com.aspose.html.Rendering.Xps](../../xpsdevice/)
+* package [com.aspose.html.rendering.xps](../../xpsdevice/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,7 +107,7 @@ public XpsDevice(Stream stream)
 ### See Also
 
 * class [XpsDevice](../)
-* package [com.aspose.html.Rendering.Xps](../../xpsdevice/)
+* package [com.aspose.html.rendering.xps](../../xpsdevice/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -129,5 +129,5 @@ public XpsDevice(XpsRenderingOptions options, Stream stream)
 
 * class [XpsRenderingOptions](../../xpsrenderingoptions/)
 * class [XpsDevice](../)
-* package [com.aspose.html.Rendering.Xps](../../xpsdevice/)
+* package [com.aspose.html.rendering.xps](../../xpsdevice/)
 * package [Aspose.HTML](../../../)

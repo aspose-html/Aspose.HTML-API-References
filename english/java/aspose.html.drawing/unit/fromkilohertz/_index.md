@@ -26,5 +26,5 @@ Returns a [`Frequency`](../../frequency/) object.
 
 * class [Frequency](../../frequency/)
 * class [Unit](../)
-* package [com.aspose.html.Drawing](../../unit/)
+* package [com.aspose.html.drawing](../../unit/)
 * package [Aspose.HTML](../../../)

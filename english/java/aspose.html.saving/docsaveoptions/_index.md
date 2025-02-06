@@ -1,7 +1,7 @@
 ---
 title: DocSaveOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Saving.DocSaveOptions class. Specific options data class. By assigning properties you can manage rendering characteristics such as resolution page size background color as well as doc specific options such as font embedding. More info see in documentation article
+description: com.aspose.html.saving.DocSaveOptions class. Specific options data class. By assigning properties you can manage rendering characteristics such as resolution page size background color as well as doc specific options such as font embedding. More info see in documentation article
 type: docs
 weight: 4600
 url: /java/com.aspose.html.saving/docsaveoptions/
@@ -45,9 +45,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import com.aspose.html;
-import com.aspose.html.Converters;
-import com.aspose.html.Drawing;
-import com.aspose.html.Saving;
+import com.aspose.html.converters;
+import com.aspose.html.drawing;
+import com.aspose.html.saving;
 import System;
 ...
  // Prepare a path to a source HTML file
@@ -61,7 +61,7 @@ import System;
 
       // Initialize DocSaveOptions. Set up the page-size 600x400 pixels and margins
       var options = new DocSaveOptions();
-      options.PageSetup.AnyPage = new Page(new com.aspose.html.Drawing.Size(600, 400), new Margin(10, 10, 10, 10));
+      options.PageSetup.AnyPage = new Page(new com.aspose.html.drawing.Size(600, 400), new Margin(10, 10, 10, 10));
 
       // Convert HTML to DOCX
       Converter.ConvertHTML(document, options, savePath);
@@ -72,5 +72,5 @@ import System;
 ### See Also
 
 * class [DocRenderingOptions](../../com.aspose.html.rendering.doc/docrenderingoptions/)
-* package [com.aspose.html.Saving](../../com.aspose.html.saving/)
+* package [com.aspose.html.saving](../../com.aspose.html.saving/)
 * package [Aspose.HTML](../../)

@@ -22,5 +22,5 @@ The NodeList.
 
 * class [NodeList](../../nodelist/)
 * class [MarkdownSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxnode/)
 * package [Aspose.HTML](../../../)

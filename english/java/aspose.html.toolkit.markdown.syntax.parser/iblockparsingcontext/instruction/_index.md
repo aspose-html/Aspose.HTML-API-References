@@ -18,5 +18,5 @@ public LineParsingInstruction Instruction { get; }
 
 * struct [LineParsingInstruction](../../lineparsinginstruction/)
 * interface [IBlockParsingContext](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../iblockparsingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../iblockparsingcontext/)
 * package [Aspose.HTML](../../../)

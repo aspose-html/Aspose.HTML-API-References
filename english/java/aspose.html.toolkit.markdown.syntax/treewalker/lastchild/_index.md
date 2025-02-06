@@ -22,5 +22,5 @@ The MarkdownSyntaxNode.
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [TreeWalker](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../treewalker/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../treewalker/)
 * package [Aspose.HTML](../../../)

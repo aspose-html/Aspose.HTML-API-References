@@ -33,5 +33,5 @@ A Node that is the appended child (aChild), except when aChild is a [`DocumentFr
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../node/)
 * package [Aspose.HTML](../../../)

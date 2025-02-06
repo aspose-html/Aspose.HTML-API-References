@@ -1,5 +1,5 @@
 ---
-title: com.aspose.html.dom.XPath
+title: com.aspose.html.dom.xpath
 second_title: Aspose.HTML for Java API Reference
 description: The package contains methods to navigate through elements and attributes in an XML document
 type: docs

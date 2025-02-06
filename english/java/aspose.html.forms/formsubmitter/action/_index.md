@@ -17,5 +17,5 @@ public String Action { get; set; }
 ### See Also
 
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../formsubmitter/)
 * package [Aspose.HTML](../../../)

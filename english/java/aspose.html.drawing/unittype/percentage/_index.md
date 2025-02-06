@@ -17,5 +17,5 @@ public static readonly UnitType Percentage;
 ### See Also
 
 * class [UnitType](../)
-* package [com.aspose.html.Drawing](../../unittype/)
+* package [com.aspose.html.drawing](../../unittype/)
 * package [Aspose.HTML](../../../)

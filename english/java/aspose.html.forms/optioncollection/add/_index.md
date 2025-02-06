@@ -22,5 +22,5 @@ Return created OptionElement.
 
 * class [OptionElement](../../optionelement/)
 * class [OptionCollection](../)
-* package [com.aspose.html.Forms](../../optioncollection/)
+* package [com.aspose.html.forms](../../optioncollection/)
 * package [Aspose.HTML](../../../)

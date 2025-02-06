@@ -22,5 +22,5 @@ The [`TextInfo`](../../textinfo/) object.
 
 * class [TextInfo](../../textinfo/)
 * class [GraphicContext](../)
-* package [com.aspose.html.Rendering](../../graphiccontext/)
+* package [com.aspose.html.rendering](../../graphiccontext/)
 * package [Aspose.HTML](../../../)

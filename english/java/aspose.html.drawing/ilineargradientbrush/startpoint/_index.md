@@ -21,5 +21,5 @@ Start point.
 ### See Also
 
 * interface [ILinearGradientBrush](../)
-* package [com.aspose.html.Drawing](../../ilineargradientbrush/)
+* package [com.aspose.html.drawing](../../ilineargradientbrush/)
 * package [Aspose.HTML](../../../)

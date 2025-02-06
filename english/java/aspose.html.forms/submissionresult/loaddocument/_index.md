@@ -22,5 +22,5 @@ The HTML document created based response message.
 
 * class [Document](../../../com.aspose.html.dom/document/)
 * class [SubmissionResult](../)
-* package [com.aspose.html.Forms](../../submissionresult/)
+* package [com.aspose.html.forms](../../submissionresult/)
 * package [Aspose.HTML](../../../)

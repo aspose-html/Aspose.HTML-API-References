@@ -1,7 +1,7 @@
 ---
 title: INonElementParentNode Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.INonElementParentNode interface. Defines IParentNode that are not Element type
+description: com.aspose.html.dom.INonElementParentNode interface. Defines IParentNode that are not Element type
 type: docs
 weight: 950
 url: /java/com.aspose.html.dom/inonelementparentnode/
@@ -22,5 +22,5 @@ public interface INonElementParentNode
 
 ### See Also
 
-* package [com.aspose.html.Dom](../../com.aspose.html.dom/)
+* package [com.aspose.html.dom](../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../)

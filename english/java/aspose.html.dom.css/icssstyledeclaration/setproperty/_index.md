@@ -22,7 +22,7 @@ public void SetProperty(String propertyName, String value)
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* package [com.aspose.html.Dom.Css](../../icssstyledeclaration/)
+* package [com.aspose.html.dom.css](../../icssstyledeclaration/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -44,5 +44,5 @@ public void SetProperty(String propertyName, String value, String priority)
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* package [com.aspose.html.Dom.Css](../../icssstyledeclaration/)
+* package [com.aspose.html.dom.css](../../icssstyledeclaration/)
 * package [Aspose.HTML](../../../)

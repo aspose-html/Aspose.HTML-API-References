@@ -22,5 +22,5 @@ public void EndElement(Element element)
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * class [XpsDevice](../)
-* package [com.aspose.html.Rendering.Xps](../../xpsdevice/)
+* package [com.aspose.html.rendering.xps](../../xpsdevice/)
 * package [Aspose.HTML](../../../)

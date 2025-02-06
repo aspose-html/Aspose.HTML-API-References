@@ -17,5 +17,5 @@ public ulong Height { get; }
 ### See Also
 
 * interface [IImageData](../)
-* package [com.aspose.html.Dom.Canvas](../../iimagedata/)
+* package [com.aspose.html.dom.canvas](../../iimagedata/)
 * package [Aspose.HTML](../../../)

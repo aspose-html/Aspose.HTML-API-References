@@ -18,5 +18,5 @@ public IRule Rule { get; }
 
 * interface [IRule](../../../com.aspose.html.accessibility/irule/)
 * class [RuleValidationResult](../)
-* package [com.aspose.html.Accessibility.Results](../../../com.aspose.html.accessibility.results/)
+* package [com.aspose.html.accessibility.results](../../../com.aspose.html.accessibility.results/)
 * package [Aspose.HTML](../../../)

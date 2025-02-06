@@ -17,5 +17,5 @@ public HugoSyntaxExtension()
 ### See Also
 
 * class [HugoSyntaxExtension](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../hugosyntaxextension/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../hugosyntaxextension/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The markdown syntax node.
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [NodeIterator](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../nodeiterator/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../nodeiterator/)
 * package [Aspose.HTML](../../../)

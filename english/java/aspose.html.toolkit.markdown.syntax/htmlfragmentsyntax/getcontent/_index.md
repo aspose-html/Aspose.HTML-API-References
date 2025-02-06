@@ -21,5 +21,5 @@ The String.
 ### See Also
 
 * class [HTMLFragmentSyntax](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../htmlfragmentsyntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../htmlfragmentsyntax/)
 * package [Aspose.HTML](../../../)

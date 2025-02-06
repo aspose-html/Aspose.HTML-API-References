@@ -15,5 +15,5 @@ public static Time operator +(Time a, Time b)
 ### See Also
 
 * class [Time](../)
-* package [com.aspose.html.Drawing](../../time/)
+* package [com.aspose.html.drawing](../../time/)
 * package [Aspose.HTML](../../../)

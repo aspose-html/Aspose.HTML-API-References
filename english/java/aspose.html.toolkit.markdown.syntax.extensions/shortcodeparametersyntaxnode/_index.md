@@ -1,7 +1,7 @@
 ---
 title: ShortCodeParameterSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Extensions.ShortCodeParameterSyntaxNode class. Defines the ShortCodeParameterSyntax
+description: com.aspose.html.toolkit.markdown.syntax.extensions.ShortCodeParameterSyntaxNode class. Defines the ShortCodeParameterSyntax
 type: docs
 weight: 4950
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/
@@ -47,5 +47,5 @@ public sealed class ShortCodeParameterSyntaxNode : InlineSyntaxNode
 ### See Also
 
 * class [InlineSyntaxNode](../../com.aspose.html.toolkit.markdown.syntax/inlinesyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../com.aspose.html.toolkit.markdown.syntax.extensions/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../)

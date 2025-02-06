@@ -22,5 +22,5 @@ The type of the element.
 
 * enum [FormElementType](../../formelementtype/)
 * class [FormElement](../)
-* package [com.aspose.html.Forms](../../formelement/)
+* package [com.aspose.html.forms](../../formelement/)
 * package [Aspose.HTML](../../../)

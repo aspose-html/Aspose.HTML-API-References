@@ -27,5 +27,5 @@ A stand-alone, parentless SVGPathSegLinetoAbs object.
 
 * class [SVGPathSegLinetoAbs](../../../com.aspose.html.dom.svg.paths/svgpathseglinetoabs/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../svgpathelement/)
 * package [Aspose.HTML](../../../)

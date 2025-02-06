@@ -27,5 +27,5 @@ The type of the meet-or-slice
 ### See Also
 
 * class [SVGPreserveAspectRatio](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgpreserveaspectratio/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgpreserveaspectratio/)
 * package [Aspose.HTML](../../../)

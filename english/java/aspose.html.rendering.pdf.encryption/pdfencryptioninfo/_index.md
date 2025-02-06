@@ -1,7 +1,7 @@
 ---
 title: PdfEncryptionInfo Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Pdf.Encryption.PdfEncryptionInfo class. Contains details for a pdf encryption
+description: com.aspose.html.rendering.pdf.encryption.PdfEncryptionInfo class. Contains details for a pdf encryption
 type: docs
 weight: 4440
 url: /java/com.aspose.html.rendering.pdf.encryption/pdfencryptioninfo/
@@ -35,5 +35,5 @@ public class PdfEncryptionInfo
 
 ### See Also
 
-* package [com.aspose.html.Rendering.Pdf.Encryption](../../com.aspose.html.rendering.pdf.encryption/)
+* package [com.aspose.html.rendering.pdf.encryption](../../com.aspose.html.rendering.pdf.encryption/)
 * package [Aspose.HTML](../../)

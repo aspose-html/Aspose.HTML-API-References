@@ -17,5 +17,5 @@ public IWindow Self { get; }
 ### See Also
 
 * interface [IWindow](../)
-* package [com.aspose.html.Window](../../iwindow/)
+* package [com.aspose.html.window](../../iwindow/)
 * package [Aspose.HTML](../../../)

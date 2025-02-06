@@ -26,5 +26,5 @@ value is a CSSValue containing the CSS value for a property. If none exists, ret
 
 * class [CSSValue](../../cssvalue/)
 * interface [ICSSStyleDeclaration](../)
-* package [com.aspose.html.Dom.Css](../../icssstyledeclaration/)
+* package [com.aspose.html.dom.css](../../icssstyledeclaration/)
 * package [Aspose.HTML](../../../)

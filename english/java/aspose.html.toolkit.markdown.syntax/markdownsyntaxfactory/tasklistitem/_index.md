@@ -29,5 +29,5 @@ The TaskListItemSyntax.
 * class [ListItemMarker](../../listitemmarker/)
 * class [TaskListItemMarker](../../tasklistitemmarker/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
 * package [Aspose.HTML](../../../)

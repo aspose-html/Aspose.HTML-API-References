@@ -1,12 +1,12 @@
 ---
-title: com.aspose.html.iO
+title: com.aspose.html.io
 second_title: Aspose.HTML for Java API Reference
-description: In addition to standard IO input-output tools the com.aspose.html.IO package contains helper classes and interfaces
+description: In addition to standard IO input-output tools the com.aspose.html.io package contains helper classes and interfaces
 type: docs
 weight: 240
 url: /java/com.aspose.html.io/
 ---
-In addition to standard IO (input-output) tools the **com.aspose.html.IO** package contains helper classes and interfaces.
+In addition to standard IO (input-output) tools the **com.aspose.html.io** package contains helper classes and interfaces.
 
 ## Classes
 

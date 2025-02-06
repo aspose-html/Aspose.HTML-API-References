@@ -1,7 +1,7 @@
 ---
 title: ImageDevice.ImageGraphicContext Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Image.ImageDeviceImageGraphicContext class. Holds current graphics control parameters for the ImageDevice. These parameters define the global framework within which the graphics operators execute
+description: com.aspose.html.rendering.image.ImageDeviceImageGraphicContext class. Holds current graphics control parameters for the ImageDevice. These parameters define the global framework within which the graphics operators execute
 type: docs
 weight: 4340
 url: /java/com.aspose.html.rendering.image/imagedevice.imagegraphiccontext/
@@ -65,5 +65,5 @@ public class ImageGraphicContext : GraphicContext
 
 * class [GraphicContext](../../com.aspose.html.rendering/graphiccontext/)
 * class [ImageDevice](../imagedevice/)
-* package [com.aspose.html.Rendering.Image](../../com.aspose.html.rendering.image/)
+* package [com.aspose.html.rendering.image](../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../)

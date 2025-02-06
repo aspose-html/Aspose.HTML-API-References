@@ -23,5 +23,5 @@ public delegate void MutationCallback(IList<MutationRecord> mutations, MutationO
 
 * class [MutationRecord](../mutationrecord/)
 * class [MutationObserver](../mutationobserver/)
-* package [com.aspose.html.Dom.Mutations](../../com.aspose.html.dom.mutations/)
+* package [com.aspose.html.dom.mutations](../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../)

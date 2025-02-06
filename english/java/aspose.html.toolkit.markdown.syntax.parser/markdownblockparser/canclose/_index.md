@@ -31,5 +31,5 @@ The boolean result.
 * enum [BlockClosingReason](../../blockclosingreason/)
 * interface [IBlockParsingContext](../../iblockparsingcontext/)
 * class [MarkdownBlockParser](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../markdownblockparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../markdownblockparser/)
 * package [Aspose.HTML](../../../)

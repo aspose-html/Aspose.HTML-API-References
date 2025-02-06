@@ -1,7 +1,7 @@
 ---
 title: DOMTokenList Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Collections.DOMTokenList class. The DOMTokenList class represents a set of space-separated tokens. It is indexed beginning with 0 as with JavaScript Array objects. DOMTokenList is always case-sensitive
+description: com.aspose.html.collections.DOMTokenList class. The DOMTokenList class represents a set of space-separated tokens. It is indexed beginning with 0 as with JavaScript Array objects. DOMTokenList is always case-sensitive
 type: docs
 weight: 20
 url: /java/com.aspose.html.collections/domtokenlist/
@@ -40,5 +40,5 @@ public class DOMTokenList : DOMObject, IEnumerable<String>
 ### See Also
 
 * class [DOMObject](../../com.aspose.html.dom/domobject/)
-* package [com.aspose.html.Collections](../../com.aspose.html.collections/)
+* package [com.aspose.html.collections](../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../)

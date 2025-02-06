@@ -28,5 +28,5 @@ The next Node in the set being iterated over, or null if there are no more membe
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [INodeIterator](../)
-* package [com.aspose.html.Dom.Traversal](../../inodeiterator/)
+* package [com.aspose.html.dom.traversal](../../inodeiterator/)
 * package [Aspose.HTML](../../../)

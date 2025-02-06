@@ -1,7 +1,7 @@
 ---
 title: CSSValueList Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Css.CSSValueList class. The CSSValueList interface provides the abstraction of an ordered collection of CSS values
+description: com.aspose.html.dom.css.CSSValueList class. The CSSValueList interface provides the abstraction of an ordered collection of CSS values
 type: docs
 weight: 360
 url: /java/com.aspose.html.dom.css/cssvaluelist/
@@ -48,5 +48,5 @@ public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 
 * class [CSSValue](../cssvalue/)
 * interface [ICSSValueList](../icssvaluelist/)
-* package [com.aspose.html.Dom.Css](../../com.aspose.html.dom.css/)
+* package [com.aspose.html.dom.css](../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../)

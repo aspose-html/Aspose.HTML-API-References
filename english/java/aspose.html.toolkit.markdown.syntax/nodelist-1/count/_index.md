@@ -17,5 +17,5 @@ public abstract int Count { get; }
 ### See Also
 
 * class [NodeList&lt;T&gt;](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../nodelist-1/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../nodelist-1/)
 * package [Aspose.HTML](../../../)

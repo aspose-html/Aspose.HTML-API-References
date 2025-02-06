@@ -32,5 +32,5 @@ Returns node.
 
 * class [Attr](../../../com.aspose.html.dom/attr/)
 * class [NamedNodeMap](../)
-* package [com.aspose.html.Collections](../../namednodemap/)
+* package [com.aspose.html.collections](../../namednodemap/)
 * package [Aspose.HTML](../../../)

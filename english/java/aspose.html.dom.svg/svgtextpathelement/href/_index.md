@@ -22,5 +22,5 @@ The ‘xlink:href’ of the given element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGTextPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgtextpathelement/)
+* package [com.aspose.html.dom.svg](../../svgtextpathelement/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [SetextHeadingSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../setextheadingsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../setextheadingsyntaxnode/)
 * package [Aspose.HTML](../../../)

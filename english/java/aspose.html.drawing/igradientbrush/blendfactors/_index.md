@@ -21,5 +21,5 @@ Blend factors.
 ### See Also
 
 * interface [IGradientBrush](../)
-* package [com.aspose.html.Drawing](../../igradientbrush/)
+* package [com.aspose.html.drawing](../../igradientbrush/)
 * package [Aspose.HTML](../../../)

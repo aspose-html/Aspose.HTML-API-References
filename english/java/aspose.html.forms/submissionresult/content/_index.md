@@ -22,5 +22,5 @@ The content.
 
 * class [Content](../../../com.aspose.html.net/content/)
 * class [SubmissionResult](../)
-* package [com.aspose.html.Forms](../../submissionresult/)
+* package [com.aspose.html.forms](../../submissionresult/)
 * package [Aspose.HTML](../../../)

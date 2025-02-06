@@ -18,5 +18,5 @@ public TextSpan Span { get; set; }
 
 * struct [TextSpan](../../../com.aspose.html.toolkit.markdown.syntax.text/textspan/)
 * class [DelimiterRun](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../delimiterrun/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../delimiterrun/)
 * package [Aspose.HTML](../../../)

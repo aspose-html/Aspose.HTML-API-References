@@ -17,5 +17,5 @@ public int FloatPrecision { get; set; }
 ### See Also
 
 * class [SVGPathOptimizationOptions](../)
-* package [com.aspose.html.Toolkit.Optimizers](../../svgpathoptimizationoptions/)
+* package [com.aspose.html.toolkit.optimizers](../../svgpathoptimizationoptions/)
 * package [Aspose.HTML](../../../)

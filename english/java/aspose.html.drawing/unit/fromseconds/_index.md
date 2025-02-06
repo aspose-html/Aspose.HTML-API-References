@@ -26,5 +26,5 @@ Returns a [`Time`](../../time/) object.
 
 * class [Time](../../time/)
 * class [Unit](../)
-* package [com.aspose.html.Drawing](../../unit/)
+* package [com.aspose.html.drawing](../../unit/)
 * package [Aspose.HTML](../../../)

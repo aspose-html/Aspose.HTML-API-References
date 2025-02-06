@@ -1,7 +1,7 @@
 ---
 title: PageSetup Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.PageSetup class. Represents a page setup object is used for configuration output page-set
+description: com.aspose.html.rendering.PageSetup class. Represents a page setup object is used for configuration output page-set
 type: docs
 weight: 4420
 url: /java/com.aspose.html.rendering/pagesetup/
@@ -39,5 +39,5 @@ public class PageSetup
 
 ### See Also
 
-* package [com.aspose.html.Rendering](../../com.aspose.html.rendering/)
+* package [com.aspose.html.rendering](../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../)

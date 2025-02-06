@@ -1,7 +1,7 @@
 ---
 title: INodeFilter Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Traversal.INodeFilter interface. Filters are objects that know how to filter out nodes. If a NodeIterator or TreeWalker is given a NodeFilter it applies the filter before it returns the next node. If the filter says to accept the node the traversal logic returns it otherwise traversal looks for the next node and pretends that the node that was rejected was not there
+description: com.aspose.html.dom.traversal.INodeFilter interface. Filters are objects that know how to filter out nodes. If a NodeIterator or TreeWalker is given a NodeFilter it applies the filter before it returns the next node. If the filter says to accept the node the traversal logic returns it otherwise traversal looks for the next node and pretends that the node that was rejected was not there
 type: docs
 weight: 2500
 url: /java/com.aspose.html.dom.traversal/inodefilter/
@@ -28,5 +28,5 @@ public interface INodeFilter
 
 ### See Also
 
-* package [com.aspose.html.Dom.Traversal](../../com.aspose.html.dom.traversal/)
+* package [com.aspose.html.dom.traversal](../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../)

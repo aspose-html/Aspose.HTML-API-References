@@ -26,7 +26,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -94,8 +94,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
 	// Form source file path
 	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -125,7 +125,7 @@ import com.aspose.html.Converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -150,7 +150,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -218,8 +218,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -243,7 +243,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -270,7 +270,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -338,8 +338,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Create Url based on input file path
       var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -364,7 +364,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -389,7 +389,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -457,8 +457,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -481,7 +481,7 @@ import com.aspose.html.Converters;
 
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -508,7 +508,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -576,8 +576,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
    // Form source file path
    var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -601,7 +601,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -628,7 +628,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -696,8 +696,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p>Hello, World!</p></body></html>";
@@ -718,7 +718,7 @@ import com.aspose.html.Converters;
 
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -746,7 +746,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -814,8 +814,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p>Hello, World!</p></body></html>";
@@ -837,7 +837,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -863,7 +863,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -931,8 +931,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 		// Define inline html content
       	var content = @"<!DOCTYPE html><html><body><p>Hello, World!</p></body></html>";
@@ -965,7 +965,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -990,7 +990,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -1058,8 +1058,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 	 
  	  // Form source Url
       var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -1087,7 +1087,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1114,7 +1114,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -1182,8 +1182,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 	 
    // Form source Url
    var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -1212,7 +1212,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1238,7 +1238,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -1306,8 +1306,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
       // Form source html file path
       var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -1334,7 +1334,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1361,7 +1361,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -1429,8 +1429,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
    // Form source html file path
    var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -1458,7 +1458,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1485,7 +1485,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -1553,8 +1553,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	  // Form html inline content
       var content = @"<!DOCTYPE html><html><body><p>Hello, World!</p></body></html>";
@@ -1584,7 +1584,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1612,7 +1612,7 @@ How to convert HTML to DOCX
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -1680,8 +1680,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	 // Form html inline content
    var content = @"<!DOCTYPE html><html><body><p>Hello, World!</p></body></html>";
@@ -1712,7 +1712,7 @@ import com.aspose.html.Converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1737,7 +1737,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -1805,8 +1805,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
  	  // Form source file path
       var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -1837,7 +1837,7 @@ import com.aspose.html.Converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1862,7 +1862,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -1930,8 +1930,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...      
       // Form file based source Url
       var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -1955,7 +1955,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1982,7 +1982,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -2050,8 +2050,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...    
    // Form file based source Url
    var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -2076,7 +2076,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2101,7 +2101,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -2169,8 +2169,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
    // Form source file path
    var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -2193,7 +2193,7 @@ import com.aspose.html.Converters;
 
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2220,7 +2220,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -2288,8 +2288,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
   // Form source file path
   var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -2313,7 +2313,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2340,7 +2340,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -2408,8 +2408,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -2430,7 +2430,7 @@ import com.aspose.html.Converters;
 
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2458,7 +2458,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -2526,8 +2526,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -2549,7 +2549,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2575,7 +2575,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -2643,8 +2643,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Define inline html content
    	var content = @"<!DOCTYPE html><html><body><p>Hello, World!</p></body></html>";
@@ -2677,7 +2677,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2702,7 +2702,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -2770,8 +2770,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
    // Create Url based on input file path
    var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -2797,7 +2797,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2824,7 +2824,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -2892,8 +2892,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
    // Create Url based on input file path
    var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -2920,7 +2920,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2946,7 +2946,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -3014,8 +3014,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
    // Create source file path
    var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -3042,7 +3042,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3069,7 +3069,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -3137,8 +3137,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
   // Create source file path
   var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -3166,7 +3166,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3193,7 +3193,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -3261,8 +3261,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -3287,7 +3287,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3315,7 +3315,7 @@ How to convert HTML to PDF
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -3383,8 +3383,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -3410,7 +3410,7 @@ import com.aspose.html.Converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3435,7 +3435,7 @@ How to convert HTML to MHTML
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -3503,8 +3503,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form HTML document
 	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -3530,7 +3530,7 @@ import com.aspose.html.Converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3555,7 +3555,7 @@ How to convert HTML to MHTML
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -3623,8 +3623,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Create Url based on input file path
 	var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -3649,7 +3649,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3676,7 +3676,7 @@ How to convert HTML to MHTML
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -3744,8 +3744,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Create Url based on input file path
 	var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -3771,7 +3771,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3796,7 +3796,7 @@ How to convert HTML to MHTML
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -3864,8 +3864,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
 	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -3889,7 +3889,7 @@ import com.aspose.html.Converters;
 
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3916,7 +3916,7 @@ How to convert HTML to MHTML
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -3984,8 +3984,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
 	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -4010,7 +4010,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -4037,7 +4037,7 @@ How to convert HTML to MHTML
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -4105,8 +4105,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -4127,7 +4127,7 @@ import com.aspose.html.Converters;
 
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -4155,7 +4155,7 @@ How to convert HTML to MHTML
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -4223,8 +4223,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -4246,7 +4246,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -4272,7 +4272,7 @@ How to convert HTML to Markdown
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -4340,8 +4340,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 		// Form source file path
 		var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -4368,7 +4368,7 @@ import com.aspose.html.Converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -4393,7 +4393,7 @@ How to convert HTML to Markdown
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -4461,8 +4461,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Create Url based on input file path
 	var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -4486,7 +4486,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -4513,7 +4513,7 @@ How to convert HTML to Markdown
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -4581,8 +4581,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Create Url based on input file path
 	var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -4607,7 +4607,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -4632,7 +4632,7 @@ How to convert HTML to Markdown
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -4700,8 +4700,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
 	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -4724,7 +4724,7 @@ import com.aspose.html.Converters;
 
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -4751,7 +4751,7 @@ How to convert HTML to Markdown
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -4819,8 +4819,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
 	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -4844,7 +4844,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -4871,7 +4871,7 @@ How to convert HTML to Markdown
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -4939,8 +4939,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -4961,7 +4961,7 @@ import com.aspose.html.Converters;
 
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -4989,7 +4989,7 @@ How to convert HTML to Markdown
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -5057,8 +5057,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -5080,7 +5080,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -5103,7 +5103,7 @@ public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options, St
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -5171,8 +5171,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 		// Form source file path
       	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -5200,7 +5200,7 @@ import com.aspose.html.Converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -5223,7 +5223,7 @@ public static void ConvertHTML(Url url, XpsSaveOptions options, String outputPat
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -5291,8 +5291,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Create Url based on input file path
 	var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -5316,7 +5316,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -5341,7 +5341,7 @@ public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOpti
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -5409,8 +5409,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Create Url based on input file path
 	var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -5435,7 +5435,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -5458,7 +5458,7 @@ public static void ConvertHTML(String sourcePath, XpsSaveOptions options, String
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -5526,8 +5526,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
    	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -5550,7 +5550,7 @@ import com.aspose.html.Converters;
 
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -5575,7 +5575,7 @@ public static void ConvertHTML(String sourcePath, Configuration configuration,
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -5643,8 +5643,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
   	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -5668,7 +5668,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -5693,7 +5693,7 @@ public static void ConvertHTML(String content, String baseUri, XpsSaveOptions op
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -5761,8 +5761,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -5783,7 +5783,7 @@ import com.aspose.html.Converters;
 
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -5809,7 +5809,7 @@ public static void ConvertHTML(String content, String baseUri, Configuration con
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -5877,8 +5877,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -5900,7 +5900,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -5924,7 +5924,7 @@ public static void ConvertHTML(HTMLDocument document, XpsSaveOptions options,
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -5992,8 +5992,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
    	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -6025,7 +6025,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -6048,7 +6048,7 @@ public static void ConvertHTML(Url url, XpsSaveOptions options, ICreateStreamPro
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -6116,8 +6116,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Create Url based on input file path
 	var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -6145,7 +6145,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -6170,7 +6170,7 @@ public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOpti
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -6238,8 +6238,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Create Url based on input file path
 	var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -6268,7 +6268,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -6292,7 +6292,7 @@ public static void ConvertHTML(String sourcePath, XpsSaveOptions options,
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -6360,8 +6360,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
    	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -6388,7 +6388,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -6413,7 +6413,7 @@ public static void ConvertHTML(String sourcePath, Configuration configuration,
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -6481,8 +6481,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
   	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -6510,7 +6510,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -6535,7 +6535,7 @@ public static void ConvertHTML(String content, String baseUri, XpsSaveOptions op
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -6603,8 +6603,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -6629,7 +6629,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -6655,7 +6655,7 @@ public static void ConvertHTML(String content, String baseUri, Configuration con
 
 How to convert HTML to XPS
 
-[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+[HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well. The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -6723,8 +6723,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -6750,7 +6750,7 @@ import com.aspose.html.Converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -6775,7 +6775,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -6829,8 +6829,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 // Form source file path
 var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -6857,7 +6857,7 @@ import (HTMLDocument document = new HTMLDocument(sourcePath, new Configuration()
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -6882,7 +6882,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -6936,8 +6936,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Create Url based on input file path
 	var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -6961,7 +6961,7 @@ import com.aspose.html.Converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -6988,7 +6988,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -7042,8 +7042,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Create Url based on input file path
 	var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -7068,7 +7068,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -7093,7 +7093,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -7147,8 +7147,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
    	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -7171,7 +7171,7 @@ import com.aspose.html.Converters;
 
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -7198,7 +7198,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -7252,8 +7252,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
   	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -7277,7 +7277,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -7304,7 +7304,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -7358,8 +7358,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -7380,7 +7380,7 @@ import com.aspose.html.Converters;
 
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -7408,7 +7408,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -7462,8 +7462,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -7485,7 +7485,7 @@ import com.aspose.html.Converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -7511,7 +7511,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -7565,8 +7565,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
 	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -7598,7 +7598,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -7623,7 +7623,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -7677,8 +7677,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Create Url based on input file path
 	var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -7706,7 +7706,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -7733,7 +7733,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -7787,8 +7787,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Create Url based on input file path
 	var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -7817,7 +7817,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -7843,7 +7843,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -7897,8 +7897,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
    	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -7925,7 +7925,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -7952,7 +7952,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -8006,8 +8006,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form source file path
   	var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -8035,7 +8035,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -8062,7 +8062,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -8116,8 +8116,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -8142,7 +8142,7 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -8170,7 +8170,7 @@ How to convert HTML to Image
 
 [HTML](https://docs.fileformat.com/web/html/) (HyperText Markup Language) is the standard markup language for documents created for display in browsers. Known as the language of the web, HTML has evolved with requirements of new information demands to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from a server, where these are hosted or can be loaded from a local system as well.
 
-The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.Converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
+The main highlight of Aspose.HTML is the conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The com.aspose.html.converters package implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [GIF](https://docs.fileformat.com/image/gif/), [MHTML](https://docs.fileformat.com/web/mhtml/), and [MD](https://docs.fileformat.com/word-processing/md/).
 
 This article gives information on the list of supported HTML conversions and how to perform them using the [`Converter`](../) class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the HTML Converter guide, you find the following articles:
 
@@ -8224,8 +8224,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;  
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ... 
 	// Form inline html content		
 	var content = @"<!DOCTYPE html><html><body><p style=""color:red;"">Hello, World!</p></body></html>";
@@ -8251,5 +8251,5 @@ import com.aspose.html.Converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)

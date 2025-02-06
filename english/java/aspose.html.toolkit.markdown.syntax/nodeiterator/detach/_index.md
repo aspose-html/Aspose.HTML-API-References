@@ -17,5 +17,5 @@ public void Detach()
 ### See Also
 
 * class [NodeIterator](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../nodeiterator/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../nodeiterator/)
 * package [Aspose.HTML](../../../)

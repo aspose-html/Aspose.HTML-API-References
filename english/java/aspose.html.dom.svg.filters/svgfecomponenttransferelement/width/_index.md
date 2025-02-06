@@ -22,5 +22,5 @@ The attribute ‘width’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGFEComponentTransferElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfecomponenttransferelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfecomponenttransferelement/)
 * package [Aspose.HTML](../../../)

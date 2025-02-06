@@ -22,5 +22,5 @@ The engine mode.
 
 * enum [CSSEngineMode](../../../com.aspose.html.dom.css/cssenginemode/)
 * interface [IUserAgentService](../)
-* package [com.aspose.html.Services](../../iuseragentservice/)
+* package [com.aspose.html.services](../../iuseragentservice/)
 * package [Aspose.HTML](../../../)

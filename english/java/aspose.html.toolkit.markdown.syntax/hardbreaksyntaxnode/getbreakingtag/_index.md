@@ -22,5 +22,5 @@ The MarkdownSyntaxToken.
 
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [HardBreakSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../hardbreaksyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../hardbreaksyntaxnode/)
 * package [Aspose.HTML](../../../)

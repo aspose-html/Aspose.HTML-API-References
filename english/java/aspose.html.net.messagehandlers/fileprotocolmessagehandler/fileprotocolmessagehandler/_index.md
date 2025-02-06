@@ -17,5 +17,5 @@ public FileProtocolMessageHandler()
 ### See Also
 
 * class [FileProtocolMessageHandler](../)
-* package [com.aspose.html.Net.MessageHandlers](../../fileprotocolmessagehandler/)
+* package [com.aspose.html.net.messagehandlers](../../fileprotocolmessagehandler/)
 * package [Aspose.HTML](../../../)

@@ -36,5 +36,5 @@ Events dispatched in this manner will have the same capturing and bubbling behav
 
 * class [Event](../../event/)
 * interface [IEventTarget](../)
-* package [com.aspose.html.Dom.Events](../../ieventtarget/)
+* package [com.aspose.html.dom.events](../../ieventtarget/)
 * package [Aspose.HTML](../../../)

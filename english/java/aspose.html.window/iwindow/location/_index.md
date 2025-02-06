@@ -22,5 +22,5 @@ The location.
 
 * class [Location](../../location/)
 * interface [IWindow](../)
-* package [com.aspose.html.Window](../../iwindow/)
+* package [com.aspose.html.window](../../iwindow/)
 * package [Aspose.HTML](../../../)

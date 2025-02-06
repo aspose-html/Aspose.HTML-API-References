@@ -18,5 +18,5 @@ public Resolution HorizontalResolution { get; set; }
 
 * class [Resolution](../../../com.aspose.html.drawing/resolution/)
 * class [ImageRenderingOptions](../)
-* package [com.aspose.html.Rendering.Image](../../imagerenderingoptions/)
+* package [com.aspose.html.rendering.image](../../imagerenderingoptions/)
 * package [Aspose.HTML](../../../)

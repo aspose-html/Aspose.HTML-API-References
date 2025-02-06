@@ -1,7 +1,7 @@
 ---
 title: OrderedListItemMarker Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.OrderedListItemMarker class. Represent the ordered list item marker
+description: com.aspose.html.toolkit.markdown.syntax.OrderedListItemMarker class. Represent the ordered list item marker
 type: docs
 weight: 5290
 url: /java/com.aspose.html.toolkit.markdown.syntax/orderedlistitemmarker/
@@ -46,5 +46,5 @@ public class OrderedListItemMarker : ListItemMarker
 ### See Also
 
 * class [ListItemMarker](../listitemmarker/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

@@ -18,5 +18,5 @@ public event DOMEventHandler OnMessage;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* package [com.aspose.html.Window](../../iwindoweventhandlers/)
+* package [com.aspose.html.window](../../iwindoweventhandlers/)
 * package [Aspose.HTML](../../../)

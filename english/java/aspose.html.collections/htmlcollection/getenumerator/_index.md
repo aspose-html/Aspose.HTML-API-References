@@ -22,5 +22,5 @@ An IEnumerator object that can be used to iterate through the collection.
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * class [HTMLCollection](../)
-* package [com.aspose.html.Collections](../../htmlcollection/)
+* package [com.aspose.html.collections](../../htmlcollection/)
 * package [Aspose.HTML](../../../)

@@ -1,7 +1,7 @@
 ---
 title: ButtonType Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Forms.ButtonType enum. This enumeration represents states of the button
+description: com.aspose.html.forms.ButtonType enum. This enumeration represents states of the button
 type: docs
 weight: 2920
 url: /java/com.aspose.html.forms/buttontype/
@@ -24,5 +24,5 @@ public enum ButtonType
 
 ### See Also
 
-* package [com.aspose.html.Forms](../../com.aspose.html.forms/)
+* package [com.aspose.html.forms](../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../)

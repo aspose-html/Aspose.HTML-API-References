@@ -26,5 +26,5 @@ The index into the collection of CSS rules.
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSRuleList](../)
-* package [com.aspose.html.Dom.Css](../../icssrulelist/)
+* package [com.aspose.html.dom.css](../../icssrulelist/)
 * package [Aspose.HTML](../../../)

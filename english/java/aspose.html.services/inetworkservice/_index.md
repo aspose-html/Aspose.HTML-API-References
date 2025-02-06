@@ -1,7 +1,7 @@
 ---
 title: INetworkService Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Services.INetworkService interface. Provides an interface for the network operations
+description: com.aspose.html.services.INetworkService interface. Provides an interface for the network operations
 type: docs
 weight: 4750
 url: /java/com.aspose.html.services/inetworkservice/
@@ -24,5 +24,5 @@ public interface INetworkService
 
 ### See Also
 
-* package [com.aspose.html.Services](../../com.aspose.html.services/)
+* package [com.aspose.html.services](../../com.aspose.html.services/)
 * package [Aspose.HTML](../../)

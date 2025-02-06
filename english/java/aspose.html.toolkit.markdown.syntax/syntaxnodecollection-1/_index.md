@@ -1,7 +1,7 @@
 ---
 title: SyntaxNodeCollectionT Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.SyntaxNodeCollection1T class. Represents a collection of syntax nodes
+description: com.aspose.html.toolkit.markdown.syntax.SyntaxNodeCollection1T class. Represents a collection of syntax nodes
 type: docs
 weight: 5550
 url: /java/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/
@@ -54,5 +54,5 @@ public class SyntaxNodeCollection<T> : NodeList<T>, IList<T>
 
 * class [NodeList&lt;T&gt;](../nodelist-1/)
 * class [MarkdownSyntaxNode](../markdownsyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

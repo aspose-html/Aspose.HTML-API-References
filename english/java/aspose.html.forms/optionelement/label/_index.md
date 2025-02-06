@@ -21,5 +21,5 @@ The label value.
 ### See Also
 
 * class [OptionElement](../)
-* package [com.aspose.html.Forms](../../optionelement/)
+* package [com.aspose.html.forms](../../optionelement/)
 * package [Aspose.HTML](../../../)

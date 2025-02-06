@@ -21,5 +21,5 @@ The name of the file.
 ### See Also
 
 * class [ContentDispositionHeaderValue](../)
-* package [com.aspose.html.Net.Headers](../../contentdispositionheadervalue/)
+* package [com.aspose.html.net.headers](../../contentdispositionheadervalue/)
 * package [Aspose.HTML](../../../)

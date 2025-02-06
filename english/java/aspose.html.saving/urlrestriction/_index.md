@@ -1,7 +1,7 @@
 ---
 title: UrlRestriction Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Saving.UrlRestriction enum. This enum represents restriction applied to URLs of processed resources
+description: com.aspose.html.saving.UrlRestriction enum. This enum represents restriction applied to URLs of processed resources
 type: docs
 weight: 4720
 url: /java/com.aspose.html.saving/urlrestriction/
@@ -24,5 +24,5 @@ public enum UrlRestriction
 
 ### See Also
 
-* package [com.aspose.html.Saving](../../com.aspose.html.saving/)
+* package [com.aspose.html.saving](../../com.aspose.html.saving/)
 * package [Aspose.HTML](../../)

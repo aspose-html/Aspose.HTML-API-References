@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [SVGNumberList](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgnumberlist/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgnumberlist/)
 * package [Aspose.HTML](../../../)

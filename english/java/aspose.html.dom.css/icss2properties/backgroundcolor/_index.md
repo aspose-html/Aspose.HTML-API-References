@@ -25,5 +25,5 @@ A color is either a keyword or a numerical RGB specification.
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../icss2properties/)
 * package [Aspose.HTML](../../../)

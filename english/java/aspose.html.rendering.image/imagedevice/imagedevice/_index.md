@@ -22,7 +22,7 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../imagedevice/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -45,7 +45,7 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../imagedevice/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -65,7 +65,7 @@ public ImageDevice(String file)
 ### See Also
 
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../imagedevice/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -87,7 +87,7 @@ public ImageDevice(ImageRenderingOptions options, String file)
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../imagedevice/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,7 +107,7 @@ public ImageDevice(Stream stream)
 ### See Also
 
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../imagedevice/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -129,5 +129,5 @@ public ImageDevice(ImageRenderingOptions options, Stream stream)
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../imagedevice/)
 * package [Aspose.HTML](../../../)

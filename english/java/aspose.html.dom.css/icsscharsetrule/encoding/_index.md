@@ -21,5 +21,5 @@ The encoding attribute must return the encoding information specified by the @ch
 ### See Also
 
 * interface [ICSSCharsetRule](../)
-* package [com.aspose.html.Dom.Css](../../icsscharsetrule/)
+* package [com.aspose.html.dom.css](../../icsscharsetrule/)
 * package [Aspose.HTML](../../../)

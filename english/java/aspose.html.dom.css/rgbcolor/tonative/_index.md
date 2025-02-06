@@ -21,5 +21,5 @@ The Color object.
 ### See Also
 
 * class [RGBColor](../)
-* package [com.aspose.html.Dom.Css](../../rgbcolor/)
+* package [com.aspose.html.dom.css](../../rgbcolor/)
 * package [Aspose.HTML](../../../)

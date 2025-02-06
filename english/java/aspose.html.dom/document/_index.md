@@ -1,7 +1,7 @@
 ---
 title: Document Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Document class. The Document represents the entire HTML XML or SVG document. Conceptually it is the root of the document tree and provides the primary access to the documents data
+description: com.aspose.html.dom.Document class. The Document represents the entire HTML XML or SVG document. Conceptually it is the root of the document tree and provides the primary access to the documents data
 type: docs
 weight: 670
 url: /java/com.aspose.html.dom/document/
@@ -71,13 +71,13 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 | Name | Description |
 | --- | --- |
 | [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener) | The addEventListener() method of the [`EventTarget `](../eventtarget/)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
 | [appendChild](../../com.aspose.html.dom/node/appendchild/)(Node) | The appendChild() method of the Node interface adds a node to the end of the list of children of a specified parent node. If the given child is a reference to an existing node in the document, appendChild() moves it from its current position to the new position (there is no requirement to remove the node from its parent node before appending it to some other node). |
 | [cloneNode](../../com.aspose.html.dom/node/clonenode/)() | The cloneNode() method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not. |
 | [cloneNode](../../com.aspose.html.dom/node/clonenode/)(bool) | The cloneNode() method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not. |
 | [createAttribute](../../com.aspose.html.dom/document/createattribute/)(String) | The Document.createAttribute() method creates a new attribute node, and returns it. The object created a node implementing the [`Attr`](../attr/) interface. The DOM does not enforce what sort of attributes can be added to a particular element in this manner. |
-| [createAttributeNS](../../com.aspose.html.dom/document/createattributens/)(String, String) | The Document.createAttribute() method creates a new attribute node, and returns it. The object created a node implementing the [Attr](T:com.aspose.html.Dom.Attr) interface. The DOM does not enforce what sort of attributes can be added to a particular element in this manner. |
+| [createAttributeNS](../../com.aspose.html.dom/document/createattributens/)(String, String) | The Document.createAttribute() method creates a new attribute node, and returns it. The object created a node implementing the [Attr](T:com.aspose.html.dom.Attr) interface. The DOM does not enforce what sort of attributes can be added to a particular element in this manner. |
 | [createCDATASection](../../com.aspose.html.dom/document/createcdatasection/)(String) | Creates a [`CDATASection`](../cdatasection/) node whose value is the specified String. |
 | [createComment](../../com.aspose.html.dom/document/createcomment/)(String) | Creates a [`Comment`](../comment/) node given the specified String. |
 | [createDocumentFragment](../../com.aspose.html.dom/document/createdocumentfragment/)() | Creates a new empty [`DocumentFragment`](../documentfragment/) into which DOM nodes can be added to build an offscreen DOM tree. |
@@ -199,5 +199,5 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 * interface [INonElementParentNode](../inonelementparentnode/)
 * interface [IParentNode](../iparentnode/)
 * interface [IXPathEvaluator](../../com.aspose.html.dom.xpath/ixpathevaluator/)
-* package [com.aspose.html.Dom](../../com.aspose.html.dom/)
+* package [com.aspose.html.dom](../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../)

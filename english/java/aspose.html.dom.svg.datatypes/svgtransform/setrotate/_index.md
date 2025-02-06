@@ -29,5 +29,5 @@ public void SetRotate(float angle, float cx, float cy)
 ### See Also
 
 * class [SVGTransform](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgtransform/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgtransform/)
 * package [Aspose.HTML](../../../)

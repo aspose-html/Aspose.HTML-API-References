@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [CodeSpanSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../codespansyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../codespansyntaxnode/)
 * package [Aspose.HTML](../../../)

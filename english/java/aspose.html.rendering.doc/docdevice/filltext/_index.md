@@ -22,5 +22,5 @@ public void FillText(String text, PointF pt)
 ### See Also
 
 * class [DocDevice](../)
-* package [com.aspose.html.Rendering.Doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../docdevice/)
 * package [Aspose.HTML](../../../)

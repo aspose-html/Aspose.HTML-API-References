@@ -23,7 +23,7 @@ public void StrokeText(String text, double x, double y)
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -46,5 +46,5 @@ public void StrokeText(String text, double x, double y, double? maxWidth)
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
 * package [Aspose.HTML](../../../)

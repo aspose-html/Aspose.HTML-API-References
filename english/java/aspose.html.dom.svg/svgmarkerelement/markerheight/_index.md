@@ -22,5 +22,5 @@ The attribute ‘markerHeight’ of the given ‘marker’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGMarkerElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgmarkerelement/)
+* package [com.aspose.html.dom.svg](../../svgmarkerelement/)
 * package [Aspose.HTML](../../../)

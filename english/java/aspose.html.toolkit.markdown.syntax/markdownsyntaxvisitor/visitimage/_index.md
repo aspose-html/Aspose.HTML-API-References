@@ -22,5 +22,5 @@ public void VisitImage(InlineImageSyntaxNode image)
 
 * class [InlineImageSyntaxNode](../../inlineimagesyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxvisitor/)
 * package [Aspose.HTML](../../../)

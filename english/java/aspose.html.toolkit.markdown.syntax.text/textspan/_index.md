@@ -1,7 +1,7 @@
 ---
 title: TextSpan Struct
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Text.TextSpan struct. Represents the text span
+description: com.aspose.html.toolkit.markdown.syntax.text.TextSpan struct. Represents the text span
 type: docs
 weight: 5660
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textspan/
@@ -48,5 +48,5 @@ public struct TextSpan : IComparable<TextSpan>, IEquatable<TextSpan>
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../com.aspose.html.toolkit.markdown.syntax.text/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../)

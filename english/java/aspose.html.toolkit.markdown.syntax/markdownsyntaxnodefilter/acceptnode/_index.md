@@ -26,5 +26,5 @@ The short value.
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [MarkdownSyntaxNodeFilter](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxnodefilter/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxnodefilter/)
 * package [Aspose.HTML](../../../)

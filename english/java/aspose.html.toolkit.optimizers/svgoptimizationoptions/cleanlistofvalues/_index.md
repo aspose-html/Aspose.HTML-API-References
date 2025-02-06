@@ -17,5 +17,5 @@ public bool CleanListOfValues { get; set; }
 ### See Also
 
 * class [SVGOptimizationOptions](../)
-* package [com.aspose.html.Toolkit.Optimizers](../../svgoptimizationoptions/)
+* package [com.aspose.html.toolkit.optimizers](../../svgoptimizationoptions/)
 * package [Aspose.HTML](../../../)

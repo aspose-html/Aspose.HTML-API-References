@@ -21,5 +21,5 @@ public void Clip(FillMode mode)
 ### See Also
 
 * class [DocDevice](../)
-* package [com.aspose.html.Rendering.Doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../docdevice/)
 * package [Aspose.HTML](../../../)

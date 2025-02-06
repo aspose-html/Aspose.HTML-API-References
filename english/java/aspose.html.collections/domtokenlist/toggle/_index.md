@@ -25,7 +25,7 @@ A Boolean indicating whether token is in the list after the call.
 ### See Also
 
 * class [DOMTokenList](../)
-* package [com.aspose.html.Collections](../../domtokenlist/)
+* package [com.aspose.html.collections](../../domtokenlist/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -50,5 +50,5 @@ A Boolean indicating whether token is in the list after the call.
 ### See Also
 
 * class [DOMTokenList](../)
-* package [com.aspose.html.Collections](../../domtokenlist/)
+* package [com.aspose.html.collections](../../domtokenlist/)
 * package [Aspose.HTML](../../../)

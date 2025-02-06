@@ -17,5 +17,5 @@ public const ushort TEXTPATH_SPACINGTYPE_EXACT;
 ### See Also
 
 * class [SVGTextPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgtextpathelement/)
+* package [com.aspose.html.dom.svg](../../svgtextpathelement/)
 * package [Aspose.HTML](../../../)

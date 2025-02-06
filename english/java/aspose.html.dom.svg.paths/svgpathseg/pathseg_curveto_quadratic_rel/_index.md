@@ -17,5 +17,5 @@ public const ushort PATHSEG_CURVETO_QUADRATIC_REL;
 ### See Also
 
 * class [SVGPathSeg](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathseg/)
+* package [com.aspose.html.dom.svg.paths](../../svgpathseg/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ list objects of Priniciple
 
 * class [Principle](../../principle/)
 * class [AccessibilityRules](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

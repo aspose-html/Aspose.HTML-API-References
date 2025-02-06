@@ -22,5 +22,5 @@ public void Invoke(INetworkOperationContext context)
 
 * interface [INetworkOperationContext](../../../com.aspose.html.net/inetworkoperationcontext/)
 * class [FileProtocolMessageHandler](../)
-* package [com.aspose.html.Net.MessageHandlers](../../fileprotocolmessagehandler/)
+* package [com.aspose.html.net.messagehandlers](../../fileprotocolmessagehandler/)
 * package [Aspose.HTML](../../../)

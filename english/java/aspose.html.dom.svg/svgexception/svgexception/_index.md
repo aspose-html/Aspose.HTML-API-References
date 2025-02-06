@@ -21,5 +21,5 @@ public SVGException(ushort code)
 ### See Also
 
 * class [SVGException](../)
-* package [com.aspose.html.Dom.Svg](../../svgexception/)
+* package [com.aspose.html.dom.svg](../../svgexception/)
 * package [Aspose.HTML](../../../)

@@ -1,12 +1,12 @@
 ---
-title: com.aspose.html.dom.Attributes
+title: com.aspose.html.dom.attributes
 second_title: Aspose.HTML for Java API Reference
-description: The com.aspose.html.Dom.Attributes package contains unified attribute classes which specifies or qualifies any object node element ... feature or behavior
+description: The com.aspose.html.dom.attributes package contains unified attribute classes which specifies or qualifies any object node element ... feature or behavior
 type: docs
 weight: 60
 url: /java/com.aspose.html.dom.attributes/
 ---
-The **com.aspose.html.Dom.Attributes** package contains unified attribute classes which specifies or qualifies any object (node, element, ...) feature or behavior.
+The **com.aspose.html.dom.attributes** package contains unified attribute classes which specifies or qualifies any object (node, element, ...) feature or behavior.
 
 ## Classes
 

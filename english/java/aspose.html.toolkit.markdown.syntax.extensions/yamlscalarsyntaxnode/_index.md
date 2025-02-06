@@ -1,7 +1,7 @@
 ---
 title: YamlScalarSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Extensions.YamlScalarSyntaxNode class. Defines the YamlScalarSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.extensions.YamlScalarSyntaxNode class. Defines the YamlScalarSyntaxNode
 type: docs
 weight: 4970
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/
@@ -31,5 +31,5 @@ public sealed class YamlScalarSyntaxNode : ChildFrontMatterSyntaxNode
 ### See Also
 
 * class [ChildFrontMatterSyntaxNode](../childfrontmattersyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../com.aspose.html.toolkit.markdown.syntax.extensions/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../)

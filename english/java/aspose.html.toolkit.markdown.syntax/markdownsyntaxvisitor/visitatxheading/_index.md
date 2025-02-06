@@ -22,5 +22,5 @@ public void VisitAtxHeading(AtxHeadingSyntaxNode heading)
 
 * class [AtxHeadingSyntaxNode](../../atxheadingsyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxvisitor/)
 * package [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public PdfEncryptionInfo Encryption { get; set; }
 
 * class [PdfEncryptionInfo](../../../com.aspose.html.rendering.pdf.encryption/pdfencryptioninfo/)
 * class [PdfRenderingOptions](../)
-* package [com.aspose.html.Rendering.Pdf](../../pdfrenderingoptions/)
+* package [com.aspose.html.rendering.pdf](../../pdfrenderingoptions/)
 * package [Aspose.HTML](../../../)

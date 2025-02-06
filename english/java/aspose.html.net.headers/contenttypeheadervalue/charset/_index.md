@@ -21,5 +21,5 @@ The character set.
 ### See Also
 
 * class [ContentTypeHeaderValue](../)
-* package [com.aspose.html.Net.Headers](../../contenttypeheadervalue/)
+* package [com.aspose.html.net.headers](../../contenttypeheadervalue/)
 * package [Aspose.HTML](../../../)

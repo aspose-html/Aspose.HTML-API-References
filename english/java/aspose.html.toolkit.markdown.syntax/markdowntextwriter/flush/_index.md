@@ -17,5 +17,5 @@ public void Flush()
 ### See Also
 
 * class [MarkdownTextWriter](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdowntextwriter/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdowntextwriter/)
 * package [Aspose.HTML](../../../)

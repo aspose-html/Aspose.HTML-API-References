@@ -1,7 +1,7 @@
 ---
 title: ICanvasPathMethods Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Canvas.ICanvasPathMethods interface. The ICanvasPathMethods interface is used to manipulate paths of objects
+description: com.aspose.html.dom.canvas.ICanvasPathMethods interface. The ICanvasPathMethods interface is used to manipulate paths of objects
 type: docs
 weight: 250
 url: /java/com.aspose.html.dom.canvas/icanvaspathmethods/
@@ -32,5 +32,5 @@ public interface ICanvasPathMethods
 
 ### See Also
 
-* package [com.aspose.html.Dom.Canvas](../../com.aspose.html.dom.canvas/)
+* package [com.aspose.html.dom.canvas](../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../)

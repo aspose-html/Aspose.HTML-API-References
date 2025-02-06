@@ -17,5 +17,5 @@ public String Value { get; set; }
 ### See Also
 
 * class [TextAreaElement](../)
-* package [com.aspose.html.Forms](../../textareaelement/)
+* package [com.aspose.html.forms](../../textareaelement/)
 * package [Aspose.HTML](../../../)

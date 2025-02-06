@@ -1,7 +1,7 @@
 ---
 title: IInterpolationColor Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Drawing.IInterpolationColor interface. Desclares methods for getting interpolation color
+description: com.aspose.html.drawing.IInterpolationColor interface. Desclares methods for getting interpolation color
 type: docs
 weight: 2720
 url: /java/com.aspose.html.drawing/iinterpolationcolor/
@@ -23,5 +23,5 @@ public interface IInterpolationColor
 
 ### See Also
 
-* package [com.aspose.html.Drawing](../../com.aspose.html.drawing/)
+* package [com.aspose.html.drawing](../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../)

@@ -1,7 +1,7 @@
 ---
 title: TemplateContentOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Converters.TemplateContentOptions class. Inline content object for merging processing
+description: com.aspose.html.converters.TemplateContentOptions class. Inline content object for merging processing
 type: docs
 weight: 90
 url: /java/com.aspose.html.converters/templatecontentoptions/
@@ -30,5 +30,5 @@ public sealed class TemplateContentOptions
 
 ### See Also
 
-* package [com.aspose.html.Converters](../../com.aspose.html.converters/)
+* package [com.aspose.html.converters](../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../)

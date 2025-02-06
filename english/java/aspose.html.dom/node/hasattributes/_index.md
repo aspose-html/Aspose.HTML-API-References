@@ -21,5 +21,5 @@ boolean true if this node has any attributes, false otherwise.
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../node/)
 * package [Aspose.HTML](../../../)

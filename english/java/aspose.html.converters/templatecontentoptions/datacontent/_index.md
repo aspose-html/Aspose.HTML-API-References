@@ -17,5 +17,5 @@ public String DataContent { get; }
 ### See Also
 
 * class [TemplateContentOptions](../)
-* package [com.aspose.html.Converters](../../templatecontentoptions/)
+* package [com.aspose.html.converters](../../templatecontentoptions/)
 * package [Aspose.HTML](../../../)

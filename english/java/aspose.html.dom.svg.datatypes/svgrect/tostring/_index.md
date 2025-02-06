@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [SVGRect](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgrect/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgrect/)
 * package [Aspose.HTML](../../../)

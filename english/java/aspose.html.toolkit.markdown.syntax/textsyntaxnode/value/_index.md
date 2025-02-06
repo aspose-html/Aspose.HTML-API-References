@@ -17,5 +17,5 @@ public String Value { get; }
 ### See Also
 
 * class [TextSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../textsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../textsyntaxnode/)
 * package [Aspose.HTML](../../../)

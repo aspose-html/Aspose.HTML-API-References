@@ -26,5 +26,5 @@ Returns the first matched element.
 
 * class [Element](../../element/)
 * interface [INonElementParentNode](../)
-* package [com.aspose.html.Dom](../../inonelementparentnode/)
+* package [com.aspose.html.dom](../../inonelementparentnode/)
 * package [Aspose.HTML](../../../)

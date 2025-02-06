@@ -1,7 +1,7 @@
 ---
 title: ErrorEvent Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Events.ErrorEvent class. The ErrorEvent provides contextual information about an errors that occurred during runtime
+description: com.aspose.html.dom.events.ErrorEvent class. The ErrorEvent provides contextual information about an errors that occurred during runtime
 type: docs
 weight: 770
 url: /java/com.aspose.html.dom.events/errorevent/
@@ -53,5 +53,5 @@ public class ErrorEvent : Event
 ### See Also
 
 * class [Event](../event/)
-* package [com.aspose.html.Dom.Events](../../com.aspose.html.dom.events/)
+* package [com.aspose.html.dom.events](../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../)

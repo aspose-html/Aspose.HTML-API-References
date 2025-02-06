@@ -22,5 +22,5 @@ Returns the style information from the @font-face at-rule. This will be in the f
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSFontFaceRule](../)
-* package [com.aspose.html.Dom.Css](../../icssfontfacerule/)
+* package [com.aspose.html.dom.css](../../icssfontfacerule/)
 * package [Aspose.HTML](../../../)

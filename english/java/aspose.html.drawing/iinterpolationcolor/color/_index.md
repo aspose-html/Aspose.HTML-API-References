@@ -17,5 +17,5 @@ public Color Color { get; }
 ### See Also
 
 * interface [IInterpolationColor](../)
-* package [com.aspose.html.Drawing](../../iinterpolationcolor/)
+* package [com.aspose.html.drawing](../../iinterpolationcolor/)
 * package [Aspose.HTML](../../../)

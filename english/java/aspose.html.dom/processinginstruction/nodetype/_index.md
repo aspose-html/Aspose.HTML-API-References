@@ -21,5 +21,5 @@ The type of the node.
 ### See Also
 
 * class [ProcessingInstruction](../)
-* package [com.aspose.html.Dom](../../processinginstruction/)
+* package [com.aspose.html.dom](../../processinginstruction/)
 * package [Aspose.HTML](../../../)

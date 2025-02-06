@@ -18,5 +18,5 @@ public IEnumerable<ChildFrontMatterSyntaxNode> Values { get; }
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [YamlMappingSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../yamlmappingsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../yamlmappingsyntaxnode/)
 * package [Aspose.HTML](../../../)

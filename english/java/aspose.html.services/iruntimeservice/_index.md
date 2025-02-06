@@ -1,7 +1,7 @@
 ---
 title: IRuntimeService Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Services.IRuntimeService interface. This service is used to configure runtime related properties
+description: com.aspose.html.services.IRuntimeService interface. This service is used to configure runtime related properties
 type: docs
 weight: 4760
 url: /java/com.aspose.html.services/iruntimeservice/
@@ -23,5 +23,5 @@ public interface IRuntimeService
 
 ### See Also
 
-* package [com.aspose.html.Services](../../com.aspose.html.services/)
+* package [com.aspose.html.services](../../com.aspose.html.services/)
 * package [Aspose.HTML](../../)

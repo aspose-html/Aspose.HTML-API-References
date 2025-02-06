@@ -22,5 +22,5 @@ The [`LinkDestinationSyntaxNode`](../../linkdestinationsyntaxnode/) object.
 
 * class [LinkDestinationSyntaxNode](../../linkdestinationsyntaxnode/)
 * class [LinkReferenceDefinitionSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../linkreferencedefinitionsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../linkreferencedefinitionsyntaxnode/)
 * package [Aspose.HTML](../../../)

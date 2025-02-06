@@ -1,7 +1,7 @@
 ---
 title: Event Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Events.Event class. The is used to provide contextual information about an event to the handler processing the event
+description: com.aspose.html.dom.events.Event class. The is used to provide contextual information about an event to the handler processing the event
 type: docs
 weight: 780
 url: /java/com.aspose.html.dom.events/event/
@@ -61,5 +61,5 @@ An object which implements the is generally passed as the first parameter to an 
 ### See Also
 
 * class [DOMObject](../../com.aspose.html.dom/domobject/)
-* package [com.aspose.html.Dom.Events](../../com.aspose.html.dom.events/)
+* package [com.aspose.html.dom.events](../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../)

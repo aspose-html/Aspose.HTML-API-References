@@ -22,7 +22,7 @@ public void VisitLineBreak(SoftBreakSyntaxNode lineBreak)
 
 * class [SoftBreakSyntaxNode](../../softbreaksyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxvisitor/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -43,5 +43,5 @@ public void VisitLineBreak(HardBreakSyntaxNode lineBreak)
 
 * class [HardBreakSyntaxNode](../../hardbreaksyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxvisitor/)
 * package [Aspose.HTML](../../../)

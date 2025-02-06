@@ -21,7 +21,7 @@ public DOMException(String message)
 ### See Also
 
 * class [DOMException](../)
-* package [com.aspose.html.Dom](../../domexception/)
+* package [com.aspose.html.dom](../../domexception/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -42,5 +42,5 @@ public DOMException(String name, String message)
 ### See Also
 
 * class [DOMException](../)
-* package [com.aspose.html.Dom](../../domexception/)
+* package [com.aspose.html.dom](../../domexception/)
 * package [Aspose.HTML](../../../)

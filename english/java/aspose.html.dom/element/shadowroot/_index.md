@@ -22,5 +22,5 @@ The shadowRoot.
 
 * class [ShadowRoot](../../shadowroot/)
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../element/)
 * package [Aspose.HTML](../../../)

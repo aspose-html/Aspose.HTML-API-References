@@ -22,5 +22,5 @@ public void BeginDocument(Document document)
 
 * class [Document](../../../com.aspose.html.dom/document/)
 * class [XpsDevice](../)
-* package [com.aspose.html.Rendering.Xps](../../xpsdevice/)
+* package [com.aspose.html.rendering.xps](../../xpsdevice/)
 * package [Aspose.HTML](../../../)

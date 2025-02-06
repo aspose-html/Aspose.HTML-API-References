@@ -21,5 +21,5 @@ The HTML element.
 ### See Also
 
 * class [FormElement&lt;T&gt;](../)
-* package [com.aspose.html.Forms](../../formelement-1/)
+* package [com.aspose.html.forms](../../formelement-1/)
 * package [Aspose.HTML](../../../)

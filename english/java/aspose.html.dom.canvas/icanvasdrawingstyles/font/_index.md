@@ -17,5 +17,5 @@ public String Font { get; set; }
 ### See Also
 
 * interface [ICanvasDrawingStyles](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasdrawingstyles/)
+* package [com.aspose.html.dom.canvas](../../icanvasdrawingstyles/)
 * package [Aspose.HTML](../../../)

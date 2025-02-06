@@ -18,5 +18,5 @@ public SourceTextReader Reader { get; }
 
 * class [SourceTextReader](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetextreader/)
 * interface [IInlineParsingContext](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../iinlineparsingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../iinlineparsingcontext/)
 * package [Aspose.HTML](../../../)

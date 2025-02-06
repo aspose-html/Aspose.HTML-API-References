@@ -17,5 +17,5 @@ public const ushort SVG_LENGTHTYPE_EMS;
 ### See Also
 
 * class [SVGLength](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svglength/)
+* package [com.aspose.html.dom.svg.datatypes](../../svglength/)
 * package [Aspose.HTML](../../../)

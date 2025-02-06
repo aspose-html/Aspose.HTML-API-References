@@ -21,5 +21,5 @@ The ECMAScript object Type.
 ### See Also
 
 * class [CSSValueList](../)
-* package [com.aspose.html.Dom.Css](../../cssvaluelist/)
+* package [com.aspose.html.dom.css](../../cssvaluelist/)
 * package [Aspose.HTML](../../../)

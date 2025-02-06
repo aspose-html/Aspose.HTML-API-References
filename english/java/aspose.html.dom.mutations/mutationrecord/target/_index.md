@@ -22,5 +22,5 @@ The target.
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * class [MutationRecord](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationrecord/)
+* package [com.aspose.html.dom.mutations](../../mutationrecord/)
 * package [Aspose.HTML](../../../)

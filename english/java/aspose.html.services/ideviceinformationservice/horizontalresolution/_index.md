@@ -22,5 +22,5 @@ The horizontal resolution.
 
 * class [Resolution](../../../com.aspose.html.drawing/resolution/)
 * interface [IDeviceInformationService](../)
-* package [com.aspose.html.Services](../../ideviceinformationservice/)
+* package [com.aspose.html.services](../../ideviceinformationservice/)
 * package [Aspose.HTML](../../../)

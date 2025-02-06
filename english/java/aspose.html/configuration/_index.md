@@ -48,8 +48,8 @@ import System;
 import System.Diagnostics;
 import System.IO;
 import com.aspose.html;
-import com.aspose.html.Net;
-import com.aspose.html.Services;
+import com.aspose.html.net;
+import com.aspose.html.services;
 
     // This message handler prints a message about start and finish processing request
     public class LogMessageHandler : MessageHandler
@@ -89,10 +89,10 @@ import com.aspose.html.Services;
 
 ```java
 import com.aspose.html;
-import com.aspose.html.Converters;
-import com.aspose.html.Net;
-import com.aspose.html.Saving;
-import com.aspose.html.Services;
+import com.aspose.html.converters;
+import com.aspose.html.net;
+import com.aspose.html.saving;
+import com.aspose.html.services;
 import System;
 import System.Collections.Generic;
 import System.IO;

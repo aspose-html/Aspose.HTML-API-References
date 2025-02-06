@@ -1,7 +1,7 @@
 ---
 title: SVGOptimizer Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Optimizers.SVGOptimizer class. SVGOptimizer is a static class designed to optimize SVG documents. By optimization we mean removing unused or invisible elements and their attributes merging groups and reducing the size of path segments
+description: com.aspose.html.toolkit.optimizers.SVGOptimizer class. SVGOptimizer is a static class designed to optimize SVG documents. By optimization we mean removing unused or invisible elements and their attributes merging groups and reducing the size of path segments
 type: docs
 weight: 5760
 url: /java/com.aspose.html.toolkit.optimizers/svgoptimizer/
@@ -23,5 +23,5 @@ public static class SVGOptimizer
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Optimizers](../../com.aspose.html.toolkit.optimizers/)
+* package [com.aspose.html.toolkit.optimizers](../../com.aspose.html.toolkit.optimizers/)
 * package [Aspose.HTML](../../)

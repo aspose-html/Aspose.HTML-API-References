@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxNodeFilter Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.MarkdownSyntaxNodeFilter class. Base implementation of the MarkdownSyntaxNodeFilter
+description: com.aspose.html.toolkit.markdown.syntax.MarkdownSyntaxNodeFilter class. Base implementation of the MarkdownSyntaxNodeFilter
 type: docs
 weight: 5200
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/
@@ -31,5 +31,5 @@ public abstract class MarkdownSyntaxNodeFilter
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

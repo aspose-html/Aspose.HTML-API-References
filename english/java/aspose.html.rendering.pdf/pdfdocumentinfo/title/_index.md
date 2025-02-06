@@ -17,5 +17,5 @@ public String Title { get; set; }
 ### See Also
 
 * class [PdfDocumentInfo](../)
-* package [com.aspose.html.Rendering.Pdf](../../pdfdocumentinfo/)
+* package [com.aspose.html.rendering.pdf](../../pdfdocumentinfo/)
 * package [Aspose.HTML](../../../)

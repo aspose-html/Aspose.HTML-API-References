@@ -17,5 +17,5 @@ public MHTMLSaveOptions()
 ### See Also
 
 * class [MHTMLSaveOptions](../)
-* package [com.aspose.html.Saving](../../mhtmlsaveoptions/)
+* package [com.aspose.html.saving](../../mhtmlsaveoptions/)
 * package [Aspose.HTML](../../../)

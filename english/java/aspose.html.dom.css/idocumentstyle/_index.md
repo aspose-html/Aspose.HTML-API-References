@@ -1,7 +1,7 @@
 ---
 title: IDocumentStyle Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Css.IDocumentStyle interface. The DocumentStyle interface provides a mechanism by which the style sheets embedded in a document can be retrieved. The expectation is that an instance of the DocumentStyle interface can be obtained by using binding-specific casting methods on an instance of the Document interface
+description: com.aspose.html.dom.css.IDocumentStyle interface. The DocumentStyle interface provides a mechanism by which the style sheets embedded in a document can be retrieved. The expectation is that an instance of the DocumentStyle interface can be obtained by using binding-specific casting methods on an instance of the Document interface
 type: docs
 weight: 560
 url: /java/com.aspose.html.dom.css/idocumentstyle/
@@ -24,5 +24,5 @@ public interface IDocumentStyle
 
 ### See Also
 
-* package [com.aspose.html.Dom.Css](../../com.aspose.html.dom.css/)
+* package [com.aspose.html.dom.css](../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../)

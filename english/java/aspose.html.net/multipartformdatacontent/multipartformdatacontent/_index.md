@@ -17,7 +17,7 @@ public MultipartFormDataContent()
 ### See Also
 
 * class [MultipartFormDataContent](../)
-* package [com.aspose.html.Net](../../multipartformdatacontent/)
+* package [com.aspose.html.net](../../multipartformdatacontent/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -37,5 +37,5 @@ public MultipartFormDataContent(String boundary)
 ### See Also
 
 * class [MultipartFormDataContent](../)
-* package [com.aspose.html.Net](../../multipartformdatacontent/)
+* package [com.aspose.html.net](../../multipartformdatacontent/)
 * package [Aspose.HTML](../../../)

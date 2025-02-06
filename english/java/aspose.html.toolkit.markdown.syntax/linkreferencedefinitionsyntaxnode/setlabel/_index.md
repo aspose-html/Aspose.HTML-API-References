@@ -22,5 +22,5 @@ public void SetLabel(TextSyntaxNode label)
 
 * class [TextSyntaxNode](../../textsyntaxnode/)
 * class [LinkReferenceDefinitionSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../linkreferencedefinitionsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../linkreferencedefinitionsyntaxnode/)
 * package [Aspose.HTML](../../../)

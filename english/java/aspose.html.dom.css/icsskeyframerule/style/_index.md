@@ -24,5 +24,5 @@ computed flag - Unset.declarations - The declared declarations in the rule, in t
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSKeyframeRule](../)
-* package [com.aspose.html.Dom.Css](../../icsskeyframerule/)
+* package [com.aspose.html.dom.css](../../icsskeyframerule/)
 * package [Aspose.HTML](../../../)

@@ -17,7 +17,7 @@ public DocRenderingOptions()
 ### See Also
 
 * class [DocRenderingOptions](../)
-* package [com.aspose.html.Rendering.Doc](../../docrenderingoptions/)
+* package [com.aspose.html.rendering.doc](../../docrenderingoptions/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public DocRenderingOptions(FontEmbeddingRule fontEmbeddingRule)
 
 * enum [FontEmbeddingRule](../../fontembeddingrule/)
 * class [DocRenderingOptions](../)
-* package [com.aspose.html.Rendering.Doc](../../docrenderingoptions/)
+* package [com.aspose.html.rendering.doc](../../docrenderingoptions/)
 * package [Aspose.HTML](../../../)

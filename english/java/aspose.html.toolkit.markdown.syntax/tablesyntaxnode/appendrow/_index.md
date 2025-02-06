@@ -26,5 +26,5 @@ The table syntax.
 
 * class [TableRowSyntaxNode](../../tablerowsyntaxnode/)
 * class [TableSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../tablesyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../tablesyntaxnode/)
 * package [Aspose.HTML](../../../)

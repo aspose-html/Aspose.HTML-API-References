@@ -17,7 +17,7 @@ public SVGTransformList()
 ### See Also
 
 * class [SVGTransformList](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgtransformlist/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgtransformlist/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public SVGTransformList(IEnumerable<SVGTransform> enumerable)
 
 * class [SVGTransform](../../svgtransform/)
 * class [SVGTransformList](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgtransformlist/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgtransformlist/)
 * package [Aspose.HTML](../../../)

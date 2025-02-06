@@ -22,5 +22,5 @@ The attribute ‘operator’ of the given ‘feMorphology’ element.
 
 * class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGFEMorphologyElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfemorphologyelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfemorphologyelement/)
 * package [Aspose.HTML](../../../)

@@ -30,5 +30,5 @@ Returns the added child (unless newNode is a [`DocumentFragment`](../../document
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../node/)
 * package [Aspose.HTML](../../../)

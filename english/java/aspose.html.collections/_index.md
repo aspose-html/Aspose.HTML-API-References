@@ -1,12 +1,12 @@
 ---
 title: com.aspose.html.collections
 second_title: Aspose.HTML for Java API Reference
-description: The com.aspose.html.Collections package consists of classes to represent store and manipulate nodes and elements
+description: The com.aspose.html.collections package consists of classes to represent store and manipulate nodes and elements
 type: docs
 weight: 20
 url: /java/com.aspose.html.collections/
 ---
-The **com.aspose.html.Collections** package consists of classes to represent, store and manipulate nodes and elements.
+The **com.aspose.html.collections** package consists of classes to represent, store and manipulate nodes and elements.
 
 ## Classes
 

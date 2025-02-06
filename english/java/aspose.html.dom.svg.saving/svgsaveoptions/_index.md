@@ -1,7 +1,7 @@
 ---
 title: SVGSaveOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.Saving.SVGSaveOptions class. Represents SVG save options
+description: com.aspose.html.dom.svg.saving.SVGSaveOptions class. Represents SVG save options
 type: docs
 weight: 2450
 url: /java/com.aspose.html.dom.svg.saving/svgsaveoptions/
@@ -31,5 +31,5 @@ public class SVGSaveOptions : SaveOptions
 ### See Also
 
 * class [SaveOptions](../../com.aspose.html.saving/saveoptions/)
-* package [com.aspose.html.Dom.Svg.Saving](../../com.aspose.html.dom.svg.saving/)
+* package [com.aspose.html.dom.svg.saving](../../com.aspose.html.dom.svg.saving/)
 * package [Aspose.HTML](../../)

@@ -24,5 +24,5 @@ public void OnOpen(BlockSyntaxDescriptor descriptor, IBlockParsingContext contex
 * class [BlockSyntaxDescriptor](../../blocksyntaxdescriptor/)
 * interface [IBlockParsingContext](../../iblockparsingcontext/)
 * class [MarkdownBlockParser](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../markdownblockparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../markdownblockparser/)
 * package [Aspose.HTML](../../../)

@@ -1,7 +1,7 @@
 ---
 title: Time Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Drawing.Time class. Represents a time unit
+description: com.aspose.html.drawing.Time class. Represents a time unit
 type: docs
 weight: 2850
 url: /java/com.aspose.html.drawing/time/
@@ -43,5 +43,5 @@ public sealed class Time : Dimension
 ### See Also
 
 * class [Dimension](../dimension/)
-* package [com.aspose.html.Drawing](../../com.aspose.html.drawing/)
+* package [com.aspose.html.drawing](../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../)

@@ -1,5 +1,5 @@
 ---
-title: com.aspose.html.dom.Canvas
+title: com.aspose.html.dom.canvas
 second_title: Aspose.HTML for Java API Reference
 description: 
 type: docs

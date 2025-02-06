@@ -1,7 +1,7 @@
 ---
 title: IImageData Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Canvas.IImageData interface. Creates an ImageData object from a given Uint8ClampedArray and the size of the image it contains. If no array is given it creates an image of a black rectangle
+description: com.aspose.html.dom.canvas.IImageData interface. Creates an ImageData object from a given Uint8ClampedArray and the size of the image it contains. If no array is given it creates an image of a black rectangle
 type: docs
 weight: 280
 url: /java/com.aspose.html.dom.canvas/iimagedata/
@@ -24,5 +24,5 @@ public interface IImageData
 
 ### See Also
 
-* package [com.aspose.html.Dom.Canvas](../../com.aspose.html.dom.canvas/)
+* package [com.aspose.html.dom.canvas](../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../)

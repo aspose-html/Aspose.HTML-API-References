@@ -21,5 +21,5 @@ The whole text.
 ### See Also
 
 * class [Text](../)
-* package [com.aspose.html.Dom](../../text/)
+* package [com.aspose.html.dom](../../text/)
 * package [Aspose.HTML](../../../)

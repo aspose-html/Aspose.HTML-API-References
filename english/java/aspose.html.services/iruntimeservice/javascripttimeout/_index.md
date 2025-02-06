@@ -17,5 +17,5 @@ public TimeSpan JavaScriptTimeout { get; set; }
 ### See Also
 
 * interface [IRuntimeService](../)
-* package [com.aspose.html.Services](../../iruntimeservice/)
+* package [com.aspose.html.services](../../iruntimeservice/)
 * package [Aspose.HTML](../../../)

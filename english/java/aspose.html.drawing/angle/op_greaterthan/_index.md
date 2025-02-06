@@ -15,5 +15,5 @@ public static bool operator >(Angle a, Angle b)
 ### See Also
 
 * class [Angle](../)
-* package [com.aspose.html.Drawing](../../angle/)
+* package [com.aspose.html.drawing](../../angle/)
 * package [Aspose.HTML](../../../)

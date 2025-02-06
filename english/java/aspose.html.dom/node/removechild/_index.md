@@ -27,5 +27,5 @@ Unlike [`Node.cloneNode()`](../clonenode/) the return value preserves the [`Even
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../node/)
 * package [Aspose.HTML](../../../)

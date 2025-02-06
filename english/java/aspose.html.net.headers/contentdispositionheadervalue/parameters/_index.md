@@ -22,5 +22,5 @@ The parameters.
 
 * class [NameValueHeaderValue](../../namevalueheadervalue/)
 * class [ContentDispositionHeaderValue](../)
-* package [com.aspose.html.Net.Headers](../../contentdispositionheadervalue/)
+* package [com.aspose.html.net.headers](../../contentdispositionheadervalue/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [WhitespaceSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../whitespacesyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../whitespacesyntaxnode/)
 * package [Aspose.HTML](../../../)

@@ -26,5 +26,5 @@ The IndentedCodeBlockSyntax.
 
 * class [IndentedCodeBlockSyntaxNode](../../indentedcodeblocksyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
 * package [Aspose.HTML](../../../)

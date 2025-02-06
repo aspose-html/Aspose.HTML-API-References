@@ -18,5 +18,5 @@ public FormFieldBehaviour FormFieldBehaviour { get; set; }
 
 * enum [FormFieldBehaviour](../../formfieldbehaviour/)
 * class [PdfRenderingOptions](../)
-* package [com.aspose.html.Rendering.Pdf](../../pdfrenderingoptions/)
+* package [com.aspose.html.rendering.pdf](../../pdfrenderingoptions/)
 * package [Aspose.HTML](../../../)

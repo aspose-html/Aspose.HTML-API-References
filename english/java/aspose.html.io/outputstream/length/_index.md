@@ -17,5 +17,5 @@ public long Length { get; }
 ### See Also
 
 * class [OutputStream](../)
-* package [com.aspose.html.IO](../../outputstream/)
+* package [com.aspose.html.io](../../outputstream/)
 * package [Aspose.HTML](../../../)

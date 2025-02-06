@@ -18,5 +18,5 @@ public TextSpan Span { get; }
 
 * struct [TextSpan](../../../com.aspose.html.toolkit.markdown.syntax.text/textspan/)
 * class [LineBreakSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../linebreaksyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../linebreaksyntaxnode/)
 * package [Aspose.HTML](../../../)

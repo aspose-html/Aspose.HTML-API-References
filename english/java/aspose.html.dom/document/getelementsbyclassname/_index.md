@@ -45,8 +45,8 @@ var elements = document.GetElementsByClassName("red test");
 // C# code
 import System;
 import com.aspose.html;
-import com.aspose.html.Collections;
-import com.aspose.html.Dom;
+import com.aspose.html.collections;
+import com.aspose.html.dom;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -89,8 +89,8 @@ Customized by css class container
 # C# code
 import System;
 import com.aspose.html;
-import com.aspose.html.Collections;
-import com.aspose.html.Dom;
+import com.aspose.html.collections;
+import com.aspose.html.dom;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -137,8 +137,8 @@ Element type: com.aspose.html.HTMLParagraphElement
 # C# code
 import System;
 import com.aspose.html;
-import com.aspose.html.Collections;
-import com.aspose.html.Dom;
+import com.aspose.html.collections;
+import com.aspose.html.dom;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -180,5 +180,5 @@ Element type: com.aspose.html.HTMLElement
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../document/)
 * package [Aspose.HTML](../../../)

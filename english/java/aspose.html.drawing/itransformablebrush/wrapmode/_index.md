@@ -21,5 +21,5 @@ Wrap mode
 ### See Also
 
 * interface [ITransformableBrush](../)
-* package [com.aspose.html.Drawing](../../itransformablebrush/)
+* package [com.aspose.html.drawing](../../itransformablebrush/)
 * package [Aspose.HTML](../../../)

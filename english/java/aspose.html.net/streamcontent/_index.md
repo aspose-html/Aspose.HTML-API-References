@@ -1,7 +1,7 @@
 ---
 title: StreamContent Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Net.StreamContent class. Represents content based on a stream
+description: com.aspose.html.net.StreamContent class. Represents content based on a stream
 type: docs
 weight: 4100
 url: /java/com.aspose.html.net/streamcontent/
@@ -38,5 +38,5 @@ public class StreamContent : Content
 ### See Also
 
 * class [Content](../content/)
-* package [com.aspose.html.Net](../../com.aspose.html.net/)
+* package [com.aspose.html.net](../../com.aspose.html.net/)
 * package [Aspose.HTML](../../)

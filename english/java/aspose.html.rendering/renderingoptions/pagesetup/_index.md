@@ -22,5 +22,5 @@ The page setup.
 
 * class [PageSetup](../../pagesetup/)
 * class [RenderingOptions](../)
-* package [com.aspose.html.Rendering](../../renderingoptions/)
+* package [com.aspose.html.rendering](../../renderingoptions/)
 * package [Aspose.HTML](../../../)

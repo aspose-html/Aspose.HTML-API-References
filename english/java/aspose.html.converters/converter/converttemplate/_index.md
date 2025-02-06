@@ -40,9 +40,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form skeleton html source file path
       var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -86,7 +86,7 @@ import com.aspose.html.Converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -125,9 +125,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form skeleton html source Url
       var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -165,7 +165,7 @@ import com.aspose.html.Converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -205,9 +205,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form skeleton html source Url
       var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -241,7 +241,7 @@ import com.aspose.html.Converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -280,9 +280,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form skeleton html source file path
       var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -314,7 +314,7 @@ import com.aspose.html.Converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -354,9 +354,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form skeleton html source file path
       var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -389,7 +389,7 @@ import com.aspose.html.Converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -429,9 +429,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
 	  // Form inline source content as template
       String templateContent =
@@ -495,7 +495,7 @@ Below is sample data file to merge with source
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -536,9 +536,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
    // Form inline source content as template
    String templateContent =
@@ -610,7 +610,7 @@ Below is data file to merge with source as template
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -652,9 +652,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form skeleton html source file path
       var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -699,7 +699,7 @@ import com.aspose.html.Converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -740,9 +740,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form Url to skeleton html source file
       var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -780,7 +780,7 @@ import com.aspose.html.Converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -823,9 +823,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form Url to skeleton html source file
       var sourceUrl = new Url(Path.Combine(InputFolder, "source.html"));
@@ -864,7 +864,7 @@ import com.aspose.html.Converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -906,9 +906,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form skeleton html source file path
       var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -945,7 +945,7 @@ import com.aspose.html.Converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -988,9 +988,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form skeleton html source file path
       var sourcePath = Path.Combine(InputFolder, "source.html");
@@ -1028,7 +1028,7 @@ import com.aspose.html.Converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1071,9 +1071,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form inline source content as template
       String templateContent =
@@ -1119,7 +1119,7 @@ import com.aspose.html.Converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1163,9 +1163,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form inline source content as template
       String templateContent =
@@ -1216,5 +1216,5 @@ import com.aspose.html.Converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)

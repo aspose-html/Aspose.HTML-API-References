@@ -22,5 +22,5 @@ The [`ResourceHandlingOptions`](../../resourcehandlingoptions/) object.
 
 * class [ResourceHandlingOptions](../../resourcehandlingoptions/)
 * class [SaveOptions](../)
-* package [com.aspose.html.Saving](../../saveoptions/)
+* package [com.aspose.html.saving](../../saveoptions/)
 * package [Aspose.HTML](../../../)

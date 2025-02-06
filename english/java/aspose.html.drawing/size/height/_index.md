@@ -22,5 +22,5 @@ The vertical component of this [`Size`](../).
 
 * class [Length](../../length/)
 * class [Size](../)
-* package [com.aspose.html.Drawing](../../size/)
+* package [com.aspose.html.drawing](../../size/)
 * package [Aspose.HTML](../../../)

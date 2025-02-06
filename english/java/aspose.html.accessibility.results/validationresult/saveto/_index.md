@@ -23,7 +23,7 @@ public void SaveTo(TextWriter writer, ValidationResultSaveFormat format)
 
 * enum [ValidationResultSaveFormat](../../../com.aspose.html.accessibility.saving/validationresultsaveformat/)
 * class [ValidationResult](../)
-* package [com.aspose.html.Accessibility.Results](../../../com.aspose.html.accessibility.results/)
+* package [com.aspose.html.accessibility.results](../../../com.aspose.html.accessibility.results/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -43,5 +43,5 @@ public void SaveTo(TextWriter writer)
 ### See Also
 
 * class [ValidationResult](../)
-* package [com.aspose.html.Accessibility.Results](../../../com.aspose.html.accessibility.results/)
+* package [com.aspose.html.accessibility.results](../../../com.aspose.html.accessibility.results/)
 * package [Aspose.HTML](../../../)

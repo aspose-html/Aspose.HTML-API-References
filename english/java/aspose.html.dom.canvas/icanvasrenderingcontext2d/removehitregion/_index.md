@@ -21,5 +21,5 @@ public void RemoveHitRegion(String id)
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
 * package [Aspose.HTML](../../../)

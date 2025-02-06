@@ -1,7 +1,7 @@
 ---
 title: IDocumentEvent Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Events.IDocumentEvent interface. The DocumentEvent interface provides a mechanism by which the user can create an Event of a type supported by the implementation. It is expected that the DocumentEvent interface will be implemented on the same object which implements the Document interface in an implementation which supports the Event model
+description: com.aspose.html.dom.events.IDocumentEvent interface. The DocumentEvent interface provides a mechanism by which the user can create an Event of a type supported by the implementation. It is expected that the DocumentEvent interface will be implemented on the same object which implements the Document interface in an implementation which supports the Event model
 type: docs
 weight: 800
 url: /java/com.aspose.html.dom.events/idocumentevent/
@@ -26,5 +26,5 @@ It is expected that the interface will be implemented on the same object which i
 
 ### See Also
 
-* package [com.aspose.html.Dom.Events](../../com.aspose.html.dom.events/)
+* package [com.aspose.html.dom.events](../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../)

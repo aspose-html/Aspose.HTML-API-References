@@ -22,5 +22,5 @@ The URL resolver.
 
 * class [UrlResolver](../../../com.aspose.html.net/urlresolver/)
 * interface [INetworkService](../)
-* package [com.aspose.html.Services](../../inetworkservice/)
+* package [com.aspose.html.services](../../inetworkservice/)
 * package [Aspose.HTML](../../../)

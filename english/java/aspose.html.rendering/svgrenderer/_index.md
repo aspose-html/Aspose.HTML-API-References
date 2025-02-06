@@ -1,7 +1,7 @@
 ---
 title: SvgRenderer Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.SvgRenderer class. Represents SVG document renderer
+description: com.aspose.html.rendering.SvgRenderer class. Represents SVG document renderer
 type: docs
 weight: 4540
 url: /java/com.aspose.html.rendering/svgrenderer/
@@ -37,5 +37,5 @@ public class SvgRenderer : Renderer<SVGDocument>
 
 * class [SVGDocument](../../com.aspose.html.dom.svg/svgdocument/)
 * class [Renderer&lt;TDocument&gt;](../renderer-1/)
-* package [com.aspose.html.Rendering](../../com.aspose.html.rendering/)
+* package [com.aspose.html.rendering](../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../)

@@ -45,9 +45,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -81,7 +81,7 @@ import com.aspose.html.Converters;
 
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -127,9 +127,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -162,7 +162,7 @@ import com.aspose.html.Converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -203,9 +203,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -233,7 +233,7 @@ import com.aspose.html.Converters;
 ### See Also
 
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -276,9 +276,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -302,7 +302,7 @@ import com.aspose.html.Converters;
 
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -345,9 +345,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -371,7 +371,7 @@ import com.aspose.html.Converters;
 
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -415,9 +415,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -442,7 +442,7 @@ import com.aspose.html.Converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -482,9 +482,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -503,7 +503,7 @@ import com.aspose.html.Converters;
 ### See Also
 
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -545,9 +545,9 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -567,5 +567,5 @@ import com.aspose.html.Converters;
 
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../converter/)
 * package [Aspose.HTML](../../../)

@@ -23,5 +23,5 @@ A DOMString representing the current CSS property value.
 ### See Also
 
 * class [CSSValue](../)
-* package [com.aspose.html.Dom.Css](../../cssvalue/)
+* package [com.aspose.html.dom.css](../../cssvalue/)
 * package [Aspose.HTML](../../../)

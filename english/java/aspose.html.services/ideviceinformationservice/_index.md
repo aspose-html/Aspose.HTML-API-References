@@ -1,7 +1,7 @@
 ---
 title: IDeviceInformationService Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Services.IDeviceInformationService interface. An interface that is described an environment in which Document is presented to the user
+description: com.aspose.html.services.IDeviceInformationService interface. An interface that is described an environment in which Document is presented to the user
 type: docs
 weight: 4740
 url: /java/com.aspose.html.services/ideviceinformationservice/
@@ -29,5 +29,5 @@ public interface IDeviceInformationService
 
 ### See Also
 
-* package [com.aspose.html.Services](../../com.aspose.html.services/)
+* package [com.aspose.html.services](../../com.aspose.html.services/)
 * package [Aspose.HTML](../../)

@@ -22,5 +22,5 @@ The [`TextOptions`](../../textoptions/) object.
 
 * class [TextOptions](../../textoptions/)
 * class [ImageRenderingOptions](../)
-* package [com.aspose.html.Rendering.Image](../../imagerenderingoptions/)
+* package [com.aspose.html.rendering.image](../../imagerenderingoptions/)
 * package [Aspose.HTML](../../../)

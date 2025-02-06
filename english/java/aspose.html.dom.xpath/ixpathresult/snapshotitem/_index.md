@@ -32,5 +32,5 @@ The node at the `index`th position in the `NodeList`, or `null` if that is not a
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [IXPathResult](../)
-* package [com.aspose.html.Dom.XPath](../../ixpathresult/)
+* package [com.aspose.html.dom.xpath](../../ixpathresult/)
 * package [Aspose.HTML](../../../)

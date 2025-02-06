@@ -18,5 +18,5 @@ public static readonly Action<IMarkdownParserBuilder> DefaultConfig;
 
 * interface [IMarkdownParserBuilder](../../imarkdownparserbuilder/)
 * class [MarkdownParser](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../markdownparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../markdownparser/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The name of the type.
 ### See Also
 
 * class [TypeInfo](../)
-* package [com.aspose.html.Dom](../../typeinfo/)
+* package [com.aspose.html.dom](../../typeinfo/)
 * package [Aspose.HTML](../../../)

@@ -26,5 +26,5 @@ A stand-alone, parentless SVGPathSegLinetoVerticalRel object.
 
 * class [SVGPathSegLinetoVerticalRel](../../../com.aspose.html.dom.svg.paths/svgpathseglinetoverticalrel/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../svgpathelement/)
 * package [Aspose.HTML](../../../)

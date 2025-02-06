@@ -1,7 +1,7 @@
 ---
 title: PdfSaveOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Saving.PdfSaveOptions class. Specific data class provides few properties to manage conversion result. For example PageSetup specifies page characteristics. Refer to documentation article
+description: com.aspose.html.saving.PdfSaveOptions class. Specific data class provides few properties to manage conversion result. For example PageSetup specifies page characteristics. Refer to documentation article
 type: docs
 weight: 4680
 url: /java/com.aspose.html.saving/pdfsaveoptions/
@@ -48,8 +48,8 @@ You can find complete examples and data files on [GitHub](https://github.com/com
 
 ```java
 import com.aspose.html;
-import com.aspose.html.Converters;
-import com.aspose.html.Saving;
+import com.aspose.html.converters;
+import com.aspose.html.saving;
 import System;
 ...
  	 // Prepare a path to a source HTML file
@@ -70,7 +70,7 @@ import System;
         BackgroundColor = Color.AliceBlue,
         JpegQuality = 100
       };
-      options.PageSetup.AnyPage = new Page(new com.aspose.html.Drawing.Size(600, 300), new Margin(20, 10, 10, 10));      
+      options.PageSetup.AnyPage = new Page(new com.aspose.html.drawing.Size(600, 300), new Margin(20, 10, 10, 10));      
 
       // Convert HTML to PDF
       Converter.ConvertHTML(document, options, savePath);
@@ -79,5 +79,5 @@ import System;
 ### See Also
 
 * class [PdfRenderingOptions](../../com.aspose.html.rendering.pdf/pdfrenderingoptions/)
-* package [com.aspose.html.Saving](../../com.aspose.html.saving/)
+* package [com.aspose.html.saving](../../com.aspose.html.saving/)
 * package [Aspose.HTML](../../)

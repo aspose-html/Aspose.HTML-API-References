@@ -21,5 +21,5 @@ An Array. A list of numbers that specifies distances to alternately draw a line 
 ### See Also
 
 * interface [ICanvasDrawingStyles](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasdrawingstyles/)
+* package [com.aspose.html.dom.canvas](../../icanvasdrawingstyles/)
 * package [Aspose.HTML](../../../)

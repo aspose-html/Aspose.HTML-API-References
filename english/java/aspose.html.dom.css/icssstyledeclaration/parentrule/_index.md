@@ -22,5 +22,5 @@ The CSS rule that contains this declaration block or null if this [`CSSStyleDecl
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSStyleDeclaration](../)
-* package [com.aspose.html.Dom.Css](../../icssstyledeclaration/)
+* package [com.aspose.html.dom.css](../../icssstyledeclaration/)
 * package [Aspose.HTML](../../../)

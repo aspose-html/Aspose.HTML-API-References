@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [OrderedListSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../orderedlistsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../orderedlistsyntaxnode/)
 * package [Aspose.HTML](../../../)

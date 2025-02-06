@@ -25,5 +25,5 @@ Opening the document with the correct owner password (assuming it is not the sam
 ### See Also
 
 * class [PdfEncryptionInfo](../)
-* package [com.aspose.html.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
+* package [com.aspose.html.rendering.pdf.encryption](../../pdfencryptioninfo/)
 * package [Aspose.HTML](../../../)

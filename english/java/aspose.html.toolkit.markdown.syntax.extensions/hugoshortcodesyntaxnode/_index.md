@@ -1,7 +1,7 @@
 ---
 title: HugoShortCodeSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Extensions.HugoShortCodeSyntaxNode class. Defines the HugoShortCodeSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.extensions.HugoShortCodeSyntaxNode class. Defines the HugoShortCodeSyntaxNode
 type: docs
 weight: 4920
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/
@@ -48,5 +48,5 @@ public class HugoShortCodeSyntaxNode : InlineContainerSyntaxNode
 ### See Also
 
 * class [InlineContainerSyntaxNode](../../com.aspose.html.toolkit.markdown.syntax/inlinecontainersyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../com.aspose.html.toolkit.markdown.syntax.extensions/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../)

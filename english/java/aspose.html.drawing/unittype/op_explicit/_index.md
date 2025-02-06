@@ -15,5 +15,5 @@ public static explicit operator String(UnitType value)
 ### See Also
 
 * class [UnitType](../)
-* package [com.aspose.html.Drawing](../../unittype/)
+* package [com.aspose.html.drawing](../../unittype/)
 * package [Aspose.HTML](../../../)

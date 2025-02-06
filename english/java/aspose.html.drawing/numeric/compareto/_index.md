@@ -32,5 +32,5 @@ A value that indicates the relative order of the objects being compared.
 ### See Also
 
 * class [Numeric](../)
-* package [com.aspose.html.Drawing](../../numeric/)
+* package [com.aspose.html.drawing](../../numeric/)
 * package [Aspose.HTML](../../../)

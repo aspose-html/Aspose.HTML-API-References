@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* package [com.aspose.html.IO](../../filecreatestreamprovider/)
+* package [com.aspose.html.io](../../filecreatestreamprovider/)
 * package [Aspose.HTML](../../../)

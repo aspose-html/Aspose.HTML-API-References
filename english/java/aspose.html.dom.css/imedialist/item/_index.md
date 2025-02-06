@@ -25,5 +25,5 @@ An integer which is the index of the item in the collection to be returned.
 ### See Also
 
 * interface [IMediaList](../)
-* package [com.aspose.html.Dom.Css](../../imedialist/)
+* package [com.aspose.html.dom.css](../../imedialist/)
 * package [Aspose.HTML](../../../)

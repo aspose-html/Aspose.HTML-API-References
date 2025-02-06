@@ -17,5 +17,5 @@ public const ushort CSS_REM;
 ### See Also
 
 * class [CSSPrimitiveValue](../)
-* package [com.aspose.html.Dom.Css](../../cssprimitivevalue/)
+* package [com.aspose.html.dom.css](../../cssprimitivevalue/)
 * package [Aspose.HTML](../../../)

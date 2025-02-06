@@ -25,7 +25,7 @@ public void Render(IDevice device, TimeSpan timeout, params Document[] documents
 * interface [IDevice](../../idevice/)
 * class [Document](../../../com.aspose.html.dom/document/)
 * class [HtmlRenderer](../)
-* package [com.aspose.html.Rendering](../../htmlrenderer/)
+* package [com.aspose.html.rendering](../../htmlrenderer/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -50,5 +50,5 @@ public void Render(IDevice device, CancellationToken cancellationToken,
 * interface [IDevice](../../idevice/)
 * class [Document](../../../com.aspose.html.dom/document/)
 * class [HtmlRenderer](../)
-* package [com.aspose.html.Rendering](../../htmlrenderer/)
+* package [com.aspose.html.rendering](../../htmlrenderer/)
 * package [Aspose.HTML](../../../)

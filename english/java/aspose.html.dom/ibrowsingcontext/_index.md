@@ -1,7 +1,7 @@
 ---
 title: IBrowsingContext Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.IBrowsingContext interface. A browsing context is an environment in which Document objects are presented to the user
+description: com.aspose.html.dom.IBrowsingContext interface. A browsing context is an environment in which Document objects are presented to the user
 type: docs
 weight: 880
 url: /java/com.aspose.html.dom/ibrowsingcontext/
@@ -27,5 +27,5 @@ public interface IBrowsingContext : IDisposable, IServiceProvider
 
 ### See Also
 
-* package [com.aspose.html.Dom](../../com.aspose.html.dom/)
+* package [com.aspose.html.dom](../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../)

@@ -1,7 +1,7 @@
 ---
 title: XpsRenderingOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Xps.XpsRenderingOptions class. Represents rendering options for XpsDevice
+description: com.aspose.html.rendering.xps.XpsRenderingOptions class. Represents rendering options for XpsDevice
 type: docs
 weight: 4580
 url: /java/com.aspose.html.rendering.xps/xpsrenderingoptions/
@@ -36,5 +36,5 @@ public class XpsRenderingOptions : RenderingOptions
 ### See Also
 
 * class [RenderingOptions](../../com.aspose.html.rendering/renderingoptions/)
-* package [com.aspose.html.Rendering.Xps](../../com.aspose.html.rendering.xps/)
+* package [com.aspose.html.rendering.xps](../../com.aspose.html.rendering.xps/)
 * package [Aspose.HTML](../../)

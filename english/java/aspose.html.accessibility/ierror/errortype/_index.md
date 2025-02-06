@@ -17,5 +17,5 @@ public ushort ErrorType { get; }
 ### See Also
 
 * interface [IError](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

@@ -1,7 +1,7 @@
 ---
 title: Criterion Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Accessibility.Criterion class. Verifiable success criteria are provided for each recommendation so WCAG 2.0 can be applied in areas where compliance testing is required. https//www.w3.org/WAI/WCAG21/Understanding/understanding-techniques
+description: com.aspose.html.accessibility.Criterion class. Verifiable success criteria are provided for each recommendation so WCAG 2.0 can be applied in areas where compliance testing is required. https//www.w3.org/WAI/WCAG21/Understanding/understanding-techniques
 type: docs
 weight: 30
 url: /java/com.aspose.html.accessibility/criterion/
@@ -28,5 +28,5 @@ public class Criterion : Rule
 ### See Also
 
 * class [Rule](../rule/)
-* package [com.aspose.html.Accessibility](../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../)

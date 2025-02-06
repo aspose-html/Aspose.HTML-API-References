@@ -23,5 +23,5 @@ unicode-bidi property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../icss2properties/)
 * package [Aspose.HTML](../../../)

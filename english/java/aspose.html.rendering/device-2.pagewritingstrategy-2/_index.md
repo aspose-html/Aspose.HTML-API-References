@@ -1,7 +1,7 @@
 ---
 title: DeviceTGraphicContextTRenderingOptions.PageWritingStrategyTGraphicContextTRenderingOptions Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Device2PageWritingStrategyTGraphicContextTRenderingOptions enum. Specifies types of strategies for writing pages into output streamstreams
+description: com.aspose.html.rendering.Device2PageWritingStrategyTGraphicContextTRenderingOptions enum. Specifies types of strategies for writing pages into output streamstreams
 type: docs
 weight: 4190
 url: /java/com.aspose.html.rendering/device-2.pagewritingstrategy-2/
@@ -28,5 +28,5 @@ public enum PageWritingStrategy<TGraphicContext, TRenderingOptions>
 * class [GraphicContext](../graphiccontext/)
 * class [RenderingOptions](../renderingoptions/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../device-2/)
-* package [com.aspose.html.Rendering](../../com.aspose.html.rendering/)
+* package [com.aspose.html.rendering](../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../)

@@ -28,5 +28,5 @@ A new instance of form element
 
 * class [FormElement](../../formelement/)
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../formeditor/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public MarkdownSaveOptions()
 ### See Also
 
 * class [MarkdownSaveOptions](../)
-* package [com.aspose.html.Saving](../../markdownsaveoptions/)
+* package [com.aspose.html.saving](../../markdownsaveoptions/)
 * package [Aspose.HTML](../../../)

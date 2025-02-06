@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [Renderer](../)
-* package [com.aspose.html.Rendering](../../renderer/)
+* package [com.aspose.html.rendering](../../renderer/)
 * package [Aspose.HTML](../../../)

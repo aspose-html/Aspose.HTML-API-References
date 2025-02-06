@@ -27,5 +27,5 @@ The zoom and pan.
 ### See Also
 
 * class [SVGViewElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgviewelement/)
+* package [com.aspose.html.dom.svg](../../svgviewelement/)
 * package [Aspose.HTML](../../../)

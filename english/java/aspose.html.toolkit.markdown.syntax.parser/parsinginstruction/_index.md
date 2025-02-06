@@ -1,7 +1,7 @@
 ---
 title: ParsingInstruction Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.ParsingInstruction enum. The ParsingInstruction enum
+description: com.aspose.html.toolkit.markdown.syntax.parser.ParsingInstruction enum. The ParsingInstruction enum
 type: docs
 weight: 5500
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/parsinginstruction/
@@ -26,5 +26,5 @@ public enum ParsingInstruction
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../)

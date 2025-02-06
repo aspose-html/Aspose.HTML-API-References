@@ -22,5 +22,5 @@ The attribute ‘y’ of the given ‘rect’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgrectelement/)
+* package [com.aspose.html.dom.svg](../../svgrectelement/)
 * package [Aspose.HTML](../../../)

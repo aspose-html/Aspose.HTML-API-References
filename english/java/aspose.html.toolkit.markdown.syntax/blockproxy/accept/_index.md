@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [BlockProxy](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../blockproxy/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../blockproxy/)
 * package [Aspose.HTML](../../../)

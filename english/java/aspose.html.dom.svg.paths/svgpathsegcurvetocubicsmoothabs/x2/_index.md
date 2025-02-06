@@ -27,5 +27,5 @@ The absolute X coordinate.
 ### See Also
 
 * class [SVGPathSegCurvetoCubicSmoothAbs](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathsegcurvetocubicsmoothabs/)
+* package [com.aspose.html.dom.svg.paths](../../svgpathsegcurvetocubicsmoothabs/)
 * package [Aspose.HTML](../../../)

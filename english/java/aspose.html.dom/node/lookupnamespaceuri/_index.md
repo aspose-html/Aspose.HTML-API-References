@@ -25,5 +25,5 @@ A String containing the package URI corresponding to the prefix. If the prefix i
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../node/)
 * package [Aspose.HTML](../../../)

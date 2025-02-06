@@ -26,5 +26,5 @@ The [`Text`](../../text/).
 
 * class [Text](../../text/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../document/)
 * package [Aspose.HTML](../../../)

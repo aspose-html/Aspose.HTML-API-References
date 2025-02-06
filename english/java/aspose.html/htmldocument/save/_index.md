@@ -100,8 +100,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 ```java
 import System;
 import com.aspose.html;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;
+import com.aspose.html.io;
+import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -314,7 +314,7 @@ You can download the complete examples and data files from [GitHub](https://gith
 import System;
 import System.IO;
 import com.aspose.html;
-import com.aspose.html.Saving;
+import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -451,7 +451,7 @@ You can download the complete examples and data files from [GitHub](https://gith
 import System;
 import System.IO;
 import com.aspose.html;
-import com.aspose.html.Saving;
+import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -515,8 +515,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 ```java
 import System;
 import com.aspose.html;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;
+import com.aspose.html.io;
+import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -538,7 +538,7 @@ import (var document = new HTMLDocument(inputHtmlPath))
 ```java
 import System;
 import System.IO;
-import com.aspose.html.IO;
+import com.aspose.html.io;
 ...
 class CustomOutputStorage : IOutputStorage
 {
@@ -639,7 +639,7 @@ You can download the complete examples and data files from [GitHub](https://gith
 import System;
 import System.IO;
 import com.aspose.html;
-import com.aspose.html.Saving;
+import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -713,7 +713,7 @@ You can download the complete examples and data files from [GitHub](https://gith
 import System;
 import System.IO;
 import com.aspose.html;
-import com.aspose.html.Saving;
+import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -781,8 +781,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 ```java
 import System;
 import com.aspose.html;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;
+import com.aspose.html.io;
+import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -904,7 +904,7 @@ You can download the complete examples and data files from [GitHub](https://gith
 import System;
 import System.IO;
 import com.aspose.html;
-import com.aspose.html.Saving;
+import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -976,7 +976,7 @@ You can download the complete examples and data files from [GitHub](https://gith
 import System;
 import System.IO;
 import com.aspose.html;
-import com.aspose.html.Saving;
+import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -1042,8 +1042,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 ```java
 import System;
 import com.aspose.html;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;
+import com.aspose.html.io;
+import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -1161,7 +1161,7 @@ You can download the complete examples and data files from [GitHub](https://gith
 import System;
 import System.IO;
 import com.aspose.html;
-import com.aspose.html.Saving;
+import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -1233,7 +1233,7 @@ You can download the complete examples and data files from [GitHub](https://gith
 import System;
 import System.IO;
 import com.aspose.html;
-import com.aspose.html.Saving;
+import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -1299,8 +1299,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 ```java
 import System;
 import com.aspose.html;
-import com.aspose.html.IO;
-import com.aspose.html.Saving;
+import com.aspose.html.io;
+import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {

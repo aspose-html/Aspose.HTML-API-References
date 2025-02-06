@@ -1,7 +1,7 @@
 ---
 title: RenderingOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.RenderingOptions class. Represents rendering options
+description: com.aspose.html.rendering.RenderingOptions class. Represents rendering options
 type: docs
 weight: 4530
 url: /java/com.aspose.html.rendering/renderingoptions/
@@ -35,5 +35,5 @@ public class RenderingOptions
 
 ### See Also
 
-* package [com.aspose.html.Rendering](../../com.aspose.html.rendering/)
+* package [com.aspose.html.rendering](../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../)

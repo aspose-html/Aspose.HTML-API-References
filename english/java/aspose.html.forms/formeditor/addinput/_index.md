@@ -26,7 +26,7 @@ Returns a new created [`InputElement`](../../inputelement/).
 
 * class [InputElement](../../inputelement/)
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../formeditor/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -53,5 +53,5 @@ Returns a new created [`InputElement`](../../inputelement/).
 * class [InputElement](../../inputelement/)
 * enum [InputElementType](../../inputelementtype/)
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../formeditor/)
 * package [Aspose.HTML](../../../)

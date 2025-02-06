@@ -29,5 +29,5 @@ Returns document.
 * class [Document](../../document/)
 * class [DocumentType](../../documenttype/)
 * interface [IDOMImplementation](../)
-* package [com.aspose.html.Dom](../../idomimplementation/)
+* package [com.aspose.html.dom](../../idomimplementation/)
 * package [Aspose.HTML](../../../)

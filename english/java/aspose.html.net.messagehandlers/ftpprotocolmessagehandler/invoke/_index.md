@@ -22,5 +22,5 @@ public void Invoke(INetworkOperationContext context)
 
 * interface [INetworkOperationContext](../../../com.aspose.html.net/inetworkoperationcontext/)
 * class [FtpProtocolMessageHandler](../)
-* package [com.aspose.html.Net.MessageHandlers](../../ftpprotocolmessagehandler/)
+* package [com.aspose.html.net.messagehandlers](../../ftpprotocolmessagehandler/)
 * package [Aspose.HTML](../../../)

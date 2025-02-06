@@ -1,12 +1,12 @@
 ---
-title: com.aspose.html.Net.MessageHandlers
+title: com.aspose.html.net.messagehandlers
 second_title: Aspose.HTML for Java API Reference
-description: The com.aspose.html.Net.MessageHandlers package is presented by classes - message handlers of different protocols
+description: The com.aspose.html.net.messagehandlers package is presented by classes - message handlers of different protocols
 type: docs
 weight: 290
 url: /java/com.aspose.html.net.messagehandlers/
 ---
-The **com.aspose.html.Net.MessageHandlers** package is presented by classes - message handlers of different protocols.
+The **com.aspose.html.net.messagehandlers** package is presented by classes - message handlers of different protocols.
 
 ## Classes
 

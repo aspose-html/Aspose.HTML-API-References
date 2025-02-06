@@ -1,7 +1,7 @@
 ---
 title: MarkdownParser Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.MarkdownParser class. Represents an MarkDown format document parser
+description: com.aspose.html.toolkit.markdown.syntax.parser.MarkdownParser class. Represents an MarkDown format document parser
 type: docs
 weight: 5480
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownparser/
@@ -39,5 +39,5 @@ public class MarkdownParser
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../)

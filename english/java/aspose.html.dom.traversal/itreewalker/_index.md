@@ -1,7 +1,7 @@
 ---
 title: ITreeWalker Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Traversal.ITreeWalker interface. TreeWalker objects are used to navigate a document tree or subtree using the view of the document defined by their whatToShow flags and filter if any. Any function which performs navigation using a TreeWalker will automatically support any view defined by a TreeWalker
+description: com.aspose.html.dom.traversal.ITreeWalker interface. TreeWalker objects are used to navigate a document tree or subtree using the view of the document defined by their whatToShow flags and filter if any. Any function which performs navigation using a TreeWalker will automatically support any view defined by a TreeWalker
 type: docs
 weight: 2530
 url: /java/com.aspose.html.dom.traversal/itreewalker/
@@ -40,5 +40,5 @@ public interface ITreeWalker : ITraversal
 ### See Also
 
 * interface [ITraversal](../itraversal/)
-* package [com.aspose.html.Dom.Traversal](../../com.aspose.html.dom.traversal/)
+* package [com.aspose.html.dom.traversal](../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../)

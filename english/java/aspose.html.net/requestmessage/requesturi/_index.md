@@ -22,5 +22,5 @@ The request URI.
 
 * class [Url](../../../com.aspose.html/url/)
 * class [RequestMessage](../)
-* package [com.aspose.html.Net](../../requestmessage/)
+* package [com.aspose.html.net](../../requestmessage/)
 * package [Aspose.HTML](../../../)

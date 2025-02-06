@@ -18,5 +18,5 @@ public SourceText Source { get; }
 
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * class [DelimiterRun](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../delimiterrun/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../delimiterrun/)
 * package [Aspose.HTML](../../../)

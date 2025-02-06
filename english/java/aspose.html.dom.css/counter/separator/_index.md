@@ -21,5 +21,5 @@ The counter separator.
 ### See Also
 
 * class [Counter](../)
-* package [com.aspose.html.Dom.Css](../../counter/)
+* package [com.aspose.html.dom.css](../../counter/)
 * package [Aspose.HTML](../../../)

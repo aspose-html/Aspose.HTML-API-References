@@ -1,7 +1,7 @@
 ---
 title: HTMLCollection Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Collections.HTMLCollection class. The HTMLCollection represents a generic collection of Element
+description: com.aspose.html.collections.HTMLCollection class. The HTMLCollection represents a generic collection of Element
 type: docs
 weight: 30
 url: /java/com.aspose.html.collections/htmlcollection/
@@ -33,5 +33,5 @@ public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
 
 * class [DOMObject](../../com.aspose.html.dom/domobject/)
 * class [Element](../../com.aspose.html.dom/element/)
-* package [com.aspose.html.Collections](../../com.aspose.html.collections/)
+* package [com.aspose.html.collections](../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../)

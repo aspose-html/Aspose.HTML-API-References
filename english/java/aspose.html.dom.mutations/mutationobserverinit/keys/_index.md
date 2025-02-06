@@ -21,5 +21,5 @@ A collection containing the keys.
 ### See Also
 
 * class [MutationObserverInit](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserverinit/)
+* package [com.aspose.html.dom.mutations](../../mutationobserverinit/)
 * package [Aspose.HTML](../../../)

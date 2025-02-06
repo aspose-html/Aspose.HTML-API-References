@@ -22,5 +22,5 @@ The attribute ‘elevation’ of the given ‘feDistantLight’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEDistantLightElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfedistantlightelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfedistantlightelement/)
 * package [Aspose.HTML](../../../)

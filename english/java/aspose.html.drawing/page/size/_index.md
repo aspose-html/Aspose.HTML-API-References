@@ -22,5 +22,5 @@ The size.
 
 * class [Size](../../size/)
 * class [Page](../)
-* package [com.aspose.html.Drawing](../../page/)
+* package [com.aspose.html.drawing](../../page/)
 * package [Aspose.HTML](../../../)

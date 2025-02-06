@@ -22,5 +22,5 @@ The attribute ‘height’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGFESpecularLightingElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfespecularlightingelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfespecularlightingelement/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public GfmSyntaxExtension()
 ### See Also
 
 * class [GfmSyntaxExtension](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser.Extensions.GFM](../../gfmsyntaxextension/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser.extensions.gfm](../../gfmsyntaxextension/)
 * package [Aspose.HTML](../../../)

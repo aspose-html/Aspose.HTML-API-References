@@ -1,7 +1,7 @@
 ---
 title: LineParsingInstruction Struct
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.LineParsingInstruction struct. Defines the LineParsingInstruction
+description: com.aspose.html.toolkit.markdown.syntax.parser.LineParsingInstruction struct. Defines the LineParsingInstruction
 type: docs
 weight: 5450
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/
@@ -44,5 +44,5 @@ public struct LineParsingInstruction : IEquatable<LineParsingInstruction>
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../)

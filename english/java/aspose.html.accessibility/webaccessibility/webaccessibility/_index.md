@@ -17,5 +17,5 @@ public WebAccessibility()
 ### See Also
 
 * class [WebAccessibility](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

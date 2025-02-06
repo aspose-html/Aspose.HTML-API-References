@@ -18,5 +18,5 @@ public Element OwnerElement { get; }
 
 * class [Element](../../element/)
 * class [Attr](../)
-* package [com.aspose.html.Dom](../../attr/)
+* package [com.aspose.html.dom](../../attr/)
 * package [Aspose.HTML](../../../)

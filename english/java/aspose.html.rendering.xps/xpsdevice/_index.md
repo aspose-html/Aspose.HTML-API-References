@@ -1,7 +1,7 @@
 ---
 title: XpsDevice Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Xps.XpsDevice class. Represents rendering to a xps document
+description: com.aspose.html.rendering.xps.XpsDevice class. Represents rendering to a xps document
 type: docs
 weight: 4560
 url: /java/com.aspose.html.rendering.xps/xpsdevice/
@@ -70,5 +70,5 @@ public class XpsDevice : Device<XpsGraphicContext, XpsRenderingOptions>
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../../com.aspose.html.rendering/device-2/)
 * class [XpsGraphicContext](../xpsdevice.xpsgraphiccontext/)
 * class [XpsRenderingOptions](../xpsrenderingoptions/)
-* package [com.aspose.html.Rendering.Xps](../../com.aspose.html.rendering.xps/)
+* package [com.aspose.html.rendering.xps](../../com.aspose.html.rendering.xps/)
 * package [Aspose.HTML](../../)

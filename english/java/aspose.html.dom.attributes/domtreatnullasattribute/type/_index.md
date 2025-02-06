@@ -21,5 +21,5 @@ The type.
 ### See Also
 
 * class [DOMTreatNullAsAttribute](../)
-* package [com.aspose.html.Dom.Attributes](../../domtreatnullasattribute/)
+* package [com.aspose.html.dom.attributes](../../domtreatnullasattribute/)
 * package [Aspose.HTML](../../../)

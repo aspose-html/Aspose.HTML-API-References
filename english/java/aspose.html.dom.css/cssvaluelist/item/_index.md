@@ -28,5 +28,5 @@ An unsigned long representing the index of the CSS value within the collection.
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* package [com.aspose.html.Dom.Css](../../cssvaluelist/)
+* package [com.aspose.html.dom.css](../../cssvaluelist/)
 * package [Aspose.HTML](../../../)

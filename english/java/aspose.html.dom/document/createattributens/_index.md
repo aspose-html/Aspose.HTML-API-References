@@ -8,7 +8,7 @@ url: /java/com.aspose.html.dom/document/createattributens/
 ---
 ## Document.CreateAttributeNS method
 
-The Document.createAttribute() method creates a new attribute node, and returns it. The object created a node implementing the [Attr](T:com.aspose.html.Dom.Attr) interface. The DOM does not enforce what sort of attributes can be added to a particular element in this manner.
+The Document.createAttribute() method creates a new attribute node, and returns it. The object created a node implementing the [Attr](T:com.aspose.html.dom.Attr) interface. The DOM does not enforce what sort of attributes can be added to a particular element in this manner.
 
 ```java
 public Attr CreateAttributeNS(String packageURI, String qualifiedName)
@@ -27,5 +27,5 @@ The [`Attr`](../../attr/).
 
 * class [Attr](../../attr/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../document/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The attribute ‘cy’ of the given ‘radialGradient’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgradialgradientelement/)
+* package [com.aspose.html.dom.svg](../../svgradialgradientelement/)
 * package [Aspose.HTML](../../../)

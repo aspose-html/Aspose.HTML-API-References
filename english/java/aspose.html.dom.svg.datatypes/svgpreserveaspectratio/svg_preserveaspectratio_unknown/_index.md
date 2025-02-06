@@ -17,5 +17,5 @@ public const ushort SVG_PRESERVEASPECTRATIO_UNKNOWN;
 ### See Also
 
 * class [SVGPreserveAspectRatio](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgpreserveaspectratio/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgpreserveaspectratio/)
 * package [Aspose.HTML](../../../)

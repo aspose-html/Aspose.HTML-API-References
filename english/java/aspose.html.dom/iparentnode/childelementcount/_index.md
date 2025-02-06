@@ -21,5 +21,5 @@ The child element count.
 ### See Also
 
 * interface [IParentNode](../)
-* package [com.aspose.html.Dom](../../iparentnode/)
+* package [com.aspose.html.dom](../../iparentnode/)
 * package [Aspose.HTML](../../../)

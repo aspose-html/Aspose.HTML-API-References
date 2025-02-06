@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [SVGValueType](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgvaluetype/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgvaluetype/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The node value.
 ### See Also
 
 * class [ProcessingInstruction](../)
-* package [com.aspose.html.Dom](../../processinginstruction/)
+* package [com.aspose.html.dom](../../processinginstruction/)
 * package [Aspose.HTML](../../../)

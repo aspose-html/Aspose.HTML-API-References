@@ -17,5 +17,5 @@ public PdfSaveOptions()
 ### See Also
 
 * class [PdfSaveOptions](../)
-* package [com.aspose.html.Saving](../../pdfsaveoptions/)
+* package [com.aspose.html.saving](../../pdfsaveoptions/)
 * package [Aspose.HTML](../../../)

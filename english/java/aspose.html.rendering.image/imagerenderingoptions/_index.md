@@ -1,7 +1,7 @@
 ---
 title: ImageRenderingOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Image.ImageRenderingOptions class. Represents rendering options for ImageDevice. This options is used to specify output image format compression resolution etc
+description: com.aspose.html.rendering.image.ImageRenderingOptions class. Represents rendering options for ImageDevice. This options is used to specify output image format compression resolution etc
 type: docs
 weight: 4360
 url: /java/com.aspose.html.rendering.image/imagerenderingoptions/
@@ -44,5 +44,5 @@ public class ImageRenderingOptions : RenderingOptions
 ### See Also
 
 * class [RenderingOptions](../../com.aspose.html.rendering/renderingoptions/)
-* package [com.aspose.html.Rendering.Image](../../com.aspose.html.rendering.image/)
+* package [com.aspose.html.rendering.image](../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../)

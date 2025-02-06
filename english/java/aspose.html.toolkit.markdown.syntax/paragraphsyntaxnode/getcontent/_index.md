@@ -22,5 +22,5 @@ The InlineContainer syntax.
 
 * class [NodeList](../../nodelist/)
 * class [ParagraphSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../paragraphsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../paragraphsyntaxnode/)
 * package [Aspose.HTML](../../../)

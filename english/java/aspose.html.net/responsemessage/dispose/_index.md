@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [ResponseMessage](../)
-* package [com.aspose.html.Net](../../responsemessage/)
+* package [com.aspose.html.net](../../responsemessage/)
 * package [Aspose.HTML](../../../)

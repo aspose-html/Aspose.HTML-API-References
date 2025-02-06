@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElement Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.SVGSVGElement class. A key interface definition is the SVGSVGElement interface which is the interface that corresponds to the svg element. This interface contains various miscellaneous commonly-used utility methods such as matrix operations and the ability to control the time of redraw on visual rendering devices
+description: com.aspose.html.dom.svg.SVGSVGElement class. A key interface definition is the SVGSVGElement interface which is the interface that corresponds to the svg element. This interface contains various miscellaneous commonly-used utility methods such as matrix operations and the ability to control the time of redraw on visual rendering devices
 type: docs
 weight: 2270
 url: /java/com.aspose.html.dom.svg/svgsvgelement/
@@ -82,8 +82,8 @@ public class SVGSVGElement : SVGGraphicsElement, IDocumentEvent, ISVGFitToViewBo
 | Name | Description |
 | --- | --- |
 | [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener) | The addEventListener() method of the [`EventTarget `](../../com.aspose.html.dom/eventtarget/)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
 | [animationsPaused](../../com.aspose.html.dom.svg/svgsvgelement/animationspaused/)() | Returns true if this SVG document fragment is in a paused state. |
 | [appendChild](../../com.aspose.html.dom/node/appendchild/)(Node) | The appendChild() method of the Node interface adds a node to the end of the list of children of a specified parent node. If the given child is a reference to an existing node in the document, appendChild() moves it from its current position to the new position (there is no requirement to remove the node from its parent node before appending it to some other node). |
 | [attachShadow](../../com.aspose.html.dom/element/attachshadow/)(ShadowRootMode) | Creates shadow root and attaches it to current element. |
@@ -155,5 +155,5 @@ public class SVGSVGElement : SVGGraphicsElement, IDocumentEvent, ISVGFitToViewBo
 * interface [IViewCSS](../../com.aspose.html.dom.css/iviewcss/)
 * interface [IDocumentCSS](../../com.aspose.html.dom.css/idocumentcss/)
 * interface [ISVGZoomAndPan](../isvgzoomandpan/)
-* package [com.aspose.html.Dom.Svg](../../com.aspose.html.dom.svg/)
+* package [com.aspose.html.dom.svg](../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../)

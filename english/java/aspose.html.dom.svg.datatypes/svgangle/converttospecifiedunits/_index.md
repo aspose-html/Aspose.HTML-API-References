@@ -28,5 +28,5 @@ public void ConvertToSpecifiedUnits(ushort unitType)
 ### See Also
 
 * class [SVGAngle](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgangle/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgangle/)
 * package [Aspose.HTML](../../../)

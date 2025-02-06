@@ -21,5 +21,5 @@ The String.
 ### See Also
 
 * struct [TextLine](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../textline/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../textline/)
 * package [Aspose.HTML](../../../)

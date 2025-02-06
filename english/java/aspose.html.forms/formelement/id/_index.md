@@ -21,5 +21,5 @@ The identifier.
 ### See Also
 
 * class [FormElement](../)
-* package [com.aspose.html.Forms](../../formelement/)
+* package [com.aspose.html.forms](../../formelement/)
 * package [Aspose.HTML](../../../)

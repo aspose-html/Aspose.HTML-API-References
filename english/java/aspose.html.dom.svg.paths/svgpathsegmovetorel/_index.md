@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegMovetoRel Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.Paths.SVGPathSegMovetoRel class. The SVGPathSegMovetoRel interface corresponds to a relative moveto m path data command
+description: com.aspose.html.dom.svg.paths.SVGPathSegMovetoRel class. The SVGPathSegMovetoRel interface corresponds to a relative moveto m path data command
 type: docs
 weight: 1900
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegmovetorel/
@@ -33,5 +33,5 @@ public class SVGPathSegMovetoRel : SVGPathSeg
 ### See Also
 
 * class [SVGPathSeg](../svgpathseg/)
-* package [com.aspose.html.Dom.Svg.Paths](../../com.aspose.html.dom.svg.paths/)
+* package [com.aspose.html.dom.svg.paths](../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../)

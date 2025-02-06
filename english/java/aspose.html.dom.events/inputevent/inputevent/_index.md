@@ -21,7 +21,7 @@ public InputEvent(String type)
 ### See Also
 
 * class [InputEvent](../)
-* package [com.aspose.html.Dom.Events](../../inputevent/)
+* package [com.aspose.html.dom.events](../../inputevent/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public InputEvent(String type, IDictionary<String, object> eventInitDict)
 ### See Also
 
 * class [InputEvent](../)
-* package [com.aspose.html.Dom.Events](../../inputevent/)
+* package [com.aspose.html.dom.events](../../inputevent/)
 * package [Aspose.HTML](../../../)

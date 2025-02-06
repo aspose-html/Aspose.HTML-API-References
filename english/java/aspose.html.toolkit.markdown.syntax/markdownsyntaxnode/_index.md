@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.MarkdownSyntaxNode class. Base implementation of the MarkdownSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.MarkdownSyntaxNode class. Base implementation of the MarkdownSyntaxNode
 type: docs
 weight: 5190
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/
@@ -44,5 +44,5 @@ public abstract class MarkdownSyntaxNode : IWritable
 ### See Also
 
 * interface [IWritable](../iwritable/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

@@ -1,7 +1,7 @@
 ---
 title: DocDevice.DocGraphicContext Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Doc.DocDeviceDocGraphicContext class. Holds current graphics control parameters for the DocDevice. These parameters define the global framework within which the graphics operators execute
+description: com.aspose.html.rendering.doc.DocDeviceDocGraphicContext class. Holds current graphics control parameters for the DocDevice. These parameters define the global framework within which the graphics operators execute
 type: docs
 weight: 4210
 url: /java/com.aspose.html.rendering.doc/docdevice.docgraphiccontext/
@@ -65,5 +65,5 @@ public class DocGraphicContext : GraphicContext
 
 * class [GraphicContext](../../com.aspose.html.rendering/graphiccontext/)
 * class [DocDevice](../docdevice/)
-* package [com.aspose.html.Rendering.Doc](../../com.aspose.html.rendering.doc/)
+* package [com.aspose.html.rendering.doc](../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../)

@@ -22,5 +22,5 @@ The attribute ‘slope’ of the given element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgcomponenttransferfunctionelement/)
+* package [com.aspose.html.dom.svg](../../svgcomponenttransferfunctionelement/)
 * package [Aspose.HTML](../../../)

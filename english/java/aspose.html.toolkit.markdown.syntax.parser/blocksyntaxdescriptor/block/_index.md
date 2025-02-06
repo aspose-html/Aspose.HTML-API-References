@@ -18,5 +18,5 @@ public BlockSyntaxNode Block { get; }
 
 * class [BlockSyntaxNode](../../../com.aspose.html.toolkit.markdown.syntax/blocksyntaxnode/)
 * class [BlockSyntaxDescriptor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../blocksyntaxdescriptor/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../blocksyntaxdescriptor/)
 * package [Aspose.HTML](../../../)

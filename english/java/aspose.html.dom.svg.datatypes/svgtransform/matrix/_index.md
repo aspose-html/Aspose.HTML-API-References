@@ -22,5 +22,5 @@ The matrix that represents this transformation.
 
 * class [SVGMatrix](../../svgmatrix/)
 * class [SVGTransform](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgtransform/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgtransform/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The request message.
 
 * class [RequestMessage](../../requestmessage/)
 * interface [INetworkOperationContext](../)
-* package [com.aspose.html.Net](../../inetworkoperationcontext/)
+* package [com.aspose.html.net](../../inetworkoperationcontext/)
 * package [Aspose.HTML](../../../)

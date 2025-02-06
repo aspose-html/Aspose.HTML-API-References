@@ -1,7 +1,7 @@
 ---
 title: IElementInit Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.IElementInit interface. This interface provides Element initialization info
+description: com.aspose.html.dom.IElementInit interface. This interface provides Element initialization info
 type: docs
 weight: 920
 url: /java/com.aspose.html.dom/ielementinit/
@@ -22,5 +22,5 @@ public interface IElementInit
 
 ### See Also
 
-* package [com.aspose.html.Dom](../../com.aspose.html.dom/)
+* package [com.aspose.html.dom](../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../)

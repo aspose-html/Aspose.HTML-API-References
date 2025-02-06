@@ -145,7 +145,7 @@ import (var document = new HTMLDocument("https://docs.aspose.com/html/net/workin
 
 Loads the HTML document from a URL with specified environment configuration settings.
 
-Note: In case if you pass a wrong URL that can’t be reached right at the moment, the library throws the [DOMException](T:com.aspose.html.Dom.DOMException) with specialized code ‘NetworkError’ to inform you that the selected resource can not be found.
+Note: In case if you pass a wrong URL that can’t be reached right at the moment, the library throws the [DOMException](T:com.aspose.html.dom.DOMException) with specialized code ‘NetworkError’ to inform you that the selected resource can not be found.
 
 ```java
 public HTMLDocument(Url url, Configuration configuration)
@@ -736,7 +736,7 @@ Reference:
 
 ## HTMLDocument(RequestMessage, Configuration) {#constructor_3}
 
-Creates an HTML document from the [RequestMessage](T:com.aspose.html.Net.RequestMessage) object.
+Creates an HTML document from the [RequestMessage](T:com.aspose.html.net.RequestMessage) object.
 
 ```java
 public HTMLDocument(RequestMessage request, Configuration configuration)
@@ -744,7 +744,7 @@ public HTMLDocument(RequestMessage request, Configuration configuration)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| request | RequestMessage | The request message that contains a [body](P:com.aspose.html.Net.RequestMessage.Content) with document content. |
+| request | RequestMessage | The request message that contains a [body](P:com.aspose.html.net.RequestMessage.Content) with document content. |
 | configuration | Configuration | The environment configuration such as scripts policy, custom user stylesheet, etc. |
 
 ## Remarks

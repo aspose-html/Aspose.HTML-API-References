@@ -32,5 +32,5 @@ Reference
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [IStyleSheet](../)
-* package [com.aspose.html.Dom.Css](../../istylesheet/)
+* package [com.aspose.html.dom.css](../../istylesheet/)
 * package [Aspose.HTML](../../../)

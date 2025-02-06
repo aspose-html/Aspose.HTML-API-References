@@ -25,5 +25,5 @@ A Natural colors (NCol) String
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../color/)
 * package [Aspose.HTML](../../../)

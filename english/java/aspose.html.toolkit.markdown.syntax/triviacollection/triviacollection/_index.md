@@ -17,5 +17,5 @@ public TriviaCollection()
 ### See Also
 
 * class [TriviaCollection](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../triviacollection/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../triviacollection/)
 * package [Aspose.HTML](../../../)

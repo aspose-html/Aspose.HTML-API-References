@@ -1,7 +1,7 @@
 ---
 title: TemplateContent Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Converters.TemplateContent enum. Content type identifier
+description: com.aspose.html.converters.TemplateContent enum. Content type identifier
 type: docs
 weight: 80
 url: /java/com.aspose.html.converters/templatecontent/
@@ -24,5 +24,5 @@ public enum TemplateContent
 
 ### See Also
 
-* package [com.aspose.html.Converters](../../com.aspose.html.converters/)
+* package [com.aspose.html.converters](../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../)

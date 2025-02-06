@@ -17,5 +17,5 @@ public ResponseHeaders()
 ### See Also
 
 * class [ResponseHeaders](../)
-* package [com.aspose.html.Net](../../responseheaders/)
+* package [com.aspose.html.net](../../responseheaders/)
 * package [Aspose.HTML](../../../)

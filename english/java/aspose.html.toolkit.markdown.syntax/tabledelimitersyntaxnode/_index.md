@@ -1,7 +1,7 @@
 ---
 title: TableDelimiterSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.TableDelimiterSyntaxNode class. Represent the table delimiter syntax node
+description: com.aspose.html.toolkit.markdown.syntax.TableDelimiterSyntaxNode class. Represent the table delimiter syntax node
 type: docs
 weight: 5570
 url: /java/com.aspose.html.toolkit.markdown.syntax/tabledelimitersyntaxnode/
@@ -44,5 +44,5 @@ public class TableDelimiterSyntaxNode : LeafBlockSyntaxNode
 ### See Also
 
 * class [LeafBlockSyntaxNode](../leafblocksyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

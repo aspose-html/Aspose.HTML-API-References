@@ -17,5 +17,5 @@ public SmoothingMode SmoothingMode { get; set; }
 ### See Also
 
 * class [ImageRenderingOptions](../)
-* package [com.aspose.html.Rendering.Image](../../imagerenderingoptions/)
+* package [com.aspose.html.rendering.image](../../imagerenderingoptions/)
 * package [Aspose.HTML](../../../)

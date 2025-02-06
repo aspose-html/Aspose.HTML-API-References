@@ -17,5 +17,5 @@ public const ushort SVG_TRANSFORM_ROTATE;
 ### See Also
 
 * class [SVGTransform](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgtransform/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgtransform/)
 * package [Aspose.HTML](../../../)

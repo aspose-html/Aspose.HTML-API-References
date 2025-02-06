@@ -17,5 +17,5 @@ public const ushort SVG_STITCHTYPE_NOSTITCH;
 ### See Also
 
 * class [SVGFETurbulenceElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeturbulenceelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfeturbulenceelement/)
 * package [Aspose.HTML](../../../)

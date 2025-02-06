@@ -22,5 +22,5 @@ Instance of a XpsGraphicContext
 
 * class [GraphicContext](../../../com.aspose.html.rendering/graphiccontext/)
 * class [XpsGraphicContext](../)
-* package [com.aspose.html.Rendering.Xps](../../xpsdevice.xpsgraphiccontext/)
+* package [com.aspose.html.rendering.xps](../../xpsdevice.xpsgraphiccontext/)
 * package [Aspose.HTML](../../../)

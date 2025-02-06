@@ -22,5 +22,5 @@ The farthest viewport element.
 
 * class [SVGElement](../../svgelement/)
 * class [SVGGraphicsElement](../)
-* package [com.aspose.html.Dom.Svg](../../svggraphicselement/)
+* package [com.aspose.html.dom.svg](../../svggraphicselement/)
 * package [Aspose.HTML](../../../)

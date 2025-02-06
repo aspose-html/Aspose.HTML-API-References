@@ -1,7 +1,7 @@
 ---
 title: SelectElement Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Forms.SelectElement class. The SelectElement represents a wrapper that is associated with the HTMLSelectElement
+description: com.aspose.html.forms.SelectElement class. The SelectElement represents a wrapper that is associated with the HTMLSelectElement
 type: docs
 weight: 3030
 url: /java/com.aspose.html.forms/selectelement/
@@ -43,5 +43,5 @@ public class SelectElement : FormElement<HTMLSelectElement>
 
 * class [FormElement&lt;T&gt;](../formelement-1/)
 * class [HTMLSelectElement](../../com.aspose.html/htmlselectelement/)
-* package [com.aspose.html.Forms](../../com.aspose.html.forms/)
+* package [com.aspose.html.forms](../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../)

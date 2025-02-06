@@ -17,5 +17,5 @@ public String Name { get; }
 ### See Also
 
 * interface [IFile](../)
-* package [com.aspose.html.IO](../../ifile/)
+* package [com.aspose.html.io](../../ifile/)
 * package [Aspose.HTML](../../../)

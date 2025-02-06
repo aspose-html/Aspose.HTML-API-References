@@ -17,5 +17,5 @@ public const ushort NOT_SUPPORTED_ERR;
 ### See Also
 
 * class [DOMException](../)
-* package [com.aspose.html.Dom](../../domexception/)
+* package [com.aspose.html.dom](../../domexception/)
 * package [Aspose.HTML](../../../)

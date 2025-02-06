@@ -17,7 +17,7 @@ public Color()
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../color/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -39,7 +39,7 @@ public Color(float red, float green, float blue)
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../color/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -62,7 +62,7 @@ public Color(float red, float green, float blue, float alpha)
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../color/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -84,7 +84,7 @@ public Color(byte red, byte green, byte blue)
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../color/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,7 +107,7 @@ public Color(byte red, byte green, byte blue, byte alpha)
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../color/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -129,7 +129,7 @@ public Color(int red, int green, int blue)
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../color/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -152,5 +152,5 @@ public Color(int red, int green, int blue, int alpha)
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../color/)
 * package [Aspose.HTML](../../../)

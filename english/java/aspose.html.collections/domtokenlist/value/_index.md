@@ -21,5 +21,5 @@ The value of a corresponding attribute.
 ### See Also
 
 * class [DOMTokenList](../)
-* package [com.aspose.html.Collections](../../domtokenlist/)
+* package [com.aspose.html.collections](../../domtokenlist/)
 * package [Aspose.HTML](../../../)

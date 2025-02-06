@@ -1,7 +1,7 @@
 ---
 title: SVGPoint Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.DataTypes.SVGPoint class. Many of the SVG DOM interfaces refer to objects of class SVGPoint. An SVGPoint is an x y coordinate pair. When used in matrix operations an SVGPoint is treated as a vector of the form x y 1 If an SVGRect object is designated as read only then attempting to assign to one of its attributes will result in an exception being thrown
+description: com.aspose.html.dom.svg.datatypes.SVGPoint class. Many of the SVG DOM interfaces refer to objects of class SVGPoint. An SVGPoint is an x y coordinate pair. When used in matrix operations an SVGPoint is treated as a vector of the form x y 1 If an SVGRect object is designated as read only then attempting to assign to one of its attributes will result in an exception being thrown
 type: docs
 weight: 1260
 url: /java/com.aspose.html.dom.svg.datatypes/svgpoint/
@@ -33,5 +33,5 @@ public class SVGPoint : SVGValueType
 ### See Also
 
 * class [SVGValueType](../svgvaluetype/)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../)

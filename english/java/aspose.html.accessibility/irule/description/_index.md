@@ -17,5 +17,5 @@ public String Description { get; }
 ### See Also
 
 * interface [IRule](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

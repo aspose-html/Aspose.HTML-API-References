@@ -21,5 +21,5 @@ The what to show.
 ### See Also
 
 * interface [ITraversal](../)
-* package [com.aspose.html.Dom.Traversal](../../itraversal/)
+* package [com.aspose.html.dom.traversal](../../itraversal/)
 * package [Aspose.HTML](../../../)

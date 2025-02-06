@@ -1,7 +1,7 @@
 ---
 title: IUserAgentService Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Services.IUserAgentService interface. An interface that is described a user agent environment
+description: com.aspose.html.services.IUserAgentService interface. An interface that is described a user agent environment
 type: docs
 weight: 4770
 url: /java/com.aspose.html.services/iuseragentservice/
@@ -30,5 +30,5 @@ public interface IUserAgentService
 
 ### See Also
 
-* package [com.aspose.html.Services](../../com.aspose.html.services/)
+* package [com.aspose.html.services](../../com.aspose.html.services/)
 * package [Aspose.HTML](../../)

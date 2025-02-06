@@ -35,5 +35,5 @@ element.SetAttributeNode(attr);
 
 * class [Attr](../../attr/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../document/)
 * package [Aspose.HTML](../../../)

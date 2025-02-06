@@ -15,7 +15,7 @@ public static implicit operator Resolution(double value)
 ### See Also
 
 * class [Resolution](../)
-* package [com.aspose.html.Drawing](../../resolution/)
+* package [com.aspose.html.drawing](../../resolution/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -29,5 +29,5 @@ public static implicit operator Resolution(float value)
 ### See Also
 
 * class [Resolution](../)
-* package [com.aspose.html.Drawing](../../resolution/)
+* package [com.aspose.html.drawing](../../resolution/)
 * package [Aspose.HTML](../../../)

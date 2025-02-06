@@ -1,7 +1,7 @@
 ---
 title: DOMObjectAttribute Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Attributes.DOMObjectAttribute class. Specifies that object is marked with this attribute is defined by the W3C
+description: com.aspose.html.dom.attributes.DOMObjectAttribute class. Specifies that object is marked with this attribute is defined by the W3C
 type: docs
 weight: 190
 url: /java/com.aspose.html.dom.attributes/domobjectattribute/
@@ -23,5 +23,5 @@ public sealed class DOMObjectAttribute : Attribute
 
 ### See Also
 
-* package [com.aspose.html.Dom.Attributes](../../com.aspose.html.dom.attributes/)
+* package [com.aspose.html.dom.attributes](../../com.aspose.html.dom.attributes/)
 * package [Aspose.HTML](../../)

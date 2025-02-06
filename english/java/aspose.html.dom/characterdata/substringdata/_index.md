@@ -26,5 +26,5 @@ The text data
 ### See Also
 
 * class [CharacterData](../)
-* package [com.aspose.html.Dom](../../characterdata/)
+* package [com.aspose.html.dom](../../characterdata/)
 * package [Aspose.HTML](../../../)

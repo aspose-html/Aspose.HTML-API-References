@@ -23,5 +23,5 @@ Returns the URL of the associated stylesheet specified by the @import at-rule.
 ### See Also
 
 * interface [ICSSImportRule](../)
-* package [com.aspose.html.Dom.Css](../../icssimportrule/)
+* package [com.aspose.html.dom.css](../../icssimportrule/)
 * package [Aspose.HTML](../../../)

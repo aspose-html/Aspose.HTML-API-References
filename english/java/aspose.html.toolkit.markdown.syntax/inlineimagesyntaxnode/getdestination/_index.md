@@ -22,5 +22,5 @@ The LinkDestinationSyntax.
 
 * class [LinkDestinationSyntaxNode](../../linkdestinationsyntaxnode/)
 * class [InlineImageSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../inlineimagesyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../inlineimagesyntaxnode/)
 * package [Aspose.HTML](../../../)

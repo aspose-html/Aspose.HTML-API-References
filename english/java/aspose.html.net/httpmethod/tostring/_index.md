@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [HttpMethod](../)
-* package [com.aspose.html.Net](../../httpmethod/)
+* package [com.aspose.html.net](../../httpmethod/)
 * package [Aspose.HTML](../../../)

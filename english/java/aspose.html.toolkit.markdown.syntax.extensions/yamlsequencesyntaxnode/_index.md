@@ -1,7 +1,7 @@
 ---
 title: YamlSequenceSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Extensions.YamlSequenceSyntaxNode class. Defines the YamlSequenceSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.extensions.YamlSequenceSyntaxNode class. Defines the YamlSequenceSyntaxNode
 type: docs
 weight: 4980
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/
@@ -36,5 +36,5 @@ public sealed class YamlSequenceSyntaxNode : ChildFrontMatterSyntaxNode
 ### See Also
 
 * class [ChildFrontMatterSyntaxNode](../childfrontmattersyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../com.aspose.html.toolkit.markdown.syntax.extensions/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../)

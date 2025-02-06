@@ -16,5 +16,5 @@ public static implicit operator LengthOrAuto(Length length)
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* package [com.aspose.html.Drawing](../../lengthorauto/)
+* package [com.aspose.html.drawing](../../lengthorauto/)
 * package [Aspose.HTML](../../../)

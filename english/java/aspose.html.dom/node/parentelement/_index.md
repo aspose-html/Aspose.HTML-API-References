@@ -28,5 +28,5 @@ Reference:
 
 * class [Element](../../element/)
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../node/)
 * package [Aspose.HTML](../../../)

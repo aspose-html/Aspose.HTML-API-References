@@ -21,7 +21,7 @@ public FocusEvent(String type)
 ### See Also
 
 * class [FocusEvent](../)
-* package [com.aspose.html.Dom.Events](../../focusevent/)
+* package [com.aspose.html.dom.events](../../focusevent/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public FocusEvent(String type, IDictionary<String, object> eventInitDict)
 ### See Also
 
 * class [FocusEvent](../)
-* package [com.aspose.html.Dom.Events](../../focusevent/)
+* package [com.aspose.html.dom.events](../../focusevent/)
 * package [Aspose.HTML](../../../)

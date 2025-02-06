@@ -17,5 +17,5 @@ public int Count { get; }
 ### See Also
 
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../formeditor/)
 * package [Aspose.HTML](../../../)

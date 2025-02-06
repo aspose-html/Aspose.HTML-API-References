@@ -22,5 +22,5 @@ The attribute ‘result’ of the given ‘filter’ element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFEOffsetElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeoffsetelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfeoffsetelement/)
 * package [Aspose.HTML](../../../)

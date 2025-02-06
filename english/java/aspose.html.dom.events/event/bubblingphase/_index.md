@@ -17,5 +17,5 @@ public const ushort BubblingPhase;
 ### See Also
 
 * class [Event](../)
-* package [com.aspose.html.Dom.Events](../../event/)
+* package [com.aspose.html.dom.events](../../event/)
 * package [Aspose.HTML](../../../)

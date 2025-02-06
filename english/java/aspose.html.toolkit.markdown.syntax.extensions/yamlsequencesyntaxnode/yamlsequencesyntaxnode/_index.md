@@ -16,5 +16,5 @@ public YamlSequenceSyntaxNode(HugoFrontMatterSyntaxNode owner, g adaptee)
 
 * class [HugoFrontMatterSyntaxNode](../../hugofrontmattersyntaxnode/)
 * class [YamlSequenceSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../yamlsequencesyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../yamlsequencesyntaxnode/)
 * package [Aspose.HTML](../../../)

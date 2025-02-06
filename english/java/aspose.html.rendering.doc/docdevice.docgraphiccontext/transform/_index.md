@@ -21,5 +21,5 @@ public void Transform(Matrix matrix)
 ### See Also
 
 * class [DocGraphicContext](../)
-* package [com.aspose.html.Rendering.Doc](../../docdevice.docgraphiccontext/)
+* package [com.aspose.html.rendering.doc](../../docdevice.docgraphiccontext/)
 * package [Aspose.HTML](../../../)

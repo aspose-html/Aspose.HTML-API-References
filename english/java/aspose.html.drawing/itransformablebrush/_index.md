@@ -1,7 +1,7 @@
 ---
 title: ITransformableBrush Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Drawing.ITransformableBrush interface. Desclares methods for getting transformation matrix and wrap mode
+description: com.aspose.html.drawing.ITransformableBrush interface. Desclares methods for getting transformation matrix and wrap mode
 type: docs
 weight: 2760
 url: /java/com.aspose.html.drawing/itransformablebrush/
@@ -24,5 +24,5 @@ public interface ITransformableBrush : IBrush
 ### See Also
 
 * interface [IBrush](../ibrush/)
-* package [com.aspose.html.Drawing](../../com.aspose.html.drawing/)
+* package [com.aspose.html.drawing](../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../)

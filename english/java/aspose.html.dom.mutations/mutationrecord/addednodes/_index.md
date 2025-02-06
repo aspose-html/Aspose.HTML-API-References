@@ -22,5 +22,5 @@ The added nodes.
 
 * class [NodeList](../../../com.aspose.html.collections/nodelist/)
 * class [MutationRecord](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationrecord/)
+* package [com.aspose.html.dom.mutations](../../mutationrecord/)
 * package [Aspose.HTML](../../../)

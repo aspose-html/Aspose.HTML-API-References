@@ -1,7 +1,7 @@
 ---
 title: ICSSFontFaceRule Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Css.ICSSFontFaceRule interface. The CSSFontFaceRule interface represents a font-face rule in a CSS style sheet. The font-face rule is used to hold a set of font descriptions
+description: com.aspose.html.dom.css.ICSSFontFaceRule interface. The CSSFontFaceRule interface represents a font-face rule in a CSS style sheet. The font-face rule is used to hold a set of font descriptions
 type: docs
 weight: 410
 url: /java/com.aspose.html.dom.css/icssfontfacerule/
@@ -23,5 +23,5 @@ public interface ICSSFontFaceRule : ICSSRule
 ### See Also
 
 * interface [ICSSRule](../icssrule/)
-* package [com.aspose.html.Dom.Css](../../com.aspose.html.dom.css/)
+* package [com.aspose.html.dom.css](../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../)

@@ -21,5 +21,5 @@ public void LineTo(PointF pt)
 ### See Also
 
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../imagedevice/)
 * package [Aspose.HTML](../../../)

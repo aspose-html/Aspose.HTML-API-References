@@ -1,7 +1,7 @@
 ---
 title: DocumentLoadErrorEvent Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Events.DocumentLoadErrorEvent class. The DocumentLoadErrorEvent occurres when the requested resource is not available
+description: com.aspose.html.dom.events.DocumentLoadErrorEvent class. The DocumentLoadErrorEvent occurres when the requested resource is not available
 type: docs
 weight: 760
 url: /java/com.aspose.html.dom.events/documentloaderrorevent/
@@ -46,5 +46,5 @@ public class DocumentLoadErrorEvent : ErrorEvent
 ### See Also
 
 * class [ErrorEvent](../errorevent/)
-* package [com.aspose.html.Dom.Events](../../com.aspose.html.dom.events/)
+* package [com.aspose.html.dom.events](../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../)

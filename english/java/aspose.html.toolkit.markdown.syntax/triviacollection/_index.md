@@ -1,7 +1,7 @@
 ---
 title: TriviaCollection Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.TriviaCollection class. A collection of trivia
+description: com.aspose.html.toolkit.markdown.syntax.TriviaCollection class. A collection of trivia
 type: docs
 weight: 5710
 url: /java/com.aspose.html.toolkit.markdown.syntax/triviacollection/
@@ -49,5 +49,5 @@ public class TriviaCollection : SyntaxNodeCollection<WhitespaceSyntaxNode>
 
 * class [SyntaxNodeCollection&lt;T&gt;](../syntaxnodecollection-1/)
 * class [WhitespaceSyntaxNode](../whitespacesyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

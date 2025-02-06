@@ -17,7 +17,7 @@ public CSSValueList()
 ### See Also
 
 * class [CSSValueList](../)
-* package [com.aspose.html.Dom.Css](../../cssvaluelist/)
+* package [com.aspose.html.dom.css](../../cssvaluelist/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,7 +38,7 @@ public CSSValueList(IEnumerable<CSSValue> values)
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* package [com.aspose.html.Dom.Css](../../cssvaluelist/)
+* package [com.aspose.html.dom.css](../../cssvaluelist/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -59,5 +59,5 @@ public CSSValueList(params CSSValue[] values)
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* package [com.aspose.html.Dom.Css](../../cssvaluelist/)
+* package [com.aspose.html.dom.css](../../cssvaluelist/)
 * package [Aspose.HTML](../../../)

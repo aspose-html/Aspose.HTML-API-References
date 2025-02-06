@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [EventTarget](../)
-* package [com.aspose.html.Dom](../../eventtarget/)
+* package [com.aspose.html.dom](../../eventtarget/)
 * package [Aspose.HTML](../../../)

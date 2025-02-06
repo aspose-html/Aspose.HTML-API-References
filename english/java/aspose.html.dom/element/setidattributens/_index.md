@@ -23,5 +23,5 @@ public void SetIdAttributeNS(String packageURI, String localName, bool isId)
 ### See Also
 
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../element/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public LineJoin LineJoin { get; set; }
 ### See Also
 
 * class [GraphicContext](../)
-* package [com.aspose.html.Rendering](../../graphiccontext/)
+* package [com.aspose.html.rendering](../../graphiccontext/)
 * package [Aspose.HTML](../../../)

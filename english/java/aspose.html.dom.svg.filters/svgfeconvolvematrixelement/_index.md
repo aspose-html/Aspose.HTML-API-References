@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElement Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.Filters.SVGFEConvolveMatrixElement class. The SVGFEConvolveMatrixElement interface corresponds to the feConvolveMatrix element
+description: com.aspose.html.dom.svg.filters.SVGFEConvolveMatrixElement class. The SVGFEConvolveMatrixElement interface corresponds to the feConvolveMatrix element
 type: docs
 weight: 1410
 url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/
@@ -82,8 +82,8 @@ public class SVGFEConvolveMatrixElement : SVGElement, ISVGFilterPrimitiveStandar
 | Name | Description |
 | --- | --- |
 | [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener) | The addEventListener() method of the [`EventTarget `](../../com.aspose.html.dom/eventtarget/)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
 | [appendChild](../../com.aspose.html.dom/node/appendchild/)(Node) | The appendChild() method of the Node interface adds a node to the end of the list of children of a specified parent node. If the given child is a reference to an existing node in the document, appendChild() moves it from its current position to the new position (there is no requirement to remove the node from its parent node before appending it to some other node). |
 | [attachShadow](../../com.aspose.html.dom/element/attachshadow/)(ShadowRootMode) | Creates shadow root and attaches it to current element. |
 | [cloneNode](../../com.aspose.html.dom/node/clonenode/)() | The cloneNode() method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not. |
@@ -142,5 +142,5 @@ public class SVGFEConvolveMatrixElement : SVGElement, ISVGFilterPrimitiveStandar
 
 * class [SVGElement](../../com.aspose.html.dom.svg/svgelement/)
 * interface [ISVGFilterPrimitiveStandardAttributes](../isvgfilterprimitivestandardattributes/)
-* package [com.aspose.html.Dom.Svg.Filters](../../com.aspose.html.dom.svg.filters/)
+* package [com.aspose.html.dom.svg.filters](../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../)

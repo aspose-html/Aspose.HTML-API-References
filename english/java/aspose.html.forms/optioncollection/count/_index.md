@@ -17,5 +17,5 @@ public int Count { get; }
 ### See Also
 
 * class [OptionCollection](../)
-* package [com.aspose.html.Forms](../../optioncollection/)
+* package [com.aspose.html.forms](../../optioncollection/)
 * package [Aspose.HTML](../../../)

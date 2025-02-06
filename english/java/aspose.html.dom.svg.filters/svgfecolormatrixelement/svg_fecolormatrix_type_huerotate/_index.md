@@ -17,5 +17,5 @@ public const ushort SVG_FECOLORMATRIX_TYPE_HUEROTATE;
 ### See Also
 
 * class [SVGFEColorMatrixElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfecolormatrixelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfecolormatrixelement/)
 * package [Aspose.HTML](../../../)

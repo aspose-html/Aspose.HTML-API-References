@@ -21,5 +21,5 @@ The node value.
 ### See Also
 
 * class [Comment](../)
-* package [com.aspose.html.Dom](../../comment/)
+* package [com.aspose.html.dom](../../comment/)
 * package [Aspose.HTML](../../../)

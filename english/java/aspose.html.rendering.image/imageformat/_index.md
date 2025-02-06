@@ -1,7 +1,7 @@
 ---
 title: ImageFormat Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Image.ImageFormat enum. Specifies the file format of the image
+description: com.aspose.html.rendering.image.ImageFormat enum. Specifies the file format of the image
 type: docs
 weight: 4350
 url: /java/com.aspose.html.rendering.image/imageformat/
@@ -26,5 +26,5 @@ public enum ImageFormat
 
 ### See Also
 
-* package [com.aspose.html.Rendering.Image](../../com.aspose.html.rendering.image/)
+* package [com.aspose.html.rendering.image](../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../)

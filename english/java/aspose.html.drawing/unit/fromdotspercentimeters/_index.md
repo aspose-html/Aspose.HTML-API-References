@@ -26,5 +26,5 @@ Returns a [`Resolution`](../../resolution/) object.
 
 * class [Resolution](../../resolution/)
 * class [Unit](../)
-* package [com.aspose.html.Drawing](../../unit/)
+* package [com.aspose.html.drawing](../../unit/)
 * package [Aspose.HTML](../../../)

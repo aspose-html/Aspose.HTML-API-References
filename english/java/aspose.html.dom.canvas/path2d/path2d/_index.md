@@ -17,7 +17,7 @@ public Path2D()
 ### See Also
 
 * class [Path2D](../)
-* package [com.aspose.html.Dom.Canvas](../../path2d/)
+* package [com.aspose.html.dom.canvas](../../path2d/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -37,7 +37,7 @@ public Path2D(Path2D path)
 ### See Also
 
 * class [Path2D](../)
-* package [com.aspose.html.Dom.Canvas](../../path2d/)
+* package [com.aspose.html.dom.canvas](../../path2d/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -57,5 +57,5 @@ public Path2D(String d)
 ### See Also
 
 * class [Path2D](../)
-* package [com.aspose.html.Dom.Canvas](../../path2d/)
+* package [com.aspose.html.dom.canvas](../../path2d/)
 * package [Aspose.HTML](../../../)

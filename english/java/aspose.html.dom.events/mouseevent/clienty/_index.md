@@ -21,5 +21,5 @@ The client y.
 ### See Also
 
 * class [MouseEvent](../)
-* package [com.aspose.html.Dom.Events](../../mouseevent/)
+* package [com.aspose.html.dom.events](../../mouseevent/)
 * package [Aspose.HTML](../../../)

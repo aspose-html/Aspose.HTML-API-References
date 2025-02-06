@@ -17,5 +17,5 @@ public String Value { get; set; }
 ### See Also
 
 * class [FormElement](../)
-* package [com.aspose.html.Forms](../../formelement/)
+* package [com.aspose.html.forms](../../formelement/)
 * package [Aspose.HTML](../../../)

@@ -1,7 +1,7 @@
 ---
 title: ContentTypeHeaderValue Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Net.Headers.ContentTypeHeaderValue class. Represents a Content-Type header value
+description: com.aspose.html.net.headers.ContentTypeHeaderValue class. Represents a Content-Type header value
 type: docs
 weight: 3920
 url: /java/com.aspose.html.net.headers/contenttypeheadervalue/
@@ -35,5 +35,5 @@ public class ContentTypeHeaderValue : NameValueHeaderValue
 ### See Also
 
 * class [NameValueHeaderValue](../namevalueheadervalue/)
-* package [com.aspose.html.Net.Headers](../../com.aspose.html.net.headers/)
+* package [com.aspose.html.net.headers](../../com.aspose.html.net.headers/)
 * package [Aspose.HTML](../../)

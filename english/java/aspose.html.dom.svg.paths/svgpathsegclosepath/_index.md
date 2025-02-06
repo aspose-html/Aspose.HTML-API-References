@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegClosePath Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.Paths.SVGPathSegClosePath class. he SVGPathSegClosePath interface corresponds to a closepath z path data command
+description: com.aspose.html.dom.svg.paths.SVGPathSegClosePath class. he SVGPathSegClosePath interface corresponds to a closepath z path data command
 type: docs
 weight: 1730
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegclosepath/
@@ -31,5 +31,5 @@ public class SVGPathSegClosePath : SVGPathSeg
 ### See Also
 
 * class [SVGPathSeg](../svgpathseg/)
-* package [com.aspose.html.Dom.Svg.Paths](../../com.aspose.html.dom.svg.paths/)
+* package [com.aspose.html.dom.svg.paths](../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../)

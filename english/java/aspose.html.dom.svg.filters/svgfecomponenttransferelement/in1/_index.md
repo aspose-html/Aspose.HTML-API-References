@@ -22,5 +22,5 @@ The attribute ‘in’ of the given ‘feComponentTransfer’ element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFEComponentTransferElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfecomponenttransferelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfecomponenttransferelement/)
 * package [Aspose.HTML](../../../)

@@ -1,7 +1,7 @@
 ---
 title: FontMatcher Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Fonts.FontMatcher class. This class allows you to control some parts of the font matching algorithm
+description: com.aspose.html.rendering.fonts.FontMatcher class. This class allows you to control some parts of the font matching algorithm
 type: docs
 weight: 4260
 url: /java/com.aspose.html.rendering.fonts/fontmatcher/
@@ -22,5 +22,5 @@ public abstract class FontMatcher
 
 ### See Also
 
-* package [com.aspose.html.Rendering.Fonts](../../com.aspose.html.rendering.fonts/)
+* package [com.aspose.html.rendering.fonts](../../com.aspose.html.rendering.fonts/)
 * package [Aspose.HTML](../../)

@@ -16,5 +16,5 @@ public YamlMappingSyntaxNode(HugoFrontMatterSyntaxNode owner, e adaptee)
 
 * class [HugoFrontMatterSyntaxNode](../../hugofrontmattersyntaxnode/)
 * class [YamlMappingSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../yamlmappingsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../yamlmappingsyntaxnode/)
 * package [Aspose.HTML](../../../)

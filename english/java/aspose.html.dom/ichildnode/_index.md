@@ -1,7 +1,7 @@
 ---
 title: IChildNode Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.IChildNode interface. Defines IChildNode interface that should be implemented by Node that can have a parent
+description: com.aspose.html.dom.IChildNode interface. Defines IChildNode interface that should be implemented by Node that can have a parent
 type: docs
 weight: 890
 url: /java/com.aspose.html.dom/ichildnode/
@@ -22,5 +22,5 @@ public interface IChildNode
 
 ### See Also
 
-* package [com.aspose.html.Dom](../../com.aspose.html.dom/)
+* package [com.aspose.html.dom](../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../)

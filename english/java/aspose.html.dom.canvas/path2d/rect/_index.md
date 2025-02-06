@@ -24,5 +24,5 @@ public void Rect(double x, double y, double w, double h)
 ### See Also
 
 * class [Path2D](../)
-* package [com.aspose.html.Dom.Canvas](../../path2d/)
+* package [com.aspose.html.dom.canvas](../../path2d/)
 * package [Aspose.HTML](../../../)

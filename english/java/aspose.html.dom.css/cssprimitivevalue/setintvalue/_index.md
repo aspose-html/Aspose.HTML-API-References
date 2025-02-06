@@ -22,5 +22,5 @@ public abstract void SetIntValue(ushort unitType, int intValue)
 ### See Also
 
 * class [CSSPrimitiveValue](../)
-* package [com.aspose.html.Dom.Css](../../cssprimitivevalue/)
+* package [com.aspose.html.dom.css](../../cssprimitivevalue/)
 * package [Aspose.HTML](../../../)

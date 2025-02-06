@@ -1,7 +1,7 @@
 ---
 title: FormElementT Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Forms.FormElement1T class. The FormElement represent the generic field
+description: com.aspose.html.forms.FormElement1T class. The FormElement represent the generic field
 type: docs
 weight: 2970
 url: /java/com.aspose.html.forms/formelement-1/
@@ -36,5 +36,5 @@ public abstract class FormElement<T> : FormElement
 
 * class [FormElement](../formelement/)
 * class [HTMLElement](../../com.aspose.html/htmlelement/)
-* package [com.aspose.html.Forms](../../com.aspose.html.forms/)
+* package [com.aspose.html.forms](../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../)

@@ -17,7 +17,7 @@ public ImageRenderingOptions()
 ### See Also
 
 * class [ImageRenderingOptions](../)
-* package [com.aspose.html.Rendering.Image](../../imagerenderingoptions/)
+* package [com.aspose.html.rendering.image](../../imagerenderingoptions/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public ImageRenderingOptions(ImageFormat format)
 
 * enum [ImageFormat](../../imageformat/)
 * class [ImageRenderingOptions](../)
-* package [com.aspose.html.Rendering.Image](../../imagerenderingoptions/)
+* package [com.aspose.html.rendering.image](../../imagerenderingoptions/)
 * package [Aspose.HTML](../../../)

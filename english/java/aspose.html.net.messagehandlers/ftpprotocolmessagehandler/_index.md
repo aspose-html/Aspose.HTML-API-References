@@ -1,7 +1,7 @@
 ---
 title: FtpProtocolMessageHandler Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Net.MessageHandlers.FtpProtocolMessageHandler class. Represents the ftp protocol message handler
+description: com.aspose.html.net.messagehandlers.FtpProtocolMessageHandler class. Represents the ftp protocol message handler
 type: docs
 weight: 4020
 url: /java/com.aspose.html.net.messagehandlers/ftpprotocolmessagehandler/
@@ -35,5 +35,5 @@ public class FtpProtocolMessageHandler : MessageHandler
 ### See Also
 
 * class [MessageHandler](../../com.aspose.html.net/messagehandler/)
-* package [com.aspose.html.Net.MessageHandlers](../../com.aspose.html.net.messagehandlers/)
+* package [com.aspose.html.net.messagehandlers](../../com.aspose.html.net.messagehandlers/)
 * package [Aspose.HTML](../../)

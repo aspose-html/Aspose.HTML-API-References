@@ -25,5 +25,5 @@ priority is a DOMString that represents the priority (e.g. "important") if one e
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* package [com.aspose.html.Dom.Css](../../icssstyledeclaration/)
+* package [com.aspose.html.dom.css](../../icssstyledeclaration/)
 * package [Aspose.HTML](../../../)

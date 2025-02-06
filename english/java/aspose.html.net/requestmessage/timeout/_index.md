@@ -17,5 +17,5 @@ public TimeSpan Timeout { get; set; }
 ### See Also
 
 * class [RequestMessage](../)
-* package [com.aspose.html.Net](../../requestmessage/)
+* package [com.aspose.html.net](../../requestmessage/)
 * package [Aspose.HTML](../../../)

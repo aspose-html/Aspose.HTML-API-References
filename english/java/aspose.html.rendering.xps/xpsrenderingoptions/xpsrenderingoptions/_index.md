@@ -17,5 +17,5 @@ public XpsRenderingOptions()
 ### See Also
 
 * class [XpsRenderingOptions](../)
-* package [com.aspose.html.Rendering.Xps](../../xpsrenderingoptions/)
+* package [com.aspose.html.rendering.xps](../../xpsrenderingoptions/)
 * package [Aspose.HTML](../../../)

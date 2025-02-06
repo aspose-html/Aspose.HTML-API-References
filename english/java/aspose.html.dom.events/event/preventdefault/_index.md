@@ -21,5 +21,5 @@ If, during any stage of event flow, the `PreventDefault` method is called the ev
 ### See Also
 
 * class [Event](../)
-* package [com.aspose.html.Dom.Events](../../event/)
+* package [com.aspose.html.dom.events](../../event/)
 * package [Aspose.HTML](../../../)

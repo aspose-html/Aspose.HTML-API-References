@@ -26,5 +26,5 @@ a constant to determine whether the node is accepted, rejected, or skipped, as d
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [INodeFilter](../)
-* package [com.aspose.html.Dom.Traversal](../../inodefilter/)
+* package [com.aspose.html.dom.traversal](../../inodefilter/)
 * package [Aspose.HTML](../../../)

@@ -1,7 +1,7 @@
 ---
 title: IRule Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Accessibility.IRule interface. Interface describing the main properties of the rules
+description: com.aspose.html.accessibility.IRule interface. Interface describing the main properties of the rules
 type: docs
 weight: 60
 url: /java/com.aspose.html.accessibility/irule/
@@ -23,5 +23,5 @@ public interface IRule
 
 ### See Also
 
-* package [com.aspose.html.Accessibility](../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../)

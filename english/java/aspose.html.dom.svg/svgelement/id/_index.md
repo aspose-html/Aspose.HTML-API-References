@@ -27,5 +27,5 @@ The identifier.
 ### See Also
 
 * class [SVGElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgelement/)
+* package [com.aspose.html.dom.svg](../../svgelement/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [Unit](../)
-* package [com.aspose.html.Drawing](../../unit/)
+* package [com.aspose.html.drawing](../../unit/)
 * package [Aspose.HTML](../../../)

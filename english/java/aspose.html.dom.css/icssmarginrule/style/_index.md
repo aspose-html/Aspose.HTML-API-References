@@ -22,5 +22,5 @@ Returns a [`CSSStyleDeclaration`](../../icssstyledeclaration/) object for the cu
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSMarginRule](../)
-* package [com.aspose.html.Dom.Css](../../icssmarginrule/)
+* package [com.aspose.html.dom.css](../../icssmarginrule/)
 * package [Aspose.HTML](../../../)

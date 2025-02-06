@@ -1,7 +1,7 @@
 ---
 title: AtxHeadingSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.AtxHeadingSyntaxNode class. Represents the AtxHeadingSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.AtxHeadingSyntaxNode class. Represents the AtxHeadingSyntaxNode
 type: docs
 weight: 4780
 url: /java/com.aspose.html.toolkit.markdown.syntax/atxheadingsyntaxnode/
@@ -46,5 +46,5 @@ public sealed class AtxHeadingSyntaxNode : LeafBlockSyntaxNode
 ### See Also
 
 * class [LeafBlockSyntaxNode](../leafblocksyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

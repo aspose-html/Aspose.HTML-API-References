@@ -1,7 +1,7 @@
 ---
 title: ISVGAnimatedPathData Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.Paths.ISVGAnimatedPathData interface. he SVGAnimatedPathData interface supports elements which have a d attribute which holds SVG path data and supports the ability to animate that attribute
+description: com.aspose.html.dom.svg.paths.ISVGAnimatedPathData interface. he SVGAnimatedPathData interface supports elements which have a d attribute which holds SVG path data and supports the ability to animate that attribute
 type: docs
 weight: 1690
 url: /java/com.aspose.html.dom.svg.paths/isvganimatedpathdata/
@@ -23,5 +23,5 @@ public interface ISVGAnimatedPathData
 
 ### See Also
 
-* package [com.aspose.html.Dom.Svg.Paths](../../com.aspose.html.dom.svg.paths/)
+* package [com.aspose.html.dom.svg.paths](../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../)

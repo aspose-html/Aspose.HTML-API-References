@@ -22,5 +22,5 @@ The attribute ‘y1’ of the given ‘linearGradient’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGLinearGradientElement](../)
-* package [com.aspose.html.Dom.Svg](../../svglineargradientelement/)
+* package [com.aspose.html.dom.svg](../../svglineargradientelement/)
 * package [Aspose.HTML](../../../)

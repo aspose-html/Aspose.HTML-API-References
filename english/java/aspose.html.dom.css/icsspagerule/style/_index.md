@@ -22,5 +22,5 @@ A [`CSSStyleDeclaration`](../../icssstyledeclaration/) object which represents a
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSPageRule](../)
-* package [com.aspose.html.Dom.Css](../../icsspagerule/)
+* package [com.aspose.html.dom.css](../../icsspagerule/)
 * package [Aspose.HTML](../../../)

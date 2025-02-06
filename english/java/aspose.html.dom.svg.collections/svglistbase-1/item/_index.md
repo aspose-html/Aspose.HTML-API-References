@@ -36,5 +36,5 @@ The type of item stored in list.
 ### See Also
 
 * class [SVGListBase&lt;T&gt;](../)
-* package [com.aspose.html.Dom.Svg.Collections](../../svglistbase-1/)
+* package [com.aspose.html.dom.svg.collections](../../svglistbase-1/)
 * package [Aspose.HTML](../../../)

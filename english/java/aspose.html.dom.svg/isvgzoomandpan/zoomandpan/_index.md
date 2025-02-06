@@ -27,5 +27,5 @@ The zoom and pan.
 ### See Also
 
 * interface [ISVGZoomAndPan](../)
-* package [com.aspose.html.Dom.Svg](../../isvgzoomandpan/)
+* package [com.aspose.html.dom.svg](../../isvgzoomandpan/)
 * package [Aspose.HTML](../../../)

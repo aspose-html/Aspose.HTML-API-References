@@ -18,5 +18,5 @@ public ColorModel Model { get; }
 
 * enum [ColorModel](../../colormodel/)
 * interface [IColorComponents](../)
-* package [com.aspose.html.Drawing](../../icolorcomponents/)
+* package [com.aspose.html.drawing](../../icolorcomponents/)
 * package [Aspose.HTML](../../../)

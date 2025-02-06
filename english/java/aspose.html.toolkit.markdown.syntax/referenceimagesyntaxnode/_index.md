@@ -1,7 +1,7 @@
 ---
 title: ReferenceImageSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.ReferenceImageSyntaxNode class. The reference image syntax
+description: com.aspose.html.toolkit.markdown.syntax.ReferenceImageSyntaxNode class. The reference image syntax
 type: docs
 weight: 5510
 url: /java/com.aspose.html.toolkit.markdown.syntax/referenceimagesyntaxnode/
@@ -46,5 +46,5 @@ public sealed class ReferenceImageSyntaxNode : InlineSyntaxNode
 ### See Also
 
 * class [InlineSyntaxNode](../inlinesyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

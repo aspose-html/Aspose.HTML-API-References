@@ -21,5 +21,5 @@ The type of the CSS value.
 ### See Also
 
 * class [CSSValue](../)
-* package [com.aspose.html.Dom.Css](../../cssvalue/)
+* package [com.aspose.html.dom.css](../../cssvalue/)
 * package [Aspose.HTML](../../../)

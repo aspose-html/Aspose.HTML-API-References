@@ -25,5 +25,5 @@ A boolean value that is true if the two nodes are equals, or false if not. If ot
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../node/)
 * package [Aspose.HTML](../../../)

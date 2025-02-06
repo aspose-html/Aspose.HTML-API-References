@@ -22,7 +22,7 @@ public FormSubmitter(HTMLFormElement form)
 
 * class [HTMLFormElement](../../../com.aspose.html/htmlformelement/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../formsubmitter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -44,7 +44,7 @@ public FormSubmitter(HTMLDocument document, int index)
 
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../formsubmitter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -66,7 +66,7 @@ public FormSubmitter(HTMLDocument document, String id)
 
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../formsubmitter/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -87,5 +87,5 @@ public FormSubmitter(FormEditor editor)
 
 * class [FormEditor](../../formeditor/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../formsubmitter/)
 * package [Aspose.HTML](../../../)

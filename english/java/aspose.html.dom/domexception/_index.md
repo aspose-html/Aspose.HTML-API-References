@@ -1,7 +1,7 @@
 ---
 title: DOMException Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.DOMException class. The DOMException interface represents an abnormal event called an exception which occurs as a result of calling a method or accessing a property of a web API. This is basically how error conditions are described in web APIs
+description: com.aspose.html.dom.DOMException class. The DOMException interface represents an abnormal event called an exception which occurs as a result of calling a method or accessing a property of a web API. This is basically how error conditions are described in web APIs
 type: docs
 weight: 650
 url: /java/com.aspose.html.dom/domexception/
@@ -64,5 +64,5 @@ public class DOMException : PlatformException
 ### See Also
 
 * class [PlatformException](../../com.aspose.html/platformexception/)
-* package [com.aspose.html.Dom](../../com.aspose.html.dom/)
+* package [com.aspose.html.dom](../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../)

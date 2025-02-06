@@ -18,5 +18,5 @@ public Element Host { get; }
 
 * class [Element](../../element/)
 * class [ShadowRoot](../)
-* package [com.aspose.html.Dom](../../shadowroot/)
+* package [com.aspose.html.dom](../../shadowroot/)
 * package [Aspose.HTML](../../../)

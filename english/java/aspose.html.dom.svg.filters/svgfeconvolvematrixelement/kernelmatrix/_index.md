@@ -22,5 +22,5 @@ The attribute ‘kernelMatrix’ of the given ‘feConvolveMatrix’ element.
 
 * class [SVGAnimatedNumberList](../../../com.aspose.html.dom.svg.datatypes/svganimatednumberlist/)
 * class [SVGFEConvolveMatrixElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeconvolvematrixelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfeconvolvematrixelement/)
 * package [Aspose.HTML](../../../)

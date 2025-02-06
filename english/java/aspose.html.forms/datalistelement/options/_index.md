@@ -18,5 +18,5 @@ public OptionCollection Options { get; }
 
 * class [OptionCollection](../../optioncollection/)
 * class [DataListElement](../)
-* package [com.aspose.html.Forms](../../datalistelement/)
+* package [com.aspose.html.forms](../../datalistelement/)
 * package [Aspose.HTML](../../../)

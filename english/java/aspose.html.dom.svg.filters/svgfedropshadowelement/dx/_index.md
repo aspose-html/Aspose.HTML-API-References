@@ -22,5 +22,5 @@ The attribute ‘dx’ of the given ‘feDropShadow’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEDropShadowElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfedropshadowelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfedropshadowelement/)
 * package [Aspose.HTML](../../../)

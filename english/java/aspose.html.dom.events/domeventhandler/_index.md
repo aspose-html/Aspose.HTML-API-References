@@ -17,5 +17,5 @@ public delegate void DOMEventHandler(object sender, Event e);
 ### See Also
 
 * class [Event](../event/)
-* package [com.aspose.html.Dom.Events](../../com.aspose.html.dom.events/)
+* package [com.aspose.html.dom.events](../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../)

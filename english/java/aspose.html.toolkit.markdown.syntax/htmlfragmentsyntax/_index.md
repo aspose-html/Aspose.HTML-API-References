@@ -1,7 +1,7 @@
 ---
 title: HTMLFragmentSyntax Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.HTMLFragmentSyntax class. Represents the HTMLFragmentSyntax
+description: com.aspose.html.toolkit.markdown.syntax.HTMLFragmentSyntax class. Represents the HTMLFragmentSyntax
 type: docs
 weight: 5000
 url: /java/com.aspose.html.toolkit.markdown.syntax/htmlfragmentsyntax/
@@ -46,5 +46,5 @@ public sealed class HTMLFragmentSyntax : MarkdownSyntaxNode
 ### See Also
 
 * class [MarkdownSyntaxNode](../markdownsyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

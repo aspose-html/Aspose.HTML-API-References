@@ -1,7 +1,7 @@
 ---
 title: NodeFilter Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Traversal.Filters.NodeFilter class. Filters are objects that know how to filter out nodes
+description: com.aspose.html.dom.traversal.filters.NodeFilter class. Filters are objects that know how to filter out nodes
 type: docs
 weight: 2470
 url: /java/com.aspose.html.dom.traversal.filters/nodefilter/
@@ -46,5 +46,5 @@ public abstract class NodeFilter : DOMObject, INodeFilter
 
 * class [DOMObject](../../com.aspose.html.dom/domobject/)
 * interface [INodeFilter](../../com.aspose.html.dom.traversal/inodefilter/)
-* package [com.aspose.html.Dom.Traversal.Filters](../../com.aspose.html.dom.traversal.filters/)
+* package [com.aspose.html.dom.traversal.filters](../../com.aspose.html.dom.traversal.filters/)
 * package [Aspose.HTML](../../)

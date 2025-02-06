@@ -17,5 +17,5 @@ public void Remove()
 ### See Also
 
 * interface [IChildNode](../)
-* package [com.aspose.html.Dom](../../ichildnode/)
+* package [com.aspose.html.dom](../../ichildnode/)
 * package [Aspose.HTML](../../../)

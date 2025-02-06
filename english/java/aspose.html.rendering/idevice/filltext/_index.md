@@ -22,5 +22,5 @@ public void FillText(String text, PointF pt)
 ### See Also
 
 * interface [IDevice](../)
-* package [com.aspose.html.Rendering](../../idevice/)
+* package [com.aspose.html.rendering](../../idevice/)
 * package [Aspose.HTML](../../../)

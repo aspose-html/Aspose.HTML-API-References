@@ -21,5 +21,5 @@ The internal subset.
 ### See Also
 
 * class [DocumentType](../)
-* package [com.aspose.html.Dom](../../documenttype/)
+* package [com.aspose.html.dom](../../documenttype/)
 * package [Aspose.HTML](../../../)

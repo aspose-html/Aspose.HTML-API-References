@@ -18,5 +18,5 @@ public MarkdownSyntaxFactory SyntaxFactory { get; }
 
 * class [MarkdownSyntaxFactory](../../markdownsyntaxfactory/)
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxtree/)
 * package [Aspose.HTML](../../../)

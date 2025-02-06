@@ -22,5 +22,5 @@ The response message.
 
 * class [ResponseMessage](../../responsemessage/)
 * interface [INetworkOperationContext](../)
-* package [com.aspose.html.Net](../../inetworkoperationcontext/)
+* package [com.aspose.html.net](../../inetworkoperationcontext/)
 * package [Aspose.HTML](../../../)

@@ -25,5 +25,5 @@ The value at the given index.
 ### See Also
 
 * class [SyntaxNodeCollection&lt;T&gt;](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../syntaxnodecollection-1/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../syntaxnodecollection-1/)
 * package [Aspose.HTML](../../../)

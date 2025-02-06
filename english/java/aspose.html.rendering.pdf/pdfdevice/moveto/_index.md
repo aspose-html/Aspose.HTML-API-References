@@ -21,5 +21,5 @@ public void MoveTo(PointF pt)
 ### See Also
 
 * class [PdfDevice](../)
-* package [com.aspose.html.Rendering.Pdf](../../pdfdevice/)
+* package [com.aspose.html.rendering.pdf](../../pdfdevice/)
 * package [Aspose.HTML](../../../)

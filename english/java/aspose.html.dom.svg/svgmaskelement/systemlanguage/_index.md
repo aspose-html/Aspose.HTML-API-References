@@ -22,5 +22,5 @@ The system language.
 
 * class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
 * class [SVGMaskElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgmaskelement/)
+* package [com.aspose.html.dom.svg](../../svgmaskelement/)
 * package [Aspose.HTML](../../../)

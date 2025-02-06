@@ -17,5 +17,5 @@ public bool Multiple { get; set; }
 ### See Also
 
 * class [SelectElement](../)
-* package [com.aspose.html.Forms](../../selectelement/)
+* package [com.aspose.html.forms](../../selectelement/)
 * package [Aspose.HTML](../../../)

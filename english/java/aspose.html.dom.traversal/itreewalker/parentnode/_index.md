@@ -22,5 +22,5 @@ The new parent node, or null if the current node has no parent in the TreeWalker
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [ITreeWalker](../)
-* package [com.aspose.html.Dom.Traversal](../../itreewalker/)
+* package [com.aspose.html.dom.traversal](../../itreewalker/)
 * package [Aspose.HTML](../../../)

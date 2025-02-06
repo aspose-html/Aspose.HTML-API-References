@@ -17,7 +17,7 @@ public FileCreateStreamProvider()
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* package [com.aspose.html.IO](../../filecreatestreamprovider/)
+* package [com.aspose.html.io](../../filecreatestreamprovider/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -37,7 +37,7 @@ public FileCreateStreamProvider(String name)
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* package [com.aspose.html.IO](../../filecreatestreamprovider/)
+* package [com.aspose.html.io](../../filecreatestreamprovider/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -58,5 +58,5 @@ public FileCreateStreamProvider(String directory, String name)
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* package [com.aspose.html.IO](../../filecreatestreamprovider/)
+* package [com.aspose.html.io](../../filecreatestreamprovider/)
 * package [Aspose.HTML](../../../)

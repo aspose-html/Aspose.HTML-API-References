@@ -1,7 +1,7 @@
 ---
 title: IOutputStorage Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.IO.IOutputStorage interface. Provides the creation and management of output streams OutputStream
+description: com.aspose.html.io.IOutputStorage interface. Provides the creation and management of output streams OutputStream
 type: docs
 weight: 3760
 url: /java/com.aspose.html.io/ioutputstorage/
@@ -23,5 +23,5 @@ public interface IOutputStorage
 
 ### See Also
 
-* package [com.aspose.html.IO](../../com.aspose.html.io/)
+* package [com.aspose.html.io](../../com.aspose.html.io/)
 * package [Aspose.HTML](../../)

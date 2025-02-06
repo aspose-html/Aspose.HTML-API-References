@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [SVGPreserveAspectRatio](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgpreserveaspectratio/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgpreserveaspectratio/)
 * package [Aspose.HTML](../../../)

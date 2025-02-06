@@ -21,5 +21,5 @@ public bool CtrlKey { get; }
 ### See Also
 
 * class [KeyboardEvent](../)
-* package [com.aspose.html.Dom.Events](../../keyboardevent/)
+* package [com.aspose.html.dom.events](../../keyboardevent/)
 * package [Aspose.HTML](../../../)

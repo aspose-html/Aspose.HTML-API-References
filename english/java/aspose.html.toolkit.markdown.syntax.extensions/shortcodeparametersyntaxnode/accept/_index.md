@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/)
 * class [ShortCodeParameterSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../shortcodeparametersyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../shortcodeparametersyntaxnode/)
 * package [Aspose.HTML](../../../)

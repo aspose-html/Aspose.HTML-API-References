@@ -18,5 +18,5 @@ public ParsingInstruction Instruction { get; }
 
 * enum [ParsingInstruction](../../parsinginstruction/)
 * struct [InlineParsingInstruction](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../inlineparsinginstruction/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../inlineparsinginstruction/)
 * package [Aspose.HTML](../../../)

@@ -17,7 +17,7 @@ public ImageSaveOptions()
 ### See Also
 
 * class [ImageSaveOptions](../)
-* package [com.aspose.html.Saving](../../imagesaveoptions/)
+* package [com.aspose.html.saving](../../imagesaveoptions/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public ImageSaveOptions(ImageFormat format)
 
 * enum [ImageFormat](../../../com.aspose.html.rendering.image/imageformat/)
 * class [ImageSaveOptions](../)
-* package [com.aspose.html.Saving](../../imagesaveoptions/)
+* package [com.aspose.html.saving](../../imagesaveoptions/)
 * package [Aspose.HTML](../../../)

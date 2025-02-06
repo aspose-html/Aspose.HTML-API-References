@@ -22,5 +22,5 @@ The MarkdownSyntaxNode.
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [BlockProxy](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../blockproxy/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../blockproxy/)
 * package [Aspose.HTML](../../../)

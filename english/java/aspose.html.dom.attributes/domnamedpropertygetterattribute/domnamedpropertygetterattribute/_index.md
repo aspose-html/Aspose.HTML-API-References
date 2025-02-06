@@ -17,5 +17,5 @@ public DOMNamedPropertyGetterAttribute()
 ### See Also
 
 * class [DOMNamedPropertyGetterAttribute](../)
-* package [com.aspose.html.Dom.Attributes](../../domnamedpropertygetterattribute/)
+* package [com.aspose.html.dom.attributes](../../domnamedpropertygetterattribute/)
 * package [Aspose.HTML](../../../)

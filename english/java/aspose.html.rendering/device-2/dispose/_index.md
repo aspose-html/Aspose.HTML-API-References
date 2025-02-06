@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* package [com.aspose.html.Rendering](../../device-2/)
+* package [com.aspose.html.rendering](../../device-2/)
 * package [Aspose.HTML](../../../)

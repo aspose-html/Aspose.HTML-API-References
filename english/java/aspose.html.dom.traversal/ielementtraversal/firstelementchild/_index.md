@@ -22,5 +22,5 @@ The first element child.
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * interface [IElementTraversal](../)
-* package [com.aspose.html.Dom.Traversal](../../ielementtraversal/)
+* package [com.aspose.html.dom.traversal](../../ielementtraversal/)
 * package [Aspose.HTML](../../../)

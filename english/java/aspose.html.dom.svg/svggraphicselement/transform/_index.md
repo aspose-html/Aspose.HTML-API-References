@@ -22,5 +22,5 @@ The element transform.
 
 * class [SVGAnimatedTransformList](../../../com.aspose.html.dom.svg.datatypes/svganimatedtransformlist/)
 * class [SVGGraphicsElement](../)
-* package [com.aspose.html.Dom.Svg](../../svggraphicselement/)
+* package [com.aspose.html.dom.svg](../../svggraphicselement/)
 * package [Aspose.HTML](../../../)

@@ -32,5 +32,5 @@ The newly created [`Event`](../../../com.aspose.html.dom.events/event/)
 
 * class [Event](../../../com.aspose.html.dom.events/event/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../document/)
 * package [Aspose.HTML](../../../)

@@ -27,5 +27,5 @@ The attribute ‘crossorigin’ of the given ‘script’ element.
 ### See Also
 
 * class [SVGScriptElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgscriptelement/)
+* package [com.aspose.html.dom.svg](../../svgscriptelement/)
 * package [Aspose.HTML](../../../)

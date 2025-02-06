@@ -1,7 +1,7 @@
 ---
 title: FontEmbeddingRule Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Doc.FontEmbeddingRule enum. Represents the font embedding rules
+description: com.aspose.html.rendering.doc.FontEmbeddingRule enum. Represents the font embedding rules
 type: docs
 weight: 4240
 url: /java/com.aspose.html.rendering.doc/fontembeddingrule/
@@ -23,5 +23,5 @@ public enum FontEmbeddingRule
 
 ### See Also
 
-* package [com.aspose.html.Rendering.Doc](../../com.aspose.html.rendering.doc/)
+* package [com.aspose.html.rendering.doc](../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../)

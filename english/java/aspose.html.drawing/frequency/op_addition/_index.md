@@ -15,5 +15,5 @@ public static Frequency operator +(Frequency a, Frequency b)
 ### See Also
 
 * class [Frequency](../)
-* package [com.aspose.html.Drawing](../../frequency/)
+* package [com.aspose.html.drawing](../../frequency/)
 * package [Aspose.HTML](../../../)

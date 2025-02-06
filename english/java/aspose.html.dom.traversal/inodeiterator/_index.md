@@ -1,7 +1,7 @@
 ---
 title: INodeIterator Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Traversal.INodeIterator interface. Iterators are used to step through a set of nodes e.g. the set of nodes in a NodeList the document subtree governed by a particular Node the results of a query or any other set of nodes. The set of nodes to be iterated is determined by the implementation of the NodeIterator. DOM Level 2 specifies a single NodeIterator implementation for document-order traversal of a document subtree. Instances of these iterators are created by calling DocumentTraversal .createNodeIterator
+description: com.aspose.html.dom.traversal.INodeIterator interface. Iterators are used to step through a set of nodes e.g. the set of nodes in a NodeList the document subtree governed by a particular Node the results of a query or any other set of nodes. The set of nodes to be iterated is determined by the implementation of the NodeIterator. DOM Level 2 specifies a single NodeIterator implementation for document-order traversal of a document subtree. Instances of these iterators are created by calling DocumentTraversal .createNodeIterator
 type: docs
 weight: 2510
 url: /java/com.aspose.html.dom.traversal/inodeiterator/
@@ -34,5 +34,5 @@ public interface INodeIterator : ITraversal
 ### See Also
 
 * interface [ITraversal](../itraversal/)
-* package [com.aspose.html.Dom.Traversal](../../com.aspose.html.dom.traversal/)
+* package [com.aspose.html.dom.traversal](../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../)

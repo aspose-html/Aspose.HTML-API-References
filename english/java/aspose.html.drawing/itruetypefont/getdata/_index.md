@@ -21,5 +21,5 @@ Stream with the font data
 ### See Also
 
 * interface [ITrueTypeFont](../)
-* package [com.aspose.html.Drawing](../../itruetypefont/)
+* package [com.aspose.html.drawing](../../itruetypefont/)
 * package [Aspose.HTML](../../../)

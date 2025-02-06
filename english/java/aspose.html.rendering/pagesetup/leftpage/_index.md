@@ -18,5 +18,5 @@ public Page LeftPage { get; }
 
 * class [Page](../../../com.aspose.html.drawing/page/)
 * class [PageSetup](../)
-* package [com.aspose.html.Rendering](../../pagesetup/)
+* package [com.aspose.html.rendering](../../pagesetup/)
 * package [Aspose.HTML](../../../)

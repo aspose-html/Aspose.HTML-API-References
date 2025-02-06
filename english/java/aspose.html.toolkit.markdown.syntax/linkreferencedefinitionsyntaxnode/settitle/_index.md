@@ -22,5 +22,5 @@ public void SetTitle(LinkTitleSyntaxNode title)
 
 * class [LinkTitleSyntaxNode](../../linktitlesyntaxnode/)
 * class [LinkReferenceDefinitionSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../linkreferencedefinitionsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../linkreferencedefinitionsyntaxnode/)
 * package [Aspose.HTML](../../../)

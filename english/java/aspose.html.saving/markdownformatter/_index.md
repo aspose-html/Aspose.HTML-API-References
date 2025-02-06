@@ -1,7 +1,7 @@
 ---
 title: MarkdownFormatter Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Saving.MarkdownFormatter enum. Specifies the way output will be formatted
+description: com.aspose.html.saving.MarkdownFormatter enum. Specifies the way output will be formatted
 type: docs
 weight: 4660
 url: /java/com.aspose.html.saving/markdownformatter/
@@ -23,5 +23,5 @@ public enum MarkdownFormatter
 
 ### See Also
 
-* package [com.aspose.html.Saving](../../com.aspose.html.saving/)
+* package [com.aspose.html.saving](../../com.aspose.html.saving/)
 * package [Aspose.HTML](../../)

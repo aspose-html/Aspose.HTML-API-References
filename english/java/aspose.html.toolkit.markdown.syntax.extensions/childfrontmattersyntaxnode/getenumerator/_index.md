@@ -21,5 +21,5 @@ The IEnumerator.
 ### See Also
 
 * class [ChildFrontMatterSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../childfrontmattersyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../childfrontmattersyntaxnode/)
 * package [Aspose.HTML](../../../)

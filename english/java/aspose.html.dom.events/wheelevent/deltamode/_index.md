@@ -21,5 +21,5 @@ The delta mode.
 ### See Also
 
 * class [WheelEvent](../)
-* package [com.aspose.html.Dom.Events](../../wheelevent/)
+* package [com.aspose.html.dom.events](../../wheelevent/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The String value.
 ### See Also
 
 * class [TableCellSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../tablecellsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../tablecellsyntaxnode/)
 * package [Aspose.HTML](../../../)

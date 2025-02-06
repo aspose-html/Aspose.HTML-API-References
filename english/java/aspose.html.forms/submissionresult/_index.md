@@ -1,7 +1,7 @@
 ---
 title: SubmissionResult Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Forms.SubmissionResult class. This class represents the result of the submitting form data to the server
+description: com.aspose.html.forms.SubmissionResult class. This class represents the result of the submitting form data to the server
 type: docs
 weight: 3040
 url: /java/com.aspose.html.forms/submissionresult/
@@ -31,5 +31,5 @@ public class SubmissionResult : IDisposable
 
 ### See Also
 
-* package [com.aspose.html.Forms](../../com.aspose.html.forms/)
+* package [com.aspose.html.forms](../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../)

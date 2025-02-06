@@ -21,5 +21,5 @@ public T BaseVal { get; set; }
 ### See Also
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svganimatedvalue-1/)
+* package [com.aspose.html.dom.svg.datatypes](../../svganimatedvalue-1/)
 * package [Aspose.HTML](../../../)

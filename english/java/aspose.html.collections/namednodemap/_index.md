@@ -1,7 +1,7 @@
 ---
 title: NamedNodeMap Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Collections.NamedNodeMap class. Represents collections of attributes that can be accessed by name
+description: com.aspose.html.collections.NamedNodeMap class. Represents collections of attributes that can be accessed by name
 type: docs
 weight: 40
 url: /java/com.aspose.html.collections/namednodemap/
@@ -38,5 +38,5 @@ public class NamedNodeMap : DOMObject, IDisposable, IEnumerable<Attr>
 
 * class [DOMObject](../../com.aspose.html.dom/domobject/)
 * class [Attr](../../com.aspose.html.dom/attr/)
-* package [com.aspose.html.Collections](../../com.aspose.html.collections/)
+* package [com.aspose.html.collections](../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../)

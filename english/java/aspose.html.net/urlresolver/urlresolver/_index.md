@@ -17,5 +17,5 @@ public UrlResolver()
 ### See Also
 
 * class [UrlResolver](../)
-* package [com.aspose.html.Net](../../urlresolver/)
+* package [com.aspose.html.net](../../urlresolver/)
 * package [Aspose.HTML](../../../)

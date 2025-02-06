@@ -21,5 +21,5 @@ public MarkdownException(String message)
 ### See Also
 
 * class [MarkdownException](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownexception/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../markdownexception/)
 * package [Aspose.HTML](../../../)

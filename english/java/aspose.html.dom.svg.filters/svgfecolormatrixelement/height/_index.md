@@ -22,5 +22,5 @@ The attribute ‘height’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGFEColorMatrixElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfecolormatrixelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfecolormatrixelement/)
 * package [Aspose.HTML](../../../)

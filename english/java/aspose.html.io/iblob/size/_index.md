@@ -17,5 +17,5 @@ public ulong Size { get; }
 ### See Also
 
 * interface [IBlob](../)
-* package [com.aspose.html.IO](../../iblob/)
+* package [com.aspose.html.io](../../iblob/)
 * package [Aspose.HTML](../../../)

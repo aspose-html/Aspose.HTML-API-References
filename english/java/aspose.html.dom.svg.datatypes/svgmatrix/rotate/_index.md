@@ -25,5 +25,5 @@ The resulting matrix.
 ### See Also
 
 * class [SVGMatrix](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgmatrix/)
+* package [com.aspose.html.dom.svg.datatypes](../../svgmatrix/)
 * package [Aspose.HTML](../../../)

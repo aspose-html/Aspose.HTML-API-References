@@ -22,5 +22,5 @@ The attribute �in� of the given �feGaussianBlur� element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFEGaussianBlurElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfegaussianblurelement/)
+* package [com.aspose.html.dom.svg.filters](../../svgfegaussianblurelement/)
 * package [Aspose.HTML](../../../)

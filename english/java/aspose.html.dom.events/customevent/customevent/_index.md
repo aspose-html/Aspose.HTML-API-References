@@ -21,7 +21,7 @@ public CustomEvent(String type)
 ### See Also
 
 * class [CustomEvent](../)
-* package [com.aspose.html.Dom.Events](../../customevent/)
+* package [com.aspose.html.dom.events](../../customevent/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public CustomEvent(String type, IDictionary<String, object> eventInitDict)
 ### See Also
 
 * class [CustomEvent](../)
-* package [com.aspose.html.Dom.Events](../../customevent/)
+* package [com.aspose.html.dom.events](../../customevent/)
 * package [Aspose.HTML](../../../)

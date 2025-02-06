@@ -1,7 +1,7 @@
 ---
 title: XpsDevice.XpsGraphicContext Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Xps.XpsDeviceXpsGraphicContext class. Holds current graphics control parameters for the XpsDevice. These parameters define the global framework within which the graphics operators execute
+description: com.aspose.html.rendering.xps.XpsDeviceXpsGraphicContext class. Holds current graphics control parameters for the XpsDevice. These parameters define the global framework within which the graphics operators execute
 type: docs
 weight: 4570
 url: /java/com.aspose.html.rendering.xps/xpsdevice.xpsgraphiccontext/
@@ -65,5 +65,5 @@ public class XpsGraphicContext : GraphicContext
 
 * class [GraphicContext](../../com.aspose.html.rendering/graphiccontext/)
 * class [XpsDevice](../xpsdevice/)
-* package [com.aspose.html.Rendering.Xps](../../com.aspose.html.rendering.xps/)
+* package [com.aspose.html.rendering.xps](../../com.aspose.html.rendering.xps/)
 * package [Aspose.HTML](../../)
