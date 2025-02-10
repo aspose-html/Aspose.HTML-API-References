@@ -3,7 +3,7 @@ title: Document.OnKeyPress
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnKeyPress event
 type: docs
-weight: 450
+
 url: /java/com.aspose.html.dom/document/onkeypress/
 ---
 ## Document.OnKeyPress event

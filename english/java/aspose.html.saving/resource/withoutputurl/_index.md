@@ -3,7 +3,7 @@ title: Resource.WithOutputUrl
 second_title: Aspose.HTML for Java API Reference
 description: Resource method. Specifies the new URL indicating where the resource will be located after processing
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.saving/resource/withoutputurl/
 ---
 ## Resource.WithOutputUrl method

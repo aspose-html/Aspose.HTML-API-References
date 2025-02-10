@@ -3,7 +3,7 @@ title: HTMLBaseFontElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLBaseFontElement class. Base font. See the BASEFONT element definition in HTML 4.01. This element is deprecated in HTML 4.01
 type: docs
-weight: 3340
+
 url: /java/com.aspose.html/htmlbasefontelement/
 ---
 ## HTMLBaseFontElement class

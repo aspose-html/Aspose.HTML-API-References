@@ -3,7 +3,7 @@ title: Document.CreateEvent
 second_title: Aspose.HTML for Java API Reference
 description: Document method. Creates an Event of a type supported by the implementation
 type: docs
-weight: 880
+
 url: /java/com.aspose.html.dom/document/createevent/
 ---
 ## Document.CreateEvent method

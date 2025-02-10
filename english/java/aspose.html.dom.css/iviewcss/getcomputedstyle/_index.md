@@ -3,7 +3,7 @@ title: IViewCSS.GetComputedStyle
 second_title: Aspose.HTML for Java API Reference
 description: IViewCSS method. The IViewCSS.getComputedStyle method returns an object containing the values of all CSS properties of an element after applying active stylesheets and resolving any basic computation those values may contain
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.css/iviewcss/getcomputedstyle/
 ---
 ## GetComputedStyle(Element) {#getcomputedstyle}

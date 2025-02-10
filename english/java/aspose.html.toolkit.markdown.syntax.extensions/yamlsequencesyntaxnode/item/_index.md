@@ -3,7 +3,7 @@ title: YamlSequenceSyntaxNode.Item
 second_title: Aspose.HTML for Java API Reference
 description: YamlSequenceSyntaxNode property. Get the ChildFrontMatterSyntaxNode by index
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/item/
 ---
 ## YamlSequenceSyntaxNode indexer

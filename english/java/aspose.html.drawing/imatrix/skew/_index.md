@@ -3,7 +3,7 @@ title: IMatrix.Skew
 second_title: Aspose.HTML for Java API Reference
 description: IMatrix method. Applies a skew transformation to the matrix
 type: docs
-weight: 170
+
 url: /java/com.aspose.html.drawing/imatrix/skew/
 ---
 ## IMatrix.Skew method

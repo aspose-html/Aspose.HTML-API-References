@@ -3,7 +3,7 @@ title: Frequency.op_Addition
 second_title: Aspose.HTML for Java API Reference
 description: Frequency method. 
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/frequency/op_addition/
 ---
 ## Frequency Addition operator

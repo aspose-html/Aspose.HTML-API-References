@@ -3,7 +3,7 @@ title: com.aspose.html.dom.css
 second_title: Aspose.HTML for Java API Reference
 description: Provides interfaces for DOM Level 2 Style Specification. Cascading Style Sheets CSS is a style sheet language that allows authors and users to attach style e.g. fonts and spacing to structured documents e.g. HTML documents and XML applications. It supports media-specific style sheets so that authors may tailor the presentation of their documents to visual browsers aural devices printers braille devices handheld devices etc. It also supports content positioning table layout features for internationalization and some properties related to user interface. By separating the presentation style of documents from the content of documents CSS simplifies Web authoring and site maintenance
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.dom.css/
 ---
 Provides interfaces for DOM Level 2 Style Specification. Cascading Style Sheets (CSS) is a style sheet language that allows authors and users to attach style (e.g., fonts and spacing) to structured documents (e.g., HTML documents and XML applications). It supports media-specific style sheets so that authors may tailor the presentation of their documents to visual browsers, aural devices, printers, braille devices, handheld devices, etc. It also supports content positioning, table layout, features for internationalization and some properties related to user interface. By separating the presentation style of documents from the content of documents, CSS simplifies Web authoring and site maintenance.

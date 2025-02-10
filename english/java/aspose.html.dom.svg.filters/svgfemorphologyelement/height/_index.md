@@ -3,7 +3,7 @@ title: SVGFEMorphologyElement.Height
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEMorphologyElement property. Corresponds to attribute height on the given filter element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.filters/svgfemorphologyelement/height/
 ---
 ## SVGFEMorphologyElement.Height property

@@ -3,7 +3,7 @@ title: SVGFEComponentTransferElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEComponentTransferElement property. Corresponds to attribute x on the given filter element
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg.filters/svgfecomponenttransferelement/x/
 ---
 ## SVGFEComponentTransferElement.X property

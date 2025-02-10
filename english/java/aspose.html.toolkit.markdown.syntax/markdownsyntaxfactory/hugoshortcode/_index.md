@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.HugoShortCode
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates HugoShortCodeSyntaxNode
 type: docs
-weight: 160
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hugoshortcode/
 ---
 ## MarkdownSyntaxFactory.HugoShortCode method

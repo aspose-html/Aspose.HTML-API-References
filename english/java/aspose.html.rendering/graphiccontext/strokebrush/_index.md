@@ -3,7 +3,7 @@ title: GraphicContext.StrokeBrush
 second_title: Aspose.HTML for Java API Reference
 description: GraphicContext property. Sets or gets the brush object that is used for stroked paths
 type: docs
-weight: 130
+
 url: /java/com.aspose.html.rendering/graphiccontext/strokebrush/
 ---
 ## GraphicContext.StrokeBrush property

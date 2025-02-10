@@ -3,7 +3,7 @@ title: TableSyntaxNode.GetHeader
 second_title: Aspose.HTML for Java API Reference
 description: TableSyntaxNode method. Defines the interface for get table header
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/tablesyntaxnode/getheader/
 ---
 ## TableSyntaxNode.GetHeader method

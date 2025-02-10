@@ -3,7 +3,7 @@ title: Event.StopPropagation
 second_title: Aspose.HTML for Java API Reference
 description: Event method. The StopPropagation method is used prevent further propagation of an event during event flow
 type: docs
-weight: 140
+
 url: /java/com.aspose.html.dom.events/event/stoppropagation/
 ---
 ## Event.StopPropagation method

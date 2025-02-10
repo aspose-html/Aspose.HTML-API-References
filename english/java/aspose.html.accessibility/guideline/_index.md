@@ -3,7 +3,7 @@ title: Guideline Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.accessibility.Guideline class. Guidelines - the next level after principles. There are not testable but outline frameworks and general goals that help authors understand success criteria and better apply the techniques. Guidelines are a list of acceptance criteria with type RuleDirectoryCriterion
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.accessibility/guideline/
 ---
 ## Guideline class

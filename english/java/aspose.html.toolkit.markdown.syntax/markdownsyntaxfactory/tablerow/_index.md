@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.TableRow
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates TableRowSyntaxNode
 type: docs
-weight: 410
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tablerow/
 ---
 ## MarkdownSyntaxFactory.TableRow method

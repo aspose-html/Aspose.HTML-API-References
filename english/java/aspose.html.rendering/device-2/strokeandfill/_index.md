@@ -3,7 +3,7 @@ title: Device-2.StrokeAndFill
 second_title: Aspose.HTML for Java API Reference
 description: Device method. Strokes and fill current path. This method terminates current path
 type: docs
-weight: 230
+
 url: /java/com.aspose.html.rendering/device-2/strokeandfill/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeAndFill method

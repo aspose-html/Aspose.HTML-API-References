@@ -3,7 +3,7 @@ title: DelimiterRun
 second_title: Aspose.HTML for Java API Reference
 description: DelimiterRun constructor. Create the DelimiterRun
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/delimiterrun/delimiterrun/
 ---
 ## DelimiterRun constructor

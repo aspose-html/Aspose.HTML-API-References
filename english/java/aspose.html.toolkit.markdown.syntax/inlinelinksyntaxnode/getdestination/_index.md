@@ -3,7 +3,7 @@ title: InlineLinkSyntaxNode.GetDestination
 second_title: Aspose.HTML for Java API Reference
 description: InlineLinkSyntaxNode method. Defines the interface for get destination
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/inlinelinksyntaxnode/getdestination/
 ---
 ## InlineLinkSyntaxNode.GetDestination method

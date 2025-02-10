@@ -3,7 +3,7 @@ title: UnitType.op_Inequality
 second_title: Aspose.HTML for Java API Reference
 description: UnitType method. 
 type: docs
-weight: 370
+
 url: /java/com.aspose.html.drawing/unittype/op_inequality/
 ---
 ## UnitType Inequality operator

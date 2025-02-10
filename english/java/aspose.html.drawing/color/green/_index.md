@@ -3,7 +3,7 @@ title: Color.Green
 second_title: Aspose.HTML for Java API Reference
 description: Color property. Represents the green component of the color
 type: docs
-weight: 260
+
 url: /java/com.aspose.html.drawing/color/green/
 ---
 ## Color.Green property

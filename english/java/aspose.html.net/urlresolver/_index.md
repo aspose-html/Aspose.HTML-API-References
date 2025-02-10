@@ -3,7 +3,7 @@ title: UrlResolver Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.net.UrlResolver class. Represents utility class for resolving absolute URL by a Uniform Resource Identifier URI
 type: docs
-weight: 4300
+
 url: /java/com.aspose.html.net/urlresolver/
 ---
 ## UrlResolver class

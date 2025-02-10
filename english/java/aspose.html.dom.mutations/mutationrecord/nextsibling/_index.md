@@ -3,7 +3,7 @@ title: MutationRecord.NextSibling
 second_title: Aspose.HTML for Java API Reference
 description: MutationRecord property. Return the next sibling of the added or removed nodes or null
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.mutations/mutationrecord/nextsibling/
 ---
 ## MutationRecord.NextSibling property

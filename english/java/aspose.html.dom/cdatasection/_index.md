@@ -3,7 +3,7 @@ title: CDATASection Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.CDATASection class. CDATA sections are used to escape blocks of text containing characters that would otherwise be regarded as markup
 type: docs
-weight: 370
+
 url: /java/com.aspose.html.dom/cdatasection/
 ---
 ## CDATASection class

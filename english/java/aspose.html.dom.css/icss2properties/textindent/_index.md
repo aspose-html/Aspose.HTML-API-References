@@ -3,7 +3,7 @@ title: ICSS2Properties.TextIndent
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies the indentation of the first line of text in a block. More precisely it specifies the indentation of the first box that flows into the blocks first line box. The box is indented with respect to the left or right for right-to-left layout edge of the line box. User agents should render this indentation as blank space
 type: docs
-weight: 1090
+
 url: /java/com.aspose.html.dom.css/icss2properties/textindent/
 ---
 ## ICSS2Properties.TextIndent property

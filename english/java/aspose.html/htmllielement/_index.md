@@ -3,7 +3,7 @@ title: HTMLLIElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLLIElement class. List item. See the LI element definition in HTML 4.01
 type: docs
-weight: 3570
+
 url: /java/com.aspose.html/htmllielement/
 ---
 ## HTMLLIElement class

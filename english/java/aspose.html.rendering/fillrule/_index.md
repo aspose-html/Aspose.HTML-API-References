@@ -3,7 +3,7 @@ title: FillRule Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.FillRule enum. Specifies the fill rule used in rendering SVG and HTML
 type: docs
-weight: 4440
+
 url: /java/com.aspose.html.rendering/fillrule/
 ---
 ## FillRule enumeration

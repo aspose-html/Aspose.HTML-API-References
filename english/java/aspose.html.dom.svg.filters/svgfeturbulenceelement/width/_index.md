@@ -3,7 +3,7 @@ title: SVGFETurbulenceElement.Width
 second_title: Aspose.HTML for Java API Reference
 description: SVGFETurbulenceElement property. Corresponds to attribute width on the given filter element
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/width/
 ---
 ## SVGFETurbulenceElement.Width property

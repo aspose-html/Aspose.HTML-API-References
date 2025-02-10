@@ -3,7 +3,7 @@ title: PlatformException
 second_title: Aspose.HTML for Java API Reference
 description: PlatformException constructor. Initializes a new instance of the PlatformException class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/platformexception/platformexception/
 ---
 ## PlatformException() {#constructor}

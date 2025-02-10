@@ -3,7 +3,7 @@ title: com.aspose.html.dom.svg.filters
 second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.dom.svg.filters package contains classes and interfaces related to filter effects in SVG specification
 type: docs
-weight: 180
+
 url: /java/com.aspose.html.dom.svg.filters/
 ---
 The **com.aspose.html.dom.svg.filters** package contains classes and interfaces related to filter effects in SVG specification.

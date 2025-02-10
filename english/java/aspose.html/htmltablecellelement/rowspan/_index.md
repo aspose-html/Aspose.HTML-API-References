@@ -3,7 +3,7 @@ title: HTMLTableCellElement.RowSpan
 second_title: Aspose.HTML for Java API Reference
 description: HTMLTableCellElement property. Number of rows spanned by cell. See the rowspan attribute definition in HTML 4.01
 type: docs
-weight: 120
+
 url: /java/com.aspose.html/htmltablecellelement/rowspan/
 ---
 ## HTMLTableCellElement.RowSpan property

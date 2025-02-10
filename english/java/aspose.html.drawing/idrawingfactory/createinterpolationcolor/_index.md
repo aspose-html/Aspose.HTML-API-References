@@ -3,7 +3,7 @@ title: IDrawingFactory.CreateInterpolationColor
 second_title: Aspose.HTML for Java API Reference
 description: IDrawingFactory method. Creates an interpolation color with the specified color and position
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/idrawingfactory/createinterpolationcolor/
 ---
 ## IDrawingFactory.CreateInterpolationColor method

@@ -3,7 +3,7 @@ title: TemplateData.ContentOptions
 second_title: Aspose.HTML for Java API Reference
 description: TemplateData property. Content object property
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.converters/templatedata/contentoptions/
 ---
 ## TemplateData.ContentOptions property

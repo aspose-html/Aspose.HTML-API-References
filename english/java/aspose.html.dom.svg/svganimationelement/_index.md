@@ -3,7 +3,7 @@ title: SVGAnimationElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGAnimationElement class. The SVGAnimationElement interface is the base interface for all of the animation element interfaces SVGAnimateElement SVGSetElement SVGAnimateColorElement SVGAnimateMotionElement and SVGAnimateTransformElement
 type: docs
-weight: 2110
+
 url: /java/com.aspose.html.dom.svg/svganimationelement/
 ---
 ## SVGAnimationElement class

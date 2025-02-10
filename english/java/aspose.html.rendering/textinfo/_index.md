@@ -3,7 +3,7 @@ title: TextInfo Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.TextInfo class. Contains information about rendered text
 type: docs
-weight: 4750
+
 url: /java/com.aspose.html.rendering/textinfo/
 ---
 ## TextInfo class

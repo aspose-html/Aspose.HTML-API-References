@@ -3,7 +3,7 @@ title: com.aspose.html.saving
 second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.saving package is presented by data classes for description of specific save options at conversion/saving process
 type: docs
-weight: 400
+
 url: /java/com.aspose.html.saving/
 ---
 The **com.aspose.html.saving** package is presented by data classes for description of specific save options at conversion/saving process.

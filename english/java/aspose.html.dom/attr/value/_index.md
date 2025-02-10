@@ -3,7 +3,7 @@ title: Attr.Value
 second_title: Aspose.HTML for Java API Reference
 description: Attr property. On retrieval the value of the attribute is returned as a String
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.dom/attr/value/
 ---
 ## Attr.Value property

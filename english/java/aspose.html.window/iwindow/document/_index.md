@@ -3,7 +3,7 @@ title: IWindow.Document
 second_title: Aspose.HTML for Java API Reference
 description: IWindow property. The document attribute must return the Window objects newest Document object
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.window/iwindow/document/
 ---
 ## IWindow.Document property

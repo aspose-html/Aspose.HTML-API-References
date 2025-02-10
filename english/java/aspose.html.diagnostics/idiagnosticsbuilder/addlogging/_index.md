@@ -3,7 +3,7 @@ title: IDiagnosticsBuilder.AddLogging
 second_title: Aspose.HTML for Java API Reference
 description: IDiagnosticsBuilder method. Enables logs collection
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.diagnostics/idiagnosticsbuilder/addlogging/
 ---
 ## IDiagnosticsBuilder.AddLogging method

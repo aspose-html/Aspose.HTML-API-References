@@ -3,7 +3,7 @@ title: RequestMessage.Credentials
 second_title: Aspose.HTML for Java API Reference
 description: RequestMessage property. Gets or sets authentication information for the request
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.net/requestmessage/credentials/
 ---
 ## RequestMessage.Credentials property

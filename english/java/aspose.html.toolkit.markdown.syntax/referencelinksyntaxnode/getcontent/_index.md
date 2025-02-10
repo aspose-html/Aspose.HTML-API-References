@@ -3,7 +3,7 @@ title: ReferenceLinkSyntaxNode.GetContent
 second_title: Aspose.HTML for Java API Reference
 description: ReferenceLinkSyntaxNode method. Defines the interface for get content
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/referencelinksyntaxnode/getcontent/
 ---
 ## ReferenceLinkSyntaxNode.GetContent method

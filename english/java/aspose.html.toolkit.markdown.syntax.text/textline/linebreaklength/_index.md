@@ -3,7 +3,7 @@ title: TextLine.LineBreakLength
 second_title: Aspose.HTML for Java API Reference
 description: TextLine property. Get the line break length
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textline/linebreaklength/
 ---
 ## TextLine.LineBreakLength property

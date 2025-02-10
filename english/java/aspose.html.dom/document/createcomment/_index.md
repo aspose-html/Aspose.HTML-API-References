@@ -3,7 +3,7 @@ title: Document.CreateComment
 second_title: Aspose.HTML for Java API Reference
 description: Document method. Creates a Comment node given the specified String
 type: docs
-weight: 820
+
 url: /java/com.aspose.html.dom/document/createcomment/
 ---
 ## Document.CreateComment method

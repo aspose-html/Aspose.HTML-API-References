@@ -3,7 +3,7 @@ title: InlineParsingInstruction.Equals
 second_title: Aspose.HTML for Java API Reference
 description: InlineParsingInstruction method. Compare two InlineParsingInstruction
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/equals/
 ---
 ## Equals(InlineParsingInstruction) {#equals}

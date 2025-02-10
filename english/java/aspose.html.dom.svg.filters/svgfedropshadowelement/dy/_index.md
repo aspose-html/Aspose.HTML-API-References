@@ -3,7 +3,7 @@ title: SVGFEDropShadowElement.Dy
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEDropShadowElement property. Corresponds to attribute dy on the given feDropShadow element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.filters/svgfedropshadowelement/dy/
 ---
 ## SVGFEDropShadowElement.Dy property

@@ -3,7 +3,7 @@ title: IDOMImplementation.CreateDocument
 second_title: Aspose.HTML for Java API Reference
 description: IDOMImplementation method. Creates a DOM Document object of the specified type with its document element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom/idomimplementation/createdocument/
 ---
 ## IDOMImplementation.CreateDocument method

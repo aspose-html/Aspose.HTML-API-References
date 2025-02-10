@@ -3,7 +3,7 @@ title: Criterion.AdvisoryTechniques
 second_title: Aspose.HTML for Java API Reference
 description: Criterion property. The methods are of a recommendatory nature
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.accessibility/criterion/advisorytechniques/
 ---
 ## Criterion.AdvisoryTechniques property

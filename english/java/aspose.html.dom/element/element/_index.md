@@ -3,7 +3,7 @@ title: Element
 second_title: Aspose.HTML for Java API Reference
 description: Element constructor. Initializes a new instance of the Element class. Dont call this constructor directly use CreateElement or CreateElementNS
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom/element/element/
 ---
 ## Element constructor

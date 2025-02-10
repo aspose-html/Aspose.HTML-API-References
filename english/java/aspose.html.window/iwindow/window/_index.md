@@ -3,7 +3,7 @@ title: IWindow.Window
 second_title: Aspose.HTML for Java API Reference
 description: IWindow property. Returns the Window objects browsing contexts WindowProxy object
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.window/iwindow/window/
 ---
 ## IWindow.Window property

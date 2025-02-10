@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.OrderedListItem
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates a new instance of the ListItemSyntaxNode class with ordered list item marker
 type: docs
-weight: 320
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/orderedlistitem/
 ---
 ## MarkdownSyntaxFactory.OrderedListItem method

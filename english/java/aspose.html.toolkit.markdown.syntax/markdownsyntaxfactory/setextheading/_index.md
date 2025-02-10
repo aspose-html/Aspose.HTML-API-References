@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.SetextHeading
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates SetextHeadingSyntaxNode
 type: docs
-weight: 360
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/setextheading/
 ---
 ## MarkdownSyntaxFactory.SetextHeading method

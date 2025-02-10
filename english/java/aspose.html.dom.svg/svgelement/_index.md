@@ -3,7 +3,7 @@ title: SVGElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGElement class. All of the SVG DOM interfaces that correspond directly to elements in the SVG language such as the SVGPathElement interface for the path element derive from the SVGElement interface
 type: docs
-weight: 2190
+
 url: /java/com.aspose.html.dom.svg/svgelement/
 ---
 ## SVGElement class

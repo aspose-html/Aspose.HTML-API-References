@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.LinkReferenceDefinition
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates LinkReferenceDefinitionSyntaxNode
 type: docs
-weight: 260
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkreferencedefinition/
 ---
 ## MarkdownSyntaxFactory.LinkReferenceDefinition method

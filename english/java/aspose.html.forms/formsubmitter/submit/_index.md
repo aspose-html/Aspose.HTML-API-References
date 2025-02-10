@@ -3,7 +3,7 @@ title: FormSubmitter.Submit
 second_title: Aspose.HTML for Java API Reference
 description: FormSubmitter method. Submits the form data to the server
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.forms/formsubmitter/submit/
 ---
 ## Submit() {#submit}

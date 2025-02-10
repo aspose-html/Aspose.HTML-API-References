@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.IsPointInStroke
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Reports whether or not the specified point is inside the area contained by the stroking of a path
 type: docs
-weight: 270
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/ispointinstroke/
 ---
 ## IsPointInStroke(double, double) {#ispointinstroke_1}

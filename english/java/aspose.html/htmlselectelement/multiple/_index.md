@@ -3,7 +3,7 @@ title: HTMLSelectElement.Multiple
 second_title: Aspose.HTML for Java API Reference
 description: HTMLSelectElement property. If true multiple OPTION elements may be selected in this SELECT. See the multiple attribute definition in HTML 4.01
 type: docs
-weight: 40
+
 url: /java/com.aspose.html/htmlselectelement/multiple/
 ---
 ## HTMLSelectElement.Multiple property

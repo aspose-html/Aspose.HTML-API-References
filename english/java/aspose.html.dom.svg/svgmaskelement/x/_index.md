@@ -3,7 +3,7 @@ title: SVGMaskElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGMaskElement property. Corresponds to attribute x on the given mask element. Takes one of the constants defined in SVGUnitTypes
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.dom.svg/svgmaskelement/x/
 ---
 ## SVGMaskElement.X property

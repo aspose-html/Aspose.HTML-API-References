@@ -3,7 +3,7 @@ title: MediaQueryList.RemoveListener
 second_title: Aspose.HTML for Java API Reference
 description: MediaQueryList method. Remove MediaQueryList matches state change event listener
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.window/mediaquerylist/removelistener/
 ---
 ## MediaQueryList.RemoveListener method

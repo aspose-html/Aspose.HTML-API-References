@@ -3,7 +3,7 @@ title: SVGFEDistantLightElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.filters.SVGFEDistantLightElement class. The SVGFEDistantLightElement interface corresponds to the feDistantLight element
 type: docs
-weight: 1600
+
 url: /java/com.aspose.html.dom.svg.filters/svgfedistantlightelement/
 ---
 ## SVGFEDistantLightElement class

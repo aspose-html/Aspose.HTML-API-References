@@ -3,7 +3,7 @@ title: SVGFETileElement.Width
 second_title: Aspose.HTML for Java API Reference
 description: SVGFETileElement property. Corresponds to attribute width on the given filter element
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg.filters/svgfetileelement/width/
 ---
 ## SVGFETileElement.Width property

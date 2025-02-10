@@ -3,7 +3,7 @@ title: HTMLElement.OnCueChange
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnCueChange event
 type: docs
-weight: 140
+
 url: /java/com.aspose.html/htmlelement/oncuechange/
 ---
 ## HTMLElement.OnCueChange event

@@ -3,7 +3,7 @@ title: WebImageFormat Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.WebImageFormat enum. Specifies the supported image formats
 type: docs
-weight: 3080
+
 url: /java/com.aspose.html.drawing/webimageformat/
 ---
 ## WebImageFormat enumeration

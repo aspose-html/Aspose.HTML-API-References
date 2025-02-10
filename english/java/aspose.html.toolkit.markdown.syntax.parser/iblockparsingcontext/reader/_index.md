@@ -3,7 +3,7 @@ title: IBlockParsingContext.Reader
 second_title: Aspose.HTML for Java API Reference
 description: IBlockParsingContext property. Get the Reader
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/reader/
 ---
 ## IBlockParsingContext.Reader property

@@ -3,7 +3,7 @@ title: SVGFEOffsetElement.In1
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEOffsetElement property. Corresponds to attribute in on the given feOffset element
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeoffsetelement/in1/
 ---
 ## SVGFEOffsetElement.In1 property

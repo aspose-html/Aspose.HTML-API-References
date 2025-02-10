@@ -3,7 +3,7 @@ title: IWindow.LocalStorage
 second_title: Aspose.HTML for Java API Reference
 description: IWindow property. Returns a Storage object that allows you to save key/value pairs in the user agent
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.window/iwindow/localstorage/
 ---
 ## IWindow.LocalStorage property

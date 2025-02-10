@@ -3,7 +3,7 @@ title: IGlobalEventHandlers.OnCanPlayThrough
 second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnCanPlayThrough event
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom/iglobaleventhandlers/oncanplaythrough/
 ---
 ## IGlobalEventHandlers.OnCanPlayThrough event

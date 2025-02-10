@@ -3,7 +3,7 @@ title: Url
 second_title: Aspose.HTML for Java API Reference
 description: Url constructor. Initializes a new instance of the Url with the specified URL
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/url/url/
 ---
 ## Url(String) {#constructor}

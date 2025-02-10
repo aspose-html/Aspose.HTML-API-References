@@ -3,7 +3,7 @@ title: Attr.Name
 second_title: Aspose.HTML for Java API Reference
 description: Attr property. Returns the name of this attribute
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom/attr/name/
 ---
 ## Attr.Name property

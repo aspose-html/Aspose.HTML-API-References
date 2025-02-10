@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.Scale
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Adds a scaling transformation to the canvas units by x horizontally and by y vertically
 type: docs
-weight: 350
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/scale/
 ---
 ## ICanvasRenderingContext2D.Scale method

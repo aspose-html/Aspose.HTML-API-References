@@ -3,7 +3,7 @@ title: License.SetLicense
 second_title: Aspose.HTML for Java API Reference
 description: License method. Licenses the component
 type: docs
-weight: 20
+
 url: /java/com.aspose.html/license/setlicense/
 ---
 ## SetLicense(String) {#setlicense_1}

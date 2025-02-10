@@ -3,7 +3,7 @@ title: SVGStyleElement.Type
 second_title: Aspose.HTML for Java API Reference
 description: SVGStyleElement property. Corresponds to attribute type on the given element
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg/svgstyleelement/type/
 ---
 ## SVGStyleElement.Type property

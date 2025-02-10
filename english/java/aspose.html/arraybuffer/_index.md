@@ -3,7 +3,7 @@ title: ArrayBuffer Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.ArrayBuffer class. The ArrayBuffer object is used to represent a generic fixed-length raw binary data buffer
 type: docs
-weight: 170
+
 url: /java/com.aspose.html/arraybuffer/
 ---
 ## ArrayBuffer class

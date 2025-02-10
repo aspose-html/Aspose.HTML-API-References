@@ -3,7 +3,7 @@ title: HTMLTableColElement.Span
 second_title: Aspose.HTML for Java API Reference
 description: HTMLTableColElement property. Indicates the number of columns in a group or affected by a grouping. See the span attribute definition in HTML 4.01
 type: docs
-weight: 40
+
 url: /java/com.aspose.html/htmltablecolelement/span/
 ---
 ## HTMLTableColElement.Span property

@@ -3,7 +3,7 @@ title: ICSSStyleRule.SelectorText
 second_title: Aspose.HTML for Java API Reference
 description: ICSSStyleRule property. The textual representation of the selector for the rule set. The implementation may have stripped out insignificant whitespace while parsing the selector
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.css/icssstylerule/selectortext/
 ---
 ## ICSSStyleRule.SelectorText property

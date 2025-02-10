@@ -3,7 +3,7 @@ title: HTMLElement.OnReset
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnReset event
 type: docs
-weight: 430
+
 url: /java/com.aspose.html/htmlelement/onreset/
 ---
 ## HTMLElement.OnReset event

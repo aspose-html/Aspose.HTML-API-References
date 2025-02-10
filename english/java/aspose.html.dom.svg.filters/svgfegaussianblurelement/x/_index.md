@@ -3,7 +3,7 @@ title: SVGFEGaussianBlurElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEGaussianBlurElement property. Corresponds to attribute x on the given filter element
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.svg.filters/svgfegaussianblurelement/x/
 ---
 ## SVGFEGaussianBlurElement.X property

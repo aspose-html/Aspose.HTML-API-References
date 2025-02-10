@@ -3,7 +3,7 @@ title: HTMLParamElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLParamElement class. Parameters fed to the OBJECT element. See the PARAM element definition in HTML 4.01
 type: docs
-weight: 3710
+
 url: /java/com.aspose.html/htmlparamelement/
 ---
 ## HTMLParamElement class

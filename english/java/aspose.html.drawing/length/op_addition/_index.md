@@ -3,7 +3,7 @@ title: Length.op_Addition
 second_title: Aspose.HTML for Java API Reference
 description: Length method. 
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/length/op_addition/
 ---
 ## Length Addition operator

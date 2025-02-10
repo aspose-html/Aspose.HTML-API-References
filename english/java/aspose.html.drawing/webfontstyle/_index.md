@@ -3,7 +3,7 @@ title: WebFontStyle Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.WebFontStyle enum. Specifies the formatting applied to the text
 type: docs
-weight: 3070
+
 url: /java/com.aspose.html.drawing/webfontstyle/
 ---
 ## WebFontStyle enumeration

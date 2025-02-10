@@ -3,7 +3,7 @@ title: Resource.OutputUrl
 second_title: Aspose.HTML for Java API Reference
 description: Resource property. Gets or sets the URL indicating where the resource will be located after processing
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.saving/resource/outputurl/
 ---
 ## Resource.OutputUrl property

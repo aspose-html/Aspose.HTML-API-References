@@ -3,7 +3,7 @@ title: MouseEvent.ScreenX
 second_title: Aspose.HTML for Java API Reference
 description: MouseEvent property. The horizontal coordinate at which the event occurred relative to the origin of the screen coordinate system
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.dom.events/mouseevent/screenx/
 ---
 ## MouseEvent.ScreenX property

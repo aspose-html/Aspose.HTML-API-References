@@ -3,7 +3,7 @@ title: LineParsingInstruction.WithContentIndentation
 second_title: Aspose.HTML for Java API Reference
 description: LineParsingInstruction method. Defines the interface for get LineParsingInstruction
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/withcontentindentation/
 ---
 ## LineParsingInstruction.WithContentIndentation method

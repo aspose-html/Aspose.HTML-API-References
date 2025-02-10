@@ -3,7 +3,7 @@ title: TemplateContentOptions.Format
 second_title: Aspose.HTML for Java API Reference
 description: TemplateContentOptions property. String representation of ContentType property
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.converters/templatecontentoptions/format/
 ---
 ## TemplateContentOptions.Format property

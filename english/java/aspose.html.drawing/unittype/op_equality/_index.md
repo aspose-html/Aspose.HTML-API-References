@@ -3,7 +3,7 @@ title: UnitType.op_Equality
 second_title: Aspose.HTML for Java API Reference
 description: UnitType method. 
 type: docs
-weight: 340
+
 url: /java/com.aspose.html.drawing/unittype/op_equality/
 ---
 ## UnitType Equality operator

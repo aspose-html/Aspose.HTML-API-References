@@ -3,7 +3,7 @@ title: IGlobalEventHandlers.OnSubmit
 second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnSubmit event
 type: docs
-weight: 450
+
 url: /java/com.aspose.html.dom/iglobaleventhandlers/onsubmit/
 ---
 ## IGlobalEventHandlers.OnSubmit event

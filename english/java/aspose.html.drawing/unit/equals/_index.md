@@ -3,7 +3,7 @@ title: Unit.Equals
 second_title: Aspose.HTML for Java API Reference
 description: Unit method. Determines whether the specified Unit is equal to this instance
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.drawing/unit/equals/
 ---
 ## Equals(Unit) {#equals}

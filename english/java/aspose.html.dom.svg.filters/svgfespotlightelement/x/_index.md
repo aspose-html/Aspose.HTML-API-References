@@ -3,7 +3,7 @@ title: SVGFESpotLightElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGFESpotLightElement property. Corresponds to attribute x on the given feSpotLight element
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg.filters/svgfespotlightelement/x/
 ---
 ## SVGFESpotLightElement.X property

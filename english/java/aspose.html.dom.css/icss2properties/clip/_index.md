@@ -3,7 +3,7 @@ title: ICSS2Properties.Clip
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The clip property applies to elements that have a overflow property with a value other than visible
 type: docs
-weight: 330
+
 url: /java/com.aspose.html.dom.css/icss2properties/clip/
 ---
 ## ICSS2Properties.Clip property

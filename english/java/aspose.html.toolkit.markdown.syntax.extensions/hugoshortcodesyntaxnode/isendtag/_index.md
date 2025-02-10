@@ -3,7 +3,7 @@ title: HugoShortCodeSyntaxNode.IsEndTag
 second_title: Aspose.HTML for Java API Reference
 description: HugoShortCodeSyntaxNode method. Defines the interface for check IsEndTag
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/isendtag/
 ---
 ## HugoShortCodeSyntaxNode.IsEndTag method

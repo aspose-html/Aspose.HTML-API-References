@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.HTML for Java API Reference
 description: Page constructor. Initializes a new instance of the Page class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/page/page/
 ---
 ## Page(Size, Margin) {#constructor_3}

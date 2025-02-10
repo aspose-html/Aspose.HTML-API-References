@@ -3,7 +3,7 @@ title: SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_TABLE
 second_title: Aspose.HTML for Java API Reference
 description: SVGComponentTransferFunctionElement field. Corresponds to value table
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/svg_fecomponenttransfer_type_table/
 ---
 ## SVGComponentTransferFunctionElement.SVG_FECOMPONENTTRANSFER_TYPE_TABLE field

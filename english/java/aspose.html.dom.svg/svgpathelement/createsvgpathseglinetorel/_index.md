@@ -3,7 +3,7 @@ title: SVGPathElement.CreateSVGPathSegLinetoRel
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegLinetoRel object
 type: docs
-weight: 170
+
 url: /java/com.aspose.html.dom.svg/svgpathelement/createsvgpathseglinetorel/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoRel method

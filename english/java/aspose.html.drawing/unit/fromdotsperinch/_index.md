@@ -3,7 +3,7 @@ title: Unit.FromDotsPerInch
 second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Resolution object that is represented in dots per inch
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.drawing/unit/fromdotsperinch/
 ---
 ## Unit.FromDotsPerInch method

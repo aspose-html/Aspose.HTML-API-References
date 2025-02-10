@@ -3,7 +3,7 @@ title: TextSpan Struct
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.text.TextSpan struct. Represents the text span
 type: docs
-weight: 5920
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textspan/
 ---
 ## TextSpan structure

@@ -3,7 +3,7 @@ title: TextSpan.CreateEmpty
 second_title: Aspose.HTML for Java API Reference
 description: TextSpan method. Create the empty text span
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textspan/createempty/
 ---
 ## CreateEmpty() {#createempty}

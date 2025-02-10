@@ -3,7 +3,7 @@ title: HTMLTextAreaElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLTextAreaElement class. Multi-line text field. See the TEXTAREA element definition in HTML 4.01
 type: docs
-weight: 3840
+
 url: /java/com.aspose.html/htmltextareaelement/
 ---
 ## HTMLTextAreaElement class

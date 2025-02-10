@@ -3,7 +3,7 @@ title: UnitType.Vmax
 second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is relative to 1 of viewports larger dimension Try it
 type: docs
-weight: 280
+
 url: /java/com.aspose.html.drawing/unittype/vmax/
 ---
 ## UnitType.Vmax field

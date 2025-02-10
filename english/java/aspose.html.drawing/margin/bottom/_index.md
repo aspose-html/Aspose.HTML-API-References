@@ -3,7 +3,7 @@ title: Margin.Bottom
 second_title: Aspose.HTML for Java API Reference
 description: Margin property. Gets or sets the bottom
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.drawing/margin/bottom/
 ---
 ## Margin.Bottom property

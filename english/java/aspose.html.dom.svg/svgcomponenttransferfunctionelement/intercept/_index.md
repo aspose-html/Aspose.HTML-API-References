@@ -3,7 +3,7 @@ title: SVGComponentTransferFunctionElement.Intercept
 second_title: Aspose.HTML for Java API Reference
 description: SVGComponentTransferFunctionElement property. Corresponds to attribute intercept on the given element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/intercept/
 ---
 ## SVGComponentTransferFunctionElement.Intercept property

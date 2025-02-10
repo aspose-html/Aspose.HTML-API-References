@@ -3,7 +3,7 @@ title: IMatrix.TransformRectangle
 second_title: Aspose.HTML for Java API Reference
 description: IMatrix method. Transforms the specified rectangle using this matrix
 type: docs
-weight: 200
+
 url: /java/com.aspose.html.drawing/imatrix/transformrectangle/
 ---
 ## IMatrix.TransformRectangle method

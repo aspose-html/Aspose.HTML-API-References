@@ -3,7 +3,7 @@ title: HTMLElement.OnPause
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnPause event
 type: docs
-weight: 380
+
 url: /java/com.aspose.html/htmlelement/onpause/
 ---
 ## HTMLElement.OnPause event

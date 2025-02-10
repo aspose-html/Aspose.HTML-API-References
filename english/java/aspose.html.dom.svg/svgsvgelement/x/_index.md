@@ -3,7 +3,7 @@ title: SVGSVGElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGSVGElement property. Corresponds to attribute x on the given svg element
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.svg/svgsvgelement/x/
 ---
 ## SVGSVGElement.X property

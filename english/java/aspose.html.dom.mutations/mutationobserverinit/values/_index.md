@@ -3,7 +3,7 @@ title: MutationObserverInit.Values
 second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit property. Gets a collection containing the values in the MutationObserverInit collection
 type: docs
-weight: 130
+
 url: /java/com.aspose.html.dom.mutations/mutationobserverinit/values/
 ---
 ## MutationObserverInit.Values property

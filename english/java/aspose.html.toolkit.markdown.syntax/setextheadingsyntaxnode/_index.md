@@ -3,7 +3,7 @@ title: SetextHeadingSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.SetextHeadingSyntaxNode class. Represent the Setext heading syntax node
 type: docs
-weight: 5790
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/setextheadingsyntaxnode/
 ---
 ## SetextHeadingSyntaxNode class

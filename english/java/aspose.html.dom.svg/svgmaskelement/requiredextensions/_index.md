@@ -3,7 +3,7 @@ title: SVGMaskElement.RequiredExtensions
 second_title: Aspose.HTML for Java API Reference
 description: SVGMaskElement property. Corresponds to attribute requiredExtensions on the given element
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg/svgmaskelement/requiredextensions/
 ---
 ## SVGMaskElement.RequiredExtensions property

@@ -3,7 +3,7 @@ title: HttpMethod Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.net.HttpMethod class. Represents utility class for retrieving and comparing standard HTTP methods
 type: docs
-weight: 4120
+
 url: /java/com.aspose.html.net/httpmethod/
 ---
 ## HttpMethod class

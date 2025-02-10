@@ -3,7 +3,7 @@ title: SVGViewElement.ViewBox
 second_title: Aspose.HTML for Java API Reference
 description: SVGViewElement property. Corresponds to attribute viewBox on the given element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svgviewelement/viewbox/
 ---
 ## SVGViewElement.ViewBox property

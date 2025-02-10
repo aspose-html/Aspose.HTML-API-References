@@ -3,7 +3,7 @@ title: CharacterReferenceSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.CharacterReferenceSyntaxNode class. Represents the CharacterReferenceSyntaxNode
 type: docs
-weight: 5090
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/
 ---
 ## CharacterReferenceSyntaxNode class

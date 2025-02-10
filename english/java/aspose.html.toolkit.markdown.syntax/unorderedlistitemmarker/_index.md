@@ -3,7 +3,7 @@ title: UnorderedListItemMarker Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.UnorderedListItemMarker class. Represent the unordered list item syntax
 type: docs
-weight: 5980
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/unorderedlistitemmarker/
 ---
 ## UnorderedListItemMarker class

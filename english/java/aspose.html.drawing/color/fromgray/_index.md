@@ -3,7 +3,7 @@ title: Color.FromGray
 second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a new Color with the requested gray value
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.drawing/color/fromgray/
 ---
 ## Color.FromGray method

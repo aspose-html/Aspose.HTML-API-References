@@ -3,7 +3,7 @@ title: DocDevice.DrawImage
 second_title: Aspose.HTML for Java API Reference
 description: DocDevice method. Draws the specified image
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.rendering.doc/docdevice/drawimage/
 ---
 ## DocDevice.DrawImage method

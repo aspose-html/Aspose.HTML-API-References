@@ -3,7 +3,7 @@ title: Element.HasAttribute
 second_title: Aspose.HTML for Java API Reference
 description: Element method. Returns true when an attribute with a given name is specified on this element or has a default value false otherwise
 type: docs
-weight: 310
+
 url: /java/com.aspose.html.dom/element/hasattribute/
 ---
 ## Element.HasAttribute method

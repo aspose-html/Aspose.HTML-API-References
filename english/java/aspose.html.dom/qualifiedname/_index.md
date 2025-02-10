@@ -3,7 +3,7 @@ title: QualifiedName Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.QualifiedName class. Represents an HTML qualified name
 type: docs
-weight: 1190
+
 url: /java/com.aspose.html.dom/qualifiedname/
 ---
 ## QualifiedName class

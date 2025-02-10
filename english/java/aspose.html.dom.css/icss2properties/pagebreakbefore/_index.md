@@ -3,7 +3,7 @@ title: ICSS2Properties.PageBreakBefore
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. Values for these properties have the following meanings
 type: docs
-weight: 870
+
 url: /java/com.aspose.html.dom.css/icss2properties/pagebreakbefore/
 ---
 ## ICSS2Properties.PageBreakBefore property

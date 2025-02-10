@@ -3,7 +3,7 @@ title: IDrawingFactory.CreateLinearGradientBrush
 second_title: Aspose.HTML for Java API Reference
 description: IDrawingFactory method. Creates a linear gradient brush with the specified parameters
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.drawing/idrawingfactory/createlineargradientbrush/
 ---
 ## IDrawingFactory.CreateLinearGradientBrush method

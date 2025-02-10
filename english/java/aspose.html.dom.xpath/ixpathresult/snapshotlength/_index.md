@@ -3,7 +3,7 @@ title: IXPathResult.SnapshotLength
 second_title: Aspose.HTML for Java API Reference
 description: IXPathResult property. The number of nodes in the result snapshot. Valid values for snapshotItem indices are 0 to snapshotLength-1 inclusive
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.xpath/ixpathresult/snapshotlength/
 ---
 ## IXPathResult.SnapshotLength property

@@ -3,7 +3,7 @@ title: SVGPathSegList
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegList constructor. Initializes a new instance of the SVGPathSegList class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathseglist/svgpathseglist/
 ---
 ## SVGPathSegList() {#constructor}

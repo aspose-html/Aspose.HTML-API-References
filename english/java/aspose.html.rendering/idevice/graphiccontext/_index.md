@@ -3,7 +3,7 @@ title: IDevice.GraphicContext
 second_title: Aspose.HTML for Java API Reference
 description: IDevice property. Gets the graphic context
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.rendering/idevice/graphiccontext/
 ---
 ## IDevice.GraphicContext property

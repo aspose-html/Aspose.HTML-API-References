@@ -3,7 +3,7 @@ title: HTMLFontElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLFontElement class. Local change to font. See the FONT element definition in HTML 4.01. This element is deprecated in HTML 4.01
 type: docs
-weight: 3450
+
 url: /java/com.aspose.html/htmlfontelement/
 ---
 ## HTMLFontElement class

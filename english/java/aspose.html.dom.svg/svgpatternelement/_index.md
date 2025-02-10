@@ -3,7 +3,7 @@ title: SVGPatternElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGPatternElement class. The SVGPatternElement interface corresponds to the pattern element
 type: docs
-weight: 2370
+
 url: /java/com.aspose.html.dom.svg/svgpatternelement/
 ---
 ## SVGPatternElement class

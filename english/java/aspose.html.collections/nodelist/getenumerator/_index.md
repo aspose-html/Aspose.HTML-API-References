@@ -3,7 +3,7 @@ title: NodeList.GetEnumerator
 second_title: Aspose.HTML for Java API Reference
 description: NodeList method. Returns an enumerator that iterates through the collection
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.collections/nodelist/getenumerator/
 ---
 ## NodeList.GetEnumerator method

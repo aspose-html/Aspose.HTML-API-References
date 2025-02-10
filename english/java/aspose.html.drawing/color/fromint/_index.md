@@ -3,7 +3,7 @@ title: Color.FromInt
 second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a new Color with the requested ARGB value
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.drawing/color/fromint/
 ---
 ## Color.FromInt method

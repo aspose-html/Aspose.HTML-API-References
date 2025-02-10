@@ -3,7 +3,7 @@ title: Document.OnBlur
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnBlur event
 type: docs
-weight: 290
+
 url: /java/com.aspose.html.dom/document/onblur/
 ---
 ## Document.OnBlur event

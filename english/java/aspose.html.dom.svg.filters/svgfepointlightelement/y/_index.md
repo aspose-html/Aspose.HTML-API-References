@@ -3,7 +3,7 @@ title: SVGFEPointLightElement.Y
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEPointLightElement property. Corresponds to attribute y on the given fePointLight element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.filters/svgfepointlightelement/y/
 ---
 ## SVGFEPointLightElement.Y property

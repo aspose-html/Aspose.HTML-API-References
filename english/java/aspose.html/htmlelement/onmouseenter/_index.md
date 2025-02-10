@@ -3,7 +3,7 @@ title: HTMLElement.OnMouseEnter
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnMouseEnter event
 type: docs
-weight: 310
+
 url: /java/com.aspose.html/htmlelement/onmouseenter/
 ---
 ## HTMLElement.OnMouseEnter event

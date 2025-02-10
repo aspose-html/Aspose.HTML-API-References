@@ -3,7 +3,7 @@ title: KeyboardEvent
 second_title: Aspose.HTML for Java API Reference
 description: KeyboardEvent constructor. Initializes a new instance of the KeyboardEvent class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.events/keyboardevent/keyboardevent/
 ---
 ## KeyboardEvent(String) {#constructor}

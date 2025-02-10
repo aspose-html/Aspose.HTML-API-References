@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.Clip
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Creates a new clipping region by calculating the intersection of the current clipping region and the area described by the path using the non-zero winding number rule. Open subpaths must be implicitly closed when computing the clipping region without affecting the actual subpaths. The new clipping region replaces the current clipping region
 type: docs
-weight: 150
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/clip/
 ---
 ## Clip() {#clip}

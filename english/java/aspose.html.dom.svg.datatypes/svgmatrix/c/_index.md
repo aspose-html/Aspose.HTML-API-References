@@ -3,7 +3,7 @@ title: SVGMatrix.C
 second_title: Aspose.HTML for Java API Reference
 description: SVGMatrix property. The C component of the matrix
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgmatrix/c/
 ---
 ## SVGMatrix.C property

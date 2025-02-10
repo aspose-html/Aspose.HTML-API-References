@@ -3,7 +3,7 @@ title: Device
 second_title: Aspose.HTML for Java API Reference
 description: Device constructor. Initializes a new instance of the Device class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.rendering/device/device/
 ---
 ## Device constructor

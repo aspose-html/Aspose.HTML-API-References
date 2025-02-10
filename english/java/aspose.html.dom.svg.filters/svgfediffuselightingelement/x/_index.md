@@ -3,7 +3,7 @@ title: SVGFEDiffuseLightingElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEDiffuseLightingElement property. Corresponds to attribute x on the given filter element
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.dom.svg.filters/svgfediffuselightingelement/x/
 ---
 ## SVGFEDiffuseLightingElement.X property

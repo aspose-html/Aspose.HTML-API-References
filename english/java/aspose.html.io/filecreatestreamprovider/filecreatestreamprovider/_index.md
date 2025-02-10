@@ -3,7 +3,7 @@ title: FileCreateStreamProvider
 second_title: Aspose.HTML for Java API Reference
 description: FileCreateStreamProvider constructor. Initializes a new instance of the FileCreateStreamProvider class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.io/filecreatestreamprovider/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider() {#constructor}

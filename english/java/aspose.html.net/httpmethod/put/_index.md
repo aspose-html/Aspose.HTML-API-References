@@ -3,7 +3,7 @@ title: HttpMethod.Put
 second_title: Aspose.HTML for Java API Reference
 description: HttpMethod property. Represents an HTTP PUT protocol method
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.net/httpmethod/put/
 ---
 ## HttpMethod.Put property

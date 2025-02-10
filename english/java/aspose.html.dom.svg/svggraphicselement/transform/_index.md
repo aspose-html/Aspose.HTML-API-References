@@ -3,7 +3,7 @@ title: SVGGraphicsElement.Transform
 second_title: Aspose.HTML for Java API Reference
 description: SVGGraphicsElement property. Corresponds to attribute transform on the given element
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg/svggraphicselement/transform/
 ---
 ## SVGGraphicsElement.Transform property

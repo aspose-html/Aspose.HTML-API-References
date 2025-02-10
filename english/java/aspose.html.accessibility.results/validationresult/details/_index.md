@@ -3,7 +3,7 @@ title: ValidationResult.Details
 second_title: Aspose.HTML for Java API Reference
 description: ValidationResult property. Validation result details
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.accessibility.results/validationresult/details/
 ---
 ## ValidationResult.Details property

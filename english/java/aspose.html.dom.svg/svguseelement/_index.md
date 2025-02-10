@@ -3,7 +3,7 @@ title: SVGUseElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGUseElement class. The SVGUseElement interface corresponds to the use element
 type: docs
-weight: 2570
+
 url: /java/com.aspose.html.dom.svg/svguseelement/
 ---
 ## SVGUseElement class

@@ -3,7 +3,7 @@ title: IMatrix.M32
 second_title: Aspose.HTML for Java API Reference
 description: IMatrix property. Gets or sets the value in the third row and second column of the matrix
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.drawing/imatrix/m32/
 ---
 ## IMatrix.M32 property

@@ -3,7 +3,7 @@ title: StreamContent
 second_title: Aspose.HTML for Java API Reference
 description: StreamContent constructor. Initializes a new instance of the StreamContent class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.net/streamcontent/streamcontent/
 ---
 ## StreamContent constructor

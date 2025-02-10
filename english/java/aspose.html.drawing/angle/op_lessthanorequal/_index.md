@@ -3,7 +3,7 @@ title: Angle.op_LessThanOrEqual
 second_title: Aspose.HTML for Java API Reference
 description: Angle method. 
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.drawing/angle/op_lessthanorequal/
 ---
 ## Angle LessThanOrEqual operator

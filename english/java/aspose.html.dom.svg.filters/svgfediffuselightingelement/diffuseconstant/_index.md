@@ -3,7 +3,7 @@ title: SVGFEDiffuseLightingElement.DiffuseConstant
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEDiffuseLightingElement property. Corresponds to attribute diffuseConstant on the given feDiffuseLighting element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.filters/svgfediffuselightingelement/diffuseconstant/
 ---
 ## SVGFEDiffuseLightingElement.DiffuseConstant property

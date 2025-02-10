@@ -3,7 +3,7 @@ title: ButtonElement.Type
 second_title: Aspose.HTML for Java API Reference
 description: ButtonElement property. Type of the form control
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.forms/buttonelement/type/
 ---
 ## ButtonElement.Type property

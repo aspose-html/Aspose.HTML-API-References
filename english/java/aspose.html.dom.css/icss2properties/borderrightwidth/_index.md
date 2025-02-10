@@ -3,7 +3,7 @@ title: ICSS2Properties.BorderRightWidth
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property is a shorthand property for setting border-top-width border-right-width border-bottom-width and border-left-width at the same place in the style sheet
 type: docs
-weight: 220
+
 url: /java/com.aspose.html.dom.css/icss2properties/borderrightwidth/
 ---
 ## ICSS2Properties.BorderRightWidth property

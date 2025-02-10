@@ -3,7 +3,7 @@ title: SVGImageElement.PreserveAspectRatio
 second_title: Aspose.HTML for Java API Reference
 description: SVGImageElement property. Corresponds to attribute preserveAspectRatio on the given image element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svgimageelement/preserveaspectratio/
 ---
 ## SVGImageElement.PreserveAspectRatio property

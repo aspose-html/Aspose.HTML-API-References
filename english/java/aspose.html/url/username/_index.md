@@ -3,7 +3,7 @@ title: Url.Username
 second_title: Aspose.HTML for Java API Reference
 description: Url property. Gets or sets a String representation for the specified URL username
 type: docs
-weight: 130
+
 url: /java/com.aspose.html/url/username/
 ---
 ## Url.Username property

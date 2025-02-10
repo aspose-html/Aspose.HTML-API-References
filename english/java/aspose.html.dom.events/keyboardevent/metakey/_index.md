@@ -3,7 +3,7 @@ title: KeyboardEvent.MetaKey
 second_title: Aspose.HTML for Java API Reference
 description: KeyboardEvent property. true if the meta Meta key modifier was active
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.dom.events/keyboardevent/metakey/
 ---
 ## KeyboardEvent.MetaKey property

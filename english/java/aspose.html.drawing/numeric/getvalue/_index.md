@@ -3,7 +3,7 @@ title: Numeric.GetValue
 second_title: Aspose.HTML for Java API Reference
 description: Numeric method. Gets the unit value
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.drawing/numeric/getvalue/
 ---
 ## GetValue() {#getvalue}

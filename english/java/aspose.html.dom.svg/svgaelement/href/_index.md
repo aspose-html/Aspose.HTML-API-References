@@ -3,7 +3,7 @@ title: SVGAElement.Href
 second_title: Aspose.HTML for Java API Reference
 description: SVGAElement property. Corresponds to attribute xlinkhref on the given element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgaelement/href/
 ---
 ## SVGAElement.Href property

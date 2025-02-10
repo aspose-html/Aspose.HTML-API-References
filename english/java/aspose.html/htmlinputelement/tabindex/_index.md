@@ -3,7 +3,7 @@ title: HTMLInputElement.TabIndex
 second_title: Aspose.HTML for Java API Reference
 description: HTMLInputElement property. Index that represents the elements position in the tabbing order. See the tabindex attribute definition in HTML 4.01
 type: docs
-weight: 170
+
 url: /java/com.aspose.html/htmlinputelement/tabindex/
 ---
 ## HTMLInputElement.TabIndex property

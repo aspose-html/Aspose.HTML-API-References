@@ -3,7 +3,7 @@ title: HTMLModElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLModElement class. Notice of modification to part of a document. See the INS and DEL element definitions in HTML 4.01
 type: docs
-weight: 3640
+
 url: /java/com.aspose.html/htmlmodelement/
 ---
 ## HTMLModElement class

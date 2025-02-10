@@ -3,7 +3,7 @@ title: MarkdownSaveOptions
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSaveOptions constructor. Initializes a new instance of the MarkdownSaveOptions class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.saving/markdownsaveoptions/markdownsaveoptions/
 ---
 ## MarkdownSaveOptions constructor

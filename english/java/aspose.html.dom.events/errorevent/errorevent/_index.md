@@ -3,7 +3,7 @@ title: ErrorEvent
 second_title: Aspose.HTML for Java API Reference
 description: ErrorEvent constructor. Initializes a new instance of the ErrorEvent class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.events/errorevent/errorevent/
 ---
 ## ErrorEvent(Exception) {#constructor_1}

@@ -3,7 +3,7 @@ title: HTMLElement.OnPlay
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnPlay event
 type: docs
-weight: 390
+
 url: /java/com.aspose.html/htmlelement/onplay/
 ---
 ## HTMLElement.OnPlay event

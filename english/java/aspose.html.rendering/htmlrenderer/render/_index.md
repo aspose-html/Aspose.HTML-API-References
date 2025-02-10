@@ -3,7 +3,7 @@ title: HtmlRenderer.Render
 second_title: Aspose.HTML for Java API Reference
 description: HtmlRenderer method. Defines method for rendering multiple HTMLDocuments into specific IDevice
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.rendering/htmlrenderer/render/
 ---
 ## Render(IDevice, TimeSpan, params HTMLDocument[]) {#render_6}

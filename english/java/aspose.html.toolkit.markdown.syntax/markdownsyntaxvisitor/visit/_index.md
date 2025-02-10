@@ -3,7 +3,7 @@ title: MarkdownSyntaxVisitor.Visit
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit syntax tree
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visit/
 ---
 ## Visit(MarkdownSyntaxTree) {#visit_1}

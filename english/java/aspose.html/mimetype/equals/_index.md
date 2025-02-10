@@ -3,7 +3,7 @@ title: MimeType.Equals
 second_title: Aspose.HTML for Java API Reference
 description: MimeType method. Indicates whether the current object is equal to another object of the same type
 type: docs
-weight: 50
+
 url: /java/com.aspose.html/mimetype/equals/
 ---
 ## Equals(MimeType) {#equals}

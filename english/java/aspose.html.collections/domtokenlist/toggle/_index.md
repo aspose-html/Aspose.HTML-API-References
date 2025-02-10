@@ -3,7 +3,7 @@ title: DOMTokenList.Toggle
 second_title: Aspose.HTML for Java API Reference
 description: DOMTokenList method. Removes the token from the list if it exists or adds the token to the list if it doesnt
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.collections/domtokenlist/toggle/
 ---
 ## Toggle(String) {#toggle}

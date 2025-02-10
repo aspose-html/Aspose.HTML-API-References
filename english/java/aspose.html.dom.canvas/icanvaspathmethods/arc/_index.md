@@ -3,7 +3,7 @@ title: ICanvasPathMethods.Arc
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasPathMethods method. Adds an arc to the path which is centered at x y position with radius r starting at startAngle and ending at endAngle going in the given direction by anticlockwise defaulting to clockwise
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.canvas/icanvaspathmethods/arc/
 ---
 ## Arc(double, double, double, double, double) {#arc}

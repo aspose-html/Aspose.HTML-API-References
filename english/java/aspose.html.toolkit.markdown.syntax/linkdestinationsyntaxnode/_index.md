@@ -3,7 +3,7 @@ title: LinkDestinationSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.LinkDestinationSyntaxNode class. Represent the LinkDestinationSyntaxNode
 type: docs
-weight: 5370
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/linkdestinationsyntaxnode/
 ---
 ## LinkDestinationSyntaxNode class

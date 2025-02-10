@@ -3,7 +3,7 @@ title: Configuration.Security
 second_title: Aspose.HTML for Java API Reference
 description: Configuration property. Gets or sets the sandboxing flag of the configuration. Refer to article about sandboxing
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/configuration/security/
 ---
 ## Configuration.Security property

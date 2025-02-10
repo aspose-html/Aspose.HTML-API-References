@@ -3,7 +3,7 @@ title: IWindowEventHandlers.OnHashChange
 second_title: Aspose.HTML for Java API Reference
 description: IWindowEventHandlers event. Gets or sets event handler
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.window/iwindoweventhandlers/onhashchange/
 ---
 ## IWindowEventHandlers.OnHashChange event

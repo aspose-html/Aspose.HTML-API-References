@@ -3,7 +3,7 @@ title: DOMTreatNullAsAttribute.Type
 second_title: Aspose.HTML for Java API Reference
 description: DOMTreatNullAsAttribute property. Gets or sets value the type
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.attributes/domtreatnullasattribute/type/
 ---
 ## DOMTreatNullAsAttribute.Type property

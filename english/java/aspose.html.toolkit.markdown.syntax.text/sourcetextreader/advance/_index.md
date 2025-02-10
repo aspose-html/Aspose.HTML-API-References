@@ -3,7 +3,7 @@ title: SourceTextReader.Advance
 second_title: Aspose.HTML for Java API Reference
 description: SourceTextReader method. Increment the position
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetextreader/advance/
 ---
 ## Advance() {#advance}

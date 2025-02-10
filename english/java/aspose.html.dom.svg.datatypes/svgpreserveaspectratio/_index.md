@@ -3,7 +3,7 @@ title: SVGPreserveAspectRatio Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.datatypes.SVGPreserveAspectRatio class. The SVGPreserveAspectRatio interface corresponds to the preserveAspectRatio attribute which is available for some of SVGs elements
 type: docs
-weight: 1440
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgpreserveaspectratio/
 ---
 ## SVGPreserveAspectRatio class

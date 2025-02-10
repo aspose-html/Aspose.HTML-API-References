@@ -3,7 +3,7 @@ title: StreamContent Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.net.StreamContent class. Represents content based on a stream
 type: docs
-weight: 4280
+
 url: /java/com.aspose.html.net/streamcontent/
 ---
 ## StreamContent class

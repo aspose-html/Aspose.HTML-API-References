@@ -3,7 +3,7 @@ title: SVGUseElement.Width
 second_title: Aspose.HTML for Java API Reference
 description: SVGUseElement property. Corresponds to attribute width on the given use element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svguseelement/width/
 ---
 ## SVGUseElement.Width property

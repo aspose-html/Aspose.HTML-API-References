@@ -3,7 +3,7 @@ title: HTMLHRElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLHRElement class. Create a horizontal rule. See the HR element definition in HTML 4.01
 type: docs
-weight: 3490
+
 url: /java/com.aspose.html/htmlhrelement/
 ---
 ## HTMLHRElement class

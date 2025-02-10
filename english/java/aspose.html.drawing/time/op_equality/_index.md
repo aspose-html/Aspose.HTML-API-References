@@ -3,7 +3,7 @@ title: Time.op_Equality
 second_title: Aspose.HTML for Java API Reference
 description: Time method. 
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.drawing/time/op_equality/
 ---
 ## Time Equality operator

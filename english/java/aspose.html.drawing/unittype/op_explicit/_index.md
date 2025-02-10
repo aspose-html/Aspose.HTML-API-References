@@ -3,7 +3,7 @@ title: UnitType.op_Explicit
 second_title: Aspose.HTML for Java API Reference
 description: UnitType method. 
 type: docs
-weight: 350
+
 url: /java/com.aspose.html.drawing/unittype/op_explicit/
 ---
 ## UnitType Explicit operator

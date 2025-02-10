@@ -3,7 +3,7 @@ title: PdfPermissions Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.pdf.encryption.PdfPermissions enum. This enum represents users permissions for a pdf
 type: docs
-weight: 4630
+
 url: /java/com.aspose.html.rendering.pdf.encryption/pdfpermissions/
 ---
 ## PdfPermissions enumeration

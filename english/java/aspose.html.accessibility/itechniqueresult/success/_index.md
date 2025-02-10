@@ -3,7 +3,7 @@ title: ITechniqueResult.Success
 second_title: Aspose.HTML for Java API Reference
 description: ITechniqueResult property. Returns result of the criterion
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.accessibility/itechniqueresult/success/
 ---
 ## ITechniqueResult.Success property

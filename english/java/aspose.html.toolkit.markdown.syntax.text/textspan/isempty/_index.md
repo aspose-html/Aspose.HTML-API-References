@@ -3,7 +3,7 @@ title: TextSpan.IsEmpty
 second_title: Aspose.HTML for Java API Reference
 description: TextSpan method. Return true if length 0
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textspan/isempty/
 ---
 ## TextSpan.IsEmpty method

@@ -3,7 +3,7 @@ title: Document.OnProgress
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnProgress event
 type: docs
-weight: 620
+
 url: /java/com.aspose.html.dom/document/onprogress/
 ---
 ## Document.OnProgress event

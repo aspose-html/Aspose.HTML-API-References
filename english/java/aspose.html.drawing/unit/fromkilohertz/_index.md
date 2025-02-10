@@ -3,7 +3,7 @@ title: Unit.FromKiloHertz
 second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Frequency object that is represented in kiloHertz
 type: docs
-weight: 130
+
 url: /java/com.aspose.html.drawing/unit/fromkilohertz/
 ---
 ## Unit.FromKiloHertz method

@@ -3,7 +3,7 @@ title: SVGGraphicsElement.RequiredExtensions
 second_title: Aspose.HTML for Java API Reference
 description: SVGGraphicsElement property. Corresponds to attribute requiredExtensions on the given element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svggraphicselement/requiredextensions/
 ---
 ## SVGGraphicsElement.RequiredExtensions property

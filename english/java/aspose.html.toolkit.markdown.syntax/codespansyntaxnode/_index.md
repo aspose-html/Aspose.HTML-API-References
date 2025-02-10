@@ -3,7 +3,7 @@ title: CodeSpanSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.CodeSpanSyntaxNode class. Represents the CodeSpanSyntaxNode
 type: docs
-weight: 5100
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/codespansyntaxnode/
 ---
 ## CodeSpanSyntaxNode class

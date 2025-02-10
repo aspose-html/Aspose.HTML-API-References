@@ -3,7 +3,7 @@ title: HTMLTitleElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLTitleElement class. The title element. See the TITLE element definition in HTML 4.01
 type: docs
-weight: 3850
+
 url: /java/com.aspose.html/htmltitleelement/
 ---
 ## HTMLTitleElement class

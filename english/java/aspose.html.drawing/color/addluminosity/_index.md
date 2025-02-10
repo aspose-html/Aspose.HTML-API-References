@@ -3,7 +3,7 @@ title: Color.AddLuminosity
 second_title: Aspose.HTML for Java API Reference
 description: Color method. Creates copy of the Color with Sum of its luminosity and the delta value
 type: docs
-weight: 280
+
 url: /java/com.aspose.html.drawing/color/addluminosity/
 ---
 ## Color.AddLuminosity method

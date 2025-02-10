@@ -3,7 +3,7 @@ title: TextSpan.Combine
 second_title: Aspose.HTML for Java API Reference
 description: TextSpan method. Combines the text spans
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textspan/combine/
 ---
 ## TextSpan.Combine method

@@ -3,7 +3,7 @@ title: IElementTraversal.FirstElementChild
 second_title: Aspose.HTML for Java API Reference
 description: IElementTraversal property. Returns the first child element node of this element. null if this element has no child elements
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.traversal/ielementtraversal/firstelementchild/
 ---
 ## IElementTraversal.FirstElementChild property

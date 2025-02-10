@@ -3,7 +3,7 @@ title: StrokeLineCap Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.StrokeLineCap enum. Specifies the line cap used in rendering SVG and HTML
 type: docs
-weight: 4720
+
 url: /java/com.aspose.html.rendering/strokelinecap/
 ---
 ## StrokeLineCap enumeration

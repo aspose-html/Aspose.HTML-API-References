@@ -3,7 +3,7 @@ title: MarkdownBlockParser.OnClose
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownBlockParser method. Defines interface for OnClose method
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/onclose/
 ---
 ## MarkdownBlockParser.OnClose method

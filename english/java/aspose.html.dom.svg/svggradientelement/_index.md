@@ -3,7 +3,7 @@ title: SVGGradientElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGGradientElement class. The SVGGradientElement interface is a base interface used by SVGLinearGradientElement and SVGRadialGradientElement
 type: docs
-weight: 2270
+
 url: /java/com.aspose.html.dom.svg/svggradientelement/
 ---
 ## SVGGradientElement class

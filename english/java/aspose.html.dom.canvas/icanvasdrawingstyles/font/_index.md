@@ -3,7 +3,7 @@ title: ICanvasDrawingStyles.Font
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasDrawingStyles property. Font setting. Default value 10px sans-serif
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.canvas/icanvasdrawingstyles/font/
 ---
 ## ICanvasDrawingStyles.Font property

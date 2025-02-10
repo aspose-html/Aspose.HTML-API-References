@@ -3,7 +3,7 @@ title: SVGFETileElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.filters.SVGFETileElement class. The SVGFETileElement interface corresponds to the feTile element
 type: docs
-weight: 1760
+
 url: /java/com.aspose.html.dom.svg.filters/svgfetileelement/
 ---
 ## SVGFETileElement class

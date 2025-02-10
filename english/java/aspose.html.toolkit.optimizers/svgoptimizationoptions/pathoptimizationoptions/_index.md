@@ -3,7 +3,7 @@ title: SVGOptimizationOptions.PathOptimizationOptions
 second_title: Aspose.HTML for Java API Reference
 description: SVGOptimizationOptions property. Gets or sets the option SVGPathOptimizationOptions. If this option is null then path element optimization will not be performed
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.toolkit.optimizers/svgoptimizationoptions/pathoptimizationoptions/
 ---
 ## SVGOptimizationOptions.PathOptimizationOptions property

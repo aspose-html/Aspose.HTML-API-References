@@ -3,7 +3,7 @@ title: CharacterReferenceSyntaxNode.Span
 second_title: Aspose.HTML for Java API Reference
 description: CharacterReferenceSyntaxNode property. Get the span
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/span/
 ---
 ## CharacterReferenceSyntaxNode.Span property

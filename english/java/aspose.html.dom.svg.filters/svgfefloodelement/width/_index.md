@@ -3,7 +3,7 @@ title: SVGFEFloodElement.Width
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEFloodElement property. Corresponds to attribute width on the given filter element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg.filters/svgfefloodelement/width/
 ---
 ## SVGFEFloodElement.Width property

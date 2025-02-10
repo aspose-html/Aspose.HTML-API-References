@@ -3,7 +3,7 @@ title: ICSSStyleDeclaration.SetProperty
 second_title: Aspose.HTML for Java API Reference
 description: ICSSStyleDeclaration method. The CSSStyleDeclaration.setProperty method interface is used to set a property value with default priority within this declaration block. Default priority is not important i.e. String.Empty
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.dom.css/icssstyledeclaration/setproperty/
 ---
 ## SetProperty(String, String) {#setproperty}

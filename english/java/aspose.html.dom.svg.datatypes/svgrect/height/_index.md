@@ -3,7 +3,7 @@ title: SVGRect.Height
 second_title: Aspose.HTML for Java API Reference
 description: SVGRect property. The Height coordinate of the rectangle in user units
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgrect/height/
 ---
 ## SVGRect.Height property

@@ -3,7 +3,7 @@ title: SvgRenderer.Render
 second_title: Aspose.HTML for Java API Reference
 description: SvgRenderer method. Defines method for rendering multiple SVGDocuments into specific IDevice. The rendering will be performed once there are no any network operations for loading resources active timers animation tasks or specified timeout is elapsed
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.rendering/svgrenderer/render/
 ---
 ## Render(IDevice, TimeSpan, params SVGDocument[]) {#render_6}

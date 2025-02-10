@@ -3,7 +3,7 @@ title: HTMLTableElement.CreateTHead
 second_title: Aspose.HTML for Java API Reference
 description: HTMLTableElement method. Create a table header row or return an existing one
 type: docs
-weight: 170
+
 url: /java/com.aspose.html/htmltableelement/createthead/
 ---
 ## HTMLTableElement.CreateTHead method

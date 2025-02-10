@@ -3,7 +3,7 @@ title: SourceText.From
 second_title: Aspose.HTML for Java API Reference
 description: SourceText method. Define the interface for get SourceText from String
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/from/
 ---
 ## From(String) {#from_1}

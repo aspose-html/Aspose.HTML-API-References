@@ -3,7 +3,7 @@ title: Guideline.GetCriterions
 second_title: Aspose.HTML for Java API Reference
 description: Guideline method. Get all the criteria contained in the Guideline
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.accessibility/guideline/getcriterions/
 ---
 ## Guideline.GetCriterions method

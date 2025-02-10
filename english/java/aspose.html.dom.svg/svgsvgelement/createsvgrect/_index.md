@@ -3,7 +3,7 @@ title: SVGSVGElement.CreateSVGRect
 second_title: Aspose.HTML for Java API Reference
 description: SVGSVGElement method. Creates an SVGRect object outside of any document trees. The object is initialized such that all values are set to 0 user units
 type: docs
-weight: 170
+
 url: /java/com.aspose.html.dom.svg/svgsvgelement/createsvgrect/
 ---
 ## SVGSVGElement.CreateSVGRect method

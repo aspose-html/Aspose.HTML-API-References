@@ -3,7 +3,7 @@ title: SVGSaveFormat Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.saving.SVGSaveFormat enum. Specifies format in which document is saved
 type: docs
-weight: 2600
+
 url: /java/com.aspose.html.dom.svg.saving/svgsaveformat/
 ---
 ## SVGSaveFormat enumeration

@@ -3,7 +3,7 @@ title: MarkdownSyntaxTree.Save
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxTree method. Saves the syntax tree to the specified path
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/save/
 ---
 ## Save(String) {#save_2}

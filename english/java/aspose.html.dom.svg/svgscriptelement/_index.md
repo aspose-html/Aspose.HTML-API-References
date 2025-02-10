@@ -3,7 +3,7 @@ title: SVGScriptElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGScriptElement class. The SVGScriptElement interface corresponds to the script element
 type: docs
-weight: 2440
+
 url: /java/com.aspose.html.dom.svg/svgscriptelement/
 ---
 ## SVGScriptElement class

@@ -3,7 +3,7 @@ title: TypeInfo.TypeNamespace
 second_title: Aspose.HTML for Java API Reference
 description: TypeInfo property. Gets the type package.The package of the type declared for the associated element or attribute or null if the element does not have declaration or if no package information is available
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom/typeinfo/typepackage/
 ---
 ## TypeInfo.TypeNamespace property

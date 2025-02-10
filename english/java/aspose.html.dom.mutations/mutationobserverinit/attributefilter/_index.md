@@ -3,7 +3,7 @@ title: MutationObserverInit.AttributeFilter
 second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit property. Set to a list of attribute local names without package if not all attribute mutations need to be observed and attributes is true or omitted
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.mutations/mutationobserverinit/attributefilter/
 ---
 ## MutationObserverInit.AttributeFilter property

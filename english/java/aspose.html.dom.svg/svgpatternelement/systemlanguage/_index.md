@@ -3,7 +3,7 @@ title: SVGPatternElement.SystemLanguage
 second_title: Aspose.HTML for Java API Reference
 description: SVGPatternElement property. Corresponds to attribute systemLanguage on the given element
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.dom.svg/svgpatternelement/systemlanguage/
 ---
 ## SVGPatternElement.SystemLanguage property

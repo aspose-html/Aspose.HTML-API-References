@@ -3,7 +3,7 @@ title: Int16Array
 second_title: Aspose.HTML for Java API Reference
 description: Int16Array constructor. Initializes a new instance of the Int16Array class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/int16array/int16array/
 ---
 ## Int16Array(int) {#constructor_4}

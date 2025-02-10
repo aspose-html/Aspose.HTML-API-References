@@ -3,7 +3,7 @@ title: SVGFEComponentTransferElement.Result
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEComponentTransferElement property. Corresponds to attribute result on the given filter element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg.filters/svgfecomponenttransferelement/result/
 ---
 ## SVGFEComponentTransferElement.Result property

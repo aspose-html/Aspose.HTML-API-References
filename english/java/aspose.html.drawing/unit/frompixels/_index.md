@@ -3,7 +3,7 @@ title: Unit.FromPixels
 second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Length object that is represented in pixels
 type: docs
-weight: 170
+
 url: /java/com.aspose.html.drawing/unit/frompixels/
 ---
 ## Unit.FromPixels method

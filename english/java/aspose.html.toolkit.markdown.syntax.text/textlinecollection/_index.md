@@ -3,7 +3,7 @@ title: TextLineCollection Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.text.TextLineCollection class. Represents the TextLineCollection
 type: docs
-weight: 5910
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textlinecollection/
 ---
 ## TextLineCollection class

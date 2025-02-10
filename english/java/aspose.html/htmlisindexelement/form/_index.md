@@ -3,7 +3,7 @@ title: HTMLIsIndexElement.Form
 second_title: Aspose.HTML for Java API Reference
 description: HTMLIsIndexElement property. Returns the
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/htmlisindexelement/form/
 ---
 ## HTMLIsIndexElement.Form property

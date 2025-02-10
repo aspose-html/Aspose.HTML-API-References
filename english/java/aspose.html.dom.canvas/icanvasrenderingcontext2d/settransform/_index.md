@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.SetTransform
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Resets the current transform to the identity matrix and then invokes the transform method with the same arguments
 type: docs
-weight: 360
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/settransform/
 ---
 ## ICanvasRenderingContext2D.SetTransform method

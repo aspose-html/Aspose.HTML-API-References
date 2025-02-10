@@ -3,7 +3,7 @@ title: HTMLAppletElement.CodeBase
 second_title: Aspose.HTML for Java API Reference
 description: HTMLAppletElement property. Optional base URI IETF RFC 2396 for applet. See the codebase attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01
 type: docs
-weight: 50
+
 url: /java/com.aspose.html/htmlappletelement/codebase/
 ---
 ## HTMLAppletElement.CodeBase property

@@ -3,7 +3,7 @@ title: SVGGeometryElement.GetPointAtLength
 second_title: Aspose.HTML for Java API Reference
 description: SVGGeometryElement method. Returns the xy coordinate in user space which is distance units along the path utilizing the user agents distance-along-a-path algorithm
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svggeometryelement/getpointatlength/
 ---
 ## SVGGeometryElement.GetPointAtLength method

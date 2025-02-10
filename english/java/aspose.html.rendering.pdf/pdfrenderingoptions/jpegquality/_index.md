@@ -3,7 +3,7 @@ title: PdfRenderingOptions.JpegQuality
 second_title: Aspose.HTML for Java API Reference
 description: PdfRenderingOptions property. Specifies the quality of JPEG compression for images if JPEG compression is used. Default is 95
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.rendering.pdf/pdfrenderingoptions/jpegquality/
 ---
 ## PdfRenderingOptions.JpegQuality property

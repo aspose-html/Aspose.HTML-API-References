@@ -3,7 +3,7 @@ title: MediaQueryList Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.window.MediaQueryList class. A MediaQueryList object stores information on a media query applied to a document with support for both immediate and event-driven matching against the state of the document. See CSSOM View Module specification https//www.w3.org/TR/cssom-view/the-mediaquerylist-interface
 type: docs
-weight: 6150
+
 url: /java/com.aspose.html.window/mediaquerylist/
 ---
 ## MediaQueryList class

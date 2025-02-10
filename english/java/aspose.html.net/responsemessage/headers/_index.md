@@ -3,7 +3,7 @@ title: ResponseMessage.Headers
 second_title: Aspose.HTML for Java API Reference
 description: ResponseMessage property. Gets the headers
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.net/responsemessage/headers/
 ---
 ## ResponseMessage.Headers property

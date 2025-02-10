@@ -3,7 +3,7 @@ title: SVGFilterElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGFilterElement class. The SVGFilterElement interface corresponds to the filter element
 type: docs
-weight: 2230
+
 url: /java/com.aspose.html.dom.svg/svgfilterelement/
 ---
 ## SVGFilterElement class

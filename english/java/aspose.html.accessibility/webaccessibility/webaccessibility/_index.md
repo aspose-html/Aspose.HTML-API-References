@@ -3,7 +3,7 @@ title: WebAccessibility
 second_title: Aspose.HTML for Java API Reference
 description: WebAccessibility constructor. Initializes a new instance of the WebAccessibility class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.accessibility/webaccessibility/webaccessibility/
 ---
 ## WebAccessibility constructor

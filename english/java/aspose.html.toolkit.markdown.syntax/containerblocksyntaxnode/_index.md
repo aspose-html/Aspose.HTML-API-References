@@ -3,7 +3,7 @@ title: ContainerBlockSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.ContainerBlockSyntaxNode class. Base implementation of the ContainerBlockSyntaxNode
 type: docs
-weight: 5110
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/containerblocksyntaxnode/
 ---
 ## ContainerBlockSyntaxNode class

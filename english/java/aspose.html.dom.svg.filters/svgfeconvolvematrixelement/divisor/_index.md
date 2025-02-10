@@ -3,7 +3,7 @@ title: SVGFEConvolveMatrixElement.Divisor
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEConvolveMatrixElement property. Corresponds to attribute divisor on the given feConvolveMatrix element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/divisor/
 ---
 ## SVGFEConvolveMatrixElement.Divisor property

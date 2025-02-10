@@ -3,7 +3,7 @@ title: KeyboardEvent.IsComposing
 second_title: Aspose.HTML for Java API Reference
 description: KeyboardEvent property. true if the key event occurs as part of a composition session i.e. after a compositionstart event and before the corresponding compositionend event. The un-initialized value of this attribute MUST be false
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.events/keyboardevent/iscomposing/
 ---
 ## KeyboardEvent.IsComposing property

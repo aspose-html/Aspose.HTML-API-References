@@ -3,7 +3,7 @@ title: SVGFEConvolveMatrixElement.TargetY
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEConvolveMatrixElement property. Corresponds to attribute targetY on the given feConvolveMatrix element
 type: docs
-weight: 140
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/targety/
 ---
 ## SVGFEConvolveMatrixElement.TargetY property

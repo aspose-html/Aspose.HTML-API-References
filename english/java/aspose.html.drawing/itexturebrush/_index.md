@@ -3,7 +3,7 @@ title: ITextureBrush Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.ITextureBrush interface. Defines brush interface that uses an image to fill the interior of a shape
 type: docs
-weight: 2930
+
 url: /java/com.aspose.html.drawing/itexturebrush/
 ---
 ## ITextureBrush interface

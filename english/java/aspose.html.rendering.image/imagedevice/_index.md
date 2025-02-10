@@ -3,7 +3,7 @@ title: ImageDevice Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.image.ImageDevice class. Represents rendering to raster formats jpeg png bmp gif tiff
 type: docs
-weight: 4520
+
 url: /java/com.aspose.html.rendering.image/imagedevice/
 ---
 ## ImageDevice class

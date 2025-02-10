@@ -3,7 +3,7 @@ title: PdfEncryptionInfo.OwnerPassword
 second_title: Aspose.HTML for Java API Reference
 description: PdfEncryptionInfo property. Gets or sets the Owner password
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.rendering.pdf.encryption/pdfencryptioninfo/ownerpassword/
 ---
 ## PdfEncryptionInfo.OwnerPassword property

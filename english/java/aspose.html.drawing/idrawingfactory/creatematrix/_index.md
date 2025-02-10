@@ -3,7 +3,7 @@ title: IDrawingFactory.CreateMatrix
 second_title: Aspose.HTML for Java API Reference
 description: IDrawingFactory method. Creates a new matrix with the same contents as the specified matrix
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.drawing/idrawingfactory/creatematrix/
 ---
 ## CreateMatrix(IMatrix) {#creatematrix_1}

@@ -3,7 +3,7 @@ title: Renderer-1.Render
 second_title: Aspose.HTML for Java API Reference
 description: Renderer method. Defines method for rendering TDocument into specified IDevice
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.rendering/renderer-1/render/
 ---
 ## Render(IDevice, TSource) {#render_3}

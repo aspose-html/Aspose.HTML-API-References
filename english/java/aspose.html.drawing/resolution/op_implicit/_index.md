@@ -3,7 +3,7 @@ title: Resolution.op_Implicit
 second_title: Aspose.HTML for Java API Reference
 description: Resolution method. 
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.drawing/resolution/op_implicit/
 ---
 ## implicit operator {#op_implicit}

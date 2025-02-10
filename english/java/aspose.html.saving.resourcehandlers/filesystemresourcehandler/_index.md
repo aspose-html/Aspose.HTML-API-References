@@ -3,7 +3,7 @@ title: FileSystemResourceHandler Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.saving.ResourceHandlers.FileSystemResourceHandler class. This class is an implementation of the ResourceHandler class designed to save resources to the local file system
 type: docs
-weight: 4900
+
 url: /java/com.aspose.html.saving.resourcehandlers/filesystemresourcehandler/
 ---
 ## FileSystemResourceHandler class

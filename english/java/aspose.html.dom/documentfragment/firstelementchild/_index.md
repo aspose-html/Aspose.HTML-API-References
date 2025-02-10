@@ -3,7 +3,7 @@ title: DocumentFragment.FirstElementChild
 second_title: Aspose.HTML for Java API Reference
 description: DocumentFragment property. Returns the first child element node of this element. null if this element has no child elements
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom/documentfragment/firstelementchild/
 ---
 ## DocumentFragment.FirstElementChild property

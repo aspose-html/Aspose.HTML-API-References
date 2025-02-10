@@ -3,7 +3,7 @@ title: SVGOptimizationOptions.RemoveUnusedNamespaces
 second_title: Aspose.HTML for Java API Reference
 description: SVGOptimizationOptions property. Gets or sets the option to remove the declaration of unused packages from the SVG element that are not used in elements or attributes. It is true by default
 type: docs
-weight: 130
+
 url: /java/com.aspose.html.toolkit.optimizers/svgoptimizationoptions/removeunusedpackages/
 ---
 ## SVGOptimizationOptions.RemoveUnusedNamespaces property

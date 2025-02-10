@@ -3,7 +3,7 @@ title: SVGFEMergeNodeElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.filters.SVGFEMergeNodeElement class. The SVGFEMergeNodeElement interface corresponds to the feMergeNode element
 type: docs
-weight: 1700
+
 url: /java/com.aspose.html.dom.svg.filters/svgfemergenodeelement/
 ---
 ## SVGFEMergeNodeElement class

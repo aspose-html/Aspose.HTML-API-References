@@ -3,7 +3,7 @@ title: Document.OnRateChange
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnRateChange event
 type: docs
-weight: 630
+
 url: /java/com.aspose.html.dom/document/onratechange/
 ---
 ## Document.OnRateChange event

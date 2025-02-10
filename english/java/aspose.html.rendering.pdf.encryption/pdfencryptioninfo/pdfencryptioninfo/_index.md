@@ -3,7 +3,7 @@ title: PdfEncryptionInfo
 second_title: Aspose.HTML for Java API Reference
 description: PdfEncryptionInfo constructor. Initializes a new instance of the PdfEncryptionInfo class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.rendering.pdf.encryption/pdfencryptioninfo/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo constructor

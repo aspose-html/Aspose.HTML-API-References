@@ -3,7 +3,7 @@ title: GraphicContext.TextInfo
 second_title: Aspose.HTML for Java API Reference
 description: GraphicContext property. Gets a TextInfo object which contains information about rendered text
 type: docs
-weight: 140
+
 url: /java/com.aspose.html.rendering/graphiccontext/textinfo/
 ---
 ## GraphicContext.TextInfo property

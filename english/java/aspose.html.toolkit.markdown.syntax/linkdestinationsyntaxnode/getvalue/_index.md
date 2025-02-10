@@ -3,7 +3,7 @@ title: LinkDestinationSyntaxNode.GetValue
 second_title: Aspose.HTML for Java API Reference
 description: LinkDestinationSyntaxNode method. Defines the interface for get String value
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/linkdestinationsyntaxnode/getvalue/
 ---
 ## LinkDestinationSyntaxNode.GetValue method

@@ -3,7 +3,7 @@ title: IMediaList.DeleteMedium
 second_title: Aspose.HTML for Java API Reference
 description: IMediaList method. Deletes the medium indicated by oldMedium from the list
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.css/imedialist/deletemedium/
 ---
 ## IMediaList.DeleteMedium method

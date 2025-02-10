@@ -3,7 +3,7 @@ title: XpsSaveOptions
 second_title: Aspose.HTML for Java API Reference
 description: XpsSaveOptions constructor. The default constructor
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.saving/xpssaveoptions/xpssaveoptions/
 ---
 ## XpsSaveOptions constructor

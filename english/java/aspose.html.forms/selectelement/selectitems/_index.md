@@ -3,7 +3,7 @@ title: SelectElement.SelectItems
 second_title: Aspose.HTML for Java API Reference
 description: SelectElement method. This methods allows to select multiple options by their indexes
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.forms/selectelement/selectitems/
 ---
 ## SelectItems(params int[]) {#selectitems}

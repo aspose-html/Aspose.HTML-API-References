@@ -3,7 +3,7 @@ title: HTMLElement.OnMouseMove
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnMouseMove event
 type: docs
-weight: 330
+
 url: /java/com.aspose.html/htmlelement/onmousemove/
 ---
 ## HTMLElement.OnMouseMove event

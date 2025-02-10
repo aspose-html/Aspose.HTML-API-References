@@ -3,7 +3,7 @@ title: SVGFEConvolveMatrixElement.KernelMatrix
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEConvolveMatrixElement property. Corresponds to attribute kernelMatrix on the given feConvolveMatrix element
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/kernelmatrix/
 ---
 ## SVGFEConvolveMatrixElement.KernelMatrix property

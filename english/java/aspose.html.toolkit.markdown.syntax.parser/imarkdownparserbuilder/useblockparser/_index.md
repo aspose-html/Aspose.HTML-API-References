@@ -3,7 +3,7 @@ title: IMarkdownParserBuilder.UseBlockParser
 second_title: Aspose.HTML for Java API Reference
 description: IMarkdownParserBuilder method. Defines the UseBlockParser method
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useblockparser/
 ---
 ## IMarkdownParserBuilder.UseBlockParser&lt;T&gt; method

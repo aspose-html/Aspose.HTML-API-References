@@ -3,7 +3,7 @@ title: ReferenceImageSyntaxNode.GetAltText
 second_title: Aspose.HTML for Java API Reference
 description: ReferenceImageSyntaxNode method. Defines the interface for get of the alternate text
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/referenceimagesyntaxnode/getalttext/
 ---
 ## ReferenceImageSyntaxNode.GetAltText method

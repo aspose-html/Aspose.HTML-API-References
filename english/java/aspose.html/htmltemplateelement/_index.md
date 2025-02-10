@@ -3,7 +3,7 @@ title: HTMLTemplateElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLTemplateElement class. The template element
 type: docs
-weight: 3830
+
 url: /java/com.aspose.html/htmltemplateelement/
 ---
 ## HTMLTemplateElement class

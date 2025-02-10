@@ -3,7 +3,7 @@ title: SVGElementInstance Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGElementInstance class. The root object of each use-element shadow tree implements the SVGUseElementShadowRoot interface. This interface does not currently define any extensions to the properties and methods defined for the ShadowRoot interface and DocumentOrShadowRoot mixin. However the tree rooted at this node is entirely read-only from the perspective of author scripts
 type: docs
-weight: 2200
+
 url: /java/com.aspose.html.dom.svg/svgelementinstance/
 ---
 ## SVGElementInstance class

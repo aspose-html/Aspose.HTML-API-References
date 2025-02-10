@@ -3,7 +3,7 @@ title: IDocumentTraversal.CreateTreeWalker
 second_title: Aspose.HTML for Java API Reference
 description: IDocumentTraversal method. Create a new TreeWalker over the subtree rooted at the specified node
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.traversal/idocumenttraversal/createtreewalker/
 ---
 ## CreateTreeWalker(Node) {#createtreewalker}

@@ -3,7 +3,7 @@ title: CSSPrimitiveValue.CSS_RECT
 second_title: Aspose.HTML for Java API Reference
 description: CSSPrimitiveValue field. The value is a rect function. The value can be obtained by using the GetRectValue method
 type: docs
-weight: 350
+
 url: /java/com.aspose.html.dom.css/cssprimitivevalue/css_rect/
 ---
 ## CSSPrimitiveValue.CSS_RECT field

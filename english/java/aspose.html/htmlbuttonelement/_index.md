@@ -3,7 +3,7 @@ title: HTMLButtonElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLButtonElement class. Push button. See the BUTTON element definition in HTML 4.01
 type: docs
-weight: 3360
+
 url: /java/com.aspose.html/htmlbuttonelement/
 ---
 ## HTMLButtonElement class

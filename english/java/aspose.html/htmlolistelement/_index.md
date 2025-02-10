@@ -3,7 +3,7 @@ title: HTMLOListElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLOListElement class. Ordered list. See the OL element definition in HTML 4.01
 type: docs
-weight: 3660
+
 url: /java/com.aspose.html/htmlolistelement/
 ---
 ## HTMLOListElement class

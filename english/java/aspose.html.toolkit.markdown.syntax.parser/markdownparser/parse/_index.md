@@ -3,7 +3,7 @@ title: MarkdownParser.Parse
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownParser method. Parse an TextReader
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/
 ---
 ## Parse(TextReader) {#parse_1}

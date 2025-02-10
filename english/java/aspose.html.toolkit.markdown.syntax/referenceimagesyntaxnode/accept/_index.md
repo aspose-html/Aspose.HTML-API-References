@@ -3,7 +3,7 @@ title: ReferenceImageSyntaxNode.Accept
 second_title: Aspose.HTML for Java API Reference
 description: ReferenceImageSyntaxNode method. Defines the interface for accept of the visitor
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/referenceimagesyntaxnode/accept/
 ---
 ## ReferenceImageSyntaxNode.Accept method

@@ -3,7 +3,7 @@ title: QualifiedName.NamespaceURI
 second_title: Aspose.HTML for Java API Reference
 description: QualifiedName property. Gets a String representation of the package of the QualifiedName
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom/qualifiedname/packageuri/
 ---
 ## QualifiedName.NamespaceURI property

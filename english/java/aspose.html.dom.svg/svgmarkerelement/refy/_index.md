@@ -3,7 +3,7 @@ title: SVGMarkerElement.RefY
 second_title: Aspose.HTML for Java API Reference
 description: SVGMarkerElement property. Corresponds to attribute refY on the given marker element
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.dom.svg/svgmarkerelement/refy/
 ---
 ## SVGMarkerElement.RefY property

@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.Fill
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Fills the subpaths with the current fill style and default algorithm CanvasFillRule.Nonzero
 type: docs
-weight: 220
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/fill/
 ---
 ## Fill() {#fill}

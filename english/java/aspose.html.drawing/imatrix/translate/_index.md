@@ -3,7 +3,7 @@ title: IMatrix.Translate
 second_title: Aspose.HTML for Java API Reference
 description: IMatrix method. Translates the matrix by the specified offset values in the specified order
 type: docs
-weight: 210
+
 url: /java/com.aspose.html.drawing/imatrix/translate/
 ---
 ## Translate(float, float, WebMatrixOrder) {#translate_1}

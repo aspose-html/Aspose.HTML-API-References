@@ -3,7 +3,7 @@ title: IGlobalEventHandlers.OnKeyUp
 second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnKeyUp event
 type: docs
-weight: 190
+
 url: /java/com.aspose.html.dom/iglobaleventhandlers/onkeyup/
 ---
 ## IGlobalEventHandlers.OnKeyUp event

@@ -3,7 +3,7 @@ title: SVGPathElement.CreateSVGPathSegArcRel
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegArcRel object
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg/svgpathelement/createsvgpathsegarcrel/
 ---
 ## SVGPathElement.CreateSVGPathSegArcRel method

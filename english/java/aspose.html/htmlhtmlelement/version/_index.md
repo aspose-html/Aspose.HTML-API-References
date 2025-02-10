@@ -3,7 +3,7 @@ title: HTMLHtmlElement.Version
 second_title: Aspose.HTML for Java API Reference
 description: HTMLHtmlElement property. Version information about the documents DTD. See the version attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/htmlhtmlelement/version/
 ---
 ## HTMLHtmlElement.Version property

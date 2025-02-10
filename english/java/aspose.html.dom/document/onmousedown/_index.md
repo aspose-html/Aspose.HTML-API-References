@@ -3,7 +3,7 @@ title: Document.OnMouseDown
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnMouseDown event
 type: docs
-weight: 510
+
 url: /java/com.aspose.html.dom/document/onmousedown/
 ---
 ## Document.OnMouseDown event

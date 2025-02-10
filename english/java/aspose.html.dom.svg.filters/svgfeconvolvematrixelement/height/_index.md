@@ -3,7 +3,7 @@ title: SVGFEConvolveMatrixElement.Height
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEConvolveMatrixElement property. Corresponds to attribute height on the given filter element
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/height/
 ---
 ## SVGFEConvolveMatrixElement.Height property

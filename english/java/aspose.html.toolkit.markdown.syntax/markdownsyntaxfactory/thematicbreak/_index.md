@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.ThematicBreak
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates ThematicBreakSyntaxNode
 type: docs
-weight: 450
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/thematicbreak/
 ---
 ## MarkdownSyntaxFactory.ThematicBreak method

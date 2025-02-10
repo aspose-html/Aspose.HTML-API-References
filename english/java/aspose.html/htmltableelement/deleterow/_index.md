@@ -3,7 +3,7 @@ title: HTMLTableElement.DeleteRow
 second_title: Aspose.HTML for Java API Reference
 description: HTMLTableElement method. Delete a table row
 type: docs
-weight: 190
+
 url: /java/com.aspose.html/htmltableelement/deleterow/
 ---
 ## HTMLTableElement.DeleteRow method

@@ -3,7 +3,7 @@ title: Principle.GetGuideline
 second_title: Aspose.HTML for Java API Reference
 description: Principle method. Get by WCAG code for Guideline
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.accessibility/principle/getguideline/
 ---
 ## Principle.GetGuideline method

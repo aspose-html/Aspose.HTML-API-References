@@ -3,7 +3,7 @@ title: IMatrix.Clone
 second_title: Aspose.HTML for Java API Reference
 description: IMatrix method. Creates a copy of this matrix
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.drawing/imatrix/clone/
 ---
 ## IMatrix.Clone method

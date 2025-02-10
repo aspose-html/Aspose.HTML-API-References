@@ -3,7 +3,7 @@ title: Converter Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.converters.Converter class. Shared facade only for most often conversion scenarios. It provides a wide range of conversions to the popular formats such as PDF XPS image formats etc. More specific conversion rendering saving user cases are presented by well known and documented low level API functions
 type: docs
-weight: 230
+
 url: /java/com.aspose.html.converters/converter/
 ---
 ## Converter class

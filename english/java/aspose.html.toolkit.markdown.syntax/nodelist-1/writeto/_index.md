@@ -3,7 +3,7 @@ title: NodeList-1.WriteTo
 second_title: Aspose.HTML for Java API Reference
 description: NodeList method. Write nodes to text writer
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/nodelist-1/writeto/
 ---
 ## NodeList&lt;T&gt;.WriteTo method

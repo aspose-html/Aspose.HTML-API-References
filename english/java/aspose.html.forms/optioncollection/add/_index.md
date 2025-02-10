@@ -3,7 +3,7 @@ title: OptionCollection.Add
 second_title: Aspose.HTML for Java API Reference
 description: OptionCollection method. Add new option
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.forms/optioncollection/add/
 ---
 ## OptionCollection.Add method

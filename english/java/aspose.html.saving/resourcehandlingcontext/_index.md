@@ -3,7 +3,7 @@ title: ResourceHandlingContext Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.saving.ResourceHandlingContext class. This class contains information used when processing resources
 type: docs
-weight: 4930
+
 url: /java/com.aspose.html.saving/resourcehandlingcontext/
 ---
 ## ResourceHandlingContext class

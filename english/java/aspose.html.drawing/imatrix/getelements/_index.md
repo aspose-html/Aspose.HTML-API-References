@@ -3,7 +3,7 @@ title: IMatrix.GetElements
 second_title: Aspose.HTML for Java API Reference
 description: IMatrix method. Gets the elements of the matrix as an array
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.drawing/imatrix/getelements/
 ---
 ## IMatrix.GetElements method

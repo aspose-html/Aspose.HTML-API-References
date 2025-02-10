@@ -3,7 +3,7 @@ title: ProcessingInstruction.NodeValue
 second_title: Aspose.HTML for Java API Reference
 description: ProcessingInstruction property. The value of this node depending on its type
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom/processinginstruction/nodevalue/
 ---
 ## ProcessingInstruction.NodeValue property

@@ -3,7 +3,7 @@ title: ResourceHandler.HandleResourceReference
 second_title: Aspose.HTML for Java API Reference
 description: ResourceHandler method. This method is responsible for handling the resource reference. In this method you can set what the reference to the resource being handled will look like
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.saving.resourcehandlers/resourcehandler/handleresourcereference/
 ---
 ## ResourceHandler.HandleResourceReference method

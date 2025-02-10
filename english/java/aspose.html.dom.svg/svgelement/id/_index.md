@@ -3,7 +3,7 @@ title: SVGElement.Id
 second_title: Aspose.HTML for Java API Reference
 description: SVGElement property. The value of the id attribute on the given element or the empty String if id is not present
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svgelement/id/
 ---
 ## SVGElement.Id property

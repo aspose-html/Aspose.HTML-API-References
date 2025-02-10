@@ -3,7 +3,7 @@ title: ILinkStyle.Sheet
 second_title: Aspose.HTML for Java API Reference
 description: ILinkStyle property. The property returns the associated CSS style sheet for the node or null if there is no associated CSS style sheet
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.css/ilinkstyle/sheet/
 ---
 ## ILinkStyle.Sheet property

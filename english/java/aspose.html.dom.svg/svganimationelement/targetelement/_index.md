@@ -3,7 +3,7 @@ title: SVGAnimationElement.TargetElement
 second_title: Aspose.HTML for Java API Reference
 description: SVGAnimationElement property. The element which is being animated
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg/svganimationelement/targetelement/
 ---
 ## SVGAnimationElement.TargetElement property

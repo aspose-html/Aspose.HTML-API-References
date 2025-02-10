@@ -3,7 +3,7 @@ title: CharacterData.AppendData
 second_title: Aspose.HTML for Java API Reference
 description: CharacterData method. Append the String to the end of the character data of the node
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom/characterdata/appenddata/
 ---
 ## CharacterData.AppendData method

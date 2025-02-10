@@ -3,7 +3,7 @@ title: SVGFETurbulenceElement.Seed
 second_title: Aspose.HTML for Java API Reference
 description: SVGFETurbulenceElement property. Corresponds to attribute seed on the given feTurbulence element
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/seed/
 ---
 ## SVGFETurbulenceElement.Seed property

@@ -3,7 +3,7 @@ title: SVGTextPositioningElement.Dy
 second_title: Aspose.HTML for Java API Reference
 description: SVGTextPositioningElement property. Corresponds to attribute dy on the given element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svgtextpositioningelement/dy/
 ---
 ## SVGTextPositioningElement.Dy property

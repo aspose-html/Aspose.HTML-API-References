@@ -3,7 +3,7 @@ title: ISVGZoomAndPan Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.ISVGZoomAndPan interface. The SVGZoomAndPan interface defines attribute zoomAndPan and associated constants
 type: docs
-weight: 1840
+
 url: /java/com.aspose.html.dom.svg/isvgzoomandpan/
 ---
 ## ISVGZoomAndPan interface

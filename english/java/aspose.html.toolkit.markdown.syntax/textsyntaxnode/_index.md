@@ -3,7 +3,7 @@ title: TextSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.textSyntaxNode class. Implemented the text syntax node
 type: docs
-weight: 5930
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/textsyntaxnode/
 ---
 ## TextSyntaxNode class

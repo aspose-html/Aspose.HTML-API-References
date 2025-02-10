@@ -3,7 +3,7 @@ title: SVGFEConvolveMatrixElement.EdgeMode
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEConvolveMatrixElement property. Corresponds to attribute edgeMode on the given feConvolveMatrix element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/edgemode/
 ---
 ## SVGFEConvolveMatrixElement.EdgeMode property

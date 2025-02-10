@@ -3,7 +3,7 @@ title: LineBreakSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.LineBreakSyntaxNode class. Represent the LineBreakSyntaxNode
 type: docs
-weight: 5360
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/
 ---
 ## LineBreakSyntaxNode class

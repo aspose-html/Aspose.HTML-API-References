@@ -3,7 +3,7 @@ title: SVGFECompositeElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.filters.SVGFECompositeElement class. The SVGFECompositeElement interface corresponds to the feComposite element
 type: docs
-weight: 1560
+
 url: /java/com.aspose.html.dom.svg.filters/svgfecompositeelement/
 ---
 ## SVGFECompositeElement class

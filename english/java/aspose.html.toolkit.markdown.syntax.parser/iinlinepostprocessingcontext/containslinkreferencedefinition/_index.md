@@ -3,7 +3,7 @@ title: IInlinePostProcessingContext.ContainsLinkReferenceDefinition
 second_title: Aspose.HTML for Java API Reference
 description: IInlinePostProcessingContext method. Defines the ContainsLinkReferenceDefinition
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/containslinkreferencedefinition/
 ---
 ## IInlinePostProcessingContext.ContainsLinkReferenceDefinition method

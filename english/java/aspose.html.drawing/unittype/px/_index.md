@@ -3,7 +3,7 @@ title: UnitType.Px
 second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is in pixels
 type: docs
-weight: 200
+
 url: /java/com.aspose.html.drawing/unittype/px/
 ---
 ## UnitType.Px field

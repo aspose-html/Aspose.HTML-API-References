@@ -3,7 +3,7 @@ title: ResourceHandler Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.saving.ResourceHandlers.ResourceHandler class. This class is responsible for handling resources. It provides methods that allow you to control what will be done with the Resource as well as what reference will be written to the parent Resource
 type: docs
-weight: 4910
+
 url: /java/com.aspose.html.saving.resourcehandlers/resourcehandler/
 ---
 ## ResourceHandler class

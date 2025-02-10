@@ -3,7 +3,7 @@ title: SVGFECompositeElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGFECompositeElement property. Corresponds to attribute x on the given filter element
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.dom.svg.filters/svgfecompositeelement/x/
 ---
 ## SVGFECompositeElement.X property

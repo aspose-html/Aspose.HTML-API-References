@@ -3,7 +3,7 @@ title: IBrowsingContext.Parent
 second_title: Aspose.HTML for Java API Reference
 description: IBrowsingContext property. Gets the parent context if any
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom/ibrowsingcontext/parent/
 ---
 ## IBrowsingContext.Parent property

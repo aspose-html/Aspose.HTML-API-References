@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.SoftBreak
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates SoftBreakSyntaxNode
 type: docs
-weight: 370
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/softbreak/
 ---
 ## MarkdownSyntaxFactory.SoftBreak method

@@ -3,7 +3,7 @@ title: com.aspose.html.saving.ResourceHandlers
 second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.saving.ResourceHandlers package contains classes responsible for handling resources
 type: docs
-weight: 410
+
 url: /java/com.aspose.html.saving.resourcehandlers/
 ---
 The **com.aspose.html.saving.ResourceHandlers** package contains classes responsible for handling resources.

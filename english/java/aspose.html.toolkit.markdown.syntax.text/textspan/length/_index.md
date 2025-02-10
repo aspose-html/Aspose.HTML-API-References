@@ -3,7 +3,7 @@ title: TextSpan.Length
 second_title: Aspose.HTML for Java API Reference
 description: TextSpan property. Get the length
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textspan/length/
 ---
 ## TextSpan.Length property

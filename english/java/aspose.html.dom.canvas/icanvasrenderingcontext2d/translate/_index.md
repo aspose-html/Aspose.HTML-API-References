@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.Translate
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Adds a translation transformation by moving the canvas and its origin x horzontally and y vertically on the grid
 type: docs
-weight: 410
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/translate/
 ---
 ## ICanvasRenderingContext2D.Translate method

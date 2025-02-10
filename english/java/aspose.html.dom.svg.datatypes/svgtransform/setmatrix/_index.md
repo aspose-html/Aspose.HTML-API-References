@@ -3,7 +3,7 @@ title: SVGTransform.SetMatrix
 second_title: Aspose.HTML for Java API Reference
 description: SVGTransform method. Sets the transform type to SVG_TRANSFORM_MATRIX with parameter matrix defining the new transformation. The values from the parameter matrix are copied the matrix parameter does not replace SVGTransformmatrix
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/setmatrix/
 ---
 ## SVGTransform.SetMatrix method

@@ -3,7 +3,7 @@ title: GlyphInfo.Index
 second_title: Aspose.HTML for Java API Reference
 description: GlyphInfo property. Gets the index of this glyph in the font
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.rendering/glyphinfo/index/
 ---
 ## GlyphInfo.Index property

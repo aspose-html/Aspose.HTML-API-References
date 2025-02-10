@@ -3,7 +3,7 @@ title: SVGZoomEvent Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.events.SVGZoomEvent class. The zoom event occurs when the user initiates an action which causes the current view of the SVG document fragment to be rescaled. Event handlers are only recognized on svg elements
 type: docs
-weight: 1500
+
 url: /java/com.aspose.html.dom.svg.events/svgzoomevent/
 ---
 ## SVGZoomEvent class

@@ -3,7 +3,7 @@ title: SyntaxNodeCollection-1.Get
 second_title: Aspose.HTML for Java API Reference
 description: SyntaxNodeCollection method. Gets the item at the given index
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/get/
 ---
 ## SyntaxNodeCollection&lt;T&gt;.Get method

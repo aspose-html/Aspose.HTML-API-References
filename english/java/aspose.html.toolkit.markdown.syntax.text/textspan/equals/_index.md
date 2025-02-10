@@ -3,7 +3,7 @@ title: TextSpan.Equals
 second_title: Aspose.HTML for Java API Reference
 description: TextSpan method. Compare with other TextSpan
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textspan/equals/
 ---
 ## Equals(TextSpan) {#equals}

@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoCubicRel.Y
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegCurvetoCubicRel property. The relative Y coordinate for the end point of this path segment
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetocubicrel/y/
 ---
 ## SVGPathSegCurvetoCubicRel.Y property

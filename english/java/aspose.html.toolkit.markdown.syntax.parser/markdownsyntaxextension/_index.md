@@ -3,7 +3,7 @@ title: MarkdownSyntaxExtension Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.parser.MarkdownSyntaxExtension class. Defines the base class for MarkdownSyntaxExtension
 type: docs
-weight: 5750
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownsyntaxextension/
 ---
 ## MarkdownSyntaxExtension class

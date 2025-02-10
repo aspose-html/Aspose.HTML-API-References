@@ -3,7 +3,7 @@ title: DOMTokenList.GetEnumerator
 second_title: Aspose.HTML for Java API Reference
 description: DOMTokenList method. Returns an enumerator that iterates through the collection
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.collections/domtokenlist/getenumerator/
 ---
 ## DOMTokenList.GetEnumerator method

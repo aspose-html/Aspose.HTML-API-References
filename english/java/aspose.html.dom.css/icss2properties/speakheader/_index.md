@@ -3,7 +3,7 @@ title: ICSS2Properties.SpeakHeader
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies whether table headers are spoken before every cell or only before a cell when that cell is associated with a different header than the previous cell. Values have the following meanings
 type: docs
-weight: 1010
+
 url: /java/com.aspose.html.dom.css/icss2properties/speakheader/
 ---
 ## ICSS2Properties.SpeakHeader property

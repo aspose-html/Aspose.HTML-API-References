@@ -3,7 +3,7 @@ title: Criterion.Level
 second_title: Aspose.HTML for Java API Reference
 description: Criterion property. Compliance levels A lowest AA and AAA highest
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.accessibility/criterion/level/
 ---
 ## Criterion.Level property

@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.Token
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates MarkdownSyntaxToken
 type: docs
-weight: 460
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/token/
 ---
 ## Token(SourceText, TextSpan) {#token_1}

@@ -3,7 +3,7 @@ title: IWindow.Btoa
 second_title: Aspose.HTML for Java API Reference
 description: IWindow method. Takes the input data in the form of a Unicode String containing only characters in the range U0000 to U00FF each representing a binary byte with values 0x00 to 0xFF respectively and converts it to its base64 representation which it returns
 type: docs
-weight: 130
+
 url: /java/com.aspose.html.window/iwindow/btoa/
 ---
 ## IWindow.Btoa method

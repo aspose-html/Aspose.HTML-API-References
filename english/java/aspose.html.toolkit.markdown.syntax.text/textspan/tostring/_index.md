@@ -3,7 +3,7 @@ title: TextSpan.ToString
 second_title: Aspose.HTML for Java API Reference
 description: TextSpan method. Get ToString override
 type: docs
-weight: 130
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textspan/toString/
 ---
 ## TextSpan.ToString method

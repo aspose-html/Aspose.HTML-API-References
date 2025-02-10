@@ -3,7 +3,7 @@ title: IDiagnosticsBuilder.AddMetrics
 second_title: Aspose.HTML for Java API Reference
 description: IDiagnosticsBuilder method. Enables metrics collection
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.diagnostics/idiagnosticsbuilder/addmetrics/
 ---
 ## IDiagnosticsBuilder.AddMetrics method

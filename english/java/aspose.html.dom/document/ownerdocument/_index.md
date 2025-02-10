@@ -3,7 +3,7 @@ title: Document.OwnerDocument
 second_title: Aspose.HTML for Java API Reference
 description: Document property. Gets the owner document
 type: docs
-weight: 210
+
 url: /java/com.aspose.html.dom/document/ownerdocument/
 ---
 ## Document.OwnerDocument property

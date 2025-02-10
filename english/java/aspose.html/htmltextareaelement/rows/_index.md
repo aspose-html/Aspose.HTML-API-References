@@ -3,7 +3,7 @@ title: HTMLTextAreaElement.Rows
 second_title: Aspose.HTML for Java API Reference
 description: HTMLTextAreaElement property. Number of text rows. See the rows attribute definition in HTML 4.01
 type: docs
-weight: 80
+
 url: /java/com.aspose.html/htmltextareaelement/rows/
 ---
 ## HTMLTextAreaElement.Rows property

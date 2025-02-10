@@ -3,7 +3,7 @@ title: IStorage Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.IStorage interface. This interface of the Web Storage API provides access to a particular domains session or local storage. See Web Storage specification https//html.spec.whatwg.org/multipage/webstorage.htmlwebstorage
 type: docs
-weight: 1110
+
 url: /java/com.aspose.html.dom/istorage/
 ---
 ## IStorage interface

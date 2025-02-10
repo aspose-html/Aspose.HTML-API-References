@@ -3,7 +3,7 @@ title: DocumentType.InternalSubset
 second_title: Aspose.HTML for Java API Reference
 description: DocumentType property. The internal subset as a String or null if there is none
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom/documenttype/internalsubset/
 ---
 ## DocumentType.InternalSubset property

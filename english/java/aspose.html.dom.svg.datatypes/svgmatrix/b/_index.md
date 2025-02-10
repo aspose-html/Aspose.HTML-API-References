@@ -3,7 +3,7 @@ title: SVGMatrix.B
 second_title: Aspose.HTML for Java API Reference
 description: SVGMatrix property. The B component of the matrix
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgmatrix/b/
 ---
 ## SVGMatrix.B property

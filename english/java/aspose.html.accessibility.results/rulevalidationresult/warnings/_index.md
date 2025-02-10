@@ -3,7 +3,7 @@ title: RuleValidationResult.Warnings
 second_title: Aspose.HTML for Java API Reference
 description: RuleValidationResult property. Collection of results with Warnings
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.accessibility.results/rulevalidationresult/warnings/
 ---
 ## RuleValidationResult.Warnings property

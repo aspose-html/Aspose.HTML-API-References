@@ -3,7 +3,7 @@ title: MouseEvent.Button
 second_title: Aspose.HTML for Java API Reference
 description: MouseEvent property. During mouse events caused by the depression or release of a mouse button button MUST be used to indicate which pointer device button changed state
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.events/mouseevent/button/
 ---
 ## MouseEvent.Button property

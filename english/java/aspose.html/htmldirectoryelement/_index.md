@@ -3,7 +3,7 @@ title: HTMLDirectoryElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLDirectoryElement class. Directory list. See the DIR element definition in HTML 4.01. This element is deprecated in HTML 4.01
 type: docs
-weight: 3400
+
 url: /java/com.aspose.html/htmldirectoryelement/
 ---
 ## HTMLDirectoryElement class

@@ -3,7 +3,7 @@ title: Attr.NamespaceURI
 second_title: Aspose.HTML for Java API Reference
 description: Attr property. The package URI of this node or null if it is unspecified
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom/attr/packageuri/
 ---
 ## Attr.NamespaceURI property

@@ -3,7 +3,7 @@ title: ICSSMediaRule Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.css.ICSSMediaRule interface. The CSSMediaRule interface represents a media rule in a CSS style sheet. A media rule can be used to delimit style rules for specific media types
 type: docs
-weight: 620
+
 url: /java/com.aspose.html.dom.css/icssmediarule/
 ---
 ## ICSSMediaRule interface

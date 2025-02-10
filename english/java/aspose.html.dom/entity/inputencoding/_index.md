@@ -3,7 +3,7 @@ title: Entity.InputEncoding
 second_title: Aspose.HTML for Java API Reference
 description: Entity property. An attribute specifying the encoding used for this entity at the time of parsing when it is an external parsed entity. This is null if it an entity from the internal subset or if it is not known
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom/entity/inputencoding/
 ---
 ## Entity.InputEncoding property

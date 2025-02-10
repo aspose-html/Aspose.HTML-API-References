@@ -3,7 +3,7 @@ title: ITechniqueResult.Rule
 second_title: Aspose.HTML for Java API Reference
 description: ITechniqueResult property. The rule that is checked
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.accessibility/itechniqueresult/rule/
 ---
 ## ITechniqueResult.Rule property

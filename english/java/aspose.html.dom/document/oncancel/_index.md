@@ -3,7 +3,7 @@ title: Document.OnCancel
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnCancel event
 type: docs
-weight: 300
+
 url: /java/com.aspose.html.dom/document/oncancel/
 ---
 ## Document.OnCancel event

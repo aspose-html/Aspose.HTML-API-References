@@ -3,7 +3,7 @@ title: PlatformException Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.PlatformException class. Represents the base class for all exceptions that may occur during the application execution
 type: docs
-weight: 4310
+
 url: /java/com.aspose.html/platformexception/
 ---
 ## PlatformException class

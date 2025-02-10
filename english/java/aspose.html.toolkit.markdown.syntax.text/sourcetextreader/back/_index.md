@@ -3,7 +3,7 @@ title: SourceTextReader.Back
 second_title: Aspose.HTML for Java API Reference
 description: SourceTextReader method. The decrement position
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetextreader/back/
 ---
 ## SourceTextReader.Back method

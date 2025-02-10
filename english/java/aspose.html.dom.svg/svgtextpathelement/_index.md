@@ -3,7 +3,7 @@ title: SVGTextPathElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGTextPathElement class. The SVGTextPathElement interface corresponds to the textPath element
 type: docs
-weight: 2530
+
 url: /java/com.aspose.html.dom.svg/svgtextpathelement/
 ---
 ## SVGTextPathElement class

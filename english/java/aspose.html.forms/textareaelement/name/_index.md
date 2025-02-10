@@ -3,7 +3,7 @@ title: TextAreaElement.Name
 second_title: Aspose.HTML for Java API Reference
 description: TextAreaElement property. Represent the name attribute of the input element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.forms/textareaelement/name/
 ---
 ## TextAreaElement.Name property

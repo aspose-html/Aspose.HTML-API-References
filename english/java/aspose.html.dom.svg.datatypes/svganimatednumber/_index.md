@@ -3,7 +3,7 @@ title: SVGAnimatedNumber Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.datatypes.SVGAnimatedNumber class. Used for attributes of basic type number which can be animated
 type: docs
-weight: 1300
+
 url: /java/com.aspose.html.dom.svg.datatypes/svganimatednumber/
 ---
 ## SVGAnimatedNumber class

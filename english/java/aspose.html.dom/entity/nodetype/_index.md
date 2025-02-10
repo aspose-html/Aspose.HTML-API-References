@@ -3,7 +3,7 @@ title: Entity.NodeType
 second_title: Aspose.HTML for Java API Reference
 description: Entity property. A code representing the type of the underlying object
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom/entity/nodetype/
 ---
 ## Entity.NodeType property

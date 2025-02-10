@@ -3,7 +3,7 @@ title: ICSS2Properties.Top
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies how far a boxs top content edge is offset below the top edge of the boxs containing block
 type: docs
-weight: 1120
+
 url: /java/com.aspose.html.dom.css/icss2properties/top/
 ---
 ## ICSS2Properties.Top property

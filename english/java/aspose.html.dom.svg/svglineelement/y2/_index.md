@@ -3,7 +3,7 @@ title: SVGLineElement.Y2
 second_title: Aspose.HTML for Java API Reference
 description: SVGLineElement property. Corresponds to attribute y2 on the given line element
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg/svglineelement/y2/
 ---
 ## SVGLineElement.Y2 property

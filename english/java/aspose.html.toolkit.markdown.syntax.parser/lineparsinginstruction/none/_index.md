@@ -3,7 +3,7 @@ title: LineParsingInstruction.None
 second_title: Aspose.HTML for Java API Reference
 description: LineParsingInstruction field. The None LineParsingInstruction
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/none/
 ---
 ## LineParsingInstruction.None field

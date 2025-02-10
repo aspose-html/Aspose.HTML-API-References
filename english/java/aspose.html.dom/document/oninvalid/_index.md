@@ -3,7 +3,7 @@ title: Document.OnInvalid
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnInvalid event
 type: docs
-weight: 430
+
 url: /java/com.aspose.html.dom/document/oninvalid/
 ---
 ## Document.OnInvalid event

@@ -3,7 +3,7 @@ title: HTMLElement.OnVolumeChange
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnVolumeChange event
 type: docs
-weight: 550
+
 url: /java/com.aspose.html/htmlelement/onvolumechange/
 ---
 ## HTMLElement.OnVolumeChange event

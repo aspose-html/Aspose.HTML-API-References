@@ -3,7 +3,7 @@ title: IGlobalEventHandlers.OnClick
 second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnClick event
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom/iglobaleventhandlers/onclick/
 ---
 ## IGlobalEventHandlers.OnClick event

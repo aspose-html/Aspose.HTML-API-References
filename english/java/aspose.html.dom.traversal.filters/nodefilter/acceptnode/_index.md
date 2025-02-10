@@ -3,7 +3,7 @@ title: NodeFilter.AcceptNode
 second_title: Aspose.HTML for Java API Reference
 description: NodeFilter method. Test whether a specified node is visible in the logical view of a TreeWalker or NodeIterator. This function will be called by the implementation of TreeWalker and NodeIterator it is not normally called directly from user code. Though you could do so if you wanted to use the same filter to guide your own application logic
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.traversal.filters/nodefilter/acceptnode/
 ---
 ## NodeFilter.AcceptNode method

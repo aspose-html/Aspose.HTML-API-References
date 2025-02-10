@@ -3,7 +3,7 @@ title: IUserAgentService.FontsSettings
 second_title: Aspose.HTML for Java API Reference
 description: IUserAgentService property. Gets a FontsSettings object which is used for configuration of fonts handling
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.services/iuseragentservice/fontssettings/
 ---
 ## IUserAgentService.FontsSettings property

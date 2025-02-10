@@ -3,7 +3,7 @@ title: ICanvasPathMethods.Rect
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasPathMethods method. Creates a path for a rectangle at position x y with a size that is determined by width and height
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.dom.canvas/icanvaspathmethods/rect/
 ---
 ## ICanvasPathMethods.Rect method

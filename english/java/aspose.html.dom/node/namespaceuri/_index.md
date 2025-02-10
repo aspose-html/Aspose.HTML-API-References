@@ -3,7 +3,7 @@ title: Node.NamespaceURI
 second_title: Aspose.HTML for Java API Reference
 description: Node property. The Element.packageURI read-only property returns the package URI of the element or null if the element is not in a package
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom/node/packageuri/
 ---
 ## Node.NamespaceURI property

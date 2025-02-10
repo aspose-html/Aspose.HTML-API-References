@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.CreateImageData
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Creates a new blank ImageData object with the specified dimensions. All of the pixels in the new object are transparent black
 type: docs
-weight: 160
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/createimagedata/
 ---
 ## CreateImageData(double, double) {#createimagedata_1}

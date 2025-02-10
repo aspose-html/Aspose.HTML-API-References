@@ -3,7 +3,7 @@ title: Color.FromOklch
 second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a new Color with the requested luminance chroma hue values for OKLAB model
 type: docs
-weight: 180
+
 url: /java/com.aspose.html.drawing/color/fromoklch/
 ---
 ## Color.FromOklch method

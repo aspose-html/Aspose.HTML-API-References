@@ -3,7 +3,7 @@ title: SVGPathElement.CreateSVGPathSegMovetoAbs
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegMovetoAbs object
 type: docs
-weight: 200
+
 url: /java/com.aspose.html.dom.svg/svgpathelement/createsvgpathsegmovetoabs/
 ---
 ## SVGPathElement.CreateSVGPathSegMovetoAbs method

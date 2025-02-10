@@ -3,7 +3,7 @@ title: SVGPathSegArcRel.LargeArcFlag
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegArcRel property. The value of the large-arc-flag parameter
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegarcrel/largearcflag/
 ---
 ## SVGPathSegArcRel.LargeArcFlag property

@@ -3,7 +3,7 @@ title: Node.FirstChild
 second_title: Aspose.HTML for Java API Reference
 description: Node property. The read-only firstChild property of the Node interface returns the nodes first child in the tree or null if the node has no children
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom/node/firstchild/
 ---
 ## Node.FirstChild property

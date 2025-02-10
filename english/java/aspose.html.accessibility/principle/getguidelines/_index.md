@@ -3,7 +3,7 @@ title: Principle.GetGuidelines
 second_title: Aspose.HTML for Java API Reference
 description: Principle method. Get all the Guidelines contained in the Principle
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.accessibility/principle/getguidelines/
 ---
 ## Principle.GetGuidelines method

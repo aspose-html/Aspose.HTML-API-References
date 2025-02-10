@@ -3,7 +3,7 @@ title: DeviceTGraphicContextTRenderingOptions.DeviceConfigurationTGraphicContext
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.Device2DeviceConfigurationTGraphicContextTRenderingOptions class. 
 type: docs
-weight: 4360
+
 url: /java/com.aspose.html.rendering/device-2.deviceconfiguration-2/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; class

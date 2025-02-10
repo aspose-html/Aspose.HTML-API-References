@@ -3,7 +3,7 @@ title: SVGPreserveAspectRatio.Align
 second_title: Aspose.HTML for Java API Reference
 description: SVGPreserveAspectRatio property. The type of the alignment value as specified by one of the SVG_PRESERVEASPECTRATIO_ constants defined on this interface
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgpreserveaspectratio/align/
 ---
 ## SVGPreserveAspectRatio.Align property

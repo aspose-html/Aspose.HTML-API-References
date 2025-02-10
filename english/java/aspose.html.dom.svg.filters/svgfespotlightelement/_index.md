@@ -3,7 +3,7 @@ title: SVGFESpotLightElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.filters.SVGFESpotLightElement class. The SVGFESpotLightElement interface corresponds to the feSpotLight element
 type: docs
-weight: 1750
+
 url: /java/com.aspose.html.dom.svg.filters/svgfespotlightelement/
 ---
 ## SVGFESpotLightElement class

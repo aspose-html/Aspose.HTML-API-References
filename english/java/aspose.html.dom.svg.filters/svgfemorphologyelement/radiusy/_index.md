@@ -3,7 +3,7 @@ title: SVGFEMorphologyElement.RadiusY
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEMorphologyElement property. Corresponds to attribute radius on the given feMorphology element
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg.filters/svgfemorphologyelement/radiusy/
 ---
 ## SVGFEMorphologyElement.RadiusY property

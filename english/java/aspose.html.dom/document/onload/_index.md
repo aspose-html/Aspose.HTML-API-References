@@ -3,7 +3,7 @@ title: Document.OnLoad
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnLoad event
 type: docs
-weight: 470
+
 url: /java/com.aspose.html.dom/document/onload/
 ---
 ## Document.OnLoad event

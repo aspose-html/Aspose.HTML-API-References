@@ -3,7 +3,7 @@ title: SVGFEBlendElement.Y
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEBlendElement property. Corresponds to attribute y on the given filter element
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeblendelement/y/
 ---
 ## SVGFEBlendElement.Y property

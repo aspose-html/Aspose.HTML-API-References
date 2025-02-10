@@ -3,7 +3,7 @@ title: SpreadMode Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.SpreadMode enum. Specifies how a texture or gradient is tiled when it is smaller than the area being filled
 type: docs
-weight: 3030
+
 url: /java/com.aspose.html.drawing/spreadmode/
 ---
 ## SpreadMode enumeration

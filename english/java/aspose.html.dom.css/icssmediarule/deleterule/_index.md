@@ -3,7 +3,7 @@ title: ICSSMediaRule.DeleteRule
 second_title: Aspose.HTML for Java API Reference
 description: ICSSMediaRule method. The deleteRule method of the CSSGroupingRule interface removes a CSS rule from a list of child CSS rules
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.css/icssmediarule/deleterule/
 ---
 ## ICSSMediaRule.DeleteRule method

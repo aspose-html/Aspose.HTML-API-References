@@ -3,7 +3,7 @@ title: Resource.Save
 second_title: Aspose.HTML for Java API Reference
 description: Resource method. Saves the resource to the provided stream
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.saving/resource/save/
 ---
 ## Resource.Save method

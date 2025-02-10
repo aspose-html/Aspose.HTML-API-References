@@ -3,7 +3,7 @@ title: SVGGradientElement.Href
 second_title: Aspose.HTML for Java API Reference
 description: SVGGradientElement property. Corresponds to attribute xlinkhref on the given element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svggradientelement/href/
 ---
 ## SVGGradientElement.Href property

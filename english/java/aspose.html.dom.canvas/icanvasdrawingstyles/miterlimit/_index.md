@@ -3,7 +3,7 @@ title: ICanvasDrawingStyles.MiterLimit
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasDrawingStyles property. Miter limit ratio. Default 10
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.canvas/icanvasdrawingstyles/miterlimit/
 ---
 ## ICanvasDrawingStyles.MiterLimit property

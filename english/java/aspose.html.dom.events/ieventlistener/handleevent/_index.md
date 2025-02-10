@@ -3,7 +3,7 @@ title: IEventListener.HandleEvent
 second_title: Aspose.HTML for Java API Reference
 description: IEventListener method. This method is called whenever an event occurs of the type for which the interface was registered
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.events/ieventlistener/handleevent/
 ---
 ## IEventListener.HandleEvent method

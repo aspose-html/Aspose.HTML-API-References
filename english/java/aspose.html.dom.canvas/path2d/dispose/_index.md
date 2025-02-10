@@ -3,7 +3,7 @@ title: Path2D.Dispose
 second_title: Aspose.HTML for Java API Reference
 description: Path2D method. Disposes object
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.canvas/path2d/dispose/
 ---
 ## Path2D.Dispose method

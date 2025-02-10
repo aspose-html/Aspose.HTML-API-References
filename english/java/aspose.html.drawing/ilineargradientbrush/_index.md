@@ -3,7 +3,7 @@ title: ILinearGradientBrush Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.ILinearGradientBrush interface. Defines brush interface with a linear gradient
 type: docs
-weight: 2900
+
 url: /java/com.aspose.html.drawing/ilineargradientbrush/
 ---
 ## ILinearGradientBrush interface

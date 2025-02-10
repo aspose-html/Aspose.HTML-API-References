@@ -3,7 +3,7 @@ title: MhtmlRenderer Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.MhtmlRenderer class. Represents a MHTML document renderer
 type: docs
-weight: 4580
+
 url: /java/com.aspose.html.rendering/mhtmlrenderer/
 ---
 ## MhtmlRenderer class

@@ -3,7 +3,7 @@ title: IGlobalEventHandlers.OnToggle
 second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnToggle event
 type: docs
-weight: 480
+
 url: /java/com.aspose.html.dom/iglobaleventhandlers/ontoggle/
 ---
 ## IGlobalEventHandlers.OnToggle event

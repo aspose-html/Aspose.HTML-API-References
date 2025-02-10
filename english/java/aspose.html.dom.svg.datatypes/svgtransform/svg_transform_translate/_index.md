@@ -3,7 +3,7 @@ title: SVGTransform.SVG_TRANSFORM_TRANSLATE
 second_title: Aspose.HTML for Java API Reference
 description: SVGTransform field. A translate transformation
 type: docs
-weight: 160
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/svg_transform_translate/
 ---
 ## SVGTransform.SVG_TRANSFORM_TRANSLATE field

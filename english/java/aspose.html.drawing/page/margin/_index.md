@@ -3,7 +3,7 @@ title: Page.Margin
 second_title: Aspose.HTML for Java API Reference
 description: Page property. Gets or sets the page margin
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.drawing/page/margin/
 ---
 ## Page.Margin property

@@ -3,7 +3,7 @@ title: SVGAnimatedAngle Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.datatypes.SVGAnimatedAngle class. Used for attributes of basic data type angle that can be animated
 type: docs
-weight: 1240
+
 url: /java/com.aspose.html.dom.svg.datatypes/svganimatedangle/
 ---
 ## SVGAnimatedAngle class

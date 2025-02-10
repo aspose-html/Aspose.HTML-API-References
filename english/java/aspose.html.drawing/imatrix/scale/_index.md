@@ -3,7 +3,7 @@ title: IMatrix.Scale
 second_title: Aspose.HTML for Java API Reference
 description: IMatrix method. Scales the matrix by the specified scale factors in the specified order
 type: docs
-weight: 160
+
 url: /java/com.aspose.html.drawing/imatrix/scale/
 ---
 ## Scale(float, float, WebMatrixOrder) {#scale_1}

@@ -3,7 +3,7 @@ title: Document.OnFocus
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnFocus event
 type: docs
-weight: 410
+
 url: /java/com.aspose.html.dom/document/onfocus/
 ---
 ## Document.OnFocus event

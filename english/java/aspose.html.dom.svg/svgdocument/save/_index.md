@@ -3,7 +3,7 @@ title: SVGDocument.Save
 second_title: Aspose.HTML for Java API Reference
 description: SVGDocument method. Saves the document to local file specified by url. All resources used in this document will be saved in to adjacent folder whose name will be constructed as output_file_name  _files
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.dom.svg/svgdocument/save/
 ---
 ## Save(Url) {#save_3}

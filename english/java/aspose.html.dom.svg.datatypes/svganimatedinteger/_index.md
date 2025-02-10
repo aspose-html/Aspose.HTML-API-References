@@ -3,7 +3,7 @@ title: SVGAnimatedInteger Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.datatypes.SVGAnimatedInteger class. Used for attributes of basic type integer which can be animated
 type: docs
-weight: 1270
+
 url: /java/com.aspose.html.dom.svg.datatypes/svganimatedinteger/
 ---
 ## SVGAnimatedInteger class

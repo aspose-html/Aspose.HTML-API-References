@@ -3,7 +3,7 @@ title: HTMLDocument.Domain
 second_title: Aspose.HTML for Java API Reference
 description: HTMLDocument property. The domain name of the server that served the document or null if the server cannot be identified by a domain name
 type: docs
-weight: 50
+
 url: /java/com.aspose.html/htmldocument/domain/
 ---
 ## HTMLDocument.Domain property

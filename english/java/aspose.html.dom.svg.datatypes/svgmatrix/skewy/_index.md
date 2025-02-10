@@ -3,7 +3,7 @@ title: SVGMatrix.SkewY
 second_title: Aspose.HTML for Java API Reference
 description: SVGMatrix method. Post-multiplies a skewY transformation on the current matrix and returns the resulting matrix
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgmatrix/skewy/
 ---
 ## SVGMatrix.SkewY method

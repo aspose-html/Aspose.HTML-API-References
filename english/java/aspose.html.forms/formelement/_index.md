@@ -3,7 +3,7 @@ title: FormElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.forms.FormElement class. Represents base class for form elements
 type: docs
-weight: 3170
+
 url: /java/com.aspose.html.forms/formelement/
 ---
 ## FormElement class

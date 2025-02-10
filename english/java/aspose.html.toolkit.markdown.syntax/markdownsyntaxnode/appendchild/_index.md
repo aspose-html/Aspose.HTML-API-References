@@ -3,7 +3,7 @@ title: MarkdownSyntaxNode.AppendChild
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode method. Append child node
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/appendchild/
 ---
 ## MarkdownSyntaxNode.AppendChild method

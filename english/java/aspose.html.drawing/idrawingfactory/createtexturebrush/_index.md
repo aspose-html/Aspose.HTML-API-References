@@ -3,7 +3,7 @@ title: IDrawingFactory.CreateTextureBrush
 second_title: Aspose.HTML for Java API Reference
 description: IDrawingFactory method. Creates a texture brush with the specified parameters
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.drawing/idrawingfactory/createtexturebrush/
 ---
 ## IDrawingFactory.CreateTextureBrush method

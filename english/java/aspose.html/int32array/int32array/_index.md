@@ -3,7 +3,7 @@ title: Int32Array
 second_title: Aspose.HTML for Java API Reference
 description: Int32Array constructor. Initializes a new instance of the Int32Array class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/int32array/int32array/
 ---
 ## Int32Array(int) {#constructor_3}

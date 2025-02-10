@@ -3,7 +3,7 @@ title: RendererTSource Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.Renderer1TSource class. Represents an abstract class for the all renderers
 type: docs
-weight: 4700
+
 url: /java/com.aspose.html.rendering/renderer-1/
 ---
 ## Renderer&lt;TSource&gt; class

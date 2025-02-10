@@ -3,7 +3,7 @@ title: HTMLAnchorElement.Port
 second_title: Aspose.HTML for Java API Reference
 description: HTMLAnchorElement property. Gets or sets a String representation of the port segment of the associated URL
 type: docs
-weight: 130
+
 url: /java/com.aspose.html/htmlanchorelement/port/
 ---
 ## HTMLAnchorElement.Port property

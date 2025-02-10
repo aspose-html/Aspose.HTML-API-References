@@ -3,7 +3,7 @@ title: Url.Password
 second_title: Aspose.HTML for Java API Reference
 description: Url property. Gets or sets a String representation for the specified URL password
 type: docs
-weight: 70
+
 url: /java/com.aspose.html/url/password/
 ---
 ## Url.Password property

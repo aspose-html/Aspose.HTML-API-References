@@ -3,7 +3,7 @@ title: SVGMaskElement.Width
 second_title: Aspose.HTML for Java API Reference
 description: SVGMaskElement property. Corresponds to attribute width on the given mask element. Takes one of the constants defined in SVGUnitTypes
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.svg/svgmaskelement/width/
 ---
 ## SVGMaskElement.Width property

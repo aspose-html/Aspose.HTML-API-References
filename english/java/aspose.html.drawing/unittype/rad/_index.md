@@ -3,7 +3,7 @@ title: UnitType.Rad
 second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is in radians
 type: docs
-weight: 220
+
 url: /java/com.aspose.html.drawing/unittype/rad/
 ---
 ## UnitType.Rad field

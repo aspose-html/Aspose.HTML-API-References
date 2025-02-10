@@ -3,7 +3,7 @@ title: ICSSPageRule.Style
 second_title: Aspose.HTML for Java API Reference
 description: ICSSPageRule property. The style read-only property of the CSSPageRule interface returns a CSSStyleDeclaration object. This represents an object that is a CSS declaration block and exposes style information and various style-related methods and properties
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.css/icsspagerule/style/
 ---
 ## ICSSPageRule.Style property

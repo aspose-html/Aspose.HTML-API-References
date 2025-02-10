@@ -3,7 +3,7 @@ title: SVGFEConvolveMatrixElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.filters.SVGFEConvolveMatrixElement class. The SVGFEConvolveMatrixElement interface corresponds to the feConvolveMatrix element
 type: docs
-weight: 1570
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/
 ---
 ## SVGFEConvolveMatrixElement class

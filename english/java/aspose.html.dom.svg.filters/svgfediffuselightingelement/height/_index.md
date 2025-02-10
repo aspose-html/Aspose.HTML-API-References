@@ -3,7 +3,7 @@ title: SVGFEDiffuseLightingElement.Height
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEDiffuseLightingElement property. Corresponds to attribute height on the given filter element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.filters/svgfediffuselightingelement/height/
 ---
 ## SVGFEDiffuseLightingElement.Height property

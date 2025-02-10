@@ -3,7 +3,7 @@ title: SVGRadialGradientElement.Fr
 second_title: Aspose.HTML for Java API Reference
 description: SVGRadialGradientElement property. Corresponds to attribute fr on the given radialGradient element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svgradialgradientelement/fr/
 ---
 ## SVGRadialGradientElement.Fr property

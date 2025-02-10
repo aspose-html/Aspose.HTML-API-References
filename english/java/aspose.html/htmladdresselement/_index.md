@@ -3,7 +3,7 @@ title: HTMLAddressElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLAddressElement class. The address element. See the ADDRESS element definition in HTML 4.01
 type: docs
-weight: 3280
+
 url: /java/com.aspose.html/htmladdresselement/
 ---
 ## HTMLAddressElement class

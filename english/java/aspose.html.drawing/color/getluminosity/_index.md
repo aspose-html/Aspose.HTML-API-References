@@ -3,7 +3,7 @@ title: Color.GetLuminosity
 second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a luminosity of the Color
 type: docs
-weight: 340
+
 url: /java/com.aspose.html.drawing/color/getluminosity/
 ---
 ## Color.GetLuminosity method

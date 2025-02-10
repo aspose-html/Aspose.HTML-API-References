@@ -3,7 +3,7 @@ title: HTMLButtonElement.AccessKey
 second_title: Aspose.HTML for Java API Reference
 description: HTMLButtonElement property. A single character access key to give access to the form control. See the accesskey attribute definition in HTML 4.01
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/htmlbuttonelement/accesskey/
 ---
 ## HTMLButtonElement.AccessKey property

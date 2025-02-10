@@ -3,7 +3,7 @@ title: SourceTextReader Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.text.SourceTextReader class. Represents the SourceTextReader
 type: docs
-weight: 5890
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetextreader/
 ---
 ## SourceTextReader class

@@ -3,7 +3,7 @@ title: SVGGElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGGElement class. The SVGGElement interface corresponds to the g element
 type: docs
-weight: 2250
+
 url: /java/com.aspose.html.dom.svg/svggelement/
 ---
 ## SVGGElement class

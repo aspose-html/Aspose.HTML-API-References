@@ -3,7 +3,7 @@ title: SVGRect.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGRect property. The X coordinate of the rectangle in user units
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgrect/x/
 ---
 ## SVGRect.X property

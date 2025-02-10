@@ -3,7 +3,7 @@ title: HTMLFormElement.Action
 second_title: Aspose.HTML for Java API Reference
 description: HTMLFormElement property. Server-side form handler. See the action attribute definition in HTML 4.01
 type: docs
-weight: 20
+
 url: /java/com.aspose.html/htmlformelement/action/
 ---
 ## HTMLFormElement.Action property

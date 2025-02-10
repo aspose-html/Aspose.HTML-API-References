@@ -3,7 +3,7 @@ title: IGlobalEventHandlers.OnMouseDown
 second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnMouseDown event
 type: docs
-weight: 240
+
 url: /java/com.aspose.html.dom/iglobaleventhandlers/onmousedown/
 ---
 ## IGlobalEventHandlers.OnMouseDown event

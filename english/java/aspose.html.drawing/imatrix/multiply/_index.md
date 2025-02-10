@@ -3,7 +3,7 @@ title: IMatrix.Multiply
 second_title: Aspose.HTML for Java API Reference
 description: IMatrix method. Multiplies this matrix by another matrix in the specified order
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.drawing/imatrix/multiply/
 ---
 ## Multiply(IMatrix, WebMatrixOrder) {#multiply_1}

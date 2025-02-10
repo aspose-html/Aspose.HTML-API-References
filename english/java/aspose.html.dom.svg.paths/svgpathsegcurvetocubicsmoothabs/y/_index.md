@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoCubicSmoothAbs.Y
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegCurvetoCubicSmoothAbs property. The absolute Y coordinate for the end point of this path segment
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothabs/y/
 ---
 ## SVGPathSegCurvetoCubicSmoothAbs.Y property

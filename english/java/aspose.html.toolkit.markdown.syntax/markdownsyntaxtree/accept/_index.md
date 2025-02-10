@@ -3,7 +3,7 @@ title: MarkdownSyntaxTree.Accept
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxTree method. Defines the interface for visiting nodes of the syntax tree
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/accept/
 ---
 ## MarkdownSyntaxTree.Accept method

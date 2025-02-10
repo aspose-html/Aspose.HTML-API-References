@@ -3,7 +3,7 @@ title: Float64Array
 second_title: Aspose.HTML for Java API Reference
 description: Float64Array constructor. Initializes a new instance of the Float64Array class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/float64array/float64array/
 ---
 ## Float64Array(int) {#constructor_4}

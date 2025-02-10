@@ -3,7 +3,7 @@ title: SVGFETurbulenceElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.filters.SVGFETurbulenceElement class. The SVGFETurbulenceElement interface corresponds to the feTurbulence element
 type: docs
-weight: 1770
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/
 ---
 ## SVGFETurbulenceElement class

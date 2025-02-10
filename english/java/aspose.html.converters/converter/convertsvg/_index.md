@@ -3,7 +3,7 @@ title: Converter.ConvertSVG
 second_title: Aspose.HTML for Java API Reference
 description: Converter method. Convert SVG source presented by SVGDocument. Result is output data formed by ICreateStreamProvider interface implementation
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.converters/converter/convertsvg/
 ---
 ## ConvertSVG(SVGDocument, XpsSaveOptions, ICreateStreamProvider) {#convertsvg_6}

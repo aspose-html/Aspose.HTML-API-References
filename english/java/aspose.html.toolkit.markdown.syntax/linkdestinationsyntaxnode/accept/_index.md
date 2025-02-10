@@ -3,7 +3,7 @@ title: LinkDestinationSyntaxNode.Accept
 second_title: Aspose.HTML for Java API Reference
 description: LinkDestinationSyntaxNode method. Defines the interface for accept visitor
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/linkdestinationsyntaxnode/accept/
 ---
 ## LinkDestinationSyntaxNode.Accept method

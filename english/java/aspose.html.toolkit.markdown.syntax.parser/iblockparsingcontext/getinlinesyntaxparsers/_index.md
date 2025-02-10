@@ -3,7 +3,7 @@ title: IBlockParsingContext.GetInlineSyntaxParsers
 second_title: Aspose.HTML for Java API Reference
 description: IBlockParsingContext method. Defines the GetInlineSyntaxParsers method
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getinlinesyntaxparsers/
 ---
 ## IBlockParsingContext.GetInlineSyntaxParsers method

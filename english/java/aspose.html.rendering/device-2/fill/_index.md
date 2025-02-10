@@ -3,7 +3,7 @@ title: Device-2.Fill
 second_title: Aspose.HTML for Java API Reference
 description: Device method. Fills the entire region enclosed by the current path. If the path consists of several disconnected subpaths it fills the insides of all subpaths considered together. This method terminates current path
 type: docs
-weight: 150
+
 url: /java/com.aspose.html.rendering/device-2/fill/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.Fill method

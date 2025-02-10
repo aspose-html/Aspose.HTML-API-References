@@ -3,7 +3,7 @@ title: HTMLObjectElement.ClassId
 second_title: Aspose.HTML for Java API Reference
 description: HTMLObjectElement property. Defines a class ID value as set in the Windows Registry or a URL
 type: docs
-weight: 40
+
 url: /java/com.aspose.html/htmlobjectelement/classid/
 ---
 ## HTMLObjectElement.ClassId property

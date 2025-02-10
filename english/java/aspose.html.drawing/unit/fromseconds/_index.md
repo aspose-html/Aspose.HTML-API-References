@@ -3,7 +3,7 @@ title: Unit.FromSeconds
 second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Time object that is represented in seconds
 type: docs
-weight: 210
+
 url: /java/com.aspose.html.drawing/unit/fromseconds/
 ---
 ## Unit.FromSeconds method

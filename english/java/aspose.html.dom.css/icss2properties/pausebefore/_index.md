@@ -3,7 +3,7 @@ title: ICSS2Properties.PauseBefore
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. These properties specify a pause to be observed before or after speaking an elements content. Values have the following meanings
 type: docs
-weight: 910
+
 url: /java/com.aspose.html.dom.css/icss2properties/pausebefore/
 ---
 ## ICSS2Properties.PauseBefore property

@@ -3,7 +3,7 @@ title: IGlobalEventHandlers.OnShow
 second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnShow event
 type: docs
-weight: 430
+
 url: /java/com.aspose.html.dom/iglobaleventhandlers/onshow/
 ---
 ## IGlobalEventHandlers.OnShow event

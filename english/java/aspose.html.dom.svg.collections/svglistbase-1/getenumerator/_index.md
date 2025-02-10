@@ -3,7 +3,7 @@ title: SVGListBase-1.GetEnumerator
 second_title: Aspose.HTML for Java API Reference
 description: SVGListBase method. Gets the enumerator
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg.collections/svglistbase-1/getenumerator/
 ---
 ## SVGListBase&lt;T&gt;.GetEnumerator method

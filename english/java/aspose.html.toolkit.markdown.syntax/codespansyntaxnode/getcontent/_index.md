@@ -3,7 +3,7 @@ title: CodeSpanSyntaxNode.GetContent
 second_title: Aspose.HTML for Java API Reference
 description: CodeSpanSyntaxNode method. Defines the interface for get Content
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/codespansyntaxnode/getcontent/
 ---
 ## CodeSpanSyntaxNode.GetContent method

@@ -3,7 +3,7 @@ title: MarkdownSaveOptions.Features
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSaveOptions property. Flag set that controls which elements are converted to markdown
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.saving/markdownsaveoptions/features/
 ---
 ## MarkdownSaveOptions.Features property

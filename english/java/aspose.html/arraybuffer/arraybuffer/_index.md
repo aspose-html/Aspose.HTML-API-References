@@ -3,7 +3,7 @@ title: ArrayBuffer
 second_title: Aspose.HTML for Java API Reference
 description: ArrayBuffer constructor. Initializes a new instance of the ArrayBuffer class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/arraybuffer/arraybuffer/
 ---
 ## ArrayBuffer(int) {#constructor_1}

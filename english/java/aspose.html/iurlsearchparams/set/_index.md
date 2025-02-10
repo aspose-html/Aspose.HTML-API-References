@@ -3,7 +3,7 @@ title: IUrlSearchParams.Set
 second_title: Aspose.HTML for Java API Reference
 description: IUrlSearchParams method. Sets value of the first found name-value pair to the specified value and removes the others. If no name-value pairs with the specified name are found new one will be appended to the list
 type: docs
-weight: 60
+
 url: /java/com.aspose.html/iurlsearchparams/set/
 ---
 ## IUrlSearchParams.Set method

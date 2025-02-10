@@ -3,7 +3,7 @@ title: Converter.ConvertTemplate
 second_title: Aspose.HTML for Java API Reference
 description: Converter method. Merge template source presented by HTMLDocument with template data XML JSON. Result is html file formed by output file path
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.converters/converter/converttemplate/
 ---
 ## ConvertTemplate(HTMLDocument, TemplateData, TemplateLoadOptions, String) {#converttemplate_7}

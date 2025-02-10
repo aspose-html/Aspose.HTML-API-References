@@ -3,7 +3,7 @@ title: Document.ImportNode
 second_title: Aspose.HTML for Java API Reference
 description: Document method. Imports a node from another document to this document without altering or removing the source node from the original document this method creates a new copy of the source node
 type: docs
-weight: 1000
+
 url: /java/com.aspose.html.dom/document/importnode/
 ---
 ## Document.ImportNode method

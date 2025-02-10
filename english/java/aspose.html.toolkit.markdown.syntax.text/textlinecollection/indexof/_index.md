@@ -3,7 +3,7 @@ title: TextLineCollection.IndexOf
 second_title: Aspose.HTML for Java API Reference
 description: TextLineCollection method. Gets the index of the given position
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textlinecollection/indexof/
 ---
 ## TextLineCollection.IndexOf method

@@ -3,7 +3,7 @@ title: ValidationResult.SaveTo
 second_title: Aspose.HTML for Java API Reference
 description: ValidationResult method. Save validation results to the TextWriter object
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.accessibility.results/validationresult/saveto/
 ---
 ## SaveTo(TextWriter, ValidationResultSaveFormat) {#saveto_1}

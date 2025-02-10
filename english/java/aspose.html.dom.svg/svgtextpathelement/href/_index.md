@@ -3,7 +3,7 @@ title: SVGTextPathElement.Href
 second_title: Aspose.HTML for Java API Reference
 description: SVGTextPathElement property. Corresponds to attribute xlinkhref on the given element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgtextpathelement/href/
 ---
 ## SVGTextPathElement.Href property

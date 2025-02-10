@@ -3,7 +3,7 @@ title: OptionCollection.GetEnumerator
 second_title: Aspose.HTML for Java API Reference
 description: OptionCollection method. Returns an enumerator that iterates through the collection
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.forms/optioncollection/getenumerator/
 ---
 ## OptionCollection.GetEnumerator method

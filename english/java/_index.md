@@ -1,7 +1,7 @@
 ---
 title: Aspose.HTML for Java
 type: docs
-weight: 10
+
 url: /net/
 keywords: "Aspose.HTML for Java, Aspose HTML, Aspose API Reference."
 description: Aspose.HTML for Java is a cross-platform class library that enables your applications to perform a wide range of HTML manipulation tasks.

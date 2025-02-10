@@ -3,7 +3,7 @@ title: SVGSwitchElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGSwitchElement class. The SVGSwitchElement interface corresponds to the switch element
 type: docs
-weight: 2480
+
 url: /java/com.aspose.html.dom.svg/svgswitchelement/
 ---
 ## SVGSwitchElement class

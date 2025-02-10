@@ -3,7 +3,7 @@ title: MediaQueryList.Document
 second_title: Aspose.HTML for Java API Reference
 description: MediaQueryList property. Context objects associated document
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.window/mediaquerylist/document/
 ---
 ## MediaQueryList.Document property

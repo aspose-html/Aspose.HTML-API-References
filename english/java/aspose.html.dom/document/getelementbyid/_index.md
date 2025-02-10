@@ -3,7 +3,7 @@ title: Document.GetElementById
 second_title: Aspose.HTML for Java API Reference
 description: Document method. The Document method getElementById returns an Element object representing the element whose id property matches the specified String. Since element IDs are required to be unique if specified theyre a useful way to get access to a specific element quickly
 type: docs
-weight: 960
+
 url: /java/com.aspose.html.dom/document/getelementbyid/
 ---
 ## Document.GetElementById method

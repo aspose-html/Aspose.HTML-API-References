@@ -3,7 +3,7 @@ title: IGlobalEventHandlers.OnSelect
 second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnSelect event
 type: docs
-weight: 420
+
 url: /java/com.aspose.html.dom/iglobaleventhandlers/onselect/
 ---
 ## IGlobalEventHandlers.OnSelect event

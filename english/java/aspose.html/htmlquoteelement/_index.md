@@ -3,7 +3,7 @@ title: HTMLQuoteElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLQuoteElement class. For the Q and BLOCKQUOTE elements. See the Q element definition in HTML 4.01
 type: docs
-weight: 3730
+
 url: /java/com.aspose.html/htmlquoteelement/
 ---
 ## HTMLQuoteElement class

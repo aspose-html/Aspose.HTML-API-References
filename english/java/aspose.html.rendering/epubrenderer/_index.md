@@ -3,7 +3,7 @@ title: EpubRenderer Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.EpubRenderer class. Represents a EPub document renderer
 type: docs
-weight: 4430
+
 url: /java/com.aspose.html.rendering/epubrenderer/
 ---
 ## EpubRenderer class

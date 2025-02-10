@@ -3,7 +3,7 @@ title: SVGCircleElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGCircleElement class. The SVGCircleElement interface corresponds to the circle element
 type: docs
-weight: 2120
+
 url: /java/com.aspose.html.dom.svg/svgcircleelement/
 ---
 ## SVGCircleElement class

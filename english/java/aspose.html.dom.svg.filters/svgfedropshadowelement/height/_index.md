@@ -3,7 +3,7 @@ title: SVGFEDropShadowElement.Height
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEDropShadowElement property. Corresponds to attribute height on the given feDropShadow element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg.filters/svgfedropshadowelement/height/
 ---
 ## SVGFEDropShadowElement.Height property

@@ -3,7 +3,7 @@ title: SVGRadialGradientElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGRadialGradientElement class. The SVGRadialGradientElement interface corresponds to the radialGradient element
 type: docs
-weight: 2400
+
 url: /java/com.aspose.html.dom.svg/svgradialgradientelement/
 ---
 ## SVGRadialGradientElement class

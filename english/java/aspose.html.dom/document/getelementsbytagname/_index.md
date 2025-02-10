@@ -3,7 +3,7 @@ title: Document.GetElementsByTagName
 second_title: Aspose.HTML for Java API Reference
 description: Document method. The getElementsByTagName method of Document interface returns an HTMLCollection of elements with the given tag name
 type: docs
-weight: 980
+
 url: /java/com.aspose.html.dom/document/getelementsbytagname/
 ---
 ## Document.GetElementsByTagName method

@@ -3,7 +3,7 @@ title: SVGFEMorphologyElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.filters.SVGFEMorphologyElement class. The SVGFEMorphologyElement interface corresponds to the feMorphology element
 type: docs
-weight: 1710
+
 url: /java/com.aspose.html.dom.svg.filters/svgfemorphologyelement/
 ---
 ## SVGFEMorphologyElement class

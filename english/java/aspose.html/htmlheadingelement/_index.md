@@ -3,7 +3,7 @@ title: HTMLHeadingElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLHeadingElement class. For the H1 to H6 elements. See the H1 element definition in HTML 4.01
 type: docs
-weight: 3510
+
 url: /java/com.aspose.html/htmlheadingelement/
 ---
 ## HTMLHeadingElement class

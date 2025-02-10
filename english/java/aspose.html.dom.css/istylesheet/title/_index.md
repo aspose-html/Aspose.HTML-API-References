@@ -3,7 +3,7 @@ title: IStyleSheet.Title
 second_title: Aspose.HTML for Java API Reference
 description: IStyleSheet property. The title property of the StyleSheet interface returns the advisory title of the current style sheet
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.css/istylesheet/title/
 ---
 ## IStyleSheet.Title property

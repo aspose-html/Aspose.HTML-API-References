@@ -3,7 +3,7 @@ title: Configuration
 second_title: Aspose.HTML for Java API Reference
 description: Configuration constructor. Initializes a new instance of the class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/configuration/configuration/
 ---
 ## Configuration constructor

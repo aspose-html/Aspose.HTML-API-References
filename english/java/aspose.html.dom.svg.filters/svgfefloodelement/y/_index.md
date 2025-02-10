@@ -3,7 +3,7 @@ title: SVGFEFloodElement.Y
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEFloodElement property. Corresponds to attribute y on the given filter element
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg.filters/svgfefloodelement/y/
 ---
 ## SVGFEFloodElement.Y property

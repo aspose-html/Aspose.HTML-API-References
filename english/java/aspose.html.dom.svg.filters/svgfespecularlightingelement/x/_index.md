@@ -3,7 +3,7 @@ title: SVGFESpecularLightingElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGFESpecularLightingElement property. Corresponds to attribute x on the given filter element
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/x/
 ---
 ## SVGFESpecularLightingElement.X property

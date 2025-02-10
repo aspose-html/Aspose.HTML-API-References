@@ -3,7 +3,7 @@ title: ResourceStatus Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.saving.ResourceStatus enum. Indicates the resource status
 type: docs
-weight: 4950
+
 url: /java/com.aspose.html.saving/resourcestatus/
 ---
 ## ResourceStatus enumeration

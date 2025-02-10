@@ -3,7 +3,7 @@ title: InputElement.Id
 second_title: Aspose.HTML for Java API Reference
 description: InputElement property. Represents the Id attribute of the input element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.forms/inputelement/id/
 ---
 ## InputElement.Id property

@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoCubicRel.Y2
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegCurvetoCubicRel property. The relative Y coordinate for the second control point
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetocubicrel/y2/
 ---
 ## SVGPathSegCurvetoCubicRel.Y2 property

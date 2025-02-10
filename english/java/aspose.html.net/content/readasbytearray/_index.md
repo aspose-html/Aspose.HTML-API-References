@@ -3,7 +3,7 @@ title: Content.ReadAsByteArray
 second_title: Aspose.HTML for Java API Reference
 description: Content method. Serialize the HTTP content and return a byte array that represents the content
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.net/content/readasbytearray/
 ---
 ## Content.ReadAsByteArray method

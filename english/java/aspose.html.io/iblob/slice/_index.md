@@ -3,7 +3,7 @@ title: IBlob.Slice
 second_title: Aspose.HTML for Java API Reference
 description: IBlob method. Returns a new Blob object with bytes ranging from the optional start parameter up to but not including the optional end parameter and with a type attribute that is the value of the optional contentType parameter
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.io/iblob/slice/
 ---
 ## IBlob.Slice method

@@ -3,7 +3,7 @@ title: HTMLFormElement.Elements
 second_title: Aspose.HTML for Java API Reference
 description: HTMLFormElement property. Returns a collection of all form control elements in the form
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/htmlformelement/elements/
 ---
 ## HTMLFormElement.Elements property

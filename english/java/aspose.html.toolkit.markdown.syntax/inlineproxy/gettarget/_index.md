@@ -3,7 +3,7 @@ title: InlineProxy.GetTarget
 second_title: Aspose.HTML for Java API Reference
 description: InlineProxy method. Defines the interface for get target
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/inlineproxy/gettarget/
 ---
 ## InlineProxy.GetTarget method

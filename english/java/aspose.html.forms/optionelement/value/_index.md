@@ -3,7 +3,7 @@ title: OptionElement.Value
 second_title: Aspose.HTML for Java API Reference
 description: OptionElement property. The current form control value. See the value attribute definition in HTML 4.01
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.forms/optionelement/value/
 ---
 ## OptionElement.Value property

@@ -3,7 +3,7 @@ title: Frequency.op_LessThanOrEqual
 second_title: Aspose.HTML for Java API Reference
 description: Frequency method. 
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.drawing/frequency/op_lessthanorequal/
 ---
 ## Frequency LessThanOrEqual operator

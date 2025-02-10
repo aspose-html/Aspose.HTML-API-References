@@ -3,7 +3,7 @@ title: Node.ENTITY_REFERENCE_NODE
 second_title: Aspose.HTML for Java API Reference
 description: Node field. An EntityReference node
 type: docs
-weight: 380
+
 url: /java/com.aspose.html.dom/node/entity_reference_node/
 ---
 ## Node.ENTITY_REFERENCE_NODE field

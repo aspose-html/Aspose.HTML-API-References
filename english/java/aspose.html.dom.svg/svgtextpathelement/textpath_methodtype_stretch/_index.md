@@ -3,7 +3,7 @@ title: SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH
 second_title: Aspose.HTML for Java API Reference
 description: SVGTextPathElement field. Corresponds to value stretch
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg/svgtextpathelement/textpath_methodtype_stretch/
 ---
 ## SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH field

@@ -3,7 +3,7 @@ title: HTMLAnchorElement.Href
 second_title: Aspose.HTML for Java API Reference
 description: HTMLAnchorElement property. The absolute URI IETF RFC 2396 of the linked resource. See the href attribute definition in HTML 4.01
 type: docs
-weight: 70
+
 url: /java/com.aspose.html/htmlanchorelement/href/
 ---
 ## HTMLAnchorElement.Href property

@@ -3,7 +3,7 @@ title: ICreateStreamProvider.GetStream
 second_title: Aspose.HTML for Java API Reference
 description: ICreateStreamProvider method. Provides a stream for rendering
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.io/icreatestreamprovider/getstream/
 ---
 ## GetStream(String, String) {#getstream}

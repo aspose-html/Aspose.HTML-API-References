@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.HugoYamlBasedFrontMatter
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates HugoYamlBasedFrontMatterSyntaxNode
 type: docs
-weight: 180
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hugoyamlbasedfrontmatter/
 ---
 ## MarkdownSyntaxFactory.HugoYamlBasedFrontMatter method

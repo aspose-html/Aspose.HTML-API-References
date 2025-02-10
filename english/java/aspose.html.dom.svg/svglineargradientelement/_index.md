@@ -3,7 +3,7 @@ title: SVGLinearGradientElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGLinearGradientElement class. The SVGLinearGradientElement interface corresponds to the linearGradient element
 type: docs
-weight: 2310
+
 url: /java/com.aspose.html.dom.svg/svglineargradientelement/
 ---
 ## SVGLinearGradientElement class

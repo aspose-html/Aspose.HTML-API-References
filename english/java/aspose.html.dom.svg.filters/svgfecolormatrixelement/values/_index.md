@@ -3,7 +3,7 @@ title: SVGFEColorMatrixElement.Values
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEColorMatrixElement property. Corresponds to attribute values on the given feColorMatrix element
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg.filters/svgfecolormatrixelement/values/
 ---
 ## SVGFEColorMatrixElement.Values property

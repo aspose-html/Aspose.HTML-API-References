@@ -3,7 +3,7 @@ title: ResourceHandler.HandleResource
 second_title: Aspose.HTML for Java API Reference
 description: ResourceHandler method. This method is responsible for handling the resource. In it you can save the Resource to the stream or embed it into the parent resource
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.saving.resourcehandlers/resourcehandler/handleresource/
 ---
 ## ResourceHandler.HandleResource method

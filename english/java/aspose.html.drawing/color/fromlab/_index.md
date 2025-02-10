@@ -3,7 +3,7 @@ title: Color.FromLab
 second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a new Color with the requested lightness A B values
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.drawing/color/fromlab/
 ---
 ## Color.FromLab method

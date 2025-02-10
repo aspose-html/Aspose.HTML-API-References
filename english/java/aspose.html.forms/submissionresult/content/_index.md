@@ -3,7 +3,7 @@ title: SubmissionResult.Content
 second_title: Aspose.HTML for Java API Reference
 description: SubmissionResult property. Gets the content of the response message
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.forms/submissionresult/content/
 ---
 ## SubmissionResult.Content property

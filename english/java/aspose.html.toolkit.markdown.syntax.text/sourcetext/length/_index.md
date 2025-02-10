@@ -3,7 +3,7 @@ title: SourceText.Length
 second_title: Aspose.HTML for Java API Reference
 description: SourceText property. Get the length
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/length/
 ---
 ## SourceText.Length property

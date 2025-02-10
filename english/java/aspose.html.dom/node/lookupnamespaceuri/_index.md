@@ -3,7 +3,7 @@ title: Node.LookupNamespaceURI
 second_title: Aspose.HTML for Java API Reference
 description: Node method. The lookupNamespaceURI method of the Node interface takes a prefix as parameter and returns the package URI associated with it on the given node if found and null if not
 type: docs
-weight: 240
+
 url: /java/com.aspose.html.dom/node/lookuppackageuri/
 ---
 ## Node.LookupNamespaceURI method

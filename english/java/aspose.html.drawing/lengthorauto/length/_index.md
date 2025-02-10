@@ -3,7 +3,7 @@ title: LengthOrAuto.Length
 second_title: Aspose.HTML for Java API Reference
 description: LengthOrAuto property. Gets or sets the length
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.drawing/lengthorauto/length/
 ---
 ## LengthOrAuto.Length property

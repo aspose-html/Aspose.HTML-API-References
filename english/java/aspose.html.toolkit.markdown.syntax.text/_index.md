@@ -3,7 +3,7 @@ title: com.aspose.html.toolkit.markdown.syntax.text
 second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.toolkit.markdown.syntax.text package contains objects and interfaces for working with text sources
 type: docs
-weight: 470
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/
 ---
 The **com.aspose.html.toolkit.markdown.syntax.text** package contains objects and interfaces for working with text sources.

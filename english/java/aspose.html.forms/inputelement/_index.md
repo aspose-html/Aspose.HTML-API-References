@@ -3,7 +3,7 @@ title: InputElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.forms.InputElement class. The InputElement represents a wrapper that is associated with the HTMLInputElement
 type: docs
-weight: 3210
+
 url: /java/com.aspose.html.forms/inputelement/
 ---
 ## InputElement class

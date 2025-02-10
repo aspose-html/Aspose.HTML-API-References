@@ -3,7 +3,7 @@ title: SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ARITHMETIC
 second_title: Aspose.HTML for Java API Reference
 description: SVGFECompositeElement field. Corresponds to value arithmetic
 type: docs
-weight: 130
+
 url: /java/com.aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_arithmetic/
 ---
 ## SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ARITHMETIC field

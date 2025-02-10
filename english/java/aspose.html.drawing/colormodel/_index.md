@@ -3,7 +3,7 @@ title: ColorModel Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.ColorModel enum. This enumeration is used to select the color model for working with color components
 type: docs
-weight: 2820
+
 url: /java/com.aspose.html.drawing/colormodel/
 ---
 ## ColorModel enumeration

@@ -3,7 +3,7 @@ title: FileSystemResourceHandler
 second_title: Aspose.HTML for Java API Reference
 description: FileSystemResourceHandler constructor. Initializes a new instance of the FileSystemResourceHandler class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.saving.resourcehandlers/filesystemresourcehandler/filesystemresourcehandler/
 ---
 ## FileSystemResourceHandler(Url) {#constructor}

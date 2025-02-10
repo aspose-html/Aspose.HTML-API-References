@@ -3,7 +3,7 @@ title: HttpMethod.Get
 second_title: Aspose.HTML for Java API Reference
 description: HttpMethod property. Represents an HTTP GET protocol method
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.net/httpmethod/get/
 ---
 ## HttpMethod.Get property

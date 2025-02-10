@@ -3,7 +3,7 @@ title: Int8Array
 second_title: Aspose.HTML for Java API Reference
 description: Int8Array constructor. Initializes a new instance of the Int8Array class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/int8array/int8array/
 ---
 ## Int8Array(int) {#constructor_3}

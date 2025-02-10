@@ -3,7 +3,7 @@ title: SVGFEImageElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.filters.SVGFEImageElement class. The SVGFEImageElement interface corresponds to the feImage element
 type: docs
-weight: 1680
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeimageelement/
 ---
 ## SVGFEImageElement class

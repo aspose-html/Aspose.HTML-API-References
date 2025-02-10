@@ -3,7 +3,7 @@ title: HTMLElement.OnLoadedMetadata
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnLoadedMetadata event
 type: docs
-weight: 280
+
 url: /java/com.aspose.html/htmlelement/onloadedmetadata/
 ---
 ## HTMLElement.OnLoadedMetadata event

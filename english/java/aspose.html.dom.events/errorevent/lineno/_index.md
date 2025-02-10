@@ -3,7 +3,7 @@ title: ErrorEvent.LineNo
 second_title: Aspose.HTML for Java API Reference
 description: ErrorEvent property. The lineno attribute must return the value it was initialized to. When the object is created this attribute must be initialized to zero. It represents the line number where the error occurred in the script
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.events/errorevent/lineno/
 ---
 ## ErrorEvent.LineNo property

@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.TaskListItem
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates TaskListItemSyntaxNode
 type: docs
-weight: 420
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tasklistitem/
 ---
 ## MarkdownSyntaxFactory.TaskListItem method

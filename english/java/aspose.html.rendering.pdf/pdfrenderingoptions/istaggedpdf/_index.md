@@ -3,7 +3,7 @@ title: PdfRenderingOptions.IsTaggedPdf
 second_title: Aspose.HTML for Java API Reference
 description: PdfRenderingOptions property. Creates a tag structure if true
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.rendering.pdf/pdfrenderingoptions/istaggedpdf/
 ---
 ## PdfRenderingOptions.IsTaggedPdf property

@@ -3,7 +3,7 @@ title: HTMLLegendElement.Align
 second_title: Aspose.HTML for Java API Reference
 description: HTMLLegendElement property. Text alignment relative to FIELDSET. See the align attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01
 type: docs
-weight: 20
+
 url: /java/com.aspose.html/htmllegendelement/align/
 ---
 ## HTMLLegendElement.Align property

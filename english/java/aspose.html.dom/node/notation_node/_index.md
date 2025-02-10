@@ -3,7 +3,7 @@ title: Node.NOTATION_NODE
 second_title: Aspose.HTML for Java API Reference
 description: Node field. A Notation node
 type: docs
-weight: 390
+
 url: /java/com.aspose.html.dom/node/notation_node/
 ---
 ## Node.NOTATION_NODE field

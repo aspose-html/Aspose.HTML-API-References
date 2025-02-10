@@ -3,7 +3,7 @@ title: HTMLDListElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLDListElement class. Definition list. See the DL element definition in HTML 4.01
 type: docs
-weight: 3380
+
 url: /java/com.aspose.html/htmldlistelement/
 ---
 ## HTMLDListElement class

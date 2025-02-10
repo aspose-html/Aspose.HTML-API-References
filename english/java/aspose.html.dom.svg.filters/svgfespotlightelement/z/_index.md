@@ -3,7 +3,7 @@ title: SVGFESpotLightElement.Z
 second_title: Aspose.HTML for Java API Reference
 description: SVGFESpotLightElement property. Corresponds to attribute z on the given feSpotLight element
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.dom.svg.filters/svgfespotlightelement/z/
 ---
 ## SVGFESpotLightElement.Z property

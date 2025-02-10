@@ -3,7 +3,7 @@ title: Node.DOCUMENT_FRAGMENT_NODE
 second_title: Aspose.HTML for Java API Reference
 description: Node field. A DocumentFragment node
 type: docs
-weight: 330
+
 url: /java/com.aspose.html.dom/node/document_fragment_node/
 ---
 ## Node.DOCUMENT_FRAGMENT_NODE field

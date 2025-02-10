@@ -3,7 +3,7 @@ title: SVGEllipseElement.Rx
 second_title: Aspose.HTML for Java API Reference
 description: SVGEllipseElement property. Corresponds to attribute cx on the given circle element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svgellipseelement/rx/
 ---
 ## SVGEllipseElement.Rx property

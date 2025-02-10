@@ -3,7 +3,7 @@ title: EventTarget
 second_title: Aspose.HTML for Java API Reference
 description: EventTarget constructor. Initializes a new instance of the EventTarget object
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom/eventtarget/eventtarget/
 ---
 ## EventTarget constructor

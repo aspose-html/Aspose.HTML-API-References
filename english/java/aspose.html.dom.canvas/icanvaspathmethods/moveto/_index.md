@@ -3,7 +3,7 @@ title: ICanvasPathMethods.MoveTo
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasPathMethods method. Moves the starting point of a new sub-path to the x y coordinates
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.canvas/icanvaspathmethods/moveto/
 ---
 ## ICanvasPathMethods.MoveTo method

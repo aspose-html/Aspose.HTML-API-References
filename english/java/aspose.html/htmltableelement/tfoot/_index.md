@@ -3,7 +3,7 @@ title: HTMLTableElement.TFoot
 second_title: Aspose.HTML for Java API Reference
 description: HTMLTableElement property. Returns the tables THEAD or null if none exists
 type: docs
-weight: 120
+
 url: /java/com.aspose.html/htmltableelement/tfoot/
 ---
 ## HTMLTableElement.TFoot property

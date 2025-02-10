@@ -3,7 +3,7 @@ title: IHTMLFormElement.Elements
 second_title: Aspose.HTML for Java API Reference
 description: IHTMLFormElement property. Gets the collection of the child form elements
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/ihtmlformelement/elements/
 ---
 ## IHTMLFormElement.Elements property

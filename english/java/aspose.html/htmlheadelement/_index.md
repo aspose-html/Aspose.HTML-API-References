@@ -3,7 +3,7 @@ title: HTMLHeadElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLHeadElement class. Document head information. See the HEAD element definition in HTML 4.01
 type: docs
-weight: 3500
+
 url: /java/com.aspose.html/htmlheadelement/
 ---
 ## HTMLHeadElement class

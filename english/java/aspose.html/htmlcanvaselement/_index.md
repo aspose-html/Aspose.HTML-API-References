@@ -3,7 +3,7 @@ title: HTMLCanvasElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLCanvasElement class. The HTMLCanvasElement interface provides properties and methods for manipulating the layout and presentation of canvas elements. The HTMLCanvasElement interface also inherits the properties and methods of the HTMLElement interface
 type: docs
-weight: 3370
+
 url: /java/com.aspose.html/htmlcanvaselement/
 ---
 ## HTMLCanvasElement class

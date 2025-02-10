@@ -3,7 +3,7 @@ title: MimeType.Type
 second_title: Aspose.HTML for Java API Reference
 description: MimeType property. Gets the media type
 type: docs
-weight: 40
+
 url: /java/com.aspose.html/mimetype/type/
 ---
 ## MimeType.Type property

@@ -3,7 +3,7 @@ title: IInlineParsingContext.Source
 second_title: Aspose.HTML for Java API Reference
 description: IInlineParsingContext property. Get the Source
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/source/
 ---
 ## IInlineParsingContext.Source property

@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.IndentedCode
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates IndentedCodeBlockSyntaxNode
 type: docs
-weight: 190
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/indentedcode/
 ---
 ## IndentedCode() {#indentedcode}

@@ -3,7 +3,7 @@ title: SVGImageElement.Y
 second_title: Aspose.HTML for Java API Reference
 description: SVGImageElement property. Corresponds to attribute y on the given image element
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg/svgimageelement/y/
 ---
 ## SVGImageElement.Y property

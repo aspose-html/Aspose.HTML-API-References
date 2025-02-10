@@ -3,7 +3,7 @@ title: Unit.FromDotsPerPixel
 second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Resolution object that is represented in dots per pixels
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.drawing/unit/fromdotsperpixel/
 ---
 ## Unit.FromDotsPerPixel method

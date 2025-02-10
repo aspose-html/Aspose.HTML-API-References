@@ -3,7 +3,7 @@ title: AccessibilityRules.GetPrinciple
 second_title: Aspose.HTML for Java API Reference
 description: AccessibilityRules method. Get Principle by code from WCAG
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.accessibility/accessibilityrules/getprinciple/
 ---
 ## AccessibilityRules.GetPrinciple method

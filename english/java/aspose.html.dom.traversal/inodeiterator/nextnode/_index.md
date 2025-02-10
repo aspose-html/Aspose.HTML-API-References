@@ -3,7 +3,7 @@ title: INodeIterator.NextNode
 second_title: Aspose.HTML for Java API Reference
 description: INodeIterator method. Returns the next node in the set and advances the position of the iterator in the set. After a NodeIterator is created the first call to nextNode returns the first node in the set
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.traversal/inodeiterator/nextnode/
 ---
 ## INodeIterator.NextNode method

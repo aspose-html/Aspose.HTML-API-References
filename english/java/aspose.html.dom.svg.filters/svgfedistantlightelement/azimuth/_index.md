@@ -3,7 +3,7 @@ title: SVGFEDistantLightElement.Azimuth
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEDistantLightElement property. Corresponds to attribute azimuth on the given feDistantLight element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.filters/svgfedistantlightelement/azimuth/
 ---
 ## SVGFEDistantLightElement.Azimuth property

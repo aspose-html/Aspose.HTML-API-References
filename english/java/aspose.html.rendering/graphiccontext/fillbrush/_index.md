@@ -3,7 +3,7 @@ title: GraphicContext.FillBrush
 second_title: Aspose.HTML for Java API Reference
 description: GraphicContext property. Sets or gets the brush object that is used to fill the interiors of paths
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.rendering/graphiccontext/fillbrush/
 ---
 ## GraphicContext.FillBrush property

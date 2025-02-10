@@ -3,7 +3,7 @@ title: com.aspose.html.dom.traversal
 second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.dom.traversal package contains methods that create iterators and tree-walkers to navigate between elements and traverse a node and its children in document order
 type: docs
-weight: 210
+
 url: /java/com.aspose.html.dom.traversal/
 ---
 The **com.aspose.html.dom.traversal** package contains methods that create iterators and tree-walkers to navigate between elements and traverse a node and its children in document order.

@@ -3,7 +3,7 @@ title: SVGException
 second_title: Aspose.HTML for Java API Reference
 description: SVGException constructor. Initializes a new instance of the SVGException class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgexception/svgexception/
 ---
 ## SVGException constructor

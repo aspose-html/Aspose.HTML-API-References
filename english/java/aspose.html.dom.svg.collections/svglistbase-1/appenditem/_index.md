@@ -3,7 +3,7 @@ title: SVGListBase-1.AppendItem
 second_title: Aspose.HTML for Java API Reference
 description: SVGListBase method. Inserts a new item at the end of the list
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg.collections/svglistbase-1/appenditem/
 ---
 ## SVGListBase&lt;T&gt;.AppendItem method

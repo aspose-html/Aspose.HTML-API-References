@@ -3,7 +3,7 @@ title: IStyleSheet.Disabled
 second_title: Aspose.HTML for Java API Reference
 description: IStyleSheet property. The disabled property of the StyleSheet interface determines whether the style sheet is prevented from applying to the document
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.css/istylesheet/disabled/
 ---
 ## IStyleSheet.Disabled property

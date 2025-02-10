@@ -3,7 +3,7 @@ title: MutationObserverInit.IsReadOnly
 second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit property. Determines whether the MutationObserverInit collection is mutable
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.dom.mutations/mutationobserverinit/isreadonly/
 ---
 ## MutationObserverInit.IsReadOnly property

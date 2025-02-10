@@ -3,7 +3,7 @@ title: IDrawingFactory Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.IDrawingFactory interface. Represents a factory for creating drawing-related objects
 type: docs
-weight: 2870
+
 url: /java/com.aspose.html.drawing/idrawingfactory/
 ---
 ## IDrawingFactory interface

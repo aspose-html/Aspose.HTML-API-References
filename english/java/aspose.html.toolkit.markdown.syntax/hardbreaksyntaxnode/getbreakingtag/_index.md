@@ -3,7 +3,7 @@ title: HardBreakSyntaxNode.GetBreakingTag
 second_title: Aspose.HTML for Java API Reference
 description: HardBreakSyntaxNode method. Defines the interface for get Breaking Tag
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/hardbreaksyntaxnode/getbreakingtag/
 ---
 ## HardBreakSyntaxNode.GetBreakingTag method

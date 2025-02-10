@@ -3,7 +3,7 @@ title: DocumentFragment.LastElementChild
 second_title: Aspose.HTML for Java API Reference
 description: DocumentFragment property. Returns the last child element node of this element. null if this element has no child elements
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom/documentfragment/lastelementchild/
 ---
 ## DocumentFragment.LastElementChild property

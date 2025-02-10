@@ -3,7 +3,7 @@ title: HTMLElement.OnMouseUp
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnMouseUp event
 type: docs
-weight: 360
+
 url: /java/com.aspose.html/htmlelement/onmouseup/
 ---
 ## HTMLElement.OnMouseUp event

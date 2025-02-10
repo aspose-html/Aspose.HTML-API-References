@@ -3,7 +3,7 @@ title: HugoFrontMatterSyntaxNode.Find
 second_title: Aspose.HTML for Java API Reference
 description: HugoFrontMatterSyntaxNode method. Defines the interface for find BaseSyntaxNode
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugofrontmattersyntaxnode/find/
 ---
 ## Find(params String[]) {#find}

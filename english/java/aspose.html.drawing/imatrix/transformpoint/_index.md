@@ -3,7 +3,7 @@ title: IMatrix.TransformPoint
 second_title: Aspose.HTML for Java API Reference
 description: IMatrix method. Transforms the specified point using this matrix
 type: docs
-weight: 180
+
 url: /java/com.aspose.html.drawing/imatrix/transformpoint/
 ---
 ## IMatrix.TransformPoint method

@@ -3,7 +3,7 @@ title: Node.HasChildNodes
 second_title: Aspose.HTML for Java API Reference
 description: Node method. The hasChildNodes method of the Node interface returns a boolean value indicating whether the given Node has child nodes or not
 type: docs
-weight: 190
+
 url: /java/com.aspose.html.dom/node/haschildnodes/
 ---
 ## Node.HasChildNodes method

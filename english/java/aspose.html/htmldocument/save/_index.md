@@ -3,7 +3,7 @@ title: HTMLDocument.Save
 second_title: Aspose.HTML for Java API Reference
 description: HTMLDocument method. Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder whose name will be constructed as output_file_name  _files
 type: docs
-weight: 130
+
 url: /java/com.aspose.html/htmldocument/save/
 ---
 ## Save(Url) {#save_5}
@@ -313,7 +313,7 @@ Content-Type: text/css;
 
 Content-Location: main.css
 
-.custom-class { color: yellow; background-color: blueviolet; margin-top: 10pt; margin-right: 10pt; margin-bottom: 10pt; margin-left: 10pt; }.pStyle { font-weight: bold; }.ddd { padding-top: 10pt; padding-right: 10pt; padding-bottom: 10pt; padding-left: 10pt; }.kkk { background-color: chartreuse; }
+.custom-class { color: yellow; background-color: blueviolet; margin-top: 10pt; margin-right: 10pt; margin-bottom: 10pt; margin-left: 10pt; }.pStyle { font-
 
 --boundary--
 

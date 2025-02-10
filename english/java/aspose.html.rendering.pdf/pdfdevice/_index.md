@@ -3,7 +3,7 @@ title: PdfDevice Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.pdf.PdfDevice class. Represents rendering to a pdf document
 type: docs
-weight: 4650
+
 url: /java/com.aspose.html.rendering.pdf/pdfdevice/
 ---
 ## PdfDevice class

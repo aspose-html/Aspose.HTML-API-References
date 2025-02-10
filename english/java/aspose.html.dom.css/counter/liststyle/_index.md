@@ -3,7 +3,7 @@ title: Counter.ListStyle
 second_title: Aspose.HTML for Java API Reference
 description: Counter property. This attribute is used for the style of the list
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.css/counter/liststyle/
 ---
 ## Counter.ListStyle property

@@ -3,7 +3,7 @@ title: SVGStopElement.Offset
 second_title: Aspose.HTML for Java API Reference
 description: SVGStopElement property. Corresponds to attribute offset on the given radialGradient element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgstopelement/offset/
 ---
 ## SVGStopElement.Offset property

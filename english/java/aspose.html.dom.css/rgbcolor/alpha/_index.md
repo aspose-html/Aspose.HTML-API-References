@@ -3,7 +3,7 @@ title: RGBColor.Alpha
 second_title: Aspose.HTML for Java API Reference
 description: RGBColor property. Gets the alpha component value of this Color structure
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.css/rgbcolor/alpha/
 ---
 ## RGBColor.Alpha property

@@ -3,7 +3,7 @@ title: LengthOrAuto Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.LengthOrAuto class. Represents a container for storage length or auto units
 type: docs
-weight: 2970
+
 url: /java/com.aspose.html.drawing/lengthorauto/
 ---
 ## LengthOrAuto class

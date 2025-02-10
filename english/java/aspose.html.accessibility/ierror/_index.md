@@ -3,7 +3,7 @@ title: IError Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.accessibility.IError interface. The interface describes the error of the validation
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.accessibility/ierror/
 ---
 ## IError interface

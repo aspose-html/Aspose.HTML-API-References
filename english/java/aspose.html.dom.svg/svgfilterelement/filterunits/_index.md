@@ -3,7 +3,7 @@ title: SVGFilterElement.FilterUnits
 second_title: Aspose.HTML for Java API Reference
 description: SVGFilterElement property. Corresponds to attribute filterUnits on the given filter element. Takes one of the constants defined in SVGUnitTypes
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgfilterelement/filterunits/
 ---
 ## SVGFilterElement.FilterUnits property

@@ -3,7 +3,7 @@ title: com.aspose.html.dom
 second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.dom Document Object Model package provides API that represents and interacts with any HTML XML or SVG documents. The DOM is a document model loaded in the browser and representing the document as a node tree where each node represents part of the document e.g. an element text String or comment
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.dom/
 ---
 The **com.aspose.html.dom (Document Object Model)** package provides API that represents and interacts with any HTML, XML or SVG documents. The DOM is a document model loaded in the browser and representing the document as a node tree, where each node represents part of the document (e.g. an element, text String, or comment).

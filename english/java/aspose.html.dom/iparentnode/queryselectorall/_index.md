@@ -3,7 +3,7 @@ title: IParentNode.QuerySelectorAll
 second_title: Aspose.HTML for Java API Reference
 description: IParentNode method. Returns all element descendants of node that match selectors
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom/iparentnode/queryselectorall/
 ---
 ## IParentNode.QuerySelectorAll method

@@ -3,7 +3,7 @@ title: Margin.Left
 second_title: Aspose.HTML for Java API Reference
 description: Margin property. Gets or sets the left
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.drawing/margin/left/
 ---
 ## Margin.Left property

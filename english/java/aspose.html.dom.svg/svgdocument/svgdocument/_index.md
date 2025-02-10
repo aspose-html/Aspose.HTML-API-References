@@ -3,7 +3,7 @@ title: SVGDocument
 second_title: Aspose.HTML for Java API Reference
 description: SVGDocument constructor. Initializes a new instance of the SVGDocument class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgdocument/svgdocument/
 ---
 ## SVGDocument() {#constructor}

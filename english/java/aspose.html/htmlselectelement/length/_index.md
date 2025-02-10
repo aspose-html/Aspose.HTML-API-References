@@ -3,7 +3,7 @@ title: HTMLSelectElement.Length
 second_title: Aspose.HTML for Java API Reference
 description: HTMLSelectElement property. The number of options in this SELECT. version DOM Level 2
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/htmlselectelement/length/
 ---
 ## HTMLSelectElement.Length property

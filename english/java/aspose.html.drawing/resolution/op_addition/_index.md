@@ -3,7 +3,7 @@ title: Resolution.op_Addition
 second_title: Aspose.HTML for Java API Reference
 description: Resolution method. 
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/resolution/op_addition/
 ---
 ## Resolution Addition operator

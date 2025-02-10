@@ -3,7 +3,7 @@ title: SVGCircleElement.Cx
 second_title: Aspose.HTML for Java API Reference
 description: SVGCircleElement property. Corresponds to attribute cx on the given circle element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgcircleelement/cx/
 ---
 ## SVGCircleElement.Cx property

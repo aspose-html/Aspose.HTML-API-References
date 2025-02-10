@@ -3,7 +3,7 @@ title: DelimiterRun.Text
 second_title: Aspose.HTML for Java API Reference
 description: DelimiterRun property. Get the Text
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/delimiterrun/text/
 ---
 ## DelimiterRun.Text property

@@ -3,7 +3,7 @@ title: HTMLTableElement.CreateTFoot
 second_title: Aspose.HTML for Java API Reference
 description: HTMLTableElement method. Create a table footer row or return an existing one
 type: docs
-weight: 160
+
 url: /java/com.aspose.html/htmltableelement/createtfoot/
 ---
 ## HTMLTableElement.CreateTFoot method

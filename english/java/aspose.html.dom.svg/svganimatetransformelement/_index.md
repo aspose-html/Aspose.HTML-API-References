@@ -3,7 +3,7 @@ title: SVGAnimateTransformElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGAnimateTransformElement class. The SVGAnimateTransformElement interface corresponds to the animateTransform element. Object-oriented access to the attributes of the animateTransform element via the SVG DOM is not available
 type: docs
-weight: 2100
+
 url: /java/com.aspose.html.dom.svg/svganimatetransformelement/
 ---
 ## SVGAnimateTransformElement class

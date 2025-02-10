@@ -3,7 +3,7 @@ title: SVGFEDiffuseLightingElement.KernelUnitLengthX
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEDiffuseLightingElement property. Corresponds to attribute kernelUnitLength on the given feDiffuseLighting element
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg.filters/svgfediffuselightingelement/kernelunitlengthx/
 ---
 ## SVGFEDiffuseLightingElement.KernelUnitLengthX property

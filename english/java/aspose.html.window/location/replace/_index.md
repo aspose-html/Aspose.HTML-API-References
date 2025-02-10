@@ -3,7 +3,7 @@ title: Location.Replace
 second_title: Aspose.HTML for Java API Reference
 description: Location method. Removes the current page from the session history and navigates to the given page
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.window/location/replace/
 ---
 ## Location.Replace method

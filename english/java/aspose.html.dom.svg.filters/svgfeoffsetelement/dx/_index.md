@@ -3,7 +3,7 @@ title: SVGFEOffsetElement.Dx
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEOffsetElement property. Corresponds to attribute dx on the given feOffset element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeoffsetelement/dx/
 ---
 ## SVGFEOffsetElement.Dx property

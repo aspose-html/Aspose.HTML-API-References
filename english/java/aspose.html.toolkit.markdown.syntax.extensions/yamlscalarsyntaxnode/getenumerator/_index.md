@@ -3,7 +3,7 @@ title: YamlScalarSyntaxNode.GetEnumerator
 second_title: Aspose.HTML for Java API Reference
 description: YamlScalarSyntaxNode method. Defines the interface for get IEnumerator
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/getenumerator/
 ---
 ## YamlScalarSyntaxNode.GetEnumerator method

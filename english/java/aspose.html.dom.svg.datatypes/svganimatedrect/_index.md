@@ -3,7 +3,7 @@ title: SVGAnimatedRect Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.datatypes.SVGAnimatedRect class. Used for attributes of type SVGRect which can be animated
 type: docs
-weight: 1330
+
 url: /java/com.aspose.html.dom.svg.datatypes/svganimatedrect/
 ---
 ## SVGAnimatedRect class

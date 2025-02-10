@@ -3,7 +3,7 @@ title: IBrush.Type
 second_title: Aspose.HTML for Java API Reference
 description: IBrush property. Get type of brush
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/ibrush/type/
 ---
 ## IBrush.Type property

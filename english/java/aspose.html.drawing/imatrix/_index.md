@@ -3,7 +3,7 @@ title: IMatrix Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.IMatrix interface. Represents a matrix used for transformations
 type: docs
-weight: 2910
+
 url: /java/com.aspose.html.drawing/imatrix/
 ---
 ## IMatrix interface

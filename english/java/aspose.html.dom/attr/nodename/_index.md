@@ -3,7 +3,7 @@ title: Attr.NodeName
 second_title: Aspose.HTML for Java API Reference
 description: Attr property. The name of this node depending on its type
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom/attr/nodename/
 ---
 ## Attr.NodeName property

@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.CreatePattern
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Creates a pattern using the specified image a CanvasImageSource. It repeats the source in the directions specified by the repetition argument
 type: docs
-weight: 180
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/createpattern/
 ---
 ## CreatePattern(HTMLImageElement, String) {#createpattern_1}

@@ -3,7 +3,7 @@ title: SVGFETurbulenceElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGFETurbulenceElement property. Corresponds to attribute x on the given filter element
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/x/
 ---
 ## SVGFETurbulenceElement.X property

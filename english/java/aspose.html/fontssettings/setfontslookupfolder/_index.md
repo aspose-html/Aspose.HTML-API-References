@@ -3,7 +3,7 @@ title: FontsSettings.SetFontsLookupFolder
 second_title: Aspose.HTML for Java API Reference
 description: FontsSettings method. Sets folder used during fonts selection
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/fontssettings/setfontslookupfolder/
 ---
 ## SetFontsLookupFolder(String) {#setfontslookupfolder}

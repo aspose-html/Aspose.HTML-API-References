@@ -3,7 +3,7 @@ title: ITraversal.Root
 second_title: Aspose.HTML for Java API Reference
 description: ITraversal property. The root node of the NodeIterator as specified when it was created
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.traversal/itraversal/root/
 ---
 ## ITraversal.Root property

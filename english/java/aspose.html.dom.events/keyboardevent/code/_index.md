@@ -3,7 +3,7 @@ title: KeyboardEvent.Code
 second_title: Aspose.HTML for Java API Reference
 description: KeyboardEvent property. The code holds a String that identifies the physical key being pressed. The value is not affected by the current keyboard layout or modifier state so a particular key will always return the same value
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.events/keyboardevent/code/
 ---
 ## KeyboardEvent.Code property

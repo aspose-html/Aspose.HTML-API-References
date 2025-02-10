@@ -3,7 +3,7 @@ title: FormEditor.CreateNew
 second_title: Aspose.HTML for Java API Reference
 description: FormEditor method. Creates a new HTMLFormElement and associated it with FormEditor. HTMLFormElement is created in the detached from the document state in order to attach it to the document please select proper location and use AppendChild method
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.forms/formeditor/createnew/
 ---
 ## FormEditor.CreateNew method

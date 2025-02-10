@@ -3,7 +3,7 @@ title: IStyleSheet Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.css.IStyleSheet interface. The StyleSheet interface is the abstract base interface for any type of style sheet. It represents a single style sheet associated with a structured document. In HTML the StyleSheet interface represents either an external style sheet included via the HTML LINK element or an inline STYLE element. In XML this interface represents an external style sheet included via a style sheet processing instruction. CSS style sheets will further implement the more specialized CSSStyleSheet interface
 type: docs
-weight: 760
+
 url: /java/com.aspose.html.dom.css/istylesheet/
 ---
 ## IStyleSheet interface

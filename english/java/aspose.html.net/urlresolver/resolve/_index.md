@@ -3,7 +3,7 @@ title: UrlResolver.Resolve
 second_title: Aspose.HTML for Java API Reference
 description: UrlResolver method. Resolves the absolute URI from the base and relative URIs
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.net/urlresolver/resolve/
 ---
 ## UrlResolver.Resolve method

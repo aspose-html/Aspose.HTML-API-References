@@ -3,7 +3,7 @@ title: ICanvasDrawingStyles.GetLineDash
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasDrawingStyles method. Returns the current line dash pattern array containing an even number of non-negative numbers
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.dom.canvas/icanvasdrawingstyles/getlinedash/
 ---
 ## ICanvasDrawingStyles.GetLineDash method

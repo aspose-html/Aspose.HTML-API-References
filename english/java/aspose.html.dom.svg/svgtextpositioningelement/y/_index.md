@@ -3,7 +3,7 @@ title: SVGTextPositioningElement.Y
 second_title: Aspose.HTML for Java API Reference
 description: SVGTextPositioningElement property. Corresponds to attribute y on the given element
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg/svgtextpositioningelement/y/
 ---
 ## SVGTextPositioningElement.Y property

@@ -3,7 +3,7 @@ title: Uint32Array
 second_title: Aspose.HTML for Java API Reference
 description: Uint32Array constructor. Initializes a new instance of the Uint32Array class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/uint32array/uint32array/
 ---
 ## Uint32Array(int) {#constructor_3}

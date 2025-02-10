@@ -3,7 +3,7 @@ title: SVGFEDisplacementMapElement.Result
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEDisplacementMapElement property. Corresponds to attribute result on the given filter element
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg.filters/svgfedisplacementmapelement/result/
 ---
 ## SVGFEDisplacementMapElement.Result property

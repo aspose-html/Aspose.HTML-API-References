@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.TaskListItemMarker
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates TaskListItemMarker
 type: docs
-weight: 430
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tasklistitemmarker/
 ---
 ## MarkdownSyntaxFactory.TaskListItemMarker method

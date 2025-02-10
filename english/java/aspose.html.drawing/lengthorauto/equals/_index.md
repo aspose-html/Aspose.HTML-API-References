@@ -3,7 +3,7 @@ title: LengthOrAuto.Equals
 second_title: Aspose.HTML for Java API Reference
 description: LengthOrAuto method. Determines whether the specified Unit is equal to this instance
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.drawing/lengthorauto/equals/
 ---
 ## LengthOrAuto.Equals method

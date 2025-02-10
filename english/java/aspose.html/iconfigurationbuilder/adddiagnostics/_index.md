@@ -3,7 +3,7 @@ title: IConfigurationBuilder.AddDiagnostics
 second_title: Aspose.HTML for Java API Reference
 description: IConfigurationBuilder method. Enables diagnostics for the current configuration
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/iconfigurationbuilder/adddiagnostics/
 ---
 ## IConfigurationBuilder.AddDiagnostics method

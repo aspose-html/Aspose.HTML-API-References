@@ -3,7 +3,7 @@ title: CSSPrimitiveValue Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.css.CSSPrimitiveValue class. The CSSPrimitiveValue interface derives from the CSSValue interface and represents the current computed value of a CSS property
 type: docs
-weight: 500
+
 url: /java/com.aspose.html.dom.css/cssprimitivevalue/
 ---
 ## CSSPrimitiveValue class

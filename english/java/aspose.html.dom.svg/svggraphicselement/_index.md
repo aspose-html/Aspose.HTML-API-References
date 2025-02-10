@@ -3,7 +3,7 @@ title: SVGGraphicsElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGGraphicsElement class. The SVGGraphicsElement interface represents SVG elements whose primary purpose is to directly render graphics into a group
 type: docs
-weight: 2280
+
 url: /java/com.aspose.html.dom.svg/svggraphicselement/
 ---
 ## SVGGraphicsElement class

@@ -3,7 +3,7 @@ title: ValidationBuilder.AllTechnologies
 second_title: Aspose.HTML for Java API Reference
 description: ValidationBuilder method. A method that sets all technologies to test criterion
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.accessibility/validationbuilder/alltechnologies/
 ---
 ## ValidationBuilder.AllTechnologies method

@@ -3,7 +3,7 @@ title: Metered Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Metered class. Provides methods to set metered key
 type: docs
-weight: 4030
+
 url: /java/com.aspose.html/metered/
 ---
 ## Metered class

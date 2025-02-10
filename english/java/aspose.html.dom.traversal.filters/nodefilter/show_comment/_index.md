@@ -3,7 +3,7 @@ title: NodeFilter.SHOW_COMMENT
 second_title: Aspose.HTML for Java API Reference
 description: NodeFilter field. Show Comment nodes
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.dom.traversal.filters/nodefilter/show_comment/
 ---
 ## NodeFilter.SHOW_COMMENT field

@@ -3,7 +3,7 @@ title: Document.GetElementsByTagNameNS
 second_title: Aspose.HTML for Java API Reference
 description: Document method. Returns a list of elements with the given tag name belonging to the given package. The complete document is searched including the root node
 type: docs
-weight: 990
+
 url: /java/com.aspose.html.dom/document/getelementsbytagnamens/
 ---
 ## Document.GetElementsByTagNameNS method

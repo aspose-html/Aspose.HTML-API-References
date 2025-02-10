@@ -3,7 +3,7 @@ title: Color
 second_title: Aspose.HTML for Java API Reference
 description: Color constructor. Initializes a new instance of the Color class. By default color is black
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/color/color/
 ---
 ## Color() {#constructor}

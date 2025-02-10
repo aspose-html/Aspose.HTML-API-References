@@ -3,7 +3,7 @@ title: AccessibilityValidator Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.accessibility.AccessibilityValidator class. The validator class handles quick reference rules. Contains a Validate method to check accessibility
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.accessibility/accessibilityvalidator/
 ---
 ## AccessibilityValidator class

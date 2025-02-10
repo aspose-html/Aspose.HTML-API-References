@@ -3,7 +3,7 @@ title: UnitType Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.UnitType class. Specifies the unit of measurement
 type: docs
-weight: 3060
+
 url: /java/com.aspose.html.drawing/unittype/
 ---
 ## UnitType class

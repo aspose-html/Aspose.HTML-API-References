@@ -3,7 +3,7 @@ title: TableSyntaxNode.Accept
 second_title: Aspose.HTML for Java API Reference
 description: TableSyntaxNode method. Defines the interface for accept of the visitor
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/tablesyntaxnode/accept/
 ---
 ## TableSyntaxNode.Accept method

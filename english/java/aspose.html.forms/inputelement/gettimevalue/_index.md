@@ -3,7 +3,7 @@ title: InputElement.GetTimeValue
 second_title: Aspose.HTML for Java API Reference
 description: InputElement method. This method is used to get the value as a TimeSpan object. This method is valid if only only type of the input element is time
 type: docs
-weight: 160
+
 url: /java/com.aspose.html.forms/inputelement/gettimevalue/
 ---
 ## InputElement.GetTimeValue method

@@ -3,7 +3,7 @@ title: IWindowEventHandlers.OnBeforeUnload
 second_title: Aspose.HTML for Java API Reference
 description: IWindowEventHandlers event. Gets or sets event handler
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.window/iwindoweventhandlers/onbeforeunload/
 ---
 ## IWindowEventHandlers.OnBeforeUnload event

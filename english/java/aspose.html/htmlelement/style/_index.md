@@ -3,7 +3,7 @@ title: HTMLElement.Style
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement property. Represents a style attribute that allows author to directly apply style information to specific element
 type: docs
-weight: 50
+
 url: /java/com.aspose.html/htmlelement/style/
 ---
 ## HTMLElement.Style property

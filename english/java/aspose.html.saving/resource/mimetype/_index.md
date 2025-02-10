@@ -3,7 +3,7 @@ title: Resource.MimeType
 second_title: Aspose.HTML for Java API Reference
 description: Resource property. Returns the MimeType of this resource. Can be null if the resource was not found
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.saving/resource/mimetype/
 ---
 ## Resource.MimeType property

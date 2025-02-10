@@ -3,7 +3,7 @@ title: CSSEngineMode Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.css.CSSEngineMode enum. Specifies CSSEngine mode. Values have the following meaning
 type: docs
-weight: 490
+
 url: /java/com.aspose.html.dom.css/cssenginemode/
 ---
 ## CSSEngineMode enumeration

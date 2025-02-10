@@ -3,7 +3,7 @@ title: ICanvasPathMethods.LineTo
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasPathMethods method. Connects the last point in the subpath to the x y coordinates with a straight line
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.canvas/icanvaspathmethods/lineto/
 ---
 ## ICanvasPathMethods.LineTo method

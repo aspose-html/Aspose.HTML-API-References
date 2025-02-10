@@ -3,7 +3,7 @@ title: SVGFESpecularLightingElement.Width
 second_title: Aspose.HTML for Java API Reference
 description: SVGFESpecularLightingElement property. Corresponds to attribute width on the given filter element
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/width/
 ---
 ## SVGFESpecularLightingElement.Width property

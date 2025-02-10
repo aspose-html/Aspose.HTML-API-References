@@ -3,7 +3,7 @@ title: Document.CreateTextNode
 second_title: Aspose.HTML for Java API Reference
 description: Document method. Creates a Text node given the specified String
 type: docs
-weight: 930
+
 url: /java/com.aspose.html.dom/document/createtextnode/
 ---
 ## Document.CreateTextNode method

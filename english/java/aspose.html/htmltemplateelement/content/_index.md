@@ -3,7 +3,7 @@ title: HTMLTemplateElement.Content
 second_title: Aspose.HTML for Java API Reference
 description: HTMLTemplateElement property. Gets the instance of the DocumentFragment
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/htmltemplateelement/content/
 ---
 ## HTMLTemplateElement.Content property

@@ -3,7 +3,7 @@ title: SVGListBaseT Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.collections.SVGListBase1T class. This interface defines a base list of all SVG lists
 type: docs
-weight: 1220
+
 url: /java/com.aspose.html.dom.svg.collections/svglistbase-1/
 ---
 ## SVGListBase&lt;T&gt; class

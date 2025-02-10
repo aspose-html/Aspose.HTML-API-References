@@ -3,7 +3,7 @@ title: ResourceHandlingContext.ParentResource
 second_title: Aspose.HTML for Java API Reference
 description: ResourceHandlingContext property. Returns a Resource that contains a reference to the Resource currently being processed
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.saving/resourcehandlingcontext/parentresource/
 ---
 ## ResourceHandlingContext.ParentResource property

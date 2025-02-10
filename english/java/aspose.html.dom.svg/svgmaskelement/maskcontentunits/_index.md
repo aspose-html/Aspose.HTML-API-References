@@ -3,7 +3,7 @@ title: SVGMaskElement.MaskContentUnits
 second_title: Aspose.HTML for Java API Reference
 description: SVGMaskElement property. Corresponds to attribute maskContentUnits on the given mask element. Takes one of the constants defined in SVGUnitTypes
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svgmaskelement/maskcontentunits/
 ---
 ## SVGMaskElement.MaskContentUnits property

@@ -3,7 +3,7 @@ title: RequestMessage.Headers
 second_title: Aspose.HTML for Java API Reference
 description: RequestMessage property. Gets the RequestHeaders
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.net/requestmessage/headers/
 ---
 ## RequestMessage.Headers property

@@ -3,7 +3,7 @@ title: SyntaxNodeCollection-1.CopyTo
 second_title: Aspose.HTML for Java API Reference
 description: SyntaxNodeCollection method. 
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/copyto/
 ---
 ## SyntaxNodeCollection&lt;T&gt;.CopyTo method

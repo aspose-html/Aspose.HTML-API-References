@@ -3,7 +3,7 @@ title: SourceTextReader.GetLineReader
 second_title: Aspose.HTML for Java API Reference
 description: SourceTextReader method. Get the SourceTextReader
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetextreader/getlinereader/
 ---
 ## GetLineReader() {#getlinereader}

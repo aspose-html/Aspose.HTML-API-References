@@ -3,7 +3,7 @@ title: ITreeWalker.ParentNode
 second_title: Aspose.HTML for Java API Reference
 description: ITreeWalker method. Moves to and returns the closest visible ancestor node of the current node. If the search for parentNode attempts to step upward from the TreeWalkers root node or if it fails to find a visible ancestor node this method retains the current position and returns null
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.traversal/itreewalker/parentnode/
 ---
 ## ITreeWalker.ParentNode method

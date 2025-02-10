@@ -3,7 +3,7 @@ title: ICSS2Properties.ListStyleType
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies appearance of the list item marker if list-style-image has the value none or if the image pointed to by the URI cannot be displayed. The value none specifies no marker otherwise there are three types of marker glyphs numbering systems and alphabetic systems. Note. Numbered lists improve document accessibility by making lists easier to navigate
 type: docs
-weight: 620
+
 url: /java/com.aspose.html.dom.css/icss2properties/liststyletype/
 ---
 ## ICSS2Properties.ListStyleType property

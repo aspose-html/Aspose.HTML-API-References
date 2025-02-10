@@ -3,7 +3,7 @@ title: SVGRectElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGRectElement class. The SVGRectElement interface corresponds to the rect element
 type: docs
-weight: 2410
+
 url: /java/com.aspose.html.dom.svg/svgrectelement/
 ---
 ## SVGRectElement class

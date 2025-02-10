@@ -3,7 +3,7 @@ title: MarkdownSyntaxVisitor.VisitReferenceImage
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit ReferenceImageSyntax
 type: docs
-weight: 210
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitreferenceimage/
 ---
 ## MarkdownSyntaxVisitor.VisitReferenceImage method

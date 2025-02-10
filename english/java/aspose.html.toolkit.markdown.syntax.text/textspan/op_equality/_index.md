@@ -3,7 +3,7 @@ title: TextSpan.op_Equality
 second_title: Aspose.HTML for Java API Reference
 description: TextSpan method. 
 type: docs
-weight: 140
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textspan/op_equality/
 ---
 ## TextSpan Equality operator

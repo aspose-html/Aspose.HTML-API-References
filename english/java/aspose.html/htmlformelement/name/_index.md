@@ -3,7 +3,7 @@ title: HTMLFormElement.Name
 second_title: Aspose.HTML for Java API Reference
 description: HTMLFormElement property. Names the form
 type: docs
-weight: 70
+
 url: /java/com.aspose.html/htmlformelement/name/
 ---
 ## HTMLFormElement.Name property

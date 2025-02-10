@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.HardBreakingTag
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Create HardBreakingTag
 type: docs
-weight: 140
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hardbreakingtag/
 ---
 ## MarkdownSyntaxFactory.HardBreakingTag method

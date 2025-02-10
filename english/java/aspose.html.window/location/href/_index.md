@@ -3,7 +3,7 @@ title: Location.Href
 second_title: Aspose.HTML for Java API Reference
 description: Location property. 
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.window/location/href/
 ---
 ## Location.Href property

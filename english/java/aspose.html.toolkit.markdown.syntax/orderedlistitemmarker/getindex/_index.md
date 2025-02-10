@@ -3,7 +3,7 @@ title: OrderedListItemMarker.GetIndex
 second_title: Aspose.HTML for Java API Reference
 description: OrderedListItemMarker method. Defines the interface for get of the get index
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/orderedlistitemmarker/getindex/
 ---
 ## OrderedListItemMarker.GetIndex method

@@ -3,7 +3,7 @@ title: MutationObserverInit.Subtree
 second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit property. Set to true if mutations to not just target but also targets descendants are to be observed
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.dom.mutations/mutationobserverinit/subtree/
 ---
 ## MutationObserverInit.Subtree property

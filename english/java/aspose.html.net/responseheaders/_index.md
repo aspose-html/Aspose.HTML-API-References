@@ -3,7 +3,7 @@ title: ResponseHeaders Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.net.ResponseHeaders class. Contains protocol headers associated with a response
 type: docs
-weight: 4260
+
 url: /java/com.aspose.html.net/responseheaders/
 ---
 ## ResponseHeaders class

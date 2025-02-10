@@ -3,7 +3,7 @@ title: FontsSettings Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.FontsSettings class. Represents fonts handling settings
 type: docs
-weight: 3120
+
 url: /java/com.aspose.html/fontssettings/
 ---
 ## FontsSettings class

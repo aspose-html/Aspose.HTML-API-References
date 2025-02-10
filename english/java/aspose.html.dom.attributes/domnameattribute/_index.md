@@ -3,7 +3,7 @@ title: DOMNameAttribute Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.attributes.DOMNameAttribute class. Specifies the official DOM object name as it defined by the W3C
 type: docs
-weight: 310
+
 url: /java/com.aspose.html.dom.attributes/domnameattribute/
 ---
 ## DOMNameAttribute class

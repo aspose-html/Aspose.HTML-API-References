@@ -3,7 +3,7 @@ title: SVGImageElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGImageElement class. The SVGImageElement interface corresponds to the image element
 type: docs
-weight: 2290
+
 url: /java/com.aspose.html.dom.svg/svgimageelement/
 ---
 ## SVGImageElement class

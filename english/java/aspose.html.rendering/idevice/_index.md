@@ -3,7 +3,7 @@ title: IDevice Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.IDevice interface. Defines methods and properties that support custom rendering of the graphic elements like paths text and images
 type: docs
-weight: 4500
+
 url: /java/com.aspose.html.rendering/idevice/
 ---
 ## IDevice interface

@@ -3,7 +3,7 @@ title: SVGCursorElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGCursorElement class. The SVGCursorElement interface corresponds to the cursor element
 type: docs
-weight: 2150
+
 url: /java/com.aspose.html.dom.svg/svgcursorelement/
 ---
 ## SVGCursorElement class

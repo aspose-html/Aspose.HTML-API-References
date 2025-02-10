@@ -3,7 +3,7 @@ title: RequestMessage.Dispose
 second_title: Aspose.HTML for Java API Reference
 description: RequestMessage method. Performs application-defined tasks associated with freeing releasing or resetting unmanaged resources
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.net/requestmessage/dispose/
 ---
 ## RequestMessage.Dispose method

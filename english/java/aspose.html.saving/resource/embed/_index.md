@@ -3,7 +3,7 @@ title: Resource.Embed
 second_title: Aspose.HTML for Java API Reference
 description: Resource method. Embeds this resource within its parent by encoding it as Base64. The encoding result will be written to OutputUrl
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.saving/resource/embed/
 ---
 ## Resource.Embed method

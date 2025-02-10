@@ -3,7 +3,7 @@ title: Document.DocumentElement
 second_title: Aspose.HTML for Java API Reference
 description: Document property. This is a convenience attribute that allows direct access to the child node that is the document element of the document
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.dom/document/documentelement/
 ---
 ## Document.DocumentElement property

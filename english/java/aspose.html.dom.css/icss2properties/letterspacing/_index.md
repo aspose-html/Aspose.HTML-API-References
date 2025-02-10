@@ -3,7 +3,7 @@ title: ICSS2Properties.LetterSpacing
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies spacing behavior between text characters. Values have the following meanings
 type: docs
-weight: 570
+
 url: /java/com.aspose.html.dom.css/icss2properties/letterspacing/
 ---
 ## ICSS2Properties.LetterSpacing property

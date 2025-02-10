@@ -3,7 +3,7 @@ title: OrderedListSyntaxNode.GetDelimiter
 second_title: Aspose.HTML for Java API Reference
 description: OrderedListSyntaxNode method. Defines the interface for get of the delimiter
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/orderedlistsyntaxnode/getdelimiter/
 ---
 ## OrderedListSyntaxNode.GetDelimiter method

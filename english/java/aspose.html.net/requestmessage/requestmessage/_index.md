@@ -3,7 +3,7 @@ title: RequestMessage
 second_title: Aspose.HTML for Java API Reference
 description: RequestMessage constructor. Initializes a new instance of the RequestMessage class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.net/requestmessage/requestmessage/
 ---
 ## RequestMessage(String) {#constructor_1}

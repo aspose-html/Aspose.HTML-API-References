@@ -3,7 +3,7 @@ title: CSSValue.op_Inequality
 second_title: Aspose.HTML for Java API Reference
 description: CSSValue method. 
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.dom.css/cssvalue/op_inequality/
 ---
 ## CSSValue Inequality operator

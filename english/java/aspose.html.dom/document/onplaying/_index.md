@@ -3,7 +3,7 @@ title: Document.OnPlaying
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnPlaying event
 type: docs
-weight: 610
+
 url: /java/com.aspose.html.dom/document/onplaying/
 ---
 ## Document.OnPlaying event

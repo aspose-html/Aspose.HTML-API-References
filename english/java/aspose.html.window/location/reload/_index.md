@@ -3,7 +3,7 @@ title: Location.Reload
 second_title: Aspose.HTML for Java API Reference
 description: Location method. Reloads the current page
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.window/location/reload/
 ---
 ## Location.Reload method

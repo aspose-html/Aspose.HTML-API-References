@@ -3,7 +3,7 @@ title: ITreeWalker.FirstChild
 second_title: Aspose.HTML for Java API Reference
 description: ITreeWalker method. Moves the TreeWalker to the first visible child of the current node and returns the new node. If the current node has no visible children returns null and retains the current node
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.traversal/itreewalker/firstchild/
 ---
 ## ITreeWalker.FirstChild method

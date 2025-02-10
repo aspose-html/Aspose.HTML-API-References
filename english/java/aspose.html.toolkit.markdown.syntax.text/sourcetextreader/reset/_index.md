@@ -3,7 +3,7 @@ title: SourceTextReader.Reset
 second_title: Aspose.HTML for Java API Reference
 description: SourceTextReader method. Reset position to index
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetextreader/reset/
 ---
 ## SourceTextReader.Reset method

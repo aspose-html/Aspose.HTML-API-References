@@ -3,7 +3,7 @@ title: ValidationBuilder Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.accessibility.ValidationBuilder class. The ValidationBuilder class provides concrete implementations of the configuration steps. Defines methods and settings for a class ValidationSettings
 type: docs
-weight: 150
+
 url: /java/com.aspose.html.accessibility/validationbuilder/
 ---
 ## ValidationBuilder class

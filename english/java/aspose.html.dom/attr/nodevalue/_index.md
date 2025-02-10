@@ -3,7 +3,7 @@ title: Attr.NodeValue
 second_title: Aspose.HTML for Java API Reference
 description: Attr property. The value of this node depending on its type
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom/attr/nodevalue/
 ---
 ## Attr.NodeValue property

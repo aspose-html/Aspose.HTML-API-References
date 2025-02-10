@@ -3,7 +3,7 @@ title: Length Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.Length class. Represents a length measurement unit
 type: docs
-weight: 2960
+
 url: /java/com.aspose.html.drawing/length/
 ---
 ## Length class

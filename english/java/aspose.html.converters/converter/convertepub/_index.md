@@ -3,7 +3,7 @@ title: Converter.ConvertEPUB
 second_title: Aspose.HTML for Java API Reference
 description: Converter method. Convert EPUB source presented by data input stream. Result is file formed by output file path
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.converters/converter/convertepub/
 ---
 ## ConvertEPUB(Stream, ImageSaveOptions, String) {#convertepub_27}

@@ -3,7 +3,7 @@ title: Unit.FromHertz
 second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Frequency object that is represented in hertz
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.drawing/unit/fromhertz/
 ---
 ## Unit.FromHertz method

@@ -3,7 +3,7 @@ title: DocDevice
 second_title: Aspose.HTML for Java API Reference
 description: DocDevice constructor. Initializes a new instance of the DocDevice class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.rendering.doc/docdevice/docdevice/
 ---
 ## DocDevice(ICreateStreamProvider) {#constructor}

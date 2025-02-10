@@ -3,7 +3,7 @@ title: MouseEvent Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.events.MouseEvent class. The MouseEvent interface provides specific contextual information associated with Mouse events
 type: docs
-weight: 1010
+
 url: /java/com.aspose.html.dom.events/mouseevent/
 ---
 ## MouseEvent class

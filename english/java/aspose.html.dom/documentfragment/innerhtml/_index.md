@@ -3,7 +3,7 @@ title: DocumentFragment.InnerHTML
 second_title: Aspose.HTML for Java API Reference
 description: DocumentFragment property. Returns a fragment of HTML or XML that represents the elements contents. Can be set to replace the contents of the element with nodes parsed from the given String
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom/documentfragment/innerhtml/
 ---
 ## DocumentFragment.InnerHTML property

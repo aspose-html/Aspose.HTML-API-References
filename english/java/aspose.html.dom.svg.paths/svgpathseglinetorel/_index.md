@@ -3,7 +3,7 @@ title: SVGPathSegLinetoRel Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.paths.SVGPathSegLinetoRel class. The SVGPathSegLinetoRel interface corresponds to a relative lineto l path data command
 type: docs
-weight: 2010
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathseglinetorel/
 ---
 ## SVGPathSegLinetoRel class

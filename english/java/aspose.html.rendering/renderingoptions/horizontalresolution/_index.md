@@ -3,7 +3,7 @@ title: RenderingOptions.HorizontalResolution
 second_title: Aspose.HTML for Java API Reference
 description: RenderingOptions property. Sets or gets horizontal resolution for internal which are used during filters processing images in pixels per inch. By default this property is 300 dpi
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.rendering/renderingoptions/horizontalresolution/
 ---
 ## RenderingOptions.HorizontalResolution property

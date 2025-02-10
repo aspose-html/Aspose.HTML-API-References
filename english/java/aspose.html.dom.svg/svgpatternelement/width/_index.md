@@ -3,7 +3,7 @@ title: SVGPatternElement.Width
 second_title: Aspose.HTML for Java API Reference
 description: SVGPatternElement property. Corresponds to attribute width on the given pattern element
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.dom.svg/svgpatternelement/width/
 ---
 ## SVGPatternElement.Width property

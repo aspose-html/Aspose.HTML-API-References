@@ -3,7 +3,7 @@ title: SourceTextReader
 second_title: Aspose.HTML for Java API Reference
 description: SourceTextReader constructor. Create the SourceTextReader
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetextreader/sourcetextreader/
 ---
 ## SourceTextReader constructor

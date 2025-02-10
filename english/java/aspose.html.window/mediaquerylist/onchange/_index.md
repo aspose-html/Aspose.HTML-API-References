@@ -3,7 +3,7 @@ title: MediaQueryList.OnChange
 second_title: Aspose.HTML for Java API Reference
 description: MediaQueryList event. Event that is fired at the MediaQueryList when the matches state changes
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.window/mediaquerylist/onchange/
 ---
 ## MediaQueryList.OnChange event

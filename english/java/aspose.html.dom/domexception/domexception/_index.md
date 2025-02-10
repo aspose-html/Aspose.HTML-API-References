@@ -3,7 +3,7 @@ title: DOMException
 second_title: Aspose.HTML for Java API Reference
 description: DOMException constructor. Initializes a new instance of the DOMException class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom/domexception/domexception/
 ---
 ## DOMException(String) {#constructor}

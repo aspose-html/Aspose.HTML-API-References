@@ -3,7 +3,7 @@ title: SourceTextReader.Peek
 second_title: Aspose.HTML for Java API Reference
 description: SourceTextReader method. Get the character on position or Character.Null
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetextreader/peek/
 ---
 ## Peek() {#peek}

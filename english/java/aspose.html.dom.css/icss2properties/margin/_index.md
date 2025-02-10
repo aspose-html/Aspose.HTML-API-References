@@ -3,7 +3,7 @@ title: ICSS2Properties.Margin
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The margin property is a shorthand property for setting margin-top margin-right margin-bottom and margin-left at the same place in the style sheet
 type: docs
-weight: 630
+
 url: /java/com.aspose.html.dom.css/icss2properties/margin/
 ---
 ## ICSS2Properties.Margin property

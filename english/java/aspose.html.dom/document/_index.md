@@ -3,7 +3,7 @@ title: Document Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.Document class. The Document represents the entire HTML XML or SVG document. Conceptually it is the root of the document tree and provides the primary access to the documents data
 type: docs
-weight: 830
+
 url: /java/com.aspose.html.dom/document/
 ---
 ## Document class

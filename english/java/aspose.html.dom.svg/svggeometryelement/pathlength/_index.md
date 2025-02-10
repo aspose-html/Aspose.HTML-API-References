@@ -3,7 +3,7 @@ title: SVGGeometryElement.PathLength
 second_title: Aspose.HTML for Java API Reference
 description: SVGGeometryElement property. Corresponds to attribute pathLength on the given element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svggeometryelement/pathlength/
 ---
 ## SVGGeometryElement.PathLength property

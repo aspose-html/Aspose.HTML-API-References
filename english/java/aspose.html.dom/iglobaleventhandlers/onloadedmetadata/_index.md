@@ -3,7 +3,7 @@ title: IGlobalEventHandlers.OnLoadedMetadata
 second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnLoadedMetadata event
 type: docs
-weight: 220
+
 url: /java/com.aspose.html.dom/iglobaleventhandlers/onloadedmetadata/
 ---
 ## IGlobalEventHandlers.OnLoadedMetadata event

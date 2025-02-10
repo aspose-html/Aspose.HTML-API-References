@@ -3,7 +3,7 @@ title: SVGFEComponentTransferElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.filters.SVGFEComponentTransferElement class. The SVGFEComponentTransferElement interface corresponds to the feComponentTransfer element
 type: docs
-weight: 1550
+
 url: /java/com.aspose.html.dom.svg.filters/svgfecomponenttransferelement/
 ---
 ## SVGFEComponentTransferElement class

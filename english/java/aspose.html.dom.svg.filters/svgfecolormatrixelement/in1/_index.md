@@ -3,7 +3,7 @@ title: SVGFEColorMatrixElement.In1
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEColorMatrixElement property. Corresponds to attribute in on the given feColorMatrix element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.filters/svgfecolormatrixelement/in1/
 ---
 ## SVGFEColorMatrixElement.In1 property

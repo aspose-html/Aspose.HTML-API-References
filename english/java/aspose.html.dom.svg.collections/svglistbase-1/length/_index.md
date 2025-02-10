@@ -3,7 +3,7 @@ title: SVGListBase-1.Length
 second_title: Aspose.HTML for Java API Reference
 description: SVGListBase property. The number of items in the list
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.collections/svglistbase-1/length/
 ---
 ## SVGListBase&lt;T&gt;.Length property

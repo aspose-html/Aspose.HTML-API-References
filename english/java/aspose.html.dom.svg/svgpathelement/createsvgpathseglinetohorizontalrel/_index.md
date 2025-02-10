@@ -3,7 +3,7 @@ title: SVGPathElement.CreateSVGPathSegLinetoHorizontalRel
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegLinetoHorizontalRel object
 type: docs
-weight: 160
+
 url: /java/com.aspose.html.dom.svg/svgpathelement/createsvgpathseglinetohorizontalrel/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoHorizontalRel method

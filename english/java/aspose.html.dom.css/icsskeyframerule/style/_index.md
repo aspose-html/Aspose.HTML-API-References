@@ -3,7 +3,7 @@ title: ICSSKeyframeRule.Style
 second_title: Aspose.HTML for Java API Reference
 description: ICSSKeyframeRule property. The read-only CSSKeyframeRule.style property is the CSSStyleDeclaration interface for the declaration block of the CSSKeyframeRule
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.css/icsskeyframerule/style/
 ---
 ## ICSSKeyframeRule.Style property

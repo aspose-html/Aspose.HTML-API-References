@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.LinkDestination
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates LinkDestinationSyntaxNode
 type: docs
-weight: 240
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkdestination/
 ---
 ## LinkDestination() {#linkdestination}

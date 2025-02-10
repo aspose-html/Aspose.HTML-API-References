@@ -3,7 +3,7 @@ title: IDrawingFactory.CreateSolidBrush
 second_title: Aspose.HTML for Java API Reference
 description: IDrawingFactory method. Creates a solid brush with the specified color
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.drawing/idrawingfactory/createsolidbrush/
 ---
 ## IDrawingFactory.CreateSolidBrush method

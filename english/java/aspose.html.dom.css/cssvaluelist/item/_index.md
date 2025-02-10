@@ -3,7 +3,7 @@ title: CSSValueList.Item
 second_title: Aspose.HTML for Java API Reference
 description: CSSValueList property. The item method of the CSSValueList interface is used to retrieve a CSSValue by ordinal index
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.css/cssvaluelist/item/
 ---
 ## CSSValueList indexer

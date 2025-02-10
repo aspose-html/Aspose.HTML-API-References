@@ -3,7 +3,7 @@ title: Attr Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.Attr class. The Attr interface represents an attribute in an Element object. Typically the allowable values for the attribute are defined in a schema associated with the document
 type: docs
-weight: 280
+
 url: /java/com.aspose.html.dom/attr/
 ---
 ## Attr class

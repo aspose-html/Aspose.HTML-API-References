@@ -3,7 +3,7 @@ title: CSSValue.CSSValueType
 second_title: Aspose.HTML for Java API Reference
 description: CSSValue property. A code defining the type of the value
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.css/cssvalue/cssvaluetype/
 ---
 ## CSSValue.CSSValueType property

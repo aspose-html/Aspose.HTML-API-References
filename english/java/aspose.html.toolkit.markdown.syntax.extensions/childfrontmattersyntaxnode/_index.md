@@ -3,7 +3,7 @@ title: ChildFrontMatterSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.extensions.ChildFrontMatterSyntaxNode class. Defines the ChildFrontMatterSyntaxNode
 type: docs
-weight: 5160
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/childfrontmattersyntaxnode/
 ---
 ## ChildFrontMatterSyntaxNode class

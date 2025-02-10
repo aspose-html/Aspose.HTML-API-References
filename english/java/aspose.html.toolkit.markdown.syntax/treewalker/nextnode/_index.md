@@ -3,7 +3,7 @@ title: TreeWalker.NextNode
 second_title: Aspose.HTML for Java API Reference
 description: TreeWalker method. Defines the interface for get next node
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/treewalker/nextnode/
 ---
 ## TreeWalker.NextNode method

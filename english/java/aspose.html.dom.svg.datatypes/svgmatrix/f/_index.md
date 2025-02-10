@@ -3,7 +3,7 @@ title: SVGMatrix.F
 second_title: Aspose.HTML for Java API Reference
 description: SVGMatrix property. The F component of the matrix
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgmatrix/f/
 ---
 ## SVGMatrix.F property

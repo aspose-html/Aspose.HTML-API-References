@@ -3,7 +3,7 @@ title: SVGTransformList
 second_title: Aspose.HTML for Java API Reference
 description: SVGTransformList constructor. Initializes a new instance of the SVGTransformList class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgtransformlist/svgtransformlist/
 ---
 ## SVGTransformList() {#constructor}

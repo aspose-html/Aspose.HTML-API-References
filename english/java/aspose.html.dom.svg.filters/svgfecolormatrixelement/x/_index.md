@@ -3,7 +3,7 @@ title: SVGFEColorMatrixElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEColorMatrixElement property. Corresponds to attribute x on the given filter element
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.svg.filters/svgfecolormatrixelement/x/
 ---
 ## SVGFEColorMatrixElement.X property

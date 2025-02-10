@@ -3,7 +3,7 @@ title: FormSubmitter
 second_title: Aspose.HTML for Java API Reference
 description: FormSubmitter constructor. Initializes a new instance of the FormSubmitter class based on HTMLFormElement
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.forms/formsubmitter/formsubmitter/
 ---
 ## FormSubmitter(HTMLFormElement) {#constructor_3}

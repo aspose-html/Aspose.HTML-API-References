@@ -3,7 +3,7 @@ title: HTMLInputElement.Disabled
 second_title: Aspose.HTML for Java API Reference
 description: HTMLInputElement property. The control is unavailable in this context. See the disabled attribute definition in HTML 4.01
 type: docs
-weight: 80
+
 url: /java/com.aspose.html/htmlinputelement/disabled/
 ---
 ## HTMLInputElement.Disabled property

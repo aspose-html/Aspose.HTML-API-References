@@ -3,7 +3,7 @@ title: TextSaveOptions Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.saving.TextSaveOptions class. Represents Text save options
 type: docs
-weight: 4970
+
 url: /java/com.aspose.html.saving/textsaveoptions/
 ---
 ## TextSaveOptions class

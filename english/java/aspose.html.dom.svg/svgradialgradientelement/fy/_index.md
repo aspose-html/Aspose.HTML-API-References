@@ -3,7 +3,7 @@ title: SVGRadialGradientElement.Fy
 second_title: Aspose.HTML for Java API Reference
 description: SVGRadialGradientElement property. Corresponds to attribute fy on the given radialGradient element
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg/svgradialgradientelement/fy/
 ---
 ## SVGRadialGradientElement.Fy property

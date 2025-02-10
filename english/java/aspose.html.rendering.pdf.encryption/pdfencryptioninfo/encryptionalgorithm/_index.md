@@ -3,7 +3,7 @@ title: PdfEncryptionInfo.EncryptionAlgorithm
 second_title: Aspose.HTML for Java API Reference
 description: PdfEncryptionInfo property. Gets or sets the encryption mode
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.rendering.pdf.encryption/pdfencryptioninfo/encryptionalgorithm/
 ---
 ## PdfEncryptionInfo.EncryptionAlgorithm property

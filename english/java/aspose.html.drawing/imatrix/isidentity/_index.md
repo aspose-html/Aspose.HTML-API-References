@@ -3,7 +3,7 @@ title: IMatrix.IsIdentity
 second_title: Aspose.HTML for Java API Reference
 description: IMatrix property. Gets a value indicating whether this matrix is the identity matrix
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/imatrix/isidentity/
 ---
 ## IMatrix.IsIdentity property

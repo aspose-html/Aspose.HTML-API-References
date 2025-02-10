@@ -3,7 +3,7 @@ title: ISolidBrush.Color
 second_title: Aspose.HTML for Java API Reference
 description: ISolidBrush property. Get color of the brush
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/isolidbrush/color/
 ---
 ## ISolidBrush.Color property

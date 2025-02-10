@@ -3,7 +3,7 @@ title: IFileList Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.io.IFileList interface. Represent the interface for list of files
 type: docs
-weight: 3960
+
 url: /java/com.aspose.html.io/ifilelist/
 ---
 ## IFileList interface

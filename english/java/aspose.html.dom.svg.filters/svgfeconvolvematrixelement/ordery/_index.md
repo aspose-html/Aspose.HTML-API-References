@@ -3,7 +3,7 @@ title: SVGFEConvolveMatrixElement.OrderY
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEConvolveMatrixElement property. Corresponds to attribute order on the given feConvolveMatrix element
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/ordery/
 ---
 ## SVGFEConvolveMatrixElement.OrderY property

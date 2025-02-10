@@ -3,7 +3,7 @@ title: FocusEvent
 second_title: Aspose.HTML for Java API Reference
 description: FocusEvent constructor. Initializes a new instance of the FocusEvent class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.events/focusevent/focusevent/
 ---
 ## FocusEvent(String) {#constructor}

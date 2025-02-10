@@ -3,7 +3,7 @@ title: Event.CapturingPhase
 second_title: Aspose.HTML for Java API Reference
 description: Event field. The event is currently being evaluated at the target IEventTarget
 type: docs
-weight: 170
+
 url: /java/com.aspose.html.dom.events/event/capturingphase/
 ---
 ## Event.CapturingPhase field

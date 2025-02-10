@@ -3,7 +3,7 @@ title: SVGStyleElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGStyleElement class. The SVGStyleElement interface corresponds to the style element
 type: docs
-weight: 2470
+
 url: /java/com.aspose.html.dom.svg/svgstyleelement/
 ---
 ## SVGStyleElement class

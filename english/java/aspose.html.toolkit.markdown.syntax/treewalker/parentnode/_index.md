@@ -3,7 +3,7 @@ title: TreeWalker.ParentNode
 second_title: Aspose.HTML for Java API Reference
 description: TreeWalker method. Defines the interface for get parent node
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/treewalker/parentnode/
 ---
 ## TreeWalker.ParentNode method

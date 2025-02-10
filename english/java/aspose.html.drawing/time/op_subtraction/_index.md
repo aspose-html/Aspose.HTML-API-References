@@ -3,7 +3,7 @@ title: Time.op_Subtraction
 second_title: Aspose.HTML for Java API Reference
 description: Time method. 
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.drawing/time/op_subtraction/
 ---
 ## Time Subtraction operator

@@ -3,7 +3,7 @@ title: PdfSaveOptions Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.saving.PdfSaveOptions class. Specific data class provides few properties to manage conversion result. For example PageSetup specifies page characteristics. Refer to documentation article
 type: docs
-weight: 4880
+
 url: /java/com.aspose.html.saving/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

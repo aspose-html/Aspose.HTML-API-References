@@ -3,7 +3,7 @@ title: SVGGradientElement.SpreadMethod
 second_title: Aspose.HTML for Java API Reference
 description: SVGGradientElement property. Corresponds to attribute spreadMethod on the given element. One of the Spread Method Types defined on this interface
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg/svggradientelement/spreadmethod/
 ---
 ## SVGGradientElement.SpreadMethod property

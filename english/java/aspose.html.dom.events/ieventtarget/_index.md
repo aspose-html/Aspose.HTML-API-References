@@ -3,7 +3,7 @@ title: IEventTarget Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.events.IEventTarget interface. The EventTarget interface is implemented by all Nodes in an implementation which supports the DOM Event Model. Therefore this interface can be obtained by using binding-specific casting methods on an instance of the Node interface. The interface allows registration and removal of Event Listeners on an and dispatch of events to that
 type: docs
-weight: 980
+
 url: /java/com.aspose.html.dom.events/ieventtarget/
 ---
 ## IEventTarget interface

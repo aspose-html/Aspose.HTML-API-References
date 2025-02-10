@@ -3,7 +3,7 @@ title: LinkReferenceDefinitionSyntaxNode.GetTitle
 second_title: Aspose.HTML for Java API Reference
 description: LinkReferenceDefinitionSyntaxNode method. Returns the link reference title
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/gettitle/
 ---
 ## LinkReferenceDefinitionSyntaxNode.GetTitle method

@@ -3,7 +3,7 @@ title: GraphicContext.LineWidth
 second_title: Aspose.HTML for Java API Reference
 description: GraphicContext property. Sets or gets the thickness of paths to be stroked
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.rendering/graphiccontext/linewidth/
 ---
 ## GraphicContext.LineWidth property

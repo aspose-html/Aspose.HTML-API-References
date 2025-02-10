@@ -3,7 +3,7 @@ title: SVGTransform.SetSkewY
 second_title: Aspose.HTML for Java API Reference
 description: SVGTransform method. Sets the transform type to SVG_TRANSFORM_SKEWY with parameter angle defining the amount of skew
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/setskewy/
 ---
 ## SVGTransform.SetSkewY method

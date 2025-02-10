@@ -3,7 +3,7 @@ title: TextSyntaxNode.Span
 second_title: Aspose.HTML for Java API Reference
 description: TextSyntaxNode property. Defines the interface for get span
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/textsyntaxnode/span/
 ---
 ## TextSyntaxNode.Span property

@@ -3,7 +3,7 @@ title: MessageHandlerCollection Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.net.MessageHandlerCollection class. Represents collection of the MessageHandler
 type: docs
-weight: 4180
+
 url: /java/com.aspose.html.net/messagehandlercollection/
 ---
 ## MessageHandlerCollection class

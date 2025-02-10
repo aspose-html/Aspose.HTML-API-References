@@ -3,7 +3,7 @@ title: SyntaxNodeCollection-1.Contains
 second_title: Aspose.HTML for Java API Reference
 description: SyntaxNodeCollection method. Determines whether the given item exists in the collection
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/contains/
 ---
 ## SyntaxNodeCollection&lt;T&gt;.Contains method

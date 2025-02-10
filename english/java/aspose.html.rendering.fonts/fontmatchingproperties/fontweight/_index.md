@@ -3,7 +3,7 @@ title: FontMatchingProperties.FontWeight
 second_title: Aspose.HTML for Java API Reference
 description: FontMatchingProperties property. Gets the font weight value
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.rendering.fonts/fontmatchingproperties/fontweight/
 ---
 ## FontMatchingProperties.FontWeight property

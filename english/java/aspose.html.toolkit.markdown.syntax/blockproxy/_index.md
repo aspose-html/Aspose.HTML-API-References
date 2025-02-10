@@ -3,7 +3,7 @@ title: BlockProxy Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.BlockProxy class. Represents the BlockProxy
 type: docs
-weight: 5060
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/blockproxy/
 ---
 ## BlockProxy class

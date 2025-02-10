@@ -3,7 +3,7 @@ title: Time.op_GreaterThan
 second_title: Aspose.HTML for Java API Reference
 description: Time method. 
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.drawing/time/op_greaterthan/
 ---
 ## Time GreaterThan operator

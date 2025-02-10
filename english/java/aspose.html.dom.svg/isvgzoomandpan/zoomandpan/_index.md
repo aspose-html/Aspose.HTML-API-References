@@ -3,7 +3,7 @@ title: ISVGZoomAndPan.ZoomAndPan
 second_title: Aspose.HTML for Java API Reference
 description: ISVGZoomAndPan property. Corresponds to attribute zoomAndPan on the given element. The value must be one of the SVG_ZOOMANDPAN_ constants defined on this interface
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/isvgzoomandpan/zoomandpan/
 ---
 ## ISVGZoomAndPan.ZoomAndPan property

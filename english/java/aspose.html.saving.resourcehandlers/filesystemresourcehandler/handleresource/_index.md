@@ -3,7 +3,7 @@ title: FileSystemResourceHandler.HandleResource
 second_title: Aspose.HTML for Java API Reference
 description: FileSystemResourceHandler method. This method is responsible for handling the resource. In it you can save the Resource to the stream or embed it into the parent resource
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.saving.resourcehandlers/filesystemresourcehandler/handleresource/
 ---
 ## FileSystemResourceHandler.HandleResource method

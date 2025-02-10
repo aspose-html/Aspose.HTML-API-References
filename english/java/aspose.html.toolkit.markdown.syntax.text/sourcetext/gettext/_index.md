@@ -3,7 +3,7 @@ title: SourceText.GetText
 second_title: Aspose.HTML for Java API Reference
 description: SourceText method. Define the interface for get Text
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/gettext/
 ---
 ## GetText() {#gettext}

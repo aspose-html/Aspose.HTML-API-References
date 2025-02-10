@@ -3,7 +3,7 @@ title: ValidationBuilder.UseLowestLevel
 second_title: Aspose.HTML for Java API Reference
 description: ValidationBuilder method. Use Lowest Level A of Criterion in Rules
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.accessibility/validationbuilder/uselowestlevel/
 ---
 ## ValidationBuilder.UseLowestLevel method

@@ -3,7 +3,7 @@ title: Rect Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.css.Rect class. The Rect interface is used to represent any rect value. This interface reflects the values in the underlying style property. Hence modifications made to the CSSPrimitiveValue objects modify the style property
 type: docs
-weight: 800
+
 url: /java/com.aspose.html.dom.css/rect/
 ---
 ## Rect class

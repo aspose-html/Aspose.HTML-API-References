@@ -3,7 +3,7 @@ title: Resource Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.saving.Resource class. This class describes a resource and provides methods for processing it
 type: docs
-weight: 4890
+
 url: /java/com.aspose.html.saving/resource/
 ---
 ## Resource class

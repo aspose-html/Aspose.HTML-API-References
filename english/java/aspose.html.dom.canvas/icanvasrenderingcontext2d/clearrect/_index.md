@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.ClearRect
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Sets all pixels in the rectangle defined by starting point x y and size width height to transparent black erasing any previously drawn content
 type: docs
-weight: 140
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/clearrect/
 ---
 ## ICanvasRenderingContext2D.ClearRect method

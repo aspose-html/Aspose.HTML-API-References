@@ -3,7 +3,7 @@ title: ICSS2Properties.Padding
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The padding property is a shorthand property for setting padding-top padding-right padding-bottom and padding-left at the same place in the style sheet
 type: docs
-weight: 800
+
 url: /java/com.aspose.html.dom.css/icss2properties/padding/
 ---
 ## ICSS2Properties.Padding property

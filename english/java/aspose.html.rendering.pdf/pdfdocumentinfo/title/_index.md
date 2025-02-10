@@ -3,7 +3,7 @@ title: PdfDocumentInfo.Title
 second_title: Aspose.HTML for Java API Reference
 description: PdfDocumentInfo property. The documents title
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.rendering.pdf/pdfdocumentinfo/title/
 ---
 ## PdfDocumentInfo.Title property

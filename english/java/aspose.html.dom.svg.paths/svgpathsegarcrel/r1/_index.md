@@ -3,7 +3,7 @@ title: SVGPathSegArcRel.R1
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegArcRel property. The x-axis radius for the ellipse i.e. r1
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegarcrel/r1/
 ---
 ## SVGPathSegArcRel.R1 property

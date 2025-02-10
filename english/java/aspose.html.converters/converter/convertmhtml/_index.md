@@ -3,7 +3,7 @@ title: Converter.ConvertMHTML
 second_title: Aspose.HTML for Java API Reference
 description: Converter method. Convert MHTML source presented by input stream. Result is xps file formed by output file path
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.converters/converter/convertmhtml/
 ---
 ## ConvertMHTML(Stream, XpsSaveOptions, String) {#convertmhtml_31}

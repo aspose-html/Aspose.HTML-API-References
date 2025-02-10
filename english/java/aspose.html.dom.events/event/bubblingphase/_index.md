@@ -3,7 +3,7 @@ title: Event.BubblingPhase
 second_title: Aspose.HTML for Java API Reference
 description: Event field. The current event phase is the bubbling phase
 type: docs
-weight: 160
+
 url: /java/com.aspose.html.dom.events/event/bubblingphase/
 ---
 ## Event.BubblingPhase field

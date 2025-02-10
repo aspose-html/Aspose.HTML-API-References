@@ -3,7 +3,7 @@ title: Rect.Right
 second_title: Aspose.HTML for Java API Reference
 description: Rect property. This attribute is used for the right of the rect
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.css/rect/right/
 ---
 ## Rect.Right property

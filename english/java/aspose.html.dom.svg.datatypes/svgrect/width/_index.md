@@ -3,7 +3,7 @@ title: SVGRect.Width
 second_title: Aspose.HTML for Java API Reference
 description: SVGRect property. The Width coordinate of the rectangle in user units
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgrect/width/
 ---
 ## SVGRect.Width property

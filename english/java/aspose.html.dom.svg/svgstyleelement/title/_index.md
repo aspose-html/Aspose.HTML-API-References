@@ -3,7 +3,7 @@ title: SVGStyleElement.Title
 second_title: Aspose.HTML for Java API Reference
 description: SVGStyleElement property. Corresponds to attribute title on the given element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svgstyleelement/title/
 ---
 ## SVGStyleElement.Title property

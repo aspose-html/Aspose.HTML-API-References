@@ -3,7 +3,7 @@ title: Time.op_LessThanOrEqual
 second_title: Aspose.HTML for Java API Reference
 description: Time method. 
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.drawing/time/op_lessthanorequal/
 ---
 ## Time LessThanOrEqual operator

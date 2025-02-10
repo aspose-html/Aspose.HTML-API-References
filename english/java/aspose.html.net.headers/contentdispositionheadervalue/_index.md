@@ -3,7 +3,7 @@ title: ContentDispositionHeaderValue Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.net.headers.ContentDispositionHeaderValue class. Represent Content-Disposition header value
 type: docs
-weight: 4090
+
 url: /java/com.aspose.html.net.headers/contentdispositionheadervalue/
 ---
 ## ContentDispositionHeaderValue class

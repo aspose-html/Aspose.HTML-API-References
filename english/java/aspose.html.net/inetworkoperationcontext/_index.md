@@ -3,7 +3,7 @@ title: INetworkOperationContext Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.net.INetworkOperationContext interface. Provides contextual information for the network services
 type: docs
-weight: 4140
+
 url: /java/com.aspose.html.net/inetworkoperationcontext/
 ---
 ## INetworkOperationContext interface

@@ -3,7 +3,7 @@ title: HTMLFormElement.Method
 second_title: Aspose.HTML for Java API Reference
 description: HTMLFormElement property. HTTP method IETF RFC 2616 used to submit form. See the method attribute definition in HTML 4.01
 type: docs
-weight: 60
+
 url: /java/com.aspose.html/htmlformelement/method/
 ---
 ## HTMLFormElement.Method property

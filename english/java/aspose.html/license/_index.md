@@ -3,7 +3,7 @@ title: License Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.License class. Provides methods to license the component
 type: docs
-weight: 4010
+
 url: /java/com.aspose.html/license/
 ---
 ## License class

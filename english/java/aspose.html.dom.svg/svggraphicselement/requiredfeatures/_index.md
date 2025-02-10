@@ -3,7 +3,7 @@ title: SVGGraphicsElement.RequiredFeatures
 second_title: Aspose.HTML for Java API Reference
 description: SVGGraphicsElement property. Corresponds to attribute requiredFeatures on the given element
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg/svggraphicselement/requiredfeatures/
 ---
 ## SVGGraphicsElement.RequiredFeatures property

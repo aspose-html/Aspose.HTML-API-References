@@ -3,7 +3,7 @@ title: InputElement.AddFile
 second_title: Aspose.HTML for Java API Reference
 description: InputElement method. This method adds files to the Files collection which will be sent during the next web request
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.forms/inputelement/addfile/
 ---
 ## InputElement.AddFile method

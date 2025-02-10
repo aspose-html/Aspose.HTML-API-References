@@ -3,7 +3,7 @@ title: IGradientBrush Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.IGradientBrush interface. Declare methods for getting common properties of gradient brushes
 type: docs
-weight: 2880
+
 url: /java/com.aspose.html.drawing/igradientbrush/
 ---
 ## IGradientBrush interface

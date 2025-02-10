@@ -3,7 +3,7 @@ title: SubmissionResult.LoadDocument
 second_title: Aspose.HTML for Java API Reference
 description: SubmissionResult method. This method loads the new document based on response message
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.forms/submissionresult/loaddocument/
 ---
 ## SubmissionResult.LoadDocument method

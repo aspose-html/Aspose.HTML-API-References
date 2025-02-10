@@ -3,7 +3,7 @@ title: SVGStopElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGStopElement class. The SVGStopElement interface corresponds to the stop element
 type: docs
-weight: 2460
+
 url: /java/com.aspose.html.dom.svg/svgstopelement/
 ---
 ## SVGStopElement class

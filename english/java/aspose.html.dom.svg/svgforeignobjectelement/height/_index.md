@@ -3,7 +3,7 @@ title: SVGForeignObjectElement.Height
 second_title: Aspose.HTML for Java API Reference
 description: SVGForeignObjectElement property. Corresponds to attribute height on the given foreignObject element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgforeignobjectelement/height/
 ---
 ## SVGForeignObjectElement.Height property

@@ -3,7 +3,7 @@ title: HTMLNoScriptElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLNoScriptElement class. Script statements. See the NOSCRIPT element definition in HTML 4.01
 type: docs
-weight: 3650
+
 url: /java/com.aspose.html/htmlnoscriptelement/
 ---
 ## HTMLNoScriptElement class

@@ -3,7 +3,7 @@ title: IMatrix.Rotate
 second_title: Aspose.HTML for Java API Reference
 description: IMatrix method. Rotates the matrix by the specified angle in the specified order
 type: docs
-weight: 140
+
 url: /java/com.aspose.html.drawing/imatrix/rotate/
 ---
 ## Rotate(float, WebMatrixOrder) {#rotate_1}

@@ -3,7 +3,7 @@ title: Element Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.Element class. The Element interface represents an element in an HTML or XML document
 type: docs
-weight: 860
+
 url: /java/com.aspose.html.dom/element/
 ---
 ## Element class

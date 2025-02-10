@@ -3,7 +3,7 @@ title: Path2D.Rect
 second_title: Aspose.HTML for Java API Reference
 description: Path2D method. Creates a path for a rectangle at position x y with a size that is determined by width and height
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.dom.canvas/path2d/rect/
 ---
 ## Path2D.Rect method

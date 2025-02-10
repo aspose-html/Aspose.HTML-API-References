@@ -3,7 +3,7 @@ title: Document.GetElementsByClassName
 second_title: Aspose.HTML for Java API Reference
 description: Document method. The getElementsByClassName method of Document interface returns an array-like object of all child elements which have all of the given class names
 type: docs
-weight: 970
+
 url: /java/com.aspose.html.dom/document/getelementsbyclassname/
 ---
 ## Document.GetElementsByClassName method
@@ -123,7 +123,7 @@ Element type: Aspose.Html.HTMLParagraphElement
 ```java
 // CSS styling
 .pStyle{
-  font-weight: bold;
+  font-
 }
 
 # HTML content

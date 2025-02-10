@@ -3,7 +3,7 @@ title: ICSS2Properties.Overflow
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies whether the content of a block-level element is clipped when it overflows the elements box which is acting as a containing block for the content. Values have the following meanings
 type: docs
-weight: 790
+
 url: /java/com.aspose.html.dom.css/icss2properties/overflow/
 ---
 ## ICSS2Properties.Overflow property

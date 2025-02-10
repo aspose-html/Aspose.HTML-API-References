@@ -3,7 +3,7 @@ title: RuleValidationResult.Results
 second_title: Aspose.HTML for Java API Reference
 description: RuleValidationResult property. Collection of ITechniqueResult on rule validation
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.accessibility.results/rulevalidationresult/results/
 ---
 ## RuleValidationResult.Results property

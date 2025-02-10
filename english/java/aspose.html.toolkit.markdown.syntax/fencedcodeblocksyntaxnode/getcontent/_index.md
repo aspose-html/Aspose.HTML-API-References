@@ -3,7 +3,7 @@ title: FencedCodeBlockSyntaxNode.GetContent
 second_title: Aspose.HTML for Java API Reference
 description: FencedCodeBlockSyntaxNode method. Defines the interface for get Content
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode/getcontent/
 ---
 ## FencedCodeBlockSyntaxNode.GetContent method

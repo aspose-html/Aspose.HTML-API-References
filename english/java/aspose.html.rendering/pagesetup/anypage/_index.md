@@ -3,7 +3,7 @@ title: PageSetup.AnyPage
 second_title: Aspose.HTML for Java API Reference
 description: PageSetup property. Gets or sets all pages configuration in the the page-sequence
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.rendering/pagesetup/anypage/
 ---
 ## PageSetup.AnyPage property

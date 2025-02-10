@@ -3,7 +3,7 @@ title: Principle Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.accessibility.Principle class. Accessibility Principle - The highest levels that provide the foundation of web accessibility contain a list of Guidelines with type RuleCollectionGuideline. The object is not allowed to be created outside the assembly. https//www.w3.org/WAI/fundamentals/accessibility-principles/
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.accessibility/principle/
 ---
 ## Principle class

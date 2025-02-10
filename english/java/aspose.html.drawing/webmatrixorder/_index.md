@@ -3,7 +3,7 @@ title: WebMatrixOrder Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.WebMatrixOrder enum. Specifies the order in which matrix transformations are applied
 type: docs
-weight: 3090
+
 url: /java/com.aspose.html.drawing/webmatrixorder/
 ---
 ## WebMatrixOrder enumeration

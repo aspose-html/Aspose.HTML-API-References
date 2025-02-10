@@ -3,7 +3,7 @@ title: DocSaveOptions Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.saving.DocSaveOptions class. Specific options data class. By assigning properties you can manage rendering characteristics such as resolution page size background color as well as doc specific options such as font embedding. More info see in documentation article
 type: docs
-weight: 4800
+
 url: /java/com.aspose.html.saving/docsaveoptions/
 ---
 ## DocSaveOptions class

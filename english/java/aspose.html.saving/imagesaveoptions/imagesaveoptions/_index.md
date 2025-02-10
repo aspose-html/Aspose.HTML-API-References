@@ -3,7 +3,7 @@ title: ImageSaveOptions
 second_title: Aspose.HTML for Java API Reference
 description: ImageSaveOptions constructor. Initializes a new instance of the ImageSaveOptions class Png will be used as default image format
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.saving/imagesaveoptions/imagesaveoptions/
 ---
 ## ImageSaveOptions() {#constructor}

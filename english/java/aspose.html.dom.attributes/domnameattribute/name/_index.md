@@ -3,7 +3,7 @@ title: DOMNameAttribute.Name
 second_title: Aspose.HTML for Java API Reference
 description: DOMNameAttribute property. Gets the DOM name
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.attributes/domnameattribute/name/
 ---
 ## DOMNameAttribute.Name property

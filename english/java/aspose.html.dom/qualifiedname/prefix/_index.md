@@ -3,7 +3,7 @@ title: QualifiedName.Prefix
 second_title: Aspose.HTML for Java API Reference
 description: QualifiedName property. Gets a String representation of the prefix of the QualifiedName
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom/qualifiedname/prefix/
 ---
 ## QualifiedName.Prefix property

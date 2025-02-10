@@ -3,7 +3,7 @@ title: PdfDevice.PdfGraphicContext Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.pdf.PdfDevicePdfGraphicContext class. Holds current graphics control parameters for the PdfDevice. These parameters define the global framework within which the graphics operators execute
 type: docs
-weight: 4660
+
 url: /java/com.aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/
 ---
 ## PdfDevice.PdfGraphicContext class

@@ -3,7 +3,7 @@ title: IGlobalEventHandlers.OnSeeked
 second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnSeeked event
 type: docs
-weight: 400
+
 url: /java/com.aspose.html.dom/iglobaleventhandlers/onseeked/
 ---
 ## IGlobalEventHandlers.OnSeeked event

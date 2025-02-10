@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.Whitespace
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Create the WhitespaceSyntax
 type: docs
-weight: 500
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/
 ---
 ## Whitespace() {#whitespace}

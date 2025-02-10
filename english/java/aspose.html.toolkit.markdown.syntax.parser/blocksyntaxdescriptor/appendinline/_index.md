@@ -3,7 +3,7 @@ title: BlockSyntaxDescriptor.AppendInline
 second_title: Aspose.HTML for Java API Reference
 description: BlockSyntaxDescriptor method. Defines the interface for Append Inline
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/appendinline/
 ---
 ## BlockSyntaxDescriptor.AppendInline method

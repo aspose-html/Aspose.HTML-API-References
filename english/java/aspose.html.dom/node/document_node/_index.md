@@ -3,7 +3,7 @@ title: Node.DOCUMENT_NODE
 second_title: Aspose.HTML for Java API Reference
 description: Node field. A Document node
 type: docs
-weight: 340
+
 url: /java/com.aspose.html.dom/node/document_node/
 ---
 ## Node.DOCUMENT_NODE field

@@ -3,7 +3,7 @@ title: IWindowEventHandlers.OnPageShow
 second_title: Aspose.HTML for Java API Reference
 description: IWindowEventHandlers event. Gets or sets event handler
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.window/iwindoweventhandlers/onpageshow/
 ---
 ## IWindowEventHandlers.OnPageShow event

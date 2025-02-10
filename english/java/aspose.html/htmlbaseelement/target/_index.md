@@ -3,7 +3,7 @@ title: HTMLBaseElement.Target
 second_title: Aspose.HTML for Java API Reference
 description: HTMLBaseElement property. The default target frame. See the target attribute definition in HTML 4.01
 type: docs
-weight: 20
+
 url: /java/com.aspose.html/htmlbaseelement/target/
 ---
 ## HTMLBaseElement.Target property

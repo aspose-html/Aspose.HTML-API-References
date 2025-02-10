@@ -3,7 +3,7 @@ title: IWindowEventHandlers.OnUnload
 second_title: Aspose.HTML for Java API Reference
 description: IWindowEventHandlers event. Gets or sets event handler
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.window/iwindoweventhandlers/onunload/
 ---
 ## IWindowEventHandlers.OnUnload event

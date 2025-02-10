@@ -3,7 +3,7 @@ title: RuleValidationResult.Rule
 second_title: Aspose.HTML for Java API Reference
 description: RuleValidationResult property. Rule that has been tested
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.accessibility.results/rulevalidationresult/rule/
 ---
 ## RuleValidationResult.Rule property

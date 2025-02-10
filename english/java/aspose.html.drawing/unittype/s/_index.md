@@ -3,7 +3,7 @@ title: UnitType.S
 second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is in seconds
 type: docs
-weight: 250
+
 url: /java/com.aspose.html.drawing/unittype/s/
 ---
 ## UnitType.S field

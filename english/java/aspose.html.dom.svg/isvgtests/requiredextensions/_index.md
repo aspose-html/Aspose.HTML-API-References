@@ -3,7 +3,7 @@ title: ISVGTests.RequiredExtensions
 second_title: Aspose.HTML for Java API Reference
 description: ISVGTests property. Corresponds to attribute requiredExtensions on the given element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/isvgtests/requiredextensions/
 ---
 ## ISVGTests.RequiredExtensions property

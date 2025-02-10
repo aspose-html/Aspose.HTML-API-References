@@ -3,7 +3,7 @@ title: ShadowRoot.Mode
 second_title: Aspose.HTML for Java API Reference
 description: ShadowRoot property. Mode in which this ShadowRoot operates
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom/shadowroot/mode/
 ---
 ## ShadowRoot.Mode property

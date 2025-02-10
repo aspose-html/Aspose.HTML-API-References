@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.MarkdownSyntaxFactory class. Factory used to create various MarkdownSyntaxNode descendants
 type: docs
-weight: 5440
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/
 ---
 ## MarkdownSyntaxFactory class

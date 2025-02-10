@@ -3,7 +3,7 @@ title: TextAreaElement.Value
 second_title: Aspose.HTML for Java API Reference
 description: TextAreaElement property. Represents the String value of the input element that is directly mapped to the value attribute
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.forms/textareaelement/value/
 ---
 ## TextAreaElement.Value property

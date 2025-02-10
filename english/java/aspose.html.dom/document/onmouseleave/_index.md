@@ -3,7 +3,7 @@ title: Document.OnMouseLeave
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnMouseLeave event
 type: docs
-weight: 530
+
 url: /java/com.aspose.html.dom/document/onmouseleave/
 ---
 ## Document.OnMouseLeave event

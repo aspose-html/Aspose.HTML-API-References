@@ -3,7 +3,7 @@ title: SVGFEFuncBElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.filters.SVGFEFuncBElement class. The SVGFEFuncBElement interface corresponds to the feFuncB element
 type: docs
-weight: 1640
+
 url: /java/com.aspose.html.dom.svg.filters/svgfefuncbelement/
 ---
 ## SVGFEFuncBElement class

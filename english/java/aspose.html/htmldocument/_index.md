@@ -3,7 +3,7 @@ title: HTMLDocument Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLDocument class. Represents an HTML document. All top level HTML objects are added to this object. This class represents the HTML page as what we see in browser. All forms tables scripts ... are added to the HTML page via the interfaces of this class. HTMLDocument is html implementation of most general Document interface and both are core or root point of DOM - Document Object Model. These concepts are in full accordance with officical web development basis or standards. For the purposes of web development you can generally think of HTMLDocument as an alias for Document upon which HTMLDocument is based
 type: docs
-weight: 3420
+
 url: /java/com.aspose.html/htmldocument/
 ---
 ## HTMLDocument class

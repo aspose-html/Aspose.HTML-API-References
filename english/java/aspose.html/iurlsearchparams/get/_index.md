@@ -3,7 +3,7 @@ title: IUrlSearchParams.Get
 second_title: Aspose.HTML for Java API Reference
 description: IUrlSearchParams method. Returns value of the first name-value pair whose name is name
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/iurlsearchparams/get/
 ---
 ## IUrlSearchParams.Get method

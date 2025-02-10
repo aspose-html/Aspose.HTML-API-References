@@ -3,7 +3,7 @@ title: Unit.GetHashCode
 second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a hash code for this instance
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.drawing/unit/gethashcode/
 ---
 ## Unit.GetHashCode method

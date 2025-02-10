@@ -3,7 +3,7 @@ title: IWindow Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.window.IWindow interface. The window object represents a window containing a DOM document
 type: docs
-weight: 6110
+
 url: /java/com.aspose.html.window/iwindow/
 ---
 ## IWindow interface

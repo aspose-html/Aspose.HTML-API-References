@@ -3,7 +3,7 @@ title: DOMTokenList.Item
 second_title: Aspose.HTML for Java API Reference
 description: DOMTokenList property. Returns the item in the list by its index or null if index is greater than or equal to the lists length
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.collections/domtokenlist/item/
 ---
 ## DOMTokenList indexer

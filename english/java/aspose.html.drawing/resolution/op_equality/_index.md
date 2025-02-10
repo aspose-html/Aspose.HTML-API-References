@@ -3,7 +3,7 @@ title: Resolution.op_Equality
 second_title: Aspose.HTML for Java API Reference
 description: Resolution method. 
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.drawing/resolution/op_equality/
 ---
 ## Resolution Equality operator

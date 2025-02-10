@@ -3,7 +3,7 @@ title: DataListElement.Options
 second_title: Aspose.HTML for Java API Reference
 description: DataListElement property. Returns a list of options
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.forms/datalistelement/options/
 ---
 ## DataListElement.Options property

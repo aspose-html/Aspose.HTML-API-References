@@ -3,7 +3,7 @@ title: IMatrix.Reset
 second_title: Aspose.HTML for Java API Reference
 description: IMatrix method. Resets the matrix to the identity matrix
 type: docs
-weight: 130
+
 url: /java/com.aspose.html.drawing/imatrix/reset/
 ---
 ## IMatrix.Reset method
