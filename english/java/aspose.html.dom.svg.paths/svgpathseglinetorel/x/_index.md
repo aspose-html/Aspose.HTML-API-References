@@ -27,5 +27,5 @@ The relative X coordinate
 ### See Also
 
 * class [SVGPathSegLinetoRel](../)
-* package [com.aspose.html.dom.svg.paths](../../svgpathseglinetorel/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

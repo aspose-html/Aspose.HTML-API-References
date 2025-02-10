@@ -22,7 +22,7 @@ public void Add(Content content)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* package [com.aspose.html.net](../../multipartformdatacontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void Add(Content content, String name)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* package [com.aspose.html.net](../../multipartformdatacontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -67,5 +67,5 @@ public void Add(Content content, String name, String fileName)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* package [com.aspose.html.net](../../multipartformdatacontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

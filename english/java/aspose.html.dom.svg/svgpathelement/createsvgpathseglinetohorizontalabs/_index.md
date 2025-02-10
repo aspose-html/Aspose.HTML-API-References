@@ -26,5 +26,5 @@ A stand-alone, parentless SVGPathSegLinetoHorizontalAbs object.
 
 * class [SVGPathSegLinetoHorizontalAbs](../../../com.aspose.html.dom.svg.paths/svgpathseglinetohorizontalabs/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.dom.svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

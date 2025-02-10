@@ -27,5 +27,5 @@ The B component of the matrix.
 ### See Also
 
 * class [SVGMatrix](../)
-* package [com.aspose.html.dom.svg.datatypes](../../svgmatrix/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

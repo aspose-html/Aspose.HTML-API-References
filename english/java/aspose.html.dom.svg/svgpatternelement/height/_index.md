@@ -22,5 +22,5 @@ The attribute ‘height’ of the given ‘pattern’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGPatternElement](../)
-* package [com.aspose.html.dom.svg](../../svgpatternelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

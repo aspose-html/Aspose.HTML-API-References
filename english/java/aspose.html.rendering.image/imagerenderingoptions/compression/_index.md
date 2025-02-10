@@ -18,5 +18,5 @@ public Compression Compression { get; set; }
 
 * enum [Compression](../../compression/)
 * class [ImageRenderingOptions](../)
-* package [com.aspose.html.rendering.image](../../imagerenderingoptions/)
+* package [com.aspose.html.rendering.image](../../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public HTMLDocument ContentDocument { get; }
 
 * class [HTMLDocument](../../htmldocument/)
 * class [HTMLFrameElement](../)
-* package [com.aspose.html](../../htmlframeelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

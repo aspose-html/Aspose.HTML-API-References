@@ -22,5 +22,5 @@ The attribute ‘textLength’ of the given element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGTextContentElement](../)
-* package [com.aspose.html.dom.svg](../../svgtextcontentelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

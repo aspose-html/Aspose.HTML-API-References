@@ -21,5 +21,5 @@ The String result.
 ### See Also
 
 * class [ShortCodeParameterSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../shortcodeparametersyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

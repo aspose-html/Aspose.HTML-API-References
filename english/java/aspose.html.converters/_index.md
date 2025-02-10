@@ -3,7 +3,7 @@ title: com.aspose.html.converters
 second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.converters package goal is easy access to conversion methods. It provides a wide range of conversions to the popular formats such as PDF XPS image formats etc. More specific conversion rendering saving user cases are presented by well known and documented low level API functions in subject oriented packages
 type: docs
-weight: 30
+weight: 60
 url: /java/com.aspose.html.converters/
 ---
 The **com.aspose.html.converters** package goal is easy access to conversion methods. It provides a wide range of conversions to the popular formats, such as PDF, XPS, image formats, etc. More specific conversion (rendering, saving) user cases are presented by well known and documented low level API functions in subject oriented packages.

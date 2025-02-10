@@ -17,5 +17,5 @@ public XpsSaveOptions()
 ### See Also
 
 * class [XpsSaveOptions](../)
-* package [com.aspose.html.saving](../../xpssaveoptions/)
+* package [com.aspose.html.saving](../../../com.aspose.html.saving/)
 * package [Aspose.HTML](../../../)

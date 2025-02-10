@@ -17,5 +17,5 @@ public String Action { get; set; }
 ### See Also
 
 * class [FormEditor](../)
-* package [com.aspose.html.forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

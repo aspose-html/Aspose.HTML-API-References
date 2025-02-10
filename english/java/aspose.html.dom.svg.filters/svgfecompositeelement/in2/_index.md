@@ -22,5 +22,5 @@ The attribute ‘in2’ on the given ‘feComposite’ element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFECompositeElement](../)
-* package [com.aspose.html.dom.svg.filters](../../svgfecompositeelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

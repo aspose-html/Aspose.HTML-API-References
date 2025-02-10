@@ -22,5 +22,5 @@ The attribute ‘spreadMethod’ of the given element.
 
 * class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGGradientElement](../)
-* package [com.aspose.html.dom.svg](../../svggradientelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

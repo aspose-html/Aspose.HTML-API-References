@@ -17,5 +17,5 @@ public XpsGraphicContext()
 ### See Also
 
 * class [XpsGraphicContext](../)
-* package [com.aspose.html.rendering.xps](../../xpsdevice.xpsgraphiccontext/)
+* package [com.aspose.html.rendering.xps](../../../com.aspose.html.rendering.xps/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: FileProtocolMessageHandler Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.net.messagehandlers.FileProtocolMessageHandler class. Represents the file protocol message handler
 type: docs
-weight: 4010
+weight: 4190
 url: /java/com.aspose.html.net.messagehandlers/fileprotocolmessagehandler/
 ---
 ## FileProtocolMessageHandler class

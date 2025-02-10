@@ -22,5 +22,5 @@ The attribute ‘cx’ of the given ‘circle’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* package [com.aspose.html.dom.svg](../../svgcircleelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

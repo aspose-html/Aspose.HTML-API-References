@@ -21,7 +21,7 @@ public KeyboardEvent(String type)
 ### See Also
 
 * class [KeyboardEvent](../)
-* package [com.aspose.html.dom.events](../../keyboardevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public KeyboardEvent(String type, IDictionary<String, object> eventInitDict)
 ### See Also
 
 * class [KeyboardEvent](../)
-* package [com.aspose.html.dom.events](../../keyboardevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

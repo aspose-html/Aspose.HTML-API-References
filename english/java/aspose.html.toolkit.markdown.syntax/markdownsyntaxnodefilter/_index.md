@@ -3,7 +3,7 @@ title: MarkdownSyntaxNodeFilter Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.MarkdownSyntaxNodeFilter class. Base implementation of the MarkdownSyntaxNodeFilter
 type: docs
-weight: 5200
+weight: 5460
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/
 ---
 ## MarkdownSyntaxNodeFilter class
@@ -18,7 +18,7 @@ public abstract class MarkdownSyntaxNodeFilter
 
 | Name | Description |
 | --- | --- |
-| abstract [AcceptNode](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/acceptnode/)(MarkdownSyntaxNode) | Defines the interface for accept node. |
+| abstract [AcceptNode](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/acceptnode/)(MarkdownSyntaxNode) | Defines the interface for accepting node. |
 
 ## Fields
 

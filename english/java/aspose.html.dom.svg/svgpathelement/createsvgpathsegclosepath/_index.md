@@ -22,5 +22,5 @@ A stand-alone, parentless SVGPathSegClosePath object.
 
 * class [SVGPathSegClosePath](../../../com.aspose.html.dom.svg.paths/svgpathsegclosepath/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.dom.svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

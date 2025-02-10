@@ -22,5 +22,5 @@ The frame element.
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * interface [IWindow](../)
-* package [com.aspose.html.window](../../iwindow/)
+* package [com.aspose.html.window](../../../com.aspose.html.window/)
 * package [Aspose.HTML](../../../)

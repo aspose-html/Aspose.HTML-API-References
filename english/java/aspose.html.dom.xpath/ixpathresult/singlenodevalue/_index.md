@@ -24,5 +24,5 @@ public Node SingleNodeValue { get; }
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [IXPathResult](../)
-* package [com.aspose.html.dom.xpath](../../ixpathresult/)
+* package [com.aspose.html.dom.xpath](../../../com.aspose.html.dom.xpath/)
 * package [Aspose.HTML](../../../)

@@ -26,5 +26,5 @@ Returns a [`Angle`](../../angle/) object.
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* package [com.aspose.html.drawing](../../unit/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: DataListElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.forms.DataListElement class. The DataListElement represents a wrapper that is associated with the HTMLDataListElement
 type: docs
-weight: 2930
+weight: 3150
 url: /java/com.aspose.html.forms/datalistelement/
 ---
 ## DataListElement class
@@ -26,13 +26,10 @@ public class DataListElement : FormElement<HTMLDataListElement>
 | --- | --- |
 | [getElementType](../../com.aspose.html.forms/formelement/elementtype/) Gets the type of the element. |
 | [getHtmlElement](../../com.aspose.html.forms/formelement-1/htmlelement/)  |
-[getId]
-[setId] Gets or sets the identifier of the form element. |
-[getName]
-[setName] Gets or sets the name of the form element. |
+| [id](../../com.aspose.html.forms/formelement/id/) { get; set; } | Gets or sets the identifier of the form element. |
+| [name](../../com.aspose.html.forms/formelement/name/) { get; set; } | Gets or sets the name of the form element. |
 | [getOptions](../../com.aspose.html.forms/datalistelement/options/) Returns a list of options |
-[getValue]
-[setValue] The value of field |
+| [value](../../com.aspose.html.forms/formelement/value/) { get; set; } | The value of field |
 
 ### See Also
 

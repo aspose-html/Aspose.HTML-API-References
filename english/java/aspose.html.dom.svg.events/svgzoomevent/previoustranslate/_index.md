@@ -18,5 +18,5 @@ public SVGPoint PreviousTranslate { get; }
 
 * class [SVGPoint](../../../com.aspose.html.dom.svg.datatypes/svgpoint/)
 * class [SVGZoomEvent](../)
-* package [com.aspose.html.dom.svg.events](../../svgzoomevent/)
+* package [com.aspose.html.dom.svg.events](../../../com.aspose.html.dom.svg.events/)
 * package [Aspose.HTML](../../../)

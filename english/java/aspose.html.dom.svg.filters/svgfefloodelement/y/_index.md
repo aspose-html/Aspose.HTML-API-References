@@ -22,5 +22,5 @@ The attribute ‘y’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGFEFloodElement](../)
-* package [com.aspose.html.dom.svg.filters](../../svgfefloodelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

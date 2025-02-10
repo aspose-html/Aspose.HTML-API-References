@@ -26,5 +26,5 @@ The matching element.
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * class [SVGSVGElement](../)
-* package [com.aspose.html.dom.svg](../../svgsvgelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

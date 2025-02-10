@@ -17,5 +17,5 @@ public void Submit()
 ### See Also
 
 * class [HTMLFormElement](../)
-* package [com.aspose.html](../../htmlformelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

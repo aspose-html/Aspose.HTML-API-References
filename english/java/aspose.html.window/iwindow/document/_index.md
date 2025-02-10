@@ -22,5 +22,5 @@ The document.
 
 * class [Document](../../../com.aspose.html.dom/document/)
 * interface [IWindow](../)
-* package [com.aspose.html.window](../../iwindow/)
+* package [com.aspose.html.window](../../../com.aspose.html.window/)
 * package [Aspose.HTML](../../../)

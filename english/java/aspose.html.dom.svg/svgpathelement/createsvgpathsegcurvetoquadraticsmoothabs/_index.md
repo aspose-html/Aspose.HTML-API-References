@@ -28,5 +28,5 @@ A stand-alone, parentless SVGPathSegCurvetoQuadraticSmoothAbs object.
 
 * class [SVGPathSegCurvetoQuadraticSmoothAbs](../../../com.aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticsmoothabs/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.dom.svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

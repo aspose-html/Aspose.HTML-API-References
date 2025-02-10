@@ -17,5 +17,5 @@ public String Version { get; set; }
 ### See Also
 
 * class [HTMLHtmlElement](../)
-* package [com.aspose.html](../../htmlhtmlelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The message.
 ### See Also
 
 * class [ErrorEvent](../)
-* package [com.aspose.html.dom.events](../../errorevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

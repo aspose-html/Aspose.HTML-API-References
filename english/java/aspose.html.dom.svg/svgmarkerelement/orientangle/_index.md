@@ -22,5 +22,5 @@ The attribute ‘orient’ of the given ‘marker’ element.
 
 * class [SVGAnimatedAngle](../../../com.aspose.html.dom.svg.datatypes/svganimatedangle/)
 * class [SVGMarkerElement](../)
-* package [com.aspose.html.dom.svg](../../svgmarkerelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

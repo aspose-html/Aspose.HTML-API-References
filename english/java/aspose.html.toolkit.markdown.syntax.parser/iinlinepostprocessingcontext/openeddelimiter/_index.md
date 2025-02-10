@@ -18,5 +18,5 @@ public DelimiterRun OpenedDelimiter { get; set; }
 
 * class [DelimiterRun](../../delimiterrun/)
 * interface [IInlinePostProcessingContext](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../iinlinepostprocessingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

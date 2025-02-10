@@ -3,7 +3,7 @@ title: Element.AttachShadow
 second_title: Aspose.HTML for Java API Reference
 description: Element method. Creates shadow root and attaches it to current element
 type: docs
-weight: 230
+weight: 220
 url: /java/com.aspose.html.dom/element/attachshadow/
 ---
 ## Element.AttachShadow method
@@ -34,5 +34,5 @@ Created [`ShadowRoot`](../../shadowroot/).
 * class [ShadowRoot](../../shadowroot/)
 * enum [ShadowRootMode](../../shadowrootmode/)
 * class [Element](../)
-* package [com.aspose.html.dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

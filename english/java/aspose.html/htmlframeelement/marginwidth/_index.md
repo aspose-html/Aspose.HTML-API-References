@@ -17,5 +17,5 @@ public String MarginWidth { get; set; }
 ### See Also
 
 * class [HTMLFrameElement](../)
-* package [com.aspose.html](../../htmlframeelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

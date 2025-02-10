@@ -3,7 +3,7 @@ title: com.aspose.html.dom.svg.paths
 second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.dom.svg.paths package describes classes for representation of outline of a shape which can be filled or stroked. A path can also be used as a clipping path to describe animation or position text
 type: docs
-weight: 160
+weight: 190
 url: /java/com.aspose.html.dom.svg.paths/
 ---
 The **com.aspose.html.dom.svg.paths** package describes classes for representation of outline of a shape which can be filled or stroked. A path can also be used as a clipping path, to describe animation, or position text.

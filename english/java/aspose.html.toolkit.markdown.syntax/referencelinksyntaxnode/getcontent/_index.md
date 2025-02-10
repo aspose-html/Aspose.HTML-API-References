@@ -22,5 +22,5 @@ The InlineContainer syntax.
 
 * class [InlineContainerSyntaxNode](../../inlinecontainersyntaxnode/)
 * class [ReferenceLinkSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../referencelinksyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

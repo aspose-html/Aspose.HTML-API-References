@@ -22,5 +22,5 @@ The right.
 
 * class [LengthOrAuto](../../lengthorauto/)
 * class [Margin](../)
-* package [com.aspose.html.drawing](../../margin/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The ECMAScript object Type.
 ### See Also
 
 * class [NodeList](../)
-* package [com.aspose.html.collections](../../nodelist/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The attribute ‘exponent’ of the given element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* package [com.aspose.html.dom.svg](../../svgcomponenttransferfunctionelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

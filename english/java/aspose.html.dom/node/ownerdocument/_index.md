@@ -3,7 +3,7 @@ title: Node.OwnerDocument
 second_title: Aspose.HTML for Java API Reference
 description: Node property. The read-only ownerDocument property of the Node interface returns the top-level document object of the node
 type: docs
-weight: 120
+weight: 110
 url: /java/com.aspose.html.dom/node/ownerdocument/
 ---
 ## Node.OwnerDocument property
@@ -30,5 +30,5 @@ Reference:
 
 * class [Document](../../document/)
 * class [Node](../)
-* package [com.aspose.html.dom](../../node/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

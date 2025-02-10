@@ -22,5 +22,5 @@ The attribute ‘operator’ on the given ‘feComposite’ element.
 
 * class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGFECompositeElement](../)
-* package [com.aspose.html.dom.svg.filters](../../svgfecompositeelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

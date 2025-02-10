@@ -18,5 +18,5 @@ public HTMLTableCaptionElement Caption { get; }
 
 * class [HTMLTableCaptionElement](../../htmltablecaptionelement/)
 * class [HTMLTableElement](../)
-* package [com.aspose.html](../../htmltableelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

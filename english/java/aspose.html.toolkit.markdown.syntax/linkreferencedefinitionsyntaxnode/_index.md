@@ -3,7 +3,7 @@ title: LinkReferenceDefinitionSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.LinkReferenceDefinitionSyntaxNode class. Represent the LinkReferenceDefinitionSyntaxNode
 type: docs
-weight: 5120
+weight: 5380
 url: /java/com.aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/
 ---
 ## LinkReferenceDefinitionSyntaxNode class

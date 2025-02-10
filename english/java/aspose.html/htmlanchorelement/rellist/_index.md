@@ -18,5 +18,5 @@ public DOMTokenList RelList { get; }
 
 * class [DOMTokenList](../../../com.aspose.html.collections/domtokenlist/)
 * class [HTMLAnchorElement](../)
-* package [com.aspose.html](../../htmlanchorelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

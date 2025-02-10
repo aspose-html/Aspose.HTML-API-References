@@ -3,7 +3,7 @@ title: OptionCollection Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.forms.OptionCollection class. The OptionElements represents a wrapper that is associated with the IHTMLOptionsCollection
 type: docs
-weight: 3010
+weight: 3230
 url: /java/com.aspose.html.forms/optioncollection/
 ---
 ## OptionCollection class

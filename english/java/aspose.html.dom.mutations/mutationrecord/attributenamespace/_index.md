@@ -21,5 +21,5 @@ The attribute package.
 ### See Also
 
 * class [MutationRecord](../)
-* package [com.aspose.html.dom.mutations](../../mutationrecord/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

@@ -27,5 +27,5 @@ The relative Y coordinate
 ### See Also
 
 * class [SVGPathSegArcRel](../)
-* package [com.aspose.html.dom.svg.paths](../../svgpathsegarcrel/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

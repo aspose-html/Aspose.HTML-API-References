@@ -17,5 +17,5 @@ public long Length { get; }
 ### See Also
 
 * interface [IFileList](../)
-* package [com.aspose.html.io](../../ifilelist/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)

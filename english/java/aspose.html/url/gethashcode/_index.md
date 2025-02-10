@@ -21,5 +21,5 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [Url](../)
-* package [com.aspose.html](../../url/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public MarkdownSyntaxNode Root { get; }
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [Traversal](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../traversal/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ An SVGLength object.
 
 * class [SVGLength](../../../com.aspose.html.dom.svg.datatypes/svglength/)
 * class [SVGSVGElement](../)
-* package [com.aspose.html.dom.svg](../../svgsvgelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

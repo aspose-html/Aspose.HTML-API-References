@@ -17,5 +17,5 @@ public const ushort SVG_ANGLETYPE_GRAD;
 ### See Also
 
 * class [SVGAngle](../)
-* package [com.aspose.html.dom.svg.datatypes](../../svgangle/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

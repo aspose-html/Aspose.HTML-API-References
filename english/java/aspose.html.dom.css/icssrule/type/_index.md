@@ -21,5 +21,5 @@ A non-negative integer associated with a particular type of rule. This item is i
 ### See Also
 
 * interface [ICSSRule](../)
-* package [com.aspose.html.dom.css](../../icssrule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

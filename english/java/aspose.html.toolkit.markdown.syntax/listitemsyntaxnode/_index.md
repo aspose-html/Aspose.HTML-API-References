@@ -3,7 +3,7 @@ title: ListItemSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.ListItemSyntaxNode class. Represent the ListItemSyntaxNode
 type: docs
-weight: 5150
+weight: 5410
 url: /java/com.aspose.html.toolkit.markdown.syntax/listitemsyntaxnode/
 ---
 ## ListItemSyntaxNode class

@@ -3,7 +3,7 @@ title: Angle Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.Angle class. The angle data type
 type: docs
-weight: 2630
+weight: 2790
 url: /java/com.aspose.html.drawing/angle/
 ---
 ## Angle class

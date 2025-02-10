@@ -3,7 +3,7 @@ title: HTMLDocument Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLDocument class. Represents an HTML document. All top level HTML objects are added to this object. This class represents the HTML page as what we see in browser. All forms tables scripts ... are added to the HTML page via the interfaces of this class. HTMLDocument is html implementation of most general Document interface and both are core or root point of DOM - Document Object Model. These concepts are in full accordance with officical web development basis or standards. For the purposes of web development you can generally think of HTMLDocument as an alias for Document upon which HTMLDocument is based
 type: docs
-weight: 3200
+weight: 3420
 url: /java/com.aspose.html/htmldocument/
 ---
 ## HTMLDocument class
@@ -41,7 +41,6 @@ public class HTMLDocument : Document, IDocumentCSS
 | --- | --- |
 | [getAnchors](../../com.aspose.html/htmldocument/anchors/) A collection of all the anchor (`A`) elements in a document with a value for the `name` attribute. For reasons of backward compatibility, the returned set of anchors only contains those anchors created with the `name` attribute, not those created with the `id` attribute. Note that in [[XHTML 1.0](http://www.w3.org/TR/2002/REC-xhtml1-20020801)], the `name` attribute (see section 4.10) has no semantics and is only present for legacy user agents: the `id` attribute is used instead. Users should prefer the iterator mechanisms provided by [[DOM Level 2 Traversal](http://www.w3.org/TR/2000/REC-DOM-Level-2-Traversal-Range-20001113)] instead. |
 | [getApplets](../../com.aspose.html/htmldocument/applets/) A collection of all the `OBJECT` elements that include applets and `APPLET` (deprecated) elements in a document. |
-| [getAttributes](../../com.aspose.html.dom/node/attributes/) The attributes property returns a live collection of all attribute nodes registered to the specified node. Attributes is a key/value pair of Strings that represents any information regarding that attribute. |
 | [getBaseURI](../../com.aspose.html.dom/document/baseuri/) The absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
 [getBody]
 [setBody] The element that contains the content for the document. In documents with `BODY` contents, returns the `BODY`element. In frameset documents, this returns the outermost `FRAMESET` element. |
@@ -73,14 +72,12 @@ public class HTMLDocument : Document, IDocumentCSS
 | [getNextSibling](../../com.aspose.html.dom/node/nextsibling/) The read-only nextSibling property of the [`Node`](../../com.aspose.html.dom/node/) interface returns the node immediately following the specified one in their parent's [`childNodes`](../../com.aspose.html.dom/node/childnodes/), or returns null if the specified node is the last child in the parent element. |
 | [getNodeName](../../com.aspose.html.dom/document/nodename/) The name of this node, depending on its type. |
 | [getNodeType](../../com.aspose.html.dom/document/nodetype/) A code representing the type of the underlying object. |
-[getNodeValue]
-[setNodeValue] The nodeValue property of the [`Node `](../../com.aspose.html.dom/node/)interface returns or sets the value of the current node. |
+| [nodeValue](../../com.aspose.html.dom/node/nodevalue/) { get; set; } | The nodeValue property of the [`Node `](../../com.aspose.html.dom/node/)interface returns or sets the value of the current node. |
 | [getOrigin](../../com.aspose.html.dom/document/origin/) Gets the document origin. |
 | [getOwnerDocument](../../com.aspose.html.dom/document/ownerdocument/) Gets the owner document. |
 | [getParentElement](../../com.aspose.html.dom/node/parentelement/) The read-only parentElement property of [`Node`](../../com.aspose.html.dom/node/) interface returns the DOM node's parent [`Element`](../../com.aspose.html.dom/element/), or null if the node either has no parent, or its parent isn't a DOM Element. |
 | [getParentNode](../../com.aspose.html.dom/node/parentnode/) The read-only parentNode property of the Node interface returns the parent of the specified node in the DOM tree. |
-[getPrefix]
-[setPrefix] The prefix read-only property returns the package prefix of the specified element, or null if no prefix is specified. |
+| [prefix](../../com.aspose.html.dom/node/prefix/) { get; set; } | The prefix read-only property returns the package prefix of the specified element, or null if no prefix is specified. |
 | [getPreviousElementSibling](../../com.aspose.html.dom/document/previouselementsibling/) Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree. |
 | [getPreviousSibling](../../com.aspose.html.dom/node/previoussibling/) The read-only previousSibling property of the [`Node`](../../com.aspose.html.dom/node/) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../../com.aspose.html.dom/node/firstchild/) list, or null if the specified node is the first in that list. |
 | [getReadyState](../../com.aspose.html.dom/document/readystate/) Returns the document readiness. The "loading" while the Document is loading, "interactive" once it is finished parsing but still loading sub-resources, and "complete" once it has loaded. |
@@ -88,8 +85,7 @@ public class HTMLDocument : Document, IDocumentCSS
 [getStrictErrorChecking]
 [setStrictErrorChecking] An attribute specifying whether error checking is enforced or not. When set to false, the implementation is free to not test every possible error case normally defined on DOM operations, and not raise any DOMException on DOM operations or report errors while using Document.normalizeDocument(). In case of error, the behavior is undefined. This attribute is true by default. |
 | [getStyleSheets](../../com.aspose.html.dom/document/stylesheets/) A list containing all the style sheets explicitly linked into or embedded in a document. For HTML documents, this includes external style sheets, included via the HTML LINK element, and inline STYLE elements. |
-[getTextContent]
-[setTextContent] The textContent property of the [`Node`](../../com.aspose.html.dom/node/) interface represents the text content of the node and its descendants. |
+| [textContent](../../com.aspose.html.dom/node/textcontent/) { get; set; } | The textContent property of the [`Node`](../../com.aspose.html.dom/node/) interface represents the text content of the node and its descendants. |
 [getTitle]
 [setTitle] The title of a document as specified by the `TITLE` element in the head of the document. |
 [getXmlStandalone]
@@ -136,7 +132,6 @@ public class HTMLDocument : Document, IDocumentCSS
 | [getElementsByTagNameNS](../../com.aspose.html.dom/document/getelementsbytagnamens/)(String, String) | Returns a list of elements with the given tag name belonging to the given package. The complete document is searched, including the root node. |
 | [getOverrideStyle](../../com.aspose.html/htmldocument/getoverridestyle/)(Element, String) | This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element. |
 | [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| [hasAttributes](../../com.aspose.html.dom/node/hasattributes/)() | The hasAttributes() method of the [`Element`](../../com.aspose.html.dom/element/) interface returns a boolean value indicating whether the current element has any attributes or not. |
 | [hasChildNodes](../../com.aspose.html.dom/node/haschildnodes/)() | The hasChildNodes() method of the Node interface returns a boolean value indicating whether the given [`Node`](../../com.aspose.html.dom/node/) has child nodes or not. |
 | [importNode](../../com.aspose.html.dom/document/importnode/)(Node, bool) | Imports a node from another document to this document, without altering or removing the source node from the original document; this method creates a new copy of the source node. |
 | [insertBefore](../../com.aspose.html.dom/node/insertbefore/)(Node, Node) | The insertBefore() method of the Node interface inserts a node before a reference node as a child of a specified parent node. |
@@ -161,13 +156,13 @@ public class HTMLDocument : Document, IDocumentCSS
 | [removeEventListener](../../com.aspose.html.dom/eventtarget/removeeventlistener/)(String, IEventListener, bool) | This method allows the removal of event listeners from the event target. If an is removed from an while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
 | [renderTo](../../com.aspose.html/htmldocument/renderto/)(IDevice) | This method is used to print the contents of the current document to the specified device. |
 | [replaceChild](../../com.aspose.html.dom/node/replacechild/)(Node, Node) | Replaces the child node oldChild with newChild in the list of children, and returns the oldChild node. If newChild is a [`DocumentFragment`](../../com.aspose.html.dom/documentfragment/) object, oldChild is replaced by all of the [`DocumentFragment`](../../com.aspose.html.dom/documentfragment/) children, which are inserted in the same order. If the newChild is already in the tree, it is first removed. |
-| [save](../../com.aspose.html/htmldocument/save/#save)(IOutputStorage) | Saves the document content and resources to the output storage. |
+| [save](../../com.aspose.html/htmldocument/save/#save)(ResourceHandler) | Saves the document content and resources using the [`ResourceHandler`](../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
 | [save](../../com.aspose.html/htmldocument/save/#save_10)(String) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
 | [save](../../com.aspose.html/htmldocument/save/#save_5)(Url) | Saves the document to a local file specified by url. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files". |
-| [save](../../com.aspose.html/htmldocument/save/#save_1)(IOutputStorage, HTMLSaveFormat) | Saves the document content and resources to the output storage. |
-| [save](../../com.aspose.html/htmldocument/save/#save_2)(IOutputStorage, HTMLSaveOptions) | Saves the document content and resources to the output storage. |
-| [save](../../com.aspose.html/htmldocument/save/#save_3)(IOutputStorage, MarkdownSaveOptions) | Saves the document content and resources to the output storage. |
-| [save](../../com.aspose.html/htmldocument/save/#save_4)(IOutputStorage, MHTMLSaveOptions) | Saves the document content and resources to the output storage. |
+| [save](../../com.aspose.html/htmldocument/save/#save_1)(ResourceHandler, HTMLSaveFormat) | Saves the document content and resources using the [`ResourceHandler`](../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
+| [save](../../com.aspose.html/htmldocument/save/#save_2)(ResourceHandler, HTMLSaveOptions) | Saves the document content and resources using the [`ResourceHandler`](../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
+| [save](../../com.aspose.html/htmldocument/save/#save_3)(ResourceHandler, MarkdownSaveOptions) | Saves the document content and resources using the [`ResourceHandler`](../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
+| [save](../../com.aspose.html/htmldocument/save/#save_4)(ResourceHandler, MHTMLSaveOptions) | Saves the document content and resources using the [`ResourceHandler`](../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
 | [save](../../com.aspose.html/htmldocument/save/#save_11)(String, HTMLSaveFormat) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as output_file_name + "_files". |
 | [save](../../com.aspose.html/htmldocument/save/#save_12)(String, HTMLSaveOptions) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |
 | [save](../../com.aspose.html/htmldocument/save/#save_13)(String, MarkdownSaveOptions) | Saves the document to a local file specified by path. All resources used in this document will be saved into an adjacent folder, whose name will be constructed as: output_file_name + "_files". |

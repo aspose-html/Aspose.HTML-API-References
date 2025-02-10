@@ -21,5 +21,5 @@ A color name.
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.drawing](../../color/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

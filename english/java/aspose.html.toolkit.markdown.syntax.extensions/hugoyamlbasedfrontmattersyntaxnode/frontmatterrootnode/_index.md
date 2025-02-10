@@ -1,14 +1,14 @@
 ---
 title: HugoYamlBasedFrontMatterSyntaxNode.FrontMatterRootNode
 second_title: Aspose.HTML for Java API Reference
-description: HugoYamlBasedFrontMatterSyntaxNode property. Get and set the RootNode
+description: HugoYamlBasedFrontMatterSyntaxNode property. Get the RootNode
 type: docs
 weight: 10
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/frontmatterrootnode/
 ---
 ## HugoYamlBasedFrontMatterSyntaxNode.FrontMatterRootNode property
 
-Get and set the RootNode.
+Get the RootNode.
 
 ```java
 public ChildFrontMatterSyntaxNode FrontMatterRootNode { get; }
@@ -18,5 +18,5 @@ public ChildFrontMatterSyntaxNode FrontMatterRootNode { get; }
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [HugoYamlBasedFrontMatterSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../hugoyamlbasedfrontmattersyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

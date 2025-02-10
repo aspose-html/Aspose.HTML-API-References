@@ -22,5 +22,5 @@ The [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/) object.
 
 * class [LinkTitleSyntaxNode](../../linktitlesyntaxnode/)
 * class [LinkReferenceDefinitionSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../linkreferencedefinitionsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

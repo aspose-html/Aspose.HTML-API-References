@@ -27,5 +27,5 @@ public PdfEncryptionInfo(String userPassword, String ownerPassword, PdfPermissio
 * enum [PdfPermissions](../../pdfpermissions/)
 * enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * class [PdfEncryptionInfo](../)
-* package [com.aspose.html.rendering.pdf.encryption](../../pdfencryptioninfo/)
+* package [com.aspose.html.rendering.pdf.encryption](../../../com.aspose.html.rendering.pdf.encryption/)
 * package [Aspose.HTML](../../../)

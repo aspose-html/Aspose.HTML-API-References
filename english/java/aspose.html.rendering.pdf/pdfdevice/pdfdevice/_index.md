@@ -22,7 +22,7 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* package [com.aspose.html.rendering.pdf](../../pdfdevice/)
+* package [com.aspose.html.rendering.pdf](../../../com.aspose.html.rendering.pdf/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -45,7 +45,7 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [PdfDevice](../)
-* package [com.aspose.html.rendering.pdf](../../pdfdevice/)
+* package [com.aspose.html.rendering.pdf](../../../com.aspose.html.rendering.pdf/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -65,7 +65,7 @@ public PdfDevice(String file)
 ### See Also
 
 * class [PdfDevice](../)
-* package [com.aspose.html.rendering.pdf](../../pdfdevice/)
+* package [com.aspose.html.rendering.pdf](../../../com.aspose.html.rendering.pdf/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -87,7 +87,7 @@ public PdfDevice(PdfRenderingOptions options, String file)
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* package [com.aspose.html.rendering.pdf](../../pdfdevice/)
+* package [com.aspose.html.rendering.pdf](../../../com.aspose.html.rendering.pdf/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,7 +107,7 @@ public PdfDevice(Stream stream)
 ### See Also
 
 * class [PdfDevice](../)
-* package [com.aspose.html.rendering.pdf](../../pdfdevice/)
+* package [com.aspose.html.rendering.pdf](../../../com.aspose.html.rendering.pdf/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -129,5 +129,5 @@ public PdfDevice(PdfRenderingOptions options, Stream stream)
 
 * class [PdfRenderingOptions](../../pdfrenderingoptions/)
 * class [PdfDevice](../)
-* package [com.aspose.html.rendering.pdf](../../pdfdevice/)
+* package [com.aspose.html.rendering.pdf](../../../com.aspose.html.rendering.pdf/)
 * package [Aspose.HTML](../../../)

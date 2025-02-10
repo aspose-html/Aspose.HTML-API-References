@@ -17,5 +17,5 @@ public String VAlign { get; set; }
 ### See Also
 
 * class [HTMLTableColElement](../)
-* package [com.aspose.html](../../htmltablecolelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

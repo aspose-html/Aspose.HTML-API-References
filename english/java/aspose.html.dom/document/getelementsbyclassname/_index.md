@@ -30,7 +30,7 @@ Refer to official [spec](https://dom.spec.whatwg.org/#dom-document-getelementsby
 
 Practice web development content can be founded in [w3schools](https://www.w3schools.com/jsref/met_element_getelementsbyclassname.asp).
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
@@ -44,7 +44,7 @@ var elements = document.GetElementsByClassName("red test");
 
 // C# code
 import System;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.collections;
 import com.aspose.html.dom;
 ...
@@ -88,7 +88,7 @@ Customized by css class container
 
 # C# code
 import System;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.collections;
 import com.aspose.html.dom;
 ...
@@ -112,11 +112,11 @@ Found: 2
 
 Paragraph styled by class name =ddd kkk=
 
-Element type: com.aspose.html.HTMLParagraphElement
+Element type: Aspose.Html.HTMLParagraphElement
 
 Paragraph styled by class name =ddd fff=
 
-Element type: com.aspose.html.HTMLParagraphElement
+Element type: Aspose.Html.HTMLParagraphElement
 
 *inputHtmlPath - user input html file path
 
@@ -136,7 +136,7 @@ Element type: com.aspose.html.HTMLParagraphElement
 
 # C# code
 import System;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.collections;
 import com.aspose.html.dom;
 ...
@@ -160,19 +160,19 @@ Found: 4
 
 First styled by pStyle class paragraph
 
-Element type: com.aspose.html.HTMLParagraphElement
+Element type: Aspose.Html.HTMLParagraphElement
 
 Second styled by pStyle class paragraph
 
-Element type: com.aspose.html.HTMLParagraphElement
+Element type: Aspose.Html.HTMLParagraphElement
 
 Third styled by pStyle class paragraph
 
-Element type: com.aspose.html.HTMLParagraphElement
+Element type: Aspose.Html.HTMLParagraphElement
 
 Span styled by pStyle
 
-Element type: com.aspose.html.HTMLElement
+Element type: Aspose.Html.HTMLElement
 
 *inputHtmlPath - user input html file path
 
@@ -180,5 +180,5 @@ Element type: com.aspose.html.HTMLElement
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [Document](../)
-* package [com.aspose.html.dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

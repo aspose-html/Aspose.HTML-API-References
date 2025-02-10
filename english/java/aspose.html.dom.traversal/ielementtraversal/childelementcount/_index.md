@@ -21,5 +21,5 @@ The child element count.
 ### See Also
 
 * interface [IElementTraversal](../)
-* package [com.aspose.html.dom.traversal](../../ielementtraversal/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)

@@ -11,7 +11,7 @@ url: /java/com.aspose.html.rendering/device-2/addrect/
 Appends a rectangle to the current path as a complete subpath.
 
 ```java
-public abstract void AddRect(RectangleF rect)
+public void AddRect(RectangleF rect)
 ```
 
 | Parameter | Type | Description |
@@ -21,5 +21,5 @@ public abstract void AddRect(RectangleF rect)
 ### See Also
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* package [com.aspose.html.rendering](../../device-2/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

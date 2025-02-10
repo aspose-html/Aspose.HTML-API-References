@@ -28,5 +28,5 @@ public void SetScale(float sx, float sy)
 ### See Also
 
 * class [SVGTransform](../)
-* package [com.aspose.html.dom.svg.datatypes](../../svgtransform/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

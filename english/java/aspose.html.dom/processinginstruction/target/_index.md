@@ -21,5 +21,5 @@ The target.
 ### See Also
 
 * class [ProcessingInstruction](../)
-* package [com.aspose.html.dom](../../processinginstruction/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

@@ -15,5 +15,5 @@ public static bool operator ==(Angle a, Angle b)
 ### See Also
 
 * class [Angle](../)
-* package [com.aspose.html.drawing](../../angle/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

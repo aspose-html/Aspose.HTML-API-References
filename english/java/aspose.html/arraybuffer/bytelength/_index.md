@@ -21,5 +21,5 @@ The length in bytes.
 ### See Also
 
 * class [ArrayBuffer](../)
-* package [com.aspose.html](../../arraybuffer/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

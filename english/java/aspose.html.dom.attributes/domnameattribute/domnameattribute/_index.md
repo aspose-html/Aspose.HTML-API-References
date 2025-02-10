@@ -21,5 +21,5 @@ public DOMNameAttribute(String name)
 ### See Also
 
 * class [DOMNameAttribute](../)
-* package [com.aspose.html.dom.attributes](../../domnameattribute/)
+* package [com.aspose.html.dom.attributes](../../../com.aspose.html.dom.attributes/)
 * package [Aspose.HTML](../../../)

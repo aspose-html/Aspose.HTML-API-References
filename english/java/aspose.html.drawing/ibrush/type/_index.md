@@ -22,5 +22,5 @@ Type of brush
 
 * enum [BrushType](../../brushtype/)
 * interface [IBrush](../)
-* package [com.aspose.html.drawing](../../ibrush/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The detail.
 ### See Also
 
 * class [TimeEvent](../)
-* package [com.aspose.html.dom.svg.events](../../timeevent/)
+* package [com.aspose.html.dom.svg.events](../../../com.aspose.html.dom.svg.events/)
 * package [Aspose.HTML](../../../)

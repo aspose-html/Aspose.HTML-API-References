@@ -17,5 +17,5 @@ public String VLink { get; set; }
 ### See Also
 
 * class [HTMLBodyElement](../)
-* package [com.aspose.html](../../htmlbodyelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

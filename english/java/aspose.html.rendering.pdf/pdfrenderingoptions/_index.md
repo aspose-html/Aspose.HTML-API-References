@@ -3,7 +3,7 @@ title: PdfRenderingOptions Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.pdf.PdfRenderingOptions class. Represents rendering options for PdfDevice
 type: docs
-weight: 4500
+weight: 4680
 url: /java/com.aspose.html.rendering.pdf/pdfrenderingoptions/
 ---
 ## PdfRenderingOptions class
@@ -32,13 +32,13 @@ public class PdfRenderingOptions : RenderingOptions
 [setEncryption] Gets or sets a encryption details. If not set, then no encryption will be performed. |
 [getFormFieldBehaviour]
 [setFormFieldBehaviour] Specifies the behavior of form fields in the output PDF document. |
-[getHorizontalResolution]
-[setHorizontalResolution] Sets or gets horizontal resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+| [horizontalResolution](../../com.aspose.html.rendering/renderingoptions/horizontalresolution/) { get; set; } | Sets or gets horizontal resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+[getIsTaggedPdf]
+[setIsTaggedPdf] Creates a tag structure if `true`. |
 [getJpegQuality]
 [setJpegQuality] Specifies the quality of JPEG compression for images (if JPEG compression is used). Default is 95. |
 | [getPageSetup](../../com.aspose.html.rendering/renderingoptions/pagesetup/) Gets a page setup object is used for configuration output page-set. |
-[getVerticalResolution]
-[setVerticalResolution] Sets or gets vertical resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+| [verticalResolution](../../com.aspose.html.rendering/renderingoptions/verticalresolution/) { get; set; } | Sets or gets vertical resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 
 ### See Also
 

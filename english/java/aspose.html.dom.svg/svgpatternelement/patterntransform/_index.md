@@ -22,5 +22,5 @@ The attribute ‘patternTransform’ of the given ‘pattern’ element.
 
 * class [SVGAnimatedTransformList](../../../com.aspose.html.dom.svg.datatypes/svganimatedtransformlist/)
 * class [SVGPatternElement](../)
-* package [com.aspose.html.dom.svg](../../svgpatternelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

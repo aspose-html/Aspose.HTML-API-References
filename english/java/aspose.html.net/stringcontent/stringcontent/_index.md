@@ -21,7 +21,7 @@ public StringContent(String content)
 ### See Also
 
 * class [StringContent](../)
-* package [com.aspose.html.net](../../Stringcontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -42,7 +42,7 @@ public StringContent(String content, Encoding encoding)
 ### See Also
 
 * class [StringContent](../)
-* package [com.aspose.html.net](../../Stringcontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -64,5 +64,5 @@ public StringContent(String content, Encoding encoding, String mediaType)
 ### See Also
 
 * class [StringContent](../)
-* package [com.aspose.html.net](../../Stringcontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

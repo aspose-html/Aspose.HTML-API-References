@@ -17,5 +17,5 @@ public String DateTime { get; set; }
 ### See Also
 
 * class [HTMLModElement](../)
-* package [com.aspose.html](../../htmlmodelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

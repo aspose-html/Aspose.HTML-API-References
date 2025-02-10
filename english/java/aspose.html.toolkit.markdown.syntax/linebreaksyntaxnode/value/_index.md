@@ -17,5 +17,5 @@ public String Value { get; }
 ### See Also
 
 * class [LineBreakSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../linebreaksyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

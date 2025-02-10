@@ -17,5 +17,5 @@ public String For { get; set; }
 ### See Also
 
 * class [HTMLLabelElement](../)
-* package [com.aspose.html](../../htmllabelelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

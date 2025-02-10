@@ -26,5 +26,5 @@ Created [`ListItemSyntaxNode`](../../listitemsyntaxnode/).
 
 * class [ListItemSyntaxNode](../../listitemsyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

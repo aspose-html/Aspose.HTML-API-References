@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [FormSubmitter](../)
-* package [com.aspose.html.forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

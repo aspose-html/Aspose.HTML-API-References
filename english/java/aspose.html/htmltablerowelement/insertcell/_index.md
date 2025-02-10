@@ -32,5 +32,5 @@ The newly created cell.
 
 * class [HTMLElement](../../htmlelement/)
 * class [HTMLTableRowElement](../)
-* package [com.aspose.html](../../htmltablerowelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

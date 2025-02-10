@@ -17,5 +17,5 @@ public RequestHeaders()
 ### See Also
 
 * class [RequestHeaders](../)
-* package [com.aspose.html.net](../../requestheaders/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

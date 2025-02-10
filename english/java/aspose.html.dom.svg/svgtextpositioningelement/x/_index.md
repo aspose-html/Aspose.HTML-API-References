@@ -22,5 +22,5 @@ The attribute ‘x’ of the given element.
 
 * class [SVGAnimatedLengthList](../../../com.aspose.html.dom.svg.datatypes/svganimatedlengthlist/)
 * class [SVGTextPositioningElement](../)
-* package [com.aspose.html.dom.svg](../../svgtextpositioningelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public const ulong DERIVATION_UNION;
 ### See Also
 
 * class [TypeInfo](../)
-* package [com.aspose.html.dom](../../typeinfo/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

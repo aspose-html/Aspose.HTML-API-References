@@ -17,5 +17,5 @@ public String Align { get; set; }
 ### See Also
 
 * class [HTMLParagraphElement](../)
-* package [com.aspose.html](../../htmlparagraphelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

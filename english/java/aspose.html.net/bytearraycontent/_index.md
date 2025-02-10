@@ -3,7 +3,7 @@ title: ByteArrayContent Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.net.ByteArrayContent class. Represents content based on a byte array
 type: docs
-weight: 3870
+weight: 4050
 url: /java/com.aspose.html.net/bytearraycontent/
 ---
 ## ByteArrayContent class

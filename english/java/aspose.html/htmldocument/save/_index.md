@@ -36,14 +36,14 @@ It is necessary to specify a full Url path - 'outputFilePath' for HTML document 
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
 ```java
 import System;
 import System.IO;
-import com.aspose.html;
+import Aspose.Html;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -64,114 +64,28 @@ import (var document = new HTMLDocument(inputHtmlPath))
 
 * class [Url](../../url/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## Save(IOutputStorage) {#save}
+## Save(ResourceHandler) {#save}
 
-Saves the document content and resources to the output storage.
+Saves the document content and resources using the [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/).
 
 ```java
-public void Save(IOutputStorage outputStorage)
+public void Save(ResourceHandler resourceHandler)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | The output storage. A custom implementation of IOutputStorage [`interface`](../../../com.aspose.html.io/ioutputstorage/). See the example below as more detailed view into processing html files and linked resources. |
-
-## Remarks
-
-Save HTML
-
-Most of the tasks, you need to perform, require saving a document. Once you load the existing file or create an HTML document from scratch, you can save your changes using one of HTMLDocument.Save() methods. The methods allow saving HTML to a local file specified by path, URL, or output storage. Refer to the [documentation](https://docs.aspose.com/html/net/working-with-documents/saving-a-document/) to learn more about saving.
-
-Save(IOutputStorage) Method
-
-An HTML document can contain different resources like CSS, external images and files. Aspose.HTML provides a way to save HTML with all linked files - the [`IOutputStorage`](../../../com.aspose.html.io/ioutputstorage/) interface is developed for saving HTML content and resources to streams. The CustomOutputStorage(outputHtmlPath) constructor creates an object that is a file system storage. The Save(outputStorage) method takes this object and saves the HTML document to the output storage.
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
-
-## Examples
-
-```java
-import System;
-import com.aspose.html;
-import com.aspose.html.io;
-import com.aspose.html.saving;
-...
-import (var document = new HTMLDocument(inputHtmlPath))
-{
-	HTMLDivElement element = (HTMLDivElement) document.CreateElement("div");
-	element.InnerHTML = "Hello from DIV element";
-	document.Body.AppendChild(element);
-
-	IOutputStorage outputStorage = new CustomOutputStorage(outputHtmlPath);
-	document.Save(outputStorage, HTMLSaveFormat.HTML);
-}
-```
-
-*inputHtmlPath - user input html file path.
-
-*outputHtmlPath - user output folder path.
-
-```java
-class CustomOutputStorage : IOutputStorage
-{
-	private readonly String _outputDirectoryPath;
-	private String _resourceDirectoryPath;
-
-	public CustomOutputStorage(String outputPath)
-	{
-		_outputDirectoryPath = Path.GetDirectoryName(outputPath);
-	}
-
-	// IOutputStorage method implementation
-	public OutputStream CreateStream(OutputStreamContext context)
-	{
-		var uri = new Uri(context.Uri);
-		var uriAbsolutePath = uri.AbsolutePath;
-		Console.WriteLine($"Absolute Path: {uriAbsolutePath}");
-
-		String resultPath;
-		if (uriAbsolutePath.EndsWith(".html"))
-		{
-			var fileName = Path.GetFileNameWithoutExtension(uriAbsolutePath);
-			_resourceDirectoryPath = $"{_outputDirectoryPath}/{fileName}_files/";
-			resultPath = Path.Combine(_outputDirectoryPath, fileName + ".htm");
-		}
-		else
-		{
-			var resourceFileName = Path.GetFileName(uriAbsolutePath);
-			resultPath = Path.Combine(_resourceDirectoryPath, resourceFileName);
-		}
-
-		if (String.IsNullOrEmpty(_resourceDirectoryPath) == false &amp;&amp; !Directory.Exists(_resourceDirectoryPath))
-		{
-			Directory.CreateDirectory(_resourceDirectoryPath);
-		}
-		Console.WriteLine($"Process to path: {resultPath}");
-
-		return new OutputStream(System.IO.File.Create(resultPath), resultPath);
-	}
-
-	// IOutputStorage method implementation
-	public void ReleaseStream(OutputStream stream)
-	{
-		stream.Flush();
-		stream.Dispose();
-	}
-}
-```
+| resourceHandler | ResourceHandler | The resource handler [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
 
 ### See Also
 
-* interface [IOutputStorage](../../../com.aspose.html.io/ioutputstorage/)
+* class [ResourceHandler](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -204,14 +118,14 @@ Save(String) method takes as a parameter a local file system path to an output f
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
 ```java
 import System;
 import System.IO;
-import com.aspose.html;
+import Aspose.Html;
 ...
  using (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -236,7 +150,7 @@ import com.aspose.html;
 ### See Also
 
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -272,7 +186,7 @@ Save(String, HTMLSaveFormat) method takes as parameters a local file system path
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
@@ -313,7 +227,7 @@ You can download the complete examples and data files from [GitHub](https://gith
 # C# code
 import System;
 import System.IO;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
@@ -407,7 +321,7 @@ Content-Location: main.css
 
 * enum [HTMLSaveFormat](../../../com.aspose.html.saving/htmlsaveformat/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -443,14 +357,14 @@ It is necessary to specify a full Url path - 'outputFilePath' for HTML document 
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
 ```java
 import System;
 import System.IO;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
@@ -478,124 +392,30 @@ import (var document = new HTMLDocument(inputHtmlPath))
 * class [Url](../../url/)
 * enum [HTMLSaveFormat](../../../com.aspose.html.saving/htmlsaveformat/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## Save(IOutputStorage, HTMLSaveFormat) {#save_1}
+## Save(ResourceHandler, HTMLSaveFormat) {#save_1}
 
-Saves the document content and resources to the output storage.
+Saves the document content and resources using the [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/).
 
 ```java
-public void Save(IOutputStorage outputStorage, HTMLSaveFormat saveFormat)
+public void Save(ResourceHandler resourceHandler, HTMLSaveFormat saveFormat)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | The output storage. Custom implementation of IOutputStorage [`interface`](../../../com.aspose.html.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | The resource handler [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
 | saveFormat | HTMLSaveFormat | Format in which document is saved. |
-
-## Remarks
-
-Save HTML
-
-Most of the tasks, you need to perform, require saving a document. Once you load the existing file or create an HTML document from scratch, you can save your changes using one of HTMLDocument.Save() methods. The methods allow saving HTML to a local file specified by path, URL, or output storage. Refer to the [documentation](https://docs.aspose.com/html/net/working-with-documents/saving-a-document/) to learn more about saving.
-
-Save(IOutputStorage, HTMLSaveFormat) Method
-
-An HTML document can contain different resources like CSS, external images and files. Aspose.HTML provides a way to save HTML with all linked files - the [`IOutputStorage`](../../../com.aspose.html.io/ioutputstorage/) interface is developed for saving HTML content and resources to streams. The CustomOutputStorage(outputHtmlPath) constructor creates an object that is a file system storage. The [`HTMLSaveFormat`](../../../com.aspose.html.saving/htmlsaveformat/) Enumeration specifies the format in which document is saved, it can be HTML, MHTML and MD formats. The Save(outputStorage, saveFormat) method takes the outputStorage object and saveFormat as parameters and saves the document to the output storage.
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
-
-## Examples
-
-```java
-import System;
-import com.aspose.html;
-import com.aspose.html.io;
-import com.aspose.html.saving;
-...
-import (var document = new HTMLDocument(inputHtmlPath))
-{
-	// Edit existing document
-	HTMLDivElement element = (HTMLDivElement) document.CreateElement("div");
-	element.InnerHTML = "Hello from DIV element";
-	document.Body.AppendChild(element);
-	// Refer to custom IOutputStorage implementation interface
-	IOutputStorage outputStorage = new CustomOutputStorage(outputHtmlPath);
-	// Save modified document
-	document.Save(outputStorage, HTMLSaveFormat.HTML);
-}
-```
-
-*inputHtmlPath - user input html file path.
-
-*outputHtmlPath - user output folder path.
-
-```java
-import System;
-import System.IO;
-import com.aspose.html.io;
-...
-class CustomOutputStorage : IOutputStorage
-{
-	private readonly String _outputDirectoryPath;
-	private String _resourceDirectoryPath;
-
-	public CustomOutputStorage(String outputPath)
-	{
-		_outputDirectoryPath = Path.GetDirectoryName(outputPath);
-	}
-
-	// IOutputStorage method implementation
-	public OutputStream CreateStream(OutputStreamContext context)
-	{
-		var uri = new Uri(context.Uri);
-		var uriAbsolutePath = uri.AbsolutePath;
-		Console.WriteLine($"Absolute Path: {uriAbsolutePath}");
-
-		String resultPath;
-
-		if (uriAbsolutePath.EndsWith(".html"))
-		{
-			var fileName = Path.GetFileNameWithoutExtension(uriAbsolutePath);
-			_resourceDirectoryPath = $"{_outputDirectoryPath}/{fileName}_files/";
-			resultPath = Path.Combine(_outputDirectoryPath, fileName + ".htm");
-		}
-		else
-		{
-			var resourceFileName = Path.GetFileName(uriAbsolutePath);
-			resultPath = Path.Combine(_resourceDirectoryPath, resourceFileName);
-		}
-
-		if (String.IsNullOrEmpty(_resourceDirectoryPath) == false &amp;&amp; !Directory.Exists(_resourceDirectoryPath))
-		{
-			Directory.CreateDirectory(_resourceDirectoryPath);
-		}
-
-		Console.WriteLine($"Process: {resultPath}");
-
-		return new OutputStream(System.IO.File.Create(resultPath), resultPath);
-	}
-
-	// IOutputStorage method implementation
-	public void ReleaseStream(OutputStream stream)
-	{
-		stream.Flush();
-		stream.Dispose();
-	}
-}
-```
 
 ### See Also
 
-* interface [IOutputStorage](../../../com.aspose.html.io/ioutputstorage/)
+* class [ResourceHandler](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/)
 * enum [HTMLSaveFormat](../../../com.aspose.html.saving/htmlsaveformat/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -631,14 +451,14 @@ Save(String, HTMLSaveOptions) method takes as parameters a local file system pat
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
 ```java
 import System;
 import System.IO;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
@@ -669,7 +489,7 @@ import (var document = new HTMLDocument(inputHtmlPath))
 
 * class [HTMLSaveOptions](../../../com.aspose.html.saving/htmlsaveoptions/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -705,14 +525,14 @@ It is necessary to specify a full Url path for HTML document saving. The Url(url
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
 ```java
 import System;
 import System.IO;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
@@ -744,123 +564,30 @@ import (var document = new HTMLDocument(inputHtmlPath))
 * class [Url](../../url/)
 * class [HTMLSaveOptions](../../../com.aspose.html.saving/htmlsaveoptions/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## Save(IOutputStorage, HTMLSaveOptions) {#save_2}
+## Save(ResourceHandler, HTMLSaveOptions) {#save_2}
 
-Saves the document content and resources to the output storage.
+Saves the document content and resources using the [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/).
 
 ```java
-public void Save(IOutputStorage outputStorage, HTMLSaveOptions saveOptions)
+public void Save(ResourceHandler resourceHandler, HTMLSaveOptions saveOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Custom implementation of [`IOutputStorage`](../../../com.aspose.html.io/ioutputstorage/) interface. |
-| saveOptions | HTMLSaveOptions | [`HTMLSaveOptions`](../../../com.aspose.html.saving/htmlsaveoptions/) object enables you to manage resource handling process. |
-
-## Remarks
-
-Save HTML
-
-Most of the tasks, you need to perform, require saving a document. Once you load the existing file or create an HTML document from scratch, you can save your changes using one of HTMLDocument.Save() methods. The methods allow saving HTML to a local file specified by path, URL, or output storage. Refer to the [documentation](https://docs.aspose.com/html/net/working-with-documents/saving-a-document/) to learn more about saving.
-
-Save(IOutputStorage, HTMLSaveOptions) Method
-
-An HTML document can contain different resources like CSS, external images and files. Aspose.HTML provides a way to save HTML with all linked files - the [`IOutputStorage`](../../../com.aspose.html.io/ioutputstorage/) interface is developed for saving HTML content and resources to streams. The CustomOutputStorage(outputHtmlPath) constructor creates an object that is a file system storage. The HTMLSaveOptions() constructor creates a save options instance that has the ResourceHandlingOptions properties which are used for configuration of resources handling. The Save(outputStorage, saveOptions) method takes outputStorage and options as parameters and saves the HTML document with resources to the output storage.
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
-
-## Examples
-
-```java
-import System;
-import com.aspose.html;
-import com.aspose.html.io;
-import com.aspose.html.saving;
-...
-import (var document = new HTMLDocument(inputHtmlPath))
-{
-	// Edit existing document
-	HTMLDivElement element = (HTMLDivElement) document.CreateElement("div");
-	element.InnerHTML = "Hello from DIV element";
-	document.Body.AppendChild(element);
-	// Refer to custom IOutputStorage implementation interface
-	IOutputStorage outputStorage = new CustomOutputStorage(outputHtmlPath);
-	var options = new HTMLSaveOptions();
-	// Pages handling restriction
-	options.ResourceHandlingOptions.MaxHandlingDepth = 1;
-	// Save modified document
-	document.Save(outputStorage, options);
-}
-```
-
-*inputHtmlPath - user input html file path.
-
-*outputHtmlPath - user output folder path.
-
-```java
-class CustomOutputStorage : IOutputStorage
-{
-	private readonly String _outputDirectoryPath;
-	private String _resourceDirectoryPath;
-
-	public CustomOutputStorage(String outputPath)
-    {
-      _outputDirectoryPath = Path.GetDirectoryName(outputPath);
-    }
-
-    // IOutputStorage method implementation
-    public OutputStream CreateStream(OutputStreamContext context)
-    {
-      var uri = new Uri(context.Uri);
-      var uriAbsolutePath = uri.AbsolutePath;
-      Console.WriteLine($"Absolute Path: {uriAbsolutePath}");
-
-      String resultPath;
-
-      if (uriAbsolutePath.EndsWith(".html"))
-      {
-        var fileName = Path.GetFileNameWithoutExtension(uriAbsolutePath);
-        _resourceDirectoryPath = $"{_outputDirectoryPath}/{fileName}_files/";
-        resultPath = Path.Combine(_outputDirectoryPath, fileName + ".htm");
-      }
-      else
-      {
-        var resourceFileName = Path.GetFileName(uriAbsolutePath);
-        resultPath = Path.Combine(_resourceDirectoryPath, resourceFileName);
-      }
-
-      if (String.IsNullOrEmpty(_resourceDirectoryPath) == false &amp;&amp; !Directory.Exists(_resourceDirectoryPath))
-      {
-        Directory.CreateDirectory(_resourceDirectoryPath);
-      }
-
-      Console.WriteLine($"Process: {resultPath}");
-
-      return new OutputStream(System.IO.File.Create(resultPath), resultPath);
-    }
-
-    // IOutputStorage method implementation
-    public void ReleaseStream(OutputStream stream)
-    {
-      stream.Flush();
-      stream.Dispose();
-    }
-}
-```
+| resourceHandler | ResourceHandler | The resource handler [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
+| saveOptions | HTMLSaveOptions | HTML save options. |
 
 ### See Also
 
-* interface [IOutputStorage](../../../com.aspose.html.io/ioutputstorage/)
+* class [ResourceHandler](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/)
 * class [HTMLSaveOptions](../../../com.aspose.html.saving/htmlsaveoptions/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -896,14 +623,14 @@ It is necessary to specify a local file system path to the output file for docum
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
 ```java
 import System;
 import System.IO;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
@@ -932,7 +659,7 @@ import (var document = new HTMLDocument(inputHtmlPath))
 
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -968,14 +695,14 @@ It is necessary to specify a full Url path for document saving. The Url(url) con
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
 ```java
 import System;
 import System.IO;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
@@ -1005,119 +732,30 @@ import (var document = new HTMLDocument(inputHtmlPath))
 * class [Url](../../url/)
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## Save(IOutputStorage, MarkdownSaveOptions) {#save_3}
+## Save(ResourceHandler, MarkdownSaveOptions) {#save_3}
 
-Saves the document content and resources to the output storage.
+Saves the document content and resources using the [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/).
 
 ```java
-public void Save(IOutputStorage outputStorage, MarkdownSaveOptions saveOptions)
+public void Save(ResourceHandler resourceHandler, MarkdownSaveOptions saveOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | Custom implementation of IOutputStorage [`interface`](../../../com.aspose.html.io/ioutputstorage/). |
-| saveOptions | MarkdownSaveOptions | [`MarkdownSaveOptions`](../../../com.aspose.html.saving/markdownsaveoptions/) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#save-options). |
-
-## Remarks
-
-Save HTML
-
-Most of the tasks, you need to perform, require saving a document. Once you load the existing file or create an HTML document from scratch, you can save your changes using one of HTMLDocument.Save() methods. The methods allow saving HTML to a local file specified by path, URL, or output storage. Refer to the [documentation](https://docs.aspose.com/html/net/working-with-documents/saving-a-document/) to learn more about saving.
-
-Save(IOutputStorage, MarkdownSaveOptions) Method
-
-An HTML document can contain different resources like CSS, external images and files. Aspose.HTML provides a way to save HTML with all linked files - the [`IOutputStorage`](../../../com.aspose.html.io/ioutputstorage/) interface is developed for saving HTML content and resources to streams. The CustomOutputStorageMD(outputHtmlPath) constructor creates an object that is a file system storage. The MarkdownSaveOptions() constructor initializes a save options instance. This instance has a set of [`MarkdownSaveOptions`](../../../com.aspose.html.saving/markdownsaveoptions/) properties which are used for configuration of resources handling. For example, you can set markdown formatting style, use predefined GitLab Flavored Markdown compatible options and configure resources handling. The Save(outputStorage, saveOptions) method takes outputStorage and options as parameters and saves the document with resources to the output storage.
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
-
-## Examples
-
-```java
-import System;
-import com.aspose.html;
-import com.aspose.html.io;
-import com.aspose.html.saving;
-...
-import (var document = new HTMLDocument(inputHtmlPath))
-{
-	// Edit existing document
-	HTMLDivElement element = (HTMLDivElement) document.CreateElement("div");
-	element.InnerHTML = "Hello from DIV element";
-	document.Body.AppendChild(element);
-	// Refer to custom IOutputStorage implementation interface
-	IOutputStorage outputStorage = new CustomOutputStorageMD(outputHtmlPath);
-	var options = new MarkdownSaveOptions();
-	// Save modified document
-	document.Save(outputStorage, options);
-}
-```
-
-*inputHtmlPath - user input html file path.
-
-*outputHtmlPath - user output folder path.
-
-```java
-class CustomOutputStorageMD : IOutputStorage
-{
-	private readonly String _outputDirectoryPath;
-    private String _resourceDirectoryPath;
-
-    public CustomOutputStorageMD(String outputPath)
-    {
-      _outputDirectoryPath = Path.GetDirectoryName(outputPath);
-    }
-
-    // IOutputStorage method implementation
-    public OutputStream CreateStream(OutputStreamContext context)
-    {
-      var uri = new Uri(context.Uri);
-      var uriAbsolutePath = uri.AbsolutePath;
-      Console.WriteLine($"Absolute Path: {uriAbsolutePath}");
-
-      String resultPath;
-
-      if (uriAbsolutePath.EndsWith(".html"))
-      {
-        var fileName = Path.GetFileNameWithoutExtension(uriAbsolutePath);
-        _resourceDirectoryPath = $"{_outputDirectoryPath}/{fileName}_files/";
-        resultPath = Path.Combine(_outputDirectoryPath, fileName + ".md");
-      }
-      else
-      {
-        var resourceFileName = Path.GetFileName(uriAbsolutePath);
-        resultPath = Path.Combine(_resourceDirectoryPath, resourceFileName);
-      }
-
-      if (String.IsNullOrEmpty(_resourceDirectoryPath) == false &amp;&amp; !Directory.Exists(_resourceDirectoryPath))
-      {
-		Directory.CreateDirectory(_resourceDirectoryPath);
-      }
-      Console.WriteLine($"Process: {resultPath}");
-      return new OutputStream(System.IO.File.Create(resultPath), resultPath);
-    }
-
-    // IOutputStorage method implementation
-    public void ReleaseStream(OutputStream stream)
-    {
-      stream.Flush();
-      stream.Dispose();
-    }
-}
-```
+| resourceHandler | ResourceHandler | The resource handler [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
+| saveOptions | MarkdownSaveOptions | Markdown save options. |
 
 ### See Also
 
-* interface [IOutputStorage](../../../com.aspose.html.io/ioutputstorage/)
+* class [ResourceHandler](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/)
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1153,14 +791,14 @@ It is necessary to specify a local file system path to the output file for docum
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
 ```java
 import System;
 import System.IO;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
@@ -1189,7 +827,7 @@ import (var document = new HTMLDocument(inputHtmlPath))
 
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1225,14 +863,14 @@ It is necessary to specify a full Url path for document saving. The Url(url) con
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
 ```java
 import System;
 import System.IO;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.saving;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
@@ -1262,118 +900,28 @@ import (var document = new HTMLDocument(inputHtmlPath))
 * class [Url](../../url/)
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## Save(IOutputStorage, MHTMLSaveOptions) {#save_4}
+## Save(ResourceHandler, MHTMLSaveOptions) {#save_4}
 
-Saves the document content and resources to the output storage.
+Saves the document content and resources using the [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/).
 
 ```java
-public void Save(IOutputStorage outputStorage, MHTMLSaveOptions saveOptions)
+public void Save(ResourceHandler resourceHandler, MHTMLSaveOptions saveOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | The output storage [`interface`](../../../com.aspose.html.io/ioutputstorage/) implementation. |
-| saveOptions | MHTMLSaveOptions | [`MHTMLSaveOptions`](../../../com.aspose.html.saving/mhtmlsaveoptions/) object usage enables you to tune the rendering process. For more info see the [documentation](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#save-options). |
-
-## Remarks
-
-Save HTML
-
-Most of the tasks, you need to perform, require saving a document. Once you load the existing file or create an HTML document from scratch, you can save your changes using one of HTMLDocument.Save() methods. The methods allow saving HTML to a local file specified by path, URL, or output storage. Refer to the [documentation](https://docs.aspose.com/html/net/working-with-documents/saving-a-document/) to learn more about saving.
-
-Save(IOutputStorage, MHTMLSaveOptions) Method
-
-Aspose.HTML provides a way to save an HTML document with all linked files - the IOutputStorage interface is developed for saving HTML content and resources to streams. The CustomOutputStorageMhtml(outputHtmlPath) constructor creates an object that is a file system storage. The MHTMLSaveOptions() constructor initializes an instance of [`MHTMLSaveOptions`](../../../com.aspose.html.saving/mhtmlsaveoptions/) class that has ResourceHandlingOptions property which is used for configuration of resources handling. The Save(outputStorage, saveOptions) method takes the outputStorage and saveOptions parameters and saves the document with resources to the output storage.
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
-
-## Examples
-
-```java
-import System;
-import com.aspose.html;
-import com.aspose.html.io;
-import com.aspose.html.saving;
-...
-import (var document = new HTMLDocument(inputHtmlPath))
-{
-	// Edit existing document
-	HTMLDivElement element = (HTMLDivElement) document.CreateElement("div");
-	element.InnerHTML = "Hello from DIV element";
-	document.Body.AppendChild(element);
-	// Refer to custom IOutputStorage implementation interface
-	IOutputStorage outputStorage = new CustomOutputStorageMhtml(outputHtmlPath);
-	// Define options object instance
-	var options = new MHTMLSaveOptions();
-	// Save modified document
-	document.Save(outputStorage, options);
-}
-```
-
-*inputHtmlPath - user input html file path.
-
-*outputHtmlPath - user output folder path.
-
-```java
-public class CustomOutputStorageMhtml : IOutputStorage {
-    private readonly String _outputDirectoryPath;
-    private String _resourceDirectoryPath;
-
-    public CustomOutputStorageMhtml(String outputPath)
-    {
-		_outputDirectoryPath = Path.GetDirectoryName(outputPath);
-    }
-
-    // IOutputStorage method implementation
-    public OutputStream CreateStream(OutputStreamContext context)
-    {
-		var uri = new Uri(context.Uri);
-		var uriAbsolutePath = uri.AbsolutePath;
-		Console.WriteLine($"Absolute Path: {uriAbsolutePath}");
-
-		String resultPath;
-
-		if (uriAbsolutePath.EndsWith(".html"))
-		{
-			var fileName = Path.GetFileNameWithoutExtension(uriAbsolutePath);
-			_resourceDirectoryPath = $"{_outputDirectoryPath}/{fileName}_files/";
-			resultPath = Path.Combine(_outputDirectoryPath, fileName + ".mhtm");
-		}
-		else
-		{
-			var resourceFileName = Path.GetFileName(uriAbsolutePath);
-			resultPath = Path.Combine(_resourceDirectoryPath, resourceFileName);
-		}
-
-		if (String.IsNullOrEmpty(_resourceDirectoryPath) == false &amp;&amp; !Directory.Exists(_resourceDirectoryPath))
-		{
-			Directory.CreateDirectory(_resourceDirectoryPath);
-		}
-
-		Console.WriteLine($"Process: {resultPath}");
-		return new OutputStream(System.IO.File.Create(resultPath), resultPath);
-	}
-
-    // IOutputStorage method implementation
-    public void ReleaseStream(OutputStream stream)
-	{
-		stream.Flush();
-		stream.Dispose();
-    }
-}
-```
+| resourceHandler | ResourceHandler | The resource handler [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
+| saveOptions | MHTMLSaveOptions | MHTML save options. |
 
 ### See Also
 
-* interface [IOutputStorage](../../../com.aspose.html.io/ioutputstorage/)
+* class [ResourceHandler](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/)
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

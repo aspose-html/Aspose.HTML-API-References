@@ -25,5 +25,5 @@ The UInt32.
 ### See Also
 
 * class [Uint32Array](../)
-* package [com.aspose.html](../../uint32array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

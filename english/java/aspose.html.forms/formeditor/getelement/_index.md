@@ -28,7 +28,7 @@ Returns the element.
 
 * class [FormElement](../../formelement/)
 * class [FormEditor](../)
-* package [com.aspose.html.forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -55,5 +55,5 @@ Returns the element.
 
 * class [FormElement](../../formelement/)
 * class [FormEditor](../)
-* package [com.aspose.html.forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public void Blur()
 ### See Also
 
 * class [HTMLAnchorElement](../)
-* package [com.aspose.html](../../htmlanchorelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

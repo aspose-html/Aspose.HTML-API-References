@@ -3,7 +3,7 @@ title: Configuration Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Configuration class. Represents the configuration context object that is used to set up the environment settings for the application. Managing configuration you can override document style applying a custom user stylesheet or handle any web requests from the application as well as to configure scripts policy. Details are in Environment Configuration guide
 type: docs
-weight: 60
+weight: 220
 url: /java/com.aspose.html/configuration/
 ---
 ## Configuration class
@@ -39,7 +39,7 @@ public class Configuration : IDisposable, IServiceProvider
 
 ## Remarks
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
@@ -47,7 +47,7 @@ You can download the complete examples and data files from [GitHub](https://gith
 import System;
 import System.Diagnostics;
 import System.IO;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.net;
 import com.aspose.html.services;
 
@@ -88,7 +88,7 @@ import com.aspose.html.services;
 ```
 
 ```java
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.converters;
 import com.aspose.html.net;
 import com.aspose.html.saving;

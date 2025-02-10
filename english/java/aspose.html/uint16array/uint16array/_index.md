@@ -21,7 +21,7 @@ public Uint16Array(int length)
 ### See Also
 
 * class [Uint16Array](../)
-* package [com.aspose.html](../../uint16array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -41,7 +41,7 @@ public Uint16Array(ushort[] data)
 ### See Also
 
 * class [Uint16Array](../)
-* package [com.aspose.html](../../uint16array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -62,7 +62,7 @@ public Uint16Array(ArrayBuffer buffer)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint16Array](../)
-* package [com.aspose.html](../../uint16array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -84,7 +84,7 @@ public Uint16Array(ArrayBuffer buffer, int byteOffset)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint16Array](../)
-* package [com.aspose.html](../../uint16array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,5 +107,5 @@ public Uint16Array(ArrayBuffer buffer, int byteOffset, int length)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint16Array](../)
-* package [com.aspose.html](../../uint16array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public HtmlRenderer()
 ### See Also
 
 * class [HtmlRenderer](../)
-* package [com.aspose.html.rendering](../../htmlrenderer/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

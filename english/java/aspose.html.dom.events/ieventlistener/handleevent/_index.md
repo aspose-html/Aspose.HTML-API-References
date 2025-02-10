@@ -22,5 +22,5 @@ public void HandleEvent(Event @event)
 
 * class [Event](../../event/)
 * interface [IEventListener](../)
-* package [com.aspose.html.dom.events](../../ieventlistener/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

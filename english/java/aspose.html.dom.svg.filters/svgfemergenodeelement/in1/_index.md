@@ -22,5 +22,5 @@ The attribute ‘in’ of the given ‘feMergeNode’ element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFEMergeNodeElement](../)
-* package [com.aspose.html.dom.svg.filters](../../svgfemergenodeelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

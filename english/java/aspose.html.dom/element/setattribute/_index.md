@@ -11,7 +11,7 @@ url: /java/com.aspose.html.dom/element/setattribute/
 Adds a new attribute. If an attribute with that name is already present in the element, its value is changed to be that of the value parameter
 
 ```java
-public void SetAttribute(String name, String value)
+public void SetAttribute(String qualifiedName, String value)
 ```
 
 | Parameter | Type | Description |
@@ -22,5 +22,5 @@ public void SetAttribute(String name, String value)
 ### See Also
 
 * class [Element](../)
-* package [com.aspose.html.dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

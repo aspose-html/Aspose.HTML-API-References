@@ -17,5 +17,5 @@ public String HttpEquiv { get; set; }
 ### See Also
 
 * class [HTMLMetaElement](../)
-* package [com.aspose.html](../../htmlmetaelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -27,5 +27,5 @@ The href.
 ### See Also
 
 * class [Url](../)
-* package [com.aspose.html](../../url/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public String Type { get; set; }
 ### See Also
 
 * class [HTMLUListElement](../)
-* package [com.aspose.html](../../htmlulistelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

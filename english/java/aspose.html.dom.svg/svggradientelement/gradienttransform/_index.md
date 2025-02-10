@@ -22,5 +22,5 @@ The attribute ‘gradientTransform’ of the given element.
 
 * class [SVGAnimatedTransformList](../../../com.aspose.html.dom.svg.datatypes/svganimatedtransformlist/)
 * class [SVGGradientElement](../)
-* package [com.aspose.html.dom.svg](../../svggradientelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

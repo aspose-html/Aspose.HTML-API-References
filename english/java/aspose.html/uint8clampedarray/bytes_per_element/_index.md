@@ -17,5 +17,5 @@ public static readonly byte BYTES_PER_ELEMENT;
 ### See Also
 
 * class [Uint8ClampedArray](../)
-* package [com.aspose.html](../../uint8clampedarray/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public String Alt { get; set; }
 ### See Also
 
 * class [HTMLAppletElement](../)
-* package [com.aspose.html](../../htmlappletelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The attribute ‘y2’ of the given ‘line’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGLineElement](../)
-* package [com.aspose.html.dom.svg](../../svglineelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

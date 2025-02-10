@@ -22,5 +22,5 @@ The [`FontsSettings`](../../../com.aspose.html/fontssettings/) settings.
 
 * class [FontsSettings](../../../com.aspose.html/fontssettings/)
 * interface [IUserAgentService](../)
-* package [com.aspose.html.services](../../iuseragentservice/)
+* package [com.aspose.html.services](../../../com.aspose.html.services/)
 * package [Aspose.HTML](../../../)

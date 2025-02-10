@@ -32,5 +32,5 @@ The ShortCodeParameterSyntax.
 
 * class [ShortCodeParameterSyntaxNode](../../shortcodeparametersyntaxnode/)
 * class [HugoShortCodeSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../hugoshortcodesyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

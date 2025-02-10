@@ -25,5 +25,5 @@ The new instance of MIME type
 ### See Also
 
 * class [MimeType](../)
-* package [com.aspose.html](../../mimetype/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

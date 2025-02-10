@@ -3,7 +3,7 @@ title: ILinkStyle Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.css.ILinkStyle interface. The LinkStyle interface provides a mechanism by which a style sheet can be retrieved from the node responsible for linking it into a document. An instance of the LinkStyle interface can be obtained using binding-specific casting methods on an instance of a linking node HTMLLinkElement
 type: docs
-weight: 580
+weight: 740
 url: /java/com.aspose.html.dom.css/ilinkstyle/
 ---
 ## ILinkStyle interface

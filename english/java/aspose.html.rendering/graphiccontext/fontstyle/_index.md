@@ -11,11 +11,12 @@ url: /java/com.aspose.html.rendering/graphiccontext/fontstyle/
 Sets or gets text font style.
 
 ```java
-public FontStyle FontStyle { get; set; }
+public WebFontStyle FontStyle { get; set; }
 ```
 
 ### See Also
 
+* enum [WebFontStyle](../../../com.aspose.html.drawing/webfontstyle/)
 * class [GraphicContext](../)
-* package [com.aspose.html.rendering](../../graphiccontext/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

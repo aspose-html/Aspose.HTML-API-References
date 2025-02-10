@@ -3,7 +3,7 @@ title: IElementTraversal Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.traversal.IElementTraversal interface. The ElementTraversal interface is a set of read-only attributes which allow an author to easily navigate between elements in a document. In conforming implementations of Element Traversal all objects that implement Element must also implement the ElementTraversal interface
 type: docs
-weight: 2490
+weight: 2650
 url: /java/com.aspose.html.dom.traversal/ielementtraversal/
 ---
 ## IElementTraversal interface

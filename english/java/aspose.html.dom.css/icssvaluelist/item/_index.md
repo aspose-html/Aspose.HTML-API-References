@@ -34,5 +34,5 @@ It has been superseded by a modern, but incompatible, [CSS Typed Object Model AP
 
 * class [CSSValue](../../cssvalue/)
 * interface [ICSSValueList](../)
-* package [com.aspose.html.dom.css](../../icssvaluelist/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

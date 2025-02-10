@@ -3,7 +3,7 @@ title: Node.Prefix
 second_title: Aspose.HTML for Java API Reference
 description: Node property. The prefix read-only property returns the package prefix of the specified element or null if no prefix is specified
 type: docs
-weight: 150
+weight: 140
 url: /java/com.aspose.html.dom/node/prefix/
 ---
 ## Node.Prefix property
@@ -27,5 +27,5 @@ Reference:
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.dom](../../node/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

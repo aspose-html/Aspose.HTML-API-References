@@ -26,5 +26,5 @@ A new SVGPoint object.
 
 * class [SVGMatrix](../../svgmatrix/)
 * class [SVGPoint](../)
-* package [com.aspose.html.dom.svg.datatypes](../../svgpoint/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

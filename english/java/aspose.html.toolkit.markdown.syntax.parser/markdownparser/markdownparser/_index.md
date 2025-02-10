@@ -17,7 +17,7 @@ public MarkdownParser()
 ### See Also
 
 * class [MarkdownParser](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../markdownparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public MarkdownParser(Action<IMarkdownParserBuilder> builder)
 
 * interface [IMarkdownParserBuilder](../../imarkdownparserbuilder/)
 * class [MarkdownParser](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../markdownparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

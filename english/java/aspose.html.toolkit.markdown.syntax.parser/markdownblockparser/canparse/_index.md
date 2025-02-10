@@ -26,5 +26,5 @@ The boolean result.
 
 * interface [IBlockParsingContext](../../iblockparsingcontext/)
 * class [MarkdownBlockParser](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../markdownblockparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

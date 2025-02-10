@@ -22,5 +22,5 @@ public void StrokeText(String text, PointF pt)
 ### See Also
 
 * interface [IDevice](../)
-* package [com.aspose.html.rendering](../../idevice/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

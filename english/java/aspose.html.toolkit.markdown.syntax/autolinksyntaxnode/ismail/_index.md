@@ -21,5 +21,5 @@ The boolean.
 ### See Also
 
 * class [AutoLinkSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../autolinksyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

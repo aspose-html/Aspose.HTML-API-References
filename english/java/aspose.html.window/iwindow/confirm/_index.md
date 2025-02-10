@@ -3,7 +3,7 @@ title: IWindow.Confirm
 second_title: Aspose.HTML for Java API Reference
 description: IWindow method. Displays a modal OK/Cancel prompt with the given message waits for the user to dismiss it and returns true if the user clicks OK and false if the user clicks Cancel
 type: docs
-weight: 110
+weight: 140
 url: /java/com.aspose.html.window/iwindow/confirm/
 ---
 ## IWindow.Confirm method
@@ -25,5 +25,5 @@ Returns true if the user clicks OK and false if the user clicks Cancel
 ### See Also
 
 * interface [IWindow](../)
-* package [com.aspose.html.window](../../iwindow/)
+* package [com.aspose.html.window](../../../com.aspose.html.window/)
 * package [Aspose.HTML](../../../)

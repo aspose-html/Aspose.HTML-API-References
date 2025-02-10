@@ -17,5 +17,5 @@ public const short FILTER_REJECT;
 ### See Also
 
 * class [MarkdownSyntaxNodeFilter](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxnodefilter/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

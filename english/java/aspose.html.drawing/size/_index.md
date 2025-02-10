@@ -3,7 +3,7 @@ title: Size Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.Size class. Stores a values which specify a Height and Width
 type: docs
-weight: 2840
+weight: 3020
 url: /java/com.aspose.html.drawing/size/
 ---
 ## Size class

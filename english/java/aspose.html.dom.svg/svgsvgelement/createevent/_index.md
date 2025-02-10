@@ -32,5 +32,5 @@ The newly created [`Event`](../../../com.aspose.html.dom.events/event/)
 
 * class [Event](../../../com.aspose.html.dom.events/event/)
 * class [SVGSVGElement](../)
-* package [com.aspose.html.dom.svg](../../svgsvgelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

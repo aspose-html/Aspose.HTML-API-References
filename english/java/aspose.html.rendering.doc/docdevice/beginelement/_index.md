@@ -27,5 +27,5 @@ Returns [true] if element should be processed.
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * class [DocDevice](../)
-* package [com.aspose.html.rendering.doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)

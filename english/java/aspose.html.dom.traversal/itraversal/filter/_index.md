@@ -22,5 +22,5 @@ The filter.
 
 * interface [INodeFilter](../../inodefilter/)
 * interface [ITraversal](../)
-* package [com.aspose.html.dom.traversal](../../itraversal/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)

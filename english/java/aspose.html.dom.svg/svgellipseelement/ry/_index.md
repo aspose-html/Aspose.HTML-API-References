@@ -22,5 +22,5 @@ The attribute ‘ry’ of the given ‘circle’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGEllipseElement](../)
-* package [com.aspose.html.dom.svg](../../svgellipseelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

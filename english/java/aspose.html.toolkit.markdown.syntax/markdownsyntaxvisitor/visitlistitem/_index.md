@@ -22,5 +22,5 @@ public void VisitListItem(ListItemSyntaxNode listItem)
 
 * class [ListItemSyntaxNode](../../listitemsyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

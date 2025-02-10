@@ -22,5 +22,5 @@ The cssRules attribute must return a [`CSSRuleList`](../../icssrulelist/) object
 
 * interface [ICSSRuleList](../../icssrulelist/)
 * interface [ICSSMediaRule](../)
-* package [com.aspose.html.dom.css](../../icssmediarule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

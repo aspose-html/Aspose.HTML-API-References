@@ -17,5 +17,5 @@ public const ushort SVG_FEBLEND_MODE_LIGHTEN;
 ### See Also
 
 * class [SVGFEBlendElement](../)
-* package [com.aspose.html.dom.svg.filters](../../svgfeblendelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

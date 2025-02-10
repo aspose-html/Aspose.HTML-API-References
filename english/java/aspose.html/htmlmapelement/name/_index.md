@@ -17,5 +17,5 @@ public String Name { get; set; }
 ### See Also
 
 * class [HTMLMapElement](../)
-* package [com.aspose.html](../../htmlmapelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

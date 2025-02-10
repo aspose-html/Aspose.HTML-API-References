@@ -3,7 +3,7 @@ title: DocRenderingOptions Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.doc.DocRenderingOptions class. Represents the rendering options for DocDevice
 type: docs
-weight: 4220
+weight: 4400
 url: /java/com.aspose.html.rendering.doc/docrenderingoptions/
 ---
 ## DocRenderingOptions class
@@ -32,11 +32,9 @@ public class DocRenderingOptions : RenderingOptions
 [setDocumentFormat] Gets or sets the file format of the output document. The default value is DOCX. |
 [getFontEmbeddingRule]
 [setFontEmbeddingRule] Gets or sets the font embedding rule. The default value is None. |
-[getHorizontalResolution]
-[setHorizontalResolution] Sets or gets horizontal resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+| [horizontalResolution](../../com.aspose.html.rendering/renderingoptions/horizontalresolution/) { get; set; } | Sets or gets horizontal resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 | [getPageSetup](../../com.aspose.html.rendering/renderingoptions/pagesetup/) Gets a page setup object is used for configuration output page-set. |
-[getVerticalResolution]
-[setVerticalResolution] Sets or gets vertical resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+| [verticalResolution](../../com.aspose.html.rendering/renderingoptions/verticalresolution/) { get; set; } | Sets or gets vertical resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 
 ### See Also
 

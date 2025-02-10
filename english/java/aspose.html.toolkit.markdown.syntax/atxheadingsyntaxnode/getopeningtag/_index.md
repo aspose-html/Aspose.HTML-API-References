@@ -22,5 +22,5 @@ The MarkdownSyntaxToken.
 
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [AtxHeadingSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../atxheadingsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

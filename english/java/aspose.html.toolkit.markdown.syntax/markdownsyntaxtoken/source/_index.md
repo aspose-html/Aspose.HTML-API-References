@@ -18,5 +18,5 @@ public SourceText Source { get; }
 
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * class [MarkdownSyntaxToken](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxtoken/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

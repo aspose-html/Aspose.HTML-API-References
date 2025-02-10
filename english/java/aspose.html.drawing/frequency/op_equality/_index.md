@@ -15,5 +15,5 @@ public static bool operator ==(Frequency a, Frequency b)
 ### See Also
 
 * class [Frequency](../)
-* package [com.aspose.html.drawing](../../frequency/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

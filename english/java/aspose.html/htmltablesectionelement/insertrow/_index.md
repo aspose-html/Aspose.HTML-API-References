@@ -32,5 +32,5 @@ The newly created row.
 
 * class [HTMLElement](../../htmlelement/)
 * class [HTMLTableSectionElement](../)
-* package [com.aspose.html](../../htmltablesectionelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

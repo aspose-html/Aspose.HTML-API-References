@@ -11,7 +11,7 @@ url: /java/com.aspose.html.drawing/igradientbrush/blendfactors/
 Get the blend factors that define a custom falloff for the gradient.
 
 ```java
-public float[] BlendFactors { get; }
+public float[] BlendFactors { get; set; }
 ```
 
 ### Return Value
@@ -21,5 +21,5 @@ Blend factors.
 ### See Also
 
 * interface [IGradientBrush](../)
-* package [com.aspose.html.drawing](../../igradientbrush/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

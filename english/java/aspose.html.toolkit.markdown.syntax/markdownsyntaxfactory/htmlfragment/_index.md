@@ -29,7 +29,7 @@ The HTMLFragmentSyntax.
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * struct [TextSpan](../../../com.aspose.html.toolkit.markdown.syntax.text/textspan/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -50,5 +50,5 @@ The HTMLFragmentSyntax.
 
 * class [HTMLFragmentSyntax](../../htmlfragmentsyntax/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

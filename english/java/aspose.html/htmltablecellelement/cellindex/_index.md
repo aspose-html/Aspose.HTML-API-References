@@ -17,5 +17,5 @@ public int CellIndex { get; }
 ### See Also
 
 * class [HTMLTableCellElement](../)
-* package [com.aspose.html](../../htmltablecellelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

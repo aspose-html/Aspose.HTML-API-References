@@ -3,7 +3,7 @@ title: com.aspose.html.dom.events
 second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.dom.events package provides objects for any events related DOM updating. It includes subscription to specific contextual information observation associated with event as well as custom events construction
 type: docs
-weight: 90
+weight: 120
 url: /java/com.aspose.html.dom.events/
 ---
 The **com.aspose.html.dom.events** package provides objects for any events related DOM updating. It includes subscription to specific contextual information observation associated with event as well as custom events construction.

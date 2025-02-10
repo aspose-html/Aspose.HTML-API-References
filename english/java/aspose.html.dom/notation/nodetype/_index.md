@@ -21,5 +21,5 @@ The type of the node.
 ### See Also
 
 * class [Notation](../)
-* package [com.aspose.html.dom](../../notation/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

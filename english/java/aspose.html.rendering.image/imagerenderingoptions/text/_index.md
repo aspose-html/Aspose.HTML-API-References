@@ -3,7 +3,7 @@ title: ImageRenderingOptions.Text
 second_title: Aspose.HTML for Java API Reference
 description: ImageRenderingOptions property. Gets a TextOptions object which is used for configuration of text rendering
 type: docs
-weight: 60
+weight: 50
 url: /java/com.aspose.html.rendering.image/imagerenderingoptions/text/
 ---
 ## ImageRenderingOptions.Text property
@@ -22,5 +22,5 @@ The [`TextOptions`](../../textoptions/) object.
 
 * class [TextOptions](../../textoptions/)
 * class [ImageRenderingOptions](../)
-* package [com.aspose.html.rendering.image](../../imagerenderingoptions/)
+* package [com.aspose.html.rendering.image](../../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../../)

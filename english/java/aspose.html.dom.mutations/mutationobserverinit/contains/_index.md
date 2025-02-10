@@ -15,5 +15,5 @@ public bool Contains(KeyValuePair<String, object> item)
 ### See Also
 
 * class [MutationObserverInit](../)
-* package [com.aspose.html.dom.mutations](../../mutationobserverinit/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

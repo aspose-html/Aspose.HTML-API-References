@@ -21,5 +21,5 @@ The style attribute must return a CSSStyleDeclaration object for the style rule
 ### See Also
 
 * interface [ICSSStyleRule](../)
-* package [com.aspose.html.dom.css](../../icssstylerule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

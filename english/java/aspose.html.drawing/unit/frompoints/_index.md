@@ -26,5 +26,5 @@ Returns a [`Length`](../../length/) object.
 
 * class [Length](../../length/)
 * class [Unit](../)
-* package [com.aspose.html.drawing](../../unit/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

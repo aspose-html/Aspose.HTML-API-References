@@ -17,5 +17,5 @@ public String Type { get; }
 ### See Also
 
 * interface [IBlob](../)
-* package [com.aspose.html.io](../../iblob/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)

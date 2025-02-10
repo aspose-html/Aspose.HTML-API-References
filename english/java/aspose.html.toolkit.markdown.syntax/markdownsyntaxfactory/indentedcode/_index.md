@@ -6,12 +6,33 @@ type: docs
 weight: 190
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/indentedcode/
 ---
-## MarkdownSyntaxFactory.IndentedCode method
+## IndentedCode() {#indentedcode}
 
 Creates [`IndentedCodeBlockSyntaxNode`](../../indentedcodeblocksyntaxnode/).
 
 ```java
-public IndentedCodeBlockSyntaxNode IndentedCode(int reservedSpaces = 0)
+public IndentedCodeBlockSyntaxNode IndentedCode()
+```
+
+### Return Value
+
+The IndentedCodeBlockSyntax.
+
+### See Also
+
+* class [IndentedCodeBlockSyntaxNode](../../indentedcodeblocksyntaxnode/)
+* class [MarkdownSyntaxFactory](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## IndentedCode(int) {#indentedcode_1}
+
+Creates [`IndentedCodeBlockSyntaxNode`](../../indentedcodeblocksyntaxnode/).
+
+```java
+public IndentedCodeBlockSyntaxNode IndentedCode(int reservedSpaces)
 ```
 
 | Parameter | Type | Description |
@@ -26,5 +47,5 @@ The IndentedCodeBlockSyntax.
 
 * class [IndentedCodeBlockSyntaxNode](../../indentedcodeblocksyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

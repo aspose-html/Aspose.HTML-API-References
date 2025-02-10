@@ -17,5 +17,5 @@ public const ushort SVG_MARKER_ORIENT_ANGLE;
 ### See Also
 
 * class [SVGMarkerElement](../)
-* package [com.aspose.html.dom.svg](../../svgmarkerelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

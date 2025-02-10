@@ -22,5 +22,5 @@ The response message.
 
 * class [ResponseMessage](../../../com.aspose.html.net/responsemessage/)
 * class [SubmissionResult](../)
-* package [com.aspose.html.forms](../../submissionresult/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

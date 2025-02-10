@@ -21,5 +21,5 @@ Gets and sets the value of the glyphs descriptor. If the descriptor does not hav
 ### See Also
 
 * interface [ICSSCounterStyleRule](../)
-* package [com.aspose.html.dom.css](../../icsscounterstylerule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The old value.
 ### See Also
 
 * class [MutationRecord](../)
-* package [com.aspose.html.dom.mutations](../../mutationrecord/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

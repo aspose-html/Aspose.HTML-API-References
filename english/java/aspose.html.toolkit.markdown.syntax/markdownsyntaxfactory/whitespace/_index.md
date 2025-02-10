@@ -6,12 +6,33 @@ type: docs
 weight: 500
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/whitespace/
 ---
-## Whitespace(int) {#whitespace_2}
+## Whitespace() {#whitespace}
 
 Create the WhitespaceSyntax.
 
 ```java
-public WhitespaceSyntaxNode Whitespace(int count = 1)
+public WhitespaceSyntaxNode Whitespace()
+```
+
+### Return Value
+
+The WhitespaceSyntax.
+
+### See Also
+
+* class [WhitespaceSyntaxNode](../../whitespacesyntaxnode/)
+* class [MarkdownSyntaxFactory](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## Whitespace(int) {#whitespace_3}
+
+Create the WhitespaceSyntax.
+
+```java
+public WhitespaceSyntaxNode Whitespace(int count)
 ```
 
 | Parameter | Type | Description |
@@ -26,12 +47,12 @@ The WhitespaceSyntax.
 
 * class [WhitespaceSyntaxNode](../../whitespacesyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## Whitespace(SourceText) {#whitespace}
+## Whitespace(SourceText) {#whitespace_1}
 
 Create the WhitespaceSyntax.
 
@@ -52,12 +73,12 @@ The WhitespaceSyntax.
 * class [WhitespaceSyntaxNode](../../whitespacesyntaxnode/)
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## Whitespace(SourceText, TextSpan) {#whitespace_1}
+## Whitespace(SourceText, TextSpan) {#whitespace_2}
 
 Creates [`WhitespaceSyntaxNode`](../../whitespacesyntaxnode/).
 
@@ -80,5 +101,5 @@ The WhitespaceSyntax.
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * struct [TextSpan](../../../com.aspose.html.toolkit.markdown.syntax.text/textspan/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

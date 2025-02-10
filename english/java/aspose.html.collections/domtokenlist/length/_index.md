@@ -11,11 +11,11 @@ url: /java/com.aspose.html.collections/domtokenlist/length/
 Returns an ulong which represents the number of tokens stored in this list.
 
 ```java
-public ulong Length { get; }
+public uint Length { get; }
 ```
 
 ### See Also
 
 * class [DOMTokenList](../)
-* package [com.aspose.html.collections](../../domtokenlist/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

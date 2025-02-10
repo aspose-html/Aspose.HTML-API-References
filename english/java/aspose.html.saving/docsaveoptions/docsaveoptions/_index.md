@@ -17,5 +17,5 @@ public DocSaveOptions()
 ### See Also
 
 * class [DocSaveOptions](../)
-* package [com.aspose.html.saving](../../docsaveoptions/)
+* package [com.aspose.html.saving](../../../com.aspose.html.saving/)
 * package [Aspose.HTML](../../../)

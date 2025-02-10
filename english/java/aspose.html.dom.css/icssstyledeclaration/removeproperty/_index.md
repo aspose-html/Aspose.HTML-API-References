@@ -31,5 +31,5 @@ oldValue is a DOMString equal to the value of the CSS property before it was rem
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* package [com.aspose.html.dom.css](../../icssstyledeclaration/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGStringList Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.datatypes.SVGStringList class. SVGStringList has the same attributes and methods as other SVGxxxList interfaces. Implementers may consider using a single base class to implement the various SVGxxxList interfaces
 type: docs
-weight: 1300
+weight: 1460
 url: /java/com.aspose.html.dom.svg.datatypes/svgStringlist/
 ---
 ## SVGStringList class

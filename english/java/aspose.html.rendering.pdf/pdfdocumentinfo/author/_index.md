@@ -17,5 +17,5 @@ public String Author { get; set; }
 ### See Also
 
 * class [PdfDocumentInfo](../)
-* package [com.aspose.html.rendering.pdf](../../pdfdocumentinfo/)
+* package [com.aspose.html.rendering.pdf](../../../com.aspose.html.rendering.pdf/)
 * package [Aspose.HTML](../../../)

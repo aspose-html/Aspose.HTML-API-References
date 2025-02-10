@@ -21,5 +21,5 @@ The type of the path segment.
 ### See Also
 
 * class [SVGPathSeg](../)
-* package [com.aspose.html.dom.svg.paths](../../svgpathseg/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

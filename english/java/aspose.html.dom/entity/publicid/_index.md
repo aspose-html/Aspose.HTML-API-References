@@ -21,5 +21,5 @@ The public identifier.
 ### See Also
 
 * class [Entity](../)
-* package [com.aspose.html.dom](../../entity/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

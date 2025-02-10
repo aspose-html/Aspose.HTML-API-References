@@ -26,5 +26,5 @@ The [`EntityReference`](../../entityreference/).
 
 * class [EntityReference](../../entityreference/)
 * class [Document](../)
-* package [com.aspose.html.dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

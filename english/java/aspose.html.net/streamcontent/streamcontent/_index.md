@@ -21,5 +21,5 @@ public StreamContent(Stream content)
 ### See Also
 
 * class [StreamContent](../)
-* package [com.aspose.html.net](../../streamcontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

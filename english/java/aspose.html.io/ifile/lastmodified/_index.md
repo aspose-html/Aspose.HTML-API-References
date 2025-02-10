@@ -17,5 +17,5 @@ public long LastModified { get; }
 ### See Also
 
 * interface [IFile](../)
-* package [com.aspose.html.io](../../ifile/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)

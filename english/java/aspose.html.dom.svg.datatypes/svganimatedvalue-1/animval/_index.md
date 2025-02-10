@@ -21,5 +21,5 @@ public T AnimVal { get; }
 ### See Also
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* package [com.aspose.html.dom.svg.datatypes](../../svganimatedvalue-1/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

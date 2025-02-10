@@ -22,5 +22,5 @@ The location.
 
 * class [Location](../../../com.aspose.html.window/location/)
 * class [Document](../)
-* package [com.aspose.html.dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

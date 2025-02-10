@@ -18,5 +18,5 @@ public SourceText Source { get; }
 
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * interface [IBlockParsingContext](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../iblockparsingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

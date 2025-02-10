@@ -21,5 +21,5 @@ public ProtocolMessageFilter(params String[] protocols)
 ### See Also
 
 * class [ProtocolMessageFilter](../)
-* package [com.aspose.html.net.messagefilters](../../protocolmessagefilter/)
+* package [com.aspose.html.net.messagefilters](../../../com.aspose.html.net.messagefilters/)
 * package [Aspose.HTML](../../../)

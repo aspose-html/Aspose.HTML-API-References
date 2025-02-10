@@ -17,5 +17,5 @@ public String Align { get; set; }
 ### See Also
 
 * class [HTMLTableCaptionElement](../)
-* package [com.aspose.html](../../htmltablecaptionelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

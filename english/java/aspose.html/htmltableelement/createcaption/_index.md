@@ -22,5 +22,5 @@ A `CAPTION` element.
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * class [HTMLTableElement](../)
-* package [com.aspose.html](../../htmltableelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

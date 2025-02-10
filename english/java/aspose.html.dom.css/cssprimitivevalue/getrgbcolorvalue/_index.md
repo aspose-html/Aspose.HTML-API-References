@@ -22,5 +22,5 @@ Returns RGB color value
 
 * class [RGBColor](../../rgbcolor/)
 * class [CSSPrimitiveValue](../)
-* package [com.aspose.html.dom.css](../../cssprimitivevalue/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

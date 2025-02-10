@@ -22,5 +22,5 @@ The attribute ‘rotate’ of the given element.
 
 * class [SVGAnimatedNumberList](../../../com.aspose.html.dom.svg.datatypes/svganimatednumberlist/)
 * class [SVGTextPositioningElement](../)
-* package [com.aspose.html.dom.svg](../../svgtextpositioningelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

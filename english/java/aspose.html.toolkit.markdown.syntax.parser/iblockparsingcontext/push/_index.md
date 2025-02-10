@@ -27,5 +27,5 @@ The BlockSyntaxDescriptor.
 * class [BlockSyntaxDescriptor](../../blocksyntaxdescriptor/)
 * class [BlockSyntaxNode](../../../com.aspose.html.toolkit.markdown.syntax/blocksyntaxnode/)
 * interface [IBlockParsingContext](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../iblockparsingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

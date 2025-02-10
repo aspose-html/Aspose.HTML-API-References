@@ -17,5 +17,5 @@ public String CellSpacing { get; set; }
 ### See Also
 
 * class [HTMLTableElement](../)
-* package [com.aspose.html](../../htmltableelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

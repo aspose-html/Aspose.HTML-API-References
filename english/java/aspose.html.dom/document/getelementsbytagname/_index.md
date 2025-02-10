@@ -30,7 +30,7 @@ Refer to official [spec](https://dom.spec.whatwg.org/#dom-document-getelementsby
 
 Practice web development content can be founded in [w3schools](https://www.w3schools.com/jsref/met_document_getelementsbytagname.asp).
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
@@ -54,7 +54,7 @@ var elements = document.GetElementsByTagName(name);
 
 # C# code
 import System;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.collections;
 import com.aspose.html.dom;
 
@@ -93,5 +93,5 @@ Paragraph styled by class name =kkk fff=
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [Document](../)
-* package [com.aspose.html.dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

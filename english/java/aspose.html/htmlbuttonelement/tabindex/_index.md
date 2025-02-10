@@ -17,5 +17,5 @@ public int TabIndex { get; set; }
 ### See Also
 
 * class [HTMLButtonElement](../)
-* package [com.aspose.html](../../htmlbuttonelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

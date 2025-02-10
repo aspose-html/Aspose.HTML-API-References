@@ -18,5 +18,5 @@ public Uint8ClampedArray Data { get; }
 
 * class [Uint8ClampedArray](../../../com.aspose.html/uint8clampedarray/)
 * interface [IImageData](../)
-* package [com.aspose.html.dom.canvas](../../iimagedata/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

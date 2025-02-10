@@ -39,7 +39,7 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -81,7 +81,7 @@ import com.aspose.html.converters;
 
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -121,7 +121,7 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -162,7 +162,7 @@ import com.aspose.html.converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -197,7 +197,7 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -233,7 +233,7 @@ import com.aspose.html.converters;
 ### See Also
 
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -270,7 +270,7 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -302,7 +302,7 @@ import com.aspose.html.converters;
 
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -339,7 +339,7 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -371,7 +371,7 @@ import com.aspose.html.converters;
 
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -409,7 +409,7 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -442,7 +442,7 @@ import com.aspose.html.converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -476,7 +476,7 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -503,7 +503,7 @@ import com.aspose.html.converters;
 ### See Also
 
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -539,7 +539,7 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -567,5 +567,5 @@ import com.aspose.html.converters;
 
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)

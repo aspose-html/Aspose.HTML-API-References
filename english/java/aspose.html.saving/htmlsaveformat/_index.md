@@ -3,7 +3,7 @@ title: HTMLSaveFormat Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.saving.HTMLSaveFormat enum. Specifies format in which document is saved. You can find more info about saving HTMLDocument in article
 type: docs
-weight: 4610
+weight: 4810
 url: /java/com.aspose.html.saving/htmlsaveformat/
 ---
 ## HTMLSaveFormat enumeration
@@ -24,13 +24,13 @@ public enum HTMLSaveFormat
 
 ## Remarks
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
 ```java
 import System.IO;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.saving;
 ...
   // Prepare an output path for a document saving

@@ -17,5 +17,5 @@ public const long SHOW_DOCUMENT_TYPE;
 ### See Also
 
 * class [NodeFilter](../)
-* package [com.aspose.html.dom.traversal.filters](../../nodefilter/)
+* package [com.aspose.html.dom.traversal.filters](../../../com.aspose.html.dom.traversal.filters/)
 * package [Aspose.HTML](../../../)

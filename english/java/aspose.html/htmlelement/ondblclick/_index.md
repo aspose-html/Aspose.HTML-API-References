@@ -18,5 +18,5 @@ public event DOMEventHandler OnDblClick;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [HTMLElement](../)
-* package [com.aspose.html](../../htmlelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

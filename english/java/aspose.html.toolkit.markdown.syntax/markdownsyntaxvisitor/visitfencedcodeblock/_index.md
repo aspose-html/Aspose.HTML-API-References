@@ -22,5 +22,5 @@ public void VisitFencedCodeBlock(FencedCodeBlockSyntaxNode codeBlock)
 
 * class [FencedCodeBlockSyntaxNode](../../fencedcodeblocksyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

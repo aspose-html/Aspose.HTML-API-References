@@ -3,7 +3,7 @@ title: ICSSPageRule Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.css.ICSSPageRule interface. The CSSPageRule interface represents a page rule within a CSS style sheet. The page rule is used to specify the dimensions orientation margins etc. of a page box for paged media
 type: docs
-weight: 470
+weight: 630
 url: /java/com.aspose.html.dom.css/icsspagerule/
 ---
 ## ICSSPageRule interface

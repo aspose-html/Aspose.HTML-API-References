@@ -21,5 +21,5 @@ Boolean indicating whether this SVG document fragment is in a paused state.
 ### See Also
 
 * class [SVGSVGElement](../)
-* package [com.aspose.html.dom.svg](../../svgsvgelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

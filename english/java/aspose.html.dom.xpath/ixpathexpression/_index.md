@@ -3,7 +3,7 @@ title: IXPathExpression Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.xpath.IXPathExpression interface. The XPathExpression interface represents a parsed and resolved XPath expression
 type: docs
-weight: 2580
+weight: 2740
 url: /java/com.aspose.html.dom.xpath/ixpathexpression/
 ---
 ## IXPathExpression interface

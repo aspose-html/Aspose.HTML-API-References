@@ -22,5 +22,5 @@ The attribute ‘spacing’ of the given ‘textPath’ element.
 
 * class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGTextPathElement](../)
-* package [com.aspose.html.dom.svg](../../svgtextpathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

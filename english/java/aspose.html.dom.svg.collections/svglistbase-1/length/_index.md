@@ -21,5 +21,5 @@ The number of items.
 ### See Also
 
 * class [SVGListBase&lt;T&gt;](../)
-* package [com.aspose.html.dom.svg.collections](../../svglistbase-1/)
+* package [com.aspose.html.dom.svg.collections](../../../com.aspose.html.dom.svg.collections/)
 * package [Aspose.HTML](../../../)

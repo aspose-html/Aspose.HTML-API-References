@@ -21,7 +21,7 @@ public void SelectItems(params int[] indexes)
 ### See Also
 
 * class [SelectElement](../)
-* package [com.aspose.html.forms](../../selectelement/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -41,5 +41,5 @@ public void SelectItems(params String[] values)
 ### See Also
 
 * class [SelectElement](../)
-* package [com.aspose.html.forms](../../selectelement/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

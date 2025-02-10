@@ -25,5 +25,5 @@ value is a String containing the value of the property. If not set, returns the 
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* package [com.aspose.html.dom.css](../../icssstyledeclaration/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

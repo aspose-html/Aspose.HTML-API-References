@@ -22,5 +22,5 @@ The attribute ‘primitiveUnits’ of the given ‘filter’ element.
 
 * class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGFilterElement](../)
-* package [com.aspose.html.dom.svg](../../svgfilterelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

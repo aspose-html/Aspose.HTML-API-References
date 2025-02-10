@@ -17,5 +17,5 @@ public PdfGraphicContext()
 ### See Also
 
 * class [PdfGraphicContext](../)
-* package [com.aspose.html.rendering.pdf](../../pdfdevice.pdfgraphiccontext/)
+* package [com.aspose.html.rendering.pdf](../../../com.aspose.html.rendering.pdf/)
 * package [Aspose.HTML](../../../)

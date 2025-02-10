@@ -17,5 +17,5 @@ public String VAlign { get; set; }
 ### See Also
 
 * class [HTMLTableSectionElement](../)
-* package [com.aspose.html](../../htmltablesectionelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

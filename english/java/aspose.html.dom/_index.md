@@ -3,7 +3,7 @@ title: com.aspose.html.dom
 second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.dom Document Object Model package provides API that represents and interacts with any HTML XML or SVG documents. The DOM is a document model loaded in the browser and representing the document as a node tree where each node represents part of the document e.g. an element text String or comment
 type: docs
-weight: 50
+weight: 80
 url: /java/com.aspose.html.dom/
 ---
 The **com.aspose.html.dom (Document Object Model)** package provides API that represents and interacts with any HTML, XML or SVG documents. The DOM is a document model loaded in the browser and representing the document as a node tree, where each node represents part of the document (e.g. an element, text String, or comment).
@@ -28,6 +28,7 @@ The **com.aspose.html.dom (Document Object Model)** package provides API that re
 | [Node](./node/) | The Node interface is the primary datatype for the entire Document Object Model. It represents a single node in the document tree. While all objects implementing the Node interface expose methods for dealing with children, not all objects implementing the Node interface may have children. For example, [`Text`](../com.aspose.html.dom/text/) nodes may not have children, and adding children to such nodes results in a [`DOMException`](../com.aspose.html.dom/domexception/) being raised. |
 | [Notation](./notation/) | Represents a notation declared in the DTD. |
 | [ProcessingInstruction](./processinginstruction/) | The ProcessingInstruction represents a "processing instruction", used in XML as a way to keep processor-specific information in the text of the document. |
+| [QualifiedName](./qualifiedname/) | Represents an HTML qualified name. |
 | [ShadowRoot](./shadowroot/) | ShadowRoot is a root node of shadow tree. |
 | [Text](./text/) | The Text interface inherits from CharacterData and represents the textual content (termed character data in XML) of an Element or Attr. |
 | [TypeInfo](./typeinfo/) | The TypeInfo represents a type referenced from Element or Attr nodes, specified in the schemas associated with the document. |
@@ -37,13 +38,12 @@ The **com.aspose.html.dom (Document Object Model)** package provides API that re
 | --- | --- |
 | [IBrowsingContext](./ibrowsingcontext/) | A browsing context is an environment in which [`Document`](../com.aspose.html.dom/document/) objects are presented to the user. |
 | [IChildNode](./ichildnode/) | Defines [`IChildNode`](../com.aspose.html.dom/ichildnode/) interface that should be implemented by [`Node`](../com.aspose.html.dom/node/) that can have a parent. |
-| [IDocumentInit](./idocumentinit/) | This interface provides [`Document`](../com.aspose.html.dom/document/) initialization info. |
 | [IDOMImplementation](./idomimplementation/) | The DOMImplementation interface provides a number of methods for performing operations that are independent of any particular instance of the document object model. |
-| [IElementInit](./ielementinit/) | This interface provides [`Element`](../com.aspose.html.dom/element/) initialization info. |
 | [IGlobalEventHandlers](./iglobaleventhandlers/) | Represents interface that must be inherited by all element that is supported system event handling |
 | [INonDocumentTypeChildNode](./inondocumenttypechildnode/) | Defines [`IChildNode`](../com.aspose.html.dom/ichildnode/) that are not [`DOCUMENT_TYPE_NODE`](../com.aspose.html.dom/node/document_type_node/). |
 | [INonElementParentNode](./inonelementparentnode/) | Defines [`IParentNode`](../com.aspose.html.dom/iparentnode/) that are not Element type. |
 | [IParentNode](./iparentnode/) | Defines the [`IParentNode`](../com.aspose.html.dom/iparentnode/) interface that is implemented by any possible parents. |
+| [IStorage](./istorage/) | This interface of the Web Storage API provides access to a particular domain's session or local storage. See Web Storage specification: [https://html.spec.whatwg.org/multipage/webstorage.html#webstorage](https://html.spec.whatwg.org/multipage/webstorage.html#webstorage) |
 ## Enumeration
 
 | Enumeration | Description |

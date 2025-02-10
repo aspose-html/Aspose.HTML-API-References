@@ -3,7 +3,7 @@ title: ICanvasGradient Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.canvas.ICanvasGradient interface. Represents an opaque object describing a gradient
 type: docs
-weight: 240
+weight: 400
 url: /java/com.aspose.html.dom.canvas/icanvasgradient/
 ---
 ## ICanvasGradient interface

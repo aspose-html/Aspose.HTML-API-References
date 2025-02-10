@@ -17,5 +17,5 @@ public RenderingOptions()
 ### See Also
 
 * class [RenderingOptions](../)
-* package [com.aspose.html.rendering](../../renderingoptions/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

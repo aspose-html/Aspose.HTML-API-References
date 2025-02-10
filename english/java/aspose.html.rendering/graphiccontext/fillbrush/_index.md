@@ -18,5 +18,5 @@ public IBrush FillBrush { get; set; }
 
 * interface [IBrush](../../../com.aspose.html.drawing/ibrush/)
 * class [GraphicContext](../)
-* package [com.aspose.html.rendering](../../graphiccontext/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

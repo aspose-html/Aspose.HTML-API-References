@@ -26,7 +26,7 @@ The BaseSyntaxNode.
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [HugoFrontMatterSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../hugofrontmattersyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -53,5 +53,5 @@ The T object.
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [HugoFrontMatterSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../hugofrontmattersyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

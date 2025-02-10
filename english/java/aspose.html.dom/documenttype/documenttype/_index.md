@@ -27,5 +27,5 @@ public DocumentType(String name, String publicId, String systemId, String intern
 
 * class [Document](../../document/)
 * class [DocumentType](../)
-* package [com.aspose.html.dom](../../documenttype/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

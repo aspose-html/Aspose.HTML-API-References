@@ -17,5 +17,5 @@ public String Label { get; set; }
 ### See Also
 
 * class [HTMLOptGroupElement](../)
-* package [com.aspose.html](../../htmloptgroupelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

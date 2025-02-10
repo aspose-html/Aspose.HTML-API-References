@@ -27,5 +27,5 @@ The attribute ‘type’ on the given element.
 ### See Also
 
 * class [SVGStyleElement](../)
-* package [com.aspose.html.dom.svg](../../svgstyleelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

@@ -15,7 +15,7 @@ public void Add(KeyValuePair<String, object> item)
 ### See Also
 
 * class [MutationObserverInit](../)
-* package [com.aspose.html.dom.mutations](../../mutationobserverinit/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -36,5 +36,5 @@ public void Add(String key, object value)
 ### See Also
 
 * class [MutationObserverInit](../)
-* package [com.aspose.html.dom.mutations](../../mutationobserverinit/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

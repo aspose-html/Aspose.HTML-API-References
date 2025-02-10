@@ -22,5 +22,5 @@ The attribute ‘y’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGFEConvolveMatrixElement](../)
-* package [com.aspose.html.dom.svg.filters](../../svgfeconvolvematrixelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

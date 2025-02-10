@@ -23,7 +23,7 @@ public void RemoveEventListener(String type, IEventListener listener)
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* package [com.aspose.html.dom.events](../../ieventtarget/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -46,5 +46,5 @@ public void RemoveEventListener(String type, IEventListener listener, bool useCa
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* package [com.aspose.html.dom.events](../../ieventtarget/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public HTMLFormElement Form { get; }
 
 * class [HTMLFormElement](../../htmlformelement/)
 * class [HTMLFieldSetElement](../)
-* package [com.aspose.html](../../htmlfieldsetelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: CustomEvent Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.events.CustomEvent class. Events using the CustomEvent interface can be used to carry custom data
 type: docs
-weight: 740
+weight: 900
 url: /java/com.aspose.html.dom.events/customevent/
 ---
 ## CustomEvent class

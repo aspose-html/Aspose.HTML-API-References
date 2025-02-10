@@ -26,5 +26,5 @@ The file.
 
 * interface [IFile](../../ifile/)
 * interface [IFileList](../)
-* package [com.aspose.html.io](../../ifilelist/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)

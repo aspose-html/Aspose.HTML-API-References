@@ -26,5 +26,5 @@ The [`IConfigurationBuilder`](../) so that additional calls can be chained.
 
 * interface [IDiagnosticsBuilder](../../../com.aspose.html.diagnostics/idiagnosticsbuilder/)
 * interface [IConfigurationBuilder](../)
-* package [com.aspose.html](../../iconfigurationbuilder/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

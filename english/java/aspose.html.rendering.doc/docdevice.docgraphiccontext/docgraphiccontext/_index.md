@@ -17,5 +17,5 @@ public DocGraphicContext()
 ### See Also
 
 * class [DocGraphicContext](../)
-* package [com.aspose.html.rendering.doc](../../docdevice.docgraphiccontext/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)

@@ -37,7 +37,7 @@ The InlineLinkSyntax.
 * class [LinkDestinationSyntaxNode](../../linkdestinationsyntaxnode/)
 * class [LinkTitleSyntaxNode](../../linktitlesyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -64,5 +64,5 @@ The LinkReferenceDefinitionSyntax.
 
 * class [InlineLinkSyntaxNode](../../inlinelinksyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: MimeType Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.MimeType class. Represents an Internet Media Types
 type: docs
-weight: 3860
+weight: 4040
 url: /java/com.aspose.html/mimetype/
 ---
 ## MimeType class

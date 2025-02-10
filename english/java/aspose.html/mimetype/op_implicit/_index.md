@@ -15,7 +15,7 @@ public static implicit operator MimeType(String @String)
 ### See Also
 
 * class [MimeType](../)
-* package [com.aspose.html](../../mimetype/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -29,5 +29,5 @@ public static implicit operator String(MimeType type)
 ### See Also
 
 * class [MimeType](../)
-* package [com.aspose.html](../../mimetype/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The network services.
 
 * interface [INetwork](../../../com.aspose.html.net/inetwork/)
 * interface [IBrowsingContext](../)
-* package [com.aspose.html.dom](../../ibrowsingcontext/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

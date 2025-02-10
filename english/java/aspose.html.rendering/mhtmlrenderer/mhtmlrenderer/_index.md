@@ -17,5 +17,5 @@ public MhtmlRenderer()
 ### See Also
 
 * class [MhtmlRenderer](../)
-* package [com.aspose.html.rendering](../../mhtmlrenderer/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

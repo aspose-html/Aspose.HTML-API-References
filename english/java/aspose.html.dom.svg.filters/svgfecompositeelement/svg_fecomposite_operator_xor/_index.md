@@ -17,5 +17,5 @@ public const ushort SVG_FECOMPOSITE_OPERATOR_XOR;
 ### See Also
 
 * class [SVGFECompositeElement](../)
-* package [com.aspose.html.dom.svg.filters](../../svgfecompositeelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The y-axis position of the top of the rectangle.
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* package [com.aspose.html.dom.css](../../rect/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The IEnumerator.
 ### See Also
 
 * class [NodeList&lt;T&gt;](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../nodelist-1/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public int SelectedIndex { get; set; }
 ### See Also
 
 * class [HTMLSelectElement](../)
-* package [com.aspose.html](../../htmlselectelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -15,5 +15,5 @@ public static bool operator !=(TextSpan left, TextSpan right)
 ### See Also
 
 * struct [TextSpan](../)
-* package [com.aspose.html.toolkit.markdown.syntax.text](../../textspan/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGPathSegList Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.paths.SVGPathSegList class. This interface defines a list of SVGPathSeg objects
 type: docs
-weight: 1880
+weight: 2040
 url: /java/com.aspose.html.dom.svg.paths/svgpathseglist/
 ---
 ## SVGPathSegList class

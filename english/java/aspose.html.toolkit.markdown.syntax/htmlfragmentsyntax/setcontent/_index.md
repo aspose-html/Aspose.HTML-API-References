@@ -21,5 +21,5 @@ public void SetContent(String html)
 ### See Also
 
 * class [HTMLFragmentSyntax](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../htmlfragmentsyntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

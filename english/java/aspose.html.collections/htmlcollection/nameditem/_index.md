@@ -26,5 +26,5 @@ The matched element
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * class [HTMLCollection](../)
-* package [com.aspose.html.collections](../../htmlcollection/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

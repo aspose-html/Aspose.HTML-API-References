@@ -21,5 +21,5 @@ An unsigned long representing the number of CSSValues in the current instance.
 ### See Also
 
 * class [CSSValueList](../)
-* package [com.aspose.html.dom.css](../../cssvaluelist/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

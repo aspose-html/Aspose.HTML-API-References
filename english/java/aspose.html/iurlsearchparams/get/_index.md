@@ -25,5 +25,5 @@ Value of the first name-value pair whose name is `name` or null if there is none
 ### See Also
 
 * interface [IUrlSearchParams](../)
-* package [com.aspose.html](../../iurlsearchparams/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

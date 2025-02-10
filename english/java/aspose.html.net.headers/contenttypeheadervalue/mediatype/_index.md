@@ -22,5 +22,5 @@ The type of the media.
 
 * class [MimeType](../../../com.aspose.html/mimetype/)
 * class [ContentTypeHeaderValue](../)
-* package [com.aspose.html.net.headers](../../contenttypeheadervalue/)
+* package [com.aspose.html.net.headers](../../../com.aspose.html.net.headers/)
 * package [Aspose.HTML](../../../)

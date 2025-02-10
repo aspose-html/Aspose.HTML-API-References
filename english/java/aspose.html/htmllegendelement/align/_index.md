@@ -17,5 +17,5 @@ public String Align { get; set; }
 ### See Also
 
 * class [HTMLLegendElement](../)
-* package [com.aspose.html](../../htmllegendelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

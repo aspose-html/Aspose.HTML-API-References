@@ -18,5 +18,5 @@ public DelimiterState State { get; set; }
 
 * enum [DelimiterState](../../delimiterstate/)
 * class [DelimiterRun](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../delimiterrun/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

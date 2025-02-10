@@ -25,5 +25,5 @@ The Single.
 ### See Also
 
 * class [Float32Array](../)
-* package [com.aspose.html](../../float32array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

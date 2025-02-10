@@ -11,7 +11,7 @@ url: /java/com.aspose.html.rendering/device-2/stroketext/
 Strokes the specified text String at the specified location.
 
 ```java
-public abstract void StrokeText(String text, PointF pt)
+public void StrokeText(String text, PointF pt)
 ```
 
 | Parameter | Type | Description |
@@ -22,5 +22,5 @@ public abstract void StrokeText(String text, PointF pt)
 ### See Also
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* package [com.aspose.html.rendering](../../device-2/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

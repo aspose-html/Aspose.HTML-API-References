@@ -25,5 +25,5 @@ The !:T.
 ### See Also
 
 * class [TypedArray&lt;T&gt;](../)
-* package [com.aspose.html](../../typedarray-1/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

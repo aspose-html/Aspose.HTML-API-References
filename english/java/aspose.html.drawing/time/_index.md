@@ -3,7 +3,7 @@ title: Time Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.Time class. Represents a time unit
 type: docs
-weight: 2850
+weight: 3040
 url: /java/com.aspose.html.drawing/time/
 ---
 ## Time class

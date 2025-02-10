@@ -21,5 +21,5 @@ The detail.
 ### See Also
 
 * class [CustomEvent](../)
-* package [com.aspose.html.dom.events](../../customevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

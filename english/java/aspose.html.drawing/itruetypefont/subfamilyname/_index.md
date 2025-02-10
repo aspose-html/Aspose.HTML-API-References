@@ -21,5 +21,5 @@ Subfamily name of font
 ### See Also
 
 * interface [ITrueTypeFont](../)
-* package [com.aspose.html.drawing](../../itruetypefont/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

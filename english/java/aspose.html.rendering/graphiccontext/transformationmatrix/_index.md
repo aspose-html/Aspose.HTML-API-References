@@ -3,7 +3,7 @@ title: GraphicContext.TransformationMatrix
 second_title: Aspose.HTML for Java API Reference
 description: GraphicContext property. Sets or gets transformation matrix
 type: docs
-weight: 160
+weight: 150
 url: /java/com.aspose.html.rendering/graphiccontext/transformationmatrix/
 ---
 ## GraphicContext.TransformationMatrix property
@@ -11,11 +11,12 @@ url: /java/com.aspose.html.rendering/graphiccontext/transformationmatrix/
 Sets or gets transformation matrix.
 
 ```java
-public Matrix TransformationMatrix { get; set; }
+public IMatrix TransformationMatrix { get; set; }
 ```
 
 ### See Also
 
+* interface [IMatrix](../../../com.aspose.html.drawing/imatrix/)
 * class [GraphicContext](../)
-* package [com.aspose.html.rendering](../../graphiccontext/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

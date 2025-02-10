@@ -17,5 +17,5 @@ public bool Compact { get; set; }
 ### See Also
 
 * class [HTMLDirectoryElement](../)
-* package [com.aspose.html](../../htmldirectoryelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

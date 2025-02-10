@@ -27,7 +27,7 @@ A new ImageData object with the specified width and height. The new object is fi
 
 * interface [IImageData](../../iimagedata/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -52,5 +52,5 @@ A new ImageData object with the specified width and height. The new object is fi
 
 * interface [IImageData](../../iimagedata/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

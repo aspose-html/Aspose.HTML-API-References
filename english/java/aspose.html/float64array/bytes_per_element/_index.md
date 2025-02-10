@@ -17,5 +17,5 @@ public static readonly byte BYTES_PER_ELEMENT;
 ### See Also
 
 * class [Float64Array](../)
-* package [com.aspose.html](../../float64array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

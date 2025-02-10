@@ -17,5 +17,5 @@ public void Detach()
 ### See Also
 
 * interface [INodeIterator](../)
-* package [com.aspose.html.dom.traversal](../../inodeiterator/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)

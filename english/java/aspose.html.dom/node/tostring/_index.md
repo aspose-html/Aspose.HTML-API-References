@@ -3,7 +3,7 @@ title: Node.ToString
 second_title: Aspose.HTML for Java API Reference
 description: Node method. Returns a String that represents this instance
 type: docs
-weight: 310
+weight: 290
 url: /java/com.aspose.html.dom/node/toString/
 ---
 ## Node.ToString method
@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.dom](../../node/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

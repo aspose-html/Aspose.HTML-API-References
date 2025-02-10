@@ -25,5 +25,5 @@ A Boolean, which is true if the calling list contains token, otherwise false.
 ### See Also
 
 * class [DOMTokenList](../)
-* package [com.aspose.html.collections](../../domtokenlist/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

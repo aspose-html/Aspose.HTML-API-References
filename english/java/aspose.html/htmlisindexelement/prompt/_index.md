@@ -17,5 +17,5 @@ public String Prompt { get; set; }
 ### See Also
 
 * class [HTMLIsIndexElement](../)
-* package [com.aspose.html](../../htmlisindexelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

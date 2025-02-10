@@ -25,7 +25,7 @@ public bool Equals(object obj)
 ### See Also
 
 * class [UnitType](../)
-* package [com.aspose.html.drawing](../../unittype/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -49,5 +49,5 @@ public bool Equals(UnitType other)
 ### See Also
 
 * class [UnitType](../)
-* package [com.aspose.html.drawing](../../unittype/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

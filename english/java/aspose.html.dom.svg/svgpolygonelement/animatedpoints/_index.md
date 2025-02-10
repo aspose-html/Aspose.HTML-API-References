@@ -22,5 +22,5 @@ The animated points.
 
 * class [SVGPointList](../../../com.aspose.html.dom.svg.datatypes/svgpointlist/)
 * class [SVGPolygonElement](../)
-* package [com.aspose.html.dom.svg](../../svgpolygonelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

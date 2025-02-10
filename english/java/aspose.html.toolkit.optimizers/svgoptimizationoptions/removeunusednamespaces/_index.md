@@ -17,5 +17,5 @@ public bool RemoveUnusedNamespaces { get; set; }
 ### See Also
 
 * class [SVGOptimizationOptions](../)
-* package [com.aspose.html.toolkit.optimizers](../../svgoptimizationoptions/)
+* package [com.aspose.html.toolkit.optimizers](../../../com.aspose.html.toolkit.optimizers/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The name.
 ### See Also
 
 * class [FormElement](../)
-* package [com.aspose.html.forms](../../formelement/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

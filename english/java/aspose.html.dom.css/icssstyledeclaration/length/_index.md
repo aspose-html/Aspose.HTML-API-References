@@ -21,5 +21,5 @@ An integer that provides the number of styles explicitly set on the parent of th
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* package [com.aspose.html.dom.css](../../icssstyledeclaration/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

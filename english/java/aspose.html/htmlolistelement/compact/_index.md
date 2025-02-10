@@ -17,5 +17,5 @@ public bool Compact { get; set; }
 ### See Also
 
 * class [HTMLOListElement](../)
-* package [com.aspose.html](../../htmlolistelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

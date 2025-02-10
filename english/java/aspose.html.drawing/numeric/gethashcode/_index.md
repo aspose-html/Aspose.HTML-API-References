@@ -21,5 +21,5 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [Numeric](../)
-* package [com.aspose.html.drawing](../../numeric/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

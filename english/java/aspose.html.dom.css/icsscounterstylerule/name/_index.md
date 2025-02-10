@@ -21,5 +21,5 @@ Gets and sets the custom-ident defined as the name for the associated rule.
 ### See Also
 
 * interface [ICSSCounterStyleRule](../)
-* package [com.aspose.html.dom.css](../../icsscounterstylerule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

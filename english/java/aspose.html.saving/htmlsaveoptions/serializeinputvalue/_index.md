@@ -17,5 +17,5 @@ public bool SerializeInputValue { get; set; }
 ### See Also
 
 * class [HTMLSaveOptions](../)
-* package [com.aspose.html.saving](../../htmlsaveoptions/)
+* package [com.aspose.html.saving](../../../com.aspose.html.saving/)
 * package [Aspose.HTML](../../../)

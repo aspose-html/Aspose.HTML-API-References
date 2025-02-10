@@ -21,5 +21,5 @@ public bool MetaKey { get; }
 ### See Also
 
 * class [MouseEvent](../)
-* package [com.aspose.html.dom.events](../../mouseevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

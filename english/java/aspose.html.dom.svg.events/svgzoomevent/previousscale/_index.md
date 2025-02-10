@@ -17,5 +17,5 @@ public float PreviousScale { get; }
 ### See Also
 
 * class [SVGZoomEvent](../)
-* package [com.aspose.html.dom.svg.events](../../svgzoomevent/)
+* package [com.aspose.html.dom.svg.events](../../../com.aspose.html.dom.svg.events/)
 * package [Aspose.HTML](../../../)

@@ -26,5 +26,5 @@ The MarkdownSyntaxNode.
 ### See Also
 
 * class [MarkdownSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

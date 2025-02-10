@@ -26,5 +26,5 @@ A TextMetrics object.
 
 * interface [ITextMetrics](../../itextmetrics/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

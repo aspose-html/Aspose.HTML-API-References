@@ -18,5 +18,5 @@ public TemplateContentOptions ContentOptions { get; }
 
 * class [TemplateContentOptions](../../templatecontentoptions/)
 * class [TemplateData](../)
-* package [com.aspose.html.converters](../../templatedata/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)

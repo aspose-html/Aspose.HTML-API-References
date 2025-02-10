@@ -27,7 +27,7 @@ The node iterator.
 * class [NodeIterator](../../nodeiterator/)
 * class [MarkdownSyntaxNodeFilter](../../markdownsyntaxnodefilter/)
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -53,7 +53,7 @@ The node iterator.
 * class [NodeIterator](../../nodeiterator/)
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -81,5 +81,5 @@ The node iterator.
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [MarkdownSyntaxNodeFilter](../../markdownsyntaxnodefilter/)
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

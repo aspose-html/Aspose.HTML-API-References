@@ -26,7 +26,7 @@ A Stream object that is used for writing data during the rendering operations.
 ### See Also
 
 * interface [ICreateStreamProvider](../)
-* package [com.aspose.html.io](../../icreatestreamprovider/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -52,5 +52,5 @@ A Stream object that is used for writing data during the rendering operations.
 ### See Also
 
 * interface [ICreateStreamProvider](../)
-* package [com.aspose.html.io](../../icreatestreamprovider/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)

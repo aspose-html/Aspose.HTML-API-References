@@ -3,7 +3,7 @@ title: ISVGTests Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.ISVGTests interface. Interface SVGTests defines an interface which applies to all elements which have attributes requiredFeatures requiredExtensions and systemLanguage
 type: docs
-weight: 1650
+weight: 1810
 url: /java/com.aspose.html.dom.svg/isvgtests/
 ---
 ## ISVGTests interface

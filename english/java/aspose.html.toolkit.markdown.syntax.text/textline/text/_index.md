@@ -18,5 +18,5 @@ public SourceText Text { get; }
 
 * class [SourceText](../../sourcetext/)
 * struct [TextLine](../)
-* package [com.aspose.html.toolkit.markdown.syntax.text](../../textline/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../../)

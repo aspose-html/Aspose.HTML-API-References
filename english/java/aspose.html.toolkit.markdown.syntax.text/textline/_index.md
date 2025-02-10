@@ -3,7 +3,7 @@ title: TextLine Struct
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.text.TextLine struct. Represent the TextLine
 type: docs
-weight: 5640
+weight: 5900
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textline/
 ---
 ## TextLine structure

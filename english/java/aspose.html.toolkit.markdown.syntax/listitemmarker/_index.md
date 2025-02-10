@@ -3,7 +3,7 @@ title: ListItemMarker Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.ListItemMarker class. Base implementation of the ListItemMarker
 type: docs
-weight: 5140
+weight: 5400
 url: /java/com.aspose.html.toolkit.markdown.syntax/listitemmarker/
 ---
 ## ListItemMarker class

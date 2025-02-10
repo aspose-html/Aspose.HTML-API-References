@@ -3,7 +3,7 @@ title: SVGDocument Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.SVGDocument class. An SVGDocument is the root of the SVG hierarchy and holds the entire content. Besides providing access to the hierarchy it also provides some convenience methods for accessing certain sets of information from the document. When an svg element is embedded inline as a component of a document from another package such as when an svg element is embedded inline within an XHTML document XHTML then an SVGDocument object will not exist instead the root object in the document object hierarchy will be a Document object of a different type such as an HTMLDocument object. However an SVGDocument object will indeed exist when the root element of the XML document hierarchy is an svg element such as when viewing a stand-alone SVG filei.e. a file with MIME type image/svgxml. In this case the SVGDocument object will be the root object of the document object model hierarchy
 type: docs
-weight: 2020
+weight: 2180
 url: /java/com.aspose.html.dom.svg/svgdocument/
 ---
 ## SVGDocument class
@@ -39,7 +39,6 @@ public class SVGDocument : Document, IDocumentCSS
 
 | Name | Description |
 | --- | --- |
-| [getAttributes](../../com.aspose.html.dom/node/attributes/) The attributes property returns a live collection of all attribute nodes registered to the specified node. Attributes is a key/value pair of Strings that represents any information regarding that attribute. |
 | [getBaseURI](../../com.aspose.html.dom/document/baseuri/) The absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
 | [getCharacterSet](../../com.aspose.html.dom/document/characterset/) Gets the document's encoding. |
 | [getCharset](../../com.aspose.html.dom/document/charset/) Gets the document's encoding. |
@@ -66,14 +65,12 @@ public class SVGDocument : Document, IDocumentCSS
 | [getNextSibling](../../com.aspose.html.dom/node/nextsibling/) The read-only nextSibling property of the [`Node`](../../com.aspose.html.dom/node/) interface returns the node immediately following the specified one in their parent's [`childNodes`](../../com.aspose.html.dom/node/childnodes/), or returns null if the specified node is the last child in the parent element. |
 | [getNodeName](../../com.aspose.html.dom/document/nodename/) The name of this node, depending on its type. |
 | [getNodeType](../../com.aspose.html.dom/document/nodetype/) A code representing the type of the underlying object. |
-[getNodeValue]
-[setNodeValue] The nodeValue property of the [`Node `](../../com.aspose.html.dom/node/)interface returns or sets the value of the current node. |
+| [nodeValue](../../com.aspose.html.dom/node/nodevalue/) { get; set; } | The nodeValue property of the [`Node `](../../com.aspose.html.dom/node/)interface returns or sets the value of the current node. |
 | [getOrigin](../../com.aspose.html.dom/document/origin/) Gets the document origin. |
 | [getOwnerDocument](../../com.aspose.html.dom/document/ownerdocument/) Gets the owner document. |
 | [getParentElement](../../com.aspose.html.dom/node/parentelement/) The read-only parentElement property of [`Node`](../../com.aspose.html.dom/node/) interface returns the DOM node's parent [`Element`](../../com.aspose.html.dom/element/), or null if the node either has no parent, or its parent isn't a DOM Element. |
 | [getParentNode](../../com.aspose.html.dom/node/parentnode/) The read-only parentNode property of the Node interface returns the parent of the specified node in the DOM tree. |
-[getPrefix]
-[setPrefix] The prefix read-only property returns the package prefix of the specified element, or null if no prefix is specified. |
+| [prefix](../../com.aspose.html.dom/node/prefix/) { get; set; } | The prefix read-only property returns the package prefix of the specified element, or null if no prefix is specified. |
 | [getPreviousElementSibling](../../com.aspose.html.dom/document/previouselementsibling/) Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree. |
 | [getPreviousSibling](../../com.aspose.html.dom/node/previoussibling/) The read-only previousSibling property of the [`Node`](../../com.aspose.html.dom/node/) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../../com.aspose.html.dom/node/firstchild/) list, or null if the specified node is the first in that list. |
 | [getReadyState](../../com.aspose.html.dom/document/readystate/) Returns the document readiness. The "loading" while the Document is loading, "interactive" once it is finished parsing but still loading sub-resources, and "complete" once it has loaded. |
@@ -82,8 +79,7 @@ public class SVGDocument : Document, IDocumentCSS
 [getStrictErrorChecking]
 [setStrictErrorChecking] An attribute specifying whether error checking is enforced or not. When set to false, the implementation is free to not test every possible error case normally defined on DOM operations, and not raise any DOMException on DOM operations or report errors while using Document.normalizeDocument(). In case of error, the behavior is undefined. This attribute is true by default. |
 | [getStyleSheets](../../com.aspose.html.dom/document/stylesheets/) A list containing all the style sheets explicitly linked into or embedded in a document. For HTML documents, this includes external style sheets, included via the HTML LINK element, and inline STYLE elements. |
-[getTextContent]
-[setTextContent] The textContent property of the [`Node`](../../com.aspose.html.dom/node/) interface represents the text content of the node and its descendants. |
+| [textContent](../../com.aspose.html.dom/node/textcontent/) { get; set; } | The textContent property of the [`Node`](../../com.aspose.html.dom/node/) interface represents the text content of the node and its descendants. |
 | [getTitle](../../com.aspose.html.dom.svg/svgdocument/title/) The title of a document as specified by the ‘title’ sub-element of the ‘svg’ root element (i.e., Here is the title...) |
 | [getURL](../../com.aspose.html.dom.svg/svgdocument/url/) The complete URI of the document. |
 [getXmlStandalone]
@@ -130,7 +126,6 @@ public class SVGDocument : Document, IDocumentCSS
 | [getElementsByTagNameNS](../../com.aspose.html.dom/document/getelementsbytagnamens/)(String, String) | Returns a list of elements with the given tag name belonging to the given package. The complete document is searched, including the root node. |
 | [getOverrideStyle](../../com.aspose.html.dom.svg/svgdocument/getoverridestyle/)(Element, String) | This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element. |
 | [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| [hasAttributes](../../com.aspose.html.dom/node/hasattributes/)() | The hasAttributes() method of the [`Element`](../../com.aspose.html.dom/element/) interface returns a boolean value indicating whether the current element has any attributes or not. |
 | [hasChildNodes](../../com.aspose.html.dom/node/haschildnodes/)() | The hasChildNodes() method of the Node interface returns a boolean value indicating whether the given [`Node`](../../com.aspose.html.dom/node/) has child nodes or not. |
 | [importNode](../../com.aspose.html.dom/document/importnode/)(Node, bool) | Imports a node from another document to this document, without altering or removing the source node from the original document; this method creates a new copy of the source node. |
 | [insertBefore](../../com.aspose.html.dom/node/insertbefore/)(Node, Node) | The insertBefore() method of the Node interface inserts a node before a reference node as a child of a specified parent node. |
@@ -155,11 +150,11 @@ public class SVGDocument : Document, IDocumentCSS
 | [removeEventListener](../../com.aspose.html.dom/eventtarget/removeeventlistener/)(String, IEventListener, bool) | This method allows the removal of event listeners from the event target. If an is removed from an while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
 | [renderTo](../../com.aspose.html.dom.svg/svgdocument/renderto/)(IDevice) | This method is used to print the contents of the current document to the specified device. |
 | [replaceChild](../../com.aspose.html.dom/node/replacechild/)(Node, Node) | Replaces the child node oldChild with newChild in the list of children, and returns the oldChild node. If newChild is a [`DocumentFragment`](../../com.aspose.html.dom/documentfragment/) object, oldChild is replaced by all of the [`DocumentFragment`](../../com.aspose.html.dom/documentfragment/) children, which are inserted in the same order. If the newChild is already in the tree, it is first removed. |
-| [save](../../com.aspose.html.dom.svg/svgdocument/save/#save)(IOutputStorage) | Saves the document content and resources to the output storage. |
+| [save](../../com.aspose.html.dom.svg/svgdocument/save/#save)(ResourceHandler) | Saves the document content and resources using the [`ResourceHandler`](../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
 | [save](../../com.aspose.html.dom.svg/svgdocument/save/#save_6)(String) | Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files". |
 | [save](../../com.aspose.html.dom.svg/svgdocument/save/#save_3)(Url) | Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files". |
-| [save](../../com.aspose.html.dom.svg/svgdocument/save/#save_1)(IOutputStorage, SVGSaveFormat) | Saves the document content and resources to the output storage. |
-| [save](../../com.aspose.html.dom.svg/svgdocument/save/#save_2)(IOutputStorage, SVGSaveOptions) | Saves the document content and resources to the output storage. |
+| [save](../../com.aspose.html.dom.svg/svgdocument/save/#save_1)(ResourceHandler, SVGSaveFormat) | Saves the document content and resources using the [`ResourceHandler`](../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
+| [save](../../com.aspose.html.dom.svg/svgdocument/save/#save_2)(ResourceHandler, SVGSaveOptions) | Saves the document content and resources using the [`ResourceHandler`](../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
 | [save](../../com.aspose.html.dom.svg/svgdocument/save/#save_7)(String, SVGSaveFormat) | Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files". |
 | [save](../../com.aspose.html.dom.svg/svgdocument/save/#save_8)(String, SVGSaveOptions) | Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files". |
 | [save](../../com.aspose.html.dom.svg/svgdocument/save/#save_4)(Url, SVGSaveFormat) | Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files". |

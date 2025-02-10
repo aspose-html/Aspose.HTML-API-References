@@ -25,5 +25,5 @@ The Int16.
 ### See Also
 
 * class [Int16Array](../)
-* package [com.aspose.html](../../int16array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

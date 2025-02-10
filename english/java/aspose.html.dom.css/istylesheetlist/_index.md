@@ -3,7 +3,7 @@ title: IStyleSheetList Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.css.IStyleSheetList interface. The StyleSheetList interface represents a list of CSSStyleSheet objects. An instance of this object can be returned by Document.styleSheets
 type: docs
-weight: 610
+weight: 770
 url: /java/com.aspose.html.dom.css/istylesheetlist/
 ---
 ## IStyleSheetList interface
@@ -13,7 +13,7 @@ The StyleSheetList interface represents a list of [`CSSStyleSheet`](../icssstyle
 The object’s supported property indices are the numbers in the range zero to one less than the number of CSS style sheets represented by the collection. If there are no such CSS style sheets, then there are no supported property indices.
 
 ```java
-public interface IStyleSheetList : IEnumerable<IStyleSheet>
+public interface IStyleSheetList : IEnumerable<ICSSStyleSheet>
 ```
 
 ## Properties
@@ -33,6 +33,6 @@ Reference
 
 ### See Also
 
-* interface [IStyleSheet](../istylesheet/)
+* interface [ICSSStyleSheet](../icssstylesheet/)
 * package [com.aspose.html.dom.css](../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../)

@@ -17,5 +17,5 @@ public ulong Width { get; }
 ### See Also
 
 * interface [IImageData](../)
-* package [com.aspose.html.dom.canvas](../../iimagedata/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

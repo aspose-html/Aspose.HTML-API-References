@@ -17,5 +17,5 @@ public String Href { get; set; }
 ### See Also
 
 * class [HTMLBaseElement](../)
-* package [com.aspose.html](../../htmlbaseelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -27,5 +27,5 @@ The x-axis radius
 ### See Also
 
 * class [SVGPathSegArcAbs](../)
-* package [com.aspose.html.dom.svg.paths](../../svgpathsegarcabs/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

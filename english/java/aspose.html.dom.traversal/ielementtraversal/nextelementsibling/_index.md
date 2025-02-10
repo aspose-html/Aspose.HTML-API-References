@@ -22,5 +22,5 @@ The next element sibling.
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * interface [IElementTraversal](../)
-* package [com.aspose.html.dom.traversal](../../ielementtraversal/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)

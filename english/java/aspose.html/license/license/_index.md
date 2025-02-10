@@ -35,5 +35,5 @@ license.setLicense("MyLicense.lic");
 ### See Also
 
 * class [License](../)
-* package [com.aspose.html](../../license/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

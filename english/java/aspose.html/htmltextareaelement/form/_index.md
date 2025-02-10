@@ -18,5 +18,5 @@ public HTMLFormElement Form { get; }
 
 * class [HTMLFormElement](../../htmlformelement/)
 * class [HTMLTextAreaElement](../)
-* package [com.aspose.html](../../htmltextareaelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

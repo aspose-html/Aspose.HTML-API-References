@@ -18,5 +18,5 @@ public GraphicContext GraphicContext { get; }
 
 * class [GraphicContext](../../graphiccontext/)
 * interface [IDevice](../)
-* package [com.aspose.html.rendering](../../idevice/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

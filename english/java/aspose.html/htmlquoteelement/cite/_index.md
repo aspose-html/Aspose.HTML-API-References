@@ -17,5 +17,5 @@ public String Cite { get; set; }
 ### See Also
 
 * class [HTMLQuoteElement](../)
-* package [com.aspose.html](../../htmlquoteelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

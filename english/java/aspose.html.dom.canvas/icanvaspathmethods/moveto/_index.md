@@ -22,5 +22,5 @@ public void MoveTo(double x, double y)
 ### See Also
 
 * interface [ICanvasPathMethods](../)
-* package [com.aspose.html.dom.canvas](../../icanvaspathmethods/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

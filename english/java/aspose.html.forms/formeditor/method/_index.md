@@ -18,5 +18,5 @@ public HttpMethod Method { get; set; }
 
 * class [HttpMethod](../../../com.aspose.html.net/httpmethod/)
 * class [FormEditor](../)
-* package [com.aspose.html.forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

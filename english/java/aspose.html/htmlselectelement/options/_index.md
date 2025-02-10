@@ -18,5 +18,5 @@ public IHTMLOptionsCollection Options { get; }
 
 * interface [IHTMLOptionsCollection](../../ihtmloptionscollection/)
 * class [HTMLSelectElement](../)
-* package [com.aspose.html](../../htmlselectelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: ICSSStyleDeclaration Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.css.ICSSStyleDeclaration interface. The CSSStyleDeclaration interface represents an object that is a CSS declaration block and exposes style information and various style-related methods and properties
 type: docs
-weight: 500
+weight: 660
 url: /java/com.aspose.html.dom.css/icssstyledeclaration/
 ---
 ## ICSSStyleDeclaration interface

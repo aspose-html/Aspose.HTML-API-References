@@ -22,5 +22,5 @@ The margin.
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* package [com.aspose.html.drawing](../../page/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

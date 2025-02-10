@@ -3,7 +3,7 @@ title: Float32Array Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Float32Array class. Represents an array of 32-bit floating point numbers corresponding to the C float data type in the platform byte order
 type: docs
-weight: 2880
+weight: 3100
 url: /java/com.aspose.html/float32array/
 ---
 ## Float32Array class
@@ -31,8 +31,7 @@ public class Float32Array : TypedArray<float>
 | [getBuffer](../../com.aspose.html/typedarray/buffer/) Gets the ArrayBuffer referenced by this instance. |
 | [getByteLength](../../com.aspose.html/typedarray/bytelength/) Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes. |
 | [getByteOffset](../../com.aspose.html/typedarray/byteoffset/) Gets the byteOffset from the start of referenced ArrayBuffer. |
-[getItem]
-[setItem] Gets or sets the Single at the specified index. |
+| [item](../../com.aspose.html/float32array/item/) { get; set; } | Gets or sets the Single at the specified index. |
 | [getLength](../../com.aspose.html/typedarray/length/) Gets the length of a typed array. |
 
 ## Methods

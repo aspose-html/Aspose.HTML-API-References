@@ -3,7 +3,7 @@ title: MultipartContent Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.net.MultipartContent class. Represents a multipart/ content
 type: docs
-weight: 4040
+weight: 4220
 url: /java/com.aspose.html.net/multipartcontent/
 ---
 ## MultipartContent class

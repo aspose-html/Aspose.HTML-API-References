@@ -17,5 +17,5 @@ public bool InvalidIteratorState { get; }
 ### See Also
 
 * interface [IXPathResult](../)
-* package [com.aspose.html.dom.xpath](../../ixpathresult/)
+* package [com.aspose.html.dom.xpath](../../../com.aspose.html.dom.xpath/)
 * package [Aspose.HTML](../../../)

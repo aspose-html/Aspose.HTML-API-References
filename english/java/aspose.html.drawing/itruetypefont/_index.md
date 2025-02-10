@@ -3,7 +3,7 @@ title: ITrueTypeFont Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.ITrueTypeFont interface. Declares methods for working with TrueType font
 type: docs
-weight: 2770
+weight: 2950
 url: /java/com.aspose.html.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface

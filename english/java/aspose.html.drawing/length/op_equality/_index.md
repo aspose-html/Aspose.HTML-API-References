@@ -15,5 +15,5 @@ public static bool operator ==(Length a, Length b)
 ### See Also
 
 * class [Length](../)
-* package [com.aspose.html.drawing](../../length/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

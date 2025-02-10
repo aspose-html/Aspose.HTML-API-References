@@ -3,7 +3,7 @@ title: HugoYamlBasedFrontMatterSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.extensions.HugoYamlBasedFrontMatterSyntaxNode class. Defines the HugoYamlBasedFrontMatterSyntaxNode
 type: docs
-weight: 4940
+weight: 5200
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/
 ---
 ## HugoYamlBasedFrontMatterSyntaxNode class
@@ -12,7 +12,7 @@ Defines the HugoYamlBasedFrontMatterSyntaxNode
 
 ```java
 public class HugoYamlBasedFrontMatterSyntaxNode : HugoFrontMatterSyntaxNode, 
-    IEnumerable<KeyValuePair<String, ChildFrontMatterSyntaxNode>>
+    IEnumerable<KeyValuePair<ChildFrontMatterSyntaxNode, ChildFrontMatterSyntaxNode>>
 ```
 
 ## Properties
@@ -20,7 +20,7 @@ public class HugoYamlBasedFrontMatterSyntaxNode : HugoFrontMatterSyntaxNode,
 | Name | Description |
 | --- | --- |
 | [getFirstChild](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/firstchild/) Get the first child. |
-| [getFrontMatterRootNode](../../com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/frontmatterrootnode/) Get and set the RootNode. |
+| [getFrontMatterRootNode](../../com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/frontmatterrootnode/) Get the RootNode. |
 | [getLastChild](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/lastchild/) Get the last child. |
 | [getNextSibling](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/nextsibling/) Get ghe next sibling. |
 | [getParent](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) Get the parent node. |

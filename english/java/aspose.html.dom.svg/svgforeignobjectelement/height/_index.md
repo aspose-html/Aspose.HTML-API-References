@@ -22,5 +22,5 @@ The attribute ‘height’ of the given ‘foreignObject’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* package [com.aspose.html.dom.svg](../../svgforeignobjectelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

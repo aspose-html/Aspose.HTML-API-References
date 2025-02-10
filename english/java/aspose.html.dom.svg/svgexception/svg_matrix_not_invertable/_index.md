@@ -17,5 +17,5 @@ public const ushort SVG_MATRIX_NOT_INVERTABLE;
 ### See Also
 
 * class [SVGException](../)
-* package [com.aspose.html.dom.svg](../../svgexception/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

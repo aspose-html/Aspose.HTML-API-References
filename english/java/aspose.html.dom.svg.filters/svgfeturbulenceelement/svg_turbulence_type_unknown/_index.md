@@ -17,5 +17,5 @@ public const ushort SVG_TURBULENCE_TYPE_UNKNOWN;
 ### See Also
 
 * class [SVGFETurbulenceElement](../)
-* package [com.aspose.html.dom.svg.filters](../../svgfeturbulenceelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

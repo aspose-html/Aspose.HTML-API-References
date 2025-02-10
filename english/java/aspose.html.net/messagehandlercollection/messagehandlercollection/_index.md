@@ -17,5 +17,5 @@ public MessageHandlerCollection()
 ### See Also
 
 * class [MessageHandlerCollection](../)
-* package [com.aspose.html.net](../../messagehandlercollection/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

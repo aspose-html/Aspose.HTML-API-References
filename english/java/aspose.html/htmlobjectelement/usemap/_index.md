@@ -17,5 +17,5 @@ public String UseMap { get; set; }
 ### See Also
 
 * class [HTMLObjectElement](../)
-* package [com.aspose.html](../../htmlobjectelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGAnimatedNumberList Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.datatypes.SVGAnimatedNumberList class. Used for attributes which take a list of numbers and which can be animated
 type: docs
-weight: 1150
+weight: 1310
 url: /java/com.aspose.html.dom.svg.datatypes/svganimatednumberlist/
 ---
 ## SVGAnimatedNumberList class

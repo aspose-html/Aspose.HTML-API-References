@@ -18,5 +18,5 @@ public SourceText Source { get; }
 
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * class [LineBreakSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../linebreaksyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

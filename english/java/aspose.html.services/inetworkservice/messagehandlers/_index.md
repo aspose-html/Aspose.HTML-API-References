@@ -22,5 +22,5 @@ The message handlers.
 
 * class [MessageHandlerCollection](../../../com.aspose.html.net/messagehandlercollection/)
 * interface [INetworkService](../)
-* package [com.aspose.html.services](../../inetworkservice/)
+* package [com.aspose.html.services](../../../com.aspose.html.services/)
 * package [Aspose.HTML](../../../)

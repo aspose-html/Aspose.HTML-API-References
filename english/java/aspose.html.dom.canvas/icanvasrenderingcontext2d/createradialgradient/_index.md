@@ -32,5 +32,5 @@ A radial CanvasGradient initialized with the two specified circles.
 
 * interface [ICanvasGradient](../../icanvasgradient/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

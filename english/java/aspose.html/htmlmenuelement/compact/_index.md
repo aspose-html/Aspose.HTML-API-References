@@ -17,5 +17,5 @@ public bool Compact { get; set; }
 ### See Also
 
 * class [HTMLMenuElement](../)
-* package [com.aspose.html](../../htmlmenuelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

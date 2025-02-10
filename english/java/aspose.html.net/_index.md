@@ -3,7 +3,7 @@ title: com.aspose.html.net
 second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.net package is presented by classes and interfaces which are responsible for helping easy network processing
 type: docs
-weight: 260
+weight: 290
 url: /java/com.aspose.html.net/
 ---
 The **com.aspose.html.net** package is presented by classes and interfaces which are responsible for helping easy network processing.

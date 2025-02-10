@@ -17,5 +17,5 @@ public ContentHeaders()
 ### See Also
 
 * class [ContentHeaders](../)
-* package [com.aspose.html.net](../../contentheaders/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

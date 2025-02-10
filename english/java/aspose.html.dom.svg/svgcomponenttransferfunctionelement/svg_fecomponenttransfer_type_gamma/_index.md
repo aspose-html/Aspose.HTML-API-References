@@ -17,5 +17,5 @@ public const ushort SVG_FECOMPONENTTRANSFER_TYPE_GAMMA;
 ### See Also
 
 * class [SVGComponentTransferFunctionElement](../)
-* package [com.aspose.html.dom.svg](../../svgcomponenttransferfunctionelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

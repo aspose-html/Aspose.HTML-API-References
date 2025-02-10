@@ -3,7 +3,7 @@ title: Color Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.Color class. The Color class lets you specify colors as Red-Green-Blue RGB values Hue-Saturation-Luminosity HSL values Hue-Saturation-Value HSV values Hue-Whiteness-Blackness HWB values lightness-A-B LAB values Luminance-Chroma-Hue LCH values Cyan-Magenta-Yellow-Key CMYK values Natural colors NCOL values or with a color name. An Alpha channel is also available to indicate transparency
 type: docs
-weight: 2650
+weight: 2810
 url: /java/com.aspose.html.drawing/color/
 ---
 ## Color class

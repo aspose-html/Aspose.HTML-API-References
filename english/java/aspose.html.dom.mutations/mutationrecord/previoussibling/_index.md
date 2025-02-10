@@ -22,5 +22,5 @@ The previous sibling.
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * class [MutationRecord](../)
-* package [com.aspose.html.dom.mutations](../../mutationrecord/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The attribute ‘targetY’ of the given ‘feConvolveMatrix’ element.
 
 * class [SVGAnimatedInteger](../../../com.aspose.html.dom.svg.datatypes/svganimatedinteger/)
 * class [SVGFEConvolveMatrixElement](../)
-* package [com.aspose.html.dom.svg.filters](../../svgfeconvolvematrixelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

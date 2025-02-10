@@ -21,7 +21,7 @@ The object value.
 ### See Also
 
 * class [Numeric](../)
-* package [com.aspose.html.drawing](../../numeric/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -52,5 +52,5 @@ Returns value that is converted to specified type.
 
 * class [UnitType](../../unittype/)
 * class [Numeric](../)
-* package [com.aspose.html.drawing](../../numeric/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

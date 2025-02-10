@@ -22,5 +22,5 @@ public void Setup(IMarkdownParserBuilder builder)
 
 * interface [IMarkdownParserBuilder](../../../com.aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/)
 * class [HugoSyntaxExtension](../)
-* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../hugosyntaxextension/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

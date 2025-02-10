@@ -17,5 +17,5 @@ public static readonly byte BYTES_PER_ELEMENT;
 ### See Also
 
 * class [Int8Array](../)
-* package [com.aspose.html](../../int8array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

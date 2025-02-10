@@ -22,5 +22,5 @@ An SVGTransform object.
 
 * class [SVGTransform](../../../com.aspose.html.dom.svg.datatypes/svgtransform/)
 * class [SVGSVGElement](../)
-* package [com.aspose.html.dom.svg](../../svgsvgelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

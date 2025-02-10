@@ -21,7 +21,7 @@ public void Navigate(String address)
 ### See Also
 
 * class [Document](../)
-* package [com.aspose.html.dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -42,7 +42,7 @@ public void Navigate(Url url)
 
 * class [Url](../../../com.aspose.html/url/)
 * class [Document](../)
-* package [com.aspose.html.dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -69,7 +69,7 @@ public void Navigate(String content, String baseUri)
 ### See Also
 
 * class [Document](../)
-* package [com.aspose.html.dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -97,7 +97,7 @@ public void Navigate(String content, Url baseUri)
 
 * class [Url](../../../com.aspose.html/url/)
 * class [Document](../)
-* package [com.aspose.html.dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -124,7 +124,7 @@ public void Navigate(Stream content, String baseUri)
 ### See Also
 
 * class [Document](../)
-* package [com.aspose.html.dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -152,7 +152,7 @@ public void Navigate(Stream content, Url baseUri)
 
 * class [Url](../../../com.aspose.html/url/)
 * class [Document](../)
-* package [com.aspose.html.dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -173,5 +173,5 @@ public void Navigate(RequestMessage request)
 
 * class [RequestMessage](../../../com.aspose.html.net/requestmessage/)
 * class [Document](../)
-* package [com.aspose.html.dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

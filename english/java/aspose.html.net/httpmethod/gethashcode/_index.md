@@ -21,5 +21,5 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [HttpMethod](../)
-* package [com.aspose.html.net](../../httpmethod/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

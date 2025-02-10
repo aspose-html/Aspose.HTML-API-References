@@ -3,7 +3,7 @@ title: DOMNullableAttribute Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.attributes.DOMNullableAttribute class. Specifies a DOM object can be assigned null value
 type: docs
-weight: 180
+weight: 340
 url: /java/com.aspose.html.dom.attributes/domnullableattribute/
 ---
 ## DOMNullableAttribute class

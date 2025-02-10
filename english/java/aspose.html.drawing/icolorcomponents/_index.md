@@ -3,7 +3,7 @@ title: IColorComponents Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.IColorComponents interface. Declares method and properties for processing color components
 type: docs
-weight: 2700
+weight: 2860
 url: /java/com.aspose.html.drawing/icolorcomponents/
 ---
 ## IColorComponents interface

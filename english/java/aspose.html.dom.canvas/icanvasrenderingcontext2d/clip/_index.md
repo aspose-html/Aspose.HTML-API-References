@@ -17,7 +17,7 @@ public void Clip()
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,7 +38,7 @@ public void Clip(CanvasFillRule fillRule)
 
 * enum [CanvasFillRule](../../canvasfillrule/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -61,5 +61,5 @@ public void Clip(Path2D path, CanvasFillRule fillRule)
 * class [Path2D](../../path2d/)
 * enum [CanvasFillRule](../../canvasfillrule/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

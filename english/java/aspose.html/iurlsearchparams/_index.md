@@ -3,7 +3,7 @@ title: IUrlSearchParams Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.IUrlSearchParams interface. Provides methods to work with URLs query String
 type: docs
-weight: 3790
+weight: 3970
 url: /java/com.aspose.html/iurlsearchparams/
 ---
 ## IUrlSearchParams interface

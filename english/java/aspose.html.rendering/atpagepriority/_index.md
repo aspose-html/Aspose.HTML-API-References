@@ -3,7 +3,7 @@ title: AtPagePriority Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.AtPagePriority enum. Specifies possible orders of applying page size declarations
 type: docs
-weight: 4140
+weight: 4320
 url: /java/com.aspose.html.rendering/atpagepriority/
 ---
 ## AtPagePriority enumeration

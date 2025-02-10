@@ -3,7 +3,7 @@ title: NameValueHeaderValue Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.net.headers.NameValueHeaderValue class. Represents a name/value pair that describe a header value
 type: docs
-weight: 3930
+weight: 4110
 url: /java/com.aspose.html.net.headers/namevalueheadervalue/
 ---
 ## NameValueHeaderValue class

@@ -3,7 +3,7 @@ title: IndentedCodeBlockSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.IndentedCodeBlockSyntaxNode class. Represents the IndentedCodeBlockSyntaxNode
 type: docs
-weight: 5030
+weight: 5290
 url: /java/com.aspose.html.toolkit.markdown.syntax/indentedcodeblocksyntaxnode/
 ---
 ## IndentedCodeBlockSyntaxNode class

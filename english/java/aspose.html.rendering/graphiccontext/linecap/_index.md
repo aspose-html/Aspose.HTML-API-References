@@ -11,11 +11,12 @@ url: /java/com.aspose.html.rendering/graphiccontext/linecap/
 Sets or gets the code specifying the shape of the endpoints for any open path that is stroked.
 
 ```java
-public LineCap LineCap { get; set; }
+public StrokeLineCap LineCap { get; set; }
 ```
 
 ### See Also
 
+* enum [StrokeLineCap](../../strokelinecap/)
 * class [GraphicContext](../)
-* package [com.aspose.html.rendering](../../graphiccontext/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

@@ -26,5 +26,5 @@ Boolean `true` if the token was found and replaced, `false` otherwise.
 ### See Also
 
 * class [DOMTokenList](../)
-* package [com.aspose.html.collections](../../domtokenlist/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

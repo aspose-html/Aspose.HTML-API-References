@@ -11,7 +11,7 @@ url: /java/com.aspose.html.rendering/device-2/cubicbezierto/
 Appends a cubic Bézier curve to the current path. The curve extends from the current point to the point pt2, using pt1 and pt2 as the Bézier control points. The new current point is pt3.
 
 ```java
-public abstract void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
+public void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
 ```
 
 | Parameter | Type | Description |
@@ -23,5 +23,5 @@ public abstract void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
 ### See Also
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* package [com.aspose.html.rendering](../../device-2/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

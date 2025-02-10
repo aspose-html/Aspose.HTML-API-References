@@ -3,7 +3,7 @@ title: YamlMappingSyntaxNode.Values
 second_title: Aspose.HTML for Java API Reference
 description: YamlMappingSyntaxNode property. Get all Values
 type: docs
-weight: 50
+weight: 40
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/values/
 ---
 ## YamlMappingSyntaxNode.Values property
@@ -18,5 +18,5 @@ public IEnumerable<ChildFrontMatterSyntaxNode> Values { get; }
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [YamlMappingSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../yamlmappingsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

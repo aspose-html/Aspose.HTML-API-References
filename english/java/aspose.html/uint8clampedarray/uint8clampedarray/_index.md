@@ -21,7 +21,7 @@ public Uint8ClampedArray(int length)
 ### See Also
 
 * class [Uint8ClampedArray](../)
-* package [com.aspose.html](../../uint8clampedarray/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -41,7 +41,7 @@ public Uint8ClampedArray(byte[] data)
 ### See Also
 
 * class [Uint8ClampedArray](../)
-* package [com.aspose.html](../../uint8clampedarray/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -62,7 +62,7 @@ public Uint8ClampedArray(ArrayBuffer buffer)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint8ClampedArray](../)
-* package [com.aspose.html](../../uint8clampedarray/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -84,7 +84,7 @@ public Uint8ClampedArray(ArrayBuffer buffer, int byteOffset)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint8ClampedArray](../)
-* package [com.aspose.html](../../uint8clampedarray/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,5 +107,5 @@ public Uint8ClampedArray(ArrayBuffer buffer, int byteOffset, int length)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint8ClampedArray](../)
-* package [com.aspose.html](../../uint8clampedarray/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

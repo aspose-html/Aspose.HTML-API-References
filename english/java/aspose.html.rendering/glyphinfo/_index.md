@@ -3,7 +3,7 @@ title: GlyphInfo Struct
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.GlyphInfo struct. Contains glyph related information
 type: docs
-weight: 4280
+weight: 4470
 url: /java/com.aspose.html.rendering/glyphinfo/
 ---
 ## GlyphInfo structure

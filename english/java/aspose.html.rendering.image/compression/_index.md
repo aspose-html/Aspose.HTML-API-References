@@ -3,7 +3,7 @@ title: Compression Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.image.Compression enum. Specifies the possible compression schemes for Tagged Image File Format TIFF bitmap images
 type: docs
-weight: 4320
+weight: 4510
 url: /java/com.aspose.html.rendering.image/compression/
 ---
 ## Compression enumeration

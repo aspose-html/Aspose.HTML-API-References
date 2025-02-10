@@ -17,5 +17,5 @@ public static readonly InlineParsingInstruction Handled;
 ### See Also
 
 * struct [InlineParsingInstruction](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../inlineparsinginstruction/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

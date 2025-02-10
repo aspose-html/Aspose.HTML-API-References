@@ -17,5 +17,5 @@ public DOMObject()
 ### See Also
 
 * class [DOMObject](../)
-* package [com.aspose.html.dom](../../domobject/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public RenderingOptions Options { get; }
 
 * class [RenderingOptions](../../renderingoptions/)
 * interface [IDevice](../)
-* package [com.aspose.html.rendering](../../idevice/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

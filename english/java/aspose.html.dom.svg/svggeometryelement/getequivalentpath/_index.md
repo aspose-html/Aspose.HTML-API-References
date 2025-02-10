@@ -22,5 +22,5 @@ A new instance instance of the [`SVGPathSegList`](../../../com.aspose.html.dom.s
 
 * class [SVGPathSegList](../../../com.aspose.html.dom.svg.paths/svgpathseglist/)
 * class [SVGGeometryElement](../)
-* package [com.aspose.html.dom.svg](../../svggeometryelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

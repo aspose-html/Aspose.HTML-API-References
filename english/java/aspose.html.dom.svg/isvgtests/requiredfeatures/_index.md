@@ -22,5 +22,5 @@ The required features.
 
 * class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
 * interface [ISVGTests](../)
-* package [com.aspose.html.dom.svg](../../isvgtests/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public IStyleSheet Sheet { get; }
 
 * interface [IStyleSheet](../../../com.aspose.html.dom.css/istylesheet/)
 * class [HTMLStyleElement](../)
-* package [com.aspose.html](../../htmlstyleelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

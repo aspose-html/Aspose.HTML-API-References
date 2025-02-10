@@ -21,5 +21,5 @@ The selectorText attribute, on getting, must return the result of serializing th
 ### See Also
 
 * interface [ICSSPageRule](../)
-* package [com.aspose.html.dom.css](../../icsspagerule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

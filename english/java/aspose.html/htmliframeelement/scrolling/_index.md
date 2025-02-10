@@ -17,5 +17,5 @@ public String Scrolling { get; set; }
 ### See Also
 
 * class [HTMLIFrameElement](../)
-* package [com.aspose.html](../../htmliframeelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

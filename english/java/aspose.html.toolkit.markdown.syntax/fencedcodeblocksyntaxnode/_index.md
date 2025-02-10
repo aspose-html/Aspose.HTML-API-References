@@ -3,7 +3,7 @@ title: FencedCodeBlockSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.FencedCodeBlockSyntaxNode class. Represents the FencedCodeBlockSyntaxNode
 type: docs
-weight: 4990
+weight: 5250
 url: /java/com.aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode/
 ---
 ## FencedCodeBlockSyntaxNode class

@@ -21,5 +21,5 @@ The detail data.
 ### See Also
 
 * class [UIEvent](../)
-* package [com.aspose.html.dom.events](../../uievent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

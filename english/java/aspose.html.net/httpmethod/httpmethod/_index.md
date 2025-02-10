@@ -21,5 +21,5 @@ public HttpMethod(String method)
 ### See Also
 
 * class [HttpMethod](../)
-* package [com.aspose.html.net](../../httpmethod/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

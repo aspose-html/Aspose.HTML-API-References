@@ -3,7 +3,7 @@ title: MarkdownBlockParser Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.parser.MarkdownBlockParser class. Defines the base class MarkdownBlockParser
 type: docs
-weight: 5460
+weight: 5720
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/
 ---
 ## MarkdownBlockParser class

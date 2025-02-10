@@ -22,5 +22,5 @@ The attribute ‘in’ of the given ‘feBlend’ element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFEBlendElement](../)
-* package [com.aspose.html.dom.svg.filters](../../svgfeblendelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

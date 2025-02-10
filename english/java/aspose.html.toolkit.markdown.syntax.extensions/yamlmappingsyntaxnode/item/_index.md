@@ -3,7 +3,7 @@ title: YamlMappingSyntaxNode.Item
 second_title: Aspose.HTML for Java API Reference
 description: YamlMappingSyntaxNode property. Get the value by index
 type: docs
-weight: 30
+weight: 20
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/item/
 ---
 ## YamlMappingSyntaxNode indexer (1 of 2)
@@ -20,7 +20,7 @@ public ChildFrontMatterSyntaxNode this[int index] { get; }
 
 ### Return Value
 
-The YamlSyntaxNode.
+The ChildFrontMatterSyntaxNode.
 
 ### Exceptions
 
@@ -32,14 +32,14 @@ The YamlSyntaxNode.
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [YamlMappingSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../yamlmappingsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)
 
 ---
 
 ## YamlMappingSyntaxNode indexer (2 of 2)
 
-Get the YamlSyntaxNode by String key.
+Get the ChildFrontMatterSyntaxNode by String key.
 
 ```java
 public ChildFrontMatterSyntaxNode this[String key] { get; }
@@ -51,7 +51,7 @@ public ChildFrontMatterSyntaxNode this[String key] { get; }
 
 ### Return Value
 
-The YamlSyntaxNode.
+The ChildFrontMatterSyntaxNode.
 
 ### Exceptions
 
@@ -63,5 +63,5 @@ The YamlSyntaxNode.
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [YamlMappingSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../yamlmappingsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

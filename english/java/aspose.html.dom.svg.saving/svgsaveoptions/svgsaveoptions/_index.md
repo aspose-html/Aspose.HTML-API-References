@@ -17,5 +17,5 @@ public SVGSaveOptions()
 ### See Also
 
 * class [SVGSaveOptions](../)
-* package [com.aspose.html.dom.svg.saving](../../svgsaveoptions/)
+* package [com.aspose.html.dom.svg.saving](../../../com.aspose.html.dom.svg.saving/)
 * package [Aspose.HTML](../../../)

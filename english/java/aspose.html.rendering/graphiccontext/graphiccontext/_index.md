@@ -17,5 +17,5 @@ public GraphicContext()
 ### See Also
 
 * class [GraphicContext](../)
-* package [com.aspose.html.rendering](../../graphiccontext/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

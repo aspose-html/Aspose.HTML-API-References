@@ -3,7 +3,7 @@ title: com.aspose.html.dom.mutations
 second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.dom.mutations provides opportunity to observe DOM mutations and getting specific callback information
 type: docs
-weight: 100
+weight: 130
 url: /java/com.aspose.html.dom.mutations/
 ---
 The **com.aspose.html.dom.mutations** provides opportunity to observe DOM mutations and getting specific callback information.

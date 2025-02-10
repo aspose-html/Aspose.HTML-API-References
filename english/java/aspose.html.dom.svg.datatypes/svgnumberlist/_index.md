@@ -3,7 +3,7 @@ title: SVGNumberList Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.datatypes.SVGNumberList class. This interface defines a list of SVGNumber objects
 type: docs
-weight: 1250
+weight: 1410
 url: /java/com.aspose.html.dom.svg.datatypes/svgnumberlist/
 ---
 ## SVGNumberList class

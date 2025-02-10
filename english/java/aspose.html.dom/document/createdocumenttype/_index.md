@@ -36,5 +36,5 @@ var dt = document.CreateDocumentType("svg:svg", "-//W3C//DTD SVG 1.1//EN", "http
 
 * class [DocumentType](../../documenttype/)
 * class [Document](../)
-* package [com.aspose.html.dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

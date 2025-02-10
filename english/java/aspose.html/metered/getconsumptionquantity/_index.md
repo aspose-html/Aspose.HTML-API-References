@@ -21,5 +21,5 @@ consumption quantity
 ### See Also
 
 * class [Metered](../)
-* package [com.aspose.html](../../metered/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

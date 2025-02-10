@@ -3,7 +3,7 @@ title: HTMLSaveOptions Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.saving.HTMLSaveOptions class. Represents HTML save options. By assigning specific properties you can manage resource processing such as max handling depth and so on. More info see in documentation article
 type: docs
-weight: 4620
+weight: 4820
 url: /java/com.aspose.html.saving/htmlsaveoptions/
 ---
 ## HTMLSaveOptions class
@@ -40,12 +40,12 @@ public class HTMLSaveOptions : SaveOptions
 
 ## Remarks
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
 ```java
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.dom.svg;
 import com.aspose.html.saving;
 import System;

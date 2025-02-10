@@ -22,5 +22,5 @@ The buffer.
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [TypedArray](../)
-* package [com.aspose.html](../../typedarray/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

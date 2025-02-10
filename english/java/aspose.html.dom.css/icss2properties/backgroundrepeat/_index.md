@@ -27,5 +27,5 @@ The background repeat value from the list as it defined above.
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.dom.css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public String DataPath { get; }
 ### See Also
 
 * class [TemplateData](../)
-* package [com.aspose.html.converters](../../templatedata/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)

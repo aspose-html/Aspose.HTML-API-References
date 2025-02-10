@@ -21,5 +21,5 @@ public bool IsTrusted { get; }
 ### See Also
 
 * class [Event](../)
-* package [com.aspose.html.dom.events](../../event/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

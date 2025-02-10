@@ -3,7 +3,7 @@ title: INonDocumentTypeChildNode Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.INonDocumentTypeChildNode interface. Defines IChildNode that are not DOCUMENT_TYPE_NODE
 type: docs
-weight: 940
+weight: 1080
 url: /java/com.aspose.html.dom/inondocumenttypechildnode/
 ---
 ## INonDocumentTypeChildNode interface

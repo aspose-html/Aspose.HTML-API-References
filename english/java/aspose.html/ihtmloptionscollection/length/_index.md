@@ -17,5 +17,5 @@ public int Length { get; }
 ### See Also
 
 * interface [IHTMLOptionsCollection](../)
-* package [com.aspose.html](../../ihtmloptionscollection/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

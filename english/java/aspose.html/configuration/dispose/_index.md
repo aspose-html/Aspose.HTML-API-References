@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [Configuration](../)
-* package [com.aspose.html](../../configuration/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

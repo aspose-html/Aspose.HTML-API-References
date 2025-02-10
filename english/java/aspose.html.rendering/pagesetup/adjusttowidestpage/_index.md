@@ -17,5 +17,5 @@ public bool AdjustToWidestPage { get; set; }
 ### See Also
 
 * class [PageSetup](../)
-* package [com.aspose.html.rendering](../../pagesetup/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public ImageGraphicContext()
 ### See Also
 
 * class [ImageGraphicContext](../)
-* package [com.aspose.html.rendering.image](../../imagedevice.imagegraphiccontext/)
+* package [com.aspose.html.rendering.image](../../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../../)

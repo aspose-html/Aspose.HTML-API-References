@@ -17,5 +17,5 @@ public static readonly LineParsingInstruction Continue;
 ### See Also
 
 * struct [LineParsingInstruction](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../lineparsinginstruction/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

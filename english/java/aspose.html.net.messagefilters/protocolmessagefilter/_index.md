@@ -3,7 +3,7 @@ title: ProtocolMessageFilter Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.net.messagefilters.ProtocolMessageFilter class. Represents implementation of message filter by the resource protocol
 type: docs
-weight: 3980
+weight: 4160
 url: /java/com.aspose.html.net.messagefilters/protocolmessagefilter/
 ---
 ## ProtocolMessageFilter class

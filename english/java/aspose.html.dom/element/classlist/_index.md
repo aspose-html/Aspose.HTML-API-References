@@ -18,5 +18,5 @@ public DOMTokenList ClassList { get; }
 
 * class [DOMTokenList](../../../com.aspose.html.collections/domtokenlist/)
 * class [Element](../)
-* package [com.aspose.html.dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

@@ -28,7 +28,7 @@ public void Save(Url url)
 
 * class [Url](../../../com.aspose.html/url/)
 * class [SVGDocument](../)
-* package [com.aspose.html.dom.svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -54,28 +54,28 @@ public void Save(String path)
 ### See Also
 
 * class [SVGDocument](../)
-* package [com.aspose.html.dom.svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## Save(IOutputStorage) {#save}
+## Save(ResourceHandler) {#save}
 
-Saves the document content and resources to the output storage.
+Saves the document content and resources using the [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/).
 
 ```java
-public void Save(IOutputStorage outputStorage)
+public void Save(ResourceHandler resourceHandler)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | The output storage [`IOutputStorage`](../../../com.aspose.html.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | The resource handler [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
 
 ### See Also
 
-* interface [IOutputStorage](../../../com.aspose.html.io/ioutputstorage/)
+* class [ResourceHandler](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/)
 * class [SVGDocument](../)
-* package [com.aspose.html.dom.svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -103,30 +103,30 @@ public void Save(String path, SVGSaveFormat saveFormat)
 
 * enum [SVGSaveFormat](../../../com.aspose.html.dom.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* package [com.aspose.html.dom.svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## Save(IOutputStorage, SVGSaveFormat) {#save_1}
+## Save(ResourceHandler, SVGSaveFormat) {#save_1}
 
-Saves the document content and resources to the output storage.
+Saves the document content and resources using the [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/).
 
 ```java
-public void Save(IOutputStorage outputStorage, SVGSaveFormat saveFormat)
+public void Save(ResourceHandler resourceHandler, SVGSaveFormat saveFormat)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | The output storage [`IOutputStorage`](../../../com.aspose.html.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | The resource handler [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
 | saveFormat | SVGSaveFormat | Format in which document is saved. |
 
 ### See Also
 
-* interface [IOutputStorage](../../../com.aspose.html.io/ioutputstorage/)
+* class [ResourceHandler](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/)
 * enum [SVGSaveFormat](../../../com.aspose.html.dom.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* package [com.aspose.html.dom.svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -154,30 +154,30 @@ public void Save(String path, SVGSaveOptions saveOptions)
 
 * class [SVGSaveOptions](../../../com.aspose.html.dom.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* package [com.aspose.html.dom.svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## Save(IOutputStorage, SVGSaveOptions) {#save_2}
+## Save(ResourceHandler, SVGSaveOptions) {#save_2}
 
-Saves the document content and resources to the output storage.
+Saves the document content and resources using the [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/).
 
 ```java
-public void Save(IOutputStorage outputStorage, SVGSaveOptions saveOptions)
+public void Save(ResourceHandler resourceHandler, SVGSaveOptions saveOptions)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStorage | IOutputStorage | The output storage [`IOutputStorage`](../../../com.aspose.html.io/ioutputstorage/). |
+| resourceHandler | ResourceHandler | The resource handler [`ResourceHandler`](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/). |
 | saveOptions | SVGSaveOptions | SVG save options. |
 
 ### See Also
 
-* interface [IOutputStorage](../../../com.aspose.html.io/ioutputstorage/)
+* class [ResourceHandler](../../../com.aspose.html.saving.resourcehandlers/resourcehandler/)
 * class [SVGSaveOptions](../../../com.aspose.html.dom.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* package [com.aspose.html.dom.svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -206,7 +206,7 @@ public void Save(Url url, SVGSaveFormat saveFormat)
 * class [Url](../../../com.aspose.html/url/)
 * enum [SVGSaveFormat](../../../com.aspose.html.dom.svg.saving/svgsaveformat/)
 * class [SVGDocument](../)
-* package [com.aspose.html.dom.svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -235,5 +235,5 @@ public void Save(Url url, SVGSaveOptions saveOptions)
 * class [Url](../../../com.aspose.html/url/)
 * class [SVGSaveOptions](../../../com.aspose.html.dom.svg.saving/svgsaveoptions/)
 * class [SVGDocument](../)
-* package [com.aspose.html.dom.svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

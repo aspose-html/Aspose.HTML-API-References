@@ -17,5 +17,5 @@ public bool Disabled { get; set; }
 ### See Also
 
 * class [HTMLLinkElement](../)
-* package [com.aspose.html](../../htmllinkelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

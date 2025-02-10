@@ -3,7 +3,7 @@ title: IGradientBrush Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.IGradientBrush interface. Declare methods for getting common properties of gradient brushes
 type: docs
-weight: 2710
+weight: 2880
 url: /java/com.aspose.html.drawing/igradientbrush/
 ---
 ## IGradientBrush interface
@@ -18,9 +18,12 @@ public interface IGradientBrush : ITransformableBrush
 
 | Name | Description |
 | --- | --- |
-| [getBlendFactors](../../com.aspose.html.drawing/igradientbrush/blendfactors/) Get the blend factors that define a custom falloff for the gradient. |
-| [getBlendPositions](../../com.aspose.html.drawing/igradientbrush/blendpositions/) Get the blend positions that define a custom falloff for the gradient. |
-| [getInterpolationColors](../../com.aspose.html.drawing/igradientbrush/interpolationcolors/) Get the interpolation colors that defines a multicolor linear gradient. |
+[getBlendFactors]
+[setBlendFactors] Get the blend factors that define a custom falloff for the gradient. |
+[getBlendPositions]
+[setBlendPositions] Get the blend positions that define a custom falloff for the gradient. |
+[getInterpolationColors]
+[setInterpolationColors] Get the interpolation colors that defines a multicolor linear gradient. |
 
 ### See Also
 

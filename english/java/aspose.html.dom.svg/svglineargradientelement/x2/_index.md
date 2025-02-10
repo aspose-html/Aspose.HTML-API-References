@@ -22,5 +22,5 @@ The attribute ‘x2’ of the given ‘linearGradient’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGLinearGradientElement](../)
-* package [com.aspose.html.dom.svg](../../svglineargradientelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

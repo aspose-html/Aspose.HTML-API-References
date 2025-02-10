@@ -23,5 +23,5 @@ public void SetAttributeNS(String packageURI, String qualifiedName, String value
 ### See Also
 
 * class [Element](../)
-* package [com.aspose.html.dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

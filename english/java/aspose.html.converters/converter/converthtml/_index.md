@@ -88,7 +88,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -125,12 +125,12 @@ import com.aspose.html.converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, DocSaveOptions, String) {#converthtml_21}
+## ConvertHTML(Url, DocSaveOptions, String) {#converthtml_23}
 
 Convert HTML source presented by URL. Result is docx file formed by output file path.
 
@@ -212,7 +212,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -243,12 +243,12 @@ import com.aspose.html.converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, Configuration, DocSaveOptions, String) {#converthtml_11}
+## ConvertHTML(Url, Configuration, DocSaveOptions, String) {#converthtml_12}
 
 Convert HTML source presented by URL. Result is docx file formed by output file path.
 
@@ -332,7 +332,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -364,12 +364,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, DocSaveOptions, String) {#converthtml_41}
+## ConvertHTML(String, DocSaveOptions, String) {#converthtml_45}
 
 Convert HTML source presented by full file path to DOCX. Result is docx file formed by output file path.
 
@@ -451,7 +451,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -481,12 +481,12 @@ import com.aspose.html.converters;
 
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, Configuration, DocSaveOptions, String) {#converthtml_31}
+## ConvertHTML(String, Configuration, DocSaveOptions, String) {#converthtml_34}
 
 Convert HTML source presented by full file path to DOCX. Result is docx file formed by output file path.
 
@@ -570,7 +570,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -601,12 +601,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, DocSaveOptions, String) {#converthtml_61}
+## ConvertHTML(String, String, DocSaveOptions, String) {#converthtml_67}
 
 Convert HTML source presented by inline content. Result is docx file formed by output file path.
 
@@ -690,7 +690,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -718,12 +718,12 @@ import com.aspose.html.converters;
 
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, Configuration, DocSaveOptions, String) {#converthtml_51}
+## ConvertHTML(String, String, Configuration, DocSaveOptions, String) {#converthtml_56}
 
 Convert HTML source presented by inline content. Result is docx file formed by output file path.
 
@@ -808,7 +808,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -837,7 +837,7 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -925,7 +925,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -965,12 +965,12 @@ import com.aspose.html.converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, DocSaveOptions, ICreateStreamProvider) {#converthtml_20}
+## ConvertHTML(Url, DocSaveOptions, ICreateStreamProvider) {#converthtml_22}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1052,7 +1052,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -1087,12 +1087,12 @@ import com.aspose.html.converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_10}
+## ConvertHTML(Url, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_11}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1176,7 +1176,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -1212,12 +1212,12 @@ import com.aspose.html.converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, DocSaveOptions, ICreateStreamProvider) {#converthtml_40}
+## ConvertHTML(String, DocSaveOptions, ICreateStreamProvider) {#converthtml_44}
 
 Convert HTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1300,7 +1300,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -1334,12 +1334,12 @@ import com.aspose.html.converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_30}
+## ConvertHTML(String, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_33}
 
 Convert HTML source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1423,7 +1423,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -1458,12 +1458,12 @@ import com.aspose.html.converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, DocSaveOptions, ICreateStreamProvider) {#converthtml_60}
+## ConvertHTML(String, String, DocSaveOptions, ICreateStreamProvider) {#converthtml_66}
 
 Convert HTML source presented by inline content to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1547,7 +1547,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -1584,12 +1584,12 @@ import com.aspose.html.converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_50}
+## ConvertHTML(String, String, Configuration, DocSaveOptions, ICreateStreamProvider) {#converthtml_55}
 
 Convert HTML source presented by inline content to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1674,7 +1674,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -1712,7 +1712,7 @@ import com.aspose.html.converters;
 * class [DocSaveOptions](../../../com.aspose.html.saving/docsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1799,7 +1799,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -1837,12 +1837,12 @@ import com.aspose.html.converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, PdfSaveOptions, String) {#converthtml_27}
+## ConvertHTML(Url, PdfSaveOptions, String) {#converthtml_29}
 
 Convert HTML source presented by URL. Result is pdf file formed by output file path.
 
@@ -1924,7 +1924,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -1955,12 +1955,12 @@ import com.aspose.html.converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, Configuration, PdfSaveOptions, String) {#converthtml_17}
+## ConvertHTML(Url, Configuration, PdfSaveOptions, String) {#converthtml_18}
 
 Convert HTML source presented by URL. Result is pdf file formed by output file path.
 
@@ -2044,7 +2044,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -2076,12 +2076,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, PdfSaveOptions, String) {#converthtml_47}
+## ConvertHTML(String, PdfSaveOptions, String) {#converthtml_51}
 
 Convert HTML source presented by full file path to PDF. Result is pdf file formed by output file path.
 
@@ -2163,7 +2163,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -2193,12 +2193,12 @@ import com.aspose.html.converters;
 
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, Configuration, PdfSaveOptions, String) {#converthtml_37}
+## ConvertHTML(String, Configuration, PdfSaveOptions, String) {#converthtml_40}
 
 Convert HTML source presented by full file path to PDF. Result is pdf file formed by output file path.
 
@@ -2282,7 +2282,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -2313,12 +2313,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, PdfSaveOptions, String) {#converthtml_67}
+## ConvertHTML(String, String, PdfSaveOptions, String) {#converthtml_73}
 
 Convert HTML source presented by inline content to PDF. Result is pdf file formed by output file path.
 
@@ -2402,7 +2402,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -2430,12 +2430,12 @@ import com.aspose.html.converters;
 
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, Configuration, PdfSaveOptions, String) {#converthtml_57}
+## ConvertHTML(String, String, Configuration, PdfSaveOptions, String) {#converthtml_62}
 
 Convert HTML source presented by inline content to PDF. Result is pdf file formed by output file path.
 
@@ -2520,7 +2520,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -2549,7 +2549,7 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -2637,7 +2637,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -2677,12 +2677,12 @@ import com.aspose.html.converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, PdfSaveOptions, ICreateStreamProvider) {#converthtml_26}
+## ConvertHTML(Url, PdfSaveOptions, ICreateStreamProvider) {#converthtml_28}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -2764,7 +2764,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -2797,12 +2797,12 @@ import com.aspose.html.converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_16}
+## ConvertHTML(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_17}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -2886,7 +2886,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -2920,12 +2920,12 @@ import com.aspose.html.converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, PdfSaveOptions, ICreateStreamProvider) {#converthtml_46}
+## ConvertHTML(String, PdfSaveOptions, ICreateStreamProvider) {#converthtml_50}
 
 Convert HTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -3008,7 +3008,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -3042,12 +3042,12 @@ import com.aspose.html.converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_36}
+## ConvertHTML(String, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_39}
 
 Convert HTML source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -3131,7 +3131,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -3166,12 +3166,12 @@ import com.aspose.html.converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, PdfSaveOptions, ICreateStreamProvider) {#converthtml_66}
+## ConvertHTML(String, String, PdfSaveOptions, ICreateStreamProvider) {#converthtml_72}
 
 Convert HTML source presented by inline content to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -3255,7 +3255,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -3287,12 +3287,12 @@ import com.aspose.html.converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_56}
+## ConvertHTML(String, String, Configuration, PdfSaveOptions, ICreateStreamProvider) {#converthtml_61}
 
 Convert HTML source presented by inline content to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -3377,7 +3377,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -3410,7 +3410,7 @@ import com.aspose.html.converters;
 * class [PdfSaveOptions](../../../com.aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -3497,7 +3497,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -3530,12 +3530,12 @@ import com.aspose.html.converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, MHTMLSaveOptions, String) {#converthtml_25}
+## ConvertHTML(Url, MHTMLSaveOptions, String) {#converthtml_27}
 
 Convert HTML source presented by URL. Result is mhtml (.mht) file formed by output file path.
 
@@ -3617,7 +3617,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -3649,12 +3649,12 @@ import com.aspose.html.converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, Configuration, MHTMLSaveOptions, String) {#converthtml_15}
+## ConvertHTML(Url, Configuration, MHTMLSaveOptions, String) {#converthtml_16}
 
 Convert HTML source presented by URL. Result is mhtml (.mht) file formed by output file path.
 
@@ -3738,7 +3738,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -3771,12 +3771,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, MHTMLSaveOptions, String) {#converthtml_45}
+## ConvertHTML(String, MHTMLSaveOptions, String) {#converthtml_49}
 
 Convert HTML source presented by full file path to MHTML. Result is mhtml (.mht) file formed by output file path.
 
@@ -3858,7 +3858,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -3889,12 +3889,12 @@ import com.aspose.html.converters;
 
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, Configuration, MHTMLSaveOptions, String) {#converthtml_35}
+## ConvertHTML(String, Configuration, MHTMLSaveOptions, String) {#converthtml_38}
 
 Convert HTML source presented by full file path to MHTML. Result is mhtml (.mht) file formed by output file path.
 
@@ -3978,7 +3978,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -4010,12 +4010,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, MHTMLSaveOptions, String) {#converthtml_65}
+## ConvertHTML(String, String, MHTMLSaveOptions, String) {#converthtml_71}
 
 Convert HTML source presented by inline content to MHTML. Result is mhtml (.mht) file formed by output file path.
 
@@ -4099,7 +4099,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -4127,12 +4127,12 @@ import com.aspose.html.converters;
 
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, Configuration, MHTMLSaveOptions, String) {#converthtml_55}
+## ConvertHTML(String, String, Configuration, MHTMLSaveOptions, String) {#converthtml_60}
 
 Convert HTML source presented by inline content to MHTML. Result is mhtml (.mht) file formed by output file path.
 
@@ -4217,7 +4217,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -4246,7 +4246,7 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [MHTMLSaveOptions](../../../com.aspose.html.saving/mhtmlsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -4306,7 +4306,7 @@ Convert HTML to Markdown
 
 [`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/com.aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4334,7 +4334,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -4368,12 +4368,12 @@ import com.aspose.html.converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, MarkdownSaveOptions, String) {#converthtml_24}
+## ConvertHTML(Url, MarkdownSaveOptions, String) {#converthtml_26}
 
 Convert HTML source presented by URL. Result is markdown (.md) file formed by output file path.
 
@@ -4427,7 +4427,7 @@ Convert HTML to Markdown
 
 [`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/com.aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4455,7 +4455,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -4486,12 +4486,12 @@ import com.aspose.html.converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, Configuration, MarkdownSaveOptions, String) {#converthtml_14}
+## ConvertHTML(Url, Configuration, MarkdownSaveOptions, String) {#converthtml_15}
 
 Convert HTML source presented by URL. Result is markdown (.md) file formed by output file path.
 
@@ -4547,7 +4547,7 @@ Convert HTML to Markdown
 
 [`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/com.aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4575,7 +4575,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -4607,12 +4607,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, MarkdownSaveOptions, String) {#converthtml_44}
+## ConvertHTML(String, MarkdownSaveOptions, String) {#converthtml_48}
 
 Convert HTML source presented by full file path to Markdown. Result is markdown (.md) file formed by output file path.
 
@@ -4666,7 +4666,7 @@ Convert HTML to Markdown
 
 [`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/com.aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4694,7 +4694,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -4724,12 +4724,12 @@ import com.aspose.html.converters;
 
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, Configuration, MarkdownSaveOptions, String) {#converthtml_34}
+## ConvertHTML(String, Configuration, MarkdownSaveOptions, String) {#converthtml_37}
 
 Convert HTML source presented by full file path to Markdown. Result is markdown (.md) file formed by output file path.
 
@@ -4785,7 +4785,7 @@ Convert HTML to Markdown
 
 [`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/com.aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4813,7 +4813,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -4844,12 +4844,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, MarkdownSaveOptions, String) {#converthtml_64}
+## ConvertHTML(String, String, MarkdownSaveOptions, String) {#converthtml_70}
 
 Convert HTML source presented by inline content to Markdown. Result is mhtml (.mht) file formed by output file path.
 
@@ -4905,7 +4905,7 @@ Convert HTML to Markdown
 
 [`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/com.aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -4933,7 +4933,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -4961,12 +4961,12 @@ import com.aspose.html.converters;
 
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, Configuration, MarkdownSaveOptions, String) {#converthtml_54}
+## ConvertHTML(String, String, Configuration, MarkdownSaveOptions, String) {#converthtml_59}
 
 Convert HTML source presented by inline content to Markdown. Result is mhtml (.mht) file formed by output file path.
 
@@ -5023,7 +5023,7 @@ Convert HTML to Markdown
 
 [`Converter`](../) class offers wide range of HTML specific conversions to [Markdown](https://docs.fileformat.com/word-processing/md/). To convert HTML to MD, you should follow one of simple scenarios consists of few steps:
 
-Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/com.aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
+Conversion source. Detect an existing local HTML file or remote Url as conversion source. You can even define inline html content as conversion source or create HTML document ([`HTMLDocument`](../../../com.aspose.html/htmldocument/)) by any way.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer. Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object with custom or default settings. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter. Use the ConvertHTML() method of the Converter class to save HTML as an Markdown result with three or more parameters depend on user scenario.Online HTML converters
 
 Aspose.HTML offers a free online [HTML to Markdown](https://products.aspose.app/html/en/conversion/html-to-md) that converts HTML to MD with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
 
@@ -5051,7 +5051,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -5080,12 +5080,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [MarkdownSaveOptions](../../../com.aspose.html.saving/markdownsaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(HTMLDocument, XpsSaveOptions, String) {#converthtml_9}
+## ConvertHTML(HTMLDocument, XpsSaveOptions, String) {#converthtml_10}
 
 Convert HTML source presented by [`HTMLDocument`](../../../com.aspose.html/htmldocument/). Result is xps file formed by output file path.
 
@@ -5165,7 +5165,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -5200,12 +5200,12 @@ import com.aspose.html.converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, XpsSaveOptions, String) {#converthtml_29}
+## ConvertHTML(Url, XpsSaveOptions, String) {#converthtml_32}
 
 Convert HTML source presented by URL. Result is xps file formed by output file path.
 
@@ -5285,7 +5285,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -5316,12 +5316,12 @@ import com.aspose.html.converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, Configuration, XpsSaveOptions, String) {#converthtml_19}
+## ConvertHTML(Url, Configuration, XpsSaveOptions, String) {#converthtml_21}
 
 Convert HTML source presented by URL. Result is xps file formed by output file path.
 
@@ -5403,7 +5403,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -5435,12 +5435,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, XpsSaveOptions, String) {#converthtml_49}
+## ConvertHTML(String, XpsSaveOptions, String) {#converthtml_54}
 
 Convert HTML source presented by full file path to XPS. Result is xps file formed by output file path.
 
@@ -5520,7 +5520,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -5550,12 +5550,12 @@ import com.aspose.html.converters;
 
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, Configuration, XpsSaveOptions, String) {#converthtml_39}
+## ConvertHTML(String, Configuration, XpsSaveOptions, String) {#converthtml_43}
 
 Convert HTML source presented by full file path to XPS. Result is xps file formed by output file path.
 
@@ -5637,7 +5637,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -5668,12 +5668,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, XpsSaveOptions, String) {#converthtml_69}
+## ConvertHTML(String, String, XpsSaveOptions, String) {#converthtml_76}
 
 Convert HTML source presented by inline content to XPS. Result is xps file formed by output file path.
 
@@ -5755,7 +5755,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -5783,12 +5783,12 @@ import com.aspose.html.converters;
 
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, Configuration, XpsSaveOptions, String) {#converthtml_59}
+## ConvertHTML(String, String, Configuration, XpsSaveOptions, String) {#converthtml_65}
 
 Convert HTML source presented by inline content to XPS. Result is xps file formed by output file path.
 
@@ -5871,7 +5871,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -5900,12 +5900,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(HTMLDocument, XpsSaveOptions, ICreateStreamProvider) {#converthtml_8}
+## ConvertHTML(HTMLDocument, XpsSaveOptions, ICreateStreamProvider) {#converthtml_9}
 
 Convert HTML source presented by [`HTMLDocument`](../../../com.aspose.html/htmldocument/). Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -5986,7 +5986,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -6025,12 +6025,12 @@ import com.aspose.html.converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, XpsSaveOptions, ICreateStreamProvider) {#converthtml_28}
+## ConvertHTML(Url, XpsSaveOptions, ICreateStreamProvider) {#converthtml_31}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -6110,7 +6110,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -6145,12 +6145,12 @@ import com.aspose.html.converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_18}
+## ConvertHTML(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_20}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -6232,7 +6232,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -6268,12 +6268,12 @@ import com.aspose.html.converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, XpsSaveOptions, ICreateStreamProvider) {#converthtml_48}
+## ConvertHTML(String, XpsSaveOptions, ICreateStreamProvider) {#converthtml_53}
 
 Convert HTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -6354,7 +6354,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -6388,12 +6388,12 @@ import com.aspose.html.converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_38}
+## ConvertHTML(String, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_42}
 
 Convert HTML source presented by full file path to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -6475,7 +6475,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -6510,12 +6510,12 @@ import com.aspose.html.converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, XpsSaveOptions, ICreateStreamProvider) {#converthtml_68}
+## ConvertHTML(String, String, XpsSaveOptions, ICreateStreamProvider) {#converthtml_75}
 
 Convert HTML source presented by inline content to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -6597,7 +6597,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -6629,12 +6629,12 @@ import com.aspose.html.converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_58}
+## ConvertHTML(String, String, Configuration, XpsSaveOptions, ICreateStreamProvider) {#converthtml_64}
 
 Convert HTML source presented by inline content to XPS. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -6717,7 +6717,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -6750,7 +6750,7 @@ import com.aspose.html.converters;
 * class [XpsSaveOptions](../../../com.aspose.html.saving/xpssaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -6823,7 +6823,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -6857,12 +6857,12 @@ import (HTMLDocument document = new HTMLDocument(sourcePath, new Configuration()
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, ImageSaveOptions, String) {#converthtml_23}
+## ConvertHTML(Url, ImageSaveOptions, String) {#converthtml_25}
 
 Convert HTML source presented by URL. Result is image file formed by output file path.
 
@@ -6930,7 +6930,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -6961,12 +6961,12 @@ import com.aspose.html.converters;
 * class [Url](../../../com.aspose.html/url/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, Configuration, ImageSaveOptions, String) {#converthtml_13}
+## ConvertHTML(Url, Configuration, ImageSaveOptions, String) {#converthtml_14}
 
 Convert HTML source presented by URL. Result is image file formed by output file path.
 
@@ -7036,7 +7036,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -7068,12 +7068,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, ImageSaveOptions, String) {#converthtml_43}
+## ConvertHTML(String, ImageSaveOptions, String) {#converthtml_47}
 
 Convert HTML source presented by full file path to image. Result is image file formed by output file path.
 
@@ -7141,7 +7141,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -7171,12 +7171,12 @@ import com.aspose.html.converters;
 
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, Configuration, ImageSaveOptions, String) {#converthtml_33}
+## ConvertHTML(String, Configuration, ImageSaveOptions, String) {#converthtml_36}
 
 Convert HTML source presented by full file path to image. Result is image file formed by output file path.
 
@@ -7246,7 +7246,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -7277,12 +7277,12 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, ImageSaveOptions, String) {#converthtml_63}
+## ConvertHTML(String, String, ImageSaveOptions, String) {#converthtml_69}
 
 Convert HTML source presented by inline content to image. Result is image file formed by output file path.
 
@@ -7352,7 +7352,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -7380,12 +7380,12 @@ import com.aspose.html.converters;
 
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, Configuration, ImageSaveOptions, String) {#converthtml_53}
+## ConvertHTML(String, String, Configuration, ImageSaveOptions, String) {#converthtml_58}
 
 Convert HTML source presented by inline content to image. Result is image file formed by output file path.
 
@@ -7456,7 +7456,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -7485,7 +7485,7 @@ import com.aspose.html.converters;
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -7559,7 +7559,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -7598,12 +7598,12 @@ import com.aspose.html.converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, ImageSaveOptions, ICreateStreamProvider) {#converthtml_22}
+## ConvertHTML(Url, ImageSaveOptions, ICreateStreamProvider) {#converthtml_24}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -7671,7 +7671,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -7706,12 +7706,12 @@ import com.aspose.html.converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_12}
+## ConvertHTML(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_13}
 
 Convert HTML source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -7781,7 +7781,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -7817,12 +7817,12 @@ import com.aspose.html.converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, ImageSaveOptions, ICreateStreamProvider) {#converthtml_42}
+## ConvertHTML(String, ImageSaveOptions, ICreateStreamProvider) {#converthtml_46}
 
 Convert HTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -7891,7 +7891,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -7925,12 +7925,12 @@ import com.aspose.html.converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_32}
+## ConvertHTML(String, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_35}
 
 Convert HTML source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -8000,7 +8000,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -8035,12 +8035,12 @@ import com.aspose.html.converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, ImageSaveOptions, ICreateStreamProvider) {#converthtml_62}
+## ConvertHTML(String, String, ImageSaveOptions, ICreateStreamProvider) {#converthtml_68}
 
 Convert HTML source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -8110,7 +8110,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -8142,12 +8142,12 @@ import com.aspose.html.converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## ConvertHTML(String, String, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_52}
+## ConvertHTML(String, String, Configuration, ImageSaveOptions, ICreateStreamProvider) {#converthtml_57}
 
 Convert HTML source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../com.aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -8218,7 +8218,7 @@ You may also be interested in specific image format conversion
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -8251,5 +8251,181 @@ import com.aspose.html.converters;
 * class [ImageSaveOptions](../../../com.aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(HTMLDocument, TextSaveOptions, String) {#converthtml_8}
+
+Convert html document to text. Result is TXT file.
+
+```java
+public static void ConvertHTML(HTMLDocument document, TextSaveOptions options, String outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| document | HTMLDocument | Conversion source. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [HTMLDocument](../../../com.aspose.html/htmldocument/)
+* class [TextSaveOptions](../../../com.aspose.html.saving/textsaveoptions/)
+* class [Converter](../)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(Url, TextSaveOptions, String) {#converthtml_30}
+
+Convert html document to text. Result is TXT file.
+
+```java
+public static void ConvertHTML(Url url, TextSaveOptions options, String outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| url | Url | The document URL. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Url](../../../com.aspose.html/url/)
+* class [TextSaveOptions](../../../com.aspose.html.saving/textsaveoptions/)
+* class [Converter](../)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(Url, Configuration, TextSaveOptions, String) {#converthtml_19}
+
+Convert html document to text. Result is TXT file.
+
+```java
+public static void ConvertHTML(Url url, Configuration configuration, TextSaveOptions options, 
+    String outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| url | Url | The document URL. |
+| configuration | Configuration | The environment configuration. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Url](../../../com.aspose.html/url/)
+* class [Configuration](../../../com.aspose.html/configuration/)
+* class [TextSaveOptions](../../../com.aspose.html.saving/textsaveoptions/)
+* class [Converter](../)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(String, TextSaveOptions, String) {#converthtml_52}
+
+Convert html document to text. Result is TXT file.
+
+```java
+public static void ConvertHTML(String sourcePath, TextSaveOptions options, String outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | Html file source path. It will be combined with the current directory path to form an absolute URL. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [TextSaveOptions](../../../com.aspose.html.saving/textsaveoptions/)
+* class [Converter](../)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(String, Configuration, TextSaveOptions, String) {#converthtml_41}
+
+Convert html document to text. Result is TXT file.
+
+```java
+public static void ConvertHTML(String sourcePath, Configuration configuration, 
+    TextSaveOptions options, String outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | Html file source path. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Configuration](../../../com.aspose.html/configuration/)
+* class [TextSaveOptions](../../../com.aspose.html.saving/textsaveoptions/)
+* class [Converter](../)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(String, String, TextSaveOptions, String) {#converthtml_74}
+
+Convert html document to text. Result is TXT file.
+
+```java
+public static void ConvertHTML(String content, String baseUri, TextSaveOptions options, 
+    String outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | Inline String html content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [TextSaveOptions](../../../com.aspose.html.saving/textsaveoptions/)
+* class [Converter](../)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(String, String, Configuration, TextSaveOptions, String) {#converthtml_63}
+
+Convert html document to text. Result is TXT file.
+
+```java
+public static void ConvertHTML(String content, String baseUri, Configuration configuration, 
+    TextSaveOptions options, String outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | Inline String html content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. |
+| options | TextSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Configuration](../../../com.aspose.html/configuration/)
+* class [TextSaveOptions](../../../com.aspose.html.saving/textsaveoptions/)
+* class [Converter](../)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)

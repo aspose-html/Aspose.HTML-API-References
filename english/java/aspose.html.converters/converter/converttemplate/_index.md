@@ -34,7 +34,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -86,7 +86,7 @@ import com.aspose.html.converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -119,7 +119,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -165,7 +165,7 @@ import com.aspose.html.converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -199,7 +199,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -241,7 +241,7 @@ import com.aspose.html.converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -274,7 +274,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -314,7 +314,7 @@ import com.aspose.html.converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -348,7 +348,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -389,7 +389,7 @@ import com.aspose.html.converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -423,7 +423,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -495,7 +495,7 @@ Below is sample data file to merge with source
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -530,7 +530,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -610,7 +610,7 @@ Below is data file to merge with source as template
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -646,7 +646,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -699,7 +699,7 @@ import com.aspose.html.converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -734,7 +734,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -780,7 +780,7 @@ import com.aspose.html.converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -817,7 +817,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -864,7 +864,7 @@ import com.aspose.html.converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -900,7 +900,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -945,7 +945,7 @@ import com.aspose.html.converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -982,7 +982,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -1028,7 +1028,7 @@ import com.aspose.html.converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1065,7 +1065,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -1119,7 +1119,7 @@ import com.aspose.html.converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -1157,7 +1157,7 @@ Conversion (Merging) steps
 
 Template source. Define HTML template source by file, [`URL`](../../../com.aspose.html/url/), [`HTMLDocument`](../../../com.aspose.html/htmldocument/) object instance or even by inline content.Conversion result. You can obtain directly resulting HTMLDocument or define result output file path depend of method signature.Create instance of [`TemplateLoadOptions`](../../../com.aspose.html.loading/templateloadoptions/).Use the ConvertTemplate() method of the Converter class to merge template with data. You can add also [`configuration`](../../../com.aspose.html/configuration/) as option parameter.Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
@@ -1216,5 +1216,5 @@ import com.aspose.html.converters;
 * class [TemplateData](../../templatedata/)
 * class [TemplateLoadOptions](../../../com.aspose.html.loading/templateloadoptions/)
 * class [Converter](../)
-* package [com.aspose.html.converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)

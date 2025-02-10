@@ -21,5 +21,5 @@ The index.
 ### See Also
 
 * class [OrderedListSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../orderedlistsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

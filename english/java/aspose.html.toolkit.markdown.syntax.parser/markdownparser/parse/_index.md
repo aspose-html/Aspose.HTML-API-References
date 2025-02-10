@@ -26,7 +26,7 @@ The Markdown syntax tree.
 
 * class [MarkdownSyntaxTree](../../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/)
 * class [MarkdownParser](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../markdownparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -51,7 +51,7 @@ The Markdown syntax tree.
 
 * class [MarkdownSyntaxTree](../../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/)
 * class [MarkdownParser](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../markdownparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -76,5 +76,5 @@ The Markdown syntax tree.
 
 * class [MarkdownSyntaxTree](../../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/)
 * class [MarkdownParser](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../markdownparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public void EndPage()
 ### See Also
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* package [com.aspose.html.rendering](../../device-2/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

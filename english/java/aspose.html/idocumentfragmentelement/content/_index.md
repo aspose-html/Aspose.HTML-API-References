@@ -22,5 +22,5 @@ The content.
 
 * class [DocumentFragment](../../../com.aspose.html.dom/documentfragment/)
 * interface [IDocumentFragmentElement](../)
-* package [com.aspose.html](../../idocumentfragmentelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

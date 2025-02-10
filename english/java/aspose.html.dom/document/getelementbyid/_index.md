@@ -30,7 +30,7 @@ Refer to official [spec](https://dom.spec.whatwg.org/#dom-nonelementparentnode-g
 
 Practice web development content can be founded in [w3schools](https://www.w3schools.com/jsref/met_document_getelementbyid.asp).
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
@@ -40,7 +40,7 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 // C# code
 import System;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.dom;
 ...
 	using (var document = new HTMLDocument(inputHtmlPath))
@@ -63,5 +63,5 @@ Container with ID - identifier
 
 * class [Element](../../element/)
 * class [Document](../)
-* package [com.aspose.html.dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

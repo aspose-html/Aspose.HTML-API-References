@@ -17,5 +17,5 @@ public DeviceConfiguration()
 ### See Also
 
 * class [DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* package [com.aspose.html.rendering](../../device-2.deviceconfiguration-2/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

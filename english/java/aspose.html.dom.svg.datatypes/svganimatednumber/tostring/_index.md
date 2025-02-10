@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [SVGAnimatedNumber](../)
-* package [com.aspose.html.dom.svg.datatypes](../../svganimatednumber/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

@@ -28,7 +28,7 @@ Refer to official [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbyt
 
 You may also be interested in [documentation](https://docs.aspose.com/html/net/).
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
@@ -52,7 +52,7 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 # C# code
 import System;
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.collections;
 import com.aspose.html.dom;
 ...
@@ -87,5 +87,5 @@ The third paragraph content...
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [Element](../)
-* package [com.aspose.html.dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

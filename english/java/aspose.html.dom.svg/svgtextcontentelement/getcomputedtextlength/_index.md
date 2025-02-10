@@ -21,5 +21,5 @@ The text advance distance.
 ### See Also
 
 * class [SVGTextContentElement](../)
-* package [com.aspose.html.dom.svg](../../svgtextcontentelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

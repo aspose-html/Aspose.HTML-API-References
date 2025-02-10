@@ -21,7 +21,7 @@ public Int32Array(int length)
 ### See Also
 
 * class [Int32Array](../)
-* package [com.aspose.html](../../int32array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -41,7 +41,7 @@ public Int32Array(int[] data)
 ### See Also
 
 * class [Int32Array](../)
-* package [com.aspose.html](../../int32array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -62,7 +62,7 @@ public Int32Array(ArrayBuffer buffer)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Int32Array](../)
-* package [com.aspose.html](../../int32array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -84,7 +84,7 @@ public Int32Array(ArrayBuffer buffer, int byteOffset)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Int32Array](../)
-* package [com.aspose.html](../../int32array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,5 +107,5 @@ public Int32Array(ArrayBuffer buffer, int byteOffset, int length)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Int32Array](../)
-* package [com.aspose.html](../../int32array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

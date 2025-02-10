@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [LengthOrAuto](../)
-* package [com.aspose.html.drawing](../../lengthorauto/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

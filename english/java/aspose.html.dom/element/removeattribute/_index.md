@@ -11,7 +11,7 @@ url: /java/com.aspose.html.dom/element/removeattribute/
 Removes an attribute by name.
 
 ```java
-public void RemoveAttribute(String name)
+public void RemoveAttribute(String qualifiedName)
 ```
 
 | Parameter | Type | Description |
@@ -21,5 +21,5 @@ public void RemoveAttribute(String name)
 ### See Also
 
 * class [Element](../)
-* package [com.aspose.html.dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

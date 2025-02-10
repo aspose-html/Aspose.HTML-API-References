@@ -3,7 +3,7 @@ title: ICSSStyleRule Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.css.ICSSStyleRule interface. The CSSStyleRule interface represents a single CSS style rule. The selectorText attribute on getting must return the result of serializing the associated group of selectors
 type: docs
-weight: 510
+weight: 670
 url: /java/com.aspose.html.dom.css/icssstylerule/
 ---
 ## ICSSStyleRule interface

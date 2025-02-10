@@ -28,5 +28,5 @@ The current node.
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [ITreeWalker](../)
-* package [com.aspose.html.dom.traversal](../../itreewalker/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)

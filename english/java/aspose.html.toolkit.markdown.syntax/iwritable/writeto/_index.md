@@ -21,5 +21,5 @@ public void WriteTo(TextWriter writer)
 ### See Also
 
 * interface [IWritable](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../iwritable/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

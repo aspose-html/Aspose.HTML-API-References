@@ -22,5 +22,5 @@ The required features.
 
 * class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
 * class [SVGAnimationElement](../)
-* package [com.aspose.html.dom.svg](../../svganimationelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

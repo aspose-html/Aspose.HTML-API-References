@@ -21,5 +21,5 @@ The type of the unit.
 ### See Also
 
 * class [SVGLength](../)
-* package [com.aspose.html.dom.svg.datatypes](../../svglength/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

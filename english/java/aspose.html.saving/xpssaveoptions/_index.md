@@ -3,7 +3,7 @@ title: XpsSaveOptions Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.saving.XpsSaveOptions class. Specific options data class provides few properties to manage conversion result. For example PageSetup specifies page characteristics. Refer to documentation article
 type: docs
-weight: 4730
+weight: 4990
 url: /java/com.aspose.html.saving/xpssaveoptions/
 ---
 ## XpsSaveOptions class
@@ -27,20 +27,18 @@ public class XpsSaveOptions : XpsRenderingOptions
 [getBackgroundColor]
 [setBackgroundColor] Gets or sets Color which will fill background of every page. Default value is Transparent. |
 | [getCss](../../com.aspose.html.rendering/renderingoptions/css/) Gets a [`CssOptions`](../../com.aspose.html.rendering/cssoptions/) object which is used for configuration of css properties processing. |
-[getHorizontalResolution]
-[setHorizontalResolution] Sets or gets horizontal resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+| [horizontalResolution](../../com.aspose.html.rendering/renderingoptions/horizontalresolution/) { get; set; } | Sets or gets horizontal resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 | [getPageSetup](../../com.aspose.html.rendering/renderingoptions/pagesetup/) Gets a page setup object is used for configuration output page-set. |
-[getVerticalResolution]
-[setVerticalResolution] Sets or gets vertical resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+| [verticalResolution](../../com.aspose.html.rendering/renderingoptions/verticalresolution/) { get; set; } | Sets or gets vertical resolution for internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 
 ## Remarks
 
-You can find complete examples and data files on [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can find complete examples and data files on [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
 ```java
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.converters;
 import com.aspose.html.saving;
 import System;

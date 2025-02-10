@@ -17,5 +17,5 @@ public const ushort URL_MISMATCH_ERR;
 ### See Also
 
 * class [DOMException](../)
-* package [com.aspose.html.dom](../../domexception/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

@@ -27,5 +27,5 @@ The absolute Y coordinate
 ### See Also
 
 * class [SVGPathSegCurvetoCubicAbs](../)
-* package [com.aspose.html.dom.svg.paths](../../svgpathsegcurvetocubicabs/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

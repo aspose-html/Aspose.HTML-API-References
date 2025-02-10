@@ -22,5 +22,5 @@ An SVGMatrix object that defines the given transformation matrix.
 
 * class [SVGMatrix](../../../com.aspose.html.dom.svg.datatypes/svgmatrix/)
 * class [SVGGraphicsElement](../)
-* package [com.aspose.html.dom.svg](../../svggraphicselement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

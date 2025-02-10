@@ -17,5 +17,5 @@ public int MaxLength { get; set; }
 ### See Also
 
 * class [HTMLInputElement](../)
-* package [com.aspose.html](../../htmlinputelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

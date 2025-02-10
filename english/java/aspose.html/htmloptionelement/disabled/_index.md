@@ -17,5 +17,5 @@ public bool Disabled { get; set; }
 ### See Also
 
 * class [HTMLOptionElement](../)
-* package [com.aspose.html](../../htmloptionelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

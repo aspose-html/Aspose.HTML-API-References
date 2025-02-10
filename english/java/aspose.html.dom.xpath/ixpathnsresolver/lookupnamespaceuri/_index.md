@@ -25,5 +25,5 @@ Returns the associated package URI or `null` if none is found.
 ### See Also
 
 * interface [IXPathNSResolver](../)
-* package [com.aspose.html.dom.xpath](../../ixpathnsresolver/)
+* package [com.aspose.html.dom.xpath](../../../com.aspose.html.dom.xpath/)
 * package [Aspose.HTML](../../../)

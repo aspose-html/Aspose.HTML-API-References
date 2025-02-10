@@ -17,5 +17,5 @@ public String Clear { get; set; }
 ### See Also
 
 * class [HTMLBRElement](../)
-* package [com.aspose.html](../../htmlbrelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

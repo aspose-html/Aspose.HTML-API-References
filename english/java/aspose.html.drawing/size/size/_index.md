@@ -17,7 +17,7 @@ public Size()
 ### See Also
 
 * class [Size](../)
-* package [com.aspose.html.drawing](../../size/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Size(int width, int height)
 ### See Also
 
 * class [Size](../)
-* package [com.aspose.html.drawing](../../size/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -60,5 +60,5 @@ public Size(Length width, Length height)
 
 * class [Length](../../length/)
 * class [Size](../)
-* package [com.aspose.html.drawing](../../size/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

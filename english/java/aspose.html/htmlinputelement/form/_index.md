@@ -18,5 +18,5 @@ public HTMLFormElement Form { get; set; }
 
 * class [HTMLFormElement](../../htmlformelement/)
 * class [HTMLInputElement](../)
-* package [com.aspose.html](../../htmlinputelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -24,7 +24,7 @@ public Page(Size size, Margin margin)
 * class [Size](../../size/)
 * class [Margin](../../margin/)
 * class [Page](../)
-* package [com.aspose.html.drawing](../../page/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -45,7 +45,7 @@ public Page(Size size)
 
 * class [Size](../../size/)
 * class [Page](../)
-* package [com.aspose.html.drawing](../../page/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -66,7 +66,7 @@ public Page(Margin margin)
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* package [com.aspose.html.drawing](../../page/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -82,5 +82,5 @@ public Page()
 ### See Also
 
 * class [Page](../)
-* package [com.aspose.html.drawing](../../page/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

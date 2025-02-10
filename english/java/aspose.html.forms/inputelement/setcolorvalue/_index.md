@@ -21,5 +21,5 @@ public void SetColorValue(Color value)
 ### See Also
 
 * class [InputElement](../)
-* package [com.aspose.html.forms](../../inputelement/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

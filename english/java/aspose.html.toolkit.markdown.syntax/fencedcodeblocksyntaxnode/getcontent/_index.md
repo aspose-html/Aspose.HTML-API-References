@@ -21,5 +21,5 @@ The String.
 ### See Also
 
 * class [FencedCodeBlockSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../fencedcodeblocksyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

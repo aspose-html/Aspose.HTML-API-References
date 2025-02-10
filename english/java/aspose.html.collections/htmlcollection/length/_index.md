@@ -17,5 +17,5 @@ public abstract int Length { get; }
 ### See Also
 
 * class [HTMLCollection](../)
-* package [com.aspose.html.collections](../../htmlcollection/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

@@ -25,5 +25,5 @@ public void ArcTo(double x1, double y1, double x2, double y2, double radius)
 ### See Also
 
 * interface [ICanvasPathMethods](../)
-* package [com.aspose.html.dom.canvas](../../icanvaspathmethods/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

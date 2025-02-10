@@ -22,5 +22,5 @@ The required extensions.
 
 * class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
 * class [SVGMaskElement](../)
-* package [com.aspose.html.dom.svg](../../svgmaskelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

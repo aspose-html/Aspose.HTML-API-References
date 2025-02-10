@@ -11,7 +11,8 @@ url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfront
 Get Enumerator.
 
 ```java
-public IEnumerator<KeyValuePair<String, ChildFrontMatterSyntaxNode>> GetEnumerator()
+public IEnumerator<KeyValuePair<ChildFrontMatterSyntaxNode, ChildFrontMatterSyntaxNode>> 
+    GetEnumerator()
 ```
 
 ### Return Value
@@ -22,5 +23,5 @@ The IEnumerator.
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [HugoYamlBasedFrontMatterSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../hugoyamlbasedfrontmattersyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

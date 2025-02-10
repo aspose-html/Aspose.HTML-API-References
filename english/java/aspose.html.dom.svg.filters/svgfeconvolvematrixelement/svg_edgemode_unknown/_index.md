@@ -17,5 +17,5 @@ public const ushort SVG_EDGEMODE_UNKNOWN;
 ### See Also
 
 * class [SVGFEConvolveMatrixElement](../)
-* package [com.aspose.html.dom.svg.filters](../../svgfeconvolvematrixelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

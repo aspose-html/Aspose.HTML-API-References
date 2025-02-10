@@ -27,5 +27,5 @@ The attribute ‘type’ of the given ‘script’ element.
 ### See Also
 
 * class [SVGScriptElement](../)
-* package [com.aspose.html.dom.svg](../../svgscriptelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

@@ -33,5 +33,5 @@ A stand-alone, parentless SVGPathSegArcRel object.
 
 * class [SVGPathSegArcRel](../../../com.aspose.html.dom.svg.paths/svgpathsegarcrel/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.dom.svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public SVGRect ZoomRectScreen { get; }
 
 * class [SVGRect](../../../com.aspose.html.dom.svg.datatypes/svgrect/)
 * class [SVGZoomEvent](../)
-* package [com.aspose.html.dom.svg.events](../../svgzoomevent/)
+* package [com.aspose.html.dom.svg.events](../../../com.aspose.html.dom.svg.events/)
 * package [Aspose.HTML](../../../)

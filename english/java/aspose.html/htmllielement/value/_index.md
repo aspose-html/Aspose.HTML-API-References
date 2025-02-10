@@ -17,5 +17,5 @@ public int Value { get; set; }
 ### See Also
 
 * class [HTMLLIElement](../)
-* package [com.aspose.html](../../htmllielement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

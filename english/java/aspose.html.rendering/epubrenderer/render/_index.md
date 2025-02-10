@@ -11,7 +11,7 @@ url: /java/com.aspose.html.rendering/epubrenderer/render/
 Defines method for rendering multiple EPub Streams into specific [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```java
-public void Render(IDevice device, TimeSpan timeout, params Stream[] documents)
+public void Render(IDevice device, TimeSpan timeout, params Stream[] sources)
 ```
 
 | Parameter | Type | Description |
@@ -24,7 +24,7 @@ public void Render(IDevice device, TimeSpan timeout, params Stream[] documents)
 
 * interface [IDevice](../../idevice/)
 * class [EpubRenderer](../)
-* package [com.aspose.html.rendering](../../epubrenderer/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -35,20 +35,20 @@ Defines a method for rendering multiple EPub documents into a specific [`IDevice
 
 ```java
 public void Render(IDevice device, CancellationToken cancellationToken, 
-    params Stream[] documents)
+    params Stream[] sources)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | IDevice | The output device. |
 | cancellationToken | CancellationToken | A CancellationToken to observe while waiting for the task to complete. |
-| documents | Stream[] | The documents to render. |
+| sources | Stream[] | The EPub documents to render. |
 
 ### See Also
 
 * interface [IDevice](../../idevice/)
 * class [EpubRenderer](../)
-* package [com.aspose.html.rendering](../../epubrenderer/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -58,7 +58,7 @@ public void Render(IDevice device, CancellationToken cancellationToken,
 Renders EPub document into specified [`IDevice`](../../idevice/).
 
 ```java
-public void Render(IDevice device, Stream document, Configuration configuration)
+public void Render(IDevice device, Stream source, Configuration configuration)
 ```
 
 | Parameter | Type | Description |
@@ -72,7 +72,7 @@ public void Render(IDevice device, Stream document, Configuration configuration)
 * interface [IDevice](../../idevice/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [EpubRenderer](../)
-* package [com.aspose.html.rendering](../../epubrenderer/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -82,7 +82,7 @@ public void Render(IDevice device, Stream document, Configuration configuration)
 Renders EPub document into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```java
-public void Render(IDevice device, Stream document, Configuration configuration, TimeSpan timeout)
+public void Render(IDevice device, Stream source, Configuration configuration, TimeSpan timeout)
 ```
 
 | Parameter | Type | Description |
@@ -97,7 +97,7 @@ public void Render(IDevice device, Stream document, Configuration configuration,
 * interface [IDevice](../../idevice/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [EpubRenderer](../)
-* package [com.aspose.html.rendering](../../epubrenderer/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,7 +107,7 @@ public void Render(IDevice device, Stream document, Configuration configuration,
 Renders multiple EPub documents into specified [`IDevice`](../../idevice/).
 
 ```java
-public void Render(IDevice device, IList<Stream> documents, Configuration configuration)
+public void Render(IDevice device, IList<Stream> sources, Configuration configuration)
 ```
 
 | Parameter | Type | Description |
@@ -121,7 +121,7 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 * interface [IDevice](../../idevice/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [EpubRenderer](../)
-* package [com.aspose.html.rendering](../../epubrenderer/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -131,7 +131,7 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 Renders multiple EPub documents into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```java
-public void Render(IDevice device, IList<Stream> documents, Configuration configuration, 
+public void Render(IDevice device, IList<Stream> sources, Configuration configuration, 
     TimeSpan timeout)
 ```
 
@@ -147,5 +147,5 @@ public void Render(IDevice device, IList<Stream> documents, Configuration config
 * interface [IDevice](../../idevice/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [EpubRenderer](../)
-* package [com.aspose.html.rendering](../../epubrenderer/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

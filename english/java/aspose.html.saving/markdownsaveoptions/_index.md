@@ -3,7 +3,7 @@ title: MarkdownSaveOptions Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.saving.MarkdownSaveOptions class. Represents Markdown save options. For example you can set markdown formatting style use predefined GitLab Flavored Markdown compatible options and configurate resources handling. Refer to more info in article
 type: docs
-weight: 4670
+weight: 4870
 url: /java/com.aspose.html.saving/markdownsaveoptions/
 ---
 ## MarkdownSaveOptions class
@@ -34,12 +34,12 @@ public class MarkdownSaveOptions : SaveOptions
 
 ## Remarks
 
-You can find complete examples and data files on [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can find complete examples and data files on [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
 ```java
-import com.aspose.html;
+import Aspose.Html;
 import com.aspose.html.converters;
 import com.aspose.html.saving;
 import System;

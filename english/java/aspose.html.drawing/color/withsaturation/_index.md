@@ -25,5 +25,5 @@ public Color WithSaturation(float saturation)
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.drawing](../../color/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

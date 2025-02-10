@@ -3,7 +3,7 @@ title: TypedArray Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.TypedArray class. TypedArray objects present an array-like view of an underlying binary data buffer
 type: docs
-weight: 5780
+weight: 6040
 url: /java/com.aspose.html/typedarray/
 ---
 ## TypedArray class

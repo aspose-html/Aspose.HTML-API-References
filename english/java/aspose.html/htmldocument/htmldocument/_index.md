@@ -40,7 +40,7 @@ import (var document = new HTMLDocument())
 ### See Also
 
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -95,7 +95,7 @@ import (var configuration = new Configuration())
 
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -136,7 +136,7 @@ import (var document = new HTMLDocument("https://docs.aspose.com/html/net/workin
 
 * class [Url](../../url/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -193,7 +193,7 @@ import (var configuration = new Configuration())
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -232,7 +232,7 @@ import (var document = new HTMLDocument("./my-folder/document.html")))
 ### See Also
 
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -278,7 +278,7 @@ import (var configuration = new Configuration())
 
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -324,7 +324,7 @@ import (var document = new HTMLDocument(html_code, "."))
 ### See Also
 
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -372,7 +372,7 @@ import (var document = new HTMLDocument(html_code, "."))
 
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -419,7 +419,7 @@ import (var document = new HTMLDocument(html_code, "."))
 
 * class [Url](../../url/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -468,7 +468,7 @@ import (var document = new HTMLDocument(html_code, "."))
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -524,7 +524,7 @@ import (var sw = new StreamWriter(mem))
 ### See Also
 
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -582,7 +582,7 @@ import (var sw = new StreamWriter(mem))
 
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -639,7 +639,7 @@ import (var sw = new StreamWriter(mem))
 
 * class [Url](../../url/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -698,7 +698,7 @@ import (var sw = new StreamWriter(mem))
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -729,7 +729,7 @@ Reference:
 
 * class [RequestMessage](../../../com.aspose.html.net/requestmessage/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -762,5 +762,5 @@ Reference:
 * class [RequestMessage](../../../com.aspose.html.net/requestmessage/)
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: com.aspose.html.rendering
 second_title: Aspose.HTML for Java API Reference
 description: The com.aspose.html.rendering package consists of numerous renderer objects as well as appropriate low level options classes which are responsible to render documents/files into IDevice implementation
 type: docs
-weight: 300
+weight: 330
 url: /java/com.aspose.html.rendering/
 ---
 The **com.aspose.html.rendering** package consists of numerous renderer objects as well as appropriate low level options classes which are responsible to render documents/files into IDevice implementation.
@@ -21,7 +21,7 @@ The **com.aspose.html.rendering** package consists of numerous renderer objects 
 | [MhtmlRenderer](./mhtmlrenderer/) | Represents a MHTML document renderer. |
 | [PageSetup](./pagesetup/) | Represents a page setup object is used for configuration output page-set. |
 | [Renderer](./renderer/) | Represents a base class for all renderers and implemnts IDisposable interface. |
-| [Renderer&lt;TDocument&gt;](./renderer-1/) | Represents an abstract class for the all renderers. |
+| [Renderer&lt;TSource&gt;](./renderer-1/) | Represents an abstract class for the all renderers. |
 | [RenderingOptions](./renderingoptions/) | Represents rendering options. |
 | [SvgRenderer](./svgrenderer/) | Represents SVG document renderer. |
 | [TextInfo](./textinfo/) | Contains information about rendered text. |
@@ -40,6 +40,8 @@ The **com.aspose.html.rendering** package consists of numerous renderer objects 
 | Enumeration | Description |
 | --- | --- |
 | [AtPagePriority](./atpagepriority/) | Specifies possible orders of applying page size declarations. |
-| [ImageType](./imagetype/) | Specifies the file format of the image |
+| [FillRule](./fillrule/) | Specifies the fill rule used in rendering SVG and HTML. |
 | [MediaType](./mediatype/) | Specifies possible media types used during rendering. |
 | [PageLayoutOptions](./pagelayoutoptions/) | Specifies flags that together with other PageSetup options determine sizes and layouts of pages. These flags can be combined together according to their descriptions. |
+| [StrokeLineCap](./strokelinecap/) | Specifies the line cap used in rendering SVG and HTML. |
+| [StrokeLineJoin](./strokelinejoin/) | Specifies the line join style used in rendering SVG and HTML. |

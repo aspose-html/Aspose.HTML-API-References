@@ -22,5 +22,5 @@ A IList that contains information about rendered glyphs.
 
 * struct [GlyphInfo](../../glyphinfo/)
 * class [TextInfo](../)
-* package [com.aspose.html.rendering](../../textinfo/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: NamedNodeMap.GetNamedItem
 second_title: Aspose.HTML for Java API Reference
 description: NamedNodeMap method. Retrieves a node specified by name
 type: docs
-weight: 40
+weight: 30
 url: /java/com.aspose.html.collections/namednodemap/getnameditem/
 ---
 ## NamedNodeMap.GetNamedItem method
@@ -26,5 +26,5 @@ Returns node.
 
 * class [Attr](../../../com.aspose.html.dom/attr/)
 * class [NamedNodeMap](../)
-* package [com.aspose.html.collections](../../namednodemap/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

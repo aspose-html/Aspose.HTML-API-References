@@ -3,7 +3,7 @@ title: ISVGRenderingIntent Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.ISVGRenderingIntent interface. The SVGRenderingIntent interface defines the enumerated list of possible values for rendering-intent attributes or descriptors
 type: docs
-weight: 1640
+weight: 1800
 url: /java/com.aspose.html.dom.svg/isvgrenderingintent/
 ---
 ## ISVGRenderingIntent interface

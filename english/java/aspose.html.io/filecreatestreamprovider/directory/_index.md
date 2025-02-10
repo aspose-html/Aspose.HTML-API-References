@@ -21,5 +21,5 @@ The directory.
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* package [com.aspose.html.io](../../filecreatestreamprovider/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)

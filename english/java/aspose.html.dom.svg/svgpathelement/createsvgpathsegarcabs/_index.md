@@ -33,5 +33,5 @@ A stand-alone, parentless SVGPathSegArcAbs object.
 
 * class [SVGPathSegArcAbs](../../../com.aspose.html.dom.svg.paths/svgpathsegarcabs/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.dom.svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

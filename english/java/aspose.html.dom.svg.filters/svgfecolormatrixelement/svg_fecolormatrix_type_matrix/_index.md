@@ -17,5 +17,5 @@ public const ushort SVG_FECOLORMATRIX_TYPE_MATRIX;
 ### See Also
 
 * class [SVGFEColorMatrixElement](../)
-* package [com.aspose.html.dom.svg.filters](../../svgfecolormatrixelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

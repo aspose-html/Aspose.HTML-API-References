@@ -22,5 +22,5 @@ The previous element sibling.
 
 * class [Element](../../element/)
 * interface [INonDocumentTypeChildNode](../)
-* package [com.aspose.html.dom](../../inondocumenttypechildnode/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

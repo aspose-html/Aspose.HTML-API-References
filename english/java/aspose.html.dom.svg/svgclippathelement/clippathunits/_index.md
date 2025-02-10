@@ -22,5 +22,5 @@ The attribute ‘clipPathUnits’ of the given ‘clipPath’ element.
 
 * class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGClipPathElement](../)
-* package [com.aspose.html.dom.svg](../../svgclippathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

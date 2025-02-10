@@ -3,7 +3,7 @@ title: DOMEventHandler Delegate
 second_title: Aspose.HTML for Java API Reference
 description: Represents a generic callback delegate for Document Object Model DOM event handling
 type: docs
-weight: 750
+weight: 910
 url: /java/com.aspose.html.dom.events/domeventhandler/
 ---
 ## DOMEventHandler delegate

@@ -33,5 +33,5 @@ Reference
 ### See Also
 
 * interface [IStyleSheet](../)
-* package [com.aspose.html.dom.css](../../istylesheet/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

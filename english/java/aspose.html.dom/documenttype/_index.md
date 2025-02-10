@@ -3,7 +3,7 @@ title: DocumentType Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.DocumentType class. The DocumentType provides an interface to the list of entities that are defined for the document
 type: docs
-weight: 690
+weight: 850
 url: /java/com.aspose.html.dom/documenttype/
 ---
 ## DocumentType class
@@ -24,7 +24,6 @@ public class DocumentType : Node
 
 | Name | Description |
 | --- | --- |
-| [getAttributes](../../com.aspose.html.dom/node/attributes/) The attributes property returns a live collection of all attribute nodes registered to the specified node. Attributes is a key/value pair of Strings that represents any information regarding that attribute. |
 | [getBaseURI](../../com.aspose.html.dom/node/baseuri/) The read-only baseURI property of the Node interface returns the absolute base URL of the document containing the node. |
 | [getChildNodes](../../com.aspose.html.dom/node/childnodes/) The read-only childNodes property of the Node interface returns a live [`NodeList`](../../com.aspose.html.collections/nodelist/) of child nodes of the given element where the first child node is assigned index 0. Child nodes include elements, text and comments. |
 | [getFirstChild](../../com.aspose.html.dom/node/firstchild/) The read-only firstChild property of the [`Node`](../node/) interface returns the node's first child in the tree, or null if the node has no children. |
@@ -36,18 +35,15 @@ public class DocumentType : Node
 | [getNextSibling](../../com.aspose.html.dom/node/nextsibling/) The read-only nextSibling property of the [`Node`](../node/) interface returns the node immediately following the specified one in their parent's [`childNodes`](../node/childnodes/), or returns null if the specified node is the last child in the parent element. |
 | [getNodeName](../../com.aspose.html.dom/documenttype/nodename/) The name of this node, depending on its type. |
 | [getNodeType](../../com.aspose.html.dom/documenttype/nodetype/) A code representing the type of the underlying object. |
-[getNodeValue]
-[setNodeValue] The nodeValue property of the [`Node `](../node/)interface returns or sets the value of the current node. |
+| [nodeValue](../../com.aspose.html.dom/node/nodevalue/) { get; set; } | The nodeValue property of the [`Node `](../node/)interface returns or sets the value of the current node. |
 | [getOwnerDocument](../../com.aspose.html.dom/node/ownerdocument/) The read-only ownerDocument property of the Node interface returns the top-level document object of the node. |
 | [getParentElement](../../com.aspose.html.dom/node/parentelement/) The read-only parentElement property of [`Node`](../node/) interface returns the DOM node's parent [`Element`](../element/), or null if the node either has no parent, or its parent isn't a DOM Element. |
 | [getParentNode](../../com.aspose.html.dom/node/parentnode/) The read-only parentNode property of the Node interface returns the parent of the specified node in the DOM tree. |
-[getPrefix]
-[setPrefix] The prefix read-only property returns the package prefix of the specified element, or null if no prefix is specified. |
+| [prefix](../../com.aspose.html.dom/node/prefix/) { get; set; } | The prefix read-only property returns the package prefix of the specified element, or null if no prefix is specified. |
 | [getPreviousSibling](../../com.aspose.html.dom/node/previoussibling/) The read-only previousSibling property of the [`Node`](../node/) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../node/firstchild/) list, or null if the specified node is the first in that list. |
 | [getPublicId](../../com.aspose.html.dom/documenttype/publicid/) The public identifier of the external subset. |
 | [getSystemId](../../com.aspose.html.dom/documenttype/systemid/) The system identifier of the external subset. This may be an absolute URI or not. |
-[getTextContent]
-[setTextContent] The textContent property of the [`Node`](../node/) interface represents the text content of the node and its descendants. |
+| [textContent](../../com.aspose.html.dom/node/textcontent/) { get; set; } | The textContent property of the [`Node`](../node/) interface represents the text content of the node and its descendants. |
 
 ## Methods
 
@@ -62,7 +58,6 @@ public class DocumentType : Node
 | [dispatchEvent](../../com.aspose.html.dom/eventtarget/dispatchevent/)(Event) | Dispatches an Event at the specified [`EventTarget`](../../com.aspose.html.dom.events/ieventtarget/), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`dispatchEvent()`](../../com.aspose.html.dom.events/ieventtarget/dispatchevent/). |
 | [dispose](../../com.aspose.html.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| [hasAttributes](../../com.aspose.html.dom/node/hasattributes/)() | The hasAttributes() method of the [`Element`](../element/) interface returns a boolean value indicating whether the current element has any attributes or not. |
 | [hasChildNodes](../../com.aspose.html.dom/node/haschildnodes/)() | The hasChildNodes() method of the Node interface returns a boolean value indicating whether the given [`Node`](../node/) has child nodes or not. |
 | [insertBefore](../../com.aspose.html.dom/node/insertbefore/)(Node, Node) | The insertBefore() method of the Node interface inserts a node before a reference node as a child of a specified parent node. |
 | [isDefaultNamespace](../../com.aspose.html.dom/node/isdefaultpackage/)(String) | The isDefaultNamespace() method of the Node interface accepts a package URI as an argument. It returns a boolean value that is true if the package is the default package on the given node and false if not. |

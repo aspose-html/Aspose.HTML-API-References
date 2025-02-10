@@ -11,7 +11,7 @@ url: /java/com.aspose.html.rendering/device-2/beginelement/
 Begins rendering of the node.
 
 ```java
-public abstract bool BeginElement(Element element, RectangleF rect)
+public bool BeginElement(Element element, RectangleF rect)
 ```
 
 | Parameter | Type | Description |
@@ -27,5 +27,5 @@ Returns [true] if element should be processed.
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* package [com.aspose.html.rendering](../../device-2/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

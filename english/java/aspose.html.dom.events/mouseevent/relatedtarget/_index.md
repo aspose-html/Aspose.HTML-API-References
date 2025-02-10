@@ -22,5 +22,5 @@ The related target.
 
 * class [EventTarget](../../../com.aspose.html.dom/eventtarget/)
 * class [MouseEvent](../)
-* package [com.aspose.html.dom.events](../../mouseevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

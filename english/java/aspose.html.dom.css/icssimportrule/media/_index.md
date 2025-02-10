@@ -22,5 +22,5 @@ Returns a MediaList object, containing the value of the media attribute of the a
 
 * interface [IMediaList](../../imedialist/)
 * interface [ICSSImportRule](../)
-* package [com.aspose.html.dom.css](../../icssimportrule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

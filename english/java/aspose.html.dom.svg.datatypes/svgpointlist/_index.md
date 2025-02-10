@@ -3,7 +3,7 @@ title: SVGPointList Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.datatypes.SVGPointList class. This interface defines a list of SVGPoint objects
 type: docs
-weight: 1270
+weight: 1430
 url: /java/com.aspose.html.dom.svg.datatypes/svgpointlist/
 ---
 ## SVGPointList class

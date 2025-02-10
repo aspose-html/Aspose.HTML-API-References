@@ -17,5 +17,5 @@ public PdfRenderingOptions()
 ### See Also
 
 * class [PdfRenderingOptions](../)
-* package [com.aspose.html.rendering.pdf](../../pdfrenderingoptions/)
+* package [com.aspose.html.rendering.pdf](../../../com.aspose.html.rendering.pdf/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public ulong Height { get; set; }
 ### See Also
 
 * class [HTMLCanvasElement](../)
-* package [com.aspose.html](../../htmlcanvaselement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

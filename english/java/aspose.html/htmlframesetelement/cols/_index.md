@@ -17,5 +17,5 @@ public String Cols { get; set; }
 ### See Also
 
 * class [HTMLFrameSetElement](../)
-* package [com.aspose.html](../../htmlframesetelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

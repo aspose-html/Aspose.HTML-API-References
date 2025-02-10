@@ -36,5 +36,5 @@ The ReferenceLinkSyntax.
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [InlineContainerSyntaxNode](../../inlinecontainersyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ Width in points.
 ### See Also
 
 * struct [GlyphInfo](../)
-* package [com.aspose.html.rendering](../../glyphinfo/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

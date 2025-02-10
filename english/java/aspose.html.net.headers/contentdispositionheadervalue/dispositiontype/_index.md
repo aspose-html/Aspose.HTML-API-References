@@ -17,5 +17,5 @@ public String DispositionType { get; set; }
 ### See Also
 
 * class [ContentDispositionHeaderValue](../)
-* package [com.aspose.html.net.headers](../../contentdispositionheadervalue/)
+* package [com.aspose.html.net.headers](../../../com.aspose.html.net.headers/)
 * package [Aspose.HTML](../../../)

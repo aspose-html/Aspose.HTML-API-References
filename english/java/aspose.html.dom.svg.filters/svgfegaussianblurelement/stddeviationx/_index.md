@@ -22,5 +22,5 @@ The attribute �stdDeviationX� of the given �feGaussianBlur� element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEGaussianBlurElement](../)
-* package [com.aspose.html.dom.svg.filters](../../svgfegaussianblurelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

@@ -23,5 +23,5 @@ public void CubicBezierTo(PointF pt1, PointF pt2, PointF pt3)
 ### See Also
 
 * class [DocDevice](../)
-* package [com.aspose.html.rendering.doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)

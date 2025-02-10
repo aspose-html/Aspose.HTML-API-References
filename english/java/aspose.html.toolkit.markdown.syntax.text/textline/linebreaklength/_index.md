@@ -17,5 +17,5 @@ public int LineBreakLength { get; }
 ### See Also
 
 * struct [TextLine](../)
-* package [com.aspose.html.toolkit.markdown.syntax.text](../../textline/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../../)

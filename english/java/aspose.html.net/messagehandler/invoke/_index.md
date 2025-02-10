@@ -22,5 +22,5 @@ public abstract void Invoke(INetworkOperationContext context)
 
 * interface [INetworkOperationContext](../../inetworkoperationcontext/)
 * class [MessageHandler](../)
-* package [com.aspose.html.net](../../messagehandler/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

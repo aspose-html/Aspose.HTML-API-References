@@ -3,7 +3,7 @@ title: HugoSyntaxExtension Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.extensions.HugoSyntaxExtension class. Defines the HugoSyntaxExtension
 type: docs
-weight: 4930
+weight: 5190
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugosyntaxextension/
 ---
 ## HugoSyntaxExtension class

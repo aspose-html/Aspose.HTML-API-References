@@ -17,5 +17,5 @@ public void Sort()
 ### See Also
 
 * interface [IUrlSearchParams](../)
-* package [com.aspose.html](../../iurlsearchparams/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

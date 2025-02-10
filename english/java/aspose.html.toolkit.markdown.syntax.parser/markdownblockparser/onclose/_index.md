@@ -27,5 +27,5 @@ public void OnClose(BlockSyntaxDescriptor descriptor, MarkdownSyntaxNode parent,
 * class [MarkdownSyntaxNode](../../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/)
 * interface [IBlockParsingContext](../../iblockparsingcontext/)
 * class [MarkdownBlockParser](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../markdownblockparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public String Profile { get; set; }
 ### See Also
 
 * class [HTMLHeadElement](../)
-* package [com.aspose.html](../../htmlheadelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

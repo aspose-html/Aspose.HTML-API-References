@@ -17,5 +17,5 @@ public void Disconnect()
 ### See Also
 
 * class [MutationObserver](../)
-* package [com.aspose.html.dom.mutations](../../mutationobserver/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

@@ -21,5 +21,5 @@ The length in bytes.
 ### See Also
 
 * class [TypedArray](../)
-* package [com.aspose.html](../../typedarray/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public String Align { get; set; }
 ### See Also
 
 * class [HTMLHRElement](../)
-* package [com.aspose.html](../../htmlhrelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

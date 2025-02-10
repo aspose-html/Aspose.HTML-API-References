@@ -3,7 +3,7 @@ title: YamlMappingSyntaxNode.Children
 second_title: Aspose.HTML for Java API Reference
 description: YamlMappingSyntaxNode property. Get the all Children
 type: docs
-weight: 20
+weight: 10
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/children/
 ---
 ## YamlMappingSyntaxNode.Children property
@@ -19,5 +19,5 @@ public IEnumerable<KeyValuePair<ChildFrontMatterSyntaxNode, ChildFrontMatterSynt
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [YamlMappingSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../yamlmappingsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

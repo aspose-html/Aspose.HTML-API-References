@@ -18,5 +18,5 @@ public ButtonType Type { get; set; }
 
 * enum [ButtonType](../../buttontype/)
 * class [ButtonElement](../)
-* package [com.aspose.html.forms](../../buttonelement/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

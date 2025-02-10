@@ -21,5 +21,5 @@ public void DeleteRule(long index)
 ### See Also
 
 * interface [ICSSMediaRule](../)
-* package [com.aspose.html.dom.css](../../icssmediarule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

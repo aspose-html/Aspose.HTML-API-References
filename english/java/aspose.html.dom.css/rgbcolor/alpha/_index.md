@@ -26,5 +26,5 @@ The color of each pixel is represented as a 32-bit number: 8 bits each for alpha
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [RGBColor](../)
-* package [com.aspose.html.dom.css](../../rgbcolor/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

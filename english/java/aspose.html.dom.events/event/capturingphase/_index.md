@@ -17,5 +17,5 @@ public const ushort CapturingPhase;
 ### See Also
 
 * class [Event](../)
-* package [com.aspose.html.dom.events](../../event/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

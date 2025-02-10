@@ -25,7 +25,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 ### See Also
 
 * class [HttpMethod](../)
-* package [com.aspose.html.net](../../httpmethod/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -49,5 +49,5 @@ public bool Equals(object obj)
 ### See Also
 
 * class [HttpMethod](../)
-* package [com.aspose.html.net](../../httpmethod/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

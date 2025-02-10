@@ -21,5 +21,5 @@ Returns the number of media queries in the [`MediaList`](../).
 ### See Also
 
 * interface [IMediaList](../)
-* package [com.aspose.html.dom.css](../../imedialist/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

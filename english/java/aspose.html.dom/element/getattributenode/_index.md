@@ -11,7 +11,7 @@ url: /java/com.aspose.html.dom/element/getattributenode/
 Retrieves an attribute node by name.
 
 ```java
-public Attr GetAttributeNode(String name)
+public Attr GetAttributeNode(String qualifiedName)
 ```
 
 | Parameter | Type | Description |
@@ -26,5 +26,5 @@ Returns attribute value
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* package [com.aspose.html.dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

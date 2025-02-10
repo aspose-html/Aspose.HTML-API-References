@@ -21,7 +21,7 @@ The instance of Configuration object.
 ### See Also
 
 * class [Configuration](../)
-* package [com.aspose.html](../../configuration/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -46,5 +46,5 @@ The instance of Configuration object.
 
 * interface [IConfigurationBuilder](../../iconfigurationbuilder/)
 * class [Configuration](../)
-* package [com.aspose.html](../../configuration/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

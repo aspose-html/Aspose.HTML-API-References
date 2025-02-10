@@ -17,5 +17,5 @@ public float Width { get; set; }
 ### See Also
 
 * class [HTMLImageElement](../)
-* package [com.aspose.html](../../htmlimageelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

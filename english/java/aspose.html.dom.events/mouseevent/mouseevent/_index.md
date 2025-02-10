@@ -21,7 +21,7 @@ public MouseEvent(String type)
 ### See Also
 
 * class [MouseEvent](../)
-* package [com.aspose.html.dom.events](../../mouseevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public MouseEvent(String type, IDictionary<String, object> eventInitDict)
 ### See Also
 
 * class [MouseEvent](../)
-* package [com.aspose.html.dom.events](../../mouseevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

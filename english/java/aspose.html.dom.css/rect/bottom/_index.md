@@ -22,5 +22,5 @@ The y-axis value of the bottom of the rectangle. If the rectangle is empty, the 
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [Rect](../)
-* package [com.aspose.html.dom.css](../../rect/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

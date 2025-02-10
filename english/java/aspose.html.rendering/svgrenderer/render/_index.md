@@ -11,7 +11,7 @@ url: /java/com.aspose.html.rendering/svgrenderer/render/
 Defines method for rendering multiple [`SVGDocument`](../../../com.aspose.html.dom.svg/svgdocument/)s into specific [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
 ```java
-public void Render(IDevice device, TimeSpan timeout, params SVGDocument[] documents)
+public void Render(IDevice device, TimeSpan timeout, params SVGDocument[] sources)
 ```
 
 | Parameter | Type | Description |
@@ -25,7 +25,7 @@ public void Render(IDevice device, TimeSpan timeout, params SVGDocument[] docume
 * interface [IDevice](../../idevice/)
 * class [SVGDocument](../../../com.aspose.html.dom.svg/svgdocument/)
 * class [SvgRenderer](../)
-* package [com.aspose.html.rendering](../../svgrenderer/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -36,19 +36,19 @@ Defines a method for rendering multiple [`SVGDocument`](../../../com.aspose.html
 
 ```java
 public void Render(IDevice device, CancellationToken cancellationToken, 
-    params SVGDocument[] documents)
+    params SVGDocument[] sources)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | IDevice | The output device. |
 | cancellationToken | CancellationToken | A cancellation token to observe while waiting for the task to complete. |
-| documents | SVGDocument[] | The documents to render. |
+| sources | SVGDocument[] | The SVG documents to render. |
 
 ### See Also
 
 * interface [IDevice](../../idevice/)
 * class [SVGDocument](../../../com.aspose.html.dom.svg/svgdocument/)
 * class [SvgRenderer](../)
-* package [com.aspose.html.rendering](../../svgrenderer/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

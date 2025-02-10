@@ -21,5 +21,5 @@ The data.
 ### See Also
 
 * class [CharacterData](../)
-* package [com.aspose.html.dom](../../characterdata/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

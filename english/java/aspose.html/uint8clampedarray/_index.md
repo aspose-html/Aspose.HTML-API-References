@@ -3,7 +3,7 @@ title: Uint8ClampedArray Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Uint8ClampedArray class. Represents an array of 8-bit unsigned integers clamped to 0-255 if you specified a value that is out of the range of 0255 0 or 255 will be set instead
 type: docs
-weight: 5830
+weight: 6090
 url: /java/com.aspose.html/uint8clampedarray/
 ---
 ## Uint8ClampedArray class
@@ -31,8 +31,7 @@ public class Uint8ClampedArray : TypedArray<byte>
 | [getBuffer](../../com.aspose.html/typedarray/buffer/) Gets the ArrayBuffer referenced by this instance. |
 | [getByteLength](../../com.aspose.html/typedarray/bytelength/) Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes. |
 | [getByteOffset](../../com.aspose.html/typedarray/byteoffset/) Gets the byteOffset from the start of referenced ArrayBuffer. |
-[getItem]
-[setItem] Gets or sets the Byte at the specified index. |
+| [item](../../com.aspose.html/uint8clampedarray/item/) { get; set; } | Gets or sets the Byte at the specified index. |
 | [getLength](../../com.aspose.html/typedarray/length/) Gets the length of a typed array. |
 
 ## Methods

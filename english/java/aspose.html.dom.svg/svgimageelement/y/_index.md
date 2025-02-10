@@ -22,5 +22,5 @@ Corresponds to attribute ‘y’ on the given ‘image’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGImageElement](../)
-* package [com.aspose.html.dom.svg](../../svgimageelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

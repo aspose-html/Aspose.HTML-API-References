@@ -3,7 +3,7 @@ title: ITransformableBrush Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.drawing.ITransformableBrush interface. Desclares methods for getting transformation matrix and wrap mode
 type: docs
-weight: 2760
+weight: 2940
 url: /java/com.aspose.html.drawing/itransformablebrush/
 ---
 ## ITransformableBrush interface
@@ -18,8 +18,10 @@ public interface ITransformableBrush : IBrush
 
 | Name | Description |
 | --- | --- |
-| [getTransformationMatrix](../../com.aspose.html.drawing/itransformablebrush/transformationmatrix/) Get the transform. The transform defines a local geometric transform for this brush. |
-| [getWrapMode](../../com.aspose.html.drawing/itransformablebrush/wrapmode/) Gets or sets the wrap mode. Wrap mode specifies how a texture or gradient is tiled when it is smaller than the area being filled. |
+[getSpreadMode]
+[setSpreadMode] Gets or sets the SpreadMode mode. SpreadMode mode specifies how a texture or gradient is tiled when it is smaller than the area being filled. |
+[getTransformationMatrix]
+[setTransformationMatrix] Get the transform. The transform defines a local geometric transform for this brush. |
 
 ### See Also
 

@@ -22,5 +22,5 @@ A IEnumerator that can be used to iterate through the collection.
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* package [com.aspose.html.dom.css](../../cssvaluelist/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

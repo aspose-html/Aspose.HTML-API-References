@@ -3,7 +3,7 @@ title: Event Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.events.Event class. The is used to provide contextual information about an event to the handler processing the event
 type: docs
-weight: 780
+weight: 940
 url: /java/com.aspose.html.dom.events/event/
 ---
 ## Event class

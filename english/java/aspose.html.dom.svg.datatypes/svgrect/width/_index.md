@@ -27,5 +27,5 @@ The Width coordinate of the rectangle, in user units.
 ### See Also
 
 * class [SVGRect](../)
-* package [com.aspose.html.dom.svg.datatypes](../../svgrect/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

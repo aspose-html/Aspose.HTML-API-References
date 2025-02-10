@@ -3,7 +3,7 @@ title: BlockClosingReason Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.parser.BlockClosingReason enum. Defines the BlockClosingReason enum
 type: docs
-weight: 5320
+weight: 5580
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/blockclosingreason/
 ---
 ## BlockClosingReason enumeration

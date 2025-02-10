@@ -22,5 +22,5 @@ public void EndElement(Element element)
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * interface [IDevice](../)
-* package [com.aspose.html.rendering](../../idevice/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

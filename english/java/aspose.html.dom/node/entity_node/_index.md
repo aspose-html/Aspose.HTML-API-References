@@ -3,7 +3,7 @@ title: Node.ENTITY_NODE
 second_title: Aspose.HTML for Java API Reference
 description: Node field. An Entity node
 type: docs
-weight: 390
+weight: 370
 url: /java/com.aspose.html.dom/node/entity_node/
 ---
 ## Node.ENTITY_NODE field
@@ -23,5 +23,5 @@ Reference:
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.dom](../../node/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

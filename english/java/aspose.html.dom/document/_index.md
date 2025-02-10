@@ -3,7 +3,7 @@ title: Document Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.Document class. The Document represents the entire HTML XML or SVG document. Conceptually it is the root of the document tree and provides the primary access to the documents data
 type: docs
-weight: 670
+weight: 830
 url: /java/com.aspose.html.dom/document/
 ---
 ## Document class
@@ -19,7 +19,6 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 
 | Name | Description |
 | --- | --- |
-| [getAttributes](../../com.aspose.html.dom/node/attributes/) The attributes property returns a live collection of all attribute nodes registered to the specified node. Attributes is a key/value pair of Strings that represents any information regarding that attribute. |
 | [getBaseURI](../../com.aspose.html.dom/document/baseuri/) The absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI. |
 | [getCharacterSet](../../com.aspose.html.dom/document/characterset/) Gets the document's encoding. |
 | [getCharset](../../com.aspose.html.dom/document/charset/) Gets the document's encoding. |
@@ -45,22 +44,19 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 | [getNextSibling](../../com.aspose.html.dom/node/nextsibling/) The read-only nextSibling property of the [`Node`](../node/) interface returns the node immediately following the specified one in their parent's [`childNodes`](../node/childnodes/), or returns null if the specified node is the last child in the parent element. |
 | [getNodeName](../../com.aspose.html.dom/document/nodename/) The name of this node, depending on its type. |
 | [getNodeType](../../com.aspose.html.dom/document/nodetype/) A code representing the type of the underlying object. |
-[getNodeValue]
-[setNodeValue] The nodeValue property of the [`Node `](../node/)interface returns or sets the value of the current node. |
+| [nodeValue](../../com.aspose.html.dom/node/nodevalue/) { get; set; } | The nodeValue property of the [`Node `](../node/)interface returns or sets the value of the current node. |
 | [getOrigin](../../com.aspose.html.dom/document/origin/) Gets the document origin. |
 | [getOwnerDocument](../../com.aspose.html.dom/document/ownerdocument/) Gets the owner document. |
 | [getParentElement](../../com.aspose.html.dom/node/parentelement/) The read-only parentElement property of [`Node`](../node/) interface returns the DOM node's parent [`Element`](../element/), or null if the node either has no parent, or its parent isn't a DOM Element. |
 | [getParentNode](../../com.aspose.html.dom/node/parentnode/) The read-only parentNode property of the Node interface returns the parent of the specified node in the DOM tree. |
-[getPrefix]
-[setPrefix] The prefix read-only property returns the package prefix of the specified element, or null if no prefix is specified. |
+| [prefix](../../com.aspose.html.dom/node/prefix/) { get; set; } | The prefix read-only property returns the package prefix of the specified element, or null if no prefix is specified. |
 | [getPreviousElementSibling](../../com.aspose.html.dom/document/previouselementsibling/) Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree. |
 | [getPreviousSibling](../../com.aspose.html.dom/node/previoussibling/) The read-only previousSibling property of the [`Node`](../node/) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../node/firstchild/) list, or null if the specified node is the first in that list. |
 | [getReadyState](../../com.aspose.html.dom/document/readystate/) Returns the document readiness. The "loading" while the Document is loading, "interactive" once it is finished parsing but still loading sub-resources, and "complete" once it has loaded. |
 [getStrictErrorChecking]
 [setStrictErrorChecking] An attribute specifying whether error checking is enforced or not. When set to false, the implementation is free to not test every possible error case normally defined on DOM operations, and not raise any DOMException on DOM operations or report errors while using Document.normalizeDocument(). In case of error, the behavior is undefined. This attribute is true by default. |
 | [getStyleSheets](../../com.aspose.html.dom/document/stylesheets/) A list containing all the style sheets explicitly linked into or embedded in a document. For HTML documents, this includes external style sheets, included via the HTML LINK element, and inline STYLE elements. |
-[getTextContent]
-[setTextContent] The textContent property of the [`Node`](../node/) interface represents the text content of the node and its descendants. |
+| [textContent](../../com.aspose.html.dom/node/textcontent/) { get; set; } | The textContent property of the [`Node`](../node/) interface represents the text content of the node and its descendants. |
 [getXmlStandalone]
 [setXmlStandalone] An attribute specifying, as part of the XML declaration, whether this document is standalone. This is false when unspecified. |
 [getXmlVersion]
@@ -104,7 +100,6 @@ public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal
 | [getElementsByTagName](../../com.aspose.html.dom/document/getelementsbytagname/)(String) | The getElementsByTagName method of `Document` interface returns an [`HTMLCollection`](../../com.aspose.html.collections/htmlcollection/) of elements with the given tag name. |
 | [getElementsByTagNameNS](../../com.aspose.html.dom/document/getelementsbytagnamens/)(String, String) | Returns a list of elements with the given tag name belonging to the given package. The complete document is searched, including the root node. |
 | [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| [hasAttributes](../../com.aspose.html.dom/node/hasattributes/)() | The hasAttributes() method of the [`Element`](../element/) interface returns a boolean value indicating whether the current element has any attributes or not. |
 | [hasChildNodes](../../com.aspose.html.dom/node/haschildnodes/)() | The hasChildNodes() method of the Node interface returns a boolean value indicating whether the given [`Node`](../node/) has child nodes or not. |
 | [importNode](../../com.aspose.html.dom/document/importnode/)(Node, bool) | Imports a node from another document to this document, without altering or removing the source node from the original document; this method creates a new copy of the source node. |
 | [insertBefore](../../com.aspose.html.dom/node/insertbefore/)(Node, Node) | The insertBefore() method of the Node interface inserts a node before a reference node as a child of a specified parent node. |

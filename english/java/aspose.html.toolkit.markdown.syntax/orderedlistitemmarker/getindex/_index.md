@@ -21,5 +21,5 @@ The index.
 ### See Also
 
 * class [OrderedListItemMarker](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../orderedlistitemmarker/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGFEFuncRElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.filters.SVGFEFuncRElement class. The SVGFEFuncRElement interface corresponds to the feFuncR element
 type: docs
-weight: 1500
+weight: 1660
 url: /java/com.aspose.html.dom.svg.filters/svgfefuncrelement/
 ---
 ## SVGFEFuncRElement class
@@ -44,8 +44,7 @@ public class SVGFEFuncRElement : SVGComponentTransferFunctionElement
 | [getNextSibling](../../com.aspose.html.dom/node/nextsibling/) The read-only nextSibling property of the [`Node`](../../com.aspose.html.dom/node/) interface returns the node immediately following the specified one in their parent's [`childNodes`](../../com.aspose.html.dom/node/childnodes/), or returns null if the specified node is the last child in the parent element. |
 | [getNodeName](../../com.aspose.html.dom/element/nodename/) The name of this node, depending on its type. |
 | [getNodeType](../../com.aspose.html.dom/element/nodetype/) A code representing the type of the underlying object. |
-[getNodeValue]
-[setNodeValue] The nodeValue property of the [`Node `](../../com.aspose.html.dom/node/)interface returns or sets the value of the current node. |
+| [nodeValue](../../com.aspose.html.dom/node/nodevalue/) { get; set; } | The nodeValue property of the [`Node `](../../com.aspose.html.dom/node/)interface returns or sets the value of the current node. |
 | [getOffset](../../com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/offset/) Corresponds to attribute ‘offset’ on the given element. |
 [getOuterHTML]
 [setOuterHTML] Returns a fragment of HTML or XML that represents the element and its contents. Can be set, to replace the element with nodes parsed from the given String. |
@@ -56,14 +55,12 @@ public class SVGFEFuncRElement : SVGComponentTransferFunctionElement
 | [getPrefix](../../com.aspose.html.dom/element/prefix/) The package prefix of this node, or null if it is unspecified. When it is defined to be null, setting it has no effect |
 | [getPreviousElementSibling](../../com.aspose.html.dom/element/previouselementsibling/) Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree. |
 | [getPreviousSibling](../../com.aspose.html.dom/node/previoussibling/) The read-only previousSibling property of the [`Node`](../../com.aspose.html.dom/node/) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../../com.aspose.html.dom/node/firstchild/) list, or null if the specified node is the first in that list. |
-| [getSchemaTypeInfo](../../com.aspose.html.dom/element/schematypeinfo/) The type information associated with this element. |
 | [getShadowRoot](../../com.aspose.html.dom/element/shadowroot/) Returns shadowRoot stored on this element or null if it's closed. |
 | [getSlope](../../com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/slope/) Corresponds to attribute ‘slope’ on the given element. |
 | [getStyle](../../com.aspose.html.dom.svg/svgelement/style/) Corresponds to attribute ‘style’ on the given element. If the user agent does not support styling with CSS, then this attribute must always have the value of null. |
 | [getTableValues](../../com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/tablevalues/) Corresponds to attribute ‘tableValues’ on the given element. |
 | [getTagName](../../com.aspose.html.dom/element/tagname/) The name of the element. |
-[getTextContent]
-[setTextContent] This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new String is not empty or null, replaced by a single Text node containing the String this attribute is set to. |
+| [textContent](../../com.aspose.html.dom/element/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new String is not empty or null, replaced by a single Text node containing the String this attribute is set to. |
 | [getType](../../com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/type/) Corresponds to attribute ‘type’ on the given element. Takes one of the SVG_FECOMPONENTTRANSFER_TYPE_* constants defined on this interface. |
 | [getViewportElement](../../com.aspose.html.dom.svg/svgelement/viewportelement/) The element which established the current viewport. Often, the nearest ancestor ‘svg’ element. Null if the given element is the outermost svg element. |
 
@@ -81,6 +78,7 @@ public class SVGFEFuncRElement : SVGComponentTransferFunctionElement
 | [dispatchEvent](../../com.aspose.html.dom/eventtarget/dispatchevent/)(Event) | Dispatches an Event at the specified [`EventTarget`](../../com.aspose.html.dom.events/ieventtarget/), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`dispatchEvent()`](../../com.aspose.html.dom.events/ieventtarget/dispatchevent/). |
 | [dispose](../../com.aspose.html.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [getAttribute](../../com.aspose.html.dom/element/getattribute/)(String) | Retrieves an attribute value by name. |
+| [getAttributeNames](../../com.aspose.html.dom/element/getattributenames/)() | Returns the attribute names of the element as an Array of Strings. If the element has no attributes it returns an empty array. |
 | [getAttributeNode](../../com.aspose.html.dom/element/getattributenode/)(String) | Retrieves an attribute node by name. |
 | [getAttributeNodeNS](../../com.aspose.html.dom/element/getattributenodens/)(String, String) | Retrieves an Attr node by local name and package URI. |
 | [getAttributeNS](../../com.aspose.html.dom/element/getattributens/)(String, String) | Retrieves an attribute value by local name and package URI. |
@@ -114,9 +112,8 @@ public class SVGFEFuncRElement : SVGComponentTransferFunctionElement
 | [setAttributeNode](../../com.aspose.html.dom/element/setattributenode/)(Attr) | Adds a new attribute node. If an attribute with that name (nodeName) is already present in the element, it is replaced by the new one. |
 | [setAttributeNodeNS](../../com.aspose.html.dom/element/setattributenodens/)(Attr) | Adds a new attribute. If an attribute with that local name and that package URI is already present in the element, it is replaced by the new one. |
 | [setAttributeNS](../../com.aspose.html.dom/element/setattributens/)(String, String, String) | Adds a new attribute. If an attribute with the same local name and package URI is already present on the element, its prefix is changed to be the prefix part of the qualifiedName, and its value is changed to be the value parameter. |
-| [setIdAttribute](../../com.aspose.html.dom/element/setidattribute/)(String, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [setIdAttributeNode](../../com.aspose.html.dom/element/setidattributenode/)(Attr, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [setIdAttributeNS](../../com.aspose.html.dom/element/setidattributens/)(String, String, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
+| [toggleAttribute](../../com.aspose.html.dom/element/toggleattribute/)(String) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
+| [toggleAttribute](../../com.aspose.html.dom/element/toggleattribute/)(String, bool) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | [toString](../../com.aspose.html.dom/node/toString/)() | Returns a String that represents this instance. |
 
 ### See Also

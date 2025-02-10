@@ -3,7 +3,7 @@ title: Counter Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.css.Counter class. The Counter interface is used to represent any counter or counters function value. This interface reflects the values in the underlying style property
 type: docs
-weight: 370
+weight: 530
 url: /java/com.aspose.html.dom.css/counter/
 ---
 ## Counter class

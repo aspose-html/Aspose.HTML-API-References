@@ -17,5 +17,5 @@ public String Id { get; set; }
 ### See Also
 
 * class [ButtonElement](../)
-* package [com.aspose.html.forms](../../buttonelement/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

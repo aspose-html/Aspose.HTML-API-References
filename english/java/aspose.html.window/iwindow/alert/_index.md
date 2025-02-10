@@ -3,7 +3,7 @@ title: IWindow.Alert
 second_title: Aspose.HTML for Java API Reference
 description: IWindow method. Displays a modal alert with the given message and waits for the user to dismiss it
 type: docs
-weight: 100
+weight: 110
 url: /java/com.aspose.html.window/iwindow/alert/
 ---
 ## IWindow.Alert method
@@ -21,5 +21,5 @@ public void Alert(String message)
 ### See Also
 
 * interface [IWindow](../)
-* package [com.aspose.html.window](../../iwindow/)
+* package [com.aspose.html.window](../../../com.aspose.html.window/)
 * package [Aspose.HTML](../../../)

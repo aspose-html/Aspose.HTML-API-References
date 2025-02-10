@@ -3,7 +3,7 @@ title: TextOptions Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.image.TextOptions class. Represents text rendering options for ImageDevice
 type: docs
-weight: 4370
+weight: 4560
 url: /java/com.aspose.html.rendering.image/textoptions/
 ---
 ## TextOptions class
@@ -18,8 +18,8 @@ public class TextOptions
 
 | Name | Description |
 | --- | --- |
-[getTextRenderingHint]
-[setTextRenderingHint] Sets or gets TextRenderingHint which influences text rendering quality. By default this property is SystemDefault. |
+[getUseHinting]
+[setUseHinting] Specifies whether to use text hinting. By default, hinting is disabled. |
 
 ### See Also
 

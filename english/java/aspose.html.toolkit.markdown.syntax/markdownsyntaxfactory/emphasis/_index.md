@@ -27,7 +27,7 @@ The EmphasisSyntax.
 * class [EmphasisSyntaxNode](../../emphasissyntaxnode/)
 * enum [Emphasis](../../emphasis/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -54,5 +54,5 @@ The EmphasisSyntax.
 * class [EmphasisSyntaxNode](../../emphasissyntaxnode/)
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

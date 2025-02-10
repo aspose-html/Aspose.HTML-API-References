@@ -27,7 +27,7 @@ The tree walker.
 * class [TreeWalker](../../treewalker/)
 * class [MarkdownSyntaxNodeFilter](../../markdownsyntaxnodefilter/)
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -53,7 +53,7 @@ The tree walker.
 * class [TreeWalker](../../treewalker/)
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -81,5 +81,5 @@ The tree walker.
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [MarkdownSyntaxNodeFilter](../../markdownsyntaxnodefilter/)
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

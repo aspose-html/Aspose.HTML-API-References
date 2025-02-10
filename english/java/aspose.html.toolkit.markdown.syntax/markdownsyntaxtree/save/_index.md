@@ -21,7 +21,7 @@ public void Save(String path)
 ### See Also
 
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -41,7 +41,7 @@ public void Save(TextWriter writer)
 ### See Also
 
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -61,5 +61,5 @@ public void Save(Stream stream)
 ### See Also
 
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

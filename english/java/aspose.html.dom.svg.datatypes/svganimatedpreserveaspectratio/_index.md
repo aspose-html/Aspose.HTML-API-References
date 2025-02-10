@@ -3,7 +3,7 @@ title: SVGAnimatedPreserveAspectRatio Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.datatypes.SVGAnimatedPreserveAspectRatio class. Used for attributes of type SVGPreserveAspectRatio which can be animated
 type: docs
-weight: 1160
+weight: 1320
 url: /java/com.aspose.html.dom.svg.datatypes/svganimatedpreserveaspectratio/
 ---
 ## SVGAnimatedPreserveAspectRatio class

@@ -18,5 +18,5 @@ public HTMLCollection Elements { get; }
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [HTMLFormElement](../)
-* package [com.aspose.html](../../htmlformelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

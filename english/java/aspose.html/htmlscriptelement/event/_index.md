@@ -17,5 +17,5 @@ public String Event { get; set; }
 ### See Also
 
 * class [HTMLScriptElement](../)
-* package [com.aspose.html](../../htmlscriptelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

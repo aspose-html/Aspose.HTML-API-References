@@ -3,7 +3,7 @@ title: YamlMappingSyntaxNode.GetEnumerator
 second_title: Aspose.HTML for Java API Reference
 description: YamlMappingSyntaxNode method. Gets the enumerator
 type: docs
-weight: 60
+weight: 50
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/getenumerator/
 ---
 ## YamlMappingSyntaxNode.GetEnumerator method
@@ -22,5 +22,5 @@ An IEnumerator object that can be used to iterate through the collection.
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [YamlMappingSyntaxNode](../)
-* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../yamlmappingsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

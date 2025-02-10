@@ -22,5 +22,5 @@ public void BeginDocument(Document document)
 
 * class [Document](../../../com.aspose.html.dom/document/)
 * class [DocDevice](../)
-* package [com.aspose.html.rendering.doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)

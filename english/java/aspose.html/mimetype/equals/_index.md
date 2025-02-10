@@ -25,7 +25,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 ### See Also
 
 * class [MimeType](../)
-* package [com.aspose.html](../../mimetype/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -49,5 +49,5 @@ true if the specified Object is equal to the current Object; otherwise, false.
 ### See Also
 
 * class [MimeType](../)
-* package [com.aspose.html](../../mimetype/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -27,7 +27,7 @@ public Url(String url)
 ### See Also
 
 * class [Url](../)
-* package [com.aspose.html](../../url/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -54,5 +54,5 @@ public Url(String url, String baseUrl)
 ### See Also
 
 * class [Url](../)
-* package [com.aspose.html](../../url/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

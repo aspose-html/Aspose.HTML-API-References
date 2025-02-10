@@ -3,7 +3,7 @@ title: Uint8Array Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Uint8Array class. Represents an array of twos-complement 8-bit unsigned integers
 type: docs
-weight: 5820
+weight: 6080
 url: /java/com.aspose.html/uint8array/
 ---
 ## Uint8Array class
@@ -31,8 +31,7 @@ public class Uint8Array : TypedArray<byte>
 | [getBuffer](../../com.aspose.html/typedarray/buffer/) Gets the ArrayBuffer referenced by this instance. |
 | [getByteLength](../../com.aspose.html/typedarray/bytelength/) Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes. |
 | [getByteOffset](../../com.aspose.html/typedarray/byteoffset/) Gets the byteOffset from the start of referenced ArrayBuffer. |
-[getItem]
-[setItem] Gets or sets the Byte at the specified index. |
+| [item](../../com.aspose.html/uint8array/item/) { get; set; } | Gets or sets the Byte at the specified index. |
 | [getLength](../../com.aspose.html/typedarray/length/) Gets the length of a typed array. |
 
 ## Methods

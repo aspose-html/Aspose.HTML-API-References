@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [Path2D](../)
-* package [com.aspose.html.dom.canvas](../../path2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

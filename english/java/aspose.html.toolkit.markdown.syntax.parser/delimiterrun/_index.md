@@ -3,7 +3,7 @@ title: DelimiterRun Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.toolkit.markdown.syntax.parser.DelimiterRun class. Defines the DelimiterRun
 type: docs
-weight: 5340
+weight: 5600
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/delimiterrun/
 ---
 ## DelimiterRun class

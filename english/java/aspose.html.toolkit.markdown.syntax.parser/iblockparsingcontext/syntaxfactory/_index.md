@@ -18,5 +18,5 @@ public MarkdownSyntaxFactory SyntaxFactory { get; }
 
 * class [MarkdownSyntaxFactory](../../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/)
 * interface [IBlockParsingContext](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../iblockparsingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

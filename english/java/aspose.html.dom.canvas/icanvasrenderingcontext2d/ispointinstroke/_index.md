@@ -26,7 +26,7 @@ Returns true if the point is inside the area contained by the stroking of a path
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -53,5 +53,5 @@ Returns true if the point is inside the area contained by the stroking of a path
 
 * class [Path2D](../../path2d/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.dom.canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

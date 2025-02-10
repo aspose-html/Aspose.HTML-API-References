@@ -26,5 +26,5 @@ Return a new instance of the [`FormEditor`](../) class
 
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [FormEditor](../)
-* package [com.aspose.html.forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

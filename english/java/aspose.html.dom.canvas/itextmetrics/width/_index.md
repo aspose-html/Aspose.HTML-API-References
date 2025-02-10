@@ -17,5 +17,5 @@ public double Width { get; }
 ### See Also
 
 * interface [ITextMetrics](../)
-* package [com.aspose.html.dom.canvas](../../itextmetrics/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

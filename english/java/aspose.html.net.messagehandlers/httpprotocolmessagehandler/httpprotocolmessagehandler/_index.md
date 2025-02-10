@@ -17,5 +17,5 @@ public HttpProtocolMessageHandler()
 ### See Also
 
 * class [HttpProtocolMessageHandler](../)
-* package [com.aspose.html.net.messagehandlers](../../httpprotocolmessagehandler/)
+* package [com.aspose.html.net.messagehandlers](../../../com.aspose.html.net.messagehandlers/)
 * package [Aspose.HTML](../../../)

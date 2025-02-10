@@ -17,5 +17,5 @@ public bool NoHref { get; set; }
 ### See Also
 
 * class [HTMLAreaElement](../)
-* package [com.aspose.html](../../htmlareaelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -18,5 +18,5 @@ public AtPagePriority AtPagePriority { get; set; }
 
 * enum [AtPagePriority](../../atpagepriority/)
 * class [PageSetup](../)
-* package [com.aspose.html.rendering](../../pagesetup/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

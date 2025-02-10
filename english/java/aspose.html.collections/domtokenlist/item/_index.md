@@ -11,7 +11,7 @@ url: /java/com.aspose.html.collections/domtokenlist/item/
 Returns the item in the list by its index, or null if index is greater than or equal to the list's length.
 
 ```java
-public String this[ulong index] { get; }
+public String this[uint index] { get; }
 ```
 
 | Parameter | Description |
@@ -25,5 +25,5 @@ A String which represents a token in the list.
 ### See Also
 
 * class [DOMTokenList](../)
-* package [com.aspose.html.collections](../../domtokenlist/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

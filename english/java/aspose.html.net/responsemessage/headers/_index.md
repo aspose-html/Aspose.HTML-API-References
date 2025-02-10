@@ -22,5 +22,5 @@ The headers.
 
 * class [ResponseHeaders](../../responseheaders/)
 * class [ResponseMessage](../)
-* package [com.aspose.html.net](../../responsemessage/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

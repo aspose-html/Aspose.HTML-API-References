@@ -27,5 +27,5 @@ The relative Y coordinate
 ### See Also
 
 * class [SVGPathSegCurvetoCubicRel](../)
-* package [com.aspose.html.dom.svg.paths](../../svgpathsegcurvetocubicrel/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

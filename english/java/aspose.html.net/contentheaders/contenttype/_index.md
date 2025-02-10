@@ -22,5 +22,5 @@ The type of the content.
 
 * class [ContentTypeHeaderValue](../../../com.aspose.html.net.headers/contenttypeheadervalue/)
 * class [ContentHeaders](../)
-* package [com.aspose.html.net](../../contentheaders/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

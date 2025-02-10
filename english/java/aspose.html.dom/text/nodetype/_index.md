@@ -21,5 +21,5 @@ The type of the node.
 ### See Also
 
 * class [Text](../)
-* package [com.aspose.html.dom](../../text/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

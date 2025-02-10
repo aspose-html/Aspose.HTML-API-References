@@ -26,5 +26,5 @@ public HTMLTableSectionElement THead { get; }
 
 * class [HTMLTableSectionElement](../../htmltablesectionelement/)
 * class [HTMLTableElement](../)
-* package [com.aspose.html](../../htmltableelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

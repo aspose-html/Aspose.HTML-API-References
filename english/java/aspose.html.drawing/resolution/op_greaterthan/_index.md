@@ -15,5 +15,5 @@ public static bool operator >(Resolution a, Resolution b)
 ### See Also
 
 * class [Resolution](../)
-* package [com.aspose.html.drawing](../../resolution/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

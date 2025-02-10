@@ -17,5 +17,5 @@ public void Close()
 ### See Also
 
 * class [BlockSyntaxDescriptor](../)
-* package [com.aspose.html.toolkit.markdown.syntax.parser](../../blocksyntaxdescriptor/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

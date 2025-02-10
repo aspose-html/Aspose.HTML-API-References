@@ -3,7 +3,7 @@ title: MediaType Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.rendering.MediaType enum. Specifies possible media types used during rendering
 type: docs
-weight: 4390
+weight: 4570
 url: /java/com.aspose.html.rendering/mediatype/
 ---
 ## MediaType enumeration

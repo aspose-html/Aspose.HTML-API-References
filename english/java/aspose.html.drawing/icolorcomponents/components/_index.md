@@ -17,5 +17,5 @@ public float[] Components { get; }
 ### See Also
 
 * interface [IColorComponents](../)
-* package [com.aspose.html.drawing](../../icolorcomponents/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

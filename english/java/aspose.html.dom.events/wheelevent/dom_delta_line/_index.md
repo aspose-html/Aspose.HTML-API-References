@@ -17,5 +17,5 @@ public const ulong DOM_DELTA_LINE;
 ### See Also
 
 * class [WheelEvent](../)
-* package [com.aspose.html.dom.events](../../wheelevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

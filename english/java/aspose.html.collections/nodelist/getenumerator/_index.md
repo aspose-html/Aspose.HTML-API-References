@@ -22,5 +22,5 @@ A IEnumerator that can be used to iterate through the collection.
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * class [NodeList](../)
-* package [com.aspose.html.collections](../../nodelist/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

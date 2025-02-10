@@ -18,5 +18,5 @@ public DocumentFormat DocumentFormat { get; set; }
 
 * enum [DocumentFormat](../../documentformat/)
 * class [DocRenderingOptions](../)
-* package [com.aspose.html.rendering.doc](../../docrenderingoptions/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)

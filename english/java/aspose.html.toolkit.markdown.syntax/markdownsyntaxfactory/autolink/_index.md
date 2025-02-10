@@ -6,13 +6,43 @@ type: docs
 weight: 20
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/autolink/
 ---
-## MarkdownSyntaxFactory.AutoLink method
+## AutoLink(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken) {#autolink}
 
 Creates [`AutoLinkSyntaxNode`](../../autolinksyntaxnode/).
 
 ```java
 public AutoLinkSyntaxNode AutoLink(MarkdownSyntaxToken opening, TextSyntaxNode content, 
-    MarkdownSyntaxToken closing, bool mail = false)
+    MarkdownSyntaxToken closing)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| opening | MarkdownSyntaxToken | The MarkdownSyntaxToken. |
+| content | TextSyntaxNode | The TextSyntax. |
+| closing | MarkdownSyntaxToken | The MarkdownSyntaxToken. |
+
+### Return Value
+
+The AutoLinkSyntax.
+
+### See Also
+
+* class [AutoLinkSyntaxNode](../../autolinksyntaxnode/)
+* class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
+* class [TextSyntaxNode](../../textsyntaxnode/)
+* class [MarkdownSyntaxFactory](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## AutoLink(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken, bool) {#autolink_1}
+
+Creates [`AutoLinkSyntaxNode`](../../autolinksyntaxnode/).
+
+```java
+public AutoLinkSyntaxNode AutoLink(MarkdownSyntaxToken opening, TextSyntaxNode content, 
+    MarkdownSyntaxToken closing, bool mail)
 ```
 
 | Parameter | Type | Description |
@@ -32,5 +62,5 @@ The AutoLinkSyntax.
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [TextSyntaxNode](../../textsyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

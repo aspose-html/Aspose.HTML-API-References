@@ -3,7 +3,7 @@ title: Node.TextContent
 second_title: Aspose.HTML for Java API Reference
 description: Node property. The textContent property of the Node interface represents the text content of the node and its descendants
 type: docs
-weight: 170
+weight: 160
 url: /java/com.aspose.html.dom/node/textcontent/
 ---
 ## Node.TextContent property
@@ -29,5 +29,5 @@ Reference:
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.dom](../../node/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

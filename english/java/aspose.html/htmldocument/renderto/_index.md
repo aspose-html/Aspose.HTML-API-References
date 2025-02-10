@@ -22,5 +22,5 @@ public void RenderTo(IDevice device)
 
 * interface [IDevice](../../../com.aspose.html.rendering/idevice/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

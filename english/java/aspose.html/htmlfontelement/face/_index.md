@@ -17,5 +17,5 @@ public String Face { get; set; }
 ### See Also
 
 * class [HTMLFontElement](../)
-* package [com.aspose.html](../../htmlfontelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

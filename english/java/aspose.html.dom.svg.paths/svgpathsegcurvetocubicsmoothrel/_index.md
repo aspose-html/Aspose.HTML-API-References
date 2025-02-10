@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoCubicSmoothRel Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.svg.paths.SVGPathSegCurvetoCubicSmoothRel class. The SVGPathSegCurvetoCubicSmoothRel interface corresponds to a relative smooth cubic curveto s path data command
 type: docs
-weight: 1770
+weight: 1930
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothrel/
 ---
 ## SVGPathSegCurvetoCubicSmoothRel class

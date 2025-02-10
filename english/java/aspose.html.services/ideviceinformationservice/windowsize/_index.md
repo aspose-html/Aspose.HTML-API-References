@@ -22,5 +22,5 @@ The size of the window.
 
 * class [Size](../../../com.aspose.html.drawing/size/)
 * interface [IDeviceInformationService](../)
-* package [com.aspose.html.services](../../ideviceinformationservice/)
+* package [com.aspose.html.services](../../../com.aspose.html.services/)
 * package [Aspose.HTML](../../../)

@@ -17,5 +17,5 @@ public DOMConstructorAttribute()
 ### See Also
 
 * class [DOMConstructorAttribute](../)
-* package [com.aspose.html.dom.attributes](../../domconstructorattribute/)
+* package [com.aspose.html.dom.attributes](../../../com.aspose.html.dom.attributes/)
 * package [Aspose.HTML](../../../)

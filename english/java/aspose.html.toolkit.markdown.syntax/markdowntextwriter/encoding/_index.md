@@ -17,5 +17,5 @@ public Encoding Encoding { get; }
 ### See Also
 
 * class [MarkdownTextWriter](../)
-* package [com.aspose.html.toolkit.markdown.syntax](../../markdowntextwriter/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

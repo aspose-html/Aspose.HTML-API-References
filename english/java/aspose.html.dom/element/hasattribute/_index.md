@@ -11,7 +11,7 @@ url: /java/com.aspose.html.dom/element/hasattribute/
 Returns true when an attribute with a given name is specified on this element or has a default value, false otherwise.
 
 ```java
-public bool HasAttribute(String name)
+public bool HasAttribute(String qualifiedName)
 ```
 
 | Parameter | Type | Description |
@@ -25,5 +25,5 @@ public bool HasAttribute(String name)
 ### See Also
 
 * class [Element](../)
-* package [com.aspose.html.dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

@@ -22,5 +22,5 @@ The target element.
 
 * class [SVGElement](../../svgelement/)
 * class [SVGAnimationElement](../)
-* package [com.aspose.html.dom.svg](../../svganimationelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

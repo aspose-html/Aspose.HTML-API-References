@@ -17,5 +17,5 @@ public const ulong DOM_KEY_LOCATION_NUMPAD;
 ### See Also
 
 * class [KeyboardEvent](../)
-* package [com.aspose.html.dom.events](../../keyboardevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

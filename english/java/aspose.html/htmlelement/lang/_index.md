@@ -17,5 +17,5 @@ public String Lang { get; set; }
 ### See Also
 
 * class [HTMLElement](../)
-* package [com.aspose.html](../../htmlelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

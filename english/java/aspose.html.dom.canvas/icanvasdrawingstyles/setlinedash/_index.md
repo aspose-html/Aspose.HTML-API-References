@@ -21,5 +21,5 @@ public void SetLineDash(double[] segments)
 ### See Also
 
 * interface [ICanvasDrawingStyles](../)
-* package [com.aspose.html.dom.canvas](../../icanvasdrawingstyles/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

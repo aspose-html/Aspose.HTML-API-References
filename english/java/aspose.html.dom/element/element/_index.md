@@ -1,26 +1,28 @@
 ---
 title: Element
 second_title: Aspose.HTML for Java API Reference
-description: Element constructor. Initializes a new instance of the Element class. Dont call this constructor directly use CreateElementString or CreateElementNSString String
+description: Element constructor. Initializes a new instance of the Element class. Dont call this constructor directly use CreateElement or CreateElementNS
 type: docs
 weight: 10
 url: /java/com.aspose.html.dom/element/element/
 ---
 ## Element constructor
 
-Initializes a new instance of the Element class. Don't call this constructor directly, use [`CreateElement(String)`](../../document/createelement/) or [`CreateElementNS(String, String)`](../../document/createelementns/).
+Initializes a new instance of the [`Element`](../) class. Don't call this constructor directly, use [`CreateElement`](../../document/createelement/) or [`CreateElementNS`](../../document/createelementns/).
 
 ```java
-public Element(IElementInit elementInit)
+public Element(QualifiedName qualifiedName, Document document)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| elementInit | IElementInit | The element initialization info. |
+| qualifiedName | QualifiedName | The qualified name. |
+| document | Document | The associated document. |
 
 ### See Also
 
-* interface [IElementInit](../../ielementinit/)
+* class [QualifiedName](../../qualifiedname/)
+* class [Document](../../document/)
 * class [Element](../)
-* package [com.aspose.html.dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

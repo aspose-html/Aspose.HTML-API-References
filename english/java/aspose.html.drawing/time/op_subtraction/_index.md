@@ -15,5 +15,5 @@ public static Time operator -(Time a, Time b)
 ### See Also
 
 * class [Time](../)
-* package [com.aspose.html.drawing](../../time/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

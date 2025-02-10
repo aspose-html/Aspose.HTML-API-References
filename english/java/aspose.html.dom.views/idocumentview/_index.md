@@ -3,7 +3,7 @@ title: IDocumentView Interface
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.dom.views.IDocumentView interface. The DocumentView interface is implemented by Document objects in DOM implementations supporting DOM Views. It provides an attribute to retrieve the default view of a document
 type: docs
-weight: 2560
+weight: 2720
 url: /java/com.aspose.html.dom.views/idocumentview/
 ---
 ## IDocumentView interface

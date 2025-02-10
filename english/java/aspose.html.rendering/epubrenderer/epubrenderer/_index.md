@@ -17,5 +17,5 @@ public EpubRenderer()
 ### See Also
 
 * class [EpubRenderer](../)
-* package [com.aspose.html.rendering](../../epubrenderer/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)
