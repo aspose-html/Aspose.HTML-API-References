@@ -3,7 +3,6 @@ title: HTMLBRElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLBRElement class. Force a line break. See the BR element definition in HTML 4.01
 type: docs
-
 url: /java/com.aspose.html/htmlbrelement/
 ---
 ## HTMLBRElement class
