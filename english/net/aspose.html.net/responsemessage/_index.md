@@ -29,6 +29,7 @@ public class ResponseMessage : IDisposable
 | [Headers](../../aspose.html.net/responsemessage/headers/) { get; } | Gets the headers. |
 | [IsSuccess](../../aspose.html.net/responsemessage/issuccess/) { get; } | Gets a value indicating whether this message is success. |
 | [Request](../../aspose.html.net/responsemessage/request/) { get; set; } | Gets or sets the associated request. |
+| [ResponseUri](../../aspose.html.net/responsemessage/responseuri/) { get; set; } | Gets or sets the response URI. |
 | [StatusCode](../../aspose.html.net/responsemessage/statuscode/) { get; set; } | Gets or sets the status code. |
 
 ## Methods
