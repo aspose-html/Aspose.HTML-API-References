@@ -23,6 +23,7 @@ The ResponseMessage type exposes the following members:
 | [content](/html/python-net/aspose.html.net/responsemessage/content) | Gets or sets the response content. |
 | [request](/html/python-net/aspose.html.net/responsemessage/request) | Gets or sets the associated request. |
 | [is_success](/html/python-net/aspose.html.net/responsemessage/is_success) | Gets a value indicating whether this message is success. |
+| [response_uri](/html/python-net/aspose.html.net/responsemessage/response_uri) | Gets or sets the response URI. |
 
 
 

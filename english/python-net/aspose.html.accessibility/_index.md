@@ -8,7 +8,7 @@ url: /python-net/aspose.html.accessibility/
 is_root: false
 ---
 
-The **Aspose.Html.Dom.Accessibility**  namespace is for all Web Accessibility related manipulations.
+The **Aspose.Html.Accessibility**  namespace is for all Web Accessibility related manipulations.
 complies with international standards W3C Web Accessibility Initiative
 
 ### Classes

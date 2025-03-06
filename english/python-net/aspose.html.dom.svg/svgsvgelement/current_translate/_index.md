@@ -18,9 +18,6 @@ When accessed on an ‘svg’ element that is not an outermost svg element, it i
 @property
 def current_translate(self):
     ...
-@current_translate.setter
-def current_translate(self, value):
-    ...
 ```
 
 ### See Also

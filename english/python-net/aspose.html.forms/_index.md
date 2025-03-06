@@ -8,7 +8,7 @@ url: /python-net/aspose.html.forms/
 is_root: false
 ---
 
-The namespace provides access to
+The **Aspose.Html.Forms**  namespace provides access to
 numerous objects (elements) which are responsible to
 user interactivity within form as web page component.
 
