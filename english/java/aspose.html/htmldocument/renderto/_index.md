@@ -3,7 +3,7 @@ title: HTMLDocument.RenderTo
 second_title: Aspose.HTML for Java API Reference
 description: HTMLDocument method. This method is used to print the contents of the current document to the specified device
 type: docs
-weight: 120
+
 url: /java/com.aspose.html/htmldocument/renderto/
 ---
 ## HTMLDocument.RenderTo method
@@ -22,5 +22,5 @@ public void RenderTo(IDevice device)
 
 * interface [IDevice](../../../com.aspose.html.rendering/idevice/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

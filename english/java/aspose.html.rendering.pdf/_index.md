@@ -1,12 +1,12 @@
 ---
-title: com.aspose.html.rendering.Pdf
+title: com.aspose.html.rendering.pdf
 second_title: Aspose.HTML for Java API Reference
-description: The com.aspose.html.Rendering.Pdf package provides specific device class as well as few rendering options classes responsible for rendering to a pdf document
+description: The com.aspose.html.rendering.pdf package provides specific device class as well as few rendering options classes responsible for rendering to a pdf document
 type: docs
-weight: 340
+
 url: /java/com.aspose.html.rendering.pdf/
 ---
-The **com.aspose.html.Rendering.Pdf** package provides specific device class as well as few rendering options classes responsible for rendering to a pdf document.
+The **com.aspose.html.rendering.pdf** package provides specific device class as well as few rendering options classes responsible for rendering to a pdf document.
 
 ## Classes
 

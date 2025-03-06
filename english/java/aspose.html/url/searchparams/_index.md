@@ -3,7 +3,7 @@ title: Url.SearchParams
 second_title: Aspose.HTML for Java API Reference
 description: Url property. Gets an associated IUrlSearchParams object
 type: docs
-weight: 120
+
 url: /java/com.aspose.html/url/searchparams/
 ---
 ## Url.SearchParams property
@@ -22,5 +22,5 @@ public IUrlSearchParams SearchParams { get; }
 
 * interface [IUrlSearchParams](../../iurlsearchparams/)
 * class [Url](../)
-* package [com.aspose.html](../../url/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

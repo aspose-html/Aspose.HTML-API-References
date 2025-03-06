@@ -3,7 +3,7 @@ title: SVGMaskElement.SystemLanguage
 second_title: Aspose.HTML for Java API Reference
 description: SVGMaskElement property. Corresponds to attribute systemLanguage on the given element
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg/svgmaskelement/systemlanguage/
 ---
 ## SVGMaskElement.SystemLanguage property
@@ -22,5 +22,5 @@ The system language.
 
 * class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
 * class [SVGMaskElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgmaskelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

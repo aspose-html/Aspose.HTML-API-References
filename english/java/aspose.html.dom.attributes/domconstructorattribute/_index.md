@@ -1,9 +1,9 @@
 ---
 title: DOMConstructorAttribute Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Attributes.DOMConstructorAttribute class. Specifies a constructor that is defined by the W3C
+description: com.aspose.html.dom.attributes.DOMConstructorAttribute class. Specifies a constructor that is defined by the W3C
 type: docs
-weight: 140
+
 url: /java/com.aspose.html.dom.attributes/domconstructorattribute/
 ---
 ## DOMConstructorAttribute class
@@ -23,5 +23,5 @@ public sealed class DOMConstructorAttribute : Attribute
 
 ### See Also
 
-* package [com.aspose.html.Dom.Attributes](../../com.aspose.html.dom.attributes/)
+* package [com.aspose.html.dom.attributes](../../com.aspose.html.dom.attributes/)
 * package [Aspose.HTML](../../)

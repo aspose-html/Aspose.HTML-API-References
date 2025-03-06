@@ -3,7 +3,7 @@ title: Element.RemoveAttributeNS
 second_title: Aspose.HTML for Java API Reference
 description: Element method. Removes an attribute by local name and package URI
 type: docs
-weight: 390
+
 url: /java/com.aspose.html.dom/element/removeattributens/
 ---
 ## Element.RemoveAttributeNS method
@@ -22,5 +22,5 @@ public void RemoveAttributeNS(String packageURI, String localName)
 ### See Also
 
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

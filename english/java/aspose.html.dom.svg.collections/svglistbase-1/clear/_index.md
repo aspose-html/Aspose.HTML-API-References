@@ -3,7 +3,7 @@ title: SVGListBase-1.Clear
 second_title: Aspose.HTML for Java API Reference
 description: SVGListBase method. Clears all existing current items from the list with the result being an empty list
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg.collections/svglistbase-1/clear/
 ---
 ## SVGListBase&lt;T&gt;.Clear method
@@ -23,5 +23,5 @@ public void Clear()
 ### See Also
 
 * class [SVGListBase&lt;T&gt;](../)
-* package [com.aspose.html.Dom.Svg.Collections](../../svglistbase-1/)
+* package [com.aspose.html.dom.svg.collections](../../../com.aspose.html.dom.svg.collections/)
 * package [Aspose.HTML](../../../)

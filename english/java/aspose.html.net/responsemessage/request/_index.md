@@ -3,7 +3,7 @@ title: ResponseMessage.Request
 second_title: Aspose.HTML for Java API Reference
 description: ResponseMessage property. Gets or sets the associated request
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.net/responsemessage/request/
 ---
 ## ResponseMessage.Request property
@@ -22,5 +22,5 @@ The request.
 
 * class [RequestMessage](../../requestmessage/)
 * class [ResponseMessage](../)
-* package [com.aspose.html.Net](../../responsemessage/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

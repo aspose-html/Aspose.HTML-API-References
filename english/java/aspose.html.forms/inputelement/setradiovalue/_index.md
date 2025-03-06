@@ -3,7 +3,7 @@ title: InputElement.SetRadioValue
 second_title: Aspose.HTML for Java API Reference
 description: InputElement method. Sets the checkedness state for the input element with the radio type
 type: docs
-weight: 270
+
 url: /java/com.aspose.html.forms/inputelement/setradiovalue/
 ---
 ## InputElement.SetRadioValue method
@@ -21,5 +21,5 @@ public void SetRadioValue(bool value)
 ### See Also
 
 * class [InputElement](../)
-* package [com.aspose.html.Forms](../../inputelement/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

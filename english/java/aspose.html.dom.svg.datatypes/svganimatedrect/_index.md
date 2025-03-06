@@ -1,9 +1,9 @@
 ---
 title: SVGAnimatedRect Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.DataTypes.SVGAnimatedRect class. Used for attributes of type SVGRect which can be animated
+description: com.aspose.html.dom.svg.datatypes.SVGAnimatedRect class. Used for attributes of type SVGRect which can be animated
 type: docs
-weight: 1170
+
 url: /java/com.aspose.html.dom.svg.datatypes/svganimatedrect/
 ---
 ## SVGAnimatedRect class
@@ -34,5 +34,5 @@ public class SVGAnimatedRect : SVGAnimatedValue<SVGRect>
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGRect](../svgrect/)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../)

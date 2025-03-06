@@ -3,7 +3,7 @@ title: ICSS2Properties.Display
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The values of this property have the following meanings
 type: docs
-weight: 430
+
 url: /java/com.aspose.html.dom.css/icss2properties/display/
 ---
 ## ICSS2Properties.Display property
@@ -23,5 +23,5 @@ display property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: Element.GetAttributeNodeNS
 second_title: Aspose.HTML for Java API Reference
 description: Element method. Retrieves an Attr node by local name and package URI
 type: docs
-weight: 260
+
 url: /java/com.aspose.html.dom/element/getattributenodens/
 ---
 ## Element.GetAttributeNodeNS method
@@ -27,5 +27,5 @@ Returns attribute
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

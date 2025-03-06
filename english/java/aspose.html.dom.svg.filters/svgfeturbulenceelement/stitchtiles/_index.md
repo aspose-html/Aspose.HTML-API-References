@@ -3,7 +3,7 @@ title: SVGFETurbulenceElement.StitchTiles
 second_title: Aspose.HTML for Java API Reference
 description: SVGFETurbulenceElement property. Corresponds to attribute stitchTiles on the given feTurbulence element. Takes one of the SVG_STITCHTYPE_ constants defined on this interface
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/stitchtiles/
 ---
 ## SVGFETurbulenceElement.StitchTiles property
@@ -22,5 +22,5 @@ The attribute ‘stitchTiles’ of the given ‘feTurbulence’ element.
 
 * class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGFETurbulenceElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeturbulenceelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGCircleElement.Cy
 second_title: Aspose.HTML for Java API Reference
 description: SVGCircleElement property. Corresponds to attribute cy on the given circle element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svgcircleelement/cy/
 ---
 ## SVGCircleElement.Cy property
@@ -22,5 +22,5 @@ The attribute ‘cy’ of the given ‘circle’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGCircleElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgcircleelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

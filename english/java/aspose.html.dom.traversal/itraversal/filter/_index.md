@@ -3,7 +3,7 @@ title: ITraversal.Filter
 second_title: Aspose.HTML for Java API Reference
 description: ITraversal property. The NodeFilter used to screen nodes
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.traversal/itraversal/filter/
 ---
 ## ITraversal.Filter property
@@ -22,5 +22,5 @@ The filter.
 
 * interface [INodeFilter](../../inodefilter/)
 * interface [ITraversal](../)
-* package [com.aspose.html.Dom.Traversal](../../itraversal/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)

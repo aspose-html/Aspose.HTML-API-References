@@ -3,7 +3,7 @@ title: Element.ShadowRoot
 second_title: Aspose.HTML for Java API Reference
 description: Element property. Returns shadowRoot stored on this element or null if its closed
 type: docs
-weight: 200
+
 url: /java/com.aspose.html.dom/element/shadowroot/
 ---
 ## Element.ShadowRoot property
@@ -22,5 +22,5 @@ The shadowRoot.
 
 * class [ShadowRoot](../../shadowroot/)
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

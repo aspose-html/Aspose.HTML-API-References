@@ -3,7 +3,7 @@ title: SVGMarkerElement.PreserveAspectRatio
 second_title: Aspose.HTML for Java API Reference
 description: SVGMarkerElement property. Corresponds to attribute preserveAspectRatio on the given element
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg/svgmarkerelement/preserveaspectratio/
 ---
 ## SVGMarkerElement.PreserveAspectRatio property
@@ -22,5 +22,5 @@ The ‘preserveAspectRatio’ of the given element.
 
 * class [SVGAnimatedPreserveAspectRatio](../../../com.aspose.html.dom.svg.datatypes/svganimatedpreserveaspectratio/)
 * class [SVGMarkerElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgmarkerelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

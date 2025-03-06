@@ -3,7 +3,7 @@ title: MarkdownSyntaxNode.GetLeadingTrivia
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode method. Get the leading trivia
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getleadingtrivia/
 ---
 ## MarkdownSyntaxNode.GetLeadingTrivia method
@@ -22,5 +22,5 @@ The TriviaCollection.
 
 * class [TriviaCollection](../../triviacollection/)
 * class [MarkdownSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

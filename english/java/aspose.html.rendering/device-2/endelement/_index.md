@@ -3,7 +3,7 @@ title: Device-2.EndElement
 second_title: Aspose.HTML for Java API Reference
 description: Device method. Ends rendering of the node
 type: docs
-weight: 130
+
 url: /java/com.aspose.html.rendering/device-2/endelement/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndElement method
@@ -11,7 +11,7 @@ url: /java/com.aspose.html.rendering/device-2/endelement/
 Ends rendering of the node.
 
 ```java
-public abstract void EndElement(Element element)
+public void EndElement(Element element)
 ```
 
 | Parameter | Type | Description |
@@ -22,5 +22,5 @@ public abstract void EndElement(Element element)
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* package [com.aspose.html.Rendering](../../device-2/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

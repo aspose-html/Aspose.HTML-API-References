@@ -3,7 +3,7 @@ title: ICSS2Properties.ListStylePosition
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies the position of the marker box in the principal block box. Values have the following meanings
 type: docs
-weight: 610
+
 url: /java/com.aspose.html.dom.css/icss2properties/liststyleposition/
 ---
 ## ICSS2Properties.ListStylePosition property
@@ -23,5 +23,5 @@ list-style-position property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

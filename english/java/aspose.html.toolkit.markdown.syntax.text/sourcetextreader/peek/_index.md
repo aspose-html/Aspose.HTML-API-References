@@ -3,7 +3,7 @@ title: SourceTextReader.Peek
 second_title: Aspose.HTML for Java API Reference
 description: SourceTextReader method. Get the character on position or Character.Null
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetextreader/peek/
 ---
 ## Peek() {#peek}
@@ -21,7 +21,7 @@ the character on position or Character.Null
 ### See Also
 
 * class [SourceTextReader](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../sourcetextreader/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -45,5 +45,5 @@ The char at the positon + delta or Character.Null
 ### See Also
 
 * class [SourceTextReader](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../sourcetextreader/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../../)

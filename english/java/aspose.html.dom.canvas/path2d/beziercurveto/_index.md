@@ -3,7 +3,7 @@ title: Path2D.BezierCurveTo
 second_title: Aspose.HTML for Java API Reference
 description: Path2D method. Adds a cubic Bézier curve to the path. It requires three points. The first two points are control points and the third one is the end point. The starting point is the last point in the current path which can be changed using moveTo before creating the Bézier curve
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.canvas/path2d/beziercurveto/
 ---
 ## Path2D.BezierCurveTo method
@@ -26,5 +26,5 @@ public void BezierCurveTo(double cp1x, double cp1y, double cp2x, double cp2y, do
 ### See Also
 
 * class [Path2D](../)
-* package [com.aspose.html.Dom.Canvas](../../path2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

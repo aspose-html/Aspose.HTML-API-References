@@ -3,7 +3,7 @@ title: IElementTraversal.PreviousElementSibling
 second_title: Aspose.HTML for Java API Reference
 description: IElementTraversal property. Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.traversal/ielementtraversal/previouselementsibling/
 ---
 ## IElementTraversal.PreviousElementSibling property
@@ -22,5 +22,5 @@ The previous element sibling.
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * interface [IElementTraversal](../)
-* package [com.aspose.html.Dom.Traversal](../../ielementtraversal/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)

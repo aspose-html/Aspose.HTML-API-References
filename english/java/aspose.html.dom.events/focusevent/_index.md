@@ -1,9 +1,9 @@
 ---
 title: FocusEvent Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Events.FocusEvent class. The FocusEvent interface provides specific contextual information associated with Focus events
+description: com.aspose.html.dom.events.FocusEvent class. The FocusEvent interface provides specific contextual information associated with Focus events
 type: docs
-weight: 790
+
 url: /java/com.aspose.html.dom.events/focusevent/
 ---
 ## FocusEvent class
@@ -51,5 +51,5 @@ public class FocusEvent : UIEvent
 ### See Also
 
 * class [UIEvent](../uievent/)
-* package [com.aspose.html.Dom.Events](../../com.aspose.html.dom.events/)
+* package [com.aspose.html.dom.events](../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../)

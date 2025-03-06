@@ -3,7 +3,7 @@ title: MimeType.GetHashCode
 second_title: Aspose.HTML for Java API Reference
 description: MimeType method. Returns a hash code for this instance
 type: docs
-weight: 60
+
 url: /java/com.aspose.html/mimetype/gethashcode/
 ---
 ## MimeType.GetHashCode method
@@ -21,5 +21,5 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [MimeType](../)
-* package [com.aspose.html](../../mimetype/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

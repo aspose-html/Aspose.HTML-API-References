@@ -1,9 +1,9 @@
 ---
 title: SoftBreakSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.SoftBreakSyntaxNode class. Represent the soft breaking syntax
+description: com.aspose.html.toolkit.markdown.syntax.SoftBreakSyntaxNode class. Represent the soft breaking syntax
 type: docs
-weight: 5540
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/softbreaksyntaxnode/
 ---
 ## SoftBreakSyntaxNode class
@@ -47,5 +47,5 @@ public sealed class SoftBreakSyntaxNode : LineBreakSyntaxNode
 ### See Also
 
 * class [LineBreakSyntaxNode](../linebreaksyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

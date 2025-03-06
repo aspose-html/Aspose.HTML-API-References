@@ -3,7 +3,7 @@ title: Document.CreateProcessingInstruction
 second_title: Aspose.HTML for Java API Reference
 description: Document method. Creates a ProcessingInstruction node given the specified name and data Strings
 type: docs
-weight: 920
+
 url: /java/com.aspose.html.dom/document/createprocessinginstruction/
 ---
 ## Document.CreateProcessingInstruction method
@@ -27,5 +27,5 @@ The [`ProcessingInstruction`](../../processinginstruction/).
 
 * class [ProcessingInstruction](../../processinginstruction/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

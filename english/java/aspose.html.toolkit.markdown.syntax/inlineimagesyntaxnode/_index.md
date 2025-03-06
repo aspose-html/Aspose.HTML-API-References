@@ -1,9 +1,9 @@
 ---
 title: InlineImageSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.InlineImageSyntaxNode class. Represents the InlineImageSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.InlineImageSyntaxNode class. Represents the InlineImageSyntaxNode
 type: docs
-weight: 5050
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/inlineimagesyntaxnode/
 ---
 ## InlineImageSyntaxNode class
@@ -47,5 +47,5 @@ public sealed class InlineImageSyntaxNode : InlineSyntaxNode
 ### See Also
 
 * class [InlineSyntaxNode](../inlinesyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

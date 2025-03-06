@@ -3,7 +3,7 @@ title: DocDevice.DocGraphicContext.Clone
 second_title: Aspose.HTML for Java API Reference
 description: DocGraphicContext method. Creates a new instance of a GraphicContext class with the same property values as an existing instance
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.rendering.doc/docdevice.docgraphiccontext/clone/
 ---
 ## DocDevice.DocGraphicContext.Clone method
@@ -22,5 +22,5 @@ Instance of a [`GraphicContext`](../../../com.aspose.html.rendering/graphicconte
 
 * class [GraphicContext](../../../com.aspose.html.rendering/graphiccontext/)
 * class [DocGraphicContext](../)
-* package [com.aspose.html.Rendering.Doc](../../docdevice.docgraphiccontext/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)

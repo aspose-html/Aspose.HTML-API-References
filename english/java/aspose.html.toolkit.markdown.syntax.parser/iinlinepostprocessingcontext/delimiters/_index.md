@@ -3,7 +3,7 @@ title: IInlinePostProcessingContext.Delimiters
 second_title: Aspose.HTML for Java API Reference
 description: IInlinePostProcessingContext property. Get the Delimiters
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/delimiters/
 ---
 ## IInlinePostProcessingContext.Delimiters property
@@ -18,5 +18,5 @@ public LinkedList<DelimiterRun> Delimiters { get; }
 
 * class [DelimiterRun](../../delimiterrun/)
 * interface [IInlinePostProcessingContext](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../iinlinepostprocessingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

@@ -1,9 +1,9 @@
 ---
 title: ICSSImportRule Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Css.ICSSImportRule interface. The CSSImportRule interface represents a import rule within a CSS style sheet. The import rule is used to import style rules from other style sheets
+description: com.aspose.html.dom.css.ICSSImportRule interface. The CSSImportRule interface represents a import rule within a CSS style sheet. The import rule is used to import style rules from other style sheets
 type: docs
-weight: 420
+
 url: /java/com.aspose.html.dom.css/icssimportrule/
 ---
 ## ICSSImportRule interface
@@ -25,5 +25,5 @@ public interface ICSSImportRule : ICSSRule
 ### See Also
 
 * interface [ICSSRule](../icssrule/)
-* package [com.aspose.html.Dom.Css](../../com.aspose.html.dom.css/)
+* package [com.aspose.html.dom.css](../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../)

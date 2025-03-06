@@ -3,7 +3,7 @@ title: Uint8Array
 second_title: Aspose.HTML for Java API Reference
 description: Uint8Array constructor. Initializes a new instance of the Uint8Array class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/uint8array/uint8array/
 ---
 ## Uint8Array(int) {#constructor_4}
@@ -21,7 +21,7 @@ public Uint8Array(int length)
 ### See Also
 
 * class [Uint8Array](../)
-* package [com.aspose.html](../../uint8array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -41,7 +41,7 @@ public Uint8Array(byte[] data)
 ### See Also
 
 * class [Uint8Array](../)
-* package [com.aspose.html](../../uint8array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -62,7 +62,7 @@ public Uint8Array(ArrayBuffer buffer)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint8Array](../)
-* package [com.aspose.html](../../uint8array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -84,7 +84,7 @@ public Uint8Array(ArrayBuffer buffer, int byteOffset)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint8Array](../)
-* package [com.aspose.html](../../uint8array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,5 +107,5 @@ public Uint8Array(ArrayBuffer buffer, int byteOffset, int length)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint8Array](../)
-* package [com.aspose.html](../../uint8array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

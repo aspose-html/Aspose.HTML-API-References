@@ -3,7 +3,7 @@ title: ProtocolMessageFilter.Match
 second_title: Aspose.HTML for Java API Reference
 description: ProtocolMessageFilter method. When overridden in a derived class tests whether a Context satisfies the filter criteria
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.net.messagefilters/protocolmessagefilter/match/
 ---
 ## ProtocolMessageFilter.Match method
@@ -26,5 +26,5 @@ true if the Context object satisfies the filter criteria; otherwise, false.
 
 * interface [INetworkOperationContext](../../../com.aspose.html.net/inetworkoperationcontext/)
 * class [ProtocolMessageFilter](../)
-* package [com.aspose.html.Net.MessageFilters](../../protocolmessagefilter/)
+* package [com.aspose.html.net.messagefilters](../../../com.aspose.html.net.messagefilters/)
 * package [Aspose.HTML](../../../)

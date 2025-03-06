@@ -3,7 +3,7 @@ title: SVGFEDropShadowElement.StdDeviationX
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEDropShadowElement property. Corresponds to attribute stdDeviation on the given feDropShadow element. Contains the X component of attribute stdDeviation
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg.filters/svgfedropshadowelement/stddeviationx/
 ---
 ## SVGFEDropShadowElement.StdDeviationX property
@@ -22,5 +22,5 @@ The attribute ‘stdDeviationX’ of the given ‘feDropShadow’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEDropShadowElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfedropshadowelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

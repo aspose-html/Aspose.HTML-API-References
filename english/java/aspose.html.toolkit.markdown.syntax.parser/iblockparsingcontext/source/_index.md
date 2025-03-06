@@ -3,7 +3,7 @@ title: IBlockParsingContext.Source
 second_title: Aspose.HTML for Java API Reference
 description: IBlockParsingContext property. Get the Source
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/source/
 ---
 ## IBlockParsingContext.Source property
@@ -18,5 +18,5 @@ public SourceText Source { get; }
 
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * interface [IBlockParsingContext](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../iblockparsingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

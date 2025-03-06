@@ -3,7 +3,7 @@ title: ITreeWalker.LastChild
 second_title: Aspose.HTML for Java API Reference
 description: ITreeWalker method. Moves the TreeWalker to the last visible child of the current node and returns the new node. If the current node has no visible children returns null and retains the current node
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.traversal/itreewalker/lastchild/
 ---
 ## ITreeWalker.LastChild method
@@ -22,5 +22,5 @@ The new node, or null if the current node has no children in the TreeWalker's lo
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [ITreeWalker](../)
-* package [com.aspose.html.Dom.Traversal](../../itreewalker/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)

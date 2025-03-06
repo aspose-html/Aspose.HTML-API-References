@@ -3,7 +3,7 @@ title: HTMLTableRowElement.InsertCell
 second_title: Aspose.HTML for Java API Reference
 description: HTMLTableRowElement method. Insert an empty TD cell into this row. If index is -1 or equal to the number of cells the new cell is appended
 type: docs
-weight: 100
+
 url: /java/com.aspose.html/htmltablerowelement/insertcell/
 ---
 ## HTMLTableRowElement.InsertCell method
@@ -32,5 +32,5 @@ The newly created cell.
 
 * class [HTMLElement](../../htmlelement/)
 * class [HTMLTableRowElement](../)
-* package [com.aspose.html](../../htmltablerowelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

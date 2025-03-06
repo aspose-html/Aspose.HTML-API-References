@@ -3,7 +3,7 @@ title: MarkdownSyntaxTree.CreateTreeWalker
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxTree method. Defines the interface for create the tree walker
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/createtreewalker/
 ---
 ## CreateTreeWalker(MarkdownSyntaxNodeFilter) {#createtreewalker_2}
@@ -27,7 +27,7 @@ The tree walker.
 * class [TreeWalker](../../treewalker/)
 * class [MarkdownSyntaxNodeFilter](../../markdownsyntaxnodefilter/)
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -53,7 +53,7 @@ The tree walker.
 * class [TreeWalker](../../treewalker/)
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -81,5 +81,5 @@ The tree walker.
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [MarkdownSyntaxNodeFilter](../../markdownsyntaxnodefilter/)
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

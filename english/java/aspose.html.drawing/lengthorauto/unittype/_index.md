@@ -3,7 +3,7 @@ title: LengthOrAuto.UnitType
 second_title: Aspose.HTML for Java API Reference
 description: LengthOrAuto property. Gets the unit type of the Unit
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.drawing/lengthorauto/unittype/
 ---
 ## LengthOrAuto.UnitType property
@@ -22,5 +22,5 @@ The type of the unit.
 
 * class [UnitType](../../unittype/)
 * class [LengthOrAuto](../)
-* package [com.aspose.html.Drawing](../../lengthorauto/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

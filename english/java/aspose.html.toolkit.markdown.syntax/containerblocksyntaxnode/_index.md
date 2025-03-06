@@ -1,9 +1,9 @@
 ---
 title: ContainerBlockSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.ContainerBlockSyntaxNode class. Base implementation of the ContainerBlockSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.ContainerBlockSyntaxNode class. Base implementation of the ContainerBlockSyntaxNode
 type: docs
-weight: 4850
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/containerblocksyntaxnode/
 ---
 ## ContainerBlockSyntaxNode class
@@ -44,5 +44,5 @@ public abstract class ContainerBlockSyntaxNode : BlockSyntaxNode
 ### See Also
 
 * class [BlockSyntaxNode](../blocksyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

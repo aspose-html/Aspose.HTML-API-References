@@ -3,7 +3,7 @@ title: Device-2.FillText
 second_title: Aspose.HTML for Java API Reference
 description: Device method. Fills the specified text String at the specified location
 type: docs
-weight: 160
+
 url: /java/com.aspose.html.rendering/device-2/filltext/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.FillText method
@@ -11,7 +11,7 @@ url: /java/com.aspose.html.rendering/device-2/filltext/
 Fills the specified text String at the specified location.
 
 ```java
-public abstract void FillText(String text, PointF pt)
+public void FillText(String text, PointF pt)
 ```
 
 | Parameter | Type | Description |
@@ -22,5 +22,5 @@ public abstract void FillText(String text, PointF pt)
 ### See Also
 
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../)
-* package [com.aspose.html.Rendering](../../device-2/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

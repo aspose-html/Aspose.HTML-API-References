@@ -3,7 +3,7 @@ title: SourceText.Span
 second_title: Aspose.HTML for Java API Reference
 description: SourceText property. Get the span
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/span/
 ---
 ## SourceText.Span property
@@ -18,5 +18,5 @@ public TextSpan Span { get; }
 
 * struct [TextSpan](../../textspan/)
 * class [SourceText](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../sourcetext/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../../)

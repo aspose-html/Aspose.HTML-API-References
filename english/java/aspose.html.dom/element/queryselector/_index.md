@@ -3,7 +3,7 @@ title: Element.QuerySelector
 second_title: Aspose.HTML for Java API Reference
 description: Element method. Returns the first Element in document which match selector
 type: docs
-weight: 340
+
 url: /java/com.aspose.html.dom/element/queryselector/
 ---
 ## Element.QuerySelector method
@@ -25,5 +25,5 @@ The matched element
 ### See Also
 
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

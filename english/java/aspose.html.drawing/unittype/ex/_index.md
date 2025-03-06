@@ -3,7 +3,7 @@ title: UnitType.Ex
 second_title: Aspose.HTML for Java API Reference
 description: UnitType field. Measurement is relative to the height of the lowercase letter x of the parent elements font
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.drawing/unittype/ex/
 ---
 ## UnitType.Ex field
@@ -17,5 +17,5 @@ public static readonly UnitType Ex;
 ### See Also
 
 * class [UnitType](../)
-* package [com.aspose.html.Drawing](../../unittype/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

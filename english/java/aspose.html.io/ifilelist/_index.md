@@ -1,9 +1,9 @@
 ---
 title: IFileList Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.IO.IFileList interface. Represent the interface for list of files
+description: com.aspose.html.io.IFileList interface. Represent the interface for list of files
 type: docs
-weight: 3750
+
 url: /java/com.aspose.html.io/ifilelist/
 ---
 ## IFileList interface
@@ -24,5 +24,5 @@ public interface IFileList : IEnumerable<IFile>
 ### See Also
 
 * interface [IFile](../ifile/)
-* package [com.aspose.html.IO](../../com.aspose.html.io/)
+* package [com.aspose.html.io](../../com.aspose.html.io/)
 * package [Aspose.HTML](../../)

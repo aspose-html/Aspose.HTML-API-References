@@ -3,7 +3,7 @@ title: LengthOrAuto
 second_title: Aspose.HTML for Java API Reference
 description: LengthOrAuto constructor. Initializes a new instance of the LengthOrAuto class and sets state to auto
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/lengthorauto/lengthorauto/
 ---
 ## LengthOrAuto() {#constructor}
@@ -17,7 +17,7 @@ public LengthOrAuto()
 ### See Also
 
 * class [LengthOrAuto](../)
-* package [com.aspose.html.Drawing](../../lengthorauto/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public LengthOrAuto(Length length)
 
 * class [Length](../../length/)
 * class [LengthOrAuto](../)
-* package [com.aspose.html.Drawing](../../lengthorauto/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

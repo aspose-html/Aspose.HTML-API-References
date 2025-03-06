@@ -3,7 +3,7 @@ title: IWindowEventHandlers.OnAfterPrint
 second_title: Aspose.HTML for Java API Reference
 description: IWindowEventHandlers event. Gets or sets event handler
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.window/iwindoweventhandlers/onafterprint/
 ---
 ## IWindowEventHandlers.OnAfterPrint event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnAfterPrint;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * interface [IWindowEventHandlers](../)
-* package [com.aspose.html.Window](../../iwindoweventhandlers/)
+* package [com.aspose.html.window](../../../com.aspose.html.window/)
 * package [Aspose.HTML](../../../)

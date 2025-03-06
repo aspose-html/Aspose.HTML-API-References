@@ -3,7 +3,7 @@ title: MarkdownBlockParser.Continue
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownBlockParser method. Defines the interface for Continue
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/continue/
 ---
 ## MarkdownBlockParser.Continue method
@@ -30,5 +30,5 @@ The LineParsingInstruction.
 * class [BlockSyntaxDescriptor](../../blocksyntaxdescriptor/)
 * interface [IBlockParsingContext](../../iblockparsingcontext/)
 * class [MarkdownBlockParser](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../markdownblockparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

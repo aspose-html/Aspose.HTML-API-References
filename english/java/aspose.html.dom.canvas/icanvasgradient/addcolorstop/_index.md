@@ -3,7 +3,7 @@ title: ICanvasGradient.AddColorStop
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasGradient method. Adds a new stop defined by an offset and a color to the gradient
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.canvas/icanvasgradient/addcolorstop/
 ---
 ## ICanvasGradient.AddColorStop method
@@ -22,5 +22,5 @@ public void AddColorStop(double offset, String color)
 ### See Also
 
 * interface [ICanvasGradient](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasgradient/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

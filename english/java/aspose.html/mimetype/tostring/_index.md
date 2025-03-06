@@ -3,7 +3,7 @@ title: MimeType.ToString
 second_title: Aspose.HTML for Java API Reference
 description: MimeType method. Returns a String that represents Mime type
 type: docs
-weight: 70
+
 url: /java/com.aspose.html/mimetype/toString/
 ---
 ## MimeType.ToString method
@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [MimeType](../)
-* package [com.aspose.html](../../mimetype/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

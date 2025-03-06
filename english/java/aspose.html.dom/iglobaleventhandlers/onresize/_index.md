@@ -3,7 +3,7 @@ title: IGlobalEventHandlers.OnResize
 second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnResize event
 type: docs
-weight: 380
+
 url: /java/com.aspose.html.dom/iglobaleventhandlers/onresize/
 ---
 ## IGlobalEventHandlers.OnResize event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnResize;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* package [com.aspose.html.Dom](../../iglobaleventhandlers/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

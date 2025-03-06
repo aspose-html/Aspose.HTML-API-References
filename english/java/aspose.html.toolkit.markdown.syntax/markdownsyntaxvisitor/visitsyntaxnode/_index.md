@@ -3,7 +3,7 @@ title: MarkdownSyntaxVisitor.VisitSyntaxNode
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit node
 type: docs
-weight: 240
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitsyntaxnode/
 ---
 ## MarkdownSyntaxVisitor.VisitSyntaxNode method
@@ -22,5 +22,5 @@ public void VisitSyntaxNode(MarkdownSyntaxNode node)
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

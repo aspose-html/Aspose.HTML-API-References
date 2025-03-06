@@ -3,7 +3,7 @@ title: MarkdownSyntaxVisitor.VisitLinkReferenceDefinition
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit LinkReferenceDefinitionSyntax
 type: docs
-weight: 160
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitlinkreferencedefinition/
 ---
 ## MarkdownSyntaxVisitor.VisitLinkReferenceDefinition method
@@ -22,5 +22,5 @@ public void VisitLinkReferenceDefinition(LinkReferenceDefinitionSyntaxNode defin
 
 * class [LinkReferenceDefinitionSyntaxNode](../../linkreferencedefinitionsyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

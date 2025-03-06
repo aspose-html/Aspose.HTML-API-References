@@ -3,7 +3,7 @@ title: Node.ChildNodes
 second_title: Aspose.HTML for Java API Reference
 description: Node property. The read-only childNodes property of the Node interface returns a live NodeList of child nodes of the given element where the first child node is assigned index 0. Child nodes include elements text and comments
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom/node/childnodes/
 ---
 ## Node.ChildNodes property
@@ -32,5 +32,5 @@ Reference:
 
 * class [NodeList](../../../com.aspose.html.collections/nodelist/)
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

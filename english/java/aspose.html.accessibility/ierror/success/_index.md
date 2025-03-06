@@ -3,7 +3,7 @@ title: IError.Success
 second_title: Aspose.HTML for Java API Reference
 description: IError property. Returns result of the criterion
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.accessibility/ierror/success/
 ---
 ## IError.Success property
@@ -17,5 +17,5 @@ public bool Success { get; }
 ### See Also
 
 * interface [IError](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

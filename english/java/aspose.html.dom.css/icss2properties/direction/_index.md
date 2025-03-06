@@ -3,7 +3,7 @@ title: ICSS2Properties.Direction
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies the base writing direction of blocks and the direction of embeddings and overrides see unicode-bidi for the Unicode bidirectional algorithm. In addition it specifies the direction of table column layout the direction of horizontal overflow and the position of an incomplete last line in a block in case of text-align justify
 type: docs
-weight: 420
+
 url: /java/com.aspose.html.dom.css/icss2properties/direction/
 ---
 ## ICSS2Properties.Direction property
@@ -21,5 +21,5 @@ direction property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

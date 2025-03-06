@@ -3,7 +3,7 @@ title: Content.Headers
 second_title: Aspose.HTML for Java API Reference
 description: Content property. Gets the HTTP content headers
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.net/content/headers/
 ---
 ## Content.Headers property
@@ -22,5 +22,5 @@ The headers.
 
 * class [ContentHeaders](../../contentheaders/)
 * class [Content](../)
-* package [com.aspose.html.Net](../../content/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

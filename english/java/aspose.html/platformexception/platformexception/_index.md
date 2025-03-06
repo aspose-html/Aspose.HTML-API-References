@@ -3,7 +3,7 @@ title: PlatformException
 second_title: Aspose.HTML for Java API Reference
 description: PlatformException constructor. Initializes a new instance of the PlatformException class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/platformexception/platformexception/
 ---
 ## PlatformException() {#constructor}
@@ -17,7 +17,7 @@ public PlatformException()
 ### See Also
 
 * class [PlatformException](../)
-* package [com.aspose.html](../../platformexception/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -37,7 +37,7 @@ public PlatformException(String message)
 ### See Also
 
 * class [PlatformException](../)
-* package [com.aspose.html](../../platformexception/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -58,5 +58,5 @@ public PlatformException(String message, Exception innerException)
 ### See Also
 
 * class [PlatformException](../)
-* package [com.aspose.html](../../platformexception/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

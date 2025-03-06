@@ -3,7 +3,7 @@ title: HTMLLinkElement.RelList
 second_title: Aspose.HTML for Java API Reference
 description: HTMLLinkElement property. Returns a live DOMTokenList which contains tokens received from parsing the rel attribute
 type: docs
-weight: 70
+
 url: /java/com.aspose.html/htmllinkelement/rellist/
 ---
 ## HTMLLinkElement.RelList property
@@ -18,5 +18,5 @@ public DOMTokenList RelList { get; }
 
 * class [DOMTokenList](../../../com.aspose.html.collections/domtokenlist/)
 * class [HTMLLinkElement](../)
-* package [com.aspose.html](../../htmllinkelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

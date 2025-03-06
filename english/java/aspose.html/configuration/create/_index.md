@@ -3,7 +3,7 @@ title: Configuration.Create
 second_title: Aspose.HTML for Java API Reference
 description: Configuration method. Create and configure the instance of Configuration object
 type: docs
-weight: 20
+
 url: /java/com.aspose.html/configuration/create/
 ---
 ## Create() {#create}
@@ -21,7 +21,7 @@ The instance of Configuration object.
 ### See Also
 
 * class [Configuration](../)
-* package [com.aspose.html](../../configuration/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -46,5 +46,5 @@ The instance of Configuration object.
 
 * interface [IConfigurationBuilder](../../iconfigurationbuilder/)
 * class [Configuration](../)
-* package [com.aspose.html](../../configuration/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

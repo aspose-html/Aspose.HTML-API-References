@@ -3,7 +3,7 @@ title: Color.FromRgba
 second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a new Color with the requested ged green blue alpha values. All color components must be in the range 0-255
 type: docs
-weight: 210
+
 url: /java/com.aspose.html.drawing/color/fromrgba/
 ---
 ## FromRgba(byte, byte, byte, byte) {#fromrgba}
@@ -28,7 +28,7 @@ A new instance of the [`Color`](../) class
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -55,7 +55,7 @@ A new instance of the [`Color`](../) class
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -82,5 +82,5 @@ A new instance of the [`Color`](../) class
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

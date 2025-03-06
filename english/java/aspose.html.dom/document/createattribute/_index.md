@@ -3,7 +3,7 @@ title: Document.CreateAttribute
 second_title: Aspose.HTML for Java API Reference
 description: Document method. The Document.createAttribute method creates a new attribute node and returns it. The object created a node implementing the Attr interface. The DOM does not enforce what sort of attributes can be added to a particular element in this manner
 type: docs
-weight: 790
+
 url: /java/com.aspose.html.dom/document/createattribute/
 ---
 ## Document.CreateAttribute method
@@ -35,5 +35,5 @@ element.SetAttributeNode(attr);
 
 * class [Attr](../../attr/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

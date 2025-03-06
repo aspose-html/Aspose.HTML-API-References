@@ -1,9 +1,9 @@
 ---
 title: SVGPathSegLinetoHorizontalRel Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.Paths.SVGPathSegLinetoHorizontalRel class. The SVGPathSegLinetoHorizontalRel interface corresponds to a relative horizontal lineto h path data command
+description: com.aspose.html.dom.svg.paths.SVGPathSegLinetoHorizontalRel class. The SVGPathSegLinetoHorizontalRel interface corresponds to a relative horizontal lineto h path data command
 type: docs
-weight: 1840
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathseglinetohorizontalrel/
 ---
 ## SVGPathSegLinetoHorizontalRel class
@@ -32,5 +32,5 @@ public class SVGPathSegLinetoHorizontalRel : SVGPathSeg
 ### See Also
 
 * class [SVGPathSeg](../svgpathseg/)
-* package [com.aspose.html.Dom.Svg.Paths](../../com.aspose.html.dom.svg.paths/)
+* package [com.aspose.html.dom.svg.paths](../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../)

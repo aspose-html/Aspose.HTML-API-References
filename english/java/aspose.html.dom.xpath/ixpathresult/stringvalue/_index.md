@@ -3,7 +3,7 @@ title: IXPathResult.StringValue
 second_title: Aspose.HTML for Java API Reference
 description: IXPathResult property. The value of this String result
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.xpath/ixpathresult/Stringvalue/
 ---
 ## IXPathResult.StringValue property
@@ -23,5 +23,5 @@ public String StringValue { get; }
 ### See Also
 
 * interface [IXPathResult](../)
-* package [com.aspose.html.Dom.XPath](../../ixpathresult/)
+* package [com.aspose.html.dom.xpath](../../../com.aspose.html.dom.xpath/)
 * package [Aspose.HTML](../../../)

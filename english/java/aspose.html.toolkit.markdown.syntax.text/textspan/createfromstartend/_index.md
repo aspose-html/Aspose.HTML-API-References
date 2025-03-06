@@ -3,7 +3,7 @@ title: TextSpan.CreateFromStartEnd
 second_title: Aspose.HTML for Java API Reference
 description: TextSpan method. Create the TextSpan
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textspan/createfromstartend/
 ---
 ## TextSpan.CreateFromStartEnd method
@@ -26,5 +26,5 @@ The TextSpan.
 ### See Also
 
 * struct [TextSpan](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../textspan/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../../)

@@ -1,9 +1,9 @@
 ---
 title: RequestHeaders Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Net.RequestHeaders class. Contains protocol headers associated with a request
+description: com.aspose.html.net.RequestHeaders class. Contains protocol headers associated with a request
 type: docs
-weight: 4060
+
 url: /java/com.aspose.html.net/requestheaders/
 ---
 ## RequestHeaders class
@@ -22,5 +22,5 @@ public class RequestHeaders : WebHeaderCollection
 
 ### See Also
 
-* package [com.aspose.html.Net](../../com.aspose.html.net/)
+* package [com.aspose.html.net](../../com.aspose.html.net/)
 * package [Aspose.HTML](../../)

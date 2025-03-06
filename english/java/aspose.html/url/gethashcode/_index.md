@@ -3,7 +3,7 @@ title: Url.GetHashCode
 second_title: Aspose.HTML for Java API Reference
 description: Url method. Returns a hash code for this instance
 type: docs
-weight: 150
+
 url: /java/com.aspose.html/url/gethashcode/
 ---
 ## Url.GetHashCode method
@@ -21,5 +21,5 @@ A hash code for this instance, suitable for use in hashing algorithms and data s
 ### See Also
 
 * class [Url](../)
-* package [com.aspose.html](../../url/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGMarkerElement.SetOrientToAuto
 second_title: Aspose.HTML for Java API Reference
 description: SVGMarkerElement method. Sets the value of attribute orient to auto
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.dom.svg/svgmarkerelement/setorienttoauto/
 ---
 ## SVGMarkerElement.SetOrientToAuto method
@@ -23,5 +23,5 @@ public void SetOrientToAuto()
 ### See Also
 
 * class [SVGMarkerElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgmarkerelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

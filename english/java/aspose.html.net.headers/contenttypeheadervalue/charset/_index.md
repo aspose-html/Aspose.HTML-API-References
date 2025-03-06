@@ -3,7 +3,7 @@ title: ContentTypeHeaderValue.CharSet
 second_title: Aspose.HTML for Java API Reference
 description: ContentTypeHeaderValue property. Gets or sets the character-set for content
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.net.headers/contenttypeheadervalue/charset/
 ---
 ## ContentTypeHeaderValue.CharSet property
@@ -21,5 +21,5 @@ The character set.
 ### See Also
 
 * class [ContentTypeHeaderValue](../)
-* package [com.aspose.html.Net.Headers](../../contenttypeheadervalue/)
+* package [com.aspose.html.net.headers](../../../com.aspose.html.net.headers/)
 * package [Aspose.HTML](../../../)

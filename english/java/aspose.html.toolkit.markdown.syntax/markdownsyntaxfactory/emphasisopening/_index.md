@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.EmphasisOpening
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Create the MarkdownSyntaxToken
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emphasisopening/
 ---
 ## MarkdownSyntaxFactory.EmphasisOpening method
@@ -29,5 +29,5 @@ The MarkdownSyntaxToken.
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * struct [TextSpan](../../../com.aspose.html.toolkit.markdown.syntax.text/textspan/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

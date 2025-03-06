@@ -1,9 +1,9 @@
 ---
 title: LeafBlockSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.LeafBlockSyntaxNode class. Base implementation of the LeafBlockSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.LeafBlockSyntaxNode class. Base implementation of the LeafBlockSyntaxNode
 type: docs
-weight: 5090
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/leafblocksyntaxnode/
 ---
 ## LeafBlockSyntaxNode class
@@ -44,5 +44,5 @@ public abstract class LeafBlockSyntaxNode : BlockSyntaxNode
 ### See Also
 
 * class [BlockSyntaxNode](../blocksyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

@@ -3,7 +3,7 @@ title: SVGRectElement.Rx
 second_title: Aspose.HTML for Java API Reference
 description: SVGRectElement property. Corresponds to attribute rx on the given rect element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svgrectelement/rx/
 ---
 ## SVGRectElement.Rx property
@@ -22,5 +22,5 @@ The attribute ‘rx’ of the given ‘rect’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgrectelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

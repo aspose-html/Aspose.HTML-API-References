@@ -3,7 +3,7 @@ title: MutationObserverInit.Remove
 second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit method. 
 type: docs
-weight: 200
+
 url: /java/com.aspose.html.dom.mutations/mutationobserverinit/remove/
 ---
 ## Remove(KeyValuePair&lt;String, object&gt;) {#remove}
@@ -15,7 +15,7 @@ public bool Remove(KeyValuePair<String, object> item)
 ### See Also
 
 * class [MutationObserverInit](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserverinit/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -39,5 +39,5 @@ True if the element is successfully found and removed; otherwise, false.
 ### See Also
 
 * class [MutationObserverInit](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserverinit/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: DOMTokenList.Contains
 second_title: Aspose.HTML for Java API Reference
 description: DOMTokenList method. Returns true if the list contains the given token otherwise false
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.collections/domtokenlist/contains/
 ---
 ## DOMTokenList.Contains method
@@ -25,5 +25,5 @@ A Boolean, which is true if the calling list contains token, otherwise false.
 ### See Also
 
 * class [DOMTokenList](../)
-* package [com.aspose.html.Collections](../../domtokenlist/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

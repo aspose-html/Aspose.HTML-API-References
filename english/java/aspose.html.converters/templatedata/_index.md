@@ -1,9 +1,9 @@
 ---
 title: TemplateData Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Converters.TemplateData class. Merging User data object
+description: com.aspose.html.converters.TemplateData class. Merging User data object
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.converters/templatedata/
 ---
 ## TemplateData class
@@ -30,5 +30,5 @@ public sealed class TemplateData
 
 ### See Also
 
-* package [com.aspose.html.Converters](../../com.aspose.html.converters/)
+* package [com.aspose.html.converters](../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../)

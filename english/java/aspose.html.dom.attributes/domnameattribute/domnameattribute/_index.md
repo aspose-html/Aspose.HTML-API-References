@@ -3,7 +3,7 @@ title: DOMNameAttribute
 second_title: Aspose.HTML for Java API Reference
 description: DOMNameAttribute constructor. Initializes a new instance of the DOMNameAttribute class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.attributes/domnameattribute/domnameattribute/
 ---
 ## DOMNameAttribute constructor
@@ -21,5 +21,5 @@ public DOMNameAttribute(String name)
 ### See Also
 
 * class [DOMNameAttribute](../)
-* package [com.aspose.html.Dom.Attributes](../../domnameattribute/)
+* package [com.aspose.html.dom.attributes](../../../com.aspose.html.dom.attributes/)
 * package [Aspose.HTML](../../../)

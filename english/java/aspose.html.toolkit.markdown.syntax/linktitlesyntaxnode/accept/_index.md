@@ -3,7 +3,7 @@ title: LinkTitleSyntaxNode.Accept
 second_title: Aspose.HTML for Java API Reference
 description: LinkTitleSyntaxNode method. Defines the interface for accept visitor
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/linktitlesyntaxnode/accept/
 ---
 ## LinkTitleSyntaxNode.Accept method
@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [LinkTitleSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../linktitlesyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

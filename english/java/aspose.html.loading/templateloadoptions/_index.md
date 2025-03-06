@@ -1,9 +1,9 @@
 ---
 title: TemplateLoadOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Loading.TemplateLoadOptions class. Specific load options data class
+description: com.aspose.html.loading.TemplateLoadOptions class. Specific load options data class
 type: docs
-weight: 3840
+
 url: /java/com.aspose.html.loading/templateloadoptions/
 ---
 ## TemplateLoadOptions class
@@ -29,5 +29,5 @@ public class TemplateLoadOptions
 
 ### See Also
 
-* package [com.aspose.html.Loading](../../com.aspose.html.loading/)
+* package [com.aspose.html.loading](../../com.aspose.html.loading/)
 * package [Aspose.HTML](../../)

@@ -3,7 +3,7 @@ title: SVGLength.NewValueSpecifiedUnits
 second_title: Aspose.HTML for Java API Reference
 description: SVGLength method. Reset the value as a number with an associated unitType thereby replacing the values for all of the attributes on the object
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg.datatypes/svglength/newvaluespecifiedunits/
 ---
 ## SVGLength.NewValueSpecifiedUnits method
@@ -29,5 +29,5 @@ public void NewValueSpecifiedUnits(ushort unitType, float valueInSpecifiedUnits)
 ### See Also
 
 * class [SVGLength](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svglength/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

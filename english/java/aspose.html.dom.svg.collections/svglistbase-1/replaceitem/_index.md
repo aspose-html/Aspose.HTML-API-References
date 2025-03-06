@@ -3,7 +3,7 @@ title: SVGListBase-1.ReplaceItem
 second_title: Aspose.HTML for Java API Reference
 description: SVGListBase method. Replaces an existing item in the list with a new item
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.dom.svg.collections/svglistbase-1/replaceitem/
 ---
 ## SVGListBase&lt;T&gt;.ReplaceItem method
@@ -33,5 +33,5 @@ The inserted item.
 ### See Also
 
 * class [SVGListBase&lt;T&gt;](../)
-* package [com.aspose.html.Dom.Svg.Collections](../../svglistbase-1/)
+* package [com.aspose.html.dom.svg.collections](../../../com.aspose.html.dom.svg.collections/)
 * package [Aspose.HTML](../../../)

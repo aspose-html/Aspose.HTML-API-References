@@ -3,7 +3,7 @@ title: MarkdownSyntaxVisitor.VisitEmphasis
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit EmphasisSyntax
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitemphasis/
 ---
 ## MarkdownSyntaxVisitor.VisitEmphasis method
@@ -22,5 +22,5 @@ public void VisitEmphasis(EmphasisSyntaxNode emphasis)
 
 * class [EmphasisSyntaxNode](../../emphasissyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: HTMLCanvasElement.ToDataURL
 second_title: Aspose.HTML for Java API Reference
 description: HTMLCanvasElement method. returns a data URI containing a representation of the image in the format specified by the type parameter defaults to PNG. The returned image is in a resolution of 96 dpi
 type: docs
-weight: 40
+
 url: /java/com.aspose.html/htmlcanvaselement/todataurl/
 ---
 ## ToDataURL() {#todataurl}
@@ -21,7 +21,7 @@ A DOMString containing the requested data URI.
 ### See Also
 
 * class [HTMLCanvasElement](../)
-* package [com.aspose.html](../../htmlcanvaselement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -45,7 +45,7 @@ A DOMString containing the requested data URI.
 ### See Also
 
 * class [HTMLCanvasElement](../)
-* package [com.aspose.html](../../htmlcanvaselement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -70,5 +70,5 @@ A DOMString containing the requested data URI.
 ### See Also
 
 * class [HTMLCanvasElement](../)
-* package [com.aspose.html](../../htmlcanvaselement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

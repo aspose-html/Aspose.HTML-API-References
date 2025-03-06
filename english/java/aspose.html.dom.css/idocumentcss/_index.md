@@ -1,9 +1,9 @@
 ---
 title: IDocumentCSS Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Css.IDocumentCSS interface. This interface represents a document with a CSS view
+description: com.aspose.html.dom.css.IDocumentCSS interface. This interface represents a document with a CSS view
 type: docs
-weight: 550
+
 url: /java/com.aspose.html.dom.css/idocumentcss/
 ---
 ## IDocumentCSS interface
@@ -29,5 +29,5 @@ public interface IDocumentCSS : IDocumentStyle
 ### See Also
 
 * interface [IDocumentStyle](../idocumentstyle/)
-* package [com.aspose.html.Dom.Css](../../com.aspose.html.dom.css/)
+* package [com.aspose.html.dom.css](../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../)

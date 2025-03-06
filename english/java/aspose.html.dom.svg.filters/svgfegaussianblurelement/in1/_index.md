@@ -3,7 +3,7 @@ title: SVGFEGaussianBlurElement.In1
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEGaussianBlurElement property. Corresponds to attribute in on the given feGaussianBlur element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.filters/svgfegaussianblurelement/in1/
 ---
 ## SVGFEGaussianBlurElement.In1 property
@@ -22,5 +22,5 @@ The attribute �in� of the given �feGaussianBlur� element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFEGaussianBlurElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfegaussianblurelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

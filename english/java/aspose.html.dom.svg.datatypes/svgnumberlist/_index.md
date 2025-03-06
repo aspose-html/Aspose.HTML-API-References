@@ -1,9 +1,9 @@
 ---
 title: SVGNumberList Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.DataTypes.SVGNumberList class. This interface defines a list of SVGNumber objects
+description: com.aspose.html.dom.svg.datatypes.SVGNumberList class. This interface defines a list of SVGNumber objects
 type: docs
-weight: 1250
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgnumberlist/
 ---
 ## SVGNumberList class
@@ -43,5 +43,5 @@ public class SVGNumberList : SVGListBase<SVGNumber>
 
 * class [SVGListBase&lt;T&gt;](../../com.aspose.html.dom.svg.collections/svglistbase-1/)
 * class [SVGNumber](../svgnumber/)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../)

@@ -3,7 +3,7 @@ title: YamlMappingSyntaxNode.Keys
 second_title: Aspose.HTML for Java API Reference
 description: YamlMappingSyntaxNode property. Get all Keys
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/keys/
 ---
 ## YamlMappingSyntaxNode.Keys property
@@ -18,5 +18,5 @@ public IEnumerable<ChildFrontMatterSyntaxNode> Keys { get; }
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [YamlMappingSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../yamlmappingsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

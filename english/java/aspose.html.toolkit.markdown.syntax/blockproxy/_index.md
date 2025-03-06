@@ -1,9 +1,9 @@
 ---
 title: BlockProxy Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.BlockProxy class. Represents the BlockProxy
+description: com.aspose.html.toolkit.markdown.syntax.BlockProxy class. Represents the BlockProxy
 type: docs
-weight: 4800
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/blockproxy/
 ---
 ## BlockProxy class
@@ -45,5 +45,5 @@ public class BlockProxy : BlockSyntaxNode
 ### See Also
 
 * class [BlockSyntaxNode](../blocksyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

@@ -3,7 +3,7 @@ title: ISVGTests.SystemLanguage
 second_title: Aspose.HTML for Java API Reference
 description: ISVGTests property. Corresponds to attribute systemLanguage on the given element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/isvgtests/systemlanguage/
 ---
 ## ISVGTests.SystemLanguage property
@@ -22,5 +22,5 @@ The system language.
 
 * class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
 * interface [ISVGTests](../)
-* package [com.aspose.html.Dom.Svg](../../isvgtests/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

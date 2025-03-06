@@ -3,7 +3,7 @@ title: SVGFEConvolveMatrixElement.Bias
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEConvolveMatrixElement property. Corresponds to attribute bias on the given feConvolveMatrix element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/bias/
 ---
 ## SVGFEConvolveMatrixElement.Bias property
@@ -22,5 +22,5 @@ The attribute ‘bias’ of the given ‘feConvolveMatrix’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEConvolveMatrixElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeconvolvematrixelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGFEMorphologyElement.Result
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEMorphologyElement property. Corresponds to attribute result on the given filter element
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg.filters/svgfemorphologyelement/result/
 ---
 ## SVGFEMorphologyElement.Result property
@@ -22,5 +22,5 @@ The attribute ‘result’ of the given ‘filter’ element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFEMorphologyElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfemorphologyelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

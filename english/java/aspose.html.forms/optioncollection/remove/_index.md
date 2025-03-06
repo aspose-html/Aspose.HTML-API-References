@@ -3,7 +3,7 @@ title: OptionCollection.Remove
 second_title: Aspose.HTML for Java API Reference
 description: OptionCollection method. Remove the option from list
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.forms/optioncollection/remove/
 ---
 ## OptionCollection.Remove method
@@ -22,5 +22,5 @@ public void Remove(OptionElement option)
 
 * class [OptionElement](../../optionelement/)
 * class [OptionCollection](../)
-* package [com.aspose.html.Forms](../../optioncollection/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

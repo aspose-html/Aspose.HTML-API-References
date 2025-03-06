@@ -3,7 +3,7 @@ title: SourceText.CopyTo
 second_title: Aspose.HTML for Java API Reference
 description: SourceText method. Define the interface for get SourceText from array of the source
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/copyto/
 ---
 ## SourceText.CopyTo method
@@ -24,5 +24,5 @@ public abstract void CopyTo(int sourceIndex, char[] destination, int destination
 ### See Also
 
 * class [SourceText](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../sourcetext/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: ICSS2Properties.MarginRight
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. These properties set the top right bottom and left margin of a box
 type: docs
-weight: 660
+
 url: /java/com.aspose.html.dom.css/icss2properties/marginright/
 ---
 ## ICSS2Properties.MarginRight property
@@ -21,5 +21,5 @@ The margin-right value
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

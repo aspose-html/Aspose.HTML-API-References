@@ -1,9 +1,9 @@
 ---
 title: SVGAnimatedValueT Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.DataTypes.SVGAnimatedValue1T class. Used for attributes of types which can be animated
+description: com.aspose.html.dom.svg.datatypes.SVGAnimatedValue1T class. Used for attributes of types which can be animated
 type: docs
-weight: 1200
+
 url: /java/com.aspose.html.dom.svg.datatypes/svganimatedvalue-1/
 ---
 ## SVGAnimatedValue&lt;T&gt; class
@@ -36,5 +36,5 @@ public abstract class SVGAnimatedValue<T> : SVGValueType
 ### See Also
 
 * class [SVGValueType](../svgvaluetype/)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../)

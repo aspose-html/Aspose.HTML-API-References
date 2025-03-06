@@ -3,7 +3,7 @@ title: HTMLSaveOptions.XHTML
 second_title: Aspose.HTML for Java API Reference
 description: HTMLSaveOptions field. The document will be saved as XHTML
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.saving/htmlsaveoptions/xhtml/
 ---
 ## HTMLSaveOptions.XHTML field
@@ -17,5 +17,5 @@ public const byte XHTML;
 ### See Also
 
 * class [HTMLSaveOptions](../)
-* package [com.aspose.html.Saving](../../htmlsaveoptions/)
+* package [com.aspose.html.saving](../../../com.aspose.html.saving/)
 * package [Aspose.HTML](../../../)

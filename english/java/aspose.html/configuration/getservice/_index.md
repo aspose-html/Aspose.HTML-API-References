@@ -3,7 +3,7 @@ title: Configuration.GetService
 second_title: Aspose.HTML for Java API Reference
 description: Configuration method. Gets the requested service
 type: docs
-weight: 50
+
 url: /java/com.aspose.html/configuration/getservice/
 ---
 ## GetService(Type) {#getservice}
@@ -25,7 +25,7 @@ An instance of the service if it could be found, or null if it could not be foun
 ### See Also
 
 * class [Configuration](../)
-* package [com.aspose.html](../../configuration/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -49,5 +49,5 @@ An instance of the service if it could be found, or null if it could not be foun
 ### See Also
 
 * class [Configuration](../)
-* package [com.aspose.html](../../configuration/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

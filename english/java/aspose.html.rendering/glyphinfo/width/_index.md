@@ -3,7 +3,7 @@ title: GlyphInfo.Width
 second_title: Aspose.HTML for Java API Reference
 description: GlyphInfo property. Gets the width of the glyph in points
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.rendering/glyphinfo/width/
 ---
 ## GlyphInfo.Width property
@@ -21,5 +21,5 @@ Width in points.
 ### See Also
 
 * struct [GlyphInfo](../)
-* package [com.aspose.html.Rendering](../../glyphinfo/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: Event
 second_title: Aspose.HTML for Java API Reference
 description: Event constructor. Initializes a new instance of the Event class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.events/event/event/
 ---
 ## Event(String) {#constructor}
@@ -21,7 +21,7 @@ public Event(String type)
 ### See Also
 
 * class [Event](../)
-* package [com.aspose.html.Dom.Events](../../event/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public Event(String type, IDictionary<String, object> eventInitDict)
 ### See Also
 
 * class [Event](../)
-* package [com.aspose.html.Dom.Events](../../event/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

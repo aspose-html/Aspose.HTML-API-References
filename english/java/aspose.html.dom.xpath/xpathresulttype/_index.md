@@ -1,9 +1,9 @@
 ---
 title: XPathResultType Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.XPath.XPathResultType enum. An unsigned short indicating what type of result this is. If a specific type is specified then the result will be returned as the corresponding type using XPath type conversions where required and possible
+description: com.aspose.html.dom.xpath.XPathResultType enum. An unsigned short indicating what type of result this is. If a specific type is specified then the result will be returned as the corresponding type using XPath type conversions where required and possible
 type: docs
-weight: 2620
+
 url: /java/com.aspose.html.dom.xpath/xpathresulttype/
 ---
 ## XPathResultType enumeration
@@ -31,5 +31,5 @@ public enum XPathResultType
 
 ### See Also
 
-* package [com.aspose.html.Dom.XPath](../../com.aspose.html.dom.xpath/)
+* package [com.aspose.html.dom.xpath](../../com.aspose.html.dom.xpath/)
 * package [Aspose.HTML](../../)

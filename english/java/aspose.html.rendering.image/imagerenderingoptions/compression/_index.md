@@ -3,7 +3,7 @@ title: ImageRenderingOptions.Compression
 second_title: Aspose.HTML for Java API Reference
 description: ImageRenderingOptions property. Sets or gets Tagged Image File Format TIFF Compression. By default this property is LZW
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.rendering.image/imagerenderingoptions/compression/
 ---
 ## ImageRenderingOptions.Compression property
@@ -18,5 +18,5 @@ public Compression Compression { get; set; }
 
 * enum [Compression](../../compression/)
 * class [ImageRenderingOptions](../)
-* package [com.aspose.html.Rendering.Image](../../imagerenderingoptions/)
+* package [com.aspose.html.rendering.image](../../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../../)

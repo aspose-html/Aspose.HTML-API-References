@@ -3,7 +3,7 @@ title: Page
 second_title: Aspose.HTML for Java API Reference
 description: Page constructor. Initializes a new instance of the Page class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/page/page/
 ---
 ## Page(Size, Margin) {#constructor_3}
@@ -24,7 +24,7 @@ public Page(Size size, Margin margin)
 * class [Size](../../size/)
 * class [Margin](../../margin/)
 * class [Page](../)
-* package [com.aspose.html.Drawing](../../page/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -45,7 +45,7 @@ public Page(Size size)
 
 * class [Size](../../size/)
 * class [Page](../)
-* package [com.aspose.html.Drawing](../../page/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -66,7 +66,7 @@ public Page(Margin margin)
 
 * class [Margin](../../margin/)
 * class [Page](../)
-* package [com.aspose.html.Drawing](../../page/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -82,5 +82,5 @@ public Page()
 ### See Also
 
 * class [Page](../)
-* package [com.aspose.html.Drawing](../../page/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

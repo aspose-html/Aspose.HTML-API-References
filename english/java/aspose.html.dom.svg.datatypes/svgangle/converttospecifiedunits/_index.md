@@ -3,7 +3,7 @@ title: SVGAngle.ConvertToSpecifiedUnits
 second_title: Aspose.HTML for Java API Reference
 description: SVGAngle method. Preserve the same underlying stored value but reset the stored unit identifier to the given unitType. Object attributes unitType valueInSpecifiedUnits and valueAsString might be modified as a result of this method
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgangle/converttospecifiedunits/
 ---
 ## SVGAngle.ConvertToSpecifiedUnits method
@@ -28,5 +28,5 @@ public void ConvertToSpecifiedUnits(ushort unitType)
 ### See Also
 
 * class [SVGAngle](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgangle/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

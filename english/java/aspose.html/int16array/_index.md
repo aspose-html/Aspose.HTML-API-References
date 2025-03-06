@@ -3,7 +3,7 @@ title: Int16Array Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Int16Array class. Represents an array of twos-complement 16-bit signed integers in the platform byte order
 type: docs
-weight: 3800
+
 url: /java/com.aspose.html/int16array/
 ---
 ## Int16Array class
@@ -31,8 +31,7 @@ public class Int16Array : TypedArray<short>
 | [getBuffer](../../com.aspose.html/typedarray/buffer/) Gets the ArrayBuffer referenced by this instance. |
 | [getByteLength](../../com.aspose.html/typedarray/bytelength/) Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes. |
 | [getByteOffset](../../com.aspose.html/typedarray/byteoffset/) Gets the byteOffset from the start of referenced ArrayBuffer. |
-[getItem]
-[setItem] Gets or sets the Int16 at the specified index. |
+| [item](../../com.aspose.html/int16array/item/) { get; set; } | Gets or sets the Int16 at the specified index. |
 | [getLength](../../com.aspose.html/typedarray/length/) Gets the length of a typed array. |
 
 ## Methods

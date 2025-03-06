@@ -3,7 +3,7 @@ title: SVGCursorElement.Href
 second_title: Aspose.HTML for Java API Reference
 description: SVGCursorElement property. Corresponds to attribute xlinkhref on the given element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgcursorelement/href/
 ---
 ## SVGCursorElement.Href property
@@ -22,5 +22,5 @@ The ‘xlink:href’ of the given element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGCursorElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgcursorelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

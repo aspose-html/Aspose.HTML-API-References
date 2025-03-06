@@ -1,9 +1,9 @@
 ---
 title: SVGAnimatedEnumeration Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.DataTypes.SVGAnimatedEnumeration class. Used for attributes whose value must be a constant from a particular enumeration and which can be animated
+description: com.aspose.html.dom.svg.datatypes.SVGAnimatedEnumeration class. Used for attributes whose value must be a constant from a particular enumeration and which can be animated
 type: docs
-weight: 1100
+
 url: /java/com.aspose.html.dom.svg.datatypes/svganimatedenumeration/
 ---
 ## SVGAnimatedEnumeration class
@@ -33,5 +33,5 @@ public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
 ### See Also
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../)

@@ -3,7 +3,7 @@ title: IUrlSearchParams.Has
 second_title: Aspose.HTML for Java API Reference
 description: IUrlSearchParams method. Checks if there is a name-value pair whose name is name in list
 type: docs
-weight: 50
+
 url: /java/com.aspose.html/iurlsearchparams/has/
 ---
 ## IUrlSearchParams.Has method
@@ -25,5 +25,5 @@ public bool Has(String name)
 ### See Also
 
 * interface [IUrlSearchParams](../)
-* package [com.aspose.html](../../iurlsearchparams/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: ResponseHeaders.ContentType
 second_title: Aspose.HTML for Java API Reference
 description: ResponseHeaders property. Gets the Content-Type header value
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.net/responseheaders/contenttype/
 ---
 ## ResponseHeaders.ContentType property
@@ -22,5 +22,5 @@ The type of the content.
 
 * class [ContentTypeHeaderValue](../../../com.aspose.html.net.headers/contenttypeheadervalue/)
 * class [ResponseHeaders](../)
-* package [com.aspose.html.Net](../../responseheaders/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: Document.OnShow
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnShow event
 type: docs
-weight: 710
+
 url: /java/com.aspose.html.dom/document/onshow/
 ---
 ## Document.OnShow event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnShow;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

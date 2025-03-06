@@ -1,9 +1,9 @@
 ---
 title: BrushType Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Drawing.BrushType enum. Specifies the type of brush
+description: com.aspose.html.drawing.BrushType enum. Specifies the type of brush
 type: docs
-weight: 2640
+
 url: /java/com.aspose.html.drawing/brushtype/
 ---
 ## BrushType enumeration
@@ -24,5 +24,5 @@ public enum BrushType
 
 ### See Also
 
-* package [com.aspose.html.Drawing](../../com.aspose.html.drawing/)
+* package [com.aspose.html.drawing](../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../)

@@ -3,7 +3,7 @@ title: SVGPathSegMovetoRel.Y
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegMovetoRel property. The relative Y coordinate for the end point of this path segment
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegmovetorel/y/
 ---
 ## SVGPathSegMovetoRel.Y property
@@ -27,5 +27,5 @@ The relative Y coordinate
 ### See Also
 
 * class [SVGPathSegMovetoRel](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathsegmovetorel/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

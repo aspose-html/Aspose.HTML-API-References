@@ -3,7 +3,7 @@ title: DocumentType.ToString
 second_title: Aspose.HTML for Java API Reference
 description: DocumentType method. Returns a String that represents this instance
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.dom/documenttype/toString/
 ---
 ## DocumentType.ToString method
@@ -21,5 +21,5 @@ A String that represents this instance.
 ### See Also
 
 * class [DocumentType](../)
-* package [com.aspose.html.Dom](../../documenttype/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: IWritable.WriteTo
 second_title: Aspose.HTML for Java API Reference
 description: IWritable method. Write to text writer
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/iwritable/writeto/
 ---
 ## IWritable.WriteTo method
@@ -21,5 +21,5 @@ public void WriteTo(TextWriter writer)
 ### See Also
 
 * interface [IWritable](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../iwritable/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

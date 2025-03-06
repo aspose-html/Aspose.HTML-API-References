@@ -1,9 +1,9 @@
 ---
 title: SVGPathSegArcAbs Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.Paths.SVGPathSegArcAbs class. The SVGPathSegArcAbs interface corresponds to an absolute arcto A path data command
+description: com.aspose.html.dom.svg.paths.SVGPathSegArcAbs class. The SVGPathSegArcAbs interface corresponds to an absolute arcto A path data command
 type: docs
-weight: 1710
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegarcabs/
 ---
 ## SVGPathSegArcAbs class
@@ -43,5 +43,5 @@ public class SVGPathSegArcAbs : SVGPathSeg
 ### See Also
 
 * class [SVGPathSeg](../svgpathseg/)
-* package [com.aspose.html.Dom.Svg.Paths](../../com.aspose.html.dom.svg.paths/)
+* package [com.aspose.html.dom.svg.paths](../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../)

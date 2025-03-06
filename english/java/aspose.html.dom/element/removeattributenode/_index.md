@@ -3,7 +3,7 @@ title: Element.RemoveAttributeNode
 second_title: Aspose.HTML for Java API Reference
 description: Element method. Removes the specified attribute node
 type: docs
-weight: 380
+
 url: /java/com.aspose.html.dom/element/removeattributenode/
 ---
 ## Element.RemoveAttributeNode method
@@ -26,5 +26,5 @@ Returns attribute
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

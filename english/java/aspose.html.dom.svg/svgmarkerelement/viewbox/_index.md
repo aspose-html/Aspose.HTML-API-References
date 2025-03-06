@@ -3,7 +3,7 @@ title: SVGMarkerElement.ViewBox
 second_title: Aspose.HTML for Java API Reference
 description: SVGMarkerElement property. Corresponds to attribute viewBox on the given element
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.dom.svg/svgmarkerelement/viewbox/
 ---
 ## SVGMarkerElement.ViewBox property
@@ -22,5 +22,5 @@ The ‘viewBox’ of the given element.
 
 * class [SVGAnimatedRect](../../../com.aspose.html.dom.svg.datatypes/svganimatedrect/)
 * class [SVGMarkerElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgmarkerelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

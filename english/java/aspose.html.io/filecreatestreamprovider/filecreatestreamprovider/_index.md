@@ -3,7 +3,7 @@ title: FileCreateStreamProvider
 second_title: Aspose.HTML for Java API Reference
 description: FileCreateStreamProvider constructor. Initializes a new instance of the FileCreateStreamProvider class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.io/filecreatestreamprovider/filecreatestreamprovider/
 ---
 ## FileCreateStreamProvider() {#constructor}
@@ -17,7 +17,7 @@ public FileCreateStreamProvider()
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* package [com.aspose.html.IO](../../filecreatestreamprovider/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -37,7 +37,7 @@ public FileCreateStreamProvider(String name)
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* package [com.aspose.html.IO](../../filecreatestreamprovider/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -58,5 +58,5 @@ public FileCreateStreamProvider(String directory, String name)
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* package [com.aspose.html.IO](../../filecreatestreamprovider/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: ThematicBreakSyntaxNode.Accept
 second_title: Aspose.HTML for Java API Reference
 description: ThematicBreakSyntaxNode method. Defines the interface for Accept visitor
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/thematicbreaksyntaxnode/accept/
 ---
 ## ThematicBreakSyntaxNode.Accept method
@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [ThematicBreakSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../thematicbreaksyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: IGradientBrush.InterpolationColors
 second_title: Aspose.HTML for Java API Reference
 description: IGradientBrush property. Get the interpolation colors that defines a multicolor linear gradient
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.drawing/igradientbrush/interpolationcolors/
 ---
 ## IGradientBrush.InterpolationColors property
@@ -11,7 +11,7 @@ url: /java/com.aspose.html.drawing/igradientbrush/interpolationcolors/
 Get the interpolation colors that defines a multicolor linear gradient.
 
 ```java
-public IInterpolationColor[] InterpolationColors { get; }
+public IInterpolationColor[] InterpolationColors { get; set; }
 ```
 
 ### Return Value
@@ -22,5 +22,5 @@ Interpolation colors.
 
 * interface [IInterpolationColor](../../iinterpolationcolor/)
 * interface [IGradientBrush](../)
-* package [com.aspose.html.Drawing](../../igradientbrush/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

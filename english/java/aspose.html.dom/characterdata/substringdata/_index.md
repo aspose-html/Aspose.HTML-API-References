@@ -3,7 +3,7 @@ title: CharacterData.SubStringData
 second_title: Aspose.HTML for Java API Reference
 description: CharacterData method. Extracts a range of data from the node
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom/characterdata/subStringdata/
 ---
 ## CharacterData.SubStringData method
@@ -26,5 +26,5 @@ The text data
 ### See Also
 
 * class [CharacterData](../)
-* package [com.aspose.html.Dom](../../characterdata/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

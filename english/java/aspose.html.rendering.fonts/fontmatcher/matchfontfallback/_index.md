@@ -3,7 +3,7 @@ title: FontMatcher.MatchFontFallback
 second_title: Aspose.HTML for Java API Reference
 description: FontMatcher method. This method is called if there is no appropriate font found in the fonts lookup folders. It should return true type font based on the fontMatchingProperties which can render charCode or null if such font is not available
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.rendering.fonts/fontmatcher/matchfontfallback/
 ---
 ## FontMatcher.MatchFontFallback method
@@ -28,5 +28,5 @@ A byte array containing the fonts data or `null`.
 
 * class [FontMatchingProperties](../../fontmatchingproperties/)
 * class [FontMatcher](../)
-* package [com.aspose.html.Rendering.Fonts](../../fontmatcher/)
+* package [com.aspose.html.rendering.fonts](../../../com.aspose.html.rendering.fonts/)
 * package [Aspose.HTML](../../../)

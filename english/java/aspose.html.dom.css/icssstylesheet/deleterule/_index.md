@@ -3,7 +3,7 @@ title: ICSSStyleSheet.DeleteRule
 second_title: Aspose.HTML for Java API Reference
 description: ICSSStyleSheet method. The CSSStyleSheet method deleteRule removes a rule from the stylesheet object
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.css/icssstylesheet/deleterule/
 ---
 ## ICSSStyleSheet.DeleteRule method
@@ -29,5 +29,5 @@ Reference
 ### See Also
 
 * interface [ICSSStyleSheet](../)
-* package [com.aspose.html.Dom.Css](../../icssstylesheet/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

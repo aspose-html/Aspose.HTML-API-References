@@ -1,9 +1,9 @@
 ---
 title: SVGMatrix Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.DataTypes.SVGMatrix class. Many of SVGs graphics operations utilize 2x3 matrices of the form a c e b d f which when expanded into a 3x3 matrix for the purposes of matrix arithmetic become a c e b d f 0 0 1
+description: com.aspose.html.dom.svg.datatypes.SVGMatrix class. Many of SVGs graphics operations utilize 2x3 matrices of the form a c e b d f which when expanded into a 3x3 matrix for the purposes of matrix arithmetic become a c e b d f 0 0 1
 type: docs
-weight: 1230
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgmatrix/
 ---
 ## SVGMatrix class
@@ -43,5 +43,5 @@ public class SVGMatrix : SVGValueType
 ### See Also
 
 * class [SVGValueType](../svgvaluetype/)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../)

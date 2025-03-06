@@ -3,7 +3,7 @@ title: Unit.FromMillimeters
 second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Length object that is represented in millimeters
 type: docs
-weight: 140
+
 url: /java/com.aspose.html.drawing/unit/frommillimeters/
 ---
 ## Unit.FromMillimeters method
@@ -26,5 +26,5 @@ Returns a [`Length`](../../length/) object.
 
 * class [Length](../../length/)
 * class [Unit](../)
-* package [com.aspose.html.Drawing](../../unit/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

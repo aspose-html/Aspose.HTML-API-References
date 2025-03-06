@@ -3,7 +3,7 @@ title: NamedNodeMap.RemoveNamedItemNS
 second_title: Aspose.HTML for Java API Reference
 description: NamedNodeMap method. Removes a node specified by local name and package URI
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.collections/namednodemap/removenameditemns/
 ---
 ## NamedNodeMap.RemoveNamedItemNS method
@@ -27,5 +27,5 @@ Returns node.
 
 * class [Attr](../../../com.aspose.html.dom/attr/)
 * class [NamedNodeMap](../)
-* package [com.aspose.html.Collections](../../namednodemap/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

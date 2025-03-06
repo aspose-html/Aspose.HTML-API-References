@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.ListItemMarker
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates ListItemMarker
 type: docs
-weight: 290
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/listitemmarker/
 ---
 ## ListItemMarker(MarkdownSyntaxToken, MarkdownSyntaxToken) {#listitemmarker_1}
@@ -28,7 +28,7 @@ The ListItemMarker.
 * class [ListItemMarker](../../listitemmarker/)
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -54,5 +54,5 @@ The ListItemMarker.
 * class [ListItemMarker](../../listitemmarker/)
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: MarkdownSyntaxVisitor.VisitLineBreak
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit SoftBreakSyntax
 type: docs
-weight: 140
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitlinebreak/
 ---
 ## VisitLineBreak(SoftBreakSyntaxNode) {#visitlinebreak_1}
@@ -22,7 +22,7 @@ public void VisitLineBreak(SoftBreakSyntaxNode lineBreak)
 
 * class [SoftBreakSyntaxNode](../../softbreaksyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -43,5 +43,5 @@ public void VisitLineBreak(HardBreakSyntaxNode lineBreak)
 
 * class [HardBreakSyntaxNode](../../hardbreaksyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

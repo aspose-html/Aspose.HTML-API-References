@@ -3,7 +3,7 @@ title: Margin
 second_title: Aspose.HTML for Java API Reference
 description: Margin constructor. Initializes a new instance of the Margin class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/margin/margin/
 ---
 ## Margin() {#constructor}
@@ -17,7 +17,7 @@ public Margin()
 ### See Also
 
 * class [Margin](../)
-* package [com.aspose.html.Drawing](../../margin/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -37,7 +37,7 @@ public Margin(int anyMargin)
 ### See Also
 
 * class [Margin](../)
-* package [com.aspose.html.Drawing](../../margin/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -58,7 +58,7 @@ public Margin(Length anyMargin)
 
 * class [Length](../../length/)
 * class [Margin](../)
-* package [com.aspose.html.Drawing](../../margin/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -81,7 +81,7 @@ public Margin(int left, int top, int right, int bottom)
 ### See Also
 
 * class [Margin](../)
-* package [com.aspose.html.Drawing](../../margin/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -105,5 +105,5 @@ public Margin(Length left, Length top, Length right, Length bottom)
 
 * class [Length](../../length/)
 * class [Margin](../)
-* package [com.aspose.html.Drawing](../../margin/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

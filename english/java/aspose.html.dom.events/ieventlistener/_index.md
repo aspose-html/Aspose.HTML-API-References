@@ -1,9 +1,9 @@
 ---
 title: IEventListener Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Events.IEventListener interface. The interface is the primary method for handling events. Users implement the interface and register their listener on an using the method. The users should also remove their from its after they have completed using the listener
+description: com.aspose.html.dom.events.IEventListener interface. The interface is the primary method for handling events. Users implement the interface and register their listener on an using the method. The users should also remove their from its after they have completed using the listener
 type: docs
-weight: 810
+
 url: /java/com.aspose.html.dom.events/ieventlistener/
 ---
 ## IEventListener interface
@@ -26,5 +26,5 @@ When a Node is copied using the cloneNode method the Event Listeners attached to
 
 ### See Also
 
-* package [com.aspose.html.Dom.Events](../../com.aspose.html.dom.events/)
+* package [com.aspose.html.dom.events](../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../)

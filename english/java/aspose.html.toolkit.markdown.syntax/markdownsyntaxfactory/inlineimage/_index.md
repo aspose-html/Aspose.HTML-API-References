@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.InlineImage
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates InlineImageSyntaxNode
 type: docs
-weight: 210
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlineimage/
 ---
 ## InlineImage(String, String, String) {#inlineimage_1}
@@ -28,7 +28,7 @@ The InlineImageSyntax.
 
 * class [InlineImageSyntaxNode](../../inlineimagesyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -64,5 +64,5 @@ The InlineImageSyntax.
 * class [LinkDestinationSyntaxNode](../../linkdestinationsyntaxnode/)
 * class [LinkTitleSyntaxNode](../../linktitlesyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

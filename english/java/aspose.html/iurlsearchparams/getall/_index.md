@@ -3,7 +3,7 @@ title: IUrlSearchParams.GetAll
 second_title: Aspose.HTML for Java API Reference
 description: IUrlSearchParams method. Returns all values whose name is name
 type: docs
-weight: 40
+
 url: /java/com.aspose.html/iurlsearchparams/getall/
 ---
 ## IUrlSearchParams.GetAll method
@@ -25,5 +25,5 @@ List containing all values whose name is `name`.
 ### See Also
 
 * interface [IUrlSearchParams](../)
-* package [com.aspose.html](../../iurlsearchparams/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: Color.WithSaturation
 second_title: Aspose.HTML for Java API Reference
 description: Color method. Creates copy of the Color with specified saturation
 type: docs
-weight: 480
+
 url: /java/com.aspose.html.drawing/color/withsaturation/
 ---
 ## Color.WithSaturation method
@@ -25,5 +25,5 @@ public Color WithSaturation(float saturation)
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGFEPointLightElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEPointLightElement property. Corresponds to attribute x on the given fePointLight element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.filters/svgfepointlightelement/x/
 ---
 ## SVGFEPointLightElement.X property
@@ -22,5 +22,5 @@ The attribute ‘x’ of the given ‘fePointLight’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEPointLightElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfepointlightelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: DOMException.NETWORK_ERR
 second_title: Aspose.HTML for Java API Reference
 description: DOMException field. A network error occurred
 type: docs
-weight: 180
+
 url: /java/com.aspose.html.dom/domexception/network_err/
 ---
 ## DOMException.NETWORK_ERR field
@@ -17,5 +17,5 @@ public const ushort NETWORK_ERR;
 ### See Also
 
 * class [DOMException](../)
-* package [com.aspose.html.Dom](../../domexception/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

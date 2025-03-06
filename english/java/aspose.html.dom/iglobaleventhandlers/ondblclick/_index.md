@@ -3,7 +3,7 @@ title: IGlobalEventHandlers.OnDblClick
 second_title: Aspose.HTML for Java API Reference
 description: IGlobalEventHandlers event. Gets or sets event handler for OnDblClick event
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.dom/iglobaleventhandlers/ondblclick/
 ---
 ## IGlobalEventHandlers.OnDblClick event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnDblClick;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * interface [IGlobalEventHandlers](../)
-* package [com.aspose.html.Dom](../../iglobaleventhandlers/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

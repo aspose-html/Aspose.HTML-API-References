@@ -3,7 +3,7 @@ title: MarkdownSyntaxTree
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxTree constructor. Creates the MarkdownSyntaxTree
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/markdownsyntaxtree/
 ---
 ## MarkdownSyntaxTree(Configuration) {#constructor_1}
@@ -22,7 +22,7 @@ public MarkdownSyntaxTree(Configuration configuration)
 
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public MarkdownSyntaxTree()
 ### See Also
 
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: RenderingOptions.Css
 second_title: Aspose.HTML for Java API Reference
 description: RenderingOptions property. Gets a CssOptions object which is used for configuration of css properties processing
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.rendering/renderingoptions/css/
 ---
 ## RenderingOptions.Css property
@@ -22,5 +22,5 @@ The [`CssOptions`](../../cssoptions/) object.
 
 * class [CssOptions](../../cssoptions/)
 * class [RenderingOptions](../)
-* package [com.aspose.html.Rendering](../../renderingoptions/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

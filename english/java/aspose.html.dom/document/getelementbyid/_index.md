@@ -3,7 +3,7 @@ title: Document.GetElementById
 second_title: Aspose.HTML for Java API Reference
 description: Document method. The Document method getElementById returns an Element object representing the element whose id property matches the specified String. Since element IDs are required to be unique if specified theyre a useful way to get access to a specific element quickly
 type: docs
-weight: 960
+
 url: /java/com.aspose.html.dom/document/getelementbyid/
 ---
 ## Document.GetElementById method
@@ -30,7 +30,7 @@ Refer to official [spec](https://dom.spec.whatwg.org/#dom-nonelementparentnode-g
 
 Practice web development content can be founded in [w3schools](https://www.w3schools.com/jsref/met_document_getelementbyid.asp).
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
@@ -40,8 +40,8 @@ You can download the complete examples and data files from [GitHub](https://gith
 
 // C# code
 import System;
-import com.aspose.html;
-import com.aspose.html.Dom;
+import Aspose.Html;
+import com.aspose.html.dom;
 ...
 	using (var document = new HTMLDocument(inputHtmlPath))
 		{
@@ -63,5 +63,5 @@ Container with ID - identifier
 
 * class [Element](../../element/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

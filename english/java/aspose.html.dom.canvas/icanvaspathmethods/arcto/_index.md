@@ -3,7 +3,7 @@ title: ICanvasPathMethods.ArcTo
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasPathMethods method. Adds an arc to the path with the given control points and radius connected to the previous point by a straight line
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.canvas/icanvaspathmethods/arcto/
 ---
 ## ICanvasPathMethods.ArcTo method
@@ -25,5 +25,5 @@ public void ArcTo(double x1, double y1, double x2, double y2, double radius)
 ### See Also
 
 * interface [ICanvasPathMethods](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvaspathmethods/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

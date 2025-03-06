@@ -3,7 +3,7 @@ title: SVGFETurbulenceElement.BaseFrequencyY
 second_title: Aspose.HTML for Java API Reference
 description: SVGFETurbulenceElement property. Corresponds to attribute baseFrequency on the given feTurbulence element. Contains the Y component of the possibly computed automatically baseFrequency attribute
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/basefrequencyy/
 ---
 ## SVGFETurbulenceElement.BaseFrequencyY property
@@ -22,5 +22,5 @@ The attribute ‘baseFrequency’ of the given ‘feTurbulence’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFETurbulenceElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeturbulenceelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

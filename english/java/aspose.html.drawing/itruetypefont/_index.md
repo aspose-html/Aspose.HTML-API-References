@@ -1,9 +1,9 @@
 ---
 title: ITrueTypeFont Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Drawing.ITrueTypeFont interface. Declares methods for working with TrueType font
+description: com.aspose.html.drawing.ITrueTypeFont interface. Declares methods for working with TrueType font
 type: docs
-weight: 2770
+
 url: /java/com.aspose.html.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface
@@ -33,5 +33,5 @@ public interface ITrueTypeFont
 
 ### See Also
 
-* package [com.aspose.html.Drawing](../../com.aspose.html.drawing/)
+* package [com.aspose.html.drawing](../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../)

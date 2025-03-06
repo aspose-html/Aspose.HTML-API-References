@@ -3,7 +3,7 @@ title: FormEditor.GetElement
 second_title: Aspose.HTML for Java API Reference
 description: FormEditor method. Returns the element by specified index
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.forms/formeditor/getelement/
 ---
 ## GetElement&lt;T&gt;(int) {#getelement}
@@ -28,7 +28,7 @@ Returns the element.
 
 * class [FormElement](../../formelement/)
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -55,5 +55,5 @@ Returns the element.
 
 * class [FormElement](../../formelement/)
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

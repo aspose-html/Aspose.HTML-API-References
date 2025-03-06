@@ -3,7 +3,7 @@ title: ICSS2Properties.SpeechRate
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies the speaking rate. Note that both absolute and relative keyword values are allowed compare with font-size. Values have the following meanings
 type: docs
-weight: 1040
+
 url: /java/com.aspose.html.dom.css/icss2properties/speechrate/
 ---
 ## ICSS2Properties.SpeechRate property
@@ -37,5 +37,5 @@ speech-rate property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

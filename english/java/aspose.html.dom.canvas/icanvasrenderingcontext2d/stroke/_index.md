@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.Stroke
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Strokes the subpaths with the current stroke style
 type: docs
-weight: 370
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/stroke/
 ---
 ## Stroke() {#stroke}
@@ -17,7 +17,7 @@ public void Stroke()
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public void Stroke(Path2D path)
 
 * class [Path2D](../../path2d/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

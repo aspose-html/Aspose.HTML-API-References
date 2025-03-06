@@ -1,12 +1,12 @@
 ---
-title: com.aspose.html.toolkit.Optimizers
+title: com.aspose.html.toolkit.optimizers
 second_title: Aspose.HTML for Java API Reference
-description: The com.aspose.html.Toolkit.Optimizers package contains classes for optimizing SVG documents. The optimization process involves removing unused or invisible elements and their attributes merging groups and reducing the size of path segments
+description: The com.aspose.html.toolkit.optimizers package contains classes for optimizing SVG documents. The optimization process involves removing unused or invisible elements and their attributes merging groups and reducing the size of path segments
 type: docs
-weight: 440
+
 url: /java/com.aspose.html.toolkit.optimizers/
 ---
-The **com.aspose.html.Toolkit.Optimizers** package contains classes for optimizing SVG documents. The optimization process involves removing unused or invisible elements and their attributes, merging groups, and reducing the size of path segments.
+The **com.aspose.html.toolkit.optimizers** package contains classes for optimizing SVG documents. The optimization process involves removing unused or invisible elements and their attributes, merging groups, and reducing the size of path segments.
 
 ## Classes
 

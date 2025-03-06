@@ -3,7 +3,7 @@ title: Document.OnSuspend
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnSuspend event
 type: docs
-weight: 740
+
 url: /java/com.aspose.html.dom/document/onsuspend/
 ---
 ## Document.OnSuspend event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnSuspend;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

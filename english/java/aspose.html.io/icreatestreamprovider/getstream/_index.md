@@ -3,7 +3,7 @@ title: ICreateStreamProvider.GetStream
 second_title: Aspose.HTML for Java API Reference
 description: ICreateStreamProvider method. Provides a stream for rendering
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.io/icreatestreamprovider/getstream/
 ---
 ## GetStream(String, String) {#getstream}
@@ -26,7 +26,7 @@ A Stream object that is used for writing data during the rendering operations.
 ### See Also
 
 * interface [ICreateStreamProvider](../)
-* package [com.aspose.html.IO](../../icreatestreamprovider/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -52,5 +52,5 @@ A Stream object that is used for writing data during the rendering operations.
 ### See Also
 
 * interface [ICreateStreamProvider](../)
-* package [com.aspose.html.IO](../../icreatestreamprovider/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)

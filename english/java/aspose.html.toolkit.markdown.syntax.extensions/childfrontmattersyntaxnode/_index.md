@@ -1,9 +1,9 @@
 ---
 title: ChildFrontMatterSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Extensions.ChildFrontMatterSyntaxNode class. Defines the ChildFrontMatterSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.extensions.ChildFrontMatterSyntaxNode class. Defines the ChildFrontMatterSyntaxNode
 type: docs
-weight: 4900
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/childfrontmattersyntaxnode/
 ---
 ## ChildFrontMatterSyntaxNode class
@@ -22,5 +22,5 @@ public abstract class ChildFrontMatterSyntaxNode : IEnumerable<ChildFrontMatterS
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../com.aspose.html.toolkit.markdown.syntax.extensions/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../)

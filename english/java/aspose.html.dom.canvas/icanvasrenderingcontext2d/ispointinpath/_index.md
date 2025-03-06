@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.IsPointInPath
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Reports whether or not the specified point is contained in the current path
 type: docs
-weight: 260
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/ispointinpath/
 ---
 ## IsPointInPath(double, double) {#ispointinpath_2}
@@ -26,7 +26,7 @@ Returns true if the point is inside the area contained by the filling of a path,
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -53,7 +53,7 @@ Returns true if the point is inside the area contained by the filling of a path,
 
 * enum [CanvasFillRule](../../canvasfillrule/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -80,7 +80,7 @@ Returns true if the point is inside the area contained by the filling of a path,
 
 * class [Path2D](../../path2d/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -109,5 +109,5 @@ Returns true if the point is inside the area contained by the filling of a path,
 * class [Path2D](../../path2d/)
 * enum [CanvasFillRule](../../canvasfillrule/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

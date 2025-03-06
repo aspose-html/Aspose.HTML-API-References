@@ -1,9 +1,9 @@
 ---
 title: ICreateStreamProvider Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.IO.ICreateStreamProvider interface. Represents an interface that can be implemented by classes providing streams to the rendering devices
+description: com.aspose.html.io.ICreateStreamProvider interface. Represents an interface that can be implemented by classes providing streams to the rendering devices
 type: docs
-weight: 3730
+
 url: /java/com.aspose.html.io/icreatestreamprovider/
 ---
 ## ICreateStreamProvider interface
@@ -24,5 +24,5 @@ public interface ICreateStreamProvider : IDisposable
 
 ### See Also
 
-* package [com.aspose.html.IO](../../com.aspose.html.io/)
+* package [com.aspose.html.io](../../com.aspose.html.io/)
 * package [Aspose.HTML](../../)

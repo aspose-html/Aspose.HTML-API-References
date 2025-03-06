@@ -3,7 +3,7 @@ title: LinkReferenceDefinitionSyntaxNode.Accept
 second_title: Aspose.HTML for Java API Reference
 description: LinkReferenceDefinitionSyntaxNode method. Defines the interface for accept visitor
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/accept/
 ---
 ## LinkReferenceDefinitionSyntaxNode.Accept method
@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
 * class [LinkReferenceDefinitionSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../linkreferencedefinitionsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

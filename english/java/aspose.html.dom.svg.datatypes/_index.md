@@ -1,9 +1,9 @@
 ---
-title: com.aspose.html.dom.Svg.DataTypes
+title: com.aspose.html.dom.svg.datatypes
 second_title: Aspose.HTML for Java API Reference
 description: The package provides access to all SVG specific data types
 type: docs
-weight: 130
+
 url: /java/com.aspose.html.dom.svg.datatypes/
 ---
 The package provides access to all SVG specific data types.

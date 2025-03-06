@@ -3,7 +3,7 @@ title: Path2D.ArcTo
 second_title: Aspose.HTML for Java API Reference
 description: Path2D method. Adds an arc to the path with the given control points and radius connected to the previous point by a straight line
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.canvas/path2d/arcto/
 ---
 ## Path2D.ArcTo method
@@ -25,5 +25,5 @@ public void ArcTo(double x1, double y1, double x2, double y2, double radius)
 ### See Also
 
 * class [Path2D](../)
-* package [com.aspose.html.Dom.Canvas](../../path2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

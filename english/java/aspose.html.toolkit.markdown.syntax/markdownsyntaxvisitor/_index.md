@@ -1,9 +1,9 @@
 ---
 title: MarkdownSyntaxVisitor Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.MarkdownSyntaxVisitor class. The base class for markdown syntax visitor
+description: com.aspose.html.toolkit.markdown.syntax.MarkdownSyntaxVisitor class. The base class for markdown syntax visitor
 type: docs
-weight: 5230
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/
 ---
 ## MarkdownSyntaxVisitor class
@@ -54,5 +54,5 @@ public abstract class MarkdownSyntaxVisitor
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

@@ -3,7 +3,7 @@ title: MimeType.SubType
 second_title: Aspose.HTML for Java API Reference
 description: MimeType property. Gets the sub media type
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/mimetype/subtype/
 ---
 ## MimeType.SubType property
@@ -21,5 +21,5 @@ The sub media type.
 ### See Also
 
 * class [MimeType](../)
-* package [com.aspose.html](../../mimetype/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

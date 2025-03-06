@@ -3,7 +3,7 @@ title: SVGUseElement.Y
 second_title: Aspose.HTML for Java API Reference
 description: SVGUseElement property. Corresponds to attribute y on the given use element
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg/svguseelement/y/
 ---
 ## SVGUseElement.Y property
@@ -22,5 +22,5 @@ Corresponds to attribute ‘y’ on the given ‘use’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGUseElement](../)
-* package [com.aspose.html.Dom.Svg](../../svguseelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

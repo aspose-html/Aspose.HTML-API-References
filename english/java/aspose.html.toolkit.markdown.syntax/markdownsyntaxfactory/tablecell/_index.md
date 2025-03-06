@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.TableCell
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates TableCellSyntaxNode
 type: docs
-weight: 390
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tablecell/
 ---
 ## MarkdownSyntaxFactory.TableCell method
@@ -22,5 +22,5 @@ The TableCellSyntax.
 
 * class [TableCellSyntaxNode](../../tablecellsyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

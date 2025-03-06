@@ -3,7 +3,7 @@ title: BlockProxy.GetTarget
 second_title: Aspose.HTML for Java API Reference
 description: BlockProxy method. Get the target node
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/blockproxy/gettarget/
 ---
 ## BlockProxy.GetTarget method
@@ -22,5 +22,5 @@ The MarkdownSyntaxNode.
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [BlockProxy](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../blockproxy/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

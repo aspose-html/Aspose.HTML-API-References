@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.LinkLabel
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates link label from a String
 type: docs
-weight: 250
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linklabel/
 ---
 ## MarkdownSyntaxFactory.LinkLabel method
@@ -26,5 +26,5 @@ The [`TextSyntaxNode`](../../textsyntaxnode/) object.
 
 * class [TextSyntaxNode](../../textsyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

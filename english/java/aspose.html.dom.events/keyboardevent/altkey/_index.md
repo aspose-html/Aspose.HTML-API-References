@@ -3,7 +3,7 @@ title: KeyboardEvent.AltKey
 second_title: Aspose.HTML for Java API Reference
 description: KeyboardEvent property. true if the Alt alternative or Option key modifier was active. The un-initialized value of this attribute MUST be false
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.events/keyboardevent/altkey/
 ---
 ## KeyboardEvent.AltKey property
@@ -21,5 +21,5 @@ public bool AltKey { get; }
 ### See Also
 
 * class [KeyboardEvent](../)
-* package [com.aspose.html.Dom.Events](../../keyboardevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: ICSS2Properties.TextAlign
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property describes how inline content of a block is aligned. Values have the following meanings
 type: docs
-weight: 1070
+
 url: /java/com.aspose.html.dom.css/icss2properties/textalign/
 ---
 ## ICSS2Properties.TextAlign property
@@ -23,5 +23,5 @@ text-align property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

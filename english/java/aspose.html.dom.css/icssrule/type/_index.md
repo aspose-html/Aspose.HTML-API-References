@@ -3,7 +3,7 @@ title: ICSSRule.Type
 second_title: Aspose.HTML for Java API Reference
 description: ICSSRule property. The type of the rule as defined CSSOM  dom-cssrule-type. The expectation is that binding-specific casting methods can be used to cast down from an instance of the CSSRule interface to the specific derived interface implied by the type
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.css/icssrule/type/
 ---
 ## ICSSRule.Type property
@@ -21,5 +21,5 @@ A non-negative integer associated with a particular type of rule. This item is i
 ### See Also
 
 * interface [ICSSRule](../)
-* package [com.aspose.html.Dom.Css](../../icssrule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGFEFloodElement.Result
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEFloodElement property. Corresponds to attribute result on the given filter element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.filters/svgfefloodelement/result/
 ---
 ## SVGFEFloodElement.Result property
@@ -22,5 +22,5 @@ The attribute ‘result’ of the given ‘filter’ element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFEFloodElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfefloodelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

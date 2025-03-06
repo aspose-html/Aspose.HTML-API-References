@@ -3,7 +3,7 @@ title: FormEditor.Create
 second_title: Aspose.HTML for Java API Reference
 description: FormEditor method. Creates a new FormEditor based on HTMLFormElement
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.forms/formeditor/create/
 ---
 ## Create(HTMLFormElement) {#create_2}
@@ -26,7 +26,7 @@ Return a new instance of the [`FormEditor`](../) class
 
 * class [HTMLFormElement](../../../com.aspose.html/htmlformelement/)
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -58,7 +58,7 @@ Return a new instance of the [`FormEditor`](../) class
 
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -90,5 +90,5 @@ Return a new instance of the [`FormEditor`](../) class
 
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

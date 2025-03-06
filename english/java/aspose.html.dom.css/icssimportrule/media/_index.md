@@ -3,7 +3,7 @@ title: ICSSImportRule.Media
 second_title: Aspose.HTML for Java API Reference
 description: ICSSImportRule property. The read-only media property of the CSSImportRule interface returns a MediaList object containing the value of the media attribute of the associated stylesheet
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.css/icssimportrule/media/
 ---
 ## ICSSImportRule.Media property
@@ -22,5 +22,5 @@ Returns a MediaList object, containing the value of the media attribute of the a
 
 * interface [IMediaList](../../imedialist/)
 * interface [ICSSImportRule](../)
-* package [com.aspose.html.Dom.Css](../../icssimportrule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

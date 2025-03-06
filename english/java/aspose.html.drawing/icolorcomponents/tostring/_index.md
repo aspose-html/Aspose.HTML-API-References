@@ -3,7 +3,7 @@ title: IColorComponents.ToString
 second_title: Aspose.HTML for Java API Reference
 description: IColorComponents method. Converts color components to String representation
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.drawing/icolorcomponents/toString/
 ---
 ## IColorComponents.ToString method
@@ -27,5 +27,5 @@ String representation of the color components.
 ### See Also
 
 * interface [IColorComponents](../)
-* package [com.aspose.html.Drawing](../../icolorcomponents/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

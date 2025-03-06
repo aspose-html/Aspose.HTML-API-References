@@ -3,7 +3,7 @@ title: ICSS2Properties.PageBreakInside
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. Values for these properties have the following meanings
 type: docs
-weight: 880
+
 url: /java/com.aspose.html.dom.css/icss2properties/pagebreakinside/
 ---
 ## ICSS2Properties.PageBreakInside property
@@ -23,5 +23,5 @@ page-break-inside property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

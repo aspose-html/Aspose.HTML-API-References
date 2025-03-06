@@ -3,7 +3,7 @@ title: Int8Array Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Int8Array class. Represents an array of twos-complement 8-bit signed integers
 type: docs
-weight: 3820
+
 url: /java/com.aspose.html/int8array/
 ---
 ## Int8Array class
@@ -31,8 +31,7 @@ public class Int8Array : TypedArray<sbyte>
 | [getBuffer](../../com.aspose.html/typedarray/buffer/) Gets the ArrayBuffer referenced by this instance. |
 | [getByteLength](../../com.aspose.html/typedarray/bytelength/) Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes. |
 | [getByteOffset](../../com.aspose.html/typedarray/byteoffset/) Gets the byteOffset from the start of referenced ArrayBuffer. |
-[getItem]
-[setItem] Gets or sets the SByte at the specified index. |
+| [item](../../com.aspose.html/int8array/item/) { get; set; } | Gets or sets the SByte at the specified index. |
 | [getLength](../../com.aspose.html/typedarray/length/) Gets the length of a typed array. |
 
 ## Methods

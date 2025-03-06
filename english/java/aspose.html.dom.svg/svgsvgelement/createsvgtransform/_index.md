@@ -3,7 +3,7 @@ title: SVGSVGElement.CreateSVGTransform
 second_title: Aspose.HTML for Java API Reference
 description: SVGSVGElement method. Creates an SVGTransform object outside of any document trees. The object is initialized to an identity matrix transform SVG_TRANSFORM_MATRIX
 type: docs
-weight: 180
+
 url: /java/com.aspose.html.dom.svg/svgsvgelement/createsvgtransform/
 ---
 ## SVGSVGElement.CreateSVGTransform method
@@ -22,5 +22,5 @@ An SVGTransform object.
 
 * class [SVGTransform](../../../com.aspose.html.dom.svg.datatypes/svgtransform/)
 * class [SVGSVGElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgsvgelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

@@ -1,9 +1,9 @@
 ---
 title: ImageRenderingOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Image.ImageRenderingOptions class. Represents rendering options for ImageDevice. This options is used to specify output image format compression resolution etc
+description: com.aspose.html.rendering.image.ImageRenderingOptions class. Represents rendering options for ImageDevice. This options is used to specify output image format compression resolution etc
 type: docs
-weight: 4360
+
 url: /java/com.aspose.html.rendering.image/imagerenderingoptions/
 ---
 ## ImageRenderingOptions class
@@ -32,17 +32,15 @@ public class ImageRenderingOptions : RenderingOptions
 | [getCss](../../com.aspose.html.rendering/renderingoptions/css/) Gets a [`CssOptions`](../../com.aspose.html.rendering/cssoptions/) object which is used for configuration of css properties processing. |
 [getFormat]
 [setFormat] Sets or gets [`ImageFormat`](../imageformat/). By default this property is Png. |
-[getHorizontalResolution]
-[setHorizontalResolution] Sets or gets horizontal resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+| [horizontalResolution](../../com.aspose.html.rendering.image/imagerenderingoptions/horizontalresolution/) { get; set; } | Sets or gets horizontal resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 | [getPageSetup](../../com.aspose.html.rendering/renderingoptions/pagesetup/) Gets a page setup object is used for configuration output page-set. |
-[getSmoothingMode]
-[setSmoothingMode] Gets or sets the rendering quality for this Graphics. |
 | [getText](../../com.aspose.html.rendering.image/imagerenderingoptions/text/) Gets a [`TextOptions`](../textoptions/) object which is used for configuration of text rendering. |
-[getVerticalResolution]
-[setVerticalResolution] Sets or gets vertical resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
+[getUseAntialiasing]
+[setUseAntialiasing] Specifies whether to use antialiasing. By default, antialiasing is enabled. |
+| [verticalResolution](../../com.aspose.html.rendering.image/imagerenderingoptions/verticalresolution/) { get; set; } | Sets or gets vertical resolution for output and internal (which are used during filters processing) images, in pixels per inch. By default this property is 300 dpi. |
 
 ### See Also
 
 * class [RenderingOptions](../../com.aspose.html.rendering/renderingoptions/)
-* package [com.aspose.html.Rendering.Image](../../com.aspose.html.rendering.image/)
+* package [com.aspose.html.rendering.image](../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../)

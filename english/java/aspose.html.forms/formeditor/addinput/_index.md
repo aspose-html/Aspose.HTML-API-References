@@ -3,7 +3,7 @@ title: FormEditor.AddInput
 second_title: Aspose.HTML for Java API Reference
 description: FormEditor method. Creates a new InputElement and adds it to the end of the form
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.forms/formeditor/addinput/
 ---
 ## AddInput(String) {#addinput}
@@ -26,7 +26,7 @@ Returns a new created [`InputElement`](../../inputelement/).
 
 * class [InputElement](../../inputelement/)
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -53,5 +53,5 @@ Returns a new created [`InputElement`](../../inputelement/).
 * class [InputElement](../../inputelement/)
 * enum [InputElementType](../../inputelementtype/)
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

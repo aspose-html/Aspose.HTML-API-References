@@ -3,7 +3,7 @@ title: SVGDocument.GetOverrideStyle
 second_title: Aspose.HTML for Java API Reference
 description: SVGDocument method. This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.svg/svgdocument/getoverridestyle/
 ---
 ## SVGDocument.GetOverrideStyle method
@@ -28,5 +28,5 @@ The override style declaration
 * interface [ICSSStyleDeclaration](../../../com.aspose.html.dom.css/icssstyledeclaration/)
 * class [Element](../../../com.aspose.html.dom/element/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

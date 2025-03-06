@@ -3,7 +3,7 @@ title: Converter.ConvertMarkdown
 second_title: Aspose.HTML for Java API Reference
 description: Converter method. Convert MD markdown source presented by input stream to html. Result is HTMLDocument which can be saved through output file path
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.converters/converter/convertmarkdown/
 ---
 ## ConvertMarkdown(Stream, String) {#convertmarkdown}
@@ -39,15 +39,15 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -81,7 +81,7 @@ import com.aspose.html.Converters;
 
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -121,15 +121,15 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -162,7 +162,7 @@ import com.aspose.html.Converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -197,15 +197,15 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -233,7 +233,7 @@ import com.aspose.html.Converters;
 ### See Also
 
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -270,15 +270,15 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -302,7 +302,7 @@ import com.aspose.html.Converters;
 
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -339,15 +339,15 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -371,7 +371,7 @@ import com.aspose.html.Converters;
 
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -409,15 +409,15 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -442,7 +442,7 @@ import com.aspose.html.Converters;
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -476,15 +476,15 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -503,7 +503,7 @@ import com.aspose.html.Converters;
 ### See Also
 
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -539,15 +539,15 @@ You may also be interested in a free online [MD to HTML Converter](https://produ
 
 Source code
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
 ```java
 import System.IO; 
-import com.aspose.html.IO;
-import com.aspose.html.Saving;  
-import com.aspose.html.Converters;  
+import com.aspose.html.io;
+import com.aspose.html.saving;  
+import com.aspose.html.converters;  
 ...
       // Form source file path
       var sourcePath = Path.Combine(InputFolder, "simple.md");
@@ -567,5 +567,5 @@ import com.aspose.html.Converters;
 
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [Converter](../)
-* package [com.aspose.html.Converters](../../converter/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)

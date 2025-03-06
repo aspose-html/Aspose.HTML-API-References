@@ -3,7 +3,7 @@ title: SVGElement.ClassName
 second_title: Aspose.HTML for Java API Reference
 description: SVGElement property. Corresponds to attribute class on the given element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgelement/classname/
 ---
 ## SVGElement.ClassName property
@@ -22,5 +22,5 @@ The name of the class.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

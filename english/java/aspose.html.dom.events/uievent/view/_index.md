@@ -3,7 +3,7 @@ title: UIEvent.View
 second_title: Aspose.HTML for Java API Reference
 description: UIEvent property. The view attribute identifies the Window from which the event was generated. The un-initialized value of this attribute MUST be null
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.events/uievent/view/
 ---
 ## UIEvent.View property
@@ -22,5 +22,5 @@ The window instance.
 
 * interface [IWindow](../../../com.aspose.html.window/iwindow/)
 * class [UIEvent](../)
-* package [com.aspose.html.Dom.Events](../../uievent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

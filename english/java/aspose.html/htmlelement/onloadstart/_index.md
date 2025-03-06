@@ -3,7 +3,7 @@ title: HTMLElement.OnLoadStart
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnLoadStart event
 type: docs
-weight: 290
+
 url: /java/com.aspose.html/htmlelement/onloadstart/
 ---
 ## HTMLElement.OnLoadStart event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnLoadStart;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [HTMLElement](../)
-* package [com.aspose.html](../../htmlelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

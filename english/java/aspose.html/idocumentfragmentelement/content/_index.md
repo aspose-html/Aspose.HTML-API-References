@@ -3,7 +3,7 @@ title: IDocumentFragmentElement.Content
 second_title: Aspose.HTML for Java API Reference
 description: IDocumentFragmentElement property. Gets the instance of the DocumentFragment
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/idocumentfragmentelement/content/
 ---
 ## IDocumentFragmentElement.Content property
@@ -22,5 +22,5 @@ The content.
 
 * class [DocumentFragment](../../../com.aspose.html.dom/documentfragment/)
 * interface [IDocumentFragmentElement](../)
-* package [com.aspose.html](../../idocumentfragmentelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

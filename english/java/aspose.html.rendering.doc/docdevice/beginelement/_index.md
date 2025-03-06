@@ -3,7 +3,7 @@ title: DocDevice.BeginElement
 second_title: Aspose.HTML for Java API Reference
 description: DocDevice method. Begins rendering of the html node
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.rendering.doc/docdevice/beginelement/
 ---
 ## DocDevice.BeginElement method
@@ -27,5 +27,5 @@ Returns [true] if element should be processed.
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * class [DocDevice](../)
-* package [com.aspose.html.Rendering.Doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)

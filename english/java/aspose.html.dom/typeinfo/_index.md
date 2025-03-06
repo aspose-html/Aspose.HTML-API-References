@@ -1,9 +1,9 @@
 ---
 title: TypeInfo Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.TypeInfo class. The TypeInfo represents a type referenced from Element or Attr nodes specified in the schemas associated with the document
+description: com.aspose.html.dom.TypeInfo class. The TypeInfo represents a type referenced from Element or Attr nodes specified in the schemas associated with the document
 type: docs
-weight: 2540
+
 url: /java/com.aspose.html.dom/typeinfo/
 ---
 ## TypeInfo class
@@ -40,5 +40,5 @@ public class TypeInfo : DOMObject
 ### See Also
 
 * class [DOMObject](../domobject/)
-* package [com.aspose.html.Dom](../../com.aspose.html.dom/)
+* package [com.aspose.html.dom](../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../)

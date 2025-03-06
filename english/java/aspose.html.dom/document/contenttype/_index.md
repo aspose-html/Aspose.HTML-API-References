@@ -3,7 +3,7 @@ title: Document.ContentType
 second_title: Aspose.HTML for Java API Reference
 description: Document property. Gets the document content type
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom/document/contenttype/
 ---
 ## Document.ContentType property
@@ -21,5 +21,5 @@ The type of the content.
 ### See Also
 
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

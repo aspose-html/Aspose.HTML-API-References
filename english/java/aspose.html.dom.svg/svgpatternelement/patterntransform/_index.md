@@ -3,7 +3,7 @@ title: SVGPatternElement.PatternTransform
 second_title: Aspose.HTML for Java API Reference
 description: SVGPatternElement property. Corresponds to attribute patternTransform on the given pattern element
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg/svgpatternelement/patterntransform/
 ---
 ## SVGPatternElement.PatternTransform property
@@ -22,5 +22,5 @@ The attribute ‘patternTransform’ of the given ‘pattern’ element.
 
 * class [SVGAnimatedTransformList](../../../com.aspose.html.dom.svg.datatypes/svganimatedtransformlist/)
 * class [SVGPatternElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpatternelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

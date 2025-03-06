@@ -3,7 +3,7 @@ title: SVGFEDropShadowElement.SetStdDeviation
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEDropShadowElement method. Sets the values for attribute stdDeviation
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.dom.svg.filters/svgfedropshadowelement/setstddeviation/
 ---
 ## SVGFEDropShadowElement.SetStdDeviation method
@@ -28,5 +28,5 @@ public void SetStdDeviation(float stdDeviationX, float stdDeviationY)
 ### See Also
 
 * class [SVGFEDropShadowElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfedropshadowelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

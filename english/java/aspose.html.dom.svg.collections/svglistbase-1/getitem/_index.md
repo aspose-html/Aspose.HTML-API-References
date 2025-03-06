@@ -3,7 +3,7 @@ title: SVGListBase-1.GetItem
 second_title: Aspose.HTML for Java API Reference
 description: SVGListBase method. Returns the specified item from the list
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.svg.collections/svglistbase-1/getitem/
 ---
 ## SVGListBase&lt;T&gt;.GetItem method
@@ -31,5 +31,5 @@ The selected item.
 ### See Also
 
 * class [SVGListBase&lt;T&gt;](../)
-* package [com.aspose.html.Dom.Svg.Collections](../../svglistbase-1/)
+* package [com.aspose.html.dom.svg.collections](../../../com.aspose.html.dom.svg.collections/)
 * package [Aspose.HTML](../../../)

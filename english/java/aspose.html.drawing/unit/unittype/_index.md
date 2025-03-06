@@ -3,7 +3,7 @@ title: Unit.UnitType
 second_title: Aspose.HTML for Java API Reference
 description: Unit property. Gets the unit type of the Unit
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/unit/unittype/
 ---
 ## Unit.UnitType property
@@ -22,5 +22,5 @@ The type of the unit.
 
 * class [UnitType](../../unittype/)
 * class [Unit](../)
-* package [com.aspose.html.Drawing](../../unit/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

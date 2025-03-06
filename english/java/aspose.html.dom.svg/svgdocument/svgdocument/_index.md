@@ -3,7 +3,7 @@ title: SVGDocument
 second_title: Aspose.HTML for Java API Reference
 description: SVGDocument constructor. Initializes a new instance of the SVGDocument class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgdocument/svgdocument/
 ---
 ## SVGDocument() {#constructor}
@@ -17,7 +17,7 @@ public SVGDocument()
 ### See Also
 
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,7 +38,7 @@ public SVGDocument(Configuration configuration)
 
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -58,7 +58,7 @@ public SVGDocument(String address)
 ### See Also
 
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -79,7 +79,7 @@ public SVGDocument(Url url)
 
 * class [Url](../../../com.aspose.html/url/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -101,7 +101,7 @@ public SVGDocument(String address, Configuration configuration)
 
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -124,7 +124,7 @@ public SVGDocument(Url url, Configuration configuration)
 * class [Url](../../../com.aspose.html/url/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -151,7 +151,7 @@ public SVGDocument(Stream content, String baseUri)
 ### See Also
 
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -180,7 +180,7 @@ public SVGDocument(Stream content, String baseUri, Configuration configuration)
 
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -208,7 +208,7 @@ public SVGDocument(Stream content, Url baseUri)
 
 * class [Url](../../../com.aspose.html/url/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -238,7 +238,7 @@ public SVGDocument(Stream content, Url baseUri, Configuration configuration)
 * class [Url](../../../com.aspose.html/url/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -265,7 +265,7 @@ public SVGDocument(String content, String baseUri)
 ### See Also
 
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -294,7 +294,7 @@ public SVGDocument(String content, String baseUri, Configuration configuration)
 
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -322,7 +322,7 @@ public SVGDocument(String content, Url baseUri)
 
 * class [Url](../../../com.aspose.html/url/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -352,7 +352,7 @@ public SVGDocument(String content, Url baseUri, Configuration configuration)
 * class [Url](../../../com.aspose.html/url/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -373,7 +373,7 @@ public SVGDocument(RequestMessage request)
 
 * class [RequestMessage](../../../com.aspose.html.net/requestmessage/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -396,5 +396,5 @@ public SVGDocument(RequestMessage request, Configuration configuration)
 * class [RequestMessage](../../../com.aspose.html.net/requestmessage/)
 * class [Configuration](../../../com.aspose.html/configuration/)
 * class [SVGDocument](../)
-* package [com.aspose.html.Dom.Svg](../../svgdocument/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

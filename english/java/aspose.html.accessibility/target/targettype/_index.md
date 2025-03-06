@@ -3,7 +3,7 @@ title: Target.TargetType
 second_title: Aspose.HTML for Java API Reference
 description: Target property. Returns the type of the contained object
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.accessibility/target/targettype/
 ---
 ## Target.TargetType property
@@ -22,5 +22,5 @@ The type of the TargetTypes.
 
 * enum [TargetTypes](../../targettypes/)
 * class [Target](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: MutationObserverInit.Add
 second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit method. 
 type: docs
-weight: 140
+
 url: /java/com.aspose.html.dom.mutations/mutationobserverinit/add/
 ---
 ## Add(KeyValuePair&lt;String, object&gt;) {#add}
@@ -15,7 +15,7 @@ public void Add(KeyValuePair<String, object> item)
 ### See Also
 
 * class [MutationObserverInit](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserverinit/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -36,5 +36,5 @@ public void Add(String key, object value)
 ### See Also
 
 * class [MutationObserverInit](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserverinit/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

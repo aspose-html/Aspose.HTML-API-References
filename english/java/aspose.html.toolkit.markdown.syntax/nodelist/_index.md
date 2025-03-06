@@ -1,9 +1,9 @@
 ---
 title: NodeList Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.NodeList class. Base implementation of the NodeList
+description: com.aspose.html.toolkit.markdown.syntax.NodeList class. Base implementation of the NodeList
 type: docs
-weight: 5270
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/nodelist/
 ---
 ## NodeList class
@@ -32,5 +32,5 @@ public abstract class NodeList : NodeList<MarkdownSyntaxNode>
 
 * class [NodeList&lt;T&gt;](../nodelist-1/)
 * class [MarkdownSyntaxNode](../markdownsyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

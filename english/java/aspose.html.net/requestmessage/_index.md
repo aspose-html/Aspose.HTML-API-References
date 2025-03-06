@@ -1,9 +1,9 @@
 ---
 title: RequestMessage Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Net.RequestMessage class. Represents a request message
+description: com.aspose.html.net.RequestMessage class. Represents a request message
 type: docs
-weight: 4070
+
 url: /java/com.aspose.html.net/requestmessage/
 ---
 ## RequestMessage class
@@ -49,5 +49,5 @@ public class RequestMessage : IDisposable
 
 ### See Also
 
-* package [com.aspose.html.Net](../../com.aspose.html.net/)
+* package [com.aspose.html.net](../../com.aspose.html.net/)
 * package [Aspose.HTML](../../)

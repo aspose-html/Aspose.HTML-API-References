@@ -3,7 +3,7 @@ title: Node.BaseURI
 second_title: Aspose.HTML for Java API Reference
 description: Node property. The read-only baseURI property of the Node interface returns the absolute base URL of the document containing the node
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom/node/baseuri/
 ---
 ## Node.BaseURI property
@@ -29,5 +29,5 @@ Reference:
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

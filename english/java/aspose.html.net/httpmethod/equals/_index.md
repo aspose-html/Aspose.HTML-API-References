@@ -3,7 +3,7 @@ title: HttpMethod.Equals
 second_title: Aspose.HTML for Java API Reference
 description: HttpMethod method. Indicates whether the current object is equal to another object of the same type
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.net/httpmethod/equals/
 ---
 ## Equals(HttpMethod) {#equals}
@@ -25,7 +25,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 ### See Also
 
 * class [HttpMethod](../)
-* package [com.aspose.html.Net](../../httpmethod/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -49,5 +49,5 @@ public bool Equals(object obj)
 ### See Also
 
 * class [HttpMethod](../)
-* package [com.aspose.html.Net](../../httpmethod/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

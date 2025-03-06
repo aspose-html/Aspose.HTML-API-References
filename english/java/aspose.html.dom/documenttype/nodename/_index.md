@@ -3,7 +3,7 @@ title: DocumentType.NodeName
 second_title: Aspose.HTML for Java API Reference
 description: DocumentType property. The name of this node depending on its type
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom/documenttype/nodename/
 ---
 ## DocumentType.NodeName property
@@ -21,5 +21,5 @@ The name of the node.
 ### See Also
 
 * class [DocumentType](../)
-* package [com.aspose.html.Dom](../../documenttype/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

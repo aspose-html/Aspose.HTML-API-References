@@ -1,9 +1,9 @@
 ---
 title: MarkdownSyntaxTree Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.MarkdownSyntaxTree class. Represent the Markdown Syntax Tree
+description: com.aspose.html.toolkit.markdown.syntax.MarkdownSyntaxTree class. Represent the Markdown Syntax Tree
 type: docs
-weight: 5220
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/
 ---
 ## MarkdownSyntaxTree class
@@ -61,5 +61,5 @@ public class MarkdownSyntaxTree : MarkdownSyntaxNode
 ### See Also
 
 * class [MarkdownSyntaxNode](../markdownsyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

@@ -3,7 +3,7 @@ title: Numeric.CompareTo
 second_title: Aspose.HTML for Java API Reference
 description: Numeric method. Compares the current instance with another object of the same type and returns an integer that indicates whether the current instance precedes follows or occurs in the same position in the sort order as the other object
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.drawing/numeric/compareto/
 ---
 ## Numeric.CompareTo method
@@ -32,5 +32,5 @@ A value that indicates the relative order of the objects being compared.
 ### See Also
 
 * class [Numeric](../)
-* package [com.aspose.html.Drawing](../../numeric/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

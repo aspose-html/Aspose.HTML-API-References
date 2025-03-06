@@ -3,7 +3,7 @@ title: HTMLSaveOptions.AUTO
 second_title: Aspose.HTML for Java API Reference
 description: HTMLSaveOptions field. The output document type will be selected automatically
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.saving/htmlsaveoptions/auto/
 ---
 ## HTMLSaveOptions.AUTO field
@@ -17,5 +17,5 @@ public const byte AUTO;
 ### See Also
 
 * class [HTMLSaveOptions](../)
-* package [com.aspose.html.Saving](../../htmlsaveoptions/)
+* package [com.aspose.html.saving](../../../com.aspose.html.saving/)
 * package [Aspose.HTML](../../../)

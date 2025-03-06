@@ -3,7 +3,7 @@ title: IBrowsingContext.ActiveDocument
 second_title: Aspose.HTML for Java API Reference
 description: IBrowsingContext property. Gets the current document
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom/ibrowsingcontext/activedocument/
 ---
 ## IBrowsingContext.ActiveDocument property
@@ -22,5 +22,5 @@ The active document.
 
 * class [Document](../../document/)
 * interface [IBrowsingContext](../)
-* package [com.aspose.html.Dom](../../ibrowsingcontext/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

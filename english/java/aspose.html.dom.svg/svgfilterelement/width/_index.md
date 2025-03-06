@@ -3,7 +3,7 @@ title: SVGFilterElement.Width
 second_title: Aspose.HTML for Java API Reference
 description: SVGFilterElement property. Corresponds to attribute width on the given filter element
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg/svgfilterelement/width/
 ---
 ## SVGFilterElement.Width property
@@ -22,5 +22,5 @@ The attribute ‘width’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGFilterElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgfilterelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

@@ -1,9 +1,9 @@
 ---
 title: UIEvent Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Events.UIEvent class. The UIEvent interface provides specific contextual information associated with User Interface events
+description: com.aspose.html.dom.events.UIEvent class. The UIEvent interface provides specific contextual information associated with User Interface events
 type: docs
-weight: 860
+
 url: /java/com.aspose.html.dom.events/uievent/
 ---
 ## UIEvent class
@@ -50,5 +50,5 @@ public class UIEvent : Event
 ### See Also
 
 * class [Event](../event/)
-* package [com.aspose.html.Dom.Events](../../com.aspose.html.dom.events/)
+* package [com.aspose.html.dom.events](../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../)

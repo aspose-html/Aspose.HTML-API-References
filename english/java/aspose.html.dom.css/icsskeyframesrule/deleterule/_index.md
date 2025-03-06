@@ -3,7 +3,7 @@ title: ICSSKeyframesRule.DeleteRule
 second_title: Aspose.HTML for Java API Reference
 description: ICSSKeyframesRule method. The deleteRule method deletes the CSSKeyframeRule with the passed key. If a rule with this key does not exist the method does nothing
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.css/icsskeyframesrule/deleterule/
 ---
 ## ICSSKeyframesRule.DeleteRule method
@@ -21,5 +21,5 @@ public void DeleteRule(String key)
 ### See Also
 
 * interface [ICSSKeyframesRule](../)
-* package [com.aspose.html.Dom.Css](../../icsskeyframesrule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

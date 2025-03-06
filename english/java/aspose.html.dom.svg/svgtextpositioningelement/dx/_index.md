@@ -3,7 +3,7 @@ title: SVGTextPositioningElement.Dx
 second_title: Aspose.HTML for Java API Reference
 description: SVGTextPositioningElement property. Corresponds to attribute dx on the given element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgtextpositioningelement/dx/
 ---
 ## SVGTextPositioningElement.Dx property
@@ -22,5 +22,5 @@ The attribute ‘dx’ of the given element.
 
 * class [SVGAnimatedLengthList](../../../com.aspose.html.dom.svg.datatypes/svganimatedlengthlist/)
 * class [SVGTextPositioningElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgtextpositioningelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

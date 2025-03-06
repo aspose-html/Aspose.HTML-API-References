@@ -1,9 +1,9 @@
 ---
 title: SVGRenderingIntent Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.SVGRenderingIntent enum. The SVGRenderingIntent enumeration defines the enumerated list of possible values for rendering-intent attributes or descriptors
+description: com.aspose.html.dom.svg.SVGRenderingIntent enum. The SVGRenderingIntent enumeration defines the enumerated list of possible values for rendering-intent attributes or descriptors
 type: docs
-weight: 2260
+
 url: /java/com.aspose.html.dom.svg/svgrenderingintent/
 ---
 ## SVGRenderingIntent enumeration
@@ -27,5 +27,5 @@ public enum SVGRenderingIntent
 
 ### See Also
 
-* package [com.aspose.html.Dom.Svg](../../com.aspose.html.dom.svg/)
+* package [com.aspose.html.dom.svg](../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../)

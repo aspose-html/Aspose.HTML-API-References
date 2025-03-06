@@ -3,7 +3,7 @@ title: MarkdownParser.Parse
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownParser method. Parse an TextReader
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/
 ---
 ## Parse(TextReader) {#parse_1}
@@ -26,7 +26,7 @@ The Markdown syntax tree.
 
 * class [MarkdownSyntaxTree](../../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/)
 * class [MarkdownParser](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../markdownparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -51,7 +51,7 @@ The Markdown syntax tree.
 
 * class [MarkdownSyntaxTree](../../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/)
 * class [MarkdownParser](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../markdownparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -76,5 +76,5 @@ The Markdown syntax tree.
 
 * class [MarkdownSyntaxTree](../../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/)
 * class [MarkdownParser](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../markdownparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

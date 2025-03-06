@@ -3,7 +3,7 @@ title: MarkdownParser.ParseFile
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownParser method. Parse an file
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownparser/parsefile/
 ---
 ## MarkdownParser.ParseFile method
@@ -26,5 +26,5 @@ The Markdown syntax tree.
 
 * class [MarkdownSyntaxTree](../../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/)
 * class [MarkdownParser](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../markdownparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

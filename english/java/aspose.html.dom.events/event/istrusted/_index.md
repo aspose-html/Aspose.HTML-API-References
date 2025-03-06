@@ -3,7 +3,7 @@ title: Event.IsTrusted
 second_title: Aspose.HTML for Java API Reference
 description: Event property. The isTrusted attribute must return the value it was initialized to. When an event is created the attribute must be initialized to false
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.events/event/istrusted/
 ---
 ## Event.IsTrusted property
@@ -21,5 +21,5 @@ public bool IsTrusted { get; }
 ### See Also
 
 * class [Event](../)
-* package [com.aspose.html.Dom.Events](../../event/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

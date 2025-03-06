@@ -3,7 +3,7 @@ title: SVGTextContentElement.LengthAdjust
 second_title: Aspose.HTML for Java API Reference
 description: SVGTextContentElement property. Corresponds to attribute lengthAdjust on the given element. The value must be one of the length adjust constants defined on this interface
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgtextcontentelement/lengthadjust/
 ---
 ## SVGTextContentElement.LengthAdjust property
@@ -22,5 +22,5 @@ The attribute ‘lengthAdjust’ of the given element
 
 * class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGTextContentElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgtextcontentelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

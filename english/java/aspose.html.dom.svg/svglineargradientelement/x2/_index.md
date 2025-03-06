@@ -3,7 +3,7 @@ title: SVGLinearGradientElement.X2
 second_title: Aspose.HTML for Java API Reference
 description: SVGLinearGradientElement property. Corresponds to attribute x2 on the given linearGradient element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svglineargradientelement/x2/
 ---
 ## SVGLinearGradientElement.X2 property
@@ -22,5 +22,5 @@ The attribute ‘x2’ of the given ‘linearGradient’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGLinearGradientElement](../)
-* package [com.aspose.html.Dom.Svg](../../svglineargradientelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

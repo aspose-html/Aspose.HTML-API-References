@@ -1,9 +1,9 @@
 ---
 title: InlineParsingInstruction Struct
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.InlineParsingInstruction struct. Defines the InlineParsingInstruction struct
+description: com.aspose.html.toolkit.markdown.syntax.parser.InlineParsingInstruction struct. Defines the InlineParsingInstruction struct
 type: docs
-weight: 5440
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/
 ---
 ## InlineParsingInstruction structure
@@ -39,5 +39,5 @@ public struct InlineParsingInstruction : IEquatable<InlineParsingInstruction>
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../)

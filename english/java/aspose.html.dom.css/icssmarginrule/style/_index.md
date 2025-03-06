@@ -3,7 +3,7 @@ title: ICSSMarginRule.Style
 second_title: Aspose.HTML for Java API Reference
 description: ICSSMarginRule property. The style attribute must return a CSSStyleDeclaration object for the margin at-rule
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.css/icssmarginrule/style/
 ---
 ## ICSSMarginRule.Style property
@@ -22,5 +22,5 @@ Returns a [`CSSStyleDeclaration`](../../icssstyledeclaration/) object for the cu
 
 * interface [ICSSStyleDeclaration](../../icssstyledeclaration/)
 * interface [ICSSMarginRule](../)
-* package [com.aspose.html.Dom.Css](../../icssmarginrule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

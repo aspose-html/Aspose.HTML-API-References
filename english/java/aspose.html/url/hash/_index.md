@@ -3,7 +3,7 @@ title: Url.Hash
 second_title: Aspose.HTML for Java API Reference
 description: Url property. Gets or sets a String representation for the specified URL hash segment
 type: docs
-weight: 20
+
 url: /java/com.aspose.html/url/hash/
 ---
 ## Url.Hash property
@@ -21,5 +21,5 @@ The hash.
 ### See Also
 
 * class [Url](../)
-* package [com.aspose.html](../../url/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

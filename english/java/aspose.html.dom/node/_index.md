@@ -1,9 +1,9 @@
 ---
 title: Node Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Node class. The Node interface is the primary datatype for the entire Document Object Model. It represents a single node in the document tree. While all objects implementing the Node interface expose methods for dealing with children not all objects implementing the Node interface may have children. For example Text nodes may not have children and adding children to such nodes results in a DOMException being raised
+description: com.aspose.html.dom.Node class. The Node interface is the primary datatype for the entire Document Object Model. It represents a single node in the document tree. While all objects implementing the Node interface expose methods for dealing with children not all objects implementing the Node interface may have children. For example Text nodes may not have children and adding children to such nodes results in a DOMException being raised
 type: docs
-weight: 1010
+
 url: /java/com.aspose.html.dom/node/
 ---
 ## Node class
@@ -20,7 +20,6 @@ public abstract class Node : EventTarget, IXPathNSResolver
 
 | Name | Description |
 | --- | --- |
-| [getAttributes](../../com.aspose.html.dom/node/attributes/) The attributes property returns a live collection of all attribute nodes registered to the specified node. Attributes is a key/value pair of Strings that represents any information regarding that attribute. |
 | [getBaseURI](../../com.aspose.html.dom/node/baseuri/) The read-only baseURI property of the Node interface returns the absolute base URL of the document containing the node. |
 | [getChildNodes](../../com.aspose.html.dom/node/childnodes/) The read-only childNodes property of the Node interface returns a live [`NodeList`](../../com.aspose.html.collections/nodelist/) of child nodes of the given element where the first child node is assigned index 0. Child nodes include elements, text and comments. |
 | [getFirstChild](../../com.aspose.html.dom/node/firstchild/) The read-only firstChild property of the `Node` interface returns the node's first child in the tree, or null if the node has no children. |
@@ -30,31 +29,27 @@ public abstract class Node : EventTarget, IXPathNSResolver
 | [getNextSibling](../../com.aspose.html.dom/node/nextsibling/) The read-only nextSibling property of the `Node` interface returns the node immediately following the specified one in their parent's [`childNodes`](./childnodes/), or returns null if the specified node is the last child in the parent element. |
 | abstract [getNodeName](../../com.aspose.html.dom/node/nodename/) The read-only nodeName property of Node returns the name of the current node as a String. |
 | abstract [getNodeType](../../com.aspose.html.dom/node/nodetype/) A code representing the type of the underlying object. |
-[getNodeValue]
-[setNodeValue] The nodeValue property of the `Node `interface returns or sets the value of the current node. |
+| [nodeValue](../../com.aspose.html.dom/node/nodevalue/) { get; set; } | The nodeValue property of the `Node `interface returns or sets the value of the current node. |
 | [getOwnerDocument](../../com.aspose.html.dom/node/ownerdocument/) The read-only ownerDocument property of the Node interface returns the top-level document object of the node. |
 | [getParentElement](../../com.aspose.html.dom/node/parentelement/) The read-only parentElement property of `Node` interface returns the DOM node's parent [`Element`](../element/), or null if the node either has no parent, or its parent isn't a DOM Element. |
 | [getParentNode](../../com.aspose.html.dom/node/parentnode/) The read-only parentNode property of the Node interface returns the parent of the specified node in the DOM tree. |
-[getPrefix]
-[setPrefix] The prefix read-only property returns the package prefix of the specified element, or null if no prefix is specified. |
+| [prefix](../../com.aspose.html.dom/node/prefix/) { get; set; } | The prefix read-only property returns the package prefix of the specified element, or null if no prefix is specified. |
 | [getPreviousSibling](../../com.aspose.html.dom/node/previoussibling/) The read-only previousSibling property of the `Node` interface returns the node immediately preceding the specified one in its parent's [`childNodes`](./firstchild/) list, or null if the specified node is the first in that list. |
-[getTextContent]
-[setTextContent] The textContent property of the `Node` interface represents the text content of the node and its descendants. |
+| [textContent](../../com.aspose.html.dom/node/textcontent/) { get; set; } | The textContent property of the `Node` interface represents the text content of the node and its descendants. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener) | The addEventListener() method of the [`EventTarget `](../eventtarget/)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
 | [appendChild](../../com.aspose.html.dom/node/appendchild/)(Node) | The appendChild() method of the Node interface adds a node to the end of the list of children of a specified parent node. If the given child is a reference to an existing node in the document, appendChild() moves it from its current position to the new position (there is no requirement to remove the node from its parent node before appending it to some other node). |
 | [cloneNode](../../com.aspose.html.dom/node/clonenode/#clonenode)() | The cloneNode() method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not. |
 | [cloneNode](../../com.aspose.html.dom/node/clonenode/#clonenode_1)(bool) | The cloneNode() method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not. |
 | [dispatchEvent](../../com.aspose.html.dom/eventtarget/dispatchevent/)(Event) | Dispatches an Event at the specified [`EventTarget`](../../com.aspose.html.dom.events/ieventtarget/), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`dispatchEvent()`](../../com.aspose.html.dom.events/ieventtarget/dispatchevent/). |
 | [dispose](../../com.aspose.html.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| [hasAttributes](../../com.aspose.html.dom/node/hasattributes/)() | The hasAttributes() method of the [`Element`](../element/) interface returns a boolean value indicating whether the current element has any attributes or not. |
 | [hasChildNodes](../../com.aspose.html.dom/node/haschildnodes/)() | The hasChildNodes() method of the Node interface returns a boolean value indicating whether the given `Node` has child nodes or not. |
 | [insertBefore](../../com.aspose.html.dom/node/insertbefore/)(Node, Node) | The insertBefore() method of the Node interface inserts a node before a reference node as a child of a specified parent node. |
 | [isDefaultNamespace](../../com.aspose.html.dom/node/isdefaultpackage/)(String) | The isDefaultNamespace() method of the Node interface accepts a package URI as an argument. It returns a boolean value that is true if the package is the default package on the given node and false if not. |
@@ -97,5 +92,5 @@ Reference:
 
 * class [EventTarget](../eventtarget/)
 * interface [IXPathNSResolver](../../com.aspose.html.dom.xpath/ixpathnsresolver/)
-* package [com.aspose.html.Dom](../../com.aspose.html.dom/)
+* package [com.aspose.html.dom](../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../)

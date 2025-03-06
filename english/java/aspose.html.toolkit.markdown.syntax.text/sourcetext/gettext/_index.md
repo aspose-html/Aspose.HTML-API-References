@@ -3,7 +3,7 @@ title: SourceText.GetText
 second_title: Aspose.HTML for Java API Reference
 description: SourceText method. Define the interface for get Text
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/gettext/
 ---
 ## GetText() {#gettext}
@@ -21,7 +21,7 @@ The SourceText.
 ### See Also
 
 * class [SourceText](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../sourcetext/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -46,7 +46,7 @@ The SourceText.
 
 * struct [TextSpan](../../textspan/)
 * class [SourceText](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../sourcetext/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -76,5 +76,5 @@ The SourceText.
 ### See Also
 
 * class [SourceText](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../sourcetext/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../../)

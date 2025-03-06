@@ -3,7 +3,7 @@ title: SVGScriptElement.Href
 second_title: Aspose.HTML for Java API Reference
 description: SVGScriptElement property. Corresponds to attribute xlinkhref on the given element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svgscriptelement/href/
 ---
 ## SVGScriptElement.Href property
@@ -22,5 +22,5 @@ The ‘xlink:href’ of the given element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGScriptElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgscriptelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

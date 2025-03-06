@@ -3,7 +3,7 @@ title: Element.SetAttributeNS
 second_title: Aspose.HTML for Java API Reference
 description: Element method. Adds a new attribute. If an attribute with the same local name and package URI is already present on the element its prefix is changed to be the prefix part of the qualifiedName and its value is changed to be the value parameter
 type: docs
-weight: 430
+
 url: /java/com.aspose.html.dom/element/setattributens/
 ---
 ## Element.SetAttributeNS method
@@ -23,5 +23,5 @@ public void SetAttributeNS(String packageURI, String qualifiedName, String value
 ### See Also
 
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

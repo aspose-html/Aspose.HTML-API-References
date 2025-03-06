@@ -3,7 +3,7 @@ title: ResponseHeaders
 second_title: Aspose.HTML for Java API Reference
 description: ResponseHeaders constructor. Initializes a new instance of the RequestHeaders class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.net/responseheaders/responseheaders/
 ---
 ## ResponseHeaders constructor
@@ -17,5 +17,5 @@ public ResponseHeaders()
 ### See Also
 
 * class [ResponseHeaders](../)
-* package [com.aspose.html.Net](../../responseheaders/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

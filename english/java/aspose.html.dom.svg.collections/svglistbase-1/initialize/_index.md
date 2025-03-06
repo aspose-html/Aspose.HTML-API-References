@@ -3,7 +3,7 @@ title: SVGListBase-1.Initialize
 second_title: Aspose.HTML for Java API Reference
 description: SVGListBase method. Clears all existing current items from the list and re-initializes the list to hold the single item specified by the parameter
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.dom.svg.collections/svglistbase-1/initialize/
 ---
 ## SVGListBase&lt;T&gt;.Initialize method
@@ -31,5 +31,5 @@ The item being inserted into the list.
 ### See Also
 
 * class [SVGListBase&lt;T&gt;](../)
-* package [com.aspose.html.Dom.Svg.Collections](../../svglistbase-1/)
+* package [com.aspose.html.dom.svg.collections](../../../com.aspose.html.dom.svg.collections/)
 * package [Aspose.HTML](../../../)

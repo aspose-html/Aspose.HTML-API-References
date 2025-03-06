@@ -1,9 +1,9 @@
 ---
 title: SVGException Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.SVGException class. This exception is raised when a specific SVG operation is impossible to perform
+description: com.aspose.html.dom.svg.SVGException class. This exception is raised when a specific SVG operation is impossible to perform
 type: docs
-weight: 2060
+
 url: /java/com.aspose.html.dom.svg/svgexception/
 ---
 ## SVGException class
@@ -37,5 +37,5 @@ public class SVGException : PlatformException
 ### See Also
 
 * class [PlatformException](../../com.aspose.html/platformexception/)
-* package [com.aspose.html.Dom.Svg](../../com.aspose.html.dom.svg/)
+* package [com.aspose.html.dom.svg](../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../)

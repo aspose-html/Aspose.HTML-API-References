@@ -3,7 +3,7 @@ title: Uint32Array Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Uint32Array class. Represents an array of twos-complement 32-bit unsigned integers in the platform byte order
 type: docs
-weight: 5810
+
 url: /java/com.aspose.html/uint32array/
 ---
 ## Uint32Array class
@@ -31,8 +31,7 @@ public class Uint32Array : TypedArray<uint>
 | [getBuffer](../../com.aspose.html/typedarray/buffer/) Gets the ArrayBuffer referenced by this instance. |
 | [getByteLength](../../com.aspose.html/typedarray/bytelength/) Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes. |
 | [getByteOffset](../../com.aspose.html/typedarray/byteoffset/) Gets the byteOffset from the start of referenced ArrayBuffer. |
-[getItem]
-[setItem] Gets or sets the UInt32 at the specified index. |
+| [item](../../com.aspose.html/uint32array/item/) { get; set; } | Gets or sets the UInt32 at the specified index. |
 | [getLength](../../com.aspose.html/typedarray/length/) Gets the length of a typed array. |
 
 ## Methods

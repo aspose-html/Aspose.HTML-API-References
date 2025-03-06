@@ -3,7 +3,7 @@ title: InlineLinkSyntaxNode.GetTitle
 second_title: Aspose.HTML for Java API Reference
 description: InlineLinkSyntaxNode method. Defines the interface for get title
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/inlinelinksyntaxnode/gettitle/
 ---
 ## InlineLinkSyntaxNode.GetTitle method
@@ -22,5 +22,5 @@ The LinkTitleSyntax.
 
 * class [LinkTitleSyntaxNode](../../linktitlesyntaxnode/)
 * class [InlineLinkSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../inlinelinksyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

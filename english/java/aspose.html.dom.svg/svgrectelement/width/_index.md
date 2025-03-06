@@ -3,7 +3,7 @@ title: SVGRectElement.Width
 second_title: Aspose.HTML for Java API Reference
 description: SVGRectElement property. Corresponds to attribute width on the given rect element
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg/svgrectelement/width/
 ---
 ## SVGRectElement.Width property
@@ -22,5 +22,5 @@ The attribute ‘width’ of the given ‘rect’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGRectElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgrectelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

@@ -1,9 +1,9 @@
 ---
 title: InputElement Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Forms.InputElement class. The InputElement represents a wrapper that is associated with the HTMLInputElement
+description: com.aspose.html.forms.InputElement class. The InputElement represents a wrapper that is associated with the HTMLInputElement
 type: docs
-weight: 2990
+
 url: /java/com.aspose.html.forms/inputelement/
 ---
 ## InputElement class
@@ -20,15 +20,12 @@ public class InputElement : FormElement<HTMLInputElement>
 | --- | --- |
 | [getElementType](../../com.aspose.html.forms/formelement/elementtype/) Gets the type of the element. |
 | [getHtmlElement](../../com.aspose.html.forms/formelement-1/htmlelement/)  |
-[getId]
-[setId] Represents the Id attribute of the input element. |
+| [id](../../com.aspose.html.forms/inputelement/id/) { get; set; } | Represents the Id attribute of the input element. |
 | [getList](../../com.aspose.html.forms/inputelement/list/) Represents a list of options |
-[getName]
-[setName] Represent the name attribute of the input element. |
+| [name](../../com.aspose.html.forms/inputelement/name/) { get; set; } | Represent the name attribute of the input element. |
 [getType]
 [setType] Type of the form control. |
-[getValue]
-[setValue] Represents the String value of the input element that is directly mapped to the 'value' attribute. |
+| [value](../../com.aspose.html.forms/inputelement/value/) { get; set; } | Represents the String value of the input element that is directly mapped to the 'value' attribute. |
 
 ## Methods
 
@@ -64,5 +61,5 @@ public class InputElement : FormElement<HTMLInputElement>
 
 * class [FormElement&lt;T&gt;](../formelement-1/)
 * class [HTMLInputElement](../../com.aspose.html/htmlinputelement/)
-* package [com.aspose.html.Forms](../../com.aspose.html.forms/)
+* package [com.aspose.html.forms](../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../)

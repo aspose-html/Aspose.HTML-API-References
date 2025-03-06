@@ -3,7 +3,7 @@ title: UnorderedListSyntaxNode.GetMarker
 second_title: Aspose.HTML for Java API Reference
 description: UnorderedListSyntaxNode method. Defines the interface to get of the marker
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/unorderedlistsyntaxnode/getmarker/
 ---
 ## UnorderedListSyntaxNode.GetMarker method
@@ -21,5 +21,5 @@ The String value.
 ### See Also
 
 * class [UnorderedListSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../unorderedlistsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

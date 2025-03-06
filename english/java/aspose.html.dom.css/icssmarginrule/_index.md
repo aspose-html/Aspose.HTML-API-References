@@ -1,9 +1,9 @@
 ---
 title: ICSSMarginRule Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Css.ICSSMarginRule interface. The CSSMarginRule interface represents a margin at-rule e.g. top-left in an page at-rule
+description: com.aspose.html.dom.css.ICSSMarginRule interface. The CSSMarginRule interface represents a margin at-rule e.g. top-left in an page at-rule
 type: docs
-weight: 450
+
 url: /java/com.aspose.html.dom.css/icssmarginrule/
 ---
 ## ICSSMarginRule interface
@@ -24,5 +24,5 @@ public interface ICSSMarginRule : ICSSRule
 ### See Also
 
 * interface [ICSSRule](../icssrule/)
-* package [com.aspose.html.Dom.Css](../../com.aspose.html.dom.css/)
+* package [com.aspose.html.dom.css](../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../)

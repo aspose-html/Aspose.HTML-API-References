@@ -3,7 +3,7 @@ title: Metered.GetConsumptionCredit
 second_title: Aspose.HTML for Java API Reference
 description: Metered method. Gets consumption credit
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/metered/getconsumptioncredit/
 ---
 ## Metered.GetConsumptionCredit method
@@ -21,5 +21,5 @@ consumption quantity
 ### See Also
 
 * class [Metered](../)
-* package [com.aspose.html](../../metered/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

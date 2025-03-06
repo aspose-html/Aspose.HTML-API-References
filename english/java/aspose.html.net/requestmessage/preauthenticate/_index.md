@@ -3,7 +3,7 @@ title: RequestMessage.PreAuthenticate
 second_title: Aspose.HTML for Java API Reference
 description: RequestMessage property. Gets or sets a value that indicates whether to send an Authorization header with the request
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.net/requestmessage/preauthenticate/
 ---
 ## RequestMessage.PreAuthenticate property
@@ -21,5 +21,5 @@ public bool PreAuthenticate { get; set; }
 ### See Also
 
 * class [RequestMessage](../)
-* package [com.aspose.html.Net](../../requestmessage/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

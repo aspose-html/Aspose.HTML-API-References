@@ -3,7 +3,7 @@ title: SVGPathElement.CreateSVGPathSegCurvetoQuadraticAbs
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegCurvetoQuadraticAbs object
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.dom.svg/svgpathelement/createsvgpathsegcurvetoquadraticabs/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoQuadraticAbs method
@@ -30,5 +30,5 @@ A stand-alone, parentless SVGPathSegCurvetoQuadraticAbs object.
 
 * class [SVGPathSegCurvetoQuadraticAbs](../../../com.aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticabs/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

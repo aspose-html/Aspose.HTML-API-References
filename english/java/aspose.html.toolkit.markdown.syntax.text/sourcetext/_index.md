@@ -1,9 +1,9 @@
 ---
 title: SourceText Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Text.SourceText class. Base class implements the SourceText
+description: com.aspose.html.toolkit.markdown.syntax.text.SourceText class. Base class implements the SourceText
 type: docs
-weight: 5620
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/
 ---
 ## SourceText class
@@ -43,5 +43,5 @@ public abstract class SourceText : IDisposable
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../com.aspose.html.toolkit.markdown.syntax.text/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../)

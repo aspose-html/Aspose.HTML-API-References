@@ -3,7 +3,7 @@ title: SVGSymbolElement.ViewBox
 second_title: Aspose.HTML for Java API Reference
 description: SVGSymbolElement property. Corresponds to attribute viewBox on the given element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svgsymbolelement/viewbox/
 ---
 ## SVGSymbolElement.ViewBox property
@@ -22,5 +22,5 @@ The ‘viewBox’ of the given element.
 
 * class [SVGAnimatedRect](../../../com.aspose.html.dom.svg.datatypes/svganimatedrect/)
 * class [SVGSymbolElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgsymbolelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

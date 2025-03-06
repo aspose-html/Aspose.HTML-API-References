@@ -3,7 +3,7 @@ title: IBrowsingContext.DOMImplementation
 second_title: Aspose.HTML for Java API Reference
 description: IBrowsingContext property. Gets the DOM implementation
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom/ibrowsingcontext/domimplementation/
 ---
 ## IBrowsingContext.DOMImplementation property
@@ -22,5 +22,5 @@ The DOM implementation.
 
 * interface [IDOMImplementation](../../idomimplementation/)
 * interface [IBrowsingContext](../)
-* package [com.aspose.html.Dom](../../ibrowsingcontext/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

@@ -1,9 +1,9 @@
 ---
 title: StringContent Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Net.StringContent class. Represents content based on a String
+description: com.aspose.html.net.StringContent class. Represents content based on a String
 type: docs
-weight: 4110
+
 url: /java/com.aspose.html.net/Stringcontent/
 ---
 ## StringContent class
@@ -40,5 +40,5 @@ public class StringContent : ByteArrayContent
 ### See Also
 
 * class [ByteArrayContent](../bytearraycontent/)
-* package [com.aspose.html.Net](../../com.aspose.html.net/)
+* package [com.aspose.html.net](../../com.aspose.html.net/)
 * package [Aspose.HTML](../../)

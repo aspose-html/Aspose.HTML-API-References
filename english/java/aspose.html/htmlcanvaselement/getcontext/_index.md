@@ -3,7 +3,7 @@ title: HTMLCanvasElement.GetContext
 second_title: Aspose.HTML for Java API Reference
 description: HTMLCanvasElement method. Returns a drawing context on the canvas or null if the context ID is not supported. A drawing context lets you draw on the canvas
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/htmlcanvaselement/getcontext/
 ---
 ## HTMLCanvasElement.GetContext method
@@ -25,5 +25,5 @@ A RenderingContext
 ### See Also
 
 * class [HTMLCanvasElement](../)
-* package [com.aspose.html](../../htmlcanvaselement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

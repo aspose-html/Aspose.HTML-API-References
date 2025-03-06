@@ -3,7 +3,7 @@ title: SVGPoint.MatrixTransform
 second_title: Aspose.HTML for Java API Reference
 description: SVGPoint method. Applies a 2x3 matrix transformation on this SVGPoint object and returns a new transformed SVGPoint object newpoint  matrix thispoint
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgpoint/matrixtransform/
 ---
 ## SVGPoint.MatrixTransform method
@@ -26,5 +26,5 @@ A new SVGPoint object.
 
 * class [SVGMatrix](../../svgmatrix/)
 * class [SVGPoint](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgpoint/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

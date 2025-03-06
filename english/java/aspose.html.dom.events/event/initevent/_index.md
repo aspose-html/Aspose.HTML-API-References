@@ -3,7 +3,7 @@ title: Event.InitEvent
 second_title: Aspose.HTML for Java API Reference
 description: Event method. The InitEvent method is used to initialize the value of an Event created through theIDocumentEvent interface
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.dom.events/event/initevent/
 ---
 ## Event.InitEvent method
@@ -27,5 +27,5 @@ This method may only be called before the Event has been dispatched via the [`Di
 ### See Also
 
 * class [Event](../)
-* package [com.aspose.html.Dom.Events](../../event/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGFEOffsetElement.Dx
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEOffsetElement property. Corresponds to attribute dx on the given feOffset element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeoffsetelement/dx/
 ---
 ## SVGFEOffsetElement.Dx property
@@ -22,5 +22,5 @@ The attribute ‘dx’ of the given ‘feOffset’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEOffsetElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeoffsetelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

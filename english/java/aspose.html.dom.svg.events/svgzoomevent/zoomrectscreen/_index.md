@@ -3,7 +3,7 @@ title: SVGZoomEvent.ZoomRectScreen
 second_title: Aspose.HTML for Java API Reference
 description: SVGZoomEvent property. The specified zoom rectangle in screen units. The SVGRect object is read only
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg.events/svgzoomevent/zoomrectscreen/
 ---
 ## SVGZoomEvent.ZoomRectScreen property
@@ -18,5 +18,5 @@ public SVGRect ZoomRectScreen { get; }
 
 * class [SVGRect](../../../com.aspose.html.dom.svg.datatypes/svgrect/)
 * class [SVGZoomEvent](../)
-* package [com.aspose.html.Dom.Svg.Events](../../svgzoomevent/)
+* package [com.aspose.html.dom.svg.events](../../../com.aspose.html.dom.svg.events/)
 * package [Aspose.HTML](../../../)

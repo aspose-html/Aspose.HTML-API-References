@@ -1,9 +1,9 @@
 ---
 title: ContentHeaders Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Net.ContentHeaders class. Contains the headers associated with a content
+description: com.aspose.html.net.ContentHeaders class. Contains the headers associated with a content
 type: docs
-weight: 3890
+
 url: /java/com.aspose.html.net/contentheaders/
 ---
 ## ContentHeaders class
@@ -28,5 +28,5 @@ public class ContentHeaders : WebHeaderCollection
 
 ### See Also
 
-* package [com.aspose.html.Net](../../com.aspose.html.net/)
+* package [com.aspose.html.net](../../com.aspose.html.net/)
 * package [Aspose.HTML](../../)

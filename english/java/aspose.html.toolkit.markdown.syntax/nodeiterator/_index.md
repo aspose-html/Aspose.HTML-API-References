@@ -1,9 +1,9 @@
 ---
 title: NodeIterator Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.NodeIterator class. The nodes iterator
+description: com.aspose.html.toolkit.markdown.syntax.NodeIterator class. The nodes iterator
 type: docs
-weight: 5260
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/nodeiterator/
 ---
 ## NodeIterator class
@@ -35,5 +35,5 @@ public class NodeIterator : Traversal
 ### See Also
 
 * class [Traversal](../traversal/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

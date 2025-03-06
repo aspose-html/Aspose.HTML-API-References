@@ -3,7 +3,7 @@ title: HTMLDataListElement.Options
 second_title: Aspose.HTML for Java API Reference
 description: HTMLDataListElement property. The collection of OPTION elements contained by this element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/htmldatalistelement/options/
 ---
 ## HTMLDataListElement.Options property
@@ -18,5 +18,5 @@ public HTMLCollection Options { get; }
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [HTMLDataListElement](../)
-* package [com.aspose.html](../../htmldatalistelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: ICSS2Properties.Float
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. See the float property definition in CSS2
 type: docs
-weight: 460
+
 url: /java/com.aspose.html.dom.css/icss2properties/float/
 ---
 ## ICSS2Properties.Float property
@@ -21,5 +21,5 @@ float property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

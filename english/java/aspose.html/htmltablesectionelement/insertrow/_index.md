@@ -3,7 +3,7 @@ title: HTMLTableSectionElement.InsertRow
 second_title: Aspose.HTML for Java API Reference
 description: HTMLTableSectionElement method. Insert a row into this section. The new row is inserted immediately before the current indexth row in this section. If index is -1 or equal to the number of rows in this section the new row is appended
 type: docs
-weight: 70
+
 url: /java/com.aspose.html/htmltablesectionelement/insertrow/
 ---
 ## HTMLTableSectionElement.InsertRow method
@@ -32,5 +32,5 @@ The newly created row.
 
 * class [HTMLElement](../../htmlelement/)
 * class [HTMLTableSectionElement](../)
-* package [com.aspose.html](../../htmltablesectionelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

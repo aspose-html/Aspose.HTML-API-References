@@ -3,7 +3,7 @@ title: IXPathResult.NumberValue
 second_title: Aspose.HTML for Java API Reference
 description: IXPathResult property. The value of this number result
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.xpath/ixpathresult/numbervalue/
 ---
 ## IXPathResult.NumberValue property
@@ -23,5 +23,5 @@ public double NumberValue { get; }
 ### See Also
 
 * interface [IXPathResult](../)
-* package [com.aspose.html.Dom.XPath](../../ixpathresult/)
+* package [com.aspose.html.dom.xpath](../../../com.aspose.html.dom.xpath/)
 * package [Aspose.HTML](../../../)

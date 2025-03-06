@@ -3,7 +3,7 @@ title: HTMLTableElement.THead
 second_title: Aspose.HTML for Java API Reference
 description: HTMLTableElement property. Returns the tables CAPTION or void if none exists
 type: docs
-weight: 130
+
 url: /java/com.aspose.html/htmltableelement/thead/
 ---
 ## HTMLTableElement.THead property
@@ -26,5 +26,5 @@ public HTMLTableSectionElement THead { get; }
 
 * class [HTMLTableSectionElement](../../htmltablesectionelement/)
 * class [HTMLTableElement](../)
-* package [com.aspose.html](../../htmltableelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

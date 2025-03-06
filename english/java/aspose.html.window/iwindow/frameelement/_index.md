@@ -3,7 +3,7 @@ title: IWindow.FrameElement
 second_title: Aspose.HTML for Java API Reference
 description: IWindow property. The frameElement object of a Document
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.window/iwindow/frameelement/
 ---
 ## IWindow.FrameElement property
@@ -22,5 +22,5 @@ The frame element.
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * interface [IWindow](../)
-* package [com.aspose.html.Window](../../iwindow/)
+* package [com.aspose.html.window](../../../com.aspose.html.window/)
 * package [Aspose.HTML](../../../)

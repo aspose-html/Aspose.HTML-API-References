@@ -3,7 +3,7 @@ title: IUrlSearchParams.Append
 second_title: Aspose.HTML for Java API Reference
 description: IUrlSearchParams method. Appends a new name-value pair whose name is name and value is value
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/iurlsearchparams/append/
 ---
 ## IUrlSearchParams.Append method
@@ -22,5 +22,5 @@ public void Append(String name, String value)
 ### See Also
 
 * interface [IUrlSearchParams](../)
-* package [com.aspose.html](../../iurlsearchparams/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

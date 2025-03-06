@@ -3,7 +3,7 @@ title: CharacterReferenceSyntaxNode.Source
 second_title: Aspose.HTML for Java API Reference
 description: CharacterReferenceSyntaxNode property. Get the source
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/source/
 ---
 ## CharacterReferenceSyntaxNode.Source property
@@ -18,5 +18,5 @@ public SourceText Source { get; }
 
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * class [CharacterReferenceSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../characterreferencesyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

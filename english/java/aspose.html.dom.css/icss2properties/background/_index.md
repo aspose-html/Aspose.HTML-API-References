@@ -3,7 +3,7 @@ title: ICSS2Properties.Background
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The background property is a shorthand property for setting the individual background properties i.e. background-color background-image background-repeat background-attachment and background-position at the same place in the style sheet
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.css/icss2properties/background/
 ---
 ## ICSS2Properties.Background property
@@ -25,5 +25,5 @@ Gets or sets a shorthand property for setting the individual background properti
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

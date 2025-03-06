@@ -1,9 +1,9 @@
 ---
 title: ICanvasDrawingStyles Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Canvas.ICanvasDrawingStyles interface. The ICanvasDrawingStyles interface provides methods and properties control how lines are drawn and how text is laid out
+description: com.aspose.html.dom.canvas.ICanvasDrawingStyles interface. The ICanvasDrawingStyles interface provides methods and properties control how lines are drawn and how text is laid out
 type: docs
-weight: 230
+
 url: /java/com.aspose.html.dom.canvas/icanvasdrawingstyles/
 ---
 ## ICanvasDrawingStyles interface
@@ -44,5 +44,5 @@ public interface ICanvasDrawingStyles
 
 ### See Also
 
-* package [com.aspose.html.Dom.Canvas](../../com.aspose.html.dom.canvas/)
+* package [com.aspose.html.dom.canvas](../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../)

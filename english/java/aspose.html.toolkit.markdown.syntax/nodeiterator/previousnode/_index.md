@@ -3,7 +3,7 @@ title: NodeIterator.PreviousNode
 second_title: Aspose.HTML for Java API Reference
 description: NodeIterator method. Defines the interface for get the previous node
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/nodeiterator/previousnode/
 ---
 ## NodeIterator.PreviousNode method
@@ -22,5 +22,5 @@ The markdown syntax node.
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [NodeIterator](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../nodeiterator/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

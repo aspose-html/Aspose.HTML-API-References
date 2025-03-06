@@ -3,7 +3,7 @@ title: Uint32Array
 second_title: Aspose.HTML for Java API Reference
 description: Uint32Array constructor. Initializes a new instance of the Uint32Array class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/uint32array/uint32array/
 ---
 ## Uint32Array(int) {#constructor_3}
@@ -21,7 +21,7 @@ public Uint32Array(int length)
 ### See Also
 
 * class [Uint32Array](../)
-* package [com.aspose.html](../../uint32array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -41,7 +41,7 @@ public Uint32Array(uint[] data)
 ### See Also
 
 * class [Uint32Array](../)
-* package [com.aspose.html](../../uint32array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -62,7 +62,7 @@ public Uint32Array(ArrayBuffer buffer)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint32Array](../)
-* package [com.aspose.html](../../uint32array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -84,7 +84,7 @@ public Uint32Array(ArrayBuffer buffer, int byteOffset)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint32Array](../)
-* package [com.aspose.html](../../uint32array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,5 +107,5 @@ public Uint32Array(ArrayBuffer buffer, int byteOffset, int length)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint32Array](../)
-* package [com.aspose.html](../../uint32array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: IDevice.AddRect
 second_title: Aspose.HTML for Java API Reference
 description: IDevice method. Appends a rectangle to the current path as a complete subpath
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.rendering/idevice/addrect/
 ---
 ## IDevice.AddRect method
@@ -21,5 +21,5 @@ public void AddRect(RectangleF rect)
 ### See Also
 
 * interface [IDevice](../)
-* package [com.aspose.html.Rendering](../../idevice/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

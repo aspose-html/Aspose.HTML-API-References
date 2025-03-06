@@ -1,9 +1,9 @@
 ---
 title: LineBreakSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.LineBreakSyntaxNode class. Represent the LineBreakSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.LineBreakSyntaxNode class. Represent the LineBreakSyntaxNode
 type: docs
-weight: 5100
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/
 ---
 ## LineBreakSyntaxNode class
@@ -47,5 +47,5 @@ public abstract class LineBreakSyntaxNode : InlineSyntaxNode
 ### See Also
 
 * class [InlineSyntaxNode](../inlinesyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

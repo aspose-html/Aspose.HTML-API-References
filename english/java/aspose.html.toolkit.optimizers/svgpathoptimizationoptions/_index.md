@@ -1,9 +1,9 @@
 ---
 title: SVGPathOptimizationOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Optimizers.SVGPathOptimizationOptions class. SVGPathOptimizationOptions is a class for storing options for optimizing segments of SVG path elements
+description: com.aspose.html.toolkit.optimizers.SVGPathOptimizationOptions class. SVGPathOptimizationOptions is a class for storing options for optimizing segments of SVG path elements
 type: docs
-weight: 5770
+
 url: /java/com.aspose.html.toolkit.optimizers/svgpathoptimizationoptions/
 ---
 ## SVGPathOptimizationOptions class
@@ -37,5 +37,5 @@ public class SVGPathOptimizationOptions
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Optimizers](../../com.aspose.html.toolkit.optimizers/)
+* package [com.aspose.html.toolkit.optimizers](../../com.aspose.html.toolkit.optimizers/)
 * package [Aspose.HTML](../../)

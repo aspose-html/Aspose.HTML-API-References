@@ -3,7 +3,7 @@ title: StringContent
 second_title: Aspose.HTML for Java API Reference
 description: StringContent constructor. Initializes a new instance of the StringContent class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.net/Stringcontent/Stringcontent/
 ---
 ## StringContent(String) {#constructor}
@@ -21,7 +21,7 @@ public StringContent(String content)
 ### See Also
 
 * class [StringContent](../)
-* package [com.aspose.html.Net](../../Stringcontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -42,7 +42,7 @@ public StringContent(String content, Encoding encoding)
 ### See Also
 
 * class [StringContent](../)
-* package [com.aspose.html.Net](../../Stringcontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -64,5 +64,5 @@ public StringContent(String content, Encoding encoding, String mediaType)
 ### See Also
 
 * class [StringContent](../)
-* package [com.aspose.html.Net](../../Stringcontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

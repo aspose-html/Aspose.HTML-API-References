@@ -1,9 +1,9 @@
 ---
 title: IInlinePostProcessing Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.IInlinePostProcessing interface. Defines the IInlinePostProcessing interface
+description: com.aspose.html.toolkit.markdown.syntax.parser.IInlinePostProcessing interface. Defines the IInlinePostProcessing interface
 type: docs
-weight: 5410
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessing/
 ---
 ## IInlinePostProcessing interface
@@ -22,5 +22,5 @@ public interface IInlinePostProcessing
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../)

@@ -3,7 +3,7 @@ title: CSSPrimitiveValue.SetStringValue
 second_title: Aspose.HTML for Java API Reference
 description: CSSPrimitiveValue method. A method to set the String value with the specified unit. If the property attached to this value cant accept the specified unit or the String value the value will be unchanged and a DOMException will be raised
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.dom.css/cssprimitivevalue/setStringvalue/
 ---
 ## CSSPrimitiveValue.SetStringValue method
@@ -22,5 +22,5 @@ public abstract void SetStringValue(ushort StringType, String StringValue)
 ### See Also
 
 * class [CSSPrimitiveValue](../)
-* package [com.aspose.html.Dom.Css](../../cssprimitivevalue/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

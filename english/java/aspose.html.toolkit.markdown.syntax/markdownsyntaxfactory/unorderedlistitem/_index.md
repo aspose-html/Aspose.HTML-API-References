@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.UnorderedListItem
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates a new instance of the ListItemSyntaxNode class with unordered list item marker
 type: docs
-weight: 490
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/unorderedlistitem/
 ---
 ## MarkdownSyntaxFactory.UnorderedListItem method
@@ -26,5 +26,5 @@ Created [`ListItemSyntaxNode`](../../listitemsyntaxnode/).
 
 * class [ListItemSyntaxNode](../../listitemsyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

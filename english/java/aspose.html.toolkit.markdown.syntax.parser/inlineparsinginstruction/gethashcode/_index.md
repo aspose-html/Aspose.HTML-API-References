@@ -3,7 +3,7 @@ title: InlineParsingInstruction.GetHashCode
 second_title: Aspose.HTML for Java API Reference
 description: InlineParsingInstruction method. Defines the GetHashCode
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/gethashcode/
 ---
 ## InlineParsingInstruction.GetHashCode method
@@ -21,5 +21,5 @@ The has code.
 ### See Also
 
 * struct [InlineParsingInstruction](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../inlineparsinginstruction/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

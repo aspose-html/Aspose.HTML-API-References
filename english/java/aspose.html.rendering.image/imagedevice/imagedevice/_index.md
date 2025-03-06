@@ -3,7 +3,7 @@ title: ImageDevice
 second_title: Aspose.HTML for Java API Reference
 description: ImageDevice constructor. Initializes a new instance of the ImageDevice class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.rendering.image/imagedevice/imagedevice/
 ---
 ## ImageDevice(ICreateStreamProvider) {#constructor}
@@ -22,7 +22,7 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -45,7 +45,7 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -65,7 +65,7 @@ public ImageDevice(String file)
 ### See Also
 
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -87,7 +87,7 @@ public ImageDevice(ImageRenderingOptions options, String file)
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,7 +107,7 @@ public ImageDevice(Stream stream)
 ### See Also
 
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -129,5 +129,5 @@ public ImageDevice(ImageRenderingOptions options, Stream stream)
 
 * class [ImageRenderingOptions](../../imagerenderingoptions/)
 * class [ImageDevice](../)
-* package [com.aspose.html.Rendering.Image](../../imagedevice/)
+* package [com.aspose.html.rendering.image](../../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../../)

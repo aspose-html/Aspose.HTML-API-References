@@ -3,7 +3,7 @@ title: IXPathResult.IterateNext
 second_title: Aspose.HTML for Java API Reference
 description: IXPathResult method. Iterates and returns the next node from the node set or null if there are no more nodes
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.dom.xpath/ixpathresult/iteratenext/
 ---
 ## IXPathResult.IterateNext method
@@ -29,5 +29,5 @@ Returns the next node.
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [IXPathResult](../)
-* package [com.aspose.html.Dom.XPath](../../ixpathresult/)
+* package [com.aspose.html.dom.xpath](../../../com.aspose.html.dom.xpath/)
 * package [Aspose.HTML](../../../)

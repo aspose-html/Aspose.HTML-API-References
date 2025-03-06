@@ -3,7 +3,7 @@ title: TreeWalker.NextSibling
 second_title: Aspose.HTML for Java API Reference
 description: TreeWalker method. Defines the interface for get next sibling node
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/treewalker/nextsibling/
 ---
 ## TreeWalker.NextSibling method
@@ -22,5 +22,5 @@ The MarkdownSyntaxNode.
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [TreeWalker](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../treewalker/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

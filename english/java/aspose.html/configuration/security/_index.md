@@ -3,7 +3,7 @@ title: Configuration.Security
 second_title: Aspose.HTML for Java API Reference
 description: Configuration property. Gets or sets the sandboxing flag of the configuration. Refer to article about sandboxing
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/configuration/security/
 ---
 ## Configuration.Security property
@@ -20,11 +20,11 @@ The security. A [`sandboxing flag`](../../sandbox/) set is a set of zero or more
 
 ## Remarks
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ### See Also
 
 * enum [Sandbox](../../sandbox/)
 * class [Configuration](../)
-* package [com.aspose.html](../../configuration/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -1,9 +1,9 @@
 ---
 title: ImageFormat Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.Image.ImageFormat enum. Specifies the file format of the image
+description: com.aspose.html.rendering.image.ImageFormat enum. Specifies the file format of the image
 type: docs
-weight: 4350
+
 url: /java/com.aspose.html.rendering.image/imageformat/
 ---
 ## ImageFormat enumeration
@@ -23,8 +23,9 @@ public enum ImageFormat
 | Bmp | `3` | The bitmap (BMP) image format. |
 | Gif | `4` | The Graphics Interchange Format (GIF) image format. |
 | Tiff | `5` | The Tagged Image File Format (TIFF) image format. |
+| Webp | `6` | The Web Picture format (WebP), a modern image format that provides superior lossless and lossy compression for images on the web. |
 
 ### See Also
 
-* package [com.aspose.html.Rendering.Image](../../com.aspose.html.rendering.image/)
+* package [com.aspose.html.rendering.image](../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../)

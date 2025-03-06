@@ -3,7 +3,7 @@ title: MarkdownSyntaxNode.ToString
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode method. Override ToString method
 type: docs
-weight: 150
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/toString/
 ---
 ## MarkdownSyntaxNode.ToString method
@@ -21,5 +21,5 @@ The String.
 ### See Also
 
 * class [MarkdownSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

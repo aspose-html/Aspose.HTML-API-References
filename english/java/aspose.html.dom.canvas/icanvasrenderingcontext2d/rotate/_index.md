@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.Rotate
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Adds a rotation to the transformation matrix. The angle argument represents a clockwise rotation angle and is expressed in radians
 type: docs
-weight: 330
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/rotate/
 ---
 ## ICanvasRenderingContext2D.Rotate method
@@ -21,5 +21,5 @@ public void Rotate(double angle)
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

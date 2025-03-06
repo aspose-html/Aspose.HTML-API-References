@@ -1,9 +1,9 @@
 ---
 title: InlineContainerSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.InlineContainerSyntaxNode class. Represents the InlineContainerSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.InlineContainerSyntaxNode class. Represents the InlineContainerSyntaxNode
 type: docs
-weight: 5040
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/inlinecontainersyntaxnode/
 ---
 ## InlineContainerSyntaxNode class
@@ -45,5 +45,5 @@ public class InlineContainerSyntaxNode : InlineSyntaxNode, IEnumerable<InlineSyn
 ### See Also
 
 * class [InlineSyntaxNode](../inlinesyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

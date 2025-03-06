@@ -3,7 +3,7 @@ title: MutationObserver.Observe
 second_title: Aspose.HTML for Java API Reference
 description: MutationObserver method. Instructs the user agent to observe a given target a node and report any mutations based on the criteria given by options an object. The options argument allows for setting mutation observation options via object members
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.mutations/mutationobserver/observe/
 ---
 ## Observe(Node) {#observe}
@@ -22,7 +22,7 @@ public void Observe(Node target)
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * class [MutationObserver](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserver/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -45,5 +45,5 @@ public void Observe(Node target, MutationObserverInit options)
 * class [Node](../../../com.aspose.html.dom/node/)
 * class [MutationObserverInit](../../mutationobserverinit/)
 * class [MutationObserver](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserver/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: CssOptions.MediaType
 second_title: Aspose.HTML for Java API Reference
 description: CssOptions property. Gets or sets MediaType which will be used for media queries resolution during rendering. Default value is Print
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.rendering/cssoptions/mediatype/
 ---
 ## CssOptions.MediaType property
@@ -18,5 +18,5 @@ public MediaType MediaType { get; set; }
 
 * enum [MediaType](../../mediatype/)
 * class [CssOptions](../)
-* package [com.aspose.html.Rendering](../../cssoptions/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

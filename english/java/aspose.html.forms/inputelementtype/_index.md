@@ -1,9 +1,9 @@
 ---
 title: InputElementType Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Forms.InputElementType enum. Represent states of the input field
+description: com.aspose.html.forms.InputElementType enum. Represent states of the input field
 type: docs
-weight: 3000
+
 url: /java/com.aspose.html.forms/inputelementtype/
 ---
 ## InputElementType enumeration
@@ -43,5 +43,5 @@ public enum InputElementType
 
 ### See Also
 
-* package [com.aspose.html.Forms](../../com.aspose.html.forms/)
+* package [com.aspose.html.forms](../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../)

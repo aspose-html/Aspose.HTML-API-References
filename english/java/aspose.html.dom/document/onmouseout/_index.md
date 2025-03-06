@@ -3,7 +3,7 @@ title: Document.OnMouseOut
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnMouseOut event
 type: docs
-weight: 550
+
 url: /java/com.aspose.html.dom/document/onmouseout/
 ---
 ## Document.OnMouseOut event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnMouseOut;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

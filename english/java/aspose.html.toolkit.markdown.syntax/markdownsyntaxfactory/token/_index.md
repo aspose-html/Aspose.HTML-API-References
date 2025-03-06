@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.Token
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates MarkdownSyntaxToken
 type: docs
-weight: 460
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/token/
 ---
 ## Token(SourceText, TextSpan) {#token_1}
@@ -29,7 +29,7 @@ The MarkdownSyntaxToken.
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * struct [TextSpan](../../../com.aspose.html.toolkit.markdown.syntax.text/textspan/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -55,5 +55,5 @@ The MarkdownSyntaxToken.
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

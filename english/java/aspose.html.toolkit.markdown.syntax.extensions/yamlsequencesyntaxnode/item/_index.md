@@ -1,14 +1,14 @@
 ---
 title: YamlSequenceSyntaxNode.Item
 second_title: Aspose.HTML for Java API Reference
-description: YamlSequenceSyntaxNode property. Get the YamlSyntaxNode by index
+description: YamlSequenceSyntaxNode property. Get the ChildFrontMatterSyntaxNode by index
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/item/
 ---
 ## YamlSequenceSyntaxNode indexer
 
-Get the YamlSyntaxNode by index.
+Get the ChildFrontMatterSyntaxNode by index.
 
 ```java
 public ChildFrontMatterSyntaxNode this[int index] { get; }
@@ -20,7 +20,7 @@ public ChildFrontMatterSyntaxNode this[int index] { get; }
 
 ### Return Value
 
-The YamlSyntaxNode.
+The ChildFrontMatterSyntaxNode.
 
 ### Exceptions
 
@@ -32,5 +32,5 @@ The YamlSyntaxNode.
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [YamlSequenceSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../yamlsequencesyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

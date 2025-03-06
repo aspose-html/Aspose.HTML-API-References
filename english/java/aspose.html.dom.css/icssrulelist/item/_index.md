@@ -3,7 +3,7 @@ title: ICSSRuleList.Item
 second_title: Aspose.HTML for Java API Reference
 description: ICSSRuleList property. Used to retrieve a CSS rule by method item http//www.w3.org/TR/DOM-Level-2-Style/css.htmlCSS-CSSRuleList. The order in this collection represents the order of the rules in the CSS style sheet. If index is greater than or equal to the number of rules in the list this returns null
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.css/icssrulelist/item/
 ---
 ## ICSSRuleList indexer
@@ -26,5 +26,5 @@ The index into the collection of CSS rules.
 
 * interface [ICSSRule](../../icssrule/)
 * interface [ICSSRuleList](../)
-* package [com.aspose.html.Dom.Css](../../icssrulelist/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

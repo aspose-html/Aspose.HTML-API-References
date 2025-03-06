@@ -3,7 +3,7 @@ title: Page.Size
 second_title: Aspose.HTML for Java API Reference
 description: Page property. Gets or sets the page size
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.drawing/page/size/
 ---
 ## Page.Size property
@@ -22,5 +22,5 @@ The size.
 
 * class [Size](../../size/)
 * class [Page](../)
-* package [com.aspose.html.Drawing](../../page/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

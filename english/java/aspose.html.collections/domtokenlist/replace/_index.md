@@ -3,7 +3,7 @@ title: DOMTokenList.Replace
 second_title: Aspose.HTML for Java API Reference
 description: DOMTokenList method. Replaces an existing token with a new token. Does nothing if the first token doesnt exist
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.collections/domtokenlist/replace/
 ---
 ## DOMTokenList.Replace method
@@ -26,5 +26,5 @@ Boolean `true` if the token was found and replaced, `false` otherwise.
 ### See Also
 
 * class [DOMTokenList](../)
-* package [com.aspose.html.Collections](../../domtokenlist/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

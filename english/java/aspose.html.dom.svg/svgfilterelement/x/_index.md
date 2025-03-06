@@ -3,7 +3,7 @@ title: SVGFilterElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGFilterElement property. Corresponds to attribute x on the given filter element
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg/svgfilterelement/x/
 ---
 ## SVGFilterElement.X property
@@ -22,5 +22,5 @@ The attribute ‘x’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGFilterElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgfilterelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

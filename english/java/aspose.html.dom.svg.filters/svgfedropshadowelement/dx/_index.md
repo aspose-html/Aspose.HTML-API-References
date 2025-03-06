@@ -3,7 +3,7 @@ title: SVGFEDropShadowElement.Dx
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEDropShadowElement property. Corresponds to attribute dx on the given feDropShadow element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.filters/svgfedropshadowelement/dx/
 ---
 ## SVGFEDropShadowElement.Dx property
@@ -22,5 +22,5 @@ The attribute ‘dx’ of the given ‘feDropShadow’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEDropShadowElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfedropshadowelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

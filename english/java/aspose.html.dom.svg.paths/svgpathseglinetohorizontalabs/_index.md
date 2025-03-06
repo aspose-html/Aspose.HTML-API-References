@@ -1,9 +1,9 @@
 ---
 title: SVGPathSegLinetoHorizontalAbs Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.Paths.SVGPathSegLinetoHorizontalAbs class. The SVGPathSegLinetoHorizontalAbs interface corresponds to an absolute horizontal lineto H path data command
+description: com.aspose.html.dom.svg.paths.SVGPathSegLinetoHorizontalAbs class. The SVGPathSegLinetoHorizontalAbs interface corresponds to an absolute horizontal lineto H path data command
 type: docs
-weight: 1830
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathseglinetohorizontalabs/
 ---
 ## SVGPathSegLinetoHorizontalAbs class
@@ -32,5 +32,5 @@ public class SVGPathSegLinetoHorizontalAbs : SVGPathSeg
 ### See Also
 
 * class [SVGPathSeg](../svgpathseg/)
-* package [com.aspose.html.Dom.Svg.Paths](../../com.aspose.html.dom.svg.paths/)
+* package [com.aspose.html.dom.svg.paths](../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../)

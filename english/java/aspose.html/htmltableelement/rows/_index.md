@@ -3,7 +3,7 @@ title: HTMLTableElement.Rows
 second_title: Aspose.HTML for Java API Reference
 description: HTMLTableElement property. Returns the tables TFOOT or null if none exists
 type: docs
-weight: 80
+
 url: /java/com.aspose.html/htmltableelement/rows/
 ---
 ## HTMLTableElement.Rows property
@@ -26,5 +26,5 @@ public HTMLCollection Rows { get; }
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [HTMLTableElement](../)
-* package [com.aspose.html](../../htmltableelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: ICSS2Properties.ListStyle
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The list-style property is a shorthand notation for setting the three properties list-style-type list-style-image and list-style-position at the same place in the style sheet
 type: docs
-weight: 590
+
 url: /java/com.aspose.html.dom.css/icss2properties/liststyle/
 ---
 ## ICSS2Properties.ListStyle property
@@ -21,5 +21,5 @@ list-style property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

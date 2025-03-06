@@ -1,9 +1,9 @@
 ---
 title: Content Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Net.Content class. Represents a base class for an HTTP entity body and content headers
+description: com.aspose.html.net.Content class. Represents a base class for an HTTP entity body and content headers
 type: docs
-weight: 3880
+
 url: /java/com.aspose.html.net/content/
 ---
 ## Content class
@@ -31,5 +31,5 @@ public abstract class Content : IDisposable
 
 ### See Also
 
-* package [com.aspose.html.Net](../../com.aspose.html.net/)
+* package [com.aspose.html.net](../../com.aspose.html.net/)
 * package [Aspose.HTML](../../)

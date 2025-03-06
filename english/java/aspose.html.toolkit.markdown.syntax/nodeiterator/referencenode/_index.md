@@ -3,7 +3,7 @@ title: NodeIterator.ReferenceNode
 second_title: Aspose.HTML for Java API Reference
 description: NodeIterator property. Get the reference node
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/nodeiterator/referencenode/
 ---
 ## NodeIterator.ReferenceNode property
@@ -18,5 +18,5 @@ public MarkdownSyntaxNode ReferenceNode { get; }
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [NodeIterator](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../nodeiterator/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

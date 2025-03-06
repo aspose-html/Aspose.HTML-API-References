@@ -3,7 +3,7 @@ title: SVGPathSegArcAbs.Angle
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegArcAbs property. The rotation angle in degrees for the ellipses x-axis relative to the x-axis of the user coordinate system
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegarcabs/angle/
 ---
 ## SVGPathSegArcAbs.Angle property
@@ -27,5 +27,5 @@ The rotation angle
 ### See Also
 
 * class [SVGPathSegArcAbs](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathsegarcabs/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

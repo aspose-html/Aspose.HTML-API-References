@@ -3,7 +3,7 @@ title: PdfEncryptionInfo
 second_title: Aspose.HTML for Java API Reference
 description: PdfEncryptionInfo constructor. Initializes a new instance of the PdfEncryptionInfo class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.rendering.pdf.encryption/pdfencryptioninfo/pdfencryptioninfo/
 ---
 ## PdfEncryptionInfo constructor
@@ -27,5 +27,5 @@ public PdfEncryptionInfo(String userPassword, String ownerPassword, PdfPermissio
 * enum [PdfPermissions](../../pdfpermissions/)
 * enum [PdfEncryptionAlgorithm](../../pdfencryptionalgorithm/)
 * class [PdfEncryptionInfo](../)
-* package [com.aspose.html.Rendering.Pdf.Encryption](../../pdfencryptioninfo/)
+* package [com.aspose.html.rendering.pdf.encryption](../../../com.aspose.html.rendering.pdf.encryption/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SourceText.Item
 second_title: Aspose.HTML for Java API Reference
 description: SourceText property. Gets the value at the given index
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/sourcetext/item/
 ---
 ## SourceText indexer
@@ -25,5 +25,5 @@ The char.
 ### See Also
 
 * class [SourceText](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../sourcetext/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../../)

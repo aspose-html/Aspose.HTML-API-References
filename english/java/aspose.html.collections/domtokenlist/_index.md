@@ -1,9 +1,9 @@
 ---
 title: DOMTokenList Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Collections.DOMTokenList class. The DOMTokenList class represents a set of space-separated tokens. It is indexed beginning with 0 as with JavaScript Array objects. DOMTokenList is always case-sensitive
+description: com.aspose.html.collections.DOMTokenList class. The DOMTokenList class represents a set of space-separated tokens. It is indexed beginning with 0 as with JavaScript Array objects. DOMTokenList is always case-sensitive
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.collections/domtokenlist/
 ---
 ## DOMTokenList class
@@ -35,10 +35,10 @@ public class DOMTokenList : DOMObject, IEnumerable<String>
 | [replace](../../com.aspose.html.collections/domtokenlist/replace/)(String, String) | Replaces an existing token with a new token. Does nothing if the first token doesn't exist. |
 | [supports](../../com.aspose.html.collections/domtokenlist/supports/)(String) | Returns true if a given token is in the associated attribute's supported tokens. |
 | [toggle](../../com.aspose.html.collections/domtokenlist/toggle/#toggle)(String) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
-| [toggle](../../com.aspose.html.collections/domtokenlist/toggle/#toggle_1)(String, bool?) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
+| [toggle](../../com.aspose.html.collections/domtokenlist/toggle/#toggle_1)(String, bool) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
 
 ### See Also
 
 * class [DOMObject](../../com.aspose.html.dom/domobject/)
-* package [com.aspose.html.Collections](../../com.aspose.html.collections/)
+* package [com.aspose.html.collections](../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../)

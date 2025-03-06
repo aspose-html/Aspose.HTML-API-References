@@ -1,9 +1,9 @@
 ---
-title: com.aspose.html.dom.Svg.Events
+title: com.aspose.html.dom.svg.events
 second_title: Aspose.HTML for Java API Reference
 description: The package consists of classes for event based interactivity like time events and zooming
 type: docs
-weight: 140
+
 url: /java/com.aspose.html.dom.svg.events/
 ---
 The package consists of classes for event based interactivity like time events and zooming.

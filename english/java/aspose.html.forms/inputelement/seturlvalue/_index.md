@@ -3,7 +3,7 @@ title: InputElement.SetUrlValue
 second_title: Aspose.HTML for Java API Reference
 description: InputElement method. This method is used to set Url object as a value for input element. This method is valid if only the type of the input element is url
 type: docs
-weight: 290
+
 url: /java/com.aspose.html.forms/inputelement/seturlvalue/
 ---
 ## InputElement.SetUrlValue method
@@ -22,5 +22,5 @@ public void SetUrlValue(Url value)
 
 * class [Url](../../../com.aspose.html/url/)
 * class [InputElement](../)
-* package [com.aspose.html.Forms](../../inputelement/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

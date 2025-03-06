@@ -3,7 +3,7 @@ title: ICSSCounterStyleRule.Prefix
 second_title: Aspose.HTML for Java API Reference
 description: ICSSCounterStyleRule property. The prefix property of the CSSCounterStyleRule interface gets and sets the value of the prefix descriptor. If the descriptor does not have a value set this attribute returns an empty String
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.css/icsscounterstylerule/prefix/
 ---
 ## ICSSCounterStyleRule.Prefix property
@@ -21,5 +21,5 @@ Gets and sets the value of the prefix descriptor. If the descriptor does not hav
 ### See Also
 
 * interface [ICSSCounterStyleRule](../)
-* package [com.aspose.html.Dom.Css](../../icsscounterstylerule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

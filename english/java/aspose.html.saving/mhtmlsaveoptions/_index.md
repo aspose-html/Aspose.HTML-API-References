@@ -1,9 +1,9 @@
 ---
 title: MHTMLSaveOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Saving.MHTMLSaveOptions class. Represents MHTML save options. By assigning specific properties you can manage resource processing such as max handling depth and so on. More info see in documentation article
+description: com.aspose.html.saving.MHTMLSaveOptions class. Represents MHTML save options. By assigning specific properties you can manage resource processing such as max handling depth and so on. More info see in documentation article
 type: docs
-weight: 4640
+
 url: /java/com.aspose.html.saving/mhtmlsaveoptions/
 ---
 ## MHTMLSaveOptions class
@@ -28,14 +28,14 @@ public class MHTMLSaveOptions : SaveOptions
 
 ## Remarks
 
-You can find complete examples and data files on [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+You can find complete examples and data files on [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
 
 ## Examples
 
 ```java
-import com.aspose.html;
-import com.aspose.html.Converters;
-import com.aspose.html.Saving;
+import Aspose.Html;
+import com.aspose.html.converters;
+import com.aspose.html.saving;
 import System;
 import System.IO;
 ...
@@ -66,5 +66,5 @@ import System.IO;
 ### See Also
 
 * class [SaveOptions](../saveoptions/)
-* package [com.aspose.html.Saving](../../com.aspose.html.saving/)
+* package [com.aspose.html.saving](../../com.aspose.html.saving/)
 * package [Aspose.HTML](../../)

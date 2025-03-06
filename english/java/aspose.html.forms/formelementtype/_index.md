@@ -1,9 +1,9 @@
 ---
 title: FormElementType Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Forms.FormElementType enum. Represents an enumeration of the Form Elements types and their corresponding to the HTML Elements
+description: com.aspose.html.forms.FormElementType enum. Represents an enumeration of the Form Elements types and their corresponding to the HTML Elements
 type: docs
-weight: 2960
+
 url: /java/com.aspose.html.forms/formelementtype/
 ---
 ## FormElementType enumeration
@@ -28,5 +28,5 @@ public enum FormElementType
 
 ### See Also
 
-* package [com.aspose.html.Forms](../../com.aspose.html.forms/)
+* package [com.aspose.html.forms](../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../)

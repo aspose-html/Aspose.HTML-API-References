@@ -3,7 +3,7 @@ title: InlineContainerSyntaxNode.GetEnumerator
 second_title: Aspose.HTML for Java API Reference
 description: InlineContainerSyntaxNode method. Returns an enumerator that iterates through the collection
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/inlinecontainersyntaxnode/getenumerator/
 ---
 ## InlineContainerSyntaxNode.GetEnumerator method
@@ -22,5 +22,5 @@ A IEnumerator that can be used to iterate through the collection.
 
 * class [InlineSyntaxNode](../../inlinesyntaxnode/)
 * class [InlineContainerSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../inlinecontainersyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

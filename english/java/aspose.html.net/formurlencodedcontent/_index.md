@@ -1,9 +1,9 @@
 ---
 title: FormUrlEncodedContent Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Net.FormUrlEncodedContent class. A container for name/value tuples encoded using application/x-www-form-urlencoded MIME type
+description: com.aspose.html.net.FormUrlEncodedContent class. A container for name/value tuples encoded using application/x-www-form-urlencoded MIME type
 type: docs
-weight: 3900
+
 url: /java/com.aspose.html.net/formurlencodedcontent/
 ---
 ## FormUrlEncodedContent class
@@ -38,5 +38,5 @@ public class FormUrlEncodedContent : ByteArrayContent
 ### See Also
 
 * class [ByteArrayContent](../bytearraycontent/)
-* package [com.aspose.html.Net](../../com.aspose.html.net/)
+* package [com.aspose.html.net](../../com.aspose.html.net/)
 * package [Aspose.HTML](../../)

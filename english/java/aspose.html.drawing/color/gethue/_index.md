@@ -3,7 +3,7 @@ title: Color.GetHue
 second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a Hue of the Color
 type: docs
-weight: 330
+
 url: /java/com.aspose.html.drawing/color/gethue/
 ---
 ## Color.GetHue method
@@ -21,5 +21,5 @@ A Hue of the Color.
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

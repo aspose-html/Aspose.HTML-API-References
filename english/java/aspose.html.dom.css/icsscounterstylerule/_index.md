@@ -1,9 +1,9 @@
 ---
 title: ICSSCounterStyleRule Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Css.ICSSCounterStyleRule interface. The CSSCounterStyleRule interface represents an counter-style at-rule that allows authors to define a custom counter style
+description: com.aspose.html.dom.css.ICSSCounterStyleRule interface. The CSSCounterStyleRule interface represents an counter-style at-rule that allows authors to define a custom counter style
 type: docs
-weight: 400
+
 url: /java/com.aspose.html.dom.css/icsscounterstylerule/
 ---
 ## ICSSCounterStyleRule interface
@@ -28,5 +28,5 @@ public interface ICSSCounterStyleRule : ICSSRule
 ### See Also
 
 * interface [ICSSRule](../icssrule/)
-* package [com.aspose.html.Dom.Css](../../com.aspose.html.dom.css/)
+* package [com.aspose.html.dom.css](../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../)

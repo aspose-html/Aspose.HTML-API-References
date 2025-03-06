@@ -3,7 +3,7 @@ title: SVGCursorElement.SystemLanguage
 second_title: Aspose.HTML for Java API Reference
 description: SVGCursorElement property. Corresponds to attribute systemLanguage on the given element
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg/svgcursorelement/systemlanguage/
 ---
 ## SVGCursorElement.SystemLanguage property
@@ -22,5 +22,5 @@ The system language.
 
 * class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
 * class [SVGCursorElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgcursorelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

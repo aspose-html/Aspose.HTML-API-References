@@ -3,7 +3,7 @@ title: ICSS2Properties.Content
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property is used with the before and after pseudo-elements to generate content in a document
 type: docs
-weight: 350
+
 url: /java/com.aspose.html.dom.css/icss2properties/content/
 ---
 ## ICSS2Properties.Content property
@@ -21,5 +21,5 @@ content property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

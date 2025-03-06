@@ -1,12 +1,12 @@
 ---
-title: com.aspose.html.dom.Svg.Collections
+title: com.aspose.html.dom.svg.collections
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.Collections provides access to specific generic collections
+description: com.aspose.html.dom.svg.collections provides access to specific generic collections
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.dom.svg.collections/
 ---
-**com.aspose.html.Dom.Svg.Collections** provides access to specific generic collections.
+**com.aspose.html.dom.svg.collections** provides access to specific generic collections.
 
 ## Classes
 

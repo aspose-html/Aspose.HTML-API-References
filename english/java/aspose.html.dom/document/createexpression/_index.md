@@ -3,7 +3,7 @@ title: Document.CreateExpression
 second_title: Aspose.HTML for Java API Reference
 description: Document method. Creates a parsed XPath expression with resolved packages. This is useful when an expression will be reused in an application since it makes it possible to compile the expression String into a more efficient internal form and preresolve all package prefixes which occur within the expression
 type: docs
-weight: 890
+
 url: /java/com.aspose.html.dom/document/createexpression/
 ---
 ## Document.CreateExpression method
@@ -35,5 +35,5 @@ The compiled form of the XPath expression.
 * interface [IXPathExpression](../../../com.aspose.html.dom.xpath/ixpathexpression/)
 * interface [IXPathNSResolver](../../../com.aspose.html.dom.xpath/ixpathnsresolver/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

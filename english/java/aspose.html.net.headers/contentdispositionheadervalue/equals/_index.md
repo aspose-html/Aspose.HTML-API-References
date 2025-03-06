@@ -3,7 +3,7 @@ title: ContentDispositionHeaderValue.Equals
 second_title: Aspose.HTML for Java API Reference
 description: ContentDispositionHeaderValue method. Determines whether the specified Object is equal to this instance
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.net.headers/contentdispositionheadervalue/equals/
 ---
 ## ContentDispositionHeaderValue.Equals method
@@ -25,5 +25,5 @@ public bool Equals(object obj)
 ### See Also
 
 * class [ContentDispositionHeaderValue](../)
-* package [com.aspose.html.Net.Headers](../../contentdispositionheadervalue/)
+* package [com.aspose.html.net.headers](../../../com.aspose.html.net.headers/)
 * package [Aspose.HTML](../../../)

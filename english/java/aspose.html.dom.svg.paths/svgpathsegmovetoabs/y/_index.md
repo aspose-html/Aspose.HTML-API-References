@@ -3,7 +3,7 @@ title: SVGPathSegMovetoAbs.Y
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegMovetoAbs property. The absolute Y coordinate for the end point of this path segment
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegmovetoabs/y/
 ---
 ## SVGPathSegMovetoAbs.Y property
@@ -27,5 +27,5 @@ The absolute Y coordinate
 ### See Also
 
 * class [SVGPathSegMovetoAbs](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathsegmovetoabs/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

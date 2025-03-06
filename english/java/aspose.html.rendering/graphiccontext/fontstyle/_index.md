@@ -3,7 +3,7 @@ title: GraphicContext.FontStyle
 second_title: Aspose.HTML for Java API Reference
 description: GraphicContext property. Sets or gets text font style
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.rendering/graphiccontext/fontstyle/
 ---
 ## GraphicContext.FontStyle property
@@ -11,11 +11,12 @@ url: /java/com.aspose.html.rendering/graphiccontext/fontstyle/
 Sets or gets text font style.
 
 ```java
-public FontStyle FontStyle { get; set; }
+public WebFontStyle FontStyle { get; set; }
 ```
 
 ### See Also
 
+* enum [WebFontStyle](../../../com.aspose.html.drawing/webfontstyle/)
 * class [GraphicContext](../)
-* package [com.aspose.html.Rendering](../../graphiccontext/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

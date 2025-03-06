@@ -3,7 +3,7 @@ title: ReferenceLinkSyntaxNode.GetLabel
 second_title: Aspose.HTML for Java API Reference
 description: ReferenceLinkSyntaxNode method. Defines the interface for get label
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/referencelinksyntaxnode/getlabel/
 ---
 ## ReferenceLinkSyntaxNode.GetLabel method
@@ -22,5 +22,5 @@ The InlineContainer syntax.
 
 * class [InlineContainerSyntaxNode](../../inlinecontainersyntaxnode/)
 * class [ReferenceLinkSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../referencelinksyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

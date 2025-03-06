@@ -3,7 +3,7 @@ title: SVGClipPathElement.Transform
 second_title: Aspose.HTML for Java API Reference
 description: SVGClipPathElement property. Corresponds to attribute transform on the given element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svgclippathelement/transform/
 ---
 ## SVGClipPathElement.Transform property
@@ -22,5 +22,5 @@ The element transform.
 
 * class [SVGAnimatedTransformList](../../../com.aspose.html.dom.svg.datatypes/svganimatedtransformlist/)
 * class [SVGClipPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgclippathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

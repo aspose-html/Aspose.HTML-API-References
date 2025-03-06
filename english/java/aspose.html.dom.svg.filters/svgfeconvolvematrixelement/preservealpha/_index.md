@@ -3,7 +3,7 @@ title: SVGFEConvolveMatrixElement.PreserveAlpha
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEConvolveMatrixElement property. Corresponds to attribute preserveAlpha on the given feConvolveMatrix element
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/preservealpha/
 ---
 ## SVGFEConvolveMatrixElement.PreserveAlpha property
@@ -22,5 +22,5 @@ The attribute ‘preserveAlpha’ of the given ‘feConvolveMatrix’ element.
 
 * class [SVGAnimatedBoolean](../../../com.aspose.html.dom.svg.datatypes/svganimatedboolean/)
 * class [SVGFEConvolveMatrixElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeconvolvematrixelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

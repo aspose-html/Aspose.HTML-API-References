@@ -3,7 +3,7 @@ title: MultipartFormDataContent.Add
 second_title: Aspose.HTML for Java API Reference
 description: MultipartFormDataContent method. Add the content to the MultipartFormDataContent class
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.net/multipartformdatacontent/add/
 ---
 ## Add(Content) {#add}
@@ -22,7 +22,7 @@ public void Add(Content content)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* package [com.aspose.html.Net](../../multipartformdatacontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -44,7 +44,7 @@ public void Add(Content content, String name)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* package [com.aspose.html.Net](../../multipartformdatacontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -67,5 +67,5 @@ public void Add(Content content, String name, String fileName)
 
 * class [Content](../../content/)
 * class [MultipartFormDataContent](../)
-* package [com.aspose.html.Net](../../multipartformdatacontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

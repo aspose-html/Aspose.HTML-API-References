@@ -3,7 +3,7 @@ title: MarkdownBlockParser.OnOpen
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownBlockParser method. Defines interface for OnOpen method
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/onopen/
 ---
 ## MarkdownBlockParser.OnOpen method
@@ -24,5 +24,5 @@ public void OnOpen(BlockSyntaxDescriptor descriptor, IBlockParsingContext contex
 * class [BlockSyntaxDescriptor](../../blocksyntaxdescriptor/)
 * interface [IBlockParsingContext](../../iblockparsingcontext/)
 * class [MarkdownBlockParser](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../markdownblockparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

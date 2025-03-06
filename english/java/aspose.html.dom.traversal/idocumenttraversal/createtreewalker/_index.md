@@ -3,7 +3,7 @@ title: IDocumentTraversal.CreateTreeWalker
 second_title: Aspose.HTML for Java API Reference
 description: IDocumentTraversal method. Create a new TreeWalker over the subtree rooted at the specified node
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.traversal/idocumenttraversal/createtreewalker/
 ---
 ## CreateTreeWalker(Node) {#createtreewalker}
@@ -27,7 +27,7 @@ The newly created TreeWalker.
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [IDocumentTraversal](../)
-* package [com.aspose.html.Dom.Traversal](../../idocumenttraversal/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -54,7 +54,7 @@ The newly created TreeWalker.
 * interface [ITreeWalker](../../itreewalker/)
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [IDocumentTraversal](../)
-* package [com.aspose.html.Dom.Traversal](../../idocumenttraversal/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -83,5 +83,5 @@ The newly created TreeWalker.
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [INodeFilter](../../inodefilter/)
 * interface [IDocumentTraversal](../)
-* package [com.aspose.html.Dom.Traversal](../../idocumenttraversal/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)

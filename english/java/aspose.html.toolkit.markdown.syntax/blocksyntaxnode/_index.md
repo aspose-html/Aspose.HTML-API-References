@@ -1,9 +1,9 @@
 ---
 title: BlockSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.BlockSyntaxNode class. Base implementation of the BlockSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.BlockSyntaxNode class. Base implementation of the BlockSyntaxNode
 type: docs
-weight: 4820
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/blocksyntaxnode/
 ---
 ## BlockSyntaxNode class
@@ -44,5 +44,5 @@ public abstract class BlockSyntaxNode : MarkdownSyntaxNode
 ### See Also
 
 * class [MarkdownSyntaxNode](../markdownsyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

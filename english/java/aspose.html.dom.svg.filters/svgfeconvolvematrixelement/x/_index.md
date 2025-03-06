@@ -3,7 +3,7 @@ title: SVGFEConvolveMatrixElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEConvolveMatrixElement property. Corresponds to attribute x on the given filter element
 type: docs
-weight: 160
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/x/
 ---
 ## SVGFEConvolveMatrixElement.X property
@@ -22,5 +22,5 @@ The attribute ‘x’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGFEConvolveMatrixElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeconvolvematrixelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

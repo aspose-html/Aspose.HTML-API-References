@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.Clip
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Creates a new clipping region by calculating the intersection of the current clipping region and the area described by the path using the non-zero winding number rule. Open subpaths must be implicitly closed when computing the clipping region without affecting the actual subpaths. The new clipping region replaces the current clipping region
 type: docs
-weight: 150
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/clip/
 ---
 ## Clip() {#clip}
@@ -17,7 +17,7 @@ public void Clip()
 ### See Also
 
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,7 +38,7 @@ public void Clip(CanvasFillRule fillRule)
 
 * enum [CanvasFillRule](../../canvasfillrule/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -61,5 +61,5 @@ public void Clip(Path2D path, CanvasFillRule fillRule)
 * class [Path2D](../../path2d/)
 * enum [CanvasFillRule](../../canvasfillrule/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: ShortCodeParameterSyntaxNode.Accept
 second_title: Aspose.HTML for Java API Reference
 description: ShortCodeParameterSyntaxNode method. Defines the interface for accept visitor
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/accept/
 ---
 ## ShortCodeParameterSyntaxNode.Accept method
@@ -22,5 +22,5 @@ public void Accept(MarkdownSyntaxVisitor visitor)
 
 * class [MarkdownSyntaxVisitor](../../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/)
 * class [ShortCodeParameterSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../shortcodeparametersyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

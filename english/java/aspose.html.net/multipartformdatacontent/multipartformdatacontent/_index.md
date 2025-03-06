@@ -3,7 +3,7 @@ title: MultipartFormDataContent
 second_title: Aspose.HTML for Java API Reference
 description: MultipartFormDataContent constructor. Initializes a new instance of the MultipartFormDataContent class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.net/multipartformdatacontent/multipartformdatacontent/
 ---
 ## MultipartFormDataContent() {#constructor}
@@ -17,7 +17,7 @@ public MultipartFormDataContent()
 ### See Also
 
 * class [MultipartFormDataContent](../)
-* package [com.aspose.html.Net](../../multipartformdatacontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -37,5 +37,5 @@ public MultipartFormDataContent(String boundary)
 ### See Also
 
 * class [MultipartFormDataContent](../)
-* package [com.aspose.html.Net](../../multipartformdatacontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

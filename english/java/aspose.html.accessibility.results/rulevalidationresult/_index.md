@@ -1,9 +1,9 @@
 ---
 title: RuleValidationResult Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Accessibility.Results.RuleValidationResult class. Class - result of rule check contains a list of ITechniqueResult which are ways to satisfy the success criteria
+description: com.aspose.html.accessibility.results.RuleValidationResult class. Class - result of rule check contains a list of ITechniqueResult which are ways to satisfy the success criteria
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.accessibility.results/rulevalidationresult/
 ---
 ## RuleValidationResult class
@@ -26,5 +26,5 @@ public class RuleValidationResult
 
 ### See Also
 
-* package [com.aspose.html.Accessibility.Results](../../com.aspose.html.accessibility.results/)
+* package [com.aspose.html.accessibility.results](../../com.aspose.html.accessibility.results/)
 * package [Aspose.HTML](../../)

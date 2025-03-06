@@ -3,7 +3,7 @@ title: SVGMarkerElement.SetOrientToAngle
 second_title: Aspose.HTML for Java API Reference
 description: SVGMarkerElement method. Sets the value of attribute orient to the given angle
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.dom.svg/svgmarkerelement/setorienttoangle/
 ---
 ## SVGMarkerElement.SetOrientToAngle method
@@ -28,5 +28,5 @@ public void SetOrientToAngle(SVGAngle angle)
 
 * class [SVGAngle](../../../com.aspose.html.dom.svg.datatypes/svgangle/)
 * class [SVGMarkerElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgmarkerelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

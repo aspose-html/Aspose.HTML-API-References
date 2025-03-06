@@ -3,7 +3,7 @@ title: SVGCursorElement.RequiredFeatures
 second_title: Aspose.HTML for Java API Reference
 description: SVGCursorElement property. Corresponds to attribute requiredFeatures on the given element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svgcursorelement/requiredfeatures/
 ---
 ## SVGCursorElement.RequiredFeatures property
@@ -22,5 +22,5 @@ The required features.
 
 * class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
 * class [SVGCursorElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgcursorelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

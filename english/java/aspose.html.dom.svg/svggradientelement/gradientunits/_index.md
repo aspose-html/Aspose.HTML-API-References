@@ -3,7 +3,7 @@ title: SVGGradientElement.GradientUnits
 second_title: Aspose.HTML for Java API Reference
 description: SVGGradientElement property. Corresponds to attribute gradientUnits on the given element. Takes one of the constants defined in SVGUnitTypes
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svggradientelement/gradientunits/
 ---
 ## SVGGradientElement.GradientUnits property
@@ -22,5 +22,5 @@ The attribute ‘gradientUnits’ of the given element.
 
 * class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGGradientElement](../)
-* package [com.aspose.html.Dom.Svg](../../svggradientelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

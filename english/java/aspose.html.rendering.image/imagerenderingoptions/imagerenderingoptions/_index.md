@@ -3,7 +3,7 @@ title: ImageRenderingOptions
 second_title: Aspose.HTML for Java API Reference
 description: ImageRenderingOptions constructor. Initializes a new instance of the ImageRenderingOptions class Png will be used as default image format
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.rendering.image/imagerenderingoptions/imagerenderingoptions/
 ---
 ## ImageRenderingOptions() {#constructor}
@@ -17,7 +17,7 @@ public ImageRenderingOptions()
 ### See Also
 
 * class [ImageRenderingOptions](../)
-* package [com.aspose.html.Rendering.Image](../../imagerenderingoptions/)
+* package [com.aspose.html.rendering.image](../../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public ImageRenderingOptions(ImageFormat format)
 
 * enum [ImageFormat](../../imageformat/)
 * class [ImageRenderingOptions](../)
-* package [com.aspose.html.Rendering.Image](../../imagerenderingoptions/)
+* package [com.aspose.html.rendering.image](../../../com.aspose.html.rendering.image/)
 * package [Aspose.HTML](../../../)

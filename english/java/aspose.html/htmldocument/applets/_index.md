@@ -3,7 +3,7 @@ title: HTMLDocument.Applets
 second_title: Aspose.HTML for Java API Reference
 description: HTMLDocument property. A collection of all the OBJECT elements that include applets and APPLET deprecated elements in a document
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/htmldocument/applets/
 ---
 ## HTMLDocument.Applets property
@@ -18,5 +18,5 @@ public HTMLCollection Applets { get; }
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

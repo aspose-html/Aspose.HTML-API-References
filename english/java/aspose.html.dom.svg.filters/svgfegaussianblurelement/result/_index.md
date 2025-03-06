@@ -3,7 +3,7 @@ title: SVGFEGaussianBlurElement.Result
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEGaussianBlurElement property. Corresponds to attribute result on the given filter element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg.filters/svgfegaussianblurelement/result/
 ---
 ## SVGFEGaussianBlurElement.Result property
@@ -22,5 +22,5 @@ The attribute �result� of the given �filter� element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFEGaussianBlurElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfegaussianblurelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

@@ -1,12 +1,12 @@
 ---
-title: com.aspose.html.Services
+title: com.aspose.html.services
 second_title: Aspose.HTML for Java API Reference
-description: The com.aspose.html.Services package contains interfaces as protocols for service implementations
+description: The com.aspose.html.services package contains interfaces as protocols for service implementations
 type: docs
-weight: 380
+
 url: /java/com.aspose.html.services/
 ---
-The **com.aspose.html.Services** package contains interfaces as protocols for service implementations.
+The **com.aspose.html.services** package contains interfaces as protocols for service implementations.
 
 ## Interfaces
 

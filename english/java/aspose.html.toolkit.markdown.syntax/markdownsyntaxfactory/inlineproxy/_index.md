@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.InlineProxy
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates InlineProxy
 type: docs
-weight: 230
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlineproxy/
 ---
 ## MarkdownSyntaxFactory.InlineProxy method
@@ -27,5 +27,5 @@ The InlineProxy.
 * class [InlineProxy](../../inlineproxy/)
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

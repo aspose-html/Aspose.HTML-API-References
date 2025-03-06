@@ -3,7 +3,7 @@ title: HTMLElement.OnLoadedData
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnLoadedData event
 type: docs
-weight: 270
+
 url: /java/com.aspose.html/htmlelement/onloadeddata/
 ---
 ## HTMLElement.OnLoadedData event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnLoadedData;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [HTMLElement](../)
-* package [com.aspose.html](../../htmlelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

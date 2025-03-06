@@ -3,7 +3,7 @@ title: ICSS2Properties.ZIndex
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. For a positioned box the z-index property specifies
 type: docs
-weight: 1220
+
 url: /java/com.aspose.html.dom.css/icss2properties/zindex/
 ---
 ## ICSS2Properties.ZIndex property
@@ -23,5 +23,5 @@ z-index property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

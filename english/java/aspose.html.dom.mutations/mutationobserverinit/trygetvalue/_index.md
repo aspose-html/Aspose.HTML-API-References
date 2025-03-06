@@ -3,7 +3,7 @@ title: MutationObserverInit.TryGetValue
 second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit method. Gets the value associated with the specified key
 type: docs
-weight: 210
+
 url: /java/com.aspose.html.dom.mutations/mutationobserverinit/trygetvalue/
 ---
 ## MutationObserverInit.TryGetValue method
@@ -26,5 +26,5 @@ True if the [`MutationObserverInit`](../) contain a specified key; otherwise, fa
 ### See Also
 
 * class [MutationObserverInit](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserverinit/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

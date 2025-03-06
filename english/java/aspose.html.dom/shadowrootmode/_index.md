@@ -1,9 +1,9 @@
 ---
 title: ShadowRootMode Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.ShadowRootMode enum. Modes in which ShadowRoot can operate
+description: com.aspose.html.dom.ShadowRootMode enum. Modes in which ShadowRoot can operate
 type: docs
-weight: 1050
+
 url: /java/com.aspose.html.dom/shadowrootmode/
 ---
 ## ShadowRootMode enumeration
@@ -23,5 +23,5 @@ public enum ShadowRootMode
 
 ### See Also
 
-* package [com.aspose.html.Dom](../../com.aspose.html.dom/)
+* package [com.aspose.html.dom](../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../)

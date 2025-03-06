@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.Trivia
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates Whitespace
 type: docs
-weight: 470
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/trivia/
 ---
 ## MarkdownSyntaxFactory.Trivia method
@@ -29,5 +29,5 @@ The WhitespaceSyntax.
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * struct [TextSpan](../../../com.aspose.html.toolkit.markdown.syntax.text/textspan/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

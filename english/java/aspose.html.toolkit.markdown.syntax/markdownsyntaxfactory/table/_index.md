@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.Table
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates TableSyntaxNode
 type: docs
-weight: 380
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/table/
 ---
 ## MarkdownSyntaxFactory.Table method
@@ -22,5 +22,5 @@ The TableSyntax.
 
 * class [TableSyntaxNode](../../tablesyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

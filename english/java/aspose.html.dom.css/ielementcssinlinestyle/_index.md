@@ -1,9 +1,9 @@
 ---
 title: IElementCSSInlineStyle Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Css.IElementCSSInlineStyle interface. Inline style information attached to elements is exposed through the style attribute. This represents the contents of the STYLE attribute for HTML elements or elements in other schemas or DTDs which use the STYLE attribute in the same way. The expectation is that an instance of the ElementCSSInlineStyle interface can be obtained by using binding-specific casting methods on an instance of the Element interface when the element supports inline CSS style informations
+description: com.aspose.html.dom.css.IElementCSSInlineStyle interface. Inline style information attached to elements is exposed through the style attribute. This represents the contents of the STYLE attribute for HTML elements or elements in other schemas or DTDs which use the STYLE attribute in the same way. The expectation is that an instance of the ElementCSSInlineStyle interface can be obtained by using binding-specific casting methods on an instance of the Element interface when the element supports inline CSS style informations
 type: docs
-weight: 570
+
 url: /java/com.aspose.html.dom.css/ielementcssinlinestyle/
 ---
 ## IElementCSSInlineStyle interface
@@ -24,5 +24,5 @@ public interface IElementCSSInlineStyle
 
 ### See Also
 
-* package [com.aspose.html.Dom.Css](../../com.aspose.html.dom.css/)
+* package [com.aspose.html.dom.css](../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../)

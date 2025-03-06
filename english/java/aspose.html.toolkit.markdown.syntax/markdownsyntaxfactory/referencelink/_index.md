@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.ReferenceLink
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates ReferenceLinkSyntaxNode
 type: docs
-weight: 350
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/referencelink/
 ---
 ## MarkdownSyntaxFactory.ReferenceLink method
@@ -36,5 +36,5 @@ The ReferenceLinkSyntax.
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [InlineContainerSyntaxNode](../../inlinecontainersyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

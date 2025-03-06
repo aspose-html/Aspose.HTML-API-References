@@ -1,9 +1,9 @@
 ---
 title: Page Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Drawing.Page class. Represents a page object is used for configuration output page. The lacuna value for page size is A4210x297mm
+description: com.aspose.html.drawing.Page class. Represents a page object is used for configuration output page. The lacuna value for page size is A4210x297mm
 type: docs
-weight: 2820
+
 url: /java/com.aspose.html.drawing/page/
 ---
 ## Page class
@@ -34,5 +34,5 @@ public class Page
 
 ### See Also
 
-* package [com.aspose.html.Drawing](../../com.aspose.html.drawing/)
+* package [com.aspose.html.drawing](../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../)

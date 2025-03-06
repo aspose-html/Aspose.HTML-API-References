@@ -3,7 +3,7 @@ title: SVGSVGElement.CreateEvent
 second_title: Aspose.HTML for Java API Reference
 description: SVGSVGElement method. Creates an Event of a type supported by the implementation
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.dom.svg/svgsvgelement/createevent/
 ---
 ## SVGSVGElement.CreateEvent method
@@ -32,5 +32,5 @@ The newly created [`Event`](../../../com.aspose.html.dom.events/event/)
 
 * class [Event](../../../com.aspose.html.dom.events/event/)
 * class [SVGSVGElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgsvgelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: IDevice.FillText
 second_title: Aspose.HTML for Java API Reference
 description: IDevice method. Fills the specified text String at the specified location
 type: docs
-weight: 150
+
 url: /java/com.aspose.html.rendering/idevice/filltext/
 ---
 ## IDevice.FillText method
@@ -22,5 +22,5 @@ public void FillText(String text, PointF pt)
 ### See Also
 
 * interface [IDevice](../)
-* package [com.aspose.html.Rendering](../../idevice/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

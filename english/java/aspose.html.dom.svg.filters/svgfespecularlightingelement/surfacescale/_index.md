@@ -3,7 +3,7 @@ title: SVGFESpecularLightingElement.SurfaceScale
 second_title: Aspose.HTML for Java API Reference
 description: SVGFESpecularLightingElement property. Corresponds to attribute surfaceScale on the given feSpecularLighting element
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/surfacescale/
 ---
 ## SVGFESpecularLightingElement.SurfaceScale property
@@ -22,5 +22,5 @@ The attribute ‘surfaceScale’ of the given ‘feSpecularLighting’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFESpecularLightingElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfespecularlightingelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

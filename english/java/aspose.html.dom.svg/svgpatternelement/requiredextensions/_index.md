@@ -3,7 +3,7 @@ title: SVGPatternElement.RequiredExtensions
 second_title: Aspose.HTML for Java API Reference
 description: SVGPatternElement property. Corresponds to attribute requiredExtensions on the given element
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.svg/svgpatternelement/requiredextensions/
 ---
 ## SVGPatternElement.RequiredExtensions property
@@ -22,5 +22,5 @@ The required extensions.
 
 * class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
 * class [SVGPatternElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpatternelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

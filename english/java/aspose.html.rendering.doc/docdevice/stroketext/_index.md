@@ -3,7 +3,7 @@ title: DocDevice.StrokeText
 second_title: Aspose.HTML for Java API Reference
 description: DocDevice method. Strokes the specified text String at the specified location
 type: docs
-weight: 210
+
 url: /java/com.aspose.html.rendering.doc/docdevice/stroketext/
 ---
 ## DocDevice.StrokeText method
@@ -22,5 +22,5 @@ public void StrokeText(String text, PointF pt)
 ### See Also
 
 * class [DocDevice](../)
-* package [com.aspose.html.Rendering.Doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)

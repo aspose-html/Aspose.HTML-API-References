@@ -3,7 +3,7 @@ title: IMarkdownParserBuilder.UseExtension
 second_title: Aspose.HTML for Java API Reference
 description: IMarkdownParserBuilder method. Defines the UseExtension method
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useextension/
 ---
 ## IMarkdownParserBuilder.UseExtension&lt;T&gt; method
@@ -27,5 +27,5 @@ The IMarkdownParserBuilder.
 
 * class [MarkdownSyntaxExtension](../../markdownsyntaxextension/)
 * interface [IMarkdownParserBuilder](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../imarkdownparserbuilder/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

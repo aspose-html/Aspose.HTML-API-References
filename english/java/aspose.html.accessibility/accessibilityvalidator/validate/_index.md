@@ -3,7 +3,7 @@ title: AccessibilityValidator.Validate
 second_title: Aspose.HTML for Java API Reference
 description: AccessibilityValidator method. Checks all methods in the Rule List
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.accessibility/accessibilityvalidator/validate/
 ---
 ## AccessibilityValidator.Validate method
@@ -27,5 +27,5 @@ result object of validation.
 * class [ValidationResult](../../../com.aspose.html.accessibility.results/validationresult/)
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [AccessibilityValidator](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

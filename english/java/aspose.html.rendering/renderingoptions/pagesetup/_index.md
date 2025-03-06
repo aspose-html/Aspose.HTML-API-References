@@ -3,7 +3,7 @@ title: RenderingOptions.PageSetup
 second_title: Aspose.HTML for Java API Reference
 description: RenderingOptions property. Gets a page setup object is used for configuration output page-set
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.rendering/renderingoptions/pagesetup/
 ---
 ## RenderingOptions.PageSetup property
@@ -22,5 +22,5 @@ The page setup.
 
 * class [PageSetup](../../pagesetup/)
 * class [RenderingOptions](../)
-* package [com.aspose.html.Rendering](../../renderingoptions/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

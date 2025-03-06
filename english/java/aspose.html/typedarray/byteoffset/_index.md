@@ -3,7 +3,7 @@ title: TypedArray.ByteOffset
 second_title: Aspose.HTML for Java API Reference
 description: TypedArray property. Gets the byteOffset from the start of referenced ArrayBuffer
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/typedarray/byteoffset/
 ---
 ## TypedArray.ByteOffset property
@@ -21,5 +21,5 @@ The length in bytes.
 ### See Also
 
 * class [TypedArray](../)
-* package [com.aspose.html](../../typedarray/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

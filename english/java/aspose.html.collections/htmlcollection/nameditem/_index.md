@@ -3,7 +3,7 @@ title: HTMLCollection.NamedItem
 second_title: Aspose.HTML for Java API Reference
 description: HTMLCollection method. Returns the item in the collection matched specified name
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.collections/htmlcollection/nameditem/
 ---
 ## HTMLCollection.NamedItem method
@@ -26,5 +26,5 @@ The matched element
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * class [HTMLCollection](../)
-* package [com.aspose.html.Collections](../../htmlcollection/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

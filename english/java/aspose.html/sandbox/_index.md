@@ -3,7 +3,7 @@ title: Sandbox Enum
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Sandbox enum. A sandboxing flag set is a set of zero or more of the following flags which are used to restrict the abilities that potentially untrusted resources
 type: docs
-weight: 4590
+
 url: /java/com.aspose.html/sandbox/
 ---
 ## Sandbox enumeration

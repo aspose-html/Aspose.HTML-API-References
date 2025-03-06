@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoQuadraticRel.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegCurvetoQuadraticRel property. The relative X coordinate for the end point of this path segment
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticrel/x/
 ---
 ## SVGPathSegCurvetoQuadraticRel.X property
@@ -27,5 +27,5 @@ The relative X coordinate
 ### See Also
 
 * class [SVGPathSegCurvetoQuadraticRel](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathsegcurvetoquadraticrel/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

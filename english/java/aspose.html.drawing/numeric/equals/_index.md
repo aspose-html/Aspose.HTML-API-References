@@ -3,7 +3,7 @@ title: Numeric.Equals
 second_title: Aspose.HTML for Java API Reference
 description: Numeric method. Determines whether the specified Unit is equal to this instance
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.drawing/numeric/equals/
 ---
 ## Numeric.Equals method
@@ -26,5 +26,5 @@ public bool Equals(Unit other)
 
 * class [Unit](../../unit/)
 * class [Numeric](../)
-* package [com.aspose.html.Drawing](../../numeric/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

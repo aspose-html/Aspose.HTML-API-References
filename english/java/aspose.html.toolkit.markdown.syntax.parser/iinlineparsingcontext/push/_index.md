@@ -3,7 +3,7 @@ title: IInlineParsingContext.Push
 second_title: Aspose.HTML for Java API Reference
 description: IInlineParsingContext method. Defines the Push method
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/push/
 ---
 ## Push(InlineSyntaxNode) {#push}
@@ -22,7 +22,7 @@ public void Push(InlineSyntaxNode syntax)
 
 * class [InlineSyntaxNode](../../../com.aspose.html.toolkit.markdown.syntax/inlinesyntaxnode/)
 * interface [IInlineParsingContext](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../iinlineparsingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -43,5 +43,5 @@ public void Push(DelimiterRun delimiter)
 
 * class [DelimiterRun](../../delimiterrun/)
 * interface [IInlineParsingContext](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../iinlineparsingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

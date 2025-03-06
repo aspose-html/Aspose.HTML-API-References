@@ -3,7 +3,7 @@ title: SVGFEImageElement.Href
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEImageElement property. Corresponds to attribute xlinkhref on the given element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeimageelement/href/
 ---
 ## SVGFEImageElement.Href property
@@ -22,5 +22,5 @@ The ‘xlink:href’ of the given element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFEImageElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeimageelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

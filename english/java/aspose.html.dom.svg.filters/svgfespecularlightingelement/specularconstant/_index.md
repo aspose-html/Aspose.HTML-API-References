@@ -3,7 +3,7 @@ title: SVGFESpecularLightingElement.SpecularConstant
 second_title: Aspose.HTML for Java API Reference
 description: SVGFESpecularLightingElement property. Corresponds to attribute specularConstant on the given feSpecularLighting element
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg.filters/svgfespecularlightingelement/specularconstant/
 ---
 ## SVGFESpecularLightingElement.SpecularConstant property
@@ -22,5 +22,5 @@ The attribute ‘specularConstant’ of the given ‘feSpecularLighting’ eleme
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFESpecularLightingElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfespecularlightingelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

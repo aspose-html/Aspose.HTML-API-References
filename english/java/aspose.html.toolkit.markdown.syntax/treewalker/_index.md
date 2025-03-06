@@ -1,9 +1,9 @@
 ---
 title: TreeWalker Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.TreeWalker class. A tree walker
+description: com.aspose.html.toolkit.markdown.syntax.TreeWalker class. A tree walker
 type: docs
-weight: 5700
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/treewalker/
 ---
 ## TreeWalker class
@@ -39,5 +39,5 @@ public class TreeWalker : Traversal
 ### See Also
 
 * class [Traversal](../traversal/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

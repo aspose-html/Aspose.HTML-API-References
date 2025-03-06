@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.CharacterReference
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates WhitespaceSyntaxNode
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/characterreference/
 ---
 ## MarkdownSyntaxFactory.CharacterReference method
@@ -31,5 +31,5 @@ The CharacterReferenceSyntax.
 * class [SourceText](../../../com.aspose.html.toolkit.markdown.syntax.text/sourcetext/)
 * struct [TextSpan](../../../com.aspose.html.toolkit.markdown.syntax.text/textspan/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

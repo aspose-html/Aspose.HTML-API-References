@@ -3,7 +3,7 @@ title: FileCreateStreamProvider.Directory
 second_title: Aspose.HTML for Java API Reference
 description: FileCreateStreamProvider property. Gets or sets the directory
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.io/filecreatestreamprovider/directory/
 ---
 ## FileCreateStreamProvider.Directory property
@@ -21,5 +21,5 @@ The directory.
 ### See Also
 
 * class [FileCreateStreamProvider](../)
-* package [com.aspose.html.IO](../../filecreatestreamprovider/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)

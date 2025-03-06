@@ -3,7 +3,7 @@ title: HTMLElement.OnClick
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnClick event
 type: docs
-weight: 130
+
 url: /java/com.aspose.html/htmlelement/onclick/
 ---
 ## HTMLElement.OnClick event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnClick;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [HTMLElement](../)
-* package [com.aspose.html](../../htmlelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

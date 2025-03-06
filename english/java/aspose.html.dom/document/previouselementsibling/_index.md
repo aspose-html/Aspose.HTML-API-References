@@ -3,7 +3,7 @@ title: Document.PreviousElementSibling
 second_title: Aspose.HTML for Java API Reference
 description: Document property. Returns the previous sibling element node of this element. null if this element has no element sibling nodes that come before this one in the document tree
 type: docs
-weight: 220
+
 url: /java/com.aspose.html.dom/document/previouselementsibling/
 ---
 ## Document.PreviousElementSibling property
@@ -18,5 +18,5 @@ public Element PreviousElementSibling { get; }
 
 * class [Element](../../element/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

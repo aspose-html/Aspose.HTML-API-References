@@ -3,7 +3,7 @@ title: FontsSettings.SetFontsLookupFolder
 second_title: Aspose.HTML for Java API Reference
 description: FontsSettings method. Sets folder used during fonts selection
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/fontssettings/setfontslookupfolder/
 ---
 ## SetFontsLookupFolder(String) {#setfontslookupfolder}
@@ -21,7 +21,7 @@ public void SetFontsLookupFolder(String fontsFolder)
 ### See Also
 
 * class [FontsSettings](../)
-* package [com.aspose.html](../../fontssettings/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -42,5 +42,5 @@ public void SetFontsLookupFolder(String fontsFolder, bool recursive)
 ### See Also
 
 * class [FontsSettings](../)
-* package [com.aspose.html](../../fontssettings/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

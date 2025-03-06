@@ -3,7 +3,7 @@ title: Float64Array
 second_title: Aspose.HTML for Java API Reference
 description: Float64Array constructor. Initializes a new instance of the Float64Array class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/float64array/float64array/
 ---
 ## Float64Array(int) {#constructor_4}
@@ -21,7 +21,7 @@ public Float64Array(int length)
 ### See Also
 
 * class [Float64Array](../)
-* package [com.aspose.html](../../float64array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -41,7 +41,7 @@ public Float64Array(double[] data)
 ### See Also
 
 * class [Float64Array](../)
-* package [com.aspose.html](../../float64array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -62,7 +62,7 @@ public Float64Array(ArrayBuffer buffer)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Float64Array](../)
-* package [com.aspose.html](../../float64array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -84,7 +84,7 @@ public Float64Array(ArrayBuffer buffer, int byteOffset)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Float64Array](../)
-* package [com.aspose.html](../../float64array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,5 +107,5 @@ public Float64Array(ArrayBuffer buffer, int byteOffset, int length)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Float64Array](../)
-* package [com.aspose.html](../../float64array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

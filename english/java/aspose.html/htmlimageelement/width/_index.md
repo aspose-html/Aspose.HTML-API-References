@@ -3,7 +3,7 @@ title: HTMLImageElement.Width
 second_title: Aspose.HTML for Java API Reference
 description: HTMLImageElement property. The width of the image in pixels. See the width attribute definition in HTML 4.01. Note that the type of this attribute was DOMString in DOM Level 1 HTML DOM Level 1. version DOM Level 2
 type: docs
-weight: 120
+
 url: /java/com.aspose.html/htmlimageelement/width/
 ---
 ## HTMLImageElement.Width property
@@ -17,5 +17,5 @@ public float Width { get; set; }
 ### See Also
 
 * class [HTMLImageElement](../)
-* package [com.aspose.html](../../htmlimageelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

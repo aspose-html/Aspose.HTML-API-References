@@ -1,9 +1,9 @@
 ---
 title: SVGMarkerElement Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.SVGMarkerElement class. The SVGMarkerElement interface corresponds to the marker element
+description: com.aspose.html.dom.svg.SVGMarkerElement class. The SVGMarkerElement interface corresponds to the marker element
 type: docs
-weight: 2170
+
 url: /java/com.aspose.html.dom.svg/svgmarkerelement/
 ---
 ## SVGMarkerElement class
@@ -44,8 +44,7 @@ public class SVGMarkerElement : SVGElement, ISVGFitToViewBox
 | [getNextSibling](../../com.aspose.html.dom/node/nextsibling/) The read-only nextSibling property of the [`Node`](../../com.aspose.html.dom/node/) interface returns the node immediately following the specified one in their parent's [`childNodes`](../../com.aspose.html.dom/node/childnodes/), or returns null if the specified node is the last child in the parent element. |
 | [getNodeName](../../com.aspose.html.dom/element/nodename/) The name of this node, depending on its type. |
 | [getNodeType](../../com.aspose.html.dom/element/nodetype/) A code representing the type of the underlying object. |
-[getNodeValue]
-[setNodeValue] The nodeValue property of the [`Node `](../../com.aspose.html.dom/node/)interface returns or sets the value of the current node. |
+| [nodeValue](../../com.aspose.html.dom/node/nodevalue/) { get; set; } | The nodeValue property of the [`Node `](../../com.aspose.html.dom/node/)interface returns or sets the value of the current node. |
 | [getOrientAngle](../../com.aspose.html.dom.svg/svgmarkerelement/orientangle/) Corresponds to attribute ‘orient’ on the given ‘marker’ element. If markerUnits is SVG_MARKER_ORIENT_ANGLE, the angle value for attribute ‘orient’; otherwise, it will be set to zero. |
 | [getOrientType](../../com.aspose.html.dom.svg/svgmarkerelement/orienttype/) Corresponds to attribute ‘orient’ on the given ‘marker’ element. One of the Marker Orientation Types defined on this interface. |
 [getOuterHTML]
@@ -60,12 +59,10 @@ public class SVGMarkerElement : SVGElement, ISVGFitToViewBox
 | [getPreviousSibling](../../com.aspose.html.dom/node/previoussibling/) The read-only previousSibling property of the [`Node`](../../com.aspose.html.dom/node/) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../../com.aspose.html.dom/node/firstchild/) list, or null if the specified node is the first in that list. |
 | [getRefX](../../com.aspose.html.dom.svg/svgmarkerelement/refx/) Corresponds to attribute ‘refX’ on the given ‘marker’ element. |
 | [getRefY](../../com.aspose.html.dom.svg/svgmarkerelement/refy/) Corresponds to attribute ‘refY’ on the given ‘marker’ element. |
-| [getSchemaTypeInfo](../../com.aspose.html.dom/element/schematypeinfo/) The type information associated with this element. |
 | [getShadowRoot](../../com.aspose.html.dom/element/shadowroot/) Returns shadowRoot stored on this element or null if it's closed. |
 | [getStyle](../../com.aspose.html.dom.svg/svgelement/style/) Corresponds to attribute ‘style’ on the given element. If the user agent does not support styling with CSS, then this attribute must always have the value of null. |
 | [getTagName](../../com.aspose.html.dom/element/tagname/) The name of the element. |
-[getTextContent]
-[setTextContent] This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new String is not empty or null, replaced by a single Text node containing the String this attribute is set to. |
+| [textContent](../../com.aspose.html.dom/element/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new String is not empty or null, replaced by a single Text node containing the String this attribute is set to. |
 | [getViewBox](../../com.aspose.html.dom.svg/svgmarkerelement/viewbox/) Corresponds to attribute ‘viewBox’ on the given element. |
 | [getViewportElement](../../com.aspose.html.dom.svg/svgelement/viewportelement/) The element which established the current viewport. Often, the nearest ancestor ‘svg’ element. Null if the given element is the outermost svg element. |
 
@@ -74,8 +71,8 @@ public class SVGMarkerElement : SVGElement, ISVGFitToViewBox
 | Name | Description |
 | --- | --- |
 | [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener) | The addEventListener() method of the [`EventTarget `](../../com.aspose.html.dom/eventtarget/)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
 | [appendChild](../../com.aspose.html.dom/node/appendchild/)(Node) | The appendChild() method of the Node interface adds a node to the end of the list of children of a specified parent node. If the given child is a reference to an existing node in the document, appendChild() moves it from its current position to the new position (there is no requirement to remove the node from its parent node before appending it to some other node). |
 | [attachShadow](../../com.aspose.html.dom/element/attachshadow/)(ShadowRootMode) | Creates shadow root and attaches it to current element. |
 | [cloneNode](../../com.aspose.html.dom/node/clonenode/)() | The cloneNode() method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not. |
@@ -83,6 +80,7 @@ public class SVGMarkerElement : SVGElement, ISVGFitToViewBox
 | [dispatchEvent](../../com.aspose.html.dom/eventtarget/dispatchevent/)(Event) | Dispatches an Event at the specified [`EventTarget`](../../com.aspose.html.dom.events/ieventtarget/), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`dispatchEvent()`](../../com.aspose.html.dom.events/ieventtarget/dispatchevent/). |
 | [dispose](../../com.aspose.html.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [getAttribute](../../com.aspose.html.dom/element/getattribute/)(String) | Retrieves an attribute value by name. |
+| [getAttributeNames](../../com.aspose.html.dom/element/getattributenames/)() | Returns the attribute names of the element as an Array of Strings. If the element has no attributes it returns an empty array. |
 | [getAttributeNode](../../com.aspose.html.dom/element/getattributenode/)(String) | Retrieves an attribute node by name. |
 | [getAttributeNodeNS](../../com.aspose.html.dom/element/getattributenodens/)(String, String) | Retrieves an Attr node by local name and package URI. |
 | [getAttributeNS](../../com.aspose.html.dom/element/getattributens/)(String, String) | Retrieves an attribute value by local name and package URI. |
@@ -116,11 +114,10 @@ public class SVGMarkerElement : SVGElement, ISVGFitToViewBox
 | [setAttributeNode](../../com.aspose.html.dom/element/setattributenode/)(Attr) | Adds a new attribute node. If an attribute with that name (nodeName) is already present in the element, it is replaced by the new one. |
 | [setAttributeNodeNS](../../com.aspose.html.dom/element/setattributenodens/)(Attr) | Adds a new attribute. If an attribute with that local name and that package URI is already present in the element, it is replaced by the new one. |
 | [setAttributeNS](../../com.aspose.html.dom/element/setattributens/)(String, String, String) | Adds a new attribute. If an attribute with the same local name and package URI is already present on the element, its prefix is changed to be the prefix part of the qualifiedName, and its value is changed to be the value parameter. |
-| [setIdAttribute](../../com.aspose.html.dom/element/setidattribute/)(String, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [setIdAttributeNode](../../com.aspose.html.dom/element/setidattributenode/)(Attr, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [setIdAttributeNS](../../com.aspose.html.dom/element/setidattributens/)(String, String, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
 | [setOrientToAngle](../../com.aspose.html.dom.svg/svgmarkerelement/setorienttoangle/)(SVGAngle) | Sets the value of attribute ‘orient’ to the given angle. |
 | [setOrientToAuto](../../com.aspose.html.dom.svg/svgmarkerelement/setorienttoauto/)() | Sets the value of attribute ‘orient’ to 'auto'. |
+| [toggleAttribute](../../com.aspose.html.dom/element/toggleattribute/)(String) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
+| [toggleAttribute](../../com.aspose.html.dom/element/toggleattribute/)(String, bool) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | [toString](../../com.aspose.html.dom/node/toString/)() | Returns a String that represents this instance. |
 
 ## Fields
@@ -138,5 +135,5 @@ public class SVGMarkerElement : SVGElement, ISVGFitToViewBox
 
 * class [SVGElement](../svgelement/)
 * interface [ISVGFitToViewBox](../isvgfittoviewbox/)
-* package [com.aspose.html.Dom.Svg](../../com.aspose.html.dom.svg/)
+* package [com.aspose.html.dom.svg](../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../)

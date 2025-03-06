@@ -3,7 +3,7 @@ title: IDevice.EndPage
 second_title: Aspose.HTML for Java API Reference
 description: IDevice method. Ends rendering of the current page
 type: docs
-weight: 130
+
 url: /java/com.aspose.html.rendering/idevice/endpage/
 ---
 ## IDevice.EndPage method
@@ -17,5 +17,5 @@ public void EndPage()
 ### See Also
 
 * interface [IDevice](../)
-* package [com.aspose.html.Rendering](../../idevice/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

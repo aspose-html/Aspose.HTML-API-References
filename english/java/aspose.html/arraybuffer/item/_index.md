@@ -3,7 +3,7 @@ title: ArrayBuffer.Item
 second_title: Aspose.HTML for Java API Reference
 description: ArrayBuffer property. Gets or sets the Byte at the specified index
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/arraybuffer/item/
 ---
 ## ArrayBuffer indexer
@@ -25,5 +25,5 @@ The Byte.
 ### See Also
 
 * class [ArrayBuffer](../)
-* package [com.aspose.html](../../arraybuffer/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

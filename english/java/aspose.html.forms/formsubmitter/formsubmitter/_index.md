@@ -3,7 +3,7 @@ title: FormSubmitter
 second_title: Aspose.HTML for Java API Reference
 description: FormSubmitter constructor. Initializes a new instance of the FormSubmitter class based on HTMLFormElement
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.forms/formsubmitter/formsubmitter/
 ---
 ## FormSubmitter(HTMLFormElement) {#constructor_3}
@@ -22,7 +22,7 @@ public FormSubmitter(HTMLFormElement form)
 
 * class [HTMLFormElement](../../../com.aspose.html/htmlformelement/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -44,7 +44,7 @@ public FormSubmitter(HTMLDocument document, int index)
 
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -66,7 +66,7 @@ public FormSubmitter(HTMLDocument document, String id)
 
 * class [HTMLDocument](../../../com.aspose.html/htmldocument/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -87,5 +87,5 @@ public FormSubmitter(FormEditor editor)
 
 * class [FormEditor](../../formeditor/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

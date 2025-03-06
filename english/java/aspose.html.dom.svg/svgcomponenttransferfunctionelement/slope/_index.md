@@ -3,7 +3,7 @@ title: SVGComponentTransferFunctionElement.Slope
 second_title: Aspose.HTML for Java API Reference
 description: SVGComponentTransferFunctionElement property. Corresponds to attribute slope on the given element
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/slope/
 ---
 ## SVGComponentTransferFunctionElement.Slope property
@@ -22,5 +22,5 @@ The attribute ‘slope’ of the given element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgcomponenttransferfunctionelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: INetworkOperationContext.Response
 second_title: Aspose.HTML for Java API Reference
 description: INetworkOperationContext property. Gets or sets the response message
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.net/inetworkoperationcontext/response/
 ---
 ## INetworkOperationContext.Response property
@@ -22,5 +22,5 @@ The response message.
 
 * class [ResponseMessage](../../responsemessage/)
 * interface [INetworkOperationContext](../)
-* package [com.aspose.html.Net](../../inetworkoperationcontext/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

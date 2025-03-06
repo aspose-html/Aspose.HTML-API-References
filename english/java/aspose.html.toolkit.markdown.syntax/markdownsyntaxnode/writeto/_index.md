@@ -3,7 +3,7 @@ title: MarkdownSyntaxNode.WriteTo
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode method. Write nodes to text writer
 type: docs
-weight: 160
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/
 ---
 ## WriteTo(TextWriter) {#writeto_1}
@@ -21,7 +21,7 @@ public void WriteTo(TextWriter writer)
 ### See Also
 
 * class [MarkdownSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -42,5 +42,5 @@ public void WriteTo(MarkdownTextWriter writer)
 
 * class [MarkdownTextWriter](../../markdowntextwriter/)
 * class [MarkdownSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

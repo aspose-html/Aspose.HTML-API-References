@@ -3,7 +3,7 @@ title: NamedNodeMap.Item
 second_title: Aspose.HTML for Java API Reference
 description: NamedNodeMap property. Returns the index-th item in the map. If index is greater than or equal to the number of nodes in this map this returns null
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.collections/namednodemap/item/
 ---
 ## NamedNodeMap indexer (1 of 2)
@@ -30,7 +30,7 @@ The [`Attr`](../../../com.aspose.html.dom/attr/).
 
 * class [Attr](../../../com.aspose.html.dom/attr/)
 * class [NamedNodeMap](../)
-* package [com.aspose.html.Collections](../../namednodemap/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -59,5 +59,5 @@ The [`Attr`](../../../com.aspose.html.dom/attr/).
 
 * class [Attr](../../../com.aspose.html.dom/attr/)
 * class [NamedNodeMap](../)
-* package [com.aspose.html.Collections](../../namednodemap/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

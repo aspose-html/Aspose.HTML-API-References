@@ -3,7 +3,7 @@ title: AtxHeadingSyntaxNode.GetOpeningTag
 second_title: Aspose.HTML for Java API Reference
 description: AtxHeadingSyntaxNode method. Defines the interface for get OpeningTag
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/atxheadingsyntaxnode/getopeningtag/
 ---
 ## AtxHeadingSyntaxNode.GetOpeningTag method
@@ -22,5 +22,5 @@ The MarkdownSyntaxToken.
 
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [AtxHeadingSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../atxheadingsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

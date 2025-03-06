@@ -3,7 +3,7 @@ title: INetwork.Send
 second_title: Aspose.HTML for Java API Reference
 description: INetwork method. Sends a RequestMessage message
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.net/inetwork/send/
 ---
 ## INetwork.Send method
@@ -27,5 +27,5 @@ A [`ResponseMessage`](../../responsemessage/) message
 * class [ResponseMessage](../../responsemessage/)
 * class [RequestMessage](../../requestmessage/)
 * interface [INetwork](../)
-* package [com.aspose.html.Net](../../inetwork/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: IXPathResult.SnapshotItem
 second_title: Aspose.HTML for Java API Reference
 description: IXPathResult method. Returns the indexth item in the snapshot collection. If index is greater than or equal to the number of nodes in the list this method returns null. Unlike the iterator result the snapshot does not become invalid but may not correspond to the current document if it is mutated
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.dom.xpath/ixpathresult/snapshotitem/
 ---
 ## IXPathResult.SnapshotItem method
@@ -32,5 +32,5 @@ The node at the `index`th position in the `NodeList`, or `null` if that is not a
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [IXPathResult](../)
-* package [com.aspose.html.Dom.XPath](../../ixpathresult/)
+* package [com.aspose.html.dom.xpath](../../../com.aspose.html.dom.xpath/)
 * package [Aspose.HTML](../../../)

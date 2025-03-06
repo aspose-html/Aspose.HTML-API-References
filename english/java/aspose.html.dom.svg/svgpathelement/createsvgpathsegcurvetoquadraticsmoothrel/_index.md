@@ -3,7 +3,7 @@ title: SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothRel
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegCurvetoQuadraticSmoothRel object
 type: docs
-weight: 130
+
 url: /java/com.aspose.html.dom.svg/svgpathelement/createsvgpathsegcurvetoquadraticsmoothrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoQuadraticSmoothRel method
@@ -28,5 +28,5 @@ A stand-alone, parentless SVGPathSegCurvetoQuadraticSmoothRel object.
 
 * class [SVGPathSegCurvetoQuadraticSmoothRel](../../../com.aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticsmoothrel/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

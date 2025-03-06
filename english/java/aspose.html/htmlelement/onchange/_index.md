@@ -3,7 +3,7 @@ title: HTMLElement.OnChange
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnChange event
 type: docs
-weight: 120
+
 url: /java/com.aspose.html/htmlelement/onchange/
 ---
 ## HTMLElement.OnChange event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnChange;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [HTMLElement](../)
-* package [com.aspose.html](../../htmlelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGPathSegArcRel.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegArcRel property. The relative X coordinate for the end point of this path segment
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegarcrel/x/
 ---
 ## SVGPathSegArcRel.X property
@@ -27,5 +27,5 @@ The relative X coordinate
 ### See Also
 
 * class [SVGPathSegArcRel](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathsegarcrel/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

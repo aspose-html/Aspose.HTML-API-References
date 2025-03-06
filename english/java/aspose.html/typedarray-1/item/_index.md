@@ -3,7 +3,7 @@ title: TypedArray-1.Item
 second_title: Aspose.HTML for Java API Reference
 description: TypedArray property. Gets or sets the T at the specified index
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/typedarray-1/item/
 ---
 ## TypedArray&lt;T&gt; indexer
@@ -25,5 +25,5 @@ The !:T.
 ### See Also
 
 * class [TypedArray&lt;T&gt;](../)
-* package [com.aspose.html](../../typedarray-1/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

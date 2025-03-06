@@ -3,7 +3,7 @@ title: IBlockParsingContext.Delete
 second_title: Aspose.HTML for Java API Reference
 description: IBlockParsingContext method. Defines the Delete method
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/delete/
 ---
 ## IBlockParsingContext.Delete method
@@ -22,5 +22,5 @@ public void Delete(BlockSyntaxDescriptor head)
 
 * class [BlockSyntaxDescriptor](../../blocksyntaxdescriptor/)
 * interface [IBlockParsingContext](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../iblockparsingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGAngle.NewValueSpecifiedUnits
 second_title: Aspose.HTML for Java API Reference
 description: SVGAngle method. Reset the value as a number with an associated unitType thereby replacing the values for all of the attributes on the object
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgangle/newvaluespecifiedunits/
 ---
 ## SVGAngle.NewValueSpecifiedUnits method
@@ -29,5 +29,5 @@ public void NewValueSpecifiedUnits(ushort newUnitType, float valueInSpecifiedUni
 ### See Also
 
 * class [SVGAngle](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgangle/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

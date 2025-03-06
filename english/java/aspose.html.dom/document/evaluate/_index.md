@@ -3,7 +3,7 @@ title: Document.Evaluate
 second_title: Aspose.HTML for Java API Reference
 description: Document method. Evaluates an XPath expression String and returns a result of the specified type if possible
 type: docs
-weight: 950
+
 url: /java/com.aspose.html.dom/document/evaluate/
 ---
 ## Document.Evaluate method
@@ -34,5 +34,5 @@ The result of the evaluation of the XPath expression.
 * interface [IXPathNSResolver](../../../com.aspose.html.dom.xpath/ixpathnsresolver/)
 * enum [XPathResultType](../../../com.aspose.html.dom.xpath/xpathresulttype/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

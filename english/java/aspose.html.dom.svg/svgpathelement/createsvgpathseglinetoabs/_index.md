@@ -3,7 +3,7 @@ title: SVGPathElement.CreateSVGPathSegLinetoAbs
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegLinetoAbs object
 type: docs
-weight: 140
+
 url: /java/com.aspose.html.dom.svg/svgpathelement/createsvgpathseglinetoabs/
 ---
 ## SVGPathElement.CreateSVGPathSegLinetoAbs method
@@ -27,5 +27,5 @@ A stand-alone, parentless SVGPathSegLinetoAbs object.
 
 * class [SVGPathSegLinetoAbs](../../../com.aspose.html.dom.svg.paths/svgpathseglinetoabs/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

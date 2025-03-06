@@ -3,7 +3,7 @@ title: ICSS2Properties.UnicodeBidi
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. Values for this property have the following meanings
 type: docs
-weight: 1130
+
 url: /java/com.aspose.html.dom.css/icss2properties/unicodebidi/
 ---
 ## ICSS2Properties.UnicodeBidi property
@@ -23,5 +23,5 @@ unicode-bidi property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

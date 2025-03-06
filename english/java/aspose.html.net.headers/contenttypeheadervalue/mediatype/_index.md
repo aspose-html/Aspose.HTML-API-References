@@ -3,7 +3,7 @@ title: ContentTypeHeaderValue.MediaType
 second_title: Aspose.HTML for Java API Reference
 description: ContentTypeHeaderValue property. Gets or sets the media-type for content
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.net.headers/contenttypeheadervalue/mediatype/
 ---
 ## ContentTypeHeaderValue.MediaType property
@@ -22,5 +22,5 @@ The type of the media.
 
 * class [MimeType](../../../com.aspose.html/mimetype/)
 * class [ContentTypeHeaderValue](../)
-* package [com.aspose.html.Net.Headers](../../contenttypeheadervalue/)
+* package [com.aspose.html.net.headers](../../../com.aspose.html.net.headers/)
 * package [Aspose.HTML](../../../)

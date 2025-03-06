@@ -3,7 +3,7 @@ title: HTMLOptionElement.Form
 second_title: Aspose.HTML for Java API Reference
 description: HTMLOptionElement property. Returns the FORM element containing this control. Returns null if this control is not within the context of a form
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/htmloptionelement/form/
 ---
 ## HTMLOptionElement.Form property
@@ -18,5 +18,5 @@ public HTMLFormElement Form { get; }
 
 * class [HTMLFormElement](../../htmlformelement/)
 * class [HTMLOptionElement](../)
-* package [com.aspose.html](../../htmloptionelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

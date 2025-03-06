@@ -1,9 +1,9 @@
 ---
-title: com.aspose.html.dom.Css
+title: com.aspose.html.dom.css
 second_title: Aspose.HTML for Java API Reference
 description: Provides interfaces for DOM Level 2 Style Specification. Cascading Style Sheets CSS is a style sheet language that allows authors and users to attach style e.g. fonts and spacing to structured documents e.g. HTML documents and XML applications. It supports media-specific style sheets so that authors may tailor the presentation of their documents to visual browsers aural devices printers braille devices handheld devices etc. It also supports content positioning table layout features for internationalization and some properties related to user interface. By separating the presentation style of documents from the content of documents CSS simplifies Web authoring and site maintenance
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.dom.css/
 ---
 Provides interfaces for DOM Level 2 Style Specification. Cascading Style Sheets (CSS) is a style sheet language that allows authors and users to attach style (e.g., fonts and spacing) to structured documents (e.g., HTML documents and XML applications). It supports media-specific style sheets so that authors may tailor the presentation of their documents to visual browsers, aural devices, printers, braille devices, handheld devices, etc. It also supports content positioning, table layout, features for internationalization and some properties related to user interface. By separating the presentation style of documents from the content of documents, CSS simplifies Web authoring and site maintenance.
@@ -36,7 +36,7 @@ Provides interfaces for DOM Level 2 Style Specification. Cascading Style Sheets 
 | [ICSSRuleList](./icssrulelist/) | A CSSRuleList represents an ordered collection of read-only [`CSSRule`](../com.aspose.html.dom.css/icssrule/) objects. |
 | [ICSSStyleDeclaration](./icssstyledeclaration/) | The CSSStyleDeclaration interface represents an object that is a CSS declaration block, and exposes style information and various style-related methods and properties. |
 | [ICSSStyleRule](./icssstylerule/) | The CSSStyleRule interface represents a single CSS style rule. The selectorText attribute, on getting, must return the result of serializing the associated group of selectors |
-| [ICSSStyleSheet](./icssstylesheet/) | The CSSStyleSheet interface represents a single CSS stylesheet, and lets you inspect and modify the list of rules contained in the stylesheet. It inherits properties and methods from its parent, [`StyleSheet`](../com.aspose.html.dom.css/istylesheet/). |
+| [ICSSStyleSheet](./icssstylesheet/) | The CSSStyleSheet interface represents a single CSS stylesheet, and lets you inspect and modify the list of rules contained in the stylesheet. It inherits properties and methods from its parent, [`IStyleSheet`](../com.aspose.html.dom.css/istylesheet/). |
 | [ICSSUnknownRule](./icssunknownrule/) | The CSSUnknownRule interface represents an at-rule not supported by this user agent. |
 | [ICSSValueList](./icssvaluelist/) | The CSSValueList interface derives from the [`CSSValue`](../com.aspose.html.dom.css/cssvalue/) interface and provides the abstraction of an ordered collection of CSS values. |
 | [IDocumentCSS](./idocumentcss/) | This interface represents a document with a CSS view. |

@@ -3,7 +3,7 @@ title: HTMLBaseElement.Href
 second_title: Aspose.HTML for Java API Reference
 description: HTMLBaseElement property. The base URI IETF RFC 2396. See the href attribute definition in HTML 4.01
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/htmlbaseelement/href/
 ---
 ## HTMLBaseElement.Href property
@@ -17,5 +17,5 @@ public String Href { get; set; }
 ### See Also
 
 * class [HTMLBaseElement](../)
-* package [com.aspose.html](../../htmlbaseelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

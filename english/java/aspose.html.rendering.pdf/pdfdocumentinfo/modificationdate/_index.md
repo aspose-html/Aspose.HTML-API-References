@@ -3,7 +3,7 @@ title: PdfDocumentInfo.ModificationDate
 second_title: Aspose.HTML for Java API Reference
 description: PdfDocumentInfo property. Gets or sets the documents modification date specified as the Coordinated Universal Time UTC
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.rendering.pdf/pdfdocumentinfo/modificationdate/
 ---
 ## PdfDocumentInfo.ModificationDate property
@@ -17,5 +17,5 @@ public DateTime ModificationDate { get; set; }
 ### See Also
 
 * class [PdfDocumentInfo](../)
-* package [com.aspose.html.Rendering.Pdf](../../pdfdocumentinfo/)
+* package [com.aspose.html.rendering.pdf](../../../com.aspose.html.rendering.pdf/)
 * package [Aspose.HTML](../../../)

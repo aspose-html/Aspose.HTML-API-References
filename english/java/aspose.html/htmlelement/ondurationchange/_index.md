@@ -3,7 +3,7 @@ title: HTMLElement.OnDurationChange
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnDurationChange event
 type: docs
-weight: 160
+
 url: /java/com.aspose.html/htmlelement/ondurationchange/
 ---
 ## HTMLElement.OnDurationChange event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnDurationChange;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [HTMLElement](../)
-* package [com.aspose.html](../../htmlelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -1,12 +1,12 @@
 ---
-title: com.aspose.html.Accessibility.Results
+title: com.aspose.html.accessibility.results
 second_title: Aspose.HTML for Java API Reference
-description: The com.aspose.html.Accessibility.Results package contains classes that describe the results of rule validation
+description: The com.aspose.html.accessibility.results package contains classes that describe the results of rule validation
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.accessibility.results/
 ---
-The **com.aspose.html.Accessibility.Results** package contains classes that describe the results of rule validation
+The **com.aspose.html.accessibility.results** package contains classes that describe the results of rule validation
 
 ## Classes
 

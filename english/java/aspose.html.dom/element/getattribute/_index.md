@@ -3,7 +3,7 @@ title: Element.GetAttribute
 second_title: Aspose.HTML for Java API Reference
 description: Element method. Retrieves an attribute value by name
 type: docs
-weight: 240
+
 url: /java/com.aspose.html.dom/element/getattribute/
 ---
 ## Element.GetAttribute method
@@ -11,7 +11,7 @@ url: /java/com.aspose.html.dom/element/getattribute/
 Retrieves an attribute value by name.
 
 ```java
-public String GetAttribute(String name)
+public String GetAttribute(String qualifiedName)
 ```
 
 | Parameter | Type | Description |
@@ -25,5 +25,5 @@ Returns attribute value
 ### See Also
 
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

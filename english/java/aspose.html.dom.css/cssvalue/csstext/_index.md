@@ -3,7 +3,7 @@ title: CSSValue.CSSText
 second_title: Aspose.HTML for Java API Reference
 description: CSSValue property. The cssText property of the CSSValue interface represents the current computed CSS property value
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.css/cssvalue/csstext/
 ---
 ## CSSValue.CSSText property
@@ -23,5 +23,5 @@ A DOMString representing the current CSS property value.
 ### See Also
 
 * class [CSSValue](../)
-* package [com.aspose.html.Dom.Css](../../cssvalue/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

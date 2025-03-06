@@ -3,7 +3,7 @@ title: MultipartContent
 second_title: Aspose.HTML for Java API Reference
 description: MultipartContent constructor. Create a new instance of the MultipartContent class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.net/multipartcontent/multipartcontent/
 ---
 ## MultipartContent() {#constructor}
@@ -17,7 +17,7 @@ public MultipartContent()
 ### See Also
 
 * class [MultipartContent](../)
-* package [com.aspose.html.Net](../../multipartcontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -37,7 +37,7 @@ public MultipartContent(String subtype)
 ### See Also
 
 * class [MultipartContent](../)
-* package [com.aspose.html.Net](../../multipartcontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -64,5 +64,5 @@ public MultipartContent(String subtype, String boundary)
 ### See Also
 
 * class [MultipartContent](../)
-* package [com.aspose.html.Net](../../multipartcontent/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

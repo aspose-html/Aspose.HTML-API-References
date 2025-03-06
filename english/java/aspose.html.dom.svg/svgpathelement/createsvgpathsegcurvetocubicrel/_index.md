@@ -3,7 +3,7 @@ title: SVGPathElement.CreateSVGPathSegCurvetoCubicRel
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegCurvetoCubicRel object
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.svg/svgpathelement/createsvgpathsegcurvetocubicrel/
 ---
 ## SVGPathElement.CreateSVGPathSegCurvetoCubicRel method
@@ -32,5 +32,5 @@ A stand-alone, parentless SVGPathSegCurvetoCubicRel object.
 
 * class [SVGPathSegCurvetoCubicRel](../../../com.aspose.html.dom.svg.paths/svgpathsegcurvetocubicrel/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

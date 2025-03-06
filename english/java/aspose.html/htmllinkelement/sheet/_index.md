@@ -3,7 +3,7 @@ title: HTMLLinkElement.Sheet
 second_title: Aspose.HTML for Java API Reference
 description: HTMLLinkElement property. Gets the associated style sheet
 type: docs
-weight: 90
+
 url: /java/com.aspose.html/htmllinkelement/sheet/
 ---
 ## HTMLLinkElement.Sheet property
@@ -18,5 +18,5 @@ public IStyleSheet Sheet { get; }
 
 * interface [IStyleSheet](../../../com.aspose.html.dom.css/istylesheet/)
 * class [HTMLLinkElement](../)
-* package [com.aspose.html](../../htmllinkelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

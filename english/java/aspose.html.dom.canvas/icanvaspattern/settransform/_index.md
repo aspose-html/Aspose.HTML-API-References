@@ -3,7 +3,7 @@ title: ICanvasPattern.SetTransform
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasPattern method. Applies an SVGMatrix representing a linear transform to the pattern
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.canvas/icanvaspattern/settransform/
 ---
 ## ICanvasPattern.SetTransform method
@@ -22,5 +22,5 @@ public void SetTransform(SVGMatrix transform)
 
 * class [SVGMatrix](../../../com.aspose.html.dom.svg.datatypes/svgmatrix/)
 * interface [ICanvasPattern](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvaspattern/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

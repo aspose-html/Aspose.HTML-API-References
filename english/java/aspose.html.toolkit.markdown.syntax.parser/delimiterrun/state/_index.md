@@ -3,7 +3,7 @@ title: DelimiterRun.State
 second_title: Aspose.HTML for Java API Reference
 description: DelimiterRun property. Get and set the State
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/delimiterrun/state/
 ---
 ## DelimiterRun.State property
@@ -18,5 +18,5 @@ public DelimiterState State { get; set; }
 
 * enum [DelimiterState](../../delimiterstate/)
 * class [DelimiterRun](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../delimiterrun/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

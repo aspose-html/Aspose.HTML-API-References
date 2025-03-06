@@ -1,12 +1,12 @@
 ---
-title: com.aspose.html.rendering.Doc
+title: com.aspose.html.rendering.doc
 second_title: Aspose.HTML for Java API Reference
-description: The com.aspose.html.Rendering.Doc package provides specific device class as well as few rendering options classes responsible for rendering to a DOCX document
+description: The com.aspose.html.rendering.doc package provides specific device class as well as few rendering options classes responsible for rendering to a DOCX document
 type: docs
-weight: 310
+
 url: /java/com.aspose.html.rendering.doc/
 ---
-The **com.aspose.html.Rendering.Doc** package provides specific device class as well as few rendering options classes responsible for rendering to a DOCX document.
+The **com.aspose.html.rendering.doc** package provides specific device class as well as few rendering options classes responsible for rendering to a DOCX document.
 
 ## Classes
 

@@ -3,7 +3,7 @@ title: Metered Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.Metered class. Provides methods to set metered key
 type: docs
-weight: 3850
+
 url: /java/com.aspose.html/metered/
 ---
 ## Metered class
@@ -27,6 +27,7 @@ public class Metered
 | [setMeteredKey](../../com.aspose.html/metered/setmeteredkey/)(String, String) | Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again. |
 | static [GetConsumptionCredit](../../com.aspose.html/metered/getconsumptioncredit/)() | Gets consumption credit |
 | static [GetConsumptionQuantity](../../com.aspose.html/metered/getconsumptionquantity/)() | Gets consumption file size |
+| static [IsMeteredLicensed](../../com.aspose.html/metered/ismeteredlicensed/)() | Check whether metered is licensed |
 
 ## Examples
 

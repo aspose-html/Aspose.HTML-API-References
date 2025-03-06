@@ -3,7 +3,7 @@ title: Uint16Array.BYTES_PER_ELEMENT
 second_title: Aspose.HTML for Java API Reference
 description: Uint16Array field. The property represents the size in bytes of each element in an typed array
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/uint16array/bytes_per_element/
 ---
 ## Uint16Array.BYTES_PER_ELEMENT field
@@ -17,5 +17,5 @@ public static readonly byte BYTES_PER_ELEMENT;
 ### See Also
 
 * class [Uint16Array](../)
-* package [com.aspose.html](../../uint16array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

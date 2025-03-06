@@ -3,7 +3,7 @@ title: SVGComponentTransferFunctionElement.Exponent
 second_title: Aspose.HTML for Java API Reference
 description: SVGComponentTransferFunctionElement property. Corresponds to attribute exponent on the given element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svgcomponenttransferfunctionelement/exponent/
 ---
 ## SVGComponentTransferFunctionElement.Exponent property
@@ -22,5 +22,5 @@ The attribute ‘exponent’ of the given element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGComponentTransferFunctionElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgcomponenttransferfunctionelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

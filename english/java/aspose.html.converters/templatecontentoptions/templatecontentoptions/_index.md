@@ -3,7 +3,7 @@ title: TemplateContentOptions
 second_title: Aspose.HTML for Java API Reference
 description: TemplateContentOptions constructor. Inline String based initialization
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.converters/templatecontentoptions/templatecontentoptions/
 ---
 ## TemplateContentOptions constructor
@@ -23,5 +23,5 @@ public TemplateContentOptions(String dataContent, TemplateContent contentType)
 
 * enum [TemplateContent](../../templatecontent/)
 * class [TemplateContentOptions](../)
-* package [com.aspose.html.Converters](../../templatecontentoptions/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)

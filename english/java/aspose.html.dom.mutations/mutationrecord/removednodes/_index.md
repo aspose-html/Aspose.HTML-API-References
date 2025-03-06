@@ -3,7 +3,7 @@ title: MutationRecord.RemovedNodes
 second_title: Aspose.HTML for Java API Reference
 description: MutationRecord property. Return the nodes removed
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.mutations/mutationrecord/removednodes/
 ---
 ## MutationRecord.RemovedNodes property
@@ -22,5 +22,5 @@ The removed nodes.
 
 * class [NodeList](../../../com.aspose.html.collections/nodelist/)
 * class [MutationRecord](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationrecord/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

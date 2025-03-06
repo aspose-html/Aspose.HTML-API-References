@@ -3,7 +3,7 @@ title: Location.Assign
 second_title: Aspose.HTML for Java API Reference
 description: Location method. Navigates to the given page
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.window/location/assign/
 ---
 ## Location.Assign method
@@ -21,5 +21,5 @@ public void Assign(String url)
 ### See Also
 
 * class [Location](../)
-* package [com.aspose.html.Window](../../location/)
+* package [com.aspose.html.window](../../../com.aspose.html.window/)
 * package [Aspose.HTML](../../../)

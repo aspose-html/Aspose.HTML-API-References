@@ -1,9 +1,9 @@
 ---
 title: Unit Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Drawing.Unit class. Provides the base class for units of measurement
+description: com.aspose.html.drawing.Unit class. Provides the base class for units of measurement
 type: docs
-weight: 2860
+
 url: /java/com.aspose.html.drawing/unit/
 ---
 ## Unit class
@@ -49,5 +49,5 @@ public abstract class Unit : IEquatable<Unit>
 
 ### See Also
 
-* package [com.aspose.html.Drawing](../../com.aspose.html.drawing/)
+* package [com.aspose.html.drawing](../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../)

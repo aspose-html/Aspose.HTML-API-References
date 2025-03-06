@@ -3,7 +3,7 @@ title: ResponseMessage.StatusCode
 second_title: Aspose.HTML for Java API Reference
 description: ResponseMessage property. Gets or sets the status code
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.net/responsemessage/statuscode/
 ---
 ## ResponseMessage.StatusCode property
@@ -21,5 +21,5 @@ The status code.
 ### See Also
 
 * class [ResponseMessage](../)
-* package [com.aspose.html.Net](../../responsemessage/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

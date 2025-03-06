@@ -3,7 +3,7 @@ title: MutationObserverInit.GetEnumerator
 second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit method. Returns an enumerator that iterates through the MutationObserverInit elements
 type: docs
-weight: 190
+
 url: /java/com.aspose.html.dom.mutations/mutationobserverinit/getenumerator/
 ---
 ## MutationObserverInit.GetEnumerator method
@@ -21,5 +21,5 @@ An IEnumerator object that can be used to iterate through the [`MutationObserver
 ### See Also
 
 * class [MutationObserverInit](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserverinit/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

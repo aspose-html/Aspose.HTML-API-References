@@ -3,7 +3,7 @@ title: InputEvent
 second_title: Aspose.HTML for Java API Reference
 description: InputEvent constructor. Initializes a new instance of the InputEvent class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.events/inputevent/inputevent/
 ---
 ## InputEvent(String) {#constructor}
@@ -21,7 +21,7 @@ public InputEvent(String type)
 ### See Also
 
 * class [InputEvent](../)
-* package [com.aspose.html.Dom.Events](../../inputevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public InputEvent(String type, IDictionary<String, object> eventInitDict)
 ### See Also
 
 * class [InputEvent](../)
-* package [com.aspose.html.Dom.Events](../../inputevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

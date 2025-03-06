@@ -3,7 +3,7 @@ title: HugoYamlBasedFrontMatterSyntaxNode.GetEnumerator
 second_title: Aspose.HTML for Java API Reference
 description: HugoYamlBasedFrontMatterSyntaxNode method. Get Enumerator
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/getenumerator/
 ---
 ## HugoYamlBasedFrontMatterSyntaxNode.GetEnumerator method
@@ -11,7 +11,8 @@ url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfront
 Get Enumerator.
 
 ```java
-public IEnumerator<KeyValuePair<String, ChildFrontMatterSyntaxNode>> GetEnumerator()
+public IEnumerator<KeyValuePair<ChildFrontMatterSyntaxNode, ChildFrontMatterSyntaxNode>> 
+    GetEnumerator()
 ```
 
 ### Return Value
@@ -22,5 +23,5 @@ The IEnumerator.
 
 * class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
 * class [HugoYamlBasedFrontMatterSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../hugoyamlbasedfrontmattersyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

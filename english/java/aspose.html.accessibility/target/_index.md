@@ -1,9 +1,9 @@
 ---
 title: Target Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Accessibility.Target class. Class contains item of html or css element where the error was found
+description: com.aspose.html.accessibility.Target class. Class contains item of html or css element where the error was found
 type: docs
-weight: 130
+
 url: /java/com.aspose.html.accessibility/target/
 ---
 ## Target class
@@ -23,5 +23,5 @@ public class Target
 
 ### See Also
 
-* package [com.aspose.html.Accessibility](../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../)

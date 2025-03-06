@@ -3,7 +3,7 @@ title: HTMLMapElement.Areas
 second_title: Aspose.HTML for Java API Reference
 description: HTMLMapElement property. The list of areas defined for the image map
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/htmlmapelement/areas/
 ---
 ## HTMLMapElement.Areas property
@@ -18,5 +18,5 @@ public HTMLCollection Areas { get; }
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [HTMLMapElement](../)
-* package [com.aspose.html](../../htmlmapelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

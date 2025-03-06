@@ -3,7 +3,7 @@ title: InputElement.SetCheckboxValue
 second_title: Aspose.HTML for Java API Reference
 description: InputElement method. Sets the checkedness state for the input elemen with the Checkbox type
 type: docs
-weight: 190
+
 url: /java/com.aspose.html.forms/inputelement/setcheckboxvalue/
 ---
 ## InputElement.SetCheckboxValue method
@@ -21,5 +21,5 @@ public void SetCheckboxValue(bool value)
 ### See Also
 
 * class [InputElement](../)
-* package [com.aspose.html.Forms](../../inputelement/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

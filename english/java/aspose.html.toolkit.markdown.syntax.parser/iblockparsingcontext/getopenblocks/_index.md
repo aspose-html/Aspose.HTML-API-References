@@ -3,7 +3,7 @@ title: IBlockParsingContext.GetOpenBlocks
 second_title: Aspose.HTML for Java API Reference
 description: IBlockParsingContext method. Defines the GetOpenBlocks
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getopenblocks/
 ---
 ## IBlockParsingContext.GetOpenBlocks method
@@ -22,5 +22,5 @@ The collection of BlockSyntaxDescriptor.
 
 * class [BlockSyntaxDescriptor](../../blocksyntaxdescriptor/)
 * interface [IBlockParsingContext](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../iblockparsingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

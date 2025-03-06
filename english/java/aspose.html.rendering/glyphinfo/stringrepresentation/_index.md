@@ -3,7 +3,7 @@ title: GlyphInfo.StringRepresentation
 second_title: Aspose.HTML for Java API Reference
 description: GlyphInfo property. Gets the String representation of this glyph
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.rendering/glyphinfo/Stringrepresentation/
 ---
 ## GlyphInfo.StringRepresentation property
@@ -21,5 +21,5 @@ A String that represents this glyph.
 ### See Also
 
 * struct [GlyphInfo](../)
-* package [com.aspose.html.Rendering](../../glyphinfo/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

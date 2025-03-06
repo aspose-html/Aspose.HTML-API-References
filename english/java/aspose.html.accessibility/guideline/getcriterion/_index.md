@@ -3,7 +3,7 @@ title: Guideline.GetCriterion
 second_title: Aspose.HTML for Java API Reference
 description: Guideline method. Get Criterion by code from WCAG
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.accessibility/guideline/getcriterion/
 ---
 ## Guideline.GetCriterion method
@@ -26,5 +26,5 @@ Criterion object
 
 * class [Criterion](../../criterion/)
 * class [Guideline](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

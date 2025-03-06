@@ -3,7 +3,7 @@ title: InlineParsingInstruction.op_Inequality
 second_title: Aspose.HTML for Java API Reference
 description: InlineParsingInstruction method. 
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/op_inequality/
 ---
 ## InlineParsingInstruction Inequality operator
@@ -15,5 +15,5 @@ public static bool operator !=(InlineParsingInstruction left, InlineParsingInstr
 ### See Also
 
 * struct [InlineParsingInstruction](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../inlineparsinginstruction/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

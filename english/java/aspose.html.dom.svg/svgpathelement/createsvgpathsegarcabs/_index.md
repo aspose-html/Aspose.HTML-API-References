@@ -3,7 +3,7 @@ title: SVGPathElement.CreateSVGPathSegArcAbs
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegArcAbs object
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svgpathelement/createsvgpathsegarcabs/
 ---
 ## SVGPathElement.CreateSVGPathSegArcAbs method
@@ -33,5 +33,5 @@ A stand-alone, parentless SVGPathSegArcAbs object.
 
 * class [SVGPathSegArcAbs](../../../com.aspose.html.dom.svg.paths/svgpathsegarcabs/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

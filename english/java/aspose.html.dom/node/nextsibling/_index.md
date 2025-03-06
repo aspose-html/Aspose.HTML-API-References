@@ -3,7 +3,7 @@ title: Node.NextSibling
 second_title: Aspose.HTML for Java API Reference
 description: Node property. The read-only nextSibling property of the Node interface returns the node immediately following the specified one in their parents childNodes or returns null if the specified node is the last child in the parent element
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.dom/node/nextsibling/
 ---
 ## Node.NextSibling property
@@ -27,5 +27,5 @@ Reference:
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

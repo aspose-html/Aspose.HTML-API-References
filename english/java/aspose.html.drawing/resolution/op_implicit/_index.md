@@ -3,7 +3,7 @@ title: Resolution.op_Implicit
 second_title: Aspose.HTML for Java API Reference
 description: Resolution method. 
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.drawing/resolution/op_implicit/
 ---
 ## implicit operator {#op_implicit}
@@ -15,7 +15,7 @@ public static implicit operator Resolution(double value)
 ### See Also
 
 * class [Resolution](../)
-* package [com.aspose.html.Drawing](../../resolution/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -29,5 +29,5 @@ public static implicit operator Resolution(float value)
 ### See Also
 
 * class [Resolution](../)
-* package [com.aspose.html.Drawing](../../resolution/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

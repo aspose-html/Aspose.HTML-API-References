@@ -3,7 +3,7 @@ title: SVGFEBlendElement.In1
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEBlendElement property. Corresponds to attribute in on the given feBlend element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeblendelement/in1/
 ---
 ## SVGFEBlendElement.In1 property
@@ -22,5 +22,5 @@ The attribute ‘in’ of the given ‘feBlend’ element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFEBlendElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeblendelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: RuleValidationResult.Rule
 second_title: Aspose.HTML for Java API Reference
 description: RuleValidationResult property. Rule that has been tested
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.accessibility.results/rulevalidationresult/rule/
 ---
 ## RuleValidationResult.Rule property
@@ -18,5 +18,5 @@ public IRule Rule { get; }
 
 * interface [IRule](../../../com.aspose.html.accessibility/irule/)
 * class [RuleValidationResult](../)
-* package [com.aspose.html.Accessibility.Results](../../../com.aspose.html.accessibility.results/)
+* package [com.aspose.html.accessibility.results](../../../com.aspose.html.accessibility.results/)
 * package [Aspose.HTML](../../../)

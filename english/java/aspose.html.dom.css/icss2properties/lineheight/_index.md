@@ -3,7 +3,7 @@ title: ICSS2Properties.LineHeight
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. If the property is set on a block-level element whose content is composed of inline-level elements it specifies the minimal height of each generated inline box
 type: docs
-weight: 580
+
 url: /java/com.aspose.html.dom.css/icss2properties/lineheight/
 ---
 ## ICSS2Properties.LineHeight property
@@ -23,5 +23,5 @@ line-height property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

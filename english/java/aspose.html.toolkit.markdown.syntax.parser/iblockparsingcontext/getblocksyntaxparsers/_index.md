@@ -3,7 +3,7 @@ title: IBlockParsingContext.GetBlockSyntaxParsers
 second_title: Aspose.HTML for Java API Reference
 description: IBlockParsingContext method. Defines the GetBlockSyntaxParsers method
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getblocksyntaxparsers/
 ---
 ## IBlockParsingContext.GetBlockSyntaxParsers method
@@ -22,5 +22,5 @@ The IEnumerable.
 
 * class [MarkdownBlockParser](../../markdownblockparser/)
 * interface [IBlockParsingContext](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../iblockparsingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

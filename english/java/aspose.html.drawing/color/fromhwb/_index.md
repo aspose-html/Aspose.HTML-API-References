@@ -3,7 +3,7 @@ title: Color.FromHwb
 second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a new Color with the requested hue whiteness blackness values
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.drawing/color/fromhwb/
 ---
 ## Color.FromHwb method
@@ -27,5 +27,5 @@ A new instance of the [`Color`](../) class
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

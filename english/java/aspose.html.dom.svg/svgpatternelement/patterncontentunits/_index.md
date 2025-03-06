@@ -3,7 +3,7 @@ title: SVGPatternElement.PatternContentUnits
 second_title: Aspose.HTML for Java API Reference
 description: SVGPatternElement property. Corresponds to attribute patternContentUnits on the given pattern element. Takes one of the constants defined in SVGUnitTypes
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svgpatternelement/patterncontentunits/
 ---
 ## SVGPatternElement.PatternContentUnits property
@@ -22,5 +22,5 @@ The attribute ‘patternContentUnits’ of the given ‘pattern’ element.
 
 * class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
 * class [SVGPatternElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpatternelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

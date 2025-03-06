@@ -1,9 +1,9 @@
 ---
 title: SVGPointList Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.DataTypes.SVGPointList class. This interface defines a list of SVGPoint objects
+description: com.aspose.html.dom.svg.datatypes.SVGPointList class. This interface defines a list of SVGPoint objects
 type: docs
-weight: 1270
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgpointlist/
 ---
 ## SVGPointList class
@@ -43,5 +43,5 @@ public class SVGPointList : SVGListBase<SVGPoint>
 
 * class [SVGListBase&lt;T&gt;](../../com.aspose.html.dom.svg.collections/svglistbase-1/)
 * class [SVGPoint](../svgpoint/)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../)

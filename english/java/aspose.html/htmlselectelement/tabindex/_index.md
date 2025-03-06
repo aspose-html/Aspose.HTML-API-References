@@ -3,7 +3,7 @@ title: HTMLSelectElement.TabIndex
 second_title: Aspose.HTML for Java API Reference
 description: HTMLSelectElement property. Index that represents the elements position in the tabbing order. See the tabindex attribute definition in HTML 4.01
 type: docs
-weight: 90
+
 url: /java/com.aspose.html/htmlselectelement/tabindex/
 ---
 ## HTMLSelectElement.TabIndex property
@@ -17,5 +17,5 @@ public int TabIndex { get; set; }
 ### See Also
 
 * class [HTMLSelectElement](../)
-* package [com.aspose.html](../../htmlselectelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

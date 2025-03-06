@@ -3,7 +3,7 @@ title: ITrueTypeFont.FamilyName
 second_title: Aspose.HTML for Java API Reference
 description: ITrueTypeFont property. Get the name of the font family
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.drawing/itruetypefont/familyname/
 ---
 ## ITrueTypeFont.FamilyName property
@@ -21,5 +21,5 @@ Family name of font
 ### See Also
 
 * interface [ITrueTypeFont](../)
-* package [com.aspose.html.Drawing](../../itruetypefont/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

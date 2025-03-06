@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.MeasureText
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Returns a TextMetrics object
 type: docs
-weight: 280
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/measuretext/
 ---
 ## ICanvasRenderingContext2D.MeasureText method
@@ -26,5 +26,5 @@ A TextMetrics object.
 
 * interface [ITextMetrics](../../itextmetrics/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

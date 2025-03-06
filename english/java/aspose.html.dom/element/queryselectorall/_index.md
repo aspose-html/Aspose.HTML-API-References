@@ -3,7 +3,7 @@ title: Element.QuerySelectorAll
 second_title: Aspose.HTML for Java API Reference
 description: Element method. Returns a NodeList of all the Elements in document which match selector
 type: docs
-weight: 350
+
 url: /java/com.aspose.html.dom/element/queryselectorall/
 ---
 ## Element.QuerySelectorAll method
@@ -26,5 +26,5 @@ public NodeList QuerySelectorAll(String selector)
 
 * class [NodeList](../../../com.aspose.html.collections/nodelist/)
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

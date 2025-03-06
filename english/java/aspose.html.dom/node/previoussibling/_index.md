@@ -3,7 +3,7 @@ title: Node.PreviousSibling
 second_title: Aspose.HTML for Java API Reference
 description: Node property. The read-only previousSibling property of the Node interface returns the node immediately preceding the specified one in its parents childNodes list or null if the specified node is the first in that list
 type: docs
-weight: 160
+
 url: /java/com.aspose.html.dom/node/previoussibling/
 ---
 ## Node.PreviousSibling property
@@ -27,5 +27,5 @@ Reference:
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: ShortCodeParameterSyntaxNode.SetValue
 second_title: Aspose.HTML for Java API Reference
 description: ShortCodeParameterSyntaxNode method. Defines the interface for set value
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/setvalue/
 ---
 ## ShortCodeParameterSyntaxNode.SetValue method
@@ -21,5 +21,5 @@ public void SetValue(String value)
 ### See Also
 
 * class [ShortCodeParameterSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Extensions](../../shortcodeparametersyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
 * package [Aspose.HTML](../../../)

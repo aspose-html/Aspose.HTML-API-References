@@ -3,7 +3,7 @@ title: HTMLElement.OnCanplay
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnCanplay event
 type: docs
-weight: 100
+
 url: /java/com.aspose.html/htmlelement/oncanplay/
 ---
 ## HTMLElement.OnCanplay event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnCanplay;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [HTMLElement](../)
-* package [com.aspose.html](../../htmlelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: Document.CreateNodeIterator
 second_title: Aspose.HTML for Java API Reference
 description: Document method. Create a new NodeIterator over the subtree rooted at the specified node
 type: docs
-weight: 900
+
 url: /java/com.aspose.html.dom/document/createnodeiterator/
 ---
 ## CreateNodeIterator(Node) {#createnodeiterator}
@@ -33,7 +33,7 @@ The newly created NodeIterator.
 * interface [INodeIterator](../../../com.aspose.html.dom.traversal/inodeiterator/)
 * class [Node](../../node/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -66,7 +66,7 @@ The newly created NodeIterator.
 * interface [INodeIterator](../../../com.aspose.html.dom.traversal/inodeiterator/)
 * class [Node](../../node/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -101,5 +101,5 @@ The newly created NodeIterator.
 * class [Node](../../node/)
 * interface [INodeFilter](../../../com.aspose.html.dom.traversal/inodefilter/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

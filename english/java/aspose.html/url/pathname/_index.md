@@ -3,7 +3,7 @@ title: Url.Pathname
 second_title: Aspose.HTML for Java API Reference
 description: Url property. Gets or sets a String representation for the specified URL path
 type: docs
-weight: 80
+
 url: /java/com.aspose.html/url/pathname/
 ---
 ## Url.Pathname property
@@ -21,5 +21,5 @@ The name of the path.
 ### See Also
 
 * class [Url](../)
-* package [com.aspose.html](../../url/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

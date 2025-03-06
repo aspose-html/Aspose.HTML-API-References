@@ -3,7 +3,7 @@ title: SVGAElement.Target
 second_title: Aspose.HTML for Java API Reference
 description: SVGAElement property. Corresponds to attribute target on the given a element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svgaelement/target/
 ---
 ## SVGAElement.Target property
@@ -22,5 +22,5 @@ The attribute ‘target’ of the given ‘a’ element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGAElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgaelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

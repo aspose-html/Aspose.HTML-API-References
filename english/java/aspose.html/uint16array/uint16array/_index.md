@@ -3,7 +3,7 @@ title: Uint16Array
 second_title: Aspose.HTML for Java API Reference
 description: Uint16Array constructor. Initializes a new instance of the Uint16Array class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/uint16array/uint16array/
 ---
 ## Uint16Array(int) {#constructor_3}
@@ -21,7 +21,7 @@ public Uint16Array(int length)
 ### See Also
 
 * class [Uint16Array](../)
-* package [com.aspose.html](../../uint16array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -41,7 +41,7 @@ public Uint16Array(ushort[] data)
 ### See Also
 
 * class [Uint16Array](../)
-* package [com.aspose.html](../../uint16array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -62,7 +62,7 @@ public Uint16Array(ArrayBuffer buffer)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint16Array](../)
-* package [com.aspose.html](../../uint16array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -84,7 +84,7 @@ public Uint16Array(ArrayBuffer buffer, int byteOffset)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint16Array](../)
-* package [com.aspose.html](../../uint16array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,5 +107,5 @@ public Uint16Array(ArrayBuffer buffer, int byteOffset, int length)
 
 * class [ArrayBuffer](../../arraybuffer/)
 * class [Uint16Array](../)
-* package [com.aspose.html](../../uint16array/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

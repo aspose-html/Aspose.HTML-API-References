@@ -3,7 +3,7 @@ title: Size.Width
 second_title: Aspose.HTML for Java API Reference
 description: Size property. Gets or sets the horizontal component of this Size
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.drawing/size/width/
 ---
 ## Size.Width property
@@ -22,5 +22,5 @@ The horizontal component of this [`Size`](../).
 
 * class [Length](../../length/)
 * class [Size](../)
-* package [com.aspose.html.Drawing](../../size/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

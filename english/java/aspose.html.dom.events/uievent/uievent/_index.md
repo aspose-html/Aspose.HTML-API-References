@@ -3,7 +3,7 @@ title: UIEvent
 second_title: Aspose.HTML for Java API Reference
 description: UIEvent constructor. Initializes a new instance of the UIEvent class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.events/uievent/uievent/
 ---
 ## UIEvent(String) {#constructor}
@@ -21,7 +21,7 @@ public UIEvent(String type)
 ### See Also
 
 * class [UIEvent](../)
-* package [com.aspose.html.Dom.Events](../../uievent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public UIEvent(String type, IDictionary<String, object> eventInitDict)
 ### See Also
 
 * class [UIEvent](../)
-* package [com.aspose.html.Dom.Events](../../uievent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

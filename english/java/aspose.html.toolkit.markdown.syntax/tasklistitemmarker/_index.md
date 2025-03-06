@@ -1,9 +1,9 @@
 ---
 title: TaskListItemMarker Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.TaskListItemMarker class. The task list item marker
+description: com.aspose.html.toolkit.markdown.syntax.TaskListItemMarker class. The task list item marker
 type: docs
-weight: 5600
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/tasklistitemmarker/
 ---
 ## TaskListItemMarker class
@@ -45,5 +45,5 @@ public class TaskListItemMarker : MarkdownSyntaxNode
 ### See Also
 
 * class [MarkdownSyntaxNode](../markdownsyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

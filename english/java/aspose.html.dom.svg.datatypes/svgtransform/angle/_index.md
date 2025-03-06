@@ -3,7 +3,7 @@ title: SVGTransform.Angle
 second_title: Aspose.HTML for Java API Reference
 description: SVGTransform property. A convenience attribute for SVG_TRANSFORM_ROTATE SVG_TRANSFORM_SKEWX and SVG_TRANSFORM_SKEWY. It holds the angle that was specified. For SVG_TRANSFORM_MATRIX SVG_TRANSFORM_TRANSLATE and SVG_TRANSFORM_SCALE angle will be zero
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/angle/
 ---
 ## SVGTransform.Angle property
@@ -21,5 +21,5 @@ The angle that was specified.
 ### See Also
 
 * class [SVGTransform](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgtransform/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

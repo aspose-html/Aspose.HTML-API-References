@@ -3,7 +3,7 @@ title: Url.Equals
 second_title: Aspose.HTML for Java API Reference
 description: Url method. Determines whether the specified Object is equal to this instance
 type: docs
-weight: 140
+
 url: /java/com.aspose.html/url/equals/
 ---
 ## Url.Equals method
@@ -25,5 +25,5 @@ public bool Equals(object obj)
 ### See Also
 
 * class [Url](../)
-* package [com.aspose.html](../../url/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

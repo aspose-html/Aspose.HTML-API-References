@@ -3,7 +3,7 @@ title: ICSS2Properties.MarkerOffset
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies the distance between the nearest border edges of a marker box and its associated principal box. The offset may either be a user-specified length or chosen by the UA auto. Lengths may be negative but there may be implementation-specific limits
 type: docs
-weight: 680
+
 url: /java/com.aspose.html.dom.css/icss2properties/markeroffset/
 ---
 ## ICSS2Properties.MarkerOffset property
@@ -21,5 +21,5 @@ marker-offset property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

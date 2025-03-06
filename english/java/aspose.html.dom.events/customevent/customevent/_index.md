@@ -3,7 +3,7 @@ title: CustomEvent
 second_title: Aspose.HTML for Java API Reference
 description: CustomEvent constructor. Initializes a new instance of the CustomEvent class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.events/customevent/customevent/
 ---
 ## CustomEvent(String) {#constructor}
@@ -21,7 +21,7 @@ public CustomEvent(String type)
 ### See Also
 
 * class [CustomEvent](../)
-* package [com.aspose.html.Dom.Events](../../customevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public CustomEvent(String type, IDictionary<String, object> eventInitDict)
 ### See Also
 
 * class [CustomEvent](../)
-* package [com.aspose.html.Dom.Events](../../customevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

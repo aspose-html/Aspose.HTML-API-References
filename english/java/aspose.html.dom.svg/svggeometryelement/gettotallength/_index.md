@@ -3,7 +3,7 @@ title: SVGGeometryElement.GetTotalLength
 second_title: Aspose.HTML for Java API Reference
 description: SVGGeometryElement method. Returns the user agents computed value for the total length of the path using the user agents distance-along-a-path algorithm as a distance in the current user coordinate system
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg/svggeometryelement/gettotallength/
 ---
 ## SVGGeometryElement.GetTotalLength method
@@ -21,5 +21,5 @@ The total length of the path.
 ### See Also
 
 * class [SVGGeometryElement](../)
-* package [com.aspose.html.Dom.Svg](../../svggeometryelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

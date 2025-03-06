@@ -3,7 +3,7 @@ title: HTMLTableSectionElement.Rows
 second_title: Aspose.HTML for Java API Reference
 description: HTMLTableSectionElement property. The collection of rows in this table section
 type: docs
-weight: 40
+
 url: /java/com.aspose.html/htmltablesectionelement/rows/
 ---
 ## HTMLTableSectionElement.Rows property
@@ -18,5 +18,5 @@ public HTMLCollection Rows { get; }
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [HTMLTableSectionElement](../)
-* package [com.aspose.html](../../htmltablesectionelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

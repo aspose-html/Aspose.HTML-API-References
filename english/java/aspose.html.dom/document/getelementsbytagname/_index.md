@@ -3,7 +3,7 @@ title: Document.GetElementsByTagName
 second_title: Aspose.HTML for Java API Reference
 description: Document method. The getElementsByTagName method of Document interface returns an HTMLCollection of elements with the given tag name
 type: docs
-weight: 980
+
 url: /java/com.aspose.html.dom/document/getelementsbytagname/
 ---
 ## Document.GetElementsByTagName method
@@ -30,7 +30,7 @@ Refer to official [spec](https://dom.spec.whatwg.org/#dom-document-getelementsby
 
 Practice web development content can be founded in [w3schools](https://www.w3schools.com/jsref/met_document_getelementsbytagname.asp).
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
@@ -54,9 +54,9 @@ var elements = document.GetElementsByTagName(name);
 
 # C# code
 import System;
-import com.aspose.html;
-import com.aspose.html.Collections;
-import com.aspose.html.Dom;
+import Aspose.Html;
+import com.aspose.html.collections;
+import com.aspose.html.dom;
 
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -93,5 +93,5 @@ Paragraph styled by class name =kkk fff=
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

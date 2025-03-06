@@ -3,7 +3,7 @@ title: SVGForeignObjectElement.X
 second_title: Aspose.HTML for Java API Reference
 description: SVGForeignObjectElement property. Corresponds to attribute x on the given foreignObject element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svgforeignobjectelement/x/
 ---
 ## SVGForeignObjectElement.X property
@@ -22,5 +22,5 @@ The attribute ‘x’ of the given ‘foreignObject’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGForeignObjectElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgforeignobjectelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: HttpProtocolMessageHandler
 second_title: Aspose.HTML for Java API Reference
 description: HttpProtocolMessageHandler constructor. Initializes a new instance of the HttpProtocolMessageHandler class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.net.messagehandlers/httpprotocolmessagehandler/httpprotocolmessagehandler/
 ---
 ## HttpProtocolMessageHandler constructor
@@ -17,5 +17,5 @@ public HttpProtocolMessageHandler()
 ### See Also
 
 * class [HttpProtocolMessageHandler](../)
-* package [com.aspose.html.Net.MessageHandlers](../../httpprotocolmessagehandler/)
+* package [com.aspose.html.net.messagehandlers](../../../com.aspose.html.net.messagehandlers/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: CSSPrimitiveValue.GetFloatValue
 second_title: Aspose.HTML for Java API Reference
 description: CSSPrimitiveValue method. This method is used to get a float value in a specified unit. If this CSS value doesnt contain a float value or cant be converted into the specified unit a DOMException is raised
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.css/cssprimitivevalue/getfloatvalue/
 ---
 ## CSSPrimitiveValue.GetFloatValue method
@@ -25,5 +25,5 @@ Returns value
 ### See Also
 
 * class [CSSPrimitiveValue](../)
-* package [com.aspose.html.Dom.Css](../../cssprimitivevalue/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

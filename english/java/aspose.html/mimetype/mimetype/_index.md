@@ -3,7 +3,7 @@ title: MimeType
 second_title: Aspose.HTML for Java API Reference
 description: MimeType constructor. Initializes a new instance of MIME type based on serialized String value
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/mimetype/mimetype/
 ---
 ## MimeType constructor
@@ -21,5 +21,5 @@ public MimeType(String value)
 ### See Also
 
 * class [MimeType](../)
-* package [com.aspose.html](../../mimetype/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

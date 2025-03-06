@@ -3,7 +3,7 @@ title: HTMLImageElement.Height
 second_title: Aspose.HTML for Java API Reference
 description: HTMLImageElement property. Height of the image in pixels. See the height attribute definition in HTML 4.01. Note that the type of this attribute was DOMString in DOM Level 1 HTML DOM Level 1. version DOM Level 2
 type: docs
-weight: 40
+
 url: /java/com.aspose.html/htmlimageelement/height/
 ---
 ## HTMLImageElement.Height property
@@ -17,5 +17,5 @@ public float Height { get; set; }
 ### See Also
 
 * class [HTMLImageElement](../)
-* package [com.aspose.html](../../htmlimageelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: MarkdownInlineSyntaxParser.CanParse
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownInlineSyntaxParser method. Get the can parse boolean value
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/canparse/
 ---
 ## MarkdownInlineSyntaxParser.CanParse method
@@ -26,5 +26,5 @@ True if can parse.
 
 * interface [IInlineParsingContext](../../iinlineparsingcontext/)
 * class [MarkdownInlineSyntaxParser](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../markdowninlinesyntaxparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: InputElement.Type
 second_title: Aspose.HTML for Java API Reference
 description: InputElement property. Type of the form control
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.forms/inputelement/type/
 ---
 ## InputElement.Type property
@@ -18,5 +18,5 @@ public InputElementType Type { get; set; }
 
 * enum [InputElementType](../../inputelementtype/)
 * class [InputElement](../)
-* package [com.aspose.html.Forms](../../inputelement/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: DocDevice
 second_title: Aspose.HTML for Java API Reference
 description: DocDevice constructor. Initializes a new instance of the DocDevice class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.rendering.doc/docdevice/docdevice/
 ---
 ## DocDevice(ICreateStreamProvider) {#constructor}
@@ -22,7 +22,7 @@ public DocDevice(ICreateStreamProvider streamProvider)
 
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [DocDevice](../)
-* package [com.aspose.html.Rendering.Doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -45,7 +45,7 @@ public DocDevice(DocRenderingOptions options, ICreateStreamProvider streamProvid
 * class [DocRenderingOptions](../../docrenderingoptions/)
 * interface [ICreateStreamProvider](../../../com.aspose.html.io/icreatestreamprovider/)
 * class [DocDevice](../)
-* package [com.aspose.html.Rendering.Doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -65,7 +65,7 @@ public DocDevice(String file)
 ### See Also
 
 * class [DocDevice](../)
-* package [com.aspose.html.Rendering.Doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -87,7 +87,7 @@ public DocDevice(DocRenderingOptions options, String file)
 
 * class [DocRenderingOptions](../../docrenderingoptions/)
 * class [DocDevice](../)
-* package [com.aspose.html.Rendering.Doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -107,7 +107,7 @@ public DocDevice(Stream stream)
 ### See Also
 
 * class [DocDevice](../)
-* package [com.aspose.html.Rendering.Doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -129,5 +129,5 @@ public DocDevice(DocRenderingOptions options, Stream stream)
 
 * class [DocRenderingOptions](../../docrenderingoptions/)
 * class [DocDevice](../)
-* package [com.aspose.html.Rendering.Doc](../../docdevice/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)

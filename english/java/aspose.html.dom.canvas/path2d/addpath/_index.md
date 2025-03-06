@@ -3,7 +3,7 @@ title: Path2D.AddPath
 second_title: Aspose.HTML for Java API Reference
 description: Path2D method. Adds to the path the path given by the argument
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.canvas/path2d/addpath/
 ---
 ## AddPath(Path2D) {#addpath}
@@ -21,7 +21,7 @@ public void AddPath(Path2D path)
 ### See Also
 
 * class [Path2D](../)
-* package [com.aspose.html.Dom.Canvas](../../path2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -43,5 +43,5 @@ public void AddPath(Path2D path, SVGMatrix transformation)
 
 * class [SVGMatrix](../../../com.aspose.html.dom.svg.datatypes/svgmatrix/)
 * class [Path2D](../)
-* package [com.aspose.html.Dom.Canvas](../../path2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

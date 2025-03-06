@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.AtxHeading
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates AtxHeadingSyntaxNode with text content
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/atxheading/
 ---
 ## AtxHeading(String) {#atxheading_1}
@@ -26,7 +26,7 @@ The AtxHeadingSyntax.
 
 * class [AtxHeadingSyntaxNode](../../atxheadingsyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -52,7 +52,7 @@ The AtxHeadingSyntax.
 
 * class [AtxHeadingSyntaxNode](../../atxheadingsyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -79,5 +79,5 @@ The AtxHeadingSyntax.
 * class [AtxHeadingSyntaxNode](../../atxheadingsyntaxnode/)
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

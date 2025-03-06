@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.CodeSpan
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates the CodeSpanSyntaxNode with the specified number of backticks
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/codespan/
 ---
 ## CodeSpan(int) {#codespan_2}
@@ -26,7 +26,7 @@ The CodeSpanSyntax.
 
 * class [CodeSpanSyntaxNode](../../codespansyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -47,7 +47,7 @@ The CodeSpanSyntax.
 
 * class [CodeSpanSyntaxNode](../../codespansyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -74,5 +74,5 @@ The CodeSpanSyntax.
 * class [CodeSpanSyntaxNode](../../codespansyntaxnode/)
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

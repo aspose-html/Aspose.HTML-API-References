@@ -3,7 +3,7 @@ title: FormEditor.Add
 second_title: Aspose.HTML for Java API Reference
 description: FormEditor method. Creates a new HTMLElement and adds it to the end of the form
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.forms/formeditor/add/
 ---
 ## FormEditor.Add&lt;T&gt; method
@@ -28,5 +28,5 @@ A new instance of form element
 
 * class [FormElement](../../formelement/)
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

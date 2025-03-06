@@ -3,7 +3,7 @@ title: SVGFESpotLightElement.SpecularExponent
 second_title: Aspose.HTML for Java API Reference
 description: SVGFESpotLightElement property. Corresponds to attribute specularExponent on the given feSpotLight element
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg.filters/svgfespotlightelement/specularexponent/
 ---
 ## SVGFESpotLightElement.SpecularExponent property
@@ -22,5 +22,5 @@ The attribute ‘specularExponent’ of the given ‘feSpotLight’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFESpotLightElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfespotlightelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

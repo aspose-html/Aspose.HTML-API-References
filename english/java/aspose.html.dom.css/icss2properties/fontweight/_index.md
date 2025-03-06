@@ -3,7 +3,7 @@ title: ICSS2Properties.FontWeight
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The font-weight property specifies the weight of the font. Values have the following meanings
 type: docs
-weight: 540
+
 url: /java/com.aspose.html.dom.css/icss2properties/fontweight/
 ---
 ## ICSS2Properties.FontWeight property
@@ -23,5 +23,5 @@ font-weight property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

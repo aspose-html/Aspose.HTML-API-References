@@ -3,7 +3,7 @@ title: SVGPathElement.CreateSVGPathSegMovetoRel
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegMovetoRel object
 type: docs
-weight: 210
+
 url: /java/com.aspose.html.dom.svg/svgpathelement/createsvgpathsegmovetorel/
 ---
 ## SVGPathElement.CreateSVGPathSegMovetoRel method
@@ -27,5 +27,5 @@ A stand-alone, parentless SVGPathSegMovetoRel object.
 
 * class [SVGPathSegMovetoRel](../../../com.aspose.html.dom.svg.paths/svgpathsegmovetorel/)
 * class [SVGPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgpathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

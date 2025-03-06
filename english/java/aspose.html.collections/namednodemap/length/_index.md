@@ -3,7 +3,7 @@ title: NamedNodeMap.Length
 second_title: Aspose.HTML for Java API Reference
 description: NamedNodeMap property. The number of nodes in this map
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.collections/namednodemap/length/
 ---
 ## NamedNodeMap.Length property
@@ -17,5 +17,5 @@ public int Length { get; }
 ### See Also
 
 * class [NamedNodeMap](../)
-* package [com.aspose.html.Collections](../../namednodemap/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

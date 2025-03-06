@@ -1,9 +1,9 @@
 ---
 title: SVGTransformList Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.DataTypes.SVGTransformList class. This interface defines a list of SVGTransform objects
+description: com.aspose.html.dom.svg.datatypes.SVGTransformList class. This interface defines a list of SVGTransform objects
 type: docs
-weight: 1320
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgtransformlist/
 ---
 ## SVGTransformList class
@@ -50,5 +50,5 @@ public class SVGTransformList : SVGListBase<SVGTransform>
 
 * class [SVGListBase&lt;T&gt;](../../com.aspose.html.dom.svg.collections/svglistbase-1/)
 * class [SVGTransform](../svgtransform/)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../)

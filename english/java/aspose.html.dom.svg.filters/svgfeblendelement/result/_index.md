@@ -3,7 +3,7 @@ title: SVGFEBlendElement.Result
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEBlendElement property. Corresponds to attribute result on the given filter element
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeblendelement/result/
 ---
 ## SVGFEBlendElement.Result property
@@ -22,5 +22,5 @@ The attribute ‘result’ of the given ‘filter’ element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFEBlendElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeblendelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

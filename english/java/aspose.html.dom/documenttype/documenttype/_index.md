@@ -3,7 +3,7 @@ title: DocumentType
 second_title: Aspose.HTML for Java API Reference
 description: DocumentType constructor. Initializes a new instance of the DocumentType class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom/documenttype/documenttype/
 ---
 ## DocumentType constructor
@@ -27,5 +27,5 @@ public DocumentType(String name, String publicId, String systemId, String intern
 
 * class [Document](../../document/)
 * class [DocumentType](../)
-* package [com.aspose.html.Dom](../../documenttype/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

@@ -1,9 +1,9 @@
 ---
 title: InlineSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.InlineSyntaxNode class. Base implementation of the InlineSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.InlineSyntaxNode class. Base implementation of the InlineSyntaxNode
 type: docs
-weight: 5080
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/inlinesyntaxnode/
 ---
 ## InlineSyntaxNode class
@@ -44,5 +44,5 @@ public abstract class InlineSyntaxNode : MarkdownSyntaxNode
 ### See Also
 
 * class [MarkdownSyntaxNode](../markdownsyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

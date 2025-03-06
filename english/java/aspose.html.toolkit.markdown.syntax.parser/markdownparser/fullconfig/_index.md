@@ -3,7 +3,7 @@ title: MarkdownParser.FullConfig
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownParser field. The full default config
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownparser/fullconfig/
 ---
 ## MarkdownParser.FullConfig field
@@ -18,5 +18,5 @@ public static readonly Action<IMarkdownParserBuilder> FullConfig;
 
 * interface [IMarkdownParserBuilder](../../imarkdownparserbuilder/)
 * class [MarkdownParser](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../markdownparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

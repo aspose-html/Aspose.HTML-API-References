@@ -3,7 +3,7 @@ title: SubmissionResult.ResponseMessage
 second_title: Aspose.HTML for Java API Reference
 description: SubmissionResult property. Gets the message represented the result of the submitting data to the server
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.forms/submissionresult/responsemessage/
 ---
 ## SubmissionResult.ResponseMessage property
@@ -22,5 +22,5 @@ The response message.
 
 * class [ResponseMessage](../../../com.aspose.html.net/responsemessage/)
 * class [SubmissionResult](../)
-* package [com.aspose.html.Forms](../../submissionresult/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

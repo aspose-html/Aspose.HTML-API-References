@@ -1,9 +1,9 @@
 ---
 title: Margin Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Drawing.Margin class. Represents page margin
+description: com.aspose.html.drawing.Margin class. Represents page margin
 type: docs
-weight: 2800
+
 url: /java/com.aspose.html.drawing/margin/
 ---
 ## Margin class
@@ -39,5 +39,5 @@ public class Margin
 
 ### See Also
 
-* package [com.aspose.html.Drawing](../../com.aspose.html.drawing/)
+* package [com.aspose.html.drawing](../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../)

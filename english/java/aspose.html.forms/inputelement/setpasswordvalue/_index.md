@@ -3,7 +3,7 @@ title: InputElement.SetPasswordValue
 second_title: Aspose.HTML for Java API Reference
 description: InputElement method. This method is used to set password String as a value for input element. This method is valid if only the type of the input element is password
 type: docs
-weight: 260
+
 url: /java/com.aspose.html.forms/inputelement/setpasswordvalue/
 ---
 ## InputElement.SetPasswordValue method
@@ -21,5 +21,5 @@ public void SetPasswordValue(String value)
 ### See Also
 
 * class [InputElement](../)
-* package [com.aspose.html.Forms](../../inputelement/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

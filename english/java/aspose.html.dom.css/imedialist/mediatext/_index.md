@@ -3,7 +3,7 @@ title: IMediaList.MediaText
 second_title: Aspose.HTML for Java API Reference
 description: IMediaList property. A Stringifier that returns a DOMString representing the MediaList as text and also allows you to set a new MediaList
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.css/imedialist/mediatext/
 ---
 ## IMediaList.MediaText property
@@ -27,5 +27,5 @@ The parsable textual representation of the media list. This is a comma-separated
 ### See Also
 
 * interface [IMediaList](../)
-* package [com.aspose.html.Dom.Css](../../imedialist/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

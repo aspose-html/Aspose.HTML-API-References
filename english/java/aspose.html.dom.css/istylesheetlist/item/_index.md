@@ -3,7 +3,7 @@ title: IStyleSheetList.Item
 second_title: Aspose.HTML for Java API Reference
 description: IStyleSheetList property. The itemindex method must return the indexth CSS style sheet in the collection. If there is no indexth object in the collection then the method must return null
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.css/istylesheetlist/item/
 ---
 ## IStyleSheetList indexer
@@ -34,5 +34,5 @@ Reference
 
 * interface [ICSSStyleSheet](../../icssstylesheet/)
 * interface [IStyleSheetList](../)
-* package [com.aspose.html.Dom.Css](../../istylesheetlist/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

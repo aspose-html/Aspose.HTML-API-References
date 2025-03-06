@@ -3,7 +3,7 @@ title: IStyleSheet.Href
 second_title: Aspose.HTML for Java API Reference
 description: IStyleSheet property. The href property of the StyleSheet interface returns the location of the style sheet
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.css/istylesheet/href/
 ---
 ## IStyleSheet.Href property
@@ -33,5 +33,5 @@ Reference
 ### See Also
 
 * interface [IStyleSheet](../)
-* package [com.aspose.html.Dom.Css](../../istylesheet/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

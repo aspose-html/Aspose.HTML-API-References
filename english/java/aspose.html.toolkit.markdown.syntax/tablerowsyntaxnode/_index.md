@@ -1,9 +1,9 @@
 ---
 title: TableRowSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.TableRowSyntaxNode class. The table row syntax node
+description: com.aspose.html.toolkit.markdown.syntax.TableRowSyntaxNode class. The table row syntax node
 type: docs
-weight: 5580
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/
 ---
 ## TableRowSyntaxNode class
@@ -47,5 +47,5 @@ public class TableRowSyntaxNode : LeafBlockSyntaxNode
 ### See Also
 
 * class [LeafBlockSyntaxNode](../leafblocksyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

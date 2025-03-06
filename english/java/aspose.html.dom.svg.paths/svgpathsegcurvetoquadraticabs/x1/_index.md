@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoQuadraticAbs.X1
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegCurvetoQuadraticAbs property. The absolute X coordinate for the first control point
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticabs/x1/
 ---
 ## SVGPathSegCurvetoQuadraticAbs.X1 property
@@ -27,5 +27,5 @@ The absolute X coordinate
 ### See Also
 
 * class [SVGPathSegCurvetoQuadraticAbs](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathsegcurvetoquadraticabs/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

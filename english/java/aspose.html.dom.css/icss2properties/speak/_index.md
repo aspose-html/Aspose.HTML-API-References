@@ -3,7 +3,7 @@ title: ICSS2Properties.Speak
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. This property specifies whether text will be rendered aurally and if so in what manner somewhat analogous to the display property. The possible values are
 type: docs
-weight: 1000
+
 url: /java/com.aspose.html.dom.css/icss2properties/speak/
 ---
 ## ICSS2Properties.Speak property
@@ -23,5 +23,5 @@ speak property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

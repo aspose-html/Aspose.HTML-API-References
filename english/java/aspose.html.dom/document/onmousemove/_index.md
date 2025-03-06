@@ -3,7 +3,7 @@ title: Document.OnMouseMove
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnMouseMove event
 type: docs
-weight: 540
+
 url: /java/com.aspose.html.dom/document/onmousemove/
 ---
 ## Document.OnMouseMove event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnMouseMove;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

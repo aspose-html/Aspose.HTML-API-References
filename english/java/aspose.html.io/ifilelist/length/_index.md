@@ -3,7 +3,7 @@ title: IFileList.Length
 second_title: Aspose.HTML for Java API Reference
 description: IFileList property. Return length for list of files
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.io/ifilelist/length/
 ---
 ## IFileList.Length property
@@ -17,5 +17,5 @@ public long Length { get; }
 ### See Also
 
 * interface [IFileList](../)
-* package [com.aspose.html.IO](../../ifilelist/)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
 * package [Aspose.HTML](../../../)

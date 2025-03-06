@@ -3,7 +3,7 @@ title: ICSS2Properties.BackgroundPosition
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. If a background image has been specified this property specifies its initial position. Values have the following meanings
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.css/icss2properties/backgroundposition/
 ---
 ## ICSS2Properties.BackgroundPosition property
@@ -27,5 +27,5 @@ The background position value from the list as it defined above.
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGAngle.Value
 second_title: Aspose.HTML for Java API Reference
 description: SVGAngle property. The angle value as a floating point value in degrees. Setting this attribute will cause valueInSpecifiedUnits and valueAsString to be updated automatically to reflect this setting
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgangle/value/
 ---
 ## SVGAngle.Value property
@@ -27,5 +27,5 @@ The value.
 ### See Also
 
 * class [SVGAngle](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgangle/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

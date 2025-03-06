@@ -3,7 +3,7 @@ title: Criterion.Failures
 second_title: Aspose.HTML for Java API Reference
 description: Criterion property. Failures are things that cause accessibility barriers and fail specific success criteria
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.accessibility/criterion/failures/
 ---
 ## Criterion.Failures property
@@ -18,5 +18,5 @@ public IList<IRule> Failures { get; }
 
 * interface [IRule](../../irule/)
 * class [Criterion](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

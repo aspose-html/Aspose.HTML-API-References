@@ -3,7 +3,7 @@ title: SVGTransform.SetScale
 second_title: Aspose.HTML for Java API Reference
 description: SVGTransform method. Sets the transform type to SVG_TRANSFORM_SCALE with parameters sx and sy defining the scale amounts
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/setscale/
 ---
 ## SVGTransform.SetScale method
@@ -28,5 +28,5 @@ public void SetScale(float sx, float sy)
 ### See Also
 
 * class [SVGTransform](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgtransform/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

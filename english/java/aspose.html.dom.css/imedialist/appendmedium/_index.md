@@ -3,7 +3,7 @@ title: IMediaList.AppendMedium
 second_title: Aspose.HTML for Java API Reference
 description: IMediaList method. Adds the medium newMedium to the end of the list. If the newMedium is already used it is first removed
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.css/imedialist/appendmedium/
 ---
 ## IMediaList.AppendMedium method
@@ -27,5 +27,5 @@ public void AppendMedium(String newMedium)
 ### See Also
 
 * interface [IMediaList](../)
-* package [com.aspose.html.Dom.Css](../../imedialist/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

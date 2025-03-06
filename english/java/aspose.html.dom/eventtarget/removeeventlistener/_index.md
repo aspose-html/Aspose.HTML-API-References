@@ -3,7 +3,7 @@ title: EventTarget.RemoveEventListener
 second_title: Aspose.HTML for Java API Reference
 description: EventTarget method. This method allows the removal of event listeners from the event target. If an is removed from an while it is processing an event it will not be triggered by the current actions. Event Listeners can never be invoked after being removed
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom/eventtarget/removeeventlistener/
 ---
 ## RemoveEventListener(String, DOMEventHandler, bool) {#removeeventlistener}
@@ -24,7 +24,7 @@ public void RemoveEventListener(String type, DOMEventHandler handler, bool useCa
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [EventTarget](../)
-* package [com.aspose.html.Dom](../../eventtarget/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -46,7 +46,7 @@ public void RemoveEventListener(String type, IEventListener listener)
 
 * interface [IEventListener](../../../com.aspose.html.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* package [com.aspose.html.Dom](../../eventtarget/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -69,5 +69,5 @@ public void RemoveEventListener(String type, IEventListener listener, bool useCa
 
 * interface [IEventListener](../../../com.aspose.html.dom.events/ieventlistener/)
 * class [EventTarget](../)
-* package [com.aspose.html.Dom](../../eventtarget/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

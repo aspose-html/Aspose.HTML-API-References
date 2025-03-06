@@ -1,9 +1,9 @@
 ---
 title: MarkdownSyntaxToken Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.MarkdownSyntaxToken class. Represent the Markdown Syntax Token
+description: com.aspose.html.toolkit.markdown.syntax.MarkdownSyntaxToken class. Represent the Markdown Syntax Token
 type: docs
-weight: 5210
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/
 ---
 ## MarkdownSyntaxToken class
@@ -48,5 +48,5 @@ public sealed class MarkdownSyntaxToken : MarkdownSyntaxNode
 ### See Also
 
 * class [MarkdownSyntaxNode](../markdownsyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

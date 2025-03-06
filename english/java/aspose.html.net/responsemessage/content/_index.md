@@ -3,7 +3,7 @@ title: ResponseMessage.Content
 second_title: Aspose.HTML for Java API Reference
 description: ResponseMessage property. Gets or sets the response content
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.net/responsemessage/content/
 ---
 ## ResponseMessage.Content property
@@ -22,5 +22,5 @@ The body.
 
 * class [Content](../../content/)
 * class [ResponseMessage](../)
-* package [com.aspose.html.Net](../../responsemessage/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

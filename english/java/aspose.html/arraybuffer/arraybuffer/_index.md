@@ -3,7 +3,7 @@ title: ArrayBuffer
 second_title: Aspose.HTML for Java API Reference
 description: ArrayBuffer constructor. Initializes a new instance of the ArrayBuffer class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/arraybuffer/arraybuffer/
 ---
 ## ArrayBuffer(int) {#constructor_1}
@@ -21,7 +21,7 @@ public ArrayBuffer(int length)
 ### See Also
 
 * class [ArrayBuffer](../)
-* package [com.aspose.html](../../arraybuffer/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -41,5 +41,5 @@ public ArrayBuffer(byte[] data)
 ### See Also
 
 * class [ArrayBuffer](../)
-* package [com.aspose.html](../../arraybuffer/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

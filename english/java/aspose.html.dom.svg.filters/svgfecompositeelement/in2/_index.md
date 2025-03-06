@@ -3,7 +3,7 @@ title: SVGFECompositeElement.In2
 second_title: Aspose.HTML for Java API Reference
 description: SVGFECompositeElement property. Corresponds to attribute in2 on the given feComposite element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg.filters/svgfecompositeelement/in2/
 ---
 ## SVGFECompositeElement.In2 property
@@ -22,5 +22,5 @@ The attribute ‘in2’ on the given ‘feComposite’ element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGFECompositeElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfecompositeelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

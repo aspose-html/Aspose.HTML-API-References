@@ -3,7 +3,7 @@ title: SVGNumber.Value
 second_title: Aspose.HTML for Java API Reference
 description: SVGNumber property. The value of the given attribute
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgnumber/value/
 ---
 ## SVGNumber.Value property
@@ -27,5 +27,5 @@ The value.
 ### See Also
 
 * class [SVGNumber](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgnumber/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

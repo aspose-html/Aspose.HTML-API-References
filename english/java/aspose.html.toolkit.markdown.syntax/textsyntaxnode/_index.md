@@ -1,9 +1,9 @@
 ---
 title: TextSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.TextSyntaxNode class. Implemented the text syntax node
+description: com.aspose.html.toolkit.markdown.syntax.textSyntaxNode class. Implemented the text syntax node
 type: docs
-weight: 5670
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/textsyntaxnode/
 ---
 ## TextSyntaxNode class
@@ -47,5 +47,5 @@ public class TextSyntaxNode : InlineSyntaxNode
 ### See Also
 
 * class [InlineSyntaxNode](../inlinesyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

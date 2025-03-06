@@ -3,7 +3,7 @@ title: Renderer.Dispose
 second_title: Aspose.HTML for Java API Reference
 description: Renderer method. Releases unmanaged and - optionally - managed resources
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.rendering/renderer/dispose/
 ---
 ## Renderer.Dispose method
@@ -17,5 +17,5 @@ public void Dispose()
 ### See Also
 
 * class [Renderer](../)
-* package [com.aspose.html.Rendering](../../renderer/)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: Document.GetElementsByTagNameNS
 second_title: Aspose.HTML for Java API Reference
 description: Document method. Returns a list of elements with the given tag name belonging to the given package. The complete document is searched including the root node
 type: docs
-weight: 990
+
 url: /java/com.aspose.html.dom/document/getelementsbytagnamens/
 ---
 ## Document.GetElementsByTagNameNS method
@@ -29,7 +29,7 @@ Refer to official [spec](https://dom.spec.whatwg.org/#dom-document-getelementsby
 
 Practice web development content can be founded in [w3schools](https://www.w3schools.com/xml/met_document_getelementsbytagnamens.asp).
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
@@ -52,9 +52,9 @@ var elements = document.GetElementsByTagNameNS(@package, name);
 
 # C# code
 import System;
-import com.aspose.html;
-import com.aspose.html.Collections;
-import com.aspose.html.Dom;
+import Aspose.Html;
+import com.aspose.html.collections;
+import com.aspose.html.dom;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -105,9 +105,9 @@ xml package uniquetag content goes here...
 
 # C# code
 import System;
-import com.aspose.html;
-import com.aspose.html.Collections;
-import com.aspose.html.Dom;
+import Aspose.Html;
+import com.aspose.html.collections;
+import com.aspose.html.dom;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -139,5 +139,5 @@ Dolly Parton
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

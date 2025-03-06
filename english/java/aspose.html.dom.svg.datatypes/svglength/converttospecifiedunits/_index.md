@@ -3,7 +3,7 @@ title: SVGLength.ConvertToSpecifiedUnits
 second_title: Aspose.HTML for Java API Reference
 description: SVGLength method. Preserve the same underlying stored value but reset the stored unit identifier to the given unitType. Object attributes unitType valueInSpecifiedUnits and valueAsString might be modified as a result of this method. For example if the original value were 0.5cm and the method was invoked to convert to millimeters then the unitType would be changed to SVG_LENGTHTYPE_MM valueInSpecifiedUnits would be changed to the numeric value 5 and valueAsString would be changed to 5mm
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg.datatypes/svglength/converttospecifiedunits/
 ---
 ## SVGLength.ConvertToSpecifiedUnits method
@@ -28,5 +28,5 @@ public void ConvertToSpecifiedUnits(ushort unitType)
 ### See Also
 
 * class [SVGLength](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svglength/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

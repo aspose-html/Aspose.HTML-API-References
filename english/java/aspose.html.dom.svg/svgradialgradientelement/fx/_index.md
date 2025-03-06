@@ -3,7 +3,7 @@ title: SVGRadialGradientElement.Fx
 second_title: Aspose.HTML for Java API Reference
 description: SVGRadialGradientElement property. Corresponds to attribute fx on the given radialGradient element
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.svg/svgradialgradientelement/fx/
 ---
 ## SVGRadialGradientElement.Fx property
@@ -22,5 +22,5 @@ The attribute ‘fx’ of the given ‘radialGradient’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGRadialGradientElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgradialgradientelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

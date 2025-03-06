@@ -3,7 +3,7 @@ title: HTMLButtonElement.Disabled
 second_title: Aspose.HTML for Java API Reference
 description: HTMLButtonElement property. The control is unavailable in this context. See the disabled attribute definition in HTML 4.01
 type: docs
-weight: 20
+
 url: /java/com.aspose.html/htmlbuttonelement/disabled/
 ---
 ## HTMLButtonElement.Disabled property
@@ -17,5 +17,5 @@ public bool Disabled { get; set; }
 ### See Also
 
 * class [HTMLButtonElement](../)
-* package [com.aspose.html](../../htmlbuttonelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

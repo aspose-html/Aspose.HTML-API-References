@@ -1,9 +1,9 @@
 ---
 title: CssOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Rendering.CssOptions class. Represents css rendering options
+description: com.aspose.html.rendering.CssOptions class. Represents css rendering options
 type: docs
-weight: 4150
+
 url: /java/com.aspose.html.rendering/cssoptions/
 ---
 ## CssOptions class
@@ -23,5 +23,5 @@ public class CssOptions
 
 ### See Also
 
-* package [com.aspose.html.Rendering](../../com.aspose.html.rendering/)
+* package [com.aspose.html.rendering](../../com.aspose.html.rendering/)
 * package [Aspose.HTML](../../)

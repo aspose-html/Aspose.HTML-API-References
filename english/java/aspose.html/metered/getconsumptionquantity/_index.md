@@ -3,7 +3,7 @@ title: Metered.GetConsumptionQuantity
 second_title: Aspose.HTML for Java API Reference
 description: Metered method. Gets consumption file size
 type: docs
-weight: 40
+
 url: /java/com.aspose.html/metered/getconsumptionquantity/
 ---
 ## Metered.GetConsumptionQuantity method
@@ -21,5 +21,5 @@ consumption quantity
 ### See Also
 
 * class [Metered](../)
-* package [com.aspose.html](../../metered/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

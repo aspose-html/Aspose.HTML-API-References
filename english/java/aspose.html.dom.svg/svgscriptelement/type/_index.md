@@ -3,7 +3,7 @@ title: SVGScriptElement.Type
 second_title: Aspose.HTML for Java API Reference
 description: SVGScriptElement property. Corresponds to attribute type on the given script element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svgscriptelement/type/
 ---
 ## SVGScriptElement.Type property
@@ -27,5 +27,5 @@ The attribute ‘type’ of the given ‘script’ element.
 ### See Also
 
 * class [SVGScriptElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgscriptelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

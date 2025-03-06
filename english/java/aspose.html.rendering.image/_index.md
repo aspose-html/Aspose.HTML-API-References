@@ -1,12 +1,12 @@
 ---
-title: com.aspose.html.rendering.Image
+title: com.aspose.html.rendering.image
 second_title: Aspose.HTML for Java API Reference
-description: The com.aspose.html.Rendering.Image package provides specific device class as well as few rendering options classes responsible for rendering to raster formats jpeg png bmp gif tiff
+description: The com.aspose.html.rendering.image package provides specific device class as well as few rendering options classes responsible for rendering to raster formats jpeg png bmp gif tiff
 type: docs
-weight: 330
+
 url: /java/com.aspose.html.rendering.image/
 ---
-The **com.aspose.html.Rendering.Image** package provides specific device class as well as few rendering options classes responsible for rendering to raster formats: jpeg, png, bmp, gif, tiff.
+The **com.aspose.html.rendering.image** package provides specific device class as well as few rendering options classes responsible for rendering to raster formats: jpeg, png, bmp, gif, tiff.
 
 ## Classes
 

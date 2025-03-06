@@ -3,7 +3,7 @@ title: CSSPrimitiveValue.GetIntValue
 second_title: Aspose.HTML for Java API Reference
 description: CSSPrimitiveValue method. This method is used to get an int value in a specified unit. If this CSS value doesnt contain an int value or cant be converted into the specified unit a DOMException is raised
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.css/cssprimitivevalue/getintvalue/
 ---
 ## CSSPrimitiveValue.GetIntValue method
@@ -25,5 +25,5 @@ Returns value
 ### See Also
 
 * class [CSSPrimitiveValue](../)
-* package [com.aspose.html.Dom.Css](../../cssprimitivevalue/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

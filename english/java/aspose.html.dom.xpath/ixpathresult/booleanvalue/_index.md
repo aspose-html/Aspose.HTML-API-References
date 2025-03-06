@@ -3,7 +3,7 @@ title: IXPathResult.BooleanValue
 second_title: Aspose.HTML for Java API Reference
 description: IXPathResult property. The value of this boolean result
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.xpath/ixpathresult/booleanvalue/
 ---
 ## IXPathResult.BooleanValue property
@@ -23,5 +23,5 @@ public bool BooleanValue { get; }
 ### See Also
 
 * interface [IXPathResult](../)
-* package [com.aspose.html.Dom.XPath](../../ixpathresult/)
+* package [com.aspose.html.dom.xpath](../../../com.aspose.html.dom.xpath/)
 * package [Aspose.HTML](../../../)

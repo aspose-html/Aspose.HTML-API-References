@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.Emphasis
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Create the EmphasisSyntax
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emphasis/
 ---
 ## Emphasis(Emphasis) {#emphasis}
@@ -27,7 +27,7 @@ The EmphasisSyntax.
 * class [EmphasisSyntaxNode](../../emphasissyntaxnode/)
 * enum [Emphasis](../../emphasis/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -54,5 +54,5 @@ The EmphasisSyntax.
 * class [EmphasisSyntaxNode](../../emphasissyntaxnode/)
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

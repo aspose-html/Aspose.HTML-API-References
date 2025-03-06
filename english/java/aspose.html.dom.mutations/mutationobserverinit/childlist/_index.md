@@ -3,7 +3,7 @@ title: MutationObserverInit.ChildList
 second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit property. Set to true if mutations to targets children are to be observed
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.mutations/mutationobserverinit/childlist/
 ---
 ## MutationObserverInit.ChildList property
@@ -17,5 +17,5 @@ public bool ChildList { get; set; }
 ### See Also
 
 * class [MutationObserverInit](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserverinit/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

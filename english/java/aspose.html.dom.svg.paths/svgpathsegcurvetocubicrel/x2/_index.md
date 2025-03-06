@@ -3,7 +3,7 @@ title: SVGPathSegCurvetoCubicRel.X2
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegCurvetoCubicRel property. The relative X coordinate for the second control point
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetocubicrel/x2/
 ---
 ## SVGPathSegCurvetoCubicRel.X2 property
@@ -27,5 +27,5 @@ The relative X coordinate
 ### See Also
 
 * class [SVGPathSegCurvetoCubicRel](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathsegcurvetocubicrel/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

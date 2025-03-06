@@ -1,9 +1,9 @@
 ---
 title: IParentNode Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.IParentNode interface. Defines the IParentNode interface that is implemented by any possible parents
+description: com.aspose.html.dom.IParentNode interface. Defines the IParentNode interface that is implemented by any possible parents
 type: docs
-weight: 960
+
 url: /java/com.aspose.html.dom/iparentnode/
 ---
 ## IParentNode interface
@@ -33,5 +33,5 @@ public interface IParentNode : IElementTraversal
 ### See Also
 
 * interface [IElementTraversal](../../com.aspose.html.dom.traversal/ielementtraversal/)
-* package [com.aspose.html.Dom](../../com.aspose.html.dom/)
+* package [com.aspose.html.dom](../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../)

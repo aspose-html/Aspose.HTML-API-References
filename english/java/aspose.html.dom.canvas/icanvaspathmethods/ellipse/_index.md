@@ -3,7 +3,7 @@ title: ICanvasPathMethods.Ellipse
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasPathMethods method. Adds an ellipse to the path which is centered at x y position with the radii radiusX and radiusY starting at startAngle and ending at endAngle going in the given direction by anticlockwise defaulting to clockwise
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.canvas/icanvaspathmethods/ellipse/
 ---
 ## Ellipse(double, double, double, double, double, double, double) {#ellipse}
@@ -28,7 +28,7 @@ public void Ellipse(double x, double y, double radiusX, double radiusY, double r
 ### See Also
 
 * interface [ICanvasPathMethods](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvaspathmethods/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -56,5 +56,5 @@ public void Ellipse(double x, double y, double radiusX, double radiusY, double r
 ### See Also
 
 * interface [ICanvasPathMethods](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvaspathmethods/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

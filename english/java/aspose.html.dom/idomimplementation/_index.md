@@ -1,9 +1,9 @@
 ---
 title: IDOMImplementation Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.IDOMImplementation interface. The DOMImplementation interface provides a number of methods for performing operations that are independent of any particular instance of the document object model
+description: com.aspose.html.dom.IDOMImplementation interface. The DOMImplementation interface provides a number of methods for performing operations that are independent of any particular instance of the document object model
 type: docs
-weight: 900
+
 url: /java/com.aspose.html.dom/idomimplementation/
 ---
 ## IDOMImplementation interface
@@ -25,5 +25,5 @@ public interface IDOMImplementation
 
 ### See Also
 
-* package [com.aspose.html.Dom](../../com.aspose.html.dom/)
+* package [com.aspose.html.dom](../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../)

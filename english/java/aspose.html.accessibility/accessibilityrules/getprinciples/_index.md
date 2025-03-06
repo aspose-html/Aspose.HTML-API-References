@@ -3,7 +3,7 @@ title: AccessibilityRules.GetPrinciples
 second_title: Aspose.HTML for Java API Reference
 description: AccessibilityRules method. Get list of all rules from quick reference
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.accessibility/accessibilityrules/getprinciples/
 ---
 ## AccessibilityRules.GetPrinciples method
@@ -22,5 +22,5 @@ list objects of Priniciple
 
 * class [Principle](../../principle/)
 * class [AccessibilityRules](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

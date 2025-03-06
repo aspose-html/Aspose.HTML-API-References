@@ -3,7 +3,7 @@ title: RGBColor.Green
 second_title: Aspose.HTML for Java API Reference
 description: RGBColor property. Gets the green component value of this Color structure
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.css/rgbcolor/green/
 ---
 ## RGBColor.Green property
@@ -26,5 +26,5 @@ The color of each pixel is represented as a 32-bit number: 8 bits each for alpha
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)
 * class [RGBColor](../)
-* package [com.aspose.html.Dom.Css](../../rgbcolor/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

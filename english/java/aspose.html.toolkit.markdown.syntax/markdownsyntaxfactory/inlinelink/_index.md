@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.InlineLink
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates InlineLinkSyntaxNode
 type: docs
-weight: 220
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinelink/
 ---
 ## InlineLink(MarkdownSyntaxToken, MarkdownSyntaxToken, MarkdownSyntaxToken, LinkDestinationSyntaxNode, LinkTitleSyntaxNode, MarkdownSyntaxToken) {#inlinelink}
@@ -37,7 +37,7 @@ The InlineLinkSyntax.
 * class [LinkDestinationSyntaxNode](../../linkdestinationsyntaxnode/)
 * class [LinkTitleSyntaxNode](../../linktitlesyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -64,5 +64,5 @@ The LinkReferenceDefinitionSyntax.
 
 * class [InlineLinkSyntaxNode](../../inlinelinksyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

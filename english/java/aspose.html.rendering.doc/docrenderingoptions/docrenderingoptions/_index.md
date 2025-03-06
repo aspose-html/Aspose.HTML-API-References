@@ -3,7 +3,7 @@ title: DocRenderingOptions
 second_title: Aspose.HTML for Java API Reference
 description: DocRenderingOptions constructor. Initializes a new instance of the DocRenderingOptions class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.rendering.doc/docrenderingoptions/docrenderingoptions/
 ---
 ## DocRenderingOptions() {#constructor}
@@ -17,7 +17,7 @@ public DocRenderingOptions()
 ### See Also
 
 * class [DocRenderingOptions](../)
-* package [com.aspose.html.Rendering.Doc](../../docrenderingoptions/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public DocRenderingOptions(FontEmbeddingRule fontEmbeddingRule)
 
 * enum [FontEmbeddingRule](../../fontembeddingrule/)
 * class [DocRenderingOptions](../)
-* package [com.aspose.html.Rendering.Doc](../../docrenderingoptions/)
+* package [com.aspose.html.rendering.doc](../../../com.aspose.html.rendering.doc/)
 * package [Aspose.HTML](../../../)

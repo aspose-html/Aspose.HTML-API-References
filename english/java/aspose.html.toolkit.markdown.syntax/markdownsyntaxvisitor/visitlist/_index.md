@@ -3,7 +3,7 @@ title: MarkdownSyntaxVisitor.VisitList
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit UnorderedListSyntax
 type: docs
-weight: 170
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitlist/
 ---
 ## VisitList(UnorderedListSyntaxNode) {#visitlist_1}
@@ -22,7 +22,7 @@ public void VisitList(UnorderedListSyntaxNode list)
 
 * class [UnorderedListSyntaxNode](../../unorderedlistsyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -43,5 +43,5 @@ public void VisitList(OrderedListSyntaxNode list)
 
 * class [OrderedListSyntaxNode](../../orderedlistsyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

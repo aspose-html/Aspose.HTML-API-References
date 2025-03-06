@@ -3,7 +3,7 @@ title: SVGMatrix.E
 second_title: Aspose.HTML for Java API Reference
 description: SVGMatrix property. The E component of the matrix
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgmatrix/e/
 ---
 ## SVGMatrix.E property
@@ -27,5 +27,5 @@ The E component of the matrix.
 ### See Also
 
 * class [SVGMatrix](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgmatrix/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

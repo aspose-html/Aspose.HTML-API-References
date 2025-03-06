@@ -3,7 +3,7 @@ title: Document.GetElementsByClassName
 second_title: Aspose.HTML for Java API Reference
 description: Document method. The getElementsByClassName method of Document interface returns an array-like object of all child elements which have all of the given class names
 type: docs
-weight: 970
+
 url: /java/com.aspose.html.dom/document/getelementsbyclassname/
 ---
 ## Document.GetElementsByClassName method
@@ -30,7 +30,7 @@ Refer to official [spec](https://dom.spec.whatwg.org/#dom-document-getelementsby
 
 Practice web development content can be founded in [w3schools](https://www.w3schools.com/jsref/met_element_getelementsbyclassname.asp).
 
-You can download the complete examples and data files from [GitHub](https://github.com/com.aspose.html/Aspose.HTML-Documentation).
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation).
 
 ## Examples
 
@@ -44,9 +44,9 @@ var elements = document.GetElementsByClassName("red test");
 
 // C# code
 import System;
-import com.aspose.html;
-import com.aspose.html.Collections;
-import com.aspose.html.Dom;
+import Aspose.Html;
+import com.aspose.html.collections;
+import com.aspose.html.dom;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -88,9 +88,9 @@ Customized by css class container
 
 # C# code
 import System;
-import com.aspose.html;
-import com.aspose.html.Collections;
-import com.aspose.html.Dom;
+import Aspose.Html;
+import com.aspose.html.collections;
+import com.aspose.html.dom;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -112,18 +112,18 @@ Found: 2
 
 Paragraph styled by class name =ddd kkk=
 
-Element type: com.aspose.html.HTMLParagraphElement
+Element type: Aspose.Html.HTMLParagraphElement
 
 Paragraph styled by class name =ddd fff=
 
-Element type: com.aspose.html.HTMLParagraphElement
+Element type: Aspose.Html.HTMLParagraphElement
 
 *inputHtmlPath - user input html file path
 
 ```java
 // CSS styling
 .pStyle{
-  font-weight: bold;
+  font-
 }
 
 # HTML content
@@ -136,9 +136,9 @@ Element type: com.aspose.html.HTMLParagraphElement
 
 # C# code
 import System;
-import com.aspose.html;
-import com.aspose.html.Collections;
-import com.aspose.html.Dom;
+import Aspose.Html;
+import com.aspose.html.collections;
+import com.aspose.html.dom;
 ...
 import (var document = new HTMLDocument(inputHtmlPath))
 {
@@ -160,19 +160,19 @@ Found: 4
 
 First styled by pStyle class paragraph
 
-Element type: com.aspose.html.HTMLParagraphElement
+Element type: Aspose.Html.HTMLParagraphElement
 
 Second styled by pStyle class paragraph
 
-Element type: com.aspose.html.HTMLParagraphElement
+Element type: Aspose.Html.HTMLParagraphElement
 
 Third styled by pStyle class paragraph
 
-Element type: com.aspose.html.HTMLParagraphElement
+Element type: Aspose.Html.HTMLParagraphElement
 
 Span styled by pStyle
 
-Element type: com.aspose.html.HTMLElement
+Element type: Aspose.Html.HTMLElement
 
 *inputHtmlPath - user input html file path
 
@@ -180,5 +180,5 @@ Element type: com.aspose.html.HTMLElement
 
 * class [HTMLCollection](../../../com.aspose.html.collections/htmlcollection/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

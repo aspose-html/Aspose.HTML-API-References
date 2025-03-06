@@ -1,9 +1,9 @@
 ---
 title: SVGPathSegCurvetoCubicAbs Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.Paths.SVGPathSegCurvetoCubicAbs class. The SVGPathSegCurvetoCubicAbs interface corresponds to an absolute cubic Bézier curveto C path data command
+description: com.aspose.html.dom.svg.paths.SVGPathSegCurvetoCubicAbs class. The SVGPathSegCurvetoCubicAbs interface corresponds to an absolute cubic Bézier curveto C path data command
 type: docs
-weight: 1740
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegcurvetocubicabs/
 ---
 ## SVGPathSegCurvetoCubicAbs class
@@ -41,5 +41,5 @@ public class SVGPathSegCurvetoCubicAbs : SVGPathSeg
 ### See Also
 
 * class [SVGPathSeg](../svgpathseg/)
-* package [com.aspose.html.Dom.Svg.Paths](../../com.aspose.html.dom.svg.paths/)
+* package [com.aspose.html.dom.svg.paths](../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../)

@@ -3,7 +3,7 @@ title: IEventTarget.AddEventListener
 second_title: Aspose.HTML for Java API Reference
 description: IEventTarget method. The EventTarget method addEventListener sets up a function that will be called whenever the specified event is delivered to the target
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.events/ieventtarget/addeventlistener/
 ---
 ## AddEventListener(String, IEventListener) {#addeventlistener}
@@ -29,7 +29,7 @@ If an is added to an while it is processing an event, it will not be triggered b
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* package [com.aspose.html.Dom.Events](../../ieventtarget/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -58,5 +58,5 @@ If an is added to an while it is processing an event, it will not be triggered b
 
 * interface [IEventListener](../../ieventlistener/)
 * interface [IEventTarget](../)
-* package [com.aspose.html.Dom.Events](../../ieventtarget/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: TableSyntaxNode.AppendRow
 second_title: Aspose.HTML for Java API Reference
 description: TableSyntaxNode method. Defines the interface for append row
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/tablesyntaxnode/appendrow/
 ---
 ## TableSyntaxNode.AppendRow method
@@ -26,5 +26,5 @@ The table syntax.
 
 * class [TableRowSyntaxNode](../../tablerowsyntaxnode/)
 * class [TableSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../tablesyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

@@ -1,9 +1,9 @@
 ---
 title: MouseEvent Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Events.MouseEvent class. The MouseEvent interface provides specific contextual information associated with Mouse events
+description: com.aspose.html.dom.events.MouseEvent class. The MouseEvent interface provides specific contextual information associated with Mouse events
 type: docs
-weight: 850
+
 url: /java/com.aspose.html.dom.events/mouseevent/
 ---
 ## MouseEvent class
@@ -61,5 +61,5 @@ public class MouseEvent : UIEvent
 ### See Also
 
 * class [UIEvent](../uievent/)
-* package [com.aspose.html.Dom.Events](../../com.aspose.html.dom.events/)
+* package [com.aspose.html.dom.events](../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../)

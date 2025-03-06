@@ -3,7 +3,7 @@ title: IWindowTimers.SetTimeout
 second_title: Aspose.HTML for Java API Reference
 description: IWindowTimers method. Schedules a timeout to run handler after timeout milliseconds. Any arguments are passed straight through to the handler
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.window/iwindowtimers/settimeout/
 ---
 ## IWindowTimers.SetTimeout method
@@ -27,5 +27,5 @@ The handle
 ### See Also
 
 * interface [IWindowTimers](../)
-* package [com.aspose.html.Window](../../iwindowtimers/)
+* package [com.aspose.html.window](../../../com.aspose.html.window/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: InputElement.SetTimeValue
 second_title: Aspose.HTML for Java API Reference
 description: InputElement method. This method is used to set TimeSpan object as a value for input element. This method is valid if only the type of the input element is time
 type: docs
-weight: 280
+
 url: /java/com.aspose.html.forms/inputelement/settimevalue/
 ---
 ## InputElement.SetTimeValue method
@@ -21,5 +21,5 @@ public void SetTimeValue(TimeSpan value)
 ### See Also
 
 * class [InputElement](../)
-* package [com.aspose.html.Forms](../../inputelement/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: ICSSKeyframesRule.AppendRule
 second_title: Aspose.HTML for Java API Reference
 description: ICSSKeyframesRule method. The appendRule method appends the passed CSSKeyframeRule at the end of the keyframes rule collection
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.css/icsskeyframesrule/appendrule/
 ---
 ## ICSSKeyframesRule.AppendRule method
@@ -21,5 +21,5 @@ public void AppendRule(String rule)
 ### See Also
 
 * interface [ICSSKeyframesRule](../)
-* package [com.aspose.html.Dom.Css](../../icsskeyframesrule/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

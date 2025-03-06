@@ -3,7 +3,7 @@ title: CSSValueList.GetEnumerator
 second_title: Aspose.HTML for Java API Reference
 description: CSSValueList method. Returns an enumerator that iterates through the collection
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.css/cssvaluelist/getenumerator/
 ---
 ## CSSValueList.GetEnumerator method
@@ -22,5 +22,5 @@ A IEnumerator that can be used to iterate through the collection.
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* package [com.aspose.html.Dom.Css](../../cssvaluelist/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

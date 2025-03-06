@@ -3,7 +3,7 @@ title: MarkdownSyntaxFactory.BlockProxy
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates BlockProxy
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/blockproxy/
 ---
 ## MarkdownSyntaxFactory.BlockProxy method
@@ -27,5 +27,5 @@ The InlineProxy.
 * class [BlockProxy](../../blockproxy/)
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

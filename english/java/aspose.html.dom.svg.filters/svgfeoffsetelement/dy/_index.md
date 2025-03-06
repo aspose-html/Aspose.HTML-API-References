@@ -3,7 +3,7 @@ title: SVGFEOffsetElement.Dy
 second_title: Aspose.HTML for Java API Reference
 description: SVGFEOffsetElement property. Corresponds to attribute dy on the given feOffset element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeoffsetelement/dy/
 ---
 ## SVGFEOffsetElement.Dy property
@@ -22,5 +22,5 @@ The attribute ‘dy’ of the given ‘feOffset’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFEOffsetElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeoffsetelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

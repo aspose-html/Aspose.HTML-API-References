@@ -1,9 +1,9 @@
 ---
 title: BlockQuoteSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.BlockQuoteSyntaxNode class. Represents the BlockQuoteSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.BlockQuoteSyntaxNode class. Represents the BlockQuoteSyntaxNode
 type: docs
-weight: 4810
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/blockquotesyntaxnode/
 ---
 ## BlockQuoteSyntaxNode class
@@ -45,5 +45,5 @@ public class BlockQuoteSyntaxNode : MultiLineContainerBlockSyntaxNode
 ### See Also
 
 * class [MultiLineContainerBlockSyntaxNode](../multilinecontainerblocksyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

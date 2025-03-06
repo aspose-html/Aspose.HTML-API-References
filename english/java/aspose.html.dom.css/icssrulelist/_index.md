@@ -1,9 +1,9 @@
 ---
 title: ICSSRuleList Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Css.ICSSRuleList interface. A CSSRuleList represents an ordered collection of read-only CSSRule objects
+description: com.aspose.html.dom.css.ICSSRuleList interface. A CSSRuleList represents an ordered collection of read-only CSSRule objects
 type: docs
-weight: 490
+
 url: /java/com.aspose.html.dom.css/icssrulelist/
 ---
 ## ICSSRuleList interface
@@ -28,5 +28,5 @@ public interface ICSSRuleList : IEnumerable<ICSSRule>
 ### See Also
 
 * interface [ICSSRule](../icssrule/)
-* package [com.aspose.html.Dom.Css](../../com.aspose.html.dom.css/)
+* package [com.aspose.html.dom.css](../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../)

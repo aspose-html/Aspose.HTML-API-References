@@ -3,7 +3,7 @@ title: IBlockParsingContext.Close
 second_title: Aspose.HTML for Java API Reference
 description: IBlockParsingContext method. Defines the Close method
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/close/
 ---
 ## Close(BlockSyntaxDescriptor, BlockClosingReason) {#close_1}
@@ -24,7 +24,7 @@ public void Close(BlockSyntaxDescriptor head, BlockClosingReason reason)
 * class [BlockSyntaxDescriptor](../../blocksyntaxdescriptor/)
 * enum [BlockClosingReason](../../blockclosingreason/)
 * interface [IBlockParsingContext](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../iblockparsingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -45,5 +45,5 @@ public void Close(BlockClosingReason reason)
 
 * enum [BlockClosingReason](../../blockclosingreason/)
 * interface [IBlockParsingContext](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../iblockparsingcontext/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

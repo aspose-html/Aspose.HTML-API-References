@@ -3,7 +3,7 @@ title: MarkdownTextWriter
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownTextWriter constructor. Initializes a new instance of an MarkdownTextWriter
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdowntextwriter/markdowntextwriter/
 ---
 ## MarkdownTextWriter(Stream) {#constructor}
@@ -21,7 +21,7 @@ public MarkdownTextWriter(Stream stream)
 ### See Also
 
 * class [MarkdownTextWriter](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdowntextwriter/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -41,7 +41,7 @@ public MarkdownTextWriter(String path)
 ### See Also
 
 * class [MarkdownTextWriter](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdowntextwriter/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -62,7 +62,7 @@ public MarkdownTextWriter(String path, bool append)
 ### See Also
 
 * class [MarkdownTextWriter](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdowntextwriter/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -82,5 +82,5 @@ public MarkdownTextWriter(TextWriter writer)
 ### See Also
 
 * class [MarkdownTextWriter](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdowntextwriter/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

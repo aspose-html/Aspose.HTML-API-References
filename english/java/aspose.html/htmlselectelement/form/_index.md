@@ -3,7 +3,7 @@ title: HTMLSelectElement.Form
 second_title: Aspose.HTML for Java API Reference
 description: HTMLSelectElement property. The number of options in this SELECT
 type: docs
-weight: 20
+
 url: /java/com.aspose.html/htmlselectelement/form/
 ---
 ## HTMLSelectElement.Form property
@@ -26,5 +26,5 @@ public HTMLFormElement Form { get; }
 
 * class [HTMLFormElement](../../htmlformelement/)
 * class [HTMLSelectElement](../)
-* package [com.aspose.html](../../htmlselectelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

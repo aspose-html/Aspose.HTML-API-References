@@ -3,7 +3,7 @@ title: LinkReferenceDefinitionSyntaxNode.GetLabel
 second_title: Aspose.HTML for Java API Reference
 description: LinkReferenceDefinitionSyntaxNode method. Returns the link reference label
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/getlabel/
 ---
 ## LinkReferenceDefinitionSyntaxNode.GetLabel method
@@ -22,5 +22,5 @@ The [`TextSyntaxNode`](../../textsyntaxnode/) object.
 
 * class [TextSyntaxNode](../../textsyntaxnode/)
 * class [LinkReferenceDefinitionSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../linkreferencedefinitionsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

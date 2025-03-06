@@ -1,9 +1,9 @@
 ---
 title: IXPathResult Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.XPath.IXPathResult interface. The XPathResult interface represents the result of the evaluation of an XPath 1.0 expression within the context of a particular node. Since evaluation of an XPath expression can result in various result types this object makes it possible to discover and manipulate the type and value of the result
+description: com.aspose.html.dom.xpath.IXPathResult interface. The XPathResult interface represents the result of the evaluation of an XPath 1.0 expression within the context of a particular node. Since evaluation of an XPath expression can result in various result types this object makes it possible to discover and manipulate the type and value of the result
 type: docs
-weight: 2610
+
 url: /java/com.aspose.html.dom.xpath/ixpathresult/
 ---
 ## IXPathResult interface
@@ -35,5 +35,5 @@ public interface IXPathResult
 
 ### See Also
 
-* package [com.aspose.html.Dom.XPath](../../com.aspose.html.dom.xpath/)
+* package [com.aspose.html.dom.xpath](../../com.aspose.html.dom.xpath/)
 * package [Aspose.HTML](../../)

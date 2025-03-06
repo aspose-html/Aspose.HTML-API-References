@@ -3,7 +3,7 @@ title: Color.GetSaturation
 second_title: Aspose.HTML for Java API Reference
 description: Color method. Returns a saturation of the Color
 type: docs
-weight: 350
+
 url: /java/com.aspose.html.drawing/color/getsaturation/
 ---
 ## Color.GetSaturation method
@@ -21,5 +21,5 @@ A saturation of the Color.
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

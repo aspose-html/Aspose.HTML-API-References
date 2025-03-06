@@ -3,7 +3,7 @@ title: INonDocumentTypeChildNode.PreviousElementSibling
 second_title: Aspose.HTML for Java API Reference
 description: INonDocumentTypeChildNode property. Returns the first preceding sibling that is an element and null otherwise
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom/inondocumenttypechildnode/previouselementsibling/
 ---
 ## INonDocumentTypeChildNode.PreviousElementSibling property
@@ -22,5 +22,5 @@ The previous element sibling.
 
 * class [Element](../../element/)
 * interface [INonDocumentTypeChildNode](../)
-* package [com.aspose.html.Dom](../../inondocumenttypechildnode/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

@@ -1,9 +1,9 @@
 ---
 title: LengthOrAuto Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Drawing.LengthOrAuto class. Represents a container for storage length or auto units
+description: com.aspose.html.drawing.LengthOrAuto class. Represents a container for storage length or auto units
 type: docs
-weight: 2790
+
 url: /java/com.aspose.html.drawing/lengthorauto/
 ---
 ## LengthOrAuto class
@@ -44,5 +44,5 @@ public class LengthOrAuto : Unit
 ### See Also
 
 * class [Unit](../unit/)
-* package [com.aspose.html.Drawing](../../com.aspose.html.drawing/)
+* package [com.aspose.html.drawing](../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../)

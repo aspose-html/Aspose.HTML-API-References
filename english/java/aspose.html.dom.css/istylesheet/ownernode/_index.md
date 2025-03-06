@@ -3,7 +3,7 @@ title: IStyleSheet.OwnerNode
 second_title: Aspose.HTML for Java API Reference
 description: IStyleSheet property. The node that associates this style sheet with the document. For HTML this may be the corresponding LINK or STYLE element. For XML it may be the linking processing instruction. For style sheets that are included by other style sheets the value of this attribute is null
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.dom.css/istylesheet/ownernode/
 ---
 ## IStyleSheet.OwnerNode property
@@ -32,5 +32,5 @@ Reference
 
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [IStyleSheet](../)
-* package [com.aspose.html.Dom.Css](../../istylesheet/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

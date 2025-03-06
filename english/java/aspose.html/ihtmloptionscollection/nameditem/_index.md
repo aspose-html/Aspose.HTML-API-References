@@ -3,7 +3,7 @@ title: IHTMLOptionsCollection.NamedItem
 second_title: Aspose.HTML for Java API Reference
 description: IHTMLOptionsCollection method. Method returns the indexth item in the collection. http//www.w3.org/TR/DOM-Level-2-HTML/html.htmlHTMLOptionsCollection-namedItem
 type: docs
-weight: 30
+
 url: /java/com.aspose.html/ihtmloptionscollection/nameditem/
 ---
 ## IHTMLOptionsCollection.NamedItem method
@@ -26,5 +26,5 @@ Returns node.
 
 * class [Element](../../../com.aspose.html.dom/element/)
 * interface [IHTMLOptionsCollection](../)
-* package [com.aspose.html](../../ihtmloptionscollection/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

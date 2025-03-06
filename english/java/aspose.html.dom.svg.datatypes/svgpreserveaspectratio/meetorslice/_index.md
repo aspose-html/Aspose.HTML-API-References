@@ -3,7 +3,7 @@ title: SVGPreserveAspectRatio.MeetOrSlice
 second_title: Aspose.HTML for Java API Reference
 description: SVGPreserveAspectRatio property. The type of the meet-or-slice value as specified by one of the SVG_MEETORSLICE_ constants defined on this interface
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgpreserveaspectratio/meetorslice/
 ---
 ## SVGPreserveAspectRatio.MeetOrSlice property
@@ -27,5 +27,5 @@ The type of the meet-or-slice
 ### See Also
 
 * class [SVGPreserveAspectRatio](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svgpreserveaspectratio/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

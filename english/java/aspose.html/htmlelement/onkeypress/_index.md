@@ -3,7 +3,7 @@ title: HTMLElement.OnKeyPress
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnKeyPress event
 type: docs
-weight: 240
+
 url: /java/com.aspose.html/htmlelement/onkeypress/
 ---
 ## HTMLElement.OnKeyPress event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnKeyPress;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [HTMLElement](../)
-* package [com.aspose.html](../../htmlelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

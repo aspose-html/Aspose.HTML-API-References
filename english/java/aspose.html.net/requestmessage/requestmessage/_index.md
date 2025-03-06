@@ -3,7 +3,7 @@ title: RequestMessage
 second_title: Aspose.HTML for Java API Reference
 description: RequestMessage constructor. Initializes a new instance of the RequestMessage class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.net/requestmessage/requestmessage/
 ---
 ## RequestMessage(String) {#constructor_1}
@@ -21,7 +21,7 @@ public RequestMessage(String address)
 ### See Also
 
 * class [RequestMessage](../)
-* package [com.aspose.html.Net](../../requestmessage/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -42,5 +42,5 @@ public RequestMessage(Url uri)
 
 * class [Url](../../../com.aspose.html/url/)
 * class [RequestMessage](../)
-* package [com.aspose.html.Net](../../requestmessage/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

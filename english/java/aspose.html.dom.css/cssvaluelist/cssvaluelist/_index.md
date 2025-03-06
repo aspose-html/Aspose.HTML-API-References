@@ -3,7 +3,7 @@ title: CSSValueList
 second_title: Aspose.HTML for Java API Reference
 description: CSSValueList constructor. Initializes a new instance of the CSSValueList class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.css/cssvaluelist/cssvaluelist/
 ---
 ## CSSValueList() {#constructor}
@@ -17,7 +17,7 @@ public CSSValueList()
 ### See Also
 
 * class [CSSValueList](../)
-* package [com.aspose.html.Dom.Css](../../cssvaluelist/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,7 +38,7 @@ public CSSValueList(IEnumerable<CSSValue> values)
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* package [com.aspose.html.Dom.Css](../../cssvaluelist/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -59,5 +59,5 @@ public CSSValueList(params CSSValue[] values)
 
 * class [CSSValue](../../cssvalue/)
 * class [CSSValueList](../)
-* package [com.aspose.html.Dom.Css](../../cssvaluelist/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

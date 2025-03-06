@@ -1,9 +1,9 @@
 ---
 title: InlineProxy Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.InlineProxy class. Represents InlineProxy
+description: com.aspose.html.toolkit.markdown.syntax.InlineProxy class. Represents InlineProxy
 type: docs
-weight: 5070
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/inlineproxy/
 ---
 ## InlineProxy class
@@ -45,5 +45,5 @@ public class InlineProxy : InlineSyntaxNode
 ### See Also
 
 * class [InlineSyntaxNode](../inlinesyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

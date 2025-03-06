@@ -3,7 +3,7 @@ title: HTMLDocument
 second_title: Aspose.HTML for Java API Reference
 description: HTMLDocument constructor. The HTMLDocument constructor creates a new HTML Document object that is a web page loaded in the browser and serving as an entry point into the pages content
 type: docs
-weight: 10
+
 url: /java/com.aspose.html/htmldocument/htmldocument/
 ---
 ## HTMLDocument() {#constructor}
@@ -40,7 +40,7 @@ import (var document = new HTMLDocument())
 ### See Also
 
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -95,7 +95,7 @@ import (var configuration = new Configuration())
 
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -136,7 +136,7 @@ import (var document = new HTMLDocument("https://docs.aspose.com/html/net/workin
 
 * class [Url](../../url/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -145,7 +145,7 @@ import (var document = new HTMLDocument("https://docs.aspose.com/html/net/workin
 
 Loads the HTML document from a URL with specified environment configuration settings.
 
-Note: In case if you pass a wrong URL that can’t be reached right at the moment, the library throws the [DOMException](T:com.aspose.html.Dom.DOMException) with specialized code ‘NetworkError’ to inform you that the selected resource can not be found.
+Note: In case if you pass a wrong URL that can’t be reached right at the moment, the library throws the [DOMException](T:com.aspose.html.dom.DOMException) with specialized code ‘NetworkError’ to inform you that the selected resource can not be found.
 
 ```java
 public HTMLDocument(Url url, Configuration configuration)
@@ -193,7 +193,7 @@ import (var configuration = new Configuration())
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -232,7 +232,7 @@ import (var document = new HTMLDocument("./my-folder/document.html")))
 ### See Also
 
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -278,7 +278,7 @@ import (var configuration = new Configuration())
 
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -324,7 +324,7 @@ import (var document = new HTMLDocument(html_code, "."))
 ### See Also
 
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -372,7 +372,7 @@ import (var document = new HTMLDocument(html_code, "."))
 
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -419,7 +419,7 @@ import (var document = new HTMLDocument(html_code, "."))
 
 * class [Url](../../url/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -468,7 +468,7 @@ import (var document = new HTMLDocument(html_code, "."))
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -524,7 +524,7 @@ import (var sw = new StreamWriter(mem))
 ### See Also
 
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -582,7 +582,7 @@ import (var sw = new StreamWriter(mem))
 
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -639,7 +639,7 @@ import (var sw = new StreamWriter(mem))
 
 * class [Url](../../url/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -698,7 +698,7 @@ import (var sw = new StreamWriter(mem))
 * class [Url](../../url/)
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -729,14 +729,14 @@ Reference:
 
 * class [RequestMessage](../../../com.aspose.html.net/requestmessage/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)
 
 ---
 
 ## HTMLDocument(RequestMessage, Configuration) {#constructor_3}
 
-Creates an HTML document from the [RequestMessage](T:com.aspose.html.Net.RequestMessage) object.
+Creates an HTML document from the [RequestMessage](T:com.aspose.html.net.RequestMessage) object.
 
 ```java
 public HTMLDocument(RequestMessage request, Configuration configuration)
@@ -744,7 +744,7 @@ public HTMLDocument(RequestMessage request, Configuration configuration)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| request | RequestMessage | The request message that contains a [body](P:com.aspose.html.Net.RequestMessage.Content) with document content. |
+| request | RequestMessage | The request message that contains a [body](P:com.aspose.html.net.RequestMessage.Content) with document content. |
 | configuration | Configuration | The environment configuration such as scripts policy, custom user stylesheet, etc. |
 
 ## Remarks
@@ -762,5 +762,5 @@ Reference:
 * class [RequestMessage](../../../com.aspose.html.net/requestmessage/)
 * class [Configuration](../../configuration/)
 * class [HTMLDocument](../)
-* package [com.aspose.html](../../htmldocument/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

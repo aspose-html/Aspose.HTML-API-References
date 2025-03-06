@@ -3,7 +3,7 @@ title: ICSSValueList.Item
 second_title: Aspose.HTML for Java API Reference
 description: ICSSValueList property. This method is used to retrieve a CSSValue by ordinal index. The order in this collection represents the order of the values in the CSS style property. If index is greater than or equal to the number of values in the list this returns null
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.css/icssvaluelist/item/
 ---
 ## ICSSValueList indexer
@@ -34,5 +34,5 @@ It has been superseded by a modern, but incompatible, [CSS Typed Object Model AP
 
 * class [CSSValue](../../cssvalue/)
 * interface [ICSSValueList](../)
-* package [com.aspose.html.Dom.Css](../../icssvaluelist/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

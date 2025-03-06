@@ -3,7 +3,7 @@ title: SVGFECompositeElement.Height
 second_title: Aspose.HTML for Java API Reference
 description: SVGFECompositeElement property. Corresponds to attribute height on the given filter element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.filters/svgfecompositeelement/height/
 ---
 ## SVGFECompositeElement.Height property
@@ -22,5 +22,5 @@ The attribute ‘height’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGFECompositeElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfecompositeelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

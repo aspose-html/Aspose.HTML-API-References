@@ -1,9 +1,9 @@
 ---
 title: BlockSyntaxDescriptor Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.BlockSyntaxDescriptor class. Defines the BlockSyntaxDescriptor
+description: com.aspose.html.toolkit.markdown.syntax.parser.BlockSyntaxDescriptor class. Defines the BlockSyntaxDescriptor
 type: docs
-weight: 5330
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/
 ---
 ## BlockSyntaxDescriptor class
@@ -37,5 +37,5 @@ public class BlockSyntaxDescriptor
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../)

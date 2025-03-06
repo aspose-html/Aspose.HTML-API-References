@@ -3,7 +3,7 @@ title: Document.OnScroll
 second_title: Aspose.HTML for Java API Reference
 description: Document event. Gets or sets event handler for OnScroll event
 type: docs
-weight: 670
+
 url: /java/com.aspose.html.dom/document/onscroll/
 ---
 ## Document.OnScroll event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnScroll;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

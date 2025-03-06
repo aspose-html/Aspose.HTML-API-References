@@ -3,7 +3,7 @@ title: MarkdownSyntaxTree.Save
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxTree method. Saves the syntax tree to the specified path
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/save/
 ---
 ## Save(String) {#save_2}
@@ -21,7 +21,7 @@ public void Save(String path)
 ### See Also
 
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -41,7 +41,7 @@ public void Save(TextWriter writer)
 ### See Also
 
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -61,5 +61,5 @@ public void Save(Stream stream)
 ### See Also
 
 * class [MarkdownSyntaxTree](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxtree/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

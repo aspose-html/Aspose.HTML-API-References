@@ -3,7 +3,7 @@ title: Event.PreventDefault
 second_title: Aspose.HTML for Java API Reference
 description: Event method. If an event is cancelable the PreventDefault method is used to signify that the event is to be canceled meaning any default action normally taken by the implementation as a result of the event will not occur
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.dom.events/event/preventdefault/
 ---
 ## Event.PreventDefault method
@@ -21,5 +21,5 @@ If, during any stage of event flow, the `PreventDefault` method is called the ev
 ### See Also
 
 * class [Event](../)
-* package [com.aspose.html.Dom.Events](../../event/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

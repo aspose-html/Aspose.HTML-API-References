@@ -3,7 +3,7 @@ title: FormSubmitter.Submit
 second_title: Aspose.HTML for Java API Reference
 description: FormSubmitter method. Submits the form data to the server
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.forms/formsubmitter/submit/
 ---
 ## Submit() {#submit}
@@ -22,7 +22,7 @@ The result of the submission.
 
 * class [SubmissionResult](../../submissionresult/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -47,7 +47,7 @@ The result of the submission.
 
 * class [SubmissionResult](../../submissionresult/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -72,7 +72,7 @@ The result of the submission.
 
 * class [SubmissionResult](../../submissionresult/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -98,7 +98,7 @@ The result of the submission.
 
 * class [SubmissionResult](../../submissionresult/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -123,7 +123,7 @@ The result of the submission.
 
 * class [SubmissionResult](../../submissionresult/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -149,7 +149,7 @@ The result of the submission.
 
 * class [SubmissionResult](../../submissionresult/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -175,7 +175,7 @@ The result of the submission.
 
 * class [SubmissionResult](../../submissionresult/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -203,7 +203,7 @@ The result of the submission.
 
 * class [SubmissionResult](../../submissionresult/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -230,7 +230,7 @@ The result of the submission.
 
 * class [SubmissionResult](../../submissionresult/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -259,5 +259,5 @@ The result of the submission.
 
 * class [SubmissionResult](../../submissionresult/)
 * class [FormSubmitter](../)
-* package [com.aspose.html.Forms](../../formsubmitter/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

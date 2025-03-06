@@ -3,7 +3,7 @@ title: Element.SetAttributeNodeNS
 second_title: Aspose.HTML for Java API Reference
 description: Element method. Adds a new attribute. If an attribute with that local name and that package URI is already present in the element it is replaced by the new one
 type: docs
-weight: 420
+
 url: /java/com.aspose.html.dom/element/setattributenodens/
 ---
 ## Element.SetAttributeNodeNS method
@@ -26,5 +26,5 @@ Returns attribute
 
 * class [Attr](../../attr/)
 * class [Element](../)
-* package [com.aspose.html.Dom](../../element/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

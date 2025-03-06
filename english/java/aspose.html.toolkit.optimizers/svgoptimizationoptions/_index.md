@@ -1,9 +1,9 @@
 ---
 title: SVGOptimizationOptions Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Optimizers.SVGOptimizationOptions class. SVGOptimizationOptions is a class for storing options for optimizing SVG documents
+description: com.aspose.html.toolkit.optimizers.SVGOptimizationOptions class. SVGOptimizationOptions is a class for storing options for optimizing SVG documents
 type: docs
-weight: 5750
+
 url: /java/com.aspose.html.toolkit.optimizers/svgoptimizationoptions/
 ---
 ## SVGOptimizationOptions class
@@ -53,5 +53,5 @@ public class SVGOptimizationOptions
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Optimizers](../../com.aspose.html.toolkit.optimizers/)
+* package [com.aspose.html.toolkit.optimizers](../../com.aspose.html.toolkit.optimizers/)
 * package [Aspose.HTML](../../)

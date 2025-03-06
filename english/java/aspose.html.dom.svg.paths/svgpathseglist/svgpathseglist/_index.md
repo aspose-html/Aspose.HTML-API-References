@@ -3,7 +3,7 @@ title: SVGPathSegList
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegList constructor. Initializes a new instance of the SVGPathSegList class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathseglist/svgpathseglist/
 ---
 ## SVGPathSegList() {#constructor}
@@ -17,7 +17,7 @@ public SVGPathSegList()
 ### See Also
 
 * class [SVGPathSegList](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathseglist/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public SVGPathSegList(IEnumerable<SVGPathSeg> enumerable)
 
 * class [SVGPathSeg](../../svgpathseg/)
 * class [SVGPathSegList](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathseglist/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

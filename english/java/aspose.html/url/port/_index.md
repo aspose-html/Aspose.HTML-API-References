@@ -3,7 +3,7 @@ title: Url.Port
 second_title: Aspose.HTML for Java API Reference
 description: Url property. Gets or sets a String representation for the specified URL port
 type: docs
-weight: 90
+
 url: /java/com.aspose.html/url/port/
 ---
 ## Url.Port property
@@ -21,5 +21,5 @@ The port.
 ### See Also
 
 * class [Url](../)
-* package [com.aspose.html](../../url/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

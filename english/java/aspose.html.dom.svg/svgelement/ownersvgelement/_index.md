@@ -3,7 +3,7 @@ title: SVGElement.OwnerSVGElement
 second_title: Aspose.HTML for Java API Reference
 description: SVGElement property. The nearest ancestor svg element. Null if the given element is the outermost svg element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svgelement/ownersvgelement/
 ---
 ## SVGElement.OwnerSVGElement property
@@ -22,5 +22,5 @@ The owner SVG element.
 
 * class [SVGSVGElement](../../svgsvgelement/)
 * class [SVGElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: Size.Height
 second_title: Aspose.HTML for Java API Reference
 description: Size property. Gets or sets the vertical component of this Size
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.drawing/size/height/
 ---
 ## Size.Height property
@@ -22,5 +22,5 @@ The vertical component of this [`Size`](../).
 
 * class [Length](../../length/)
 * class [Size](../)
-* package [com.aspose.html.Drawing](../../size/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGPathSegLinetoVerticalRel.Y
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegLinetoVerticalRel property. The relative Y coordinate for the end point of this path segment
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathseglinetoverticalrel/y/
 ---
 ## SVGPathSegLinetoVerticalRel.Y property
@@ -27,5 +27,5 @@ The relative Y coordinate.
 ### See Also
 
 * class [SVGPathSegLinetoVerticalRel](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathseglinetoverticalrel/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

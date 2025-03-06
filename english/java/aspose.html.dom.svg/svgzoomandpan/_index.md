@@ -1,9 +1,9 @@
 ---
 title: SVGZoomAndPan Enum
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.SVGZoomAndPan enum. The SVGZoomAndPan enumeration defines attribute zoomAndPan and associated constants
+description: com.aspose.html.dom.svg.SVGZoomAndPan enum. The SVGZoomAndPan enumeration defines attribute zoomAndPan and associated constants
 type: docs
-weight: 2430
+
 url: /java/com.aspose.html.dom.svg/svgzoomandpan/
 ---
 ## SVGZoomAndPan enumeration
@@ -24,5 +24,5 @@ public enum SVGZoomAndPan : ushort
 
 ### See Also
 
-* package [com.aspose.html.Dom.Svg](../../com.aspose.html.dom.svg/)
+* package [com.aspose.html.dom.svg](../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../)

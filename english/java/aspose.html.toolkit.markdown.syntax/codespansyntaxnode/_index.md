@@ -1,9 +1,9 @@
 ---
 title: CodeSpanSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.CodeSpanSyntaxNode class. Represents the CodeSpanSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.CodeSpanSyntaxNode class. Represents the CodeSpanSyntaxNode
 type: docs
-weight: 4840
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/codespansyntaxnode/
 ---
 ## CodeSpanSyntaxNode class
@@ -46,5 +46,5 @@ public class CodeSpanSyntaxNode : InlineContainerSyntaxNode
 ### See Also
 
 * class [InlineContainerSyntaxNode](../inlinecontainersyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

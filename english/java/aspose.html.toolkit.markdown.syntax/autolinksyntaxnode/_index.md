@@ -1,9 +1,9 @@
 ---
 title: AutoLinkSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.AutoLinkSyntaxNode class. Represents the AutoLinkSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.AutoLinkSyntaxNode class. Represents the AutoLinkSyntaxNode
 type: docs
-weight: 4790
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/autolinksyntaxnode/
 ---
 ## AutoLinkSyntaxNode class
@@ -46,5 +46,5 @@ public sealed class AutoLinkSyntaxNode : InlineSyntaxNode
 ### See Also
 
 * class [InlineSyntaxNode](../inlinesyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

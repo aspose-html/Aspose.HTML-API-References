@@ -1,9 +1,9 @@
 ---
 title: SVGPathSegArcRel Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.Paths.SVGPathSegArcRel class. The SVGPathSegArcRel interface corresponds to a relative arcto a path data command
+description: com.aspose.html.dom.svg.paths.SVGPathSegArcRel class. The SVGPathSegArcRel interface corresponds to a relative arcto a path data command
 type: docs
-weight: 1720
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegarcrel/
 ---
 ## SVGPathSegArcRel class
@@ -43,5 +43,5 @@ public class SVGPathSegArcRel : SVGPathSeg
 ### See Also
 
 * class [SVGPathSeg](../svgpathseg/)
-* package [com.aspose.html.Dom.Svg.Paths](../../com.aspose.html.dom.svg.paths/)
+* package [com.aspose.html.dom.svg.paths](../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../)

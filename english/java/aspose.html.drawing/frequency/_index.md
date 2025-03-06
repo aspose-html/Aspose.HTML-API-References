@@ -1,9 +1,9 @@
 ---
 title: Frequency Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Drawing.Frequency class. The frequency unit
+description: com.aspose.html.drawing.Frequency class. The frequency unit
 type: docs
-weight: 2680
+
 url: /java/com.aspose.html.drawing/frequency/
 ---
 ## Frequency class
@@ -43,5 +43,5 @@ public sealed class Frequency : Dimension
 ### See Also
 
 * class [Dimension](../dimension/)
-* package [com.aspose.html.Drawing](../../com.aspose.html.drawing/)
+* package [com.aspose.html.drawing](../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../)

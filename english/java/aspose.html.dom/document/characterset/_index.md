@@ -3,7 +3,7 @@ title: Document.CharacterSet
 second_title: Aspose.HTML for Java API Reference
 description: Document property. Gets the documents encoding
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom/document/characterset/
 ---
 ## Document.CharacterSet property
@@ -21,5 +21,5 @@ The document's encoding.
 ### See Also
 
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

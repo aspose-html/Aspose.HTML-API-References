@@ -3,16 +3,36 @@ title: MarkdownSyntaxFactory.LinkTitle
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxFactory method. Creates LinkTitleSyntaxNode
 type: docs
-weight: 270
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linktitle/
 ---
-## LinkTitle(MarkdownSyntaxToken, MarkdownSyntaxToken) {#linktitle}
+## LinkTitle() {#linktitle}
 
 Creates [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/).
 
 ```java
-public LinkTitleSyntaxNode LinkTitle(MarkdownSyntaxToken opening = null, 
-    MarkdownSyntaxToken closing = null)
+public LinkTitleSyntaxNode LinkTitle()
+```
+
+### Return Value
+
+The [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/) object.
+
+### See Also
+
+* class [LinkTitleSyntaxNode](../../linktitlesyntaxnode/)
+* class [MarkdownSyntaxFactory](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## LinkTitle(MarkdownSyntaxToken, MarkdownSyntaxToken) {#linktitle_1}
+
+Creates [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/).
+
+```java
+public LinkTitleSyntaxNode LinkTitle(MarkdownSyntaxToken opening, MarkdownSyntaxToken closing)
 ```
 
 | Parameter | Type | Description |
@@ -29,12 +49,12 @@ The [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/) object.
 * class [LinkTitleSyntaxNode](../../linktitlesyntaxnode/)
 * class [MarkdownSyntaxToken](../../markdownsyntaxtoken/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
 
-## LinkTitle(String) {#linktitle_1}
+## LinkTitle(String) {#linktitle_2}
 
 Creates LinkTitleSyntaxNode object from a String.
 
@@ -54,5 +74,5 @@ The [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/) object.
 
 * class [LinkTitleSyntaxNode](../../linktitlesyntaxnode/)
 * class [MarkdownSyntaxFactory](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxfactory/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

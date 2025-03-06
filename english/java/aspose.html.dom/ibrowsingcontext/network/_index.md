@@ -3,7 +3,7 @@ title: IBrowsingContext.Network
 second_title: Aspose.HTML for Java API Reference
 description: IBrowsingContext property. Gets the network services
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom/ibrowsingcontext/network/
 ---
 ## IBrowsingContext.Network property
@@ -22,5 +22,5 @@ The network services.
 
 * interface [INetwork](../../../com.aspose.html.net/inetwork/)
 * interface [IBrowsingContext](../)
-* package [com.aspose.html.Dom](../../ibrowsingcontext/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

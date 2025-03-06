@@ -3,7 +3,7 @@ title: LinkReferenceDefinitionSyntaxNode.SetLabel
 second_title: Aspose.HTML for Java API Reference
 description: LinkReferenceDefinitionSyntaxNode method. Sets the link reference label
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/setlabel/
 ---
 ## LinkReferenceDefinitionSyntaxNode.SetLabel method
@@ -22,5 +22,5 @@ public void SetLabel(TextSyntaxNode label)
 
 * class [TextSyntaxNode](../../textsyntaxnode/)
 * class [LinkReferenceDefinitionSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../linkreferencedefinitionsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

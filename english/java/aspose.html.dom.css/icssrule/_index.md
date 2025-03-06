@@ -1,9 +1,9 @@
 ---
 title: ICSSRule Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Css.ICSSRule interface. The CSSRule interface is the abstract base interface for any type of CSS statement. This includes both rule sets and at-rules. An implementation is expected to preserve all rules specified in a CSS style sheet even if the rule is not recognized by the parser. Unrecognized rules are represented using the interface
+description: com.aspose.html.dom.css.ICSSRule interface. The CSSRule interface is the abstract base interface for any type of CSS statement. This includes both rule sets and at-rules. An implementation is expected to preserve all rules specified in a CSS style sheet even if the rule is not recognized by the parser. Unrecognized rules are represented using the interface
 type: docs
-weight: 480
+
 url: /java/com.aspose.html.dom.css/icssrule/
 ---
 ## ICSSRule interface
@@ -26,5 +26,5 @@ public interface ICSSRule
 
 ### See Also
 
-* package [com.aspose.html.Dom.Css](../../com.aspose.html.dom.css/)
+* package [com.aspose.html.dom.css](../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../)

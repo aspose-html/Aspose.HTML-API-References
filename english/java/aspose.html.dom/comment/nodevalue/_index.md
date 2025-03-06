@@ -3,7 +3,7 @@ title: Comment.NodeValue
 second_title: Aspose.HTML for Java API Reference
 description: Comment property. The value of this node depending on its type
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom/comment/nodevalue/
 ---
 ## Comment.NodeValue property
@@ -21,5 +21,5 @@ The node value.
 ### See Also
 
 * class [Comment](../)
-* package [com.aspose.html.Dom](../../comment/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

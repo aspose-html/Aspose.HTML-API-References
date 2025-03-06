@@ -3,7 +3,7 @@ title: SVGAnimatedValue-1.BaseVal
 second_title: Aspose.HTML for Java API Reference
 description: SVGAnimatedValue property. The base value of the given attribute before applying any animations
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg.datatypes/svganimatedvalue-1/baseval/
 ---
 ## SVGAnimatedValue&lt;T&gt;.BaseVal property
@@ -21,5 +21,5 @@ public T BaseVal { get; set; }
 ### See Also
 
 * class [SVGAnimatedValue&lt;T&gt;](../)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../svganimatedvalue-1/)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../../)

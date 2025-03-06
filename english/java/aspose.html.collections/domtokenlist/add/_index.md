@@ -3,7 +3,7 @@ title: DOMTokenList.Add
 second_title: Aspose.HTML for Java API Reference
 description: DOMTokenList method. Adds the specified tokens to the list
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.collections/domtokenlist/add/
 ---
 ## DOMTokenList.Add method
@@ -21,5 +21,5 @@ public void Add(params String[] tokens)
 ### See Also
 
 * class [DOMTokenList](../)
-* package [com.aspose.html.Collections](../../domtokenlist/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

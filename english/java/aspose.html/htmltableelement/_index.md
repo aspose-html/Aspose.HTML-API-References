@@ -3,7 +3,7 @@ title: HTMLTableElement Class
 second_title: Aspose.HTML for Java API Reference
 description: com.aspose.html.HTMLTableElement class. The create and delete methods on the table allow authors to construct and modify tables. HTML 4.01 specifies that only one of each of the CAPTION THEAD and TFOOT elements may exist in a table. Therefore if one exists and the createTHead or createTFoot method is called the method returns the existing THead or TFoot element. See the TABLE element definition in HTML 4.01
 type: docs
-weight: 3580
+
 url: /java/com.aspose.html/htmltableelement/
 ---
 ## HTMLTableElement class
@@ -59,8 +59,7 @@ public class HTMLTableElement : HTMLElement
 | [getNextSibling](../../com.aspose.html.dom/node/nextsibling/) The read-only nextSibling property of the [`Node`](../../com.aspose.html.dom/node/) interface returns the node immediately following the specified one in their parent's [`childNodes`](../../com.aspose.html.dom/node/childnodes/), or returns null if the specified node is the last child in the parent element. |
 | [getNodeName](../../com.aspose.html.dom/element/nodename/) The name of this node, depending on its type. |
 | [getNodeType](../../com.aspose.html.dom/element/nodetype/) A code representing the type of the underlying object. |
-[getNodeValue]
-[setNodeValue] The nodeValue property of the [`Node `](../../com.aspose.html.dom/node/)interface returns or sets the value of the current node. |
+| [nodeValue](../../com.aspose.html.dom/node/nodevalue/) { get; set; } | The nodeValue property of the [`Node `](../../com.aspose.html.dom/node/)interface returns or sets the value of the current node. |
 [getOuterHTML]
 [setOuterHTML] Returns a fragment of HTML or XML that represents the element and its contents. Can be set, to replace the element with nodes parsed from the given String. |
 | [getOwnerDocument](../../com.aspose.html.dom/node/ownerdocument/) The read-only ownerDocument property of the Node interface returns the top-level document object of the node. |
@@ -72,15 +71,13 @@ public class HTMLTableElement : HTMLElement
 | [getRows](../../com.aspose.html/htmltableelement/rows/) Returns the table's `TFOOT`, or `null` if none exists. |
 [getRules]
 [setRules] Specifies which internal table borders to render. See the rules attribute definition in HTML 4.01. |
-| [getSchemaTypeInfo](../../com.aspose.html.dom/element/schematypeinfo/) The type information associated with this element. |
 | [getShadowRoot](../../com.aspose.html.dom/element/shadowroot/) Returns shadowRoot stored on this element or null if it's closed. |
 | [getStyle](../../com.aspose.html/htmlelement/style/) Represents a style attribute that allows author to directly apply style information to specific element. |
 [getSummary]
 [setSummary] Description about the purpose or structure of a table. See the summary attribute definition in HTML 4.01. |
 | [getTagName](../../com.aspose.html.dom/element/tagname/) The name of the element. |
 | [getTBodies](../../com.aspose.html/htmltableelement/tbodies/) Returns a collection of the table bodies (including implicit ones). |
-[getTextContent]
-[setTextContent] This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new String is not empty or null, replaced by a single Text node containing the String this attribute is set to. |
+| [textContent](../../com.aspose.html.dom/element/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new String is not empty or null, replaced by a single Text node containing the String this attribute is set to. |
 | [getTFoot](../../com.aspose.html/htmltableelement/tfoot/) Returns the table's `THEAD`, or `null` if none exists. |
 | [getTHead](../../com.aspose.html/htmltableelement/thead/) Returns the table's `CAPTION`, or void if none exists. |
 [getTitle]
@@ -93,8 +90,8 @@ public class HTMLTableElement : HTMLElement
 | Name | Description |
 | --- | --- |
 | [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener) | The addEventListener() method of the [`EventTarget `](../../com.aspose.html.dom/eventtarget/)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
-| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.Dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | The addEventListener() method of the [EventTarget ](T:com.aspose.html.dom.EventTarget)interface sets up a function that will be called whenever the specified event is delivered to the target. |
 | [appendChild](../../com.aspose.html.dom/node/appendchild/)(Node) | The appendChild() method of the Node interface adds a node to the end of the list of children of a specified parent node. If the given child is a reference to an existing node in the document, appendChild() moves it from its current position to the new position (there is no requirement to remove the node from its parent node before appending it to some other node). |
 | [attachShadow](../../com.aspose.html.dom/element/attachshadow/)(ShadowRootMode) | Creates shadow root and attaches it to current element. |
 | [cloneNode](../../com.aspose.html.dom/node/clonenode/)() | The cloneNode() method of the Node interface returns a duplicate of the node on which this method was called. Its parameter controls if the subtree contained in a node is also cloned or not. |
@@ -109,6 +106,7 @@ public class HTMLTableElement : HTMLElement
 | [dispatchEvent](../../com.aspose.html.dom/eventtarget/dispatchevent/)(Event) | Dispatches an Event at the specified [`EventTarget`](../../com.aspose.html.dom.events/ieventtarget/), (synchronously) invoking the affected EventListeners in the appropriate order. The normal event processing rules (including the capturing and optional bubbling phase) also apply to events dispatched manually with [`dispatchEvent()`](../../com.aspose.html.dom.events/ieventtarget/dispatchevent/). |
 | [dispose](../../com.aspose.html.dom/eventtarget/dispose/)() | Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. |
 | [getAttribute](../../com.aspose.html.dom/element/getattribute/)(String) | Retrieves an attribute value by name. |
+| [getAttributeNames](../../com.aspose.html.dom/element/getattributenames/)() | Returns the attribute names of the element as an Array of Strings. If the element has no attributes it returns an empty array. |
 | [getAttributeNode](../../com.aspose.html.dom/element/getattributenode/)(String) | Retrieves an attribute node by name. |
 | [getAttributeNodeNS](../../com.aspose.html.dom/element/getattributenodens/)(String, String) | Retrieves an Attr node by local name and package URI. |
 | [getAttributeNS](../../com.aspose.html.dom/element/getattributens/)(String, String) | Retrieves an attribute value by local name and package URI. |
@@ -143,9 +141,8 @@ public class HTMLTableElement : HTMLElement
 | [setAttributeNode](../../com.aspose.html.dom/element/setattributenode/)(Attr) | Adds a new attribute node. If an attribute with that name (nodeName) is already present in the element, it is replaced by the new one. |
 | [setAttributeNodeNS](../../com.aspose.html.dom/element/setattributenodens/)(Attr) | Adds a new attribute. If an attribute with that local name and that package URI is already present in the element, it is replaced by the new one. |
 | [setAttributeNS](../../com.aspose.html.dom/element/setattributens/)(String, String, String) | Adds a new attribute. If an attribute with the same local name and package URI is already present on the element, its prefix is changed to be the prefix part of the qualifiedName, and its value is changed to be the value parameter. |
-| [setIdAttribute](../../com.aspose.html.dom/element/setidattribute/)(String, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [setIdAttributeNode](../../com.aspose.html.dom/element/setidattributenode/)(Attr, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
-| [setIdAttributeNS](../../com.aspose.html.dom/element/setidattributens/)(String, String, bool) | If the parameter isId is true, this method declares the specified attribute to be a user-determined ID attribute. |
+| [toggleAttribute](../../com.aspose.html.dom/element/toggleattribute/)(String) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
+| [toggleAttribute](../../com.aspose.html.dom/element/toggleattribute/)(String, bool) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | [toString](../../com.aspose.html.dom/node/toString/)() | Returns a String that represents this instance. |
 
 ## Events

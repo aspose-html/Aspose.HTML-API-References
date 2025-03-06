@@ -3,7 +3,7 @@ title: Unit.FromTurns
 second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Angle object that is represented in turns
 type: docs
-weight: 220
+
 url: /java/com.aspose.html.drawing/unit/fromturns/
 ---
 ## Unit.FromTurns method
@@ -26,5 +26,5 @@ Returns a [`Angle`](../../angle/) object.
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* package [com.aspose.html.Drawing](../../unit/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

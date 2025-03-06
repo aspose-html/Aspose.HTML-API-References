@@ -1,9 +1,9 @@
 ---
 title: SVGTransform Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.DataTypes.SVGTransform class. SVGTransform is the interface for one of the component transformations within an SVGTransformList thus an SVGTransform object corresponds to a single component e.g. scale or matrix within a transform attribute specification
+description: com.aspose.html.dom.svg.datatypes.SVGTransform class. SVGTransform is the interface for one of the component transformations within an SVGTransformList thus an SVGTransform object corresponds to a single component e.g. scale or matrix within a transform attribute specification
 type: docs
-weight: 1310
+
 url: /java/com.aspose.html.dom.svg.datatypes/svgtransform/
 ---
 ## SVGTransform class
@@ -51,5 +51,5 @@ public class SVGTransform : SVGValueType
 ### See Also
 
 * class [SVGValueType](../svgvaluetype/)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../)

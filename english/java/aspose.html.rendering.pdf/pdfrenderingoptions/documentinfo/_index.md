@@ -3,7 +3,7 @@ title: PdfRenderingOptions.DocumentInfo
 second_title: Aspose.HTML for Java API Reference
 description: PdfRenderingOptions property. Contains information about the output PDF document
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.rendering.pdf/pdfrenderingoptions/documentinfo/
 ---
 ## PdfRenderingOptions.DocumentInfo property
@@ -18,5 +18,5 @@ public PdfDocumentInfo DocumentInfo { get; }
 
 * class [PdfDocumentInfo](../../pdfdocumentinfo/)
 * class [PdfRenderingOptions](../)
-* package [com.aspose.html.Rendering.Pdf](../../pdfrenderingoptions/)
+* package [com.aspose.html.rendering.pdf](../../../com.aspose.html.rendering.pdf/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: ICanvasRenderingContext2D.DrawImage
 second_title: Aspose.HTML for Java API Reference
 description: ICanvasRenderingContext2D method. Draws the specified image
 type: docs
-weight: 210
+
 url: /java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/drawimage/
 ---
 ## DrawImage(HTMLImageElement, double, double) {#drawimage_3}
@@ -24,7 +24,7 @@ public void DrawImage(HTMLImageElement image, double dx, double dy)
 
 * class [HTMLImageElement](../../../com.aspose.html/htmlimageelement/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -47,7 +47,7 @@ public void DrawImage(HTMLCanvasElement image, double dx, double dy)
 
 * class [HTMLCanvasElement](../../../com.aspose.html/htmlcanvaselement/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -72,7 +72,7 @@ public void DrawImage(HTMLImageElement image, double dx, double dy, double dw, d
 
 * class [HTMLImageElement](../../../com.aspose.html/htmlimageelement/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -97,7 +97,7 @@ public void DrawImage(HTMLCanvasElement image, double dx, double dy, double dw, 
 
 * class [HTMLCanvasElement](../../../com.aspose.html/htmlcanvaselement/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -127,7 +127,7 @@ public void DrawImage(HTMLImageElement image, double sx, double sy, double sw, d
 
 * class [HTMLImageElement](../../../com.aspose.html/htmlimageelement/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -157,5 +157,5 @@ public void DrawImage(HTMLCanvasElement image, double sx, double sy, double sw, 
 
 * class [HTMLCanvasElement](../../../com.aspose.html/htmlcanvaselement/)
 * interface [ICanvasRenderingContext2D](../)
-* package [com.aspose.html.Dom.Canvas](../../icanvasrenderingcontext2d/)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
 * package [Aspose.HTML](../../../)

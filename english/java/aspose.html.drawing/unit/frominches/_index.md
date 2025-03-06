@@ -3,7 +3,7 @@ title: Unit.FromInches
 second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Length object that is represented in inches
 type: docs
-weight: 120
+
 url: /java/com.aspose.html.drawing/unit/frominches/
 ---
 ## Unit.FromInches method
@@ -26,5 +26,5 @@ Returns a [`Length`](../../length/) object.
 
 * class [Length](../../length/)
 * class [Unit](../)
-* package [com.aspose.html.Drawing](../../unit/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

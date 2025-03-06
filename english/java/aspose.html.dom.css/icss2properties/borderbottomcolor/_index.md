@@ -3,7 +3,7 @@ title: ICSS2Properties.BorderBottomColor
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The border color properties specify the color of a boxs border
 type: docs
-weight: 100
+
 url: /java/com.aspose.html.dom.css/icss2properties/borderbottomcolor/
 ---
 ## ICSS2Properties.BorderBottomColor property
@@ -21,5 +21,5 @@ border-bottom-color property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: NamedNodeMap.SetNamedItemNS
 second_title: Aspose.HTML for Java API Reference
 description: NamedNodeMap method. Adds a node using its packageURI and localName. If a node with that package URI and that local name is already present in this map it is replaced by the new one. Replacing a node by itself has no effect
 type: docs
-weight: 90
+
 url: /java/com.aspose.html.collections/namednodemap/setnameditemns/
 ---
 ## NamedNodeMap.SetNamedItemNS method
@@ -32,5 +32,5 @@ Returns node.
 
 * class [Attr](../../../com.aspose.html.dom/attr/)
 * class [NamedNodeMap](../)
-* package [com.aspose.html.Collections](../../namednodemap/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

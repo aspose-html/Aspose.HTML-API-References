@@ -3,7 +3,7 @@ title: HTMLElement.OnToggle
 second_title: Aspose.HTML for Java API Reference
 description: HTMLElement event. Gets or sets event handler for OnToggle event
 type: docs
-weight: 540
+
 url: /java/com.aspose.html/htmlelement/ontoggle/
 ---
 ## HTMLElement.OnToggle event
@@ -18,5 +18,5 @@ public event DOMEventHandler OnToggle;
 
 * delegate [DOMEventHandler](../../../com.aspose.html.dom.events/domeventhandler/)
 * class [HTMLElement](../)
-* package [com.aspose.html](../../htmlelement/)
+* package [com.aspose.html](../../../com.aspose.html/)
 * package [Aspose.HTML](../../../)

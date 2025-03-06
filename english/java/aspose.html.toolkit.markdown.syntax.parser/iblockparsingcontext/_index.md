@@ -1,9 +1,9 @@
 ---
 title: IBlockParsingContext Interface
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.Parser.IBlockParsingContext interface. Defines the IBlockParsingContext interface
+description: com.aspose.html.toolkit.markdown.syntax.parser.IBlockParsingContext interface. Defines the IBlockParsingContext interface
 type: docs
-weight: 5370
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/
 ---
 ## IBlockParsingContext interface
@@ -38,5 +38,5 @@ public interface IBlockParsingContext
 
 ### See Also
 
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../)

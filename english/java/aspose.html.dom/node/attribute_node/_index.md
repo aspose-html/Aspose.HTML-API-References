@@ -3,7 +3,7 @@ title: Node.ATTRIBUTE_NODE
 second_title: Aspose.HTML for Java API Reference
 description: Node field. An Attribute of an Element
 type: docs
-weight: 320
+
 url: /java/com.aspose.html.dom/node/attribute_node/
 ---
 ## Node.ATTRIBUTE_NODE field
@@ -23,5 +23,5 @@ Reference:
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

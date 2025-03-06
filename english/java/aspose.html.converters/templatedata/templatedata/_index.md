@@ -3,7 +3,7 @@ title: TemplateData
 second_title: Aspose.HTML for Java API Reference
 description: TemplateData constructor. Inline content based on initialization XML JSON
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.converters/templatedata/templatedata/
 ---
 ## TemplateData(TemplateContentOptions) {#constructor}
@@ -22,7 +22,7 @@ public TemplateData(TemplateContentOptions contentOptions)
 
 * class [TemplateContentOptions](../../templatecontentoptions/)
 * class [TemplateData](../)
-* package [com.aspose.html.Converters](../../templatedata/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -42,5 +42,5 @@ public TemplateData(String dataPath)
 ### See Also
 
 * class [TemplateData](../)
-* package [com.aspose.html.Converters](../../templatedata/)
+* package [com.aspose.html.converters](../../../com.aspose.html.converters/)
 * package [Aspose.HTML](../../../)

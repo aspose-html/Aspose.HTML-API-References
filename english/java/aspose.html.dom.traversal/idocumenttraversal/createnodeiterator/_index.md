@@ -3,7 +3,7 @@ title: IDocumentTraversal.CreateNodeIterator
 second_title: Aspose.HTML for Java API Reference
 description: IDocumentTraversal method. Create a new NodeIterator over the subtree rooted at the specified node
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.traversal/idocumenttraversal/createnodeiterator/
 ---
 ## CreateNodeIterator(Node) {#createnodeiterator}
@@ -33,7 +33,7 @@ The newly created NodeIterator.
 * interface [INodeIterator](../../inodeiterator/)
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [IDocumentTraversal](../)
-* package [com.aspose.html.Dom.Traversal](../../idocumenttraversal/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -66,7 +66,7 @@ The newly created NodeIterator.
 * interface [INodeIterator](../../inodeiterator/)
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [IDocumentTraversal](../)
-* package [com.aspose.html.Dom.Traversal](../../idocumenttraversal/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -101,5 +101,5 @@ The newly created NodeIterator.
 * class [Node](../../../com.aspose.html.dom/node/)
 * interface [INodeFilter](../../inodefilter/)
 * interface [IDocumentTraversal](../)
-* package [com.aspose.html.Dom.Traversal](../../idocumenttraversal/)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
 * package [Aspose.HTML](../../../)

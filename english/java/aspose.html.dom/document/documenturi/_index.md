@@ -3,7 +3,7 @@ title: Document.DocumentURI
 second_title: Aspose.HTML for Java API Reference
 description: Document property. The location of the document or null if undefined or if the Document was created using DOMImplementation.createDocument
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.dom/document/documenturi/
 ---
 ## Document.DocumentURI property
@@ -21,5 +21,5 @@ The document URI.
 ### See Also
 
 * class [Document](../)
-* package [com.aspose.html.Dom](../../document/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

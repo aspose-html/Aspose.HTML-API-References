@@ -3,7 +3,7 @@ title: MarkdownSyntaxNode.ChildNodes
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxNode method. Get the child nodes collection
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/childnodes/
 ---
 ## MarkdownSyntaxNode.ChildNodes method
@@ -22,5 +22,5 @@ The NodeList.
 
 * class [NodeList](../../nodelist/)
 * class [MarkdownSyntaxNode](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

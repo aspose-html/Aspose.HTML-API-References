@@ -1,12 +1,12 @@
 ---
-title: com.aspose.html.rendering.Fonts
+title: com.aspose.html.rendering.fonts
 second_title: Aspose.HTML for Java API Reference
-description: The com.aspose.html.Rendering.Fonts package contains classes and methods that allows you to control some parts of the font matching algorithm
+description: The com.aspose.html.rendering.fonts package contains classes and methods that allows you to control some parts of the font matching algorithm
 type: docs
-weight: 320
+
 url: /java/com.aspose.html.rendering.fonts/
 ---
-The **com.aspose.html.Rendering.Fonts** package contains classes and methods that allows you to control some parts of the font matching algorithm.
+The **com.aspose.html.rendering.fonts** package contains classes and methods that allows you to control some parts of the font matching algorithm.
 
 ## Classes
 

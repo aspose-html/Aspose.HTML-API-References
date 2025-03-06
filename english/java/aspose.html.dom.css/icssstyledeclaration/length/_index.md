@@ -3,7 +3,7 @@ title: ICSSStyleDeclaration.Length
 second_title: Aspose.HTML for Java API Reference
 description: ICSSStyleDeclaration property. The read-only property returns an integer number of properties that have been explicitly set in this CSS declaration block. The range of valid indices is 0 to length-1 inclusive
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.css/icssstyledeclaration/length/
 ---
 ## ICSSStyleDeclaration.Length property
@@ -21,5 +21,5 @@ An integer that provides the number of styles explicitly set on the parent of th
 ### See Also
 
 * interface [ICSSStyleDeclaration](../)
-* package [com.aspose.html.Dom.Css](../../icssstyledeclaration/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGMPathElement.Href
 second_title: Aspose.HTML for Java API Reference
 description: SVGMPathElement property. Corresponds to attribute xlinkhref on the given element
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg/svgmpathelement/href/
 ---
 ## SVGMPathElement.Href property
@@ -22,5 +22,5 @@ The ‘xlink:href’ of the given element.
 
 * class [SVGAnimatedString](../../../com.aspose.html.dom.svg.datatypes/svganimatedString/)
 * class [SVGMPathElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgmpathelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

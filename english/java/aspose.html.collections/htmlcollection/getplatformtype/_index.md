@@ -3,7 +3,7 @@ title: HTMLCollection.GetPlatformType
 second_title: Aspose.HTML for Java API Reference
 description: HTMLCollection method. This method is used to retrieve ECMAScript object Type
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.collections/htmlcollection/getplatformtype/
 ---
 ## HTMLCollection.GetPlatformType method
@@ -21,5 +21,5 @@ The ECMAScript object Type.
 ### See Also
 
 * class [HTMLCollection](../)
-* package [com.aspose.html.Collections](../../htmlcollection/)
+* package [com.aspose.html.collections](../../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../../)

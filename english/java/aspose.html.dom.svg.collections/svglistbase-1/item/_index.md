@@ -3,7 +3,7 @@ title: SVGListBase-1.Item
 second_title: Aspose.HTML for Java API Reference
 description: SVGListBase property. Returns the indexth item in the list
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.svg.collections/svglistbase-1/item/
 ---
 ## SVGListBase&lt;T&gt; indexer
@@ -36,5 +36,5 @@ The type of item stored in list.
 ### See Also
 
 * class [SVGListBase&lt;T&gt;](../)
-* package [com.aspose.html.Dom.Svg.Collections](../../svglistbase-1/)
+* package [com.aspose.html.dom.svg.collections](../../../com.aspose.html.dom.svg.collections/)
 * package [Aspose.HTML](../../../)

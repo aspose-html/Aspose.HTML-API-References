@@ -3,7 +3,7 @@ title: MutationObserverInit.AttributeOldValue
 second_title: Aspose.HTML for Java API Reference
 description: MutationObserverInit property. Set to true if attributes is true or omitted and targets attribute value before the mutation needs to be recorded
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.mutations/mutationobserverinit/attributeoldvalue/
 ---
 ## MutationObserverInit.AttributeOldValue property
@@ -17,5 +17,5 @@ public bool AttributeOldValue { get; set; }
 ### See Also
 
 * class [MutationObserverInit](../)
-* package [com.aspose.html.Dom.Mutations](../../mutationobserverinit/)
+* package [com.aspose.html.dom.mutations](../../../com.aspose.html.dom.mutations/)
 * package [Aspose.HTML](../../../)

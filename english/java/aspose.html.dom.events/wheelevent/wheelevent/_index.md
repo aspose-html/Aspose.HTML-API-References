@@ -3,7 +3,7 @@ title: WheelEvent
 second_title: Aspose.HTML for Java API Reference
 description: WheelEvent constructor. Initializes a new instance of the WheelEvent class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.events/wheelevent/wheelevent/
 ---
 ## WheelEvent(String) {#constructor}
@@ -21,7 +21,7 @@ public WheelEvent(String type)
 ### See Also
 
 * class [WheelEvent](../)
-* package [com.aspose.html.Dom.Events](../../wheelevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -35,5 +35,5 @@ public WheelEvent(String type, IDictionary<String, object> eventInitDict)
 ### See Also
 
 * class [WheelEvent](../)
-* package [com.aspose.html.Dom.Events](../../wheelevent/)
+* package [com.aspose.html.dom.events](../../../com.aspose.html.dom.events/)
 * package [Aspose.HTML](../../../)

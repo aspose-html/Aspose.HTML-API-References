@@ -3,7 +3,7 @@ title: Color.FromString
 second_title: Aspose.HTML for Java API Reference
 description: Color method. Parses String containing the CSS color and returns a new Color
 type: docs
-weight: 220
+
 url: /java/com.aspose.html.drawing/color/fromString/
 ---
 ## Color.FromString method
@@ -25,5 +25,5 @@ A new instance of the [`Color`](../) class
 ### See Also
 
 * class [Color](../)
-* package [com.aspose.html.Drawing](../../color/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

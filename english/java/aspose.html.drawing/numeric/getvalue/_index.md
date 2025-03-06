@@ -3,7 +3,7 @@ title: Numeric.GetValue
 second_title: Aspose.HTML for Java API Reference
 description: Numeric method. Gets the unit value
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.drawing/numeric/getvalue/
 ---
 ## GetValue() {#getvalue}
@@ -21,7 +21,7 @@ The object value.
 ### See Also
 
 * class [Numeric](../)
-* package [com.aspose.html.Drawing](../../numeric/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -52,5 +52,5 @@ Returns value that is converted to specified type.
 
 * class [UnitType](../../unittype/)
 * class [Numeric](../)
-* package [com.aspose.html.Drawing](../../numeric/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

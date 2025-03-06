@@ -3,7 +3,7 @@ title: SVGFECompositeElement.K2
 second_title: Aspose.HTML for Java API Reference
 description: SVGFECompositeElement property. Corresponds to attribute k2 on the given feComposite element
 type: docs
-weight: 50
+
 url: /java/com.aspose.html.dom.svg.filters/svgfecompositeelement/k2/
 ---
 ## SVGFECompositeElement.K2 property
@@ -22,5 +22,5 @@ The attribute ‘k2’ on the given ‘feComposite’ element.
 
 * class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
 * class [SVGFECompositeElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfecompositeelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)

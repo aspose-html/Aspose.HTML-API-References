@@ -1,9 +1,9 @@
 ---
 title: MessageFilter Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Net.MessageFilter class. Represents abstract base class for different classes of filters used to query messages
+description: com.aspose.html.net.MessageFilter class. Represents abstract base class for different classes of filters used to query messages
 type: docs
-weight: 3970
+
 url: /java/com.aspose.html.net/messagefilter/
 ---
 ## MessageFilter class
@@ -22,5 +22,5 @@ public abstract class MessageFilter
 
 ### See Also
 
-* package [com.aspose.html.Net](../../com.aspose.html.net/)
+* package [com.aspose.html.net](../../com.aspose.html.net/)
 * package [Aspose.HTML](../../)

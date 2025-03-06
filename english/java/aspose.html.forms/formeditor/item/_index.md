@@ -3,7 +3,7 @@ title: FormEditor.Item
 second_title: Aspose.HTML for Java API Reference
 description: FormEditor property. Returns the element by specified index
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.forms/formeditor/item/
 ---
 ## FormEditor indexer (1 of 2)
@@ -26,7 +26,7 @@ Returns the element.
 
 * class [FormElement](../../formelement/)
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -51,5 +51,5 @@ Returns the element.
 
 * class [FormElement](../../formelement/)
 * class [FormEditor](../)
-* package [com.aspose.html.Forms](../../formeditor/)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
 * package [Aspose.HTML](../../../)

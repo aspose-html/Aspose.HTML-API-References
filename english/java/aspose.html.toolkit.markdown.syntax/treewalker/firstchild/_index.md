@@ -3,7 +3,7 @@ title: TreeWalker.FirstChild
 second_title: Aspose.HTML for Java API Reference
 description: TreeWalker method. Defines the interface for get first child node
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/treewalker/firstchild/
 ---
 ## TreeWalker.FirstChild method
@@ -22,5 +22,5 @@ The MarkdownSyntaxNode.
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [TreeWalker](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../treewalker/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

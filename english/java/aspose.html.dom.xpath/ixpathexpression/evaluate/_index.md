@@ -3,7 +3,7 @@ title: IXPathExpression.Evaluate
 second_title: Aspose.HTML for Java API Reference
 description: IXPathExpression method. Evaluates this XPath expression and returns a result
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.dom.xpath/ixpathexpression/evaluate/
 ---
 ## IXPathExpression.Evaluate method
@@ -38,5 +38,5 @@ The result of the evaluation of the XPath expression. For XPath 1.0 results, thi
 * class [Node](../../../com.aspose.html.dom/node/)
 * enum [XPathResultType](../../xpathresulttype/)
 * interface [IXPathExpression](../)
-* package [com.aspose.html.Dom.XPath](../../ixpathexpression/)
+* package [com.aspose.html.dom.xpath](../../../com.aspose.html.dom.xpath/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: RequestMessage.RequestUri
 second_title: Aspose.HTML for Java API Reference
 description: RequestMessage property. Gets or sets the request URI
 type: docs
-weight: 80
+
 url: /java/com.aspose.html.net/requestmessage/requesturi/
 ---
 ## RequestMessage.RequestUri property
@@ -22,5 +22,5 @@ The request URI.
 
 * class [Url](../../../com.aspose.html/url/)
 * class [RequestMessage](../)
-* package [com.aspose.html.Net](../../requestmessage/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

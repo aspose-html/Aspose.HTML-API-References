@@ -3,7 +3,7 @@ title: TextLine.ToString
 second_title: Aspose.HTML for Java API Reference
 description: TextLine method. Override the ToString
 type: docs
-weight: 60
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.text/textline/toString/
 ---
 ## TextLine.ToString method
@@ -21,5 +21,5 @@ The String.
 ### See Also
 
 * struct [TextLine](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Text](../../textline/)
+* package [com.aspose.html.toolkit.markdown.syntax.text](../../../com.aspose.html.toolkit.markdown.syntax.text/)
 * package [Aspose.HTML](../../../)

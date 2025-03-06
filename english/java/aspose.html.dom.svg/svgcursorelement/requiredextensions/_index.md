@@ -3,7 +3,7 @@ title: SVGCursorElement.RequiredExtensions
 second_title: Aspose.HTML for Java API Reference
 description: SVGCursorElement property. Corresponds to attribute requiredExtensions on the given element
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.dom.svg/svgcursorelement/requiredextensions/
 ---
 ## SVGCursorElement.RequiredExtensions property
@@ -22,5 +22,5 @@ The required extensions.
 
 * class [SVGStringList](../../../com.aspose.html.dom.svg.datatypes/svgStringlist/)
 * class [SVGCursorElement](../)
-* package [com.aspose.html.Dom.Svg](../../svgcursorelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

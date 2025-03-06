@@ -3,7 +3,7 @@ title: MarkdownParser
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownParser constructor. Initializes a new instance of the MarkdownParser class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax.parser/markdownparser/markdownparser/
 ---
 ## MarkdownParser() {#constructor}
@@ -17,7 +17,7 @@ public MarkdownParser()
 ### See Also
 
 * class [MarkdownParser](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../markdownparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -38,5 +38,5 @@ public MarkdownParser(Action<IMarkdownParserBuilder> builder)
 
 * interface [IMarkdownParserBuilder](../../imarkdownparserbuilder/)
 * class [MarkdownParser](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax.Parser](../../markdownparser/)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
 * package [Aspose.HTML](../../../)

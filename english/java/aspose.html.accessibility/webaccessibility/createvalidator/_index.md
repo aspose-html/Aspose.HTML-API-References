@@ -3,7 +3,7 @@ title: WebAccessibility.CreateValidator
 second_title: Aspose.HTML for Java API Reference
 description: WebAccessibility method. An AccessibilityValidator instance is created for a specific rule given the full parameters of the ValidationBuilder.All object
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.accessibility/webaccessibility/createvalidator/
 ---
 ## CreateValidator(IRule) {#createvalidator_1}
@@ -27,7 +27,7 @@ AccessibilityValidator object
 * class [AccessibilityValidator](../../accessibilityvalidator/)
 * interface [IRule](../../irule/)
 * class [WebAccessibility](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -55,7 +55,7 @@ AccessibilityValidator object
 * interface [IRule](../../irule/)
 * class [ValidationBuilder](../../validationbuilder/)
 * class [WebAccessibility](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -83,7 +83,7 @@ AccessibilityValidator object
 * interface [IRule](../../irule/)
 * class [ValidationBuilder](../../validationbuilder/)
 * class [WebAccessibility](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -109,7 +109,7 @@ AccessibilityValidator object
 * class [AccessibilityValidator](../../accessibilityvalidator/)
 * class [ValidationBuilder](../../validationbuilder/)
 * class [WebAccessibility](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -135,7 +135,7 @@ AccessibilityValidator object
 * class [AccessibilityValidator](../../accessibilityvalidator/)
 * class [ValidationBuilder](../../validationbuilder/)
 * class [WebAccessibility](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -156,7 +156,7 @@ AccessibilityValidator object
 
 * class [AccessibilityValidator](../../accessibilityvalidator/)
 * class [WebAccessibility](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -182,7 +182,7 @@ AccessibilityValidator object
 * class [AccessibilityValidator](../../accessibilityvalidator/)
 * interface [IRule](../../irule/)
 * class [WebAccessibility](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -210,7 +210,7 @@ AccessibilityValidator object
 * interface [IRule](../../irule/)
 * class [ValidationBuilder](../../validationbuilder/)
 * class [WebAccessibility](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -238,5 +238,5 @@ AccessibilityValidator object
 * interface [IRule](../../irule/)
 * class [ValidationBuilder](../../validationbuilder/)
 * class [WebAccessibility](../)
-* package [com.aspose.html.Accessibility](../../../com.aspose.html.accessibility/)
+* package [com.aspose.html.accessibility](../../../com.aspose.html.accessibility/)
 * package [Aspose.HTML](../../../)

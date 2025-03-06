@@ -1,9 +1,9 @@
 ---
 title: NamedNodeMap Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Collections.NamedNodeMap class. Represents collections of attributes that can be accessed by name
+description: com.aspose.html.collections.NamedNodeMap class. Represents collections of attributes that can be accessed by name
 type: docs
-weight: 40
+
 url: /java/com.aspose.html.collections/namednodemap/
 ---
 ## NamedNodeMap class
@@ -11,7 +11,7 @@ url: /java/com.aspose.html.collections/namednodemap/
 Represents collections of attributes that can be accessed by name.
 
 ```java
-public class NamedNodeMap : DOMObject, IDisposable, IEnumerable<Attr>
+public class NamedNodeMap : DOMObject
 ```
 
 ## Properties
@@ -25,7 +25,6 @@ public class NamedNodeMap : DOMObject, IDisposable, IEnumerable<Attr>
 
 | Name | Description |
 | --- | --- |
-| [getEnumerator](../../com.aspose.html.collections/namednodemap/getenumerator/)() | Returns an enumerator that iterates through the collection. |
 | [getNamedItem](../../com.aspose.html.collections/namednodemap/getnameditem/)(String) | Retrieves a node specified by name. |
 | [getNamedItemNS](../../com.aspose.html.collections/namednodemap/getnameditemns/)(String, String) | Retrieves a node specified by local name and package URI. |
 | [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
@@ -37,6 +36,5 @@ public class NamedNodeMap : DOMObject, IDisposable, IEnumerable<Attr>
 ### See Also
 
 * class [DOMObject](../../com.aspose.html.dom/domobject/)
-* class [Attr](../../com.aspose.html.dom/attr/)
-* package [com.aspose.html.Collections](../../com.aspose.html.collections/)
+* package [com.aspose.html.collections](../../com.aspose.html.collections/)
 * package [Aspose.HTML](../../)

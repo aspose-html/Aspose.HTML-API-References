@@ -1,9 +1,9 @@
 ---
 title: SVGAnimatedLength Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Dom.Svg.DataTypes.SVGAnimatedLength class. Used for attributes of basic type length which can be animated
+description: com.aspose.html.dom.svg.datatypes.SVGAnimatedLength class. Used for attributes of basic type length which can be animated
 type: docs
-weight: 1120
+
 url: /java/com.aspose.html.dom.svg.datatypes/svganimatedlength/
 ---
 ## SVGAnimatedLength class
@@ -34,5 +34,5 @@ public class SVGAnimatedLength : SVGAnimatedValue<SVGLength>
 
 * class [SVGAnimatedValue&lt;T&gt;](../svganimatedvalue-1/)
 * class [SVGLength](../svglength/)
-* package [com.aspose.html.Dom.Svg.DataTypes](../../com.aspose.html.dom.svg.datatypes/)
+* package [com.aspose.html.dom.svg.datatypes](../../com.aspose.html.dom.svg.datatypes/)
 * package [Aspose.HTML](../../)

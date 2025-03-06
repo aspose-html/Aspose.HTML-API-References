@@ -3,7 +3,7 @@ title: NodeList-1.Get
 second_title: Aspose.HTML for Java API Reference
 description: NodeList method. Gets the node at the given index
 type: docs
-weight: 20
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/nodelist-1/get/
 ---
 ## NodeList&lt;T&gt;.Get method
@@ -25,5 +25,5 @@ The node at the given index.
 ### See Also
 
 * class [NodeList&lt;T&gt;](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../nodelist-1/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

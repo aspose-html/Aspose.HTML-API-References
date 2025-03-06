@@ -3,7 +3,7 @@ title: ResponseMessage
 second_title: Aspose.HTML for Java API Reference
 description: ResponseMessage constructor. Initializes a new instance of the ResponseMessage class
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.net/responsemessage/responsemessage/
 ---
 ## ResponseMessage constructor
@@ -21,5 +21,5 @@ public ResponseMessage(HttpStatusCode status)
 ### See Also
 
 * class [ResponseMessage](../)
-* package [com.aspose.html.Net](../../responsemessage/)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
 * package [Aspose.HTML](../../../)

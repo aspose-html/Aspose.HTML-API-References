@@ -3,7 +3,7 @@ title: ICSS2Properties.VoiceFamily
 second_title: Aspose.HTML for Java API Reference
 description: ICSS2Properties property. The value is a comma-separated prioritized list of voice family names compare with font-family. Values have the following meanings
 type: docs
-weight: 1160
+
 url: /java/com.aspose.html.dom.css/icss2properties/voicefamily/
 ---
 ## ICSS2Properties.VoiceFamily property
@@ -23,5 +23,5 @@ voice-family property
 ### See Also
 
 * interface [ICSS2Properties](../)
-* package [com.aspose.html.Dom.Css](../../icss2properties/)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
 * package [Aspose.HTML](../../../)

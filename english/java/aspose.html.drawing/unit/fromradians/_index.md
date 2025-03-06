@@ -3,7 +3,7 @@ title: Unit.FromRadians
 second_title: Aspose.HTML for Java API Reference
 description: Unit method. Returns a Angle object that is represented in radians
 type: docs
-weight: 200
+
 url: /java/com.aspose.html.drawing/unit/fromradians/
 ---
 ## Unit.FromRadians method
@@ -26,5 +26,5 @@ Returns a [`Angle`](../../angle/) object.
 
 * class [Angle](../../angle/)
 * class [Unit](../)
-* package [com.aspose.html.Drawing](../../unit/)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
 * package [Aspose.HTML](../../../)

@@ -3,7 +3,7 @@ title: SVGPathSegArcAbs.Y
 second_title: Aspose.HTML for Java API Reference
 description: SVGPathSegArcAbs property. The absolute Y coordinate for the end point of this path segment
 type: docs
-weight: 70
+
 url: /java/com.aspose.html.dom.svg.paths/svgpathsegarcabs/y/
 ---
 ## SVGPathSegArcAbs.Y property
@@ -27,5 +27,5 @@ The absolute Y coordinate
 ### See Also
 
 * class [SVGPathSegArcAbs](../)
-* package [com.aspose.html.Dom.Svg.Paths](../../svgpathsegarcabs/)
+* package [com.aspose.html.dom.svg.paths](../../../com.aspose.html.dom.svg.paths/)
 * package [Aspose.HTML](../../../)

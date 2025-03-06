@@ -3,7 +3,7 @@ title: MarkdownSyntaxVisitor.Visit
 second_title: Aspose.HTML for Java API Reference
 description: MarkdownSyntaxVisitor method. Defines the interface for visit syntax tree
 type: docs
-weight: 10
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visit/
 ---
 ## Visit(MarkdownSyntaxTree) {#visit_1}
@@ -22,7 +22,7 @@ public void Visit(MarkdownSyntaxTree syntaxTree)
 
 * class [MarkdownSyntaxTree](../../markdownsyntaxtree/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)
 
 ---
@@ -43,5 +43,5 @@ public void Visit(MarkdownSyntaxNode node)
 
 * class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
 * class [MarkdownSyntaxVisitor](../)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../markdownsyntaxvisitor/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../../)

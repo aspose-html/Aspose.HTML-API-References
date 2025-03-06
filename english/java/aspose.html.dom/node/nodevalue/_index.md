@@ -3,7 +3,7 @@ title: Node.NodeValue
 second_title: Aspose.HTML for Java API Reference
 description: Node property. The nodeValue property of the Node interface returns or sets the value of the current node
 type: docs
-weight: 110
+
 url: /java/com.aspose.html.dom/node/nodevalue/
 ---
 ## Node.NodeValue property
@@ -27,5 +27,5 @@ Reference:
 ### See Also
 
 * class [Node](../)
-* package [com.aspose.html.Dom](../../node/)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
 * package [Aspose.HTML](../../../)

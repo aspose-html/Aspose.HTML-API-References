@@ -3,7 +3,7 @@ title: SVGLinearGradientElement.Y1
 second_title: Aspose.HTML for Java API Reference
 description: SVGLinearGradientElement property. Corresponds to attribute y1 on the given linearGradient element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg/svglineargradientelement/y1/
 ---
 ## SVGLinearGradientElement.Y1 property
@@ -22,5 +22,5 @@ The attribute ‘y1’ of the given ‘linearGradient’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGLinearGradientElement](../)
-* package [com.aspose.html.Dom.Svg](../../svglineargradientelement/)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
 * package [Aspose.HTML](../../../)

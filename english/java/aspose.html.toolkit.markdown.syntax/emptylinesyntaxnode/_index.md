@@ -1,9 +1,9 @@
 ---
 title: EmptyLineSyntaxNode Class
 second_title: Aspose.HTML for Java API Reference
-description: com.aspose.html.Toolkit.Markdown.Syntax.EmptyLineSyntaxNode class. Represents the EmptyLineSyntaxNode
+description: com.aspose.html.toolkit.markdown.syntax.EmptyLineSyntaxNode class. Represents the EmptyLineSyntaxNode
 type: docs
-weight: 4880
+
 url: /java/com.aspose.html.toolkit.markdown.syntax/emptylinesyntaxnode/
 ---
 ## EmptyLineSyntaxNode class
@@ -44,5 +44,5 @@ public class EmptyLineSyntaxNode : LeafBlockSyntaxNode
 ### See Also
 
 * class [LeafBlockSyntaxNode](../leafblocksyntaxnode/)
-* package [com.aspose.html.Toolkit.Markdown.Syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
 * package [Aspose.HTML](../../)

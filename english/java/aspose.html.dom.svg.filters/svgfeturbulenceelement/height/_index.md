@@ -3,7 +3,7 @@ title: SVGFETurbulenceElement.Height
 second_title: Aspose.HTML for Java API Reference
 description: SVGFETurbulenceElement property. Corresponds to attribute height on the given filter element
 type: docs
-weight: 30
+
 url: /java/com.aspose.html.dom.svg.filters/svgfeturbulenceelement/height/
 ---
 ## SVGFETurbulenceElement.Height property
@@ -22,5 +22,5 @@ The attribute ‘height’ of the given ‘filter’ element.
 
 * class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
 * class [SVGFETurbulenceElement](../)
-* package [com.aspose.html.Dom.Svg.Filters](../../svgfeturbulenceelement/)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
 * package [Aspose.HTML](../../../)
