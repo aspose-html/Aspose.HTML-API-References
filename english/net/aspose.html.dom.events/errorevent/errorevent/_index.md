@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.dom.events/errorevent/errorevent/
 ---
-## ErrorEvent(Exception) {#constructor_1}
+## ErrorEvent(*Exception*) {#constructor_1}
 
 Initializes a new instance of the [`ErrorEvent`](../) class.
 
@@ -26,7 +26,7 @@ public ErrorEvent(Exception exception)
 
 ---
 
-## ErrorEvent(IDictionary&lt;string, object&gt;) {#constructor}
+## ErrorEvent(*IDictionary&amp;lt;string, object&amp;gt;*) {#constructor}
 
 ```csharp
 public ErrorEvent(IDictionary<string, object> eventInitDict)

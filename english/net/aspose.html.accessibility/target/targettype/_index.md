@@ -1,7 +1,7 @@
 ---
 title: Target.TargetType
 second_title: Aspose.HTML for .NET API Reference
-description: Target property. Returns the type of the contained object
+description: Target TargetType property. Returns the type of the contained object
 type: docs
 weight: 20
 url: /net/aspose.html.accessibility/target/targettype/

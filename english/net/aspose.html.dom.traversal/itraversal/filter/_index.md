@@ -1,7 +1,7 @@
 ---
 title: ITraversal.Filter
 second_title: Aspose.HTML for .NET API Reference
-description: ITraversal property. The NodeFilter used to screen nodes
+description: ITraversal Filter property. The NodeFilter used to screen nodes
 type: docs
 weight: 10
 url: /net/aspose.html.dom.traversal/itraversal/filter/

@@ -1,7 +1,7 @@
 ---
 title: SVGMarkerElement.OrientAngle
 second_title: Aspose.HTML for .NET API Reference
-description: SVGMarkerElement property. Corresponds to attribute orient on the given marker element. If markerUnits is SVG_MARKER_ORIENT_ANGLE the angle value for attribute orient otherwise it will be set to zero
+description: SVGMarkerElement OrientAngle property. Corresponds to attribute orient on the given marker element. If markerUnits is SVG_MARKER_ORIENT_ANGLE the angle value for attribute orient otherwise it will be set to zero
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgmarkerelement/orientangle/

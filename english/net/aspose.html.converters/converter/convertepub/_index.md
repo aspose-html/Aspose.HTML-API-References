@@ -1,12 +1,12 @@
 ---
 title: Converter.ConvertEPUB
 second_title: Aspose.HTML for .NET API Reference
-description: Converter method. Convert EPUB source presented by data input stream. Result is file formed by output file path
+description: Converter ConvertEPUB method. Convert EPUB source presented by data input stream. Result is file formed by output file path
 type: docs
 weight: 10
 url: /net/aspose.html.converters/converter/convertepub/
 ---
-## ConvertEPUB(Stream, ImageSaveOptions, string) {#convertepub_27}
+## ConvertEPUB(*Stream, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_27}
 
 Convert EPUB source presented by data input stream. Result is file formed by output file path.
 
@@ -97,7 +97,7 @@ Converter.ConvertEPUB(inputStream, options, resultPath);
 
 ---
 
-## ConvertEPUB(string, ImageSaveOptions, string) {#convertepub_43}
+## ConvertEPUB(*string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_43}
 
 Convert EPUB source presented by full file path. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
 
@@ -188,7 +188,7 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 ---
 
-## ConvertEPUB(Url, ImageSaveOptions, string) {#convertepub_11}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_11}
 
 Convert EPUB source defined by URL. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
 
@@ -280,7 +280,7 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 
 ---
 
-## ConvertEPUB(Stream, Configuration, ImageSaveOptions, string) {#convertepub_19}
+## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_19}
 
 Convert EPUB source presented by data input stream. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
 
@@ -374,7 +374,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
 
 ---
 
-## ConvertEPUB(string, Configuration, ImageSaveOptions, string) {#convertepub_35}
+## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_35}
 
 Convert EPUB source presented by full file path. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
 
@@ -468,7 +468,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 
 ---
 
-## ConvertEPUB(Url, Configuration, ImageSaveOptions, string) {#convertepub_3}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_3}
 
 Convert EPUB source defined by URL. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
 
@@ -563,7 +563,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 
 ---
 
-## ConvertEPUB(Stream, ImageSaveOptions, ICreateStreamProvider) {#convertepub_26}
+## ConvertEPUB(*Stream, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_26}
 
 Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
 
@@ -657,7 +657,7 @@ Converter.ConvertEPUB(inputStream, options, sp);
 
 ---
 
-## ConvertEPUB(string, ImageSaveOptions, ICreateStreamProvider) {#convertepub_42}
+## ConvertEPUB(*string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_42}
 
 Convert EPUB source presented by file path to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
 
@@ -747,7 +747,7 @@ Converter.ConvertEPUB(stream, new ImageSaveOptions(ImageFormat.Jpeg), Path.Combi
 
 ---
 
-## ConvertEPUB(Url, ImageSaveOptions, ICreateStreamProvider) {#convertepub_10}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_10}
 
 Convert epub source presented by URL to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
 
@@ -845,7 +845,7 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 
 ---
 
-## ConvertEPUB(Stream, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertepub_18}
+## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_18}
 
 Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
 
@@ -946,7 +946,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 
 ---
 
-## ConvertEPUB(string, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertepub_34}
+## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_34}
 
 Convert epub source presented by file path to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
 
@@ -1041,7 +1041,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 
 ---
 
-## ConvertEPUB(Url, Configuration, ImageSaveOptions, ICreateStreamProvider) {#convertepub_2}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_2}
 
 Convert epub source presented by URL to image. Result is image file formed by implementation of [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) interface.
 
@@ -1140,7 +1140,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
 
 ---
 
-## ConvertEPUB(Stream, XpsSaveOptions, string) {#convertepub_31}
+## ConvertEPUB(*Stream, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertepub_31}
 
 Convert epub source presented by input stream to xps. Result is xps file defined by full path.
 
@@ -1224,7 +1224,7 @@ using Aspose.Html.Drawing;
 
 ---
 
-## ConvertEPUB(string, XpsSaveOptions, string) {#convertepub_47}
+## ConvertEPUB(*string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertepub_47}
 
 Convert epub source presented by input EPUB file path to xps. Result is xps file defined by full path.
 
@@ -1295,7 +1295,7 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 ---
 
-## ConvertEPUB(Url, XpsSaveOptions, string) {#convertepub_15}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertepub_15}
 
 Convert epub source presented by URL to xps file defined by full path. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/).
 
@@ -1374,7 +1374,7 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 
 ---
 
-## ConvertEPUB(Stream, Configuration, XpsSaveOptions, string) {#convertepub_23}
+## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertepub_23}
 
 Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to xps. Result is xps file defined by full path.
 
@@ -1454,7 +1454,7 @@ Converter.ConvertEPUB(stream, new Configuration(), options, savePath);
 
 ---
 
-## ConvertEPUB(string, Configuration, XpsSaveOptions, string) {#convertepub_39}
+## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertepub_39}
 
 Convert epub source presented by input EPUB file path to xps. Result is xps file defined by full path.
 
@@ -1528,7 +1528,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 
 ---
 
-## ConvertEPUB(Url, Configuration, XpsSaveOptions, string) {#convertepub_7}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertepub_7}
 
 Convert epub source presented by URL to xps file defined by full path. See [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/).
 
@@ -1603,7 +1603,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 
 ---
 
-## ConvertEPUB(Stream, XpsSaveOptions, ICreateStreamProvider) {#convertepub_30}
+## ConvertEPUB(*Stream, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_30}
 
 Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to xps. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1690,7 +1690,7 @@ using Aspose.Html.Saving;
 
 ---
 
-## ConvertEPUB(string, XpsSaveOptions, ICreateStreamProvider) {#convertepub_46}
+## ConvertEPUB(*string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_46}
 
 Convert epub source presented by input EPUB file path to xps. Result is xps output data defined by known or custom [`ICreateStreamProvider `](../../../aspose.html.io/icreatestreamprovider/)interface implementation.
 
@@ -1763,7 +1763,7 @@ Converter.ConvertEPUB(sourcePath, options, sp);
 
 ---
 
-## ConvertEPUB(Url, XpsSaveOptions, ICreateStreamProvider) {#convertepub_14}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_14}
 
 Convert epub source presented by URL to xps file defined by full path. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1837,7 +1837,7 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 
 ---
 
-## ConvertEPUB(Stream, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertepub_22}
+## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_22}
 
 Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to xps. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1912,7 +1912,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 
 ---
 
-## ConvertEPUB(string, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertepub_38}
+## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_38}
 
 Convert epub source presented by input EPUB file path to xps. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -1987,7 +1987,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 
 ---
 
-## ConvertEPUB(Url, Configuration, XpsSaveOptions, ICreateStreamProvider) {#convertepub_6}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_6}
 
 Convert epub source presented by URL to xps file defined by full path. Result is xps output data defined by known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -2063,7 +2063,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 
 ---
 
-## ConvertEPUB(Stream, DocSaveOptions, string) {#convertepub_25}
+## ConvertEPUB(*Stream, [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#convertepub_25}
 
 Convert EPUB source file presented by full path to DOCX. Result is docx file defined by full path.
 
@@ -2135,7 +2135,7 @@ Converter.ConvertEPUB(inputStream, options, resultPath);
 
 ---
 
-## ConvertEPUB(string, DocSaveOptions, string) {#convertepub_41}
+## ConvertEPUB(*string, [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#convertepub_41}
 
 Convert EPUB source presented by full file path to DOCX. Result is docx file formed by output file path.
 
@@ -2206,7 +2206,7 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 ---
 
-## ConvertEPUB(Url, DocSaveOptions, string) {#convertepub_9}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#convertepub_9}
 
 Convert EPUB source presented by URL. Result is docx file formed by output file path.
 
@@ -2278,7 +2278,7 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 
 ---
 
-## ConvertEPUB(Stream, Configuration, DocSaveOptions, string) {#convertepub_17}
+## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#convertepub_17}
 
 Convert EPUB source presented by data input stream. Result is docx file formed by output file path.
 
@@ -2353,7 +2353,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
 
 ---
 
-## ConvertEPUB(string, Configuration, DocSaveOptions, string) {#convertepub_33}
+## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#convertepub_33}
 
 Convert EPUB source presented by full file path to DOCX. Result is docx file formed by output file path.
 
@@ -2427,7 +2427,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 
 ---
 
-## ConvertEPUB(Url, Configuration, DocSaveOptions, string) {#convertepub_1}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#convertepub_1}
 
 Convert EPUB source presented by URL. Result is docx file formed by output file path.
 
@@ -2502,7 +2502,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 
 ---
 
-## ConvertEPUB(Stream, DocSaveOptions, ICreateStreamProvider) {#convertepub_24}
+## ConvertEPUB(*Stream, [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_24}
 
 Convert EPUB source as input stream to DOCX. Result is docx file formed by ICreateStreamProvider implementation.
 
@@ -2576,7 +2576,7 @@ Converter.ConvertEPUB(inputStream, options, sp);
 
 ---
 
-## ConvertEPUB(string, DocSaveOptions, ICreateStreamProvider) {#convertepub_40}
+## ConvertEPUB(*string, [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_40}
 
 Convert EPUB source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) implementation.
 
@@ -2650,7 +2650,7 @@ Converter.ConvertEPUB(sourcePath, options, sp);
 
 ---
 
-## ConvertEPUB(Url, DocSaveOptions, ICreateStreamProvider) {#convertepub_8}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_8}
 
 Convert EPUB source presented by URL. Result is output data formed by ICreateStreamProvider interface implementation.
 
@@ -2730,7 +2730,7 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 
 ---
 
-## ConvertEPUB(Stream, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertepub_16}
+## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_16}
 
 Convert EPUB source presented by data input stream. Result is output data formed by ICreateStreamProvider interface implementation.
 
@@ -2811,7 +2811,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 
 ---
 
-## ConvertEPUB(string, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertepub_32}
+## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_32}
 
 Convert EPUB source presented by full file path to DOCX. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -2887,7 +2887,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 
 ---
 
-## ConvertEPUB(Url, Configuration, DocSaveOptions, ICreateStreamProvider) {#convertepub}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub}
 
 Convert EPUB source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -2971,7 +2971,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
 
 ---
 
-## ConvertEPUB(Stream, PdfSaveOptions, string) {#convertepub_29}
+## ConvertEPUB(*Stream, [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#convertepub_29}
 
 Convert EPUB source presented by data input stream. Result is pdf file formed by output file path.
 
@@ -3042,7 +3042,7 @@ Converter.ConvertEPUB(inputStream, options, resultPath);
 
 ---
 
-## ConvertEPUB(string, PdfSaveOptions, string) {#convertepub_45}
+## ConvertEPUB(*string, [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#convertepub_45}
 
 Convert EPUB source presented by full file path to PDF. Result is pdf file formed by output file path.
 
@@ -3113,7 +3113,7 @@ Converter.ConvertEPUB(sourcePath, options, resultPath);
 
 ---
 
-## ConvertEPUB(Url, PdfSaveOptions, string) {#convertepub_13}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#convertepub_13}
 
 Convert EPUB source presented by URL. Result is pdf file formed by output file path.
 
@@ -3185,7 +3185,7 @@ Converter.ConvertEPUB(sourceUrl, options, resultPath);
 
 ---
 
-## ConvertEPUB(Stream, Configuration, PdfSaveOptions, string) {#convertepub_21}
+## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#convertepub_21}
 
 Convert EPUB source presented by data input stream. Result is pdf file formed by output file path.
 
@@ -3264,7 +3264,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
 
 ---
 
-## ConvertEPUB(string, Configuration, PdfSaveOptions, string) {#convertepub_37}
+## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#convertepub_37}
 
 Convert EPUB source presented by data input stream. Result is pdf file formed by output file path.
 
@@ -3343,7 +3343,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
 
 ---
 
-## ConvertEPUB(Url, Configuration, PdfSaveOptions, string) {#convertepub_5}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#convertepub_5}
 
 Convert EPUB source presented by URL. Result is pdf file formed by output file path.
 
@@ -3426,7 +3426,7 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);
 
 ---
 
-## ConvertEPUB(Stream, PdfSaveOptions, ICreateStreamProvider) {#convertepub_28}
+## ConvertEPUB(*Stream, [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_28}
 
 Convert EPUB source presented by data input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -3500,7 +3500,7 @@ Converter.ConvertEPUB(inputStream, options, sp);
 
 ---
 
-## ConvertEPUB(string, PdfSaveOptions, ICreateStreamProvider) {#convertepub_44}
+## ConvertEPUB(*string, [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_44}
 
 Convert EPUB source presented by full file path to PDF. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -3574,7 +3574,7 @@ Converter.ConvertEPUB(sourcePath, options, sp);
 
 ---
 
-## ConvertEPUB(Url, PdfSaveOptions, ICreateStreamProvider) {#convertepub_12}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_12}
 
 Convert EPUB source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -3654,7 +3654,7 @@ Converter.ConvertEPUB(sourceUrl, options, sp);
 
 ---
 
-## ConvertEPUB(Stream, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertepub_20}
+## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_20}
 
 Convert EPUB source presented by data input stream. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 
@@ -3730,7 +3730,7 @@ Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
 
 ---
 
-## ConvertEPUB(string, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertepub_36}
+## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_36}
 
 Convert EPUB source presented by full file path to PDF. Result is output data formed by ICreateStreamProvider interface implementation.
 
@@ -3811,7 +3811,7 @@ Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
 
 ---
 
-## ConvertEPUB(Url, Configuration, PdfSaveOptions, ICreateStreamProvider) {#convertepub_4}
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_4}
 
 Convert EPUB source presented by URL. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
 

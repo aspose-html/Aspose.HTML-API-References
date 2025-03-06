@@ -1,7 +1,7 @@
 ---
 title: DocDevice.DrawImage
 second_title: Aspose.HTML for .NET API Reference
-description: DocDevice method. Draws the specified image
+description: DocDevice DrawImage method. Draws the specified image
 type: docs
 weight: 90
 url: /net/aspose.html.rendering.doc/docdevice/drawimage/

@@ -1,7 +1,7 @@
 ---
 title: TemplateData.DataPath
 second_title: Aspose.HTML for .NET API Reference
-description: TemplateData property. Data path property
+description: TemplateData DataPath property. Data path property
 type: docs
 weight: 30
 url: /net/aspose.html.converters/templatedata/datapath/

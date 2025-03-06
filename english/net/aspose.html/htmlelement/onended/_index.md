@@ -1,7 +1,7 @@
 ---
 title: HTMLElement.OnEnded
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLElement event. Gets or sets event handler for OnEnded event
+description: HTMLElement OnEnded event. Gets or sets event handler for OnEnded event
 type: docs
 weight: 180
 url: /net/aspose.html/htmlelement/onended/

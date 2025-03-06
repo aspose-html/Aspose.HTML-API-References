@@ -1,7 +1,7 @@
 ---
 title: CSSValue.op_Inequality
 second_title: Aspose.HTML for .NET API Reference
-description: CSSValue method. 
+description: CSSValue op_Inequality method. 
 type: docs
 weight: 120
 url: /net/aspose.html.dom.css/cssvalue/op_inequality/

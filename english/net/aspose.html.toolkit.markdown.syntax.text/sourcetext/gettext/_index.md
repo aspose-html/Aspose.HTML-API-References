@@ -1,7 +1,7 @@
 ---
 title: SourceText.GetText
 second_title: Aspose.HTML for .NET API Reference
-description: SourceText method. Define the interface for get Text
+description: SourceText GetText method. Define the interface for get Text
 type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetext/gettext/
@@ -26,7 +26,7 @@ The SourceText.
 
 ---
 
-## GetText(TextSpan) {#gettext_1}
+## GetText(*[TextSpan](../../textspan/)*) {#gettext_1}
 
 Define the interface for get Text.
 
@@ -51,7 +51,7 @@ The SourceText.
 
 ---
 
-## GetText(int) {#gettext_2}
+## GetText(*int*) {#gettext_2}
 
 Define the interface for get Text.
 

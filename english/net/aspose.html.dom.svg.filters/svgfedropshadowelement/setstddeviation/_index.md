@@ -1,7 +1,7 @@
 ---
 title: SVGFEDropShadowElement.SetStdDeviation
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEDropShadowElement method. Sets the values for attribute stdDeviation
+description: SVGFEDropShadowElement SetStdDeviation method. Sets the values for attribute stdDeviation
 type: docs
 weight: 110
 url: /net/aspose.html.dom.svg.filters/svgfedropshadowelement/setstddeviation/

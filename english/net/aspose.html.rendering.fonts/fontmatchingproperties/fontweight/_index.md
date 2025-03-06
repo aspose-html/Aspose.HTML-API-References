@@ -1,7 +1,7 @@
 ---
 title: FontMatchingProperties.FontWeight
 second_title: Aspose.HTML for .NET API Reference
-description: FontMatchingProperties property. Gets the font weight value
+description: FontMatchingProperties FontWeight property. Gets the font weight value
 type: docs
 weight: 40
 url: /net/aspose.html.rendering.fonts/fontmatchingproperties/fontweight/

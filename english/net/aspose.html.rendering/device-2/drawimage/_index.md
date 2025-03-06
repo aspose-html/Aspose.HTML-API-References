@@ -1,7 +1,7 @@
 ---
 title: Device-2.DrawImage
 second_title: Aspose.HTML for .NET API Reference
-description: Device method. Draws the specified image
+description: Device DrawImage method. Draws the specified image
 type: docs
 weight: 110
 url: /net/aspose.html.rendering/device-2/drawimage/

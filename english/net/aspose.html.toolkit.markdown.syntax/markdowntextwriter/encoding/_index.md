@@ -1,7 +1,7 @@
 ---
 title: MarkdownTextWriter.Encoding
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownTextWriter property. Get the encoding
+description: MarkdownTextWriter Encoding property. Get the encoding
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/markdowntextwriter/encoding/

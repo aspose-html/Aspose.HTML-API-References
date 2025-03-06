@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html/url/url/
 ---
-## Url(string) {#constructor}
+## Url(*string*) {#constructor}
 
 Initializes a new instance of the [`Url`](../) with the specified URL.
 
@@ -32,7 +32,7 @@ public Url(string url)
 
 ---
 
-## Url(string, string) {#constructor_1}
+## Url(*string, string*) {#constructor_1}
 
 Initializes a new instance of the [`Url`](../) with the specified URL and base URL.
 

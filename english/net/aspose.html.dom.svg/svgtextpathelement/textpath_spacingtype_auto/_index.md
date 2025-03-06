@@ -1,7 +1,7 @@
 ---
 title: SVGTextPathElement.TEXTPATH_SPACINGTYPE_AUTO
 second_title: Aspose.HTML for .NET API Reference
-description: SVGTextPathElement field. Corresponds to value auto
+description: SVGTextPathElement TEXTPATH_SPACINGTYPE_AUTO field. Corresponds to value auto
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg/svgtextpathelement/textpath_spacingtype_auto/

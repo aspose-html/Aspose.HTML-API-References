@@ -1,7 +1,7 @@
 ---
 title: NodeIterator.PointerBeforeReferenceNode
 second_title: Aspose.HTML for .NET API Reference
-description: NodeIterator property. Return the true if pointer before reference node
+description: NodeIterator PointerBeforeReferenceNode property. Return the true if pointer before reference node
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/nodeiterator/pointerbeforereferencenode/

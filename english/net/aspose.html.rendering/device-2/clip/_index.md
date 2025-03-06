@@ -1,7 +1,7 @@
 ---
 title: Device-2.Clip
 second_title: Aspose.HTML for .NET API Reference
-description: Device method. Modifies the current clipping path by intersecting it with the current path using the FillRule to determine the region to fill. This method terminates current path
+description: Device Clip method. Modifies the current clipping path by intersecting it with the current path using the FillRule to determine the region to fill. This method terminates current path
 type: docs
 weight: 70
 url: /net/aspose.html.rendering/device-2/clip/

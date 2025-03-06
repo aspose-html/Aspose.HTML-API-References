@@ -1,7 +1,7 @@
 ---
 title: QualifiedName.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: QualifiedName method. Returns a string that represents the current object
+description: QualifiedName ToString method. Returns a string that represents the current object
 type: docs
 weight: 70
 url: /net/aspose.html.dom/qualifiedname/tostring/

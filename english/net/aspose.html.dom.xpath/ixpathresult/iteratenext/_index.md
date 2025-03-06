@@ -1,7 +1,7 @@
 ---
 title: IXPathResult.IterateNext
 second_title: Aspose.HTML for .NET API Reference
-description: IXPathResult method. Iterates and returns the next node from the node set or null if there are no more nodes
+description: IXPathResult IterateNext method. Iterates and returns the next node from the node set or null if there are no more nodes
 type: docs
 weight: 80
 url: /net/aspose.html.dom.xpath/ixpathresult/iteratenext/

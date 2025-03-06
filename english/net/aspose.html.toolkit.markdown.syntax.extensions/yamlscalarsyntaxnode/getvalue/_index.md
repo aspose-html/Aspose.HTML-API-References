@@ -1,7 +1,7 @@
 ---
 title: YamlScalarSyntaxNode.GetValue
 second_title: Aspose.HTML for .NET API Reference
-description: YamlScalarSyntaxNode method. Defines the interface for get value
+description: YamlScalarSyntaxNode GetValue method. Defines the interface for get value
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/getvalue/

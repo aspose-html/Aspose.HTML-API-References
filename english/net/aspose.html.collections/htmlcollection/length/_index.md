@@ -1,7 +1,7 @@
 ---
 title: HTMLCollection.Length
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLCollection property. The number of nodes in the list
+description: HTMLCollection Length property. The number of nodes in the list
 type: docs
 weight: 20
 url: /net/aspose.html.collections/htmlcollection/length/

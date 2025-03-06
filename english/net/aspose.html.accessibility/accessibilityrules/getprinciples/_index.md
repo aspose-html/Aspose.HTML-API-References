@@ -1,7 +1,7 @@
 ---
 title: AccessibilityRules.GetPrinciples
 second_title: Aspose.HTML for .NET API Reference
-description: AccessibilityRules method. Get list of all rules from quick reference
+description: AccessibilityRules GetPrinciples method. Get list of all rules from quick reference
 type: docs
 weight: 20
 url: /net/aspose.html.accessibility/accessibilityrules/getprinciples/

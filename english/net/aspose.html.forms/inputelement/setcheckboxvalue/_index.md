@@ -1,7 +1,7 @@
 ---
 title: InputElement.SetCheckboxValue
 second_title: Aspose.HTML for .NET API Reference
-description: InputElement method. Sets the checkedness state for the input elemen with the Checkbox type
+description: InputElement SetCheckboxValue method. Sets the checkedness state for the input elemen with the Checkbox type
 type: docs
 weight: 190
 url: /net/aspose.html.forms/inputelement/setcheckboxvalue/

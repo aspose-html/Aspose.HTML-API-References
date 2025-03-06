@@ -44,7 +44,7 @@ public class GraphicContext : ICloneable
 | Name | Description |
 | --- | --- |
 | virtual [Clone](../../aspose.html.rendering/graphiccontext/clone/)() | Creates a new instance of a GraphicContext class with the same property values as an existing instance. |
-| virtual [Transform](../../aspose.html.rendering/graphiccontext/transform/)(IMatrix) | Modify the current transformation matrix by multiplying the specified matrix. |
+| virtual [Transform](../../aspose.html.rendering/graphiccontext/transform/)(*[IMatrix](../../aspose.html.drawing/imatrix/)*) | Modify the current transformation matrix by multiplying the specified matrix. |
 
 ### See Also
 

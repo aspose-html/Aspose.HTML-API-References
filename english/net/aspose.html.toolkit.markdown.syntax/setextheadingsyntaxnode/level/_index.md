@@ -1,7 +1,7 @@
 ---
 title: SetextHeadingSyntaxNode.Level
 second_title: Aspose.HTML for .NET API Reference
-description: SetextHeadingSyntaxNode property. Get the level of current syntax
+description: SetextHeadingSyntaxNode Level property. Get the level of current syntax
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/setextheadingsyntaxnode/level/

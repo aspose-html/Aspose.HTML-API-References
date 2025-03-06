@@ -27,7 +27,7 @@ public interface IInlinePostProcessingContext : IInlineParsingContext
 
 | Name | Description |
 | --- | --- |
-| [ContainsLinkReferenceDefinition](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/containslinkreferencedefinition/)(string) | Defines the ContainsLinkReferenceDefinition |
+| [ContainsLinkReferenceDefinition](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/containslinkreferencedefinition/)(*string*) | Defines the ContainsLinkReferenceDefinition |
 
 ### See Also
 

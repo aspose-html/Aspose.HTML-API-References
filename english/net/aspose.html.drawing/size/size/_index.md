@@ -22,7 +22,7 @@ public Size()
 
 ---
 
-## Size(int, int) {#constructor_2}
+## Size(*int, int*) {#constructor_2}
 
 Initializes a new instance of the [`Size`](../) class and specify a Height and Width in pixels.
 
@@ -43,7 +43,7 @@ public Size(int width, int height)
 
 ---
 
-## Size(Length, Length) {#constructor_1}
+## Size(*[Length](../../length/), [Length](../../length/)*) {#constructor_1}
 
 Initializes a new instance of the [`Size`](../) class.
 

@@ -1,7 +1,7 @@
 ---
 title: Document.BaseURI
 second_title: Aspose.HTML for .NET API Reference
-description: Document property. The absolute base URI of this node or null if the implementation wasnt able to obtain an absolute URI
+description: Document BaseURI property. The absolute base URI of this node or null if the implementation wasnt able to obtain an absolute URI
 type: docs
 weight: 10
 url: /net/aspose.html.dom/document/baseuri/

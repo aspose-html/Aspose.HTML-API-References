@@ -1,7 +1,7 @@
 ---
 title: HTMLTableSectionElement.DeleteRow
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLTableSectionElement method. Delete a row from this section
+description: HTMLTableSectionElement DeleteRow method. Delete a row from this section
 type: docs
 weight: 60
 url: /net/aspose.html/htmltablesectionelement/deleterow/

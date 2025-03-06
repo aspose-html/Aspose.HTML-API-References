@@ -1,7 +1,7 @@
 ---
 title: MarkdownBlockParser.OnClose
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownBlockParser method. Defines interface for OnClose method
+description: MarkdownBlockParser OnClose method. Defines interface for OnClose method
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/onclose/

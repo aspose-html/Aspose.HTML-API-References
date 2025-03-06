@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/markdowntextwriter/markdowntextwriter/
 ---
-## MarkdownTextWriter(Stream) {#constructor}
+## MarkdownTextWriter(*Stream*) {#constructor}
 
 Initializes a new instance of an MarkdownTextWriter.
 
@@ -26,7 +26,7 @@ public MarkdownTextWriter(Stream stream)
 
 ---
 
-## MarkdownTextWriter(string) {#constructor_2}
+## MarkdownTextWriter(*string*) {#constructor_2}
 
 Initializes a new instance of an MarkdownTextWriter.
 
@@ -46,7 +46,7 @@ public MarkdownTextWriter(string path)
 
 ---
 
-## MarkdownTextWriter(string, bool) {#constructor_3}
+## MarkdownTextWriter(*string, bool*) {#constructor_3}
 
 Initializes a new instance of an MarkdownTextWriter.
 
@@ -67,7 +67,7 @@ public MarkdownTextWriter(string path, bool append)
 
 ---
 
-## MarkdownTextWriter(TextWriter) {#constructor_1}
+## MarkdownTextWriter(*TextWriter*) {#constructor_1}
 
 Initializes a new instance of an MarkdownTextWriter.
 

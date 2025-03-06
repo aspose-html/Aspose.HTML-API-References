@@ -1,7 +1,7 @@
 ---
 title: Unit.FromCentimeters
 second_title: Aspose.HTML for .NET API Reference
-description: Unit method. Returns a Length object that is represented in centimeters
+description: Unit FromCentimeters method. Returns a Length object that is represented in centimeters
 type: docs
 weight: 50
 url: /net/aspose.html.drawing/unit/fromcentimeters/

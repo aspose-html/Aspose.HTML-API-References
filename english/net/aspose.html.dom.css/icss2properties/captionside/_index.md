@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.CaptionSide
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. This property specifies the position of the caption box with respect to the table box. Values have the following meanings
+description: ICSS2Properties CaptionSide property. This property specifies the position of the caption box with respect to the table box. Values have the following meanings
 type: docs
 weight: 310
 url: /net/aspose.html.dom.css/icss2properties/captionside/

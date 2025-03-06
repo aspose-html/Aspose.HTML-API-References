@@ -1,7 +1,7 @@
 ---
 title: Document.Evaluate
 second_title: Aspose.HTML for .NET API Reference
-description: Document method. Evaluates an XPath expression string and returns a result of the specified type if possible
+description: Document Evaluate method. Evaluates an XPath expression string and returns a result of the specified type if possible
 type: docs
 weight: 950
 url: /net/aspose.html.dom/document/evaluate/

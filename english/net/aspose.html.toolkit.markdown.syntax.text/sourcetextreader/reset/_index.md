@@ -1,7 +1,7 @@
 ---
 title: SourceTextReader.Reset
 second_title: Aspose.HTML for .NET API Reference
-description: SourceTextReader method. Reset position to index
+description: SourceTextReader Reset method. Reset position to index
 type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/reset/

@@ -1,7 +1,7 @@
 ---
 title: SVGFEOffsetElement.Width
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEOffsetElement property. Corresponds to attribute width on the given filter element
+description: SVGFEOffsetElement Width property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg.filters/svgfeoffsetelement/width/

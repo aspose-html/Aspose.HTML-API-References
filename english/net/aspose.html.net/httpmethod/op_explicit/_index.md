@@ -1,7 +1,7 @@
 ---
 title: HttpMethod.op_Explicit
 second_title: Aspose.HTML for .NET API Reference
-description: HttpMethod method. 
+description: HttpMethod op_Explicit method. 
 type: docs
 weight: 100
 url: /net/aspose.html.net/httpmethod/op_explicit/

@@ -1,7 +1,7 @@
 ---
 title: SVGPreserveAspectRatio.SVG_MEETORSLICE_MEET
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPreserveAspectRatio field. Corresponds to value meet for attribute preserveAspectRatio
+description: SVGPreserveAspectRatio SVG_MEETORSLICE_MEET field. Corresponds to value meet for attribute preserveAspectRatio
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.datatypes/svgpreserveaspectratio/svg_meetorslice_meet/

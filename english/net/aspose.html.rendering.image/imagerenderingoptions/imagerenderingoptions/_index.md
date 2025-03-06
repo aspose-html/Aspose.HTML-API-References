@@ -22,7 +22,7 @@ public ImageRenderingOptions()
 
 ---
 
-## ImageRenderingOptions(ImageFormat) {#constructor_1}
+## ImageRenderingOptions(*[ImageFormat](../../imageformat/)*) {#constructor_1}
 
 Initializes a new instance of the [`ImageRenderingOptions`](../) class with specified image format.
 

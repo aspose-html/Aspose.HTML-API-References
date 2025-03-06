@@ -1,7 +1,7 @@
 ---
 title: IXPathResult.SingleNodeValue
 second_title: Aspose.HTML for .NET API Reference
-description: IXPathResult property. The value of this single node result which may be null
+description: IXPathResult SingleNodeValue property. The value of this single node result which may be null
 type: docs
 weight: 50
 url: /net/aspose.html.dom.xpath/ixpathresult/singlenodevalue/

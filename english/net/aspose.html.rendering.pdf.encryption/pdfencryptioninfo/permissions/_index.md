@@ -1,7 +1,7 @@
 ---
 title: PdfEncryptionInfo.Permissions
 second_title: Aspose.HTML for .NET API Reference
-description: PdfEncryptionInfo property. Gets or sets the permissions
+description: PdfEncryptionInfo Permissions property. Gets or sets the permissions
 type: docs
 weight: 40
 url: /net/aspose.html.rendering.pdf.encryption/pdfencryptioninfo/permissions/

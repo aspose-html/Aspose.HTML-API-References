@@ -34,21 +34,21 @@ public interface IMatrix
 | [Clone](../../aspose.html.drawing/imatrix/clone/)() | Creates a copy of this matrix. |
 | [GetElements](../../aspose.html.drawing/imatrix/getelements/)() | Gets the elements of the matrix as an array. |
 | [Invert](../../aspose.html.drawing/imatrix/invert/)() | Inverts this matrix. |
-| [Multiply](../../aspose.html.drawing/imatrix/multiply/#multiply)(IMatrix) | Multiplies this matrix by another matrix. |
-| [Multiply](../../aspose.html.drawing/imatrix/multiply/#multiply_1)(IMatrix, WebMatrixOrder) | Multiplies this matrix by another matrix in the specified order. |
+| [Multiply](../../aspose.html.drawing/imatrix/multiply/#multiply)(*IMatrix*) | Multiplies this matrix by another matrix. |
+| [Multiply](../../aspose.html.drawing/imatrix/multiply/#multiply_1)(*IMatrix, [WebMatrixOrder](../webmatrixorder/)*) | Multiplies this matrix by another matrix in the specified order. |
 | [Reset](../../aspose.html.drawing/imatrix/reset/)() | Resets the matrix to the identity matrix. |
-| [Rotate](../../aspose.html.drawing/imatrix/rotate/#rotate)(float) | Rotates the matrix by the specified angle. |
-| [Rotate](../../aspose.html.drawing/imatrix/rotate/#rotate_1)(float, WebMatrixOrder) | Rotates the matrix by the specified angle in the specified order. |
-| [RotateAt](../../aspose.html.drawing/imatrix/rotateat/#rotateat)(float, PointF) | Rotates the matrix by the specified angle around the specified point. |
-| [RotateAt](../../aspose.html.drawing/imatrix/rotateat/#rotateat_1)(float, PointF, WebMatrixOrder) | Rotates the matrix by the specified angle around the specified point in the specified order. |
-| [Scale](../../aspose.html.drawing/imatrix/scale/#scale)(float, float) | Scales the matrix by the specified scale factors uniformly. |
-| [Scale](../../aspose.html.drawing/imatrix/scale/#scale_1)(float, float, WebMatrixOrder) | Scales the matrix by the specified scale factors in the specified order. |
-| [Skew](../../aspose.html.drawing/imatrix/skew/)(float, float) | Applies a skew transformation to the matrix. |
-| [TransformPoint](../../aspose.html.drawing/imatrix/transformpoint/)(PointF) | Transforms the specified point using this matrix. |
-| [TransformPoints](../../aspose.html.drawing/imatrix/transformpoints/)(PointF[]) | Transforms an array of points using this matrix. |
-| [TransformRectangle](../../aspose.html.drawing/imatrix/transformrectangle/)(RectangleF) | Transforms the specified rectangle using this matrix. |
-| [Translate](../../aspose.html.drawing/imatrix/translate/#translate)(float, float) | Translates the matrix by the specified offset values. |
-| [Translate](../../aspose.html.drawing/imatrix/translate/#translate_1)(float, float, WebMatrixOrder) | Translates the matrix by the specified offset values in the specified order. |
+| [Rotate](../../aspose.html.drawing/imatrix/rotate/#rotate)(*float*) | Rotates the matrix by the specified angle. |
+| [Rotate](../../aspose.html.drawing/imatrix/rotate/#rotate_1)(*float, [WebMatrixOrder](../webmatrixorder/)*) | Rotates the matrix by the specified angle in the specified order. |
+| [RotateAt](../../aspose.html.drawing/imatrix/rotateat/#rotateat)(*float, PointF*) | Rotates the matrix by the specified angle around the specified point. |
+| [RotateAt](../../aspose.html.drawing/imatrix/rotateat/#rotateat_1)(*float, PointF, [WebMatrixOrder](../webmatrixorder/)*) | Rotates the matrix by the specified angle around the specified point in the specified order. |
+| [Scale](../../aspose.html.drawing/imatrix/scale/#scale)(*float, float*) | Scales the matrix by the specified scale factors uniformly. |
+| [Scale](../../aspose.html.drawing/imatrix/scale/#scale_1)(*float, float, [WebMatrixOrder](../webmatrixorder/)*) | Scales the matrix by the specified scale factors in the specified order. |
+| [Skew](../../aspose.html.drawing/imatrix/skew/)(*float, float*) | Applies a skew transformation to the matrix. |
+| [TransformPoint](../../aspose.html.drawing/imatrix/transformpoint/)(*PointF*) | Transforms the specified point using this matrix. |
+| [TransformPoints](../../aspose.html.drawing/imatrix/transformpoints/)(*PointF[]*) | Transforms an array of points using this matrix. |
+| [TransformRectangle](../../aspose.html.drawing/imatrix/transformrectangle/)(*RectangleF*) | Transforms the specified rectangle using this matrix. |
+| [Translate](../../aspose.html.drawing/imatrix/translate/#translate)(*float, float*) | Translates the matrix by the specified offset values. |
+| [Translate](../../aspose.html.drawing/imatrix/translate/#translate_1)(*float, float, [WebMatrixOrder](../webmatrixorder/)*) | Translates the matrix by the specified offset values in the specified order. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: HTMLAnchorElement.Password
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLAnchorElement property. Gets or sets a string representation of the password segment of the associated URL
+description: HTMLAnchorElement Password property. Gets or sets a string representation of the password segment of the associated URL
 type: docs
 weight: 110
 url: /net/aspose.html/htmlanchorelement/password/

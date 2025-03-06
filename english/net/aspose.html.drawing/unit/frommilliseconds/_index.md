@@ -1,7 +1,7 @@
 ---
 title: Unit.FromMilliseconds
 second_title: Aspose.HTML for .NET API Reference
-description: Unit method. Returns a Time object that is represented in milliseconds
+description: Unit FromMilliseconds method. Returns a Time object that is represented in milliseconds
 type: docs
 weight: 150
 url: /net/aspose.html.drawing/unit/frommilliseconds/

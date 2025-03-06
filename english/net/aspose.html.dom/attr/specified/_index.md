@@ -1,7 +1,7 @@
 ---
 title: Attr.Specified
 second_title: Aspose.HTML for .NET API Reference
-description: Attr property. True if this attribute was explicitly given a value in the instance document false otherwise
+description: Attr Specified property. True if this attribute was explicitly given a value in the instance document false otherwise
 type: docs
 weight: 90
 url: /net/aspose.html.dom/attr/specified/

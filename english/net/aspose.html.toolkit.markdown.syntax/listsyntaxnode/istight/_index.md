@@ -1,7 +1,7 @@
 ---
 title: ListSyntaxNode.IsTight
 second_title: Aspose.HTML for .NET API Reference
-description: ListSyntaxNode method. Defines the interface for get is tight
+description: ListSyntaxNode IsTight method. Defines the interface for get is tight
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/listsyntaxnode/istight/

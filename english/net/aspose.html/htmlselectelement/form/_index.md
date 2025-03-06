@@ -1,7 +1,7 @@
 ---
 title: HTMLSelectElement.Form
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLSelectElement property. The number of options in this SELECT
+description: HTMLSelectElement Form property. The number of options in this SELECT
 type: docs
 weight: 20
 url: /net/aspose.html/htmlselectelement/form/

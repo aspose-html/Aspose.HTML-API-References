@@ -31,12 +31,12 @@ public interface ICSSStyleDeclaration : ICSS2Properties, IEnumerable<string>
 
 | Name | Description |
 | --- | --- |
-| [GetPropertyCSSValue](../../aspose.html.dom.css/icssstyledeclaration/getpropertycssvalue/)(string) | Used to retrieve the object representation of the value of a CSS property if it has been explicitly set within this declaration block. This method returns null if the property is a shorthand property. Shorthand property values can only be accessed and modified as strings, using the getPropertyValue and setProperty methods. |
-| [GetPropertyPriority](../../aspose.html.dom.css/icssstyledeclaration/getpropertypriority/)(string) | Used to retrieve the priority of a CSS property (e.g. the "important" qualifier) if the property has been explicitly set in this declaration block. |
-| [GetPropertyValue](../../aspose.html.dom.css/icssstyledeclaration/getpropertyvalue/)(string) | The CSSStyleDeclaration.getPropertyValue() method interface returns a string containing the value of a specified CSS property. |
-| [RemoveProperty](../../aspose.html.dom.css/icssstyledeclaration/removeproperty/)(string) | The CSSStyleDeclaration.removeProperty() method interface removes a property from a CSS style declaration object. |
-| [SetProperty](../../aspose.html.dom.css/icssstyledeclaration/setproperty/#setproperty)(string, string) | The CSSStyleDeclaration.setProperty() method interface is used to set a property value with default priority within this declaration block. Default priority is not "important" i.e. String.Empty |
-| [SetProperty](../../aspose.html.dom.css/icssstyledeclaration/setproperty/#setproperty_1)(string, string, string) | The CSSStyleDeclaration.setProperty() method interface is used to set a property value with default priority within this declaration block. Default priority is not "important" i.e. String.Empty |
+| [GetPropertyCSSValue](../../aspose.html.dom.css/icssstyledeclaration/getpropertycssvalue/)(*string*) | Used to retrieve the object representation of the value of a CSS property if it has been explicitly set within this declaration block. This method returns null if the property is a shorthand property. Shorthand property values can only be accessed and modified as strings, using the getPropertyValue and setProperty methods. |
+| [GetPropertyPriority](../../aspose.html.dom.css/icssstyledeclaration/getpropertypriority/)(*string*) | Used to retrieve the priority of a CSS property (e.g. the "important" qualifier) if the property has been explicitly set in this declaration block. |
+| [GetPropertyValue](../../aspose.html.dom.css/icssstyledeclaration/getpropertyvalue/)(*string*) | The CSSStyleDeclaration.getPropertyValue() method interface returns a string containing the value of a specified CSS property. |
+| [RemoveProperty](../../aspose.html.dom.css/icssstyledeclaration/removeproperty/)(*string*) | The CSSStyleDeclaration.removeProperty() method interface removes a property from a CSS style declaration object. |
+| [SetProperty](../../aspose.html.dom.css/icssstyledeclaration/setproperty/#setproperty)(*string, string*) | The CSSStyleDeclaration.setProperty() method interface is used to set a property value with default priority within this declaration block. Default priority is not "important" i.e. String.Empty |
+| [SetProperty](../../aspose.html.dom.css/icssstyledeclaration/setproperty/#setproperty_1)(*string, string, string*) | The CSSStyleDeclaration.setProperty() method interface is used to set a property value with default priority within this declaration block. Default priority is not "important" i.e. String.Empty |
 
 ## Remarks
 

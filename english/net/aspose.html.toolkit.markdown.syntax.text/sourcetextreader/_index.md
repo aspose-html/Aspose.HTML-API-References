@@ -18,7 +18,7 @@ public class SourceTextReader : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [SourceTextReader](sourcetextreader/)(SourceText) | Create the SourceTextReader |
+| [SourceTextReader](sourcetextreader/)(*[SourceText](../sourcetext/)*) | Create the SourceTextReader |
 
 ## Properties
 
@@ -32,15 +32,15 @@ public class SourceTextReader : IDisposable
 | Name | Description |
 | --- | --- |
 | virtual [Advance](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/advance/#advance)() | Increment the position. |
-| virtual [Advance](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/advance/#advance_1)(int) | The increment position on N |
+| virtual [Advance](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/advance/#advance_1)(*int*) | The increment position on N |
 | virtual [Back](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/back/)() | The decrement position. |
 | [Dispose](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/dispose/)() | Defines the Dispose interface. |
 | [GetLineReader](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/getlinereader/#getlinereader)() | Get the SourceTextReader |
-| [GetLineReader](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/getlinereader/#getlinereader_1)(bool) | Get the SourceTextReader |
+| [GetLineReader](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/getlinereader/#getlinereader_1)(*bool*) | Get the SourceTextReader |
 | [Next](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/next/)() | Get the next character and advance position. |
 | [Peek](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/peek/#peek)() | Get the character on position or Character.Null |
-| [Peek](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/peek/#peek_1)(int) | Get the char. |
-| virtual [Reset](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/reset/)(int) | Reset position to index |
+| [Peek](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/peek/#peek_1)(*int*) | Get the char. |
+| virtual [Reset](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/reset/)(*int*) | Reset position to index |
 
 ### See Also
 

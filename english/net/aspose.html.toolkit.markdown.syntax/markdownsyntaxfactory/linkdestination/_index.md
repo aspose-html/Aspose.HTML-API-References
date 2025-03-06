@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.LinkDestination
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates LinkDestinationSyntaxNode
+description: MarkdownSyntaxFactory LinkDestination method. Creates LinkDestinationSyntaxNode
 type: docs
 weight: 240
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linkdestination/
@@ -27,7 +27,7 @@ The [`LinkDestinationSyntaxNode`](../../linkdestinationsyntaxnode/) object .
 
 ---
 
-## LinkDestination(MarkdownSyntaxToken, MarkdownSyntaxToken) {#linkdestination_1}
+## LinkDestination(*[MarkdownSyntaxToken](../../markdownsyntaxtoken/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/)*) {#linkdestination_1}
 
 Creates [`LinkDestinationSyntaxNode`](../../linkdestinationsyntaxnode/).
 
@@ -55,7 +55,7 @@ The [`LinkDestinationSyntaxNode`](../../linkdestinationsyntaxnode/) object .
 
 ---
 
-## LinkDestination(string) {#linkdestination_2}
+## LinkDestination(*string*) {#linkdestination_2}
 
 Creates LinkDestinationSyntaxNode object from a string.
 

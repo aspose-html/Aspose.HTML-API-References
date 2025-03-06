@@ -1,7 +1,7 @@
 ---
 title: RuleValidationResult.Results
 second_title: Aspose.HTML for .NET API Reference
-description: RuleValidationResult property. Collection of ITechniqueResult on rule validation
+description: RuleValidationResult Results property. Collection of ITechniqueResult on rule validation
 type: docs
 weight: 20
 url: /net/aspose.html.accessibility.results/rulevalidationresult/results/

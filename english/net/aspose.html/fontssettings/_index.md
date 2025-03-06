@@ -25,10 +25,10 @@ public class FontsSettings
 | Name | Description |
 | --- | --- |
 | [GetFontsLookupFolders](../../aspose.html/fontssettings/getfontslookupfolders/)() | Gets a copy of array which contains fonts folders. Fonts found in these folders are used for characters rendering. |
-| [SetFontsLookupFolder](../../aspose.html/fontssettings/setfontslookupfolder/#setfontslookupfolder)(string) | Sets folder used during fonts selection. |
-| [SetFontsLookupFolder](../../aspose.html/fontssettings/setfontslookupfolder/#setfontslookupfolder_1)(string, bool) | Sets folder used during fonts selection. |
-| [SetFontsLookupFolders](../../aspose.html/fontssettings/setfontslookupfolders/#setfontslookupfolders)(string[]) | Sets an array of folders used during fonts selection. |
-| [SetFontsLookupFolders](../../aspose.html/fontssettings/setfontslookupfolders/#setfontslookupfolders_1)(string[], bool) | Sets an array of folders used during fonts selection. |
+| [SetFontsLookupFolder](../../aspose.html/fontssettings/setfontslookupfolder/#setfontslookupfolder)(*string*) | Sets folder used during fonts selection. |
+| [SetFontsLookupFolder](../../aspose.html/fontssettings/setfontslookupfolder/#setfontslookupfolder_1)(*string, bool*) | Sets folder used during fonts selection. |
+| [SetFontsLookupFolders](../../aspose.html/fontssettings/setfontslookupfolders/#setfontslookupfolders)(*string[]*) | Sets an array of folders used during fonts selection. |
+| [SetFontsLookupFolders](../../aspose.html/fontssettings/setfontslookupfolders/#setfontslookupfolders_1)(*string[], bool*) | Sets an array of folders used during fonts selection. |
 
 ### See Also
 

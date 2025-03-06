@@ -1,7 +1,7 @@
 ---
 title: FileCreateStreamProvider.Directory
 second_title: Aspose.HTML for .NET API Reference
-description: FileCreateStreamProvider property. Gets or sets the directory
+description: FileCreateStreamProvider Directory property. Gets or sets the directory
 type: docs
 weight: 20
 url: /net/aspose.html.io/filecreatestreamprovider/directory/

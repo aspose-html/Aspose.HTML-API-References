@@ -1,7 +1,7 @@
 ---
 title: Int8Array.Item
 second_title: Aspose.HTML for .NET API Reference
-description: Int8Array property. Gets or sets the SByte at the specified index
+description: Int8Array Item property. Gets or sets the SByte at the specified index
 type: docs
 weight: 20
 url: /net/aspose.html/int8array/item/

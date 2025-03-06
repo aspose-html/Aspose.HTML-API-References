@@ -1,7 +1,7 @@
 ---
 title: ICSSStyleDeclaration.RemoveProperty
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSStyleDeclaration method. The CSSStyleDeclaration.removeProperty method interface removes a property from a CSS style declaration object
+description: ICSSStyleDeclaration RemoveProperty method. The CSSStyleDeclaration.removeProperty method interface removes a property from a CSS style declaration object
 type: docs
 weight: 80
 url: /net/aspose.html.dom.css/icssstyledeclaration/removeproperty/

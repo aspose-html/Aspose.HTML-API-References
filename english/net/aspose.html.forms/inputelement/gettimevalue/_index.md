@@ -1,7 +1,7 @@
 ---
 title: InputElement.GetTimeValue
 second_title: Aspose.HTML for .NET API Reference
-description: InputElement method. This method is used to get the value as a TimeSpan object. This method is valid if only only type of the input element is time
+description: InputElement GetTimeValue method. This method is used to get the value as a TimeSpan object. This method is valid if only only type of the input element is time
 type: docs
 weight: 160
 url: /net/aspose.html.forms/inputelement/gettimevalue/

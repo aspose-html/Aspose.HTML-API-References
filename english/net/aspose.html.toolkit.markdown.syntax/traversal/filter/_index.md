@@ -1,7 +1,7 @@
 ---
 title: Traversal.Filter
 second_title: Aspose.HTML for .NET API Reference
-description: Traversal property. Defines the interface for get Filter
+description: Traversal Filter property. Defines the interface for get Filter
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/traversal/filter/

@@ -1,7 +1,7 @@
 ---
 title: ListItemSyntaxNode.GetMarker
 second_title: Aspose.HTML for .NET API Reference
-description: ListItemSyntaxNode method. Get marker
+description: ListItemSyntaxNode GetMarker method. Get marker
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/listitemsyntaxnode/getmarker/

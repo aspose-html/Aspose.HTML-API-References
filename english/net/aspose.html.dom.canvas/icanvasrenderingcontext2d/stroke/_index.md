@@ -1,7 +1,7 @@
 ---
 title: ICanvasRenderingContext2D.Stroke
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D method. Strokes the subpaths with the current stroke style
+description: ICanvasRenderingContext2D Stroke method. Strokes the subpaths with the current stroke style
 type: docs
 weight: 370
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/stroke/
@@ -22,7 +22,7 @@ public void Stroke()
 
 ---
 
-## Stroke(Path2D) {#stroke_1}
+## Stroke(*[Path2D](../../path2d/)*) {#stroke_1}
 
 Strokes the subpaths with the current stroke style.
 

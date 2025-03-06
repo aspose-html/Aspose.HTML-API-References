@@ -1,12 +1,12 @@
 ---
 title: SourceText.From
 second_title: Aspose.HTML for .NET API Reference
-description: SourceText method. Define the interface for get SourceText from string
+description: SourceText From method. Define the interface for get SourceText from string
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetext/from/
 ---
-## From(string) {#from_1}
+## From(*string*) {#from_1}
 
 Define the interface for get SourceText from string.
 
@@ -30,7 +30,7 @@ The SourceText.
 
 ---
 
-## From(string, Encoding) {#from_2}
+## From(*string, Encoding*) {#from_2}
 
 Define the interface for get SourceText from string and encoding.
 
@@ -55,7 +55,7 @@ The SourceText.
 
 ---
 
-## From(SourceText[]) {#from}
+## From(*SourceText[]*) {#from}
 
 Define the interface for get SourceText from array of the source.
 

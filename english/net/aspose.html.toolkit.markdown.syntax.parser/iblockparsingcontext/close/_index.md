@@ -1,12 +1,12 @@
 ---
 title: IBlockParsingContext.Close
 second_title: Aspose.HTML for .NET API Reference
-description: IBlockParsingContext method. Defines the Close method
+description: IBlockParsingContext Close method. Defines the Close method
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/close/
 ---
-## Close(BlockSyntaxDescriptor, BlockClosingReason) {#close_1}
+## Close(*[BlockSyntaxDescriptor](../../blocksyntaxdescriptor/), [BlockClosingReason](../../blockclosingreason/)*) {#close_1}
 
 Defines the Close method.
 
@@ -29,7 +29,7 @@ public void Close(BlockSyntaxDescriptor head, BlockClosingReason reason)
 
 ---
 
-## Close(BlockClosingReason) {#close}
+## Close(*[BlockClosingReason](../../blockclosingreason/)*) {#close}
 
 Defines the Close method.
 

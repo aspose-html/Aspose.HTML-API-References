@@ -1,12 +1,12 @@
 ---
 title: WebAccessibility.CreateValidator
 second_title: Aspose.HTML for .NET API Reference
-description: WebAccessibility method. An AccessibilityValidator instance is created for a specific rule given the full parameters of the ValidationBuilder.All object
+description: WebAccessibility CreateValidator method. An AccessibilityValidator instance is created for a specific rule given the full parameters of the ValidationBuilder.All object
 type: docs
 weight: 30
 url: /net/aspose.html.accessibility/webaccessibility/createvalidator/
 ---
-## CreateValidator(IRule) {#createvalidator_1}
+## CreateValidator(*[IRule](../../irule/)*) {#createvalidator_1}
 
 An AccessibilityValidator instance is created for a specific rule, given the full parameters of the ValidationBuilder.All object.
 
@@ -32,7 +32,7 @@ AccessibilityValidator object
 
 ---
 
-## CreateValidator(IRule, ValidationBuilder) {#createvalidator_2}
+## CreateValidator(*[IRule](../../irule/), [ValidationBuilder](../../validationbuilder/)*) {#createvalidator_2}
 
 Create AccessibilityValidator instance
 
@@ -60,7 +60,7 @@ AccessibilityValidator object
 
 ---
 
-## CreateValidator(IRule, Action&lt;ValidationBuilder&gt;) {#createvalidator_3}
+## CreateValidator(*[IRule](../../irule/), Action&amp;lt;ValidationBuilder&amp;gt;*) {#createvalidator_3}
 
 Create AccessibilityValidator instance
 
@@ -88,7 +88,7 @@ AccessibilityValidator object
 
 ---
 
-## CreateValidator(ValidationBuilder) {#createvalidator_4}
+## CreateValidator(*[ValidationBuilder](../../validationbuilder/)*) {#createvalidator_4}
 
 Create AccessibilityValidator instance
 
@@ -114,7 +114,7 @@ AccessibilityValidator object
 
 ---
 
-## CreateValidator(Action&lt;ValidationBuilder&gt;) {#createvalidator_5}
+## CreateValidator(*Action&amp;lt;ValidationBuilder&amp;gt;*) {#createvalidator_5}
 
 Create AccessibilityValidator instance
 
@@ -161,7 +161,7 @@ AccessibilityValidator object
 
 ---
 
-## CreateValidator(IList&lt;IRule&gt;) {#createvalidator_6}
+## CreateValidator(*IList&amp;lt;IRule&amp;gt;*) {#createvalidator_6}
 
 An AccessibilityValidator instance is created for a specific rules list.
 
@@ -187,7 +187,7 @@ AccessibilityValidator object
 
 ---
 
-## CreateValidator(IList&lt;IRule&gt;, ValidationBuilder) {#createvalidator_7}
+## CreateValidator(*IList&amp;lt;IRule&amp;gt;, [ValidationBuilder](../../validationbuilder/)*) {#createvalidator_7}
 
 An AccessibilityValidator instance is created for a specific rules list.
 
@@ -215,7 +215,7 @@ AccessibilityValidator object
 
 ---
 
-## CreateValidator(IList&lt;IRule&gt;, Action&lt;ValidationBuilder&gt;) {#createvalidator_8}
+## CreateValidator(*IList&amp;lt;IRule&amp;gt;, Action&amp;lt;ValidationBuilder&amp;gt;*) {#createvalidator_8}
 
 An AccessibilityValidator instance is created for a specific rules list.
 

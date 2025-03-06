@@ -1,7 +1,7 @@
 ---
 title: Text.NodeName
 second_title: Aspose.HTML for .NET API Reference
-description: Text property. The name of this node depending on its type
+description: Text NodeName property. The name of this node depending on its type
 type: docs
 weight: 20
 url: /net/aspose.html.dom/text/nodename/

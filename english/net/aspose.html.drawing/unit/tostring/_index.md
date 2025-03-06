@@ -1,7 +1,7 @@
 ---
 title: Unit.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: Unit method. Returns a String that represents this instance
+description: Unit ToString method. Returns a String that represents this instance
 type: docs
 weight: 40
 url: /net/aspose.html.drawing/unit/tostring/

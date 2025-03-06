@@ -1,7 +1,7 @@
 ---
 title: HTMLTableRowElement.InsertCell
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLTableRowElement method. Insert an empty TD cell into this row. If index is -1 or equal to the number of cells the new cell is appended
+description: HTMLTableRowElement InsertCell method. Insert an empty TD cell into this row. If index is -1 or equal to the number of cells the new cell is appended
 type: docs
 weight: 100
 url: /net/aspose.html/htmltablerowelement/insertcell/

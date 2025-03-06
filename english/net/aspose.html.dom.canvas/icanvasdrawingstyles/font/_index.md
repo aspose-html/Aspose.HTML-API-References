@@ -1,7 +1,7 @@
 ---
 title: ICanvasDrawingStyles.Font
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasDrawingStyles property. Font setting. Default value 10px sans-serif
+description: ICanvasDrawingStyles Font property. Font setting. Default value 10px sans-serif
 type: docs
 weight: 10
 url: /net/aspose.html.dom.canvas/icanvasdrawingstyles/font/

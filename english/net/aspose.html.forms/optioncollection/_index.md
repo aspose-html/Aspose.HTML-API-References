@@ -27,7 +27,7 @@ public class OptionCollection : IEnumerable<OptionElement>
 | --- | --- |
 | [Add](../../aspose.html.forms/optioncollection/add/)() | Add new option. |
 | [GetEnumerator](../../aspose.html.forms/optioncollection/getenumerator/)() | Returns an enumerator that iterates through the collection. |
-| [Remove](../../aspose.html.forms/optioncollection/remove/)(OptionElement) | Remove the option from list. |
+| [Remove](../../aspose.html.forms/optioncollection/remove/)(*[OptionElement](../optionelement/)*) | Remove the option from list. |
 
 ### See Also
 

@@ -24,7 +24,7 @@ public class GfmSyntaxExtension : MarkdownSyntaxExtension
 
 | Name | Description |
 | --- | --- |
-| override [Setup](../../aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/gfmsyntaxextension/setup/)(IMarkdownParserBuilder) | Override the Setup |
+| override [Setup](../../aspose.html.toolkit.markdown.syntax.parser.extensions.gfm/gfmsyntaxextension/setup/)(*[IMarkdownParserBuilder](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/)*) | Override the Setup |
 
 ### See Also
 

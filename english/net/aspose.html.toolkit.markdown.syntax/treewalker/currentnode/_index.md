@@ -1,7 +1,7 @@
 ---
 title: TreeWalker.CurrentNode
 second_title: Aspose.HTML for .NET API Reference
-description: TreeWalker property. The Current node property
+description: TreeWalker CurrentNode property. The Current node property
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/treewalker/currentnode/

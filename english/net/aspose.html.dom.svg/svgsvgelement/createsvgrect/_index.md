@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElement.CreateSVGRect
 second_title: Aspose.HTML for .NET API Reference
-description: SVGSVGElement method. Creates an SVGRect object outside of any document trees. The object is initialized such that all values are set to 0 user units
+description: SVGSVGElement CreateSVGRect method. Creates an SVGRect object outside of any document trees. The object is initialized such that all values are set to 0 user units
 type: docs
 weight: 170
 url: /net/aspose.html.dom.svg/svgsvgelement/createsvgrect/

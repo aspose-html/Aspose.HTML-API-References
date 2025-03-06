@@ -1,7 +1,7 @@
 ---
 title: SVGTextPathElement.TEXTPATH_METHODTYPE_ALIGN
 second_title: Aspose.HTML for .NET API Reference
-description: SVGTextPathElement field. Corresponds to value align
+description: SVGTextPathElement TEXTPATH_METHODTYPE_ALIGN field. Corresponds to value align
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg/svgtextpathelement/textpath_methodtype_align/

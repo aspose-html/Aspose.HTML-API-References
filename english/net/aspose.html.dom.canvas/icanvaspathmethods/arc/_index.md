@@ -1,12 +1,12 @@
 ---
 title: ICanvasPathMethods.Arc
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasPathMethods method. Adds an arc to the path which is centered at x y position with radius r starting at startAngle and ending at endAngle going in the given direction by anticlockwise defaulting to clockwise
+description: ICanvasPathMethods Arc method. Adds an arc to the path which is centered at x y position with radius r starting at startAngle and ending at endAngle going in the given direction by anticlockwise defaulting to clockwise
 type: docs
 weight: 10
 url: /net/aspose.html.dom.canvas/icanvaspathmethods/arc/
 ---
-## Arc(double, double, double, double, double) {#arc}
+## Arc(*double, double, double, double, double*) {#arc}
 
 Adds an arc to the path which is centered at (x, y) position with radius r starting at startAngle and ending at endAngle going in the given direction by anticlockwise (defaulting to clockwise).
 
@@ -30,7 +30,7 @@ public void Arc(double x, double y, double radius, double startAngle, double end
 
 ---
 
-## Arc(double, double, double, double, double, bool) {#arc_1}
+## Arc(*double, double, double, double, double, bool*) {#arc_1}
 
 Adds an arc to the path which is centered at (x, y) position with radius r starting at startAngle and ending at endAngle going in the given direction by anticlockwise (defaulting to clockwise).
 

@@ -1,7 +1,7 @@
 ---
 title: Resource.OriginalUrl
 second_title: Aspose.HTML for .NET API Reference
-description: Resource property. Returns a URL indicating where this resource was located
+description: Resource OriginalUrl property. Returns a URL indicating where this resource was located
 type: docs
 weight: 30
 url: /net/aspose.html.saving/resource/originalurl/

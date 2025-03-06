@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.HugoShortCodeParameter
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates ShortCodeParameterSyntaxNode
+description: MarkdownSyntaxFactory HugoShortCodeParameter method. Creates ShortCodeParameterSyntaxNode
 type: docs
 weight: 170
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hugoshortcodeparameter/

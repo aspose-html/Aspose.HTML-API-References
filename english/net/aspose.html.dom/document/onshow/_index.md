@@ -1,7 +1,7 @@
 ---
 title: Document.OnShow
 second_title: Aspose.HTML for .NET API Reference
-description: Document event. Gets or sets event handler for OnShow event
+description: Document OnShow event. Gets or sets event handler for OnShow event
 type: docs
 weight: 710
 url: /net/aspose.html.dom/document/onshow/

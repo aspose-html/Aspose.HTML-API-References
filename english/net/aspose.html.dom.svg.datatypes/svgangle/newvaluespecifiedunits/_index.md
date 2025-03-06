@@ -1,7 +1,7 @@
 ---
 title: SVGAngle.NewValueSpecifiedUnits
 second_title: Aspose.HTML for .NET API Reference
-description: SVGAngle method. Reset the value as a number with an associated unitType thereby replacing the values for all of the attributes on the object
+description: SVGAngle NewValueSpecifiedUnits method. Reset the value as a number with an associated unitType thereby replacing the values for all of the attributes on the object
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg.datatypes/svgangle/newvaluespecifiedunits/

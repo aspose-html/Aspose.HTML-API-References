@@ -1,7 +1,7 @@
 ---
 title: IUserAgentService.FontsSettings
 second_title: Aspose.HTML for .NET API Reference
-description: IUserAgentService property. Gets a FontsSettings object which is used for configuration of fonts handling
+description: IUserAgentService FontsSettings property. Gets a FontsSettings object which is used for configuration of fonts handling
 type: docs
 weight: 30
 url: /net/aspose.html.services/iuseragentservice/fontssettings/

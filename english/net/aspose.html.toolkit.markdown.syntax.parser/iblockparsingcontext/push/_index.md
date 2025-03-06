@@ -1,7 +1,7 @@
 ---
 title: IBlockParsingContext.Push
 second_title: Aspose.HTML for .NET API Reference
-description: IBlockParsingContext method. Defines the Push method
+description: IBlockParsingContext Push method. Defines the Push method
 type: docs
 weight: 110
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/push/

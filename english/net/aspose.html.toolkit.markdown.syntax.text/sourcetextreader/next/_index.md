@@ -1,7 +1,7 @@
 ---
 title: SourceTextReader.Next
 second_title: Aspose.HTML for .NET API Reference
-description: SourceTextReader method. Get the next character and advance position
+description: SourceTextReader Next method. Get the next character and advance position
 type: docs
 weight: 80
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/next/

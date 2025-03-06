@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElement.Width
 second_title: Aspose.HTML for .NET API Reference
-description: SVGSVGElement property. Corresponds to attribute width on the given svg element
+description: SVGSVGElement Width property. Corresponds to attribute width on the given svg element
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg/svgsvgelement/width/

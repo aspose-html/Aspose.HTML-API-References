@@ -1,7 +1,7 @@
 ---
 title: HTMLTableElement.CellPadding
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLTableElement property. Specifies the horizontal and vertical space between cell content and cell borders. See the cellpadding attribute definition in HTML 4.01
+description: HTMLTableElement CellPadding property. Specifies the horizontal and vertical space between cell content and cell borders. See the cellpadding attribute definition in HTML 4.01
 type: docs
 weight: 50
 url: /net/aspose.html/htmltableelement/cellpadding/

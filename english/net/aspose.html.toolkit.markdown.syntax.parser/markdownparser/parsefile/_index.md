@@ -1,7 +1,7 @@
 ---
 title: MarkdownParser.ParseFile
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownParser method. Parse an file
+description: MarkdownParser ParseFile method. Parse an file
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownparser/parsefile/

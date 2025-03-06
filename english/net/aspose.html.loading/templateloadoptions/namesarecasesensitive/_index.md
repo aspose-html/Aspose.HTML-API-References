@@ -1,7 +1,7 @@
 ---
 title: TemplateLoadOptions.NamesAreCaseSensitive
 second_title: Aspose.HTML for .NET API Reference
-description: TemplateLoadOptions property. Property that specifies whether the template and data element names will be matched regardless to the character case or not. If true matching is case sensitive if false character case will be ignored. Default value is true
+description: TemplateLoadOptions NamesAreCaseSensitive property. Property that specifies whether the template and data element names will be matched regardless to the character case or not. If true matching is case sensitive if false character case will be ignored. Default value is true
 type: docs
 weight: 20
 url: /net/aspose.html.loading/templateloadoptions/namesarecasesensitive/

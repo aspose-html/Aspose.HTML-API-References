@@ -1,7 +1,7 @@
 ---
 title: LineParsingInstruction.GetHashCode
 second_title: Aspose.HTML for .NET API Reference
-description: LineParsingInstruction method. Overrides the GetHashCode
+description: LineParsingInstruction GetHashCode method. Overrides the GetHashCode
 type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/gethashcode/

@@ -1,7 +1,7 @@
 ---
 title: IUrlSearchParams.GetAll
 second_title: Aspose.HTML for .NET API Reference
-description: IUrlSearchParams method. Returns all values whose name is name
+description: IUrlSearchParams GetAll method. Returns all values whose name is name
 type: docs
 weight: 40
 url: /net/aspose.html/iurlsearchparams/getall/

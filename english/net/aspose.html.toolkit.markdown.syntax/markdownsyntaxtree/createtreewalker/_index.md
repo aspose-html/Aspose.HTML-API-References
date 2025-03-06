@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxTree.CreateTreeWalker
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxTree method. Defines the interface for create the tree walker
+description: MarkdownSyntaxTree CreateTreeWalker method. Defines the interface for create the tree walker
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/createtreewalker/
 ---
-## CreateTreeWalker(MarkdownSyntaxNodeFilter) {#createtreewalker_2}
+## CreateTreeWalker(*[MarkdownSyntaxNodeFilter](../../markdownsyntaxnodefilter/)*) {#createtreewalker_2}
 
 Defines the interface for create the tree walker.
 
@@ -32,7 +32,7 @@ The tree walker.
 
 ---
 
-## CreateTreeWalker(MarkdownSyntaxNode) {#createtreewalker}
+## CreateTreeWalker(*[MarkdownSyntaxNode](../../markdownsyntaxnode/)*) {#createtreewalker}
 
 Defines the interface for create the tree walker.
 
@@ -58,7 +58,7 @@ The tree walker.
 
 ---
 
-## CreateTreeWalker(MarkdownSyntaxNode, MarkdownSyntaxNodeFilter) {#createtreewalker_1}
+## CreateTreeWalker(*[MarkdownSyntaxNode](../../markdownsyntaxnode/), [MarkdownSyntaxNodeFilter](../../markdownsyntaxnodefilter/)*) {#createtreewalker_1}
 
 Defines the interface for create the tree walker.
 

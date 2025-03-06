@@ -1,7 +1,7 @@
 ---
 title: Url.Username
 second_title: Aspose.HTML for .NET API Reference
-description: Url property. Gets or sets a string representation for the specified URL username
+description: Url Username property. Gets or sets a string representation for the specified URL username
 type: docs
 weight: 130
 url: /net/aspose.html/url/username/

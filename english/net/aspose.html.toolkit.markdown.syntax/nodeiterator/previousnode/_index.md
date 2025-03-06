@@ -1,7 +1,7 @@
 ---
 title: NodeIterator.PreviousNode
 second_title: Aspose.HTML for .NET API Reference
-description: NodeIterator method. Defines the interface for get the previous node
+description: NodeIterator PreviousNode method. Defines the interface for get the previous node
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax/nodeiterator/previousnode/

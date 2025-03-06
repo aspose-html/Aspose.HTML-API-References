@@ -1,7 +1,7 @@
 ---
 title: UnitType.op_Explicit
 second_title: Aspose.HTML for .NET API Reference
-description: UnitType method. 
+description: UnitType op_Explicit method. 
 type: docs
 weight: 350
 url: /net/aspose.html.drawing/unittype/op_explicit/

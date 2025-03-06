@@ -1,7 +1,7 @@
 ---
 title: Node.NodeValue
 second_title: Aspose.HTML for .NET API Reference
-description: Node property. The nodeValue property of the Node interface returns or sets the value of the current node
+description: Node NodeValue property. The nodeValue property of the Node interface returns or sets the value of the current node
 type: docs
 weight: 100
 url: /net/aspose.html.dom/node/nodevalue/

@@ -1,7 +1,7 @@
 ---
 title: SVGPatternElement.SystemLanguage
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPatternElement property. Corresponds to attribute systemLanguage on the given element
+description: SVGPatternElement SystemLanguage property. Corresponds to attribute systemLanguage on the given element
 type: docs
 weight: 90
 url: /net/aspose.html.dom.svg/svgpatternelement/systemlanguage/

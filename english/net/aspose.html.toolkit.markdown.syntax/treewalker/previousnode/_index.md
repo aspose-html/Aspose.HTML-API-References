@@ -1,7 +1,7 @@
 ---
 title: TreeWalker.PreviousNode
 second_title: Aspose.HTML for .NET API Reference
-description: TreeWalker method. Defines the interface for get previous node
+description: TreeWalker PreviousNode method. Defines the interface for get previous node
 type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax/treewalker/previousnode/

@@ -1,7 +1,7 @@
 ---
 title: Content.Dispose
 second_title: Aspose.HTML for .NET API Reference
-description: Content method. Performs application-defined tasks associated with freeing releasing or resetting unmanaged resources
+description: Content Dispose method. Performs application-defined tasks associated with freeing releasing or resetting unmanaged resources
 type: docs
 weight: 20
 url: /net/aspose.html.net/content/dispose/

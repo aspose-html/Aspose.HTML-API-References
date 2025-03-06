@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.LineHeight
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. If the property is set on a block-level element whose content is composed of inline-level elements it specifies the minimal height of each generated inline box
+description: ICSS2Properties LineHeight property. If the property is set on a block-level element whose content is composed of inline-level elements it specifies the minimal height of each generated inline box
 type: docs
 weight: 580
 url: /net/aspose.html.dom.css/icss2properties/lineheight/

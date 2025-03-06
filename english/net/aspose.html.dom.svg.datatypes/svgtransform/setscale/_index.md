@@ -1,7 +1,7 @@
 ---
 title: SVGTransform.SetScale
 second_title: Aspose.HTML for .NET API Reference
-description: SVGTransform method. Sets the transform type to SVG_TRANSFORM_SCALE with parameters sx and sy defining the scale amounts
+description: SVGTransform SetScale method. Sets the transform type to SVG_TRANSFORM_SCALE with parameters sx and sy defining the scale amounts
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg.datatypes/svgtransform/setscale/

@@ -1,7 +1,7 @@
 ---
 title: HTMLOptionElement.Form
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLOptionElement property. Returns the FORM element containing this control. Returns null if this control is not within the context of a form
+description: HTMLOptionElement Form property. Returns the FORM element containing this control. Returns null if this control is not within the context of a form
 type: docs
 weight: 30
 url: /net/aspose.html/htmloptionelement/form/

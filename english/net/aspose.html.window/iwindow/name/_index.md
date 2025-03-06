@@ -1,7 +1,7 @@
 ---
 title: IWindow.Name
 second_title: Aspose.HTML for .NET API Reference
-description: IWindow property. The name attribute of the Window object must on getting return the current name of the browsing context and on setting set the name of the browsing context to the new value
+description: IWindow Name property. The name attribute of the Window object must on getting return the current name of the browsing context and on setting set the name of the browsing context to the new value
 type: docs
 weight: 50
 url: /net/aspose.html.window/iwindow/name/

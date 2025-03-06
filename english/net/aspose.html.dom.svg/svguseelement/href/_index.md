@@ -1,7 +1,7 @@
 ---
 title: SVGUseElement.Href
 second_title: Aspose.HTML for .NET API Reference
-description: SVGUseElement property. Corresponds to attribute xlinkhref on the given element
+description: SVGUseElement Href property. Corresponds to attribute xlinkhref on the given element
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svguseelement/href/

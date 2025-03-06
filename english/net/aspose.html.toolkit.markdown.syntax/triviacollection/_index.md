@@ -32,17 +32,17 @@ public class TriviaCollection : SyntaxNodeCollection<WhitespaceSyntaxNode>
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/add/)(WhitespaceSyntaxNode) |  |
+| [Add](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/add/)(*[WhitespaceSyntaxNode](../whitespacesyntaxnode/)*) |  |
 | [Clear](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/clear/)() |  |
-| [Contains](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/contains/)(WhitespaceSyntaxNode) |  |
-| [CopyTo](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/copyto/)(WhitespaceSyntaxNode[], int) |  |
-| override [Get](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/get/)(int) |  |
+| [Contains](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/contains/)(*[WhitespaceSyntaxNode](../whitespacesyntaxnode/)*) |  |
+| [CopyTo](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/copyto/)(*WhitespaceSyntaxNode[], int*) |  |
+| override [Get](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/get/)(*int*) |  |
 | override [GetEnumerator](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/getenumerator/)() |  |
-| [IndexOf](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/indexof/)(WhitespaceSyntaxNode) |  |
-| [Insert](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/insert/)(int, WhitespaceSyntaxNode) |  |
-| [Remove](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/remove/)(WhitespaceSyntaxNode) |  |
-| [RemoveAt](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/removeat/)(int) |  |
-| [WriteTo](../../aspose.html.toolkit.markdown.syntax/nodelist-1/writeto/)(TextWriter) |  |
+| [IndexOf](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/indexof/)(*[WhitespaceSyntaxNode](../whitespacesyntaxnode/)*) |  |
+| [Insert](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/insert/)(*int, [WhitespaceSyntaxNode](../whitespacesyntaxnode/)*) |  |
+| [Remove](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/remove/)(*[WhitespaceSyntaxNode](../whitespacesyntaxnode/)*) |  |
+| [RemoveAt](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/removeat/)(*int*) |  |
+| [WriteTo](../../aspose.html.toolkit.markdown.syntax/nodelist-1/writeto/)(*TextWriter*) |  |
 
 ### See Also
 

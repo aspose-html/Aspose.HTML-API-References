@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxNode.WriteTo
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxNode method. Write nodes to text writer
+description: MarkdownSyntaxNode WriteTo method. Write nodes to text writer
 type: docs
 weight: 160
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/
 ---
-## WriteTo(TextWriter) {#writeto_1}
+## WriteTo(*TextWriter*) {#writeto_1}
 
 Write nodes to text writer.
 
@@ -26,7 +26,7 @@ public void WriteTo(TextWriter writer)
 
 ---
 
-## WriteTo(MarkdownTextWriter) {#writeto}
+## WriteTo(*[MarkdownTextWriter](../../markdowntextwriter/)*) {#writeto}
 
 Write to MarkdownTextWriter.
 

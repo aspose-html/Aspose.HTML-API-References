@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.rendering.doc/docdevice/docdevice/
 ---
-## DocDevice(ICreateStreamProvider) {#constructor}
+## DocDevice(*[ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#constructor}
 
 Initializes a new instance of the [`DocDevice`](../) class.
 
@@ -27,7 +27,7 @@ public DocDevice(ICreateStreamProvider streamProvider)
 
 ---
 
-## DocDevice(DocRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## DocDevice(*[DocRenderingOptions](../../docrenderingoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#constructor_1}
 
 Initializes a new instance of the [`DocDevice`](../) class by rendering options and stream provider.
 
@@ -50,7 +50,7 @@ public DocDevice(DocRenderingOptions options, ICreateStreamProvider streamProvid
 
 ---
 
-## DocDevice(string) {#constructor_5}
+## DocDevice(*string*) {#constructor_5}
 
 Initializes a new instance of the [`DocDevice`](../) class by output file name.
 
@@ -70,7 +70,7 @@ public DocDevice(string file)
 
 ---
 
-## DocDevice(DocRenderingOptions, string) {#constructor_3}
+## DocDevice(*[DocRenderingOptions](../../docrenderingoptions/), string*) {#constructor_3}
 
 Initializes a new instance of the [`DocDevice`](../) class by rendering options and output file name.
 
@@ -92,7 +92,7 @@ public DocDevice(DocRenderingOptions options, string file)
 
 ---
 
-## DocDevice(Stream) {#constructor_4}
+## DocDevice(*Stream*) {#constructor_4}
 
 Initializes a new instance of the [`DocDevice`](../) class by output stream.
 
@@ -112,7 +112,7 @@ public DocDevice(Stream stream)
 
 ---
 
-## DocDevice(DocRenderingOptions, Stream) {#constructor_2}
+## DocDevice(*[DocRenderingOptions](../../docrenderingoptions/), Stream*) {#constructor_2}
 
 Initializes a new instance of the [`DocDevice`](../) class by rendering options and output stream.
 

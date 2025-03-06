@@ -19,7 +19,7 @@ public sealed class DOMTreatNullAsAttribute : Attribute
 
 | Name | Description |
 | --- | --- |
-| [DOMTreatNullAsAttribute](domtreatnullasattribute/)(Type, object) | Initializes a new instance of the `DOMTreatNullAsAttribute` class. |
+| [DOMTreatNullAsAttribute](domtreatnullasattribute/)(*Type, object*) | Initializes a new instance of the `DOMTreatNullAsAttribute` class. |
 
 ## Properties
 

@@ -1,7 +1,7 @@
 ---
 title: ITransformableBrush.TransformationMatrix
 second_title: Aspose.HTML for .NET API Reference
-description: ITransformableBrush property. Get the transform. The transform defines a local geometric transform for this brush
+description: ITransformableBrush TransformationMatrix property. Get the transform. The transform defines a local geometric transform for this brush
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/itransformablebrush/transformationmatrix/

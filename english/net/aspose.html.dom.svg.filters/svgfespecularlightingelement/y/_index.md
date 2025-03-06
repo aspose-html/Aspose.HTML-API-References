@@ -1,7 +1,7 @@
 ---
 title: SVGFESpecularLightingElement.Y
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFESpecularLightingElement property. Corresponds to attribute y on the given filter element
+description: SVGFESpecularLightingElement Y property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 110
 url: /net/aspose.html.dom.svg.filters/svgfespecularlightingelement/y/

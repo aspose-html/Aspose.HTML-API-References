@@ -1,7 +1,7 @@
 ---
 title: SVGFESpotLightElement.Z
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFESpotLightElement property. Corresponds to attribute z on the given feSpotLight element
+description: SVGFESpotLightElement Z property. Corresponds to attribute z on the given feSpotLight element
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg.filters/svgfespotlightelement/z/

@@ -1,7 +1,7 @@
 ---
 title: Color.FromString
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Parses string containing the CSS color and returns a new Color
+description: Color FromString method. Parses string containing the CSS color and returns a new Color
 type: docs
 weight: 220
 url: /net/aspose.html.drawing/color/fromstring/

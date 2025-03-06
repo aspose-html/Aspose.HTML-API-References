@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.ThematicBreak
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates ThematicBreakSyntaxNode
+description: MarkdownSyntaxFactory ThematicBreak method. Creates ThematicBreakSyntaxNode
 type: docs
 weight: 450
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/thematicbreak/

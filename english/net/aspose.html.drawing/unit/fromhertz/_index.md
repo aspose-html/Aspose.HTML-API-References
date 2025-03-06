@@ -1,7 +1,7 @@
 ---
 title: Unit.FromHertz
 second_title: Aspose.HTML for .NET API Reference
-description: Unit method. Returns a Frequency object that is represented in hertz
+description: Unit FromHertz method. Returns a Frequency object that is represented in hertz
 type: docs
 weight: 110
 url: /net/aspose.html.drawing/unit/fromhertz/

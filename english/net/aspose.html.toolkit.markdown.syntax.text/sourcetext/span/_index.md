@@ -1,7 +1,7 @@
 ---
 title: SourceText.Span
 second_title: Aspose.HTML for .NET API Reference
-description: SourceText property. Get the span
+description: SourceText Span property. Get the span
 type: docs
 weight: 60
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetext/span/

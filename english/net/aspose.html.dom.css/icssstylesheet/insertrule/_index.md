@@ -1,7 +1,7 @@
 ---
 title: ICSSStyleSheet.InsertRule
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSStyleSheet method. The CSSStyleSheet.insertRule method inserts a new CSS rule into the current style sheet with some restrictions
+description: ICSSStyleSheet InsertRule method. The CSSStyleSheet.insertRule method inserts a new CSS rule into the current style sheet with some restrictions
 type: docs
 weight: 40
 url: /net/aspose.html.dom.css/icssstylesheet/insertrule/

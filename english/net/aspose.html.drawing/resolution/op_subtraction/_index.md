@@ -1,7 +1,7 @@
 ---
 title: Resolution.op_Subtraction
 second_title: Aspose.HTML for .NET API Reference
-description: Resolution method. 
+description: Resolution op_Subtraction method. 
 type: docs
 weight: 90
 url: /net/aspose.html.drawing/resolution/op_subtraction/

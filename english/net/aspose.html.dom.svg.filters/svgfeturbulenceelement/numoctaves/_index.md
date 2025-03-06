@@ -1,7 +1,7 @@
 ---
 title: SVGFETurbulenceElement.NumOctaves
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFETurbulenceElement property. Corresponds to attribute numOctaves on the given feTurbulence element
+description: SVGFETurbulenceElement NumOctaves property. Corresponds to attribute numOctaves on the given feTurbulence element
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.filters/svgfeturbulenceelement/numoctaves/

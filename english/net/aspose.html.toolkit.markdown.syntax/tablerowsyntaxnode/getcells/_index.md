@@ -1,7 +1,7 @@
 ---
 title: TableRowSyntaxNode.GetCells
 second_title: Aspose.HTML for .NET API Reference
-description: TableRowSyntaxNode method. Defines the interface for get cells
+description: TableRowSyntaxNode GetCells method. Defines the interface for get cells
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/getcells/

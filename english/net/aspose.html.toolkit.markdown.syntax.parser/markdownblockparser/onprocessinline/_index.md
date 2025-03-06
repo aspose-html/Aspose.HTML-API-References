@@ -1,7 +1,7 @@
 ---
 title: MarkdownBlockParser.OnProcessInline
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownBlockParser method. Defines the interface for OnProcessInline method
+description: MarkdownBlockParser OnProcessInline method. Defines the interface for OnProcessInline method
 type: docs
 weight: 60
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/onprocessinline/

@@ -1,7 +1,7 @@
 ---
 title: NodeList.Item
 second_title: Aspose.HTML for .NET API Reference
-description: NodeList property. Method returns the indexth item in the collection. If index is greater than or equal to the number of nodes in the list this returns null
+description: NodeList Item property. Method returns the indexth item in the collection. If index is greater than or equal to the number of nodes in the list this returns null
 type: docs
 weight: 10
 url: /net/aspose.html.collections/nodelist/item/

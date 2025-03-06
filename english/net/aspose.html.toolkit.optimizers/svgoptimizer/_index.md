@@ -18,8 +18,8 @@ public static class SVGOptimizer
 
 | Name | Description |
 | --- | --- |
-| static [Optimize](../../aspose.html.toolkit.optimizers/svgoptimizer/optimize/#optimize)(SVGDocument) | Optimizes [`SVGDocument`](../../aspose.html.dom.svg/svgdocument/) by applying a set of default optimization options. |
-| static [Optimize](../../aspose.html.toolkit.optimizers/svgoptimizer/optimize/#optimize_1)(SVGDocument, SVGOptimizationOptions) | Optimizes [`SVGDocument`](../../aspose.html.dom.svg/svgdocument/) by applying a set of specified optimization options. |
+| static [Optimize](../../aspose.html.toolkit.optimizers/svgoptimizer/optimize/#optimize)(*[SVGDocument](../../aspose.html.dom.svg/svgdocument/)*) | Optimizes [`SVGDocument`](../../aspose.html.dom.svg/svgdocument/) by applying a set of default optimization options. |
+| static [Optimize](../../aspose.html.toolkit.optimizers/svgoptimizer/optimize/#optimize_1)(*[SVGDocument](../../aspose.html.dom.svg/svgdocument/), [SVGOptimizationOptions](../svgoptimizationoptions/)*) | Optimizes [`SVGDocument`](../../aspose.html.dom.svg/svgdocument/) by applying a set of specified optimization options. |
 
 ### See Also
 

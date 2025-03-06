@@ -1,7 +1,7 @@
 ---
 title: Angle.op_Addition
 second_title: Aspose.HTML for .NET API Reference
-description: Angle method. 
+description: Angle op_Addition method. 
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/angle/op_addition/

@@ -28,7 +28,7 @@ public class ValidationBuilder
 | --- | --- |
 | [AllLevels](../../aspose.html.accessibility/validationbuilder/alllevels/)() | A method that sets all criteria levels. And indicates that the document will be checked according to the criteria of all three levels. |
 | [AllTechnologies](../../aspose.html.accessibility/validationbuilder/alltechnologies/)() | A method that sets all technologies to test criterion |
-| [SetHTMLTags](../../aspose.html.accessibility/validationbuilder/sethtmltags/)(params string[]) | List of html tags to check If the tags are not specified explicitly, then the tags array is empty and the check passes through all |
+| [SetHTMLTags](../../aspose.html.accessibility/validationbuilder/sethtmltags/)(*params string[]*) | List of html tags to check If the tags are not specified explicitly, then the tags array is empty and the check passes through all |
 | [UseCSS](../../aspose.html.accessibility/validationbuilder/usecss/)() | A method that includes CSS technologies in a set of rules |
 | [UseFailures](../../aspose.html.accessibility/validationbuilder/usefailures/)() | A method that includes Failures in a set of rules |
 | [UseGeneral](../../aspose.html.accessibility/validationbuilder/usegeneral/)() | A method that includes General technologies in a set of rules |

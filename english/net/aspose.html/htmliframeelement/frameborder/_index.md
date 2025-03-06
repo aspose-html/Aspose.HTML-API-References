@@ -1,7 +1,7 @@
 ---
 title: HTMLIFrameElement.FrameBorder
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLIFrameElement property. Request frame borders. See the frameborder attribute definition in HTML 4.01
+description: HTMLIFrameElement FrameBorder property. Request frame borders. See the frameborder attribute definition in HTML 4.01
 type: docs
 weight: 20
 url: /net/aspose.html/htmliframeelement/frameborder/

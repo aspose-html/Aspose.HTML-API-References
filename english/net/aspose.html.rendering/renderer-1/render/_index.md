@@ -1,12 +1,12 @@
 ---
 title: Renderer-1.Render
 second_title: Aspose.HTML for .NET API Reference
-description: Renderer method. Defines method for rendering TDocument into specified IDevice
+description: Renderer Render method. Defines method for rendering TDocument into specified IDevice
 type: docs
 weight: 10
 url: /net/aspose.html.rendering/renderer-1/render/
 ---
-## Render(IDevice, TSource) {#render_3}
+## Render(*[IDevice](../../idevice/), TSource*) {#render_3}
 
 Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice/).
 
@@ -28,7 +28,7 @@ public void Render(IDevice device, TSource source)
 
 ---
 
-## Render(IDevice, TSource, TimeSpan) {#render_5}
+## Render(*[IDevice](../../idevice/), TSource, TimeSpan*) {#render_5}
 
 Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
@@ -51,7 +51,7 @@ public void Render(IDevice device, TSource source, TimeSpan timeout)
 
 ---
 
-## Render(IDevice, TSource, int) {#render_4}
+## Render(*[IDevice](../../idevice/), TSource, int*) {#render_4}
 
 Defines method for rendering !:TDocument into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
@@ -74,7 +74,7 @@ public void Render(IDevice device, TSource source, int timeout)
 
 ---
 
-## Render(IDevice, params TSource[]) {#render_6}
+## Render(*[IDevice](../../idevice/), params TSource[]*) {#render_6}
 
 ```csharp
 public void Render(IDevice device, params TSource[] sources)
@@ -89,7 +89,7 @@ public void Render(IDevice device, params TSource[] sources)
 
 ---
 
-## Render(IDevice, int, params TSource[]) {#render}
+## Render(*[IDevice](../../idevice/), int, params TSource[]*) {#render}
 
 ```csharp
 public void Render(IDevice device, int timeout, params TSource[] sources)
@@ -104,7 +104,7 @@ public void Render(IDevice device, int timeout, params TSource[] sources)
 
 ---
 
-## Render(IDevice, TimeSpan, params TSource[]) {#render_2}
+## Render(*[IDevice](../../idevice/), TimeSpan, params TSource[]*) {#render_2}
 
 ```csharp
 public abstract void Render(IDevice device, TimeSpan timeout, params TSource[] sources)
@@ -119,7 +119,7 @@ public abstract void Render(IDevice device, TimeSpan timeout, params TSource[] s
 
 ---
 
-## Render(IDevice, CancellationToken, params TSource[]) {#render_1}
+## Render(*[IDevice](../../idevice/), CancellationToken, params TSource[]*) {#render_1}
 
 ```csharp
 public abstract void Render(IDevice device, CancellationToken cancellationToken, 

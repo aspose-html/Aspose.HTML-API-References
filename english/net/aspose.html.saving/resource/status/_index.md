@@ -1,7 +1,7 @@
 ---
 title: Resource.Status
 second_title: Aspose.HTML for .NET API Reference
-description: Resource property. Returns the current status of the resource
+description: Resource Status property. Returns the current status of the resource
 type: docs
 weight: 50
 url: /net/aspose.html.saving/resource/status/

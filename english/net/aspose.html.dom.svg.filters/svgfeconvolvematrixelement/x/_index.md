@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElement.X
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEConvolveMatrixElement property. Corresponds to attribute x on the given filter element
+description: SVGFEConvolveMatrixElement X property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 160
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/x/

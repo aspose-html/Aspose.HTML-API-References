@@ -1,7 +1,7 @@
 ---
 title: SVGFETurbulenceElement.Width
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFETurbulenceElement property. Corresponds to attribute width on the given filter element
+description: SVGFETurbulenceElement Width property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 90
 url: /net/aspose.html.dom.svg.filters/svgfeturbulenceelement/width/

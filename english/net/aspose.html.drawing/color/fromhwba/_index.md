@@ -1,7 +1,7 @@
 ---
 title: Color.FromHwba
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a new Color with the requested hue whiteness blackness values
+description: Color FromHwba method. Returns a new Color with the requested hue whiteness blackness values
 type: docs
 weight: 100
 url: /net/aspose.html.drawing/color/fromhwba/

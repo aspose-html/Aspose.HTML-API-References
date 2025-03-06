@@ -1,7 +1,7 @@
 ---
 title: Size.Height
 second_title: Aspose.HTML for .NET API Reference
-description: Size property. Gets or sets the vertical component of this Size
+description: Size Height property. Gets or sets the vertical component of this Size
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/size/height/

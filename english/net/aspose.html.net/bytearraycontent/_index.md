@@ -18,7 +18,7 @@ public class ByteArrayContent : Content
 
 | Name | Description |
 | --- | --- |
-| [ByteArrayContent](bytearraycontent/)(byte[]) | Initializes a new instance of the `ByteArrayContent` class. |
+| [ByteArrayContent](bytearraycontent/)(*byte[]*) | Initializes a new instance of the `ByteArrayContent` class. |
 
 ## Properties
 

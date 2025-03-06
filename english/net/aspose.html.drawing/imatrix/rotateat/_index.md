@@ -1,12 +1,12 @@
 ---
 title: IMatrix.RotateAt
 second_title: Aspose.HTML for .NET API Reference
-description: IMatrix method. Rotates the matrix by the specified angle around the specified point in the specified order
+description: IMatrix RotateAt method. Rotates the matrix by the specified angle around the specified point in the specified order
 type: docs
 weight: 150
 url: /net/aspose.html.drawing/imatrix/rotateat/
 ---
-## RotateAt(float, PointF, WebMatrixOrder) {#rotateat_1}
+## RotateAt(*float, PointF, [WebMatrixOrder](../../webmatrixorder/)*) {#rotateat_1}
 
 Rotates the matrix by the specified angle around the specified point in the specified order.
 
@@ -29,7 +29,7 @@ public void RotateAt(float angle, PointF point, WebMatrixOrder order)
 
 ---
 
-## RotateAt(float, PointF) {#rotateat}
+## RotateAt(*float, PointF*) {#rotateat}
 
 Rotates the matrix by the specified angle around the specified point.
 

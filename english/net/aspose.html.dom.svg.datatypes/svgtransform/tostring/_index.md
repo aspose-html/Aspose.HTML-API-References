@@ -1,7 +1,7 @@
 ---
 title: SVGTransform.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: SVGTransform method. Returns a String that represents this instance
+description: SVGTransform ToString method. Returns a String that represents this instance
 type: docs
 weight: 100
 url: /net/aspose.html.dom.svg.datatypes/svgtransform/tostring/

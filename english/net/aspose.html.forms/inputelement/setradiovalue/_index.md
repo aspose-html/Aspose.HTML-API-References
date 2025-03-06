@@ -1,7 +1,7 @@
 ---
 title: InputElement.SetRadioValue
 second_title: Aspose.HTML for .NET API Reference
-description: InputElement method. Sets the checkedness state for the input element with the radio type
+description: InputElement SetRadioValue method. Sets the checkedness state for the input element with the radio type
 type: docs
 weight: 270
 url: /net/aspose.html.forms/inputelement/setradiovalue/

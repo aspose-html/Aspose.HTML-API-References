@@ -1,7 +1,7 @@
 ---
 title: SVGPathElement.CreateSVGPathSegCurvetoQuadraticAbs
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegCurvetoQuadraticAbs object
+description: SVGPathElement CreateSVGPathSegCurvetoQuadraticAbs method. Returns a stand-alone parentless SVGPathSegCurvetoQuadraticAbs object
 type: docs
 weight: 100
 url: /net/aspose.html.dom.svg/svgpathelement/createsvgpathsegcurvetoquadraticabs/

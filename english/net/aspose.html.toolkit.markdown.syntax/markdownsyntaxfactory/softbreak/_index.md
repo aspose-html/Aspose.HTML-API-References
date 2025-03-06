@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.SoftBreak
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates SoftBreakSyntaxNode
+description: MarkdownSyntaxFactory SoftBreak method. Creates SoftBreakSyntaxNode
 type: docs
 weight: 370
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/softbreak/

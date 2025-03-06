@@ -1,7 +1,7 @@
 ---
 title: ITrueTypeFont.FamilyName
 second_title: Aspose.HTML for .NET API Reference
-description: ITrueTypeFont property. Get the name of the font family
+description: ITrueTypeFont FamilyName property. Get the name of the font family
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/itruetypefont/familyname/

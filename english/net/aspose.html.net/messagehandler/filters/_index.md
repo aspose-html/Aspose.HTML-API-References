@@ -1,7 +1,7 @@
 ---
 title: MessageHandler.Filters
 second_title: Aspose.HTML for .NET API Reference
-description: MessageHandler property. Gets the filters list that are corresponding to the specified handler type
+description: MessageHandler Filters property. Gets the filters list that are corresponding to the specified handler type
 type: docs
 weight: 10
 url: /net/aspose.html.net/messagehandler/filters/

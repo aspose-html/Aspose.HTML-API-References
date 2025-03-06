@@ -1,7 +1,7 @@
 ---
 title: YamlMappingSyntaxNode.Keys
 second_title: Aspose.HTML for .NET API Reference
-description: YamlMappingSyntaxNode property. Get all Keys
+description: YamlMappingSyntaxNode Keys property. Get all Keys
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/keys/

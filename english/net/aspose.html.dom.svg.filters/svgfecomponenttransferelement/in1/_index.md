@@ -1,7 +1,7 @@
 ---
 title: SVGFEComponentTransferElement.In1
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEComponentTransferElement property. Corresponds to attribute in on the given feComponentTransfer element
+description: SVGFEComponentTransferElement In1 property. Corresponds to attribute in on the given feComponentTransfer element
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.filters/svgfecomponenttransferelement/in1/

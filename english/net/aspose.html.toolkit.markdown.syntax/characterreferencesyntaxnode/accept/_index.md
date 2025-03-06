@@ -1,7 +1,7 @@
 ---
 title: CharacterReferenceSyntaxNode.Accept
 second_title: Aspose.HTML for .NET API Reference
-description: CharacterReferenceSyntaxNode method. Defines the interface for accept visitor
+description: CharacterReferenceSyntaxNode Accept method. Defines the interface for accept visitor
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/accept/

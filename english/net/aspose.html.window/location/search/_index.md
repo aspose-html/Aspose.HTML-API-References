@@ -1,7 +1,7 @@
 ---
 title: Location.Search
 second_title: Aspose.HTML for .NET API Reference
-description: Location property. 
+description: Location Search property. 
 type: docs
 weight: 90
 url: /net/aspose.html.window/location/search/

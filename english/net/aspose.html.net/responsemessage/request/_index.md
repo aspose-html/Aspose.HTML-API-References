@@ -1,7 +1,7 @@
 ---
 title: ResponseMessage.Request
 second_title: Aspose.HTML for .NET API Reference
-description: ResponseMessage property. Gets or sets the associated request
+description: ResponseMessage Request property. Gets or sets the associated request
 type: docs
 weight: 60
 url: /net/aspose.html.net/responsemessage/request/

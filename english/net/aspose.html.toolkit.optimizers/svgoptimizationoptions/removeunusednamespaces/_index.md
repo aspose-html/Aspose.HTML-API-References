@@ -1,7 +1,7 @@
 ---
 title: SVGOptimizationOptions.RemoveUnusedNamespaces
 second_title: Aspose.HTML for .NET API Reference
-description: SVGOptimizationOptions property. Gets or sets the option to remove the declaration of unused namespaces from the SVG element that are not used in elements or attributes. It is true by default
+description: SVGOptimizationOptions RemoveUnusedNamespaces property. Gets or sets the option to remove the declaration of unused namespaces from the SVG element that are not used in elements or attributes. It is true by default
 type: docs
 weight: 130
 url: /net/aspose.html.toolkit.optimizers/svgoptimizationoptions/removeunusednamespaces/

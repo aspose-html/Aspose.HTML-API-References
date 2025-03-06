@@ -1,7 +1,7 @@
 ---
 title: Document.OnWaiting
 second_title: Aspose.HTML for .NET API Reference
-description: Document event. Gets or sets event handler for OnWaiting event
+description: Document OnWaiting event. Gets or sets event handler for OnWaiting event
 type: docs
 weight: 780
 url: /net/aspose.html.dom/document/onwaiting/

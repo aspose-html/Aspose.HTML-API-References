@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegArcAbs.X
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathSegArcAbs property. The absolute X coordinate for the end point of this path segment
+description: SVGPathSegArcAbs X property. The absolute X coordinate for the end point of this path segment
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg.paths/svgpathsegarcabs/x/

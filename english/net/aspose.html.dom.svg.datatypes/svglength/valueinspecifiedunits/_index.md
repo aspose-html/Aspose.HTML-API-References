@@ -1,7 +1,7 @@
 ---
 title: SVGLength.ValueInSpecifiedUnits
 second_title: Aspose.HTML for .NET API Reference
-description: SVGLength property. The value as a floating point value in the units expressed by unitType. Setting this attribute will cause value and valueAsString to be updated automatically to reflect this setting
+description: SVGLength ValueInSpecifiedUnits property. The value as a floating point value in the units expressed by unitType. Setting this attribute will cause value and valueAsString to be updated automatically to reflect this setting
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.datatypes/svglength/valueinspecifiedunits/

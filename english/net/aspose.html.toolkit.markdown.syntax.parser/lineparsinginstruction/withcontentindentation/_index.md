@@ -1,7 +1,7 @@
 ---
 title: LineParsingInstruction.WithContentIndentation
 second_title: Aspose.HTML for .NET API Reference
-description: LineParsingInstruction method. Defines the interface for get LineParsingInstruction
+description: LineParsingInstruction WithContentIndentation method. Defines the interface for get LineParsingInstruction
 type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/withcontentindentation/

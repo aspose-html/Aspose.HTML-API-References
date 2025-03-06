@@ -1,7 +1,7 @@
 ---
 title: CSSPrimitiveValue.CSS_DIMENSION
 second_title: Aspose.HTML for .NET API Reference
-description: CSSPrimitiveValue field. The value is a number with an unknown dimension. The value can be obtained by using the getFloatValue method
+description: CSSPrimitiveValue CSS_DIMENSION field. The value is a number with an unknown dimension. The value can be obtained by using the getFloatValue method
 type: docs
 weight: 160
 url: /net/aspose.html.dom.css/cssprimitivevalue/css_dimension/

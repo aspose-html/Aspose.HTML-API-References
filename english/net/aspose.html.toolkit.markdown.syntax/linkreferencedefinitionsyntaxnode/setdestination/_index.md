@@ -1,7 +1,7 @@
 ---
 title: LinkReferenceDefinitionSyntaxNode.SetDestination
 second_title: Aspose.HTML for .NET API Reference
-description: LinkReferenceDefinitionSyntaxNode method. Sets the link reference destination
+description: LinkReferenceDefinitionSyntaxNode SetDestination method. Sets the link reference destination
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/setdestination/

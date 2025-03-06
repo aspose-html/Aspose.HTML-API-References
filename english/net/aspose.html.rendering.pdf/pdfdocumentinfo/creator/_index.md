@@ -1,7 +1,7 @@
 ---
 title: PdfDocumentInfo.Creator
 second_title: Aspose.HTML for .NET API Reference
-description: PdfDocumentInfo property. The name of the product that created the original document
+description: PdfDocumentInfo Creator property. The name of the product that created the original document
 type: docs
 weight: 30
 url: /net/aspose.html.rendering.pdf/pdfdocumentinfo/creator/

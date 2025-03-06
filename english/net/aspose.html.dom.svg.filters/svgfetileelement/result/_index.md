@@ -1,7 +1,7 @@
 ---
 title: SVGFETileElement.Result
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFETileElement property. Corresponds to attribute result on the given filter element
+description: SVGFETileElement Result property. Corresponds to attribute result on the given filter element
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.filters/svgfetileelement/result/

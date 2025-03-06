@@ -22,7 +22,7 @@ public SVGDocument()
 
 ---
 
-## SVGDocument(Configuration) {#constructor_1}
+## SVGDocument(*[Configuration](../../../aspose.html/configuration/)*) {#constructor_1}
 
 Initializes a new instance of the [`SVGDocument`](../) class.
 
@@ -43,7 +43,7 @@ public SVGDocument(Configuration configuration)
 
 ---
 
-## SVGDocument(string) {#constructor_10}
+## SVGDocument(*string*) {#constructor_10}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/).
 
@@ -63,7 +63,7 @@ public SVGDocument(string address)
 
 ---
 
-## SVGDocument(Url) {#constructor_4}
+## SVGDocument(*[Url](../../../aspose.html/url/)*) {#constructor_4}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/).
 
@@ -84,7 +84,7 @@ public SVGDocument(Url url)
 
 ---
 
-## SVGDocument(string, Configuration) {#constructor_11}
+## SVGDocument(*string, [Configuration](../../../aspose.html/configuration/)*) {#constructor_11}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/).
 
@@ -106,7 +106,7 @@ public SVGDocument(string address, Configuration configuration)
 
 ---
 
-## SVGDocument(Url, Configuration) {#constructor_5}
+## SVGDocument(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/)*) {#constructor_5}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/).
 
@@ -129,7 +129,7 @@ public SVGDocument(Url url, Configuration configuration)
 
 ---
 
-## SVGDocument(Stream, string) {#constructor_8}
+## SVGDocument(*Stream, string*) {#constructor_8}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/). Document loading starts from the current position in the stream.
 
@@ -156,7 +156,7 @@ public SVGDocument(Stream content, string baseUri)
 
 ---
 
-## SVGDocument(Stream, string, Configuration) {#constructor_9}
+## SVGDocument(*Stream, string, [Configuration](../../../aspose.html/configuration/)*) {#constructor_9}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/). Document loading starts from the current position in the stream.
 
@@ -185,7 +185,7 @@ public SVGDocument(Stream content, string baseUri, Configuration configuration)
 
 ---
 
-## SVGDocument(Stream, Url) {#constructor_6}
+## SVGDocument(*Stream, [Url](../../../aspose.html/url/)*) {#constructor_6}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/). Document loading starts from the current position in the stream.
 
@@ -213,7 +213,7 @@ public SVGDocument(Stream content, Url baseUri)
 
 ---
 
-## SVGDocument(Stream, Url, Configuration) {#constructor_7}
+## SVGDocument(*Stream, [Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/)*) {#constructor_7}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/). Document loading starts from the current position in the stream.
 
@@ -243,7 +243,7 @@ public SVGDocument(Stream content, Url baseUri, Configuration configuration)
 
 ---
 
-## SVGDocument(string, string) {#constructor_14}
+## SVGDocument(*string, string*) {#constructor_14}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/).
 
@@ -270,7 +270,7 @@ public SVGDocument(string content, string baseUri)
 
 ---
 
-## SVGDocument(string, string, Configuration) {#constructor_15}
+## SVGDocument(*string, string, [Configuration](../../../aspose.html/configuration/)*) {#constructor_15}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/).
 
@@ -299,7 +299,7 @@ public SVGDocument(string content, string baseUri, Configuration configuration)
 
 ---
 
-## SVGDocument(string, Url) {#constructor_12}
+## SVGDocument(*string, [Url](../../../aspose.html/url/)*) {#constructor_12}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/).
 
@@ -327,7 +327,7 @@ public SVGDocument(string content, Url baseUri)
 
 ---
 
-## SVGDocument(string, Url, Configuration) {#constructor_13}
+## SVGDocument(*string, [Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/)*) {#constructor_13}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/).
 
@@ -357,7 +357,7 @@ public SVGDocument(string content, Url baseUri, Configuration configuration)
 
 ---
 
-## SVGDocument(RequestMessage) {#constructor_2}
+## SVGDocument(*[RequestMessage](../../../aspose.html.net/requestmessage/)*) {#constructor_2}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/).
 
@@ -378,7 +378,7 @@ public SVGDocument(RequestMessage request)
 
 ---
 
-## SVGDocument(RequestMessage, Configuration) {#constructor_3}
+## SVGDocument(*[RequestMessage](../../../aspose.html.net/requestmessage/), [Configuration](../../../aspose.html/configuration/)*) {#constructor_3}
 
 Initializes a new instance of the [`SVGDocument`](../) class. Constructor works synchronously, it waits for loading of all the external resources (images, scripts, etc.). To load document asynchronously use method [`Navigate`](../../../aspose.html.dom/document/navigate/) or its overloads. Or you can disable loading of some external resources by setting appropriate flags in [`Security`](../../../aspose.html.dom/ibrowsingcontext/security/).
 

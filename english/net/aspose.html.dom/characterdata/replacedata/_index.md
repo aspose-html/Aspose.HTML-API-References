@@ -1,7 +1,7 @@
 ---
 title: CharacterData.ReplaceData
 second_title: Aspose.HTML for .NET API Reference
-description: CharacterData method. Replace the characters starting at the specified 16-bit unit offset with the specified string
+description: CharacterData ReplaceData method. Replace the characters starting at the specified 16-bit unit offset with the specified string
 type: docs
 weight: 60
 url: /net/aspose.html.dom/characterdata/replacedata/

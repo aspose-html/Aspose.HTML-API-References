@@ -1,12 +1,12 @@
 ---
 title: SVGOptimizer.Optimize
 second_title: Aspose.HTML for .NET API Reference
-description: SVGOptimizer method. Optimizes SVGDocument by applying a set of default optimization options
+description: SVGOptimizer Optimize method. Optimizes SVGDocument by applying a set of default optimization options
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.optimizers/svgoptimizer/optimize/
 ---
-## Optimize(SVGDocument) {#optimize}
+## Optimize(*[SVGDocument](../../../aspose.html.dom.svg/svgdocument/)*) {#optimize}
 
 Optimizes [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) by applying a set of default optimization options.
 
@@ -27,7 +27,7 @@ public static void Optimize(SVGDocument document)
 
 ---
 
-## Optimize(SVGDocument, SVGOptimizationOptions) {#optimize_1}
+## Optimize(*[SVGDocument](../../../aspose.html.dom.svg/svgdocument/), [SVGOptimizationOptions](../../svgoptimizationoptions/)*) {#optimize_1}
 
 Optimizes [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) by applying a set of specified optimization options.
 

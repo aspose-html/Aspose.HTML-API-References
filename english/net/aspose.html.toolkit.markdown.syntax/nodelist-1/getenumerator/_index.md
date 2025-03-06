@@ -1,7 +1,7 @@
 ---
 title: NodeList-1.GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: NodeList method. Gets the nodes in the collection
+description: NodeList GetEnumerator method. Gets the nodes in the collection
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/nodelist-1/getenumerator/

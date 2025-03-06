@@ -1,7 +1,7 @@
 ---
 title: IBlockParsingContext.Source
 second_title: Aspose.HTML for .NET API Reference
-description: IBlockParsingContext property. Get the Source
+description: IBlockParsingContext Source property. Get the Source
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/source/

@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.PageBreakInside
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. Values for these properties have the following meanings
+description: ICSS2Properties PageBreakInside property. Values for these properties have the following meanings
 type: docs
 weight: 880
 url: /net/aspose.html.dom.css/icss2properties/pagebreakinside/

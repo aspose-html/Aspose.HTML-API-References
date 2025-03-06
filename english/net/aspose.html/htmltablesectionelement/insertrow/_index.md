@@ -1,7 +1,7 @@
 ---
 title: HTMLTableSectionElement.InsertRow
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLTableSectionElement method. Insert a row into this section. The new row is inserted immediately before the current indexth row in this section. If index is -1 or equal to the number of rows in this section the new row is appended
+description: HTMLTableSectionElement InsertRow method. Insert a row into this section. The new row is inserted immediately before the current indexth row in this section. If index is -1 or equal to the number of rows in this section the new row is appended
 type: docs
 weight: 70
 url: /net/aspose.html/htmltablesectionelement/insertrow/

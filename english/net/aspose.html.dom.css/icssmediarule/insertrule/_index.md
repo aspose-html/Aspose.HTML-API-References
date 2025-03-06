@@ -1,7 +1,7 @@
 ---
 title: ICSSMediaRule.InsertRule
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSMediaRule method. The insertRule method of the CSSGroupingRule interface adds a new CSS rule to a list of CSS rules
+description: ICSSMediaRule InsertRule method. The insertRule method of the CSSGroupingRule interface adds a new CSS rule to a list of CSS rules
 type: docs
 weight: 40
 url: /net/aspose.html.dom.css/icssmediarule/insertrule/

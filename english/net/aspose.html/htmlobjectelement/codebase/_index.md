@@ -1,7 +1,7 @@
 ---
 title: HTMLObjectElement.CodeBase
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLObjectElement property. Base URI IETF RFC 2396 for classid data and archive attributes. See the codebase attribute definition in HTML 4.01
+description: HTMLObjectElement CodeBase property. Base URI IETF RFC 2396 for classid data and archive attributes. See the codebase attribute definition in HTML 4.01
 type: docs
 weight: 60
 url: /net/aspose.html/htmlobjectelement/codebase/

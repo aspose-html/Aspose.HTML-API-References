@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxNode.AppendChild
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxNode method. Append child node
+description: MarkdownSyntaxNode AppendChild method. Append child node
 type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/appendchild/

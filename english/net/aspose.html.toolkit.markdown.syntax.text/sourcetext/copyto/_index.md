@@ -1,7 +1,7 @@
 ---
 title: SourceText.CopyTo
 second_title: Aspose.HTML for .NET API Reference
-description: SourceText method. Define the interface for get SourceText from array of the source
+description: SourceText CopyTo method. Define the interface for get SourceText from array of the source
 type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetext/copyto/

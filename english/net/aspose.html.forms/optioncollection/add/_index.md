@@ -1,7 +1,7 @@
 ---
 title: OptionCollection.Add
 second_title: Aspose.HTML for .NET API Reference
-description: OptionCollection method. Add new option
+description: OptionCollection Add method. Add new option
 type: docs
 weight: 30
 url: /net/aspose.html.forms/optioncollection/add/

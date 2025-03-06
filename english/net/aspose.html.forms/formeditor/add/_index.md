@@ -1,7 +1,7 @@
 ---
 title: FormEditor.Add
 second_title: Aspose.HTML for .NET API Reference
-description: FormEditor method. Creates a new HTMLElement and adds it to the end of the form
+description: FormEditor Add method. Creates a new HTMLElement and adds it to the end of the form
 type: docs
 weight: 80
 url: /net/aspose.html.forms/formeditor/add/

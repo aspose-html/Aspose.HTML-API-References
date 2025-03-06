@@ -1,7 +1,7 @@
 ---
 title: SyntaxNodeCollection-1.Add
 second_title: Aspose.HTML for .NET API Reference
-description: SyntaxNodeCollection method. Adds the given item to the collection
+description: SyntaxNodeCollection Add method. Adds the given item to the collection
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/add/

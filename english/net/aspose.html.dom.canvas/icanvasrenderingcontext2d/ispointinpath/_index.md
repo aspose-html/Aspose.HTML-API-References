@@ -1,12 +1,12 @@
 ---
 title: ICanvasRenderingContext2D.IsPointInPath
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D method. Reports whether or not the specified point is contained in the current path
+description: ICanvasRenderingContext2D IsPointInPath method. Reports whether or not the specified point is contained in the current path
 type: docs
 weight: 260
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/ispointinpath/
 ---
-## IsPointInPath(double, double) {#ispointinpath_2}
+## IsPointInPath(*double, double*) {#ispointinpath_2}
 
 Reports whether or not the specified point is contained in the current path.
 
@@ -31,7 +31,7 @@ Returns true if the point is inside the area contained by the filling of a path,
 
 ---
 
-## IsPointInPath(double, double, CanvasFillRule) {#ispointinpath_3}
+## IsPointInPath(*double, double, [CanvasFillRule](../../canvasfillrule/)*) {#ispointinpath_3}
 
 Reports whether or not the specified point is contained in the current path.
 
@@ -58,7 +58,7 @@ Returns true if the point is inside the area contained by the filling of a path,
 
 ---
 
-## IsPointInPath(Path2D, double, double) {#ispointinpath}
+## IsPointInPath(*[Path2D](../../path2d/), double, double*) {#ispointinpath}
 
 Reports whether or not the specified point is contained in the current path.
 
@@ -85,7 +85,7 @@ Returns true if the point is inside the area contained by the filling of a path,
 
 ---
 
-## IsPointInPath(Path2D, double, double, CanvasFillRule) {#ispointinpath_1}
+## IsPointInPath(*[Path2D](../../path2d/), double, double, [CanvasFillRule](../../canvasfillrule/)*) {#ispointinpath_1}
 
 Reports whether or not the specified point is contained in the current path.
 

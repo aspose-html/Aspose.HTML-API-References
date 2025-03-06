@@ -1,7 +1,7 @@
 ---
 title: IDOMImplementation.HasFeature
 second_title: Aspose.HTML for .NET API Reference
-description: IDOMImplementation method. Test if the DOM implementation implements a specific feature and version as specified in DOM Features
+description: IDOMImplementation HasFeature method. Test if the DOM implementation implements a specific feature and version as specified in DOM Features
 type: docs
 weight: 40
 url: /net/aspose.html.dom/idomimplementation/hasfeature/

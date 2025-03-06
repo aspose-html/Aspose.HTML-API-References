@@ -1,7 +1,7 @@
 ---
 title: Document.OnStalled
 second_title: Aspose.HTML for .NET API Reference
-description: Document event. Gets or sets event handler for OnStalled event
+description: Document OnStalled event. Gets or sets event handler for OnStalled event
 type: docs
 weight: 720
 url: /net/aspose.html.dom/document/onstalled/

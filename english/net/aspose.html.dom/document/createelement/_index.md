@@ -1,7 +1,7 @@
 ---
 title: Document.CreateElement
 second_title: Aspose.HTML for .NET API Reference
-description: Document method. In an HTML document the document.createElement method creates the HTML element specified by tagName or an HTMLUnknownElement if tagName isnt recognized
+description: Document CreateElement method. In an HTML document the document.createElement method creates the HTML element specified by tagName or an HTMLUnknownElement if tagName isnt recognized
 type: docs
 weight: 850
 url: /net/aspose.html.dom/document/createelement/

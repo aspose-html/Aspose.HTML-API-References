@@ -1,7 +1,7 @@
 ---
 title: UnorderedListSyntaxNode.GetMarker
 second_title: Aspose.HTML for .NET API Reference
-description: UnorderedListSyntaxNode method. Defines the interface to get of the marker
+description: UnorderedListSyntaxNode GetMarker method. Defines the interface to get of the marker
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/unorderedlistsyntaxnode/getmarker/

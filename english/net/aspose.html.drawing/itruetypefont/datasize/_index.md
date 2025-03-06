@@ -1,7 +1,7 @@
 ---
 title: ITrueTypeFont.DataSize
 second_title: Aspose.HTML for .NET API Reference
-description: ITrueTypeFont property. Returns the size of the font data in bytes
+description: ITrueTypeFont DataSize property. Returns the size of the font data in bytes
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/itruetypefont/datasize/

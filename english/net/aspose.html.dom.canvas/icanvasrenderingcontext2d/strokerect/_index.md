@@ -1,7 +1,7 @@
 ---
 title: ICanvasRenderingContext2D.StrokeRect
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D method. Paints a rectangle which has a starting point at x y and has a w width and an h height onto the canvas using the current stroke style
+description: ICanvasRenderingContext2D StrokeRect method. Paints a rectangle which has a starting point at x y and has a w width and an h height onto the canvas using the current stroke style
 type: docs
 weight: 380
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/strokerect/

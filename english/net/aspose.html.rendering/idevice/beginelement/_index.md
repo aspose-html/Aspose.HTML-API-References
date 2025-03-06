@@ -1,7 +1,7 @@
 ---
 title: IDevice.BeginElement
 second_title: Aspose.HTML for .NET API Reference
-description: IDevice method. Begins rendering of the element
+description: IDevice BeginElement method. Begins rendering of the element
 type: docs
 weight: 50
 url: /net/aspose.html.rendering/idevice/beginelement/

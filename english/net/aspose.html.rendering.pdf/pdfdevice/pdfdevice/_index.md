@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.rendering.pdf/pdfdevice/pdfdevice/
 ---
-## PdfDevice(ICreateStreamProvider) {#constructor}
+## PdfDevice(*[ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#constructor}
 
 Initializes a new instance of the [`PdfDevice`](../) class.
 
@@ -27,7 +27,7 @@ public PdfDevice(ICreateStreamProvider streamProvider)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#constructor_1}
 
 Initializes a new instance of the [`PdfDevice`](../) class by rendering options and stream provider.
 
@@ -50,7 +50,7 @@ public PdfDevice(PdfRenderingOptions options, ICreateStreamProvider streamProvid
 
 ---
 
-## PdfDevice(string) {#constructor_5}
+## PdfDevice(*string*) {#constructor_5}
 
 Initializes a new instance of the [`PdfDevice`](../) class.
 
@@ -70,7 +70,7 @@ public PdfDevice(string file)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, string) {#constructor_3}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), string*) {#constructor_3}
 
 Initializes a new instance of the [`PdfDevice`](../) class by rendering options and output file name.
 
@@ -92,7 +92,7 @@ public PdfDevice(PdfRenderingOptions options, string file)
 
 ---
 
-## PdfDevice(Stream) {#constructor_4}
+## PdfDevice(*Stream*) {#constructor_4}
 
 Initializes a new instance of the [`PdfDevice`](../) class.
 
@@ -112,7 +112,7 @@ public PdfDevice(Stream stream)
 
 ---
 
-## PdfDevice(PdfRenderingOptions, Stream) {#constructor_2}
+## PdfDevice(*[PdfRenderingOptions](../../pdfrenderingoptions/), Stream*) {#constructor_2}
 
 Initializes a new instance of the [`PdfDevice`](../) class by rendering options and output stream.
 

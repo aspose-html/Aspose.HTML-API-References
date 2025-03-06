@@ -1,7 +1,7 @@
 ---
 title: IMarkdownParserBuilder.UseInlineParser
 second_title: Aspose.HTML for .NET API Reference
-description: IMarkdownParserBuilder method. Defines the UseInlineParser method
+description: IMarkdownParserBuilder UseInlineParser method. Defines the UseInlineParser method
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useinlineparser/

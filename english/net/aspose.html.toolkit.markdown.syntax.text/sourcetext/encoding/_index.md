@@ -1,7 +1,7 @@
 ---
 title: SourceText.Encoding
 second_title: Aspose.HTML for .NET API Reference
-description: SourceText property. Get encoding
+description: SourceText Encoding property. Get encoding
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetext/encoding/

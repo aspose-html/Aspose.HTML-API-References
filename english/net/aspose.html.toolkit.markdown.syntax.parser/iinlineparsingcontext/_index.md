@@ -27,8 +27,8 @@ public interface IInlineParsingContext
 
 | Name | Description |
 | --- | --- |
-| [Push](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/push/#push_1)(DelimiterRun) | Defines the Push method. |
-| [Push](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/push/#push)(InlineSyntaxNode) | Defines the Push method. |
+| [Push](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/push/#push_1)(*[DelimiterRun](../delimiterrun/)*) | Defines the Push method. |
+| [Push](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/push/#push)(*[InlineSyntaxNode](../../aspose.html.toolkit.markdown.syntax/inlinesyntaxnode/)*) | Defines the Push method. |
 
 ### See Also
 

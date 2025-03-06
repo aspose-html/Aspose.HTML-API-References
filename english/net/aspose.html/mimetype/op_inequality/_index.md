@@ -1,7 +1,7 @@
 ---
 title: MimeType.op_Inequality
 second_title: Aspose.HTML for .NET API Reference
-description: MimeType method. 
+description: MimeType op_Inequality method. 
 type: docs
 weight: 100
 url: /net/aspose.html/mimetype/op_inequality/

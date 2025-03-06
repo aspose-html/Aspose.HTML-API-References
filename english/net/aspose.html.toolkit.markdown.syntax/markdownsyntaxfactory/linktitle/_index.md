@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.LinkTitle
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates LinkTitleSyntaxNode
+description: MarkdownSyntaxFactory LinkTitle method. Creates LinkTitleSyntaxNode
 type: docs
 weight: 270
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linktitle/
@@ -27,7 +27,7 @@ The [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/) object.
 
 ---
 
-## LinkTitle(MarkdownSyntaxToken, MarkdownSyntaxToken) {#linktitle_1}
+## LinkTitle(*[MarkdownSyntaxToken](../../markdownsyntaxtoken/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/)*) {#linktitle_1}
 
 Creates [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/).
 
@@ -54,7 +54,7 @@ The [`LinkTitleSyntaxNode`](../../linktitlesyntaxnode/) object.
 
 ---
 
-## LinkTitle(string) {#linktitle_2}
+## LinkTitle(*string*) {#linktitle_2}
 
 Creates LinkTitleSyntaxNode object from a string.
 

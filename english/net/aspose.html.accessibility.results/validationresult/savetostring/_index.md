@@ -1,7 +1,7 @@
 ---
 title: ValidationResult.SaveToString
 second_title: Aspose.HTML for .NET API Reference
-description: ValidationResult method. Save validation results to string
+description: ValidationResult SaveToString method. Save validation results to string
 type: docs
 weight: 40
 url: /net/aspose.html.accessibility.results/validationresult/savetostring/

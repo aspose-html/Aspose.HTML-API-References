@@ -1,7 +1,7 @@
 ---
 title: INetworkOperationContext.Request
 second_title: Aspose.HTML for .NET API Reference
-description: INetworkOperationContext property. Gets or sets the request message
+description: INetworkOperationContext Request property. Gets or sets the request message
 type: docs
 weight: 10
 url: /net/aspose.html.net/inetworkoperationcontext/request/

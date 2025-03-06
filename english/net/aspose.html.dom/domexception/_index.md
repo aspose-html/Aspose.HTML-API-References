@@ -18,8 +18,8 @@ public class DOMException : PlatformException
 
 | Name | Description |
 | --- | --- |
-| [DOMException](domexception/#constructor)(string) | Initializes a new instance of the `DOMException` class. |
-| [DOMException](domexception/#constructor_1)(string, string) | Initializes a new instance of the `DOMException` class. |
+| [DOMException](domexception/#constructor)(*string*) | Initializes a new instance of the `DOMException` class. |
+| [DOMException](domexception/#constructor_1)(*string, string*) | Initializes a new instance of the `DOMException` class. |
 
 ## Properties
 

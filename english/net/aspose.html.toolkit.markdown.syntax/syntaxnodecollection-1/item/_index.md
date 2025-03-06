@@ -1,7 +1,7 @@
 ---
 title: SyntaxNodeCollection-1.Item
 second_title: Aspose.HTML for .NET API Reference
-description: SyntaxNodeCollection property. Gets or sets the value at the given index
+description: SyntaxNodeCollection Item property. Gets or sets the value at the given index
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/item/

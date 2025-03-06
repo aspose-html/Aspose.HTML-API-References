@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnProgress
 second_title: Aspose.HTML for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnProgress event
+description: IGlobalEventHandlers OnProgress event. Gets or sets event handler for OnProgress event
 type: docs
 weight: 350
 url: /net/aspose.html.dom/iglobaleventhandlers/onprogress/

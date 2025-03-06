@@ -1,7 +1,7 @@
 ---
 title: FencedCodeBlockSyntaxNode.GetInfo
 second_title: Aspose.HTML for .NET API Reference
-description: FencedCodeBlockSyntaxNode method. Defines the interface for get Info
+description: FencedCodeBlockSyntaxNode GetInfo method. Defines the interface for get Info
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode/getinfo/

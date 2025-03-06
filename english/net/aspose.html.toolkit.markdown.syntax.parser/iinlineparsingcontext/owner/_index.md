@@ -1,7 +1,7 @@
 ---
 title: IInlineParsingContext.Owner
 second_title: Aspose.HTML for .NET API Reference
-description: IInlineParsingContext property. Get the Owner
+description: IInlineParsingContext Owner property. Get the Owner
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/owner/

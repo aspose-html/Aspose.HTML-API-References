@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html/uint16array/uint16array/
 ---
-## Uint16Array(int) {#constructor_3}
+## Uint16Array(*int*) {#constructor_3}
 
 Initializes a new instance of the [`Uint16Array`](../) class.
 
@@ -26,7 +26,7 @@ public Uint16Array(int length)
 
 ---
 
-## Uint16Array(ushort[]) {#constructor_4}
+## Uint16Array(*ushort[]*) {#constructor_4}
 
 Initializes a new instance of the [`Uint16Array`](../) class.
 
@@ -46,7 +46,7 @@ public Uint16Array(ushort[] data)
 
 ---
 
-## Uint16Array(ArrayBuffer) {#constructor}
+## Uint16Array(*[ArrayBuffer](../../arraybuffer/)*) {#constructor}
 
 Initializes a new instance of the [`Uint16Array`](../) class.
 
@@ -67,7 +67,7 @@ public Uint16Array(ArrayBuffer buffer)
 
 ---
 
-## Uint16Array(ArrayBuffer, int) {#constructor_1}
+## Uint16Array(*[ArrayBuffer](../../arraybuffer/), int*) {#constructor_1}
 
 Initializes a new instance of the [`Uint16Array`](../) class.
 
@@ -89,7 +89,7 @@ public Uint16Array(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Uint16Array(ArrayBuffer, int, int) {#constructor_2}
+## Uint16Array(*[ArrayBuffer](../../arraybuffer/), int, int*) {#constructor_2}
 
 Initializes a new instance of the [`Uint16Array`](../) class.
 

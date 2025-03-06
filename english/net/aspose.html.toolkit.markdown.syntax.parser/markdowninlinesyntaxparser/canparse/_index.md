@@ -1,7 +1,7 @@
 ---
 title: MarkdownInlineSyntaxParser.CanParse
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownInlineSyntaxParser method. Get the can parse boolean value
+description: MarkdownInlineSyntaxParser CanParse method. Get the can parse boolean value
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/canparse/

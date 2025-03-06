@@ -1,7 +1,7 @@
 ---
 title: Uint8ClampedArray.Item
 second_title: Aspose.HTML for .NET API Reference
-description: Uint8ClampedArray property. Gets or sets the Byte at the specified index
+description: Uint8ClampedArray Item property. Gets or sets the Byte at the specified index
 type: docs
 weight: 20
 url: /net/aspose.html/uint8clampedarray/item/

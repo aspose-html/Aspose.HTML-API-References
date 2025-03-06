@@ -1,7 +1,7 @@
 ---
 title: ResponseMessage.Headers
 second_title: Aspose.HTML for .NET API Reference
-description: ResponseMessage property. Gets the headers
+description: ResponseMessage Headers property. Gets the headers
 type: docs
 weight: 40
 url: /net/aspose.html.net/responsemessage/headers/

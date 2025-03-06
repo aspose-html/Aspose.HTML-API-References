@@ -1,7 +1,7 @@
 ---
 title: TreeWalker.PreviousSibling
 second_title: Aspose.HTML for .NET API Reference
-description: TreeWalker method. Defines the interface for get previous sibling node
+description: TreeWalker PreviousSibling method. Defines the interface for get previous sibling node
 type: docs
 weight: 80
 url: /net/aspose.html.toolkit.markdown.syntax/treewalker/previoussibling/

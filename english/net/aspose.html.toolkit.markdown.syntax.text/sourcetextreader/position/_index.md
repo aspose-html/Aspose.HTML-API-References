@@ -1,7 +1,7 @@
 ---
 title: SourceTextReader.Position
 second_title: Aspose.HTML for .NET API Reference
-description: SourceTextReader property. Get the position
+description: SourceTextReader Position property. Get the position
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/position/

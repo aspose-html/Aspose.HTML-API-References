@@ -25,7 +25,7 @@ public abstract class CSSValue : DOMObject
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.html.dom.css/cssvalue/equals/)(object) | Determines whether the specified Object is equal to this instance. |
+| override [Equals](../../aspose.html.dom.css/cssvalue/equals/)(*object*) | Determines whether the specified Object is equal to this instance. |
 | override [GetHashCode](../../aspose.html.dom.css/cssvalue/gethashcode/)() | Returns a hash code for this instance. |
 | override [GetPlatformType](../../aspose.html.dom.css/cssvalue/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
 | override [ToString](../../aspose.html.dom.css/cssvalue/tostring/)() | Returns a String that represents this instance. |

@@ -1,7 +1,7 @@
 ---
 title: ResponseMessage.Cookies
 second_title: Aspose.HTML for .NET API Reference
-description: ResponseMessage property. Gets or sets the cookie collection
+description: ResponseMessage Cookies property. Gets or sets the cookie collection
 type: docs
 weight: 30
 url: /net/aspose.html.net/responsemessage/cookies/

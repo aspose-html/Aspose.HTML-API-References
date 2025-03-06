@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxNode.ReplaceChild
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxNode method. Replace the child node
+description: MarkdownSyntaxNode ReplaceChild method. Replace the child node
 type: docs
 weight: 140
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/replacechild/

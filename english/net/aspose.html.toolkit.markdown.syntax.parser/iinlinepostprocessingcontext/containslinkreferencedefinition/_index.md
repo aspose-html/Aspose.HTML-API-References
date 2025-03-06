@@ -1,7 +1,7 @@
 ---
 title: IInlinePostProcessingContext.ContainsLinkReferenceDefinition
 second_title: Aspose.HTML for .NET API Reference
-description: IInlinePostProcessingContext method. Defines the ContainsLinkReferenceDefinition
+description: IInlinePostProcessingContext ContainsLinkReferenceDefinition method. Defines the ContainsLinkReferenceDefinition
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/containslinkreferencedefinition/

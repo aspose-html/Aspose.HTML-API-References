@@ -1,7 +1,7 @@
 ---
 title: SubmissionResult.Content
 second_title: Aspose.HTML for .NET API Reference
-description: SubmissionResult property. Gets the content of the response message
+description: SubmissionResult Content property. Gets the content of the response message
 type: docs
 weight: 10
 url: /net/aspose.html.forms/submissionresult/content/

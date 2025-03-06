@@ -1,7 +1,7 @@
 ---
 title: Document.OnSelect
 second_title: Aspose.HTML for .NET API Reference
-description: Document event. Gets or sets event handler for OnSelect event
+description: Document OnSelect event. Gets or sets event handler for OnSelect event
 type: docs
 weight: 700
 url: /net/aspose.html.dom/document/onselect/

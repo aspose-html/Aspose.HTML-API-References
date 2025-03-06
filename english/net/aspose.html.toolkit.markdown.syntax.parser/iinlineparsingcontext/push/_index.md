@@ -1,12 +1,12 @@
 ---
 title: IInlineParsingContext.Push
 second_title: Aspose.HTML for .NET API Reference
-description: IInlineParsingContext method. Defines the Push method
+description: IInlineParsingContext Push method. Defines the Push method
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/push/
 ---
-## Push(InlineSyntaxNode) {#push}
+## Push(*[InlineSyntaxNode](../../../aspose.html.toolkit.markdown.syntax/inlinesyntaxnode/)*) {#push}
 
 Defines the Push method.
 
@@ -27,7 +27,7 @@ public void Push(InlineSyntaxNode syntax)
 
 ---
 
-## Push(DelimiterRun) {#push_1}
+## Push(*[DelimiterRun](../../delimiterrun/)*) {#push_1}
 
 Defines the Push method.
 

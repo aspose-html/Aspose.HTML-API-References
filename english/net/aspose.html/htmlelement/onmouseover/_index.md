@@ -1,7 +1,7 @@
 ---
 title: HTMLElement.OnMouseOver
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLElement event. Gets or sets event handler for OnMouseOver event
+description: HTMLElement OnMouseOver event. Gets or sets event handler for OnMouseOver event
 type: docs
 weight: 350
 url: /net/aspose.html/htmlelement/onmouseover/

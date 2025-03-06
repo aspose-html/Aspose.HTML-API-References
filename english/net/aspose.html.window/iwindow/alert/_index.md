@@ -1,7 +1,7 @@
 ---
 title: IWindow.Alert
 second_title: Aspose.HTML for .NET API Reference
-description: IWindow method. Displays a modal alert with the given message and waits for the user to dismiss it
+description: IWindow Alert method. Displays a modal alert with the given message and waits for the user to dismiss it
 type: docs
 weight: 110
 url: /net/aspose.html.window/iwindow/alert/

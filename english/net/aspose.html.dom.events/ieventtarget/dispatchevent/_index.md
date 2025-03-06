@@ -1,7 +1,7 @@
 ---
 title: IEventTarget.DispatchEvent
 second_title: Aspose.HTML for .NET API Reference
-description: IEventTarget method. Dispatches an Event at the specified EventTarget synchronously invoking the affected EventListeners in the appropriate order. The normal event processing rules including the capturing and optional bubbling phase also apply to events dispatched manually with dispatchEvent
+description: IEventTarget DispatchEvent method. Dispatches an Event at the specified EventTarget synchronously invoking the affected EventListeners in the appropriate order. The normal event processing rules including the capturing and optional bubbling phase also apply to events dispatched manually with dispatchEvent
 type: docs
 weight: 20
 url: /net/aspose.html.dom.events/ieventtarget/dispatchevent/

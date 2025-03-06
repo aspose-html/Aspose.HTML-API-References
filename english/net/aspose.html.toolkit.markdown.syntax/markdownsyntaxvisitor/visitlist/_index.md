@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxVisitor.VisitList
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit UnorderedListSyntax
+description: MarkdownSyntaxVisitor VisitList method. Defines the interface for visit UnorderedListSyntax
 type: docs
 weight: 170
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitlist/
 ---
-## VisitList(UnorderedListSyntaxNode) {#visitlist_1}
+## VisitList(*[UnorderedListSyntaxNode](../../unorderedlistsyntaxnode/)*) {#visitlist_1}
 
 Defines the interface for visit UnorderedListSyntax.
 
@@ -27,7 +27,7 @@ public virtual void VisitList(UnorderedListSyntaxNode list)
 
 ---
 
-## VisitList(OrderedListSyntaxNode) {#visitlist}
+## VisitList(*[OrderedListSyntaxNode](../../orderedlistsyntaxnode/)*) {#visitlist}
 
 Defines the interface for visit OrderedListSyntax.
 

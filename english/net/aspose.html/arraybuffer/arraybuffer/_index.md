@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html/arraybuffer/arraybuffer/
 ---
-## ArrayBuffer(int) {#constructor_1}
+## ArrayBuffer(*int*) {#constructor_1}
 
 Initializes a new instance of the [`ArrayBuffer`](../) class.
 
@@ -26,7 +26,7 @@ public ArrayBuffer(int length)
 
 ---
 
-## ArrayBuffer(byte[]) {#constructor}
+## ArrayBuffer(*byte[]*) {#constructor}
 
 Initializes a new instance of the [`ArrayBuffer`](../) class.
 

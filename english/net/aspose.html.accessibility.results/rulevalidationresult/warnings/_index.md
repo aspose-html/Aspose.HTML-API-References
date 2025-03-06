@@ -1,7 +1,7 @@
 ---
 title: RuleValidationResult.Warnings
 second_title: Aspose.HTML for .NET API Reference
-description: RuleValidationResult property. Collection of results with Warnings
+description: RuleValidationResult Warnings property. Collection of results with Warnings
 type: docs
 weight: 50
 url: /net/aspose.html.accessibility.results/rulevalidationresult/warnings/

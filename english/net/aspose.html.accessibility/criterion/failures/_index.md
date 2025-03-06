@@ -1,7 +1,7 @@
 ---
 title: Criterion.Failures
 second_title: Aspose.HTML for .NET API Reference
-description: Criterion property. Failures are things that cause accessibility barriers and fail specific success criteria
+description: Criterion Failures property. Failures are things that cause accessibility barriers and fail specific success criteria
 type: docs
 weight: 20
 url: /net/aspose.html.accessibility/criterion/failures/

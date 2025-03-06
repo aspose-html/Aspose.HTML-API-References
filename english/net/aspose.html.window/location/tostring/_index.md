@@ -1,7 +1,7 @@
 ---
 title: Location.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: Location method. 
+description: Location ToString method. 
 type: docs
 weight: 130
 url: /net/aspose.html.window/location/tostring/

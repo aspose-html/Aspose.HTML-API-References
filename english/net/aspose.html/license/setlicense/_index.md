@@ -1,12 +1,12 @@
 ---
 title: License.SetLicense
 second_title: Aspose.HTML for .NET API Reference
-description: License method. Licenses the component
+description: License SetLicense method. Licenses the component
 type: docs
 weight: 20
 url: /net/aspose.html/license/setlicense/
 ---
-## SetLicense(string) {#setlicense_1}
+## SetLicense(*string*) {#setlicense_1}
 
 Licenses the component.
 
@@ -68,7 +68,7 @@ license.setLicense("MyLicense.lic");
 
 ---
 
-## SetLicense(Stream) {#setlicense}
+## SetLicense(*Stream*) {#setlicense}
 
 Licenses the component.
 

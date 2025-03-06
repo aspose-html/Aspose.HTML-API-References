@@ -19,9 +19,9 @@ public class Page
 | Name | Description |
 | --- | --- |
 | [Page](page/#constructor)() | Initializes a new instance of the `Page` class. |
-| [Page](page/#constructor_1)(Margin) | Initializes a new instance of the `Page` class. |
-| [Page](page/#constructor_2)(Size) | Initializes a new instance of the `Page` class. |
-| [Page](page/#constructor_3)(Size, Margin) | Initializes a new instance of the `Page` class. |
+| [Page](page/#constructor_1)(*[Margin](../margin/)*) | Initializes a new instance of the `Page` class. |
+| [Page](page/#constructor_2)(*[Size](../size/)*) | Initializes a new instance of the `Page` class. |
+| [Page](page/#constructor_3)(*[Size](../size/), [Margin](../margin/)*) | Initializes a new instance of the `Page` class. |
 
 ## Properties
 

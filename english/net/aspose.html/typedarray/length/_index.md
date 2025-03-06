@@ -1,7 +1,7 @@
 ---
 title: TypedArray.Length
 second_title: Aspose.HTML for .NET API Reference
-description: TypedArray property. Gets the length of a typed array
+description: TypedArray Length property. Gets the length of a typed array
 type: docs
 weight: 40
 url: /net/aspose.html/typedarray/length/

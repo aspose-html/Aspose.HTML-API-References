@@ -1,7 +1,7 @@
 ---
 title: SVGAngle.ValueAsString
 second_title: Aspose.HTML for .NET API Reference
-description: SVGAngle property. The angle value as a string value in the units expressed by unitType. Setting this attribute will cause value valueInSpecifiedUnits and unitType to be updated automatically to reflect this setting
+description: SVGAngle ValueAsString property. The angle value as a string value in the units expressed by unitType. Setting this attribute will cause value valueInSpecifiedUnits and unitType to be updated automatically to reflect this setting
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.datatypes/svgangle/valueasstring/

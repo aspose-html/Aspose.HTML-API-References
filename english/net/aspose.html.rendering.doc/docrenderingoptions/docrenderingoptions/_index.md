@@ -22,7 +22,7 @@ public DocRenderingOptions()
 
 ---
 
-## DocRenderingOptions(FontEmbeddingRule) {#constructor_1}
+## DocRenderingOptions(*[FontEmbeddingRule](../../fontembeddingrule/)*) {#constructor_1}
 
 Initializes a new instance of the [`DocRenderingOptions`](../) class with the specified font embedding rule.
 

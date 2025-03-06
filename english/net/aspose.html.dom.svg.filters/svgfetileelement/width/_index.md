@@ -1,7 +1,7 @@
 ---
 title: SVGFETileElement.Width
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFETileElement property. Corresponds to attribute width on the given filter element
+description: SVGFETileElement Width property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.filters/svgfetileelement/width/

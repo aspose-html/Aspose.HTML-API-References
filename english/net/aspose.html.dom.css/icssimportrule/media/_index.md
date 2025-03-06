@@ -1,7 +1,7 @@
 ---
 title: ICSSImportRule.Media
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSImportRule property. The read-only media property of the CSSImportRule interface returns a MediaList object containing the value of the media attribute of the associated stylesheet
+description: ICSSImportRule Media property. The read-only media property of the CSSImportRule interface returns a MediaList object containing the value of the media attribute of the associated stylesheet
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/icssimportrule/media/

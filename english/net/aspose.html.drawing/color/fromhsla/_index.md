@@ -1,7 +1,7 @@
 ---
 title: Color.FromHsla
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a new Color with the requested hue saturation saturation alpha values
+description: Color FromHsla method. Returns a new Color with the requested hue saturation saturation alpha values
 type: docs
 weight: 60
 url: /net/aspose.html.drawing/color/fromhsla/

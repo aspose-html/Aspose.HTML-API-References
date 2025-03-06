@@ -1,7 +1,7 @@
 ---
 title: SubmissionResult.Dispose
 second_title: Aspose.HTML for .NET API Reference
-description: SubmissionResult method. Releases unmanaged and managed resources
+description: SubmissionResult Dispose method. Releases unmanaged and managed resources
 type: docs
 weight: 40
 url: /net/aspose.html.forms/submissionresult/dispose/

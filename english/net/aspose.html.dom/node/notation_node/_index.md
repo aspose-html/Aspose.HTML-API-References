@@ -1,7 +1,7 @@
 ---
 title: Node.NOTATION_NODE
 second_title: Aspose.HTML for .NET API Reference
-description: Node field. A Notation node
+description: Node NOTATION_NODE field. A Notation node
 type: docs
 weight: 390
 url: /net/aspose.html.dom/node/notation_node/

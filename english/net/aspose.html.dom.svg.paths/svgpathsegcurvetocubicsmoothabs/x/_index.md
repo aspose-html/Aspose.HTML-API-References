@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegCurvetoCubicSmoothAbs.X
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathSegCurvetoCubicSmoothAbs property. The absolute X coordinate for the end point of this path segment
+description: SVGPathSegCurvetoCubicSmoothAbs X property. The absolute X coordinate for the end point of this path segment
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothabs/x/

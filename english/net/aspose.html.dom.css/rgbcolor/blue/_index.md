@@ -1,7 +1,7 @@
 ---
 title: RGBColor.Blue
 second_title: Aspose.HTML for .NET API Reference
-description: RGBColor property. Gets the blue component value of this Color structure
+description: RGBColor Blue property. Gets the blue component value of this Color structure
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/rgbcolor/blue/

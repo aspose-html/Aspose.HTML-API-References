@@ -1,7 +1,7 @@
 ---
 title: HTMLButtonElement.Value
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLButtonElement property. The current form control value. See the value attribute definition in HTML 4.01
+description: HTMLButtonElement Value property. The current form control value. See the value attribute definition in HTML 4.01
 type: docs
 weight: 70
 url: /net/aspose.html/htmlbuttonelement/value/

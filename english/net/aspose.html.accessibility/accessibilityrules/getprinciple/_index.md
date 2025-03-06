@@ -1,7 +1,7 @@
 ---
 title: AccessibilityRules.GetPrinciple
 second_title: Aspose.HTML for .NET API Reference
-description: AccessibilityRules method. Get Principle by code from WCAG
+description: AccessibilityRules GetPrinciple method. Get Principle by code from WCAG
 type: docs
 weight: 10
 url: /net/aspose.html.accessibility/accessibilityrules/getprinciple/

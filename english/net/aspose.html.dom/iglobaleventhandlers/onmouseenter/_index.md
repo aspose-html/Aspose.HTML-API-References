@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnMouseEnter
 second_title: Aspose.HTML for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnMouseEnter event
+description: IGlobalEventHandlers OnMouseEnter event. Gets or sets event handler for OnMouseEnter event
 type: docs
 weight: 250
 url: /net/aspose.html.dom/iglobaleventhandlers/onmouseenter/

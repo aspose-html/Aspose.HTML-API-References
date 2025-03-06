@@ -1,7 +1,7 @@
 ---
 title: SVGCircleElement.Cy
 second_title: Aspose.HTML for .NET API Reference
-description: SVGCircleElement property. Corresponds to attribute cy on the given circle element
+description: SVGCircleElement Cy property. Corresponds to attribute cy on the given circle element
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgcircleelement/cy/

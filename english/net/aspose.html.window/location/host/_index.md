@@ -1,7 +1,7 @@
 ---
 title: Location.Host
 second_title: Aspose.HTML for .NET API Reference
-description: Location property. 
+description: Location Host property. 
 type: docs
 weight: 20
 url: /net/aspose.html.window/location/host/

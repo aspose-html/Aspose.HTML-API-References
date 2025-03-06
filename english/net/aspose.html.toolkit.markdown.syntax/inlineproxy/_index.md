@@ -28,19 +28,19 @@ public class InlineProxy : InlineSyntaxNode
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.html.toolkit.markdown.syntax/inlineproxy/accept/)(MarkdownSyntaxVisitor) | Defines the interface for accept visitor. |
-| [AppendChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/appendchild/)(MarkdownSyntaxNode) | Append child node. |
+| override [Accept](../../aspose.html.toolkit.markdown.syntax/inlineproxy/accept/)(*[MarkdownSyntaxVisitor](../markdownsyntaxvisitor/)*) | Defines the interface for accept visitor. |
+| [AppendChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/appendchild/)(*[MarkdownSyntaxNode](../markdownsyntaxnode/)*) | Append child node. |
 | [ChildNodes](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/childnodes/)() | Get the child nodes collection. |
 | [GetLeadingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getleadingtrivia/)() | Get the leading trivia. |
 | [GetSyntaxTree](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getsyntaxtree/)() | Get the syntax tree. |
 | [GetTarget](../../aspose.html.toolkit.markdown.syntax/inlineproxy/gettarget/)() | Defines the interface for get target. |
 | [GetTrailingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/gettrailingtrivia/)() | Get the Trailing trivia. |
-| [InsertBefore](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/)(MarkdownSyntaxNode, MarkdownSyntaxNode) | Insert before node. |
-| [RemoveChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/removechild/)(MarkdownSyntaxNode) | Remove the child. |
-| [ReplaceChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/replacechild/)(MarkdownSyntaxNode, MarkdownSyntaxNode) | Replace the child node. |
+| [InsertBefore](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/)(*[MarkdownSyntaxNode](../markdownsyntaxnode/), [MarkdownSyntaxNode](../markdownsyntaxnode/)*) | Insert before node. |
+| [RemoveChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/removechild/)(*[MarkdownSyntaxNode](../markdownsyntaxnode/)*) | Remove the child. |
+| [ReplaceChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/replacechild/)(*[MarkdownSyntaxNode](../markdownsyntaxnode/), [MarkdownSyntaxNode](../markdownsyntaxnode/)*) | Replace the child node. |
 | override [ToString](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/tostring/)() | Override ToString method. |
-| override [WriteTo](../../aspose.html.toolkit.markdown.syntax/inlineproxy/writeto/#writeto)(MarkdownTextWriter) | Write to text writer. |
-| [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(TextWriter) | Write nodes to text writer. |
+| override [WriteTo](../../aspose.html.toolkit.markdown.syntax/inlineproxy/writeto/#writeto)(*[MarkdownTextWriter](../markdowntextwriter/)*) | Write to text writer. |
+| [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(*TextWriter*) | Write nodes to text writer. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: LinkTitleSyntaxNode.GetValue
 second_title: Aspose.HTML for .NET API Reference
-description: LinkTitleSyntaxNode method. Defines the interface for get string value
+description: LinkTitleSyntaxNode GetValue method. Defines the interface for get string value
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/linktitlesyntaxnode/getvalue/

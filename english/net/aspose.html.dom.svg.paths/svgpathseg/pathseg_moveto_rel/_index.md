@@ -1,7 +1,7 @@
 ---
 title: SVGPathSeg.PATHSEG_MOVETO_REL
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathSeg field. Corresponds to a relative moveto m path data command
+description: SVGPathSeg PATHSEG_MOVETO_REL field. Corresponds to a relative moveto m path data command
 type: docs
 weight: 210
 url: /net/aspose.html.dom.svg.paths/svgpathseg/pathseg_moveto_rel/

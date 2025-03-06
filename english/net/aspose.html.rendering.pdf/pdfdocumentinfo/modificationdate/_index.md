@@ -1,7 +1,7 @@
 ---
 title: PdfDocumentInfo.ModificationDate
 second_title: Aspose.HTML for .NET API Reference
-description: PdfDocumentInfo property. Gets or sets the documents modification date specified as the Coordinated Universal Time UTC
+description: PdfDocumentInfo ModificationDate property. Gets or sets the documents modification date specified as the Coordinated Universal Time UTC
 type: docs
 weight: 50
 url: /net/aspose.html.rendering.pdf/pdfdocumentinfo/modificationdate/

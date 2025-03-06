@@ -18,7 +18,7 @@ public class DataListElement : FormElement<HTMLDataListElement>
 
 | Name | Description |
 | --- | --- |
-| [DataListElement](datalistelement/)(HTMLDataListElement) | Initializes a new instance of the `DataListElement` class. |
+| [DataListElement](datalistelement/)(*[HTMLDataListElement](../../aspose.html/htmldatalistelement/)*) | Initializes a new instance of the `DataListElement` class. |
 
 ## Properties
 

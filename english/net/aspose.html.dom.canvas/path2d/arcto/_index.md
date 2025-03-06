@@ -1,7 +1,7 @@
 ---
 title: Path2D.ArcTo
 second_title: Aspose.HTML for .NET API Reference
-description: Path2D method. Adds an arc to the path with the given control points and radius connected to the previous point by a straight line
+description: Path2D ArcTo method. Adds an arc to the path with the given control points and radius connected to the previous point by a straight line
 type: docs
 weight: 40
 url: /net/aspose.html.dom.canvas/path2d/arcto/

@@ -1,7 +1,7 @@
 ---
 title: Path2D.QuadraticCurveTo
 second_title: Aspose.HTML for .NET API Reference
-description: Path2D method. Adds a quadratic Bézier curve to the current path
+description: Path2D QuadraticCurveTo method. Adds a quadratic Bézier curve to the current path
 type: docs
 weight: 110
 url: /net/aspose.html.dom.canvas/path2d/quadraticcurveto/

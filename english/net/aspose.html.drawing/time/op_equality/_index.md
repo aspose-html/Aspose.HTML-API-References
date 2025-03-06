@@ -1,7 +1,7 @@
 ---
 title: Time.op_Equality
 second_title: Aspose.HTML for .NET API Reference
-description: Time method. 
+description: Time op_Equality method. 
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/time/op_equality/

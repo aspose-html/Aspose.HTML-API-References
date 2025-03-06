@@ -28,18 +28,18 @@ public abstract class CSSPrimitiveValue : CSSValue
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.html.dom.css/cssvalue/equals/)(object) | Determines whether the specified Object is equal to this instance. |
+| override [Equals](../../aspose.html.dom.css/cssvalue/equals/)(*object*) | Determines whether the specified Object is equal to this instance. |
 | abstract [GetCounterValue](../../aspose.html.dom.css/cssprimitivevalue/getcountervalue/)() | This method is used to get the Counter value. If this CSS value doesn't contain a counter value, a DOMException is raised. Modification to the corresponding style property can be achieved using the Counter interface. |
-| abstract [GetFloatValue](../../aspose.html.dom.css/cssprimitivevalue/getfloatvalue/)(ushort) | This method is used to get a float value in a specified unit. If this CSS value doesn't contain a float value or can't be converted into the specified unit, a DOMException is raised. |
+| abstract [GetFloatValue](../../aspose.html.dom.css/cssprimitivevalue/getfloatvalue/)(*ushort*) | This method is used to get a float value in a specified unit. If this CSS value doesn't contain a float value or can't be converted into the specified unit, a DOMException is raised. |
 | override [GetHashCode](../../aspose.html.dom.css/cssvalue/gethashcode/)() | Returns a hash code for this instance. |
-| abstract [GetIntValue](../../aspose.html.dom.css/cssprimitivevalue/getintvalue/)(ushort) | This method is used to get an int value in a specified unit. If this CSS value doesn't contain an int value or can't be converted into the specified unit, a DOMException is raised. |
+| abstract [GetIntValue](../../aspose.html.dom.css/cssprimitivevalue/getintvalue/)(*ushort*) | This method is used to get an int value in a specified unit. If this CSS value doesn't contain an int value or can't be converted into the specified unit, a DOMException is raised. |
 | override [GetPlatformType](../../aspose.html.dom.css/cssvalue/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
 | abstract [GetRectValue](../../aspose.html.dom.css/cssprimitivevalue/getrectvalue/)() | This method is used to get the Rect value. If this CSS value doesn't contain a rect value, a DOMException is raised. Modification to the corresponding style property can be achieved using the Rect interface. |
 | abstract [GetRGBColorValue](../../aspose.html.dom.css/cssprimitivevalue/getrgbcolorvalue/)() | This method is used to get the RGB color. If this CSS value doesn't contain a RGB color value, a DOMException is raised. Modification to the corresponding style property can be achieved using the RGBColor interface. |
 | abstract [GetStringValue](../../aspose.html.dom.css/cssprimitivevalue/getstringvalue/)() | This method is used to get the string value. If the CSS value doesn't contain a string value, a DOMException is raised. |
-| abstract [SetFloatValue](../../aspose.html.dom.css/cssprimitivevalue/setfloatvalue/)(ushort, float) | A method to set the float value with a specified unit. If the property attached with this value can not accept the specified unit or the float value, the value will be unchanged and a DOMException will be raised. |
-| abstract [SetIntValue](../../aspose.html.dom.css/cssprimitivevalue/setintvalue/)(ushort, int) | A method to set the int value with a specified unit. If the property attached with this value can not accept the specified unit or the int value, the value will be unchanged and a DOMException will be raised. |
-| abstract [SetStringValue](../../aspose.html.dom.css/cssprimitivevalue/setstringvalue/)(ushort, string) | A method to set the string value with the specified unit. If the property attached to this value can't accept the specified unit or the string value, the value will be unchanged and a DOMException will be raised. |
+| abstract [SetFloatValue](../../aspose.html.dom.css/cssprimitivevalue/setfloatvalue/)(*ushort, float*) | A method to set the float value with a specified unit. If the property attached with this value can not accept the specified unit or the float value, the value will be unchanged and a DOMException will be raised. |
+| abstract [SetIntValue](../../aspose.html.dom.css/cssprimitivevalue/setintvalue/)(*ushort, int*) | A method to set the int value with a specified unit. If the property attached with this value can not accept the specified unit or the int value, the value will be unchanged and a DOMException will be raised. |
+| abstract [SetStringValue](../../aspose.html.dom.css/cssprimitivevalue/setstringvalue/)(*ushort, string*) | A method to set the string value with the specified unit. If the property attached to this value can't accept the specified unit or the string value, the value will be unchanged and a DOMException will be raised. |
 | override [ToString](../../aspose.html.dom.css/cssvalue/tostring/)() | Returns a String that represents this instance. |
 
 ## Fields

@@ -1,7 +1,7 @@
 ---
 title: Color.FromUint
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a new Color with the requested ARGB value
+description: Color FromUint method. Returns a new Color with the requested ARGB value
 type: docs
 weight: 230
 url: /net/aspose.html.drawing/color/fromuint/

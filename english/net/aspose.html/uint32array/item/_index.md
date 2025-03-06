@@ -1,7 +1,7 @@
 ---
 title: Uint32Array.Item
 second_title: Aspose.HTML for .NET API Reference
-description: Uint32Array property. Gets or sets the UInt32 at the specified index
+description: Uint32Array Item property. Gets or sets the UInt32 at the specified index
 type: docs
 weight: 20
 url: /net/aspose.html/uint32array/item/

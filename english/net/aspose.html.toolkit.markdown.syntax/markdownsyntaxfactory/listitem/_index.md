@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.ListItem
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates ListItemSyntaxNode
+description: MarkdownSyntaxFactory ListItem method. Creates ListItemSyntaxNode
 type: docs
 weight: 280
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/listitem/

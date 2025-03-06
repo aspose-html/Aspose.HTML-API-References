@@ -1,7 +1,7 @@
 ---
 title: IInterpolationColor.Position
 second_title: Aspose.HTML for .NET API Reference
-description: IInterpolationColor property. Gets the color position
+description: IInterpolationColor Position property. Gets the color position
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/iinterpolationcolor/position/

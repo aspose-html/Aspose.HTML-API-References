@@ -18,7 +18,7 @@ public class MarkdownException : ApplicationException
 
 | Name | Description |
 | --- | --- |
-| [MarkdownException](markdownexception/)(string) | The MarkdownException constructor. |
+| [MarkdownException](markdownexception/)(*string*) | The MarkdownException constructor. |
 
 ### See Also
 

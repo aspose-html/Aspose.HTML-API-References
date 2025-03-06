@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegCurvetoCubicAbs.X1
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathSegCurvetoCubicAbs property. The absolute X coordinate for the first control point
+description: SVGPathSegCurvetoCubicAbs X1 property. The absolute X coordinate for the first control point
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetocubicabs/x1/

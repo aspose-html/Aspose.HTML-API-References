@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitBlockQuote
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit BlockQuoteSyntax
+description: MarkdownSyntaxVisitor VisitBlockQuote method. Defines the interface for visit BlockQuoteSyntax
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitblockquote/

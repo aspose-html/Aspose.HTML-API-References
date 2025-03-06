@@ -1,7 +1,7 @@
 ---
 title: ICSSCounterStyleRule.CounterType
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSCounterStyleRule property. The counter type property of the CSSCounterStyleRule interface gets the value of the counter type descriptor
+description: ICSSCounterStyleRule CounterType property. The counter type property of the CSSCounterStyleRule interface gets the value of the counter type descriptor
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/icsscounterstylerule/countertype/

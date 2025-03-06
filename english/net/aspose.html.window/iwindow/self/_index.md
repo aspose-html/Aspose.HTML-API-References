@@ -1,7 +1,7 @@
 ---
 title: IWindow.Self
 second_title: Aspose.HTML for .NET API Reference
-description: IWindow property. Returns the Window objects browsing contexts WindowProxy object
+description: IWindow Self property. Returns the Window objects browsing contexts WindowProxy object
 type: docs
 weight: 80
 url: /net/aspose.html.window/iwindow/self/

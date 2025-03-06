@@ -1,7 +1,7 @@
 ---
 title: Event.BubblingPhase
 second_title: Aspose.HTML for .NET API Reference
-description: Event field. The current event phase is the bubbling phase
+description: Event BubblingPhase field. The current event phase is the bubbling phase
 type: docs
 weight: 160
 url: /net/aspose.html.dom.events/event/bubblingphase/

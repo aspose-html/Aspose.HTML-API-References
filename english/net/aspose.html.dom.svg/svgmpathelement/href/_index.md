@@ -1,7 +1,7 @@
 ---
 title: SVGMPathElement.Href
 second_title: Aspose.HTML for .NET API Reference
-description: SVGMPathElement property. Corresponds to attribute xlinkhref on the given element
+description: SVGMPathElement Href property. Corresponds to attribute xlinkhref on the given element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svgmpathelement/href/

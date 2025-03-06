@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.dom.events/inputevent/inputevent/
 ---
-## InputEvent(string) {#constructor}
+## InputEvent(*string*) {#constructor}
 
 Initializes a new instance of the [`InputEvent`](../) class.
 
@@ -26,7 +26,7 @@ public InputEvent(string type)
 
 ---
 
-## InputEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## InputEvent(*string, IDictionary&amp;lt;string, object&amp;gt;*) {#constructor_1}
 
 ```csharp
 public InputEvent(string type, IDictionary<string, object> eventInitDict)

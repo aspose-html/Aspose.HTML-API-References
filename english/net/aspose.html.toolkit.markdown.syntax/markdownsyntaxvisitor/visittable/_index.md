@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitTable
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit TableSyntax
+description: MarkdownSyntaxVisitor VisitTable method. Defines the interface for visit TableSyntax
 type: docs
 weight: 260
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visittable/

@@ -1,7 +1,7 @@
 ---
 title: HTMLTextAreaElement.Type
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLTextAreaElement property. The type of this form control. This the string textarea
+description: HTMLTextAreaElement Type property. The type of this form control. This the string textarea
 type: docs
 weight: 100
 url: /net/aspose.html/htmltextareaelement/type/

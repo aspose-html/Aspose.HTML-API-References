@@ -1,7 +1,7 @@
 ---
 title: INonElementParentNode.GetElementById
 second_title: Aspose.HTML for .NET API Reference
-description: INonElementParentNode method. Returns the first element within nodes descendants whose ID is elementId
+description: INonElementParentNode GetElementById method. Returns the first element within nodes descendants whose ID is elementId
 type: docs
 weight: 10
 url: /net/aspose.html.dom/inonelementparentnode/getelementbyid/

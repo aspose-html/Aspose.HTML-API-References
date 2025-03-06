@@ -1,7 +1,7 @@
 ---
 title: ICanvasRenderingContext2D.Transform
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D method. Multiplies the current transformation matrix with the matrix described by its arguments
+description: ICanvasRenderingContext2D Transform method. Multiplies the current transformation matrix with the matrix described by its arguments
 type: docs
 weight: 400
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/transform/

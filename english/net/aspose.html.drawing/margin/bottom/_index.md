@@ -1,7 +1,7 @@
 ---
 title: Margin.Bottom
 second_title: Aspose.HTML for .NET API Reference
-description: Margin property. Gets or sets the bottom
+description: Margin Bottom property. Gets or sets the bottom
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/margin/bottom/

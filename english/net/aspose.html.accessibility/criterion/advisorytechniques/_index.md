@@ -1,7 +1,7 @@
 ---
 title: Criterion.AdvisoryTechniques
 second_title: Aspose.HTML for .NET API Reference
-description: Criterion property. The methods are of a recommendatory nature
+description: Criterion AdvisoryTechniques property. The methods are of a recommendatory nature
 type: docs
 weight: 10
 url: /net/aspose.html.accessibility/criterion/advisorytechniques/

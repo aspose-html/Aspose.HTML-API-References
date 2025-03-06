@@ -1,7 +1,7 @@
 ---
 title: ICanvasRenderingContext2D.ResetTransform
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D method. Resets the current transform by the identity matrix
+description: ICanvasRenderingContext2D ResetTransform method. Resets the current transform by the identity matrix
 type: docs
 weight: 310
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/resettransform/

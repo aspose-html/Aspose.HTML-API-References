@@ -1,7 +1,7 @@
 ---
 title: ButtonElement.Id
 second_title: Aspose.HTML for .NET API Reference
-description: ButtonElement property. Represents the Id attribute of the Button element
+description: ButtonElement Id property. Represents the Id attribute of the Button element
 type: docs
 weight: 10
 url: /net/aspose.html.forms/buttonelement/id/

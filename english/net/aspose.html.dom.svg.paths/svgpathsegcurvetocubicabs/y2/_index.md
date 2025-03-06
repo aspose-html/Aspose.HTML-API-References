@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegCurvetoCubicAbs.Y2
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathSegCurvetoCubicAbs property. The absolute Y coordinate for the second control point
+description: SVGPathSegCurvetoCubicAbs Y2 property. The absolute Y coordinate for the second control point
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetocubicabs/y2/

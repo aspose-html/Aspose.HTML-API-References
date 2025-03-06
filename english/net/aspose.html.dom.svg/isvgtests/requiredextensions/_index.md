@@ -1,7 +1,7 @@
 ---
 title: ISVGTests.RequiredExtensions
 second_title: Aspose.HTML for .NET API Reference
-description: ISVGTests property. Corresponds to attribute requiredExtensions on the given element
+description: ISVGTests RequiredExtensions property. Corresponds to attribute requiredExtensions on the given element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/isvgtests/requiredextensions/

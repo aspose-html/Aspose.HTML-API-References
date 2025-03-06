@@ -1,7 +1,7 @@
 ---
 title: HTMLElement.OnCanPlayThrough
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLElement event. Gets or sets event handler for OnCanPlayThrough event
+description: HTMLElement OnCanPlayThrough event. Gets or sets event handler for OnCanPlayThrough event
 type: docs
 weight: 110
 url: /net/aspose.html/htmlelement/oncanplaythrough/

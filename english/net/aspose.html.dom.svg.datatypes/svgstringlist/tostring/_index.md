@@ -1,7 +1,7 @@
 ---
 title: SVGStringList.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: SVGStringList method. Returns a String that represents this instance
+description: SVGStringList ToString method. Returns a String that represents this instance
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.datatypes/svgstringlist/tostring/

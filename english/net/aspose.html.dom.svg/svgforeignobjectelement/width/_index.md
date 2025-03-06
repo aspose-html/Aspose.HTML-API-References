@@ -1,7 +1,7 @@
 ---
 title: SVGForeignObjectElement.Width
 second_title: Aspose.HTML for .NET API Reference
-description: SVGForeignObjectElement property. Corresponds to attribute width on the given foreignObject element
+description: SVGForeignObjectElement Width property. Corresponds to attribute width on the given foreignObject element
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgforeignobjectelement/width/

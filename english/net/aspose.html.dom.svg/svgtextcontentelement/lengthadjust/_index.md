@@ -1,7 +1,7 @@
 ---
 title: SVGTextContentElement.LengthAdjust
 second_title: Aspose.HTML for .NET API Reference
-description: SVGTextContentElement property. Corresponds to attribute lengthAdjust on the given element. The value must be one of the length adjust constants defined on this interface
+description: SVGTextContentElement LengthAdjust property. Corresponds to attribute lengthAdjust on the given element. The value must be one of the length adjust constants defined on this interface
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svgtextcontentelement/lengthadjust/

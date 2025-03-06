@@ -20,7 +20,7 @@ public sealed class YamlScalarSyntaxNode : ChildFrontMatterSyntaxNode
 | --- | --- |
 | override [GetEnumerator](../../aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/getenumerator/)() | Defines the interface for get IEnumerator |
 | [GetValue](../../aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/getvalue/)() | Defines the interface for get value. |
-| [SetValue](../../aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/setvalue/)(string) | Defines the interface for set value. |
+| [SetValue](../../aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/setvalue/)(*string*) | Defines the interface for set value. |
 
 ### See Also
 

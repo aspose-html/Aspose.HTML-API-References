@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.dom.events/focusevent/focusevent/
 ---
-## FocusEvent(string) {#constructor}
+## FocusEvent(*string*) {#constructor}
 
 Initializes a new instance of the [`FocusEvent`](../) class.
 
@@ -26,7 +26,7 @@ public FocusEvent(string type)
 
 ---
 
-## FocusEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## FocusEvent(*string, IDictionary&amp;lt;string, object&amp;gt;*) {#constructor_1}
 
 ```csharp
 public FocusEvent(string type, IDictionary<string, object> eventInitDict)

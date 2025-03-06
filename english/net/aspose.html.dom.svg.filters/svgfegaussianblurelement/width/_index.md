@@ -1,7 +1,7 @@
 ---
 title: SVGFEGaussianBlurElement.Width
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEGaussianBlurElement property. Corresponds to attribute width on the given filter element
+description: SVGFEGaussianBlurElement Width property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg.filters/svgfegaussianblurelement/width/

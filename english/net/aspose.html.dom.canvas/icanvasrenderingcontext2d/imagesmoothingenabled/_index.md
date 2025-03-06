@@ -1,7 +1,7 @@
 ---
 title: ICanvasRenderingContext2D.ImageSmoothingEnabled
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D property. Image smoothing mode if disabled images will not be smoothed if scaled
+description: ICanvasRenderingContext2D ImageSmoothingEnabled property. Image smoothing mode if disabled images will not be smoothed if scaled
 type: docs
 weight: 50
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/imagesmoothingenabled/

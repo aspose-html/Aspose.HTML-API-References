@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.BlockQuote
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates BlockQuoteSyntaxNode
+description: MarkdownSyntaxFactory BlockQuote method. Creates BlockQuoteSyntaxNode
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/blockquote/

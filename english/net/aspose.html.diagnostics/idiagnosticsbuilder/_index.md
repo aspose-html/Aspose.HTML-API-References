@@ -18,7 +18,7 @@ public interface IDiagnosticsBuilder
 
 | Name | Description |
 | --- | --- |
-| [AddLogging](../../aspose.html.diagnostics/idiagnosticsbuilder/addlogging/)(ILogger) | Enables logs collection. |
+| [AddLogging](../../aspose.html.diagnostics/idiagnosticsbuilder/addlogging/)(*ILogger*) | Enables logs collection. |
 | [AddMetrics](../../aspose.html.diagnostics/idiagnosticsbuilder/addmetrics/)() | Enables metrics collection. |
 | [AddTracing](../../aspose.html.diagnostics/idiagnosticsbuilder/addtracing/)() | Enables traces collection. |
 

@@ -1,7 +1,7 @@
 ---
 title: BlockSyntaxDescriptor.SetAttributeValue
 second_title: Aspose.HTML for .NET API Reference
-description: BlockSyntaxDescriptor method. Defines the interface for set attribute
+description: BlockSyntaxDescriptor SetAttributeValue method. Defines the interface for set attribute
 type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/setattributevalue/

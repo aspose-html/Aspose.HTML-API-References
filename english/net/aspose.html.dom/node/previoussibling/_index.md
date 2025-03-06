@@ -1,7 +1,7 @@
 ---
 title: Node.PreviousSibling
 second_title: Aspose.HTML for .NET API Reference
-description: Node property. The read-only previousSibling property of the Node interface returns the node immediately preceding the specified one in its parents childNodes list or null if the specified node is the first in that list
+description: Node PreviousSibling property. The read-only previousSibling property of the Node interface returns the node immediately preceding the specified one in its parents childNodes list or null if the specified node is the first in that list
 type: docs
 weight: 150
 url: /net/aspose.html.dom/node/previoussibling/

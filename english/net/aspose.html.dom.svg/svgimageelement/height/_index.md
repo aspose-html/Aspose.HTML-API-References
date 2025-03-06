@@ -1,7 +1,7 @@
 ---
 title: SVGImageElement.Height
 second_title: Aspose.HTML for .NET API Reference
-description: SVGImageElement property. Corresponds to attribute height on the given image element
+description: SVGImageElement Height property. Corresponds to attribute height on the given image element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svgimageelement/height/

@@ -1,7 +1,7 @@
 ---
 title: SVGPatternElement.X
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPatternElement property. Corresponds to attribute x on the given pattern element
+description: SVGPatternElement X property. Corresponds to attribute x on the given pattern element
 type: docs
 weight: 120
 url: /net/aspose.html.dom.svg/svgpatternelement/x/

@@ -1,7 +1,7 @@
 ---
 title: SyntaxNodeCollection-1.IndexOf
 second_title: Aspose.HTML for .NET API Reference
-description: SyntaxNodeCollection method. Gets the index of the given item
+description: SyntaxNodeCollection IndexOf method. Gets the index of the given item
 type: docs
 weight: 110
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/indexof/

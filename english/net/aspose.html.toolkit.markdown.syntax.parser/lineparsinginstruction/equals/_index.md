@@ -1,12 +1,12 @@
 ---
 title: LineParsingInstruction.Equals
 second_title: Aspose.HTML for .NET API Reference
-description: LineParsingInstruction method. Compare two LineParsingInstruction
+description: LineParsingInstruction Equals method. Compare two LineParsingInstruction
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/equals/
 ---
-## Equals(LineParsingInstruction) {#equals}
+## Equals(*[LineParsingInstruction](../)*) {#equals}
 
 Compare two LineParsingInstruction
 
@@ -30,7 +30,7 @@ The boolean.
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
 Compare two LineParsingInstruction
 

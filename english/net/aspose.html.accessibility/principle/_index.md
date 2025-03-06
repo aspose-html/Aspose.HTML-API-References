@@ -25,7 +25,7 @@ public class Principle : Rule
 
 | Name | Description |
 | --- | --- |
-| [GetGuideline](../../aspose.html.accessibility/principle/getguideline/)(string) | Get by WCAG code for Guideline |
+| [GetGuideline](../../aspose.html.accessibility/principle/getguideline/)(*string*) | Get by WCAG code for Guideline |
 | [GetGuidelines](../../aspose.html.accessibility/principle/getguidelines/)() | Get all the Guidelines contained in the Principle |
 
 ### See Also

@@ -1,7 +1,7 @@
 ---
 title: SVGGradientElement.SVG_SPREADMETHOD_REFLECT
 second_title: Aspose.HTML for .NET API Reference
-description: SVGGradientElement field. Corresponds to value reflect
+description: SVGGradientElement SVG_SPREADMETHOD_REFLECT field. Corresponds to value reflect
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg/svggradientelement/svg_spreadmethod_reflect/

@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.SpeechRate
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. This property specifies the speaking rate. Note that both absolute and relative keyword values are allowed compare with font-size. Values have the following meanings
+description: ICSS2Properties SpeechRate property. This property specifies the speaking rate. Note that both absolute and relative keyword values are allowed compare with font-size. Values have the following meanings
 type: docs
 weight: 1040
 url: /net/aspose.html.dom.css/icss2properties/speechrate/

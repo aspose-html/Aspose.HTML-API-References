@@ -1,7 +1,7 @@
 ---
 title: Device-2.FillText
 second_title: Aspose.HTML for .NET API Reference
-description: Device method. Fills the specified text string at the specified location
+description: Device FillText method. Fills the specified text string at the specified location
 type: docs
 weight: 160
 url: /net/aspose.html.rendering/device-2/filltext/

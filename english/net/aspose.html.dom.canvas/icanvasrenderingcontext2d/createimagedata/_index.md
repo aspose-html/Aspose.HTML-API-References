@@ -1,12 +1,12 @@
 ---
 title: ICanvasRenderingContext2D.CreateImageData
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D method. Creates a new blank ImageData object with the specified dimensions. All of the pixels in the new object are transparent black
+description: ICanvasRenderingContext2D CreateImageData method. Creates a new blank ImageData object with the specified dimensions. All of the pixels in the new object are transparent black
 type: docs
 weight: 160
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/createimagedata/
 ---
-## CreateImageData(double, double) {#createimagedata_1}
+## CreateImageData(*double, double*) {#createimagedata_1}
 
 Creates a new, blank ImageData object with the specified dimensions. All of the pixels in the new object are transparent black.
 
@@ -32,7 +32,7 @@ A new ImageData object with the specified width and height. The new object is fi
 
 ---
 
-## CreateImageData(IImageData) {#createimagedata}
+## CreateImageData(*[IImageData](../../iimagedata/)*) {#createimagedata}
 
 Creates a new, blank ImageData object with the specified dimensions. All of the pixels in the new object are transparent black.
 

@@ -1,7 +1,7 @@
 ---
 title: SVGPathElement.CreateSVGPathSegLinetoHorizontalAbs
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegLinetoHorizontalAbs object
+description: SVGPathElement CreateSVGPathSegLinetoHorizontalAbs method. Returns a stand-alone parentless SVGPathSegLinetoHorizontalAbs object
 type: docs
 weight: 150
 url: /net/aspose.html.dom.svg/svgpathelement/createsvgpathseglinetohorizontalabs/

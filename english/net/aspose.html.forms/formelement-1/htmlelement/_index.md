@@ -1,7 +1,7 @@
 ---
 title: FormElement-1.HtmlElement
 second_title: Aspose.HTML for .NET API Reference
-description: FormElement property. Gets the HTMLElement
+description: FormElement HtmlElement property. Gets the HTMLElement
 type: docs
 weight: 10
 url: /net/aspose.html.forms/formelement-1/htmlelement/

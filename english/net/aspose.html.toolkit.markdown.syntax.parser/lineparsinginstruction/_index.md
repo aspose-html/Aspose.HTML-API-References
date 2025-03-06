@@ -24,13 +24,13 @@ public struct LineParsingInstruction : IEquatable<LineParsingInstruction>
 
 | Name | Description |
 | --- | --- |
-| [Equals](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/equals/#equals)(LineParsingInstruction) | Compare two LineParsingInstruction |
-| override [Equals](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/equals/#equals_1)(object) | Compare two LineParsingInstruction |
+| [Equals](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/equals/#equals)(*LineParsingInstruction*) | Compare two LineParsingInstruction |
+| override [Equals](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/equals/#equals_1)(*object*) | Compare two LineParsingInstruction |
 | [GetContentIndentation](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/getcontentindentation/)() | Defines the interface for get indentation |
 | override [GetHashCode](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/gethashcode/)() | Overrides the GetHashCode |
 | [GetTabsReservation](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/gettabsreservation/)() | Defines the interface for get TabsReservation |
-| [WithContentIndentation](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/withcontentindentation/)(int) | Defines the interface for get LineParsingInstruction |
-| [WithTabsReservation](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/withtabsreservation/)(int) | Defines the interface for WithTabsReservation |
+| [WithContentIndentation](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/withcontentindentation/)(*int*) | Defines the interface for get LineParsingInstruction |
+| [WithTabsReservation](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/withtabsreservation/)(*int*) | Defines the interface for WithTabsReservation |
 | [operator ==](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/op_equality/) |  |
 | [operator !=](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/op_inequality/) |  |
 

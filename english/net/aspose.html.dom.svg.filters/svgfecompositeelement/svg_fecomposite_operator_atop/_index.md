@@ -1,7 +1,7 @@
 ---
 title: SVGFECompositeElement.SVG_FECOMPOSITE_OPERATOR_ATOP
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFECompositeElement field. Corresponds to value atop
+description: SVGFECompositeElement SVG_FECOMPOSITE_OPERATOR_ATOP field. Corresponds to value atop
 type: docs
 weight: 140
 url: /net/aspose.html.dom.svg.filters/svgfecompositeelement/svg_fecomposite_operator_atop/

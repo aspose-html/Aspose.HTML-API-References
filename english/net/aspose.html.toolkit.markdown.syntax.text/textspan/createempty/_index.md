@@ -1,7 +1,7 @@
 ---
 title: TextSpan.CreateEmpty
 second_title: Aspose.HTML for .NET API Reference
-description: TextSpan method. Create the empty text span
+description: TextSpan CreateEmpty method. Create the empty text span
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax.text/textspan/createempty/
@@ -26,7 +26,7 @@ The TextSpan.
 
 ---
 
-## CreateEmpty(int) {#createempty_1}
+## CreateEmpty(*int*) {#createempty_1}
 
 Create empty TextSpan from start position.
 

@@ -1,12 +1,12 @@
 ---
 title: FormEditor.AddInput
 second_title: Aspose.HTML for .NET API Reference
-description: FormEditor method. Creates a new InputElement and adds it to the end of the form
+description: FormEditor AddInput method. Creates a new InputElement and adds it to the end of the form
 type: docs
 weight: 90
 url: /net/aspose.html.forms/formeditor/addinput/
 ---
-## AddInput(string) {#addinput}
+## AddInput(*string*) {#addinput}
 
 Creates a new [`InputElement`](../../inputelement/) and adds it to the end of the form.
 
@@ -31,7 +31,7 @@ Returns a new created [`InputElement`](../../inputelement/).
 
 ---
 
-## AddInput(string, InputElementType) {#addinput_1}
+## AddInput(*string, [InputElementType](../../inputelementtype/)*) {#addinput_1}
 
 Creates a new [`InputElement`](../../inputelement/) and adds it to the end of the form.
 

@@ -18,7 +18,7 @@ public class MimeType : IEquatable<MimeType>
 
 | Name | Description |
 | --- | --- |
-| [MimeType](mimetype/)(string) | Initializes a new instance of MIME type based on serialized string value. |
+| [MimeType](mimetype/)(*string*) | Initializes a new instance of MIME type based on serialized string value. |
 
 ## Properties
 
@@ -31,9 +31,9 @@ public class MimeType : IEquatable<MimeType>
 
 | Name | Description |
 | --- | --- |
-| static [FromFileExtension](../../aspose.html/mimetype/fromfileextension/)(string) | Creates a new MIME type based on file extension. |
-| [Equals](../../aspose.html/mimetype/equals/#equals)(MimeType) | Indicates whether the current object is equal to another object of the same type. |
-| override [Equals](../../aspose.html/mimetype/equals/#equals_1)(object) | Determines whether the specified Object is equal to the current Object. |
+| static [FromFileExtension](../../aspose.html/mimetype/fromfileextension/)(*string*) | Creates a new MIME type based on file extension. |
+| [Equals](../../aspose.html/mimetype/equals/#equals)(*MimeType*) | Indicates whether the current object is equal to another object of the same type. |
+| override [Equals](../../aspose.html/mimetype/equals/#equals_1)(*object*) | Determines whether the specified Object is equal to the current Object. |
 | override [GetHashCode](../../aspose.html/mimetype/gethashcode/)() | Returns a hash code for this instance. |
 | override [ToString](../../aspose.html/mimetype/tostring/)() | Returns a String that represents Mime type. |
 | [operator ==](../../aspose.html/mimetype/op_equality/) |  |

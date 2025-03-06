@@ -1,7 +1,7 @@
 ---
 title: Location.Origin
 second_title: Aspose.HTML for .NET API Reference
-description: Location property. 
+description: Location Origin property. 
 type: docs
 weight: 50
 url: /net/aspose.html.window/location/origin/

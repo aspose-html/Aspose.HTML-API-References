@@ -1,7 +1,7 @@
 ---
 title: SVGViewElement.ZoomAndPan
 second_title: Aspose.HTML for .NET API Reference
-description: SVGViewElement property. Corresponds to attribute zoomAndPan on the given element. The value must be one of the SVG_ZOOMANDPAN_ constants defined on this interface
+description: SVGViewElement ZoomAndPan property. Corresponds to attribute zoomAndPan on the given element. The value must be one of the SVG_ZOOMANDPAN_ constants defined on this interface
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgviewelement/zoomandpan/

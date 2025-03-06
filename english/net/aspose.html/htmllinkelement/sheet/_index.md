@@ -1,7 +1,7 @@
 ---
 title: HTMLLinkElement.Sheet
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLLinkElement property. Gets the associated style sheet
+description: HTMLLinkElement Sheet property. Gets the associated style sheet
 type: docs
 weight: 90
 url: /net/aspose.html/htmllinkelement/sheet/

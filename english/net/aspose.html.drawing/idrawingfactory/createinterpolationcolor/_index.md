@@ -1,7 +1,7 @@
 ---
 title: IDrawingFactory.CreateInterpolationColor
 second_title: Aspose.HTML for .NET API Reference
-description: IDrawingFactory method. Creates an interpolation color with the specified color and position
+description: IDrawingFactory CreateInterpolationColor method. Creates an interpolation color with the specified color and position
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/idrawingfactory/createinterpolationcolor/

@@ -26,16 +26,16 @@ public class SVGLengthList : SVGListBase<SVGLength>
 
 | Name | Description |
 | --- | --- |
-| [AppendItem](../../aspose.html.dom.svg.collections/svglistbase-1/appenditem/)(SVGLength) |  |
+| [AppendItem](../../aspose.html.dom.svg.collections/svglistbase-1/appenditem/)(*[SVGLength](../svglength/)*) |  |
 | [Clear](../../aspose.html.dom.svg.collections/svglistbase-1/clear/)() |  |
 | [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 | [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.html.dom.svg.collections/svglistbase-1/getitem/)(ulong) |  |
+| [GetItem](../../aspose.html.dom.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| [Initialize](../../aspose.html.dom.svg.collections/svglistbase-1/initialize/)(SVGLength) |  |
-| [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/)(SVGLength, ulong) |  |
-| [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase-1/replaceitem/)(SVGLength, ulong) |  |
+| [Initialize](../../aspose.html.dom.svg.collections/svglistbase-1/initialize/)(*[SVGLength](../svglength/)*) |  |
+| [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/)(*[SVGLength](../svglength/), ulong*) |  |
+| [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase-1/replaceitem/)(*[SVGLength](../svglength/), ulong*) |  |
 | override [ToString](../../aspose.html.dom.svg.datatypes/svglengthlist/tostring/)() | Returns a String that represents this instance. |
 
 ### See Also

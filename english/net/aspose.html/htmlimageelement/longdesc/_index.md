@@ -1,7 +1,7 @@
 ---
 title: HTMLImageElement.LongDesc
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLImageElement property. URI IETF RFC 2396 designating a long description of this image or frame. See the longdesc attribute definition in HTML 4.01
+description: HTMLImageElement LongDesc property. URI IETF RFC 2396 designating a long description of this image or frame. See the longdesc attribute definition in HTML 4.01
 type: docs
 weight: 70
 url: /net/aspose.html/htmlimageelement/longdesc/

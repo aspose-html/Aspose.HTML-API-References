@@ -1,12 +1,12 @@
 ---
 title: FormEditor.Create
 second_title: Aspose.HTML for .NET API Reference
-description: FormEditor method. Creates a new FormEditor based on HTMLFormElement
+description: FormEditor Create method. Creates a new FormEditor based on HTMLFormElement
 type: docs
 weight: 10
 url: /net/aspose.html.forms/formeditor/create/
 ---
-## Create(HTMLFormElement) {#create_2}
+## Create(*[HTMLFormElement](../../../aspose.html/htmlformelement/)*) {#create_2}
 
 Creates a new [`FormEditor`](../) based on [`HTMLFormElement`](../../../aspose.html/htmlformelement/).
 
@@ -31,7 +31,7 @@ Return a new instance of the [`FormEditor`](../) class
 
 ---
 
-## Create(HTMLDocument, int) {#create}
+## Create(*[HTMLDocument](../../../aspose.html/htmldocument/), int*) {#create}
 
 Creates a new [`FormEditor`](../) based on [`HTMLFormElement`](../../../aspose.html/htmlformelement/) selected from the [`Forms`](../../../aspose.html/htmldocument/forms/) collection by index.
 
@@ -63,7 +63,7 @@ Return a new instance of the [`FormEditor`](../) class
 
 ---
 
-## Create(HTMLDocument, string) {#create_1}
+## Create(*[HTMLDocument](../../../aspose.html/htmldocument/), string*) {#create_1}
 
 Creates a new [`FormEditor`](../) based on [`HTMLFormElement`](../../../aspose.html/htmlformelement/) selected from the document by id.
 

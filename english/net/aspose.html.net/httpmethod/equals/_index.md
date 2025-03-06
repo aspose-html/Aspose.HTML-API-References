@@ -1,12 +1,12 @@
 ---
 title: HttpMethod.Equals
 second_title: Aspose.HTML for .NET API Reference
-description: HttpMethod method. Indicates whether the current object is equal to another object of the same type
+description: HttpMethod Equals method. Indicates whether the current object is equal to another object of the same type
 type: docs
 weight: 60
 url: /net/aspose.html.net/httpmethod/equals/
 ---
-## Equals(HttpMethod) {#equals}
+## Equals(*[HttpMethod](../)*) {#equals}
 
 Indicates whether the current object is equal to another object of the same type.
 
@@ -30,7 +30,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
 Determines whether the specified Object, is equal to this instance.
 

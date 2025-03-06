@@ -1,7 +1,7 @@
 ---
 title: NamedNodeMap.Item
 second_title: Aspose.HTML for .NET API Reference
-description: NamedNodeMap property. Returns the index-th item in the map. If index is greater than or equal to the number of nodes in this map this returns null
+description: NamedNodeMap Item property. Returns the index-th item in the map. If index is greater than or equal to the number of nodes in this map this returns null
 type: docs
 weight: 10
 url: /net/aspose.html.collections/namednodemap/item/

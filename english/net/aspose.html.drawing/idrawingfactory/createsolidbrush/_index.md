@@ -1,7 +1,7 @@
 ---
 title: IDrawingFactory.CreateSolidBrush
 second_title: Aspose.HTML for .NET API Reference
-description: IDrawingFactory method. Creates a solid brush with the specified color
+description: IDrawingFactory CreateSolidBrush method. Creates a solid brush with the specified color
 type: docs
 weight: 40
 url: /net/aspose.html.drawing/idrawingfactory/createsolidbrush/

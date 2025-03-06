@@ -1,7 +1,7 @@
 ---
 title: ICSSStyleDeclaration.Item
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSStyleDeclaration property. Used to retrieve the properties that have been explicitly set in this declaration block. The order of the properties retrieved using this method does not have to be the order in which they were set. This method can be used to iterate over all properties in this declaration block
+description: ICSSStyleDeclaration Item property. Used to retrieve the properties that have been explicitly set in this declaration block. The order of the properties retrieved using this method does not have to be the order in which they were set. This method can be used to iterate over all properties in this declaration block
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/icssstyledeclaration/item/

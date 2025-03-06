@@ -19,7 +19,7 @@ public class ImageRenderingOptions : RenderingOptions
 | Name | Description |
 | --- | --- |
 | [ImageRenderingOptions](imagerenderingoptions/#constructor)() | Initializes a new instance of the `ImageRenderingOptions` class; Png will be used as default image format. |
-| [ImageRenderingOptions](imagerenderingoptions/#constructor_1)(ImageFormat) | Initializes a new instance of the `ImageRenderingOptions` class with specified image format. |
+| [ImageRenderingOptions](imagerenderingoptions/#constructor_1)(*[ImageFormat](../imageformat/)*) | Initializes a new instance of the `ImageRenderingOptions` class with specified image format. |
 
 ## Properties
 

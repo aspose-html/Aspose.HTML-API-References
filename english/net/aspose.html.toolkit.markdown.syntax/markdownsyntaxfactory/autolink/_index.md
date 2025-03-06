@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxFactory.AutoLink
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates AutoLinkSyntaxNode
+description: MarkdownSyntaxFactory AutoLink method. Creates AutoLinkSyntaxNode
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/autolink/
 ---
-## AutoLink(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken) {#autolink}
+## AutoLink(*[MarkdownSyntaxToken](../../markdownsyntaxtoken/), [TextSyntaxNode](../../textsyntaxnode/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/)*) {#autolink}
 
 Creates [`AutoLinkSyntaxNode`](../../autolinksyntaxnode/).
 
@@ -36,7 +36,7 @@ The AutoLinkSyntax.
 
 ---
 
-## AutoLink(MarkdownSyntaxToken, TextSyntaxNode, MarkdownSyntaxToken, bool) {#autolink_1}
+## AutoLink(*[MarkdownSyntaxToken](../../markdownsyntaxtoken/), [TextSyntaxNode](../../textsyntaxnode/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/), bool*) {#autolink_1}
 
 Creates [`AutoLinkSyntaxNode`](../../autolinksyntaxnode/).
 

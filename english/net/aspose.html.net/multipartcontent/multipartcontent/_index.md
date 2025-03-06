@@ -22,7 +22,7 @@ public MultipartContent()
 
 ---
 
-## MultipartContent(string) {#constructor_1}
+## MultipartContent(*string*) {#constructor_1}
 
 Create a new instance of the [`MultipartContent`](../) class with subtype.
 
@@ -42,7 +42,7 @@ public MultipartContent(string subtype)
 
 ---
 
-## MultipartContent(string, string) {#constructor_2}
+## MultipartContent(*string, string*) {#constructor_2}
 
 Create a new instance of the [`MultipartContent`](../) class with subtype and boundary.
 

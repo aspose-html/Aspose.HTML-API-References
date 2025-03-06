@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.Cursor
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. This property specifies the type of cursor to be displayed for the pointing device
+description: ICSS2Properties Cursor property. This property specifies the type of cursor to be displayed for the pointing device
 type: docs
 weight: 410
 url: /net/aspose.html.dom.css/icss2properties/cursor/

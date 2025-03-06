@@ -1,7 +1,7 @@
 ---
 title: SVGAElement.Target
 second_title: Aspose.HTML for .NET API Reference
-description: SVGAElement property. Corresponds to attribute target on the given a element
+description: SVGAElement Target property. Corresponds to attribute target on the given a element
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgaelement/target/

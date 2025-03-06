@@ -1,7 +1,7 @@
 ---
 title: SVGFECompositeElement.Result
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFECompositeElement property. Corresponds to attribute result on the given filter element
+description: SVGFECompositeElement Result property. Corresponds to attribute result on the given filter element
 type: docs
 weight: 90
 url: /net/aspose.html.dom.svg.filters/svgfecompositeelement/result/

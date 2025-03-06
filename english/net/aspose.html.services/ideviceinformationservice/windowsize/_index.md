@@ -1,7 +1,7 @@
 ---
 title: IDeviceInformationService.WindowSize
 second_title: Aspose.HTML for .NET API Reference
-description: IDeviceInformationService property. Gets or sets the size of the window
+description: IDeviceInformationService WindowSize property. Gets or sets the size of the window
 type: docs
 weight: 40
 url: /net/aspose.html.services/ideviceinformationservice/windowsize/

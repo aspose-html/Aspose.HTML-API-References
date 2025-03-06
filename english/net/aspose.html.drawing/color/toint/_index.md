@@ -1,7 +1,7 @@
 ---
 title: Color.ToInt
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Encodes the Color ARGB components into int
+description: Color ToInt method. Encodes the Color ARGB components into int
 type: docs
 weight: 360
 url: /net/aspose.html.drawing/color/toint/

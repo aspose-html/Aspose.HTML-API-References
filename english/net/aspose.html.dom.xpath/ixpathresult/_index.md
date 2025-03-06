@@ -31,7 +31,7 @@ public interface IXPathResult
 | Name | Description |
 | --- | --- |
 | [IterateNext](../../aspose.html.dom.xpath/ixpathresult/iteratenext/)() | Iterates and returns the next node from the node set or `null` if there are no more nodes. |
-| [SnapshotItem](../../aspose.html.dom.xpath/ixpathresult/snapshotitem/)(int) | Returns the `index`th item in the snapshot collection. If `index` is greater than or equal to the number of nodes in the list, this method returns `null`. Unlike the iterator result, the snapshot does not become invalid, but may not correspond to the current document if it is mutated. |
+| [SnapshotItem](../../aspose.html.dom.xpath/ixpathresult/snapshotitem/)(*int*) | Returns the `index`th item in the snapshot collection. If `index` is greater than or equal to the number of nodes in the list, this method returns `null`. Unlike the iterator result, the snapshot does not become invalid, but may not correspond to the current document if it is mutated. |
 
 ### See Also
 

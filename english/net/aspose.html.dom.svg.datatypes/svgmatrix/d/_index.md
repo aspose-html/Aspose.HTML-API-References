@@ -1,7 +1,7 @@
 ---
 title: SVGMatrix.D
 second_title: Aspose.HTML for .NET API Reference
-description: SVGMatrix property. The D component of the matrix
+description: SVGMatrix D property. The D component of the matrix
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.datatypes/svgmatrix/d/

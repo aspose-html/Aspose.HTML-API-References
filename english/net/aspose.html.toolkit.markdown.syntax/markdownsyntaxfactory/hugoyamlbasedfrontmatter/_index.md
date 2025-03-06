@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.HugoYamlBasedFrontMatter
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates HugoYamlBasedFrontMatterSyntaxNode
+description: MarkdownSyntaxFactory HugoYamlBasedFrontMatter method. Creates HugoYamlBasedFrontMatterSyntaxNode
 type: docs
 weight: 180
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/hugoyamlbasedfrontmatter/

@@ -22,7 +22,7 @@ public ImageSaveOptions()
 
 ---
 
-## ImageSaveOptions(ImageFormat) {#constructor_1}
+## ImageSaveOptions(*[ImageFormat](../../../aspose.html.rendering.image/imageformat/)*) {#constructor_1}
 
 Image format [`ImageFormat`](../../../aspose.html.rendering.image/imageformat/) based on initialization
 

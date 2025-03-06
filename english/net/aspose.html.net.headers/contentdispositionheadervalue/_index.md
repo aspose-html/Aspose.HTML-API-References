@@ -18,7 +18,7 @@ public class ContentDispositionHeaderValue
 
 | Name | Description |
 | --- | --- |
-| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(string) | Create a new instance of this disposition type. |
+| [ContentDispositionHeaderValue](contentdispositionheadervalue/)(*string*) | Create a new instance of this disposition type. |
 
 ## Properties
 
@@ -33,7 +33,7 @@ public class ContentDispositionHeaderValue
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.html.net.headers/contentdispositionheadervalue/equals/)(object) | Determines whether the specified Object is equal to this instance. |
+| override [Equals](../../aspose.html.net.headers/contentdispositionheadervalue/equals/)(*object*) | Determines whether the specified Object is equal to this instance. |
 | override [ToString](../../aspose.html.net.headers/contentdispositionheadervalue/tostring/)() | Returns a String that represents this instance. |
 
 ### See Also

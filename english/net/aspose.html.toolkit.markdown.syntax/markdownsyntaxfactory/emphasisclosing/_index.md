@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.EmphasisClosing
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Create EmphasisClosing
+description: MarkdownSyntaxFactory EmphasisClosing method. Create EmphasisClosing
 type: docs
 weight: 80
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emphasisclosing/

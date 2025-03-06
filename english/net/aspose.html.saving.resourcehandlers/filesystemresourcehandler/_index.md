@@ -18,15 +18,15 @@ public class FileSystemResourceHandler : ResourceHandler
 
 | Name | Description |
 | --- | --- |
-| [FileSystemResourceHandler](filesystemresourcehandler/#constructor_1)(string) | Initializes a new instance of the `FileSystemResourceHandler` class. |
-| [FileSystemResourceHandler](filesystemresourcehandler/#constructor)(Url) | Initializes a new instance of the `FileSystemResourceHandler` class. |
+| [FileSystemResourceHandler](filesystemresourcehandler/#constructor_1)(*string*) | Initializes a new instance of the `FileSystemResourceHandler` class. |
+| [FileSystemResourceHandler](filesystemresourcehandler/#constructor)(*[Url](../../aspose.html/url/)*) | Initializes a new instance of the `FileSystemResourceHandler` class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [HandleResource](../../aspose.html.saving.resourcehandlers/filesystemresourcehandler/handleresource/)(Resource, ResourceHandlingContext) | This method is responsible for handling the resource. In it you can save the [`Resource`](../../aspose.html.saving/resource/) to the stream or embed it into the parent resource. |
-| virtual [HandleResourceReference](../../aspose.html.saving.resourcehandlers/resourcehandler/handleresourcereference/)(Resource, ResourceHandlingContext) | This method is responsible for handling the resource reference. In this method, you can set what the reference to the resource being handled will look like. |
+| override [HandleResource](../../aspose.html.saving.resourcehandlers/filesystemresourcehandler/handleresource/)(*[Resource](../../aspose.html.saving/resource/), [ResourceHandlingContext](../../aspose.html.saving/resourcehandlingcontext/)*) | This method is responsible for handling the resource. In it you can save the [`Resource`](../../aspose.html.saving/resource/) to the stream or embed it into the parent resource. |
+| virtual [HandleResourceReference](../../aspose.html.saving.resourcehandlers/resourcehandler/handleresourcereference/)(*[Resource](../../aspose.html.saving/resource/), [ResourceHandlingContext](../../aspose.html.saving/resourcehandlingcontext/)*) | This method is responsible for handling the resource reference. In this method, you can set what the reference to the resource being handled will look like. |
 
 ### See Also
 

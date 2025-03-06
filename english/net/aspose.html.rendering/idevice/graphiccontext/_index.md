@@ -1,7 +1,7 @@
 ---
 title: IDevice.GraphicContext
 second_title: Aspose.HTML for .NET API Reference
-description: IDevice property. Gets the graphic context
+description: IDevice GraphicContext property. Gets the graphic context
 type: docs
 weight: 10
 url: /net/aspose.html.rendering/idevice/graphiccontext/

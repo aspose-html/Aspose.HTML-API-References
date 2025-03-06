@@ -45,7 +45,7 @@ using (var document = new HTMLDocument())
 
 ---
 
-## HTMLDocument(Configuration) {#constructor_1}
+## HTMLDocument(*[Configuration](../../configuration/)*) {#constructor_1}
 
 The HTMLDocument constructor creates a new HTML Document object that is a web page loaded in the browser and serving as an entry point into the page's content.
 
@@ -100,7 +100,7 @@ using (var configuration = new Configuration())
 
 ---
 
-## HTMLDocument(Url) {#constructor_4}
+## HTMLDocument(*[Url](../../url/)*) {#constructor_4}
 
 Loads the HTML document from a URL.
 
@@ -141,7 +141,7 @@ using (var document = new HTMLDocument("https://docs.aspose.com/html/net/working
 
 ---
 
-## HTMLDocument(Url, Configuration) {#constructor_5}
+## HTMLDocument(*[Url](../../url/), [Configuration](../../configuration/)*) {#constructor_5}
 
 Loads the HTML document from a URL with specified environment configuration settings.
 
@@ -198,7 +198,7 @@ using (var configuration = new Configuration())
 
 ---
 
-## HTMLDocument(string) {#constructor_10}
+## HTMLDocument(*string*) {#constructor_10}
 
 Loads the HTML document from an address.
 
@@ -237,7 +237,7 @@ using (var document = new HTMLDocument("./my-folder/document.html")))
 
 ---
 
-## HTMLDocument(string, Configuration) {#constructor_11}
+## HTMLDocument(*string, [Configuration](../../configuration/)*) {#constructor_11}
 
 Loads the HTML document from an address with specified environment configuration settings.
 
@@ -283,7 +283,7 @@ using (var configuration = new Configuration())
 
 ---
 
-## HTMLDocument(string, string) {#constructor_14}
+## HTMLDocument(*string, string*) {#constructor_14}
 
 Creates an HTML document from a String content with specified base-uri.
 
@@ -329,7 +329,7 @@ using (var document = new HTMLDocument(html_code, "."))
 
 ---
 
-## HTMLDocument(string, string, Configuration) {#constructor_15}
+## HTMLDocument(*string, string, [Configuration](../../configuration/)*) {#constructor_15}
 
 Creates an HTML document from a String content with specified base-uri and environment configuration settings.
 
@@ -377,7 +377,7 @@ using (var document = new HTMLDocument(html_code, "."))
 
 ---
 
-## HTMLDocument(string, Url) {#constructor_12}
+## HTMLDocument(*string, [Url](../../url/)*) {#constructor_12}
 
 Creates an HTML document from a String content with specified base-uri.
 
@@ -424,7 +424,7 @@ using (var document = new HTMLDocument(html_code, "."))
 
 ---
 
-## HTMLDocument(string, Url, Configuration) {#constructor_13}
+## HTMLDocument(*string, [Url](../../url/), [Configuration](../../configuration/)*) {#constructor_13}
 
 Creates an HTML document from a String content with specified base-uri and environment configuration settings.
 
@@ -473,7 +473,7 @@ using (var document = new HTMLDocument(html_code, "."))
 
 ---
 
-## HTMLDocument(Stream, string) {#constructor_8}
+## HTMLDocument(*Stream, string*) {#constructor_8}
 
 Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri that is used to resolve the relative resources' path.
 
@@ -529,7 +529,7 @@ using (var sw = new StreamWriter(mem))
 
 ---
 
-## HTMLDocument(Stream, string, Configuration) {#constructor_9}
+## HTMLDocument(*Stream, string, [Configuration](../../configuration/)*) {#constructor_9}
 
 Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri and environment configuration settings.
 
@@ -587,7 +587,7 @@ using (var sw = new StreamWriter(mem))
 
 ---
 
-## HTMLDocument(Stream, Url) {#constructor_6}
+## HTMLDocument(*Stream, [Url](../../url/)*) {#constructor_6}
 
 Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri that is used to resolve the relative resources' path.
 
@@ -644,7 +644,7 @@ using (var sw = new StreamWriter(mem))
 
 ---
 
-## HTMLDocument(Stream, Url, Configuration) {#constructor_7}
+## HTMLDocument(*Stream, [Url](../../url/), [Configuration](../../configuration/)*) {#constructor_7}
 
 Creates an HTML document from a [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream) content with specified base-uri and environment configuration settings.
 
@@ -703,7 +703,7 @@ using (var sw = new StreamWriter(mem))
 
 ---
 
-## HTMLDocument(RequestMessage) {#constructor_2}
+## HTMLDocument(*[RequestMessage](../../../aspose.html.net/requestmessage/)*) {#constructor_2}
 
 Creates an HTML document from the [`RequestMessage`](../../../aspose.html.net/requestmessage/) object.
 
@@ -734,7 +734,7 @@ Reference:
 
 ---
 
-## HTMLDocument(RequestMessage, Configuration) {#constructor_3}
+## HTMLDocument(*[RequestMessage](../../../aspose.html.net/requestmessage/), [Configuration](../../configuration/)*) {#constructor_3}
 
 Creates an HTML document from the [RequestMessage](T:Aspose.Html.Net.RequestMessage) object.
 

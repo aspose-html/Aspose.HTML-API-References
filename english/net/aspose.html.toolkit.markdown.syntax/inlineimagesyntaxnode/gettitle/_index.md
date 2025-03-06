@@ -1,7 +1,7 @@
 ---
 title: InlineImageSyntaxNode.GetTitle
 second_title: Aspose.HTML for .NET API Reference
-description: InlineImageSyntaxNode method. Defines the interface for get title
+description: InlineImageSyntaxNode GetTitle method. Defines the interface for get title
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/inlineimagesyntaxnode/gettitle/

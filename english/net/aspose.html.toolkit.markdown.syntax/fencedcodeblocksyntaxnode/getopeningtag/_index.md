@@ -1,7 +1,7 @@
 ---
 title: FencedCodeBlockSyntaxNode.GetOpeningTag
 second_title: Aspose.HTML for .NET API Reference
-description: FencedCodeBlockSyntaxNode method. Defines the interface for get Opening Tag
+description: FencedCodeBlockSyntaxNode GetOpeningTag method. Defines the interface for get Opening Tag
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode/getopeningtag/

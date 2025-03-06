@@ -1,7 +1,7 @@
 ---
 title: CharacterReferenceSyntaxNode.Value
 second_title: Aspose.HTML for .NET API Reference
-description: CharacterReferenceSyntaxNode property. Get the value
+description: CharacterReferenceSyntaxNode Value property. Get the value
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/value/

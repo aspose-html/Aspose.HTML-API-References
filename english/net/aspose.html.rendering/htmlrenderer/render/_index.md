@@ -1,12 +1,12 @@
 ---
 title: HtmlRenderer.Render
 second_title: Aspose.HTML for .NET API Reference
-description: HtmlRenderer method. Defines method for rendering multiple HTMLDocuments into specific IDevice
+description: HtmlRenderer Render method. Defines method for rendering multiple HTMLDocuments into specific IDevice
 type: docs
 weight: 20
 url: /net/aspose.html.rendering/htmlrenderer/render/
 ---
-## Render(IDevice, TimeSpan, params HTMLDocument[]) {#render_6}
+## Render(*[IDevice](../../idevice/), TimeSpan, params HTMLDocument[]*) {#render_6}
 
 Defines method for rendering multiple [`HTMLDocument`](../../../aspose.html/htmldocument/)s into specific [`IDevice`](../../idevice/).
 
@@ -30,7 +30,7 @@ public override void Render(IDevice device, TimeSpan timeout, params HTMLDocumen
 
 ---
 
-## Render(IDevice, CancellationToken, params HTMLDocument[]) {#render_5}
+## Render(*[IDevice](../../idevice/), CancellationToken, params HTMLDocument[]*) {#render_5}
 
 Defines a method for rendering multiple [`HTMLDocument`](../../../aspose.html/htmldocument/)s into a specific [`IDevice`](../../idevice/), using a cancellation token to request cancellation of the operation.
 

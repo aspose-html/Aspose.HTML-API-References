@@ -19,7 +19,7 @@ public class DocRenderingOptions : RenderingOptions
 | Name | Description |
 | --- | --- |
 | [DocRenderingOptions](docrenderingoptions/#constructor)() | Initializes a new instance of the `DocRenderingOptions` class. |
-| [DocRenderingOptions](docrenderingoptions/#constructor_1)(FontEmbeddingRule) | Initializes a new instance of the `DocRenderingOptions` class with the specified font embedding rule. |
+| [DocRenderingOptions](docrenderingoptions/#constructor_1)(*[FontEmbeddingRule](../fontembeddingrule/)*) | Initializes a new instance of the `DocRenderingOptions` class with the specified font embedding rule. |
 
 ## Properties
 

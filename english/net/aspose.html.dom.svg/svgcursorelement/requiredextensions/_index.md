@@ -1,7 +1,7 @@
 ---
 title: SVGCursorElement.RequiredExtensions
 second_title: Aspose.HTML for .NET API Reference
-description: SVGCursorElement property. Corresponds to attribute requiredExtensions on the given element
+description: SVGCursorElement RequiredExtensions property. Corresponds to attribute requiredExtensions on the given element
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgcursorelement/requiredextensions/

@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegArcAbs.R1
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathSegArcAbs property. The x-axis radius for the ellipse i.e. r1
+description: SVGPathSegArcAbs R1 property. The x-axis radius for the ellipse i.e. r1
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.paths/svgpathsegarcabs/r1/

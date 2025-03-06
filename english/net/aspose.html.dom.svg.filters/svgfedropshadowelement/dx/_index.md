@@ -1,7 +1,7 @@
 ---
 title: SVGFEDropShadowElement.Dx
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEDropShadowElement property. Corresponds to attribute dx on the given feDropShadow element
+description: SVGFEDropShadowElement Dx property. Corresponds to attribute dx on the given feDropShadow element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.filters/svgfedropshadowelement/dx/

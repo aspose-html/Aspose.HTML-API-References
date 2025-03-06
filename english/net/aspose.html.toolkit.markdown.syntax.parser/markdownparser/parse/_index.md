@@ -1,12 +1,12 @@
 ---
 title: MarkdownParser.Parse
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownParser method. Parse an TextReader
+description: MarkdownParser Parse method. Parse an TextReader
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/
 ---
-## Parse(TextReader) {#parse_1}
+## Parse(*TextReader*) {#parse_1}
 
 Parse an TextReader.
 
@@ -31,7 +31,7 @@ The Markdown syntax tree.
 
 ---
 
-## Parse(Stream) {#parse}
+## Parse(*Stream*) {#parse}
 
 Parse from Stream.
 
@@ -56,7 +56,7 @@ The Markdown syntax tree.
 
 ---
 
-## Parse(string) {#parse_2}
+## Parse(*string*) {#parse_2}
 
 Prase from the string context.
 

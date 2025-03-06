@@ -1,7 +1,7 @@
 ---
 title: InlineProxy.Accept
 second_title: Aspose.HTML for .NET API Reference
-description: InlineProxy method. Defines the interface for accept visitor
+description: InlineProxy Accept method. Defines the interface for accept visitor
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/inlineproxy/accept/

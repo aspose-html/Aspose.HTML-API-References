@@ -1,7 +1,7 @@
 ---
 title: HTMLLinkElement.Type
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLLinkElement property. Advisory content type. See the type attribute definition in HTML 4.01
+description: HTMLLinkElement Type property. Advisory content type. See the type attribute definition in HTML 4.01
 type: docs
 weight: 110
 url: /net/aspose.html/htmllinkelement/type/

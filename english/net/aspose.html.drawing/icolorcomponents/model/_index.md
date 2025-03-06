@@ -1,7 +1,7 @@
 ---
 title: IColorComponents.Model
 second_title: Aspose.HTML for .NET API Reference
-description: IColorComponents property. Returns the color model
+description: IColorComponents Model property. Returns the color model
 type: docs
 weight: 30
 url: /net/aspose.html.drawing/icolorcomponents/model/

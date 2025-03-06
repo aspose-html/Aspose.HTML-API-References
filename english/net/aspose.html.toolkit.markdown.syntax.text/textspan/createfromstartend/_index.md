@@ -1,7 +1,7 @@
 ---
 title: TextSpan.CreateFromStartEnd
 second_title: Aspose.HTML for .NET API Reference
-description: TextSpan method. Create the TextSpan
+description: TextSpan CreateFromStartEnd method. Create the TextSpan
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax.text/textspan/createfromstartend/

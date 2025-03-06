@@ -1,7 +1,7 @@
 ---
 title: SVGFEOffsetElement.In1
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEOffsetElement property. Corresponds to attribute in on the given feOffset element
+description: SVGFEOffsetElement In1 property. Corresponds to attribute in on the given feOffset element
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.filters/svgfeoffsetelement/in1/

@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitAtxHeading
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit AtxHeadingSyntax
+description: MarkdownSyntaxVisitor VisitAtxHeading method. Defines the interface for visit AtxHeadingSyntax
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitatxheading/

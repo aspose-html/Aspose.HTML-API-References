@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitLinkReferenceDefinition
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit LinkReferenceDefinitionSyntax
+description: MarkdownSyntaxVisitor VisitLinkReferenceDefinition method. Defines the interface for visit LinkReferenceDefinitionSyntax
 type: docs
 weight: 160
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitlinkreferencedefinition/

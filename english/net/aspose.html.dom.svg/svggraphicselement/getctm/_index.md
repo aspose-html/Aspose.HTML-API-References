@@ -1,7 +1,7 @@
 ---
 title: SVGGraphicsElement.GetCTM
 second_title: Aspose.HTML for .NET API Reference
-description: SVGGraphicsElement method. Returns the transformation matrix from current user units i.e. after application of the transform attribute if any to the viewport coordinate system for the nearestViewportElement
+description: SVGGraphicsElement GetCTM method. Returns the transformation matrix from current user units i.e. after application of the transform attribute if any to the viewport coordinate system for the nearestViewportElement
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg/svggraphicselement/getctm/

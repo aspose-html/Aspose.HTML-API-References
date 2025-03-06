@@ -1,7 +1,7 @@
 ---
 title: TableSyntaxNode.GetBodyRows
 second_title: Aspose.HTML for .NET API Reference
-description: TableSyntaxNode method. Defines the interface for get body rows
+description: TableSyntaxNode GetBodyRows method. Defines the interface for get body rows
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/tablesyntaxnode/getbodyrows/

@@ -1,7 +1,7 @@
 ---
 title: SVGStyleElement.Media
 second_title: Aspose.HTML for .NET API Reference
-description: SVGStyleElement property. Corresponds to attribute media on the given element
+description: SVGStyleElement Media property. Corresponds to attribute media on the given element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svgstyleelement/media/

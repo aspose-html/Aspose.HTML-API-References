@@ -1,7 +1,7 @@
 ---
 title: IInlineParsingContext.Source
 second_title: Aspose.HTML for .NET API Reference
-description: IInlineParsingContext property. Get the Source
+description: IInlineParsingContext Source property. Get the Source
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/source/

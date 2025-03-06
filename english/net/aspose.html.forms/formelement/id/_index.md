@@ -1,7 +1,7 @@
 ---
 title: FormElement.Id
 second_title: Aspose.HTML for .NET API Reference
-description: FormElement property. Gets or sets the identifier of the form element
+description: FormElement Id property. Gets or sets the identifier of the form element
 type: docs
 weight: 20
 url: /net/aspose.html.forms/formelement/id/

@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxToken.GetFullText
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxToken method. Defines the interface for get the full text
+description: MarkdownSyntaxToken GetFullText method. Defines the interface for get the full text
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/getfulltext/

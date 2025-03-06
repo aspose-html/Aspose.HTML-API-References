@@ -1,7 +1,7 @@
 ---
 title: ICSSMediaRule.Media
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSMediaRule property. The read-only media property of the CSSMediaRule interface MediaList represents the intended destination medium for style information
+description: ICSSMediaRule Media property. The read-only media property of the CSSMediaRule interface MediaList represents the intended destination medium for style information
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/icssmediarule/media/

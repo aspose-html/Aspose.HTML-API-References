@@ -1,7 +1,7 @@
 ---
 title: Document.OwnerDocument
 second_title: Aspose.HTML for .NET API Reference
-description: Document property. Gets the owner document
+description: Document OwnerDocument property. Gets the owner document
 type: docs
 weight: 210
 url: /net/aspose.html.dom/document/ownerdocument/

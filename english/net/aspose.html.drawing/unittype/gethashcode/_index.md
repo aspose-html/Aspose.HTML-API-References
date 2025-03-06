@@ -1,7 +1,7 @@
 ---
 title: UnitType.GetHashCode
 second_title: Aspose.HTML for .NET API Reference
-description: UnitType method. Returns a hash code for this instance
+description: UnitType GetHashCode method. Returns a hash code for this instance
 type: docs
 weight: 320
 url: /net/aspose.html.drawing/unittype/gethashcode/

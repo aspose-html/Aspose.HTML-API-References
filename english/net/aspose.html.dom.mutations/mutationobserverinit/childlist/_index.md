@@ -1,7 +1,7 @@
 ---
 title: MutationObserverInit.ChildList
 second_title: Aspose.HTML for .NET API Reference
-description: MutationObserverInit property. Set to true if mutations to targets children are to be observed
+description: MutationObserverInit ChildList property. Set to true if mutations to targets children are to be observed
 type: docs
 weight: 70
 url: /net/aspose.html.dom.mutations/mutationobserverinit/childlist/

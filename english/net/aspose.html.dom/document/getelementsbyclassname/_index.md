@@ -1,7 +1,7 @@
 ---
 title: Document.GetElementsByClassName
 second_title: Aspose.HTML for .NET API Reference
-description: Document method. The getElementsByClassName method of Document interface returns an array-like object of all child elements which have all of the given class names
+description: Document GetElementsByClassName method. The getElementsByClassName method of Document interface returns an array-like object of all child elements which have all of the given class names
 type: docs
 weight: 970
 url: /net/aspose.html.dom/document/getelementsbyclassname/

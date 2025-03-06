@@ -27,8 +27,8 @@ public interface IParentNode : IElementTraversal
 
 | Name | Description |
 | --- | --- |
-| [QuerySelector](../../aspose.html.dom/iparentnode/queryselector/)(string) | Returns the first element that is a descendant of node that matches selectors. |
-| [QuerySelectorAll](../../aspose.html.dom/iparentnode/queryselectorall/)(string) | Returns all element descendants of node that match selectors. |
+| [QuerySelector](../../aspose.html.dom/iparentnode/queryselector/)(*string*) | Returns the first element that is a descendant of node that matches selectors. |
+| [QuerySelectorAll](../../aspose.html.dom/iparentnode/queryselectorall/)(*string*) | Returns all element descendants of node that match selectors. |
 
 ### See Also
 

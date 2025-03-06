@@ -1,7 +1,7 @@
 ---
 title: Color.WithHue
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Creates copy of the Color with specified Hue
+description: Color WithHue method. Creates copy of the Color with specified Hue
 type: docs
 weight: 460
 url: /net/aspose.html.drawing/color/withhue/

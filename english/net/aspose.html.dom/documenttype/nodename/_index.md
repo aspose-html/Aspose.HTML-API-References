@@ -1,7 +1,7 @@
 ---
 title: DocumentType.NodeName
 second_title: Aspose.HTML for .NET API Reference
-description: DocumentType property. The name of this node depending on its type
+description: DocumentType NodeName property. The name of this node depending on its type
 type: docs
 weight: 40
 url: /net/aspose.html.dom/documenttype/nodename/

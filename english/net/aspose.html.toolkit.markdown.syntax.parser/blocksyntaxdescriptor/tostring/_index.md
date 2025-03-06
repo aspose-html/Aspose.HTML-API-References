@@ -1,7 +1,7 @@
 ---
 title: BlockSyntaxDescriptor.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: BlockSyntaxDescriptor method. Override the ToString interface
+description: BlockSyntaxDescriptor ToString method. Override the ToString interface
 type: docs
 weight: 110
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/tostring/

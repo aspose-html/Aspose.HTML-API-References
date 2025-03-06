@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnDurationChange
 second_title: Aspose.HTML for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnDurationChange event
+description: IGlobalEventHandlers OnDurationChange event. Gets or sets event handler for OnDurationChange event
 type: docs
 weight: 100
 url: /net/aspose.html.dom/iglobaleventhandlers/ondurationchange/

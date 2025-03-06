@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnKeyPress
 second_title: Aspose.HTML for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnKeyPress event
+description: IGlobalEventHandlers OnKeyPress event. Gets or sets event handler for OnKeyPress event
 type: docs
 weight: 180
 url: /net/aspose.html.dom/iglobaleventhandlers/onkeypress/

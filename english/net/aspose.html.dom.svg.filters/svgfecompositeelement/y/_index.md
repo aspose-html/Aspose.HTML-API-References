@@ -1,7 +1,7 @@
 ---
 title: SVGFECompositeElement.Y
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFECompositeElement property. Corresponds to attribute y on the given filter element
+description: SVGFECompositeElement Y property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 120
 url: /net/aspose.html.dom.svg.filters/svgfecompositeelement/y/

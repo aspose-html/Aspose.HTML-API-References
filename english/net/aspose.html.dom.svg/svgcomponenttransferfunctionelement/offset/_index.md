@@ -1,7 +1,7 @@
 ---
 title: SVGComponentTransferFunctionElement.Offset
 second_title: Aspose.HTML for .NET API Reference
-description: SVGComponentTransferFunctionElement property. Corresponds to attribute offset on the given element
+description: SVGComponentTransferFunctionElement Offset property. Corresponds to attribute offset on the given element
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgcomponenttransferfunctionelement/offset/

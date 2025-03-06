@@ -1,7 +1,7 @@
 ---
 title: RequestMessage.Headers
 second_title: Aspose.HTML for .NET API Reference
-description: RequestMessage property. Gets the RequestHeaders
+description: RequestMessage Headers property. Gets the RequestHeaders
 type: docs
 weight: 50
 url: /net/aspose.html.net/requestmessage/headers/

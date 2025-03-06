@@ -25,13 +25,13 @@ public class HtmlRenderer : Renderer<HTMLDocument>
 | Name | Description |
 | --- | --- |
 | [Dispose](../../aspose.html.rendering/renderer/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, HTMLDocument) |  |
-| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, params HTMLDocument[]) |  |
-| override [Render](../../aspose.html.rendering/htmlrenderer/render/#render_5)(IDevice, CancellationToken, params HTMLDocument[]) | Defines a method for rendering multiple [`HTMLDocument`](../../aspose.html/htmldocument/)s into a specific [`IDevice`](../idevice/), using a cancellation token to request cancellation of the operation. |
-| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, HTMLDocument, int) |  |
-| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, HTMLDocument, TimeSpan) |  |
-| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, int, params HTMLDocument[]) |  |
-| override [Render](../../aspose.html.rendering/htmlrenderer/render/#render_6)(IDevice, TimeSpan, params HTMLDocument[]) | Defines method for rendering multiple [`HTMLDocument`](../../aspose.html/htmldocument/)s into specific [`IDevice`](../idevice/). |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(*[IDevice](../idevice/), [HTMLDocument](../../aspose.html/htmldocument/)*) |  |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(*[IDevice](../idevice/), params HTMLDocument[]*) |  |
+| override [Render](../../aspose.html.rendering/htmlrenderer/render/#render_5)(*[IDevice](../idevice/), CancellationToken, params HTMLDocument[]*) | Defines a method for rendering multiple [`HTMLDocument`](../../aspose.html/htmldocument/)s into a specific [`IDevice`](../idevice/), using a cancellation token to request cancellation of the operation. |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(*[IDevice](../idevice/), [HTMLDocument](../../aspose.html/htmldocument/), int*) |  |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(*[IDevice](../idevice/), [HTMLDocument](../../aspose.html/htmldocument/), TimeSpan*) |  |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(*[IDevice](../idevice/), int, params HTMLDocument[]*) |  |
+| override [Render](../../aspose.html.rendering/htmlrenderer/render/#render_6)(*[IDevice](../idevice/), TimeSpan, params HTMLDocument[]*) | Defines method for rendering multiple [`HTMLDocument`](../../aspose.html/htmldocument/)s into specific [`IDevice`](../idevice/). |
 
 ### See Also
 

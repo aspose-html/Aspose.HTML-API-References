@@ -1,7 +1,7 @@
 ---
 title: LineParsingInstruction.WithTabsReservation
 second_title: Aspose.HTML for .NET API Reference
-description: LineParsingInstruction method. Defines the interface for WithTabsReservation
+description: LineParsingInstruction WithTabsReservation method. Defines the interface for WithTabsReservation
 type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/withtabsreservation/

@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegCurvetoQuadraticAbs.Y1
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathSegCurvetoQuadraticAbs property. The absolute Y coordinate for the first control point
+description: SVGPathSegCurvetoQuadraticAbs Y1 property. The absolute Y coordinate for the first control point
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticabs/y1/

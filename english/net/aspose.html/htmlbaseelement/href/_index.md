@@ -1,7 +1,7 @@
 ---
 title: HTMLBaseElement.Href
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLBaseElement property. The base URI IETF RFC 2396. See the href attribute definition in HTML 4.01
+description: HTMLBaseElement Href property. The base URI IETF RFC 2396. See the href attribute definition in HTML 4.01
 type: docs
 weight: 10
 url: /net/aspose.html/htmlbaseelement/href/

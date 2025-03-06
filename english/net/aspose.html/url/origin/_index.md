@@ -1,7 +1,7 @@
 ---
 title: Url.Origin
 second_title: Aspose.HTML for .NET API Reference
-description: Url property. Gets a string representation for the specified URL origin
+description: Url Origin property. Gets a string representation for the specified URL origin
 type: docs
 weight: 60
 url: /net/aspose.html/url/origin/

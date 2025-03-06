@@ -1,7 +1,7 @@
 ---
 title: HTMLModElement.Cite
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLModElement property. A URI IETF RFC 2396 designating a document that describes the reason for the change. See the cite attribute definition in HTML 4.01
+description: HTMLModElement Cite property. A URI IETF RFC 2396 designating a document that describes the reason for the change. See the cite attribute definition in HTML 4.01
 type: docs
 weight: 10
 url: /net/aspose.html/htmlmodelement/cite/

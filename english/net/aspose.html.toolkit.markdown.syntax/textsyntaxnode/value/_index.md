@@ -1,7 +1,7 @@
 ---
 title: TextSyntaxNode.Value
 second_title: Aspose.HTML for .NET API Reference
-description: TextSyntaxNode property. Defines the property for get string value
+description: TextSyntaxNode Value property. Defines the property for get string value
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/textsyntaxnode/value/

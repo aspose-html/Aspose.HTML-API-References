@@ -1,7 +1,7 @@
 ---
 title: ICanvasPathMethods.ArcTo
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasPathMethods method. Adds an arc to the path with the given control points and radius connected to the previous point by a straight line
+description: ICanvasPathMethods ArcTo method. Adds an arc to the path with the given control points and radius connected to the previous point by a straight line
 type: docs
 weight: 20
 url: /net/aspose.html.dom.canvas/icanvaspathmethods/arcto/

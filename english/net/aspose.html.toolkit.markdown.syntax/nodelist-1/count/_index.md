@@ -1,7 +1,7 @@
 ---
 title: NodeList-1.Count
 second_title: Aspose.HTML for .NET API Reference
-description: NodeList property. Gets the number of node in the list
+description: NodeList Count property. Gets the number of node in the list
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/nodelist-1/count/

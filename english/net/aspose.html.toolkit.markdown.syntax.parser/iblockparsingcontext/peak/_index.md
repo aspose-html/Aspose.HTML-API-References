@@ -1,7 +1,7 @@
 ---
 title: IBlockParsingContext.Peak
 second_title: Aspose.HTML for .NET API Reference
-description: IBlockParsingContext method. Defines the Peak method
+description: IBlockParsingContext Peak method. Defines the Peak method
 type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/peak/

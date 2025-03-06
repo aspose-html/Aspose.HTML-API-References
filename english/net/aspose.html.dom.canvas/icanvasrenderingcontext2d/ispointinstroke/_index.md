@@ -1,12 +1,12 @@
 ---
 title: ICanvasRenderingContext2D.IsPointInStroke
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D method. Reports whether or not the specified point is inside the area contained by the stroking of a path
+description: ICanvasRenderingContext2D IsPointInStroke method. Reports whether or not the specified point is inside the area contained by the stroking of a path
 type: docs
 weight: 270
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/ispointinstroke/
 ---
-## IsPointInStroke(double, double) {#ispointinstroke_1}
+## IsPointInStroke(*double, double*) {#ispointinstroke_1}
 
 Reports whether or not the specified point is inside the area contained by the stroking of a path.
 
@@ -31,7 +31,7 @@ Returns true if the point is inside the area contained by the stroking of a path
 
 ---
 
-## IsPointInStroke(Path2D, double, double) {#ispointinstroke}
+## IsPointInStroke(*[Path2D](../../path2d/), double, double*) {#ispointinstroke}
 
 Reports whether or not the specified point is inside the area contained by the stroking of a path.
 

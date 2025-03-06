@@ -1,12 +1,12 @@
 ---
 title: ICreateStreamProvider.GetStream
 second_title: Aspose.HTML for .NET API Reference
-description: ICreateStreamProvider method. Provides a stream for rendering
+description: ICreateStreamProvider GetStream method. Provides a stream for rendering
 type: docs
 weight: 10
 url: /net/aspose.html.io/icreatestreamprovider/getstream/
 ---
-## GetStream(string, string) {#getstream}
+## GetStream(*string, string*) {#getstream}
 
 Provides a stream for rendering.
 
@@ -31,7 +31,7 @@ A Stream object that is used for writing data during the rendering operations.
 
 ---
 
-## GetStream(string, string, int) {#getstream_1}
+## GetStream(*string, string, int*) {#getstream_1}
 
 Provides a stream for rendering.
 

@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitImage
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit InlineImageSyntax
+description: MarkdownSyntaxVisitor VisitImage method. Defines the interface for visit InlineImageSyntax
 type: docs
 weight: 120
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitimage/

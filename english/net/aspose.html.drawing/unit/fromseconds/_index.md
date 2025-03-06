@@ -1,7 +1,7 @@
 ---
 title: Unit.FromSeconds
 second_title: Aspose.HTML for .NET API Reference
-description: Unit method. Returns a Time object that is represented in seconds
+description: Unit FromSeconds method. Returns a Time object that is represented in seconds
 type: docs
 weight: 210
 url: /net/aspose.html.drawing/unit/fromseconds/

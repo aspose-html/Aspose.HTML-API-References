@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxNodeFilter.FILTER_REJECT
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxNodeFilter field. The filter reject constant
+description: MarkdownSyntaxNodeFilter FILTER_REJECT field. The filter reject constant
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/filter_reject/

@@ -1,7 +1,7 @@
 ---
 title: HTMLTextAreaElement.ReadOnly
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLTextAreaElement property. This control is read-only. See the readonly attribute definition in HTML 4.01
+description: HTMLTextAreaElement ReadOnly property. This control is read-only. See the readonly attribute definition in HTML 4.01
 type: docs
 weight: 70
 url: /net/aspose.html/htmltextareaelement/readonly/

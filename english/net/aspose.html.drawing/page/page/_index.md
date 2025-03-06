@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.drawing/page/page/
 ---
-## Page(Size, Margin) {#constructor_3}
+## Page(*[Size](../../size/), [Margin](../../margin/)*) {#constructor_3}
 
 Initializes a new instance of the [`Page`](../) class.
 
@@ -29,7 +29,7 @@ public Page(Size size, Margin margin)
 
 ---
 
-## Page(Size) {#constructor_2}
+## Page(*[Size](../../size/)*) {#constructor_2}
 
 Initializes a new instance of the [`Page`](../) class.
 
@@ -50,7 +50,7 @@ public Page(Size size)
 
 ---
 
-## Page(Margin) {#constructor_1}
+## Page(*[Margin](../../margin/)*) {#constructor_1}
 
 Initializes a new instance of the [`Page`](../) class.
 

@@ -1,7 +1,7 @@
 ---
 title: HTMLElement.OnInput
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLElement event. Gets or sets event handler for OnInput event
+description: HTMLElement OnInput event. Gets or sets event handler for OnInput event
 type: docs
 weight: 210
 url: /net/aspose.html/htmlelement/oninput/

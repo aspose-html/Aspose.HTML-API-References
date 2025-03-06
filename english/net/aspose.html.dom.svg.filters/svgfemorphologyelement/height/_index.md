@@ -1,7 +1,7 @@
 ---
 title: SVGFEMorphologyElement.Height
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEMorphologyElement property. Corresponds to attribute height on the given filter element
+description: SVGFEMorphologyElement Height property. Corresponds to attribute height on the given filter element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.filters/svgfemorphologyelement/height/

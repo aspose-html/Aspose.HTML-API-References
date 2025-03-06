@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxNodeFilter.AcceptNode
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxNodeFilter method. Defines the interface for accepting node
+description: MarkdownSyntaxNodeFilter AcceptNode method. Defines the interface for accepting node
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/acceptnode/

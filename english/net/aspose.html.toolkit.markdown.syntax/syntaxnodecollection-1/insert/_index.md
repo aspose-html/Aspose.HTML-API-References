@@ -1,7 +1,7 @@
 ---
 title: SyntaxNodeCollection-1.Insert
 second_title: Aspose.HTML for .NET API Reference
-description: SyntaxNodeCollection method. Inserts the given item at the specified index
+description: SyntaxNodeCollection Insert method. Inserts the given item at the specified index
 type: docs
 weight: 120
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/insert/

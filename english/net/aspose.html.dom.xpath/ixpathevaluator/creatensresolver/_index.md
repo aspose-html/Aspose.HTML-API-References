@@ -1,7 +1,7 @@
 ---
 title: IXPathEvaluator.CreateNSResolver
 second_title: Aspose.HTML for .NET API Reference
-description: IXPathEvaluator method. Adapts any DOM node to resolve namespaces so that an XPath expression can be easily evaluated relative to the context of the node where it appeared within the document. This adapter works like the DOM Level 3 method lookupNamespaceURI on nodes in resolving the namespaceURI from a given prefix using the current information available in the nodes hierarchy at the time lookupNamespaceURI is called also correctly resolving the implicit xml prefix
+description: IXPathEvaluator CreateNSResolver method. Adapts any DOM node to resolve namespaces so that an XPath expression can be easily evaluated relative to the context of the node where it appeared within the document. This adapter works like the DOM Level 3 method lookupNamespaceURI on nodes in resolving the namespaceURI from a given prefix using the current information available in the nodes hierarchy at the time lookupNamespaceURI is called also correctly resolving the implicit xml prefix
 type: docs
 weight: 20
 url: /net/aspose.html.dom.xpath/ixpathevaluator/creatensresolver/

@@ -1,7 +1,7 @@
 ---
 title: HTMLElement.OnDurationChange
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLElement event. Gets or sets event handler for OnDurationChange event
+description: HTMLElement OnDurationChange event. Gets or sets event handler for OnDurationChange event
 type: docs
 weight: 160
 url: /net/aspose.html/htmlelement/ondurationchange/

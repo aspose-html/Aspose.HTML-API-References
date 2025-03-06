@@ -1,7 +1,7 @@
 ---
 title: Element.Children
 second_title: Aspose.HTML for .NET API Reference
-description: Element property. Returns the child elements of current element
+description: Element Children property. Returns the child elements of current element
 type: docs
 weight: 40
 url: /net/aspose.html.dom/element/children/

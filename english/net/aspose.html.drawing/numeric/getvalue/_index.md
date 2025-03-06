@@ -1,7 +1,7 @@
 ---
 title: Numeric.GetValue
 second_title: Aspose.HTML for .NET API Reference
-description: Numeric method. Gets the unit value
+description: Numeric GetValue method. Gets the unit value
 type: docs
 weight: 40
 url: /net/aspose.html.drawing/numeric/getvalue/
@@ -26,7 +26,7 @@ The object value.
 
 ---
 
-## GetValue(UnitType) {#getvalue_1}
+## GetValue(*[UnitType](../../unittype/)*) {#getvalue_1}
 
 Gets the value converted to the specified [`UnitType`](../../unittype/).
 

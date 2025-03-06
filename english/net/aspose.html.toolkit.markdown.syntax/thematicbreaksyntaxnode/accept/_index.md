@@ -1,7 +1,7 @@
 ---
 title: ThematicBreakSyntaxNode.Accept
 second_title: Aspose.HTML for .NET API Reference
-description: ThematicBreakSyntaxNode method. Defines the interface for Accept visitor
+description: ThematicBreakSyntaxNode Accept method. Defines the interface for Accept visitor
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/thematicbreaksyntaxnode/accept/

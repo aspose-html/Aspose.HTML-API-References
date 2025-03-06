@@ -1,7 +1,7 @@
 ---
 title: SVGGraphicsElement.RequiredFeatures
 second_title: Aspose.HTML for .NET API Reference
-description: SVGGraphicsElement property. Corresponds to attribute requiredFeatures on the given element
+description: SVGGraphicsElement RequiredFeatures property. Corresponds to attribute requiredFeatures on the given element
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svggraphicselement/requiredfeatures/

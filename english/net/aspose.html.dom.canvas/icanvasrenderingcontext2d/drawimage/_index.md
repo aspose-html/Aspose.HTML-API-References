@@ -1,12 +1,12 @@
 ---
 title: ICanvasRenderingContext2D.DrawImage
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D method. Draws the specified image
+description: ICanvasRenderingContext2D DrawImage method. Draws the specified image
 type: docs
 weight: 210
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/drawimage/
 ---
-## DrawImage(HTMLImageElement, double, double) {#drawimage_3}
+## DrawImage(*[HTMLImageElement](../../../aspose.html/htmlimageelement/), double, double*) {#drawimage_3}
 
 Draws the specified image.
 
@@ -29,7 +29,7 @@ public void DrawImage(HTMLImageElement image, double dx, double dy)
 
 ---
 
-## DrawImage(HTMLCanvasElement, double, double) {#drawimage}
+## DrawImage(*[HTMLCanvasElement](../../../aspose.html/htmlcanvaselement/), double, double*) {#drawimage}
 
 Draws the specified image.
 
@@ -52,7 +52,7 @@ public void DrawImage(HTMLCanvasElement image, double dx, double dy)
 
 ---
 
-## DrawImage(HTMLImageElement, double, double, double, double) {#drawimage_4}
+## DrawImage(*[HTMLImageElement](../../../aspose.html/htmlimageelement/), double, double, double, double*) {#drawimage_4}
 
 Draws the specified image.
 
@@ -77,7 +77,7 @@ public void DrawImage(HTMLImageElement image, double dx, double dy, double dw, d
 
 ---
 
-## DrawImage(HTMLCanvasElement, double, double, double, double) {#drawimage_1}
+## DrawImage(*[HTMLCanvasElement](../../../aspose.html/htmlcanvaselement/), double, double, double, double*) {#drawimage_1}
 
 Draws the specified image.
 
@@ -102,7 +102,7 @@ public void DrawImage(HTMLCanvasElement image, double dx, double dy, double dw, 
 
 ---
 
-## DrawImage(HTMLImageElement, double, double, double, double, double, double, double, double) {#drawimage_5}
+## DrawImage(*[HTMLImageElement](../../../aspose.html/htmlimageelement/), double, double, double, double, double, double, double, double*) {#drawimage_5}
 
 Draws the specified image.
 
@@ -132,7 +132,7 @@ public void DrawImage(HTMLImageElement image, double sx, double sy, double sw, d
 
 ---
 
-## DrawImage(HTMLCanvasElement, double, double, double, double, double, double, double, double) {#drawimage_2}
+## DrawImage(*[HTMLCanvasElement](../../../aspose.html/htmlcanvaselement/), double, double, double, double, double, double, double, double*) {#drawimage_2}
 
 Draws the specified image.
 

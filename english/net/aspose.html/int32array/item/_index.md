@@ -1,7 +1,7 @@
 ---
 title: Int32Array.Item
 second_title: Aspose.HTML for .NET API Reference
-description: Int32Array property. Gets or sets the Int32 at the specified index
+description: Int32Array Item property. Gets or sets the Int32 at the specified index
 type: docs
 weight: 20
 url: /net/aspose.html/int32array/item/

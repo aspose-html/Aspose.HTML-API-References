@@ -1,7 +1,7 @@
 ---
 title: Document.QuerySelector
 second_title: Aspose.HTML for .NET API Reference
-description: Document method. Returns the first Element in document which match selector
+description: Document QuerySelector method. Returns the first Element in document which match selector
 type: docs
 weight: 1020
 url: /net/aspose.html.dom/document/queryselector/

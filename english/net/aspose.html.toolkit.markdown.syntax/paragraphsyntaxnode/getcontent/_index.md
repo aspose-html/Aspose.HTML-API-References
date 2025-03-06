@@ -1,7 +1,7 @@
 ---
 title: ParagraphSyntaxNode.GetContent
 second_title: Aspose.HTML for .NET API Reference
-description: ParagraphSyntaxNode method. Defines the interface for get content
+description: ParagraphSyntaxNode GetContent method. Defines the interface for get content
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/paragraphsyntaxnode/getcontent/

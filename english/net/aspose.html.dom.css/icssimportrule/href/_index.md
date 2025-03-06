@@ -1,7 +1,7 @@
 ---
 title: ICSSImportRule.Href
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSImportRule property. The read-only href property of the CSSImportRule interface returns the URL specified by the import at-rule
+description: ICSSImportRule Href property. The read-only href property of the CSSImportRule interface returns the URL specified by the import at-rule
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/icssimportrule/href/

@@ -1,7 +1,7 @@
 ---
 title: IWindow.LocalStorage
 second_title: Aspose.HTML for .NET API Reference
-description: IWindow property. Returns a Storage object that allows you to save key/value pairs in the user agent
+description: IWindow LocalStorage property. Returns a Storage object that allows you to save key/value pairs in the user agent
 type: docs
 weight: 30
 url: /net/aspose.html.window/iwindow/localstorage/

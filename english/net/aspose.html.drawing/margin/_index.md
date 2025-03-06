@@ -19,10 +19,10 @@ public class Margin
 | Name | Description |
 | --- | --- |
 | [Margin](margin/#constructor)() | Initializes a new instance of the `Margin` class. |
-| [Margin](margin/#constructor_3)(int) | Initializes a new instance of the `Margin` class. |
-| [Margin](margin/#constructor_1)(Length) | Initializes a new instance of the `Margin` class. |
-| [Margin](margin/#constructor_4)(int, int, int, int) | Initializes a new instance of the `Margin` class. |
-| [Margin](margin/#constructor_2)(Length, Length, Length, Length) | Initializes a new instance of the `Margin` class. |
+| [Margin](margin/#constructor_3)(*int*) | Initializes a new instance of the `Margin` class. |
+| [Margin](margin/#constructor_1)(*[Length](../length/)*) | Initializes a new instance of the `Margin` class. |
+| [Margin](margin/#constructor_4)(*int, int, int, int*) | Initializes a new instance of the `Margin` class. |
+| [Margin](margin/#constructor_2)(*[Length](../length/), [Length](../length/), [Length](../length/), [Length](../length/)*) | Initializes a new instance of the `Margin` class. |
 
 ## Properties
 

@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.Position
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. The values of this property have the following meanings
+description: ICSS2Properties Position property. The values of this property have the following meanings
 type: docs
 weight: 950
 url: /net/aspose.html.dom.css/icss2properties/position/

@@ -1,7 +1,7 @@
 ---
 title: IBlockParsingContext.SyntaxFactory
 second_title: Aspose.HTML for .NET API Reference
-description: IBlockParsingContext property. Get the SyntaxFactory
+description: IBlockParsingContext SyntaxFactory property. Get the SyntaxFactory
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/syntaxfactory/

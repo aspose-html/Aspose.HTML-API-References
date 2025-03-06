@@ -1,7 +1,7 @@
 ---
 title: Margin.Right
 second_title: Aspose.HTML for .NET API Reference
-description: Margin property. Gets or sets the right
+description: Margin Right property. Gets or sets the right
 type: docs
 weight: 40
 url: /net/aspose.html.drawing/margin/right/

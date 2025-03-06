@@ -1,7 +1,7 @@
 ---
 title: FontMatchingProperties.FontStretch
 second_title: Aspose.HTML for .NET API Reference
-description: FontMatchingProperties property. Gets the font stretch value
+description: FontMatchingProperties FontStretch property. Gets the font stretch value
 type: docs
 weight: 20
 url: /net/aspose.html.rendering.fonts/fontmatchingproperties/fontstretch/

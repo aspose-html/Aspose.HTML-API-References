@@ -18,11 +18,11 @@ public class Int8Array : TypedArray<sbyte>
 
 | Name | Description |
 | --- | --- |
-| [Int8Array](int8array/#constructor)(ArrayBuffer) | Initializes a new instance of the `Int8Array` class. |
-| [Int8Array](int8array/#constructor_3)(int) | Initializes a new instance of the `Int8Array` class. |
-| [Int8Array](int8array/#constructor_4)(sbyte[]) | Initializes a new instance of the `Int8Array` class. |
-| [Int8Array](int8array/#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the `Int8Array` class. |
-| [Int8Array](int8array/#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the `Int8Array` class. |
+| [Int8Array](int8array/#constructor)(*[ArrayBuffer](../arraybuffer/)*) | Initializes a new instance of the `Int8Array` class. |
+| [Int8Array](int8array/#constructor_3)(*int*) | Initializes a new instance of the `Int8Array` class. |
+| [Int8Array](int8array/#constructor_4)(*sbyte[]*) | Initializes a new instance of the `Int8Array` class. |
+| [Int8Array](int8array/#constructor_1)(*[ArrayBuffer](../arraybuffer/), int*) | Initializes a new instance of the `Int8Array` class. |
+| [Int8Array](int8array/#constructor_2)(*[ArrayBuffer](../arraybuffer/), int, int*) | Initializes a new instance of the `Int8Array` class. |
 
 ## Properties
 

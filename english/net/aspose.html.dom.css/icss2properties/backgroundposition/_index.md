@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.BackgroundPosition
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. If a background image has been specified this property specifies its initial position. Values have the following meanings
+description: ICSS2Properties BackgroundPosition property. If a background image has been specified this property specifies its initial position. Values have the following meanings
 type: docs
 weight: 60
 url: /net/aspose.html.dom.css/icss2properties/backgroundposition/

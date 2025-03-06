@@ -1,7 +1,7 @@
 ---
 title: TaskListItemMarker.IsChecked
 second_title: Aspose.HTML for .NET API Reference
-description: TaskListItemMarker method. Defines the interface for get checked status
+description: TaskListItemMarker IsChecked method. Defines the interface for get checked status
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/tasklistitemmarker/ischecked/

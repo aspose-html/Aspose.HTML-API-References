@@ -1,7 +1,7 @@
 ---
 title: Configuration.Security
 second_title: Aspose.HTML for .NET API Reference
-description: Configuration property. Gets or sets the sandboxing flag of the configuration. Refer to article about sandboxing
+description: Configuration Security property. Gets or sets the sandboxing flag of the configuration. Refer to article about sandboxing
 type: docs
 weight: 30
 url: /net/aspose.html/configuration/security/

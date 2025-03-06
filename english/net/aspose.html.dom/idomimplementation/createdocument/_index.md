@@ -1,7 +1,7 @@
 ---
 title: IDOMImplementation.CreateDocument
 second_title: Aspose.HTML for .NET API Reference
-description: IDOMImplementation method. Creates a DOM Document object of the specified type with its document element
+description: IDOMImplementation CreateDocument method. Creates a DOM Document object of the specified type with its document element
 type: docs
 weight: 10
 url: /net/aspose.html.dom/idomimplementation/createdocument/

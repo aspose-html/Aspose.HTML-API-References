@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegCurvetoCubicSmoothRel.Y
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathSegCurvetoCubicSmoothRel property. The relative Y coordinate for the end point of this path segment
+description: SVGPathSegCurvetoCubicSmoothRel Y property. The relative Y coordinate for the end point of this path segment
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothrel/y/

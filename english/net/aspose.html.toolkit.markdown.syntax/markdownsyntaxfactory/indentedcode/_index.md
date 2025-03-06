@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.IndentedCode
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates IndentedCodeBlockSyntaxNode
+description: MarkdownSyntaxFactory IndentedCode method. Creates IndentedCodeBlockSyntaxNode
 type: docs
 weight: 190
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/indentedcode/
@@ -27,7 +27,7 @@ The IndentedCodeBlockSyntax.
 
 ---
 
-## IndentedCode(int) {#indentedcode_1}
+## IndentedCode(*int*) {#indentedcode_1}
 
 Creates [`IndentedCodeBlockSyntaxNode`](../../indentedcodeblocksyntaxnode/).
 

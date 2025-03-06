@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.TableDelimiter
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates TableDelimiterSyntaxNode
+description: MarkdownSyntaxFactory TableDelimiter method. Creates TableDelimiterSyntaxNode
 type: docs
 weight: 400
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tabledelimiter/

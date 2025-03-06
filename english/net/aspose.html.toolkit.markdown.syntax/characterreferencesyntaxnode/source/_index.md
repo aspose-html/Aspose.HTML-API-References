@@ -1,7 +1,7 @@
 ---
 title: CharacterReferenceSyntaxNode.Source
 second_title: Aspose.HTML for .NET API Reference
-description: CharacterReferenceSyntaxNode property. Get the source
+description: CharacterReferenceSyntaxNode Source property. Get the source
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/source/

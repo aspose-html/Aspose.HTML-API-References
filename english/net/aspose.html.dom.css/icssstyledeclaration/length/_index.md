@@ -1,7 +1,7 @@
 ---
 title: ICSSStyleDeclaration.Length
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSStyleDeclaration property. The read-only property returns an integer number of properties that have been explicitly set in this CSS declaration block. The range of valid indices is 0 to length-1 inclusive
+description: ICSSStyleDeclaration Length property. The read-only property returns an integer number of properties that have been explicitly set in this CSS declaration block. The range of valid indices is 0 to length-1 inclusive
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/icssstyledeclaration/length/

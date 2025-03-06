@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitBlock
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit block
+description: MarkdownSyntaxVisitor VisitBlock method. Defines the interface for visit block
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitblock/

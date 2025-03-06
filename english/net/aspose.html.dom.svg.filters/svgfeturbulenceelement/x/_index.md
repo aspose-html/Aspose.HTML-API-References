@@ -1,7 +1,7 @@
 ---
 title: SVGFETurbulenceElement.X
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFETurbulenceElement property. Corresponds to attribute x on the given filter element
+description: SVGFETurbulenceElement X property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 100
 url: /net/aspose.html.dom.svg.filters/svgfeturbulenceelement/x/

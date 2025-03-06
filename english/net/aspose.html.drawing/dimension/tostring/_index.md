@@ -1,7 +1,7 @@
 ---
 title: Dimension.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: Dimension method. Returns a String that represents this instance
+description: Dimension ToString method. Returns a String that represents this instance
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/dimension/tostring/

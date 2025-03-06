@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElement.OrderX
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEConvolveMatrixElement property. Corresponds to attribute order on the given feConvolveMatrix element
+description: SVGFEConvolveMatrixElement OrderX property. Corresponds to attribute order on the given feConvolveMatrix element
 type: docs
 weight: 90
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/orderx/

@@ -1,7 +1,7 @@
 ---
 title: HTMLFrameElement.Src
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLFrameElement property. A URI IETF RFC 2396 designating the initial frame contents. See the src attribute definition in HTML 4.01
+description: HTMLFrameElement Src property. A URI IETF RFC 2396 designating the initial frame contents. See the src attribute definition in HTML 4.01
 type: docs
 weight: 90
 url: /net/aspose.html/htmlframeelement/src/

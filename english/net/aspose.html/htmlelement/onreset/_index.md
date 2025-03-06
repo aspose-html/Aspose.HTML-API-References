@@ -1,7 +1,7 @@
 ---
 title: HTMLElement.OnReset
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLElement event. Gets or sets event handler for OnReset event
+description: HTMLElement OnReset event. Gets or sets event handler for OnReset event
 type: docs
 weight: 430
 url: /net/aspose.html/htmlelement/onreset/

@@ -1,7 +1,7 @@
 ---
 title: Color.WithAlpha
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Creates copy of the Color with specified alpha component
+description: Color WithAlpha method. Creates copy of the Color with specified alpha component
 type: docs
 weight: 450
 url: /net/aspose.html.drawing/color/withalpha/

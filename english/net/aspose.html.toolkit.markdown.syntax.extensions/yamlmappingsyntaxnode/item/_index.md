@@ -1,7 +1,7 @@
 ---
 title: YamlMappingSyntaxNode.Item
 second_title: Aspose.HTML for .NET API Reference
-description: YamlMappingSyntaxNode property. Get the value by index
+description: YamlMappingSyntaxNode Item property. Get the value by index
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/item/

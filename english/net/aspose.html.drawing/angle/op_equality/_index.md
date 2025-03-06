@@ -1,7 +1,7 @@
 ---
 title: Angle.op_Equality
 second_title: Aspose.HTML for .NET API Reference
-description: Angle method. 
+description: Angle op_Equality method. 
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/angle/op_equality/

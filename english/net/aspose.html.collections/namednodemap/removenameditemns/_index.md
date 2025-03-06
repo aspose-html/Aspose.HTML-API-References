@@ -1,7 +1,7 @@
 ---
 title: NamedNodeMap.RemoveNamedItemNS
 second_title: Aspose.HTML for .NET API Reference
-description: NamedNodeMap method. Removes a node specified by local name and namespace URI
+description: NamedNodeMap RemoveNamedItemNS method. Removes a node specified by local name and namespace URI
 type: docs
 weight: 60
 url: /net/aspose.html.collections/namednodemap/removenameditemns/

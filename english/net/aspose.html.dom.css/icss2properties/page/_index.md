@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.Page
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. The page property can be used to specify a particular type of page where an element should be displayed
+description: ICSS2Properties Page property. The page property can be used to specify a particular type of page where an element should be displayed
 type: docs
 weight: 850
 url: /net/aspose.html.dom.css/icss2properties/page/

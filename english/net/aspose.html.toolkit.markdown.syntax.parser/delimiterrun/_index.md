@@ -18,7 +18,7 @@ public class DelimiterRun
 
 | Name | Description |
 | --- | --- |
-| [DelimiterRun](delimiterrun/)(SourceText, TextSpan, DelimiterState) | Create the DelimiterRun |
+| [DelimiterRun](delimiterrun/)(*[SourceText](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/), [TextSpan](../../aspose.html.toolkit.markdown.syntax.text/textspan/), [DelimiterState](../delimiterstate/)*) | Create the DelimiterRun |
 
 ## Properties
 

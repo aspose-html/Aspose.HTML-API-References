@@ -1,7 +1,7 @@
 ---
 title: SVGFEDiffuseLightingElement.X
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEDiffuseLightingElement property. Corresponds to attribute x on the given filter element
+description: SVGFEDiffuseLightingElement X property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 90
 url: /net/aspose.html.dom.svg.filters/svgfediffuselightingelement/x/

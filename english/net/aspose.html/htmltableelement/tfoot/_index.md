@@ -1,7 +1,7 @@
 ---
 title: HTMLTableElement.TFoot
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLTableElement property. Returns the tables THEAD or null if none exists
+description: HTMLTableElement TFoot property. Returns the tables THEAD or null if none exists
 type: docs
 weight: 120
 url: /net/aspose.html/htmltableelement/tfoot/

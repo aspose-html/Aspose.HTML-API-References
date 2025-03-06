@@ -1,7 +1,7 @@
 ---
 title: IDrawingFactory.CreateLinearGradientBrush
 second_title: Aspose.HTML for .NET API Reference
-description: IDrawingFactory method. Creates a linear gradient brush with the specified parameters
+description: IDrawingFactory CreateLinearGradientBrush method. Creates a linear gradient brush with the specified parameters
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/idrawingfactory/createlineargradientbrush/

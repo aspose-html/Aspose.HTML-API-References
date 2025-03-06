@@ -1,7 +1,7 @@
 ---
 title: MutationObserverInit.Count
 second_title: Aspose.HTML for .NET API Reference
-description: MutationObserverInit property. Gets the number of key/value pairs contained in the MutationObserverInit collection
+description: MutationObserverInit Count property. Gets the number of key/value pairs contained in the MutationObserverInit collection
 type: docs
 weight: 80
 url: /net/aspose.html.dom.mutations/mutationobserverinit/count/

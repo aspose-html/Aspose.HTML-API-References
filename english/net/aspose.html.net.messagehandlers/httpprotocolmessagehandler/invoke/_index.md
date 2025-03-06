@@ -1,7 +1,7 @@
 ---
 title: HttpProtocolMessageHandler.Invoke
 second_title: Aspose.HTML for .NET API Reference
-description: HttpProtocolMessageHandler method. When overridden in a derived class is used to implement the message handling
+description: HttpProtocolMessageHandler Invoke method. When overridden in a derived class is used to implement the message handling
 type: docs
 weight: 20
 url: /net/aspose.html.net.messagehandlers/httpprotocolmessagehandler/invoke/

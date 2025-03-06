@@ -1,7 +1,7 @@
 ---
 title: NodeList-1.WriteTo
 second_title: Aspose.HTML for .NET API Reference
-description: NodeList method. Write nodes to text writer
+description: NodeList WriteTo method. Write nodes to text writer
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/nodelist-1/writeto/

@@ -1,7 +1,7 @@
 ---
 title: MutationRecord.RemovedNodes
 second_title: Aspose.HTML for .NET API Reference
-description: MutationRecord property. Return the nodes removed
+description: MutationRecord RemovedNodes property. Return the nodes removed
 type: docs
 weight: 70
 url: /net/aspose.html.dom.mutations/mutationrecord/removednodes/

@@ -1,7 +1,7 @@
 ---
 title: SVGLength.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: SVGLength method. Returns a String that represents this instance
+description: SVGLength ToString method. Returns a String that represents this instance
 type: docs
 weight: 70
 url: /net/aspose.html.dom.svg.datatypes/svglength/tostring/

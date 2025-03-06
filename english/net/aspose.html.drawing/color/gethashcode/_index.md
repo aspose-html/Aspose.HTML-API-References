@@ -1,7 +1,7 @@
 ---
 title: Color.GetHashCode
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a hash code
+description: Color GetHashCode method. Returns a hash code
 type: docs
 weight: 320
 url: /net/aspose.html.drawing/color/gethashcode/

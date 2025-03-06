@@ -1,7 +1,7 @@
 ---
 title: BlockSyntaxDescriptor.AppendInline
 second_title: Aspose.HTML for .NET API Reference
-description: BlockSyntaxDescriptor method. Defines the interface for Append Inline
+description: BlockSyntaxDescriptor AppendInline method. Defines the interface for Append Inline
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/appendinline/

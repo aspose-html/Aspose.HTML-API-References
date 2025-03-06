@@ -35,8 +35,8 @@ public interface ICSSStyleSheet : IStyleSheet
 
 | Name | Description |
 | --- | --- |
-| [DeleteRule](../../aspose.html.dom.css/icssstylesheet/deleterule/)(int) | The `CSSStyleSheet` method deleteRule() removes a rule from the stylesheet object. |
-| [InsertRule](../../aspose.html.dom.css/icssstylesheet/insertrule/)(string, int) | The CSSStyleSheet.insertRule() method inserts a new CSS rule into the current style sheet, with some restrictions. |
+| [DeleteRule](../../aspose.html.dom.css/icssstylesheet/deleterule/)(*int*) | The `CSSStyleSheet` method deleteRule() removes a rule from the stylesheet object. |
+| [InsertRule](../../aspose.html.dom.css/icssstylesheet/insertrule/)(*string, int*) | The CSSStyleSheet.insertRule() method inserts a new CSS rule into the current style sheet, with some restrictions. |
 
 ## Remarks
 

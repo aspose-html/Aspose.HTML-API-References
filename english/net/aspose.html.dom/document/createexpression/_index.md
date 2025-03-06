@@ -1,7 +1,7 @@
 ---
 title: Document.CreateExpression
 second_title: Aspose.HTML for .NET API Reference
-description: Document method. Creates a parsed XPath expression with resolved namespaces. This is useful when an expression will be reused in an application since it makes it possible to compile the expression string into a more efficient internal form and preresolve all namespace prefixes which occur within the expression
+description: Document CreateExpression method. Creates a parsed XPath expression with resolved namespaces. This is useful when an expression will be reused in an application since it makes it possible to compile the expression string into a more efficient internal form and preresolve all namespace prefixes which occur within the expression
 type: docs
 weight: 890
 url: /net/aspose.html.dom/document/createexpression/

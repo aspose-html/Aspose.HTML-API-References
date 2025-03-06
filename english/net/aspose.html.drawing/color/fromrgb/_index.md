@@ -1,12 +1,12 @@
 ---
 title: Color.FromRgb
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a new Color with the requested ged green blue values. All color components must be in the range 0-255
+description: Color FromRgb method. Returns a new Color with the requested ged green blue values. All color components must be in the range 0-255
 type: docs
 weight: 200
 url: /net/aspose.html.drawing/color/fromrgb/
 ---
-## FromRgb(byte, byte, byte) {#fromrgb}
+## FromRgb(*byte, byte, byte*) {#fromrgb}
 
 Returns a new Color with the requested ged, green, blue values. All color components must be in the range 0-255.
 
@@ -32,7 +32,7 @@ A new instance of the [`Color`](../) class
 
 ---
 
-## FromRgb(int, int, int) {#fromrgb_1}
+## FromRgb(*int, int, int*) {#fromrgb_1}
 
 Returns a new Color with the requested ged, green, blue values. All color components must be in the range 0-255.
 
@@ -58,7 +58,7 @@ A new instance of the [`Color`](../) class
 
 ---
 
-## FromRgb(float, float, float) {#fromrgb_2}
+## FromRgb(*float, float, float*) {#fromrgb_2}
 
 Returns a new Color with the requested ged, green, blue values. All color components must be in the range 0-1.
 

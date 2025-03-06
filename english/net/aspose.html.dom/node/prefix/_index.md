@@ -1,7 +1,7 @@
 ---
 title: Node.Prefix
 second_title: Aspose.HTML for .NET API Reference
-description: Node property. The prefix read-only property returns the namespace prefix of the specified element or null if no prefix is specified
+description: Node Prefix property. The prefix read-only property returns the namespace prefix of the specified element or null if no prefix is specified
 type: docs
 weight: 140
 url: /net/aspose.html.dom/node/prefix/

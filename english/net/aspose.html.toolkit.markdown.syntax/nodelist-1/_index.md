@@ -29,9 +29,9 @@ public abstract class NodeList<T> : IEnumerable<T>, IWritable
 
 | Name | Description |
 | --- | --- |
-| abstract [Get](../../aspose.html.toolkit.markdown.syntax/nodelist-1/get/)(int) | Gets the node at the given index. |
+| abstract [Get](../../aspose.html.toolkit.markdown.syntax/nodelist-1/get/)(*int*) | Gets the node at the given index. |
 | abstract [GetEnumerator](../../aspose.html.toolkit.markdown.syntax/nodelist-1/getenumerator/)() | Gets the nodes in the collection. |
-| [WriteTo](../../aspose.html.toolkit.markdown.syntax/nodelist-1/writeto/)(TextWriter) | Write nodes to text writer. |
+| [WriteTo](../../aspose.html.toolkit.markdown.syntax/nodelist-1/writeto/)(*TextWriter*) | Write nodes to text writer. |
 
 ### See Also
 

@@ -1,12 +1,12 @@
 ---
 title: HugoFrontMatterSyntaxNode.Find
 second_title: Aspose.HTML for .NET API Reference
-description: HugoFrontMatterSyntaxNode method. Defines the interface for find BaseSyntaxNode
+description: HugoFrontMatterSyntaxNode Find method. Defines the interface for find BaseSyntaxNode
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugofrontmattersyntaxnode/find/
 ---
-## Find(params string[]) {#find}
+## Find(*params string[]*) {#find}
 
 Defines the interface for find BaseSyntaxNode
 
@@ -31,7 +31,7 @@ The BaseSyntaxNode.
 
 ---
 
-## Find&lt;T&gt;(params string[]) {#find_1}
+## Find&lt;T&gt;(*params string[]*) {#find_1}
 
 Defines the interface for find T
 

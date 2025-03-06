@@ -1,7 +1,7 @@
 ---
 title: TemplateContentOptions.DataContent
 second_title: Aspose.HTML for .NET API Reference
-description: TemplateContentOptions property. Data content property
+description: TemplateContentOptions DataContent property. Data content property
 type: docs
 weight: 30
 url: /net/aspose.html.converters/templatecontentoptions/datacontent/

@@ -1,7 +1,7 @@
 ---
 title: SVGRect.X
 second_title: Aspose.HTML for .NET API Reference
-description: SVGRect property. The X coordinate of the rectangle in user units
+description: SVGRect X property. The X coordinate of the rectangle in user units
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.datatypes/svgrect/x/

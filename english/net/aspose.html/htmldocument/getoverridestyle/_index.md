@@ -1,7 +1,7 @@
 ---
 title: HTMLDocument.GetOverrideStyle
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLDocument method. This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element
+description: HTMLDocument GetOverrideStyle method. This method is used to retrieve the override style declaration for a specified element and a specified pseudo-element
 type: docs
 weight: 110
 url: /net/aspose.html/htmldocument/getoverridestyle/

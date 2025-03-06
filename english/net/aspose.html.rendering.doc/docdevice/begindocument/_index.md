@@ -1,7 +1,7 @@
 ---
 title: DocDevice.BeginDocument
 second_title: Aspose.HTML for .NET API Reference
-description: DocDevice method. Begins rendering of the document
+description: DocDevice BeginDocument method. Begins rendering of the document
 type: docs
 weight: 30
 url: /net/aspose.html.rendering.doc/docdevice/begindocument/

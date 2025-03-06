@@ -1,7 +1,7 @@
 ---
 title: HTMLSaveOptions.DocumentType
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLSaveOptions property. Gets or sets the output document type
+description: HTMLSaveOptions DocumentType property. Gets or sets the output document type
 type: docs
 weight: 20
 url: /net/aspose.html.saving/htmlsaveoptions/documenttype/

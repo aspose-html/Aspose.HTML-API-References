@@ -27,7 +27,7 @@ public interface IHTMLOptionsCollection : IEnumerable<Element>
 
 | Name | Description |
 | --- | --- |
-| [NamedItem](../../aspose.html/ihtmloptionscollection/nameditem/)(string) | Method returns the indexth item in the collection. http://www.w3.org/TR/DOM-Level-2-HTML/html.html#HTMLOptionsCollection-namedItem |
+| [NamedItem](../../aspose.html/ihtmloptionscollection/nameditem/)(*string*) | Method returns the indexth item in the collection. http://www.w3.org/TR/DOM-Level-2-HTML/html.html#HTMLOptionsCollection-namedItem |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: InlineProxy.WriteTo
 second_title: Aspose.HTML for .NET API Reference
-description: InlineProxy method. Write to text writer
+description: InlineProxy WriteTo method. Write to text writer
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/inlineproxy/writeto/

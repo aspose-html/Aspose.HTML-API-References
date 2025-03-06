@@ -1,7 +1,7 @@
 ---
 title: Color.FromOklcha
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a new Color with the requested luminance chroma hue alpha values for OKLAB model
+description: Color FromOklcha method. Returns a new Color with the requested luminance chroma hue alpha values for OKLAB model
 type: docs
 weight: 190
 url: /net/aspose.html.drawing/color/fromoklcha/

@@ -1,7 +1,7 @@
 ---
 title: ICanvasRenderingContext2D.MeasureText
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D method. Returns a TextMetrics object
+description: ICanvasRenderingContext2D MeasureText method. Returns a TextMetrics object
 type: docs
 weight: 280
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/measuretext/

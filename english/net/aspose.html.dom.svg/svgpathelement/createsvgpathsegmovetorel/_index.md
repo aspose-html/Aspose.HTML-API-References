@@ -1,7 +1,7 @@
 ---
 title: SVGPathElement.CreateSVGPathSegMovetoRel
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathElement method. Returns a stand-alone parentless SVGPathSegMovetoRel object
+description: SVGPathElement CreateSVGPathSegMovetoRel method. Returns a stand-alone parentless SVGPathSegMovetoRel object
 type: docs
 weight: 210
 url: /net/aspose.html.dom.svg/svgpathelement/createsvgpathsegmovetorel/

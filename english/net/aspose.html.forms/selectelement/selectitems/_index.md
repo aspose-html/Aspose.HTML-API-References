@@ -1,12 +1,12 @@
 ---
 title: SelectElement.SelectItems
 second_title: Aspose.HTML for .NET API Reference
-description: SelectElement method. This methods allows to select multiple options by their indexes
+description: SelectElement SelectItems method. This methods allows to select multiple options by their indexes
 type: docs
 weight: 80
 url: /net/aspose.html.forms/selectelement/selectitems/
 ---
-## SelectItems(params int[]) {#selectitems}
+## SelectItems(*params int[]*) {#selectitems}
 
 This methods allows to select multiple options by their indexes.
 
@@ -26,7 +26,7 @@ public void SelectItems(params int[] indexes)
 
 ---
 
-## SelectItems(params string[]) {#selectitems_1}
+## SelectItems(*params string[]*) {#selectitems_1}
 
 This methods allows to select multiple options by their values.
 

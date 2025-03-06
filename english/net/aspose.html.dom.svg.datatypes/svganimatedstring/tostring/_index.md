@@ -1,7 +1,7 @@
 ---
 title: SVGAnimatedString.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: SVGAnimatedString method. Returns a String that represents this instance
+description: SVGAnimatedString ToString method. Returns a String that represents this instance
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.datatypes/svganimatedstring/tostring/

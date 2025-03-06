@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxFactory.CodeSpan
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates the CodeSpanSyntaxNode with the specified number of backticks
+description: MarkdownSyntaxFactory CodeSpan method. Creates the CodeSpanSyntaxNode with the specified number of backticks
 type: docs
 weight: 60
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/codespan/
 ---
-## CodeSpan(int) {#codespan_2}
+## CodeSpan(*int*) {#codespan_2}
 
 Creates the [`CodeSpanSyntaxNode`](../../codespansyntaxnode/) with the specified number of backticks.
 
@@ -52,7 +52,7 @@ The CodeSpanSyntax.
 
 ---
 
-## CodeSpan(MarkdownSyntaxToken, MarkdownSyntaxToken) {#codespan_1}
+## CodeSpan(*[MarkdownSyntaxToken](../../markdownsyntaxtoken/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/)*) {#codespan_1}
 
 Creates [`CodeSpanSyntaxNode`](../../codespansyntaxnode/).
 

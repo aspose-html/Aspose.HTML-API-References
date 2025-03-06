@@ -1,7 +1,7 @@
 ---
 title: SVGPatternElement.PatternTransform
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPatternElement property. Corresponds to attribute patternTransform on the given pattern element
+description: SVGPatternElement PatternTransform property. Corresponds to attribute patternTransform on the given pattern element
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgpatternelement/patterntransform/

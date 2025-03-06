@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxFactory.Text
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates TextSyntax
+description: MarkdownSyntaxFactory Text method. Creates TextSyntax
 type: docs
 weight: 440
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/text/
 ---
-## Text(string) {#text_2}
+## Text(*string*) {#text_2}
 
 Creates TextSyntax
 
@@ -31,7 +31,7 @@ The TextSyntax.
 
 ---
 
-## Text(SourceText) {#text}
+## Text(*[SourceText](../../../aspose.html.toolkit.markdown.syntax.text/sourcetext/)*) {#text}
 
 Create the TextSyntax from SourceText.
 
@@ -57,7 +57,7 @@ The TextSyntax.
 
 ---
 
-## Text(SourceText, TextSpan) {#text_1}
+## Text(*[SourceText](../../../aspose.html.toolkit.markdown.syntax.text/sourcetext/), [TextSpan](../../../aspose.html.toolkit.markdown.syntax.text/textspan/)*) {#text_1}
 
 Create the TextSyntax from SourceText and TextSpan.
 

@@ -1,7 +1,7 @@
 ---
 title: ITextureBrush.ColorMap
 second_title: Aspose.HTML for .NET API Reference
-description: ITextureBrush property. The number of elements must be even. Every even element is old color. Every odd element is new color
+description: ITextureBrush ColorMap property. The number of elements must be even. Every even element is old color. Every odd element is new color
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/itexturebrush/colormap/

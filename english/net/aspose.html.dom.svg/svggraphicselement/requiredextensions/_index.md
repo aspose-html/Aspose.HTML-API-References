@@ -1,7 +1,7 @@
 ---
 title: SVGGraphicsElement.RequiredExtensions
 second_title: Aspose.HTML for .NET API Reference
-description: SVGGraphicsElement property. Corresponds to attribute requiredExtensions on the given element
+description: SVGGraphicsElement RequiredExtensions property. Corresponds to attribute requiredExtensions on the given element
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svggraphicselement/requiredextensions/

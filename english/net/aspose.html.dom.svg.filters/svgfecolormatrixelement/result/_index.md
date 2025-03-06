@@ -1,7 +1,7 @@
 ---
 title: SVGFEColorMatrixElement.Result
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEColorMatrixElement property. Corresponds to attribute result on the given filter element
+description: SVGFEColorMatrixElement Result property. Corresponds to attribute result on the given filter element
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.filters/svgfecolormatrixelement/result/

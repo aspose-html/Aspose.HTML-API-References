@@ -1,7 +1,7 @@
 ---
 title: Color.ToRgbaHexString
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a Hexadecimal color is specified with RRGGBBAA
+description: Color ToRgbaHexString method. Returns a Hexadecimal color is specified with RRGGBBAA
 type: docs
 weight: 390
 url: /net/aspose.html.drawing/color/torgbahexstring/

@@ -1,7 +1,7 @@
 ---
 title: SVGListBase-1.AppendItem
 second_title: Aspose.HTML for .NET API Reference
-description: SVGListBase method. Inserts a new item at the end of the list
+description: SVGListBase AppendItem method. Inserts a new item at the end of the list
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/appenditem/

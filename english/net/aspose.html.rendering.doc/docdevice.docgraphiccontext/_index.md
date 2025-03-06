@@ -44,7 +44,7 @@ public class DocGraphicContext : GraphicContext
 | Name | Description |
 | --- | --- |
 | override [Clone](../../aspose.html.rendering.doc/docdevice.docgraphiccontext/clone)() | Creates a new instance of a [`GraphicContext`](../../aspose.html.rendering/graphiccontext/) class with the same property values as an existing instance. |
-| override [Transform](../../aspose.html.rendering.doc/docdevice.docgraphiccontext/transform)(IMatrix) | Modify the current transformation matrix by multiplying the specified matrix. |
+| override [Transform](../../aspose.html.rendering.doc/docdevice.docgraphiccontext/transform)(*[IMatrix](../../aspose.html.drawing/imatrix/)*) | Modify the current transformation matrix by multiplying the specified matrix. |
 
 ### See Also
 

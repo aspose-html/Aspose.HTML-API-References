@@ -1,7 +1,7 @@
 ---
 title: Node.IsSameNode
 second_title: Aspose.HTML for .NET API Reference
-description: Node method. The isSameNode method of the Node interface is a legacy alias the for the  strict equality operator. That is it tests whether two nodes are the same in other words whether they reference the same object
+description: Node IsSameNode method. The isSameNode method of the Node interface is a legacy alias the for the  strict equality operator. That is it tests whether two nodes are the same in other words whether they reference the same object
 type: docs
 weight: 230
 url: /net/aspose.html.dom/node/issamenode/

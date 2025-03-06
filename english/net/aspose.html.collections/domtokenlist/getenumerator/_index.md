@@ -1,7 +1,7 @@
 ---
 title: DOMTokenList.GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: DOMTokenList method. Returns an enumerator that iterates through the collection
+description: DOMTokenList GetEnumerator method. Returns an enumerator that iterates through the collection
 type: docs
 weight: 60
 url: /net/aspose.html.collections/domtokenlist/getenumerator/

@@ -1,7 +1,7 @@
 ---
 title: TaskListItemSyntaxNode.IsChecked
 second_title: Aspose.HTML for .NET API Reference
-description: TaskListItemSyntaxNode method. Defines the interface for get checked status
+description: TaskListItemSyntaxNode IsChecked method. Defines the interface for get checked status
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/tasklistitemsyntaxnode/ischecked/

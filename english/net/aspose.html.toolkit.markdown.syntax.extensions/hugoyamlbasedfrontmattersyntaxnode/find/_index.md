@@ -1,7 +1,7 @@
 ---
 title: HugoYamlBasedFrontMatterSyntaxNode.Find
 second_title: Aspose.HTML for .NET API Reference
-description: HugoYamlBasedFrontMatterSyntaxNode method. Defines the interface for find T by string Path
+description: HugoYamlBasedFrontMatterSyntaxNode Find method. Defines the interface for find T by string Path
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/find/

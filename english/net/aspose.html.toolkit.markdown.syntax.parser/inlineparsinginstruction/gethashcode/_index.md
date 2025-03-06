@@ -1,7 +1,7 @@
 ---
 title: InlineParsingInstruction.GetHashCode
 second_title: Aspose.HTML for .NET API Reference
-description: InlineParsingInstruction method. Defines the GetHashCode
+description: InlineParsingInstruction GetHashCode method. Defines the GetHashCode
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/gethashcode/

@@ -1,7 +1,7 @@
 ---
 title: SVGPatternElement.RequiredFeatures
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPatternElement property. Corresponds to attribute requiredFeatures on the given element
+description: SVGPatternElement RequiredFeatures property. Corresponds to attribute requiredFeatures on the given element
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg/svgpatternelement/requiredfeatures/

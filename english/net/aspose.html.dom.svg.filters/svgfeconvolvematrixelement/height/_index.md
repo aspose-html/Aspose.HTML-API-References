@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElement.Height
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEConvolveMatrixElement property. Corresponds to attribute height on the given filter element
+description: SVGFEConvolveMatrixElement Height property. Corresponds to attribute height on the given filter element
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/height/

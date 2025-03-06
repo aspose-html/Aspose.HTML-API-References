@@ -1,12 +1,12 @@
 ---
 title: Document.CreateTreeWalker
 second_title: Aspose.HTML for .NET API Reference
-description: Document method. Create a new TreeWalker over the subtree rooted at the specified node
+description: Document CreateTreeWalker method. Create a new TreeWalker over the subtree rooted at the specified node
 type: docs
 weight: 940
 url: /net/aspose.html.dom/document/createtreewalker/
 ---
-## CreateTreeWalker(Node) {#createtreewalker}
+## CreateTreeWalker(*[Node](../../node/)*) {#createtreewalker}
 
 Create a new TreeWalker over the subtree rooted at the specified node.
 
@@ -38,7 +38,7 @@ The newly created TreeWalker.
 
 ---
 
-## CreateTreeWalker(Node, long) {#createtreewalker_1}
+## CreateTreeWalker(*[Node](../../node/), long*) {#createtreewalker_1}
 
 Create a new TreeWalker over the subtree rooted at the specified node.
 
@@ -71,7 +71,7 @@ The newly created TreeWalker.
 
 ---
 
-## CreateTreeWalker(Node, long, INodeFilter) {#createtreewalker_2}
+## CreateTreeWalker(*[Node](../../node/), long, [INodeFilter](../../../aspose.html.dom.traversal/inodefilter/)*) {#createtreewalker_2}
 
 Create a new TreeWalker over the subtree rooted at the specified node.
 

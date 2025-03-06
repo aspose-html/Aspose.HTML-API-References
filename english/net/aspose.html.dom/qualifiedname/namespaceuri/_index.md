@@ -1,7 +1,7 @@
 ---
 title: QualifiedName.NamespaceURI
 second_title: Aspose.HTML for .NET API Reference
-description: QualifiedName property. Gets a string representation of the namespace of the QualifiedName
+description: QualifiedName NamespaceURI property. Gets a string representation of the namespace of the QualifiedName
 type: docs
 weight: 30
 url: /net/aspose.html.dom/qualifiedname/namespaceuri/

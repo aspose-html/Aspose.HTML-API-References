@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.TaskListItemMarker
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates TaskListItemMarker
+description: MarkdownSyntaxFactory TaskListItemMarker method. Creates TaskListItemMarker
 type: docs
 weight: 430
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tasklistitemmarker/

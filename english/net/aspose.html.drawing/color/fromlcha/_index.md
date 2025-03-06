@@ -1,7 +1,7 @@
 ---
 title: Color.FromLcha
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a new Color with the requested luminance chroma hue alpha values
+description: Color FromLcha method. Returns a new Color with the requested luminance chroma hue alpha values
 type: docs
 weight: 150
 url: /net/aspose.html.drawing/color/fromlcha/

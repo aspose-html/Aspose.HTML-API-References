@@ -1,7 +1,7 @@
 ---
 title: InlineContainerSyntaxNode.GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: InlineContainerSyntaxNode method. Returns an enumerator that iterates through the collection
+description: InlineContainerSyntaxNode GetEnumerator method. Returns an enumerator that iterates through the collection
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/inlinecontainersyntaxnode/getenumerator/

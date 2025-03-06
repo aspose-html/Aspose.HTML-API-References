@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.dom.events/keyboardevent/keyboardevent/
 ---
-## KeyboardEvent(string) {#constructor}
+## KeyboardEvent(*string*) {#constructor}
 
 Initializes a new instance of the [`KeyboardEvent`](../) class.
 
@@ -26,7 +26,7 @@ public KeyboardEvent(string type)
 
 ---
 
-## KeyboardEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## KeyboardEvent(*string, IDictionary&amp;lt;string, object&amp;gt;*) {#constructor_1}
 
 ```csharp
 public KeyboardEvent(string type, IDictionary<string, object> eventInitDict)

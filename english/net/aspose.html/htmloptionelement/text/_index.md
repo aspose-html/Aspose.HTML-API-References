@@ -1,7 +1,7 @@
 ---
 title: HTMLOptionElement.Text
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLOptionElement property. The text contained within the option element
+description: HTMLOptionElement Text property. The text contained within the option element
 type: docs
 weight: 70
 url: /net/aspose.html/htmloptionelement/text/

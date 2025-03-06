@@ -1,7 +1,7 @@
 ---
 title: PdfRenderingOptions.IsTaggedPdf
 second_title: Aspose.HTML for .NET API Reference
-description: PdfRenderingOptions property. Creates a tag structure if true
+description: PdfRenderingOptions IsTaggedPdf property. Creates a tag structure if true
 type: docs
 weight: 50
 url: /net/aspose.html.rendering.pdf/pdfrenderingoptions/istaggedpdf/

@@ -1,7 +1,7 @@
 ---
 title: LengthOrAuto.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: LengthOrAuto method. Returns a String that represents this instance
+description: LengthOrAuto ToString method. Returns a String that represents this instance
 type: docs
 weight: 70
 url: /net/aspose.html.drawing/lengthorauto/tostring/

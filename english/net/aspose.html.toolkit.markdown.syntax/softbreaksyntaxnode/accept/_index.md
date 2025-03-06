@@ -1,7 +1,7 @@
 ---
 title: SoftBreakSyntaxNode.Accept
 second_title: Aspose.HTML for .NET API Reference
-description: SoftBreakSyntaxNode method. Defines the interface for accept of the visitor
+description: SoftBreakSyntaxNode Accept method. Defines the interface for accept of the visitor
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/softbreaksyntaxnode/accept/

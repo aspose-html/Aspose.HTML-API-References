@@ -1,7 +1,7 @@
 ---
 title: IStorage.RemoveItem
 second_title: Aspose.HTML for .NET API Reference
-description: IStorage method. Removes the key/value pair with the given key if a key/value pair with the given key exists
+description: IStorage RemoveItem method. Removes the key/value pair with the given key if a key/value pair with the given key exists
 type: docs
 weight: 50
 url: /net/aspose.html.dom/istorage/removeitem/

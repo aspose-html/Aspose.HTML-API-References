@@ -1,7 +1,7 @@
 ---
 title: ICSSKeyframeRule.Style
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSKeyframeRule property. The read-only CSSKeyframeRule.style property is the CSSStyleDeclaration interface for the declaration block of the CSSKeyframeRule
+description: ICSSKeyframeRule Style property. The read-only CSSKeyframeRule.style property is the CSSStyleDeclaration interface for the declaration block of the CSSKeyframeRule
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/icsskeyframerule/style/

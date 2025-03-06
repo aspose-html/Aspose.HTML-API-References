@@ -1,7 +1,7 @@
 ---
 title: RuleValidationResult.Rule
 second_title: Aspose.HTML for .NET API Reference
-description: RuleValidationResult property. Rule that has been tested
+description: RuleValidationResult Rule property. Rule that has been tested
 type: docs
 weight: 30
 url: /net/aspose.html.accessibility.results/rulevalidationresult/rule/

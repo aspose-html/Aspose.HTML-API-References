@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnScroll
 second_title: Aspose.HTML for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnScroll event
+description: IGlobalEventHandlers OnScroll event. Gets or sets event handler for OnScroll event
 type: docs
 weight: 390
 url: /net/aspose.html.dom/iglobaleventhandlers/onscroll/

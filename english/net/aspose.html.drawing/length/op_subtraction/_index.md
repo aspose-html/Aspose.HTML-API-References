@@ -1,7 +1,7 @@
 ---
 title: Length.op_Subtraction
 second_title: Aspose.HTML for .NET API Reference
-description: Length method. 
+description: Length op_Subtraction method. 
 type: docs
 weight: 80
 url: /net/aspose.html.drawing/length/op_subtraction/

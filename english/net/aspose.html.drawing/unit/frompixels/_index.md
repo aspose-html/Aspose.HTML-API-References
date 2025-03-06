@@ -1,7 +1,7 @@
 ---
 title: Unit.FromPixels
 second_title: Aspose.HTML for .NET API Reference
-description: Unit method. Returns a Length object that is represented in pixels
+description: Unit FromPixels method. Returns a Length object that is represented in pixels
 type: docs
 weight: 170
 url: /net/aspose.html.drawing/unit/frompixels/

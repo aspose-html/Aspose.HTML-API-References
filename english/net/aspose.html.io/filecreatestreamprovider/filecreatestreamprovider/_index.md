@@ -22,7 +22,7 @@ public FileCreateStreamProvider()
 
 ---
 
-## FileCreateStreamProvider(string) {#constructor_1}
+## FileCreateStreamProvider(*string*) {#constructor_1}
 
 Initializes a new instance of the [`FileCreateStreamProvider`](../) class.
 
@@ -42,7 +42,7 @@ public FileCreateStreamProvider(string name)
 
 ---
 
-## FileCreateStreamProvider(string, string) {#constructor_2}
+## FileCreateStreamProvider(*string, string*) {#constructor_2}
 
 Initializes a new instance of the [`FileCreateStreamProvider`](../) class.
 

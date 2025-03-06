@@ -1,7 +1,7 @@
 ---
 title: Entity.NodeName
 second_title: Aspose.HTML for .NET API Reference
-description: Entity property. The name of this node depending on its type
+description: Entity NodeName property. The name of this node depending on its type
 type: docs
 weight: 20
 url: /net/aspose.html.dom/entity/nodename/

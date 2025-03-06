@@ -1,12 +1,12 @@
 ---
 title: IViewCSS.GetComputedStyle
 second_title: Aspose.HTML for .NET API Reference
-description: IViewCSS method. The IViewCSS.getComputedStyle method returns an object containing the values of all CSS properties of an element after applying active stylesheets and resolving any basic computation those values may contain
+description: IViewCSS GetComputedStyle method. The IViewCSS.getComputedStyle method returns an object containing the values of all CSS properties of an element after applying active stylesheets and resolving any basic computation those values may contain
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/iviewcss/getcomputedstyle/
 ---
-## GetComputedStyle(Element) {#getcomputedstyle}
+## GetComputedStyle(*[Element](../../../aspose.html.dom/element/)*) {#getcomputedstyle}
 
 The IViewCSS.getComputedStyle() method returns an object containing the values of all CSS properties of an element, after applying active stylesheets and resolving any basic computation those values may contain.
 
@@ -48,7 +48,7 @@ Reference
 
 ---
 
-## GetComputedStyle(Element, string) {#getcomputedstyle_1}
+## GetComputedStyle(*[Element](../../../aspose.html.dom/element/), string*) {#getcomputedstyle_1}
 
 The IViewCSS.getComputedStyle() method returns an object containing the values of all CSS properties of an element, after applying active stylesheets and resolving any basic computation those values may contain.
 

@@ -1,7 +1,7 @@
 ---
 title: CharacterData.AppendData
 second_title: Aspose.HTML for .NET API Reference
-description: CharacterData method. Append the string to the end of the character data of the node
+description: CharacterData AppendData method. Append the string to the end of the character data of the node
 type: docs
 weight: 30
 url: /net/aspose.html.dom/characterdata/appenddata/

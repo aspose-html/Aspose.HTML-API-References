@@ -1,7 +1,7 @@
 ---
 title: PageSetup.PageLayoutOptions
 second_title: Aspose.HTML for .NET API Reference
-description: PageSetup property. Gets or sets the PageLayoutOptions. Default value is None any other value will override the AdjustToWidestPage behaviour. Works only with HTML documents
+description: PageSetup PageLayoutOptions property. Gets or sets the PageLayoutOptions. Default value is None any other value will override the AdjustToWidestPage behaviour. Works only with HTML documents
 type: docs
 weight: 60
 url: /net/aspose.html.rendering/pagesetup/pagelayoutoptions/

@@ -1,7 +1,7 @@
 ---
 title: GraphicContext.Font
 second_title: Aspose.HTML for .NET API Reference
-description: GraphicContext property. Sets or gets the true type font object that is used for rendering text
+description: GraphicContext Font property. Sets or gets the true type font object that is used for rendering text
 type: docs
 weight: 40
 url: /net/aspose.html.rendering/graphiccontext/font/

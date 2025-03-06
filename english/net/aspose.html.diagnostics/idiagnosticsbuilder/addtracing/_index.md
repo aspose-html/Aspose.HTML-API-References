@@ -1,7 +1,7 @@
 ---
 title: IDiagnosticsBuilder.AddTracing
 second_title: Aspose.HTML for .NET API Reference
-description: IDiagnosticsBuilder method. Enables traces collection
+description: IDiagnosticsBuilder AddTracing method. Enables traces collection
 type: docs
 weight: 30
 url: /net/aspose.html.diagnostics/idiagnosticsbuilder/addtracing/

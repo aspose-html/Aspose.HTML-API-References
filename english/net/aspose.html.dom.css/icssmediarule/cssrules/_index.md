@@ -1,7 +1,7 @@
 ---
 title: ICSSMediaRule.CSSRules
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSMediaRule property. The cssRules property of the CSSGroupingRule interface returns a CSSRuleList containing a collection of CSSRule objects
+description: ICSSMediaRule CSSRules property. The cssRules property of the CSSGroupingRule interface returns a CSSRuleList containing a collection of CSSRule objects
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/icssmediarule/cssrules/

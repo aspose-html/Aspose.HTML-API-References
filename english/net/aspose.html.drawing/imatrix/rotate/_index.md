@@ -1,12 +1,12 @@
 ---
 title: IMatrix.Rotate
 second_title: Aspose.HTML for .NET API Reference
-description: IMatrix method. Rotates the matrix by the specified angle in the specified order
+description: IMatrix Rotate method. Rotates the matrix by the specified angle in the specified order
 type: docs
 weight: 140
 url: /net/aspose.html.drawing/imatrix/rotate/
 ---
-## Rotate(float, WebMatrixOrder) {#rotate_1}
+## Rotate(*float, [WebMatrixOrder](../../webmatrixorder/)*) {#rotate_1}
 
 Rotates the matrix by the specified angle in the specified order.
 
@@ -28,7 +28,7 @@ public void Rotate(float angle, WebMatrixOrder order)
 
 ---
 
-## Rotate(float) {#rotate}
+## Rotate(*float*) {#rotate}
 
 Rotates the matrix by the specified angle.
 

@@ -1,7 +1,7 @@
 ---
 title: Unit.FromTurns
 second_title: Aspose.HTML for .NET API Reference
-description: Unit method. Returns a Angle object that is represented in turns
+description: Unit FromTurns method. Returns a Angle object that is represented in turns
 type: docs
 weight: 220
 url: /net/aspose.html.drawing/unit/fromturns/

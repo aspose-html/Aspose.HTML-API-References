@@ -1,7 +1,7 @@
 ---
 title: SVGFEDropShadowElement.Width
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEDropShadowElement property. Corresponds to attribute width on the given feDropShadow element
+description: SVGFEDropShadowElement Width property. Corresponds to attribute width on the given feDropShadow element
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg.filters/svgfedropshadowelement/width/

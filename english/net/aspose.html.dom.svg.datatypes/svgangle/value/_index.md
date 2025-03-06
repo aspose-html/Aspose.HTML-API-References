@@ -1,7 +1,7 @@
 ---
 title: SVGAngle.Value
 second_title: Aspose.HTML for .NET API Reference
-description: SVGAngle property. The angle value as a floating point value in degrees. Setting this attribute will cause valueInSpecifiedUnits and valueAsString to be updated automatically to reflect this setting
+description: SVGAngle Value property. The angle value as a floating point value in degrees. Setting this attribute will cause valueInSpecifiedUnits and valueAsString to be updated automatically to reflect this setting
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.datatypes/svgangle/value/

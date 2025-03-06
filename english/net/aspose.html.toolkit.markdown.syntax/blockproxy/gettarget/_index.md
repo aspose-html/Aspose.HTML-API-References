@@ -1,7 +1,7 @@
 ---
 title: BlockProxy.GetTarget
 second_title: Aspose.HTML for .NET API Reference
-description: BlockProxy method. Get the target node
+description: BlockProxy GetTarget method. Get the target node
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/blockproxy/gettarget/

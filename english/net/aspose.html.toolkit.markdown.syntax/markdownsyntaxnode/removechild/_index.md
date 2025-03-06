@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxNode.RemoveChild
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxNode method. Remove the child
+description: MarkdownSyntaxNode RemoveChild method. Remove the child
 type: docs
 weight: 130
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/removechild/

@@ -1,7 +1,7 @@
 ---
 title: TextSyntaxNode.Span
 second_title: Aspose.HTML for .NET API Reference
-description: TextSyntaxNode property. Defines the interface for get span
+description: TextSyntaxNode Span property. Defines the interface for get span
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/textsyntaxnode/span/

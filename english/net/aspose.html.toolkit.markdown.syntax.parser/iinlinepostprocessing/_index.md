@@ -18,7 +18,7 @@ public interface IInlinePostProcessing
 
 | Name | Description |
 | --- | --- |
-| [Process](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessing/process/)(IInlinePostProcessingContext) | Defines the Process method. |
+| [Process](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessing/process/)(*[IInlinePostProcessingContext](../iinlinepostprocessingcontext/)*) | Defines the Process method. |
 
 ### See Also
 

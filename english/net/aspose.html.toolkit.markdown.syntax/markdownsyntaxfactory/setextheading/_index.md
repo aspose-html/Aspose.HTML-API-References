@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.SetextHeading
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates SetextHeadingSyntaxNode
+description: MarkdownSyntaxFactory SetextHeading method. Creates SetextHeadingSyntaxNode
 type: docs
 weight: 360
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/setextheading/

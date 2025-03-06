@@ -1,7 +1,7 @@
 ---
 title: UnorderedListSyntaxNode.Accept
 second_title: Aspose.HTML for .NET API Reference
-description: UnorderedListSyntaxNode method. Defines the interface for visiting nodes of the syntax
+description: UnorderedListSyntaxNode Accept method. Defines the interface for visiting nodes of the syntax
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/unorderedlistsyntaxnode/accept/

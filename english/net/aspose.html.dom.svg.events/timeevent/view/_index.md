@@ -1,7 +1,7 @@
 ---
 title: TimeEvent.View
 second_title: Aspose.HTML for .NET API Reference
-description: TimeEvent property. The view attribute identifies the AbstractView DOM2VIEWS from which the event was generated
+description: TimeEvent View property. The view attribute identifies the AbstractView DOM2VIEWS from which the event was generated
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.events/timeevent/view/

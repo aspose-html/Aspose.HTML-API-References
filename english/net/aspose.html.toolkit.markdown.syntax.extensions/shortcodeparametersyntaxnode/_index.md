@@ -28,21 +28,21 @@ public sealed class ShortCodeParameterSyntaxNode : InlineSyntaxNode
 
 | Name | Description |
 | --- | --- |
-| override [Accept](../../aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/accept/)(MarkdownSyntaxVisitor) | Defines the interface for accept visitor. |
-| [AppendChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/appendchild/)(MarkdownSyntaxNode) | Append child node. |
+| override [Accept](../../aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/accept/)(*[MarkdownSyntaxVisitor](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/)*) | Defines the interface for accept visitor. |
+| [AppendChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/appendchild/)(*[MarkdownSyntaxNode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/)*) | Append child node. |
 | [ChildNodes](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/childnodes/)() | Get the child nodes collection. |
 | [GetLeadingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getleadingtrivia/)() | Get the leading trivia. |
 | [GetName](../../aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/getname/)() | Get string name. |
 | [GetSyntaxTree](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getsyntaxtree/)() | Get the syntax tree. |
 | [GetTrailingTrivia](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/gettrailingtrivia/)() | Get the Trailing trivia. |
 | [GetValue](../../aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/getvalue/)() | Get string Value |
-| [InsertBefore](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/)(MarkdownSyntaxNode, MarkdownSyntaxNode) | Insert before node. |
-| [RemoveChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/removechild/)(MarkdownSyntaxNode) | Remove the child. |
-| [ReplaceChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/replacechild/)(MarkdownSyntaxNode, MarkdownSyntaxNode) | Replace the child node. |
-| [SetValue](../../aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/setvalue/)(string) | Defines the interface for set value. |
+| [InsertBefore](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/)(*[MarkdownSyntaxNode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/), [MarkdownSyntaxNode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/)*) | Insert before node. |
+| [RemoveChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/removechild/)(*[MarkdownSyntaxNode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/)*) | Remove the child. |
+| [ReplaceChild](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/replacechild/)(*[MarkdownSyntaxNode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/), [MarkdownSyntaxNode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/)*) | Replace the child node. |
+| [SetValue](../../aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/setvalue/)(*string*) | Defines the interface for set value. |
 | override [ToString](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/tostring/)() | Override ToString method. |
-| virtual [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(MarkdownTextWriter) | Write to MarkdownTextWriter. |
-| [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(TextWriter) | Write nodes to text writer. |
+| virtual [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(*[MarkdownTextWriter](../../aspose.html.toolkit.markdown.syntax/markdowntextwriter/)*) | Write to MarkdownTextWriter. |
+| [WriteTo](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(*TextWriter*) | Write nodes to text writer. |
 
 ### See Also
 

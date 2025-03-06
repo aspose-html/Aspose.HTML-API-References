@@ -1,7 +1,7 @@
 ---
 title: Url.Search
 second_title: Aspose.HTML for .NET API Reference
-description: Url property. Gets or sets a string representation for the specified URL search segment
+description: Url Search property. Gets or sets a string representation for the specified URL search segment
 type: docs
 weight: 110
 url: /net/aspose.html/url/search/

@@ -1,7 +1,7 @@
 ---
 title: DocDevice.Clip
 second_title: Aspose.HTML for .NET API Reference
-description: DocDevice method. Modifies the current clipping path by intersecting it with the current path using the FillMode rule to determine the region to fill. This method terminates current path
+description: DocDevice Clip method. Modifies the current clipping path by intersecting it with the current path using the FillMode rule to determine the region to fill. This method terminates current path
 type: docs
 weight: 60
 url: /net/aspose.html.rendering.doc/docdevice/clip/

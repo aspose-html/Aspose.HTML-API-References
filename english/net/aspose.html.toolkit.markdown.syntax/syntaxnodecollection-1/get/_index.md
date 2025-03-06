@@ -1,7 +1,7 @@
 ---
 title: SyntaxNodeCollection-1.Get
 second_title: Aspose.HTML for .NET API Reference
-description: SyntaxNodeCollection method. Gets the item at the given index
+description: SyntaxNodeCollection Get method. Gets the item at the given index
 type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/get/

@@ -1,7 +1,7 @@
 ---
 title: IInlinePostProcessingContext.ClosedDelimiter
 second_title: Aspose.HTML for .NET API Reference
-description: IInlinePostProcessingContext property. Get and set the ClosedDelimiter
+description: IInlinePostProcessingContext ClosedDelimiter property. Get and set the ClosedDelimiter
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/closeddelimiter/

@@ -1,12 +1,12 @@
 ---
 title: QualifiedName.Equals
 second_title: Aspose.HTML for .NET API Reference
-description: QualifiedName method. Determines whether the specified QualifiedName is equal to the current object
+description: QualifiedName Equals method. Determines whether the specified QualifiedName is equal to the current object
 type: docs
 weight: 50
 url: /net/aspose.html.dom/qualifiedname/equals/
 ---
-## Equals(QualifiedName) {#equals}
+## Equals(*[QualifiedName](../)*) {#equals}
 
 Determines whether the specified QualifiedName is equal to the current object.
 
@@ -30,7 +30,7 @@ true if the specified object is equal to the current object; otherwise, false.
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
 Determines whether the specified object is equal to the current object.
 

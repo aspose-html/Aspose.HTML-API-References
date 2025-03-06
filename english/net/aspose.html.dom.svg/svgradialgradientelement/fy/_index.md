@@ -1,7 +1,7 @@
 ---
 title: SVGRadialGradientElement.Fy
 second_title: Aspose.HTML for .NET API Reference
-description: SVGRadialGradientElement property. Corresponds to attribute fy on the given radialGradient element
+description: SVGRadialGradientElement Fy property. Corresponds to attribute fy on the given radialGradient element
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg/svgradialgradientelement/fy/

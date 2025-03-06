@@ -1,7 +1,7 @@
 ---
 title: HardBreakSyntaxNode.GetBreakingTag
 second_title: Aspose.HTML for .NET API Reference
-description: HardBreakSyntaxNode method. Defines the interface for get Breaking Tag
+description: HardBreakSyntaxNode GetBreakingTag method. Defines the interface for get Breaking Tag
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/hardbreaksyntaxnode/getbreakingtag/

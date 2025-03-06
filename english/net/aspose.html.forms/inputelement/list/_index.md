@@ -1,7 +1,7 @@
 ---
 title: InputElement.List
 second_title: Aspose.HTML for .NET API Reference
-description: InputElement property. Represents a list of options
+description: InputElement List property. Represents a list of options
 type: docs
 weight: 20
 url: /net/aspose.html.forms/inputelement/list/
