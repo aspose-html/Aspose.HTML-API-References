@@ -1,7 +1,7 @@
 ---
 title: InlineProxy.GetTarget
 second_title: Aspose.HTML for .NET API Reference
-description: InlineProxy method. Defines the interface for get target
+description: InlineProxy GetTarget method. Defines the interface for get target
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/inlineproxy/gettarget/

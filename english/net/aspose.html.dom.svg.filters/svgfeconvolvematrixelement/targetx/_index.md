@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElement.TargetX
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEConvolveMatrixElement property. Corresponds to attribute targetX on the given feConvolveMatrix element
+description: SVGFEConvolveMatrixElement TargetX property. Corresponds to attribute targetX on the given feConvolveMatrix element
 type: docs
 weight: 130
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/targetx/

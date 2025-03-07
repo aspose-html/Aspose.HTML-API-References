@@ -1,7 +1,7 @@
 ---
 title: SVGFEDistantLightElement.Azimuth
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEDistantLightElement property. Corresponds to attribute azimuth on the given feDistantLight element
+description: SVGFEDistantLightElement Azimuth property. Corresponds to attribute azimuth on the given feDistantLight element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.filters/svgfedistantlightelement/azimuth/

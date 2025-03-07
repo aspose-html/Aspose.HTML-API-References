@@ -1,7 +1,7 @@
 ---
 title: Content.ReadAsByteArray
 second_title: Aspose.HTML for .NET API Reference
-description: Content method. Serialize the HTTP content and return a byte array that represents the content
+description: Content ReadAsByteArray method. Serialize the HTTP content and return a byte array that represents the content
 type: docs
 weight: 30
 url: /net/aspose.html.net/content/readasbytearray/

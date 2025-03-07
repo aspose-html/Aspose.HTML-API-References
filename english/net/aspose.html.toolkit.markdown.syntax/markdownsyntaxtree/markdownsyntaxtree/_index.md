@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/markdownsyntaxtree/
 ---
-## MarkdownSyntaxTree(Configuration) {#constructor_1}
+## MarkdownSyntaxTree(*[Configuration](../../../aspose.html/configuration/)*) {#constructor_1}
 
 Creates the MarkdownSyntaxTree
 

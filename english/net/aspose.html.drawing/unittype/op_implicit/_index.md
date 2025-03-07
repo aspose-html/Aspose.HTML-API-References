@@ -1,7 +1,7 @@
 ---
 title: UnitType.op_Implicit
 second_title: Aspose.HTML for .NET API Reference
-description: UnitType method. 
+description: UnitType op_Implicit method. 
 type: docs
 weight: 360
 url: /net/aspose.html.drawing/unittype/op_implicit/

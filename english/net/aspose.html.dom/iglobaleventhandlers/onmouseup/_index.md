@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnMouseUp
 second_title: Aspose.HTML for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnMouseUp event
+description: IGlobalEventHandlers OnMouseUp event. Gets or sets event handler for OnMouseUp event
 type: docs
 weight: 300
 url: /net/aspose.html.dom/iglobaleventhandlers/onmouseup/

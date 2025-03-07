@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElement.Width
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEConvolveMatrixElement property. Corresponds to attribute width on the given filter element
+description: SVGFEConvolveMatrixElement Width property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 150
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/width/

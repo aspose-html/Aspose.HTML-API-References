@@ -1,7 +1,7 @@
 ---
 title: SVGDocument.Domain
 second_title: Aspose.HTML for .NET API Reference
-description: SVGDocument property. The domain name of the server that served the document or a null string if the server cannot be identified by a domain name
+description: SVGDocument Domain property. The domain name of the server that served the document or a null string if the server cannot be identified by a domain name
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgdocument/domain/

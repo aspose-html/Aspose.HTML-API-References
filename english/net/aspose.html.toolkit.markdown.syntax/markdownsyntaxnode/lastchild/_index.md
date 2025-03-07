@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxNode.LastChild
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxNode property. Get the last child
+description: MarkdownSyntaxNode LastChild property. Get the last child
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/lastchild/

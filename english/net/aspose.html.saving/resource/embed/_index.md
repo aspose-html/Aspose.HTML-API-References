@@ -1,7 +1,7 @@
 ---
 title: Resource.Embed
 second_title: Aspose.HTML for .NET API Reference
-description: Resource method. Embeds this resource within its parent by encoding it as Base64. The encoding result will be written to OutputUrl
+description: Resource Embed method. Embeds this resource within its parent by encoding it as Base64. The encoding result will be written to OutputUrl
 type: docs
 weight: 60
 url: /net/aspose.html.saving/resource/embed/

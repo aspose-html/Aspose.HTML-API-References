@@ -1,7 +1,7 @@
 ---
 title: Metered.IsMeteredLicensed
 second_title: Aspose.HTML for .NET API Reference
-description: Metered method. Check whether metered is licensed
+description: Metered IsMeteredLicensed method. Check whether metered is licensed
 type: docs
 weight: 50
 url: /net/aspose.html/metered/ismeteredlicensed/

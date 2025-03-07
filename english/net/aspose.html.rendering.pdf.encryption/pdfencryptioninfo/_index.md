@@ -18,7 +18,7 @@ public class PdfEncryptionInfo
 
 | Name | Description |
 | --- | --- |
-| [PdfEncryptionInfo](pdfencryptioninfo/)(string, string, PdfPermissions, PdfEncryptionAlgorithm) | Initializes a new instance of the `PdfEncryptionInfo` class. |
+| [PdfEncryptionInfo](pdfencryptioninfo/)(*string, string, [PdfPermissions](../pdfpermissions/), [PdfEncryptionAlgorithm](../pdfencryptionalgorithm/)*) | Initializes a new instance of the `PdfEncryptionInfo` class. |
 
 ## Properties
 

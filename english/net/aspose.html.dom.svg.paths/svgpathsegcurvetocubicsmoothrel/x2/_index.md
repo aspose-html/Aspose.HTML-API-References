@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegCurvetoCubicSmoothRel.X2
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathSegCurvetoCubicSmoothRel property. The relative X coordinate for the second control point
+description: SVGPathSegCurvetoCubicSmoothRel X2 property. The relative X coordinate for the second control point
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothrel/x2/

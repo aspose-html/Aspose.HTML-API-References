@@ -1,7 +1,7 @@
 ---
 title: CSSPrimitiveValue.GetStringValue
 second_title: Aspose.HTML for .NET API Reference
-description: CSSPrimitiveValue method. This method is used to get the string value. If the CSS value doesnt contain a string value a DOMException is raised
+description: CSSPrimitiveValue GetStringValue method. This method is used to get the string value. If the CSS value doesnt contain a string value a DOMException is raised
 type: docs
 weight: 70
 url: /net/aspose.html.dom.css/cssprimitivevalue/getstringvalue/

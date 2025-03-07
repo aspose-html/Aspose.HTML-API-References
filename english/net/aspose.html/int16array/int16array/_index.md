@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html/int16array/int16array/
 ---
-## Int16Array(int) {#constructor_4}
+## Int16Array(*int*) {#constructor_4}
 
 Initializes a new instance of the [`Int16Array`](../) class.
 
@@ -26,7 +26,7 @@ public Int16Array(int length)
 
 ---
 
-## Int16Array(short[]) {#constructor_3}
+## Int16Array(*short[]*) {#constructor_3}
 
 Initializes a new instance of the [`Int16Array`](../) class.
 
@@ -46,7 +46,7 @@ public Int16Array(short[] data)
 
 ---
 
-## Int16Array(ArrayBuffer) {#constructor}
+## Int16Array(*[ArrayBuffer](../../arraybuffer/)*) {#constructor}
 
 Initializes a new instance of the [`Int16Array`](../) class.
 
@@ -67,7 +67,7 @@ public Int16Array(ArrayBuffer buffer)
 
 ---
 
-## Int16Array(ArrayBuffer, int) {#constructor_1}
+## Int16Array(*[ArrayBuffer](../../arraybuffer/), int*) {#constructor_1}
 
 Initializes a new instance of the [`Int16Array`](../) class.
 
@@ -89,7 +89,7 @@ public Int16Array(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Int16Array(ArrayBuffer, int, int) {#constructor_2}
+## Int16Array(*[ArrayBuffer](../../arraybuffer/), int, int*) {#constructor_2}
 
 Initializes a new instance of the [`Int16Array`](../) class.
 

@@ -1,7 +1,7 @@
 ---
 title: SVGFEDiffuseLightingElement.Width
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEDiffuseLightingElement property. Corresponds to attribute width on the given filter element
+description: SVGFEDiffuseLightingElement Width property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg.filters/svgfediffuselightingelement/width/

@@ -1,7 +1,7 @@
 ---
 title: SVGPatternElement.Href
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPatternElement property. Corresponds to attribute xlinkhref on the given element
+description: SVGPatternElement Href property. Corresponds to attribute xlinkhref on the given element
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgpatternelement/href/

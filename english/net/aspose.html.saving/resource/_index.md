@@ -28,9 +28,9 @@ public class Resource
 
 | Name | Description |
 | --- | --- |
-| [Embed](../../aspose.html.saving/resource/embed/)(ResourceHandlingContext) | Embeds this resource within its parent by encoding it as Base64. The encoding result will be written to [`OutputUrl`](./outputurl/). |
-| [Save](../../aspose.html.saving/resource/save/)(Stream, ResourceHandlingContext) | Saves the resource to the provided stream. |
-| [WithOutputUrl](../../aspose.html.saving/resource/withoutputurl/)(Url) | Specifies the new URL indicating where the resource will be located after processing. |
+| [Embed](../../aspose.html.saving/resource/embed/)(*[ResourceHandlingContext](../resourcehandlingcontext/)*) | Embeds this resource within its parent by encoding it as Base64. The encoding result will be written to [`OutputUrl`](./outputurl/). |
+| [Save](../../aspose.html.saving/resource/save/)(*Stream, [ResourceHandlingContext](../resourcehandlingcontext/)*) | Saves the resource to the provided stream. |
+| [WithOutputUrl](../../aspose.html.saving/resource/withoutputurl/)(*[Url](../../aspose.html/url/)*) | Specifies the new URL indicating where the resource will be located after processing. |
 
 ### See Also
 

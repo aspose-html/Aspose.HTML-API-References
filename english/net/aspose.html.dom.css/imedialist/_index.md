@@ -28,8 +28,8 @@ public interface IMediaList : IEnumerable<string>
 
 | Name | Description |
 | --- | --- |
-| [AppendMedium](../../aspose.html.dom.css/imedialist/appendmedium/)(string) | Adds the medium newMedium to the end of the list. If the newMedium is already used, it is first removed. |
-| [DeleteMedium](../../aspose.html.dom.css/imedialist/deletemedium/)(string) | Deletes the medium indicated by oldMedium from the list. |
+| [AppendMedium](../../aspose.html.dom.css/imedialist/appendmedium/)(*string*) | Adds the medium newMedium to the end of the list. If the newMedium is already used, it is first removed. |
+| [DeleteMedium](../../aspose.html.dom.css/imedialist/deletemedium/)(*string*) | Deletes the medium indicated by oldMedium from the list. |
 
 ## Remarks
 

@@ -18,8 +18,8 @@ public abstract class MarkdownInlineSyntaxParser
 
 | Name | Description |
 | --- | --- |
-| abstract [CanParse](../../aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/canparse/)(IInlineParsingContext) | Get the can parse boolean value. |
-| abstract [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/parse/)(IInlineParsingContext) | Defines the interface for parse. |
+| abstract [CanParse](../../aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/canparse/)(*[IInlineParsingContext](../iinlineparsingcontext/)*) | Get the can parse boolean value. |
+| abstract [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/parse/)(*[IInlineParsingContext](../iinlineparsingcontext/)*) | Defines the interface for parse. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: InlineLinkSyntaxNode.GetDestination
 second_title: Aspose.HTML for .NET API Reference
-description: InlineLinkSyntaxNode method. Defines the interface for get destination
+description: InlineLinkSyntaxNode GetDestination method. Defines the interface for get destination
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/inlinelinksyntaxnode/getdestination/

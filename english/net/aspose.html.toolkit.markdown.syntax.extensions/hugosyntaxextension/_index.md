@@ -24,7 +24,7 @@ public class HugoSyntaxExtension : MarkdownSyntaxExtension
 
 | Name | Description |
 | --- | --- |
-| override [Setup](../../aspose.html.toolkit.markdown.syntax.extensions/hugosyntaxextension/setup/)(IMarkdownParserBuilder) | Defines the interface for Setup |
+| override [Setup](../../aspose.html.toolkit.markdown.syntax.extensions/hugosyntaxextension/setup/)(*[IMarkdownParserBuilder](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/)*) | Defines the interface for Setup |
 
 ### See Also
 

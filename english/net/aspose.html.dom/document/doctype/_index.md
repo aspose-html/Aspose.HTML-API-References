@@ -1,7 +1,7 @@
 ---
 title: Document.Doctype
 second_title: Aspose.HTML for .NET API Reference
-description: Document property. The Document Type Declaration associated with this document
+description: Document Doctype property. The Document Type Declaration associated with this document
 type: docs
 weight: 90
 url: /net/aspose.html.dom/document/doctype/

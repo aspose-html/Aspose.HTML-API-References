@@ -1,7 +1,7 @@
 ---
 title: NodeIterator.Detach
 second_title: Aspose.HTML for .NET API Reference
-description: NodeIterator method. The detach method when invoked must do nothing
+description: NodeIterator Detach method. The detach method when invoked must do nothing
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/nodeiterator/detach/

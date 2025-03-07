@@ -1,7 +1,7 @@
 ---
 title: Document.OnToggle
 second_title: Aspose.HTML for .NET API Reference
-description: Document event. Gets or sets event handler for OnToggle event
+description: Document OnToggle event. Gets or sets event handler for OnToggle event
 type: docs
 weight: 760
 url: /net/aspose.html.dom/document/ontoggle/

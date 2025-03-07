@@ -1,7 +1,7 @@
 ---
 title: Location.Pathname
 second_title: Aspose.HTML for .NET API Reference
-description: Location property. 
+description: Location Pathname property. 
 type: docs
 weight: 60
 url: /net/aspose.html.window/location/pathname/

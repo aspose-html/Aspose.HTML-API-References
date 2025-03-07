@@ -1,7 +1,7 @@
 ---
 title: HTMLCollection.GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLCollection method. Gets the enumerator
+description: HTMLCollection GetEnumerator method. Gets the enumerator
 type: docs
 weight: 30
 url: /net/aspose.html.collections/htmlcollection/getenumerator/

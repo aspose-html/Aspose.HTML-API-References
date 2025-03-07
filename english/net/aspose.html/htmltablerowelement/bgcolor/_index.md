@@ -1,7 +1,7 @@
 ---
 title: HTMLTableRowElement.BgColor
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLTableRowElement property. Background color for rows. See the bgcolor attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01
+description: HTMLTableRowElement BgColor property. Background color for rows. See the bgcolor attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01
 type: docs
 weight: 20
 url: /net/aspose.html/htmltablerowelement/bgcolor/

@@ -1,7 +1,7 @@
 ---
 title: ICanvasPathMethods.QuadraticCurveTo
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasPathMethods method. Adds a quadratic Bézier curve to the current path
+description: ICanvasPathMethods QuadraticCurveTo method. Adds a quadratic Bézier curve to the current path
 type: docs
 weight: 80
 url: /net/aspose.html.dom.canvas/icanvaspathmethods/quadraticcurveto/

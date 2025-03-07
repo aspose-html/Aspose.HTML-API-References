@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.WordSpacing
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. This property specifies spacing behavior between words. Values have the following meanings
+description: ICSS2Properties WordSpacing property. This property specifies spacing behavior between words. Values have the following meanings
 type: docs
 weight: 1210
 url: /net/aspose.html.dom.css/icss2properties/wordspacing/

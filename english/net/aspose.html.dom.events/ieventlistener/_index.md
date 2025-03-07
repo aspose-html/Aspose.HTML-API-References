@@ -18,7 +18,7 @@ public interface IEventListener
 
 | Name | Description |
 | --- | --- |
-| [HandleEvent](../../aspose.html.dom.events/ieventlistener/handleevent/)(Event) | This method is called whenever an event occurs of the type for which the interface was registered. |
+| [HandleEvent](../../aspose.html.dom.events/ieventlistener/handleevent/)(*[Event](../event/)*) | This method is called whenever an event occurs of the type for which the interface was registered. |
 
 ## Remarks
 

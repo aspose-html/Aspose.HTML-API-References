@@ -1,7 +1,7 @@
 ---
 title: SVGCircleElement.R
 second_title: Aspose.HTML for .NET API Reference
-description: SVGCircleElement property. Corresponds to attribute r on the given circle element
+description: SVGCircleElement R property. Corresponds to attribute r on the given circle element
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svgcircleelement/r/

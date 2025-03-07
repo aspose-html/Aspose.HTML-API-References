@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.SpeakNumeral
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. This property controls how numerals are spoken. Values have the following meanings
+description: ICSS2Properties SpeakNumeral property. This property controls how numerals are spoken. Values have the following meanings
 type: docs
 weight: 1020
 url: /net/aspose.html.dom.css/icss2properties/speaknumeral/

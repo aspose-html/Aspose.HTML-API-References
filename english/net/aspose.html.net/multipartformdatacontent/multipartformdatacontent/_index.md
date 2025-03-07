@@ -22,7 +22,7 @@ public MultipartFormDataContent()
 
 ---
 
-## MultipartFormDataContent(string) {#constructor_1}
+## MultipartFormDataContent(*string*) {#constructor_1}
 
 Initializes a new instance of the [`MultipartFormDataContent`](../) class.
 

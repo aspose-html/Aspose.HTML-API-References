@@ -1,7 +1,7 @@
 ---
 title: IMarkdownParserBuilder.UseBlockParser
 second_title: Aspose.HTML for .NET API Reference
-description: IMarkdownParserBuilder method. Defines the UseBlockParser method
+description: IMarkdownParserBuilder UseBlockParser method. Defines the UseBlockParser method
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useblockparser/

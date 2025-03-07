@@ -1,7 +1,7 @@
 ---
 title: Node.ATTRIBUTE_NODE
 second_title: Aspose.HTML for .NET API Reference
-description: Node field. An Attribute of an Element
+description: Node ATTRIBUTE_NODE field. An Attribute of an Element
 type: docs
 weight: 300
 url: /net/aspose.html.dom/node/attribute_node/

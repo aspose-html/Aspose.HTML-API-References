@@ -1,7 +1,7 @@
 ---
 title: Criterion.Level
 second_title: Aspose.HTML for .NET API Reference
-description: Criterion property. Compliance levels A lowest AA and AAA highest
+description: Criterion Level property. Compliance levels A lowest AA and AAA highest
 type: docs
 weight: 30
 url: /net/aspose.html.accessibility/criterion/level/

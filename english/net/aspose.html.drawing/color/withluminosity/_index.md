@@ -1,7 +1,7 @@
 ---
 title: Color.WithLuminosity
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Creates copy of the Color with specified luminosity
+description: Color WithLuminosity method. Creates copy of the Color with specified luminosity
 type: docs
 weight: 470
 url: /net/aspose.html.drawing/color/withluminosity/

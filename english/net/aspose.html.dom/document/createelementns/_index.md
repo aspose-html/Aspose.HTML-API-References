@@ -1,7 +1,7 @@
 ---
 title: Document.CreateElementNS
 second_title: Aspose.HTML for .NET API Reference
-description: Document method. Creates an element of the given qualified name and namespace URI
+description: Document CreateElementNS method. Creates an element of the given qualified name and namespace URI
 type: docs
 weight: 860
 url: /net/aspose.html.dom/document/createelementns/

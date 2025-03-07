@@ -25,13 +25,13 @@ public class NamedNodeMap : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [GetNamedItem](../../aspose.html.collections/namednodemap/getnameditem/)(string) | Retrieves a node specified by name. |
-| [GetNamedItemNS](../../aspose.html.collections/namednodemap/getnameditemns/)(string, string) | Retrieves a node specified by local name and namespace URI. |
+| [GetNamedItem](../../aspose.html.collections/namednodemap/getnameditem/)(*string*) | Retrieves a node specified by name. |
+| [GetNamedItemNS](../../aspose.html.collections/namednodemap/getnameditemns/)(*string, string*) | Retrieves a node specified by local name and namespace URI. |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| [RemoveNamedItem](../../aspose.html.collections/namednodemap/removenameditem/)(string) | Removes a node specified by name. |
-| [RemoveNamedItemNS](../../aspose.html.collections/namednodemap/removenameditemns/)(string, string) | Removes a node specified by local name and namespace URI. |
-| [SetNamedItem](../../aspose.html.collections/namednodemap/setnameditem/)(Attr) | Adds a node using its nodeName attribute. If a node with that name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |
-| [SetNamedItemNS](../../aspose.html.collections/namednodemap/setnameditemns/)(Attr) | Adds a node using its namespaceURI and localName. If a node with that namespace URI and that local name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |
+| [RemoveNamedItem](../../aspose.html.collections/namednodemap/removenameditem/)(*string*) | Removes a node specified by name. |
+| [RemoveNamedItemNS](../../aspose.html.collections/namednodemap/removenameditemns/)(*string, string*) | Removes a node specified by local name and namespace URI. |
+| [SetNamedItem](../../aspose.html.collections/namednodemap/setnameditem/)(*[Attr](../../aspose.html.dom/attr/)*) | Adds a node using its nodeName attribute. If a node with that name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |
+| [SetNamedItemNS](../../aspose.html.collections/namednodemap/setnameditemns/)(*[Attr](../../aspose.html.dom/attr/)*) | Adds a node using its namespaceURI and localName. If a node with that namespace URI and that local name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |
 
 ### See Also
 

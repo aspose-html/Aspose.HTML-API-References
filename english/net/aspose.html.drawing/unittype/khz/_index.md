@@ -1,7 +1,7 @@
 ---
 title: UnitType.KHz
 second_title: Aspose.HTML for .NET API Reference
-description: UnitType field. Measurement is in kiloHertz
+description: UnitType KHz field. Measurement is in kiloHertz
 type: docs
 weight: 140
 url: /net/aspose.html.drawing/unittype/khz/

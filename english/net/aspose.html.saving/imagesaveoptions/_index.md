@@ -19,7 +19,7 @@ public class ImageSaveOptions : ImageRenderingOptions
 | Name | Description |
 | --- | --- |
 | [ImageSaveOptions](imagesaveoptions/#constructor)() | Initializes a new instance of the `ImageSaveOptions` class; Png will be used as default image format. |
-| [ImageSaveOptions](imagesaveoptions/#constructor_1)(ImageFormat) | Image format [`ImageFormat`](../../aspose.html.rendering.image/imageformat/) based on initialization |
+| [ImageSaveOptions](imagesaveoptions/#constructor_1)(*[ImageFormat](../../aspose.html.rendering.image/imageformat/)*) | Image format [`ImageFormat`](../../aspose.html.rendering.image/imageformat/) based on initialization |
 
 ## Properties
 

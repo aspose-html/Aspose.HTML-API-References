@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxFactory.ListItemMarker
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates ListItemMarker
+description: MarkdownSyntaxFactory ListItemMarker method. Creates ListItemMarker
 type: docs
 weight: 290
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/listitemmarker/
 ---
-## ListItemMarker(MarkdownSyntaxToken, MarkdownSyntaxToken) {#listitemmarker_1}
+## ListItemMarker(*[MarkdownSyntaxToken](../../markdownsyntaxtoken/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/)*) {#listitemmarker_1}
 
 Creates [`ListItemMarker`](../../listitemmarker/).
 
@@ -33,7 +33,7 @@ The ListItemMarker.
 
 ---
 
-## ListItemMarker(MarkdownSyntaxToken) {#listitemmarker}
+## ListItemMarker(*[MarkdownSyntaxToken](../../markdownsyntaxtoken/)*) {#listitemmarker}
 
 Creates [`ListItemMarker`](../../listitemmarker/).
 

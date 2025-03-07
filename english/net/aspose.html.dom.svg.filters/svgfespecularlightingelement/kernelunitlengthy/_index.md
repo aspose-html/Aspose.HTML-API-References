@@ -1,7 +1,7 @@
 ---
 title: SVGFESpecularLightingElement.KernelUnitLengthY
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFESpecularLightingElement property. Corresponds to attribute kernelUnitLength on the given feSpecularLighting element
+description: SVGFESpecularLightingElement KernelUnitLengthY property. Corresponds to attribute kernelUnitLength on the given feSpecularLighting element
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.filters/svgfespecularlightingelement/kernelunitlengthy/

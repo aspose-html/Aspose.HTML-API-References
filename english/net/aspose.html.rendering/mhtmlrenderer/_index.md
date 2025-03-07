@@ -25,17 +25,17 @@ public class MhtmlRenderer : Renderer<Stream>
 | Name | Description |
 | --- | --- |
 | [Dispose](../../aspose.html.rendering/renderer/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, Stream) |  |
-| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, params Stream[]) |  |
-| override [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_9)(IDevice, CancellationToken, params Stream[]) | Defines a method for rendering multiple MHTML documents into a specific [`IDevice`](../idevice/), using a cancellation token to request cancellation of the operation. |
-| [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_1)(IDevice, IList&lt;Stream&gt;, Configuration) | Renders multiple MHTML documents into specified [`IDevice`](../idevice/). |
-| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, int, params Stream[]) |  |
-| [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_4)(IDevice, Stream, Configuration) | Renders MHTML document into specified [`IDevice`](../idevice/). |
-| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, Stream, int) |  |
-| [Render](../../aspose.html.rendering/renderer-1/render/)(IDevice, Stream, TimeSpan) |  |
-| override [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_10)(IDevice, TimeSpan, params Stream[]) | Renders multiple MHTML documents into specified [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
-| [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_2)(IDevice, IList&lt;Stream&gt;, Configuration, TimeSpan) | Renders multiple MHTML documents into specified [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
-| [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_5)(IDevice, Stream, Configuration, TimeSpan) | Renders MHTML document into specified [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(*[IDevice](../idevice/), Stream*) |  |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(*[IDevice](../idevice/), params Stream[]*) |  |
+| override [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_9)(*[IDevice](../idevice/), CancellationToken, params Stream[]*) | Defines a method for rendering multiple MHTML documents into a specific [`IDevice`](../idevice/), using a cancellation token to request cancellation of the operation. |
+| [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_1)(*[IDevice](../idevice/), IList&amp;lt;Stream&amp;gt;, [Configuration](../../aspose.html/configuration/)*) | Renders multiple MHTML documents into specified [`IDevice`](../idevice/). |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(*[IDevice](../idevice/), int, params Stream[]*) |  |
+| [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_4)(*[IDevice](../idevice/), Stream, [Configuration](../../aspose.html/configuration/)*) | Renders MHTML document into specified [`IDevice`](../idevice/). |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(*[IDevice](../idevice/), Stream, int*) |  |
+| [Render](../../aspose.html.rendering/renderer-1/render/)(*[IDevice](../idevice/), Stream, TimeSpan*) |  |
+| override [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_10)(*[IDevice](../idevice/), TimeSpan, params Stream[]*) | Renders multiple MHTML documents into specified [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
+| [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_2)(*[IDevice](../idevice/), IList&amp;lt;Stream&amp;gt;, [Configuration](../../aspose.html/configuration/), TimeSpan*) | Renders multiple MHTML documents into specified [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
+| [Render](../../aspose.html.rendering/mhtmlrenderer/render/#render_5)(*[IDevice](../idevice/), Stream, [Configuration](../../aspose.html/configuration/), TimeSpan*) | Renders MHTML document into specified [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
 
 ### See Also
 

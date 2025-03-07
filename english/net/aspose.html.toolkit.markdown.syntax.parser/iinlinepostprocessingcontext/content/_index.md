@@ -1,7 +1,7 @@
 ---
 title: IInlinePostProcessingContext.Content
 second_title: Aspose.HTML for .NET API Reference
-description: IInlinePostProcessingContext property. Get the Content
+description: IInlinePostProcessingContext Content property. Get the Content
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/content/

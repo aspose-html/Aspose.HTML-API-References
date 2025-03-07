@@ -18,11 +18,11 @@ public class Uint8ClampedArray : TypedArray<byte>
 
 | Name | Description |
 | --- | --- |
-| [Uint8ClampedArray](uint8clampedarray/#constructor)(ArrayBuffer) | Initializes a new instance of the `Uint8ClampedArray` class. |
-| [Uint8ClampedArray](uint8clampedarray/#constructor_3)(byte[]) | Initializes a new instance of the `Uint8ClampedArray` class. |
-| [Uint8ClampedArray](uint8clampedarray/#constructor_4)(int) | Initializes a new instance of the `Uint8ClampedArray` class. |
-| [Uint8ClampedArray](uint8clampedarray/#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the `Uint8ClampedArray` class. |
-| [Uint8ClampedArray](uint8clampedarray/#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the `Uint8ClampedArray` class. |
+| [Uint8ClampedArray](uint8clampedarray/#constructor)(*[ArrayBuffer](../arraybuffer/)*) | Initializes a new instance of the `Uint8ClampedArray` class. |
+| [Uint8ClampedArray](uint8clampedarray/#constructor_3)(*byte[]*) | Initializes a new instance of the `Uint8ClampedArray` class. |
+| [Uint8ClampedArray](uint8clampedarray/#constructor_4)(*int*) | Initializes a new instance of the `Uint8ClampedArray` class. |
+| [Uint8ClampedArray](uint8clampedarray/#constructor_1)(*[ArrayBuffer](../arraybuffer/), int*) | Initializes a new instance of the `Uint8ClampedArray` class. |
+| [Uint8ClampedArray](uint8clampedarray/#constructor_2)(*[ArrayBuffer](../arraybuffer/), int, int*) | Initializes a new instance of the `Uint8ClampedArray` class. |
 
 ## Properties
 

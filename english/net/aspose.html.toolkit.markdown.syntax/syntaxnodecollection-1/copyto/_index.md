@@ -1,7 +1,7 @@
 ---
 title: SyntaxNodeCollection-1.CopyTo
 second_title: Aspose.HTML for .NET API Reference
-description: SyntaxNodeCollection method. 
+description: SyntaxNodeCollection CopyTo method. 
 type: docs
 weight: 80
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/copyto/

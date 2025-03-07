@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.net/requestmessage/requestmessage/
 ---
-## RequestMessage(string) {#constructor_1}
+## RequestMessage(*string*) {#constructor_1}
 
 Initializes a new instance of the [`RequestMessage`](../) class.
 
@@ -26,7 +26,7 @@ public RequestMessage(string address)
 
 ---
 
-## RequestMessage(Url) {#constructor}
+## RequestMessage(*[Url](../../../aspose.html/url/)*) {#constructor}
 
 Initializes a new instance of the [`RequestMessage`](../) class.
 

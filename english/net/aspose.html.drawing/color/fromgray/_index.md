@@ -1,7 +1,7 @@
 ---
 title: Color.FromGray
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a new Color with the requested gray value
+description: Color FromGray method. Returns a new Color with the requested gray value
 type: docs
 weight: 40
 url: /net/aspose.html.drawing/color/fromgray/

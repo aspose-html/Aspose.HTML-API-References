@@ -24,7 +24,7 @@ public abstract class MessageHandler
 
 | Name | Description |
 | --- | --- |
-| abstract [Invoke](../../aspose.html.net/messagehandler/invoke/)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
+| abstract [Invoke](../../aspose.html.net/messagehandler/invoke/)(*[INetworkOperationContext](../inetworkoperationcontext/)*) | When overridden in a derived class is used to implement the message handling. |
 
 ### See Also
 

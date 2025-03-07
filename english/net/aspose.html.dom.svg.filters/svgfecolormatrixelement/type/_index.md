@@ -1,7 +1,7 @@
 ---
 title: SVGFEColorMatrixElement.Type
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEColorMatrixElement property. Corresponds to attribute type on the given feColorMatrix element. Takes one of the SVG_FECOLORMATRIX_TYPE_ constants defined on this interface
+description: SVGFEColorMatrixElement Type property. Corresponds to attribute type on the given feColorMatrix element. Takes one of the SVG_FECOLORMATRIX_TYPE_ constants defined on this interface
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.filters/svgfecolormatrixelement/type/

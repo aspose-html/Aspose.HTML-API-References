@@ -18,9 +18,9 @@ public class StringContent : ByteArrayContent
 
 | Name | Description |
 | --- | --- |
-| [StringContent](stringcontent/#constructor)(string) | Initializes a new instance of the `StringContent` class. |
-| [StringContent](stringcontent/#constructor_1)(string, Encoding) | Initializes a new instance of the `StringContent` class. |
-| [StringContent](stringcontent/#constructor_2)(string, Encoding, string) | Initializes a new instance of the `StringContent` class. |
+| [StringContent](stringcontent/#constructor)(*string*) | Initializes a new instance of the `StringContent` class. |
+| [StringContent](stringcontent/#constructor_1)(*string, Encoding*) | Initializes a new instance of the `StringContent` class. |
+| [StringContent](stringcontent/#constructor_2)(*string, Encoding, string*) | Initializes a new instance of the `StringContent` class. |
 
 ## Properties
 

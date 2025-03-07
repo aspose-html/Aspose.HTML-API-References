@@ -1,7 +1,7 @@
 ---
 title: ICanvasRenderingContext2D.AddHitRegion
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D method. 
+description: ICanvasRenderingContext2D AddHitRegion method. 
 type: docs
 weight: 110
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/addhitregion/

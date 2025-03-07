@@ -1,7 +1,7 @@
 ---
 title: IMatrix.M11
 second_title: Aspose.HTML for .NET API Reference
-description: IMatrix property. Gets or sets the value in the first row and first column of the matrix
+description: IMatrix M11 property. Gets or sets the value in the first row and first column of the matrix
 type: docs
 weight: 30
 url: /net/aspose.html.drawing/imatrix/m11/

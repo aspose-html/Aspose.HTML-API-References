@@ -1,7 +1,7 @@
 ---
 title: ITextureBrush.Image
 second_title: Aspose.HTML for .NET API Reference
-description: ITextureBrush property. Gets or sets the image used by the brush
+description: ITextureBrush Image property. Gets or sets the image used by the brush
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/itexturebrush/image/

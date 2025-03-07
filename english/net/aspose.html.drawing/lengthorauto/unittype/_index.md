@@ -1,7 +1,7 @@
 ---
 title: LengthOrAuto.UnitType
 second_title: Aspose.HTML for .NET API Reference
-description: LengthOrAuto property. Gets the unit type of the Unit
+description: LengthOrAuto UnitType property. Gets the unit type of the Unit
 type: docs
 weight: 40
 url: /net/aspose.html.drawing/lengthorauto/unittype/

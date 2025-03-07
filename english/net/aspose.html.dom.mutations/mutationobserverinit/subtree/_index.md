@@ -1,7 +1,7 @@
 ---
 title: MutationObserverInit.Subtree
 second_title: Aspose.HTML for .NET API Reference
-description: MutationObserverInit property. Set to true if mutations to not just target but also targets descendants are to be observed
+description: MutationObserverInit Subtree property. Set to true if mutations to not just target but also targets descendants are to be observed
 type: docs
 weight: 120
 url: /net/aspose.html.dom.mutations/mutationobserverinit/subtree/

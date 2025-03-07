@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegLinetoRel.X
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathSegLinetoRel property. The relative X coordinate for the end point of this path segment
+description: SVGPathSegLinetoRel X property. The relative X coordinate for the end point of this path segment
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.paths/svgpathseglinetorel/x/

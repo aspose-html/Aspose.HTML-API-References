@@ -1,7 +1,7 @@
 ---
 title: IDOMImplementation.CreateHTMLDocument
 second_title: Aspose.HTML for .NET API Reference
-description: IDOMImplementation method. Returns a document with a basic tree already constructed including a title element unless the title argument is omitted
+description: IDOMImplementation CreateHTMLDocument method. Returns a document with a basic tree already constructed including a title element unless the title argument is omitted
 type: docs
 weight: 30
 url: /net/aspose.html.dom/idomimplementation/createhtmldocument/

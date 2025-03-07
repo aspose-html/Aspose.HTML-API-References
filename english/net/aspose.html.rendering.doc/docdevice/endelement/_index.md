@@ -1,7 +1,7 @@
 ---
 title: DocDevice.EndElement
 second_title: Aspose.HTML for .NET API Reference
-description: DocDevice method. Ends rendering of the html node
+description: DocDevice EndElement method. Ends rendering of the html node
 type: docs
 weight: 100
 url: /net/aspose.html.rendering.doc/docdevice/endelement/

@@ -18,7 +18,7 @@ public interface IXPathNSResolver
 
 | Name | Description |
 | --- | --- |
-| [LookupNamespaceURI](../../aspose.html.dom.xpath/ixpathnsresolver/lookupnamespaceuri/)(string) | Look up the namespace URI associated to the given namespace prefix. The XPath evaluator must never call this with a `null` or empty argument, because the result of doing this is undefined. |
+| [LookupNamespaceURI](../../aspose.html.dom.xpath/ixpathnsresolver/lookupnamespaceuri/)(*string*) | Look up the namespace URI associated to the given namespace prefix. The XPath evaluator must never call this with a `null` or empty argument, because the result of doing this is undefined. |
 
 ### See Also
 

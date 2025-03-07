@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html/uint8array/uint8array/
 ---
-## Uint8Array(int) {#constructor_4}
+## Uint8Array(*int*) {#constructor_4}
 
 Initializes a new instance of the [`Uint8Array`](../) class.
 
@@ -26,7 +26,7 @@ public Uint8Array(int length)
 
 ---
 
-## Uint8Array(byte[]) {#constructor_3}
+## Uint8Array(*byte[]*) {#constructor_3}
 
 Initializes a new instance of the [`Uint8Array`](../) class.
 
@@ -46,7 +46,7 @@ public Uint8Array(byte[] data)
 
 ---
 
-## Uint8Array(ArrayBuffer) {#constructor}
+## Uint8Array(*[ArrayBuffer](../../arraybuffer/)*) {#constructor}
 
 Initializes a new instance of the [`Uint8Array`](../) class.
 
@@ -67,7 +67,7 @@ public Uint8Array(ArrayBuffer buffer)
 
 ---
 
-## Uint8Array(ArrayBuffer, int) {#constructor_1}
+## Uint8Array(*[ArrayBuffer](../../arraybuffer/), int*) {#constructor_1}
 
 Initializes a new instance of the [`Uint8Array`](../) class.
 
@@ -89,7 +89,7 @@ public Uint8Array(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Uint8Array(ArrayBuffer, int, int) {#constructor_2}
+## Uint8Array(*[ArrayBuffer](../../arraybuffer/), int, int*) {#constructor_2}
 
 Initializes a new instance of the [`Uint8Array`](../) class.
 

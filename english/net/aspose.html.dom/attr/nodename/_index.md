@@ -1,7 +1,7 @@
 ---
 title: Attr.NodeName
 second_title: Aspose.HTML for .NET API Reference
-description: Attr property. The name of this node depending on its type
+description: Attr NodeName property. The name of this node depending on its type
 type: docs
 weight: 40
 url: /net/aspose.html.dom/attr/nodename/

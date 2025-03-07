@@ -18,11 +18,11 @@ public class Float32Array : TypedArray<float>
 
 | Name | Description |
 | --- | --- |
-| [Float32Array](float32array/#constructor)(ArrayBuffer) | Initializes a new instance of the `Float32Array` class. |
-| [Float32Array](float32array/#constructor_4)(float[]) | Initializes a new instance of the `Float32Array` class. |
-| [Float32Array](float32array/#constructor_3)(int) | Initializes a new instance of the `Float32Array` class. |
-| [Float32Array](float32array/#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the `Float32Array` class. |
-| [Float32Array](float32array/#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the `Float32Array` class. |
+| [Float32Array](float32array/#constructor)(*[ArrayBuffer](../arraybuffer/)*) | Initializes a new instance of the `Float32Array` class. |
+| [Float32Array](float32array/#constructor_4)(*float[]*) | Initializes a new instance of the `Float32Array` class. |
+| [Float32Array](float32array/#constructor_3)(*int*) | Initializes a new instance of the `Float32Array` class. |
+| [Float32Array](float32array/#constructor_1)(*[ArrayBuffer](../arraybuffer/), int*) | Initializes a new instance of the `Float32Array` class. |
+| [Float32Array](float32array/#constructor_2)(*[ArrayBuffer](../arraybuffer/), int, int*) | Initializes a new instance of the `Float32Array` class. |
 
 ## Properties
 

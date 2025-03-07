@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.OrderedList
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates OrderedListSyntaxNode
+description: MarkdownSyntaxFactory OrderedList method. Creates OrderedListSyntaxNode
 type: docs
 weight: 310
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/orderedlist/

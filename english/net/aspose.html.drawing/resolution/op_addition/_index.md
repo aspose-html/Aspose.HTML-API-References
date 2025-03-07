@@ -1,7 +1,7 @@
 ---
 title: Resolution.op_Addition
 second_title: Aspose.HTML for .NET API Reference
-description: Resolution method. 
+description: Resolution op_Addition method. 
 type: docs
 weight: 10
 url: /net/aspose.html.drawing/resolution/op_addition/

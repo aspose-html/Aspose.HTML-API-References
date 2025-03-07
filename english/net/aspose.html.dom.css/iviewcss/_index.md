@@ -20,8 +20,8 @@ public interface IViewCSS : IAbstractView
 
 | Name | Description |
 | --- | --- |
-| [GetComputedStyle](../../aspose.html.dom.css/iviewcss/getcomputedstyle/#getcomputedstyle)(Element) | The IViewCSS.getComputedStyle() method returns an object containing the values of all CSS properties of an element, after applying active stylesheets and resolving any basic computation those values may contain. |
-| [GetComputedStyle](../../aspose.html.dom.css/iviewcss/getcomputedstyle/#getcomputedstyle_1)(Element, string) | The IViewCSS.getComputedStyle() method returns an object containing the values of all CSS properties of an element, after applying active stylesheets and resolving any basic computation those values may contain. |
+| [GetComputedStyle](../../aspose.html.dom.css/iviewcss/getcomputedstyle/#getcomputedstyle)(*[Element](../../aspose.html.dom/element/)*) | The IViewCSS.getComputedStyle() method returns an object containing the values of all CSS properties of an element, after applying active stylesheets and resolving any basic computation those values may contain. |
+| [GetComputedStyle](../../aspose.html.dom.css/iviewcss/getcomputedstyle/#getcomputedstyle_1)(*[Element](../../aspose.html.dom/element/), string*) | The IViewCSS.getComputedStyle() method returns an object containing the values of all CSS properties of an element, after applying active stylesheets and resolving any basic computation those values may contain. |
 
 ## Remarks
 

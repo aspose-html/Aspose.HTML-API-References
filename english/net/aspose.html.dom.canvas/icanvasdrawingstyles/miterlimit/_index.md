@@ -1,7 +1,7 @@
 ---
 title: ICanvasDrawingStyles.MiterLimit
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasDrawingStyles property. Miter limit ratio. Default 10
+description: ICanvasDrawingStyles MiterLimit property. Miter limit ratio. Default 10
 type: docs
 weight: 60
 url: /net/aspose.html.dom.canvas/icanvasdrawingstyles/miterlimit/

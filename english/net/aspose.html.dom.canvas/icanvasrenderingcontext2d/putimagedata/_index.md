@@ -1,12 +1,12 @@
 ---
 title: ICanvasRenderingContext2D.PutImageData
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D method. Paints data from the given ImageData object onto the bitmap. If a dirty rectangle is provided only the pixels from that rectangle are painted. This method is not affected by the canvas transformation matrix
+description: ICanvasRenderingContext2D PutImageData method. Paints data from the given ImageData object onto the bitmap. If a dirty rectangle is provided only the pixels from that rectangle are painted. This method is not affected by the canvas transformation matrix
 type: docs
 weight: 290
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/putimagedata/
 ---
-## PutImageData(IImageData, double, double) {#putimagedata}
+## PutImageData(*[IImageData](../../iimagedata/), double, double*) {#putimagedata}
 
 Paints data from the given ImageData object onto the bitmap. If a dirty rectangle is provided, only the pixels from that rectangle are painted. This method is not affected by the canvas transformation matrix.
 
@@ -29,7 +29,7 @@ public void PutImageData(IImageData imagedata, double dx, double dy)
 
 ---
 
-## PutImageData(IImageData, double, double, double, double, double, double) {#putimagedata_1}
+## PutImageData(*[IImageData](../../iimagedata/), double, double, double, double, double, double*) {#putimagedata_1}
 
 Paints data from the given ImageData object onto the bitmap. If a dirty rectangle is provided, only the pixels from that rectangle are painted. This method is not affected by the canvas transformation matrix.
 

@@ -25,7 +25,7 @@ public class Guideline : Rule
 
 | Name | Description |
 | --- | --- |
-| [GetCriterion](../../aspose.html.accessibility/guideline/getcriterion/)(string) | Get Criterion by code from WCAG |
+| [GetCriterion](../../aspose.html.accessibility/guideline/getcriterion/)(*string*) | Get Criterion by code from WCAG |
 | [GetCriterions](../../aspose.html.accessibility/guideline/getcriterions/)() | Get all the criteria contained in the Guideline |
 
 ### See Also

@@ -1,7 +1,7 @@
 ---
 title: Node.NodeName
 second_title: Aspose.HTML for .NET API Reference
-description: Node property. The read-only nodeName property of Node returns the name of the current node as a string
+description: Node NodeName property. The read-only nodeName property of Node returns the name of the current node as a string
 type: docs
 weight: 80
 url: /net/aspose.html.dom/node/nodename/

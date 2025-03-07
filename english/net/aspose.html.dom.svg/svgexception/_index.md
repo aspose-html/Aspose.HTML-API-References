@@ -18,7 +18,7 @@ public class SVGException : PlatformException
 
 | Name | Description |
 | --- | --- |
-| [SVGException](svgexception/)(ushort) | Initializes a new instance of the `SVGException` class. |
+| [SVGException](svgexception/)(*ushort*) | Initializes a new instance of the `SVGException` class. |
 
 ## Properties
 

@@ -1,7 +1,7 @@
 ---
 title: Comment.NodeName
 second_title: Aspose.HTML for .NET API Reference
-description: Comment property. The name of this node depending on its type
+description: Comment NodeName property. The name of this node depending on its type
 type: docs
 weight: 10
 url: /net/aspose.html.dom/comment/nodename/

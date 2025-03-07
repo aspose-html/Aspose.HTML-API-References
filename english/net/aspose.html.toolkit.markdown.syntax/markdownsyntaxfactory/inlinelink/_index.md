@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxFactory.InlineLink
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates InlineLinkSyntaxNode
+description: MarkdownSyntaxFactory InlineLink method. Creates InlineLinkSyntaxNode
 type: docs
 weight: 220
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlinelink/
 ---
-## InlineLink(MarkdownSyntaxToken, MarkdownSyntaxToken, MarkdownSyntaxToken, LinkDestinationSyntaxNode, LinkTitleSyntaxNode, MarkdownSyntaxToken) {#inlinelink}
+## InlineLink(*[MarkdownSyntaxToken](../../markdownsyntaxtoken/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/), [LinkDestinationSyntaxNode](../../linkdestinationsyntaxnode/), [LinkTitleSyntaxNode](../../linktitlesyntaxnode/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/)*) {#inlinelink}
 
 Creates [`InlineLinkSyntaxNode`](../../inlinelinksyntaxnode/).
 
@@ -42,7 +42,7 @@ The InlineLinkSyntax.
 
 ---
 
-## InlineLink(string, string, string) {#inlinelink_1}
+## InlineLink(*string, string, string*) {#inlinelink_1}
 
 Creates InlineLink.
 

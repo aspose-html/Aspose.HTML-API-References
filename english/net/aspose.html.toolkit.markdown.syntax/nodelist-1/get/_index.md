@@ -1,7 +1,7 @@
 ---
 title: NodeList-1.Get
 second_title: Aspose.HTML for .NET API Reference
-description: NodeList method. Gets the node at the given index
+description: NodeList Get method. Gets the node at the given index
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/nodelist-1/get/

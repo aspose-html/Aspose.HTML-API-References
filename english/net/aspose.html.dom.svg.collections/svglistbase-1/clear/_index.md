@@ -1,7 +1,7 @@
 ---
 title: SVGListBase-1.Clear
 second_title: Aspose.HTML for .NET API Reference
-description: SVGListBase method. Clears all existing current items from the list with the result being an empty list
+description: SVGListBase Clear method. Clears all existing current items from the list with the result being an empty list
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/clear/

@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html/float64array/float64array/
 ---
-## Float64Array(int) {#constructor_4}
+## Float64Array(*int*) {#constructor_4}
 
 Initializes a new instance of the [`Float64Array`](../) class.
 
@@ -26,7 +26,7 @@ public Float64Array(int length)
 
 ---
 
-## Float64Array(double[]) {#constructor_3}
+## Float64Array(*double[]*) {#constructor_3}
 
 Initializes a new instance of the [`Float64Array`](../) class.
 
@@ -46,7 +46,7 @@ public Float64Array(double[] data)
 
 ---
 
-## Float64Array(ArrayBuffer) {#constructor}
+## Float64Array(*[ArrayBuffer](../../arraybuffer/)*) {#constructor}
 
 Initializes a new instance of the [`Float64Array`](../) class.
 
@@ -67,7 +67,7 @@ public Float64Array(ArrayBuffer buffer)
 
 ---
 
-## Float64Array(ArrayBuffer, int) {#constructor_1}
+## Float64Array(*[ArrayBuffer](../../arraybuffer/), int*) {#constructor_1}
 
 Initializes a new instance of the [`Float64Array`](../) class.
 
@@ -89,7 +89,7 @@ public Float64Array(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Float64Array(ArrayBuffer, int, int) {#constructor_2}
+## Float64Array(*[ArrayBuffer](../../arraybuffer/), int, int*) {#constructor_2}
 
 Initializes a new instance of the [`Float64Array`](../) class.
 

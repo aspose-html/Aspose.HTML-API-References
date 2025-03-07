@@ -1,7 +1,7 @@
 ---
 title: DocDevice.DocGraphicContext.Clone
 second_title: Aspose.HTML for .NET API Reference
-description: DocGraphicContext method. Creates a new instance of a GraphicContext class with the same property values as an existing instance
+description: DocGraphicContext Clone method. Creates a new instance of a GraphicContext class with the same property values as an existing instance
 type: docs
 weight: 30
 url: /net/aspose.html.rendering.doc/docdevice.docgraphiccontext/clone/

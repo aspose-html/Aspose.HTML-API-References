@@ -1,12 +1,12 @@
 ---
 title: ValidationResult.SaveTo
 second_title: Aspose.HTML for .NET API Reference
-description: ValidationResult method. Save validation results to the TextWriter object
+description: ValidationResult SaveTo method. Save validation results to the TextWriter object
 type: docs
 weight: 30
 url: /net/aspose.html.accessibility.results/validationresult/saveto/
 ---
-## SaveTo(TextWriter, ValidationResultSaveFormat) {#saveto_1}
+## SaveTo(*TextWriter, [ValidationResultSaveFormat](../../../aspose.html.accessibility.saving/validationresultsaveformat/)*) {#saveto_1}
 
 Save validation results to the TextWriter object
 
@@ -28,7 +28,7 @@ public void SaveTo(TextWriter writer, ValidationResultSaveFormat format)
 
 ---
 
-## SaveTo(TextWriter) {#saveto}
+## SaveTo(*TextWriter*) {#saveto}
 
 Save validation results to the TextWriter object
 

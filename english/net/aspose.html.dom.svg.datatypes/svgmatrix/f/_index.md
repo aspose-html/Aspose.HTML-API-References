@@ -1,7 +1,7 @@
 ---
 title: SVGMatrix.F
 second_title: Aspose.HTML for .NET API Reference
-description: SVGMatrix property. The F component of the matrix
+description: SVGMatrix F property. The F component of the matrix
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg.datatypes/svgmatrix/f/

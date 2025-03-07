@@ -18,7 +18,7 @@ public abstract class MarkdownSyntaxExtension
 
 | Name | Description |
 | --- | --- |
-| abstract [Setup](../../aspose.html.toolkit.markdown.syntax.parser/markdownsyntaxextension/setup/)(IMarkdownParserBuilder) | Defines the interface for Setup |
+| abstract [Setup](../../aspose.html.toolkit.markdown.syntax.parser/markdownsyntaxextension/setup/)(*[IMarkdownParserBuilder](../imarkdownparserbuilder/)*) | Defines the interface for Setup |
 
 ### See Also
 

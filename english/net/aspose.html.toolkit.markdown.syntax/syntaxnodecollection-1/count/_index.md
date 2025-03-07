@@ -1,7 +1,7 @@
 ---
 title: SyntaxNodeCollection-1.Count
 second_title: Aspose.HTML for .NET API Reference
-description: SyntaxNodeCollection property. Gets the number of values in the collection
+description: SyntaxNodeCollection Count property. Gets the number of values in the collection
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/count/

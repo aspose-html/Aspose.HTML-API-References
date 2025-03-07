@@ -1,7 +1,7 @@
 ---
 title: HttpMethod.GetHashCode
 second_title: Aspose.HTML for .NET API Reference
-description: HttpMethod method. Returns a hash code for this instance
+description: HttpMethod GetHashCode method. Returns a hash code for this instance
 type: docs
 weight: 70
 url: /net/aspose.html.net/httpmethod/gethashcode/

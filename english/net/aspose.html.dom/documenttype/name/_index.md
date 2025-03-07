@@ -1,7 +1,7 @@
 ---
 title: DocumentType.Name
 second_title: Aspose.HTML for .NET API Reference
-description: DocumentType property. The name of DTD i.e. the name immediately following the DOCTYPE keyword
+description: DocumentType Name property. The name of DTD i.e. the name immediately following the DOCTYPE keyword
 type: docs
 weight: 30
 url: /net/aspose.html.dom/documenttype/name/

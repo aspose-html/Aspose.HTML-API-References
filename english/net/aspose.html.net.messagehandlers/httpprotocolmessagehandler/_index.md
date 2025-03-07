@@ -30,7 +30,7 @@ public class HttpProtocolMessageHandler : MessageHandler
 
 | Name | Description |
 | --- | --- |
-| override [Invoke](../../aspose.html.net.messagehandlers/httpprotocolmessagehandler/invoke/)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
+| override [Invoke](../../aspose.html.net.messagehandlers/httpprotocolmessagehandler/invoke/)(*[INetworkOperationContext](../../aspose.html.net/inetworkoperationcontext/)*) | When overridden in a derived class is used to implement the message handling. |
 
 ### See Also
 

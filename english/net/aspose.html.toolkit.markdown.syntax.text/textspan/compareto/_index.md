@@ -1,7 +1,7 @@
 ---
 title: TextSpan.CompareTo
 second_title: Aspose.HTML for .NET API Reference
-description: TextSpan method. Compare with other TextSpan
+description: TextSpan CompareTo method. Compare with other TextSpan
 type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax.text/textspan/compareto/

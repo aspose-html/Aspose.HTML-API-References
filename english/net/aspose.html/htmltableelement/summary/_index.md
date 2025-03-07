@@ -1,7 +1,7 @@
 ---
 title: HTMLTableElement.Summary
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLTableElement property. Description about the purpose or structure of a table. See the summary attribute definition in HTML 4.01
+description: HTMLTableElement Summary property. Description about the purpose or structure of a table. See the summary attribute definition in HTML 4.01
 type: docs
 weight: 100
 url: /net/aspose.html/htmltableelement/summary/

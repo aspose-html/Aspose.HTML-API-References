@@ -1,7 +1,7 @@
 ---
 title: SVGPatternElement.PreserveAspectRatio
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPatternElement property. Corresponds to attribute preserveAspectRatio on the given element
+description: SVGPatternElement PreserveAspectRatio property. Corresponds to attribute preserveAspectRatio on the given element
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg/svgpatternelement/preserveaspectratio/

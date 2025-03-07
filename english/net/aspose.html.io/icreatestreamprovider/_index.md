@@ -18,9 +18,9 @@ public interface ICreateStreamProvider : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [GetStream](../../aspose.html.io/icreatestreamprovider/getstream/#getstream)(string, string) | Provides a stream for rendering. |
-| [GetStream](../../aspose.html.io/icreatestreamprovider/getstream/#getstream_1)(string, string, int) | Provides a stream for rendering. |
-| [ReleaseStream](../../aspose.html.io/icreatestreamprovider/releasestream/)(Stream) | Releases the stream. |
+| [GetStream](../../aspose.html.io/icreatestreamprovider/getstream/#getstream)(*string, string*) | Provides a stream for rendering. |
+| [GetStream](../../aspose.html.io/icreatestreamprovider/getstream/#getstream_1)(*string, string, int*) | Provides a stream for rendering. |
+| [ReleaseStream](../../aspose.html.io/icreatestreamprovider/releasestream/)(*Stream*) | Releases the stream. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: SVGFEMorphologyElement.RadiusY
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEMorphologyElement property. Corresponds to attribute radius on the given feMorphology element
+description: SVGFEMorphologyElement RadiusY property. Corresponds to attribute radius on the given feMorphology element
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg.filters/svgfemorphologyelement/radiusy/

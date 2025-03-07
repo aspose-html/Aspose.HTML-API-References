@@ -1,7 +1,7 @@
 ---
 title: IStyleSheet.Media
 second_title: Aspose.HTML for .NET API Reference
-description: IStyleSheet property. The media property of the StyleSheet interface specifies the intended destination media for style information. It is a read-only array-like MediaList object and can be removed with deleteMedium and added with appendMedium
+description: IStyleSheet Media property. The media property of the StyleSheet interface specifies the intended destination media for style information. It is a read-only array-like MediaList object and can be removed with deleteMedium and added with appendMedium
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/istylesheet/media/

@@ -1,7 +1,7 @@
 ---
 title: Guideline.GetCriterions
 second_title: Aspose.HTML for .NET API Reference
-description: Guideline method. Get all the criteria contained in the Guideline
+description: Guideline GetCriterions method. Get all the criteria contained in the Guideline
 type: docs
 weight: 20
 url: /net/aspose.html.accessibility/guideline/getcriterions/

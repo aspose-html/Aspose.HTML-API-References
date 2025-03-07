@@ -1,7 +1,7 @@
 ---
 title: IError.ErrorTypeName
 second_title: Aspose.HTML for .NET API Reference
-description: IError property. Presentation description of object
+description: IError ErrorTypeName property. Presentation description of object
 type: docs
 weight: 30
 url: /net/aspose.html.accessibility/ierror/errortypename/

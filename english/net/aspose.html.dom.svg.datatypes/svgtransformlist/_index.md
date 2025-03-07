@@ -19,7 +19,7 @@ public class SVGTransformList : SVGListBase<SVGTransform>
 | Name | Description |
 | --- | --- |
 | [SVGTransformList](svgtransformlist/#constructor)() | Initializes a new instance of the `SVGTransformList` class. |
-| [SVGTransformList](svgtransformlist/#constructor_1)(IEnumerable&lt;SVGTransform&gt;) | Initializes a new instance of the `SVGTransformList` class. |
+| [SVGTransformList](svgtransformlist/#constructor_1)(*IEnumerable&amp;lt;SVGTransform&amp;gt;*) | Initializes a new instance of the `SVGTransformList` class. |
 
 ## Properties
 
@@ -33,16 +33,16 @@ public class SVGTransformList : SVGListBase<SVGTransform>
 
 | Name | Description |
 | --- | --- |
-| [AppendItem](../../aspose.html.dom.svg.collections/svglistbase-1/appenditem/)(SVGTransform) |  |
+| [AppendItem](../../aspose.html.dom.svg.collections/svglistbase-1/appenditem/)(*[SVGTransform](../svgtransform/)*) |  |
 | [Clear](../../aspose.html.dom.svg.collections/svglistbase-1/clear/)() |  |
 | [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 | [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.html.dom.svg.collections/svglistbase-1/getitem/)(ulong) |  |
+| [GetItem](../../aspose.html.dom.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| [Initialize](../../aspose.html.dom.svg.collections/svglistbase-1/initialize/)(SVGTransform) |  |
-| [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/)(SVGTransform, ulong) |  |
-| [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase-1/replaceitem/)(SVGTransform, ulong) |  |
+| [Initialize](../../aspose.html.dom.svg.collections/svglistbase-1/initialize/)(*[SVGTransform](../svgtransform/)*) |  |
+| [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/)(*[SVGTransform](../svgtransform/), ulong*) |  |
+| [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase-1/replaceitem/)(*[SVGTransform](../svgtransform/), ulong*) |  |
 | override [ToString](../../aspose.html.dom.svg.datatypes/svgtransformlist/tostring/)() | Returns a String that represents this instance. |
 
 ### See Also

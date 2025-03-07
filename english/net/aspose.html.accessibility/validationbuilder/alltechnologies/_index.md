@@ -1,7 +1,7 @@
 ---
 title: ValidationBuilder.AllTechnologies
 second_title: Aspose.HTML for .NET API Reference
-description: ValidationBuilder method. A method that sets all technologies to test criterion
+description: ValidationBuilder AllTechnologies method. A method that sets all technologies to test criterion
 type: docs
 weight: 50
 url: /net/aspose.html.accessibility/validationbuilder/alltechnologies/

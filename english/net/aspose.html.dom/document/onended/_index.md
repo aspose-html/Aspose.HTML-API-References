@@ -1,7 +1,7 @@
 ---
 title: Document.OnEnded
 second_title: Aspose.HTML for .NET API Reference
-description: Document event. Gets or sets event handler for OnEnded event
+description: Document OnEnded event. Gets or sets event handler for OnEnded event
 type: docs
 weight: 390
 url: /net/aspose.html.dom/document/onended/

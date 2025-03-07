@@ -1,7 +1,7 @@
 ---
 title: NodeFilter.SHOW_ELEMENT
 second_title: Aspose.HTML for .NET API Reference
-description: NodeFilter field. Show Element nodes
+description: NodeFilter SHOW_ELEMENT field. Show Element nodes
 type: docs
 weight: 130
 url: /net/aspose.html.dom.traversal.filters/nodefilter/show_element/

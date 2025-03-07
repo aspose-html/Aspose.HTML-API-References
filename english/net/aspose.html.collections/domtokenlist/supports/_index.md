@@ -1,7 +1,7 @@
 ---
 title: DOMTokenList.Supports
 second_title: Aspose.HTML for .NET API Reference
-description: DOMTokenList method. Returns true if a given token is in the associated attributes supported tokens
+description: DOMTokenList Supports method. Returns true if a given token is in the associated attributes supported tokens
 type: docs
 weight: 90
 url: /net/aspose.html.collections/domtokenlist/supports/

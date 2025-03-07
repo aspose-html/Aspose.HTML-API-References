@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElement.CreateSVGPoint
 second_title: Aspose.HTML for .NET API Reference
-description: SVGSVGElement method. Creates an SVGPoint object outside of any document trees. The object is initialized to the point 00 in the user coordinate system
+description: SVGSVGElement CreateSVGPoint method. Creates an SVGPoint object outside of any document trees. The object is initialized to the point 00 in the user coordinate system
 type: docs
 weight: 160
 url: /net/aspose.html.dom.svg/svgsvgelement/createsvgpoint/

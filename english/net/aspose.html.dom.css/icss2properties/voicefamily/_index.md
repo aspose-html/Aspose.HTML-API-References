@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.VoiceFamily
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. The value is a comma-separated prioritized list of voice family names compare with font-family. Values have the following meanings
+description: ICSS2Properties VoiceFamily property. The value is a comma-separated prioritized list of voice family names compare with font-family. Values have the following meanings
 type: docs
 weight: 1160
 url: /net/aspose.html.dom.css/icss2properties/voicefamily/

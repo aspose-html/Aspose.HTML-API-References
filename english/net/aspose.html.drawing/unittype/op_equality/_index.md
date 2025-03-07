@@ -1,7 +1,7 @@
 ---
 title: UnitType.op_Equality
 second_title: Aspose.HTML for .NET API Reference
-description: UnitType method. 
+description: UnitType op_Equality method. 
 type: docs
 weight: 340
 url: /net/aspose.html.drawing/unittype/op_equality/

@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitSyntaxNode
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit node
+description: MarkdownSyntaxVisitor VisitSyntaxNode method. Defines the interface for visit node
 type: docs
 weight: 240
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitsyntaxnode/

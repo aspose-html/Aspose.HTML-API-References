@@ -1,7 +1,7 @@
 ---
 title: InlineParsingInstruction.op_Inequality
 second_title: Aspose.HTML for .NET API Reference
-description: InlineParsingInstruction method. 
+description: InlineParsingInstruction op_Inequality method. 
 type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/op_inequality/

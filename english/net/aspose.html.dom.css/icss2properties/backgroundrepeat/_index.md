@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.BackgroundRepeat
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. If a background image is specified this property specifies whether the image is repeated tiled and how. All tiling covers the content and padding areas of a box. Values have the following meanings
+description: ICSS2Properties BackgroundRepeat property. If a background image is specified this property specifies whether the image is repeated tiled and how. All tiling covers the content and padding areas of a box. Values have the following meanings
 type: docs
 weight: 70
 url: /net/aspose.html.dom.css/icss2properties/backgroundrepeat/

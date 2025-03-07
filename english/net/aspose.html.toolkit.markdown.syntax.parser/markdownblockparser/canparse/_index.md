@@ -1,7 +1,7 @@
 ---
 title: MarkdownBlockParser.CanParse
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownBlockParser method. Defines interface for get the CanParse value
+description: MarkdownBlockParser CanParse method. Defines interface for get the CanParse value
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/canparse/

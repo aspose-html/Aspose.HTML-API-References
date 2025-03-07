@@ -1,12 +1,12 @@
 ---
 title: IDrawingFactory.CreateMatrix
 second_title: Aspose.HTML for .NET API Reference
-description: IDrawingFactory method. Creates a new matrix with the same contents as the specified matrix
+description: IDrawingFactory CreateMatrix method. Creates a new matrix with the same contents as the specified matrix
 type: docs
 weight: 30
 url: /net/aspose.html.drawing/idrawingfactory/creatematrix/
 ---
-## CreateMatrix(IMatrix) {#creatematrix_1}
+## CreateMatrix(*[IMatrix](../../imatrix/)*) {#creatematrix_1}
 
 Creates a new matrix with the same contents as the specified matrix.
 
@@ -31,7 +31,7 @@ The created [`IMatrix`](../../imatrix/).
 
 ---
 
-## CreateMatrix(float, float, float, float, float, float) {#creatematrix_2}
+## CreateMatrix(*float, float, float, float, float, float*) {#creatematrix_2}
 
 Creates a new matrix with the specified elements.
 

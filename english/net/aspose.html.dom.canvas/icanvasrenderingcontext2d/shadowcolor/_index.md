@@ -1,7 +1,7 @@
 ---
 title: ICanvasRenderingContext2D.ShadowColor
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D property. Color of the shadow. Default fully-transparent black
+description: ICanvasRenderingContext2D ShadowColor property. Color of the shadow. Default fully-transparent black
 type: docs
 weight: 70
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/shadowcolor/

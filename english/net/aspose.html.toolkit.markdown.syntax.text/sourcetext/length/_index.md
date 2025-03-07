@@ -1,7 +1,7 @@
 ---
 title: SourceText.Length
 second_title: Aspose.HTML for .NET API Reference
-description: SourceText property. Get the length
+description: SourceText Length property. Get the length
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetext/length/

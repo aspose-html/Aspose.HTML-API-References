@@ -31,14 +31,14 @@ public class SVGMatrix : SVGValueType
 | --- | --- |
 | [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| [Multiply](../../aspose.html.dom.svg.datatypes/svgmatrix/multiply/)(SVGMatrix) | Performs matrix multiplication. This matrix is post-multiplied by another matrix, returning the resulting new matrix. |
-| [Rotate](../../aspose.html.dom.svg.datatypes/svgmatrix/rotate/)(float) | Post-multiplies a rotation transformation on the current matrix and returns the resulting matrix. |
-| [Scale](../../aspose.html.dom.svg.datatypes/svgmatrix/scale/)(float) | Post-multiplies a uniform scale transformation on the current matrix and returns the resulting matrix. |
-| [ScaleNonUniform](../../aspose.html.dom.svg.datatypes/svgmatrix/scalenonuniform/)(float, float) | Post-multiplies a non-uniform scale transformation on the current matrix and returns the resulting matrix. |
-| [SkewX](../../aspose.html.dom.svg.datatypes/svgmatrix/skewx/)(float) | Post-multiplies a skewX transformation on the current matrix and returns the resulting matrix. |
-| [SkewY](../../aspose.html.dom.svg.datatypes/svgmatrix/skewy/)(float) | Post-multiplies a skewY transformation on the current matrix and returns the resulting matrix. |
+| [Multiply](../../aspose.html.dom.svg.datatypes/svgmatrix/multiply/)(*SVGMatrix*) | Performs matrix multiplication. This matrix is post-multiplied by another matrix, returning the resulting new matrix. |
+| [Rotate](../../aspose.html.dom.svg.datatypes/svgmatrix/rotate/)(*float*) | Post-multiplies a rotation transformation on the current matrix and returns the resulting matrix. |
+| [Scale](../../aspose.html.dom.svg.datatypes/svgmatrix/scale/)(*float*) | Post-multiplies a uniform scale transformation on the current matrix and returns the resulting matrix. |
+| [ScaleNonUniform](../../aspose.html.dom.svg.datatypes/svgmatrix/scalenonuniform/)(*float, float*) | Post-multiplies a non-uniform scale transformation on the current matrix and returns the resulting matrix. |
+| [SkewX](../../aspose.html.dom.svg.datatypes/svgmatrix/skewx/)(*float*) | Post-multiplies a skewX transformation on the current matrix and returns the resulting matrix. |
+| [SkewY](../../aspose.html.dom.svg.datatypes/svgmatrix/skewy/)(*float*) | Post-multiplies a skewY transformation on the current matrix and returns the resulting matrix. |
 | override [ToString](../../aspose.html.dom.svg.datatypes/svgmatrix/tostring/)() | Returns a String that represents this instance. |
-| [Translate](../../aspose.html.dom.svg.datatypes/svgmatrix/translate/)(float, float) | Post-multiplies a translation transformation on the current matrix and returns the resulting matrix. |
+| [Translate](../../aspose.html.dom.svg.datatypes/svgmatrix/translate/)(*float, float*) | Post-multiplies a translation transformation on the current matrix and returns the resulting matrix. |
 
 ### See Also
 

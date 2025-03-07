@@ -1,7 +1,7 @@
 ---
 title: ICSSKeyframesRule.DeleteRule
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSKeyframesRule method. The deleteRule method deletes the CSSKeyframeRule with the passed key. If a rule with this key does not exist the method does nothing
+description: ICSSKeyframesRule DeleteRule method. The deleteRule method deletes the CSSKeyframeRule with the passed key. If a rule with this key does not exist the method does nothing
 type: docs
 weight: 40
 url: /net/aspose.html.dom.css/icsskeyframesrule/deleterule/

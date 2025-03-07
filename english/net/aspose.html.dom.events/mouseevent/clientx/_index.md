@@ -1,7 +1,7 @@
 ---
 title: MouseEvent.ClientX
 second_title: Aspose.HTML for .NET API Reference
-description: MouseEvent property. The horizontal coordinate at which the event occurred relative to the viewport associated with the event
+description: MouseEvent ClientX property. The horizontal coordinate at which the event occurred relative to the viewport associated with the event
 type: docs
 weight: 50
 url: /net/aspose.html.dom.events/mouseevent/clientx/

@@ -1,7 +1,7 @@
 ---
 title: TypedArray.ByteLength
 second_title: Aspose.HTML for .NET API Reference
-description: TypedArray property. Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes
+description: TypedArray ByteLength property. Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes
 type: docs
 weight: 20
 url: /net/aspose.html/typedarray/bytelength/

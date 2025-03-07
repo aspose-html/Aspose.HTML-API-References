@@ -22,7 +22,7 @@ public MarkdownParser()
 
 ---
 
-## MarkdownParser(Action&lt;IMarkdownParserBuilder&gt;) {#constructor_1}
+## MarkdownParser(*Action&amp;lt;IMarkdownParserBuilder&amp;gt;*) {#constructor_1}
 
 Initializes a new instance of the [`MarkdownParser`](../) class.
 

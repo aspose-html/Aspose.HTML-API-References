@@ -1,7 +1,7 @@
 ---
 title: HugoYamlBasedFrontMatterSyntaxNode.FrontMatterRootNode
 second_title: Aspose.HTML for .NET API Reference
-description: HugoYamlBasedFrontMatterSyntaxNode property. Get the RootNode
+description: HugoYamlBasedFrontMatterSyntaxNode FrontMatterRootNode property. Get the RootNode
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/frontmatterrootnode/

@@ -1,7 +1,7 @@
 ---
 title: TextLineCollection.IndexOf
 second_title: Aspose.HTML for .NET API Reference
-description: TextLineCollection method. Gets the index of the given position
+description: TextLineCollection IndexOf method. Gets the index of the given position
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.text/textlinecollection/indexof/

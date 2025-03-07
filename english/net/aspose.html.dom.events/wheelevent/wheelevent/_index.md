@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.dom.events/wheelevent/wheelevent/
 ---
-## WheelEvent(string) {#constructor}
+## WheelEvent(*string*) {#constructor}
 
 Initializes a new instance of the [`WheelEvent`](../) class.
 
@@ -26,7 +26,7 @@ public WheelEvent(string type)
 
 ---
 
-## WheelEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## WheelEvent(*string, IDictionary&amp;lt;string, object&amp;gt;*) {#constructor_1}
 
 ```csharp
 public WheelEvent(string type, IDictionary<string, object> eventInitDict)

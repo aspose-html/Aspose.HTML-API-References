@@ -1,7 +1,7 @@
 ---
 title: DelimiterRun.Source
 second_title: Aspose.HTML for .NET API Reference
-description: DelimiterRun property. Get the Source
+description: DelimiterRun Source property. Get the Source
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.parser/delimiterrun/source/

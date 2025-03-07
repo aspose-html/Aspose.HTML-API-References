@@ -1,7 +1,7 @@
 ---
 title: BlockSyntaxDescriptor.GetContent
 second_title: Aspose.HTML for .NET API Reference
-description: BlockSyntaxDescriptor method. Defines the interface for get content
+description: BlockSyntaxDescriptor GetContent method. Defines the interface for get content
 type: docs
 weight: 80
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/getcontent/

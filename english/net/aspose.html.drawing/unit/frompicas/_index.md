@@ -1,7 +1,7 @@
 ---
 title: Unit.FromPicas
 second_title: Aspose.HTML for .NET API Reference
-description: Unit method. Returns a Length object that is represented in picas
+description: Unit FromPicas method. Returns a Length object that is represented in picas
 type: docs
 weight: 160
 url: /net/aspose.html.drawing/unit/frompicas/

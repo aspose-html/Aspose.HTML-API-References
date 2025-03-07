@@ -32,10 +32,10 @@ public sealed class Location : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [Assign](../../aspose.html.window/location/assign/)(string) | Navigates to the given page. |
+| [Assign](../../aspose.html.window/location/assign/)(*string*) | Navigates to the given page. |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 | [Reload](../../aspose.html.window/location/reload/)() | Reloads the current page. |
-| [Replace](../../aspose.html.window/location/replace/)(string) | Removes the current page from the session history and navigates to the given page. |
+| [Replace](../../aspose.html.window/location/replace/)(*string*) | Removes the current page from the session history and navigates to the given page. |
 | override [ToString](../../aspose.html.window/location/tostring/)() |  |
 
 ### See Also

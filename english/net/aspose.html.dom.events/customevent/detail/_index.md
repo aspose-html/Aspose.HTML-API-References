@@ -1,7 +1,7 @@
 ---
 title: CustomEvent.Detail
 second_title: Aspose.HTML for .NET API Reference
-description: CustomEvent property. Gets the custom data
+description: CustomEvent Detail property. Gets the custom data
 type: docs
 weight: 20
 url: /net/aspose.html.dom.events/customevent/detail/

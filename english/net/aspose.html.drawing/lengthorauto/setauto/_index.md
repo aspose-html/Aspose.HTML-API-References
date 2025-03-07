@@ -1,7 +1,7 @@
 ---
 title: LengthOrAuto.SetAuto
 second_title: Aspose.HTML for .NET API Reference
-description: LengthOrAuto method. Resets container to state auto
+description: LengthOrAuto SetAuto method. Resets container to state auto
 type: docs
 weight: 60
 url: /net/aspose.html.drawing/lengthorauto/setauto/

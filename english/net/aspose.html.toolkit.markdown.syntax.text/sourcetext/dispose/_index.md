@@ -1,7 +1,7 @@
 ---
 title: SourceText.Dispose
 second_title: Aspose.HTML for .NET API Reference
-description: SourceText method. Defines the Dispose interface
+description: SourceText Dispose method. Defines the Dispose interface
 type: docs
 weight: 80
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetext/dispose/

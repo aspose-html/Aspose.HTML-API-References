@@ -1,7 +1,7 @@
 ---
 title: IBrowsingContext.ActiveDocument
 second_title: Aspose.HTML for .NET API Reference
-description: IBrowsingContext property. Gets the current document
+description: IBrowsingContext ActiveDocument property. Gets the current document
 type: docs
 weight: 10
 url: /net/aspose.html.dom/ibrowsingcontext/activedocument/

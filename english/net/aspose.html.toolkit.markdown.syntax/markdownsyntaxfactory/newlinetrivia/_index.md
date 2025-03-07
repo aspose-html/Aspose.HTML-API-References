@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.NewLineTrivia
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates NewLineTrivia
+description: MarkdownSyntaxFactory NewLineTrivia method. Creates NewLineTrivia
 type: docs
 weight: 300
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/newlinetrivia/

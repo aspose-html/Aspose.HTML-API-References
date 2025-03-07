@@ -18,7 +18,7 @@ public class TextLineCollection : ReadOnlyCollection<TextLine>
 
 | Name | Description |
 | --- | --- |
-| [IndexOf](../../aspose.html.toolkit.markdown.syntax.text/textlinecollection/indexof/#indexof_1)(int) | Gets the index of the given position. |
+| [IndexOf](../../aspose.html.toolkit.markdown.syntax.text/textlinecollection/indexof/#indexof_1)(*int*) | Gets the index of the given position. |
 
 ### See Also
 

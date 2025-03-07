@@ -22,7 +22,7 @@ public Color()
 
 ---
 
-## Color(float, float, float) {#constructor_5}
+## Color(*float, float, float*) {#constructor_5}
 
 Initializes a new instance of the [`Color`](../) class. All color components must be in the range 0-1.
 
@@ -44,7 +44,7 @@ public Color(float red, float green, float blue)
 
 ---
 
-## Color(float, float, float, float) {#constructor_6}
+## Color(*float, float, float, float*) {#constructor_6}
 
 Initializes a new instance of the [`Color`](../) class. All color components must be in the range 0-1.
 
@@ -67,7 +67,7 @@ public Color(float red, float green, float blue, float alpha)
 
 ---
 
-## Color(byte, byte, byte) {#constructor_1}
+## Color(*byte, byte, byte*) {#constructor_1}
 
 Initializes a new instance of the [`Color`](../) class. All color components must be in the range 0-255.
 
@@ -89,7 +89,7 @@ public Color(byte red, byte green, byte blue)
 
 ---
 
-## Color(byte, byte, byte, byte) {#constructor_2}
+## Color(*byte, byte, byte, byte*) {#constructor_2}
 
 Initializes a new instance of the [`Color`](../) class. All color components must be in the range 0-255.
 
@@ -112,7 +112,7 @@ public Color(byte red, byte green, byte blue, byte alpha)
 
 ---
 
-## Color(int, int, int) {#constructor_3}
+## Color(*int, int, int*) {#constructor_3}
 
 Initializes a new instance of the [`Color`](../) class. All color components must be in the range 0-255.
 
@@ -134,7 +134,7 @@ public Color(int red, int green, int blue)
 
 ---
 
-## Color(int, int, int, int) {#constructor_4}
+## Color(*int, int, int, int*) {#constructor_4}
 
 Initializes a new instance of the [`Color`](../) class. All color components must be in the range 0-255.
 

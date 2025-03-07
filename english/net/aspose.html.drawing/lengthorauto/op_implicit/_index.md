@@ -1,7 +1,7 @@
 ---
 title: LengthOrAuto.op_Implicit
 second_title: Aspose.HTML for .NET API Reference
-description: LengthOrAuto method. 
+description: LengthOrAuto op_Implicit method. 
 type: docs
 weight: 80
 url: /net/aspose.html.drawing/lengthorauto/op_implicit/

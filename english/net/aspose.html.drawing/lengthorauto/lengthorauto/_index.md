@@ -22,7 +22,7 @@ public LengthOrAuto()
 
 ---
 
-## LengthOrAuto(Length) {#constructor_1}
+## LengthOrAuto(*[Length](../../length/)*) {#constructor_1}
 
 Initializes a new instance of the [`LengthOrAuto`](../) class and sets state to 'lenght'.
 

@@ -1,7 +1,7 @@
 ---
 title: Color.Convert
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a color components in the format of the specified color model
+description: Color Convert method. Returns a color components in the format of the specified color model
 type: docs
 weight: 290
 url: /net/aspose.html.drawing/color/convert/

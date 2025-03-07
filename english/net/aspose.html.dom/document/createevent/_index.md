@@ -1,7 +1,7 @@
 ---
 title: Document.CreateEvent
 second_title: Aspose.HTML for .NET API Reference
-description: Document method. Creates an Event of a type supported by the implementation
+description: Document CreateEvent method. Creates an Event of a type supported by the implementation
 type: docs
 weight: 880
 url: /net/aspose.html.dom/document/createevent/

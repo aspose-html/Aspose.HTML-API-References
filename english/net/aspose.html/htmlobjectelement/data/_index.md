@@ -1,7 +1,7 @@
 ---
 title: HTMLObjectElement.Data
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLObjectElement property. A URI IETF RFC 2396 specifying the location of the objects data. See the data attribute definition in HTML 4.01
+description: HTMLObjectElement Data property. A URI IETF RFC 2396 specifying the location of the objects data. See the data attribute definition in HTML 4.01
 type: docs
 weight: 80
 url: /net/aspose.html/htmlobjectelement/data/

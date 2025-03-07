@@ -1,7 +1,7 @@
 ---
 title: Color.WithSaturation
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Creates copy of the Color with specified saturation
+description: Color WithSaturation method. Creates copy of the Color with specified saturation
 type: docs
 weight: 480
 url: /net/aspose.html.drawing/color/withsaturation/

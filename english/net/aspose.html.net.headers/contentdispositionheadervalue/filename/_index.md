@@ -1,7 +1,7 @@
 ---
 title: ContentDispositionHeaderValue.FileName
 second_title: Aspose.HTML for .NET API Reference
-description: ContentDispositionHeaderValue property. The name of the stored file
+description: ContentDispositionHeaderValue FileName property. The name of the stored file
 type: docs
 weight: 30
 url: /net/aspose.html.net.headers/contentdispositionheadervalue/filename/

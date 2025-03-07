@@ -1,7 +1,7 @@
 ---
 title: HTMLElement.OnFocus
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLElement event. Gets or sets event handler for OnFocus event
+description: HTMLElement OnFocus event. Gets or sets event handler for OnFocus event
 type: docs
 weight: 200
 url: /net/aspose.html/htmlelement/onfocus/

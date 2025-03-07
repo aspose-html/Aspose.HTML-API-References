@@ -1,7 +1,7 @@
 ---
 title: IHTMLFormElement.Elements
 second_title: Aspose.HTML for .NET API Reference
-description: IHTMLFormElement property. Gets the collection of the child form elements
+description: IHTMLFormElement Elements property. Gets the collection of the child form elements
 type: docs
 weight: 10
 url: /net/aspose.html/ihtmlformelement/elements/

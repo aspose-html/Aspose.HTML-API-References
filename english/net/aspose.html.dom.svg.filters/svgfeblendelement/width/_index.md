@@ -1,7 +1,7 @@
 ---
 title: SVGFEBlendElement.Width
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEBlendElement property. Corresponds to attribute width on the given filter element
+description: SVGFEBlendElement Width property. Corresponds to attribute width on the given filter element
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg.filters/svgfeblendelement/width/

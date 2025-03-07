@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnLoad
 second_title: Aspose.HTML for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnLoad event
+description: IGlobalEventHandlers OnLoad event. Gets or sets event handler for OnLoad event
 type: docs
 weight: 200
 url: /net/aspose.html.dom/iglobaleventhandlers/onload/

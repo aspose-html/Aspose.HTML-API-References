@@ -1,7 +1,7 @@
 ---
 title: HTMLElement.OnKeyDown
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLElement event. Gets or sets event handler for OnKeyDown event
+description: HTMLElement OnKeyDown event. Gets or sets event handler for OnKeyDown event
 type: docs
 weight: 230
 url: /net/aspose.html/htmlelement/onkeydown/

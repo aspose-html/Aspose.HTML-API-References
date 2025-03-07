@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnToggle
 second_title: Aspose.HTML for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnToggle event
+description: IGlobalEventHandlers OnToggle event. Gets or sets event handler for OnToggle event
 type: docs
 weight: 480
 url: /net/aspose.html.dom/iglobaleventhandlers/ontoggle/

@@ -27,7 +27,7 @@ public interface IColorComponents
 | Name | Description |
 | --- | --- |
 | [ToColor](../../aspose.html.drawing/icolorcomponents/tocolor/)() | Converts the color components to the Color object. |
-| [ToString](../../aspose.html.drawing/icolorcomponents/tostring/)(bool, bool, int) | Converts color components to string representation. |
+| [ToString](../../aspose.html.drawing/icolorcomponents/tostring/)(*bool, bool, int*) | Converts color components to string representation. |
 
 ### See Also
 

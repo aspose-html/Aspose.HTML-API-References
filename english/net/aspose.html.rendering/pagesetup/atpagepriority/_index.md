@@ -1,7 +1,7 @@
 ---
 title: PageSetup.AtPagePriority
 second_title: Aspose.HTML for .NET API Reference
-description: PageSetup property. Gets or sets AtPagePriority which will determine order of applying page size declarations. By default options will override css page rules 
+description: PageSetup AtPagePriority property. Gets or sets AtPagePriority which will determine order of applying page size declarations. By default options will override css page rules 
 type: docs
 weight: 30
 url: /net/aspose.html.rendering/pagesetup/atpagepriority/

@@ -1,7 +1,7 @@
 ---
 title: SourceText.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: SourceText method. Override the ToString method
+description: SourceText ToString method. Override the ToString method
 type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetext/tostring/
@@ -26,7 +26,7 @@ The string.
 
 ---
 
-## ToString(int) {#tostring_2}
+## ToString(*int*) {#tostring_2}
 
 Override the ToString() method.
 
@@ -56,7 +56,7 @@ The string result.
 
 ---
 
-## ToString(int, int) {#tostring_3}
+## ToString(*int, int*) {#tostring_3}
 
 Defines the interface ToString()
 
@@ -81,7 +81,7 @@ The string.
 
 ---
 
-## ToString(TextSpan) {#tostring_1}
+## ToString(*[TextSpan](../../textspan/)*) {#tostring_1}
 
 Defines the interface ToString()
 

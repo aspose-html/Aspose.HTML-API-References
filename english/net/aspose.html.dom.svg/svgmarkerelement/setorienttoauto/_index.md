@@ -1,7 +1,7 @@
 ---
 title: SVGMarkerElement.SetOrientToAuto
 second_title: Aspose.HTML for .NET API Reference
-description: SVGMarkerElement method. Sets the value of attribute orient to auto
+description: SVGMarkerElement SetOrientToAuto method. Sets the value of attribute orient to auto
 type: docs
 weight: 110
 url: /net/aspose.html.dom.svg/svgmarkerelement/setorienttoauto/

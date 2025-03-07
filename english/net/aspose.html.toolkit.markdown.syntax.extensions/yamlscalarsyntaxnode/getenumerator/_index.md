@@ -1,7 +1,7 @@
 ---
 title: YamlScalarSyntaxNode.GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: YamlScalarSyntaxNode method. Defines the interface for get IEnumerator
+description: YamlScalarSyntaxNode GetEnumerator method. Defines the interface for get IEnumerator
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlscalarsyntaxnode/getenumerator/

@@ -1,7 +1,7 @@
 ---
 title: TextLine.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: TextLine method. Override the ToString
+description: TextLine ToString method. Override the ToString
 type: docs
 weight: 60
 url: /net/aspose.html.toolkit.markdown.syntax.text/textline/tostring/

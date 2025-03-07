@@ -1,7 +1,7 @@
 ---
 title: SVGCursorElement.RequiredFeatures
 second_title: Aspose.HTML for .NET API Reference
-description: SVGCursorElement property. Corresponds to attribute requiredFeatures on the given element
+description: SVGCursorElement RequiredFeatures property. Corresponds to attribute requiredFeatures on the given element
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svgcursorelement/requiredfeatures/

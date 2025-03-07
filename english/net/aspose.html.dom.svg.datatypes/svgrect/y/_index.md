@@ -1,7 +1,7 @@
 ---
 title: SVGRect.Y
 second_title: Aspose.HTML for .NET API Reference
-description: SVGRect property. The Y coordinate of the rectangle in user units
+description: SVGRect Y property. The Y coordinate of the rectangle in user units
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.datatypes/svgrect/y/

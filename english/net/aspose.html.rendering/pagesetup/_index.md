@@ -30,7 +30,7 @@ public class PageSetup
 
 | Name | Description |
 | --- | --- |
-| [SetLeftRightPage](../../aspose.html.rendering/pagesetup/setleftrightpage/)(Page, Page) | Sets the Left/Right page configuration. |
+| [SetLeftRightPage](../../aspose.html.rendering/pagesetup/setleftrightpage/)(*[Page](../../aspose.html.drawing/page/), [Page](../../aspose.html.drawing/page/)*) | Sets the Left/Right page configuration. |
 
 ### See Also
 

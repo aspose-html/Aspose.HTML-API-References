@@ -1,7 +1,7 @@
 ---
 title: Margin.Top
 second_title: Aspose.HTML for .NET API Reference
-description: Margin property. Gets or sets the top
+description: Margin Top property. Gets or sets the top
 type: docs
 weight: 50
 url: /net/aspose.html.drawing/margin/top/

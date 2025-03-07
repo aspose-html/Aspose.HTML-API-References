@@ -28,18 +28,18 @@ public abstract class SourceText : IDisposable
 
 | Name | Description |
 | --- | --- |
-| static [From](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/from/#from)(SourceText[]) | Define the interface for get SourceText from array of the source. |
-| static [From](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/from/#from_1)(string) | Define the interface for get SourceText from string. |
-| static [From](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/from/#from_2)(string, Encoding) | Define the interface for get SourceText from string and encoding. |
-| abstract [CopyTo](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/copyto/)(int, char[], int, int) | Define the interface for get SourceText from array of the source. |
+| static [From](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/from/#from)(*SourceText[]*) | Define the interface for get SourceText from array of the source. |
+| static [From](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/from/#from_1)(*string*) | Define the interface for get SourceText from string. |
+| static [From](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/from/#from_2)(*string, Encoding*) | Define the interface for get SourceText from string and encoding. |
+| abstract [CopyTo](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/copyto/)(*int, char[], int, int*) | Define the interface for get SourceText from array of the source. |
 | [Dispose](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/dispose/)() | Defines the Dispose interface. |
 | [GetText](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/gettext/#gettext)() | Define the interface for get Text. |
-| [GetText](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/gettext/#gettext_2)(int) | Define the interface for get Text. |
-| virtual [GetText](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/gettext/#gettext_1)(TextSpan) | Define the interface for get Text. |
+| [GetText](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/gettext/#gettext_2)(*int*) | Define the interface for get Text. |
+| virtual [GetText](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/gettext/#gettext_1)(*[TextSpan](../textspan/)*) | Define the interface for get Text. |
 | override [ToString](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/tostring/#tostring)() | Override the ToString() method. |
-| [ToString](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/tostring/#tostring_2)(int) | Override the ToString() method. |
-| virtual [ToString](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/tostring/#tostring_1)(TextSpan) | Defines the interface ToString() |
-| [ToString](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/tostring/#tostring_3)(int, int) | Defines the interface ToString() |
+| [ToString](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/tostring/#tostring_2)(*int*) | Override the ToString() method. |
+| virtual [ToString](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/tostring/#tostring_1)(*[TextSpan](../textspan/)*) | Defines the interface ToString() |
+| [ToString](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/tostring/#tostring_3)(*int, int*) | Defines the interface ToString() |
 
 ### See Also
 

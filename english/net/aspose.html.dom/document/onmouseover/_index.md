@@ -1,7 +1,7 @@
 ---
 title: Document.OnMouseOver
 second_title: Aspose.HTML for .NET API Reference
-description: Document event. Gets or sets event handler for OnMouseOver event
+description: Document OnMouseOver event. Gets or sets event handler for OnMouseOver event
 type: docs
 weight: 560
 url: /net/aspose.html.dom/document/onmouseover/

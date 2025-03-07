@@ -25,8 +25,8 @@ public class ValidationResult
 
 | Name | Description |
 | --- | --- |
-| [SaveTo](../../aspose.html.accessibility.results/validationresult/saveto/#saveto)(TextWriter) | Save validation results to the TextWriter object |
-| [SaveTo](../../aspose.html.accessibility.results/validationresult/saveto/#saveto_1)(TextWriter, ValidationResultSaveFormat) | Save validation results to the TextWriter object |
+| [SaveTo](../../aspose.html.accessibility.results/validationresult/saveto/#saveto)(*TextWriter*) | Save validation results to the TextWriter object |
+| [SaveTo](../../aspose.html.accessibility.results/validationresult/saveto/#saveto_1)(*TextWriter, [ValidationResultSaveFormat](../../aspose.html.accessibility.saving/validationresultsaveformat/)*) | Save validation results to the TextWriter object |
 | [SaveToString](../../aspose.html.accessibility.results/validationresult/savetostring/)() | Save validation results to string |
 
 ### See Also

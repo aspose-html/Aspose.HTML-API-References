@@ -1,7 +1,7 @@
 ---
 title: SVGFEMorphologyElement.X
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEMorphologyElement property. Corresponds to attribute x on the given filter element
+description: SVGFEMorphologyElement X property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg.filters/svgfemorphologyelement/x/

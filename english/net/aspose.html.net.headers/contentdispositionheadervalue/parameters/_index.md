@@ -1,7 +1,7 @@
 ---
 title: ContentDispositionHeaderValue.Parameters
 second_title: Aspose.HTML for .NET API Reference
-description: ContentDispositionHeaderValue property. Get collection of paremeters
+description: ContentDispositionHeaderValue Parameters property. Get collection of paremeters
 type: docs
 weight: 50
 url: /net/aspose.html.net.headers/contentdispositionheadervalue/parameters/

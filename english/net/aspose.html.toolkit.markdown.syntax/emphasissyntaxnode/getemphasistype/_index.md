@@ -1,7 +1,7 @@
 ---
 title: EmphasisSyntaxNode.GetEmphasisType
 second_title: Aspose.HTML for .NET API Reference
-description: EmphasisSyntaxNode method. Defines the interface for get Emphasis Type
+description: EmphasisSyntaxNode GetEmphasisType method. Defines the interface for get Emphasis Type
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/emphasissyntaxnode/getemphasistype/

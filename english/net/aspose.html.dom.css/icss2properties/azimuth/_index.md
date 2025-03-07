@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.Azimuth
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. Spatial audio is an important stylistic property for aural presentation. It provides a natural way to tell several voices apart as in real life people rarely all stand in the same spot in a room
+description: ICSS2Properties Azimuth property. Spatial audio is an important stylistic property for aural presentation. It provides a natural way to tell several voices apart as in real life people rarely all stand in the same spot in a room
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/icss2properties/azimuth/

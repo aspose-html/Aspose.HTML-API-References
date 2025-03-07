@@ -1,7 +1,7 @@
 ---
 title: HTMLTableElement.CreateCaption
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLTableElement method. Create a new table caption object or return an existing one
+description: HTMLTableElement CreateCaption method. Create a new table caption object or return an existing one
 type: docs
 weight: 150
 url: /net/aspose.html/htmltableelement/createcaption/

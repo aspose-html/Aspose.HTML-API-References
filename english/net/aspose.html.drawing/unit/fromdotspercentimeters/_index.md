@@ -1,7 +1,7 @@
 ---
 title: Unit.FromDotsPerCentimeters
 second_title: Aspose.HTML for .NET API Reference
-description: Unit method. Returns a Resolution object that is represented in dots per centimeters
+description: Unit FromDotsPerCentimeters method. Returns a Resolution object that is represented in dots per centimeters
 type: docs
 weight: 70
 url: /net/aspose.html.drawing/unit/fromdotspercentimeters/

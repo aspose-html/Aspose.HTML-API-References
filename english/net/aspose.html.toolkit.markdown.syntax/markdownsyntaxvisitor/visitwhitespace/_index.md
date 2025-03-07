@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitWhitespace
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit Whitespace Syntax
+description: MarkdownSyntaxVisitor VisitWhitespace method. Defines the interface for visit Whitespace Syntax
 type: docs
 weight: 290
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitwhitespace/

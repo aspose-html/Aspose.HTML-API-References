@@ -1,7 +1,7 @@
 ---
 title: HTMLFragmentSyntax.SetContent
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLFragmentSyntax method. Defines the interface for set Content
+description: HTMLFragmentSyntax SetContent method. Defines the interface for set Content
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/htmlfragmentsyntax/setcontent/

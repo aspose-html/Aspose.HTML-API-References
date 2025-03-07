@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitListItem
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit ListItemSyntax
+description: MarkdownSyntaxVisitor VisitListItem method. Defines the interface for visit ListItemSyntax
 type: docs
 weight: 180
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitlistitem/

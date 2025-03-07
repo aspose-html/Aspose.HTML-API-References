@@ -1,7 +1,7 @@
 ---
 title: SVGFilterElement.Height
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFilterElement property. Corresponds to attribute height on the given filter element
+description: SVGFilterElement Height property. Corresponds to attribute height on the given filter element
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgfilterelement/height/

@@ -1,7 +1,7 @@
 ---
 title: HugoShortCodeSyntaxNode.GetParametersCount
 second_title: Aspose.HTML for .NET API Reference
-description: HugoShortCodeSyntaxNode method. Defines the GetParametersCount
+description: HugoShortCodeSyntaxNode GetParametersCount method. Defines the GetParametersCount
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/getparameterscount/

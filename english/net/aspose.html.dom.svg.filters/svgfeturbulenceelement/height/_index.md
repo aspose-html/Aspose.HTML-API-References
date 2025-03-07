@@ -1,7 +1,7 @@
 ---
 title: SVGFETurbulenceElement.Height
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFETurbulenceElement property. Corresponds to attribute height on the given filter element
+description: SVGFETurbulenceElement Height property. Corresponds to attribute height on the given filter element
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.filters/svgfeturbulenceelement/height/

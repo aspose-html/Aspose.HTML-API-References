@@ -27,14 +27,14 @@ public interface IBlockParsingContext
 
 | Name | Description |
 | --- | --- |
-| [Close](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/close/#close)(BlockClosingReason) | Defines the Close method. |
-| [Close](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/close/#close_1)(BlockSyntaxDescriptor, BlockClosingReason) | Defines the Close method. |
-| [Delete](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/delete/)(BlockSyntaxDescriptor) | Defines the Delete method. |
+| [Close](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/close/#close)(*[BlockClosingReason](../blockclosingreason/)*) | Defines the Close method. |
+| [Close](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/close/#close_1)(*[BlockSyntaxDescriptor](../blocksyntaxdescriptor/), [BlockClosingReason](../blockclosingreason/)*) | Defines the Close method. |
+| [Delete](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/delete/)(*[BlockSyntaxDescriptor](../blocksyntaxdescriptor/)*) | Defines the Delete method. |
 | [GetBlockSyntaxParsers](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getblocksyntaxparsers/)() | Defines the GetBlockSyntaxParsers method. |
 | [GetInlineSyntaxParsers](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getinlinesyntaxparsers/)() | Defines the GetInlineSyntaxParsers method. |
 | [GetOpenBlocks](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getopenblocks/)() | Defines the GetOpenBlocks. |
 | [Peak](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/peak/)() | Defines the Peak method. |
-| [Push](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/push/)(BlockSyntaxNode) | Defines the Push method. |
+| [Push](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/push/)(*[BlockSyntaxNode](../../aspose.html.toolkit.markdown.syntax/blocksyntaxnode/)*) | Defines the Push method. |
 
 ### See Also
 

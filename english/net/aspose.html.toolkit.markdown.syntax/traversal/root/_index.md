@@ -1,7 +1,7 @@
 ---
 title: Traversal.Root
 second_title: Aspose.HTML for .NET API Reference
-description: Traversal property. Defines the interface for get Root node
+description: Traversal Root property. Defines the interface for get Root node
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/traversal/root/

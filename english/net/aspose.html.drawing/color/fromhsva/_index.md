@@ -1,7 +1,7 @@
 ---
 title: Color.FromHsva
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a new Color with the requested hue saturation value alpha
+description: Color FromHsva method. Returns a new Color with the requested hue saturation value alpha
 type: docs
 weight: 80
 url: /net/aspose.html.drawing/color/fromhsva/

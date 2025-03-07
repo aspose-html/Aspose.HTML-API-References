@@ -1,7 +1,7 @@
 ---
 title: SVGRectElement.Rx
 second_title: Aspose.HTML for .NET API Reference
-description: SVGRectElement property. Corresponds to attribute rx on the given rect element
+description: SVGRectElement Rx property. Corresponds to attribute rx on the given rect element
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg/svgrectelement/rx/

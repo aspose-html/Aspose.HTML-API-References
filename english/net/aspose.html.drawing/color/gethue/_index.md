@@ -1,7 +1,7 @@
 ---
 title: Color.GetHue
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a Hue of the Color
+description: Color GetHue method. Returns a Hue of the Color
 type: docs
 weight: 330
 url: /net/aspose.html.drawing/color/gethue/

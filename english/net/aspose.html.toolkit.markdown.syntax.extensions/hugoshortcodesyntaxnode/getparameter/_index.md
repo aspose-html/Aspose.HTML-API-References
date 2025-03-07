@@ -1,7 +1,7 @@
 ---
 title: HugoShortCodeSyntaxNode.GetParameter
 second_title: Aspose.HTML for .NET API Reference
-description: HugoShortCodeSyntaxNode method. Defines the GetParameter
+description: HugoShortCodeSyntaxNode GetParameter method. Defines the GetParameter
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugoshortcodesyntaxnode/getparameter/

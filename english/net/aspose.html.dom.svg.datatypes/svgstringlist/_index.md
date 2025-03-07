@@ -19,7 +19,7 @@ public class SVGStringList : SVGListBase<string>
 | Name | Description |
 | --- | --- |
 | [SVGStringList](svgstringlist/#constructor)() | Initializes a new instance of the `SVGStringList` class. |
-| [SVGStringList](svgstringlist/#constructor_1)(IEnumerable&lt;string&gt;) | Initializes a new instance of the `SVGStringList` class. |
+| [SVGStringList](svgstringlist/#constructor_1)(*IEnumerable&amp;lt;string&amp;gt;*) | Initializes a new instance of the `SVGStringList` class. |
 
 ## Properties
 
@@ -33,16 +33,16 @@ public class SVGStringList : SVGListBase<string>
 
 | Name | Description |
 | --- | --- |
-| [AppendItem](../../aspose.html.dom.svg.collections/svglistbase-1/appenditem/)(string) |  |
+| [AppendItem](../../aspose.html.dom.svg.collections/svglistbase-1/appenditem/)(*string*) |  |
 | [Clear](../../aspose.html.dom.svg.collections/svglistbase-1/clear/)() |  |
 | [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 | [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.html.dom.svg.collections/svglistbase-1/getitem/)(ulong) |  |
+| [GetItem](../../aspose.html.dom.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| [Initialize](../../aspose.html.dom.svg.collections/svglistbase-1/initialize/)(string) |  |
-| [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/)(string, ulong) |  |
-| [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase-1/replaceitem/)(string, ulong) |  |
+| [Initialize](../../aspose.html.dom.svg.collections/svglistbase-1/initialize/)(*string*) |  |
+| [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/)(*string, ulong*) |  |
+| [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase-1/replaceitem/)(*string, ulong*) |  |
 | override [ToString](../../aspose.html.dom.svg.datatypes/svgstringlist/tostring/)() | Returns a String that represents this instance. |
 
 ### See Also

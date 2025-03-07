@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.dom.events/uievent/uievent/
 ---
-## UIEvent(string) {#constructor}
+## UIEvent(*string*) {#constructor}
 
 Initializes a new instance of the [`UIEvent`](../) class.
 
@@ -26,7 +26,7 @@ public UIEvent(string type)
 
 ---
 
-## UIEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## UIEvent(*string, IDictionary&amp;lt;string, object&amp;gt;*) {#constructor_1}
 
 ```csharp
 public UIEvent(string type, IDictionary<string, object> eventInitDict)

@@ -1,7 +1,7 @@
 ---
 title: SVGMarkerElement.PreserveAspectRatio
 second_title: Aspose.HTML for .NET API Reference
-description: SVGMarkerElement property. Corresponds to attribute preserveAspectRatio on the given element
+description: SVGMarkerElement PreserveAspectRatio property. Corresponds to attribute preserveAspectRatio on the given element
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg/svgmarkerelement/preserveaspectratio/

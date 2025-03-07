@@ -1,7 +1,7 @@
 ---
 title: HTMLTableCellElement.ColSpan
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLTableCellElement property. Number of columns spanned by cell. See the colspan attribute definition in HTML 4.01
+description: HTMLTableCellElement ColSpan property. Number of columns spanned by cell. See the colspan attribute definition in HTML 4.01
 type: docs
 weight: 80
 url: /net/aspose.html/htmltablecellelement/colspan/

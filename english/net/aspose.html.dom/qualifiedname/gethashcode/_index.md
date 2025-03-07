@@ -1,7 +1,7 @@
 ---
 title: QualifiedName.GetHashCode
 second_title: Aspose.HTML for .NET API Reference
-description: QualifiedName method. Provides a hash value for the current object
+description: QualifiedName GetHashCode method. Provides a hash value for the current object
 type: docs
 weight: 60
 url: /net/aspose.html.dom/qualifiedname/gethashcode/

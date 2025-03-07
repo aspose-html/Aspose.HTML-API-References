@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitThematicBreak
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit ThematicBreakSyntax
+description: MarkdownSyntaxVisitor VisitThematicBreak method. Defines the interface for visit ThematicBreakSyntax
 type: docs
 weight: 280
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitthematicbreak/

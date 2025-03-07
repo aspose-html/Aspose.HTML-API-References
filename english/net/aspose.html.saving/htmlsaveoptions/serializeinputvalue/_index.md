@@ -1,7 +1,7 @@
 ---
 title: HTMLSaveOptions.SerializeInputValue
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLSaveOptions property. This option controls whether to serialize the value of the HTMLInputElements or the HTMLTextAreaElements value property into the value attribute
+description: HTMLSaveOptions SerializeInputValue property. This option controls whether to serialize the value of the HTMLInputElements or the HTMLTextAreaElements value property into the value attribute
 type: docs
 weight: 30
 url: /net/aspose.html.saving/htmlsaveoptions/serializeinputvalue/

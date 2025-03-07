@@ -1,7 +1,7 @@
 ---
 title: LengthOrAuto.Length
 second_title: Aspose.HTML for .NET API Reference
-description: LengthOrAuto property. Gets or sets the length
+description: LengthOrAuto Length property. Gets or sets the length
 type: docs
 weight: 30
 url: /net/aspose.html.drawing/lengthorauto/length/

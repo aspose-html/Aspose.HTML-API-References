@@ -1,7 +1,7 @@
 ---
 title: HTMLElement.OnCancel
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLElement event. Gets or sets event handler for OnCancel event
+description: HTMLElement OnCancel event. Gets or sets event handler for OnCancel event
 type: docs
 weight: 90
 url: /net/aspose.html/htmlelement/oncancel/

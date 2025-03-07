@@ -1,7 +1,7 @@
 ---
 title: Document.OnEmptied
 second_title: Aspose.HTML for .NET API Reference
-description: Document event. Gets or sets event handler for OnEmptied event
+description: Document OnEmptied event. Gets or sets event handler for OnEmptied event
 type: docs
 weight: 380
 url: /net/aspose.html.dom/document/onemptied/

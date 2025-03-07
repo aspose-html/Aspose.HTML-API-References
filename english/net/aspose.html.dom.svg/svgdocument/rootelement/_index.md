@@ -1,7 +1,7 @@
 ---
 title: SVGDocument.RootElement
 second_title: Aspose.HTML for .NET API Reference
-description: SVGDocument property. The root svg in the document hierarchy
+description: SVGDocument RootElement property. The root svg in the document hierarchy
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgdocument/rootelement/

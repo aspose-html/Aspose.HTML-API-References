@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegCurvetoQuadraticSmoothAbs.Y
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathSegCurvetoQuadraticSmoothAbs property. The absolute Y coordinate for the end point of this path segment
+description: SVGPathSegCurvetoQuadraticSmoothAbs Y property. The absolute Y coordinate for the end point of this path segment
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticsmoothabs/y/

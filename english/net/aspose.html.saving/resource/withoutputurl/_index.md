@@ -1,7 +1,7 @@
 ---
 title: Resource.WithOutputUrl
 second_title: Aspose.HTML for .NET API Reference
-description: Resource method. Specifies the new URL indicating where the resource will be located after processing
+description: Resource WithOutputUrl method. Specifies the new URL indicating where the resource will be located after processing
 type: docs
 weight: 80
 url: /net/aspose.html.saving/resource/withoutputurl/

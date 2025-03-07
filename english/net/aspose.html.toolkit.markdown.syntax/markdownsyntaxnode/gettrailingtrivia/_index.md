@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxNode.GetTrailingTrivia
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxNode method. Get the Trailing trivia
+description: MarkdownSyntaxNode GetTrailingTrivia method. Get the Trailing trivia
 type: docs
 weight: 110
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/gettrailingtrivia/

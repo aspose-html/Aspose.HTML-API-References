@@ -1,7 +1,7 @@
 ---
 title: Angle.op_GreaterThan
 second_title: Aspose.HTML for .NET API Reference
-description: Angle method. 
+description: Angle op_GreaterThan method. 
 type: docs
 weight: 30
 url: /net/aspose.html.drawing/angle/op_greaterthan/

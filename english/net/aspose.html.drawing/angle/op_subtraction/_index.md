@@ -1,7 +1,7 @@
 ---
 title: Angle.op_Subtraction
 second_title: Aspose.HTML for .NET API Reference
-description: Angle method. 
+description: Angle op_Subtraction method. 
 type: docs
 weight: 80
 url: /net/aspose.html.drawing/angle/op_subtraction/

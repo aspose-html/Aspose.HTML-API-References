@@ -1,7 +1,7 @@
 ---
 title: SVGMarkerElement.MarkerWidth
 second_title: Aspose.HTML for .NET API Reference
-description: SVGMarkerElement property. Corresponds to attribute markerWidth on the given marker element
+description: SVGMarkerElement MarkerWidth property. Corresponds to attribute markerWidth on the given marker element
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svgmarkerelement/markerwidth/

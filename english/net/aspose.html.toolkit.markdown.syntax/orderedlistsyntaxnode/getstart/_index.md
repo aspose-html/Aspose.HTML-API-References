@@ -1,7 +1,7 @@
 ---
 title: OrderedListSyntaxNode.GetStart
 second_title: Aspose.HTML for .NET API Reference
-description: OrderedListSyntaxNode method. Defines the interface for get the start index
+description: OrderedListSyntaxNode GetStart method. Defines the interface for get the start index
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/orderedlistsyntaxnode/getstart/

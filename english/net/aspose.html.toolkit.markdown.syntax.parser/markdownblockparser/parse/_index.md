@@ -1,7 +1,7 @@
 ---
 title: MarkdownBlockParser.Parse
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownBlockParser method. Defines interface for parse ofr the context
+description: MarkdownBlockParser Parse method. Defines interface for parse ofr the context
 type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/parse/

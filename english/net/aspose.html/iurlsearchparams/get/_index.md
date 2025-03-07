@@ -1,7 +1,7 @@
 ---
 title: IUrlSearchParams.Get
 second_title: Aspose.HTML for .NET API Reference
-description: IUrlSearchParams method. Returns value of the first name-value pair whose name is name
+description: IUrlSearchParams Get method. Returns value of the first name-value pair whose name is name
 type: docs
 weight: 30
 url: /net/aspose.html/iurlsearchparams/get/

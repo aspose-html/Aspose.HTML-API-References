@@ -1,7 +1,7 @@
 ---
 title: SVGMaskElement.RequiredFeatures
 second_title: Aspose.HTML for .NET API Reference
-description: SVGMaskElement property. Corresponds to attribute requiredFeatures on the given element
+description: SVGMaskElement RequiredFeatures property. Corresponds to attribute requiredFeatures on the given element
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg/svgmaskelement/requiredfeatures/

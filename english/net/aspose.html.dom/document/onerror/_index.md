@@ -1,7 +1,7 @@
 ---
 title: Document.OnError
 second_title: Aspose.HTML for .NET API Reference
-description: Document event. Gets or sets event handler for OnError event
+description: Document OnError event. Gets or sets event handler for OnError event
 type: docs
 weight: 400
 url: /net/aspose.html.dom/document/onerror/

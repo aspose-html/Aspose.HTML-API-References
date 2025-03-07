@@ -1,7 +1,7 @@
 ---
 title: IMatrix.GetElements
 second_title: Aspose.HTML for .NET API Reference
-description: IMatrix method. Gets the elements of the matrix as an array
+description: IMatrix GetElements method. Gets the elements of the matrix as an array
 type: docs
 weight: 100
 url: /net/aspose.html.drawing/imatrix/getelements/

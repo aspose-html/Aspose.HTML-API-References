@@ -1,7 +1,7 @@
 ---
 title: ICanvasRenderingContext2D.GlobalCompositeOperation
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D property. With globalAlpha applied this sets how shapes and images are drawn onto the existing bitmap. Default source-over
+description: ICanvasRenderingContext2D GlobalCompositeOperation property. With globalAlpha applied this sets how shapes and images are drawn onto the existing bitmap. Default source-over
 type: docs
 weight: 40
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/globalcompositeoperation/

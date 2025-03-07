@@ -18,7 +18,7 @@ public class AccessibilityValidator
 
 | Name | Description |
 | --- | --- |
-| [Validate](../../aspose.html.accessibility/accessibilityvalidator/validate/)(HTMLDocument) | Checks all methods in the Rule List. |
+| [Validate](../../aspose.html.accessibility/accessibilityvalidator/validate/)(*[HTMLDocument](../../aspose.html/htmldocument/)*) | Checks all methods in the Rule List. |
 
 ### See Also
 

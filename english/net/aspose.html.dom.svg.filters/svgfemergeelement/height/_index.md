@@ -1,7 +1,7 @@
 ---
 title: SVGFEMergeElement.Height
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEMergeElement property. Corresponds to attribute height on the given filter element
+description: SVGFEMergeElement Height property. Corresponds to attribute height on the given filter element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.filters/svgfemergeelement/height/

@@ -1,7 +1,7 @@
 ---
 title: LinkReferenceDefinitionSyntaxNode.GetDestination
 second_title: Aspose.HTML for .NET API Reference
-description: LinkReferenceDefinitionSyntaxNode method. Returns the link reference destination
+description: LinkReferenceDefinitionSyntaxNode GetDestination method. Returns the link reference destination
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/getdestination/

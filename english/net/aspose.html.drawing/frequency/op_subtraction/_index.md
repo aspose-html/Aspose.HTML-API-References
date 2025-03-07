@@ -1,7 +1,7 @@
 ---
 title: Frequency.op_Subtraction
 second_title: Aspose.HTML for .NET API Reference
-description: Frequency method. 
+description: Frequency op_Subtraction method. 
 type: docs
 weight: 80
 url: /net/aspose.html.drawing/frequency/op_subtraction/

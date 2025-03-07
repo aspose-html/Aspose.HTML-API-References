@@ -1,7 +1,7 @@
 ---
 title: Device-2.GraphicContext
 second_title: Aspose.HTML for .NET API Reference
-description: Device property. Gets the graphic context
+description: Device GraphicContext property. Gets the graphic context
 type: docs
 weight: 10
 url: /net/aspose.html.rendering/device-2/graphiccontext/

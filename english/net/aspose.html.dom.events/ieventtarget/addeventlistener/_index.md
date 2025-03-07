@@ -1,12 +1,12 @@
 ---
 title: IEventTarget.AddEventListener
 second_title: Aspose.HTML for .NET API Reference
-description: IEventTarget method. The EventTarget method addEventListener sets up a function that will be called whenever the specified event is delivered to the target
+description: IEventTarget AddEventListener method. The EventTarget method addEventListener sets up a function that will be called whenever the specified event is delivered to the target
 type: docs
 weight: 10
 url: /net/aspose.html.dom.events/ieventtarget/addeventlistener/
 ---
-## AddEventListener(string, IEventListener) {#addeventlistener}
+## AddEventListener(*string, [IEventListener](../../ieventlistener/)*) {#addeventlistener}
 
 The EventTarget method addEventListener() sets up a function that will be called whenever the specified event is delivered to the target.
 
@@ -34,7 +34,7 @@ If an is added to an while it is processing an event, it will not be triggered b
 
 ---
 
-## AddEventListener(string, IEventListener, bool) {#addeventlistener_1}
+## AddEventListener(*string, [IEventListener](../../ieventlistener/), bool*) {#addeventlistener_1}
 
 The EventTarget method addEventListener() sets up a function that will be called whenever the specified event is delivered to the target.
 

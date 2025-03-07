@@ -1,7 +1,7 @@
 ---
 title: YamlSequenceSyntaxNode.Item
 second_title: Aspose.HTML for .NET API Reference
-description: YamlSequenceSyntaxNode property. Get the ChildFrontMatterSyntaxNode by index
+description: YamlSequenceSyntaxNode Item property. Get the ChildFrontMatterSyntaxNode by index
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/item/

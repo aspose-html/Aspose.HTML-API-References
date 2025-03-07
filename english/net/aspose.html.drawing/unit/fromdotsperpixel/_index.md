@@ -1,7 +1,7 @@
 ---
 title: Unit.FromDotsPerPixel
 second_title: Aspose.HTML for .NET API Reference
-description: Unit method. Returns a Resolution object that is represented in dots per pixels
+description: Unit FromDotsPerPixel method. Returns a Resolution object that is represented in dots per pixels
 type: docs
 weight: 90
 url: /net/aspose.html.drawing/unit/fromdotsperpixel/

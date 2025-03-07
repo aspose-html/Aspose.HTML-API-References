@@ -1,7 +1,7 @@
 ---
 title: SVGAnimatedTransformList.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: SVGAnimatedTransformList method. Returns a String that represents this instance
+description: SVGAnimatedTransformList ToString method. Returns a String that represents this instance
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.datatypes/svganimatedtransformlist/tostring/

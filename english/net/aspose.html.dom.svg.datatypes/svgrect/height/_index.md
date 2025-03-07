@@ -1,7 +1,7 @@
 ---
 title: SVGRect.Height
 second_title: Aspose.HTML for .NET API Reference
-description: SVGRect property. The Height coordinate of the rectangle in user units
+description: SVGRect Height property. The Height coordinate of the rectangle in user units
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.datatypes/svgrect/height/

@@ -1,7 +1,7 @@
 ---
 title: FileCreateStreamProvider.ReleaseStream
 second_title: Aspose.HTML for .NET API Reference
-description: FileCreateStreamProvider method. Releases the stream
+description: FileCreateStreamProvider ReleaseStream method. Releases the stream
 type: docs
 weight: 60
 url: /net/aspose.html.io/filecreatestreamprovider/releasestream/

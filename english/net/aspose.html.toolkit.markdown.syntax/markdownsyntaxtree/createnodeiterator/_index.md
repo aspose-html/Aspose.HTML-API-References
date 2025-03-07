@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxTree.CreateNodeIterator
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxTree method. Defines the interface for create of the node iterator
+description: MarkdownSyntaxTree CreateNodeIterator method. Defines the interface for create of the node iterator
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/createnodeiterator/
 ---
-## CreateNodeIterator(MarkdownSyntaxNodeFilter) {#createnodeiterator_2}
+## CreateNodeIterator(*[MarkdownSyntaxNodeFilter](../../markdownsyntaxnodefilter/)*) {#createnodeiterator_2}
 
 Defines the interface for create of the node iterator.
 
@@ -32,7 +32,7 @@ The node iterator.
 
 ---
 
-## CreateNodeIterator(MarkdownSyntaxNode) {#createnodeiterator}
+## CreateNodeIterator(*[MarkdownSyntaxNode](../../markdownsyntaxnode/)*) {#createnodeiterator}
 
 Defines the interface for create of the node iterator.
 
@@ -58,7 +58,7 @@ The node iterator.
 
 ---
 
-## CreateNodeIterator(MarkdownSyntaxNode, MarkdownSyntaxNodeFilter) {#createnodeiterator_1}
+## CreateNodeIterator(*[MarkdownSyntaxNode](../../markdownsyntaxnode/), [MarkdownSyntaxNodeFilter](../../markdownsyntaxnodefilter/)*) {#createnodeiterator_1}
 
 Defines the interface for create of the node iterator.
 

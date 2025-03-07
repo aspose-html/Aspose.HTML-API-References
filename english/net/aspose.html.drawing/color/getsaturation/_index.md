@@ -1,7 +1,7 @@
 ---
 title: Color.GetSaturation
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a saturation of the Color
+description: Color GetSaturation method. Returns a saturation of the Color
 type: docs
 weight: 350
 url: /net/aspose.html.drawing/color/getsaturation/

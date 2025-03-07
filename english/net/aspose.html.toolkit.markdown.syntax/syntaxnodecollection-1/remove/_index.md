@@ -1,7 +1,7 @@
 ---
 title: SyntaxNodeCollection-1.Remove
 second_title: Aspose.HTML for .NET API Reference
-description: SyntaxNodeCollection method. Removes the item from the collection
+description: SyntaxNodeCollection Remove method. Removes the item from the collection
 type: docs
 weight: 130
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/remove/

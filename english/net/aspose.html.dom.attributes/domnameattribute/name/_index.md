@@ -1,7 +1,7 @@
 ---
 title: DOMNameAttribute.Name
 second_title: Aspose.HTML for .NET API Reference
-description: DOMNameAttribute property. Gets the DOM name
+description: DOMNameAttribute Name property. Gets the DOM name
 type: docs
 weight: 20
 url: /net/aspose.html.dom.attributes/domnameattribute/name/

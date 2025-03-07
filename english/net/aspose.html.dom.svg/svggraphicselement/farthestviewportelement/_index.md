@@ -1,7 +1,7 @@
 ---
 title: SVGGraphicsElement.FarthestViewportElement
 second_title: Aspose.HTML for .NET API Reference
-description: SVGGraphicsElement property. The farthest ancestor svg element. Null if the current element is the outermost svg element
+description: SVGGraphicsElement FarthestViewportElement property. The farthest ancestor svg element. Null if the current element is the outermost svg element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svggraphicselement/farthestviewportelement/

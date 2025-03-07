@@ -1,7 +1,7 @@
 ---
 title: Document.GetElementsByTagName
 second_title: Aspose.HTML for .NET API Reference
-description: Document method. The getElementsByTagName method of Document interface returns an HTMLCollection of elements with the given tag name
+description: Document GetElementsByTagName method. The getElementsByTagName method of Document interface returns an HTMLCollection of elements with the given tag name
 type: docs
 weight: 980
 url: /net/aspose.html.dom/document/getelementsbytagname/

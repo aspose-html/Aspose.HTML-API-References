@@ -1,7 +1,7 @@
 ---
 title: BlockProxy.WriteTo
 second_title: Aspose.HTML for .NET API Reference
-description: BlockProxy method. Defines the interface for Write To writer
+description: BlockProxy WriteTo method. Defines the interface for Write To writer
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/blockproxy/writeto/

@@ -1,12 +1,12 @@
 ---
 title: FormEditor.GetElement
 second_title: Aspose.HTML for .NET API Reference
-description: FormEditor method. Returns the element by specified index
+description: FormEditor GetElement method. Returns the element by specified index
 type: docs
 weight: 120
 url: /net/aspose.html.forms/formeditor/getelement/
 ---
-## GetElement&lt;T&gt;(int) {#getelement}
+## GetElement&lt;T&gt;(*int*) {#getelement}
 
 Returns the element by specified index.
 
@@ -33,7 +33,7 @@ Returns the element.
 
 ---
 
-## GetElement&lt;T&gt;(string) {#getelement_1}
+## GetElement&lt;T&gt;(*string*) {#getelement_1}
 
 Returns the element by specified name.
 

@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxNode.GetSyntaxTree
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxNode method. Get the syntax tree
+description: MarkdownSyntaxNode GetSyntaxTree method. Get the syntax tree
 type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getsyntaxtree/

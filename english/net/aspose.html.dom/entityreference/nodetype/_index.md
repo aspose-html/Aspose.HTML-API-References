@@ -1,7 +1,7 @@
 ---
 title: EntityReference.NodeType
 second_title: Aspose.HTML for .NET API Reference
-description: EntityReference property. A code representing the type of the underlying object
+description: EntityReference NodeType property. A code representing the type of the underlying object
 type: docs
 weight: 20
 url: /net/aspose.html.dom/entityreference/nodetype/

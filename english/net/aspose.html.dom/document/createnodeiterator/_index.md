@@ -1,12 +1,12 @@
 ---
 title: Document.CreateNodeIterator
 second_title: Aspose.HTML for .NET API Reference
-description: Document method. Create a new NodeIterator over the subtree rooted at the specified node
+description: Document CreateNodeIterator method. Create a new NodeIterator over the subtree rooted at the specified node
 type: docs
 weight: 900
 url: /net/aspose.html.dom/document/createnodeiterator/
 ---
-## CreateNodeIterator(Node) {#createnodeiterator}
+## CreateNodeIterator(*[Node](../../node/)*) {#createnodeiterator}
 
 Create a new NodeIterator over the subtree rooted at the specified node.
 
@@ -38,7 +38,7 @@ The newly created NodeIterator.
 
 ---
 
-## CreateNodeIterator(Node, long) {#createnodeiterator_1}
+## CreateNodeIterator(*[Node](../../node/), long*) {#createnodeiterator_1}
 
 Create a new NodeIterator over the subtree rooted at the specified node.
 
@@ -71,7 +71,7 @@ The newly created NodeIterator.
 
 ---
 
-## CreateNodeIterator(Node, long, INodeFilter) {#createnodeiterator_2}
+## CreateNodeIterator(*[Node](../../node/), long, [INodeFilter](../../../aspose.html.dom.traversal/inodefilter/)*) {#createnodeiterator_2}
 
 Create a new NodeIterator over the subtree rooted at the specified node.
 

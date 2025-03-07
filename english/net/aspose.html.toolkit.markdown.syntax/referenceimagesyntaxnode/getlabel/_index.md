@@ -1,7 +1,7 @@
 ---
 title: ReferenceImageSyntaxNode.GetLabel
 second_title: Aspose.HTML for .NET API Reference
-description: ReferenceImageSyntaxNode method. Defines the interface for get label
+description: ReferenceImageSyntaxNode GetLabel method. Defines the interface for get label
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/referenceimagesyntaxnode/getlabel/

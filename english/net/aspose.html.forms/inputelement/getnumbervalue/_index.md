@@ -1,7 +1,7 @@
 ---
 title: InputElement.GetNumberValue
 second_title: Aspose.HTML for .NET API Reference
-description: InputElement method. This method is used to get the value as a number. This method is valid if only only type of the input element is number
+description: InputElement GetNumberValue method. This method is used to get the value as a number. This method is valid if only only type of the input element is number
 type: docs
 weight: 130
 url: /net/aspose.html.forms/inputelement/getnumbervalue/

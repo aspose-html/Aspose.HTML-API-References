@@ -1,7 +1,7 @@
 ---
 title: Location.Assign
 second_title: Aspose.HTML for .NET API Reference
-description: Location method. Navigates to the given page
+description: Location Assign method. Navigates to the given page
 type: docs
 weight: 100
 url: /net/aspose.html.window/location/assign/

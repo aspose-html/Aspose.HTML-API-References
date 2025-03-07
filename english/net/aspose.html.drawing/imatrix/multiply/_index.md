@@ -1,12 +1,12 @@
 ---
 title: IMatrix.Multiply
 second_title: Aspose.HTML for .NET API Reference
-description: IMatrix method. Multiplies this matrix by another matrix in the specified order
+description: IMatrix Multiply method. Multiplies this matrix by another matrix in the specified order
 type: docs
 weight: 120
 url: /net/aspose.html.drawing/imatrix/multiply/
 ---
-## Multiply(IMatrix, WebMatrixOrder) {#multiply_1}
+## Multiply(*[IMatrix](../), [WebMatrixOrder](../../webmatrixorder/)*) {#multiply_1}
 
 Multiplies this matrix by another matrix in the specified order.
 
@@ -28,7 +28,7 @@ public void Multiply(IMatrix matrix, WebMatrixOrder order)
 
 ---
 
-## Multiply(IMatrix) {#multiply}
+## Multiply(*[IMatrix](../)*) {#multiply}
 
 Multiplies this matrix by another matrix.
 

@@ -1,7 +1,7 @@
 ---
 title: Document.OnClick
 second_title: Aspose.HTML for .NET API Reference
-description: Document event. Gets or sets event handler for OnClick event
+description: Document OnClick event. Gets or sets event handler for OnClick event
 type: docs
 weight: 340
 url: /net/aspose.html.dom/document/onclick/

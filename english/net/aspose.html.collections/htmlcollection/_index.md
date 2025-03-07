@@ -27,7 +27,7 @@ public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
 | --- | --- |
 | abstract [GetEnumerator](../../aspose.html.collections/htmlcollection/getenumerator/)() | Gets the enumerator. |
 | override [GetPlatformType](../../aspose.html.collections/htmlcollection/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
-| [NamedItem](../../aspose.html.collections/htmlcollection/nameditem/)(string) | Returns the item in the collection matched specified name. |
+| [NamedItem](../../aspose.html.collections/htmlcollection/nameditem/)(*string*) | Returns the item in the collection matched specified name. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: DocumentType.SystemId
 second_title: Aspose.HTML for .NET API Reference
-description: DocumentType property. The system identifier of the external subset. This may be an absolute URI or not
+description: DocumentType SystemId property. The system identifier of the external subset. This may be an absolute URI or not
 type: docs
 weight: 70
 url: /net/aspose.html.dom/documenttype/systemid/

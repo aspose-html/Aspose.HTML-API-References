@@ -37,17 +37,17 @@ public class SyntaxNodeCollection<T> : NodeList<T>, IList<T>
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/add/)(T) | Adds the given item to the collection. |
+| [Add](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/add/)(*T*) | Adds the given item to the collection. |
 | [Clear](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/clear/)() | Removes all items from the collection. |
-| [Contains](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/contains/)(T) | Determines whether the given item exists in the collection. |
-| [CopyTo](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/copyto/)(T[], int) |  |
-| override [Get](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/get/)(int) | Gets the item at the given index. |
+| [Contains](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/contains/)(*T*) | Determines whether the given item exists in the collection. |
+| [CopyTo](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/copyto/)(*T[], int*) |  |
+| override [Get](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/get/)(*int*) | Gets the item at the given index. |
 | override [GetEnumerator](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/getenumerator/)() | Gets the values in the collection. |
-| [IndexOf](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/indexof/)(T) | Gets the index of the given item. |
-| [Insert](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/insert/)(int, T) | Inserts the given item at the specified index. |
-| [Remove](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/remove/)(T) | Removes the item from the collection. |
-| [RemoveAt](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/removeat/)(int) | Removes the item at the given index. |
-| [WriteTo](../../aspose.html.toolkit.markdown.syntax/nodelist-1/writeto/)(TextWriter) |  |
+| [IndexOf](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/indexof/)(*T*) | Gets the index of the given item. |
+| [Insert](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/insert/)(*int, T*) | Inserts the given item at the specified index. |
+| [Remove](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/remove/)(*T*) | Removes the item from the collection. |
+| [RemoveAt](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/removeat/)(*int*) | Removes the item at the given index. |
+| [WriteTo](../../aspose.html.toolkit.markdown.syntax/nodelist-1/writeto/)(*TextWriter*) |  |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: ICanvasRenderingContext2D.Scale
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D method. Adds a scaling transformation to the canvas units by x horizontally and by y vertically
+description: ICanvasRenderingContext2D Scale method. Adds a scaling transformation to the canvas units by x horizontally and by y vertically
 type: docs
 weight: 350
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/scale/

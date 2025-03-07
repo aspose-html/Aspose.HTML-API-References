@@ -1,7 +1,7 @@
 ---
 title: ArrayBuffer.Item
 second_title: Aspose.HTML for .NET API Reference
-description: ArrayBuffer property. Gets or sets the Byte at the specified index
+description: ArrayBuffer Item property. Gets or sets the Byte at the specified index
 type: docs
 weight: 30
 url: /net/aspose.html/arraybuffer/item/

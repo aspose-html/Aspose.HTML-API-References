@@ -18,9 +18,9 @@ public interface IDOMImplementation
 
 | Name | Description |
 | --- | --- |
-| [CreateDocument](../../aspose.html.dom/idomimplementation/createdocument/)(string, string, DocumentType) | Creates a DOM Document object of the specified type with its document element. |
-| [CreateDocumentType](../../aspose.html.dom/idomimplementation/createdocumenttype/)(string, string, string) | Creates an empty DocumentType node. Entity declarations and notations are not made available. Entity reference expansions and default attribute additions do not occur. |
-| [CreateHTMLDocument](../../aspose.html.dom/idomimplementation/createhtmldocument/)(string) | Returns a document, with a basic tree already constructed including a title element, unless the title argument is omitted. |
+| [CreateDocument](../../aspose.html.dom/idomimplementation/createdocument/)(*string, string, [DocumentType](../documenttype/)*) | Creates a DOM Document object of the specified type with its document element. |
+| [CreateDocumentType](../../aspose.html.dom/idomimplementation/createdocumenttype/)(*string, string, string*) | Creates an empty DocumentType node. Entity declarations and notations are not made available. Entity reference expansions and default attribute additions do not occur. |
+| [CreateHTMLDocument](../../aspose.html.dom/idomimplementation/createhtmldocument/)(*string*) | Returns a document, with a basic tree already constructed including a title element, unless the title argument is omitted. |
 | [HasFeature](../../aspose.html.dom/idomimplementation/hasfeature/)() | Test if the DOM implementation implements a specific feature and version, as specified in DOM Features. |
 
 ### See Also

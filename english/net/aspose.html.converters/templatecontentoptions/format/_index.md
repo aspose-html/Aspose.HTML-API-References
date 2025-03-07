@@ -1,7 +1,7 @@
 ---
 title: TemplateContentOptions.Format
 second_title: Aspose.HTML for .NET API Reference
-description: TemplateContentOptions property. String representation of ContentType property
+description: TemplateContentOptions Format property. String representation of ContentType property
 type: docs
 weight: 40
 url: /net/aspose.html.converters/templatecontentoptions/format/

@@ -1,7 +1,7 @@
 ---
 title: ValidationBuilder.UseLowestLevel
 second_title: Aspose.HTML for .NET API Reference
-description: ValidationBuilder method. Use Lowest Level A of Criterion in Rules
+description: ValidationBuilder UseLowestLevel method. Use Lowest Level A of Criterion in Rules
 type: docs
 weight: 120
 url: /net/aspose.html.accessibility/validationbuilder/uselowestlevel/

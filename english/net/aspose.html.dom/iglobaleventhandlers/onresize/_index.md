@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnResize
 second_title: Aspose.HTML for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnResize event
+description: IGlobalEventHandlers OnResize event. Gets or sets event handler for OnResize event
 type: docs
 weight: 380
 url: /net/aspose.html.dom/iglobaleventhandlers/onresize/

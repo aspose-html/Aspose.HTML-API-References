@@ -1,7 +1,7 @@
 ---
 title: PageSetup.FirstPage
 second_title: Aspose.HTML for .NET API Reference
-description: PageSetup property. Gets or sets the first page configuration
+description: PageSetup FirstPage property. Gets or sets the first page configuration
 type: docs
 weight: 40
 url: /net/aspose.html.rendering/pagesetup/firstpage/

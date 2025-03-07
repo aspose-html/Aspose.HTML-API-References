@@ -1,7 +1,7 @@
 ---
 title: TableSyntaxNode.GetHeader
 second_title: Aspose.HTML for .NET API Reference
-description: TableSyntaxNode method. Defines the interface for get table header
+description: TableSyntaxNode GetHeader method. Defines the interface for get table header
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax/tablesyntaxnode/getheader/

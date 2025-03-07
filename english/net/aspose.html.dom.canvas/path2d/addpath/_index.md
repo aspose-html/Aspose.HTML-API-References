@@ -1,12 +1,12 @@
 ---
 title: Path2D.AddPath
 second_title: Aspose.HTML for .NET API Reference
-description: Path2D method. Adds to the path the path given by the argument
+description: Path2D AddPath method. Adds to the path the path given by the argument
 type: docs
 weight: 20
 url: /net/aspose.html.dom.canvas/path2d/addpath/
 ---
-## AddPath(Path2D) {#addpath}
+## AddPath(*[Path2D](../)*) {#addpath}
 
 Adds to the path the path given by the argument.
 
@@ -26,7 +26,7 @@ public void AddPath(Path2D path)
 
 ---
 
-## AddPath(Path2D, SVGMatrix) {#addpath_1}
+## AddPath(*[Path2D](../), [SVGMatrix](../../../aspose.html.dom.svg.datatypes/svgmatrix/)*) {#addpath_1}
 
 Adds to the path the path given by the argument.
 

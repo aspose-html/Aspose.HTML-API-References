@@ -1,7 +1,7 @@
 ---
 title: DocumentFragment.QuerySelectorAll
 second_title: Aspose.HTML for .NET API Reference
-description: DocumentFragment method. Returns a NodeList of all the Elements in document which match selector
+description: DocumentFragment QuerySelectorAll method. Returns a NodeList of all the Elements in document which match selector
 type: docs
 weight: 130
 url: /net/aspose.html.dom/documentfragment/queryselectorall/

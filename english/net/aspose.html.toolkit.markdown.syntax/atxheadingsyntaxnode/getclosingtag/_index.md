@@ -1,7 +1,7 @@
 ---
 title: AtxHeadingSyntaxNode.GetClosingTag
 second_title: Aspose.HTML for .NET API Reference
-description: AtxHeadingSyntaxNode method. Defines the interface for get ClosingTag
+description: AtxHeadingSyntaxNode GetClosingTag method. Defines the interface for get ClosingTag
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/atxheadingsyntaxnode/getclosingtag/

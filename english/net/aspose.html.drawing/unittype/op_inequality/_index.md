@@ -1,7 +1,7 @@
 ---
 title: UnitType.op_Inequality
 second_title: Aspose.HTML for .NET API Reference
-description: UnitType method. 
+description: UnitType op_Inequality method. 
 type: docs
 weight: 370
 url: /net/aspose.html.drawing/unittype/op_inequality/

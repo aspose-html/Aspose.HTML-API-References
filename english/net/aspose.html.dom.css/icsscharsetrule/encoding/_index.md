@@ -1,7 +1,7 @@
 ---
 title: ICSSCharsetRule.Encoding
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSCharsetRule property. The encoding information associated with the current stylesheet used in this charset rule
+description: ICSSCharsetRule Encoding property. The encoding information associated with the current stylesheet used in this charset rule
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/icsscharsetrule/encoding/

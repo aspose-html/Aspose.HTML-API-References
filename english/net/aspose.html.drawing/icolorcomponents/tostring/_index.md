@@ -1,7 +1,7 @@
 ---
 title: IColorComponents.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: IColorComponents method. Converts color components to string representation
+description: IColorComponents ToString method. Converts color components to string representation
 type: docs
 weight: 50
 url: /net/aspose.html.drawing/icolorcomponents/tostring/

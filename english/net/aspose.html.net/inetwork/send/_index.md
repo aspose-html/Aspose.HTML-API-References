@@ -1,7 +1,7 @@
 ---
 title: INetwork.Send
 second_title: Aspose.HTML for .NET API Reference
-description: INetwork method. Sends a RequestMessage message
+description: INetwork Send method. Sends a RequestMessage message
 type: docs
 weight: 10
 url: /net/aspose.html.net/inetwork/send/

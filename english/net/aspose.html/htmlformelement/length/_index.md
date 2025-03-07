@@ -1,7 +1,7 @@
 ---
 title: HTMLFormElement.Length
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLFormElement property. The number of form controls in the form
+description: HTMLFormElement Length property. The number of form controls in the form
 type: docs
 weight: 50
 url: /net/aspose.html/htmlformelement/length/

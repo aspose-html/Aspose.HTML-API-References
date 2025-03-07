@@ -1,7 +1,7 @@
 ---
 title: HTMLFrameSetElement.Rows
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLFrameSetElement property. The number of rows of frames in the frameset. See the rows attribute definition in HTML 4.01
+description: HTMLFrameSetElement Rows property. The number of rows of frames in the frameset. See the rows attribute definition in HTML 4.01
 type: docs
 weight: 20
 url: /net/aspose.html/htmlframesetelement/rows/

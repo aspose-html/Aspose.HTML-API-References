@@ -1,7 +1,7 @@
 ---
 title: HugoYamlBasedFrontMatterSyntaxNode.GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: HugoYamlBasedFrontMatterSyntaxNode method. Get Enumerator
+description: HugoYamlBasedFrontMatterSyntaxNode GetEnumerator method. Get Enumerator
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/getenumerator/

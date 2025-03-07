@@ -1,7 +1,7 @@
 ---
 title: Location.Hash
 second_title: Aspose.HTML for .NET API Reference
-description: Location property. 
+description: Location Hash property. 
 type: docs
 weight: 10
 url: /net/aspose.html.window/location/hash/

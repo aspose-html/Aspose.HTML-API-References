@@ -1,7 +1,7 @@
 ---
 title: Resource.OutputUrl
 second_title: Aspose.HTML for .NET API Reference
-description: Resource property. Gets or sets the URL indicating where the resource will be located after processing
+description: Resource OutputUrl property. Gets or sets the URL indicating where the resource will be located after processing
 type: docs
 weight: 40
 url: /net/aspose.html.saving/resource/outputurl/

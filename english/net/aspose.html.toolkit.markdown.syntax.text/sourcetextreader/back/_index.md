@@ -1,7 +1,7 @@
 ---
 title: SourceTextReader.Back
 second_title: Aspose.HTML for .NET API Reference
-description: SourceTextReader method. The decrement position
+description: SourceTextReader Back method. The decrement position
 type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/back/

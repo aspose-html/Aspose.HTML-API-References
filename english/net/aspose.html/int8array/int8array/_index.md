@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html/int8array/int8array/
 ---
-## Int8Array(int) {#constructor_3}
+## Int8Array(*int*) {#constructor_3}
 
 Initializes a new instance of the [`Int8Array`](../) class.
 
@@ -26,7 +26,7 @@ public Int8Array(int length)
 
 ---
 
-## Int8Array(sbyte[]) {#constructor_4}
+## Int8Array(*sbyte[]*) {#constructor_4}
 
 Initializes a new instance of the [`Int8Array`](../) class.
 
@@ -46,7 +46,7 @@ public Int8Array(sbyte[] data)
 
 ---
 
-## Int8Array(ArrayBuffer) {#constructor}
+## Int8Array(*[ArrayBuffer](../../arraybuffer/)*) {#constructor}
 
 Initializes a new instance of the [`Int8Array`](../) class.
 
@@ -67,7 +67,7 @@ public Int8Array(ArrayBuffer buffer)
 
 ---
 
-## Int8Array(ArrayBuffer, int) {#constructor_1}
+## Int8Array(*[ArrayBuffer](../../arraybuffer/), int*) {#constructor_1}
 
 Initializes a new instance of the [`Int8Array`](../) class.
 
@@ -89,7 +89,7 @@ public Int8Array(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Int8Array(ArrayBuffer, int, int) {#constructor_2}
+## Int8Array(*[ArrayBuffer](../../arraybuffer/), int, int*) {#constructor_2}
 
 Initializes a new instance of the [`Int8Array`](../) class.
 

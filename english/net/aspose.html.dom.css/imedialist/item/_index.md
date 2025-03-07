@@ -1,7 +1,7 @@
 ---
 title: IMediaList.Item
 second_title: Aspose.HTML for .NET API Reference
-description: IMediaList property. RetuThe itemindex method must return a serialization of the media query in the collection of media queries given by index or null if index is greater than or equal to the number of media queries in the collection of media queries
+description: IMediaList Item property. RetuThe itemindex method must return a serialization of the media query in the collection of media queries given by index or null if index is greater than or equal to the number of media queries in the collection of media queries
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/imedialist/item/

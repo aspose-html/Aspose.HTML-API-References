@@ -1,12 +1,12 @@
 ---
 title: Color.FromRgba
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a new Color with the requested ged green blue alpha values. All color components must be in the range 0-255
+description: Color FromRgba method. Returns a new Color with the requested ged green blue alpha values. All color components must be in the range 0-255
 type: docs
 weight: 210
 url: /net/aspose.html.drawing/color/fromrgba/
 ---
-## FromRgba(byte, byte, byte, byte) {#fromrgba}
+## FromRgba(*byte, byte, byte, byte*) {#fromrgba}
 
 Returns a new Color with the requested ged, green, blue, alpha values. All color components must be in the range 0-255.
 
@@ -33,7 +33,7 @@ A new instance of the [`Color`](../) class
 
 ---
 
-## FromRgba(int, int, int, int) {#fromrgba_1}
+## FromRgba(*int, int, int, int*) {#fromrgba_1}
 
 Returns a new Color with the requested ged, green, blue, alpha values. All color components must be in the range 0-255.
 
@@ -60,7 +60,7 @@ A new instance of the [`Color`](../) class
 
 ---
 
-## FromRgba(float, float, float, float) {#fromrgba_2}
+## FromRgba(*float, float, float, float*) {#fromrgba_2}
 
 Returns a new Color with the requested ged, green, blue, alpha values. All color components must be in the range 0-1.
 

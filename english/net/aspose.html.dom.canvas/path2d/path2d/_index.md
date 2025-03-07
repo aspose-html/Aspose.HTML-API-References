@@ -22,7 +22,7 @@ public Path2D()
 
 ---
 
-## Path2D(Path2D) {#constructor_1}
+## Path2D(*[Path2D](../)*) {#constructor_1}
 
 returns a newly instantiated Path2D object with another path as an argument (creates a copy)
 
@@ -42,7 +42,7 @@ public Path2D(Path2D path)
 
 ---
 
-## Path2D(string) {#constructor_2}
+## Path2D(*string*) {#constructor_2}
 
 returns a newly instantiated Path2D object with a string consisting of SVG path data.
 

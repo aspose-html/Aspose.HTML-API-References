@@ -1,7 +1,7 @@
 ---
 title: MutationRecord.PreviousSibling
 second_title: Aspose.HTML for .NET API Reference
-description: MutationRecord property. Returns the previous sibling of the added or removed nodes or null
+description: MutationRecord PreviousSibling property. Returns the previous sibling of the added or removed nodes or null
 type: docs
 weight: 60
 url: /net/aspose.html.dom.mutations/mutationrecord/previoussibling/

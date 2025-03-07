@@ -1,7 +1,7 @@
 ---
 title: SVGLineElement.X1
 second_title: Aspose.HTML for .NET API Reference
-description: SVGLineElement property. Corresponds to attribute x1 on the given line element
+description: SVGLineElement X1 property. Corresponds to attribute x1 on the given line element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svglineelement/x1/

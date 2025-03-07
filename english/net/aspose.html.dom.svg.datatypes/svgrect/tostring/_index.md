@@ -1,7 +1,7 @@
 ---
 title: SVGRect.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: SVGRect method. Returns a String that represents this instance
+description: SVGRect ToString method. Returns a String that represents this instance
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg.datatypes/svgrect/tostring/

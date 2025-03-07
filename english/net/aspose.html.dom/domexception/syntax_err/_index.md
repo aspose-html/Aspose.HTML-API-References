@@ -1,7 +1,7 @@
 ---
 title: DOMException.SYNTAX_ERR
 second_title: Aspose.HTML for .NET API Reference
-description: DOMException field. If an invalid or illegal string is specified
+description: DOMException SYNTAX_ERR field. If an invalid or illegal string is specified
 type: docs
 weight: 250
 url: /net/aspose.html.dom/domexception/syntax_err/

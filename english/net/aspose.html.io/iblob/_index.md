@@ -25,7 +25,7 @@ public interface IBlob
 
 | Name | Description |
 | --- | --- |
-| [Slice](../../aspose.html.io/iblob/slice/)(ulong, ulong, string) | Returns a new Blob object with bytes ranging from the optional start parameter up to but not including the optional end parameter, and with a type attribute that is the value of the optional contentType parameter. |
+| [Slice](../../aspose.html.io/iblob/slice/)(*ulong, ulong, string*) | Returns a new Blob object with bytes ranging from the optional start parameter up to but not including the optional end parameter, and with a type attribute that is the value of the optional contentType parameter. |
 
 ### See Also
 

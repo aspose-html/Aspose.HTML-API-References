@@ -1,7 +1,7 @@
 ---
 title: SVGComponentTransferFunctionElement.Amplitude
 second_title: Aspose.HTML for .NET API Reference
-description: SVGComponentTransferFunctionElement property. Corresponds to attribute amplitude on the given element
+description: SVGComponentTransferFunctionElement Amplitude property. Corresponds to attribute amplitude on the given element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svgcomponenttransferfunctionelement/amplitude/

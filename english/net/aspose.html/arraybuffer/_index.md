@@ -18,8 +18,8 @@ public class ArrayBuffer : DOMObject
 
 | Name | Description |
 | --- | --- |
-| [ArrayBuffer](arraybuffer/#constructor)(byte[]) | Initializes a new instance of the `ArrayBuffer` class. |
-| [ArrayBuffer](arraybuffer/#constructor_1)(int) | Initializes a new instance of the `ArrayBuffer` class. |
+| [ArrayBuffer](arraybuffer/#constructor)(*byte[]*) | Initializes a new instance of the `ArrayBuffer` class. |
+| [ArrayBuffer](arraybuffer/#constructor_1)(*int*) | Initializes a new instance of the `ArrayBuffer` class. |
 
 ## Properties
 

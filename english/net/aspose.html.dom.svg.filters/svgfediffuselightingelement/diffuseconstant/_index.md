@@ -1,7 +1,7 @@
 ---
 title: SVGFEDiffuseLightingElement.DiffuseConstant
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEDiffuseLightingElement property. Corresponds to attribute diffuseConstant on the given feDiffuseLighting element
+description: SVGFEDiffuseLightingElement DiffuseConstant property. Corresponds to attribute diffuseConstant on the given feDiffuseLighting element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.filters/svgfediffuselightingelement/diffuseconstant/

@@ -1,7 +1,7 @@
 ---
 title: ContentHeaders.ContentType
 second_title: Aspose.HTML for .NET API Reference
-description: ContentHeaders property. Gets the Content-Type header value
+description: ContentHeaders ContentType property. Gets the Content-Type header value
 type: docs
 weight: 20
 url: /net/aspose.html.net/contentheaders/contenttype/

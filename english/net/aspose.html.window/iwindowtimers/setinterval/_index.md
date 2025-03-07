@@ -1,7 +1,7 @@
 ---
 title: IWindowTimers.SetInterval
 second_title: Aspose.HTML for .NET API Reference
-description: IWindowTimers method. Schedules a timeout to run handler every timeout milliseconds. Any arguments are passed straight through to the handler
+description: IWindowTimers SetInterval method. Schedules a timeout to run handler every timeout milliseconds. Any arguments are passed straight through to the handler
 type: docs
 weight: 30
 url: /net/aspose.html.window/iwindowtimers/setinterval/

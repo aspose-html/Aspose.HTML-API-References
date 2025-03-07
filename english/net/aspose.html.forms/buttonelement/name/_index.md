@@ -1,7 +1,7 @@
 ---
 title: ButtonElement.Name
 second_title: Aspose.HTML for .NET API Reference
-description: ButtonElement property. Represent the name attribute of the Button element
+description: ButtonElement Name property. Represent the name attribute of the Button element
 type: docs
 weight: 20
 url: /net/aspose.html.forms/buttonelement/name/

@@ -1,7 +1,7 @@
 ---
 title: TableRowSyntaxNode.AppendDelimiter
 second_title: Aspose.HTML for .NET API Reference
-description: TableRowSyntaxNode method. Defines the interface for append delimiter
+description: TableRowSyntaxNode AppendDelimiter method. Defines the interface for append delimiter
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/appenddelimiter/

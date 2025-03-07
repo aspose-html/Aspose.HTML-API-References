@@ -1,7 +1,7 @@
 ---
 title: Document.OnSubmit
 second_title: Aspose.HTML for .NET API Reference
-description: Document event. Gets or sets event handler for OnSubmit event
+description: Document OnSubmit event. Gets or sets event handler for OnSubmit event
 type: docs
 weight: 730
 url: /net/aspose.html.dom/document/onsubmit/

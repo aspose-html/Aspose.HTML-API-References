@@ -1,7 +1,7 @@
 ---
 title: DocumentFragment.Children
 second_title: Aspose.HTML for .NET API Reference
-description: DocumentFragment property. Returns the child elements of current element
+description: DocumentFragment Children property. Returns the child elements of current element
 type: docs
 weight: 20
 url: /net/aspose.html.dom/documentfragment/children/

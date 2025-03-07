@@ -20,12 +20,12 @@ public interface IDocumentTraversal
 
 | Name | Description |
 | --- | --- |
-| [CreateNodeIterator](../../aspose.html.dom.traversal/idocumenttraversal/createnodeiterator/#createnodeiterator)(Node) | Create a new NodeIterator over the subtree rooted at the specified node. |
-| [CreateNodeIterator](../../aspose.html.dom.traversal/idocumenttraversal/createnodeiterator/#createnodeiterator_1)(Node, long) | Create a new NodeIterator over the subtree rooted at the specified node. |
-| [CreateNodeIterator](../../aspose.html.dom.traversal/idocumenttraversal/createnodeiterator/#createnodeiterator_2)(Node, long, INodeFilter) | Create a new NodeIterator over the subtree rooted at the specified node. |
-| [CreateTreeWalker](../../aspose.html.dom.traversal/idocumenttraversal/createtreewalker/#createtreewalker)(Node) | Create a new TreeWalker over the subtree rooted at the specified node. |
-| [CreateTreeWalker](../../aspose.html.dom.traversal/idocumenttraversal/createtreewalker/#createtreewalker_1)(Node, long) | Create a new TreeWalker over the subtree rooted at the specified node. |
-| [CreateTreeWalker](../../aspose.html.dom.traversal/idocumenttraversal/createtreewalker/#createtreewalker_2)(Node, long, INodeFilter) | Create a new TreeWalker over the subtree rooted at the specified node. |
+| [CreateNodeIterator](../../aspose.html.dom.traversal/idocumenttraversal/createnodeiterator/#createnodeiterator)(*[Node](../../aspose.html.dom/node/)*) | Create a new NodeIterator over the subtree rooted at the specified node. |
+| [CreateNodeIterator](../../aspose.html.dom.traversal/idocumenttraversal/createnodeiterator/#createnodeiterator_1)(*[Node](../../aspose.html.dom/node/), long*) | Create a new NodeIterator over the subtree rooted at the specified node. |
+| [CreateNodeIterator](../../aspose.html.dom.traversal/idocumenttraversal/createnodeiterator/#createnodeiterator_2)(*[Node](../../aspose.html.dom/node/), long, [INodeFilter](../inodefilter/)*) | Create a new NodeIterator over the subtree rooted at the specified node. |
+| [CreateTreeWalker](../../aspose.html.dom.traversal/idocumenttraversal/createtreewalker/#createtreewalker)(*[Node](../../aspose.html.dom/node/)*) | Create a new TreeWalker over the subtree rooted at the specified node. |
+| [CreateTreeWalker](../../aspose.html.dom.traversal/idocumenttraversal/createtreewalker/#createtreewalker_1)(*[Node](../../aspose.html.dom/node/), long*) | Create a new TreeWalker over the subtree rooted at the specified node. |
+| [CreateTreeWalker](../../aspose.html.dom.traversal/idocumenttraversal/createtreewalker/#createtreewalker_2)(*[Node](../../aspose.html.dom/node/), long, [INodeFilter](../inodefilter/)*) | Create a new TreeWalker over the subtree rooted at the specified node. |
 
 ### See Also
 

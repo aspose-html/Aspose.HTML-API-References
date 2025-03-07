@@ -1,7 +1,7 @@
 ---
 title: HugoSyntaxExtension.Setup
 second_title: Aspose.HTML for .NET API Reference
-description: HugoSyntaxExtension method. Defines the interface for Setup
+description: HugoSyntaxExtension Setup method. Defines the interface for Setup
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugosyntaxextension/setup/

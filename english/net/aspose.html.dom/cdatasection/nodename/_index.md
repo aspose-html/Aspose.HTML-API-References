@@ -1,7 +1,7 @@
 ---
 title: CDATASection.NodeName
 second_title: Aspose.HTML for .NET API Reference
-description: CDATASection property. The name of this node depending on its type
+description: CDATASection NodeName property. The name of this node depending on its type
 type: docs
 weight: 10
 url: /net/aspose.html.dom/cdatasection/nodename/

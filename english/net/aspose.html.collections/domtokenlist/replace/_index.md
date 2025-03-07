@@ -1,7 +1,7 @@
 ---
 title: DOMTokenList.Replace
 second_title: Aspose.HTML for .NET API Reference
-description: DOMTokenList method. Replaces an existing token with a new token. Does nothing if the first token doesnt exist
+description: DOMTokenList Replace method. Replaces an existing token with a new token. Does nothing if the first token doesnt exist
 type: docs
 weight: 80
 url: /net/aspose.html.collections/domtokenlist/replace/

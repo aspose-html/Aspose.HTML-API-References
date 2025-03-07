@@ -1,7 +1,7 @@
 ---
 title: ICanvasDrawingStyles.SetLineDash
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasDrawingStyles method. Sets the current line dash pattern
+description: ICanvasDrawingStyles SetLineDash method. Sets the current line dash pattern
 type: docs
 weight: 100
 url: /net/aspose.html.dom.canvas/icanvasdrawingstyles/setlinedash/

@@ -1,7 +1,7 @@
 ---
 title: LineParsingInstruction.NextLine
 second_title: Aspose.HTML for .NET API Reference
-description: LineParsingInstruction field. The NextLine
+description: LineParsingInstruction NextLine field. The NextLine
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/nextline/

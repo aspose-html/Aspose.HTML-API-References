@@ -1,7 +1,7 @@
 ---
 title: SVGFEMorphologyElement.Result
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEMorphologyElement property. Corresponds to attribute result on the given filter element
+description: SVGFEMorphologyElement Result property. Corresponds to attribute result on the given filter element
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg.filters/svgfemorphologyelement/result/

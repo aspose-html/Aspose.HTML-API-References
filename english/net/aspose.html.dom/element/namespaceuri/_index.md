@@ -1,7 +1,7 @@
 ---
 title: Element.NamespaceURI
 second_title: Aspose.HTML for .NET API Reference
-description: Element property. The namespace URI of this node or null if it is unspecified
+description: Element NamespaceURI property. The namespace URI of this node or null if it is unspecified
 type: docs
 weight: 120
 url: /net/aspose.html.dom/element/namespaceuri/

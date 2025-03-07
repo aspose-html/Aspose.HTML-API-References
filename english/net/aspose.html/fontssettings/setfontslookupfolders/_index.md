@@ -1,12 +1,12 @@
 ---
 title: FontsSettings.SetFontsLookupFolders
 second_title: Aspose.HTML for .NET API Reference
-description: FontsSettings method. Sets an array of folders used during fonts selection
+description: FontsSettings SetFontsLookupFolders method. Sets an array of folders used during fonts selection
 type: docs
 weight: 40
 url: /net/aspose.html/fontssettings/setfontslookupfolders/
 ---
-## SetFontsLookupFolders(string[]) {#setfontslookupfolders}
+## SetFontsLookupFolders(*string[]*) {#setfontslookupfolders}
 
 Sets an array of folders used during fonts selection.
 
@@ -26,7 +26,7 @@ public void SetFontsLookupFolders(string[] fontsFolders)
 
 ---
 
-## SetFontsLookupFolders(string[], bool) {#setfontslookupfolders_1}
+## SetFontsLookupFolders(*string[], bool*) {#setfontslookupfolders_1}
 
 Sets an array of folders used during fonts selection.
 

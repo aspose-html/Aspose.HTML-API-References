@@ -1,7 +1,7 @@
 ---
 title: IConfigurationBuilder.AddDiagnostics
 second_title: Aspose.HTML for .NET API Reference
-description: IConfigurationBuilder method. Enables diagnostics for the current configuration
+description: IConfigurationBuilder AddDiagnostics method. Enables diagnostics for the current configuration
 type: docs
 weight: 10
 url: /net/aspose.html/iconfigurationbuilder/adddiagnostics/

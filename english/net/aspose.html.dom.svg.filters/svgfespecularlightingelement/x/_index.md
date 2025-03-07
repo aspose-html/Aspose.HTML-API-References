@@ -1,7 +1,7 @@
 ---
 title: SVGFESpecularLightingElement.X
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFESpecularLightingElement property. Corresponds to attribute x on the given filter element
+description: SVGFESpecularLightingElement X property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 100
 url: /net/aspose.html.dom.svg.filters/svgfespecularlightingelement/x/

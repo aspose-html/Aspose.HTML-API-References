@@ -1,7 +1,7 @@
 ---
 title: SVGAnimationElement.SystemLanguage
 second_title: Aspose.HTML for .NET API Reference
-description: SVGAnimationElement property. Corresponds to attribute systemLanguage on the given element
+description: SVGAnimationElement SystemLanguage property. Corresponds to attribute systemLanguage on the given element
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svganimationelement/systemlanguage/

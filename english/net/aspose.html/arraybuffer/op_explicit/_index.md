@@ -1,7 +1,7 @@
 ---
 title: ArrayBuffer.op_Explicit
 second_title: Aspose.HTML for .NET API Reference
-description: ArrayBuffer method. 
+description: ArrayBuffer op_Explicit method. 
 type: docs
 weight: 40
 url: /net/aspose.html/arraybuffer/op_explicit/

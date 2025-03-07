@@ -1,7 +1,7 @@
 ---
 title: RenderingOptions.BackgroundColor
 second_title: Aspose.HTML for .NET API Reference
-description: RenderingOptions property. Gets or sets Color which will fill background of every page. Default value is Transparent
+description: RenderingOptions BackgroundColor property. Gets or sets Color which will fill background of every page. Default value is Transparent
 type: docs
 weight: 20
 url: /net/aspose.html.rendering/renderingoptions/backgroundcolor/

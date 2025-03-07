@@ -1,7 +1,7 @@
 ---
 title: PdfRenderingOptions.FormFieldBehaviour
 second_title: Aspose.HTML for .NET API Reference
-description: PdfRenderingOptions property. Specifies the behavior of form fields in the output PDF document
+description: PdfRenderingOptions FormFieldBehaviour property. Specifies the behavior of form fields in the output PDF document
 type: docs
 weight: 40
 url: /net/aspose.html.rendering.pdf/pdfrenderingoptions/formfieldbehaviour/

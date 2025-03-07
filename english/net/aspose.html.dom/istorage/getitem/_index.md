@@ -1,7 +1,7 @@
 ---
 title: IStorage.GetItem
 second_title: Aspose.HTML for .NET API Reference
-description: IStorage method. Returns the current value associated with the given key or null if the given key does not exist
+description: IStorage GetItem method. Returns the current value associated with the given key or null if the given key does not exist
 type: docs
 weight: 30
 url: /net/aspose.html.dom/istorage/getitem/

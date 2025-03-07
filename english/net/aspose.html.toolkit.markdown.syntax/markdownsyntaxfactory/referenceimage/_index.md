@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.ReferenceImage
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates ReferenceImageSyntaxNode
+description: MarkdownSyntaxFactory ReferenceImage method. Creates ReferenceImageSyntaxNode
 type: docs
 weight: 340
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/referenceimage/

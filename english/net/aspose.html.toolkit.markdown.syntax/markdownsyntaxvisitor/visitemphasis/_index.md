@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitEmphasis
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit EmphasisSyntax
+description: MarkdownSyntaxVisitor VisitEmphasis method. Defines the interface for visit EmphasisSyntax
 type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitemphasis/

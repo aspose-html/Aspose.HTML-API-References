@@ -1,7 +1,7 @@
 ---
 title: SourceTextReader.GetLineReader
 second_title: Aspose.HTML for .NET API Reference
-description: SourceTextReader method. Get the SourceTextReader
+description: SourceTextReader GetLineReader method. Get the SourceTextReader
 type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/getlinereader/
@@ -26,7 +26,7 @@ The SourceTextReader.
 
 ---
 
-## GetLineReader(bool) {#getlinereader_1}
+## GetLineReader(*bool*) {#getlinereader_1}
 
 Get the SourceTextReader
 

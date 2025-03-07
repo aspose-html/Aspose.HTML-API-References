@@ -26,16 +26,16 @@ public class SVGPointList : SVGListBase<SVGPoint>
 
 | Name | Description |
 | --- | --- |
-| [AppendItem](../../aspose.html.dom.svg.collections/svglistbase-1/appenditem/)(SVGPoint) |  |
+| [AppendItem](../../aspose.html.dom.svg.collections/svglistbase-1/appenditem/)(*[SVGPoint](../svgpoint/)*) |  |
 | [Clear](../../aspose.html.dom.svg.collections/svglistbase-1/clear/)() |  |
 | [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 | [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase-1/getenumerator/)() |  |
-| [GetItem](../../aspose.html.dom.svg.collections/svglistbase-1/getitem/)(ulong) |  |
+| [GetItem](../../aspose.html.dom.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| [Initialize](../../aspose.html.dom.svg.collections/svglistbase-1/initialize/)(SVGPoint) |  |
-| [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/)(SVGPoint, ulong) |  |
-| [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase-1/removeitem/)(ulong) |  |
-| [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase-1/replaceitem/)(SVGPoint, ulong) |  |
+| [Initialize](../../aspose.html.dom.svg.collections/svglistbase-1/initialize/)(*[SVGPoint](../svgpoint/)*) |  |
+| [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/)(*[SVGPoint](../svgpoint/), ulong*) |  |
+| [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |
+| [ReplaceItem](../../aspose.html.dom.svg.collections/svglistbase-1/replaceitem/)(*[SVGPoint](../svgpoint/), ulong*) |  |
 | override [ToString](../../aspose.html.dom.svg.datatypes/svgpointlist/tostring/)() | Returns a String that represents this instance. |
 
 ### See Also

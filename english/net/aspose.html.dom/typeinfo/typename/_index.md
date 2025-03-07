@@ -1,7 +1,7 @@
 ---
 title: TypeInfo.TypeName
 second_title: Aspose.HTML for .NET API Reference
-description: TypeInfo property. The name of a type declared for the associated element or attribute or null if unknown
+description: TypeInfo TypeName property. The name of a type declared for the associated element or attribute or null if unknown
 type: docs
 weight: 10
 url: /net/aspose.html.dom/typeinfo/typename/

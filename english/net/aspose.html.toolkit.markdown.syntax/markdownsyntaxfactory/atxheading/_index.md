@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxFactory.AtxHeading
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates AtxHeadingSyntaxNode with text content
+description: MarkdownSyntaxFactory AtxHeading method. Creates AtxHeadingSyntaxNode with text content
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/atxheading/
 ---
-## AtxHeading(string) {#atxheading_1}
+## AtxHeading(*string*) {#atxheading_1}
 
 Creates AtxHeadingSyntaxNode with text content.
 
@@ -31,7 +31,7 @@ The AtxHeadingSyntax.
 
 ---
 
-## AtxHeading(string, int) {#atxheading_2}
+## AtxHeading(*string, int*) {#atxheading_2}
 
 Creates AtxHeadingSyntaxNode with text content and heading level.
 
@@ -57,7 +57,7 @@ The AtxHeadingSyntax.
 
 ---
 
-## AtxHeading(MarkdownSyntaxToken, MarkdownSyntaxToken) {#atxheading}
+## AtxHeading(*[MarkdownSyntaxToken](../../markdownsyntaxtoken/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/)*) {#atxheading}
 
 Creates [`AtxHeadingSyntaxNode`](../../atxheadingsyntaxnode/).
 

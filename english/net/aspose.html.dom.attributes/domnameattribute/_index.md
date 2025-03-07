@@ -19,7 +19,7 @@ public sealed class DOMNameAttribute : Attribute
 
 | Name | Description |
 | --- | --- |
-| [DOMNameAttribute](domnameattribute/)(string) | Initializes a new instance of the `DOMNameAttribute` class. |
+| [DOMNameAttribute](domnameattribute/)(*string*) | Initializes a new instance of the `DOMNameAttribute` class. |
 
 ## Properties
 

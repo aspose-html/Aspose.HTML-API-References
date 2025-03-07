@@ -1,7 +1,7 @@
 ---
 title: MarkdownBlockParser.CanClose
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownBlockParser method. Defines interface for CanClose method
+description: MarkdownBlockParser CanClose method. Defines interface for CanClose method
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/canclose/

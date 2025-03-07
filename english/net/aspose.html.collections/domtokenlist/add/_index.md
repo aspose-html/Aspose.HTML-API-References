@@ -1,7 +1,7 @@
 ---
 title: DOMTokenList.Add
 second_title: Aspose.HTML for .NET API Reference
-description: DOMTokenList method. Adds the specified tokens to the list
+description: DOMTokenList Add method. Adds the specified tokens to the list
 type: docs
 weight: 40
 url: /net/aspose.html.collections/domtokenlist/add/

@@ -1,7 +1,7 @@
 ---
 title: Page.Margin
 second_title: Aspose.HTML for .NET API Reference
-description: Page property. Gets or sets the page margin
+description: Page Margin property. Gets or sets the page margin
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/page/margin/

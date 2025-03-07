@@ -1,7 +1,7 @@
 ---
 title: SVGMatrix.Multiply
 second_title: Aspose.HTML for .NET API Reference
-description: SVGMatrix method. Performs matrix multiplication. This matrix is post-multiplied by another matrix returning the resulting new matrix
+description: SVGMatrix Multiply method. Performs matrix multiplication. This matrix is post-multiplied by another matrix returning the resulting new matrix
 type: docs
 weight: 70
 url: /net/aspose.html.dom.svg.datatypes/svgmatrix/multiply/

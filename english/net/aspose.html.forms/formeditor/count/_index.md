@@ -1,7 +1,7 @@
 ---
 title: FormEditor.Count
 second_title: Aspose.HTML for .NET API Reference
-description: FormEditor property. The number of form controls in the form
+description: FormEditor Count property. The number of form controls in the form
 type: docs
 weight: 40
 url: /net/aspose.html.forms/formeditor/count/

@@ -1,7 +1,7 @@
 ---
 title: OptionCollection.Item
 second_title: Aspose.HTML for .NET API Reference
-description: OptionCollection property. Gets the OptionElement at the specified index
+description: OptionCollection Item property. Gets the OptionElement at the specified index
 type: docs
 weight: 20
 url: /net/aspose.html.forms/optioncollection/item/

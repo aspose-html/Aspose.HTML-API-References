@@ -1,7 +1,7 @@
 ---
 title: SVGFEMergeNodeElement.In1
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEMergeNodeElement property. Corresponds to attribute in on the given feMergeNode element
+description: SVGFEMergeNodeElement In1 property. Corresponds to attribute in on the given feMergeNode element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.filters/svgfemergenodeelement/in1/

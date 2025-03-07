@@ -1,7 +1,7 @@
 ---
 title: CSSPrimitiveValue.CSS_DPCM
 second_title: Aspose.HTML for .NET API Reference
-description: CSSPrimitiveValue field. The value is a dots per centimeter dpcm
+description: CSSPrimitiveValue CSS_DPCM field. The value is a dots per centimeter dpcm
 type: docs
 weight: 170
 url: /net/aspose.html.dom.css/cssprimitivevalue/css_dpcm/

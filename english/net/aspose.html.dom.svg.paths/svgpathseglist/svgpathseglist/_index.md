@@ -22,7 +22,7 @@ public SVGPathSegList()
 
 ---
 
-## SVGPathSegList(IEnumerable&lt;SVGPathSeg&gt;) {#constructor_1}
+## SVGPathSegList(*IEnumerable&amp;lt;SVGPathSeg&amp;gt;*) {#constructor_1}
 
 Initializes a new instance of the [`SVGPathSegList`](../) class.
 

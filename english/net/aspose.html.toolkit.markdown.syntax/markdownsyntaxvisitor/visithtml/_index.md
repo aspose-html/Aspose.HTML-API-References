@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitHtml
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit HTMLFragmentSyntax
+description: MarkdownSyntaxVisitor VisitHtml method. Defines the interface for visit HTMLFragmentSyntax
 type: docs
 weight: 110
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visithtml/

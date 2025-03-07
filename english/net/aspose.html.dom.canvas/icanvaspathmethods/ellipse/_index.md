@@ -1,12 +1,12 @@
 ---
 title: ICanvasPathMethods.Ellipse
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasPathMethods method. Adds an ellipse to the path which is centered at x y position with the radii radiusX and radiusY starting at startAngle and ending at endAngle going in the given direction by anticlockwise defaulting to clockwise
+description: ICanvasPathMethods Ellipse method. Adds an ellipse to the path which is centered at x y position with the radii radiusX and radiusY starting at startAngle and ending at endAngle going in the given direction by anticlockwise defaulting to clockwise
 type: docs
 weight: 50
 url: /net/aspose.html.dom.canvas/icanvaspathmethods/ellipse/
 ---
-## Ellipse(double, double, double, double, double, double, double) {#ellipse}
+## Ellipse(*double, double, double, double, double, double, double*) {#ellipse}
 
 Adds an ellipse to the path which is centered at (x, y) position with the radii radiusX and radiusY starting at startAngle and ending at endAngle going in the given direction by anticlockwise (defaulting to clockwise).
 
@@ -33,7 +33,7 @@ public void Ellipse(double x, double y, double radiusX, double radiusY, double r
 
 ---
 
-## Ellipse(double, double, double, double, double, double, double, bool) {#ellipse_1}
+## Ellipse(*double, double, double, double, double, double, double, bool*) {#ellipse_1}
 
 Adds an ellipse to the path which is centered at (x, y) position with the radii radiusX and radiusY starting at startAngle and ending at endAngle going in the given direction by anticlockwise (defaulting to clockwise).
 

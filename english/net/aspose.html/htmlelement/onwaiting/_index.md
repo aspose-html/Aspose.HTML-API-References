@@ -1,7 +1,7 @@
 ---
 title: HTMLElement.OnWaiting
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLElement event. Gets or sets event handler for OnWaiting event
+description: HTMLElement OnWaiting event. Gets or sets event handler for OnWaiting event
 type: docs
 weight: 560
 url: /net/aspose.html/htmlelement/onwaiting/

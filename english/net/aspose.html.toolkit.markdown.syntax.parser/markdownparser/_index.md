@@ -19,16 +19,16 @@ public class MarkdownParser
 | Name | Description |
 | --- | --- |
 | [MarkdownParser](markdownparser/#constructor)() | Initializes a new instance of the `MarkdownParser` class. |
-| [MarkdownParser](markdownparser/#constructor_1)(Action&lt;IMarkdownParserBuilder&gt;) | Initializes a new instance of the `MarkdownParser` class. |
+| [MarkdownParser](markdownparser/#constructor_1)(*Action&amp;lt;IMarkdownParserBuilder&amp;gt;*) | Initializes a new instance of the `MarkdownParser` class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/#parse)(Stream) | Parse from Stream. |
-| [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/#parse_2)(string) | Prase from the string context. |
-| [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/#parse_1)(TextReader) | Parse an TextReader. |
-| [ParseFile](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parsefile/)(string) | Parse an file. |
+| [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/#parse)(*Stream*) | Parse from Stream. |
+| [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/#parse_2)(*string*) | Prase from the string context. |
+| [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/#parse_1)(*TextReader*) | Parse an TextReader. |
+| [ParseFile](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parsefile/)(*string*) | Parse an file. |
 
 ## Fields
 

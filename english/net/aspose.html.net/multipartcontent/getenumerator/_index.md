@@ -1,7 +1,7 @@
 ---
 title: MultipartContent.GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: MultipartContent method. Returns an enumerator that iterates through a collection
+description: MultipartContent GetEnumerator method. Returns an enumerator that iterates through a collection
 type: docs
 weight: 30
 url: /net/aspose.html.net/multipartcontent/getenumerator/

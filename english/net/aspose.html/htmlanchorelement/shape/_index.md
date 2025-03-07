@@ -1,7 +1,7 @@
 ---
 title: HTMLAnchorElement.Shape
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLAnchorElement property. The shape of the active area. The coordinates are given by coords. See the shape attribute definition in HTML 4.01
+description: HTMLAnchorElement Shape property. The shape of the active area. The coordinates are given by coords. See the shape attribute definition in HTML 4.01
 type: docs
 weight: 190
 url: /net/aspose.html/htmlanchorelement/shape/

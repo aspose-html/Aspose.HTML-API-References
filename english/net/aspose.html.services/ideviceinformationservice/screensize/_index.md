@@ -1,7 +1,7 @@
 ---
 title: IDeviceInformationService.ScreenSize
 second_title: Aspose.HTML for .NET API Reference
-description: IDeviceInformationService property. Gets or sets the size of the screen
+description: IDeviceInformationService ScreenSize property. Gets or sets the size of the screen
 type: docs
 weight: 20
 url: /net/aspose.html.services/ideviceinformationservice/screensize/

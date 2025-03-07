@@ -1,7 +1,7 @@
 ---
 title: BlockSyntaxDescriptor.GetAttributes
 second_title: Aspose.HTML for .NET API Reference
-description: BlockSyntaxDescriptor method. Defines the interface for get attribute
+description: BlockSyntaxDescriptor GetAttributes method. Defines the interface for get attribute
 type: docs
 weight: 60
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/getattributes/

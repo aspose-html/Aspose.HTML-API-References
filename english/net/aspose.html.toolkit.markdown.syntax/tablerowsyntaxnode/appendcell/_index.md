@@ -1,7 +1,7 @@
 ---
 title: TableRowSyntaxNode.AppendCell
 second_title: Aspose.HTML for .NET API Reference
-description: TableRowSyntaxNode method. Defines the interface for append of the cell
+description: TableRowSyntaxNode AppendCell method. Defines the interface for append of the cell
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/tablerowsyntaxnode/appendcell/

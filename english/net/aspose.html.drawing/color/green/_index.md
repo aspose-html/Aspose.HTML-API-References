@@ -1,7 +1,7 @@
 ---
 title: Color.Green
 second_title: Aspose.HTML for .NET API Reference
-description: Color property. Represents the green component of the color
+description: Color Green property. Represents the green component of the color
 type: docs
 weight: 260
 url: /net/aspose.html.drawing/color/green/

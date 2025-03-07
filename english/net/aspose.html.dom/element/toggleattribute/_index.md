@@ -1,12 +1,12 @@
 ---
 title: Element.ToggleAttribute
 second_title: Aspose.HTML for .NET API Reference
-description: Element method. If force is not given toggles qualifiedName removing it if it is present and adding it if it is not present. If force is true adds qualifiedName. If force is false removes qualifiedName
+description: Element ToggleAttribute method. If force is not given toggles qualifiedName removing it if it is present and adding it if it is not present. If force is true adds qualifiedName. If force is false removes qualifiedName
 type: docs
 weight: 440
 url: /net/aspose.html.dom/element/toggleattribute/
 ---
-## ToggleAttribute(string) {#toggleattribute}
+## ToggleAttribute(*string*) {#toggleattribute}
 
 If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName.
 
@@ -30,7 +30,7 @@ Returns true if qualifiedName is now present; otherwise false.
 
 ---
 
-## ToggleAttribute(string, bool) {#toggleattribute_1}
+## ToggleAttribute(*string, bool*) {#toggleattribute_1}
 
 If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName.
 

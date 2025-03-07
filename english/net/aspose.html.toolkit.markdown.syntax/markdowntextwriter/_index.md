@@ -18,10 +18,10 @@ public sealed class MarkdownTextWriter : TextWriter
 
 | Name | Description |
 | --- | --- |
-| [MarkdownTextWriter](markdowntextwriter/#constructor)(Stream) | Initializes a new instance of an MarkdownTextWriter. |
-| [MarkdownTextWriter](markdowntextwriter/#constructor_2)(string) | Initializes a new instance of an MarkdownTextWriter. |
-| [MarkdownTextWriter](markdowntextwriter/#constructor_1)(TextWriter) | Initializes a new instance of an MarkdownTextWriter. |
-| [MarkdownTextWriter](markdowntextwriter/#constructor_3)(string, bool) | Initializes a new instance of an MarkdownTextWriter. |
+| [MarkdownTextWriter](markdowntextwriter/#constructor)(*Stream*) | Initializes a new instance of an MarkdownTextWriter. |
+| [MarkdownTextWriter](markdowntextwriter/#constructor_2)(*string*) | Initializes a new instance of an MarkdownTextWriter. |
+| [MarkdownTextWriter](markdowntextwriter/#constructor_1)(*TextWriter*) | Initializes a new instance of an MarkdownTextWriter. |
+| [MarkdownTextWriter](markdowntextwriter/#constructor_3)(*string, bool*) | Initializes a new instance of an MarkdownTextWriter. |
 
 ## Properties
 
@@ -34,7 +34,7 @@ public sealed class MarkdownTextWriter : TextWriter
 | Name | Description |
 | --- | --- |
 | override [Flush](../../aspose.html.toolkit.markdown.syntax/markdowntextwriter/flush/)() | Clears all buffers for the current writer and causes any buffered data to be written to the underlying device. |
-| override [Write](../../aspose.html.toolkit.markdown.syntax/markdowntextwriter/write/#write_1)(char) | Defines the interface for write character. |
+| override [Write](../../aspose.html.toolkit.markdown.syntax/markdowntextwriter/write/#write_1)(*char*) | Defines the interface for write character. |
 
 ### See Also
 

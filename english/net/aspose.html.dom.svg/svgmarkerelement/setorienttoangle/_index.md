@@ -1,7 +1,7 @@
 ---
 title: SVGMarkerElement.SetOrientToAngle
 second_title: Aspose.HTML for .NET API Reference
-description: SVGMarkerElement method. Sets the value of attribute orient to the given angle
+description: SVGMarkerElement SetOrientToAngle method. Sets the value of attribute orient to the given angle
 type: docs
 weight: 100
 url: /net/aspose.html.dom.svg/svgmarkerelement/setorienttoangle/

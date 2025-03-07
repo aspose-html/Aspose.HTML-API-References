@@ -1,7 +1,7 @@
 ---
 title: IMarkdownParserBuilder.UseExtension
 second_title: Aspose.HTML for .NET API Reference
-description: IMarkdownParserBuilder method. Defines the UseExtension method
+description: IMarkdownParserBuilder UseExtension method. Defines the UseExtension method
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useextension/

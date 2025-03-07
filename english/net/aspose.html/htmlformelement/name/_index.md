@@ -1,7 +1,7 @@
 ---
 title: HTMLFormElement.Name
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLFormElement property. Names the form
+description: HTMLFormElement Name property. Names the form
 type: docs
 weight: 70
 url: /net/aspose.html/htmlformelement/name/

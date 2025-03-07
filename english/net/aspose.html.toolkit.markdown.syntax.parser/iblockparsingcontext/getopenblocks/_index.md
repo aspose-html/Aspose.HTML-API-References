@@ -1,7 +1,7 @@
 ---
 title: IBlockParsingContext.GetOpenBlocks
 second_title: Aspose.HTML for .NET API Reference
-description: IBlockParsingContext method. Defines the GetOpenBlocks
+description: IBlockParsingContext GetOpenBlocks method. Defines the GetOpenBlocks
 type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getopenblocks/

@@ -1,7 +1,7 @@
 ---
 title: IBlockParsingContext.GetBlockSyntaxParsers
 second_title: Aspose.HTML for .NET API Reference
-description: IBlockParsingContext method. Defines the GetBlockSyntaxParsers method
+description: IBlockParsingContext GetBlockSyntaxParsers method. Defines the GetBlockSyntaxParsers method
 type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/getblocksyntaxparsers/

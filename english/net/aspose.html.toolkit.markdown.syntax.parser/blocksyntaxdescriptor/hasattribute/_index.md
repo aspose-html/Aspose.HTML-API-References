@@ -1,7 +1,7 @@
 ---
 title: BlockSyntaxDescriptor.HasAttribute
 second_title: Aspose.HTML for .NET API Reference
-description: BlockSyntaxDescriptor method. Defines the interface for check Has Attribute
+description: BlockSyntaxDescriptor HasAttribute method. Defines the interface for check Has Attribute
 type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/hasattribute/

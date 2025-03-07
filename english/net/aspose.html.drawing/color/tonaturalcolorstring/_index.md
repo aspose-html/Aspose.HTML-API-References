@@ -1,7 +1,7 @@
 ---
 title: Color.ToNaturalColorString
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a Natural colors NCol specified color using a color letter with a number to specify the distance in percent from the color
+description: Color ToNaturalColorString method. Returns a Natural colors NCol specified color using a color letter with a number to specify the distance in percent from the color
 type: docs
 weight: 380
 url: /net/aspose.html.drawing/color/tonaturalcolorstring/

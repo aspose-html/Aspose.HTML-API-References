@@ -1,7 +1,7 @@
 ---
 title: ResponseMessage.StatusCode
 second_title: Aspose.HTML for .NET API Reference
-description: ResponseMessage property. Gets or sets the status code
+description: ResponseMessage StatusCode property. Gets or sets the status code
 type: docs
 weight: 80
 url: /net/aspose.html.net/responsemessage/statuscode/

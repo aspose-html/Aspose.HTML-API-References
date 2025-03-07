@@ -18,9 +18,9 @@ public class AccessibilityRules
 
 | Name | Description |
 | --- | --- |
-| [GetPrinciple](../../aspose.html.accessibility/accessibilityrules/getprinciple/)(string) | Get Principle by code from WCAG |
+| [GetPrinciple](../../aspose.html.accessibility/accessibilityrules/getprinciple/)(*string*) | Get Principle by code from WCAG |
 | [GetPrinciples](../../aspose.html.accessibility/accessibilityrules/getprinciples/)() | Get list of all rules from quick reference |
-| [GetRules](../../aspose.html.accessibility/accessibilityrules/getrules/)(params string[]) | Get rules by codes from WCAG with type IRule |
+| [GetRules](../../aspose.html.accessibility/accessibilityrules/getrules/)(*params string[]*) | Get rules by codes from WCAG with type IRule |
 
 ### See Also
 

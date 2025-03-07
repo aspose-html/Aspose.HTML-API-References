@@ -1,7 +1,7 @@
 ---
 title: ICSSStyleDeclaration.GetPropertyValue
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSStyleDeclaration method. The CSSStyleDeclaration.getPropertyValue method interface returns a string containing the value of a specified CSS property
+description: ICSSStyleDeclaration GetPropertyValue method. The CSSStyleDeclaration.getPropertyValue method interface returns a string containing the value of a specified CSS property
 type: docs
 weight: 70
 url: /net/aspose.html.dom.css/icssstyledeclaration/getpropertyvalue/

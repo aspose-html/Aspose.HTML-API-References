@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.BackgroundAttachment
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. If a background image is specified this property specifies whether it is fixed with regard to the viewport fixed or scrolls along with the document scroll
+description: ICSS2Properties BackgroundAttachment property. If a background image is specified this property specifies whether it is fixed with regard to the viewport fixed or scrolls along with the document scroll
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/icss2properties/backgroundattachment/

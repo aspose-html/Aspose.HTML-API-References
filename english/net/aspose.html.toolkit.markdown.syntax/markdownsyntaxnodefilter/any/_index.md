@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxNodeFilter.Any
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxNodeFilter field. The AnyMarkdownSyntaxNodeFilter
+description: MarkdownSyntaxNodeFilter Any field. The AnyMarkdownSyntaxNodeFilter
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/any/

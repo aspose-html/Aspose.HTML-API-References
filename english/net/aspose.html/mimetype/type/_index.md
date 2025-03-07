@@ -1,7 +1,7 @@
 ---
 title: MimeType.Type
 second_title: Aspose.HTML for .NET API Reference
-description: MimeType property. Gets the media type
+description: MimeType Type property. Gets the media type
 type: docs
 weight: 40
 url: /net/aspose.html/mimetype/type/

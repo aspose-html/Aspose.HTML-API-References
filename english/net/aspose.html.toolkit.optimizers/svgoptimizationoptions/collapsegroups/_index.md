@@ -1,7 +1,7 @@
 ---
 title: SVGOptimizationOptions.CollapseGroups
 second_title: Aspose.HTML for .NET API Reference
-description: SVGOptimizationOptions property. Gets or sets the option to collapse excess groups. It is true by default
+description: SVGOptimizationOptions CollapseGroups property. Gets or sets the option to collapse excess groups. It is true by default
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.optimizers/svgoptimizationoptions/collapsegroups/

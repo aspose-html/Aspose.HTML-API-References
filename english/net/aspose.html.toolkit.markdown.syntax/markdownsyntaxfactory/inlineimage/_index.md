@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxFactory.InlineImage
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates InlineImageSyntaxNode
+description: MarkdownSyntaxFactory InlineImage method. Creates InlineImageSyntaxNode
 type: docs
 weight: 210
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/inlineimage/
 ---
-## InlineImage(string, string, string) {#inlineimage_1}
+## InlineImage(*string, string, string*) {#inlineimage_1}
 
 Creates [`InlineImageSyntaxNode`](../../inlineimagesyntaxnode/).
 
@@ -33,7 +33,7 @@ The InlineImageSyntax.
 
 ---
 
-## InlineImage(MarkdownSyntaxToken, MarkdownSyntaxToken, MarkdownSyntaxToken, LinkDestinationSyntaxNode, LinkTitleSyntaxNode, MarkdownSyntaxToken) {#inlineimage}
+## InlineImage(*[MarkdownSyntaxToken](../../markdownsyntaxtoken/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/), [LinkDestinationSyntaxNode](../../linkdestinationsyntaxnode/), [LinkTitleSyntaxNode](../../linktitlesyntaxnode/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/)*) {#inlineimage}
 
 Creates [`InlineImageSyntaxNode`](../../inlineimagesyntaxnode/).
 

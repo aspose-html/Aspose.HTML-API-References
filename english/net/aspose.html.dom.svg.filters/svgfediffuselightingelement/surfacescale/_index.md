@@ -1,7 +1,7 @@
 ---
 title: SVGFEDiffuseLightingElement.SurfaceScale
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEDiffuseLightingElement property. Corresponds to attribute surfaceScale on the given feDiffuseLighting element
+description: SVGFEDiffuseLightingElement SurfaceScale property. Corresponds to attribute surfaceScale on the given feDiffuseLighting element
 type: docs
 weight: 70
 url: /net/aspose.html.dom.svg.filters/svgfediffuselightingelement/surfacescale/

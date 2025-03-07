@@ -1,7 +1,7 @@
 ---
 title: DOMObject.GetPlatformType
 second_title: Aspose.HTML for .NET API Reference
-description: DOMObject method. This method is used to retrieve the ECMAScript object 
+description: DOMObject GetPlatformType method. This method is used to retrieve the ECMAScript object 
 type: docs
 weight: 20
 url: /net/aspose.html.dom/domobject/getplatformtype/

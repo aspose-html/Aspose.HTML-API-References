@@ -25,8 +25,8 @@ public interface ICSSMediaRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [DeleteRule](../../aspose.html.dom.css/icssmediarule/deleterule/)(long) | The deleteRule() method of the CSSGroupingRule interface removes a CSS rule from a list of child CSS rules. |
-| [InsertRule](../../aspose.html.dom.css/icssmediarule/insertrule/)(string, long) | The insertRule() method of the CSSGroupingRule interface adds a new CSS rule to a list of CSS rules. |
+| [DeleteRule](../../aspose.html.dom.css/icssmediarule/deleterule/)(*long*) | The deleteRule() method of the CSSGroupingRule interface removes a CSS rule from a list of child CSS rules. |
+| [InsertRule](../../aspose.html.dom.css/icssmediarule/insertrule/)(*string, long*) | The insertRule() method of the CSSGroupingRule interface adds a new CSS rule to a list of CSS rules. |
 
 ### See Also
 

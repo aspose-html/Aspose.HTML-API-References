@@ -1,7 +1,7 @@
 ---
 title: Node.ParentElement
 second_title: Aspose.HTML for .NET API Reference
-description: Node property. The read-only parentElement property of Node interface returns the DOM nodes parent Element or null if the node either has no parent or its parent isnt a DOM Element
+description: Node ParentElement property. The read-only parentElement property of Node interface returns the DOM nodes parent Element or null if the node either has no parent or its parent isnt a DOM Element
 type: docs
 weight: 120
 url: /net/aspose.html.dom/node/parentelement/

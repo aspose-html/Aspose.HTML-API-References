@@ -1,7 +1,7 @@
 ---
 title: ICSSPageRule.SelectorText
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSPageRule property. The selectorText property of the CSSPageRule interface gets and sets the selectors associated with the CSSPageRule
+description: ICSSPageRule SelectorText property. The selectorText property of the CSSPageRule interface gets and sets the selectors associated with the CSSPageRule
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/icsspagerule/selectortext/

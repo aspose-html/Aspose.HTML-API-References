@@ -1,7 +1,7 @@
 ---
 title: NodeIterator.NextNode
 second_title: Aspose.HTML for .NET API Reference
-description: NodeIterator method. Defines the interface for get the next node
+description: NodeIterator NextNode method. Defines the interface for get the next node
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/nodeiterator/nextnode/

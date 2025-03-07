@@ -1,7 +1,7 @@
 ---
 title: SVGTextPositioningElement.Dx
 second_title: Aspose.HTML for .NET API Reference
-description: SVGTextPositioningElement property. Corresponds to attribute dx on the given element
+description: SVGTextPositioningElement Dx property. Corresponds to attribute dx on the given element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg/svgtextpositioningelement/dx/

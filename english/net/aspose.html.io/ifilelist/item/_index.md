@@ -1,7 +1,7 @@
 ---
 title: IFileList.Item
 second_title: Aspose.HTML for .NET API Reference
-description: IFileList property. Returns the indexth file in the list
+description: IFileList Item property. Returns the indexth file in the list
 type: docs
 weight: 10
 url: /net/aspose.html.io/ifilelist/item/

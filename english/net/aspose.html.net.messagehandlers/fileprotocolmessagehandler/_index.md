@@ -30,7 +30,7 @@ public class FileProtocolMessageHandler : MessageHandler
 
 | Name | Description |
 | --- | --- |
-| override [Invoke](../../aspose.html.net.messagehandlers/fileprotocolmessagehandler/invoke/)(INetworkOperationContext) | When overridden in a derived class is used to implement the message handling. |
+| override [Invoke](../../aspose.html.net.messagehandlers/fileprotocolmessagehandler/invoke/)(*[INetworkOperationContext](../../aspose.html.net/inetworkoperationcontext/)*) | When overridden in a derived class is used to implement the message handling. |
 
 ### See Also
 

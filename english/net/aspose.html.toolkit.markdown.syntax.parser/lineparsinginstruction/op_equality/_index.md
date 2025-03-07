@@ -1,7 +1,7 @@
 ---
 title: LineParsingInstruction.op_Equality
 second_title: Aspose.HTML for .NET API Reference
-description: LineParsingInstruction method. 
+description: LineParsingInstruction op_Equality method. 
 type: docs
 weight: 110
 url: /net/aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/op_equality/

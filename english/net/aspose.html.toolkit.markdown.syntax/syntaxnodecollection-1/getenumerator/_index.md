@@ -1,7 +1,7 @@
 ---
 title: SyntaxNodeCollection-1.GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: SyntaxNodeCollection method. Gets the values in the collection
+description: SyntaxNodeCollection GetEnumerator method. Gets the values in the collection
 type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/getenumerator/

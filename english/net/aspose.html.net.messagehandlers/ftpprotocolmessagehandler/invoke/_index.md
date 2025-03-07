@@ -1,7 +1,7 @@
 ---
 title: FtpProtocolMessageHandler.Invoke
 second_title: Aspose.HTML for .NET API Reference
-description: FtpProtocolMessageHandler method. When overridden in a derived class is used to implement the message handling
+description: FtpProtocolMessageHandler Invoke method. When overridden in a derived class is used to implement the message handling
 type: docs
 weight: 20
 url: /net/aspose.html.net.messagehandlers/ftpprotocolmessagehandler/invoke/

@@ -18,11 +18,11 @@ public class Float64Array : TypedArray<double>
 
 | Name | Description |
 | --- | --- |
-| [Float64Array](float64array/#constructor)(ArrayBuffer) | Initializes a new instance of the `Float64Array` class. |
-| [Float64Array](float64array/#constructor_3)(double[]) | Initializes a new instance of the `Float64Array` class. |
-| [Float64Array](float64array/#constructor_4)(int) | Initializes a new instance of the `Float64Array` class. |
-| [Float64Array](float64array/#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the `Float64Array` class. |
-| [Float64Array](float64array/#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the `Float64Array` class. |
+| [Float64Array](float64array/#constructor)(*[ArrayBuffer](../arraybuffer/)*) | Initializes a new instance of the `Float64Array` class. |
+| [Float64Array](float64array/#constructor_3)(*double[]*) | Initializes a new instance of the `Float64Array` class. |
+| [Float64Array](float64array/#constructor_4)(*int*) | Initializes a new instance of the `Float64Array` class. |
+| [Float64Array](float64array/#constructor_1)(*[ArrayBuffer](../arraybuffer/), int*) | Initializes a new instance of the `Float64Array` class. |
+| [Float64Array](float64array/#constructor_2)(*[ArrayBuffer](../arraybuffer/), int, int*) | Initializes a new instance of the `Float64Array` class. |
 
 ## Properties
 

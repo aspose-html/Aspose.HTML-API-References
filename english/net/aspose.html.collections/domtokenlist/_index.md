@@ -26,15 +26,15 @@ public class DOMTokenList : DOMObject, IEnumerable<string>
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.html.collections/domtokenlist/add/)(params string[]) | Adds the specified token(s) to the list. |
-| [Contains](../../aspose.html.collections/domtokenlist/contains/)(string) | Returns true if the list contains the given token, otherwise false. |
+| [Add](../../aspose.html.collections/domtokenlist/add/)(*params string[]*) | Adds the specified token(s) to the list. |
+| [Contains](../../aspose.html.collections/domtokenlist/contains/)(*string*) | Returns true if the list contains the given token, otherwise false. |
 | [GetEnumerator](../../aspose.html.collections/domtokenlist/getenumerator/)() | Returns an enumerator that iterates through the collection. |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
-| [Remove](../../aspose.html.collections/domtokenlist/remove/)(params string[]) | Removes the specified token(s) from the list. |
-| [Replace](../../aspose.html.collections/domtokenlist/replace/)(string, string) | Replaces an existing token with a new token. Does nothing if the first token doesn't exist. |
-| [Supports](../../aspose.html.collections/domtokenlist/supports/)(string) | Returns true if a given token is in the associated attribute's supported tokens. |
-| [Toggle](../../aspose.html.collections/domtokenlist/toggle/#toggle)(string) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
-| [Toggle](../../aspose.html.collections/domtokenlist/toggle/#toggle_1)(string, bool) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
+| [Remove](../../aspose.html.collections/domtokenlist/remove/)(*params string[]*) | Removes the specified token(s) from the list. |
+| [Replace](../../aspose.html.collections/domtokenlist/replace/)(*string, string*) | Replaces an existing token with a new token. Does nothing if the first token doesn't exist. |
+| [Supports](../../aspose.html.collections/domtokenlist/supports/)(*string*) | Returns true if a given token is in the associated attribute's supported tokens. |
+| [Toggle](../../aspose.html.collections/domtokenlist/toggle/#toggle)(*string*) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
+| [Toggle](../../aspose.html.collections/domtokenlist/toggle/#toggle_1)(*string, bool*) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
 
 ### See Also
 

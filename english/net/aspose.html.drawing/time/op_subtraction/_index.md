@@ -1,7 +1,7 @@
 ---
 title: Time.op_Subtraction
 second_title: Aspose.HTML for .NET API Reference
-description: Time method. 
+description: Time op_Subtraction method. 
 type: docs
 weight: 80
 url: /net/aspose.html.drawing/time/op_subtraction/

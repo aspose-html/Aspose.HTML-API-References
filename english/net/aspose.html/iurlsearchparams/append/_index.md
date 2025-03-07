@@ -1,7 +1,7 @@
 ---
 title: IUrlSearchParams.Append
 second_title: Aspose.HTML for .NET API Reference
-description: IUrlSearchParams method. Appends a new name-value pair whose name is name and value is value
+description: IUrlSearchParams Append method. Appends a new name-value pair whose name is name and value is value
 type: docs
 weight: 10
 url: /net/aspose.html/iurlsearchparams/append/

@@ -1,7 +1,7 @@
 ---
 title: SyntaxNodeCollection-1.RemoveAt
 second_title: Aspose.HTML for .NET API Reference
-description: SyntaxNodeCollection method. Removes the item at the given index
+description: SyntaxNodeCollection RemoveAt method. Removes the item at the given index
 type: docs
 weight: 140
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/removeat/

@@ -1,7 +1,7 @@
 ---
 title: IDiagnosticsBuilder.AddMetrics
 second_title: Aspose.HTML for .NET API Reference
-description: IDiagnosticsBuilder method. Enables metrics collection
+description: IDiagnosticsBuilder AddMetrics method. Enables metrics collection
 type: docs
 weight: 20
 url: /net/aspose.html.diagnostics/idiagnosticsbuilder/addmetrics/

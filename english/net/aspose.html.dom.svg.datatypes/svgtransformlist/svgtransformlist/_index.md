@@ -22,7 +22,7 @@ public SVGTransformList()
 
 ---
 
-## SVGTransformList(IEnumerable&lt;SVGTransform&gt;) {#constructor_1}
+## SVGTransformList(*IEnumerable&amp;lt;SVGTransform&amp;gt;*) {#constructor_1}
 
 Initializes a new instance of the [`SVGTransformList`](../) class.
 

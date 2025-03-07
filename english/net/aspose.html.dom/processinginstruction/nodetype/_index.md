@@ -1,7 +1,7 @@
 ---
 title: ProcessingInstruction.NodeType
 second_title: Aspose.HTML for .NET API Reference
-description: ProcessingInstruction property. A code representing the type of the underlying object
+description: ProcessingInstruction NodeType property. A code representing the type of the underlying object
 type: docs
 weight: 20
 url: /net/aspose.html.dom/processinginstruction/nodetype/

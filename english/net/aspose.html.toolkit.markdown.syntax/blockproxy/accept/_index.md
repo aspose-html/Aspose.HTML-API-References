@@ -1,7 +1,7 @@
 ---
 title: BlockProxy.Accept
 second_title: Aspose.HTML for .NET API Reference
-description: BlockProxy method. Defines the interface for accept visitor
+description: BlockProxy Accept method. Defines the interface for accept visitor
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/blockproxy/accept/

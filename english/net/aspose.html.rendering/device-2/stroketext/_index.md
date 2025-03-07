@@ -1,7 +1,7 @@
 ---
 title: Device-2.StrokeText
 second_title: Aspose.HTML for .NET API Reference
-description: Device method. Strokes the specified text string at the specified location
+description: Device StrokeText method. Strokes the specified text string at the specified location
 type: docs
 weight: 240
 url: /net/aspose.html.rendering/device-2/stroketext/

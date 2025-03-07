@@ -27,9 +27,9 @@ public interface ITrueTypeFont
 
 | Name | Description |
 | --- | --- |
-| [GetAscent](../../aspose.html.drawing/itruetypefont/getascent/)(float) | Returns the ascent, in points. |
+| [GetAscent](../../aspose.html.drawing/itruetypefont/getascent/)(*float*) | Returns the ascent, in points. |
 | [GetData](../../aspose.html.drawing/itruetypefont/getdata/)() | Open the stream with font data. The caller is responsible for disposing the stream. |
-| [GetDescent](../../aspose.html.drawing/itruetypefont/getdescent/)(float) | Returns the descent, in points. |
+| [GetDescent](../../aspose.html.drawing/itruetypefont/getdescent/)(*float*) | Returns the descent, in points. |
 
 ### See Also
 

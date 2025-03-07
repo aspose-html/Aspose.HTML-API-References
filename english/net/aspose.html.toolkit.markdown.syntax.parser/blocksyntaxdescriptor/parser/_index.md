@@ -1,7 +1,7 @@
 ---
 title: BlockSyntaxDescriptor.Parser
 second_title: Aspose.HTML for .NET API Reference
-description: BlockSyntaxDescriptor property. Get the Parser
+description: BlockSyntaxDescriptor Parser property. Get the Parser
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/parser/

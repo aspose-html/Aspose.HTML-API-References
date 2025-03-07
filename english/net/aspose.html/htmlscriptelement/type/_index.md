@@ -1,7 +1,7 @@
 ---
 title: HTMLScriptElement.Type
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLScriptElement property. The content type of the script language. See the type attribute definition in HTML 4.01
+description: HTMLScriptElement Type property. The content type of the script language. See the type attribute definition in HTML 4.01
 type: docs
 weight: 60
 url: /net/aspose.html/htmlscriptelement/type/

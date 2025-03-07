@@ -1,7 +1,7 @@
 ---
 title: ChildFrontMatterSyntaxNode.GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: ChildFrontMatterSyntaxNode method. Get the IEnumerator
+description: ChildFrontMatterSyntaxNode GetEnumerator method. Get the IEnumerator
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/childfrontmattersyntaxnode/getenumerator/

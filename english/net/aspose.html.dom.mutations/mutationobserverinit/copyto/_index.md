@@ -1,7 +1,7 @@
 ---
 title: MutationObserverInit.CopyTo
 second_title: Aspose.HTML for .NET API Reference
-description: MutationObserverInit method. 
+description: MutationObserverInit CopyTo method. 
 type: docs
 weight: 180
 url: /net/aspose.html.dom.mutations/mutationobserverinit/copyto/

@@ -1,7 +1,7 @@
 ---
 title: SelectElement.SelectedOptions
 second_title: Aspose.HTML for .NET API Reference
-description: SelectElement property. Returns a list of selected options
+description: SelectElement SelectedOptions property. Returns a list of selected options
 type: docs
 weight: 50
 url: /net/aspose.html.forms/selectelement/selectedoptions/

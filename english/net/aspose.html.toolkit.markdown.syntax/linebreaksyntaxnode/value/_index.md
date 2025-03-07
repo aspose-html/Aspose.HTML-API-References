@@ -1,7 +1,7 @@
 ---
 title: LineBreakSyntaxNode.Value
 second_title: Aspose.HTML for .NET API Reference
-description: LineBreakSyntaxNode property. Get the value
+description: LineBreakSyntaxNode Value property. Get the value
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/value/

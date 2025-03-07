@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegCurvetoQuadraticSmoothRel.X
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathSegCurvetoQuadraticSmoothRel property. The relative X coordinate for the end point of this path segment
+description: SVGPathSegCurvetoQuadraticSmoothRel X property. The relative X coordinate for the end point of this path segment
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticsmoothrel/x/

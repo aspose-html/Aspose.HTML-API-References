@@ -25,9 +25,9 @@ public interface ICSSKeyframesRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [AppendRule](../../aspose.html.dom.css/icsskeyframesrule/appendrule/)(string) | The appendRule method appends the passed [`CSSKeyframeRule`](../icsskeyframerule/) at the end of the keyframes rule collection. |
-| [DeleteRule](../../aspose.html.dom.css/icsskeyframesrule/deleterule/)(string) | The deleteRule method deletes the [`CSSKeyframeRule`](../icsskeyframerule/) with the passed key. If a rule with this key does not exist, the method does nothing |
-| [FindRule](../../aspose.html.dom.css/icsskeyframesrule/findrule/)(string) | The findRule method returns the rule with a key matching the passed key. If no such rule exists, a null value is returned |
+| [AppendRule](../../aspose.html.dom.css/icsskeyframesrule/appendrule/)(*string*) | The appendRule method appends the passed [`CSSKeyframeRule`](../icsskeyframerule/) at the end of the keyframes rule collection. |
+| [DeleteRule](../../aspose.html.dom.css/icsskeyframesrule/deleterule/)(*string*) | The deleteRule method deletes the [`CSSKeyframeRule`](../icsskeyframerule/) with the passed key. If a rule with this key does not exist, the method does nothing |
+| [FindRule](../../aspose.html.dom.css/icsskeyframesrule/findrule/)(*string*) | The findRule method returns the rule with a key matching the passed key. If no such rule exists, a null value is returned |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: SVGFEMorphologyElement.In1
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEMorphologyElement property. Corresponds to attribute in on the given feMorphology element
+description: SVGFEMorphologyElement In1 property. Corresponds to attribute in on the given feMorphology element
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.filters/svgfemorphologyelement/in1/

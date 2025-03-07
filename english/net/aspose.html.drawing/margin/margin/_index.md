@@ -22,7 +22,7 @@ public Margin()
 
 ---
 
-## Margin(int) {#constructor_3}
+## Margin(*int*) {#constructor_3}
 
 Initializes a new instance of the [`Margin`](../) class.
 
@@ -42,7 +42,7 @@ public Margin(int anyMargin)
 
 ---
 
-## Margin(Length) {#constructor_1}
+## Margin(*[Length](../../length/)*) {#constructor_1}
 
 Initializes a new instance of the [`Margin`](../) class.
 
@@ -63,7 +63,7 @@ public Margin(Length anyMargin)
 
 ---
 
-## Margin(int, int, int, int) {#constructor_4}
+## Margin(*int, int, int, int*) {#constructor_4}
 
 Initializes a new instance of the [`Margin`](../) class.
 
@@ -86,7 +86,7 @@ public Margin(int left, int top, int right, int bottom)
 
 ---
 
-## Margin(Length, Length, Length, Length) {#constructor_2}
+## Margin(*[Length](../../length/), [Length](../../length/), [Length](../../length/), [Length](../../length/)*) {#constructor_2}
 
 Initializes a new instance of the [`Margin`](../) class.
 

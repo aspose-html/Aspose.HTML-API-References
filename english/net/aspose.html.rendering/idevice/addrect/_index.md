@@ -1,7 +1,7 @@
 ---
 title: IDevice.AddRect
 second_title: Aspose.HTML for .NET API Reference
-description: IDevice method. Appends a rectangle to the current path as a complete subpath
+description: IDevice AddRect method. Appends a rectangle to the current path as a complete subpath
 type: docs
 weight: 30
 url: /net/aspose.html.rendering/idevice/addrect/

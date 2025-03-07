@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.net/stringcontent/stringcontent/
 ---
-## StringContent(string) {#constructor}
+## StringContent(*string*) {#constructor}
 
 Initializes a new instance of the [`StringContent`](../) class.
 
@@ -26,7 +26,7 @@ public StringContent(string content)
 
 ---
 
-## StringContent(string, Encoding) {#constructor_1}
+## StringContent(*string, Encoding*) {#constructor_1}
 
 Initializes a new instance of the [`StringContent`](../) class.
 
@@ -47,7 +47,7 @@ public StringContent(string content, Encoding encoding)
 
 ---
 
-## StringContent(string, Encoding, string) {#constructor_2}
+## StringContent(*string, Encoding, string*) {#constructor_2}
 
 Initializes a new instance of the [`StringContent`](../) class.
 

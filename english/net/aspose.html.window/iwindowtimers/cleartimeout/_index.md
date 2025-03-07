@@ -1,7 +1,7 @@
 ---
 title: IWindowTimers.ClearTimeout
 second_title: Aspose.HTML for .NET API Reference
-description: IWindowTimers method. Cancels the timeout set with setTimeout identified by handle
+description: IWindowTimers ClearTimeout method. Cancels the timeout set with setTimeout identified by handle
 type: docs
 weight: 20
 url: /net/aspose.html.window/iwindowtimers/cleartimeout/

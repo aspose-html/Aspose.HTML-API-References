@@ -1,7 +1,7 @@
 ---
 title: SVGPoint.Y
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPoint property. The Y coordinate
+description: SVGPoint Y property. The Y coordinate
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.datatypes/svgpoint/y/

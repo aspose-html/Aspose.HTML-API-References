@@ -1,7 +1,7 @@
 ---
 title: DocDevice.Flush
 second_title: Aspose.HTML for .NET API Reference
-description: DocDevice method. Flushes all data to output stream
+description: DocDevice Flush method. Flushes all data to output stream
 type: docs
 weight: 140
 url: /net/aspose.html.rendering.doc/docdevice/flush/

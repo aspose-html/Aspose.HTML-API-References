@@ -1,7 +1,7 @@
 ---
 title: IStyleSheet.Title
 second_title: Aspose.HTML for .NET API Reference
-description: IStyleSheet property. The title property of the StyleSheet interface returns the advisory title of the current style sheet
+description: IStyleSheet Title property. The title property of the StyleSheet interface returns the advisory title of the current style sheet
 type: docs
 weight: 60
 url: /net/aspose.html.dom.css/istylesheet/title/

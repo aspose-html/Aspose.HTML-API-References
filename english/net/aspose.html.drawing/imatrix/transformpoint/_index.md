@@ -1,7 +1,7 @@
 ---
 title: IMatrix.TransformPoint
 second_title: Aspose.HTML for .NET API Reference
-description: IMatrix method. Transforms the specified point using this matrix
+description: IMatrix TransformPoint method. Transforms the specified point using this matrix
 type: docs
 weight: 180
 url: /net/aspose.html.drawing/imatrix/transformpoint/

@@ -1,7 +1,7 @@
 ---
 title: Principle.GetGuideline
 second_title: Aspose.HTML for .NET API Reference
-description: Principle method. Get by WCAG code for Guideline
+description: Principle GetGuideline method. Get by WCAG code for Guideline
 type: docs
 weight: 10
 url: /net/aspose.html.accessibility/principle/getguideline/

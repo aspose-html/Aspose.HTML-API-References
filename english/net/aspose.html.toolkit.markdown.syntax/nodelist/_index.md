@@ -24,9 +24,9 @@ public abstract class NodeList : NodeList<MarkdownSyntaxNode>
 
 | Name | Description |
 | --- | --- |
-| abstract [Get](../../aspose.html.toolkit.markdown.syntax/nodelist-1/get/)(int) |  |
+| abstract [Get](../../aspose.html.toolkit.markdown.syntax/nodelist-1/get/)(*int*) |  |
 | abstract [GetEnumerator](../../aspose.html.toolkit.markdown.syntax/nodelist-1/getenumerator/)() |  |
-| [WriteTo](../../aspose.html.toolkit.markdown.syntax/nodelist-1/writeto/)(TextWriter) |  |
+| [WriteTo](../../aspose.html.toolkit.markdown.syntax/nodelist-1/writeto/)(*TextWriter*) |  |
 
 ### See Also
 

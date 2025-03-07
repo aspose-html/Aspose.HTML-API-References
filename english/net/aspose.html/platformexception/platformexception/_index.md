@@ -22,7 +22,7 @@ public PlatformException()
 
 ---
 
-## PlatformException(string) {#constructor_1}
+## PlatformException(*string*) {#constructor_1}
 
 Initializes a new instance of the [`PlatformException`](../) class with a specified error message.
 
@@ -42,7 +42,7 @@ public PlatformException(string message)
 
 ---
 
-## PlatformException(string, Exception) {#constructor_2}
+## PlatformException(*string, Exception*) {#constructor_2}
 
 Initializes a new instance of the [`PlatformException`](../) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 

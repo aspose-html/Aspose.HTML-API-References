@@ -22,7 +22,7 @@ public SVGStringList()
 
 ---
 
-## SVGStringList(IEnumerable&lt;string&gt;) {#constructor_1}
+## SVGStringList(*IEnumerable&amp;lt;string&amp;gt;*) {#constructor_1}
 
 Initializes a new instance of the [`SVGStringList`](../) class.
 

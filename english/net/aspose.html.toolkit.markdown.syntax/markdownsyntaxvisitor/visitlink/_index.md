@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxVisitor.VisitLink
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit InlineLinkSyntax
+description: MarkdownSyntaxVisitor VisitLink method. Defines the interface for visit InlineLinkSyntax
 type: docs
 weight: 150
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitlink/
 ---
-## VisitLink(InlineLinkSyntaxNode) {#visitlink_1}
+## VisitLink(*[InlineLinkSyntaxNode](../../inlinelinksyntaxnode/)*) {#visitlink_1}
 
 Defines the interface for visit InlineLinkSyntax.
 
@@ -27,7 +27,7 @@ public virtual void VisitLink(InlineLinkSyntaxNode link)
 
 ---
 
-## VisitLink(AutoLinkSyntaxNode) {#visitlink}
+## VisitLink(*[AutoLinkSyntaxNode](../../autolinksyntaxnode/)*) {#visitlink}
 
 Defines the interface for visit AutoLinkSyntax.
 

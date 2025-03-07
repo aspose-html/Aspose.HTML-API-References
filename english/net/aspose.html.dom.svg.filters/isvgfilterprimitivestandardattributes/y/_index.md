@@ -1,7 +1,7 @@
 ---
 title: ISVGFilterPrimitiveStandardAttributes.Y
 second_title: Aspose.HTML for .NET API Reference
-description: ISVGFilterPrimitiveStandardAttributes property. Corresponds to attribute y on the given filter element
+description: ISVGFilterPrimitiveStandardAttributes Y property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 50
 url: /net/aspose.html.dom.svg.filters/isvgfilterprimitivestandardattributes/y/

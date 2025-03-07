@@ -18,7 +18,7 @@ public interface IWritable
 
 | Name | Description |
 | --- | --- |
-| [WriteTo](../../aspose.html.toolkit.markdown.syntax/iwritable/writeto/)(TextWriter) | Write to text writer. |
+| [WriteTo](../../aspose.html.toolkit.markdown.syntax/iwritable/writeto/)(*TextWriter*) | Write to text writer. |
 
 ### See Also
 

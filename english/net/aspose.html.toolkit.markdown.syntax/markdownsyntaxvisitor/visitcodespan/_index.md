@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitCodeSpan
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit CodeSpanSyntax
+description: MarkdownSyntaxVisitor VisitCodeSpan method. Defines the interface for visit CodeSpanSyntax
 type: docs
 weight: 60
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitcodespan/

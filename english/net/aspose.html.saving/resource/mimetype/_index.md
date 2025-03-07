@@ -1,7 +1,7 @@
 ---
 title: Resource.MimeType
 second_title: Aspose.HTML for .NET API Reference
-description: Resource property. Returns the MimeType of this resource. Can be null if the resource was not found
+description: Resource MimeType property. Returns the MimeType of this resource. Can be null if the resource was not found
 type: docs
 weight: 10
 url: /net/aspose.html.saving/resource/mimetype/

@@ -1,7 +1,7 @@
 ---
 title: Time.op_GreaterThanOrEqual
 second_title: Aspose.HTML for .NET API Reference
-description: Time method. 
+description: Time op_GreaterThanOrEqual method. 
 type: docs
 weight: 40
 url: /net/aspose.html.drawing/time/op_greaterthanorequal/

@@ -1,12 +1,12 @@
 ---
 title: FileCreateStreamProvider.GetStream
 second_title: Aspose.HTML for .NET API Reference
-description: FileCreateStreamProvider method. Provides a stream for rendering
+description: FileCreateStreamProvider GetStream method. Provides a stream for rendering
 type: docs
 weight: 50
 url: /net/aspose.html.io/filecreatestreamprovider/getstream/
 ---
-## GetStream(string, string) {#getstream}
+## GetStream(*string, string*) {#getstream}
 
 Provides a stream for rendering.
 
@@ -31,7 +31,7 @@ A Stream object that is used for writing data during the rendering operations.
 
 ---
 
-## GetStream(string, string, int) {#getstream_1}
+## GetStream(*string, string, int*) {#getstream_1}
 
 Provides a stream for rendering.
 

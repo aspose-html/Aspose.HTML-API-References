@@ -1,7 +1,7 @@
 ---
 title: Notation.NodeType
 second_title: Aspose.HTML for .NET API Reference
-description: Notation property. A code representing the type of the underlying object
+description: Notation NodeType property. A code representing the type of the underlying object
 type: docs
 weight: 20
 url: /net/aspose.html.dom/notation/nodetype/

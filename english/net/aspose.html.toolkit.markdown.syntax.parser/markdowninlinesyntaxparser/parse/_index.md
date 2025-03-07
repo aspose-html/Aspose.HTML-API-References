@@ -1,7 +1,7 @@
 ---
 title: MarkdownInlineSyntaxParser.Parse
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownInlineSyntaxParser method. Defines the interface for parse
+description: MarkdownInlineSyntaxParser Parse method. Defines the interface for parse
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdowninlinesyntaxparser/parse/

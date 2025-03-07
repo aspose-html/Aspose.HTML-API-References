@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.ListStyle
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. The list-style property is a shorthand notation for setting the three properties list-style-type list-style-image and list-style-position at the same place in the style sheet
+description: ICSS2Properties ListStyle property. The list-style property is a shorthand notation for setting the three properties list-style-type list-style-image and list-style-position at the same place in the style sheet
 type: docs
 weight: 590
 url: /net/aspose.html.dom.css/icss2properties/liststyle/

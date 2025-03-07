@@ -18,13 +18,13 @@ public class ProtocolMessageFilter : MessageFilter
 
 | Name | Description |
 | --- | --- |
-| [ProtocolMessageFilter](protocolmessagefilter/)(params string[]) | Initializes a new instance of the `ProtocolMessageFilter` class. |
+| [ProtocolMessageFilter](protocolmessagefilter/)(*params string[]*) | Initializes a new instance of the `ProtocolMessageFilter` class. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| override [Match](../../aspose.html.net.messagefilters/protocolmessagefilter/match/)(INetworkOperationContext) | When overridden in a derived class, tests whether a Context satisfies the filter criteria. |
+| override [Match](../../aspose.html.net.messagefilters/protocolmessagefilter/match/)(*[INetworkOperationContext](../../aspose.html.net/inetworkoperationcontext/)*) | When overridden in a derived class, tests whether a Context satisfies the filter criteria. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: IInlineParsingContext.Reader
 second_title: Aspose.HTML for .NET API Reference
-description: IInlineParsingContext property. Get the Reader
+description: IInlineParsingContext Reader property. Get the Reader
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/reader/

@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.EmptyLine
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates EmptyLineSyntaxNode
+description: MarkdownSyntaxFactory EmptyLine method. Creates EmptyLineSyntaxNode
 type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emptyline/

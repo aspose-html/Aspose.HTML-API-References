@@ -1,7 +1,7 @@
 ---
 title: Numeric.Equals
 second_title: Aspose.HTML for .NET API Reference
-description: Numeric method. Determines whether the specified Unit is equal to this instance
+description: Numeric Equals method. Determines whether the specified Unit is equal to this instance
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/numeric/equals/

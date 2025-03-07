@@ -1,7 +1,7 @@
 ---
 title: ButtonElement.Type
 second_title: Aspose.HTML for .NET API Reference
-description: ButtonElement property. Type of the form control
+description: ButtonElement Type property. Type of the form control
 type: docs
 weight: 30
 url: /net/aspose.html.forms/buttonelement/type/

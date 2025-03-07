@@ -1,7 +1,7 @@
 ---
 title: HTMLFrameElement.Scrolling
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLFrameElement property. Specify whether or not the frame should have scrollbars. See the scrolling attribute definition in HTML 4.01
+description: HTMLFrameElement Scrolling property. Specify whether or not the frame should have scrollbars. See the scrolling attribute definition in HTML 4.01
 type: docs
 weight: 80
 url: /net/aspose.html/htmlframeelement/scrolling/

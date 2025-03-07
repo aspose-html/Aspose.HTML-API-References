@@ -1,7 +1,7 @@
 ---
 title: TextSpan.Combine
 second_title: Aspose.HTML for .NET API Reference
-description: TextSpan method. Combines the text spans
+description: TextSpan Combine method. Combines the text spans
 type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.text/textspan/combine/

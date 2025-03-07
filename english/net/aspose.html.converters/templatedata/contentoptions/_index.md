@@ -1,7 +1,7 @@
 ---
 title: TemplateData.ContentOptions
 second_title: Aspose.HTML for .NET API Reference
-description: TemplateData property. Content object property
+description: TemplateData ContentOptions property. Content object property
 type: docs
 weight: 20
 url: /net/aspose.html.converters/templatedata/contentoptions/

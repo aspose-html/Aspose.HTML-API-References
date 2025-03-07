@@ -1,7 +1,7 @@
 ---
 title: CSSValueList.GetEnumerator
 second_title: Aspose.HTML for .NET API Reference
-description: CSSValueList method. Returns an enumerator that iterates through the collection
+description: CSSValueList GetEnumerator method. Returns an enumerator that iterates through the collection
 type: docs
 weight: 50
 url: /net/aspose.html.dom.css/cssvaluelist/getenumerator/

@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.dom.events/customevent/customevent/
 ---
-## CustomEvent(string) {#constructor}
+## CustomEvent(*string*) {#constructor}
 
 Initializes a new instance of the [`CustomEvent`](../) class.
 
@@ -26,7 +26,7 @@ public CustomEvent(string type)
 
 ---
 
-## CustomEvent(string, IDictionary&lt;string, object&gt;) {#constructor_1}
+## CustomEvent(*string, IDictionary&amp;lt;string, object&amp;gt;*) {#constructor_1}
 
 ```csharp
 public CustomEvent(string type, IDictionary<string, object> eventInitDict)

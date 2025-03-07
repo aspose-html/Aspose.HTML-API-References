@@ -1,7 +1,7 @@
 ---
 title: Document.OnScroll
 second_title: Aspose.HTML for .NET API Reference
-description: Document event. Gets or sets event handler for OnScroll event
+description: Document OnScroll event. Gets or sets event handler for OnScroll event
 type: docs
 weight: 670
 url: /net/aspose.html.dom/document/onscroll/

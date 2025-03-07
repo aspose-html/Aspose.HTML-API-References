@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.dom/domexception/domexception/
 ---
-## DOMException(string) {#constructor}
+## DOMException(*string*) {#constructor}
 
 Initializes a new instance of the [`DOMException`](../) class.
 
@@ -26,7 +26,7 @@ public DOMException(string message)
 
 ---
 
-## DOMException(string, string) {#constructor_1}
+## DOMException(*string, string*) {#constructor_1}
 
 Initializes a new instance of the [`DOMException`](../) class.
 

@@ -1,7 +1,7 @@
 ---
 title: SVGFECompositeElement.X
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFECompositeElement property. Corresponds to attribute x on the given filter element
+description: SVGFECompositeElement X property. Corresponds to attribute x on the given filter element
 type: docs
 weight: 110
 url: /net/aspose.html.dom.svg.filters/svgfecompositeelement/x/

@@ -1,7 +1,7 @@
 ---
 title: ICSS2Properties.Left
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties property. This property specifies how far a boxs left content edge is offset to the right of the left edge of the boxs containing block
+description: ICSS2Properties Left property. This property specifies how far a boxs left content edge is offset to the right of the left edge of the boxs containing block
 type: docs
 weight: 560
 url: /net/aspose.html.dom.css/icss2properties/left/

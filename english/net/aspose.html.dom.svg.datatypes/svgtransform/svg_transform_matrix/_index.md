@@ -1,7 +1,7 @@
 ---
 title: SVGTransform.SVG_TRANSFORM_MATRIX
 second_title: Aspose.HTML for .NET API Reference
-description: SVGTransform field. A matrix transformation
+description: SVGTransform SVG_TRANSFORM_MATRIX field. A matrix transformation
 type: docs
 weight: 110
 url: /net/aspose.html.dom.svg.datatypes/svgtransform/svg_transform_matrix/

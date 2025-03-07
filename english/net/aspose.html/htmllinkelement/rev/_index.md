@@ -1,7 +1,7 @@
 ---
 title: HTMLLinkElement.Rev
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLLinkElement property. Reverse link type. See the rev attribute definition in HTML 4.01
+description: HTMLLinkElement Rev property. Reverse link type. See the rev attribute definition in HTML 4.01
 type: docs
 weight: 80
 url: /net/aspose.html/htmllinkelement/rev/

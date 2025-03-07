@@ -1,7 +1,7 @@
 ---
 title: RGBColor.Red
 second_title: Aspose.HTML for .NET API Reference
-description: RGBColor property. Gets the red component value of this Color structure
+description: RGBColor Red property. Gets the red component value of this Color structure
 type: docs
 weight: 40
 url: /net/aspose.html.dom.css/rgbcolor/red/

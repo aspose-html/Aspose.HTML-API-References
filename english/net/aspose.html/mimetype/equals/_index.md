@@ -1,12 +1,12 @@
 ---
 title: MimeType.Equals
 second_title: Aspose.HTML for .NET API Reference
-description: MimeType method. Indicates whether the current object is equal to another object of the same type
+description: MimeType Equals method. Indicates whether the current object is equal to another object of the same type
 type: docs
 weight: 50
 url: /net/aspose.html/mimetype/equals/
 ---
-## Equals(MimeType) {#equals}
+## Equals(*[MimeType](../)*) {#equals}
 
 Indicates whether the current object is equal to another object of the same type.
 
@@ -30,7 +30,7 @@ true if the current object is equal to the *other* parameter; otherwise, false.
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
 Determines whether the specified Object is equal to the current Object.
 

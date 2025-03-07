@@ -1,7 +1,7 @@
 ---
 title: ValidationResult.Details
 second_title: Aspose.HTML for .NET API Reference
-description: ValidationResult property. Validation result details
+description: ValidationResult Details property. Validation result details
 type: docs
 weight: 10
 url: /net/aspose.html.accessibility.results/validationresult/details/

@@ -1,7 +1,7 @@
 ---
 title: MarkdownSaveOptions.Default
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSaveOptions property. Returns set of options which are compatible with default Markdown documentation
+description: MarkdownSaveOptions Default property. Returns set of options which are compatible with default Markdown documentation
 type: docs
 weight: 20
 url: /net/aspose.html.saving/markdownsaveoptions/default/

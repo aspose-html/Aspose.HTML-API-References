@@ -1,7 +1,7 @@
 ---
 title: NodeFilter.FILTER_ACCEPT
 second_title: Aspose.HTML for .NET API Reference
-description: NodeFilter field. Accept the node. Navigation methods defined for NodeIterator or TreeWalker will return this node
+description: NodeFilter FILTER_ACCEPT field. Accept the node. Navigation methods defined for NodeIterator or TreeWalker will return this node
 type: docs
 weight: 30
 url: /net/aspose.html.dom.traversal.filters/nodefilter/filter_accept/

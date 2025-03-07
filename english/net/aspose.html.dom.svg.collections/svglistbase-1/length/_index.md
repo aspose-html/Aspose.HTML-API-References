@@ -1,7 +1,7 @@
 ---
 title: SVGListBase-1.Length
 second_title: Aspose.HTML for .NET API Reference
-description: SVGListBase property. The number of items in the list
+description: SVGListBase Length property. The number of items in the list
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/length/

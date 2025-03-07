@@ -1,7 +1,7 @@
 ---
 title: IDOMImplementation.CreateDocumentType
 second_title: Aspose.HTML for .NET API Reference
-description: IDOMImplementation method. Creates an empty DocumentType node. Entity declarations and notations are not made available. Entity reference expansions and default attribute additions do not occur
+description: IDOMImplementation CreateDocumentType method. Creates an empty DocumentType node. Entity declarations and notations are not made available. Entity reference expansions and default attribute additions do not occur
 type: docs
 weight: 20
 url: /net/aspose.html.dom/idomimplementation/createdocumenttype/

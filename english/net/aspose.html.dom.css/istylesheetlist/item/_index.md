@@ -1,7 +1,7 @@
 ---
 title: IStyleSheetList.Item
 second_title: Aspose.HTML for .NET API Reference
-description: IStyleSheetList property. The itemindex method must return the indexth CSS style sheet in the collection. If there is no indexth object in the collection then the method must return null
+description: IStyleSheetList Item property. The itemindex method must return the indexth CSS style sheet in the collection. If there is no indexth object in the collection then the method must return null
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/istylesheetlist/item/

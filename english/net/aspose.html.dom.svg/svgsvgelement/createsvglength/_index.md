@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElement.CreateSVGLength
 second_title: Aspose.HTML for .NET API Reference
-description: SVGSVGElement method. Creates an SVGLength object outside of any document trees. The object is initialized to the value of 0 user units
+description: SVGSVGElement CreateSVGLength method. Creates an SVGLength object outside of any document trees. The object is initialized to the value of 0 user units
 type: docs
 weight: 130
 url: /net/aspose.html.dom.svg/svgsvgelement/createsvglength/

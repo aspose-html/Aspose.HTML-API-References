@@ -1,12 +1,12 @@
 ---
 title: Document.Navigate
 second_title: Aspose.HTML for .NET API Reference
-description: Document method. Loads the document at the specified Uniform Resource Locator URL into the current instance replacing the previous content
+description: Document Navigate method. Loads the document at the specified Uniform Resource Locator URL into the current instance replacing the previous content
 type: docs
 weight: 1010
 url: /net/aspose.html.dom/document/navigate/
 ---
-## Navigate(string) {#navigate_4}
+## Navigate(*string*) {#navigate_4}
 
 Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content.
 
@@ -26,7 +26,7 @@ public void Navigate(string address)
 
 ---
 
-## Navigate(Url) {#navigate_1}
+## Navigate(*[Url](../../../aspose.html/url/)*) {#navigate_1}
 
 Loads the document at the specified Uniform Resource Locator (URL) into the current instance, replacing the previous content.
 
@@ -47,7 +47,7 @@ public void Navigate(Url url)
 
 ---
 
-## Navigate(string, string) {#navigate_6}
+## Navigate(*string, string*) {#navigate_6}
 
 Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content.
 
@@ -74,7 +74,7 @@ public void Navigate(string content, string baseUri)
 
 ---
 
-## Navigate(string, Url) {#navigate_5}
+## Navigate(*string, [Url](../../../aspose.html/url/)*) {#navigate_5}
 
 Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content.
 
@@ -102,7 +102,7 @@ public void Navigate(string content, Url baseUri)
 
 ---
 
-## Navigate(Stream, string) {#navigate_3}
+## Navigate(*Stream, string*) {#navigate_3}
 
 Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. Document loading starts from the current position in the stream.
 
@@ -129,7 +129,7 @@ public void Navigate(Stream content, string baseUri)
 
 ---
 
-## Navigate(Stream, Url) {#navigate_2}
+## Navigate(*Stream, [Url](../../../aspose.html/url/)*) {#navigate_2}
 
 Loads the document from specified content and using baseUri to resolve relative resources, replacing the previous content. Document loading starts from the current position in the stream.
 
@@ -157,7 +157,7 @@ public void Navigate(Stream content, Url baseUri)
 
 ---
 
-## Navigate(RequestMessage) {#navigate}
+## Navigate(*[RequestMessage](../../../aspose.html.net/requestmessage/)*) {#navigate}
 
 Loads the document based on specified request object, replacing the previous content.
 

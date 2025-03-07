@@ -18,8 +18,8 @@ public sealed class TemplateData
 
 | Name | Description |
 | --- | --- |
-| [TemplateData](templatedata/#constructor_1)(string) | Absolute path to data file (XML, JSON) based on initialization. |
-| [TemplateData](templatedata/#constructor)(TemplateContentOptions) | Inline content based on initialization (XML, JSON). |
+| [TemplateData](templatedata/#constructor_1)(*string*) | Absolute path to data file (XML, JSON) based on initialization. |
+| [TemplateData](templatedata/#constructor)(*[TemplateContentOptions](../templatecontentoptions/)*) | Inline content based on initialization (XML, JSON). |
 
 ## Properties
 

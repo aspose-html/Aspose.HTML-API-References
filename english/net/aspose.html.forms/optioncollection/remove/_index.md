@@ -1,7 +1,7 @@
 ---
 title: OptionCollection.Remove
 second_title: Aspose.HTML for .NET API Reference
-description: OptionCollection method. Remove the option from list
+description: OptionCollection Remove method. Remove the option from list
 type: docs
 weight: 50
 url: /net/aspose.html.forms/optioncollection/remove/

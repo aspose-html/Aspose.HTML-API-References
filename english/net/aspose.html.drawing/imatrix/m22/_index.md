@@ -1,7 +1,7 @@
 ---
 title: IMatrix.M22
 second_title: Aspose.HTML for .NET API Reference
-description: IMatrix property. Gets or sets the value in the second row and second column of the matrix
+description: IMatrix M22 property. Gets or sets the value in the second row and second column of the matrix
 type: docs
 weight: 60
 url: /net/aspose.html.drawing/imatrix/m22/

@@ -1,7 +1,7 @@
 ---
 title: Device-2.DeviceConfiguration-2.PageWritingStrategy
 second_title: Aspose.HTML for .NET API Reference
-description: DeviceConfiguration property. 
+description: DeviceConfiguration PageWritingStrategy property. 
 type: docs
 weight: 20
 url: /net/aspose.html.rendering/device-2.deviceconfiguration-2/pagewritingstrategy/

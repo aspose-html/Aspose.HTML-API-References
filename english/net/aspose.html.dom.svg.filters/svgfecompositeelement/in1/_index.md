@@ -1,7 +1,7 @@
 ---
 title: SVGFECompositeElement.In1
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFECompositeElement property. Corresponds to attribute in on the given feComposite element
+description: SVGFECompositeElement In1 property. Corresponds to attribute in on the given feComposite element
 type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.filters/svgfecompositeelement/in1/

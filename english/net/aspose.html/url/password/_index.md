@@ -1,7 +1,7 @@
 ---
 title: Url.Password
 second_title: Aspose.HTML for .NET API Reference
-description: Url property. Gets or sets a string representation for the specified URL password
+description: Url Password property. Gets or sets a string representation for the specified URL password
 type: docs
 weight: 70
 url: /net/aspose.html/url/password/

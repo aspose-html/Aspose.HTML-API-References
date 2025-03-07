@@ -1,7 +1,7 @@
 ---
 title: HTMLObjectElement.Name
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLObjectElement property. Form control or object name when submitted with a form. See the name attribute definition in HTML 4.01
+description: HTMLObjectElement Name property. Form control or object name when submitted with a form. See the name attribute definition in HTML 4.01
 type: docs
 weight: 130
 url: /net/aspose.html/htmlobjectelement/name/

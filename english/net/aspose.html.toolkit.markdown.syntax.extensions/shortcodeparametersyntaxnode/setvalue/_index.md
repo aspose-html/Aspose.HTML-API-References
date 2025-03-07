@@ -1,7 +1,7 @@
 ---
 title: ShortCodeParameterSyntaxNode.SetValue
 second_title: Aspose.HTML for .NET API Reference
-description: ShortCodeParameterSyntaxNode method. Defines the interface for set value
+description: ShortCodeParameterSyntaxNode SetValue method. Defines the interface for set value
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/shortcodeparametersyntaxnode/setvalue/

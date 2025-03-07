@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElement.CreateSVGTransform
 second_title: Aspose.HTML for .NET API Reference
-description: SVGSVGElement method. Creates an SVGTransform object outside of any document trees. The object is initialized to an identity matrix transform SVG_TRANSFORM_MATRIX
+description: SVGSVGElement CreateSVGTransform method. Creates an SVGTransform object outside of any document trees. The object is initialized to an identity matrix transform SVG_TRANSFORM_MATRIX
 type: docs
 weight: 180
 url: /net/aspose.html.dom.svg/svgsvgelement/createsvgtransform/

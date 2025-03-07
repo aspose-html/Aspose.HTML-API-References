@@ -1,7 +1,7 @@
 ---
 title: OrderedListItemMarker.GetDelimiter
 second_title: Aspose.HTML for .NET API Reference
-description: OrderedListItemMarker method. Defines the interface for get of the delimiter
+description: OrderedListItemMarker GetDelimiter method. Defines the interface for get of the delimiter
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/orderedlistitemmarker/getdelimiter/

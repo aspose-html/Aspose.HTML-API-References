@@ -1,7 +1,7 @@
 ---
 title: Device-2.EndDocument
 second_title: Aspose.HTML for .NET API Reference
-description: Device method. Ends rendering of the document
+description: Device EndDocument method. Ends rendering of the document
 type: docs
 weight: 120
 url: /net/aspose.html.rendering/device-2/enddocument/

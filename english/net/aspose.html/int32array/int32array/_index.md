@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html/int32array/int32array/
 ---
-## Int32Array(int) {#constructor_3}
+## Int32Array(*int*) {#constructor_3}
 
 Initializes a new instance of the [`Int32Array`](../) class.
 
@@ -26,7 +26,7 @@ public Int32Array(int length)
 
 ---
 
-## Int32Array(int[]) {#constructor_4}
+## Int32Array(*int[]*) {#constructor_4}
 
 Initializes a new instance of the [`Int32Array`](../) class.
 
@@ -46,7 +46,7 @@ public Int32Array(int[] data)
 
 ---
 
-## Int32Array(ArrayBuffer) {#constructor}
+## Int32Array(*[ArrayBuffer](../../arraybuffer/)*) {#constructor}
 
 Initializes a new instance of the [`Int32Array`](../) class.
 
@@ -67,7 +67,7 @@ public Int32Array(ArrayBuffer buffer)
 
 ---
 
-## Int32Array(ArrayBuffer, int) {#constructor_1}
+## Int32Array(*[ArrayBuffer](../../arraybuffer/), int*) {#constructor_1}
 
 Initializes a new instance of the [`Int32Array`](../) class.
 
@@ -89,7 +89,7 @@ public Int32Array(ArrayBuffer buffer, int byteOffset)
 
 ---
 
-## Int32Array(ArrayBuffer, int, int) {#constructor_2}
+## Int32Array(*[ArrayBuffer](../../arraybuffer/), int, int*) {#constructor_2}
 
 Initializes a new instance of the [`Int32Array`](../) class.
 

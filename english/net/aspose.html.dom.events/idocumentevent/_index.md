@@ -18,7 +18,7 @@ public interface IDocumentEvent
 
 | Name | Description |
 | --- | --- |
-| [CreateEvent](../../aspose.html.dom.events/idocumentevent/createevent/)(string) | The createEvent method is used in creating Events when it is either inconvenient or unnecessary for the user to create an Event themselves |
+| [CreateEvent](../../aspose.html.dom.events/idocumentevent/createevent/)(*string*) | The createEvent method is used in creating Events when it is either inconvenient or unnecessary for the user to create an Event themselves |
 
 ## Remarks
 

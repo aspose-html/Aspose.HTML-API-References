@@ -1,7 +1,7 @@
 ---
 title: SVGStyleElement.Type
 second_title: Aspose.HTML for .NET API Reference
-description: SVGStyleElement property. Corresponds to attribute type on the given element
+description: SVGStyleElement Type property. Corresponds to attribute type on the given element
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgstyleelement/type/

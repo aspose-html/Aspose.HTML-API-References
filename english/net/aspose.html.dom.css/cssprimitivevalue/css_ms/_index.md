@@ -1,7 +1,7 @@
 ---
 title: CSSPrimitiveValue.CSS_MS
 second_title: Aspose.HTML for .NET API Reference
-description: CSSPrimitiveValue field. The value is a time ms. The value can be obtained by using the getFloatValue method
+description: CSSPrimitiveValue CSS_MS field. The value is a time ms. The value can be obtained by using the getFloatValue method
 type: docs
 weight: 280
 url: /net/aspose.html.dom.css/cssprimitivevalue/css_ms/

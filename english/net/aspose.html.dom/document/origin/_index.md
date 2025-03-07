@@ -1,7 +1,7 @@
 ---
 title: Document.Origin
 second_title: Aspose.HTML for .NET API Reference
-description: Document property. Gets the document origin
+description: Document Origin property. Gets the document origin
 type: docs
 weight: 200
 url: /net/aspose.html.dom/document/origin/

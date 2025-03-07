@@ -1,7 +1,7 @@
 ---
 title: FormEditor.Form
 second_title: Aspose.HTML for .NET API Reference
-description: FormEditor property. The original HTMLFormElement that is associated with current instance of FormEditor
+description: FormEditor Form property. The original HTMLFormElement that is associated with current instance of FormEditor
 type: docs
 weight: 50
 url: /net/aspose.html.forms/formeditor/form/

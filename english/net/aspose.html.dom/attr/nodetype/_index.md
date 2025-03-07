@@ -1,7 +1,7 @@
 ---
 title: Attr.NodeType
 second_title: Aspose.HTML for .NET API Reference
-description: Attr property. A code representing the type of the underlying object
+description: Attr NodeType property. A code representing the type of the underlying object
 type: docs
 weight: 50
 url: /net/aspose.html.dom/attr/nodetype/

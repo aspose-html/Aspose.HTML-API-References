@@ -1,7 +1,7 @@
 ---
 title: HTMLAnchorElement.Host
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLAnchorElement property. Gets or sets a string representation of the host and port segments of the associated URL
+description: HTMLAnchorElement Host property. Gets or sets a string representation of the host and port segments of the associated URL
 type: docs
 weight: 50
 url: /net/aspose.html/htmlanchorelement/host/

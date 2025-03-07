@@ -1,7 +1,7 @@
 ---
 title: ITreeWalker.NextSibling
 second_title: Aspose.HTML for .NET API Reference
-description: ITreeWalker method. Moves the TreeWalker to the next sibling of the current node and returns the new node. If the current node has no visible next sibling returns null and retains the current node
+description: ITreeWalker NextSibling method. Moves the TreeWalker to the next sibling of the current node and returns the new node. If the current node has no visible next sibling returns null and retains the current node
 type: docs
 weight: 50
 url: /net/aspose.html.dom.traversal/itreewalker/nextsibling/

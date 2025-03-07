@@ -18,7 +18,7 @@ public interface IXPathExpression
 
 | Name | Description |
 | --- | --- |
-| [Evaluate](../../aspose.html.dom.xpath/ixpathexpression/evaluate/)(Node, XPathResultType, object) | Evaluates this XPath expression and returns a result. |
+| [Evaluate](../../aspose.html.dom.xpath/ixpathexpression/evaluate/)(*[Node](../../aspose.html.dom/node/), [XPathResultType](../xpathresulttype/), object*) | Evaluates this XPath expression and returns a result. |
 
 ### See Also
 

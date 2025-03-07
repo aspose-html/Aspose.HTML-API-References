@@ -1,7 +1,7 @@
 ---
 title: Device-2.BeginPage
 second_title: Aspose.HTML for .NET API Reference
-description: Device method. Begins rendering of the new page
+description: Device BeginPage method. Begins rendering of the new page
 type: docs
 weight: 60
 url: /net/aspose.html.rendering/device-2/beginpage/

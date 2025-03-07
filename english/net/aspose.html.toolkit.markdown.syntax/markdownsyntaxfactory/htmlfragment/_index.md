@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxFactory.HTMLFragment
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates HTMLFragmentSyntax
+description: MarkdownSyntaxFactory HTMLFragment method. Creates HTMLFragmentSyntax
 type: docs
 weight: 150
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/htmlfragment/
 ---
-## HTMLFragment(SourceText, TextSpan) {#htmlfragment_1}
+## HTMLFragment(*[SourceText](../../../aspose.html.toolkit.markdown.syntax.text/sourcetext/), [TextSpan](../../../aspose.html.toolkit.markdown.syntax.text/textspan/)*) {#htmlfragment_1}
 
 Creates [`HTMLFragmentSyntax`](../../htmlfragmentsyntax/).
 

@@ -1,7 +1,7 @@
 ---
 title: Url.Host
 second_title: Aspose.HTML for .NET API Reference
-description: Url property. Gets or sets a string representation for the specified URL host
+description: Url Host property. Gets or sets a string representation for the specified URL host
 type: docs
 weight: 30
 url: /net/aspose.html/url/host/

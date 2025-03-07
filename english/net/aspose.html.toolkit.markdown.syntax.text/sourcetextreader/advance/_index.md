@@ -1,7 +1,7 @@
 ---
 title: SourceTextReader.Advance
 second_title: Aspose.HTML for .NET API Reference
-description: SourceTextReader method. Increment the position
+description: SourceTextReader Advance method. Increment the position
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/advance/
@@ -22,7 +22,7 @@ public virtual void Advance()
 
 ---
 
-## Advance(int) {#advance_1}
+## Advance(*int*) {#advance_1}
 
 The increment position on N
 

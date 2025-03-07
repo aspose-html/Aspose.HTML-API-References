@@ -1,7 +1,7 @@
 ---
 title: FileSystemResourceHandler.HandleResource
 second_title: Aspose.HTML for .NET API Reference
-description: FileSystemResourceHandler method. This method is responsible for handling the resource. In it you can save the Resource to the stream or embed it into the parent resource
+description: FileSystemResourceHandler HandleResource method. This method is responsible for handling the resource. In it you can save the Resource to the stream or embed it into the parent resource
 type: docs
 weight: 20
 url: /net/aspose.html.saving.resourcehandlers/filesystemresourcehandler/handleresource/

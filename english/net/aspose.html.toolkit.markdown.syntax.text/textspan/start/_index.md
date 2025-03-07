@@ -1,7 +1,7 @@
 ---
 title: TextSpan.Start
 second_title: Aspose.HTML for .NET API Reference
-description: TextSpan property. Get the Start index
+description: TextSpan Start property. Get the Start index
 type: docs
 weight: 80
 url: /net/aspose.html.toolkit.markdown.syntax.text/textspan/start/

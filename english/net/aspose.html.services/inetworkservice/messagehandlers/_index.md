@@ -1,7 +1,7 @@
 ---
 title: INetworkService.MessageHandlers
 second_title: Aspose.HTML for .NET API Reference
-description: INetworkService property. Gets an list of MessageHandler instances to be invoked as an RequestMessage executes
+description: INetworkService MessageHandlers property. Gets an list of MessageHandler instances to be invoked as an RequestMessage executes
 type: docs
 weight: 10
 url: /net/aspose.html.services/inetworkservice/messagehandlers/

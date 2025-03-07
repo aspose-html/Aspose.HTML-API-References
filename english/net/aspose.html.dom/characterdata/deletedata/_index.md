@@ -1,7 +1,7 @@
 ---
 title: CharacterData.DeleteData
 second_title: Aspose.HTML for .NET API Reference
-description: CharacterData method. Remove a range of 16-bit units from the node
+description: CharacterData DeleteData method. Remove a range of 16-bit units from the node
 type: docs
 weight: 40
 url: /net/aspose.html.dom/characterdata/deletedata/

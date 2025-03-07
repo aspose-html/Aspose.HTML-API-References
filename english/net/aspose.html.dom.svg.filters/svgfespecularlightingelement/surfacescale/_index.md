@@ -1,7 +1,7 @@
 ---
 title: SVGFESpecularLightingElement.SurfaceScale
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFESpecularLightingElement property. Corresponds to attribute surfaceScale on the given feSpecularLighting element
+description: SVGFESpecularLightingElement SurfaceScale property. Corresponds to attribute surfaceScale on the given feSpecularLighting element
 type: docs
 weight: 80
 url: /net/aspose.html.dom.svg.filters/svgfespecularlightingelement/surfacescale/

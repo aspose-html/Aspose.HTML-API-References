@@ -1,7 +1,7 @@
 ---
 title: SVGForeignObjectElement.Y
 second_title: Aspose.HTML for .NET API Reference
-description: SVGForeignObjectElement property. Corresponds to attribute y on the given foreignObject element
+description: SVGForeignObjectElement Y property. Corresponds to attribute y on the given foreignObject element
 type: docs
 weight: 40
 url: /net/aspose.html.dom.svg/svgforeignobjectelement/y/

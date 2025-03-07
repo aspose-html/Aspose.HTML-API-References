@@ -1,7 +1,7 @@
 ---
 title: SVGListBase-1.InsertItemBefore
 second_title: Aspose.HTML for .NET API Reference
-description: SVGListBase method. Inserts a new item into the list at the specified position. The first item is number 0
+description: SVGListBase InsertItemBefore method. Inserts a new item into the list at the specified position. The first item is number 0
 type: docs
 weight: 90
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/

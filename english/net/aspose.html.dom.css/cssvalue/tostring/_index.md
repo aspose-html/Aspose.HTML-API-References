@@ -1,7 +1,7 @@
 ---
 title: CSSValue.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: CSSValue method. Returns a String that represents this instance
+description: CSSValue ToString method. Returns a String that represents this instance
 type: docs
 weight: 60
 url: /net/aspose.html.dom.css/cssvalue/tostring/

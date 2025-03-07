@@ -1,7 +1,7 @@
 ---
 title: FormSubmitter.Method
 second_title: Aspose.HTML for .NET API Reference
-description: FormSubmitter property. HTTP method IETF RFC 2616 used to submit form. See the method attribute definition in HTML 4.01
+description: FormSubmitter Method property. HTTP method IETF RFC 2616 used to submit form. See the method attribute definition in HTML 4.01
 type: docs
 weight: 30
 url: /net/aspose.html.forms/formsubmitter/method/

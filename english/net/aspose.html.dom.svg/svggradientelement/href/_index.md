@@ -1,7 +1,7 @@
 ---
 title: SVGGradientElement.Href
 second_title: Aspose.HTML for .NET API Reference
-description: SVGGradientElement property. Corresponds to attribute xlinkhref on the given element
+description: SVGGradientElement Href property. Corresponds to attribute xlinkhref on the given element
 type: docs
 weight: 30
 url: /net/aspose.html.dom.svg/svggradientelement/href/

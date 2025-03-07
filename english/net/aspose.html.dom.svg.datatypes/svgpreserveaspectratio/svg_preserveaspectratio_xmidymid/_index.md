@@ -1,7 +1,7 @@
 ---
 title: SVGPreserveAspectRatio.SVG_PRESERVEASPECTRATIO_XMIDYMID
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPreserveAspectRatio field. Corresponds to value xMidYMid for attribute preserveAspectRatio
+description: SVGPreserveAspectRatio SVG_PRESERVEASPECTRATIO_XMIDYMID field. Corresponds to value xMidYMid for attribute preserveAspectRatio
 type: docs
 weight: 130
 url: /net/aspose.html.dom.svg.datatypes/svgpreserveaspectratio/svg_preserveaspectratio_xmidymid/

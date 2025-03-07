@@ -1,7 +1,7 @@
 ---
 title: Color.FromLaba
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a new Color with the requested lightness A B alpha values
+description: Color FromLaba method. Returns a new Color with the requested lightness A B alpha values
 type: docs
 weight: 130
 url: /net/aspose.html.drawing/color/fromlaba/

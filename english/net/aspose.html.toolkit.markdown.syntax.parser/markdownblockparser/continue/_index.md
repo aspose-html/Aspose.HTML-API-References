@@ -1,7 +1,7 @@
 ---
 title: MarkdownBlockParser.Continue
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownBlockParser method. Defines the interface for Continue
+description: MarkdownBlockParser Continue method. Defines the interface for Continue
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.parser/markdownblockparser/continue/

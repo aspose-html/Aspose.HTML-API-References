@@ -18,7 +18,7 @@ public class StreamContent : Content
 
 | Name | Description |
 | --- | --- |
-| [StreamContent](streamcontent/)(Stream) | Initializes a new instance of the `StreamContent` class. |
+| [StreamContent](streamcontent/)(*Stream*) | Initializes a new instance of the `StreamContent` class. |
 
 ## Properties
 

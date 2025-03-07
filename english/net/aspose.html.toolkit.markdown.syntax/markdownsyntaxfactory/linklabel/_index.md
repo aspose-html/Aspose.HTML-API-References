@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.LinkLabel
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates link label from a string
+description: MarkdownSyntaxFactory LinkLabel method. Creates link label from a string
 type: docs
 weight: 250
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/linklabel/

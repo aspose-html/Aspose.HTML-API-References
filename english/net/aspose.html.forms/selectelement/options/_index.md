@@ -1,7 +1,7 @@
 ---
 title: SelectElement.Options
 second_title: Aspose.HTML for .NET API Reference
-description: SelectElement property. Returns a list of options
+description: SelectElement Options property. Returns a list of options
 type: docs
 weight: 40
 url: /net/aspose.html.forms/selectelement/options/

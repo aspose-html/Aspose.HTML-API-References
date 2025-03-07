@@ -1,7 +1,7 @@
 ---
 title: ValidationBuilder.UseMiddleLevel
 second_title: Aspose.HTML for .NET API Reference
-description: ValidationBuilder method. Use Middle Level AA of Criterion in Rules
+description: ValidationBuilder UseMiddleLevel method. Use Middle Level AA of Criterion in Rules
 type: docs
 weight: 130
 url: /net/aspose.html.accessibility/validationbuilder/usemiddlelevel/

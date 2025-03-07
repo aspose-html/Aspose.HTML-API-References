@@ -1,7 +1,7 @@
 ---
 title: HTMLImageElement.IsMap
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLImageElement property. Use server-side image map. See the ismap attribute definition in HTML 4.01
+description: HTMLImageElement IsMap property. Use server-side image map. See the ismap attribute definition in HTML 4.01
 type: docs
 weight: 60
 url: /net/aspose.html/htmlimageelement/ismap/

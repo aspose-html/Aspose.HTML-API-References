@@ -1,7 +1,7 @@
 ---
 title: QualifiedName.Name
 second_title: Aspose.HTML for .NET API Reference
-description: QualifiedName property. Gets a string representation qualified name
+description: QualifiedName Name property. Gets a string representation qualified name
 type: docs
 weight: 20
 url: /net/aspose.html.dom/qualifiedname/name/

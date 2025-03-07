@@ -1,7 +1,7 @@
 ---
 title: Document.NodeType
 second_title: Aspose.HTML for .NET API Reference
-description: Document property. A code representing the type of the underlying object
+description: Document NodeType property. A code representing the type of the underlying object
 type: docs
 weight: 190
 url: /net/aspose.html.dom/document/nodetype/

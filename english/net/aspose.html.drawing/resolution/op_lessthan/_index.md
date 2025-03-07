@@ -1,7 +1,7 @@
 ---
 title: Resolution.op_LessThan
 second_title: Aspose.HTML for .NET API Reference
-description: Resolution method. 
+description: Resolution op_LessThan method. 
 type: docs
 weight: 70
 url: /net/aspose.html.drawing/resolution/op_lessthan/

@@ -1,7 +1,7 @@
 ---
 title: SVGMatrix.A
 second_title: Aspose.HTML for .NET API Reference
-description: SVGMatrix property. The A component of the matrix
+description: SVGMatrix A property. The A component of the matrix
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.datatypes/svgmatrix/a/

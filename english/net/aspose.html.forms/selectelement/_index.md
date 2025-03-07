@@ -32,8 +32,8 @@ public class SelectElement : FormElement<HTMLSelectElement>
 
 | Name | Description |
 | --- | --- |
-| [SelectItems](../../aspose.html.forms/selectelement/selectitems/#selectitems)(params int[]) | This methods allows to select multiple options by their indexes. |
-| [SelectItems](../../aspose.html.forms/selectelement/selectitems/#selectitems_1)(params string[]) | This methods allows to select multiple options by their values. |
+| [SelectItems](../../aspose.html.forms/selectelement/selectitems/#selectitems)(*params int[]*) | This methods allows to select multiple options by their indexes. |
+| [SelectItems](../../aspose.html.forms/selectelement/selectitems/#selectitems_1)(*params string[]*) | This methods allows to select multiple options by their values. |
 
 ### See Also
 

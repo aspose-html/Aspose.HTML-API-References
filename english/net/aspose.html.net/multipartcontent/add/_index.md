@@ -1,7 +1,7 @@
 ---
 title: MultipartContent.Add
 second_title: Aspose.HTML for .NET API Reference
-description: MultipartContent method. Add a new content to the MultipartContent
+description: MultipartContent Add method. Add a new content to the MultipartContent
 type: docs
 weight: 20
 url: /net/aspose.html.net/multipartcontent/add/

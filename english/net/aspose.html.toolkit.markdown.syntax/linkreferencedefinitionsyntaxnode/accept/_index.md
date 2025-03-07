@@ -1,7 +1,7 @@
 ---
 title: LinkReferenceDefinitionSyntaxNode.Accept
 second_title: Aspose.HTML for .NET API Reference
-description: LinkReferenceDefinitionSyntaxNode method. Defines the interface for accept visitor
+description: LinkReferenceDefinitionSyntaxNode Accept method. Defines the interface for accept visitor
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/accept/

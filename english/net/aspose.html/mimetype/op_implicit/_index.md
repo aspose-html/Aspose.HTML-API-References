@@ -1,7 +1,7 @@
 ---
 title: MimeType.op_Implicit
 second_title: Aspose.HTML for .NET API Reference
-description: MimeType method. 
+description: MimeType op_Implicit method. 
 type: docs
 weight: 90
 url: /net/aspose.html/mimetype/op_implicit/

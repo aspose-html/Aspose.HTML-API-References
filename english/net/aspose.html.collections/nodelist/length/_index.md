@@ -1,7 +1,7 @@
 ---
 title: NodeList.Length
 second_title: Aspose.HTML for .NET API Reference
-description: NodeList property. The number of nodes in the list
+description: NodeList Length property. The number of nodes in the list
 type: docs
 weight: 20
 url: /net/aspose.html.collections/nodelist/length/

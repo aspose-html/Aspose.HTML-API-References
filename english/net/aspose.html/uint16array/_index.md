@@ -18,11 +18,11 @@ public class Uint16Array : TypedArray<ushort>
 
 | Name | Description |
 | --- | --- |
-| [Uint16Array](uint16array/#constructor)(ArrayBuffer) | Initializes a new instance of the `Uint16Array` class. |
-| [Uint16Array](uint16array/#constructor_3)(int) | Initializes a new instance of the `Uint16Array` class. |
-| [Uint16Array](uint16array/#constructor_4)(ushort[]) | Initializes a new instance of the `Uint16Array` class. |
-| [Uint16Array](uint16array/#constructor_1)(ArrayBuffer, int) | Initializes a new instance of the `Uint16Array` class. |
-| [Uint16Array](uint16array/#constructor_2)(ArrayBuffer, int, int) | Initializes a new instance of the `Uint16Array` class. |
+| [Uint16Array](uint16array/#constructor)(*[ArrayBuffer](../arraybuffer/)*) | Initializes a new instance of the `Uint16Array` class. |
+| [Uint16Array](uint16array/#constructor_3)(*int*) | Initializes a new instance of the `Uint16Array` class. |
+| [Uint16Array](uint16array/#constructor_4)(*ushort[]*) | Initializes a new instance of the `Uint16Array` class. |
+| [Uint16Array](uint16array/#constructor_1)(*[ArrayBuffer](../arraybuffer/), int*) | Initializes a new instance of the `Uint16Array` class. |
+| [Uint16Array](uint16array/#constructor_2)(*[ArrayBuffer](../arraybuffer/), int, int*) | Initializes a new instance of the `Uint16Array` class. |
 
 ## Properties
 

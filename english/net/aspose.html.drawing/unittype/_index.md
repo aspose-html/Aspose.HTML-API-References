@@ -18,8 +18,8 @@ public sealed class UnitType : IEquatable<UnitType>
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.html.drawing/unittype/equals/#equals_1)(object) | Determines whether the specified Object, is equal to this instance. |
-| [Equals](../../aspose.html.drawing/unittype/equals/#equals)(UnitType) | Determines whether the specified `UnitType`, is equal to this instance. |
+| override [Equals](../../aspose.html.drawing/unittype/equals/#equals_1)(*object*) | Determines whether the specified Object, is equal to this instance. |
+| [Equals](../../aspose.html.drawing/unittype/equals/#equals)(*UnitType*) | Determines whether the specified `UnitType`, is equal to this instance. |
 | override [GetHashCode](../../aspose.html.drawing/unittype/gethashcode/)() | Returns a hash code for this instance. |
 | override [ToString](../../aspose.html.drawing/unittype/tostring/)() | Returns a String that represents this instance. |
 | [operator ==](../../aspose.html.drawing/unittype/op_equality/) |  |

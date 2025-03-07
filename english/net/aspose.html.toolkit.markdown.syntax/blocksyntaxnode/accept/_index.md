@@ -1,7 +1,7 @@
 ---
 title: BlockSyntaxNode.Accept
 second_title: Aspose.HTML for .NET API Reference
-description: BlockSyntaxNode method. Defines the interface for accept visitor
+description: BlockSyntaxNode Accept method. Defines the interface for accept visitor
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/blocksyntaxnode/accept/

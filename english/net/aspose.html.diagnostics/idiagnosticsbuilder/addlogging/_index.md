@@ -1,7 +1,7 @@
 ---
 title: IDiagnosticsBuilder.AddLogging
 second_title: Aspose.HTML for .NET API Reference
-description: IDiagnosticsBuilder method. Enables logs collection
+description: IDiagnosticsBuilder AddLogging method. Enables logs collection
 type: docs
 weight: 10
 url: /net/aspose.html.diagnostics/idiagnosticsbuilder/addlogging/

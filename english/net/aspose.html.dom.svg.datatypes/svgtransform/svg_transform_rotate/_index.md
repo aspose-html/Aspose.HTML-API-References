@@ -1,7 +1,7 @@
 ---
 title: SVGTransform.SVG_TRANSFORM_ROTATE
 second_title: Aspose.HTML for .NET API Reference
-description: SVGTransform field. A rotate transformation
+description: SVGTransform SVG_TRANSFORM_ROTATE field. A rotate transformation
 type: docs
 weight: 120
 url: /net/aspose.html.dom.svg.datatypes/svgtransform/svg_transform_rotate/

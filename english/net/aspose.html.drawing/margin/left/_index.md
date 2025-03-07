@@ -1,7 +1,7 @@
 ---
 title: Margin.Left
 second_title: Aspose.HTML for .NET API Reference
-description: Margin property. Gets or sets the left
+description: Margin Left property. Gets or sets the left
 type: docs
 weight: 30
 url: /net/aspose.html.drawing/margin/left/

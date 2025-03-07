@@ -1,7 +1,7 @@
 ---
 title: CSSValueList.CSSText
 second_title: Aspose.HTML for .NET API Reference
-description: CSSValueList property. The cssText property of the CSSValue interface represents the current computed CSS property value
+description: CSSValueList CSSText property. The cssText property of the CSSValue interface represents the current computed CSS property value
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/cssvaluelist/csstext/

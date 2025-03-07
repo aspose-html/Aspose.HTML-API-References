@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxNode.FirstChild
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxNode property. Get the first child
+description: MarkdownSyntaxNode FirstChild property. Get the first child
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/firstchild/

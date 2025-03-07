@@ -1,7 +1,7 @@
 ---
 title: GraphicContext.CharacterSpacing
 second_title: Aspose.HTML for .NET API Reference
-description: GraphicContext property. Sets or gets character spacing
+description: GraphicContext CharacterSpacing property. Sets or gets character spacing
 type: docs
 weight: 20
 url: /net/aspose.html.rendering/graphiccontext/characterspacing/

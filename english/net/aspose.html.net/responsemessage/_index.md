@@ -18,7 +18,7 @@ public class ResponseMessage : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [ResponseMessage](responsemessage/)(HttpStatusCode) | Initializes a new instance of the `ResponseMessage` class. |
+| [ResponseMessage](responsemessage/)(*HttpStatusCode*) | Initializes a new instance of the `ResponseMessage` class. |
 
 ## Properties
 

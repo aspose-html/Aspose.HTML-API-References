@@ -1,7 +1,7 @@
 ---
 title: Configuration.Create
 second_title: Aspose.HTML for .NET API Reference
-description: Configuration method. Create and configure the instance of Configuration object
+description: Configuration Create method. Create and configure the instance of Configuration object
 type: docs
 weight: 20
 url: /net/aspose.html/configuration/create/
@@ -26,7 +26,7 @@ The instance of Configuration object.
 
 ---
 
-## Create(Action&lt;IConfigurationBuilder&gt;) {#create_1}
+## Create(*Action&amp;lt;IConfigurationBuilder&amp;gt;*) {#create_1}
 
 Create and configure the instance of Configuration object.
 

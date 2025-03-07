@@ -1,7 +1,7 @@
 ---
 title: SVGFEConvolveMatrixElement.Result
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEConvolveMatrixElement property. Corresponds to attribute result on the given filter element
+description: SVGFEConvolveMatrixElement Result property. Corresponds to attribute result on the given filter element
 type: docs
 weight: 120
 url: /net/aspose.html.dom.svg.filters/svgfeconvolvematrixelement/result/

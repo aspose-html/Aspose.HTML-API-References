@@ -1,7 +1,7 @@
 ---
 title: IMatrix.Skew
 second_title: Aspose.HTML for .NET API Reference
-description: IMatrix method. Applies a skew transformation to the matrix
+description: IMatrix Skew method. Applies a skew transformation to the matrix
 type: docs
 weight: 170
 url: /net/aspose.html.drawing/imatrix/skew/

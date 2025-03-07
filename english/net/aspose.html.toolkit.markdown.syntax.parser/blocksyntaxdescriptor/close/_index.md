@@ -1,7 +1,7 @@
 ---
 title: BlockSyntaxDescriptor.Close
 second_title: Aspose.HTML for .NET API Reference
-description: BlockSyntaxDescriptor method. Defines the interface for Close
+description: BlockSyntaxDescriptor Close method. Defines the interface for Close
 type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/close/

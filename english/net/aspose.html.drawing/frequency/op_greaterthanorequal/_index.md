@@ -1,7 +1,7 @@
 ---
 title: Frequency.op_GreaterThanOrEqual
 second_title: Aspose.HTML for .NET API Reference
-description: Frequency method. 
+description: Frequency op_GreaterThanOrEqual method. 
 type: docs
 weight: 40
 url: /net/aspose.html.drawing/frequency/op_greaterthanorequal/

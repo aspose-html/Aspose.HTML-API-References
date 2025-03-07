@@ -1,7 +1,7 @@
 ---
 title: WhitespaceSyntaxNode.Accept
 second_title: Aspose.HTML for .NET API Reference
-description: WhitespaceSyntaxNode method. Defines the interface for visiting nodes of the syntax
+description: WhitespaceSyntaxNode Accept method. Defines the interface for visiting nodes of the syntax
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/whitespacesyntaxnode/accept/

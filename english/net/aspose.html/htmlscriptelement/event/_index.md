@@ -1,7 +1,7 @@
 ---
 title: HTMLScriptElement.Event
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLScriptElement property. Reserved for future use
+description: HTMLScriptElement Event property. Reserved for future use
 type: docs
 weight: 30
 url: /net/aspose.html/htmlscriptelement/event/

@@ -1,7 +1,7 @@
 ---
 title: InputElement.AddFile
 second_title: Aspose.HTML for .NET API Reference
-description: InputElement method. This method adds files to the Files collection which will be sent during the next web request
+description: InputElement AddFile method. This method adds files to the Files collection which will be sent during the next web request
 type: docs
 weight: 60
 url: /net/aspose.html.forms/inputelement/addfile/

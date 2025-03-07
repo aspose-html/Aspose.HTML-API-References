@@ -1,7 +1,7 @@
 ---
 title: FormElement.Value
 second_title: Aspose.HTML for .NET API Reference
-description: FormElement property. The value of field
+description: FormElement Value property. The value of field
 type: docs
 weight: 40
 url: /net/aspose.html.forms/formelement/value/

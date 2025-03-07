@@ -1,7 +1,7 @@
 ---
 title: HTMLIsIndexElement.Form
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLIsIndexElement property. Returns the
+description: HTMLIsIndexElement Form property. Returns the
 type: docs
 weight: 10
 url: /net/aspose.html/htmlisindexelement/form/

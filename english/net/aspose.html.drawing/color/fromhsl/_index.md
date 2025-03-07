@@ -1,7 +1,7 @@
 ---
 title: Color.FromHsl
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Returns a new Color with the requested hue saturation saturation values
+description: Color FromHsl method. Returns a new Color with the requested hue saturation saturation values
 type: docs
 weight: 50
 url: /net/aspose.html.drawing/color/fromhsl/

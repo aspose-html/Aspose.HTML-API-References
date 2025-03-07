@@ -1,7 +1,7 @@
 ---
 title: DOMException.TIMEOUT_ERR
 second_title: Aspose.HTML for .NET API Reference
-description: DOMException field. The operation timed out
+description: DOMException TIMEOUT_ERR field. The operation timed out
 type: docs
 weight: 260
 url: /net/aspose.html.dom/domexception/timeout_err/

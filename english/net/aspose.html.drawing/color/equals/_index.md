@@ -1,7 +1,7 @@
 ---
 title: Color.Equals
 second_title: Aspose.HTML for .NET API Reference
-description: Color method. Determines whether the specified Color is equal to this instance
+description: Color Equals method. Determines whether the specified Color is equal to this instance
 type: docs
 weight: 300
 url: /net/aspose.html.drawing/color/equals/

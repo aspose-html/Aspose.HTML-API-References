@@ -1,7 +1,7 @@
 ---
 title: ResourceHandler.HandleResource
 second_title: Aspose.HTML for .NET API Reference
-description: ResourceHandler method. This method is responsible for handling the resource. In it you can save the Resource to the stream or embed it into the parent resource
+description: ResourceHandler HandleResource method. This method is responsible for handling the resource. In it you can save the Resource to the stream or embed it into the parent resource
 type: docs
 weight: 10
 url: /net/aspose.html.saving.resourcehandlers/resourcehandler/handleresource/

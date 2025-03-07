@@ -1,7 +1,7 @@
 ---
 title: SourceTextReader.Peek
 second_title: Aspose.HTML for .NET API Reference
-description: SourceTextReader method. Get the character on position or Character.Null
+description: SourceTextReader Peek method. Get the character on position or Character.Null
 type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax.text/sourcetextreader/peek/
@@ -26,7 +26,7 @@ the character on position or Character.Null
 
 ---
 
-## Peek(int) {#peek_1}
+## Peek(*int*) {#peek_1}
 
 Get the char.
 

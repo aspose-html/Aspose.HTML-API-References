@@ -1,7 +1,7 @@
 ---
 title: ResponseMessage.IsSuccess
 second_title: Aspose.HTML for .NET API Reference
-description: ResponseMessage property. Gets a value indicating whether this message is success
+description: ResponseMessage IsSuccess property. Gets a value indicating whether this message is success
 type: docs
 weight: 50
 url: /net/aspose.html.net/responsemessage/issuccess/

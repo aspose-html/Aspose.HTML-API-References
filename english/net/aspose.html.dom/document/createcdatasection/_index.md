@@ -1,7 +1,7 @@
 ---
 title: Document.CreateCDATASection
 second_title: Aspose.HTML for .NET API Reference
-description: Document method. Creates a CDATASection node whose value is the specified string
+description: Document CreateCDATASection method. Creates a CDATASection node whose value is the specified string
 type: docs
 weight: 810
 url: /net/aspose.html.dom/document/createcdatasection/

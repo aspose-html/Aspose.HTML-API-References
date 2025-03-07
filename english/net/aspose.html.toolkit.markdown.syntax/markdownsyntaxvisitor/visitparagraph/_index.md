@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitParagraph
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit paragraph
+description: MarkdownSyntaxVisitor VisitParagraph method. Defines the interface for visit paragraph
 type: docs
 weight: 200
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitparagraph/

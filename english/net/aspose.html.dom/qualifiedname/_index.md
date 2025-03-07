@@ -27,8 +27,8 @@ public class QualifiedName : IEquatable<QualifiedName>
 
 | Name | Description |
 | --- | --- |
-| override [Equals](../../aspose.html.dom/qualifiedname/equals/#equals_1)(object) | Determines whether the specified object is equal to the current object. |
-| [Equals](../../aspose.html.dom/qualifiedname/equals/#equals)(QualifiedName) | Determines whether the specified QualifiedName is equal to the current object. |
+| override [Equals](../../aspose.html.dom/qualifiedname/equals/#equals_1)(*object*) | Determines whether the specified object is equal to the current object. |
+| [Equals](../../aspose.html.dom/qualifiedname/equals/#equals)(*QualifiedName*) | Determines whether the specified QualifiedName is equal to the current object. |
 | override [GetHashCode](../../aspose.html.dom/qualifiedname/gethashcode/)() | Provides a hash value for the current object. |
 | override [ToString](../../aspose.html.dom/qualifiedname/tostring/)() | Returns a string that represents the current object. |
 

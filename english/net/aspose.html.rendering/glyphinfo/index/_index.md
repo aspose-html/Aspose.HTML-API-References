@@ -1,7 +1,7 @@
 ---
 title: GlyphInfo.Index
 second_title: Aspose.HTML for .NET API Reference
-description: GlyphInfo property. Gets the index of this glyph in the font
+description: GlyphInfo Index property. Gets the index of this glyph in the font
 type: docs
 weight: 10
 url: /net/aspose.html.rendering/glyphinfo/index/

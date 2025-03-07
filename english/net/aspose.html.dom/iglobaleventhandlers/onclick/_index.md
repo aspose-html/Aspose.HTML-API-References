@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnClick
 second_title: Aspose.HTML for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnClick event
+description: IGlobalEventHandlers OnClick event. Gets or sets event handler for OnClick event
 type: docs
 weight: 70
 url: /net/aspose.html.dom/iglobaleventhandlers/onclick/

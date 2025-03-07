@@ -1,7 +1,7 @@
 ---
 title: TextSyntaxNode.Source
 second_title: Aspose.HTML for .NET API Reference
-description: TextSyntaxNode property. Return the source text
+description: TextSyntaxNode Source property. Return the source text
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/textsyntaxnode/source/

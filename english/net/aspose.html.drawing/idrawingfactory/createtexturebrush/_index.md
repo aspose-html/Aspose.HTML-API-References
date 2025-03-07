@@ -1,7 +1,7 @@
 ---
 title: IDrawingFactory.CreateTextureBrush
 second_title: Aspose.HTML for .NET API Reference
-description: IDrawingFactory method. Creates a texture brush with the specified parameters
+description: IDrawingFactory CreateTextureBrush method. Creates a texture brush with the specified parameters
 type: docs
 weight: 50
 url: /net/aspose.html.drawing/idrawingfactory/createtexturebrush/

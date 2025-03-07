@@ -1,7 +1,7 @@
 ---
 title: IWindow.Document
 second_title: Aspose.HTML for .NET API Reference
-description: IWindow property. The document attribute must return the Window objects newest Document object
+description: IWindow Document property. The document attribute must return the Window objects newest Document object
 type: docs
 weight: 10
 url: /net/aspose.html.window/iwindow/document/

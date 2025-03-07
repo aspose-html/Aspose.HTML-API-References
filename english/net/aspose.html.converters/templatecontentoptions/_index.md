@@ -18,7 +18,7 @@ public sealed class TemplateContentOptions
 
 | Name | Description |
 | --- | --- |
-| [TemplateContentOptions](templatecontentoptions/)(string, TemplateContent) | Inline (String) based initialization |
+| [TemplateContentOptions](templatecontentoptions/)(*string, [TemplateContent](../templatecontent/)*) | Inline (String) based initialization |
 
 ## Properties
 

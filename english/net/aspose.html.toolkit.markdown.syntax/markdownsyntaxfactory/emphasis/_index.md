@@ -1,12 +1,12 @@
 ---
 title: MarkdownSyntaxFactory.Emphasis
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Create the EmphasisSyntax
+description: MarkdownSyntaxFactory Emphasis method. Create the EmphasisSyntax
 type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/emphasis/
 ---
-## Emphasis(Emphasis) {#emphasis}
+## Emphasis(*[Emphasis](../../emphasis/)*) {#emphasis}
 
 Create the EmphasisSyntax.
 
@@ -32,7 +32,7 @@ The EmphasisSyntax.
 
 ---
 
-## Emphasis(MarkdownSyntaxToken, MarkdownSyntaxToken) {#emphasis_1}
+## Emphasis(*[MarkdownSyntaxToken](../../markdownsyntaxtoken/), [MarkdownSyntaxToken](../../markdownsyntaxtoken/)*) {#emphasis_1}
 
 Creates [`EmphasisSyntaxNode`](../../emphasissyntaxnode/).
 

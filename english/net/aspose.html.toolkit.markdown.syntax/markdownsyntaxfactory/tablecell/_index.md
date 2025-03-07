@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.TableCell
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates TableCellSyntaxNode
+description: MarkdownSyntaxFactory TableCell method. Creates TableCellSyntaxNode
 type: docs
 weight: 390
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/tablecell/

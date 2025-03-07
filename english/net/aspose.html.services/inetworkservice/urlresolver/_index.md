@@ -1,7 +1,7 @@
 ---
 title: INetworkService.UrlResolver
 second_title: Aspose.HTML for .NET API Reference
-description: INetworkService property. Gets or sets the URL resolver
+description: INetworkService UrlResolver property. Gets or sets the URL resolver
 type: docs
 weight: 20
 url: /net/aspose.html.services/inetworkservice/urlresolver/

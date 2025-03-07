@@ -1,7 +1,7 @@
 ---
 title: GlyphInfo.StringRepresentation
 second_title: Aspose.HTML for .NET API Reference
-description: GlyphInfo property. Gets the string representation of this glyph
+description: GlyphInfo StringRepresentation property. Gets the string representation of this glyph
 type: docs
 weight: 30
 url: /net/aspose.html.rendering/glyphinfo/stringrepresentation/

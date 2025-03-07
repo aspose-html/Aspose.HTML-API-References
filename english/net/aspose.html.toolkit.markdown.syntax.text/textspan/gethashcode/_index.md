@@ -1,7 +1,7 @@
 ---
 title: TextSpan.GetHashCode
 second_title: Aspose.HTML for .NET API Reference
-description: TextSpan method. Get the HashCode
+description: TextSpan GetHashCode method. Get the HashCode
 type: docs
 weight: 110
 url: /net/aspose.html.toolkit.markdown.syntax.text/textspan/gethashcode/

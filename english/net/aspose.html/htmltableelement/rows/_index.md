@@ -1,7 +1,7 @@
 ---
 title: HTMLTableElement.Rows
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLTableElement property. Returns the tables TFOOT or null if none exists
+description: HTMLTableElement Rows property. Returns the tables TFOOT or null if none exists
 type: docs
 weight: 80
 url: /net/aspose.html/htmltableelement/rows/

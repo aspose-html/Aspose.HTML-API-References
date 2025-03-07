@@ -1,7 +1,7 @@
 ---
 title: Document.CreateDocumentType
 second_title: Aspose.HTML for .NET API Reference
-description: Document method. The method returns a DocumentType object which can either be used with DOMImplementation.createDocument upon document creation or can be put into the document via methods like Node.insertBefore or Node.replaceChild
+description: Document CreateDocumentType method. The method returns a DocumentType object which can either be used with DOMImplementation.createDocument upon document creation or can be put into the document via methods like Node.insertBefore or Node.replaceChild
 type: docs
 weight: 840
 url: /net/aspose.html.dom/document/createdocumenttype/

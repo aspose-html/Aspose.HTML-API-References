@@ -1,7 +1,7 @@
 ---
 title: MutationObserverInit.IsReadOnly
 second_title: Aspose.HTML for .NET API Reference
-description: MutationObserverInit property. Determines whether the MutationObserverInit collection is mutable
+description: MutationObserverInit IsReadOnly property. Determines whether the MutationObserverInit collection is mutable
 type: docs
 weight: 90
 url: /net/aspose.html.dom.mutations/mutationobserverinit/isreadonly/

@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.rendering.image/imagedevice/imagedevice/
 ---
-## ImageDevice(ICreateStreamProvider) {#constructor}
+## ImageDevice(*[ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#constructor}
 
 Initializes a new instance of the [`ImageDevice`](../) class.
 
@@ -27,7 +27,7 @@ public ImageDevice(ICreateStreamProvider streamProvider)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, ICreateStreamProvider) {#constructor_1}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#constructor_1}
 
 Initializes a new instance of the [`ImageDevice`](../) class by rendering options and stream provider.
 
@@ -50,7 +50,7 @@ public ImageDevice(ImageRenderingOptions options, ICreateStreamProvider streamPr
 
 ---
 
-## ImageDevice(string) {#constructor_5}
+## ImageDevice(*string*) {#constructor_5}
 
 Initializes a new instance of the [`ImageDevice`](../) class.
 
@@ -70,7 +70,7 @@ public ImageDevice(string file)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, string) {#constructor_3}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), string*) {#constructor_3}
 
 Initializes a new instance of the [`ImageDevice`](../) class by rendering options and output file name.
 
@@ -92,7 +92,7 @@ public ImageDevice(ImageRenderingOptions options, string file)
 
 ---
 
-## ImageDevice(Stream) {#constructor_4}
+## ImageDevice(*Stream*) {#constructor_4}
 
 Initializes a new instance of the [`ImageDevice`](../) class.
 
@@ -112,7 +112,7 @@ public ImageDevice(Stream stream)
 
 ---
 
-## ImageDevice(ImageRenderingOptions, Stream) {#constructor_2}
+## ImageDevice(*[ImageRenderingOptions](../../imagerenderingoptions/), Stream*) {#constructor_2}
 
 Initializes a new instance of the [`ImageDevice`](../) class by rendering options and output stream.
 

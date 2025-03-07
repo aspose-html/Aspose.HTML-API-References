@@ -1,7 +1,7 @@
 ---
 title: SVGFECompositeElement.K3
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFECompositeElement property. Corresponds to attribute k3 on the given feComposite element
+description: SVGFECompositeElement K3 property. Corresponds to attribute k3 on the given feComposite element
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg.filters/svgfecompositeelement/k3/

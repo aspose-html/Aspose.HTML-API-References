@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.saving.resourcehandlers/filesystemresourcehandler/filesystemresourcehandler/
 ---
-## FileSystemResourceHandler(Url) {#constructor}
+## FileSystemResourceHandler(*[Url](../../../aspose.html/url/)*) {#constructor}
 
 Initializes a new instance of the [`FileSystemResourceHandler`](../) class.
 
@@ -27,7 +27,7 @@ public FileSystemResourceHandler(Url outputUrl)
 
 ---
 
-## FileSystemResourceHandler(string) {#constructor_1}
+## FileSystemResourceHandler(*string*) {#constructor_1}
 
 Initializes a new instance of the [`FileSystemResourceHandler`](../) class.
 

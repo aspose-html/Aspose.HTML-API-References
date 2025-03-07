@@ -1,12 +1,12 @@
 ---
 title: SVGDocument.Save
 second_title: Aspose.HTML for .NET API Reference
-description: SVGDocument method. Saves the document to local file specified by url. All resources used in this document will be saved in to adjacent folder whose name will be constructed as output_file_name  _files
+description: SVGDocument Save method. Saves the document to local file specified by url. All resources used in this document will be saved in to adjacent folder whose name will be constructed as output_file_name  _files
 type: docs
 weight: 90
 url: /net/aspose.html.dom.svg/svgdocument/save/
 ---
-## Save(Url) {#save_3}
+## Save(*[Url](../../../aspose.html/url/)*) {#save_3}
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -33,7 +33,7 @@ public void Save(Url url)
 
 ---
 
-## Save(string) {#save_6}
+## Save(*string*) {#save_6}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -59,7 +59,7 @@ public void Save(string path)
 
 ---
 
-## Save(ResourceHandler) {#save}
+## Save(*[ResourceHandler](../../../aspose.html.saving.resourcehandlers/resourcehandler/)*) {#save}
 
 Saves the document content and resources using the [`ResourceHandler`](../../../aspose.html.saving.resourcehandlers/resourcehandler/).
 
@@ -80,7 +80,7 @@ public void Save(ResourceHandler resourceHandler)
 
 ---
 
-## Save(string, SVGSaveFormat) {#save_7}
+## Save(*string, [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat/)*) {#save_7}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -108,7 +108,7 @@ public void Save(string path, SVGSaveFormat saveFormat)
 
 ---
 
-## Save(ResourceHandler, SVGSaveFormat) {#save_1}
+## Save(*[ResourceHandler](../../../aspose.html.saving.resourcehandlers/resourcehandler/), [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat/)*) {#save_1}
 
 Saves the document content and resources using the [`ResourceHandler`](../../../aspose.html.saving.resourcehandlers/resourcehandler/).
 
@@ -131,7 +131,7 @@ public void Save(ResourceHandler resourceHandler, SVGSaveFormat saveFormat)
 
 ---
 
-## Save(string, SVGSaveOptions) {#save_8}
+## Save(*string, [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions/)*) {#save_8}
 
 Saves the document to local file specified by `path`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -159,7 +159,7 @@ public void Save(string path, SVGSaveOptions saveOptions)
 
 ---
 
-## Save(ResourceHandler, SVGSaveOptions) {#save_2}
+## Save(*[ResourceHandler](../../../aspose.html.saving.resourcehandlers/resourcehandler/), [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions/)*) {#save_2}
 
 Saves the document content and resources using the [`ResourceHandler`](../../../aspose.html.saving.resourcehandlers/resourcehandler/).
 
@@ -182,7 +182,7 @@ public void Save(ResourceHandler resourceHandler, SVGSaveOptions saveOptions)
 
 ---
 
-## Save(Url, SVGSaveFormat) {#save_4}
+## Save(*[Url](../../../aspose.html/url/), [SVGSaveFormat](../../../aspose.html.dom.svg.saving/svgsaveformat/)*) {#save_4}
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 
@@ -211,7 +211,7 @@ public void Save(Url url, SVGSaveFormat saveFormat)
 
 ---
 
-## Save(Url, SVGSaveOptions) {#save_5}
+## Save(*[Url](../../../aspose.html/url/), [SVGSaveOptions](../../../aspose.html.dom.svg.saving/svgsaveoptions/)*) {#save_5}
 
 Saves the document to local file specified by `url`. All resources used in this document will be saved in to adjacent folder, whose name will be constructed as: output_file_name + "_files".
 

@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.forms/formsubmitter/formsubmitter/
 ---
-## FormSubmitter(HTMLFormElement) {#constructor_3}
+## FormSubmitter(*[HTMLFormElement](../../../aspose.html/htmlformelement/)*) {#constructor_3}
 
 Initializes a new instance of the [`FormSubmitter`](../) class based on [`HTMLFormElement`](../../../aspose.html/htmlformelement/).
 
@@ -27,7 +27,7 @@ public FormSubmitter(HTMLFormElement form)
 
 ---
 
-## FormSubmitter(HTMLDocument, int) {#constructor_1}
+## FormSubmitter(*[HTMLDocument](../../../aspose.html/htmldocument/), int*) {#constructor_1}
 
 Initializes a new instance of the [`FormSubmitter`](../) class based on [`HTMLFormElement`](../../../aspose.html/htmlformelement/) selected by index from [`HTMLDocument`](../../../aspose.html/htmldocument/).
 
@@ -49,7 +49,7 @@ public FormSubmitter(HTMLDocument document, int index)
 
 ---
 
-## FormSubmitter(HTMLDocument, string) {#constructor_2}
+## FormSubmitter(*[HTMLDocument](../../../aspose.html/htmldocument/), string*) {#constructor_2}
 
 Initializes a new instance of the [`FormSubmitter`](../) class based on [`HTMLFormElement`](../../../aspose.html/htmlformelement/) selected by identifier from [`HTMLDocument`](../../../aspose.html/htmldocument/).
 
@@ -71,7 +71,7 @@ public FormSubmitter(HTMLDocument document, string id)
 
 ---
 
-## FormSubmitter(FormEditor) {#constructor}
+## FormSubmitter(*[FormEditor](../../formeditor/)*) {#constructor}
 
 Initializes a new instance of the [`FormSubmitter`](../) class.
 

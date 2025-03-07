@@ -1,7 +1,7 @@
 ---
 title: SVGSVGElement.AnimationsPaused
 second_title: Aspose.HTML for .NET API Reference
-description: SVGSVGElement method. Returns true if this SVG document fragment is in a paused state
+description: SVGSVGElement AnimationsPaused method. Returns true if this SVG document fragment is in a paused state
 type: docs
 weight: 100
 url: /net/aspose.html.dom.svg/svgsvgelement/animationspaused/

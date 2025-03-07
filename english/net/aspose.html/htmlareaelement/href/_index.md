@@ -1,7 +1,7 @@
 ---
 title: HTMLAreaElement.Href
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLAreaElement property. The URI IETF RFC 2396 of the linked resource. See the href attribute definition in HTML 4.01
+description: HTMLAreaElement Href property. The URI IETF RFC 2396 of the linked resource. See the href attribute definition in HTML 4.01
 type: docs
 weight: 40
 url: /net/aspose.html/htmlareaelement/href/

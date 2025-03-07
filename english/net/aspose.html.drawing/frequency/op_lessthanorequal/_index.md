@@ -1,7 +1,7 @@
 ---
 title: Frequency.op_LessThanOrEqual
 second_title: Aspose.HTML for .NET API Reference
-description: Frequency method. 
+description: Frequency op_LessThanOrEqual method. 
 type: docs
 weight: 70
 url: /net/aspose.html.drawing/frequency/op_lessthanorequal/

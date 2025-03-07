@@ -1,7 +1,7 @@
 ---
 title: IGlobalEventHandlers.OnPlay
 second_title: Aspose.HTML for .NET API Reference
-description: IGlobalEventHandlers event. Gets or sets event handler for OnPlay event
+description: IGlobalEventHandlers OnPlay event. Gets or sets event handler for OnPlay event
 type: docs
 weight: 330
 url: /net/aspose.html.dom/iglobaleventhandlers/onplay/

@@ -22,7 +22,7 @@ public CSSValueList()
 
 ---
 
-## CSSValueList(IEnumerable&lt;CSSValue&gt;) {#constructor_2}
+## CSSValueList(*IEnumerable&amp;lt;CSSValue&amp;gt;*) {#constructor_2}
 
 Initializes a new instance of the [`CSSValueList`](../) class.
 
@@ -43,7 +43,7 @@ public CSSValueList(IEnumerable<CSSValue> values)
 
 ---
 
-## CSSValueList(params CSSValue[]) {#constructor_1}
+## CSSValueList(*params CSSValue[]*) {#constructor_1}
 
 Initializes a new instance of the [`CSSValueList`](../) class.
 

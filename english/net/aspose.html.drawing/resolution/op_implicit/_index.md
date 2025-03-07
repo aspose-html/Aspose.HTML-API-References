@@ -1,7 +1,7 @@
 ---
 title: Resolution.op_Implicit
 second_title: Aspose.HTML for .NET API Reference
-description: Resolution method. 
+description: Resolution op_Implicit method. 
 type: docs
 weight: 50
 url: /net/aspose.html.drawing/resolution/op_implicit/

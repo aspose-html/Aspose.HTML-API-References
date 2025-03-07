@@ -1,7 +1,7 @@
 ---
 title: Element.LastElementChild
 second_title: Aspose.HTML for .NET API Reference
-description: Element property. Returns the last child element node of this element. null if this element has no child elements
+description: Element LastElementChild property. Returns the last child element node of this element. null if this element has no child elements
 type: docs
 weight: 100
 url: /net/aspose.html.dom/element/lastelementchild/

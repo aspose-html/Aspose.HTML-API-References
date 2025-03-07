@@ -1,7 +1,7 @@
 ---
 title: SVGPathSegArcAbs.Angle
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPathSegArcAbs property. The rotation angle in degrees for the ellipses x-axis relative to the x-axis of the user coordinate system
+description: SVGPathSegArcAbs Angle property. The rotation angle in degrees for the ellipses x-axis relative to the x-axis of the user coordinate system
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.paths/svgpathsegarcabs/angle/

@@ -1,7 +1,7 @@
 ---
 title: Resolution.op_Equality
 second_title: Aspose.HTML for .NET API Reference
-description: Resolution method. 
+description: Resolution op_Equality method. 
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/resolution/op_equality/

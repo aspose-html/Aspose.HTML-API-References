@@ -32,7 +32,7 @@ public interface ICanvasDrawingStyles
 | Name | Description |
 | --- | --- |
 | [GetLineDash](../../aspose.html.dom.canvas/icanvasdrawingstyles/getlinedash/)() | Returns the current line dash pattern array containing an even number of non-negative numbers. |
-| [SetLineDash](../../aspose.html.dom.canvas/icanvasdrawingstyles/setlinedash/)(double[]) | Sets the current line dash pattern. |
+| [SetLineDash](../../aspose.html.dom.canvas/icanvasdrawingstyles/setlinedash/)(*double[]*) | Sets the current line dash pattern. |
 
 ### See Also
 

@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxFactory.UnorderedList
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxFactory method. Creates UnorderedListSyntaxNode
+description: MarkdownSyntaxFactory UnorderedList method. Creates UnorderedListSyntaxNode
 type: docs
 weight: 480
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxfactory/unorderedlist/

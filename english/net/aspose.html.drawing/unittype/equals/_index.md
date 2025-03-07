@@ -1,12 +1,12 @@
 ---
 title: UnitType.Equals
 second_title: Aspose.HTML for .NET API Reference
-description: UnitType method. Determines whether the specified Object is equal to this instance
+description: UnitType Equals method. Determines whether the specified Object is equal to this instance
 type: docs
 weight: 310
 url: /net/aspose.html.drawing/unittype/equals/
 ---
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
 Determines whether the specified Object, is equal to this instance.
 
@@ -30,7 +30,7 @@ public override bool Equals(object obj)
 
 ---
 
-## Equals(UnitType) {#equals}
+## Equals(*[UnitType](../)*) {#equals}
 
 Determines whether the specified [`UnitType`](../), is equal to this instance.
 

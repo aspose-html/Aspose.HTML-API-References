@@ -1,7 +1,7 @@
 ---
 title: SVGPointList.ToString
 second_title: Aspose.HTML for .NET API Reference
-description: SVGPointList method. Returns a String that represents this instance
+description: SVGPointList ToString method. Returns a String that represents this instance
 type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.datatypes/svgpointlist/tostring/

@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.converters/templatedata/templatedata/
 ---
-## TemplateData(TemplateContentOptions) {#constructor}
+## TemplateData(*[TemplateContentOptions](../../templatecontentoptions/)*) {#constructor}
 
 Inline content based on initialization (XML, JSON).
 
@@ -27,7 +27,7 @@ public TemplateData(TemplateContentOptions contentOptions)
 
 ---
 
-## TemplateData(string) {#constructor_1}
+## TemplateData(*string*) {#constructor_1}
 
 Absolute path to data file (XML, JSON) based on initialization.
 

@@ -1,7 +1,7 @@
 ---
 title: SVGFEComponentTransferElement.Y
 second_title: Aspose.HTML for .NET API Reference
-description: SVGFEComponentTransferElement property. Corresponds to attribute y on the given filter element
+description: SVGFEComponentTransferElement Y property. Corresponds to attribute y on the given filter element
 type: docs
 weight: 60
 url: /net/aspose.html.dom.svg.filters/svgfecomponenttransferelement/y/

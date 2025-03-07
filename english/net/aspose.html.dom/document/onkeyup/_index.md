@@ -1,7 +1,7 @@
 ---
 title: Document.OnKeyUp
 second_title: Aspose.HTML for .NET API Reference
-description: Document event. Gets or sets event handler for OnKeyUp event
+description: Document OnKeyUp event. Gets or sets event handler for OnKeyUp event
 type: docs
 weight: 460
 url: /net/aspose.html.dom/document/onkeyup/

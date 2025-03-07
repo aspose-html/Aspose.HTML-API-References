@@ -1,7 +1,7 @@
 ---
 title: ResponseHeaders.ContentType
 second_title: Aspose.HTML for .NET API Reference
-description: ResponseHeaders property. Gets the Content-Type header value
+description: ResponseHeaders ContentType property. Gets the Content-Type header value
 type: docs
 weight: 20
 url: /net/aspose.html.net/responseheaders/contenttype/

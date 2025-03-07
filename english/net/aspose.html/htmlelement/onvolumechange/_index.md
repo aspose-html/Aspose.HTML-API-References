@@ -1,7 +1,7 @@
 ---
 title: HTMLElement.OnVolumeChange
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLElement event. Gets or sets event handler for OnVolumeChange event
+description: HTMLElement OnVolumeChange event. Gets or sets event handler for OnVolumeChange event
 type: docs
 weight: 550
 url: /net/aspose.html/htmlelement/onvolumechange/

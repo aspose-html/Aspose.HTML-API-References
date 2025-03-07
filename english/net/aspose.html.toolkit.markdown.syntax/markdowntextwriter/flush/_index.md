@@ -1,7 +1,7 @@
 ---
 title: MarkdownTextWriter.Flush
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownTextWriter method. Clears all buffers for the current writer and causes any buffered data to be written to the underlying device
+description: MarkdownTextWriter Flush method. Clears all buffers for the current writer and causes any buffered data to be written to the underlying device
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/markdowntextwriter/flush/

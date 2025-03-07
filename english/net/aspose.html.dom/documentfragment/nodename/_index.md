@@ -1,7 +1,7 @@
 ---
 title: DocumentFragment.NodeName
 second_title: Aspose.HTML for .NET API Reference
-description: DocumentFragment property. The name of this node depending on its type
+description: DocumentFragment NodeName property. The name of this node depending on its type
 type: docs
 weight: 70
 url: /net/aspose.html.dom/documentfragment/nodename/

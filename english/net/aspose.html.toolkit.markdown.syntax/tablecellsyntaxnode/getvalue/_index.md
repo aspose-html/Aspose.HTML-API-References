@@ -1,7 +1,7 @@
 ---
 title: TableCellSyntaxNode.GetValue
 second_title: Aspose.HTML for .NET API Reference
-description: TableCellSyntaxNode method. Defines the interface for get string value
+description: TableCellSyntaxNode GetValue method. Defines the interface for get string value
 type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/tablecellsyntaxnode/getvalue/

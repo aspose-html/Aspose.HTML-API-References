@@ -1,7 +1,7 @@
 ---
 title: IRule.Description
 second_title: Aspose.HTML for .NET API Reference
-description: IRule property. Description of criterion from the quick reference WCAG. https//www.w3.org/WAI/WCAG21/quickref/versions2.0
+description: IRule Description property. Description of criterion from the quick reference WCAG. https//www.w3.org/WAI/WCAG21/quickref/versions2.0
 type: docs
 weight: 20
 url: /net/aspose.html.accessibility/irule/description/

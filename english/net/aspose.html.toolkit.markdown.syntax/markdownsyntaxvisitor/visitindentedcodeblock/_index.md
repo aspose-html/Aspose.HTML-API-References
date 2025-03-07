@@ -1,7 +1,7 @@
 ---
 title: MarkdownSyntaxVisitor.VisitIndentedCodeBlock
 second_title: Aspose.HTML for .NET API Reference
-description: MarkdownSyntaxVisitor method. Defines the interface for visit IndentedCodeBlockSyntax
+description: MarkdownSyntaxVisitor VisitIndentedCodeBlock method. Defines the interface for visit IndentedCodeBlockSyntax
 type: docs
 weight: 130
 url: /net/aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitindentedcodeblock/

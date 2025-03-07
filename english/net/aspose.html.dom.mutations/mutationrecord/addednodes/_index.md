@@ -1,7 +1,7 @@
 ---
 title: MutationRecord.AddedNodes
 second_title: Aspose.HTML for .NET API Reference
-description: MutationRecord property. Return the nodes added
+description: MutationRecord AddedNodes property. Return the nodes added
 type: docs
 weight: 10
 url: /net/aspose.html.dom.mutations/mutationrecord/addednodes/

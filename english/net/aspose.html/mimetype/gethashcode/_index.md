@@ -1,7 +1,7 @@
 ---
 title: MimeType.GetHashCode
 second_title: Aspose.HTML for .NET API Reference
-description: MimeType method. Returns a hash code for this instance
+description: MimeType GetHashCode method. Returns a hash code for this instance
 type: docs
 weight: 60
 url: /net/aspose.html/mimetype/gethashcode/

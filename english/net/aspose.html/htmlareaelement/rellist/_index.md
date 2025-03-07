@@ -1,7 +1,7 @@
 ---
 title: HTMLAreaElement.RelList
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLAreaElement property. Returns a live DOMTokenList which contains tokens received from parsing the rel attribute
+description: HTMLAreaElement RelList property. Returns a live DOMTokenList which contains tokens received from parsing the rel attribute
 type: docs
 weight: 60
 url: /net/aspose.html/htmlareaelement/rellist/

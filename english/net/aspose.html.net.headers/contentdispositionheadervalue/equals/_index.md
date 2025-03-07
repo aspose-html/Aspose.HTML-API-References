@@ -1,7 +1,7 @@
 ---
 title: ContentDispositionHeaderValue.Equals
 second_title: Aspose.HTML for .NET API Reference
-description: ContentDispositionHeaderValue method. Determines whether the specified Object is equal to this instance
+description: ContentDispositionHeaderValue Equals method. Determines whether the specified Object is equal to this instance
 type: docs
 weight: 60
 url: /net/aspose.html.net.headers/contentdispositionheadervalue/equals/

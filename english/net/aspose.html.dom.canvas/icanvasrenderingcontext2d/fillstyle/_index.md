@@ -1,7 +1,7 @@
 ---
 title: ICanvasRenderingContext2D.FillStyle
 second_title: Aspose.HTML for .NET API Reference
-description: ICanvasRenderingContext2D property. Color or style to use inside shapes. Default black
+description: ICanvasRenderingContext2D FillStyle property. Color or style to use inside shapes. Default black
 type: docs
 weight: 20
 url: /net/aspose.html.dom.canvas/icanvasrenderingcontext2d/fillstyle/

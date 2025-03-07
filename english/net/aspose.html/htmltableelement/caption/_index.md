@@ -1,7 +1,7 @@
 ---
 title: HTMLTableElement.Caption
 second_title: Aspose.HTML for .NET API Reference
-description: HTMLTableElement property. Returns the tables CAPTION or void if none exists. version DOM Level 2
+description: HTMLTableElement Caption property. Returns the tables CAPTION or void if none exists. version DOM Level 2
 type: docs
 weight: 40
 url: /net/aspose.html/htmltableelement/caption/

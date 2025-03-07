@@ -1,7 +1,7 @@
 ---
 title: InputElement.Type
 second_title: Aspose.HTML for .NET API Reference
-description: InputElement property. Type of the form control
+description: InputElement Type property. Type of the form control
 type: docs
 weight: 40
 url: /net/aspose.html.forms/inputelement/type/

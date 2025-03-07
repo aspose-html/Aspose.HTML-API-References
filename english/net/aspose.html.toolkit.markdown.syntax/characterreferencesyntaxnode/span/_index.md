@@ -1,7 +1,7 @@
 ---
 title: CharacterReferenceSyntaxNode.Span
 second_title: Aspose.HTML for .NET API Reference
-description: CharacterReferenceSyntaxNode property. Get the span
+description: CharacterReferenceSyntaxNode Span property. Get the span
 type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/span/

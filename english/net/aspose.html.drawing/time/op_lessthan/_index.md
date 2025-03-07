@@ -1,7 +1,7 @@
 ---
 title: Time.op_LessThan
 second_title: Aspose.HTML for .NET API Reference
-description: Time method. 
+description: Time op_LessThan method. 
 type: docs
 weight: 60
 url: /net/aspose.html.drawing/time/op_lessthan/

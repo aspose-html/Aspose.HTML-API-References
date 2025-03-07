@@ -1,12 +1,12 @@
 ---
 title: TextSpan.Equals
 second_title: Aspose.HTML for .NET API Reference
-description: TextSpan method. Compare with other TextSpan
+description: TextSpan Equals method. Compare with other TextSpan
 type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax.text/textspan/equals/
 ---
-## Equals(TextSpan) {#equals}
+## Equals(*[TextSpan](../)*) {#equals}
 
 Compare with other TextSpan
 
@@ -30,7 +30,7 @@ The if both TextSpan are equal.
 
 ---
 
-## Equals(object) {#equals_1}
+## Equals(*object*) {#equals_1}
 
 Compare with other object
 
