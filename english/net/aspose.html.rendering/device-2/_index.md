@@ -28,6 +28,14 @@ public abstract class Device<TGraphicContext, TRenderingOptions> : Device, IDevi
 | [GraphicContext](../../aspose.html.rendering/device-2/graphiccontext/) { get; } | Gets the graphic context |
 | [Options](../../aspose.html.rendering/device-2/options/) { get; } | Gets rendering options. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [Configuration](../../aspose.html.rendering/device-2/configuration/) { get; } | Gets device configuration. |
+| [OutputStream](../../aspose.html.rendering/device-2/outputstream/) { get; } | Sets and gets the output stream. |
+| [StreamProvider](../../aspose.html.rendering/device-2/streamprovider/) { get; } | Gets the stream provider object. |
+
 ## Methods
 
 | Name | Description |
