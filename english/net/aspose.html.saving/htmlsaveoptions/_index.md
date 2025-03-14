@@ -14,12 +14,14 @@ Represents HTML save options. By assigning specific properties you can manage re
 public class HTMLSaveOptions : SaveOptions
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [HTMLSaveOptions](htmlsaveoptions/)() | The default constructor. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -28,6 +30,7 @@ public class HTMLSaveOptions : SaveOptions
 | [ResourceHandlingOptions](../../aspose.html.saving/saveoptions/resourcehandlingoptions/) { get; } | Gets a [`ResourceHandlingOptions`](../resourcehandlingoptions/) object which is used for configuration of resources handling. |
 | [SerializeInputValue](../../aspose.html.saving/htmlsaveoptions/serializeinputvalue/) { get; set; } | This option controls whether to serialize the value of the [`HTMLInputElement`](../../aspose.html/htmlinputelement/)'s or the [`HTMLTextAreaElement`](../../aspose.html/htmltextareaelement/)'s "value" property into the "value" attribute. |
 
+## Public Members
 ## Fields
 
 | Name | Description |

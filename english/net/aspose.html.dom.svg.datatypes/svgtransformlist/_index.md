@@ -14,6 +14,7 @@ This interface defines a list of SVGTransform objects.
 public class SVGTransformList : SVGListBase<SVGTransform>
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class SVGTransformList : SVGListBase<SVGTransform>
 | [SVGTransformList](svgtransformlist/#constructor)() | Initializes a new instance of the `SVGTransformList` class. |
 | [SVGTransformList](svgtransformlist/#constructor_1)(*IEnumerable&amp;lt;SVGTransform&amp;gt;*) | Initializes a new instance of the `SVGTransformList` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -29,6 +31,7 @@ public class SVGTransformList : SVGListBase<SVGTransform>
 | [Length](../../aspose.html.dom.svg.collections/svglistbase-1/length/) { get; } |  |
 | [NumberOfItems](../../aspose.html.dom.svg.collections/svglistbase-1/numberofitems/) { get; } |  |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,12 +14,14 @@ Contains protocol headers associated with a response.
 public class ResponseHeaders : WebHeaderCollection
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ResponseHeaders](responseheaders/)() | Initializes a new instance of the [`RequestHeaders`](../requestheaders/) class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |

@@ -14,6 +14,7 @@ The is used to provide contextual information about an event to the handler proc
 public class Event : DOMObject
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class Event : DOMObject
 | [Event](event/#constructor)(*string*) | Initializes a new instance of the `Event` class. |
 | [Event](event/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) |  |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -35,6 +37,7 @@ public class Event : DOMObject
 | [TimeStamp](../../aspose.html.dom.events/event/timestamp/) { get; } | Used to specify the time (in milliseconds relative to the epoch) at which the event was created. Due to the fact that some systems may not provide this information the value of timeStamp may be not available for all events. When not available, a value of 0 will be returned. Examples of epoch time are the time of the system start or 0:0:0 UTC 1st January 1970. |
 | [Type](../../aspose.html.dom.events/event/type/) { get; } | The name of the event (case-insensitive). The name must be an XML name. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -45,6 +48,7 @@ public class Event : DOMObject
 | [StopImmediatePropagation](../../aspose.html.dom.events/event/stopimmediatepropagation/)() | Invoking this method prevents event from reaching any event listeners registered after the current one and when dispatched in a tree also prevents event from reaching any other objects. |
 | [StopPropagation](../../aspose.html.dom.events/event/stoppropagation/)() | The [`StopPropagation`](./stoppropagation/) method is used prevent further propagation of an event during event flow. |
 
+## Public Members
 ## Fields
 
 | Name | Description |

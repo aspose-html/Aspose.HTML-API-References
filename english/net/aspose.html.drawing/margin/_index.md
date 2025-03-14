@@ -14,6 +14,7 @@ Represents page margin.
 public class Margin
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -24,6 +25,7 @@ public class Margin
 | [Margin](margin/#constructor_4)(*int, int, int, int*) | Initializes a new instance of the `Margin` class. |
 | [Margin](margin/#constructor_2)(*[Length](../length/), [Length](../length/), [Length](../length/), [Length](../length/)*) | Initializes a new instance of the `Margin` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |

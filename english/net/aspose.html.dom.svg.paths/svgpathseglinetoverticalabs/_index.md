@@ -14,6 +14,7 @@ The SVGPathSegLinetoVerticalAbs interface corresponds to an "absolute vertical l
 public class SVGPathSegLinetoVerticalAbs : SVGPathSeg
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,6 +23,7 @@ public class SVGPathSegLinetoVerticalAbs : SVGPathSeg
 | [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | The type of the path segment, specified by the corresponding one character command name. |
 | [Y](../../aspose.html.dom.svg.paths/svgpathseglinetoverticalabs/y/) { get; set; } | The absolute Y coordinate for the end point of this path segment. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

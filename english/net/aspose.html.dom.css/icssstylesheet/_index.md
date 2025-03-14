@@ -24,6 +24,7 @@ Another rule might be an at-rule such as @import or @media, and so forth.
 public interface ICSSStyleSheet : IStyleSheet
 ```
 
+## Members
 ## Properties
 
 | Name | Description |
@@ -31,6 +32,7 @@ public interface ICSSStyleSheet : IStyleSheet
 | [CSSRules](../../aspose.html.dom.css/icssstylesheet/cssrules/) { get; } | The read-only CSSStyleSheet property cssRules returns a live [`CSSRuleList`](../icssrulelist/) which provides a real-time, up-to-date list of every CSS rule which comprises the stylesheet. Each item in the list is a [`CSSRule`](../icssrule/) defining a single rule. |
 | [OwnerRule](../../aspose.html.dom.css/icssstylesheet/ownerrule/) { get; } | The read-only CSSStyleSheet property ownerRule returns the [`CSSImportRule`](../icssimportrule/) corresponding to the @import at-rule which imported the stylesheet into the document. If the stylesheet wasn't imported into the document using @import, the returned value is null. |
 
+## Members
 ## Methods
 
 | Name | Description |

@@ -14,6 +14,7 @@ Represents resource handling options.
 public class ResourceHandlingOptions
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |

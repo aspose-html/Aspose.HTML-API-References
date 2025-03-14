@@ -14,6 +14,7 @@ The SVGFEFuncRElement interface corresponds to the ‘feFuncG’ element.
 public class SVGFEFuncGElement : SVGComponentTransferFunctionElement
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -60,6 +61,7 @@ public class SVGFEFuncGElement : SVGComponentTransferFunctionElement
 | [Type](../../aspose.html.dom.svg/svgcomponenttransferfunctionelement/type/) { get; } | Corresponds to attribute ‘type’ on the given element. Takes one of the SVG_FECOMPONENTTRANSFER_TYPE_* constants defined on this interface. |
 | [ViewportElement](../../aspose.html.dom.svg/svgelement/viewportelement/) { get; } | The element which established the current viewport. Often, the nearest ancestor ‘svg’ element. Null if the given element is the outermost svg element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

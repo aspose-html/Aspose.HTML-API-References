@@ -14,6 +14,7 @@ Used for attributes whose value must be a constant from a particular enumeration
 public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class SVGAnimatedEnumeration : SVGAnimatedValue<ushort>
 | virtual [AnimVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
+## Public Members
 ## Methods
 
 | Name | Description |

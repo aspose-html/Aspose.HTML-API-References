@@ -14,6 +14,7 @@ A tree walker.
 public class TreeWalker : Traversal
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,6 +23,7 @@ public class TreeWalker : Traversal
 | [Filter](../../aspose.html.toolkit.markdown.syntax/traversal/filter/) { get; } | Defines the interface for get Filter. |
 | [Root](../../aspose.html.toolkit.markdown.syntax/traversal/root/) { get; } | Defines the interface for get Root node. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

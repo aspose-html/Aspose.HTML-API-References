@@ -14,6 +14,7 @@ Defines [`IChildNode`](../ichildnode/) that are not [`DOCUMENT_TYPE_NODE`](../no
 public interface INonDocumentTypeChildNode
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

@@ -14,6 +14,7 @@ CDATA sections are used to escape blocks of text containing characters that woul
 public class CDATASection : Text
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -39,6 +40,7 @@ public class CDATASection : Text
 | override [TextContent](../../aspose.html.dom/text/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new string is not empty or null, replaced by a single Text node containing the string this attribute is set to. |
 | [WholeText](../../aspose.html.dom/text/wholetext/) { get; } | Returns all text of Text nodes logically-adjacent text nodes to this node, concatenated in document order. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

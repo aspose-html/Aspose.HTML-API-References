@@ -14,18 +14,21 @@ Represents the `file:` protocol message handler.
 public class FileProtocolMessageHandler : MessageHandler
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [FileProtocolMessageHandler](fileprotocolmessagehandler/)() | Initializes a new instance of the `FileProtocolMessageHandler` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Filters](../../aspose.html.net/messagehandler/filters/) { get; } | Gets the filters list that are corresponding to the specified handler type. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

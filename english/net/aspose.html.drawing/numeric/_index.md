@@ -14,12 +14,14 @@ Provides the base class for numeric types.
 public abstract class Numeric : Unit
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [UnitType](../../aspose.html.drawing/unit/unittype/) { get; } | Gets the unit type of the [`Unit`](../unit/). |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,6 +14,7 @@ The interface describes the error of the validation
 public interface IError
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

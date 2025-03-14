@@ -14,6 +14,7 @@ The SVGForeignObjectElement interface corresponds to the ‘foreignObject’ ele
 public class SVGForeignObjectElement : SVGGraphicsElement
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -63,6 +64,7 @@ public class SVGForeignObjectElement : SVGGraphicsElement
 | [X](../../aspose.html.dom.svg/svgforeignobjectelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘foreignObject’ element. |
 | [Y](../../aspose.html.dom.svg/svgforeignobjectelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘foreignObject’ element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

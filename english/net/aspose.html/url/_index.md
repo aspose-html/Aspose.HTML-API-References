@@ -14,6 +14,7 @@ Provides an object representation of a universal identifier (URL).
 public class Url : DOMObject
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class Url : DOMObject
 | [Url](url/#constructor)(*string*) | Initializes a new instance of the `Url` with the specified URL. |
 | [Url](url/#constructor_1)(*string, string*) | Initializes a new instance of the `Url` with the specified URL and base URL. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -38,6 +40,7 @@ public class Url : DOMObject
 | [SearchParams](../../aspose.html/url/searchparams/) { get; } | Gets an associated [`IUrlSearchParams`](../iurlsearchparams/) object. |
 | [Username](../../aspose.html/url/username/) { get; set; } | Gets or sets a string representation for the specified URL username. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

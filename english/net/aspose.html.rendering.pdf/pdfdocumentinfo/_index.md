@@ -14,6 +14,7 @@ Represents the information about the PDF document.
 public class PdfDocumentInfo
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |

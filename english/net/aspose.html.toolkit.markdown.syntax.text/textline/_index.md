@@ -14,6 +14,7 @@ Represent the TextLine.
 public struct TextLine
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,6 +25,7 @@ public struct TextLine
 | [Start](../../aspose.html.toolkit.markdown.syntax.text/textline/start/) { get; } | Get the start position. |
 | [Text](../../aspose.html.toolkit.markdown.syntax.text/textline/text/) { get; } | Get the Text. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

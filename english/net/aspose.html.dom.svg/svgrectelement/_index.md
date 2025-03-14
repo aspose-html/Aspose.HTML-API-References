@@ -14,6 +14,7 @@ The SVGRectElement interface corresponds to the ‘rect’ element.
 public class SVGRectElement : SVGGeometryElement
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -66,6 +67,7 @@ public class SVGRectElement : SVGGeometryElement
 | [X](../../aspose.html.dom.svg/svgrectelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘rect’ element. |
 | [Y](../../aspose.html.dom.svg/svgrectelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘rect’ element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

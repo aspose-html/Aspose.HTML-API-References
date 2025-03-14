@@ -14,6 +14,7 @@ Represent the Ordered list syntax.
 public class OrderedListSyntaxNode : ListSyntaxNode
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,6 +25,7 @@ public class OrderedListSyntaxNode : ListSyntaxNode
 | [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
 | [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

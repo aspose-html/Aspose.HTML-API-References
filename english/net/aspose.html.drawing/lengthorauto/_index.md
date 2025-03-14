@@ -14,6 +14,7 @@ Represents a container for storage length or 'auto' units..
 public class LengthOrAuto : Unit
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class LengthOrAuto : Unit
 | [LengthOrAuto](lengthorauto/#constructor)() | Initializes a new instance of the `LengthOrAuto` class and sets state to 'auto'. |
 | [LengthOrAuto](lengthorauto/#constructor_1)(*[Length](../length/)*) | Initializes a new instance of the `LengthOrAuto` class and sets state to 'lenght'. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -29,6 +31,7 @@ public class LengthOrAuto : Unit
 | [Length](../../aspose.html.drawing/lengthorauto/length/) { get; set; } | Gets or sets the length. |
 | [UnitType](../../aspose.html.drawing/lengthorauto/unittype/) { get; } | Gets the unit type of the [`Unit`](../unit/). |
 
+## Public Members
 ## Methods
 
 | Name | Description |

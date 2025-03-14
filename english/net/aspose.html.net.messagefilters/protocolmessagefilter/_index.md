@@ -14,12 +14,14 @@ Represents implementation of message filter by the resource protocol.
 public class ProtocolMessageFilter : MessageFilter
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ProtocolMessageFilter](protocolmessagefilter/)(*params string[]*) | Initializes a new instance of the `ProtocolMessageFilter` class. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

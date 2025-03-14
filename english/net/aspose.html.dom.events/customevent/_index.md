@@ -14,6 +14,7 @@ Events using the CustomEvent interface can be used to carry custom data.
 public class CustomEvent : Event
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class CustomEvent : Event
 | [CustomEvent](customevent/#constructor)(*string*) | Initializes a new instance of the `CustomEvent` class. |
 | [CustomEvent](customevent/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) |  |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -36,6 +38,7 @@ public class CustomEvent : Event
 | [TimeStamp](../../aspose.html.dom.events/event/timestamp/) { get; } | Used to specify the time (in milliseconds relative to the epoch) at which the event was created. Due to the fact that some systems may not provide this information the value of timeStamp may be not available for all events. When not available, a value of 0 will be returned. Examples of epoch time are the time of the system start or 0:0:0 UTC 1st January 1970. |
 | [Type](../../aspose.html.dom.events/event/type/) { get; } | The name of the event (case-insensitive). The name must be an XML name. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

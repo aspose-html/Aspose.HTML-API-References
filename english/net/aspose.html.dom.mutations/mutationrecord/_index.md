@@ -14,6 +14,7 @@ A MutationRecord represents an individual DOM mutation. It is the object that is
 public class MutationRecord : DOMObject
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -28,6 +29,7 @@ public class MutationRecord : DOMObject
 | [Target](../../aspose.html.dom.mutations/mutationrecord/target/) { get; } | Returns the node the mutation affected, depending on the type. For "attributes", it is the element whose attribute changed. For "characterData", it is the CharacterData node. For "childList", it is the node whose children changed. |
 | [Type](../../aspose.html.dom.mutations/mutationrecord/type/) { get; } | Returns "attributes" if it was an attribute mutation, "characterData" if it was a mutation to a CharacterData node and "childList" if it was a mutation to the tree of nodes. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

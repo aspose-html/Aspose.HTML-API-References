@@ -14,12 +14,14 @@ Defines the DelimiterRun
 public class DelimiterRun
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [DelimiterRun](delimiterrun/)(*[SourceText](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/), [TextSpan](../../aspose.html.toolkit.markdown.syntax.text/textspan/), [DelimiterState](../delimiterstate/)*) | Create the DelimiterRun |
 
+## Public Members
 ## Properties
 
 | Name | Description |

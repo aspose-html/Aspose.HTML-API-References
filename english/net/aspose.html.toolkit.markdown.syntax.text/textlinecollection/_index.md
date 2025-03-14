@@ -14,6 +14,7 @@ Represents the TextLineCollection.
 public class TextLineCollection : ReadOnlyCollection<TextLine>
 ```
 
+## Public Members
 ## Methods
 
 | Name | Description |

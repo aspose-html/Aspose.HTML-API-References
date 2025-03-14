@@ -14,6 +14,7 @@ The ICanvasPathMethods interface is used to manipulate paths of objects.
 public interface ICanvasPathMethods
 ```
 
+## Members
 ## Methods
 
 | Name | Description |

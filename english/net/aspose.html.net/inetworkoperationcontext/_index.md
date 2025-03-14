@@ -14,6 +14,7 @@ Provides contextual information for the network services.
 public interface INetworkOperationContext
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

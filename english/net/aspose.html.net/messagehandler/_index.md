@@ -14,12 +14,14 @@ Represents a base type for message handlers.
 public abstract class MessageHandler
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Filters](../../aspose.html.net/messagehandler/filters/) { get; } | Gets the filters list that are corresponding to the specified handler type. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,6 +14,7 @@ Represents the InlineLinkSyntaxNode.
 public sealed class InlineLinkSyntaxNode : InlineSyntaxNode
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,6 +25,7 @@ public sealed class InlineLinkSyntaxNode : InlineSyntaxNode
 | [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
 | [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,6 +14,7 @@ Represent the unordered list syntax node.
 public class UnorderedListSyntaxNode : ListSyntaxNode
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,6 +25,7 @@ public class UnorderedListSyntaxNode : ListSyntaxNode
 | [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
 | [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

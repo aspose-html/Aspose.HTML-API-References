@@ -14,6 +14,7 @@ This class is an implementation of the [`ResourceHandler`](../resourcehandler/) 
 public class FileSystemResourceHandler : ResourceHandler
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class FileSystemResourceHandler : ResourceHandler
 | [FileSystemResourceHandler](filesystemresourcehandler/#constructor_1)(*string*) | Initializes a new instance of the `FileSystemResourceHandler` class. |
 | [FileSystemResourceHandler](filesystemresourcehandler/#constructor)(*[Url](../../aspose.html/url/)*) | Initializes a new instance of the `FileSystemResourceHandler` class. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

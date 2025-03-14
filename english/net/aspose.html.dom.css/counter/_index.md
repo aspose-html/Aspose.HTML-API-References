@@ -14,6 +14,7 @@ The Counter interface is used to represent any counter or counters function valu
 public class Counter : DOMObject
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,6 +23,7 @@ public class Counter : DOMObject
 | [ListStyle](../../aspose.html.dom.css/counter/liststyle/) { get; } | This attribute is used for the style of the list. |
 | [Separator](../../aspose.html.dom.css/counter/separator/) { get; } | This attribute is used for the separator of the nested counters. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

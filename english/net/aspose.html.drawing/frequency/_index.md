@@ -14,12 +14,14 @@ The 'frequency' unit.
 public sealed class Frequency : Dimension
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [UnitType](../../aspose.html.drawing/unit/unittype/) { get; } | Gets the unit type of the [`Unit`](../unit/). |
 
+## Public Members
 ## Methods
 
 | Name | Description |

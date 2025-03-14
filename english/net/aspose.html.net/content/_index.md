@@ -14,12 +14,14 @@ Represents a base class for an HTTP entity body and content headers.
 public abstract class Content : IDisposable
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Headers](../../aspose.html.net/content/headers/) { get; } | Gets the HTTP content headers. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

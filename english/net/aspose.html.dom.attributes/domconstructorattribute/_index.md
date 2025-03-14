@@ -15,6 +15,7 @@ Specifies a constructor that is defined by the W3C.
 public sealed class DOMConstructorAttribute : Attribute
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |

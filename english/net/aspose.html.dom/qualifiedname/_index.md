@@ -14,6 +14,7 @@ Represents an HTML qualified name.
 public class QualifiedName : IEquatable<QualifiedName>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -23,6 +24,7 @@ public class QualifiedName : IEquatable<QualifiedName>
 | [NamespaceURI](../../aspose.html.dom/qualifiedname/namespaceuri/) { get; } | Gets a string representation of the namespace of the QualifiedName. |
 | [Prefix](../../aspose.html.dom/qualifiedname/prefix/) { get; } | Gets a string representation of the prefix of the QualifiedName. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

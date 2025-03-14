@@ -14,12 +14,14 @@ Represents the SourceTextReader.
 public class SourceTextReader : IDisposable
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SourceTextReader](sourcetextreader/)(*[SourceText](../sourcetext/)*) | Create the SourceTextReader |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -27,6 +29,7 @@ public class SourceTextReader : IDisposable
 | [Position](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/position/) { get; } | Get the position. |
 | [Source](../../aspose.html.toolkit.markdown.syntax.text/sourcetextreader/source/) { get; } | Get rhe source. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

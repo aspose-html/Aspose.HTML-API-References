@@ -14,6 +14,7 @@ The DOMImplementation interface provides a number of methods for performing oper
 public interface IDOMImplementation
 ```
 
+## Members
 ## Methods
 
 | Name | Description |

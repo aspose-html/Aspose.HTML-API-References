@@ -14,12 +14,14 @@ The DocumentType provides an interface to the list of entities that are defined 
 public class DocumentType : Node
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [DocumentType](documenttype/)(*string, string, string, string, [Document](../document/)*) | Initializes a new instance of the `DocumentType` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -45,6 +47,7 @@ public class DocumentType : Node
 | [SystemId](../../aspose.html.dom/documenttype/systemid/) { get; } | The system identifier of the external subset. This may be an absolute URI or not. |
 | virtual [TextContent](../../aspose.html.dom/node/textcontent/) { get; set; } | The textContent property of the [`Node`](../node/) interface represents the text content of the node and its descendants. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

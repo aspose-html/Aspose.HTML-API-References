@@ -14,12 +14,14 @@ Represents a MHTML document renderer.
 public class MhtmlRenderer : Renderer<Stream>
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [MhtmlRenderer](mhtmlrenderer/)() | The default constructor. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

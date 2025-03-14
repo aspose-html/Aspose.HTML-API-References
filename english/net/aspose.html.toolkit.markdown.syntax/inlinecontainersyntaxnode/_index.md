@@ -14,6 +14,7 @@ Represents the InlineContainerSyntaxNode.
 public class InlineContainerSyntaxNode : InlineSyntaxNode, IEnumerable<InlineSyntaxNode>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,6 +25,7 @@ public class InlineContainerSyntaxNode : InlineSyntaxNode, IEnumerable<InlineSyn
 | [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
 | [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

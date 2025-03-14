@@ -14,6 +14,7 @@ The MouseEvent interface provides specific contextual information associated wit
 public class MouseEvent : UIEvent
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class MouseEvent : UIEvent
 | [MouseEvent](mouseevent/#constructor)(*string*) | Initializes a new instance of the `MouseEvent` class. |
 | [MouseEvent](mouseevent/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) |  |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -48,6 +50,7 @@ public class MouseEvent : UIEvent
 | [Type](../../aspose.html.dom.events/event/type/) { get; } | The name of the event (case-insensitive). The name must be an XML name. |
 | [View](../../aspose.html.dom.events/uievent/view/) { get; } | The view attribute identifies the Window from which the event was generated. The un-initialized value of this attribute MUST be null. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

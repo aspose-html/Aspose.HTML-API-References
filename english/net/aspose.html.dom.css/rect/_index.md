@@ -14,6 +14,7 @@ The Rect interface is used to represent any rect value. This interface reflects 
 public class Rect : DOMObject
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -23,6 +24,7 @@ public class Rect : DOMObject
 | [Right](../../aspose.html.dom.css/rect/right/) { get; } | This attribute is used for the right of the rect. |
 | [Top](../../aspose.html.dom.css/rect/top/) { get; } | This attribute is used for the top of the rect. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

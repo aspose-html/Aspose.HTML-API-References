@@ -16,6 +16,7 @@ See also the [Document object Model (DOM) Level 2 HTML Specification](http://www
 public class HTMLOptionElement : HTMLElement
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -63,6 +64,7 @@ public class HTMLOptionElement : HTMLElement
 | [Title](../../aspose.html/htmlelement/title/) { get; set; } | The element's advisory title. See the title attribute definition in HTML 4.01. |
 | [Value](../../aspose.html/htmloptionelement/value/) { get; set; } | The current form control value. See the value attribute definition in HTML 4.01. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -115,6 +117,7 @@ public class HTMLOptionElement : HTMLElement
 | [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(*string, bool*) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
+## Public Members
 ## Events
 
 | Name | Description |

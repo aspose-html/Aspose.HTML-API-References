@@ -14,6 +14,7 @@ SVGOptimizer is a static class designed to optimize SVG documents. By optimizati
 public static class SVGOptimizer
 ```
 
+## Public Members
 ## Methods
 
 | Name | Description |

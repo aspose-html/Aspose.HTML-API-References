@@ -14,12 +14,14 @@ Defines the YamlSequenceSyntaxNode
 public sealed class YamlSequenceSyntaxNode : ChildFrontMatterSyntaxNode
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Item](../../aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/item/) { get; } | Get the ChildFrontMatterSyntaxNode by index. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,6 +14,7 @@ Allows authors to schedule timer-based callbacks.
 public interface IWindowTimers
 ```
 
+## Members
 ## Methods
 
 | Name | Description |

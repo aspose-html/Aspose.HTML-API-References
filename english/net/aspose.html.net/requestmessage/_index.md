@@ -14,6 +14,7 @@ Represents a request message.
 public class RequestMessage : IDisposable
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class RequestMessage : IDisposable
 | [RequestMessage](requestmessage/#constructor_1)(*string*) | Initializes a new instance of the `RequestMessage` class. |
 | [RequestMessage](requestmessage/#constructor)(*[Url](../../aspose.html/url/)*) | Initializes a new instance of the `RequestMessage` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -34,6 +36,7 @@ public class RequestMessage : IDisposable
 | [RequestUri](../../aspose.html.net/requestmessage/requesturi/) { get; set; } | Gets or sets the request URI. |
 | [Timeout](../../aspose.html.net/requestmessage/timeout/) { get; set; } | The number of milliseconds to wait before the request times out. The default value is 100,000 milliseconds (100 seconds). |
 
+## Public Members
 ## Methods
 
 | Name | Description |

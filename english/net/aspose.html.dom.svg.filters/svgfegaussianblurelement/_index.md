@@ -14,6 +14,7 @@ The SVGFEGaussianBlurElement interface corresponds to the �feGaussianBlur� e
 public class SVGFEGaussianBlurElement : SVGElement, ISVGFilterPrimitiveStandardAttributes
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -61,6 +62,7 @@ public class SVGFEGaussianBlurElement : SVGElement, ISVGFilterPrimitiveStandardA
 | [X](../../aspose.html.dom.svg.filters/svgfegaussianblurelement/x/) { get; } | Corresponds to attribute �x� on the given �filter� element. |
 | [Y](../../aspose.html.dom.svg.filters/svgfegaussianblurelement/y/) { get; } | Corresponds to attribute �y� on the given �filter� element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

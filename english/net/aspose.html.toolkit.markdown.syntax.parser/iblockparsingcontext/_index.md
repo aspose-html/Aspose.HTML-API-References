@@ -14,6 +14,7 @@ Defines the IBlockParsingContext interface.
 public interface IBlockParsingContext
 ```
 
+## Members
 ## Properties
 
 | Name | Description |
@@ -23,6 +24,7 @@ public interface IBlockParsingContext
 | [Source](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/source/) { get; } | Get the Source. |
 | [SyntaxFactory](../../aspose.html.toolkit.markdown.syntax.parser/iblockparsingcontext/syntaxfactory/) { get; } | Get the SyntaxFactory. |
 
+## Members
 ## Methods
 
 | Name | Description |

@@ -14,6 +14,7 @@ Used for attributes of type DOMString which can be animated.
 public class SVGAnimatedString : SVGAnimatedValue<string>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class SVGAnimatedString : SVGAnimatedValue<string>
 | virtual [AnimVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
+## Public Members
 ## Methods
 
 | Name | Description |

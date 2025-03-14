@@ -14,6 +14,7 @@ Provides methods to work with URLs query string.
 public interface IUrlSearchParams : IEnumerable<string[]>
 ```
 
+## Members
 ## Methods
 
 | Name | Description |

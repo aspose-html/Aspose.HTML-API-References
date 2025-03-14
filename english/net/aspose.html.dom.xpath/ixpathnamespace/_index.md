@@ -14,6 +14,7 @@ The XPathNamespace interface is returned by XPathResult interfaces to represent 
 public interface IXPathNamespace
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

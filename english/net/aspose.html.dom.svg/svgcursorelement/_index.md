@@ -14,6 +14,7 @@ The SVGCursorElement interface corresponds to the ‘cursor’ element.
 public class SVGCursorElement : SVGElement, ISVGTests, ISVGURIReference
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -59,6 +60,7 @@ public class SVGCursorElement : SVGElement, ISVGTests, ISVGURIReference
 | [X](../../aspose.html.dom.svg/svgcursorelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘cursor’ element. |
 | [Y](../../aspose.html.dom.svg/svgcursorelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘cursor’ element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

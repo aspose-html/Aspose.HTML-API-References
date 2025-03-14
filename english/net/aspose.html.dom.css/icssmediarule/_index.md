@@ -14,6 +14,7 @@ The CSSMediaRule interface represents a @media rule in a CSS style sheet. A @med
 public interface ICSSMediaRule : ICSSRule
 ```
 
+## Members
 ## Properties
 
 | Name | Description |
@@ -21,6 +22,7 @@ public interface ICSSMediaRule : ICSSRule
 | [CSSRules](../../aspose.html.dom.css/icssmediarule/cssrules/) { get; } | The cssRules property of the CSSGroupingRule interface returns a [`CSSRuleList`](../icssrulelist/) containing a collection of [`CSSRule`](../icssrule/) objects. |
 | [Media](../../aspose.html.dom.css/icssmediarule/media/) { get; } | The read-only media property of the `CSSMediaRule` interface MediaList represents the intended destination medium for style information. |
 
+## Members
 ## Methods
 
 | Name | Description |

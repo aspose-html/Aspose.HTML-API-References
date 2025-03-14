@@ -14,6 +14,7 @@ Represent the LineBreakSyntaxNode.
 public abstract class LineBreakSyntaxNode : InlineSyntaxNode
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -27,6 +28,7 @@ public abstract class LineBreakSyntaxNode : InlineSyntaxNode
 | virtual [Span](../../aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/span/) { get; } | Get the span. |
 | [Value](../../aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/value/) { get; } | Get the value. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,12 +14,14 @@ Specific load options data class.
 public class TemplateLoadOptions
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [TemplateLoadOptions](templateloadoptions/)() | The default constructor. |
 
+## Public Members
 ## Properties
 
 | Name | Description |

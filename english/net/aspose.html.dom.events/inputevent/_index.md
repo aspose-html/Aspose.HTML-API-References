@@ -14,6 +14,7 @@ Input events are sent as notifications whenever the DOM is being updated.
 public class InputEvent : UIEvent
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class InputEvent : UIEvent
 | [InputEvent](inputevent/#constructor)(*string*) | Initializes a new instance of the `InputEvent` class. |
 | [InputEvent](inputevent/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) |  |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -39,6 +41,7 @@ public class InputEvent : UIEvent
 | [Type](../../aspose.html.dom.events/event/type/) { get; } | The name of the event (case-insensitive). The name must be an XML name. |
 | [View](../../aspose.html.dom.events/uievent/view/) { get; } | The view attribute identifies the Window from which the event was generated. The un-initialized value of this attribute MUST be null. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

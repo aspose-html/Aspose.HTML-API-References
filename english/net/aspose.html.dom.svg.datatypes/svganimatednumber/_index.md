@@ -14,6 +14,7 @@ Used for attributes of basic type number which can be animated.
 public class SVGAnimatedNumber : SVGAnimatedValue<float>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class SVGAnimatedNumber : SVGAnimatedValue<float>
 | virtual [AnimVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,6 +14,7 @@ Represents a Content-Type header value.
 public class ContentTypeHeaderValue : NameValueHeaderValue
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -23,6 +24,7 @@ public class ContentTypeHeaderValue : NameValueHeaderValue
 | [Name](../../aspose.html.net.headers/namevalueheadervalue/name/) { get; } | Gets the parameter name. |
 | [Value](../../aspose.html.net.headers/namevalueheadervalue/value/) { get; set; } | Gets or sets the parameter value. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

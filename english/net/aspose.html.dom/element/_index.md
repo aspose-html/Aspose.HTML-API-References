@@ -14,12 +14,14 @@ The Element interface represents an element in an HTML or XML document.
 public class Element : Node, IChildNode, IParentNode
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [Element](element/)(*[QualifiedName](../qualifiedname/), [Document](../document/)*) | Initializes a new instance of the `Element` class. Don't call this constructor directly, use [`CreateElement`](../document/createelement/) or [`CreateElementNS`](../document/createelementns/). |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -55,6 +57,7 @@ public class Element : Node, IChildNode, IParentNode
 | [TagName](../../aspose.html.dom/element/tagname/) { get; } | The name of the element. |
 | override [TextContent](../../aspose.html.dom/element/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new string is not empty or null, replaced by a single Text node containing the string this attribute is set to. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

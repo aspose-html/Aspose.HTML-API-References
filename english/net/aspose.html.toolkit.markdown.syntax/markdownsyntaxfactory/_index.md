@@ -14,6 +14,7 @@ Factory used to create various [`MarkdownSyntaxNode`](../markdownsyntaxnode/) de
 public class MarkdownSyntaxFactory
 ```
 
+## Public Members
 ## Methods
 
 | Name | Description |

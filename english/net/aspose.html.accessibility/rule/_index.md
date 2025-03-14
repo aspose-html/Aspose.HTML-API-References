@@ -14,6 +14,7 @@ An abstract class that defines the characteristics of a Rule and implements inte
 public abstract class Rule : IRule
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |

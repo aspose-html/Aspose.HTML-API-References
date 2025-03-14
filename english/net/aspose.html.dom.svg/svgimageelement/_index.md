@@ -14,6 +14,7 @@ The SVGImageElement interface corresponds to the ‘image’ element.
 public class SVGImageElement : SVGGraphicsElement, ISVGURIReference
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -65,6 +66,7 @@ public class SVGImageElement : SVGGraphicsElement, ISVGURIReference
 | [X](../../aspose.html.dom.svg/svgimageelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘image’ element. |
 | [Y](../../aspose.html.dom.svg/svgimageelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘image’ element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

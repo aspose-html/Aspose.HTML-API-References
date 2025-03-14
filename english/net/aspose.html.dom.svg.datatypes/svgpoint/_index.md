@@ -14,6 +14,7 @@ Many of the SVG DOM interfaces refer to objects of class SVGPoint. An SVGPoint i
 public class SVGPoint : SVGValueType
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class SVGPoint : SVGValueType
 | [X](../../aspose.html.dom.svg.datatypes/svgpoint/x/) { get; set; } | The X coordinate. |
 | [Y](../../aspose.html.dom.svg.datatypes/svgpoint/y/) { get; set; } | The Y coordinate. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

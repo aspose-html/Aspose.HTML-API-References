@@ -14,6 +14,7 @@ Base implementation of the ContainerBlockSyntaxNode.
 public abstract class ContainerBlockSyntaxNode : BlockSyntaxNode
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,6 +25,7 @@ public abstract class ContainerBlockSyntaxNode : BlockSyntaxNode
 | [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
 | [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

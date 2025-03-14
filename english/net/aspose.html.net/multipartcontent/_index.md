@@ -14,6 +14,7 @@ Represents a multipart/* content.
 public class MultipartContent : Content, IEnumerable<Content>
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -22,12 +23,14 @@ public class MultipartContent : Content, IEnumerable<Content>
 | [MultipartContent](multipartcontent/#constructor_1)(*string*) | Create a new instance of the `MultipartContent` class with subtype. |
 | [MultipartContent](multipartcontent/#constructor_2)(*string, string*) | Create a new instance of the `MultipartContent` class with subtype and boundary. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Headers](../../aspose.html.net/content/headers/) { get; } | Gets the HTTP content headers. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

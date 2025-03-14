@@ -14,6 +14,7 @@ Represents rendering options for [`ImageDevice`](../imagedevice/). This options 
 public class ImageRenderingOptions : RenderingOptions
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class ImageRenderingOptions : RenderingOptions
 | [ImageRenderingOptions](imagerenderingoptions/#constructor)() | Initializes a new instance of the `ImageRenderingOptions` class; Png will be used as default image format. |
 | [ImageRenderingOptions](imagerenderingoptions/#constructor_1)(*[ImageFormat](../imageformat/)*) | Initializes a new instance of the `ImageRenderingOptions` class with specified image format. |
 
+## Public Members
 ## Properties
 
 | Name | Description |

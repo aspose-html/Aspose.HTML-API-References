@@ -14,12 +14,14 @@ Specific options data class provides few properties to manage conversion result.
 public class XpsSaveOptions : XpsRenderingOptions
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [XpsSaveOptions](xpssaveoptions/)() | The default constructor. |
 
+## Public Members
 ## Properties
 
 | Name | Description |

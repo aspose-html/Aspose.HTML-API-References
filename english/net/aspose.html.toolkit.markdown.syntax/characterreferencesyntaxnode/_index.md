@@ -14,6 +14,7 @@ Represents the CharacterReferenceSyntaxNode.
 public sealed class CharacterReferenceSyntaxNode : InlineSyntaxNode
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -28,6 +29,7 @@ public sealed class CharacterReferenceSyntaxNode : InlineSyntaxNode
 | [Span](../../aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/span/) { get; } | Get the span. |
 | [Value](../../aspose.html.toolkit.markdown.syntax/characterreferencesyntaxnode/value/) { get; } | Get the value. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -16,6 +16,7 @@ See also the [Document object Model (DOM) Level 2 HTML Specification](http://www
 public class HTMLDirectoryElement : HTMLElement
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -56,6 +57,7 @@ public class HTMLDirectoryElement : HTMLElement
 | override [TextContent](../../aspose.html.dom/element/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new string is not empty or null, replaced by a single Text node containing the string this attribute is set to. |
 | [Title](../../aspose.html/htmlelement/title/) { get; set; } | The element's advisory title. See the title attribute definition in HTML 4.01. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -108,6 +110,7 @@ public class HTMLDirectoryElement : HTMLElement
 | [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(*string, bool*) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
+## Public Members
 ## Events
 
 | Name | Description |

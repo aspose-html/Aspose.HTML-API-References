@@ -14,6 +14,7 @@ The SVGFEDropShadowElement interface corresponds to the ‘feDropShadow’ eleme
 public class SVGFEDropShadowElement : SVGElement, ISVGFilterPrimitiveStandardAttributes
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -63,6 +64,7 @@ public class SVGFEDropShadowElement : SVGElement, ISVGFilterPrimitiveStandardAtt
 | [X](../../aspose.html.dom.svg.filters/svgfedropshadowelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘feDropShadow’ element. |
 | [Y](../../aspose.html.dom.svg.filters/svgfedropshadowelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘feDropShadow’ element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

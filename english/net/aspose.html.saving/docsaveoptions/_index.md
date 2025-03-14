@@ -14,12 +14,14 @@ Specific options data class. By assigning properties you can manage rendering ch
 public class DocSaveOptions : DocRenderingOptions
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [DocSaveOptions](docsaveoptions/)() | The default constructor. |
 
+## Public Members
 ## Properties
 
 | Name | Description |

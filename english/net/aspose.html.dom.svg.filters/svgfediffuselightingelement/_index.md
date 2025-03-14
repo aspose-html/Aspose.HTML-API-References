@@ -14,6 +14,7 @@ The SVGFEDiffuseLightingElement interface corresponds to the ‘feDiffuseLightin
 public class SVGFEDiffuseLightingElement : SVGElement, ISVGFilterPrimitiveStandardAttributes
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -63,6 +64,7 @@ public class SVGFEDiffuseLightingElement : SVGElement, ISVGFilterPrimitiveStanda
 | [X](../../aspose.html.dom.svg.filters/svgfediffuselightingelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘filter’ element. |
 | [Y](../../aspose.html.dom.svg.filters/svgfediffuselightingelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘filter’ element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

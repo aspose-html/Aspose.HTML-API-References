@@ -14,6 +14,7 @@ Specific options data class. It provides properties to manage image result resol
 public class ImageSaveOptions : ImageRenderingOptions
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class ImageSaveOptions : ImageRenderingOptions
 | [ImageSaveOptions](imagesaveoptions/#constructor)() | Initializes a new instance of the `ImageSaveOptions` class; Png will be used as default image format. |
 | [ImageSaveOptions](imagesaveoptions/#constructor_1)(*[ImageFormat](../../aspose.html.rendering.image/imageformat/)*) | Image format [`ImageFormat`](../../aspose.html.rendering.image/imageformat/) based on initialization |
 
+## Public Members
 ## Properties
 
 | Name | Description |

@@ -14,6 +14,7 @@ Represents an array of 64-bit floating point numbers (corresponding to the C flo
 public class Float64Array : TypedArray<double>
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -24,6 +25,7 @@ public class Float64Array : TypedArray<double>
 | [Float64Array](float64array/#constructor_1)(*[ArrayBuffer](../arraybuffer/), int*) | Initializes a new instance of the `Float64Array` class. |
 | [Float64Array](float64array/#constructor_2)(*[ArrayBuffer](../arraybuffer/), int, int*) | Initializes a new instance of the `Float64Array` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -34,12 +36,14 @@ public class Float64Array : TypedArray<double>
 | override [Item](../../aspose.html/float64array/item/) { get; set; } | Gets or sets the Double at the specified index. |
 | [Length](../../aspose.html/typedarray/length/) { get; } | Gets the length of a typed array. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
+## Public Members
 ## Fields
 
 | Name | Description |

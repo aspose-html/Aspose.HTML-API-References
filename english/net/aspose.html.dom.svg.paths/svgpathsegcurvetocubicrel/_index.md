@@ -14,6 +14,7 @@ The SVGPathSegCurvetoCubicRel interface corresponds to a "relative cubic Bézier
 public class SVGPathSegCurvetoCubicRel : SVGPathSeg
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -27,6 +28,7 @@ public class SVGPathSegCurvetoCubicRel : SVGPathSeg
 | [Y1](../../aspose.html.dom.svg.paths/svgpathsegcurvetocubicrel/y1/) { get; set; } | The relative Y coordinate for the first control point. |
 | [Y2](../../aspose.html.dom.svg.paths/svgpathsegcurvetocubicrel/y2/) { get; set; } | The relative Y coordinate for the second control point. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

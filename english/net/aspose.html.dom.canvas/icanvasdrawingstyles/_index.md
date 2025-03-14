@@ -14,6 +14,7 @@ The ICanvasDrawingStyles interface provides methods and properties control how l
 public interface ICanvasDrawingStyles
 ```
 
+## Members
 ## Properties
 
 | Name | Description |
@@ -27,6 +28,7 @@ public interface ICanvasDrawingStyles
 | [TextAlign](../../aspose.html.dom.canvas/icanvasdrawingstyles/textalign/) { get; set; } | Text alignment setting. Possible values: start (default), end, left, right or center. |
 | [TextBaseline](../../aspose.html.dom.canvas/icanvasdrawingstyles/textbaseline/) { get; set; } | Baseline alignment setting. Possible values: top, hanging, middle, alphabetic (default), ideographic, bottom. |
 
+## Members
 ## Methods
 
 | Name | Description |

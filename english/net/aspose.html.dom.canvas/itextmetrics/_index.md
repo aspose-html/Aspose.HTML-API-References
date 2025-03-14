@@ -14,6 +14,7 @@ Represents the dimension of a text in the canvas.
 public interface ITextMetrics
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

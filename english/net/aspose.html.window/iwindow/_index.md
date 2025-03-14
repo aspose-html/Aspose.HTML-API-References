@@ -15,6 +15,7 @@ public interface IWindow : IDisposable, IDocumentView, IEventTarget, IGlobalEven
     IWindowEventHandlers, IWindowTimers
 ```
 
+## Members
 ## Properties
 
 | Name | Description |
@@ -30,6 +31,7 @@ public interface IWindow : IDisposable, IDocumentView, IEventTarget, IGlobalEven
 | [Top](../../aspose.html.window/iwindow/top/) { get; } | The top IDL attribute on the Window object of a Document in a browsing context b must return the WindowProxy object of its top-level browsing context (which would be its own WindowProxy object if it was a top-level browsing context itself), if it has one, or its own WindowProxy object otherwise (e.g. if it was a detached nested browsing context). |
 | [Window](../../aspose.html.window/iwindow/window/) { get; } | Returns the Window object's browsing context's WindowProxy object. |
 
+## Members
 ## Methods
 
 | Name | Description |

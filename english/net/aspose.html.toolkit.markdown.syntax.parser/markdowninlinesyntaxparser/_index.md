@@ -14,6 +14,7 @@ Defines the base class MarkdownInlineSyntaxParser
 public abstract class MarkdownInlineSyntaxParser
 ```
 
+## Public Members
 ## Methods
 
 | Name | Description |

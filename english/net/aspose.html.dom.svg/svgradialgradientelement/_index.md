@@ -14,6 +14,7 @@ The SVGRadialGradientElement interface corresponds to the ‘radialGradient’ e
 public class SVGRadialGradientElement : SVGGradientElement
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -63,6 +64,7 @@ public class SVGRadialGradientElement : SVGGradientElement
 | override [TextContent](../../aspose.html.dom/element/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new string is not empty or null, replaced by a single Text node containing the string this attribute is set to. |
 | [ViewportElement](../../aspose.html.dom.svg/svgelement/viewportelement/) { get; } | The element which established the current viewport. Often, the nearest ancestor ‘svg’ element. Null if the given element is the outermost svg element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

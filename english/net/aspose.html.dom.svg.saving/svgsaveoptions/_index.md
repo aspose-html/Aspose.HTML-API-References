@@ -14,12 +14,14 @@ Represents SVG save options.
 public class SVGSaveOptions : SaveOptions
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SVGSaveOptions](svgsaveoptions/)() | The default constructor. |
 
+## Public Members
 ## Properties
 
 | Name | Description |

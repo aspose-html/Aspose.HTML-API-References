@@ -14,12 +14,14 @@ Represents an Internet Media Types
 public class MimeType : IEquatable<MimeType>
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [MimeType](mimetype/)(*string*) | Initializes a new instance of MIME type based on serialized string value. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -27,6 +29,7 @@ public class MimeType : IEquatable<MimeType>
 | [SubType](../../aspose.html/mimetype/subtype/) { get; } | Gets the sub media type. |
 | [Type](../../aspose.html/mimetype/type/) { get; } | Gets the media type. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

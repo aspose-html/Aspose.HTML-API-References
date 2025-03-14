@@ -14,6 +14,7 @@ The SVGFEImageElement interface corresponds to the ‘feImage’ element.
 public class SVGFEImageElement : SVGElement, ISVGFilterPrimitiveStandardAttributes, ISVGURIReference
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -60,6 +61,7 @@ public class SVGFEImageElement : SVGElement, ISVGFilterPrimitiveStandardAttribut
 | [X](../../aspose.html.dom.svg.filters/svgfeimageelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘filter’ element. |
 | [Y](../../aspose.html.dom.svg.filters/svgfeimageelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘filter’ element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,6 +14,7 @@ Form control. Depending upon the environment in which the page is being viewed, 
 public class HTMLInputElement : HTMLElement
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -73,6 +74,7 @@ public class HTMLInputElement : HTMLElement
 | [UseMap](../../aspose.html/htmlinputelement/usemap/) { get; set; } | Use client-side image map. See the usemap attribute definition in HTML 4.01. |
 | [Value](../../aspose.html/htmlinputelement/value/) { get; set; } | When the `type` attribute of the element has the value "text", "file" or "password", this represents the current contents of the corresponding form control, in an interactive user agent. Changing this attribute changes the contents of the form control, but does not change the value of the HTML value attribute of the element. When the `type` attribute of the element has the value "button", "hidden", "submit", "reset", "image", "checkbox" or "radio", this represents the HTML value attribute of the element. See the value attribute definition in HTML 4.01. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -125,6 +127,7 @@ public class HTMLInputElement : HTMLElement
 | [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(*string, bool*) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
+## Public Members
 ## Events
 
 | Name | Description |

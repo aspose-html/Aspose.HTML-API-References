@@ -14,6 +14,7 @@ Represents an interface that can be implemented by classes providing streams to 
 public interface ICreateStreamProvider : IDisposable
 ```
 
+## Members
 ## Methods
 
 | Name | Description |

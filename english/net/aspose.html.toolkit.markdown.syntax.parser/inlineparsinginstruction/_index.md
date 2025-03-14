@@ -14,12 +14,14 @@ Defines the InlineParsingInstruction struct.
 public struct InlineParsingInstruction : IEquatable<InlineParsingInstruction>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Instruction](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/instruction/) { get; } | Get the Instruction. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -30,6 +32,7 @@ public struct InlineParsingInstruction : IEquatable<InlineParsingInstruction>
 | [operator ==](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/op_equality/) |  |
 | [operator !=](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/op_inequality/) |  |
 
+## Public Members
 ## Fields
 
 | Name | Description |

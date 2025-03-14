@@ -14,6 +14,7 @@ The DocumentView interface is implemented by Document objects in DOM implementat
 public interface IDocumentView : IAbstractView
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

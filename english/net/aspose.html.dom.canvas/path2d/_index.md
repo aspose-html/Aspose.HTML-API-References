@@ -14,6 +14,7 @@ The Path2D interface of the Canvas 2D API is used to declare paths that are then
 public class Path2D : DOMObject, ICanvasPathMethods, IDisposable
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -22,6 +23,7 @@ public class Path2D : DOMObject, ICanvasPathMethods, IDisposable
 | [Path2D](path2d/#constructor_1)(*Path2D*) | returns a newly instantiated Path2D object with another path as an argument (creates a copy) |
 | [Path2D](path2d/#constructor_2)(*string*) | returns a newly instantiated Path2D object with a string consisting of SVG path data. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,12 +14,14 @@ Contains the headers associated with a content.
 public class ContentHeaders : WebHeaderCollection
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ContentHeaders](contentheaders/)() | Initializes a new instance of the `ContentHeaders` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |

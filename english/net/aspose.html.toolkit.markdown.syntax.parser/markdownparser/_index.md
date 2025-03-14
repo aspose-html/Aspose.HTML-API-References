@@ -14,6 +14,7 @@ Represents an MarkDown format document parser.
 public class MarkdownParser
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class MarkdownParser
 | [MarkdownParser](markdownparser/#constructor)() | Initializes a new instance of the `MarkdownParser` class. |
 | [MarkdownParser](markdownparser/#constructor_1)(*Action&amp;lt;IMarkdownParserBuilder&amp;gt;*) | Initializes a new instance of the `MarkdownParser` class. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -30,6 +32,7 @@ public class MarkdownParser
 | [Parse](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parse/#parse_1)(*TextReader*) | Parse an TextReader. |
 | [ParseFile](../../aspose.html.toolkit.markdown.syntax.parser/markdownparser/parsefile/)(*string*) | Parse an file. |
 
+## Public Members
 ## Fields
 
 | Name | Description |

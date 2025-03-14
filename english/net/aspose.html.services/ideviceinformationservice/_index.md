@@ -14,6 +14,7 @@ An interface that is described an environment in which [`Document`](../../aspose
 public interface IDeviceInformationService
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

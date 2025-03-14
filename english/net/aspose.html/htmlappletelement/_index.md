@@ -16,6 +16,7 @@ See also the [Document object Model (DOM) Level 2 HTML Specification](http://www
 public class HTMLAppletElement : HTMLElement
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -66,6 +67,7 @@ public class HTMLAppletElement : HTMLElement
 | [Vspace](../../aspose.html/htmlappletelement/vspace/) { get; set; } | Vertical space, in pixels, above and below this image, applet, or object. See the vspace attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01. @version DOM Level 2 |
 | [Width](../../aspose.html/htmlappletelement/width/) { get; set; } | Override width. See the width attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -118,6 +120,7 @@ public class HTMLAppletElement : HTMLElement
 | [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(*string, bool*) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
+## Public Members
 ## Events
 
 | Name | Description |

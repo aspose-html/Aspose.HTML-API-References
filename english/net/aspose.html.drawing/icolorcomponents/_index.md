@@ -14,6 +14,7 @@ Declares method and properties for processing color components.
 public interface IColorComponents
 ```
 
+## Members
 ## Properties
 
 | Name | Description |
@@ -22,6 +23,7 @@ public interface IColorComponents
 | [Components](../../aspose.html.drawing/icolorcomponents/components/) { get; } | Returns the color components as float array. |
 | [Model](../../aspose.html.drawing/icolorcomponents/model/) { get; } | Returns the color model. |
 
+## Members
 ## Methods
 
 | Name | Description |

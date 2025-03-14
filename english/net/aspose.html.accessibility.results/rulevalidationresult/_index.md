@@ -14,6 +14,7 @@ Class - result of rule check, contains a list of [`ITechniqueResult`](../../aspo
 public class RuleValidationResult
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |

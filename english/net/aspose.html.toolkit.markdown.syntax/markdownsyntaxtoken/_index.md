@@ -14,6 +14,7 @@ Represent the Markdown Syntax Token.
 public sealed class MarkdownSyntaxToken : MarkdownSyntaxNode
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -27,6 +28,7 @@ public sealed class MarkdownSyntaxToken : MarkdownSyntaxNode
 | [Span](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/span/) { get; } | Get the span. |
 | [Text](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/text/) { get; } | Get the text content of span. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

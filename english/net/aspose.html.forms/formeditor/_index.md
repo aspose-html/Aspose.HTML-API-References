@@ -14,6 +14,7 @@ This class represents the editor over the [`HTMLFormElement`](../../aspose.html/
 public class FormEditor : IDisposable, IEnumerable<FormElement>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,6 +25,7 @@ public class FormEditor : IDisposable, IEnumerable<FormElement>
 | [Item](../../aspose.html.forms/formeditor/item/) { get; } | Returns the element by specified index. (2 indexers) |
 | [Method](../../aspose.html.forms/formeditor/method/) { get; set; } | HTTP method [[IETF RFC 2616](http://www.ietf.org/rfc/rfc2616.txt)] used to submit form. See the method attribute definition in HTML 4.01. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

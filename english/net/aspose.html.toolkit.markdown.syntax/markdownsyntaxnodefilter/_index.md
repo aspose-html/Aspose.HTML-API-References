@@ -14,12 +14,14 @@ Base implementation of the MarkdownSyntaxNodeFilter.
 public abstract class MarkdownSyntaxNodeFilter
 ```
 
+## Public Members
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | abstract [AcceptNode](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/acceptnode/)(*[MarkdownSyntaxNode](../markdownsyntaxnode/)*) | Defines the interface for accepting node. |
 
+## Public Members
 ## Fields
 
 | Name | Description |

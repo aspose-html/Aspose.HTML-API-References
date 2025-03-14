@@ -14,6 +14,7 @@ Describes the result of the technique validation.
 public interface ITechniqueResult
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

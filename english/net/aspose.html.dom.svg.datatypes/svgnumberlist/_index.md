@@ -14,6 +14,7 @@ This interface defines a list of SVGNumber objects.
 public class SVGNumberList : SVGListBase<SVGNumber>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,6 +23,7 @@ public class SVGNumberList : SVGListBase<SVGNumber>
 | [Length](../../aspose.html.dom.svg.collections/svglistbase-1/length/) { get; } |  |
 | [NumberOfItems](../../aspose.html.dom.svg.collections/svglistbase-1/numberofitems/) { get; } |  |
 
+## Public Members
 ## Methods
 
 | Name | Description |

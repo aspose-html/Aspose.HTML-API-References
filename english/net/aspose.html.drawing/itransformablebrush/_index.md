@@ -14,6 +14,7 @@ Desclares methods for getting transformation matrix and wrap mode.
 public interface ITransformableBrush : IBrush
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

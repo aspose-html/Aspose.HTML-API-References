@@ -14,6 +14,7 @@ Represent the Setext heading syntax node.
 public sealed class SetextHeadingSyntaxNode : LeafBlockSyntaxNode
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -25,6 +26,7 @@ public sealed class SetextHeadingSyntaxNode : LeafBlockSyntaxNode
 | [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
 | [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

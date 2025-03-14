@@ -14,12 +14,14 @@ Represents fonts handling settings.
 public class FontsSettings
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [FontMatcher](../../aspose.html/fontssettings/fontmatcher/) { get; set; } | Gets or sets the class which allows you to control some parts of the font matching algorithm. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,6 +14,7 @@ A base interface that all views shall derive from.
 public interface IAbstractView
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

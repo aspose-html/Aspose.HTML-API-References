@@ -14,6 +14,7 @@ The DOMException interface represents an abnormal event (called an exception) wh
 public class DOMException : PlatformException
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class DOMException : PlatformException
 | [DOMException](domexception/#constructor)(*string*) | Initializes a new instance of the `DOMException` class. |
 | [DOMException](domexception/#constructor_1)(*string, string*) | Initializes a new instance of the `DOMException` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -29,6 +31,7 @@ public class DOMException : PlatformException
 | override [Message](../../aspose.html.dom/domexception/message/) { get; } | Returns a string representing a message or description associated with the given error name. |
 | [Name](../../aspose.html.dom/domexception/name/) { get; } | Returns a string that contains one of the strings associated with an error name. |
 
+## Public Members
 ## Fields
 
 | Name | Description |

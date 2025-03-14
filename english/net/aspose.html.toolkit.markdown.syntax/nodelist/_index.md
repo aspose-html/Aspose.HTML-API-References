@@ -14,12 +14,14 @@ Base implementation of the NodeList.
 public abstract class NodeList : NodeList<MarkdownSyntaxNode>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | abstract [Count](../../aspose.html.toolkit.markdown.syntax/nodelist-1/count/) { get; } |  |
 
+## Public Members
 ## Methods
 
 | Name | Description |

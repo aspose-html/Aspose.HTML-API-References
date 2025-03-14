@@ -14,6 +14,7 @@ Represents an opaque object describing a pattern, based on an image, a canvas or
 public interface ICanvasPattern
 ```
 
+## Members
 ## Methods
 
 | Name | Description |

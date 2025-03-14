@@ -14,6 +14,7 @@ The NodeList provides the abstraction of an ordered collection of nodes, without
 public abstract class NodeList : DOMObject, IEnumerable<Node>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -21,6 +22,7 @@ public abstract class NodeList : DOMObject, IEnumerable<Node>
 | abstract [Item](../../aspose.html.collections/nodelist/item/) { get; } | Method returns the indexth item in the collection. If index is greater than or equal to the number of nodes in the list, this returns null. |
 | abstract [Length](../../aspose.html.collections/nodelist/length/) { get; } | The number of nodes in the list. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

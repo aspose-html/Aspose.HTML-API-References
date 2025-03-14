@@ -14,18 +14,21 @@ Represents the `ftp:` protocol message handler.
 public class FtpProtocolMessageHandler : MessageHandler
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [FtpProtocolMessageHandler](ftpprotocolmessagehandler/)() | Initializes a new instance of the `FtpProtocolMessageHandler` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Filters](../../aspose.html.net/messagehandler/filters/) { get; } | Gets the filters list that are corresponding to the specified handler type. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

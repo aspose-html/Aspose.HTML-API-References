@@ -14,6 +14,7 @@ Represents an array of twos-complement 16-bit signed integers in the platform by
 public class Int16Array : TypedArray<short>
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -24,6 +25,7 @@ public class Int16Array : TypedArray<short>
 | [Int16Array](int16array/#constructor_1)(*[ArrayBuffer](../arraybuffer/), int*) | Initializes a new instance of the `Int16Array` class. |
 | [Int16Array](int16array/#constructor_2)(*[ArrayBuffer](../arraybuffer/), int, int*) | Initializes a new instance of the `Int16Array` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -34,12 +36,14 @@ public class Int16Array : TypedArray<short>
 | override [Item](../../aspose.html/int16array/item/) { get; set; } | Gets or sets the Int16 at the specified index. |
 | [Length](../../aspose.html/typedarray/length/) { get; } | Gets the length of a typed array. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
+## Public Members
 ## Fields
 
 | Name | Description |

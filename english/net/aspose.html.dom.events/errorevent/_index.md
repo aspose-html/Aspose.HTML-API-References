@@ -14,6 +14,7 @@ The ErrorEvent provides contextual information about an errors that occurred dur
 public class ErrorEvent : Event
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class ErrorEvent : Event
 | [ErrorEvent](errorevent/#constructor_1)(*Exception*) | Initializes a new instance of the `ErrorEvent` class. |
 | [ErrorEvent](errorevent/#constructor)(*IDictionary&amp;lt;string, object&amp;gt;*) |  |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -40,6 +42,7 @@ public class ErrorEvent : Event
 | [TimeStamp](../../aspose.html.dom.events/event/timestamp/) { get; } | Used to specify the time (in milliseconds relative to the epoch) at which the event was created. Due to the fact that some systems may not provide this information the value of timeStamp may be not available for all events. When not available, a value of 0 will be returned. Examples of epoch time are the time of the system start or 0:0:0 UTC 1st January 1970. |
 | [Type](../../aspose.html.dom.events/event/type/) { get; } | The name of the event (case-insensitive). The name must be an XML name. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

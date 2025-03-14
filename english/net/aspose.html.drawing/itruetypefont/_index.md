@@ -14,6 +14,7 @@ Declares methods for working with TrueType font.
 public interface ITrueTypeFont
 ```
 
+## Members
 ## Properties
 
 | Name | Description |
@@ -23,6 +24,7 @@ public interface ITrueTypeFont
 | [FullFontName](../../aspose.html.drawing/itruetypefont/fullfontname/) { get; } | This should be a combination of "FamilyName" and "SubFamilyName". Exception: if the font is "Regular" as indicated in "SubFamilyName", then use only the family name contained in "FamilyName". An exception to the above definition of Full font name is for Microsoft platform strings for CFF OpenType fonts: in this case, the Full font name string must be identical to the PostScript FontName in the CFF Name INDEX. |
 | [SubFamilyName](../../aspose.html.drawing/itruetypefont/subfamilyname/) { get; } | The Font Subfamily name distinguishes the font in a group with the same Font Family name. This is assumed to address style (italic, oblique) and weight (light, bold, black, etc.). A font with no particular differences in weight or style (e.g. medium weight, not italic and fsSelection bit 6 set) should have the string "Regular" stored in this position. |
 
+## Members
 ## Methods
 
 | Name | Description |

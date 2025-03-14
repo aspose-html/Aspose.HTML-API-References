@@ -14,6 +14,7 @@ The CharacterData extends Node with a set of attributes and methods for accessin
 public abstract class CharacterData : Node
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -37,6 +38,7 @@ public abstract class CharacterData : Node
 | [PreviousSibling](../../aspose.html.dom/node/previoussibling/) { get; } | The read-only previousSibling property of the [`Node`](../node/) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../node/firstchild/) list, or null if the specified node is the first in that list. |
 | virtual [TextContent](../../aspose.html.dom/node/textcontent/) { get; set; } | The textContent property of the [`Node`](../node/) interface represents the text content of the node and its descendants. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

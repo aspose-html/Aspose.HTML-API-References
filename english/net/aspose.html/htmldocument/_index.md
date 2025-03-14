@@ -14,6 +14,7 @@ Represents an HTML document. All top level HTML objects are added to this object
 public class HTMLDocument : Document, IDocumentCSS
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -35,6 +36,7 @@ public class HTMLDocument : Document, IDocumentCSS
 | [HTMLDocument](htmldocument/#constructor_15)(*string, string, [Configuration](../configuration/)*) | Creates an HTML document from a String content with specified base-uri and environment configuration settings. |
 | [HTMLDocument](htmldocument/#constructor_13)(*string, [Url](../url/), [Configuration](../configuration/)*) | Creates an HTML document from a String content with specified base-uri and environment configuration settings. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -88,6 +90,7 @@ public class HTMLDocument : Document, IDocumentCSS
 | [XmlStandalone](../../aspose.html.dom/document/xmlstandalone/) { get; set; } | An attribute specifying, as part of the XML declaration, whether this document is standalone. This is false when unspecified. |
 | [XmlVersion](../../aspose.html.dom/document/xmlversion/) { get; set; } | An attribute specifying, as part of the XML declaration, the version number of this document. If there is no declaration and if this document supports the "XML" feature, the value is "1.0". If this document does not support the "XML" feature, the value is always null. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -170,6 +173,7 @@ public class HTMLDocument : Document, IDocumentCSS
 | [Write](../../aspose.html.dom/document/write/)(*params string[]*) | Write a string of text to a document stream opened by open(). Note that the function will produce a document which is not necessarily driven by a DTD and therefore might be produce an invalid result in the context of the document. |
 | [WriteLn](../../aspose.html.dom/document/writeln/)(*params string[]*) | Write a string of text followed by a newline character to a document stream opened by open(). Note that the function will produce a document which is not necessarily driven by a DTD and therefore might be produce an invalid result in the context of the document |
 
+## Public Members
 ## Events
 
 | Name | Description |

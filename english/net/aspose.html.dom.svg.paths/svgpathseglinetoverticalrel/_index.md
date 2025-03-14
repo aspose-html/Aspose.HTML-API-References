@@ -14,6 +14,7 @@ The SVGPathSegLinetoVerticalRel interface corresponds to a "relative vertical li
 public class SVGPathSegLinetoVerticalRel : SVGPathSeg
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,6 +23,7 @@ public class SVGPathSegLinetoVerticalRel : SVGPathSeg
 | [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | The type of the path segment, specified by the corresponding one character command name. |
 | [Y](../../aspose.html.dom.svg.paths/svgpathseglinetoverticalrel/y/) { get; set; } | The relative Y coordinate for the end point of this path segment. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

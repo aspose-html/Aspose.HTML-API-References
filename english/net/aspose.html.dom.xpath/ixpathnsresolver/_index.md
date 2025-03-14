@@ -14,6 +14,7 @@ The `XPathNSResolver` interface permit `prefix` strings in the expression to be 
 public interface IXPathNSResolver
 ```
 
+## Members
 ## Methods
 
 | Name | Description |

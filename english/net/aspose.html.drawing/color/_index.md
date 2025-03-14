@@ -14,6 +14,7 @@ The Color class lets you specify colors as Red-Green-Blue (RGB) values, Hue-Satu
 public class Color
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -26,6 +27,7 @@ public class Color
 | [Color](color/#constructor_6)(*float, float, float, float*) | Initializes a new instance of the `Color` class. All color components must be in the range 0-1. |
 | [Color](color/#constructor_4)(*int, int, int, int*) | Initializes a new instance of the `Color` class. All color components must be in the range 0-255. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -35,6 +37,7 @@ public class Color
 | [Green](../../aspose.html.drawing/color/green/) { get; } | Represents the green component of the color. |
 | [Red](../../aspose.html.drawing/color/red/) { get; } | Represents the red component of the color |
 
+## Public Members
 ## Methods
 
 | Name | Description |

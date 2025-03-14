@@ -14,6 +14,7 @@ The DOMTokenList class represents a set of space-separated tokens. It is indexed
 public class DOMTokenList : DOMObject, IEnumerable<string>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,6 +23,7 @@ public class DOMTokenList : DOMObject, IEnumerable<string>
 | [Length](../../aspose.html.collections/domtokenlist/length/) { get; } | Returns an ulong which represents the number of tokens stored in this list. |
 | [Value](../../aspose.html.collections/domtokenlist/value/) { get; set; } | Gets or sets the value of a corresponding attribute. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

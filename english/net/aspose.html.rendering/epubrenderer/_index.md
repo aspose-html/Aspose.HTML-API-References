@@ -14,12 +14,14 @@ Represents a EPub document renderer.
 public class EpubRenderer : Renderer<Stream>
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [EpubRenderer](epubrenderer/)() | The default constructor. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

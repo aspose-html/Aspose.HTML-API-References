@@ -14,6 +14,7 @@ Represent the whitespace syntax node.
 public sealed class WhitespaceSyntaxNode : TextSyntaxNode
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -27,6 +28,7 @@ public sealed class WhitespaceSyntaxNode : TextSyntaxNode
 | virtual [Span](../../aspose.html.toolkit.markdown.syntax/textsyntaxnode/span/) { get; } | Defines the interface for get span. |
 | [Value](../../aspose.html.toolkit.markdown.syntax/textsyntaxnode/value/) { get; } | Defines the property for get string value. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

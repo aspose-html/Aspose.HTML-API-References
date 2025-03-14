@@ -14,18 +14,21 @@ Represents the `http:` protocol message handler.
 public class HttpProtocolMessageHandler : MessageHandler
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [HttpProtocolMessageHandler](httpprotocolmessagehandler/)() | Initializes a new instance of the `HttpProtocolMessageHandler` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Filters](../../aspose.html.net/messagehandler/filters/) { get; } | Gets the filters list that are corresponding to the specified handler type. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

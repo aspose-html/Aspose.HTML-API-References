@@ -14,6 +14,7 @@ The SVGAngle interface corresponds to the angle basic data type.
 public class SVGAngle : SVGValueType
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -23,6 +24,7 @@ public class SVGAngle : SVGValueType
 | [ValueAsString](../../aspose.html.dom.svg.datatypes/svgangle/valueasstring/) { get; set; } | The angle value as a string value, in the units expressed by unitType. Setting this attribute will cause value, valueInSpecifiedUnits and unitType to be updated automatically to reflect this setting. |
 | [ValueInSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svgangle/valueinspecifiedunits/) { get; set; } | The angle value as a floating point value, in the units expressed by unitType. Setting this attribute will cause value and valueAsString to be updated automatically to reflect this setting. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -33,6 +35,7 @@ public class SVGAngle : SVGValueType
 | [NewValueSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svgangle/newvaluespecifiedunits/)(*ushort, float*) | Reset the value as a number with an associated unitType, thereby replacing the values for all of the attributes on the object. |
 | override [ToString](../../aspose.html.dom.svg.datatypes/svgangle/tostring/)() | Returns a String that represents this instance. |
 
+## Public Members
 ## Fields
 
 | Name | Description |

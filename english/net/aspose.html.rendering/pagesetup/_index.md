@@ -14,6 +14,7 @@ Represents a page setup object is used for configuration output page-set.
 public class PageSetup
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -26,6 +27,7 @@ public class PageSetup
 | [PageLayoutOptions](../../aspose.html.rendering/pagesetup/pagelayoutoptions/) { get; set; } | Gets or sets the [`PageLayoutOptions`](../pagelayoutoptions/). Default value is None, any other value will override the [`AdjustToWidestPage`](./adjusttowidestpage/) behaviour. Works only with HTML documents. |
 | [RightPage](../../aspose.html.rendering/pagesetup/rightpage/) { get; } | Gets the Even Page configuration. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

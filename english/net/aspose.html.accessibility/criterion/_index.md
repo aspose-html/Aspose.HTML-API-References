@@ -14,6 +14,7 @@ Verifiable success criteria are provided for each recommendation, so WCAG 2.0 ca
 public class Criterion : Rule
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |

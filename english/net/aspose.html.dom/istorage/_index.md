@@ -14,12 +14,14 @@ This interface of the Web Storage API provides access to a particular domain's s
 public interface IStorage
 ```
 
+## Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Length](../../aspose.html.dom/istorage/length/) { get; } | Returns the number of key/value pairs. |
 
+## Members
 ## Methods
 
 | Name | Description |

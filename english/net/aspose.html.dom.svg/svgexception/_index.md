@@ -14,18 +14,21 @@ This exception is raised when a specific SVG operation is impossible to perform.
 public class SVGException : PlatformException
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SVGException](svgexception/)(*ushort*) | Initializes a new instance of the `SVGException` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Code](../../aspose.html.dom.svg/svgexception/code/) { get; } | A code identifying the reason why the requested operation could not be performed. The value of this member will be one of the constants in the SVGException code group. |
 
+## Public Members
 ## Fields
 
 | Name | Description |

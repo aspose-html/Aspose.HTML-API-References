@@ -14,12 +14,14 @@ Specific data class provides few properties to manage conversion result. For exa
 public class PdfSaveOptions : PdfRenderingOptions
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [PdfSaveOptions](pdfsaveoptions/)() | The default constructor. |
 
+## Public Members
 ## Properties
 
 | Name | Description |

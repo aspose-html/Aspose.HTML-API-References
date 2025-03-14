@@ -14,6 +14,7 @@ Represents an array of twos-complement 16-bit unsigned integers in the platform 
 public class Uint16Array : TypedArray<ushort>
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -24,6 +25,7 @@ public class Uint16Array : TypedArray<ushort>
 | [Uint16Array](uint16array/#constructor_1)(*[ArrayBuffer](../arraybuffer/), int*) | Initializes a new instance of the `Uint16Array` class. |
 | [Uint16Array](uint16array/#constructor_2)(*[ArrayBuffer](../arraybuffer/), int, int*) | Initializes a new instance of the `Uint16Array` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -34,12 +36,14 @@ public class Uint16Array : TypedArray<ushort>
 | override [Item](../../aspose.html/uint16array/item/) { get; set; } | Gets or sets the UInt16 at the specified index. |
 | [Length](../../aspose.html/typedarray/length/) { get; } | Gets the length of a typed array. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
+## Public Members
 ## Fields
 
 | Name | Description |

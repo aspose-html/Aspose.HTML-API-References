@@ -14,6 +14,7 @@ The UIEvent interface provides specific contextual information associated with U
 public class UIEvent : Event
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class UIEvent : Event
 | [UIEvent](uievent/#constructor)(*string*) | Initializes a new instance of the `UIEvent` class. |
 | [UIEvent](uievent/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) |  |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -37,6 +39,7 @@ public class UIEvent : Event
 | [Type](../../aspose.html.dom.events/event/type/) { get; } | The name of the event (case-insensitive). The name must be an XML name. |
 | [View](../../aspose.html.dom.events/uievent/view/) { get; } | The view attribute identifies the Window from which the event was generated. The un-initialized value of this attribute MUST be null. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

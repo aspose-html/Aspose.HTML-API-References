@@ -14,12 +14,14 @@ The DOMObject type is used to represent an base object for the entire Document O
 public class DOMObject : INotifyPropertyChanged
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [DOMObject](domobject/)() | The default constructor. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

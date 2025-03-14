@@ -14,6 +14,7 @@ The SVGPathSegCurvetoQuadraticSmoothAbs interface corresponds to an "absolute sm
 public class SVGPathSegCurvetoQuadraticSmoothAbs : SVGPathSeg
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -23,6 +24,7 @@ public class SVGPathSegCurvetoQuadraticSmoothAbs : SVGPathSeg
 | [X](../../aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticsmoothabs/x/) { get; set; } | The absolute X coordinate for the end point of this path segment. |
 | [Y](../../aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticsmoothabs/y/) { get; set; } | The absolute Y coordinate for the end point of this path segment. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

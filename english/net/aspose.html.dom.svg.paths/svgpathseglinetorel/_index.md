@@ -14,6 +14,7 @@ The SVGPathSegLinetoRel interface corresponds to a "relative lineto" (l) path da
 public class SVGPathSegLinetoRel : SVGPathSeg
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -23,6 +24,7 @@ public class SVGPathSegLinetoRel : SVGPathSeg
 | [X](../../aspose.html.dom.svg.paths/svgpathseglinetorel/x/) { get; set; } | The relative X coordinate for the end point of this path segment. |
 | [Y](../../aspose.html.dom.svg.paths/svgpathseglinetorel/y/) { get; set; } | The relative Y coordinate for the end point of this path segment. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

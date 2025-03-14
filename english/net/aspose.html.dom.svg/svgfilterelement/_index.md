@@ -14,6 +14,7 @@ The SVGFilterElement interface corresponds to the ‘filter’ element.
 public class SVGFilterElement : SVGElement, ISVGUnitTypes, ISVGURIReference
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -60,6 +61,7 @@ public class SVGFilterElement : SVGElement, ISVGUnitTypes, ISVGURIReference
 | [X](../../aspose.html.dom.svg/svgfilterelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘filter’ element. |
 | [Y](../../aspose.html.dom.svg/svgfilterelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘filter’ element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

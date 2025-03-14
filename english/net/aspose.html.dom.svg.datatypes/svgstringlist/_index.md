@@ -14,6 +14,7 @@ SVGStringList has the same attributes and methods as other SVGxxxList interfaces
 public class SVGStringList : SVGListBase<string>
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class SVGStringList : SVGListBase<string>
 | [SVGStringList](svgstringlist/#constructor)() | Initializes a new instance of the `SVGStringList` class. |
 | [SVGStringList](svgstringlist/#constructor_1)(*IEnumerable&amp;lt;string&amp;gt;*) | Initializes a new instance of the `SVGStringList` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -29,6 +31,7 @@ public class SVGStringList : SVGListBase<string>
 | [Length](../../aspose.html.dom.svg.collections/svglistbase-1/length/) { get; } |  |
 | [NumberOfItems](../../aspose.html.dom.svg.collections/svglistbase-1/numberofitems/) { get; } |  |
 
+## Public Members
 ## Methods
 
 | Name | Description |

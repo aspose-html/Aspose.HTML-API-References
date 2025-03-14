@@ -14,6 +14,7 @@ Defines methods and properties that support custom rendering of the graphic elem
 public interface IDevice : IDisposable
 ```
 
+## Members
 ## Properties
 
 | Name | Description |
@@ -21,6 +22,7 @@ public interface IDevice : IDisposable
 | [GraphicContext](../../aspose.html.rendering/idevice/graphiccontext/) { get; } | Gets the graphic context. |
 | [Options](../../aspose.html.rendering/idevice/options/) { get; } | Gets rendering options. |
 
+## Members
 ## Methods
 
 | Name | Description |

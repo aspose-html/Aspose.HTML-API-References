@@ -14,6 +14,7 @@ Represents the HardBreakSyntaxNode.
 public sealed class HardBreakSyntaxNode : LineBreakSyntaxNode
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -27,6 +28,7 @@ public sealed class HardBreakSyntaxNode : LineBreakSyntaxNode
 | virtual [Span](../../aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/span/) { get; } | Get the span. |
 | [Value](../../aspose.html.toolkit.markdown.syntax/linebreaksyntaxnode/value/) { get; } | Get the value. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

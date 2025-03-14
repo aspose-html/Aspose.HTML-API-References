@@ -14,12 +14,14 @@ Provides methods to license the component.
 public class License
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [License](license/)() | Initializes a new instance of this class. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

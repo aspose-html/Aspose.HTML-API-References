@@ -14,12 +14,14 @@ Represents rendering options.
 public class RenderingOptions
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [RenderingOptions](renderingoptions/)() | Initializes a new instance of the `RenderingOptions` class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |

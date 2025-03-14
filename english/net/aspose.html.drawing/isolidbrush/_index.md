@@ -14,6 +14,7 @@ Defines brush interface of a single color
 public interface ISolidBrush : IBrush
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

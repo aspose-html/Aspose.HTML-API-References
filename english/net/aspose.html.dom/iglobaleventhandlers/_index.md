@@ -14,6 +14,7 @@ Represents interface that must be inherited by all element that is supported sys
 public interface IGlobalEventHandlers
 ```
 
+## Members
 ## Events
 
 | Name | Description |

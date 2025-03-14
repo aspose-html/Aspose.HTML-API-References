@@ -14,6 +14,7 @@ Represents a simple or a complex value. A CSSValue object only occurs in a conte
 public abstract class CSSValue : DOMObject
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -21,6 +22,7 @@ public abstract class CSSValue : DOMObject
 | abstract [CSSText](../../aspose.html.dom.css/cssvalue/csstext/) { get; set; } | The cssText property of the `CSSValue` interface represents the current computed CSS property value. |
 | [CSSValueType](../../aspose.html.dom.css/cssvalue/cssvaluetype/) { get; } | A code defining the type of the value. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -32,6 +34,7 @@ public abstract class CSSValue : DOMObject
 | [operator ==](../../aspose.html.dom.css/cssvalue/op_equality/) |  |
 | [operator !=](../../aspose.html.dom.css/cssvalue/op_inequality/) |  |
 
+## Public Members
 ## Fields
 
 | Name | Description |

@@ -14,6 +14,7 @@ Declares method for getting of brush type.
 public interface IBrush : IDisposable
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

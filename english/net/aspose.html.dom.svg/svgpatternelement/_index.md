@@ -15,6 +15,7 @@ public class SVGPatternElement : SVGElement, ISVGFitToViewBox, ISVGTests, ISVGUn
     ISVGURIReference
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -67,6 +68,7 @@ public class SVGPatternElement : SVGElement, ISVGFitToViewBox, ISVGTests, ISVGUn
 | [X](../../aspose.html.dom.svg/svgpatternelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘pattern’ element. |
 | [Y](../../aspose.html.dom.svg/svgpatternelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘pattern’ element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

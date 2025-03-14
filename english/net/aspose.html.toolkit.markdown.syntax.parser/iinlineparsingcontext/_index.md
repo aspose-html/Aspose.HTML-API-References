@@ -14,6 +14,7 @@ Defines the IInlineParsingContext interface.
 public interface IInlineParsingContext
 ```
 
+## Members
 ## Properties
 
 | Name | Description |
@@ -23,6 +24,7 @@ public interface IInlineParsingContext
 | [Source](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/source/) { get; } | Get the Source. |
 | [SyntaxFactory](../../aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/syntaxfactory/) { get; } | Get the SyntaxFactory. |
 
+## Members
 ## Methods
 
 | Name | Description |

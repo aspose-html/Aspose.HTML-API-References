@@ -14,6 +14,7 @@ Filters are objects that know how to "filter out" nodes.
 public abstract class NodeFilter : DOMObject, INodeFilter
 ```
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -21,6 +22,7 @@ public abstract class NodeFilter : DOMObject, INodeFilter
 | abstract [AcceptNode](../../aspose.html.dom.traversal.filters/nodefilter/acceptnode/)(*[Node](../../aspose.html.dom/node/)*) | Test whether a specified node is visible in the logical view of a TreeWalker or NodeIterator. This function will be called by the implementation of TreeWalker and NodeIterator; it is not normally called directly from user code. (Though you could do so if you wanted to use the same filter to guide your own application logic.) |
 | override [GetPlatformType](../../aspose.html.dom.traversal.filters/nodefilter/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
 
+## Public Members
 ## Fields
 
 | Name | Description |

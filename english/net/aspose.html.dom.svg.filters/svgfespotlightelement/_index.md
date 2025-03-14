@@ -14,6 +14,7 @@ The SVGFESpotLightElement interface corresponds to the ‘feSpotLight’ element
 public class SVGFESpotLightElement : SVGElement
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -61,6 +62,7 @@ public class SVGFESpotLightElement : SVGElement
 | [Y](../../aspose.html.dom.svg.filters/svgfespotlightelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘feSpotLight’ element. |
 | [Z](../../aspose.html.dom.svg.filters/svgfespotlightelement/z/) { get; } | Corresponds to attribute ‘z’ on the given ‘feSpotLight’ element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

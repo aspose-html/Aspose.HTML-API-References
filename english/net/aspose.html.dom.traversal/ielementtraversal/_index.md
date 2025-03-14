@@ -14,6 +14,7 @@ The ElementTraversal interface is a set of read-only attributes which allow an a
 public interface IElementTraversal
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

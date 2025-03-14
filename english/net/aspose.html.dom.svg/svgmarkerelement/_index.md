@@ -14,6 +14,7 @@ The SVGMarkerElement interface corresponds to the ‘marker’ element.
 public class SVGMarkerElement : SVGElement, ISVGFitToViewBox
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -62,6 +63,7 @@ public class SVGMarkerElement : SVGElement, ISVGFitToViewBox
 | [ViewBox](../../aspose.html.dom.svg/svgmarkerelement/viewbox/) { get; } | Corresponds to attribute ‘viewBox’ on the given element. |
 | [ViewportElement](../../aspose.html.dom.svg/svgelement/viewportelement/) { get; } | The element which established the current viewport. Often, the nearest ancestor ‘svg’ element. Null if the given element is the outermost svg element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -116,6 +118,7 @@ public class SVGMarkerElement : SVGElement, ISVGFitToViewBox
 | [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(*string, bool*) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
+## Public Members
 ## Fields
 
 | Name | Description |

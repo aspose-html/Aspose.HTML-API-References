@@ -19,6 +19,7 @@ public abstract class TypedArray<T> : TypedArray
 | --- | --- |
 | T | The data type. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -29,6 +30,7 @@ public abstract class TypedArray<T> : TypedArray
 | abstract [Item](../../aspose.html/typedarray-1/item/) { get; set; } | Gets or sets the !:T at the specified index. |
 | [Length](../../aspose.html/typedarray/length/) { get; } | Gets the length of a typed array. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

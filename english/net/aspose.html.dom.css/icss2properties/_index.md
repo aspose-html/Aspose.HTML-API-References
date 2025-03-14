@@ -14,6 +14,7 @@ The CSS2Properties interface represents a convenience mechanism for retrieving a
 public interface ICSS2Properties
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

@@ -14,6 +14,7 @@ Represents collection of the [`MessageHandler`](../messagehandler/).
 public class MessageHandlerCollection : Collection<MessageHandler>
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |

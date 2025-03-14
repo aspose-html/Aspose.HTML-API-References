@@ -14,6 +14,7 @@ The SVGTextPositioningElement interface is inherited by text-related interfaces:
 public class SVGTextPositioningElement : SVGTextContentElement
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -66,6 +67,7 @@ public class SVGTextPositioningElement : SVGTextContentElement
 | [X](../../aspose.html.dom.svg/svgtextpositioningelement/x/) { get; } | Corresponds to attribute ‘x’ on the given element. |
 | [Y](../../aspose.html.dom.svg/svgtextpositioningelement/y/) { get; } | Corresponds to attribute ‘y’ on the given element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

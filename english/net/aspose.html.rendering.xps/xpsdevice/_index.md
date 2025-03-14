@@ -14,6 +14,7 @@ Represents rendering to a xps document.
 public class XpsDevice : Device<XpsGraphicContext, XpsRenderingOptions>
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -25,6 +26,7 @@ public class XpsDevice : Device<XpsGraphicContext, XpsRenderingOptions>
 | [XpsDevice](xpsdevice/#constructor_2)(*[XpsRenderingOptions](../xpsrenderingoptions/), Stream*) | Initializes a new instance of the `XpsDevice` class by rendering options and output stream. |
 | [XpsDevice](xpsdevice/#constructor_3)(*[XpsRenderingOptions](../xpsrenderingoptions/), string*) | Initializes a new instance of the `XpsDevice` class by rendering options and output file name. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -32,6 +34,7 @@ public class XpsDevice : Device<XpsGraphicContext, XpsRenderingOptions>
 | [GraphicContext](../../aspose.html.rendering/device-2/graphiccontext/) { get; } |  |
 | [Options](../../aspose.html.rendering/device-2/options/) { get; } |  |
 
+## Protected Members
 ## Properties
 
 | Name | Description |
@@ -40,6 +43,7 @@ public class XpsDevice : Device<XpsGraphicContext, XpsRenderingOptions>
 | [OutputStream](../../aspose.html.rendering/device-2/outputstream/) { get; } |  |
 | [StreamProvider](../../aspose.html.rendering/device-2/streamprovider/) { get; } |  |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -67,6 +71,7 @@ public class XpsDevice : Device<XpsGraphicContext, XpsRenderingOptions>
 | virtual [StrokeAndFill](../../aspose.html.rendering/device-2/strokeandfill/)(*[FillRule](../../aspose.html.rendering/fillrule/)*) |  |
 | virtual [StrokeText](../../aspose.html.rendering/device-2/stroketext/)(*string, PointF*) |  |
 
+## Public Members
 ## Other Members
 
 | Name | Description |

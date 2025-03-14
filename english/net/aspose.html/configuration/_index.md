@@ -14,18 +14,21 @@ Represents the configuration context object that is used to set up the environme
 public class Configuration : IDisposable, IServiceProvider
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [Configuration](configuration/)() | Initializes a new instance of the `class`. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Security](../../aspose.html/configuration/security/) { get; set; } | Gets or sets the sandboxing flag of the configuration. Refer to article about [sandboxing](https://docs.aspose.com/html/net/working-with-documents/environment-configuration/#sandboxing). |
 
+## Public Members
 ## Methods
 
 | Name | Description |

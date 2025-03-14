@@ -14,6 +14,7 @@ The OptionElements represents a wrapper that is associated with the IHTMLOptions
 public class OptionCollection : IEnumerable<OptionElement>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class OptionCollection : IEnumerable<OptionElement>
 | [Count](../../aspose.html.forms/optioncollection/count/) { get; } | The number of Option in the list. |
 | [Item](../../aspose.html.forms/optioncollection/item/) { get; } | Gets the [`OptionElement`](../optionelement/) at the specified index. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

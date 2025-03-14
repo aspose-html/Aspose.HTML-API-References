@@ -16,6 +16,7 @@ See also the [Document object Model (DOM) Level 2 HTML Specification](http://www
 public class HTMLTableElement : HTMLElement
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -69,6 +70,7 @@ public class HTMLTableElement : HTMLElement
 | [Title](../../aspose.html/htmlelement/title/) { get; set; } | The element's advisory title. See the title attribute definition in HTML 4.01. |
 | [Width](../../aspose.html/htmltableelement/width/) { get; set; } | Specifies the desired table width. See the width attribute definition in HTML 4.01. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -129,6 +131,7 @@ public class HTMLTableElement : HTMLElement
 | [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(*string, bool*) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
+## Public Members
 ## Events
 
 | Name | Description |

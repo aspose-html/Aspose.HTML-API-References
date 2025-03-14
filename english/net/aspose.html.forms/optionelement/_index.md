@@ -14,6 +14,7 @@ The OptionElement represents a wrapper that is associated with the HTMLOptionEle
 public class OptionElement : FormElement<HTMLOptionElement>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |

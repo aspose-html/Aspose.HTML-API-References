@@ -14,6 +14,7 @@ Represent the Markdown text writer
 public sealed class MarkdownTextWriter : TextWriter
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -23,12 +24,14 @@ public sealed class MarkdownTextWriter : TextWriter
 | [MarkdownTextWriter](markdowntextwriter/#constructor_1)(*TextWriter*) | Initializes a new instance of an MarkdownTextWriter. |
 | [MarkdownTextWriter](markdowntextwriter/#constructor_3)(*string, bool*) | Initializes a new instance of an MarkdownTextWriter. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | override [Encoding](../../aspose.html.toolkit.markdown.syntax/markdowntextwriter/encoding/) { get; } | Get the encoding. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

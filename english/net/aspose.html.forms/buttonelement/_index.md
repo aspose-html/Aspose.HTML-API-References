@@ -14,6 +14,7 @@ The ButtonElement represents a wrapper that is associated with the HTMLButtonEle
 public class ButtonElement : FormElement<HTMLButtonElement>
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |

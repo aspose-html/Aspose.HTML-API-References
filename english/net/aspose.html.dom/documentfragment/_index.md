@@ -14,6 +14,7 @@ DocumentFragment is a "lightweight" or "minimal" Document object. It is very com
 public class DocumentFragment : Node, IParentNode
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -43,6 +44,7 @@ public class DocumentFragment : Node, IParentNode
 | [PreviousSibling](../../aspose.html.dom/node/previoussibling/) { get; } | The read-only previousSibling property of the [`Node`](../node/) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../node/firstchild/) list, or null if the specified node is the first in that list. |
 | override [TextContent](../../aspose.html.dom/documentfragment/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new string is not empty or null, replaced by a single Text node containing the string this attribute is set to. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

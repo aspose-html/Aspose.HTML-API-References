@@ -14,6 +14,7 @@ The SVGPathSegLinetoAbs interface corresponds to an "absolute lineto" (L) path d
 public class SVGPathSegLinetoAbs : SVGPathSeg
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -23,6 +24,7 @@ public class SVGPathSegLinetoAbs : SVGPathSeg
 | [X](../../aspose.html.dom.svg.paths/svgpathseglinetoabs/x/) { get; set; } | The absolute X coordinate for the end point of this path segment. |
 | [Y](../../aspose.html.dom.svg.paths/svgpathseglinetoabs/y/) { get; set; } | The absolute Y coordinate for the end point of this path segment. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

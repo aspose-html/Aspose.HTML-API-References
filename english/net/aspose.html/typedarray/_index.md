@@ -14,6 +14,7 @@ TypedArray objects present an array-like view of an underlying binary data buffe
 public abstract class TypedArray : DOMObject
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -23,6 +24,7 @@ public abstract class TypedArray : DOMObject
 | [ByteOffset](../../aspose.html/typedarray/byteoffset/) { get; } | Gets the byteOffset from the start of referenced ArrayBuffer. |
 | [Length](../../aspose.html/typedarray/length/) { get; } | Gets the length of a typed array. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

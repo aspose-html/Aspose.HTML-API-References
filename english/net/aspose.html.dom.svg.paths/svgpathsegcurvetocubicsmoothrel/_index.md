@@ -14,6 +14,7 @@ The SVGPathSegCurvetoCubicSmoothRel interface corresponds to a "relative smooth 
 public class SVGPathSegCurvetoCubicSmoothRel : SVGPathSeg
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -25,6 +26,7 @@ public class SVGPathSegCurvetoCubicSmoothRel : SVGPathSeg
 | [Y](../../aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothrel/y/) { get; set; } | The relative Y coordinate for the end point of this path segment. |
 | [Y2](../../aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothrel/y2/) { get; set; } | The relative Y coordinate for the second control point. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,6 +14,7 @@ The SVGAnimatedPoints interface supports elements which have a ‘points’ attr
 public interface ISVGAnimatedPoints
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

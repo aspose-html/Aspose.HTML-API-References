@@ -14,6 +14,7 @@ Defines brush interface with a linear gradient.
 public interface ILinearGradientBrush : IGradientBrush
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

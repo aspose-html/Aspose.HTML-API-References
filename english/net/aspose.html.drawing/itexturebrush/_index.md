@@ -14,6 +14,7 @@ Defines brush interface that uses an image to fill the interior of a shape.
 public interface ITextureBrush : ITransformableBrush
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

@@ -14,6 +14,7 @@ The SVGValueType type is used to represent an base SVG value type.
 public abstract class SVGValueType : DOMObject, IDisposable
 ```
 
+## Public Members
 ## Methods
 
 | Name | Description |

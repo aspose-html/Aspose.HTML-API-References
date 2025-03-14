@@ -14,6 +14,7 @@ The zoom event occurs when the user initiates an action which causes the current
 public class SVGZoomEvent : Event
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -33,6 +34,7 @@ public class SVGZoomEvent : Event
 | [Type](../../aspose.html.dom.events/event/type/) { get; } | The name of the event (case-insensitive). The name must be an XML name. |
 | [ZoomRectScreen](../../aspose.html.dom.svg.events/svgzoomevent/zoomrectscreen/) { get; } | The specified zoom rectangle in screen units. The SVGRect object is read only. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

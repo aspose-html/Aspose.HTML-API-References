@@ -14,6 +14,7 @@ The SVGViewElement interface corresponds to the ‘view’ element.
 public class SVGViewElement : SVGElement, ISVGFitToViewBox, ISVGZoomAndPan
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -57,6 +58,7 @@ public class SVGViewElement : SVGElement, ISVGFitToViewBox, ISVGZoomAndPan
 | [ViewTarget](../../aspose.html.dom.svg/svgviewelement/viewtarget/) { get; } | Corresponds to attribute ‘viewTarget’ on the given ‘view’ element. A list of DOMString values which contain the names listed in the ‘viewTarget’ attribute. Each of the DOMString values can be associated with the corresponding element using the getElementById() method call. |
 | [ZoomAndPan](../../aspose.html.dom.svg/svgviewelement/zoomandpan/) { get; set; } | Corresponds to attribute ‘zoomAndPan’ on the given element. The value must be one of the SVG_ZOOMANDPAN_* constants defined on this interface. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

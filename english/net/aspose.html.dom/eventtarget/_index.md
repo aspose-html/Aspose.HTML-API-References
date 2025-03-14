@@ -16,12 +16,14 @@ The EventTarget interface is implemented by objects that can receive events and 
 public class EventTarget : DOMObject, IDisposable, IEventTarget
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [EventTarget](eventtarget/)() | Initializes a new instance of the EventTarget object. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

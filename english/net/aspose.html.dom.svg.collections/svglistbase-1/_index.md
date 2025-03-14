@@ -18,6 +18,7 @@ public abstract class SVGListBase<T> : SVGValueType, IEnumerable<T>
 | --- | --- |
 | T | Type of item stored in list. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -26,6 +27,7 @@ public abstract class SVGListBase<T> : SVGValueType, IEnumerable<T>
 | [Length](../../aspose.html.dom.svg.collections/svglistbase-1/length/) { get; } | The number of items in the list. |
 | [NumberOfItems](../../aspose.html.dom.svg.collections/svglistbase-1/numberofitems/) { get; } | The number of items in the list. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

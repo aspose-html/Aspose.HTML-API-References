@@ -14,6 +14,7 @@ The WheelEvent interface provides specific contextual information associated wit
 public class WheelEvent : MouseEvent
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class WheelEvent : MouseEvent
 | [WheelEvent](wheelevent/#constructor)(*string*) | Initializes a new instance of the `WheelEvent` class. |
 | [WheelEvent](wheelevent/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) |  |
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -52,6 +54,7 @@ public class WheelEvent : MouseEvent
 | [Type](../../aspose.html.dom.events/event/type/) { get; } | The name of the event (case-insensitive). The name must be an XML name. |
 | [View](../../aspose.html.dom.events/uievent/view/) { get; } | The view attribute identifies the Window from which the event was generated. The un-initialized value of this attribute MUST be null. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -62,6 +65,7 @@ public class WheelEvent : MouseEvent
 | [StopImmediatePropagation](../../aspose.html.dom.events/event/stopimmediatepropagation/)() | Invoking this method prevents event from reaching any event listeners registered after the current one and when dispatched in a tree also prevents event from reaching any other objects. |
 | [StopPropagation](../../aspose.html.dom.events/event/stoppropagation/)() | The [`StopPropagation`](../event/stoppropagation/) method is used prevent further propagation of an event during event flow. |
 
+## Public Members
 ## Fields
 
 | Name | Description |

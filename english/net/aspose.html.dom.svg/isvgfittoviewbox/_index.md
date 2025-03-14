@@ -14,6 +14,7 @@ Interface SVGFitToViewBox defines DOM attributes that apply to elements which ha
 public interface ISVGFitToViewBox
 ```
 
+## Members
 ## Properties
 
 | Name | Description |

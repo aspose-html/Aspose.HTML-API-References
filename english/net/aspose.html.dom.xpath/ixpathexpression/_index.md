@@ -14,6 +14,7 @@ The `XPathExpression` interface represents a parsed and resolved XPath expressio
 public interface IXPathExpression
 ```
 
+## Members
 ## Methods
 
 | Name | Description |

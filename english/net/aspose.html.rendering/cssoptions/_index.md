@@ -14,6 +14,7 @@ Represents css rendering options.
 public class CssOptions
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |

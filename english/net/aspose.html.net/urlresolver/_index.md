@@ -14,12 +14,14 @@ Represents utility class for resolving absolute URL by a Uniform Resource Identi
 public class UrlResolver
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [UrlResolver](urlresolver/)() | The default constructor. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

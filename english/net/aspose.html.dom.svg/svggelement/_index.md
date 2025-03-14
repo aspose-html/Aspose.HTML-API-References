@@ -14,6 +14,7 @@ The SVGGElement interface corresponds to the ‘g’ element.
 public class SVGGElement : SVGGraphicsElement
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -59,6 +60,7 @@ public class SVGGElement : SVGGraphicsElement
 | [Transform](../../aspose.html.dom.svg/svggraphicselement/transform/) { get; } | Corresponds to attribute ‘transform’ on the given element. |
 | [ViewportElement](../../aspose.html.dom.svg/svgelement/viewportelement/) { get; } | The element which established the current viewport. Often, the nearest ancestor ‘svg’ element. Null if the given element is the outermost svg element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

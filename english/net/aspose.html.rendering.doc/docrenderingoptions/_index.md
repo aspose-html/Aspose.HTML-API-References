@@ -14,6 +14,7 @@ Represents the rendering options for [`DocDevice`](../docdevice/).
 public class DocRenderingOptions : RenderingOptions
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
@@ -21,6 +22,7 @@ public class DocRenderingOptions : RenderingOptions
 | [DocRenderingOptions](docrenderingoptions/#constructor)() | Initializes a new instance of the `DocRenderingOptions` class. |
 | [DocRenderingOptions](docrenderingoptions/#constructor_1)(*[FontEmbeddingRule](../fontembeddingrule/)*) | Initializes a new instance of the `DocRenderingOptions` class with the specified font embedding rule. |
 
+## Public Members
 ## Properties
 
 | Name | Description |

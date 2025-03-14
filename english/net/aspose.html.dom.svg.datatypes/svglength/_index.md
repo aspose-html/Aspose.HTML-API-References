@@ -14,6 +14,7 @@ The SVGLength interface corresponds to the length basic data type. An SVGLength 
 public class SVGLength : SVGValueType
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -23,6 +24,7 @@ public class SVGLength : SVGValueType
 | [ValueAsString](../../aspose.html.dom.svg.datatypes/svglength/valueasstring/) { get; set; } | The value as a string value, in the units expressed by unitType. Setting this attribute will cause value, valueInSpecifiedUnits and unitType to be updated automatically to reflect this setting. |
 | [ValueInSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svglength/valueinspecifiedunits/) { get; set; } | The value as a floating point value, in the units expressed by unitType. Setting this attribute will cause value and valueAsString to be updated automatically to reflect this setting. |
 
+## Public Members
 ## Methods
 
 | Name | Description |
@@ -33,6 +35,7 @@ public class SVGLength : SVGValueType
 | [NewValueSpecifiedUnits](../../aspose.html.dom.svg.datatypes/svglength/newvaluespecifiedunits/)(*ushort, float*) | Reset the value as a number with an associated unitType, thereby replacing the values for all of the attributes on the object. |
 | override [ToString](../../aspose.html.dom.svg.datatypes/svglength/tostring/)() | Returns a String that represents this instance. |
 
+## Public Members
 ## Fields
 
 | Name | Description |

@@ -14,6 +14,7 @@ Provides an interface for network services.
 public interface INetwork : IDisposable
 ```
 
+## Members
 ## Methods
 
 | Name | Description |

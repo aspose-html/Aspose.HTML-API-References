@@ -14,6 +14,7 @@ The ValidationBuilder class provides concrete implementations of the configurati
 public class ValidationBuilder
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,6 +23,7 @@ public class ValidationBuilder
 | static [Default](../../aspose.html.accessibility/validationbuilder/default/) { get; } | Default settings: only General technologies is used and for Lowest criterion level |
 | static [None](../../aspose.html.accessibility/validationbuilder/none/) { get; } | None settings - none of the parameters are specified. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

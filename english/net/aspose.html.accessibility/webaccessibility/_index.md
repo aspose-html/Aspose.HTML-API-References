@@ -14,18 +14,21 @@ Object to Web Content Accessibility Guidelines (WCAG) 2 requirements (success cr
 public class WebAccessibility
 ```
 
+## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [WebAccessibility](webaccessibility/)() | Initializes a new instance of the WebAccessibility class. |
 
+## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Rules](../../aspose.html.accessibility/webaccessibility/rules/) { get; } | Return list of all rules |
 
+## Public Members
 ## Methods
 
 | Name | Description |

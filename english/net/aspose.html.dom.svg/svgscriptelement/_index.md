@@ -14,6 +14,7 @@ The SVGScriptElement interface corresponds to the ‘script’ element.
 public class SVGScriptElement : SVGElement, ISVGURIReference
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -56,6 +57,7 @@ public class SVGScriptElement : SVGElement, ISVGURIReference
 | [Type](../../aspose.html.dom.svg/svgscriptelement/type/) { get; set; } | Corresponds to attribute ‘type’ on the given ‘script’ element. |
 | [ViewportElement](../../aspose.html.dom.svg/svgelement/viewportelement/) { get; } | The element which established the current viewport. Often, the nearest ancestor ‘svg’ element. Null if the given element is the outermost svg element. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,6 +14,7 @@ Defines the base class HugoFrontMatterSyntaxNode
 public abstract class HugoFrontMatterSyntaxNode : BlockSyntaxNode
 ```
 
+## Public Members
 ## Properties
 
 | Name | Description |
@@ -25,6 +26,7 @@ public abstract class HugoFrontMatterSyntaxNode : BlockSyntaxNode
 | [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
 | [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
 
+## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,6 +14,7 @@ Creates an ImageData object from a given Uint8ClampedArray and the size of the i
 public interface IImageData
 ```
 
+## Members
 ## Properties
 
 | Name | Description |
