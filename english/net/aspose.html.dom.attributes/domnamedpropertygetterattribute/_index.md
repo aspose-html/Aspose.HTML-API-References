@@ -21,6 +21,12 @@ public sealed class DOMNamedPropertyGetterAttribute : Attribute
 | --- | --- |
 | [DOMNamedPropertyGetterAttribute](domnamedpropertygetterattribute/)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
+
 ### See Also
 
 * namespace [Aspose.Html.Dom.Attributes](../../aspose.html.dom.attributes/)

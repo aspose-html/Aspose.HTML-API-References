@@ -3,7 +3,7 @@ title: Device-2.Options
 second_title: Aspose.HTML for .NET API Reference
 description: Device Options property. Gets rendering options
 type: docs
-weight: 20
+weight: 30
 url: /net/aspose.html.rendering/device-2/options/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.Options property

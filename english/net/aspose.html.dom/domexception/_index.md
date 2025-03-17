@@ -26,8 +26,15 @@ public class DOMException : PlatformException
 | Name | Description |
 | --- | --- |
 | [Code](../../aspose.html.dom/domexception/code/) { get; } | Returns a value that contains one of the error code constants, or 0 if none match. This field is used for historical reasons. |
+| virtual [Data](../../system/exception/data/) { get; } |  |
+| virtual [HelpLink](../../system/exception/helplink/) { get; set; } |  |
+| [HResult](../../system/exception/hresult/) { get; set; } |  |
+| [InnerException](../../system/exception/innerexception/) { get; } |  |
 | override [Message](../../aspose.html.dom/domexception/message/) { get; } | Returns a string representing a message or description associated with the given error name. |
 | [Name](../../aspose.html.dom/domexception/name/) { get; } | Returns a string that contains one of the strings associated with an error name. |
+| virtual [Source](../../system/exception/source/) { get; set; } |  |
+| virtual [StackTrace](../../system/exception/stacktrace/) { get; } |  |
+| [TargetSite](../../system/exception/targetsite/) { get; } |  |
 
 ## Fields
 

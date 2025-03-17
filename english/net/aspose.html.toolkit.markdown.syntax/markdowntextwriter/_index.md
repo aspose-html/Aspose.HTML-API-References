@@ -28,6 +28,8 @@ public sealed class MarkdownTextWriter : TextWriter
 | Name | Description |
 | --- | --- |
 | override [Encoding](../../aspose.html.toolkit.markdown.syntax/markdowntextwriter/encoding/) { get; } | Get the encoding. |
+| virtual [FormatProvider](../../system.io/textwriter/formatprovider/) { get; } |  |
+| virtual [NewLine](../../system.io/textwriter/newline/) { get; set; } |  |
 
 ## Methods
 

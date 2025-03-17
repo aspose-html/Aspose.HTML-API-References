@@ -26,6 +26,7 @@ public sealed class DOMTreatNullAsAttribute : Attribute
 | Name | Description |
 | --- | --- |
 | [Type](../../aspose.html.dom.attributes/domtreatnullasattribute/type/) { get; set; } | Gets or sets value the type. |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 | [Value](../../aspose.html.dom.attributes/domtreatnullasattribute/value/) { get; set; } | Gets or sets the value. |
 
 ### See Also
