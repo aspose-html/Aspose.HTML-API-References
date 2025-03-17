@@ -14,7 +14,6 @@ Represents rendering to a DOCX document.
 public class DocDevice : Device<DocGraphicContext, DocRenderingOptions>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -26,7 +25,6 @@ public class DocDevice : Device<DocGraphicContext, DocRenderingOptions>
 | [DocDevice](docdevice/#constructor_2)(*[DocRenderingOptions](../docrenderingoptions/), Stream*) | Initializes a new instance of the `DocDevice` class by rendering options and output stream. |
 | [DocDevice](docdevice/#constructor_3)(*[DocRenderingOptions](../docrenderingoptions/), string*) | Initializes a new instance of the `DocDevice` class by rendering options and output file name. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -37,16 +35,6 @@ public class DocDevice : Device<DocGraphicContext, DocRenderingOptions>
 | [OutputStream](../../aspose.html.rendering/device-2/outputstream/) { get; } |  |
 | [StreamProvider](../../aspose.html.rendering/device-2/streamprovider/) { get; } |  |
 
-## Protected Members
-## Properties
-
-| Name | Description |
-| --- | --- |
-| virtual [Configuration](../../aspose.html.rendering/device-2/configuration/) { get; } |  |
-| [OutputStream](../../aspose.html.rendering/device-2/outputstream/) { get; } |  |
-| [StreamProvider](../../aspose.html.rendering/device-2/streamprovider/) { get; } |  |
-
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -74,7 +62,6 @@ public class DocDevice : Device<DocGraphicContext, DocRenderingOptions>
 | override [StrokeAndFill](../../aspose.html.rendering.doc/docdevice/strokeandfill/)(*[FillRule](../../aspose.html.rendering/fillrule/)*) | Strokes and fill current path. This method terminates current path. |
 | override [StrokeText](../../aspose.html.rendering.doc/docdevice/stroketext/)(*string, PointF*) | Strokes the specified text string at the specified location. |
 
-## Public Members
 ## Other Members
 
 | Name | Description |

@@ -15,7 +15,6 @@ Specifies that object is marked with this attribute is defined by the W3C.
 public sealed class DOMObjectAttribute : Attribute
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |

@@ -14,7 +14,6 @@ Represents rendering to a pdf document.
 public class PdfDevice : Device<PdfGraphicContext, PdfRenderingOptions>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -26,7 +25,6 @@ public class PdfDevice : Device<PdfGraphicContext, PdfRenderingOptions>
 | [PdfDevice](pdfdevice/#constructor_2)(*[PdfRenderingOptions](../pdfrenderingoptions/), Stream*) | Initializes a new instance of the `PdfDevice` class by rendering options and output stream. |
 | [PdfDevice](pdfdevice/#constructor_3)(*[PdfRenderingOptions](../pdfrenderingoptions/), string*) | Initializes a new instance of the `PdfDevice` class by rendering options and output file name. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -37,16 +35,6 @@ public class PdfDevice : Device<PdfGraphicContext, PdfRenderingOptions>
 | [OutputStream](../../aspose.html.rendering/device-2/outputstream/) { get; } |  |
 | [StreamProvider](../../aspose.html.rendering/device-2/streamprovider/) { get; } |  |
 
-## Protected Members
-## Properties
-
-| Name | Description |
-| --- | --- |
-| virtual [Configuration](../../aspose.html.rendering/device-2/configuration/) { get; } |  |
-| [OutputStream](../../aspose.html.rendering/device-2/outputstream/) { get; } |  |
-| [StreamProvider](../../aspose.html.rendering/device-2/streamprovider/) { get; } |  |
-
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -74,7 +62,6 @@ public class PdfDevice : Device<PdfGraphicContext, PdfRenderingOptions>
 | virtual [StrokeAndFill](../../aspose.html.rendering/device-2/strokeandfill/)(*[FillRule](../../aspose.html.rendering/fillrule/)*) |  |
 | virtual [StrokeText](../../aspose.html.rendering/device-2/stroketext/)(*string, PointF*) |  |
 
-## Public Members
 ## Other Members
 
 | Name | Description |

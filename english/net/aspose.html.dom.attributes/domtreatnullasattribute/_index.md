@@ -15,14 +15,12 @@ Indicates that null of the member value will be treated as specified value.
 public sealed class DOMTreatNullAsAttribute : Attribute
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [DOMTreatNullAsAttribute](domtreatnullasattribute/)(*Type, object*) | Initializes a new instance of the `DOMTreatNullAsAttribute` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

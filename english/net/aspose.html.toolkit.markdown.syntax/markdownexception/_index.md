@@ -14,7 +14,6 @@ The Markdown exception
 public class MarkdownException : ApplicationException
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |

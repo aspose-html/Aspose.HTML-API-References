@@ -15,7 +15,6 @@ Specifies a DOM object can be assigned null value.
 public sealed class DOMNullableAttribute : Attribute
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |

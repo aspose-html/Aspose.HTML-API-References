@@ -15,7 +15,6 @@ Specifies that the method will be used as named property getter.
 public sealed class DOMNamedPropertyGetterAttribute : Attribute
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |

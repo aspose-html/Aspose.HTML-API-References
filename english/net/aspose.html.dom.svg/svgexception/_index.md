@@ -14,14 +14,12 @@ This exception is raised when a specific SVG operation is impossible to perform.
 public class SVGException : PlatformException
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SVGException](svgexception/)(*ushort*) | Initializes a new instance of the `SVGException` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -36,7 +34,6 @@ public class SVGException : PlatformException
 | virtual [StackTrace](../../system/exception/stacktrace/) { get; } |  |
 | [TargetSite](../../system/exception/targetsite/) { get; } |  |
 
-## Public Members
 ## Fields
 
 | Name | Description |

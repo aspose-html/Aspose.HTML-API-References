@@ -15,14 +15,12 @@ Specifies the official DOM object name as it defined by the W3C.
 public sealed class DOMNameAttribute : Attribute
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [DOMNameAttribute](domnameattribute/)(*string*) | Initializes a new instance of the `DOMNameAttribute` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

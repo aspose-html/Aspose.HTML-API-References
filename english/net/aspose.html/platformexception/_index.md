@@ -14,7 +14,6 @@ Represents the base class for all exceptions that may occur during the applicati
 public class PlatformException : Exception
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |

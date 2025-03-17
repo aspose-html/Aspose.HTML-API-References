@@ -21,7 +21,6 @@ public abstract class Device<TGraphicContext, TRenderingOptions> : Device, IDevi
 | TGraphicContext | Graphic context that holds current graphics control parameters |
 | TRenderingOptions | Rendering options |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -32,16 +31,6 @@ public abstract class Device<TGraphicContext, TRenderingOptions> : Device, IDevi
 | [OutputStream](../../aspose.html.rendering/device-2/outputstream/) { get; } | Sets and gets the output stream. |
 | [StreamProvider](../../aspose.html.rendering/device-2/streamprovider/) { get; } | Gets the stream provider object. |
 
-## Protected Members
-## Properties
-
-| Name | Description |
-| --- | --- |
-| virtual [Configuration](../../aspose.html.rendering/device-2/configuration/) { get; } | Gets device configuration. |
-| [OutputStream](../../aspose.html.rendering/device-2/outputstream/) { get; } | Sets and gets the output stream. |
-| [StreamProvider](../../aspose.html.rendering/device-2/streamprovider/) { get; } | Gets the stream provider object. |
-
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -69,7 +58,6 @@ public abstract class Device<TGraphicContext, TRenderingOptions> : Device, IDevi
 | virtual [StrokeAndFill](../../aspose.html.rendering/device-2/strokeandfill/)(*[FillRule](../fillrule/)*) | Strokes and fill current path. This method terminates current path. |
 | virtual [StrokeText](../../aspose.html.rendering/device-2/stroketext/)(*string, PointF*) | Strokes the specified text string at the specified location. |
 
-## Public Members
 ## Other Members
 
 | Name | Description |

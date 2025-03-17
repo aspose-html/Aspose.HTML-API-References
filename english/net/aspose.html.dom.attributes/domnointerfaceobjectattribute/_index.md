@@ -15,7 +15,6 @@ If the [NoInterfaceObject] extended attribute appears on an interface, it indica
 public sealed class DOMNoInterfaceObjectAttribute : Attribute
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |

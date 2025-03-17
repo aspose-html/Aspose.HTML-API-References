@@ -14,7 +14,6 @@ The DOMException interface represents an abnormal event (called an exception) wh
 public class DOMException : PlatformException
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class DOMException : PlatformException
 | [DOMException](domexception/#constructor)(*string*) | Initializes a new instance of the `DOMException` class. |
 | [DOMException](domexception/#constructor_1)(*string, string*) | Initializes a new instance of the `DOMException` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -38,7 +36,6 @@ public class DOMException : PlatformException
 | virtual [StackTrace](../../system/exception/stacktrace/) { get; } |  |
 | [TargetSite](../../system/exception/targetsite/) { get; } |  |
 
-## Public Members
 ## Fields
 
 | Name | Description |

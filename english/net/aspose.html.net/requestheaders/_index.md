@@ -14,7 +14,6 @@ Contains protocol headers associated with a request.
 public class RequestHeaders : WebHeaderCollection
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
