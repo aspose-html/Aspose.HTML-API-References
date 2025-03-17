@@ -3,7 +3,7 @@ title: Device-2.LineTo
 second_title: Aspose.HTML for .NET API Reference
 description: Device LineTo method. Appends a straight line segment from the current point to the point pt. The new current point is pt
 type: docs
-weight: 180
+weight: 210
 url: /net/aspose.html.rendering/device-2/lineto/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.LineTo method

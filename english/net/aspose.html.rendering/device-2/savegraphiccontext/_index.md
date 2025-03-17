@@ -3,7 +3,7 @@ title: Device-2.SaveGraphicContext
 second_title: Aspose.HTML for .NET API Reference
 description: Device SaveGraphicContext method. Pushes a copy of the entire graphics context onto the stack
 type: docs
-weight: 210
+weight: 240
 url: /net/aspose.html.rendering/device-2/savegraphiccontext/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.SaveGraphicContext method

@@ -3,7 +3,7 @@ title: Device-2.BeginDocument
 second_title: Aspose.HTML for .NET API Reference
 description: Device BeginDocument method. Begins rendering of the document
 type: docs
-weight: 40
+weight: 70
 url: /net/aspose.html.rendering/device-2/begindocument/
 ---
 ## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginDocument method
