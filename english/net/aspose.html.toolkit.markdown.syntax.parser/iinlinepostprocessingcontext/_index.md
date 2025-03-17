@@ -14,7 +14,6 @@ Defines the interface IInlinePostProcessingContext
 public interface IInlinePostProcessingContext : IInlineParsingContext
 ```
 
-## Members
 ## Properties
 
 | Name | Description |
@@ -24,7 +23,6 @@ public interface IInlinePostProcessingContext : IInlineParsingContext
 | [Delimiters](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/delimiters/) { get; } | Get the Delimiters. |
 | [OpenedDelimiter](../../aspose.html.toolkit.markdown.syntax.parser/iinlinepostprocessingcontext/openeddelimiter/) { get; set; } | Get and set the OpenedDelimiter/ |
 
-## Members
 ## Methods
 
 | Name | Description |

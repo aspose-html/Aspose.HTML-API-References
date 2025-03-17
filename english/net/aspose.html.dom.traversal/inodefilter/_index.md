@@ -20,7 +20,6 @@ See also the [Document object Model (DOM) Level 2 Traversal and Range Specificat
 public interface INodeFilter
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

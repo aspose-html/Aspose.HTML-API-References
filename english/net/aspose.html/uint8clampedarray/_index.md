@@ -14,7 +14,6 @@ Represents an array of 8-bit unsigned integers clamped to 0-255; if you specifie
 public class Uint8ClampedArray : TypedArray<byte>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -25,7 +24,6 @@ public class Uint8ClampedArray : TypedArray<byte>
 | [Uint8ClampedArray](uint8clampedarray/#constructor_1)(*[ArrayBuffer](../arraybuffer/), int*) | Initializes a new instance of the `Uint8ClampedArray` class. |
 | [Uint8ClampedArray](uint8clampedarray/#constructor_2)(*[ArrayBuffer](../arraybuffer/), int, int*) | Initializes a new instance of the `Uint8ClampedArray` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -36,14 +34,12 @@ public class Uint8ClampedArray : TypedArray<byte>
 | override [Item](../../aspose.html/uint8clampedarray/item/) { get; set; } | Gets or sets the Byte at the specified index. |
 | [Length](../../aspose.html/typedarray/length/) { get; } | Gets the length of a typed array. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
-## Public Members
 ## Fields
 
 | Name | Description |

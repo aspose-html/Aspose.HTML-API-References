@@ -14,7 +14,6 @@ The `XPathResult` interface represents the result of the evaluation of an XPath 
 public interface IXPathResult
 ```
 
-## Members
 ## Properties
 
 | Name | Description |
@@ -27,7 +26,6 @@ public interface IXPathResult
 | [SnapshotLength](../../aspose.html.dom.xpath/ixpathresult/snapshotlength/) { get; } | The number of nodes in the result snapshot. Valid values for snapshotItem indices are `0` to `snapshotLength-1` inclusive. |
 | [StringValue](../../aspose.html.dom.xpath/ixpathresult/stringvalue/) { get; } | The value of this string result. |
 
-## Members
 ## Methods
 
 | Name | Description |

@@ -14,21 +14,18 @@ Represents content based on a byte array.
 public class ByteArrayContent : Content
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ByteArrayContent](bytearraycontent/)(*byte[]*) | Initializes a new instance of the `ByteArrayContent` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Headers](../../aspose.html.net/content/headers/) { get; } | Gets the HTTP content headers. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

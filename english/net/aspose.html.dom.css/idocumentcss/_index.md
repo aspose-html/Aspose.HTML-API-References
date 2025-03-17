@@ -20,7 +20,6 @@ See also the [Document Object Model (DOM) Level 2 Style Specification](http://ww
 public interface IDocumentCSS : IDocumentStyle
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

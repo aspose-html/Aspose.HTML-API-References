@@ -14,14 +14,12 @@ Defines the GfmSyntaxExtension
 public class GfmSyntaxExtension : MarkdownSyntaxExtension
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [GfmSyntaxExtension](gfmsyntaxextension/)() | The default constructor. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

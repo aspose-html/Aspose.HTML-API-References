@@ -14,7 +14,6 @@ The SVGUseElement interface corresponds to the ‘use’ element.
 public class SVGUseElement : SVGGraphicsElement, ISVGURIReference
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -65,7 +64,6 @@ public class SVGUseElement : SVGGraphicsElement, ISVGURIReference
 | [X](../../aspose.html.dom.svg/svguseelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘use’ element. |
 | [Y](../../aspose.html.dom.svg/svguseelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘use’ element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

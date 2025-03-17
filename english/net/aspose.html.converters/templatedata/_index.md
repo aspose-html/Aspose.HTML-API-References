@@ -14,7 +14,6 @@ Merging (User) data object.
 public sealed class TemplateData
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -22,7 +21,6 @@ public sealed class TemplateData
 | [TemplateData](templatedata/#constructor_1)(*string*) | Absolute path to data file (XML, JSON) based on initialization. |
 | [TemplateData](templatedata/#constructor)(*[TemplateContentOptions](../templatecontentoptions/)*) | Inline content based on initialization (XML, JSON). |
 
-## Public Members
 ## Properties
 
 | Name | Description |

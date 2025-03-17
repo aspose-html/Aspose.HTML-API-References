@@ -18,7 +18,6 @@ public abstract class Renderer<TSource> : Renderer
 | --- | --- |
 | TDocument | The type of the document. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

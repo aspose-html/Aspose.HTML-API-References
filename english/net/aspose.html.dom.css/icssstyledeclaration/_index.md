@@ -18,7 +18,6 @@ Via HTMLElement.style, which deals with the inline styles of a single element.Vi
 public interface ICSSStyleDeclaration : ICSS2Properties, IEnumerable<string>
 ```
 
-## Members
 ## Properties
 
 | Name | Description |
@@ -28,7 +27,6 @@ public interface ICSSStyleDeclaration : ICSS2Properties, IEnumerable<string>
 | [Length](../../aspose.html.dom.css/icssstyledeclaration/length/) { get; } | The read-only property returns an integer number of properties that have been explicitly set in this CSS declaration block. The range of valid indices is 0 to length-1 inclusive. |
 | [ParentRule](../../aspose.html.dom.css/icssstyledeclaration/parentrule/) { get; } | The CSSStyleDeclaration.parentRule read-only property returns a CSSRule that is the parent of this style block, e.g. a [`CSSStyleRule`](../icssstylerule/) representing the style for a CSS selector. |
 
-## Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ Location objects provide a representation of the address of the active document 
 public sealed class Location : DOMObject
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -29,7 +28,6 @@ public sealed class Location : DOMObject
 | [Protocol](../../aspose.html.window/location/protocol/) { get; set; } |  |
 | [Search](../../aspose.html.window/location/search/) { get; set; } |  |
 
-## Public Members
 ## Methods
 
 | Name | Description |

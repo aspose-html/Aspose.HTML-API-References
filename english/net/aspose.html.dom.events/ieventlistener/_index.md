@@ -14,7 +14,6 @@ The interface is the primary method for handling events. Users implement the int
 public interface IEventListener
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

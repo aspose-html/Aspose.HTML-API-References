@@ -14,14 +14,12 @@ Represent Content-Disposition header value.
 public class ContentDispositionHeaderValue
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ContentDispositionHeaderValue](contentdispositionheadervalue/)(*string*) | Create a new instance of this disposition type. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -31,7 +29,6 @@ public class ContentDispositionHeaderValue
 | [Name](../../aspose.html.net.headers/contentdispositionheadervalue/name/) { get; set; } | The name for a content body part. |
 | [Parameters](../../aspose.html.net.headers/contentdispositionheadervalue/parameters/) { get; } | Get collection of paremeters |
 
-## Public Members
 ## Methods
 
 | Name | Description |

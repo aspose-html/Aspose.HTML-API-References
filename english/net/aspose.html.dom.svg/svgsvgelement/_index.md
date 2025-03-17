@@ -14,7 +14,6 @@ A key interface definition is the SVGSVGElement interface, which is the interfac
 public class SVGSVGElement : SVGGraphicsElement, IDocumentEvent, ISVGFitToViewBox, ISVGZoomAndPan
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -69,7 +68,6 @@ public class SVGSVGElement : SVGGraphicsElement, IDocumentEvent, ISVGFitToViewBo
 | [Y](../../aspose.html.dom.svg/svgsvgelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘svg’ element. |
 | [ZoomAndPan](../../aspose.html.dom.svg/svgsvgelement/zoomandpan/) { get; set; } | Corresponds to attribute ‘zoomAndPan’ on the given element. The value must be one of the SVG_ZOOMANDPAN_* constants defined on this interface. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

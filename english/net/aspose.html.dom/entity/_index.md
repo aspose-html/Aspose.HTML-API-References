@@ -14,7 +14,6 @@ Represents a known entity, either parsed or unparsed, in an XML document.
 public class Entity : Node
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -42,7 +41,6 @@ public class Entity : Node
 | [XmlEncoding](../../aspose.html.dom/entity/xmlencoding/) { get; } | An attribute specifying, as part of the text declaration, the encoding of this entity, when it is an external parsed entity. This is null otherwise. |
 | [XmlVersion](../../aspose.html.dom/entity/xmlversion/) { get; } | An attribute specifying, as part of the text declaration, the version number of this entity, when it is an external parsed entity. This is null otherwise. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

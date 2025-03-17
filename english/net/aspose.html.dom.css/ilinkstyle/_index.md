@@ -18,7 +18,6 @@ See also the [CSS Object Model (CSSOM) # ](https://www.w3.org/TR/cssom-1/#the-li
 public interface ILinkStyle
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

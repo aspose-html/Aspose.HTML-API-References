@@ -14,7 +14,6 @@ he SVGAnimatedPathData interface supports elements which have a ‘d’ attribut
 public interface ISVGAnimatedPathData
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

@@ -14,7 +14,6 @@ Stores a values which specify a Height and Width.
 public class Size
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -23,7 +22,6 @@ public class Size
 | [Size](size/#constructor_2)(*int, int*) | Initializes a new instance of the `Size` class and specify a Height and Width in pixels. |
 | [Size](size/#constructor_1)(*[Length](../length/), [Length](../length/)*) | Initializes a new instance of the `Size` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

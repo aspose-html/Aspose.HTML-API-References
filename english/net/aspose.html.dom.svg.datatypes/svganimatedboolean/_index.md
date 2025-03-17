@@ -14,7 +14,6 @@ Used for attributes of type boolean which can be animated.
 public class SVGAnimatedBoolean : SVGAnimatedValue<bool>
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class SVGAnimatedBoolean : SVGAnimatedValue<bool>
 | virtual [AnimVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
-## Public Members
 ## Methods
 
 | Name | Description |

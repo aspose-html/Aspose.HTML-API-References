@@ -14,7 +14,6 @@ Represents a base class for implementing rendering devices that are used to draw
 public abstract class Device
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |

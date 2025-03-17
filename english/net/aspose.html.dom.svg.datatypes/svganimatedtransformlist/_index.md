@@ -14,7 +14,6 @@ Used for the various attributes which specify a set of transformations, such as 
 public class SVGAnimatedTransformList : SVGAnimatedValue<SVGTransformList>
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class SVGAnimatedTransformList : SVGAnimatedValue<SVGTransformList>
 | virtual [AnimVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
-## Public Members
 ## Methods
 
 | Name | Description |

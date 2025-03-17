@@ -14,7 +14,6 @@ This class contains information used when processing resources.
 public class ResourceHandlingContext
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |

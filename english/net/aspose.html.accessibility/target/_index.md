@@ -14,7 +14,6 @@ Class contains item of html or css element where the error was found.
 public class Target
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |

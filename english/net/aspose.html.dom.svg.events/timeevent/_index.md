@@ -14,7 +14,6 @@ The TimeEvent interface provides specific contextual information associated with
 public class TimeEvent : Event
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -31,7 +30,6 @@ public class TimeEvent : Event
 | [Type](../../aspose.html.dom.events/event/type/) { get; } | The name of the event (case-insensitive). The name must be an XML name. |
 | [View](../../aspose.html.dom.svg.events/timeevent/view/) { get; } | The view attribute identifies the AbstractView [DOM2VIEWS] from which the event was generated. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

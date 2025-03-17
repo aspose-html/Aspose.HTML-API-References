@@ -14,7 +14,6 @@ Base class implements the SourceText.
 public abstract class SourceText : IDisposable
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -25,7 +24,6 @@ public abstract class SourceText : IDisposable
 | [Lines](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/lines/) { get; } | Get the Lines collection. |
 | virtual [Span](../../aspose.html.toolkit.markdown.syntax.text/sourcetext/span/) { get; } | Get the span. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

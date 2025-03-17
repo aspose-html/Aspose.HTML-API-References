@@ -14,7 +14,6 @@ The SVGZoomAndPan interface defines attribute zoomAndPan and associated constant
 public interface ISVGZoomAndPan
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

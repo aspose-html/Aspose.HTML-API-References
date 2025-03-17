@@ -14,7 +14,6 @@ The base class for markdown syntax visitor.
 public abstract class MarkdownSyntaxVisitor
 ```
 
-## Public Members
 ## Methods
 
 | Name | Description |

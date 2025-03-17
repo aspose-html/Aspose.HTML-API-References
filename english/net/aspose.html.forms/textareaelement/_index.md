@@ -14,7 +14,6 @@ The TextAreaElement represents a wrapper that is associated with the HTMLTextAre
 public class TextAreaElement : FormElement<HTMLTextAreaElement>
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |

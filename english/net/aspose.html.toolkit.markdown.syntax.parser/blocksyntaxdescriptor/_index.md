@@ -14,7 +14,6 @@ Defines the BlockSyntaxDescriptor.
 public class BlockSyntaxDescriptor
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class BlockSyntaxDescriptor
 | [Block](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/block/) { get; } | Get the Block |
 | [Parser](../../aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/parser/) { get; } | Get the Parser. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

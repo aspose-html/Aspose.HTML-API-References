@@ -14,7 +14,6 @@ The SVGPathSegMovetoRel interface corresponds to a "relative moveto" (m) path da
 public class SVGPathSegMovetoRel : SVGPathSeg
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,7 +23,6 @@ public class SVGPathSegMovetoRel : SVGPathSeg
 | [X](../../aspose.html.dom.svg.paths/svgpathsegmovetorel/x/) { get; set; } | The relative X coordinate for the end point of this path segment. |
 | [Y](../../aspose.html.dom.svg.paths/svgpathsegmovetorel/y/) { get; set; } | The relative Y coordinate for the end point of this path segment. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

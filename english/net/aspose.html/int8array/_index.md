@@ -14,7 +14,6 @@ Represents an array of twos-complement 8-bit signed integers.
 public class Int8Array : TypedArray<sbyte>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -25,7 +24,6 @@ public class Int8Array : TypedArray<sbyte>
 | [Int8Array](int8array/#constructor_1)(*[ArrayBuffer](../arraybuffer/), int*) | Initializes a new instance of the `Int8Array` class. |
 | [Int8Array](int8array/#constructor_2)(*[ArrayBuffer](../arraybuffer/), int, int*) | Initializes a new instance of the `Int8Array` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -36,14 +34,12 @@ public class Int8Array : TypedArray<sbyte>
 | override [Item](../../aspose.html/int8array/item/) { get; set; } | Gets or sets the SByte at the specified index. |
 | [Length](../../aspose.html/typedarray/length/) { get; } | Gets the length of a typed array. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
-## Public Members
 ## Fields
 
 | Name | Description |

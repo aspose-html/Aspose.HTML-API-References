@@ -14,7 +14,6 @@ The evaluation of XPath expressions is provided by `IXPathEvaluator`.
 public interface IXPathEvaluator
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

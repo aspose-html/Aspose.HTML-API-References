@@ -14,7 +14,6 @@ The SVGAnimationElement interface is the base interface for all of the animation
 public class SVGAnimationElement : SVGElement, ISVGTests
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -58,7 +57,6 @@ public class SVGAnimationElement : SVGElement, ISVGTests
 | override [TextContent](../../aspose.html.dom/element/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new string is not empty or null, replaced by a single Text node containing the string this attribute is set to. |
 | [ViewportElement](../../aspose.html.dom.svg/svgelement/viewportelement/) { get; } | The element which established the current viewport. Often, the nearest ancestor ‘svg’ element. Null if the given element is the outermost svg element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

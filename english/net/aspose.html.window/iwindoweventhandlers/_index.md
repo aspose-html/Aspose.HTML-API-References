@@ -14,7 +14,6 @@ Represents interface that must be inherited by window object
 public interface IWindowEventHandlers
 ```
 
-## Members
 ## Events
 
 | Name | Description |

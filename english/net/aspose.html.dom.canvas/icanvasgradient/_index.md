@@ -14,7 +14,6 @@ Represents an opaque object describing a gradient.
 public interface ICanvasGradient
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

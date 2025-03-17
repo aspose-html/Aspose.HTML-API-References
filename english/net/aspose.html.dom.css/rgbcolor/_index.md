@@ -20,7 +20,6 @@ A color percentage value can always be converted to a number and vice versa.
 public class RGBColor : DOMObject
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -30,7 +29,6 @@ public class RGBColor : DOMObject
 | [Green](../../aspose.html.dom.css/rgbcolor/green/) { get; } | Gets the green component value of this Color structure. |
 | [Red](../../aspose.html.dom.css/rgbcolor/red/) { get; } | Gets the red component value of this Color structure. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

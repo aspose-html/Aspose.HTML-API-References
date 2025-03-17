@@ -14,7 +14,6 @@ The SVGStyleElement interface corresponds to the ‘style’ element.
 public class SVGStyleElement : SVGElement, ILinkStyle
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -58,7 +57,6 @@ public class SVGStyleElement : SVGElement, ILinkStyle
 | [Type](../../aspose.html.dom.svg/svgstyleelement/type/) { get; set; } | Corresponds to attribute ‘type’ on the given element. |
 | [ViewportElement](../../aspose.html.dom.svg/svgelement/viewportelement/) { get; } | The element which established the current viewport. Often, the nearest ancestor ‘svg’ element. Null if the given element is the outermost svg element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

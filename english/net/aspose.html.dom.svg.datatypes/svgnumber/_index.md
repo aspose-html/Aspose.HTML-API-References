@@ -14,14 +14,12 @@ Used for attributes of basic type number.
 public class SVGNumber : SVGValueType
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Value](../../aspose.html.dom.svg.datatypes/svgnumber/value/) { get; set; } | The value of the given attribute. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

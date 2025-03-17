@@ -15,7 +15,6 @@ public class HugoYamlBasedFrontMatterSyntaxNode : HugoFrontMatterSyntaxNode,
     IEnumerable<KeyValuePair<ChildFrontMatterSyntaxNode, ChildFrontMatterSyntaxNode>>
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -27,7 +26,6 @@ public class HugoYamlBasedFrontMatterSyntaxNode : HugoFrontMatterSyntaxNode,
 | [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
 | [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

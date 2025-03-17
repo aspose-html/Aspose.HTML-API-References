@@ -14,7 +14,6 @@ Represents an array of 32-bit floating point numbers (corresponding to the C flo
 public class Float32Array : TypedArray<float>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -25,7 +24,6 @@ public class Float32Array : TypedArray<float>
 | [Float32Array](float32array/#constructor_1)(*[ArrayBuffer](../arraybuffer/), int*) | Initializes a new instance of the `Float32Array` class. |
 | [Float32Array](float32array/#constructor_2)(*[ArrayBuffer](../arraybuffer/), int, int*) | Initializes a new instance of the `Float32Array` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -36,14 +34,12 @@ public class Float32Array : TypedArray<float>
 | override [Item](../../aspose.html/float32array/item/) { get; set; } | Gets or sets the Single at the specified index. |
 | [Length](../../aspose.html/typedarray/length/) { get; } | Gets the length of a typed array. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
-## Public Members
 ## Fields
 
 | Name | Description |

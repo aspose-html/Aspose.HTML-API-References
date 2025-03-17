@@ -14,14 +14,12 @@ Represents the text span.
 public struct TextSpan : IComparable<TextSpan>, IEquatable<TextSpan>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [TextSpan](textspan/)(*int, int*) | Create the TextSpan |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -30,7 +28,6 @@ public struct TextSpan : IComparable<TextSpan>, IEquatable<TextSpan>
 | [Length](../../aspose.html.toolkit.markdown.syntax.text/textspan/length/) { get; } | Get the length. |
 | [Start](../../aspose.html.toolkit.markdown.syntax.text/textspan/start/) { get; } | Get the Start index. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

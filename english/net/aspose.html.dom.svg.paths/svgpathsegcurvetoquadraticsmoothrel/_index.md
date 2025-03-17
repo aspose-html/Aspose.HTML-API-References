@@ -14,7 +14,6 @@ The SVGPathSegCurvetoQuadraticSmoothRel interface corresponds to a "relative smo
 public class SVGPathSegCurvetoQuadraticSmoothRel : SVGPathSeg
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,7 +23,6 @@ public class SVGPathSegCurvetoQuadraticSmoothRel : SVGPathSeg
 | [X](../../aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticsmoothrel/x/) { get; set; } | The relative X coordinate for the end point of this path segment. |
 | [Y](../../aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticsmoothrel/y/) { get; set; } | The relative Y coordinate for the end point of this path segment. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

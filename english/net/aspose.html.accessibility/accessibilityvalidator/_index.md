@@ -14,7 +14,6 @@ The validator class handles quick reference rules. Contains a Validate method to
 public class AccessibilityValidator
 ```
 
-## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ Represent the Markdown Syntax Tree.
 public class MarkdownSyntaxTree : MarkdownSyntaxNode
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class MarkdownSyntaxTree : MarkdownSyntaxNode
 | [MarkdownSyntaxTree](markdownsyntaxtree/#constructor)() | Created the MarkdownSyntaxTree. |
 | [MarkdownSyntaxTree](markdownsyntaxtree/#constructor_1)(*[Configuration](../../aspose.html/configuration/)*) | Creates the MarkdownSyntaxTree |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -34,7 +32,6 @@ public class MarkdownSyntaxTree : MarkdownSyntaxNode
 | [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
 | [SyntaxFactory](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxtree/syntaxfactory/) { get; } | Get the SyntaxFactory. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

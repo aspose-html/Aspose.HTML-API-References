@@ -14,7 +14,6 @@ The main result class, that contains Results for all Criterion from Accessibilit
 public class ValidationResult
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class ValidationResult
 | [Details](../../aspose.html.accessibility.results/validationresult/details/) { get; } | Validation result details |
 | [Success](../../aspose.html.accessibility.results/validationresult/success/) { get; } | The result of validation. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

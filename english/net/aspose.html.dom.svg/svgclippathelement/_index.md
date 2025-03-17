@@ -14,7 +14,6 @@ The SVGClipPathElement interface corresponds to the ‘clipPath’ element.
 public class SVGClipPathElement : SVGElement, ISVGUnitTypes
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -56,7 +55,6 @@ public class SVGClipPathElement : SVGElement, ISVGUnitTypes
 | [Transform](../../aspose.html.dom.svg/svgclippathelement/transform/) { get; } | Corresponds to attribute ‘transform’ on the given element. |
 | [ViewportElement](../../aspose.html.dom.svg/svgelement/viewportelement/) { get; } | The element which established the current viewport. Often, the nearest ancestor ‘svg’ element. Null if the given element is the outermost svg element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

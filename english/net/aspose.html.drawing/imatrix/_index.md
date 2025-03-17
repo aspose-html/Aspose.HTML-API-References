@@ -14,7 +14,6 @@ Represents a matrix used for transformations.
 public interface IMatrix
 ```
 
-## Members
 ## Properties
 
 | Name | Description |
@@ -28,7 +27,6 @@ public interface IMatrix
 | [M31](../../aspose.html.drawing/imatrix/m31/) { get; set; } | Gets or sets the value in the third row and first column of the matrix. |
 | [M32](../../aspose.html.drawing/imatrix/m32/) { get; set; } | Gets or sets the value in the third row and second column of the matrix. |
 
-## Members
 ## Methods
 
 | Name | Description |

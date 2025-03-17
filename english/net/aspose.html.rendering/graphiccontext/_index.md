@@ -14,14 +14,12 @@ Holds current graphics control parameters. These parameters define the global fr
 public class GraphicContext : ICloneable
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [GraphicContext](graphiccontext/)() | Initializes a new instance of the `GraphicContext` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -41,7 +39,6 @@ public class GraphicContext : ICloneable
 | virtual [TextInfo](../../aspose.html.rendering/graphiccontext/textinfo/) { get; } | Gets a [`TextInfo`](../textinfo/) object which contains information about rendered text. |
 | virtual [TransformationMatrix](../../aspose.html.rendering/graphiccontext/transformationmatrix/) { get; set; } | Sets or gets transformation matrix. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

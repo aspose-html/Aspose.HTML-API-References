@@ -14,7 +14,6 @@ The SVGPathSegCurvetoCubicAbs interface corresponds to an "absolute cubic Bézie
 public class SVGPathSegCurvetoCubicAbs : SVGPathSeg
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -28,7 +27,6 @@ public class SVGPathSegCurvetoCubicAbs : SVGPathSeg
 | [Y1](../../aspose.html.dom.svg.paths/svgpathsegcurvetocubicabs/y1/) { get; set; } | The absolute Y coordinate for the first control point. |
 | [Y2](../../aspose.html.dom.svg.paths/svgpathsegcurvetocubicabs/y2/) { get; set; } | The absolute Y coordinate for the second control point. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

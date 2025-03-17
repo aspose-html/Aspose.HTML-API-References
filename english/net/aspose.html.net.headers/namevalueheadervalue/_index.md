@@ -14,7 +14,6 @@ Represents a name/value pair that describe a header value.
 public class NameValueHeaderValue
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class NameValueHeaderValue
 | [Name](../../aspose.html.net.headers/namevalueheadervalue/name/) { get; } | Gets the parameter name. |
 | [Value](../../aspose.html.net.headers/namevalueheadervalue/value/) { get; set; } | Gets or sets the parameter value. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

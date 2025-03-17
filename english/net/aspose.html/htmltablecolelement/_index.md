@@ -16,7 +16,6 @@ See also the [Document object Model (DOM) Level 2 HTML Specification](http://www
 public class HTMLTableColElement : HTMLElement
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -62,7 +61,6 @@ public class HTMLTableColElement : HTMLElement
 | [VAlign](../../aspose.html/htmltablecolelement/valign/) { get; set; } | Vertical alignment of cell data in column. See the valign attribute definition in HTML 4.01. |
 | [Width](../../aspose.html/htmltablecolelement/width/) { get; set; } | Default column width. See the width attribute definition in HTML 4.01. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -115,7 +113,6 @@ public class HTMLTableColElement : HTMLElement
 | [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(*string, bool*) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
-## Public Members
 ## Events
 
 | Name | Description |

@@ -14,7 +14,6 @@ A MediaQueryList object stores information on a media query applied to a documen
 public class MediaQueryList : EventTarget
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -23,7 +22,6 @@ public class MediaQueryList : EventTarget
 | [Matches](../../aspose.html.window/mediaquerylist/matches/) { get; } | A boolean value that returns true if the document currently matches the media query list, or false if not. |
 | [Media](../../aspose.html.window/mediaquerylist/media/) { get; } | A string representing a serialized media query. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -40,7 +38,6 @@ public class MediaQueryList : EventTarget
 | [RemoveEventListener](../../aspose.html.dom/eventtarget/removeeventlistener/)(*string, [IEventListener](../../aspose.html.dom.events/ieventlistener/), bool*) | This method allows the removal of event listeners from the event target. If an is removed from an while it is processing an event, it will not be triggered by the current actions. Event Listeners can never be invoked after being removed. |
 | [RemoveListener](../../aspose.html.window/mediaquerylist/removelistener/)(*[IEventListener](../../aspose.html.dom.events/ieventlistener/)*) | Remove MediaQueryList matches state change event listener. |
 
-## Public Members
 ## Events
 
 | Name | Description |

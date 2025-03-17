@@ -14,7 +14,6 @@ This is an abstract base class for classes that allow the user to specify additi
 public abstract class SaveOptions
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |

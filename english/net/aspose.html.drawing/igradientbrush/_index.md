@@ -14,7 +14,6 @@ Declare methods for getting common properties of gradient brushes.
 public interface IGradientBrush : ITransformableBrush
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

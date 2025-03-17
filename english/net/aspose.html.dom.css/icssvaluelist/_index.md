@@ -18,7 +18,6 @@ The items in the CSSValueList are accessible via an integral index, starting fro
 public interface ICSSValueList
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

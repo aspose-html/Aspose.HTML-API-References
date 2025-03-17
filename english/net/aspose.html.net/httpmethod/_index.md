@@ -14,14 +14,12 @@ Represents utility class for retrieving and comparing standard HTTP methods.
 public class HttpMethod : IEquatable<HttpMethod>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [HttpMethod](httpmethod/)(*string*) | Initializes a new instance of the `HttpMethod` class with a specific HTTP method. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -31,7 +29,6 @@ public class HttpMethod : IEquatable<HttpMethod>
 | static [Post](../../aspose.html.net/httpmethod/post/) { get; } | Represents an HTTP POST protocol method. |
 | static [Put](../../aspose.html.net/httpmethod/put/) { get; } | Represents an HTTP PUT protocol method. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

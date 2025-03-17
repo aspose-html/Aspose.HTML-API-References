@@ -14,7 +14,6 @@ The InputElement represents a wrapper that is associated with the HTMLInputEleme
 public class InputElement : FormElement<HTMLInputElement>
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -27,7 +26,6 @@ public class InputElement : FormElement<HTMLInputElement>
 | [Type](../../aspose.html.forms/inputelement/type/) { get; set; } | Type of the form control. |
 | override [Value](../../aspose.html.forms/inputelement/value/) { get; set; } | Represents the string value of the input element that is directly mapped to the 'value' attribute. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

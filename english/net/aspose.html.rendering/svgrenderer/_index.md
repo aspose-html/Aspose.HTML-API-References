@@ -14,14 +14,12 @@ Represents SVG document renderer.
 public class SvgRenderer : Renderer<SVGDocument>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SvgRenderer](svgrenderer/)() | The default constructor. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

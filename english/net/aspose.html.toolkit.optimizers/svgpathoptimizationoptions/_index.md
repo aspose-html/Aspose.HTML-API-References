@@ -14,14 +14,12 @@ SVGPathOptimizationOptions is a class for storing options for optimizing segment
 public class SVGPathOptimizationOptions
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SVGPathOptimizationOptions](svgpathoptimizationoptions/)() | Initializes a new instance of the `SVGPathOptimizationOptions` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

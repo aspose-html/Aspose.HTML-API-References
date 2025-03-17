@@ -14,7 +14,6 @@ Many of SVG's graphics operations utilize 2x3 matrices of the form: [a c e] [b d
 public class SVGMatrix : SVGValueType
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -26,7 +25,6 @@ public class SVGMatrix : SVGValueType
 | [E](../../aspose.html.dom.svg.datatypes/svgmatrix/e/) { get; set; } | The E component of the matrix. |
 | [F](../../aspose.html.dom.svg.datatypes/svgmatrix/f/) { get; set; } | The F component of the matrix. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

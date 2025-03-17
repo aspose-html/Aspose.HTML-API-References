@@ -16,7 +16,6 @@ See also the [CSS Object Model (CSSOM) # ](https://www.w3.org/TR/cssom-1/#the-me
 public interface IMediaList : IEnumerable<string>
 ```
 
-## Members
 ## Properties
 
 | Name | Description |
@@ -25,7 +24,6 @@ public interface IMediaList : IEnumerable<string>
 | [Length](../../aspose.html.dom.css/imedialist/length/) { get; } | The length attribute must return the number of media queries in the collection of media queries. The range of valid media is 0 to length-1 inclusive. |
 | [MediaText](../../aspose.html.dom.css/imedialist/mediatext/) { get; } | A stringifier that returns a DOMString representing the MediaList as text, and also allows you to set a new MediaList. |
 
-## Members
 ## Methods
 
 | Name | Description |

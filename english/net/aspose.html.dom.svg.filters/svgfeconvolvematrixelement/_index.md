@@ -14,7 +14,6 @@ The SVGFEConvolveMatrixElement interface corresponds to the ‘feConvolveMatrix�
 public class SVGFEConvolveMatrixElement : SVGElement, ISVGFilterPrimitiveStandardAttributes
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -71,7 +70,6 @@ public class SVGFEConvolveMatrixElement : SVGElement, ISVGFilterPrimitiveStandar
 | [X](../../aspose.html.dom.svg.filters/svgfeconvolvematrixelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘filter’ element. |
 | [Y](../../aspose.html.dom.svg.filters/svgfeconvolvematrixelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘filter’ element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -124,7 +122,6 @@ public class SVGFEConvolveMatrixElement : SVGElement, ISVGFilterPrimitiveStandar
 | [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(*string, bool*) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
-## Public Members
 ## Fields
 
 | Name | Description |

@@ -14,7 +14,6 @@ The SVGPathSeg interface is a base interface that corresponds to a single comman
 public abstract class SVGPathSeg : SVGValueType
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public abstract class SVGPathSeg : SVGValueType
 | [PathSegType](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtype/) { get; } | The type of the path segment as specified by one of the constants defined on this interface. |
 | [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | The type of the path segment, specified by the corresponding one character command name. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -30,7 +28,6 @@ public abstract class SVGPathSeg : SVGValueType
 | [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
-## Public Members
 ## Fields
 
 | Name | Description |

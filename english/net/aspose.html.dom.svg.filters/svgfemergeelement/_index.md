@@ -14,7 +14,6 @@ The SVGFEMergeElement interface corresponds to the ‘feMerge’ element.
 public class SVGFEMergeElement : SVGElement, ISVGFilterPrimitiveStandardAttributes
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -59,7 +58,6 @@ public class SVGFEMergeElement : SVGElement, ISVGFilterPrimitiveStandardAttribut
 | [X](../../aspose.html.dom.svg.filters/svgfemergeelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘filter’ element. |
 | [Y](../../aspose.html.dom.svg.filters/svgfemergeelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘filter’ element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ Quick reference to Web Content Accessibility Guidelines (WCAG) 2 requirements (s
 public class AccessibilityRules
 ```
 
-## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ Defines the YamlScalarSyntaxNode
 public sealed class YamlScalarSyntaxNode : ChildFrontMatterSyntaxNode
 ```
 
-## Public Members
 ## Methods
 
 | Name | Description |

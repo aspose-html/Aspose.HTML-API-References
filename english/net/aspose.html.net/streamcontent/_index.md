@@ -14,21 +14,18 @@ Represents content based on a stream.
 public class StreamContent : Content
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [StreamContent](streamcontent/)(*Stream*) | Initializes a new instance of the `StreamContent` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Headers](../../aspose.html.net/content/headers/) { get; } | Gets the HTTP content headers. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

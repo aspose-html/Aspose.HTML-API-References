@@ -19,14 +19,12 @@ public class SyntaxNodeCollection<T> : NodeList<T>, IList<T>
 | --- | --- |
 | T | The type of the collection values. |
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SyntaxNodeCollection](syntaxnodecollection/)() | The default constructor. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -35,7 +33,6 @@ public class SyntaxNodeCollection<T> : NodeList<T>, IList<T>
 | [IsReadOnly](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/isreadonly/) { get; } | Get the readonly flag. |
 | [Item](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/item/) { get; set; } | Gets or sets the value at the given index. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

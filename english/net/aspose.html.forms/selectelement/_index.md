@@ -14,7 +14,6 @@ The SelectElement represents a wrapper that is associated with the HTMLSelectEle
 public class SelectElement : FormElement<HTMLSelectElement>
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -29,7 +28,6 @@ public class SelectElement : FormElement<HTMLSelectElement>
 | [Type](../../aspose.html.forms/selectelement/type/) { get; } | The type of this form control. This is the string "select-multiple" when the multiple attribute is `true` and the string "select-one" when `false`. |
 | override [Value](../../aspose.html.forms/selectelement/value/) { get; set; } | On getting, must return the value of the first option element in the list of options in tree order that has its selectedness set to true, if any. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

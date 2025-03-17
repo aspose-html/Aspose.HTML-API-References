@@ -14,7 +14,6 @@ Defines the `IParentNode` interface that is implemented by any possible parents.
 public interface IParentNode : IElementTraversal
 ```
 
-## Members
 ## Properties
 
 | Name | Description |
@@ -24,7 +23,6 @@ public interface IParentNode : IElementTraversal
 | [FirstElementChild](../../aspose.html.dom/iparentnode/firstelementchild/) { get; } | Returns the first child that is an element, and null otherwise. |
 | [LastElementChild](../../aspose.html.dom/iparentnode/lastelementchild/) { get; } | Returns the last child that is an element, and null otherwise. |
 
-## Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ The SVGFEOffsetElement interface corresponds to the ‘feOffset’ element.
 public class SVGFEOffsetElement : SVGElement, ISVGFilterPrimitiveStandardAttributes
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -62,7 +61,6 @@ public class SVGFEOffsetElement : SVGElement, ISVGFilterPrimitiveStandardAttribu
 | [X](../../aspose.html.dom.svg.filters/svgfeoffsetelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘filter’ element. |
 | [Y](../../aspose.html.dom.svg.filters/svgfeoffsetelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘filter’ element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

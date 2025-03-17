@@ -14,7 +14,6 @@ Represent the table cell syntax node.
 public class TableCellSyntaxNode : LeafBlockSyntaxNode
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -25,7 +24,6 @@ public class TableCellSyntaxNode : LeafBlockSyntaxNode
 | [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
 | [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

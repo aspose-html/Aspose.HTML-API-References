@@ -14,7 +14,6 @@ The SVGPathSegCurvetoQuadraticRel interface corresponds to a "relative quadratic
 public class SVGPathSegCurvetoQuadraticRel : SVGPathSeg
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -26,7 +25,6 @@ public class SVGPathSegCurvetoQuadraticRel : SVGPathSeg
 | [Y](../../aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticrel/y/) { get; set; } | The relative Y coordinate for the end point of this path segment. |
 | [Y1](../../aspose.html.dom.svg.paths/svgpathsegcurvetoquadraticrel/y1/) { get; set; } | The relative Y coordinate for the first control point. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

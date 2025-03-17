@@ -14,14 +14,12 @@ Represents rendering options for [`PdfDevice`](../pdfdevice/).
 public class PdfRenderingOptions : RenderingOptions
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [PdfRenderingOptions](pdfrenderingoptions/)() | Initializes a new instance of the `PdfRenderingOptions` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

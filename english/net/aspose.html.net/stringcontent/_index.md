@@ -14,7 +14,6 @@ Represents content based on a string.
 public class StringContent : ByteArrayContent
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -23,14 +22,12 @@ public class StringContent : ByteArrayContent
 | [StringContent](stringcontent/#constructor_1)(*string, Encoding*) | Initializes a new instance of the `StringContent` class. |
 | [StringContent](stringcontent/#constructor_2)(*string, Encoding, string*) | Initializes a new instance of the `StringContent` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Headers](../../aspose.html.net/content/headers/) { get; } | Gets the HTTP content headers. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

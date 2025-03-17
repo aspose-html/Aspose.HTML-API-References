@@ -14,7 +14,6 @@ Represent the ordered list item marker.
 public class OrderedListItemMarker : ListItemMarker
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -25,7 +24,6 @@ public class OrderedListItemMarker : ListItemMarker
 | [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
 | [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

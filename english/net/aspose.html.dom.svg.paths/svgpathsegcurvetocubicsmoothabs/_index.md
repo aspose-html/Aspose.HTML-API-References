@@ -14,7 +14,6 @@ The SVGPathSegCurvetoCubicSmoothAbs interface corresponds to an "absolute smooth
 public class SVGPathSegCurvetoCubicSmoothAbs : SVGPathSeg
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -26,7 +25,6 @@ public class SVGPathSegCurvetoCubicSmoothAbs : SVGPathSeg
 | [Y](../../aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothabs/y/) { get; set; } | The absolute Y coordinate for the end point of this path segment. |
 | [Y2](../../aspose.html.dom.svg.paths/svgpathsegcurvetocubicsmoothabs/y2/) { get; set; } | The absolute Y coordinate for the second control point. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

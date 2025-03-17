@@ -14,14 +14,12 @@ Represents MHTML save options. By assigning specific properties you can manage r
 public class MHTMLSaveOptions : SaveOptions
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [MHTMLSaveOptions](mhtmlsaveoptions/)() | The default constructor. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

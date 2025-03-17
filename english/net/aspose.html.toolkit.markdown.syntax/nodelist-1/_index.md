@@ -19,14 +19,12 @@ public abstract class NodeList<T> : IEnumerable<T>, IWritable
 | --- | --- |
 | T | The T type. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | abstract [Count](../../aspose.html.toolkit.markdown.syntax/nodelist-1/count/) { get; } | Gets the number of node in the list. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

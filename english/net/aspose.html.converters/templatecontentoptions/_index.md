@@ -14,14 +14,12 @@ Inline content object for merging processing.
 public sealed class TemplateContentOptions
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [TemplateContentOptions](templatecontentoptions/)(*string, [TemplateContent](../templatecontent/)*) | Inline (String) based initialization |
 
-## Public Members
 ## Properties
 
 | Name | Description |

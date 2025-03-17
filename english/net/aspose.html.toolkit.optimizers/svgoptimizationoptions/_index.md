@@ -14,14 +14,12 @@ SVGOptimizationOptions is a class for storing options for optimizing SVG documen
 public class SVGOptimizationOptions
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [SVGOptimizationOptions](svgoptimizationoptions/)() | Initializes a new instance of the `SVGOptimizationOptions` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

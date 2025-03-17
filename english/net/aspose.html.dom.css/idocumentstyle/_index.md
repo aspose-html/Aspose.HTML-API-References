@@ -16,7 +16,6 @@ See also the [Document Object Model (DOM) Level 2 Style Specification](http://ww
 public interface IDocumentStyle
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

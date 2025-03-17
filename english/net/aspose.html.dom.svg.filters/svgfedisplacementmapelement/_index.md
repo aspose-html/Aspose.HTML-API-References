@@ -14,7 +14,6 @@ The SVGFEDisplacementMapElement interface corresponds to the ‘feDisplacementMa
 public class SVGFEDisplacementMapElement : SVGElement, ISVGFilterPrimitiveStandardAttributes
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -64,7 +63,6 @@ public class SVGFEDisplacementMapElement : SVGElement, ISVGFilterPrimitiveStanda
 | [Y](../../aspose.html.dom.svg.filters/svgfedisplacementmapelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘filter’ element. |
 | [YChannelSelector](../../aspose.html.dom.svg.filters/svgfedisplacementmapelement/ychannelselector/) { get; } | Corresponds to attribute ‘yChannelSelector’ on the given ‘feDisplacementMap’ element. Takes one of the SVG_CHANNEL_* constants defined on this interface. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -117,7 +115,6 @@ public class SVGFEDisplacementMapElement : SVGElement, ISVGFilterPrimitiveStanda
 | [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(*string, bool*) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
-## Public Members
 ## Fields
 
 | Name | Description |

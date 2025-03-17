@@ -14,14 +14,12 @@ Represents Text save options
 public class TextSaveOptions
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [TextSaveOptions](textsaveoptions/)() | The default constructor. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

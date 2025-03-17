@@ -14,7 +14,6 @@ Represents FileStream implementation for providing streams to the rendering devi
 public class FileCreateStreamProvider : ICreateStreamProvider
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -23,7 +22,6 @@ public class FileCreateStreamProvider : ICreateStreamProvider
 | [FileCreateStreamProvider](filecreatestreamprovider/#constructor_1)(*string*) | Initializes a new instance of the `FileCreateStreamProvider` class. |
 | [FileCreateStreamProvider](filecreatestreamprovider/#constructor_2)(*string, string*) | Initializes a new instance of the `FileCreateStreamProvider` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -31,7 +29,6 @@ public class FileCreateStreamProvider : ICreateStreamProvider
 | [Directory](../../aspose.html.io/filecreatestreamprovider/directory/) { get; set; } | Gets or sets the directory. |
 | [Name](../../aspose.html.io/filecreatestreamprovider/name/) { get; set; } | Gets or sets the name. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

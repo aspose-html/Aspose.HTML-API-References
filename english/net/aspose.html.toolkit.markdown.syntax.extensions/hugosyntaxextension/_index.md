@@ -14,14 +14,12 @@ Defines the HugoSyntaxExtension.
 public class HugoSyntaxExtension : MarkdownSyntaxExtension
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [HugoSyntaxExtension](hugosyntaxextension/)() | The default constructor. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

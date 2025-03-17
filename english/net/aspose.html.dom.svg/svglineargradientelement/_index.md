@@ -14,7 +14,6 @@ The SVGLinearGradientElement interface corresponds to the ‘linearGradient’ e
 public class SVGLinearGradientElement : SVGGradientElement
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -62,7 +61,6 @@ public class SVGLinearGradientElement : SVGGradientElement
 | [Y1](../../aspose.html.dom.svg/svglineargradientelement/y1/) { get; } | Corresponds to attribute ‘y1’ on the given ‘linearGradient’ element. |
 | [Y2](../../aspose.html.dom.svg/svglineargradientelement/y2/) { get; } | Corresponds to attribute ‘y2’ on the given ‘linearGradient’ element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

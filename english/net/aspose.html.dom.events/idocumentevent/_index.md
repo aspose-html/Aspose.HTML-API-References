@@ -14,7 +14,6 @@ The DocumentEvent interface provides a mechanism by which the user can create an
 public interface IDocumentEvent
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

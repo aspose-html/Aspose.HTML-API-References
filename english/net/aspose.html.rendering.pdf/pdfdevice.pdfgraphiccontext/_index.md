@@ -14,14 +14,12 @@ Holds current graphics control parameters for the PdfDevice. These parameters de
 public class PdfGraphicContext : GraphicContext
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [PdfGraphicContext](../../aspose.html.rendering.pdf/pdfdevice.pdfgraphiccontext/.ctor)() | The default constructor. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -41,7 +39,6 @@ public class PdfGraphicContext : GraphicContext
 | virtual [TextInfo](../../aspose.html.rendering/graphiccontext/textinfo/) { get; } | Gets a [`TextInfo`](../../aspose.html.rendering/textinfo/) object which contains information about rendered text. |
 | virtual [TransformationMatrix](../../aspose.html.rendering/graphiccontext/transformationmatrix/) { get; set; } | Sets or gets transformation matrix. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

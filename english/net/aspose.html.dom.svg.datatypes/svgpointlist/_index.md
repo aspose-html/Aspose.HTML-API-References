@@ -14,7 +14,6 @@ This interface defines a list of SVGPoint objects.
 public class SVGPointList : SVGListBase<SVGPoint>
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -23,7 +22,6 @@ public class SVGPointList : SVGListBase<SVGPoint>
 | [Length](../../aspose.html.dom.svg.collections/svglistbase-1/length/) { get; } |  |
 | [NumberOfItems](../../aspose.html.dom.svg.collections/svglistbase-1/numberofitems/) { get; } |  |
 
-## Public Members
 ## Methods
 
 | Name | Description |

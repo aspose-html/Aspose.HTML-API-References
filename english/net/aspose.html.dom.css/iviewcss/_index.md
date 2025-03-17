@@ -16,7 +16,6 @@ The CSS Style for a given element can be obtained using the IViewCSS.GetComputed
 public interface IViewCSS : IAbstractView
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

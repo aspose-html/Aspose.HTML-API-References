@@ -16,7 +16,6 @@ See also the [CSS Object Model (CSSOM) # IElementCSSInlineStyle](https://www.w3.
 public interface IElementCSSInlineStyle
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

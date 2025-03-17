@@ -16,7 +16,6 @@ Note: This interface was part of an attempt to create a typed CSS Object Model. 
 public abstract class CSSPrimitiveValue : CSSValue
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -25,7 +24,6 @@ public abstract class CSSPrimitiveValue : CSSValue
 | [CSSValueType](../../aspose.html.dom.css/cssvalue/cssvaluetype/) { get; } | A code defining the type of the value. |
 | [PrimitiveType](../../aspose.html.dom.css/cssprimitivevalue/primitivetype/) { get; } | The type of the value as defined by the constants specified above. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -44,7 +42,6 @@ public abstract class CSSPrimitiveValue : CSSValue
 | abstract [SetStringValue](../../aspose.html.dom.css/cssprimitivevalue/setstringvalue/)(*ushort, string*) | A method to set the string value with the specified unit. If the property attached to this value can't accept the specified unit or the string value, the value will be unchanged and a DOMException will be raised. |
 | override [ToString](../../aspose.html.dom.css/cssvalue/tostring/)() | Returns a String that represents this instance. |
 
-## Public Members
 ## Fields
 
 | Name | Description |

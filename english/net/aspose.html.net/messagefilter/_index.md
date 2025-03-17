@@ -14,7 +14,6 @@ Represents abstract base class for different classes of filters used to query me
 public abstract class MessageFilter
 ```
 
-## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ Inherits from CharacterData and represents the content of a comment, i.e., all t
 public class Comment : CharacterData
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -38,7 +37,6 @@ public class Comment : CharacterData
 | [PreviousSibling](../../aspose.html.dom/node/previoussibling/) { get; } | The read-only previousSibling property of the [`Node`](../node/) interface returns the node immediately preceding the specified one in its parent's [`childNodes`](../node/firstchild/) list, or null if the specified node is the first in that list. |
 | override [TextContent](../../aspose.html.dom/comment/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new string is not empty or null, replaced by a single Text node containing the string this attribute is set to. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

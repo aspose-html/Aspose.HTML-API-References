@@ -14,7 +14,6 @@ This class describes a resource and provides methods for processing it.
 public class Resource
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -25,7 +24,6 @@ public class Resource
 | [OutputUrl](../../aspose.html.saving/resource/outputurl/) { get; set; } | Gets or sets the URL indicating where the resource will be located after processing. |
 | [Status](../../aspose.html.saving/resource/status/) { get; } | Returns the current status of the resource. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

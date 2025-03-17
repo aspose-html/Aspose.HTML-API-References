@@ -14,7 +14,6 @@ The SVGTSpanElement interface corresponds to the ‘tspan’ element.
 public class SVGTSpanElement : SVGTextPositioningElement
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -67,7 +66,6 @@ public class SVGTSpanElement : SVGTextPositioningElement
 | [X](../../aspose.html.dom.svg/svgtextpositioningelement/x/) { get; } | Corresponds to attribute ‘x’ on the given element. |
 | [Y](../../aspose.html.dom.svg/svgtextpositioningelement/y/) { get; } | Corresponds to attribute ‘y’ on the given element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

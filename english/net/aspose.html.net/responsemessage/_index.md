@@ -14,14 +14,12 @@ Represents a response message.
 public class ResponseMessage : IDisposable
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [ResponseMessage](responsemessage/)(*HttpStatusCode*) | Initializes a new instance of the `ResponseMessage` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -34,7 +32,6 @@ public class ResponseMessage : IDisposable
 | [ResponseUri](../../aspose.html.net/responsemessage/responseuri/) { get; set; } | Gets or sets the response URI. |
 | [StatusCode](../../aspose.html.net/responsemessage/statuscode/) { get; set; } | Gets or sets the status code. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

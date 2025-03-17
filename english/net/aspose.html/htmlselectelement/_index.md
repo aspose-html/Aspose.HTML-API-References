@@ -16,7 +16,6 @@ See also the [Document object Model (DOM) Level 2 HTML Specification](http://www
 public class HTMLSelectElement : HTMLElement
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -67,7 +66,6 @@ public class HTMLSelectElement : HTMLElement
 | [Type](../../aspose.html/htmlselectelement/type/) { get; } | The type of this form control. This is the string "select-multiple" when the multiple attribute is `true` and the string "select-one" when `false`. |
 | [Value](../../aspose.html/htmlselectelement/value/) { get; set; } | The current form control value (i.e. the value of the currently selected option), if multiple options are selected this is the value of the first selected option. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -120,7 +118,6 @@ public class HTMLSelectElement : HTMLElement
 | [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(*string, bool*) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
-## Public Members
 ## Events
 
 | Name | Description |

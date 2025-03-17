@@ -14,7 +14,6 @@ Defines the IInlinePostProcessing interface
 public interface IInlinePostProcessing
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

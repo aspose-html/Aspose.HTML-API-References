@@ -14,7 +14,6 @@ The Attr interface represents an attribute in an Element object. Typically the a
 public sealed class Attr : Node
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -40,7 +39,6 @@ public sealed class Attr : Node
 | override [TextContent](../../aspose.html.dom/attr/textcontent/) { get; set; } | This attribute returns the text content of this node and its descendants. When it is defined to be null, setting it has no effect. On setting, any possible children this node may have are removed and, if it the new string is not empty or null, replaced by a single Text node containing the string this attribute is set to. |
 | [Value](../../aspose.html.dom/attr/value/) { get; set; } | On retrieval, the value of the attribute is returned as a string. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

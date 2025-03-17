@@ -14,7 +14,6 @@ The SVGPathSegArcAbs interface corresponds to an "absolute arcto" (A) path data 
 public class SVGPathSegArcAbs : SVGPathSeg
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -29,7 +28,6 @@ public class SVGPathSegArcAbs : SVGPathSeg
 | [X](../../aspose.html.dom.svg.paths/svgpathsegarcabs/x/) { get; set; } | The absolute X coordinate for the end point of this path segment. |
 | [Y](../../aspose.html.dom.svg.paths/svgpathsegarcabs/y/) { get; set; } | The absolute Y coordinate for the end point of this path segment. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

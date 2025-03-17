@@ -14,7 +14,6 @@ Defines the YamlMappingSyntaxNode
 public sealed class YamlMappingSyntaxNode : ChildFrontMatterSyntaxNode
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,7 +23,6 @@ public sealed class YamlMappingSyntaxNode : ChildFrontMatterSyntaxNode
 | [Keys](../../aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/keys/) { get; } | Get all Keys. |
 | [Values](../../aspose.html.toolkit.markdown.syntax.extensions/yamlmappingsyntaxnode/values/) { get; } | Get all Values. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

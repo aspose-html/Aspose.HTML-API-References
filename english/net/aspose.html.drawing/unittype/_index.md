@@ -14,7 +14,6 @@ Specifies the unit of measurement.
 public sealed class UnitType : IEquatable<UnitType>
 ```
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -28,7 +27,6 @@ public sealed class UnitType : IEquatable<UnitType>
 | [implicit operator](../../aspose.html.drawing/unittype/op_implicit/) |  |
 | [operator !=](../../aspose.html.drawing/unittype/op_inequality/) |  |
 
-## Public Members
 ## Fields
 
 | Name | Description |

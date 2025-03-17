@@ -14,7 +14,6 @@ Represents text rendering options for [`ImageDevice`](../imagedevice/).
 public class TextOptions
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |

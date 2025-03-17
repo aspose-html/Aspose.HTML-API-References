@@ -14,7 +14,6 @@ Represents a base interface that should be implemented by HTML Form Elements.
 public interface IHTMLFormElement
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

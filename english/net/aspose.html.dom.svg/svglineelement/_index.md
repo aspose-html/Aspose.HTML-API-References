@@ -14,7 +14,6 @@ The SVGLineElement interface corresponds to the ‘line’ element.
 public class SVGLineElement : SVGGeometryElement
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -65,7 +64,6 @@ public class SVGLineElement : SVGGeometryElement
 | [Y1](../../aspose.html.dom.svg/svglineelement/y1/) { get; } | Corresponds to attribute ‘y1’ on the given ‘line’ element. |
 | [Y2](../../aspose.html.dom.svg/svglineelement/y2/) { get; } | Corresponds to attribute ‘y2’ on the given ‘line’ element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

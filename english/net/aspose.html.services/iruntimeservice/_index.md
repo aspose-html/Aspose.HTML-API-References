@@ -14,7 +14,6 @@ This service is used to configure runtime related properties.
 public interface IRuntimeService
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

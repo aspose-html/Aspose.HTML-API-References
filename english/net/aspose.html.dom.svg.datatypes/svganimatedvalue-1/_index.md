@@ -18,7 +18,6 @@ public abstract class SVGAnimatedValue<T> : SVGValueType
 | --- | --- |
 | T | The SVG Value object. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -26,7 +25,6 @@ public abstract class SVGAnimatedValue<T> : SVGValueType
 | virtual [AnimVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/animval/) { get; } | If the given attribute or property is being animated, contains the current animated value of the attribute or property. If the given attribute or property is not currently being animated, contains the same value as baseVal. |
 | [BaseVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } | The base value of the given attribute before applying any animations. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

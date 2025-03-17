@@ -14,7 +14,6 @@ The SVGMaskElement interface corresponds to the ‘mask’ element.
 public class SVGMaskElement : SVGElement, ISVGTests, ISVGUnitTypes
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -63,7 +62,6 @@ public class SVGMaskElement : SVGElement, ISVGTests, ISVGUnitTypes
 | [X](../../aspose.html.dom.svg/svgmaskelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘mask’ element. Takes one of the constants defined in SVGUnitTypes. |
 | [Y](../../aspose.html.dom.svg/svgmaskelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘mask’ element. Takes one of the constants defined in SVGUnitTypes. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ Used for attributes of type SVGPreserveAspectRatio which can be animated.
 public class SVGAnimatedPreserveAspectRatio : SVGAnimatedValue<SVGPreserveAspectRatio>
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class SVGAnimatedPreserveAspectRatio : SVGAnimatedValue<SVGPreserveAspect
 | virtual [AnimVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
-## Public Members
 ## Methods
 
 | Name | Description |

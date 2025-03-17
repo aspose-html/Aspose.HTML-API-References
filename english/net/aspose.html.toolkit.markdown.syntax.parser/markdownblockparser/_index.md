@@ -14,7 +14,6 @@ Defines the base class MarkdownBlockParser
 public abstract class MarkdownBlockParser
 ```
 
-## Public Members
 ## Methods
 
 | Name | Description |

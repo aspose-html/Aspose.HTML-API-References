@@ -14,7 +14,6 @@ The SVGPreserveAspectRatio interface corresponds to the ‘preserveAspectRatio�
 public class SVGPreserveAspectRatio : SVGValueType
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class SVGPreserveAspectRatio : SVGValueType
 | [Align](../../aspose.html.dom.svg.datatypes/svgpreserveaspectratio/align/) { get; set; } | The type of the alignment value as specified by one of the SVG_PRESERVEASPECTRATIO_* constants defined on this interface. |
 | [MeetOrSlice](../../aspose.html.dom.svg.datatypes/svgpreserveaspectratio/meetorslice/) { get; set; } | The type of the meet-or-slice value as specified by one of the SVG_MEETORSLICE_* constants defined on this interface. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -31,7 +29,6 @@ public class SVGPreserveAspectRatio : SVGValueType
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 | override [ToString](../../aspose.html.dom.svg.datatypes/svgpreserveaspectratio/tostring/)() | Returns a String that represents this instance. |
 
-## Public Members
 ## Fields
 
 | Name | Description |

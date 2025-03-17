@@ -14,7 +14,6 @@ The SVGPolylineElement interface corresponds to the ‘polyline’ element.
 public class SVGPolylineElement : SVGGeometryElement, ISVGAnimatedPoints
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -63,7 +62,6 @@ public class SVGPolylineElement : SVGGeometryElement, ISVGAnimatedPoints
 | [Transform](../../aspose.html.dom.svg/svggraphicselement/transform/) { get; } | Corresponds to attribute ‘transform’ on the given element. |
 | [ViewportElement](../../aspose.html.dom.svg/svgelement/viewportelement/) { get; } | The element which established the current viewport. Often, the nearest ancestor ‘svg’ element. Null if the given element is the outermost svg element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

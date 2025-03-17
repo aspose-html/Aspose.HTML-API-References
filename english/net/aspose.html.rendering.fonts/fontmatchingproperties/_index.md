@@ -14,7 +14,6 @@ This class contains properties which describe the font being matched.
 public class FontMatchingProperties
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |

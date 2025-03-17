@@ -14,7 +14,6 @@ Desclares methods for getting interpolation color.
 public interface IInterpolationColor
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

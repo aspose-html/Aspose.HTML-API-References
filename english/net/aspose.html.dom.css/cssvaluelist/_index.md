@@ -16,7 +16,6 @@ Note: This interface was part of an attempt to create a typed CSS Object Model. 
 public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -25,7 +24,6 @@ public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 | [CSSValueList](cssvaluelist/#constructor_1)(*params CSSValue[]*) | Initializes a new instance of the `CSSValueList` class. |
 | [CSSValueList](cssvaluelist/#constructor_2)(*IEnumerable&amp;lt;CSSValue&amp;gt;*) | Initializes a new instance of the `CSSValueList` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -35,7 +33,6 @@ public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 | [Item](../../aspose.html.dom.css/cssvaluelist/item/) { get; } | The item() method of the CSSValueList interface is used to retrieve a CSSValue by ordinal index. |
 | [Length](../../aspose.html.dom.css/cssvaluelist/length/) { get; } | The length read-only property of the CSSValueList interface represents the number of CSSValues in the list. The range of valid values of the indices is 0 to length-1 inclusive. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

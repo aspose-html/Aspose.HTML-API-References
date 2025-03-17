@@ -16,7 +16,6 @@ See also the [Document object Model (DOM) Level 2 HTML Specification](http://www
 public class HTMLTextAreaElement : HTMLElement
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -67,7 +66,6 @@ public class HTMLTextAreaElement : HTMLElement
 | [Type](../../aspose.html/htmltextareaelement/type/) { get; } | The type of this form control. This the string "textarea". |
 | [Value](../../aspose.html/htmltextareaelement/value/) { get; set; } | Represents the current contents of the corresponding form control, in an interactive user agent. Changing this attribute changes the contents of the form control, but does not change the contents of the element. If the entirety of the data can not fit into a single `DOMString`, the implementation may truncate the data. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -120,7 +118,6 @@ public class HTMLTextAreaElement : HTMLElement
 | [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(*string, bool*) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
-## Public Members
 ## Events
 
 | Name | Description |

@@ -14,7 +14,6 @@ Defines the base class for MarkdownSyntaxExtension
 public abstract class MarkdownSyntaxExtension
 ```
 
-## Public Members
 ## Methods
 
 | Name | Description |

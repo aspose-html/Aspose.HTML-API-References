@@ -16,7 +16,6 @@ The object’s supported property indices are the numbers in the range zero to o
 public interface IStyleSheetList : IEnumerable<ICSSStyleSheet>
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

@@ -19,7 +19,6 @@ public abstract class FormElement<T> : FormElement
 | --- | --- |
 | T | Type of form control elements |
 
-## Public Members
 ## Properties
 
 | Name | Description |

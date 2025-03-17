@@ -14,7 +14,6 @@ Interface SVGTests defines an interface which applies to all elements which have
 public interface ISVGTests
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

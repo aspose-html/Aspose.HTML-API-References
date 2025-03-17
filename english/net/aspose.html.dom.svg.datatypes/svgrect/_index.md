@@ -14,7 +14,6 @@ Represents rectangular geometry. Rectangles are defined as consisting of a (x,y)
 public class SVGRect : SVGValueType
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,7 +23,6 @@ public class SVGRect : SVGValueType
 | [X](../../aspose.html.dom.svg.datatypes/svgrect/x/) { get; set; } | The X coordinate of the rectangle, in user units. |
 | [Y](../../aspose.html.dom.svg.datatypes/svgrect/y/) { get; set; } | The Y coordinate of the rectangle, in user units. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

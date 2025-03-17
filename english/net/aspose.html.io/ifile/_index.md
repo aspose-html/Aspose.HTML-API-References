@@ -14,7 +14,6 @@ A File object is a Blob object with a name attribute, which is a string; it can 
 public interface IFile : IBlob
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

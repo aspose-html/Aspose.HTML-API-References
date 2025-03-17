@@ -14,14 +14,12 @@ Represents an HTML document renderer.
 public class HtmlRenderer : Renderer<HTMLDocument>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [HtmlRenderer](htmlrenderer/)() | The default constructor. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,14 +14,12 @@ Provides the base class for units of measurement.
 public abstract class Unit : IEquatable<Unit>
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [UnitType](../../aspose.html.drawing/unit/unittype/) { get; } | Gets the unit type of the `Unit`. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

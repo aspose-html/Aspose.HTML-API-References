@@ -16,7 +16,6 @@ See also the [CSS Object Model (CSSOM) # StyleSheet Interface Specification](htt
 public interface IStyleSheet
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

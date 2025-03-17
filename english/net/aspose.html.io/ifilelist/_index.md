@@ -14,7 +14,6 @@ Represent the interface for list of files.
 public interface IFileList : IEnumerable<IFile>
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

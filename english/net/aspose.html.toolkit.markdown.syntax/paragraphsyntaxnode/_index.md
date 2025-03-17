@@ -14,7 +14,6 @@ Represent the paragraph syntax node.
 public sealed class ParagraphSyntaxNode : LeafBlockSyntaxNode
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -25,7 +24,6 @@ public sealed class ParagraphSyntaxNode : LeafBlockSyntaxNode
 | [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
 | [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

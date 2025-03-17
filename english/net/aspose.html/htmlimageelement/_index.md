@@ -16,7 +16,6 @@ See also the [Document object Model (DOM) Level 2 HTML Specification](http://www
 public class HTMLImageElement : HTMLElement
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -68,7 +67,6 @@ public class HTMLImageElement : HTMLElement
 | [Vspace](../../aspose.html/htmlimageelement/vspace/) { get; set; } | Vertical space above and below this image in pixels. See the vspace attribute definition in HTML 4.01. This attribute is deprecated in HTML 4.01. Note that the type of this attribute was "DOMString" in DOM Level 1 HTML [[DOM Level 1](http://www.w3.org/TR/1998/REC-DOM-Level-1-19981001)]. @version DOM Level 2 |
 | [Width](../../aspose.html/htmlimageelement/width/) { get; set; } | The width of the image in pixels. See the width attribute definition in HTML 4.01. Note that the type of this attribute was `DOMString` in DOM Level 1 HTML [[DOM Level 1](http://www.w3.org/TR/1998/REC-DOM-Level-1-19981001)]. @version DOM Level 2 |
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -121,7 +119,6 @@ public class HTMLImageElement : HTMLElement
 | [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(*string, bool*) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
-## Public Members
 ## Events
 
 | Name | Description |

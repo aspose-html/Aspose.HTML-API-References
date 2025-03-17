@@ -14,7 +14,6 @@ The TypeInfo represents a type referenced from Element or Attr nodes, specified 
 public class TypeInfo : DOMObject
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class TypeInfo : DOMObject
 | [TypeName](../../aspose.html.dom/typeinfo/typename/) { get; } | The name of a type declared for the associated element or attribute, or null if unknown. |
 | [TypeNamespace](../../aspose.html.dom/typeinfo/typenamespace/) { get; } | Gets the type namespace.The namespace of the type declared for the associated element or attribute or null if the element does not have declaration or if no namespace information is available. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -30,7 +28,6 @@ public class TypeInfo : DOMObject
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 | [IsDerivedFrom](../../aspose.html.dom/typeinfo/isderivedfrom/)(*string, string, ulong*) | This method returns if there is a derivation between the reference type definition, i.e. the TypeInfo on which the method is being called, and the other type definition, i.e. the one passed as parameters. |
 
-## Public Members
 ## Fields
 
 | Name | Description |

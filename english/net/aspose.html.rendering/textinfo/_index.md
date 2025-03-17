@@ -14,7 +14,6 @@ Contains information about rendered text.
 public class TextInfo
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |

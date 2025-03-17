@@ -14,7 +14,6 @@ This class allows to prepare specified [`HTMLFormElement`](../../aspose.html/htm
 public class FormSubmitter : IDisposable
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -24,7 +23,6 @@ public class FormSubmitter : IDisposable
 | [FormSubmitter](formsubmitter/#constructor_1)(*[HTMLDocument](../../aspose.html/htmldocument/), int*) | Initializes a new instance of the `FormSubmitter` class based on [`HTMLFormElement`](../../aspose.html/htmlformelement/) selected by index from [`HTMLDocument`](../../aspose.html/htmldocument/). |
 | [FormSubmitter](formsubmitter/#constructor_2)(*[HTMLDocument](../../aspose.html/htmldocument/), string*) | Initializes a new instance of the `FormSubmitter` class based on [`HTMLFormElement`](../../aspose.html/htmlformelement/) selected by identifier from [`HTMLDocument`](../../aspose.html/htmldocument/). |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -32,7 +30,6 @@ public class FormSubmitter : IDisposable
 | [Action](../../aspose.html.forms/formsubmitter/action/) { get; set; } | Server-side form handler. See the action attribute definition in HTML 4.01. |
 | [Method](../../aspose.html.forms/formsubmitter/method/) { get; set; } | HTTP method [[IETF RFC 2616](http://www.ietf.org/rfc/rfc2616.txt)] used to submit form. See the method attribute definition in HTML 4.01. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

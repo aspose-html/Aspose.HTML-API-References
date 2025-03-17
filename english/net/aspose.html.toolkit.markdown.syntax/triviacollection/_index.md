@@ -14,14 +14,12 @@ A collection of trivia.
 public class TriviaCollection : SyntaxNodeCollection<WhitespaceSyntaxNode>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [TriviaCollection](triviacollection/)() | The default constructor. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -30,7 +28,6 @@ public class TriviaCollection : SyntaxNodeCollection<WhitespaceSyntaxNode>
 | [IsReadOnly](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/isreadonly/) { get; } |  |
 | [Item](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/item/) { get; set; } |  |
 
-## Public Members
 ## Methods
 
 | Name | Description |

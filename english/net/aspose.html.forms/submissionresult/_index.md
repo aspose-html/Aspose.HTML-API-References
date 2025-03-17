@@ -14,7 +14,6 @@ This class represents the result of the submitting form data to the server.
 public class SubmissionResult : IDisposable
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -23,7 +22,6 @@ public class SubmissionResult : IDisposable
 | [IsSuccess](../../aspose.html.forms/submissionresult/issuccess/) { get; } | Gets a value indicating whether this result is success. |
 | [ResponseMessage](../../aspose.html.forms/submissionresult/responsemessage/) { get; } | Gets the message represented the result of the submitting data to the server. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

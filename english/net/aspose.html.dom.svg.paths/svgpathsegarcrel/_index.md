@@ -14,7 +14,6 @@ The SVGPathSegArcRel interface corresponds to a "relative arcto" (a) path data c
 public class SVGPathSegArcRel : SVGPathSeg
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -29,7 +28,6 @@ public class SVGPathSegArcRel : SVGPathSeg
 | [X](../../aspose.html.dom.svg.paths/svgpathsegarcrel/x/) { get; set; } | The relative X coordinate for the end point of this path segment. |
 | [Y](../../aspose.html.dom.svg.paths/svgpathsegarcrel/y/) { get; set; } | The relative Y coordinate for the end point of this path segment. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ Represents collections of attributes that can be accessed by name.
 public class NamedNodeMap : DOMObject
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class NamedNodeMap : DOMObject
 | [Item](../../aspose.html.collections/namednodemap/item/) { get; } | Returns the index-th item in the map. If index is greater than or equal to the number of nodes in this map, this returns null. (2 indexers) |
 | [Length](../../aspose.html.collections/namednodemap/length/) { get; } | The number of nodes in this map. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

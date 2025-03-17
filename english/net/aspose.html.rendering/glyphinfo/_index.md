@@ -14,7 +14,6 @@ Contains glyph related information.
 public struct GlyphInfo
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,7 +23,6 @@ public struct GlyphInfo
 | [StringRepresentation](../../aspose.html.rendering/glyphinfo/stringrepresentation/) { get; } | Gets the string representation of this glyph. |
 | [Width](../../aspose.html.rendering/glyphinfo/width/) { get; } | Gets the width of the glyph, in points. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

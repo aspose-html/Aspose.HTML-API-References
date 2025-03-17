@@ -14,14 +14,12 @@ public class DeviceConfiguration<TGraphicContext, TRenderingOptions>
     where TRenderingOptions : RenderingOptions
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [DeviceConfiguration](../../aspose.html.rendering/device-2.deviceconfiguration-2/.ctor)() | The default constructor. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

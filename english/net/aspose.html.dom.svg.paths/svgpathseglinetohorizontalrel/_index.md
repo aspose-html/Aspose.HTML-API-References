@@ -14,7 +14,6 @@ The SVGPathSegLinetoHorizontalRel interface corresponds to a "relative horizonta
 public class SVGPathSegLinetoHorizontalRel : SVGPathSeg
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -23,7 +22,6 @@ public class SVGPathSegLinetoHorizontalRel : SVGPathSeg
 | [PathSegTypeAsLetter](../../aspose.html.dom.svg.paths/svgpathseg/pathsegtypeasletter/) { get; } | The type of the path segment, specified by the corresponding one character command name. |
 | [X](../../aspose.html.dom.svg.paths/svgpathseglinetohorizontalrel/x/) { get; set; } | The relative X coordinate for the end point of this path segment. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

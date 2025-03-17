@@ -14,7 +14,6 @@ Base implementation of an MultiLine Container Block Syntax Node
 public abstract class MultiLineContainerBlockSyntaxNode : ContainerBlockSyntaxNode
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -25,7 +24,6 @@ public abstract class MultiLineContainerBlockSyntaxNode : ContainerBlockSyntaxNo
 | [Parent](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) { get; } | Get the parent node. |
 | [PreviousSibling](../../aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) { get; } | Get the previous sibling. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

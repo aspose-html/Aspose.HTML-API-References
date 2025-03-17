@@ -14,7 +14,6 @@ Interface describing the main properties of the rules.
 public interface IRule
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

@@ -14,7 +14,6 @@ The `HTMLCollection` represents a generic collection of [`Element`](../../aspose
 public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public abstract class HTMLCollection : DOMObject, IEnumerable<Element>
 | abstract [Item](../../aspose.html.collections/htmlcollection/item/) { get; } | Returns the index-th item in the collection. If index is greater than or equal to the number of nodes in the list, this returns null. |
 | abstract [Length](../../aspose.html.collections/htmlcollection/length/) { get; } | The number of nodes in the list. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

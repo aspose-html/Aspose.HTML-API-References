@@ -14,7 +14,6 @@ The SVGFETileElement interface corresponds to the ‘feTile’ element.
 public class SVGFETileElement : SVGElement, ISVGFilterPrimitiveStandardAttributes
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -60,7 +59,6 @@ public class SVGFETileElement : SVGElement, ISVGFilterPrimitiveStandardAttribute
 | [X](../../aspose.html.dom.svg.filters/svgfetileelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘filter’ element. |
 | [Y](../../aspose.html.dom.svg.filters/svgfetileelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘filter’ element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

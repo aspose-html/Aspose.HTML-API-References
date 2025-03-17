@@ -16,7 +16,6 @@ The attributes [`nodeName`](./nodename/), [`nodeValue`](./nodevalue/) and attrib
 public abstract class Node : EventTarget, IXPathNSResolver
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -38,7 +37,6 @@ public abstract class Node : EventTarget, IXPathNSResolver
 | [PreviousSibling](../../aspose.html.dom/node/previoussibling/) { get; } | The read-only previousSibling property of the `Node` interface returns the node immediately preceding the specified one in its parent's [`childNodes`](./firstchild/) list, or null if the specified node is the first in that list. |
 | virtual [TextContent](../../aspose.html.dom/node/textcontent/) { get; set; } | The textContent property of the `Node` interface represents the text content of the node and its descendants. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -67,7 +65,6 @@ public abstract class Node : EventTarget, IXPathNSResolver
 | [ReplaceChild](../../aspose.html.dom/node/replacechild/)(*Node, Node*) | Replaces the child node oldChild with newChild in the list of children, and returns the oldChild node. If newChild is a [`DocumentFragment`](../documentfragment/) object, oldChild is replaced by all of the [`DocumentFragment`](../documentfragment/) children, which are inserted in the same order. If the newChild is already in the tree, it is first removed. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
-## Public Members
 ## Fields
 
 | Name | Description |

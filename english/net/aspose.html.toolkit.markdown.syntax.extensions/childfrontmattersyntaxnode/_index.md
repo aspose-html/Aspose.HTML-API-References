@@ -14,7 +14,6 @@ Defines the ChildFrontMatterSyntaxNode
 public abstract class ChildFrontMatterSyntaxNode : IEnumerable<ChildFrontMatterSyntaxNode>
 ```
 
-## Public Members
 ## Methods
 
 | Name | Description |

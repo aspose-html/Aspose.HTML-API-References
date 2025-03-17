@@ -14,14 +14,12 @@ This class represents an options collection which is used to configure [`Mutatio
 public class MutationObserverInit : IDictionary<string, object>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [MutationObserverInit](mutationobserverinit/)() | Initializes a new instance of the `MutationObserverInit` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -39,7 +37,6 @@ public class MutationObserverInit : IDictionary<string, object>
 | [Subtree](../../aspose.html.dom.mutations/mutationobserverinit/subtree/) { get; set; } | Set to true if mutations to not just target, but also target’s descendants are to be observed |
 | [Values](../../aspose.html.dom.mutations/mutationobserverinit/values/) { get; } | Gets a collection containing the values in the `MutationObserverInit` collection. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

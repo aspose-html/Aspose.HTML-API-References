@@ -14,7 +14,6 @@ The SVGFEPointLightElement interface corresponds to the ‘fePointLight’ eleme
 public class SVGFEPointLightElement : SVGElement
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -57,7 +56,6 @@ public class SVGFEPointLightElement : SVGElement
 | [Y](../../aspose.html.dom.svg.filters/svgfepointlightelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘fePointLight’ element. |
 | [Z](../../aspose.html.dom.svg.filters/svgfepointlightelement/z/) { get; } | Corresponds to attribute ‘z’ on the given ‘fePointLight’ element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

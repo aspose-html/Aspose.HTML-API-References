@@ -14,7 +14,6 @@ The SVGPathSegMovetoAbs interface corresponds to an "absolute moveto" (M) path d
 public class SVGPathSegMovetoAbs : SVGPathSeg
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,7 +23,6 @@ public class SVGPathSegMovetoAbs : SVGPathSeg
 | [X](../../aspose.html.dom.svg.paths/svgpathsegmovetoabs/x/) { get; set; } | The absolute X coordinate for the end point of this path segment. |
 | [Y](../../aspose.html.dom.svg.paths/svgpathsegmovetoabs/y/) { get; set; } | The absolute Y coordinate for the end point of this path segment. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

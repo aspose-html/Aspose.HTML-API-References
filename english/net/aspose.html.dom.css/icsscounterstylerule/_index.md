@@ -14,7 +14,6 @@ The CSSCounterStyleRule interface represents an @counter-style at-rule that allo
 public interface ICSSCounterStyleRule : ICSSRule
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

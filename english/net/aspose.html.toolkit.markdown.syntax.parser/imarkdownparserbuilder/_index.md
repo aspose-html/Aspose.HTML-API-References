@@ -14,7 +14,6 @@ Defines the base interface IMarkdownParserBuilder
 public interface IMarkdownParserBuilder
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

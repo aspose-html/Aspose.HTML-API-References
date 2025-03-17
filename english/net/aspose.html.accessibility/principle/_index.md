@@ -14,7 +14,6 @@ Accessibility Principle - The highest levels that provide the foundation of web 
 public class Principle : Rule
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class Principle : Rule
 | [Code](../../aspose.html.accessibility/rule/code/) { get; } | Rule code from the quick reference WCAG https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0 |
 | [Description](../../aspose.html.accessibility/rule/description/) { get; } | Description of Rule from the quick reference WCAG. https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0 |
 
-## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ The ICanvasRenderingContext2D interface is used for drawing rectangles, text, im
 public interface ICanvasRenderingContext2D : ICanvasDrawingStyles, ICanvasPathMethods
 ```
 
-## Members
 ## Properties
 
 | Name | Description |
@@ -30,7 +29,6 @@ public interface ICanvasRenderingContext2D : ICanvasDrawingStyles, ICanvasPathMe
 | [ShadowOffsetY](../../aspose.html.dom.canvas/icanvasrenderingcontext2d/shadowoffsety/) { get; set; } | Vertical distance the shadow will be offset. Default 0. |
 | [StrokeStyle](../../aspose.html.dom.canvas/icanvasrenderingcontext2d/strokestyle/) { get; set; } | Color or style to use for the lines around shapes. Default: (black). |
 
-## Members
 ## Methods
 
 | Name | Description |

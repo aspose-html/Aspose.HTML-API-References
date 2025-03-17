@@ -14,7 +14,6 @@ The ArrayBuffer object is used to represent a generic, fixed-length raw binary d
 public class ArrayBuffer : DOMObject
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class ArrayBuffer : DOMObject
 | [ArrayBuffer](arraybuffer/#constructor)(*byte[]*) | Initializes a new instance of the `ArrayBuffer` class. |
 | [ArrayBuffer](arraybuffer/#constructor_1)(*int*) | Initializes a new instance of the `ArrayBuffer` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -30,7 +28,6 @@ public class ArrayBuffer : DOMObject
 | [ByteLength](../../aspose.html/arraybuffer/bytelength/) { get; } | The byteLength accessor property represents the length of an ArrayBuffer in bytes. |
 | [Item](../../aspose.html/arraybuffer/item/) { get; set; } | Gets or sets the Byte at the specified index. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ The name property of the CSSKeyframeRule interface gets and sets the name of the
 public interface ICSSKeyframesRule : ICSSRule
 ```
 
-## Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public interface ICSSKeyframesRule : ICSSRule
 | [CSSRules](../../aspose.html.dom.css/icsskeyframesrule/cssrules/) { get; } | The read-only cssRules property of the [`CSSKeyframeRule`](../icsskeyframerule/) interface returns a [`CSSRuleList`](../icssrulelist/) containing the rules in the keyframes at-rule. |
 | [Name](../../aspose.html.dom.css/icsskeyframesrule/name/) { get; } | The name property of the [`CSSKeyframeRule`](../icsskeyframerule/) interface gets and sets the name of the animation as used by the animation-name property. |
 
-## Members
 ## Methods
 
 | Name | Description |

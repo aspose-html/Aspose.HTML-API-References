@@ -14,14 +14,12 @@ Represents Markdown save options. For example, you can set markdown formatting s
 public class MarkdownSaveOptions : SaveOptions
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [MarkdownSaveOptions](markdownsaveoptions/)() | Initializes a new instance of the `MarkdownSaveOptions` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

@@ -16,7 +16,6 @@ More detailed conversion specific info you can obtain on [Aspose Documentation](
 public static class Converter
 ```
 
-## Public Members
 ## Methods
 
 | Name | Description |

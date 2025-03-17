@@ -14,7 +14,6 @@ The SVGFEComponentTransferElement interface corresponds to the ‘feComponentTra
 public class SVGFEComponentTransferElement : SVGElement, ISVGFilterPrimitiveStandardAttributes
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -60,7 +59,6 @@ public class SVGFEComponentTransferElement : SVGElement, ISVGFilterPrimitiveStan
 | [X](../../aspose.html.dom.svg.filters/svgfecomponenttransferelement/x/) { get; } | Corresponds to attribute ‘x’ on the given ‘filter’ element. |
 | [Y](../../aspose.html.dom.svg.filters/svgfecomponenttransferelement/y/) { get; } | Corresponds to attribute ‘y’ on the given ‘filter’ element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

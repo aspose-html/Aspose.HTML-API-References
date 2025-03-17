@@ -14,7 +14,6 @@ This class is responsible for handling resources. It provides methods that allow
 public abstract class ResourceHandler
 ```
 
-## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ Used for attributes which take a list of numbers and which can be animated.
 public class SVGAnimatedNumberList : SVGAnimatedValue<SVGNumberList>
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class SVGAnimatedNumberList : SVGAnimatedValue<SVGNumberList>
 | virtual [AnimVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
-## Public Members
 ## Methods
 
 | Name | Description |

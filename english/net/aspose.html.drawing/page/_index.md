@@ -14,7 +14,6 @@ Represents a page object is used for configuration output page. The lacuna value
 public class Page
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -24,7 +23,6 @@ public class Page
 | [Page](page/#constructor_2)(*[Size](../size/)*) | Initializes a new instance of the `Page` class. |
 | [Page](page/#constructor_3)(*[Size](../size/), [Margin](../margin/)*) | Initializes a new instance of the `Page` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

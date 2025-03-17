@@ -14,7 +14,6 @@ The nodes iterator.
 public class NodeIterator : Traversal
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -24,7 +23,6 @@ public class NodeIterator : Traversal
 | [ReferenceNode](../../aspose.html.toolkit.markdown.syntax/nodeiterator/referencenode/) { get; } | Get the reference node. |
 | [Root](../../aspose.html.toolkit.markdown.syntax/traversal/root/) { get; } | Defines the interface for get Root node. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

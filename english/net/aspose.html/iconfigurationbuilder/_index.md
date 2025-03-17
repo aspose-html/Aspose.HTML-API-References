@@ -14,7 +14,6 @@ Represents a Configuration object builder.
 public interface IConfigurationBuilder
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

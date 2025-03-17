@@ -14,14 +14,12 @@ Provides methods to set metered key.
 public class Metered
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [Metered](metered/)() | Initializes a new instance of this class. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

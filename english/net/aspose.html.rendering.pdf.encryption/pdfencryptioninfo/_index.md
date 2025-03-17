@@ -14,14 +14,12 @@ Contains details for a pdf encryption.
 public class PdfEncryptionInfo
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [PdfEncryptionInfo](pdfencryptioninfo/)(*string, string, [PdfPermissions](../pdfpermissions/), [PdfEncryptionAlgorithm](../pdfencryptionalgorithm/)*) | Initializes a new instance of the `PdfEncryptionInfo` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

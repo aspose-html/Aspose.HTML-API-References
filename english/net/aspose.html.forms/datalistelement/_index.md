@@ -14,14 +14,12 @@ The DataListElement represents a wrapper that is associated with the HTMLDataLis
 public class DataListElement : FormElement<HTMLDataListElement>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [DataListElement](datalistelement/)(*[HTMLDataListElement](../../aspose.html/htmldatalistelement/)*) | Initializes a new instance of the `DataListElement` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

@@ -14,7 +14,6 @@ Represents a notation declared in the DTD.
 public class Notation : Node
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -38,7 +37,6 @@ public class Notation : Node
 | [SystemId](../../aspose.html.dom/notation/systemid/) { get; } | The system identifier of this notation. If the system identifier was not specified, this is null. This may be an absolute URI or not. |
 | virtual [TextContent](../../aspose.html.dom/node/textcontent/) { get; set; } | The textContent property of the [`Node`](../node/) interface represents the text content of the node and its descendants. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

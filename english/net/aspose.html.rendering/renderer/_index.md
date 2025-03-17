@@ -14,14 +14,12 @@ Represents a base class for all renderers and implemnts IDisposable interface.
 public class Renderer : IDisposable
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [Renderer](renderer/)() | The default constructor. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

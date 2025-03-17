@@ -14,7 +14,6 @@ Represents a factory for creating drawing-related objects.
 public interface IDrawingFactory : IDisposable
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ The CSSPageRule interface represents a @page rule within a CSS style sheet. The 
 public interface ICSSPageRule : ICSSRule
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

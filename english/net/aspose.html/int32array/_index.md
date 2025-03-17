@@ -14,7 +14,6 @@ Represents an array of twos-complement 32-bit signed integers in the platform by
 public class Int32Array : TypedArray<int>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -25,7 +24,6 @@ public class Int32Array : TypedArray<int>
 | [Int32Array](int32array/#constructor_1)(*[ArrayBuffer](../arraybuffer/), int*) | Initializes a new instance of the `Int32Array` class. |
 | [Int32Array](int32array/#constructor_2)(*[ArrayBuffer](../arraybuffer/), int, int*) | Initializes a new instance of the `Int32Array` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -36,14 +34,12 @@ public class Int32Array : TypedArray<int>
 | override [Item](../../aspose.html/int32array/item/) { get; set; } | Gets or sets the Int32 at the specified index. |
 | [Length](../../aspose.html/typedarray/length/) { get; } | Gets the length of a typed array. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
 | --- | --- |
 | virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
 
-## Public Members
 ## Fields
 
 | Name | Description |

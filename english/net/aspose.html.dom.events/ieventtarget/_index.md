@@ -14,7 +14,6 @@ The EventTarget interface is implemented by all Nodes in an implementation which
 public interface IEventTarget
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

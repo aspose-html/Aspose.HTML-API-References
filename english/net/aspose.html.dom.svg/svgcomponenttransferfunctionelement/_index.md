@@ -14,7 +14,6 @@ This interface defines a base interface used by the component transfer function 
 public class SVGComponentTransferFunctionElement : SVGElement
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -61,7 +60,6 @@ public class SVGComponentTransferFunctionElement : SVGElement
 | [Type](../../aspose.html.dom.svg/svgcomponenttransferfunctionelement/type/) { get; } | Corresponds to attribute ‘type’ on the given element. Takes one of the SVG_FECOMPONENTTRANSFER_TYPE_* constants defined on this interface. |
 | [ViewportElement](../../aspose.html.dom.svg/svgelement/viewportelement/) { get; } | The element which established the current viewport. Often, the nearest ancestor ‘svg’ element. Null if the given element is the outermost svg element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |
@@ -114,7 +112,6 @@ public class SVGComponentTransferFunctionElement : SVGElement
 | [ToggleAttribute](../../aspose.html.dom/element/toggleattribute/)(*string, bool*) | If force is not given, "toggles" qualifiedName, removing it if it is present and adding it if it is not present. If force is true, adds qualifiedName. If force is false, removes qualifiedName. |
 | override [ToString](../../aspose.html.dom/node/tostring/)() | Returns a String that represents this instance. |
 
-## Public Members
 ## Fields
 
 | Name | Description |

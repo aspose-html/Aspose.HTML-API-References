@@ -14,21 +14,18 @@ A container for name/value tuples encoded using application/x-www-form-urlencode
 public class FormUrlEncodedContent : ByteArrayContent
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [FormUrlEncodedContent](formurlencodedcontent/)(*IEnumerable&amp;lt;KeyValuePair&amp;lt;string, string&amp;gt;&amp;gt;*) |  |
 
-## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Headers](../../aspose.html.net/content/headers/) { get; } | Gets the HTTP content headers. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

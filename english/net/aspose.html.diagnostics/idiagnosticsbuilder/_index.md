@@ -14,7 +14,6 @@ An interface for configuring diagnostic tools.
 public interface IDiagnosticsBuilder
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

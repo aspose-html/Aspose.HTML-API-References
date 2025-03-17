@@ -14,14 +14,12 @@ Provides the base class for dimensions. The general term 'dimension' refers to a
 public abstract class Dimension : Numeric
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [UnitType](../../aspose.html.drawing/unit/unittype/) { get; } | Gets the unit type of the [`Unit`](../unit/). |
 
-## Public Members
 ## Methods
 
 | Name | Description |

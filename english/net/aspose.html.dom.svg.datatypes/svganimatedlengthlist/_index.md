@@ -14,7 +14,6 @@ Used for attributes of type SVGLengthList which can be animated.
 public class SVGAnimatedLengthList : SVGAnimatedValue<SVGLengthList>
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class SVGAnimatedLengthList : SVGAnimatedValue<SVGLengthList>
 | virtual [AnimVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/animval/) { get; } |  |
 | [BaseVal](../../aspose.html.dom.svg.datatypes/svganimatedvalue-1/baseval/) { get; set; } |  |
 
-## Public Members
 ## Methods
 
 | Name | Description |

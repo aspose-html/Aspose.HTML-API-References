@@ -14,14 +14,12 @@ Represents rendering options for [`XpsDevice`](../xpsdevice/).
 public class XpsRenderingOptions : RenderingOptions
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
 | --- | --- |
 | [XpsRenderingOptions](xpsrenderingoptions/)() | The default constructor. |
 
-## Public Members
 ## Properties
 
 | Name | Description |

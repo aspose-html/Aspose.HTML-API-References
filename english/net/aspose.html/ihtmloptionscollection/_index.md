@@ -16,7 +16,6 @@ See also the [Document object Model (DOM) Level 2 HTML Specification](http://www
 public interface IHTMLOptionsCollection : IEnumerable<Element>
 ```
 
-## Members
 ## Properties
 
 | Name | Description |
@@ -24,7 +23,6 @@ public interface IHTMLOptionsCollection : IEnumerable<Element>
 | [Item](../../aspose.html/ihtmloptionscollection/item/) { get; } | Returns the indexth item in the collection. If index is greater than or equal to the number of nodes in the list, this returns null. (2 indexers) |
 | [Length](../../aspose.html/ihtmloptionscollection/length/) { get; } | The number of nodes in the list. |
 
-## Members
 ## Methods
 
 | Name | Description |

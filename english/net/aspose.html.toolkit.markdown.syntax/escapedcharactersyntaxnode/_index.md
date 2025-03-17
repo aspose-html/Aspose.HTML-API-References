@@ -14,7 +14,6 @@ Implemented the escape character syntax node.
 public class EscapedCharacterSyntaxNode : TextSyntaxNode
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -28,7 +27,6 @@ public class EscapedCharacterSyntaxNode : TextSyntaxNode
 | virtual [Span](../../aspose.html.toolkit.markdown.syntax/textsyntaxnode/span/) { get; } | Defines the interface for get span. |
 | [Value](../../aspose.html.toolkit.markdown.syntax/textsyntaxnode/value/) { get; } | Defines the property for get string value. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

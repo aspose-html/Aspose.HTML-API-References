@@ -14,7 +14,6 @@ Represents common interface for all Document Fragment elements.
 public interface IDocumentFragmentElement
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

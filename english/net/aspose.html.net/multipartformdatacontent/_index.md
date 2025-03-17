@@ -14,7 +14,6 @@ Represent content for multipart/form-data encoding algorithm
 public class MultipartFormDataContent : MultipartContent
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -22,14 +21,12 @@ public class MultipartFormDataContent : MultipartContent
 | [MultipartFormDataContent](multipartformdatacontent/#constructor)() | Initializes a new instance of the `MultipartFormDataContent` class. |
 | [MultipartFormDataContent](multipartformdatacontent/#constructor_1)(*string*) | Initializes a new instance of the `MultipartFormDataContent` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
 | --- | --- |
 | [Headers](../../aspose.html.net/content/headers/) { get; } | Gets the HTTP content headers. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ Interface SVGURIReference defines an interface which applies to all elements whi
 public interface ISVGURIReference
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

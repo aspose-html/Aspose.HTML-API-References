@@ -14,7 +14,6 @@ The SVGSymbolElement interface corresponds to the ‘symbol’ element.
 public class SVGSymbolElement : SVGGraphicsElement, ISVGFitToViewBox
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -62,7 +61,6 @@ public class SVGSymbolElement : SVGGraphicsElement, ISVGFitToViewBox
 | [ViewBox](../../aspose.html.dom.svg/svgsymbolelement/viewbox/) { get; } | Corresponds to attribute ‘viewBox’ on the given element. |
 | [ViewportElement](../../aspose.html.dom.svg/svgelement/viewportelement/) { get; } | The element which established the current viewport. Often, the nearest ancestor ‘svg’ element. Null if the given element is the outermost svg element. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

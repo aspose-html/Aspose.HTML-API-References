@@ -14,7 +14,6 @@ The abstract class Traversal
 public abstract class Traversal : IDisposable
 ```
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -22,7 +21,6 @@ public abstract class Traversal : IDisposable
 | [Filter](../../aspose.html.toolkit.markdown.syntax/traversal/filter/) { get; } | Defines the interface for get Filter. |
 | [Root](../../aspose.html.toolkit.markdown.syntax/traversal/root/) { get; } | Defines the interface for get Root node. |
 
-## Public Members
 ## Methods
 
 | Name | Description |

@@ -14,7 +14,6 @@ Provides an interface for the network operations.
 public interface INetworkService
 ```
 
-## Members
 ## Properties
 
 | Name | Description |

@@ -14,7 +14,6 @@ This class allows you to control some parts of the font matching algorithm.
 public abstract class FontMatcher
 ```
 
-## Public Members
 ## Methods
 
 | Name | Description |

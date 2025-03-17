@@ -14,7 +14,6 @@ This interface defines a list of SVGPathSeg objects.
 public class SVGPathSegList : SVGListBase<SVGPathSeg>
 ```
 
-## Public Members
 ## Constructors
 
 | Name | Description |
@@ -22,7 +21,6 @@ public class SVGPathSegList : SVGListBase<SVGPathSeg>
 | [SVGPathSegList](svgpathseglist/#constructor)() | Initializes a new instance of the `SVGPathSegList` class. |
 | [SVGPathSegList](svgpathseglist/#constructor_1)(*IEnumerable&amp;lt;SVGPathSeg&amp;gt;*) | Initializes a new instance of the `SVGPathSegList` class. |
 
-## Public Members
 ## Properties
 
 | Name | Description |
@@ -31,7 +29,6 @@ public class SVGPathSegList : SVGListBase<SVGPathSeg>
 | [Length](../../aspose.html.dom.svg.collections/svglistbase-1/length/) { get; } |  |
 | [NumberOfItems](../../aspose.html.dom.svg.collections/svglistbase-1/numberofitems/) { get; } |  |
 
-## Public Members
 ## Methods
 
 | Name | Description |

@@ -16,7 +16,6 @@ See also the [Document object Model (DOM) Level 2 Traversal and Range Specificat
 public interface IDocumentTraversal
 ```
 
-## Members
 ## Methods
 
 | Name | Description |

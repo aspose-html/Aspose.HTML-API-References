@@ -14,7 +14,6 @@ The CSSStyleRule interface represents a single CSS style rule. The selectorText 
 public interface ICSSStyleRule : ICSSRule
 ```
 
-## Members
 ## Properties
 
 | Name | Description |
