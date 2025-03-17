@@ -28,6 +28,7 @@ public sealed class DOMNameAttribute : Attribute
 | Name | Description |
 | --- | --- |
 | [Name](../../aspose.html.dom.attributes/domnameattribute/name/) { get; } | Gets the DOM name. |
+| virtual [TypeId](../../system/attribute/typeid/) { get; } |  |
 
 ### See Also
 

@@ -27,6 +27,14 @@ public class SVGException : PlatformException
 | Name | Description |
 | --- | --- |
 | [Code](../../aspose.html.dom.svg/svgexception/code/) { get; } | A code identifying the reason why the requested operation could not be performed. The value of this member will be one of the constants in the SVGException code group. |
+| virtual [Data](../../system/exception/data/) { get; } |  |
+| virtual [HelpLink](../../system/exception/helplink/) { get; set; } |  |
+| [HResult](../../system/exception/hresult/) { get; set; } |  |
+| [InnerException](../../system/exception/innerexception/) { get; } |  |
+| virtual [Message](../../system/exception/message/) { get; } |  |
+| virtual [Source](../../system/exception/source/) { get; set; } |  |
+| virtual [StackTrace](../../system/exception/stacktrace/) { get; } |  |
+| [TargetSite](../../system/exception/targetsite/) { get; } |  |
 
 ## Public Members
 ## Fields

@@ -21,6 +21,14 @@ public class MessageHandlerCollection : Collection<MessageHandler>
 | --- | --- |
 | [MessageHandlerCollection](messagehandlercollection/)() | The default constructor. |
 
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Count](../../system.collections.objectmodel/collection-1/count/) { get; } |  |
+| [Item](../../system.collections.objectmodel/collection-1/item/) { get; set; } |  |
+| [Items](../../system.collections.objectmodel/collection-1/items/) { get; } |  |
+
 ### See Also
 
 * class [MessageHandler](../messagehandler/)

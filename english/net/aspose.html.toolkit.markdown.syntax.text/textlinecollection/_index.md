@@ -14,7 +14,14 @@ Represents the TextLineCollection.
 public class TextLineCollection : ReadOnlyCollection<TextLine>
 ```
 
-## Public Members
+## Properties
+
+| Name | Description |
+| --- | --- |
+| [Count](../../system.collections.objectmodel/readonlycollection-1/count/) { get; } |  |
+| [Item](../../system.collections.objectmodel/readonlycollection-1/item/) { get; } |  |
+| [Items](../../system.collections.objectmodel/readonlycollection-1/items/) { get; } |  |
+
 ## Methods
 
 | Name | Description |

@@ -33,6 +33,9 @@ public class ImageDevice : Device<ImageGraphicContext, ImageRenderingOptions>
 | --- | --- |
 | [GraphicContext](../../aspose.html.rendering/device-2/graphiccontext/) { get; } |  |
 | [Options](../../aspose.html.rendering/device-2/options/) { get; } |  |
+| virtual [Configuration](../../aspose.html.rendering/device-2/configuration/) { get; } |  |
+| [OutputStream](../../aspose.html.rendering/device-2/outputstream/) { get; } |  |
+| [StreamProvider](../../aspose.html.rendering/device-2/streamprovider/) { get; } |  |
 
 ## Protected Members
 ## Properties
