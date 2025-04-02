@@ -1,11 +1,1145 @@
 ---
 title: Converter.ConvertEPUB
 second_title: Aspose.HTML for .NET API Reference
-description: Converter ConvertEPUB method. Convert epub source presented by input stream to xps. Result is xps file defined by full path
+description: Converter ConvertEPUB method. Convert EPUB source presented by data input stream. Result is file formed by output file path
 type: docs
 weight: 10
 url: /net/aspose.html.converters/converter/convertepub/
 ---
+## ConvertEPUB(*Stream, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_27}
+
+Convert EPUB source presented by data input stream. Result is file formed by output file path.
+
+```csharp
+public static void ConvertEPUB(Stream stream, ImageSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | Input stream as conversion source. |
+| options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/#save-options). |
+| outputPath | String | Full image file path as output conversion result. |
+
+## Remarks
+
+How to convert EPUB to Image
+
+EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
+
+Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
+
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
+
+[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
+
+[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
+
+[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
+
+[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
+
+[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
+
+Convert EPUB to Image
+
+To convert EPUB to Image file format, you should follow a few steps:
+
+Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
+
+Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+You may also be interested in specific image format conversion
+
+[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
+
+[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
+
+[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
+
+[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;  
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+...
+// Open existing file for reading as stream
+var inputStream = System.IO.File.OpenRead(Path.Combine(InputFolder, "sample.epub"));
+
+// Define output file path
+var resultPath = Path.Combine(OutputFolder, "sample.png");
+
+// Define default options instance
+var options = new ImageSaveOptions();
+
+// Initiate conversion process
+Converter.ConvertEPUB(inputStream, options, resultPath);
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertEPUB(*string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_43}
+
+Convert EPUB source presented by full file path. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
+
+```csharp
+public static void ConvertEPUB(string sourcePath, ImageSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | EPUB source file path as input parameter. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| outputPath | String | Full image file path as output conversion result. |
+
+## Remarks
+
+How to convert EPUB to Image
+
+EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
+
+Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
+
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
+
+[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
+
+[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
+
+[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
+
+[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
+
+[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
+
+Convert EPUB to Image
+
+To convert EPUB to Image file format, you should follow a few steps:
+
+Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
+
+Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+You may also be interested in specific image format conversion
+
+[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
+
+[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
+
+[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
+
+[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;  
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters; 
+...
+// Form source file path
+var sourcePath = Path.Combine(InputFolder, "sample.epub"); 
+
+// Form output result file path
+var resultPath = Path.Combine(OutputFolder, "sample.png"); 
+
+// Define default ImageSaveOptions object instance
+var options = new ImageSaveOptions(); 
+
+// Initiate conversion process
+Converter.ConvertEPUB(sourcePath, options, resultPath);
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - custom output folder path.
+
+### See Also
+
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_11}
+
+Convert EPUB source defined by URL. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
+
+```csharp
+public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
+| outputPath | String | Full image file path as output conversion result. |
+
+## Remarks
+
+How to convert EPUB to Image
+
+EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
+
+Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
+
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
+
+[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
+
+[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
+
+[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
+
+[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
+
+[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
+
+Convert EPUB to Image
+
+To convert EPUB to Image file format, you should follow a few steps:
+
+Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
+
+Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+You may also be interested in specific image format conversion
+
+[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
+
+[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
+
+[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
+
+[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;  
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+...
+// Create Url based on input file path
+var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
+
+// Form output result file path
+var resultPath = Path.Combine(OutputFolder, "sample.png");
+
+// Define default options instance
+var options = new ImageSaveOptions();
+
+// Initiate conversion process
+Converter.ConvertEPUB(sourceUrl, options, resultPath);
+```
+
+*InputFolder - user input folder path.
+
+*OutputFolder - user output folder.
+
+### See Also
+
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_19}
+
+Convert EPUB source presented by data input stream. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
+
+```csharp
+public static void ConvertEPUB(Stream stream, Configuration configuration, 
+    ImageSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | Input stream as conversion source. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| outputPath | String | Full image file path as output conversion result. |
+
+## Remarks
+
+How to convert EPUB to Image
+
+EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
+
+Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
+
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
+
+[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
+
+[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
+
+[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
+
+[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
+
+[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
+
+Convert EPUB to Image
+
+To convert EPUB to Image file format, you should follow a few steps:
+
+Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
+
+Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+You may also be interested in specific image format conversion
+
+[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
+
+[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
+
+[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
+
+[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;  
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+...
+// Open existing file for reading as stream
+var inputStream = System.IO.File.OpenRead(Path.Combine(InputFolder, "sample.epub"));
+
+// Define output file path
+var resultPath = Path.Combine(OutputFolder, "sample.png");
+
+// Define default options instance
+var options = new ImageSaveOptions();
+
+// Initiate conversion process with default configuration object
+Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_35}
+
+Convert EPUB source presented by full file path. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
+
+```csharp
+public static void ConvertEPUB(string sourcePath, Configuration configuration, 
+    ImageSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | EPUB source file path as input parameter. |
+| configuration | Configuration | The environment configuration. Represents the [configuration](https://apireference.aspose.com/html/net/aspose.html/configuration) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
+| outputPath | String | Full image file path as output conversion result. |
+
+## Remarks
+
+How to convert EPUB to Image
+
+EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
+
+Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
+
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
+
+[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
+
+[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
+
+[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
+
+[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
+
+[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
+
+Convert EPUB to Image
+
+To convert EPUB to Image file format, you should follow a few steps:
+
+Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
+
+Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+You may also be interested in specific image format conversion
+
+[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
+
+[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
+
+[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
+
+[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;  
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters; 
+...
+// Form source file path
+var sourcePath = Path.Combine(InputFolder, "sample.epub"); 
+
+// Form output result file path
+var resultPath = Path.Combine(OutputFolder, "sample.png"); 
+
+// Define default ImageSaveOptions object instance
+var options = new ImageSaveOptions(); 
+
+// Initiate conversion process with default configuration object
+Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_3}
+
+Convert EPUB source defined by URL. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
+
+```csharp
+public static void ConvertEPUB(Url sourceUrl, Configuration configuration, 
+    ImageSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [page size](https://apireference.aspose.com/html/net/aspose.html.rendering/renderingoptions/properties/pagesetup), [margins](https://apireference.aspose.com/html/net/aspose.html.drawing/page/properties/margin), [CSS media-type](https://apireference.aspose.com/html/net/aspose.html.rendering/mediatype), etc. See [ImageSaveOptions ](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)class. |
+| outputPath | String | Full image file path as output conversion result. |
+
+## Remarks
+
+How to convert EPUB to Image
+
+EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
+
+Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
+
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
+
+[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
+
+[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
+
+[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
+
+[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
+
+[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
+
+Convert EPUB to Image
+
+To convert EPUB to Image file format, you should follow a few steps:
+
+Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
+
+Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+You may also be interested in specific image format conversion
+
+[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
+
+[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
+
+[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
+
+[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;  
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+...
+// Create Url based on input file path
+var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));  
+
+// Define output file path
+var resultPath = Path.Combine(OutputFolder, "sample.png"); 
+ 
+// Define default options instance
+var options = new ImageSaveOptions(); 
+
+// Initiate conversion process with default configuration object
+Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);  
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertEPUB(*Stream, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_26}
+
+Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
+
+```csharp
+public static void ConvertEPUB(Stream stream, ImageSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | Input stream as conversion source. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
+| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
+
+## Remarks
+
+How to convert EPUB to Image
+
+EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
+
+Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
+
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
+
+[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
+
+[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
+
+[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
+
+[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
+
+[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
+
+Convert EPUB to Image
+
+To convert EPUB to Image file format, you should follow a few steps:
+
+Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
+
+Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+You may also be interested in specific image format conversion
+
+[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
+
+[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
+
+[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
+
+[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO; 
+using Aspose.Html.IO; 
+using Aspose.Html.Saving; 
+using Aspose.Html.Converters; 
+...  
+// Open existing file for reading as stream  
+var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
+
+// Refer to ICreateStreamProvider interface implementation  
+var sp = new FileCreateStreamProvider(Path.Combine(OutputFolder, "sample.png"));  
+
+// Create default options instance  
+var options = new ImageSaveOptions();    
+
+// Initiate conversion process  
+Converter.ConvertEPUB(inputStream, options, sp);
+```
+
+*InputFolder - user input folder path.
+
+*OutputFolder - user output folder path.
+
+### See Also
+
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertEPUB(*string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_42}
+
+Convert EPUB source presented by file path to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
+
+```csharp
+public static void ConvertEPUB(string sourcePath, ImageSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | EPUB source file path. It will be combined with the current directory path to form an absolute URL. |
+| options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/#save-options). |
+| provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
+
+## Remarks
+
+How to convert EPUB to Image
+
+EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
+
+Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
+
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
+
+[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
+
+[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
+
+[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
+
+[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
+
+[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
+
+Convert EPUB to Image
+
+To convert EPUB to Image file format, you should follow a few steps:
+
+Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom ICreateStreamProvider interface implementation as output data buffer.Create a new ImageSaveOptions object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
+
+Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+You may also be interested in specific image format conversion
+
+[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
+
+[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
+
+[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
+
+[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+EPUB to JPG by two lines of code
+
+```csharp
+using System.IO;
+using Aspose.Html.Converters;
+using Aspose.Html.Rendering.Image;
+using Aspose.Html.Saving;
+...
+// Open an existing EPUB file for reading.
+using var stream = File.OpenRead(DataDir + "input.epub");
+
+// Invoke the ConvertEPUB method to convert the EPUB code to JPG image      
+Converter.ConvertEPUB(stream, new ImageSaveOptions(ImageFormat.Jpeg), Path.Combine(OutputDir, "convert-by-two-lines.jpg"));
+```
+
+*DataDir - user source file path.
+
+*OutputDir - user output file path.
+
+### See Also
+
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_10}
+
+Convert epub source presented by URL to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
+
+```csharp
+public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
+| provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
+
+## Remarks
+
+How to convert EPUB to Image
+
+EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
+
+Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
+
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
+
+[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
+
+[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
+
+[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
+
+[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
+
+[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
+
+Convert EPUB to Image
+
+To convert EPUB to Image file format, you should follow a few steps:
+
+Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom ICreateStreamProvider interface implementation as output data buffer.Create a new ImageSaveOptions object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
+
+Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+You may also be interested in specific image format conversion
+
+[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
+
+[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
+
+[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
+
+[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO; 
+using Aspose.Html.IO; 
+using Aspose.Html.Saving; 
+using Aspose.Html.Converters; 
+...  
+
+// Create Url based on input file path
+var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
+
+// Refer to ICreateStreamProvider interface implementation  
+var sp = new FileCreateStreamProvider(Path.Combine(OutputFolder, "sample.png"));  
+
+// Create default options instance  
+var options = new ImageSaveOptions();
+
+// Initiate conversion process  
+Converter.ConvertEPUB(sourceUrl, options, sp);
+```
+
+*InputFolder - user input folder.
+
+*OutputFolder - user output folder.
+
+*ImageSaveOptions supposes PNG format of new formed image.
+
+### See Also
+
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_18}
+
+Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
+
+```csharp
+public static void ConvertEPUB(Stream stream, Configuration configuration, 
+    ImageSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | Input stream as conversion source. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. |
+
+## Remarks
+
+How to convert EPUB to Image
+
+EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
+
+Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
+
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
+
+[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
+
+[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
+
+[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
+
+[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
+
+[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
+
+Convert EPUB to Image
+
+To convert EPUB to Image file format, you should follow a few steps:
+
+Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom ICreateStreamProvider interface implementation as output data buffer.Create a new ImageSaveOptions object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
+
+Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+You may also be interested in specific image format conversion
+
+[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
+
+[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
+
+[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
+
+[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO; 
+using Aspose.Html.IO; 
+using Aspose.Html.Saving; 
+using Aspose.Html.Converters; 
+...  
+// Open existing file for reading as stream  
+var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
+
+
+// Refer to ICreateStreamProvider interface implementation  
+var sp = new FileCreateStreamProvider(Path.Combine(OutputFolder, "sample.png"));  
+
+
+// Create default options instance  
+var options = new ImageSaveOptions();    
+
+
+// Initiate conversion process with default configuration  
+Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+*ImageSaveOptions supposes PNG format of new formed image.
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_34}
+
+Convert epub source presented by file path to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
+
+```csharp
+public static void ConvertEPUB(string sourcePath, Configuration configuration, 
+    ImageSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | EPUB source defined by file path. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. See ICreateStreamProvider implementation sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
+
+## Remarks
+
+How to convert EPUB to Image
+
+EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
+
+Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
+
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
+
+[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
+
+[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
+
+[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
+
+[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
+
+[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
+
+Convert EPUB to Image
+
+To convert EPUB to Image file format, you should follow a few steps:
+
+Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom ICreateStreamProvider interface implementation as output data buffer.Create a new ImageSaveOptions object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
+
+Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+You may also be interested in specific image format conversion
+
+[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
+
+[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
+
+[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
+
+[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;  
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters; 
+...
+// Form source file path
+var sourcePath = Path.Combine(InputFolder, "sample.epub"); 
+
+// Refer to ICreateStreamProvider interface implementation  
+var sp = new FileCreateStreamProvider(Path.Combine(OutputFolder, "sample.png"));  
+
+// Define default ImageSaveOptions object instance
+var options = new ImageSaveOptions(); 
+
+// Initiate conversion process with default configuration object
+Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_2}
+
+Convert epub source presented by URL to image. Result is image file formed by implementation of [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) interface.
+
+```csharp
+public static void ConvertEPUB(Url sourceUrl, Configuration configuration, 
+    ImageSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. See ICreateStreamProvider implementation sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
+
+## Remarks
+
+How to convert EPUB to Image
+
+EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
+
+Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
+
+The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
+
+This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
+
+[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
+
+[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
+
+[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
+
+[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
+
+[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
+
+Convert EPUB to Image
+
+To convert EPUB to Image file format, you should follow a few steps:
+
+Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom ICreateStreamProvider interface implementation as output data buffer.Create a new ImageSaveOptions object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
+
+Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+You may also be interested in specific image format conversion
+
+[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
+
+[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
+
+[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
+
+[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO; 
+using Aspose.Html.Saving; 
+using Aspose.Html.Converters;
+...
+// Form source Url by input file path
+var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
+
+// Refer to ICreateStreamProvider interface implementation  
+var sp = new FileCreateStreamProvider(Path.Combine(OutputFolder, "sample.png"));  
+
+// Create default options instance  
+var options = new ImageSaveOptions();
+
+// Initiate conversion process with default configuration
+Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
+
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+*ImageSaveOptions supposes PNG format of new formed image.
+
+### See Also
+
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
 ## ConvertEPUB(*Stream, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertepub_31}
 
 Convert epub source presented by input stream to xps. Result is xps file defined by full path.
@@ -2746,1140 +3880,6 @@ Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
 * class [Url](../../../aspose.html/url/)
 * class [Configuration](../../../aspose.html/configuration/)
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*Stream, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_27}
-
-Convert EPUB source presented by data input stream. Result is file formed by output file path.
-
-```csharp
-public static void ConvertEPUB(Stream stream, ImageSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Input stream as conversion source. |
-| options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/#save-options). |
-| outputPath | String | Full image file path as output conversion result. |
-
-## Remarks
-
-How to convert EPUB to Image
-
-EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
-
-Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
-
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
-
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
-
-[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
-
-[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
-
-[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
-
-[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
-
-[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
-
-Convert EPUB to Image
-
-To convert EPUB to Image file format, you should follow a few steps:
-
-Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
-
-Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-You may also be interested in specific image format conversion
-
-[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
-
-[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
-
-[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
-
-[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;  
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-...
-// Open existing file for reading as stream
-var inputStream = System.IO.File.OpenRead(Path.Combine(InputFolder, "sample.epub"));
-
-// Define output file path
-var resultPath = Path.Combine(OutputFolder, "sample.png");
-
-// Define default options instance
-var options = new ImageSaveOptions();
-
-// Initiate conversion process
-Converter.ConvertEPUB(inputStream, options, resultPath);
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_43}
-
-Convert EPUB source presented by full file path. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
-
-```csharp
-public static void ConvertEPUB(string sourcePath, ImageSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | EPUB source file path as input parameter. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
-| outputPath | String | Full image file path as output conversion result. |
-
-## Remarks
-
-How to convert EPUB to Image
-
-EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
-
-Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
-
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
-
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
-
-[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
-
-[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
-
-[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
-
-[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
-
-[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
-
-Convert EPUB to Image
-
-To convert EPUB to Image file format, you should follow a few steps:
-
-Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
-
-Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-You may also be interested in specific image format conversion
-
-[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
-
-[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
-
-[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
-
-[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;  
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters; 
-...
-// Form source file path
-var sourcePath = Path.Combine(InputFolder, "sample.epub"); 
-
-// Form output result file path
-var resultPath = Path.Combine(OutputFolder, "sample.png"); 
-
-// Define default ImageSaveOptions object instance
-var options = new ImageSaveOptions(); 
-
-// Initiate conversion process
-Converter.ConvertEPUB(sourcePath, options, resultPath);
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - custom output folder path.
-
-### See Also
-
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*[Url](../../../aspose.html/url/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_11}
-
-Convert EPUB source defined by URL. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
-
-```csharp
-public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
-| outputPath | String | Full image file path as output conversion result. |
-
-## Remarks
-
-How to convert EPUB to Image
-
-EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
-
-Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
-
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
-
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
-
-[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
-
-[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
-
-[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
-
-[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
-
-[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
-
-Convert EPUB to Image
-
-To convert EPUB to Image file format, you should follow a few steps:
-
-Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
-
-Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-You may also be interested in specific image format conversion
-
-[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
-
-[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
-
-[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
-
-[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;  
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-...
-// Create Url based on input file path
-var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
-
-// Form output result file path
-var resultPath = Path.Combine(OutputFolder, "sample.png");
-
-// Define default options instance
-var options = new ImageSaveOptions();
-
-// Initiate conversion process
-Converter.ConvertEPUB(sourceUrl, options, resultPath);
-```
-
-*InputFolder - user input folder path.
-
-*OutputFolder - user output folder.
-
-### See Also
-
-* class [Url](../../../aspose.html/url/)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_19}
-
-Convert EPUB source presented by data input stream. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
-
-```csharp
-public static void ConvertEPUB(Stream stream, Configuration configuration, 
-    ImageSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Input stream as conversion source. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
-| outputPath | String | Full image file path as output conversion result. |
-
-## Remarks
-
-How to convert EPUB to Image
-
-EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
-
-Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
-
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
-
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
-
-[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
-
-[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
-
-[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
-
-[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
-
-[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
-
-Convert EPUB to Image
-
-To convert EPUB to Image file format, you should follow a few steps:
-
-Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
-
-Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-You may also be interested in specific image format conversion
-
-[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
-
-[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
-
-[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
-
-[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;  
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-...
-// Open existing file for reading as stream
-var inputStream = System.IO.File.OpenRead(Path.Combine(InputFolder, "sample.epub"));
-
-// Define output file path
-var resultPath = Path.Combine(OutputFolder, "sample.png");
-
-// Define default options instance
-var options = new ImageSaveOptions();
-
-// Initiate conversion process with default configuration object
-Converter.ConvertEPUB(inputStream, new Configuration(), options, resultPath);
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [Configuration](../../../aspose.html/configuration/)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_35}
-
-Convert EPUB source presented by full file path. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
-
-```csharp
-public static void ConvertEPUB(string sourcePath, Configuration configuration, 
-    ImageSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | EPUB source file path as input parameter. |
-| configuration | Configuration | The environment configuration. Represents the [configuration](https://apireference.aspose.com/html/net/aspose.html/configuration) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
-| outputPath | String | Full image file path as output conversion result. |
-
-## Remarks
-
-How to convert EPUB to Image
-
-EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
-
-Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
-
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
-
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
-
-[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
-
-[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
-
-[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
-
-[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
-
-[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
-
-Convert EPUB to Image
-
-To convert EPUB to Image file format, you should follow a few steps:
-
-Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
-
-Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-You may also be interested in specific image format conversion
-
-[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
-
-[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
-
-[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
-
-[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;  
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters; 
-...
-// Form source file path
-var sourcePath = Path.Combine(InputFolder, "sample.epub"); 
-
-// Form output result file path
-var resultPath = Path.Combine(OutputFolder, "sample.png"); 
-
-// Define default ImageSaveOptions object instance
-var options = new ImageSaveOptions(); 
-
-// Initiate conversion process with default configuration object
-Converter.ConvertEPUB(sourcePath, new Configuration(), options, resultPath);
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [Configuration](../../../aspose.html/configuration/)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_3}
-
-Convert EPUB source defined by URL. Result is image file formed by output file path. Image format is specified by ImageSaveOptions object.
-
-```csharp
-public static void ConvertEPUB(Url sourceUrl, Configuration configuration, 
-    ImageSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [page size](https://apireference.aspose.com/html/net/aspose.html.rendering/renderingoptions/properties/pagesetup), [margins](https://apireference.aspose.com/html/net/aspose.html.drawing/page/properties/margin), [CSS media-type](https://apireference.aspose.com/html/net/aspose.html.rendering/mediatype), etc. See [ImageSaveOptions ](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)class. |
-| outputPath | String | Full image file path as output conversion result. |
-
-## Remarks
-
-How to convert EPUB to Image
-
-EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
-
-Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
-
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
-
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
-
-[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
-
-[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
-
-[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
-
-[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
-
-[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
-
-Convert EPUB to Image
-
-To convert EPUB to Image file format, you should follow a few steps:
-
-Define Url based on existing EPUB file at the specified path.Define result output file path.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need also pass ImageSaveOptions and Configuration object to Image conversion.Online EPUB converters
-
-Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-You may also be interested in specific image format conversion
-
-[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
-
-[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
-
-[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
-
-[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;  
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-...
-// Create Url based on input file path
-var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));  
-
-// Define output file path
-var resultPath = Path.Combine(OutputFolder, "sample.png"); 
- 
-// Define default options instance
-var options = new ImageSaveOptions(); 
-
-// Initiate conversion process with default configuration object
-Converter.ConvertEPUB(sourceUrl, new Configuration(), options, resultPath);  
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [Url](../../../aspose.html/url/)
-* class [Configuration](../../../aspose.html/configuration/)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*Stream, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_26}
-
-Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
-
-```csharp
-public static void ConvertEPUB(Stream stream, ImageSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Input stream as conversion source. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
-| provider | ICreateStreamProvider | Implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. See advanced sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
-
-## Remarks
-
-How to convert EPUB to Image
-
-EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
-
-Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
-
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
-
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
-
-[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
-
-[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
-
-[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
-
-[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
-
-[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
-
-Convert EPUB to Image
-
-To convert EPUB to Image file format, you should follow a few steps:
-
-Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
-
-Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-You may also be interested in specific image format conversion
-
-[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
-
-[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
-
-[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
-
-[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO; 
-using Aspose.Html.IO; 
-using Aspose.Html.Saving; 
-using Aspose.Html.Converters; 
-...  
-// Open existing file for reading as stream  
-var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
-
-// Refer to ICreateStreamProvider interface implementation  
-var sp = new FileCreateStreamProvider(Path.Combine(OutputFolder, "sample.png"));  
-
-// Create default options instance  
-var options = new ImageSaveOptions();    
-
-// Initiate conversion process  
-Converter.ConvertEPUB(inputStream, options, sp);
-```
-
-*InputFolder - user input folder path.
-
-*OutputFolder - user output folder path.
-
-### See Also
-
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_42}
-
-Convert EPUB source presented by file path to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
-
-```csharp
-public static void ConvertEPUB(string sourcePath, ImageSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | EPUB source file path. It will be combined with the current directory path to form an absolute URL. |
-| options | ImageSaveOptions | New formed image options as format, resolution and etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class and [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/#save-options). |
-| provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
-
-## Remarks
-
-How to convert EPUB to Image
-
-EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
-
-Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
-
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
-
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
-
-[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
-
-[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
-
-[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
-
-[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
-
-[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
-
-Convert EPUB to Image
-
-To convert EPUB to Image file format, you should follow a few steps:
-
-Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom ICreateStreamProvider interface implementation as output data buffer.Create a new ImageSaveOptions object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
-
-Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-You may also be interested in specific image format conversion
-
-[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
-
-[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
-
-[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
-
-[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-EPUB to JPG by two lines of code
-
-```csharp
-using System.IO;
-using Aspose.Html.Converters;
-using Aspose.Html.Rendering.Image;
-using Aspose.Html.Saving;
-...
-// Open an existing EPUB file for reading.
-using var stream = File.OpenRead(DataDir + "input.epub");
-
-// Invoke the ConvertEPUB method to convert the EPUB code to JPG image      
-Converter.ConvertEPUB(stream, new ImageSaveOptions(ImageFormat.Jpeg), Path.Combine(OutputDir, "convert-by-two-lines.jpg"));
-```
-
-*DataDir - user source file path.
-
-*OutputDir - user output file path.
-
-### See Also
-
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*[Url](../../../aspose.html/url/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_10}
-
-Convert epub source presented by URL to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
-
-```csharp
-public static void ConvertEPUB(Url sourceUrl, ImageSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. See [`ImageSaveOptions `](../../../aspose.html.saving/imagesaveoptions/)class. |
-| provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. More info about providers see in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
-
-## Remarks
-
-How to convert EPUB to Image
-
-EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
-
-Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
-
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
-
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
-
-[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
-
-[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
-
-[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
-
-[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
-
-[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
-
-Convert EPUB to Image
-
-To convert EPUB to Image file format, you should follow a few steps:
-
-Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom ICreateStreamProvider interface implementation as output data buffer.Create a new ImageSaveOptions object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
-
-Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-You may also be interested in specific image format conversion
-
-[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
-
-[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
-
-[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
-
-[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO; 
-using Aspose.Html.IO; 
-using Aspose.Html.Saving; 
-using Aspose.Html.Converters; 
-...  
-
-// Create Url based on input file path
-var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
-
-// Refer to ICreateStreamProvider interface implementation  
-var sp = new FileCreateStreamProvider(Path.Combine(OutputFolder, "sample.png"));  
-
-// Create default options instance  
-var options = new ImageSaveOptions();
-
-// Initiate conversion process  
-Converter.ConvertEPUB(sourceUrl, options, sp);
-```
-
-*InputFolder - user input folder.
-
-*OutputFolder - user output folder.
-
-*ImageSaveOptions supposes PNG format of new formed image.
-
-### See Also
-
-* class [Url](../../../aspose.html/url/)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_18}
-
-Convert epub source presented by input [Stream](https://docs.microsoft.com/en-us/dotnet/api/system.io.stream?view=net-5.0) to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
-
-```csharp
-public static void ConvertEPUB(Stream stream, Configuration configuration, 
-    ImageSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Input stream as conversion source. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
-| provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. |
-
-## Remarks
-
-How to convert EPUB to Image
-
-EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
-
-Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
-
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
-
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
-
-[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
-
-[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
-
-[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
-
-[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
-
-[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
-
-Convert EPUB to Image
-
-To convert EPUB to Image file format, you should follow a few steps:
-
-Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom ICreateStreamProvider interface implementation as output data buffer.Create a new ImageSaveOptions object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
-
-Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-You may also be interested in specific image format conversion
-
-[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
-
-[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
-
-[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
-
-[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO; 
-using Aspose.Html.IO; 
-using Aspose.Html.Saving; 
-using Aspose.Html.Converters; 
-...  
-// Open existing file for reading as stream  
-var inputStream = File.OpenRead(Path.Combine(InputFolder, "sample.epub"));  
-
-
-// Refer to ICreateStreamProvider interface implementation  
-var sp = new FileCreateStreamProvider(Path.Combine(OutputFolder, "sample.png"));  
-
-
-// Create default options instance  
-var options = new ImageSaveOptions();    
-
-
-// Initiate conversion process with default configuration  
-Converter.ConvertEPUB(inputStream, new Configuration(), options, sp);
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-*ImageSaveOptions supposes PNG format of new formed image.
-
-### See Also
-
-* class [Configuration](../../../aspose.html/configuration/)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_34}
-
-Convert epub source presented by file path to image. Result is image file formed by implementation of [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface.
-
-```csharp
-public static void ConvertEPUB(string sourcePath, Configuration configuration, 
-    ImageSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | EPUB source defined by file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
-| provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. See ICreateStreamProvider implementation sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
-
-## Remarks
-
-How to convert EPUB to Image
-
-EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
-
-Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
-
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
-
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
-
-[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
-
-[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
-
-[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
-
-[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
-
-[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
-
-Convert EPUB to Image
-
-To convert EPUB to Image file format, you should follow a few steps:
-
-Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom ICreateStreamProvider interface implementation as output data buffer.Create a new ImageSaveOptions object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
-
-Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-You may also be interested in specific image format conversion
-
-[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
-
-[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
-
-[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
-
-[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;  
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters; 
-...
-// Form source file path
-var sourcePath = Path.Combine(InputFolder, "sample.epub"); 
-
-// Refer to ICreateStreamProvider interface implementation  
-var sp = new FileCreateStreamProvider(Path.Combine(OutputFolder, "sample.png"));  
-
-// Define default ImageSaveOptions object instance
-var options = new ImageSaveOptions(); 
-
-// Initiate conversion process with default configuration object
-Converter.ConvertEPUB(sourcePath, new Configuration(), options, sp);
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [Configuration](../../../aspose.html/configuration/)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_2}
-
-Convert epub source presented by URL to image. Result is image file formed by implementation of [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) interface.
-
-```csharp
-public static void ConvertEPUB(Url sourceUrl, Configuration configuration, 
-    ImageSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourceUrl | Url | EPUB source URL - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | ImageSaveOptions object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
-| provider | ICreateStreamProvider | Implementation of the interface, which will be used to get an output stream. See ICreateStreamProvider implementation sample in [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers). |
-
-## Remarks
-
-How to convert EPUB to Image
-
-EPUB is an e-book file format that provides a standard digital publication format. It was created by International Digital Publishing Forum (IDPF), and now it is supported by many e-readers and software applications.
-
-Converting EPUB files to the PNG format can be helpful if you need to include files in a PowerPoint presentation or send them by email. Please convert them to the image format and use them as you want! You can use additional conversion parameters for the desired result obtaining.
-
-The main highlight of Aspose.HTML is the conversion feature. EPUB is an open XML-based format for digital books and publications, which can be view and read on smartphones, tablets and computers. The Aspose.Html.Converters namespace implements easy access to conversion methods. It provides a wide range of [EPUB](https://docs.fileformat.com/ebook/epub/) conversions to popular formats, such as [PDF](https://docs.fileformat.com/pdf/), [XPS](https://docs.fileformat.com/page-description-language/xps/), [DOCX](https://docs.fileformat.com/word-processing/docx/), [JPEG](https://docs.fileformat.com/image/jpeg/), [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), and [GIF](https://docs.fileformat.com/image/gif/).
-
-This section provides information on the list of supported EPUB conversion scenarios and how to perform them using a Converter class that groups all low-level conversion operations in a single class to make them comfy and easy to use. In the EPUB Converter guide, you find the following articles:
-
-[Convert EPUB to JPG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/) - You learn how to convert EPUB to JPEG image using the Aspose.HTML API and consider examples to illustrate them.
-
-[Convert EPUB to PNG](https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/) - You learn how to convert EPUB to PNG using the Aspose.HTML API and apply ImageSaveOptions and ICreateStreamProvider parameters.
-
-[Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/) - You learn how to convert EPUB to BMP using the Aspose.HTML API and apply image save options.
-
-[Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) - You learn how to convert EPUB to TIFF using the Aspose.HTML API and consider examples to illustrate the conversion.
-
-[Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) - You find out the supported EPUB to GIFconversion scenarios and consider examples to illustrate them.
-
-Convert EPUB to Image
-
-To convert EPUB to Image file format, you should follow a few steps:
-
-Open an existing EPUB file. In the example, we use the OpenRead() method of System.IO.FileStream class to open and read an EPUB file from the file system at the specified path.Use known or custom ICreateStreamProvider interface implementation as output data buffer.Create a new ImageSaveOptions object with required ImageFormat. By default, the Format property is PNG.Use the ConvertEPUB() method of the Converter class to save EPUB as an image. You need to pass the EPUB inputStream, ImageSaveOptions, and output stream to the ConvertEPUB() method for EPUB to Image conversion.Online EPUB converters
-
-Aspose.HTML offers a free online [EPUB to PNG](https://products.aspose.app/html/en/conversion/epub-to-png) Converter that converts EPUB to PNG image with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-You may also be interested in specific image format conversion
-
-[EPUB to JPG](https://products.aspose.app/html/en/conversion/epub-to-jpg)
-
-[EPUB to BMP](https://products.aspose.app/html/en/conversion/epub-to-bmp)
-
-[EPUB to TIFF](https://products.aspose.app/html/en/conversion/epub-to-tiff)
-
-[EPUB to GIF](https://products.aspose.app/html/en/conversion/epub-to-gif)
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO; 
-using Aspose.Html.Saving; 
-using Aspose.Html.Converters;
-...
-// Form source Url by input file path
-var sourceUrl = new Url(Path.Combine(InputFolder, "sample.epub"));
-
-// Refer to ICreateStreamProvider interface implementation  
-var sp = new FileCreateStreamProvider(Path.Combine(OutputFolder, "sample.png"));  
-
-// Create default options instance  
-var options = new ImageSaveOptions();
-
-// Initiate conversion process with default configuration
-Converter.ConvertEPUB(sourceUrl, new Configuration(), options, sp);
-
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-*ImageSaveOptions supposes PNG format of new formed image.
-
-### See Also
-
-* class [Url](../../../aspose.html/url/)
-* class [Configuration](../../../aspose.html/configuration/)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)
 * namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
