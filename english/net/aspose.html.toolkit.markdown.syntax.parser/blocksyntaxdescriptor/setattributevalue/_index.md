@@ -6,7 +6,7 @@ type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/setattributevalue/
 ---
-## BlockSyntaxDescriptor.SetAttributeValue&lt;T&gt; method
+## BlockSyntaxDescriptor.SetAttributeValue<T> method
 
 Defines the interface for set attribute.
 

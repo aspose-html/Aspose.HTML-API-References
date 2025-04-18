@@ -6,7 +6,7 @@ type: docs
 weight: 100
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/getenumerator/
 ---
-## SyntaxNodeCollection&lt;T&gt;.GetEnumerator method
+## SyntaxNodeCollection<T>.GetEnumerator method
 
 Gets the values in the collection.
 

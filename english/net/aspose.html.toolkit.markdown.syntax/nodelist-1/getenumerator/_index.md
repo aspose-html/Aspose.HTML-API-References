@@ -6,7 +6,7 @@ type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/nodelist-1/getenumerator/
 ---
-## NodeList&lt;T&gt;.GetEnumerator method
+## NodeList<T>.GetEnumerator method
 
 Gets the nodes in the collection.
 

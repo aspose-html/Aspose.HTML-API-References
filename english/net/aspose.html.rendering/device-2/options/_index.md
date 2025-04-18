@@ -6,7 +6,7 @@ type: docs
 weight: 30
 url: /net/aspose.html.rendering/device-2/options/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Options property
+## Device<TGraphicContext,TRenderingOptions>.Options property
 
 Gets rendering options.
 

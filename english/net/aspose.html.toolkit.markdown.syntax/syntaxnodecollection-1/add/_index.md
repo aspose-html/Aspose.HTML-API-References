@@ -6,7 +6,7 @@ type: docs
 weight: 50
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/add/
 ---
-## SyntaxNodeCollection&lt;T&gt;.Add method
+## SyntaxNodeCollection<T>.Add method
 
 Adds the given item to the collection.
 

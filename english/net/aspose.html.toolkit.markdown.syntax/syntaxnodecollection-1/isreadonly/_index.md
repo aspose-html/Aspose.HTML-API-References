@@ -6,7 +6,7 @@ type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/isreadonly/
 ---
-## SyntaxNodeCollection&lt;T&gt;.IsReadOnly property
+## SyntaxNodeCollection<T>.IsReadOnly property
 
 Get the readonly flag.
 

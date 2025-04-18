@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/length/
 ---
-## SVGListBase&lt;T&gt;.Length property
+## SVGListBase<T>.Length property
 
 The number of items in the list.
 

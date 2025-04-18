@@ -6,7 +6,7 @@ type: docs
 weight: 4360
 url: /net/aspose.html.rendering/device-2.deviceconfiguration-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; class
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions> class
 
 ```csharp
 public class DeviceConfiguration<TGraphicContext, TRenderingOptions>

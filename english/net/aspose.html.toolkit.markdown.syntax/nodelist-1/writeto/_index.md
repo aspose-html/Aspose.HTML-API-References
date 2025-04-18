@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/nodelist-1/writeto/
 ---
-## NodeList&lt;T&gt;.WriteTo method
+## NodeList<T>.WriteTo method
 
 Write nodes to text writer.
 

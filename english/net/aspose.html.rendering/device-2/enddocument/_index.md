@@ -6,7 +6,7 @@ type: docs
 weight: 150
 url: /net/aspose.html.rendering/device-2/enddocument/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndDocument method
+## Device<TGraphicContext,TRenderingOptions>.EndDocument method
 
 Ends rendering of the document.
 

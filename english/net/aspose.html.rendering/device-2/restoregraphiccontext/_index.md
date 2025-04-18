@@ -6,7 +6,7 @@ type: docs
 weight: 230
 url: /net/aspose.html.rendering/device-2/restoregraphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.RestoreGraphicContext method
+## Device<TGraphicContext,TRenderingOptions>.RestoreGraphicContext method
 
 Restores the entire graphics context to its former value by popping it from the stack.
 

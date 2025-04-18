@@ -6,7 +6,7 @@ type: docs
 weight: 4350
 url: /net/aspose.html.rendering/device-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt; class
+## Device<TGraphicContext,TRenderingOptions> class
 
 Represents base class for implementation particular rendering devices.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useextension/
 ---
-## IMarkdownParserBuilder.UseExtension&lt;T&gt; method
+## IMarkdownParserBuilder.UseExtension<T> method
 
 Defines the UseExtension method.
 

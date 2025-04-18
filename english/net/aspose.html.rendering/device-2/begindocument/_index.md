@@ -6,7 +6,7 @@ type: docs
 weight: 70
 url: /net/aspose.html.rendering/device-2/begindocument/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginDocument method
+## Device<TGraphicContext,TRenderingOptions>.BeginDocument method
 
 Begins rendering of the document.
 

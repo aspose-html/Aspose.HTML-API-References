@@ -6,7 +6,7 @@ type: docs
 weight: 130
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/remove/
 ---
-## SyntaxNodeCollection&lt;T&gt;.Remove method
+## SyntaxNodeCollection<T>.Remove method
 
 Removes the item from the collection.
 

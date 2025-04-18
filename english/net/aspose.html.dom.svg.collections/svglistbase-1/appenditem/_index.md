@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/appenditem/
 ---
-## SVGListBase&lt;T&gt;.AppendItem method
+## SVGListBase<T>.AppendItem method
 
 Inserts a new item at the end of the list.
 

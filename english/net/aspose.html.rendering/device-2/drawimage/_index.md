@@ -6,7 +6,7 @@ type: docs
 weight: 140
 url: /net/aspose.html.rendering/device-2/drawimage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DrawImage method
+## Device<TGraphicContext,TRenderingOptions>.DrawImage method
 
 Draws the specified image.
 

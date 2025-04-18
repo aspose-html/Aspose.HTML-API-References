@@ -6,7 +6,7 @@ type: docs
 weight: 60
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/getenumerator/
 ---
-## SVGListBase&lt;T&gt;.GetEnumerator method
+## SVGListBase<T>.GetEnumerator method
 
 Gets the enumerator.
 

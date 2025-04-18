@@ -6,7 +6,7 @@ type: docs
 weight: 260
 url: /net/aspose.html.rendering/device-2/strokeandfill/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeAndFill method
+## Device<TGraphicContext,TRenderingOptions>.StrokeAndFill method
 
 Strokes and fill current path. This method terminates current path.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 110
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/indexof/
 ---
-## SyntaxNodeCollection&lt;T&gt;.IndexOf method
+## SyntaxNodeCollection<T>.IndexOf method
 
 Gets the index of the given item.
 

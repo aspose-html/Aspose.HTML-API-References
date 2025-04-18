@@ -6,7 +6,7 @@ type: docs
 weight: 140
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/removeat/
 ---
-## SyntaxNodeCollection&lt;T&gt;.RemoveAt method
+## SyntaxNodeCollection<T>.RemoveAt method
 
 Removes the item at the given index.
 

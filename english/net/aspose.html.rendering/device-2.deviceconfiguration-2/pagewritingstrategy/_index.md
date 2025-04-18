@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.html.rendering/device-2.deviceconfiguration-2/pagewritingstrategy/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy property
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions>.PageWritingStrategy property
 
 ```csharp
 public PageWritingStrategy<TGraphicContext, TRenderingOptions> PageWritingStrategy { get; set; }

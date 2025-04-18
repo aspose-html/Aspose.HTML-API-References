@@ -26,7 +26,7 @@ public InputEvent(string type)
 
 ---
 
-## InputEvent(*string, IDictionary&amp;lt;string, object&amp;gt;*) {#constructor_1}
+## InputEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
 ```csharp
 public InputEvent(string type, IDictionary<string, object> eventInitDict)

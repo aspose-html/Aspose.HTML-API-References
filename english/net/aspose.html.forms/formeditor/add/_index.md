@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /net/aspose.html.forms/formeditor/add/
 ---
-## FormEditor.Add&lt;T&gt; method
+## FormEditor.Add<T> method
 
 Creates a new [`HTMLElement`](../../../aspose.html/htmlelement/) and adds it to the end of the form.
 

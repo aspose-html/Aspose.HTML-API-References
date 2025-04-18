@@ -1,11 +1,982 @@
 ---
 title: Converter.ConvertSVG
 second_title: Aspose.HTML for .NET API Reference
-description: Converter ConvertSVG method. Convert SVG source presented by SVGDocument. Result is output data formed by ICreateStreamProvider interface implementation
+description: Converter ConvertSVG method. Convert SVG source presented by URL. Result is output data formed by ICreateStreamProvider interface implementation
 type: docs
 weight: 50
 url: /net/aspose.html.converters/converter/convertsvg/
 ---
+## ConvertSVG(*[Url](../../../aspose.html/url/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_18}
+
+Convert SVG source presented by [`URL`](../../../aspose.html/url/). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
+
+```csharp
+public static void ConvertSVG(Url url, ImageSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| url | Url | SVG source document [`URL`](../../../aspose.html/url/) - provides an object representation of a universal identifier (URL). |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
+
+## Remarks
+
+SVG Converter
+
+[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
+
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-jpg/) where you find information on how to convert SVG to JPG using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters. Other popular image formats related articles: [SVG to PNG conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/), [SVG to BMP conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-bmp/), [SVG to GIF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-gif/) and [SVG to TIFF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/).
+
+Convert SVG to Image
+
+Converter class offers multiple SVG specific conversions to image in popular formats. To convert SVG to image, you should follow one of simple scenarios consists of few steps:
+
+Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Notice that default image format is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an image result with three or more parameters depend on user scenario.Online SVG converter
+
+Aspose.HTML offers a free online [SVG to JPG Converter](https://products.aspose.app/svg/en/conversion/svg-to-jpg) that converts SVG to JPG with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+Other popular image converters for different formats can be founded here: [SVG to PNG Converter](https://products.aspose.app/svg/en/conversion/svg-to-png), [SVG to BMP Converter](https://products.aspose.app/svg/en/conversion/svg-to-bmp), [SVG to GIF Converter](https://products.aspose.app/svg/en/conversion/svg-to-gif) and [SVG to TIFF Converter](https://products.aspose.app/svg/en/conversion/svg-to-tiff).
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO; 
+using Aspose.Html.IO;
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+...
+      // Create Url based on input file path
+      var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
+
+      // Form result file path
+      var resultPath = Path.Combine(OutputFolder, "result");
+
+      // Define default ImageSaveOptions object
+      var options = new ImageSaveOptions(ImageFormat.Bmp);
+
+      // Use one of ICreateStreamProvider implementation
+      ICreateStreamProvider sp = new FileCreateStreamProvider(resultPath);
+
+      // Initiate conversion process
+      Converter.ConvertSVG(sourceUrl, options, sp);
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [Url](../../../aspose.html/url/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_10}
+
+Convert SVG source presented by [`URL`](../../../aspose.html/url/). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
+
+```csharp
+public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| url | Url | SVG source document [`URL`](../../../aspose.html/url/) - provides an object representation of a universal identifier (URL). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
+
+## Remarks
+
+SVG Converter
+
+[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
+
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-jpg/) where you find information on how to convert SVG to JPG using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters. Other popular image formats related articles: [SVG to PNG conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/), [SVG to BMP conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-bmp/), [SVG to GIF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-gif/) and [SVG to TIFF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/).
+
+Convert SVG to Image
+
+Converter class offers multiple SVG specific conversions to image in popular formats. To convert SVG to image, you should follow one of simple scenarios consists of few steps:
+
+Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Notice that default image format is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an image result with three or more parameters depend on user scenario.Online SVG converter
+
+Aspose.HTML offers a free online [SVG to JPG Converter](https://products.aspose.app/svg/en/conversion/svg-to-jpg) that converts SVG to JPG with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+Other popular image converters for different formats can be founded here: [SVG to PNG Converter](https://products.aspose.app/svg/en/conversion/svg-to-png), [SVG to BMP Converter](https://products.aspose.app/svg/en/conversion/svg-to-bmp), [SVG to GIF Converter](https://products.aspose.app/svg/en/conversion/svg-to-gif) and [SVG to TIFF Converter](https://products.aspose.app/svg/en/conversion/svg-to-tiff).
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO; 
+using Aspose.Html.IO;
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+...
+      // Create Url based on input file path
+      var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
+
+      // Form result file path
+      var resultPath = Path.Combine(OutputFolder, "result");
+
+      // Define default ImageSaveOptions object
+      var options = new ImageSaveOptions();
+
+      // Use one of ICreateStreamProvider implementation
+      ICreateStreamProvider sp = new FileCreateStreamProvider(resultPath);
+
+      // Initiate conversion process with default configuration
+      Converter.ConvertSVG(sourceUrl, new Configuration(), options, sp);
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_34}
+
+Convert SVG source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
+
+```csharp
+public static void ConvertSVG(string sourcePath, ImageSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | SVG source full file path. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
+
+## Remarks
+
+SVG Converter
+
+[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
+
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-jpg/) where you find information on how to convert SVG to JPG using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters. Other popular image formats related articles: [SVG to PNG conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/), [SVG to BMP conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-bmp/), [SVG to GIF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-gif/) and [SVG to TIFF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/).
+
+Convert SVG to Image
+
+Converter class offers multiple SVG specific conversions to image in popular formats. To convert SVG to image, you should follow one of simple scenarios consists of few steps:
+
+Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Notice that default image format is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an image result with three or more parameters depend on user scenario.Online SVG converter
+
+Aspose.HTML offers a free online [SVG to JPG Converter](https://products.aspose.app/svg/en/conversion/svg-to-jpg) that converts SVG to JPG with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+Other popular image converters for different formats can be founded here: [SVG to PNG Converter](https://products.aspose.app/svg/en/conversion/svg-to-png), [SVG to BMP Converter](https://products.aspose.app/svg/en/conversion/svg-to-bmp), [SVG to GIF Converter](https://products.aspose.app/svg/en/conversion/svg-to-gif) and [SVG to TIFF Converter](https://products.aspose.app/svg/en/conversion/svg-to-tiff).
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO; 
+using Aspose.Html.IO;
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+...
+      // Form source file path
+      var sourcePath = Path.Combine(InputFolder, "sample.svg");
+
+      // Form result file path
+      var resultPath = Path.Combine(OutputFolder, "result");
+
+      // Define default ImageSaveOptions object
+      var options = new ImageSaveOptions();
+
+      // Use one of ICreateStreamProvider implementation
+      ICreateStreamProvider sp = new FileCreateStreamProvider(resultPath);
+
+      // Initiate conversion process
+      Converter.ConvertSVG(sourcePath, options, sp);
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_26}
+
+Convert SVG source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
+
+```csharp
+public static void ConvertSVG(string sourcePath, Configuration configuration, 
+    ImageSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | SVG source full file path. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
+
+## Remarks
+
+SVG Converter
+
+[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
+
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-jpg/) where you find information on how to convert SVG to JPG using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters. Other popular image formats related articles: [SVG to PNG conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/), [SVG to BMP conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-bmp/), [SVG to GIF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-gif/) and [SVG to TIFF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/).
+
+Convert SVG to Image
+
+Converter class offers multiple SVG specific conversions to image in popular formats. To convert SVG to image, you should follow one of simple scenarios consists of few steps:
+
+Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Notice that default image format is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an image result with three or more parameters depend on user scenario.Online SVG converter
+
+Aspose.HTML offers a free online [SVG to JPG Converter](https://products.aspose.app/svg/en/conversion/svg-to-jpg) that converts SVG to JPG with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+Other popular image converters for different formats can be founded here: [SVG to PNG Converter](https://products.aspose.app/svg/en/conversion/svg-to-png), [SVG to BMP Converter](https://products.aspose.app/svg/en/conversion/svg-to-bmp), [SVG to GIF Converter](https://products.aspose.app/svg/en/conversion/svg-to-gif) and [SVG to TIFF Converter](https://products.aspose.app/svg/en/conversion/svg-to-tiff).
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO; 
+using Aspose.Html.IO;
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+...
+      // Form source file path
+      var sourcePath = Path.Combine(InputFolder, "sample.svg");
+
+      // Form result file path
+      var resultPath = Path.Combine(OutputFolder, "result");
+
+      // Define default ImageSaveOptions object
+      var options = new ImageSaveOptions(ImageFormat.Tiff);
+
+      // Use one of ICreateStreamProvider implementation
+      ICreateStreamProvider sp = new FileCreateStreamProvider(resultPath);
+
+      // Initiate conversion process with default configuration
+      Converter.ConvertSVG(sourcePath, new Configuration(), options, sp);
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*string, string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_50}
+
+Convert SVG source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, ImageSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | String as inline svg content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
+
+## Remarks
+
+SVG Converter
+
+[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
+
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-jpg/) where you find information on how to convert SVG to JPG using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters. Other popular image formats related articles: [SVG to PNG conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/), [SVG to BMP conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-bmp/), [SVG to GIF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-gif/) and [SVG to TIFF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/).
+
+Convert SVG to Image
+
+Converter class offers multiple SVG specific conversions to image in popular formats. To convert SVG to image, you should follow one of simple scenarios consists of few steps:
+
+Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Notice that default image format is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an image result with three or more parameters depend on user scenario.Online SVG converter
+
+Aspose.HTML offers a free online [SVG to JPG Converter](https://products.aspose.app/svg/en/conversion/svg-to-jpg) that converts SVG to JPG with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+Other popular image converters for different formats can be founded here: [SVG to PNG Converter](https://products.aspose.app/svg/en/conversion/svg-to-png), [SVG to BMP Converter](https://products.aspose.app/svg/en/conversion/svg-to-bmp), [SVG to GIF Converter](https://products.aspose.app/svg/en/conversion/svg-to-gif) and [SVG to TIFF Converter](https://products.aspose.app/svg/en/conversion/svg-to-tiff).
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO; 
+using Aspose.Html.IO;
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+...
+      var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
+        <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
+        </svg>";
+
+      // Form result file path
+      var resultPath = Path.Combine(OutputFolder, "result");
+
+      // Use one of ICreateStreamProvider implementation
+      ICreateStreamProvider sp = new FileCreateStreamProvider(resultPath);
+
+      // Define default ImageSaveOptions object
+      var options = new ImageSaveOptions();
+
+      // Initiate conversion process
+      Converter.ConvertSVG(content, string.Empty, options, sp);
+```
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*string, string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_42}
+
+Convert SVG source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
+    ImageSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | String as inline svg content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
+| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
+
+## Remarks
+
+SVG Converter
+
+[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
+
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-jpg/) where you find information on how to convert SVG to JPG using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters. Other popular image formats related articles: [SVG to PNG conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/), [SVG to BMP conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-bmp/), [SVG to GIF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-gif/) and [SVG to TIFF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/).
+
+Convert SVG to Image
+
+Converter class offers multiple SVG specific conversions to image in popular formats. To convert SVG to image, you should follow one of simple scenarios consists of few steps:
+
+Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Notice that default image format is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an image result with three or more parameters depend on user scenario.Online SVG converter
+
+Aspose.HTML offers a free online [SVG to JPG Converter](https://products.aspose.app/svg/en/conversion/svg-to-jpg) that converts SVG to JPG with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+Other popular image converters for different formats can be founded here: [SVG to PNG Converter](https://products.aspose.app/svg/en/conversion/svg-to-png), [SVG to BMP Converter](https://products.aspose.app/svg/en/conversion/svg-to-bmp), [SVG to GIF Converter](https://products.aspose.app/svg/en/conversion/svg-to-gif) and [SVG to TIFF Converter](https://products.aspose.app/svg/en/conversion/svg-to-tiff).
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO; 
+using Aspose.Html.IO;
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+...
+      var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
+        <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
+        </svg>";
+
+      // Form result file path
+      var resultPath = Path.Combine(OutputFolder, "result");
+
+      // Use one of ICreateStreamProvider implementation
+      ICreateStreamProvider sp = new FileCreateStreamProvider(resultPath);
+
+      // Define default ImageSaveOptions object
+      var options = new ImageSaveOptions();
+
+      // Initiate conversion process
+      Converter.ConvertSVG(content, string.Empty, new Configuration(), options, sp);
+```
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*[SVGDocument](../../../aspose.html.dom.svg/svgdocument/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_7}
+
+Convert SVG source presented by [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/). Result is xps file formed by output file path.
+
+```csharp
+public static void ConvertSVG(SVGDocument source, XpsSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| source | SVGDocument | Conversion source presented by [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/). |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
+| outputPath | String | Full xps file path as output conversion result. |
+
+## Remarks
+
+SVG Converter
+
+[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
+
+[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
+
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
+
+Convert SVG to XPS
+
+Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
+
+Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
+
+Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;
+using Aspose.Html.IO;
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+...
+      // Form source file path
+      var sourcePath = Path.Combine(InputFolder, "simple.svg");
+
+      // Form result file path
+      var resultPath = Path.Combine(OutputFolder, "result");
+
+      // Define default XpsSaveOptions object
+      var options = new XpsSaveOptions();
+
+      // Form SVG document as conversion source
+      using (var document = new SVGDocument(sourcePath, new Configuration()))
+      {
+		// Initiate conversion process with default configuration
+		Converter.ConvertSVG(document, options, resultPath);
+      }
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [SVGDocument](../../../aspose.html.dom.svg/svgdocument/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*[Url](../../../aspose.html/url/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_23}
+
+Convert SVG source presented by [`URL`](../../../aspose.html/url/). Result is xps file formed by output file path.
+
+```csharp
+public static void ConvertSVG(Url url, XpsSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| url | Url | SVG source document [`URL`](../../../aspose.html/url/) - provides an object representation of a universal identifier (URL). |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
+| outputPath | String | Full xps file path as output conversion result. |
+
+## Remarks
+
+SVG Converter
+
+[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
+
+[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
+
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
+
+Convert SVG to XPS
+
+Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
+
+Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
+
+Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;
+using Aspose.Html.IO;
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+...
+      // Create Url based on input file path     
+      var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
+
+      // Form result file path
+      var resultPath = Path.Combine(OutputFolder, "result.xps");
+
+      // Define default XpsSaveOptions object
+      var options = new XpsSaveOptions();
+
+      // Initiate conversion process
+      Converter.ConvertSVG(sourceUrl, options, resultPath);
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [Url](../../../aspose.html/url/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_15}
+
+Convert SVG source presented by [`URL`](../../../aspose.html/url/). Result is xps file formed by output file path.
+
+```csharp
+public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptions options, 
+    string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| url | Url | SVG source document [`URL`](../../../aspose.html/url/) - provides an object representation of a universal identifier (URL). |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
+| outputPath | String | Full xps file path as output conversion result. |
+
+## Remarks
+
+SVG Converter
+
+[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
+
+[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
+
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
+
+Convert SVG to XPS
+
+Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
+
+Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
+
+Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;
+using Aspose.Html.IO;
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+...
+      // Create Url based on input file path
+      var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
+
+      // Form result file path
+      var resultPath = Path.Combine(OutputFolder, "result.xps");
+
+      // Define default XpsSaveOptions object
+      var options = new XpsSaveOptions();
+
+      // Initiate conversion process with default configuration
+      Converter.ConvertSVG(sourceUrl, new Configuration(), options, resultPath);
+
+
+
+
+
+*InputFolder - user source file path.
+
+```
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_39}
+
+Convert SVG source presented by full file path to XPS. Result is xps file formed by output file path.
+
+```csharp
+public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | SVG source full file path. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
+| outputPath | String | Full xps file path as output conversion result. |
+
+## Remarks
+
+SVG Converter
+
+[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
+
+[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
+
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
+
+Convert SVG to XPS
+
+Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
+
+Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
+
+Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;
+using Aspose.Html.IO;
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+... 
+      // Form source file path
+      var sourcePath = Path.Combine(InputFolder, "sample.svg");
+
+      // Form result file path
+      var resultPath = Path.Combine(OutputFolder, "result.xps");
+
+      // Define default XpsSaveOptions object
+      var options = new XpsSaveOptions();
+
+      // Initiate conversion process
+      Converter.ConvertSVG(sourcePath, options, resultPath);
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_31}
+
+Convert SVG source presented by full file path to XPS. Result is xps file formed by output file path.
+
+```csharp
+public static void ConvertSVG(string sourcePath, Configuration configuration, 
+    XpsSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | SVG source full file path. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
+| outputPath | String | Full xps file path as output conversion result. |
+
+## Remarks
+
+SVG Converter
+
+[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
+
+[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
+
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
+
+Convert SVG to XPS
+
+Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
+
+Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
+
+Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;
+using Aspose.Html.IO;
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+... 
+      // Form source file path
+      var sourcePath = Path.Combine(InputFolder, "sample.svg");
+
+      // Form result file path
+      var resultPath = Path.Combine(OutputFolder, "result.xps");
+
+      // Define default XpsSaveOptions object
+      var options = new XpsSaveOptions();
+
+      // Initiate conversion process with default configuration
+      Converter.ConvertSVG(sourcePath, new Configuration(), options, resultPath);
+```
+
+*InputFolder - user source file path.
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*string, string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_55}
+
+Convert SVG source presented by inline content to XPS. Result is xps file formed by output file path.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, XpsSaveOptions options, 
+    string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | String as inline svg content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
+| outputPath | String | Full xps file path as output conversion result. |
+
+## Remarks
+
+SVG Converter
+
+[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
+
+[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
+
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
+
+Convert SVG to XPS
+
+Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
+
+Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
+
+Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;
+using Aspose.Html.IO;
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+... 
+      // Form inline svg content
+      var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
+        <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
+        </svg>";
+
+      // Form result file path
+      var resultPath = Path.Combine(OutputFolder, "result.xps");
+
+      // Define default XpsSaveOptions object
+      var options = new XpsSaveOptions();
+
+      // Initiate conversion process
+      Converter.ConvertSVG(content, string.Empty, options, resultPath);
+```
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*string, string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_47}
+
+Convert SVG source presented by inline content to XPS. Result is xps file formed by output file path.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
+    XpsSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | String as inline svg content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
+| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
+| outputPath | String | Full xps file path as output conversion result. |
+
+## Remarks
+
+SVG Converter
+
+[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
+
+[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
+
+Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
+
+Convert SVG to XPS
+
+Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
+
+Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
+
+Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
+
+Source code
+
+You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
+
+## Examples
+
+```csharp
+using System.IO;
+using Aspose.Html.IO;
+using Aspose.Html.Saving;  
+using Aspose.Html.Converters;  
+... 
+      // Form inline svg content
+      var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
+        <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
+        </svg>";
+
+      // Form result file path
+      var resultPath = Path.Combine(OutputFolder, "result.xps");
+
+      // Define default XpsSaveOptions object
+      var options = new XpsSaveOptions();
+
+      // Initiate conversion process with default configuration
+      Converter.ConvertSVG(content, string.Empty, new Configuration(), options, resultPath);
+```
+
+*OutputFolder - user output file path.
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
 ## ConvertSVG(*[SVGDocument](../../../aspose.html.dom.svg/svgdocument/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_6}
 
 Convert SVG source presented by [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
@@ -3186,977 +4157,6 @@ using Aspose.Html.Converters;
 * class [SVGDocument](../../../aspose.html.dom.svg/svgdocument/)
 * class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*[Url](../../../aspose.html/url/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_18}
-
-Convert SVG source presented by [`URL`](../../../aspose.html/url/). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
-
-```csharp
-public static void ConvertSVG(Url url, ImageSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| url | Url | SVG source document [`URL`](../../../aspose.html/url/) - provides an object representation of a universal identifier (URL). |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
-
-## Remarks
-
-SVG Converter
-
-[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
-
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-jpg/) where you find information on how to convert SVG to JPG using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters. Other popular image formats related articles: [SVG to PNG conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/), [SVG to BMP conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-bmp/), [SVG to GIF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-gif/) and [SVG to TIFF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/).
-
-Convert SVG to Image
-
-Converter class offers multiple SVG specific conversions to image in popular formats. To convert SVG to image, you should follow one of simple scenarios consists of few steps:
-
-Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Notice that default image format is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an image result with three or more parameters depend on user scenario.Online SVG converter
-
-Aspose.HTML offers a free online [SVG to JPG Converter](https://products.aspose.app/svg/en/conversion/svg-to-jpg) that converts SVG to JPG with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-Other popular image converters for different formats can be founded here: [SVG to PNG Converter](https://products.aspose.app/svg/en/conversion/svg-to-png), [SVG to BMP Converter](https://products.aspose.app/svg/en/conversion/svg-to-bmp), [SVG to GIF Converter](https://products.aspose.app/svg/en/conversion/svg-to-gif) and [SVG to TIFF Converter](https://products.aspose.app/svg/en/conversion/svg-to-tiff).
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO; 
-using Aspose.Html.IO;
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-...
-      // Create Url based on input file path
-      var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
-
-      // Form result file path
-      var resultPath = Path.Combine(OutputFolder, "result");
-
-      // Define default ImageSaveOptions object
-      var options = new ImageSaveOptions(ImageFormat.Bmp);
-
-      // Use one of ICreateStreamProvider implementation
-      ICreateStreamProvider sp = new FileCreateStreamProvider(resultPath);
-
-      // Initiate conversion process
-      Converter.ConvertSVG(sourceUrl, options, sp);
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [Url](../../../aspose.html/url/)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_10}
-
-Convert SVG source presented by [`URL`](../../../aspose.html/url/). Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
-
-```csharp
-public static void ConvertSVG(Url url, Configuration configuration, ImageSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| url | Url | SVG source document [`URL`](../../../aspose.html/url/) - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
-
-## Remarks
-
-SVG Converter
-
-[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
-
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-jpg/) where you find information on how to convert SVG to JPG using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters. Other popular image formats related articles: [SVG to PNG conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/), [SVG to BMP conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-bmp/), [SVG to GIF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-gif/) and [SVG to TIFF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/).
-
-Convert SVG to Image
-
-Converter class offers multiple SVG specific conversions to image in popular formats. To convert SVG to image, you should follow one of simple scenarios consists of few steps:
-
-Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Notice that default image format is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an image result with three or more parameters depend on user scenario.Online SVG converter
-
-Aspose.HTML offers a free online [SVG to JPG Converter](https://products.aspose.app/svg/en/conversion/svg-to-jpg) that converts SVG to JPG with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-Other popular image converters for different formats can be founded here: [SVG to PNG Converter](https://products.aspose.app/svg/en/conversion/svg-to-png), [SVG to BMP Converter](https://products.aspose.app/svg/en/conversion/svg-to-bmp), [SVG to GIF Converter](https://products.aspose.app/svg/en/conversion/svg-to-gif) and [SVG to TIFF Converter](https://products.aspose.app/svg/en/conversion/svg-to-tiff).
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO; 
-using Aspose.Html.IO;
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-...
-      // Create Url based on input file path
-      var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
-
-      // Form result file path
-      var resultPath = Path.Combine(OutputFolder, "result");
-
-      // Define default ImageSaveOptions object
-      var options = new ImageSaveOptions();
-
-      // Use one of ICreateStreamProvider implementation
-      ICreateStreamProvider sp = new FileCreateStreamProvider(resultPath);
-
-      // Initiate conversion process with default configuration
-      Converter.ConvertSVG(sourceUrl, new Configuration(), options, sp);
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [Url](../../../aspose.html/url/)
-* class [Configuration](../../../aspose.html/configuration/)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_34}
-
-Convert SVG source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
-
-```csharp
-public static void ConvertSVG(string sourcePath, ImageSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | SVG source full file path. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
-
-## Remarks
-
-SVG Converter
-
-[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
-
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-jpg/) where you find information on how to convert SVG to JPG using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters. Other popular image formats related articles: [SVG to PNG conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/), [SVG to BMP conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-bmp/), [SVG to GIF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-gif/) and [SVG to TIFF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/).
-
-Convert SVG to Image
-
-Converter class offers multiple SVG specific conversions to image in popular formats. To convert SVG to image, you should follow one of simple scenarios consists of few steps:
-
-Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Notice that default image format is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an image result with three or more parameters depend on user scenario.Online SVG converter
-
-Aspose.HTML offers a free online [SVG to JPG Converter](https://products.aspose.app/svg/en/conversion/svg-to-jpg) that converts SVG to JPG with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-Other popular image converters for different formats can be founded here: [SVG to PNG Converter](https://products.aspose.app/svg/en/conversion/svg-to-png), [SVG to BMP Converter](https://products.aspose.app/svg/en/conversion/svg-to-bmp), [SVG to GIF Converter](https://products.aspose.app/svg/en/conversion/svg-to-gif) and [SVG to TIFF Converter](https://products.aspose.app/svg/en/conversion/svg-to-tiff).
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO; 
-using Aspose.Html.IO;
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-...
-      // Form source file path
-      var sourcePath = Path.Combine(InputFolder, "sample.svg");
-
-      // Form result file path
-      var resultPath = Path.Combine(OutputFolder, "result");
-
-      // Define default ImageSaveOptions object
-      var options = new ImageSaveOptions();
-
-      // Use one of ICreateStreamProvider implementation
-      ICreateStreamProvider sp = new FileCreateStreamProvider(resultPath);
-
-      // Initiate conversion process
-      Converter.ConvertSVG(sourcePath, options, sp);
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_26}
-
-Convert SVG source presented by full file path to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
-
-```csharp
-public static void ConvertSVG(string sourcePath, Configuration configuration, 
-    ImageSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | SVG source full file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
-
-## Remarks
-
-SVG Converter
-
-[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
-
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-jpg/) where you find information on how to convert SVG to JPG using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters. Other popular image formats related articles: [SVG to PNG conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/), [SVG to BMP conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-bmp/), [SVG to GIF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-gif/) and [SVG to TIFF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/).
-
-Convert SVG to Image
-
-Converter class offers multiple SVG specific conversions to image in popular formats. To convert SVG to image, you should follow one of simple scenarios consists of few steps:
-
-Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Notice that default image format is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an image result with three or more parameters depend on user scenario.Online SVG converter
-
-Aspose.HTML offers a free online [SVG to JPG Converter](https://products.aspose.app/svg/en/conversion/svg-to-jpg) that converts SVG to JPG with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-Other popular image converters for different formats can be founded here: [SVG to PNG Converter](https://products.aspose.app/svg/en/conversion/svg-to-png), [SVG to BMP Converter](https://products.aspose.app/svg/en/conversion/svg-to-bmp), [SVG to GIF Converter](https://products.aspose.app/svg/en/conversion/svg-to-gif) and [SVG to TIFF Converter](https://products.aspose.app/svg/en/conversion/svg-to-tiff).
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO; 
-using Aspose.Html.IO;
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-...
-      // Form source file path
-      var sourcePath = Path.Combine(InputFolder, "sample.svg");
-
-      // Form result file path
-      var resultPath = Path.Combine(OutputFolder, "result");
-
-      // Define default ImageSaveOptions object
-      var options = new ImageSaveOptions(ImageFormat.Tiff);
-
-      // Use one of ICreateStreamProvider implementation
-      ICreateStreamProvider sp = new FileCreateStreamProvider(resultPath);
-
-      // Initiate conversion process with default configuration
-      Converter.ConvertSVG(sourcePath, new Configuration(), options, sp);
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [Configuration](../../../aspose.html/configuration/)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*string, string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_50}
-
-Convert SVG source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, ImageSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| content | String | String as inline svg content. |
-| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
-| provider | ICreateStreamProvider | Known (see [`FileCreateStreamProvider`](../../../aspose.html.io/filecreatestreamprovider/)) or custom [`ICreateStreamP﻿rovider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation. |
-
-## Remarks
-
-SVG Converter
-
-[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
-
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-jpg/) where you find information on how to convert SVG to JPG using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters. Other popular image formats related articles: [SVG to PNG conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/), [SVG to BMP conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-bmp/), [SVG to GIF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-gif/) and [SVG to TIFF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/).
-
-Convert SVG to Image
-
-Converter class offers multiple SVG specific conversions to image in popular formats. To convert SVG to image, you should follow one of simple scenarios consists of few steps:
-
-Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Notice that default image format is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an image result with three or more parameters depend on user scenario.Online SVG converter
-
-Aspose.HTML offers a free online [SVG to JPG Converter](https://products.aspose.app/svg/en/conversion/svg-to-jpg) that converts SVG to JPG with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-Other popular image converters for different formats can be founded here: [SVG to PNG Converter](https://products.aspose.app/svg/en/conversion/svg-to-png), [SVG to BMP Converter](https://products.aspose.app/svg/en/conversion/svg-to-bmp), [SVG to GIF Converter](https://products.aspose.app/svg/en/conversion/svg-to-gif) and [SVG to TIFF Converter](https://products.aspose.app/svg/en/conversion/svg-to-tiff).
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO; 
-using Aspose.Html.IO;
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-...
-      var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
-        <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
-        </svg>";
-
-      // Form result file path
-      var resultPath = Path.Combine(OutputFolder, "result");
-
-      // Use one of ICreateStreamProvider implementation
-      ICreateStreamProvider sp = new FileCreateStreamProvider(resultPath);
-
-      // Define default ImageSaveOptions object
-      var options = new ImageSaveOptions();
-
-      // Initiate conversion process
-      Converter.ConvertSVG(content, string.Empty, options, sp);
-```
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*string, string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_42}
-
-Convert SVG source presented by inline content to image. Result is output data formed by [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
-    ImageSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| content | String | String as inline svg content. |
-| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
-| options | ImageSaveOptions | [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object usage enables you to tune the rendering process. You can specify the [`page size`](../../../aspose.html.rendering/renderingoptions/pagesetup/), [`margins`](../../../aspose.html.drawing/page/margin/), [`CSS media-type`](../../../aspose.html.rendering/mediatype/), etc. |
-| provider | ICreateStreamProvider | Implementation of the [`interface`](../../../aspose.html.io/icreatestreamprovider/), which will be used to get an output stream. |
-
-## Remarks
-
-SVG Converter
-
-[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
-
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-jpg/) where you find information on how to convert SVG to JPG using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters. Other popular image formats related articles: [SVG to PNG conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/), [SVG to BMP conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-bmp/), [SVG to GIF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-gif/) and [SVG to TIFF conversion](https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/).
-
-Convert SVG to Image
-
-Converter class offers multiple SVG specific conversions to image in popular formats. To convert SVG to image, you should follow one of simple scenarios consists of few steps:
-
-Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`ImageSaveOptions`](../../../aspose.html.saving/imagesaveoptions/) object with specific or default settings. Notice that default image format is PNG. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an image result with three or more parameters depend on user scenario.Online SVG converter
-
-Aspose.HTML offers a free online [SVG to JPG Converter](https://products.aspose.app/svg/en/conversion/svg-to-jpg) that converts SVG to JPG with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-Other popular image converters for different formats can be founded here: [SVG to PNG Converter](https://products.aspose.app/svg/en/conversion/svg-to-png), [SVG to BMP Converter](https://products.aspose.app/svg/en/conversion/svg-to-bmp), [SVG to GIF Converter](https://products.aspose.app/svg/en/conversion/svg-to-gif) and [SVG to TIFF Converter](https://products.aspose.app/svg/en/conversion/svg-to-tiff).
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO; 
-using Aspose.Html.IO;
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-...
-      var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
-        <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
-        </svg>";
-
-      // Form result file path
-      var resultPath = Path.Combine(OutputFolder, "result");
-
-      // Use one of ICreateStreamProvider implementation
-      ICreateStreamProvider sp = new FileCreateStreamProvider(resultPath);
-
-      // Define default ImageSaveOptions object
-      var options = new ImageSaveOptions();
-
-      // Initiate conversion process
-      Converter.ConvertSVG(content, string.Empty, new Configuration(), options, sp);
-```
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [Configuration](../../../aspose.html/configuration/)
-* class [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*[SVGDocument](../../../aspose.html.dom.svg/svgdocument/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_7}
-
-Convert SVG source presented by [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/). Result is xps file formed by output file path.
-
-```csharp
-public static void ConvertSVG(SVGDocument source, XpsSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | SVGDocument | Conversion source presented by [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/). |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
-| outputPath | String | Full xps file path as output conversion result. |
-
-## Remarks
-
-SVG Converter
-
-[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
-
-[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
-
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
-
-Convert SVG to XPS
-
-Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
-
-Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
-
-Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;
-using Aspose.Html.IO;
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-...
-      // Form source file path
-      var sourcePath = Path.Combine(InputFolder, "simple.svg");
-
-      // Form result file path
-      var resultPath = Path.Combine(OutputFolder, "result");
-
-      // Define default XpsSaveOptions object
-      var options = new XpsSaveOptions();
-
-      // Form SVG document as conversion source
-      using (var document = new SVGDocument(sourcePath, new Configuration()))
-      {
-		// Initiate conversion process with default configuration
-		Converter.ConvertSVG(document, options, resultPath);
-      }
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [SVGDocument](../../../aspose.html.dom.svg/svgdocument/)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*[Url](../../../aspose.html/url/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_23}
-
-Convert SVG source presented by [`URL`](../../../aspose.html/url/). Result is xps file formed by output file path.
-
-```csharp
-public static void ConvertSVG(Url url, XpsSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| url | Url | SVG source document [`URL`](../../../aspose.html/url/) - provides an object representation of a universal identifier (URL). |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
-| outputPath | String | Full xps file path as output conversion result. |
-
-## Remarks
-
-SVG Converter
-
-[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
-
-[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
-
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
-
-Convert SVG to XPS
-
-Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
-
-Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
-
-Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;
-using Aspose.Html.IO;
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-...
-      // Create Url based on input file path     
-      var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
-
-      // Form result file path
-      var resultPath = Path.Combine(OutputFolder, "result.xps");
-
-      // Define default XpsSaveOptions object
-      var options = new XpsSaveOptions();
-
-      // Initiate conversion process
-      Converter.ConvertSVG(sourceUrl, options, resultPath);
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [Url](../../../aspose.html/url/)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_15}
-
-Convert SVG source presented by [`URL`](../../../aspose.html/url/). Result is xps file formed by output file path.
-
-```csharp
-public static void ConvertSVG(Url url, Configuration configuration, XpsSaveOptions options, 
-    string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| url | Url | SVG source document [`URL`](../../../aspose.html/url/) - provides an object representation of a universal identifier (URL). |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
-| outputPath | String | Full xps file path as output conversion result. |
-
-## Remarks
-
-SVG Converter
-
-[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
-
-[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
-
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
-
-Convert SVG to XPS
-
-Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
-
-Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
-
-Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;
-using Aspose.Html.IO;
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-...
-      // Create Url based on input file path
-      var sourceUrl = new Url(Path.Combine(InputFolder, "sample.svg"));
-
-      // Form result file path
-      var resultPath = Path.Combine(OutputFolder, "result.xps");
-
-      // Define default XpsSaveOptions object
-      var options = new XpsSaveOptions();
-
-      // Initiate conversion process with default configuration
-      Converter.ConvertSVG(sourceUrl, new Configuration(), options, resultPath);
-
-
-
-
-
-*InputFolder - user source file path.
-
-```
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [Url](../../../aspose.html/url/)
-* class [Configuration](../../../aspose.html/configuration/)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_39}
-
-Convert SVG source presented by full file path to XPS. Result is xps file formed by output file path.
-
-```csharp
-public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | SVG source full file path. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
-| outputPath | String | Full xps file path as output conversion result. |
-
-## Remarks
-
-SVG Converter
-
-[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
-
-[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
-
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
-
-Convert SVG to XPS
-
-Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
-
-Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
-
-Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;
-using Aspose.Html.IO;
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-... 
-      // Form source file path
-      var sourcePath = Path.Combine(InputFolder, "sample.svg");
-
-      // Form result file path
-      var resultPath = Path.Combine(OutputFolder, "result.xps");
-
-      // Define default XpsSaveOptions object
-      var options = new XpsSaveOptions();
-
-      // Initiate conversion process
-      Converter.ConvertSVG(sourcePath, options, resultPath);
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_31}
-
-Convert SVG source presented by full file path to XPS. Result is xps file formed by output file path.
-
-```csharp
-public static void ConvertSVG(string sourcePath, Configuration configuration, 
-    XpsSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | SVG source full file path. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
-| outputPath | String | Full xps file path as output conversion result. |
-
-## Remarks
-
-SVG Converter
-
-[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
-
-[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
-
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
-
-Convert SVG to XPS
-
-Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
-
-Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
-
-Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;
-using Aspose.Html.IO;
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-... 
-      // Form source file path
-      var sourcePath = Path.Combine(InputFolder, "sample.svg");
-
-      // Form result file path
-      var resultPath = Path.Combine(OutputFolder, "result.xps");
-
-      // Define default XpsSaveOptions object
-      var options = new XpsSaveOptions();
-
-      // Initiate conversion process with default configuration
-      Converter.ConvertSVG(sourcePath, new Configuration(), options, resultPath);
-```
-
-*InputFolder - user source file path.
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [Configuration](../../../aspose.html/configuration/)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*string, string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_55}
-
-Convert SVG source presented by inline content to XPS. Result is xps file formed by output file path.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, XpsSaveOptions options, 
-    string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| content | String | String as inline svg content. |
-| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. |
-| outputPath | String | Full xps file path as output conversion result. |
-
-## Remarks
-
-SVG Converter
-
-[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
-
-[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
-
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
-
-Convert SVG to XPS
-
-Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
-
-Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
-
-Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;
-using Aspose.Html.IO;
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-... 
-      // Form inline svg content
-      var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
-        <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
-        </svg>";
-
-      // Form result file path
-      var resultPath = Path.Combine(OutputFolder, "result.xps");
-
-      // Define default XpsSaveOptions object
-      var options = new XpsSaveOptions();
-
-      // Initiate conversion process
-      Converter.ConvertSVG(content, string.Empty, options, resultPath);
-```
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*string, string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_47}
-
-Convert SVG source presented by inline content to XPS. Result is xps file formed by output file path.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
-    XpsSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| content | String | String as inline svg content. |
-| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. Represents the [`configuration`](../../../aspose.html/configuration/) context object that is used to set up the environment settings for the application. |
-| options | XpsSaveOptions | [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object usage enables you to tune the rendering process. For more info see [Aspose Documentation](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/#save-options). |
-| outputPath | String | Full xps file path as output conversion result. |
-
-## Remarks
-
-SVG Converter
-
-[SVG](https://docs.fileformat.com/page-description-language/svg/) files are Scalable Vector Graphics Files that use XML based text format for describing the appearance of an image. The word Scalable refers to the fact that SVG can be scaled to different sizes without losing any quality. A text-based description of such files makes them independent of resolution. It is one of the most used formats for website building and print graphics to achieve scalability.
-
-[XPS](https://docs.fileformat.com/page-description-language/xps/) is a document storage and viewing format developed by Microsoft. An XPS file has a set of advantages that support security features, such as digital signatures to provide greater document security and more.
-
-Refer to [article](https://docs.aspose.com/html/net/converting-between-formats/svg-to-xps/) where you find information on how to convert SVG to XPS using ConvertSVG() methods of the [`Converter`](../) class and how to apply [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) and [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) parameters.
-
-Convert SVG to XPS
-
-Converter class offers multiple SVG specific conversions to XPS. To convert SVG to XPS, you should follow one of simple scenarios consists of few steps:
-
-Conversion source. Detect an existing local SVG file or remote [`Url`](../../../aspose.html/url/) as conversion source. You can also define [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/) as conversion source or even use inline SVG content presented by string source.Conversion result. Define result output file path or use known or custom [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface implementation as output data buffer.Create a new [`XpsSaveOptions`](../../../aspose.html.saving/xpssaveoptions/) object with specific or default settings. You can add also [`configuration`](../../../aspose.html/configuration/) as option parameter.Use the ConvertSVG() method of the Converter class to save SVG as an XPS result with three or more parameters depend on user scenario.Online SVG converter
-
-Aspose.HTML offers a free online [SVG to XPS Converter](https://products.aspose.app/svg/en/conversion/svg-to-xps) that converts SVG to XPS with high quality, easy and fast. Just upload, convert your files and get results in a few seconds!
-
-Source code
-
-You can download the complete examples and data files from [GitHub](https://github.com/aspose-html/Aspose.HTML-Documentation/tree/main/content/tests-net).
-
-## Examples
-
-```csharp
-using System.IO;
-using Aspose.Html.IO;
-using Aspose.Html.Saving;  
-using Aspose.Html.Converters;  
-... 
-      // Form inline svg content
-      var content = @"<svg xmlns=""http://www.w3.org/2000/svg"" width=""100"" height=""100"">
-        <circle cx=""50"" cy=""50"" r=""40"" stroke=""green"" stroke-width=""4"" fill=""yellow"" />
-        </svg>";
-
-      // Form result file path
-      var resultPath = Path.Combine(OutputFolder, "result.xps");
-
-      // Define default XpsSaveOptions object
-      var options = new XpsSaveOptions();
-
-      // Initiate conversion process with default configuration
-      Converter.ConvertSVG(content, string.Empty, new Configuration(), options, resultPath);
-```
-
-*OutputFolder - user output file path.
-
-### See Also
-
-* class [Configuration](../../../aspose.html/configuration/)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
 * namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
 * assembly [Aspose.HTML](../../../)

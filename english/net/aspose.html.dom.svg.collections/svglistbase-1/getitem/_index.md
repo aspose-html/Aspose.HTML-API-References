@@ -6,7 +6,7 @@ type: docs
 weight: 70
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/getitem/
 ---
-## SVGListBase&lt;T&gt;.GetItem method
+## SVGListBase<T>.GetItem method
 
 Returns the specified item from the list.
 

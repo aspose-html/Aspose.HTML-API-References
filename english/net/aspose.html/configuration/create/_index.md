@@ -26,7 +26,7 @@ The instance of Configuration object.
 
 ---
 
-## Create(*Action&amp;lt;IConfigurationBuilder&amp;gt;*) {#create_1}
+## Create(*Action&lt;IConfigurationBuilder&gt;*) {#create_1}
 
 Create and configure the instance of Configuration object.
 

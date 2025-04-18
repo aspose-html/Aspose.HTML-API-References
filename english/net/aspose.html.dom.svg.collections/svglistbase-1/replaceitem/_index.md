@@ -6,7 +6,7 @@ type: docs
 weight: 110
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/replaceitem/
 ---
-## SVGListBase&lt;T&gt;.ReplaceItem method
+## SVGListBase<T>.ReplaceItem method
 
 Replaces an existing item in the list with a new item.
 

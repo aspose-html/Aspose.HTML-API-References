@@ -6,7 +6,7 @@ type: docs
 weight: 1360
 url: /net/aspose.html.dom.svg.datatypes/svganimatedvalue-1/
 ---
-## SVGAnimatedValue&lt;T&gt; class
+## SVGAnimatedValue<T> class
 
 Used for attributes of types which can be animated.
 

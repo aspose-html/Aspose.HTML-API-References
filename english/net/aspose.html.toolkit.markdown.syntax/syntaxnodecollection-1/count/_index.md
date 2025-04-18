@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/count/
 ---
-## SyntaxNodeCollection&lt;T&gt;.Count property
+## SyntaxNodeCollection<T>.Count property
 
 Gets the number of values in the collection.
 

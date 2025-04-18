@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/item/
 ---
-## SyntaxNodeCollection&lt;T&gt; indexer
+## SyntaxNodeCollection<T> indexer
 
 Gets or sets the value at the given index.
 

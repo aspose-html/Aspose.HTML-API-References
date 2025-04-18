@@ -6,7 +6,7 @@ type: docs
 weight: 6050
 url: /net/aspose.html/typedarray-1/
 ---
-## TypedArray&lt;T&gt; class
+## TypedArray<T> class
 
 TypedArray objects present an array-like view of an underlying binary data buffer.
 

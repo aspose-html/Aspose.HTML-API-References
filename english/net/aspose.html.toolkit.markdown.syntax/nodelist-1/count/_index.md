@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/nodelist-1/count/
 ---
-## NodeList&lt;T&gt;.Count property
+## NodeList<T>.Count property
 
 Gets the number of node in the list.
 

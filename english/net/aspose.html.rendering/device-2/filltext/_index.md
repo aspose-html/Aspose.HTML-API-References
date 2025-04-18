@@ -6,7 +6,7 @@ type: docs
 weight: 190
 url: /net/aspose.html.rendering/device-2/filltext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.FillText method
+## Device<TGraphicContext,TRenderingOptions>.FillText method
 
 Fills the specified text string at the specified location.
 

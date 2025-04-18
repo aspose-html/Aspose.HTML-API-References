@@ -6,7 +6,7 @@ type: docs
 weight: 90
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/get/
 ---
-## SyntaxNodeCollection&lt;T&gt;.Get method
+## SyntaxNodeCollection<T>.Get method
 
 Gets the item at the given index.
 

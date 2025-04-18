@@ -6,7 +6,7 @@ type: docs
 weight: 60
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/clear/
 ---
-## SyntaxNodeCollection&lt;T&gt;.Clear method
+## SyntaxNodeCollection<T>.Clear method
 
 Removes all items from the collection.
 

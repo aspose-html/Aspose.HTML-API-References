@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/item/
 ---
-## SVGListBase&lt;T&gt; indexer
+## SVGListBase<T> indexer
 
 Returns the indexth item in the list.
 

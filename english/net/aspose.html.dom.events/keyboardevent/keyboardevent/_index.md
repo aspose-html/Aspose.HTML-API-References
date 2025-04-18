@@ -26,7 +26,7 @@ public KeyboardEvent(string type)
 
 ---
 
-## KeyboardEvent(*string, IDictionary&amp;lt;string, object&amp;gt;*) {#constructor_1}
+## KeyboardEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
 ```csharp
 public KeyboardEvent(string type, IDictionary<string, object> eventInitDict)

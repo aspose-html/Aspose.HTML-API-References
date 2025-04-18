@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/find/
 ---
-## HugoYamlBasedFrontMatterSyntaxNode.Find&lt;T&gt; method
+## HugoYamlBasedFrontMatterSyntaxNode.Find<T> method
 
 Defines the interface for find T by string Path
 

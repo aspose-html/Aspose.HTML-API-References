@@ -6,7 +6,7 @@ type: docs
 weight: 120
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/insert/
 ---
-## SyntaxNodeCollection&lt;T&gt;.Insert method
+## SyntaxNodeCollection<T>.Insert method
 
 Inserts the given item at the specified index.
 

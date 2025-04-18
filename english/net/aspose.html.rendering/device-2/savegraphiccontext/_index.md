@@ -6,7 +6,7 @@ type: docs
 weight: 240
 url: /net/aspose.html.rendering/device-2/savegraphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.SaveGraphicContext method
+## Device<TGraphicContext,TRenderingOptions>.SaveGraphicContext method
 
 Pushes a copy of the entire graphics context onto the stack.
 
