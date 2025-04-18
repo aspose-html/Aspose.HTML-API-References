@@ -19,7 +19,7 @@ public class SVGTransformList : SVGListBase<SVGTransform>
 | Name | Description |
 | --- | --- |
 | [SVGTransformList](svgtransformlist/#constructor)() | Initializes a new instance of the `SVGTransformList` class. |
-| [SVGTransformList](svgtransformlist/#constructor_1)(*IEnumerable&amp;lt;SVGTransform&amp;gt;*) | Initializes a new instance of the `SVGTransformList` class. |
+| [SVGTransformList](svgtransformlist/#constructor_1)(*IEnumerable&lt;SVGTransform&gt;*) | Initializes a new instance of the `SVGTransformList` class. |
 
 ## Properties
 

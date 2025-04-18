@@ -33,7 +33,7 @@ public interface ICanvasRenderingContext2D : ICanvasDrawingStyles, ICanvasPathMe
 
 | Name | Description |
 | --- | --- |
-| [AddHitRegion](../../aspose.html.dom.canvas/icanvasrenderingcontext2d/addhitregion/)(*Dictionary&amp;lt;string, string&amp;gt;*) |  |
+| [AddHitRegion](../../aspose.html.dom.canvas/icanvasrenderingcontext2d/addhitregion/)(*Dictionary&lt;string, string&gt;*) |  |
 | [BeginPath](../../aspose.html.dom.canvas/icanvasrenderingcontext2d/beginpath/)() | Starts a new path by emptying the list of sub-paths. Call this method when you want to create a new path. |
 | [ClearHitRegions](../../aspose.html.dom.canvas/icanvasrenderingcontext2d/clearhitregions/)() | Removes all hit regions from the canvas. |
 | [ClearRect](../../aspose.html.dom.canvas/icanvasrenderingcontext2d/clearrect/)(*double, double, double, double*) | Sets all pixels in the rectangle defined by starting point (x, y) and size (width, height) to transparent black, erasing any previously drawn content. |

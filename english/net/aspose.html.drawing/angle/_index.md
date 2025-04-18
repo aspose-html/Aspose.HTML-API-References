@@ -33,11 +33,11 @@ public sealed class Angle : Dimension
 | override [ToString](../../aspose.html.drawing/dimension/tostring/)() | Returns a String that represents this instance. |
 | [operator +](../../aspose.html.drawing/angle/op_addition/) |  |
 | [operator ==](../../aspose.html.drawing/angle/op_equality/) |  |
-| [operator &gt;](../../aspose.html.drawing/angle/op_greaterthan/) |  |
-| [operator &gt;=](../../aspose.html.drawing/angle/op_greaterthanorequal/) |  |
+| [operator >](../../aspose.html.drawing/angle/op_greaterthan/) |  |
+| [operator >=](../../aspose.html.drawing/angle/op_greaterthanorequal/) |  |
 | [operator !=](../../aspose.html.drawing/angle/op_inequality/) |  |
-| [operator &lt;](../../aspose.html.drawing/angle/op_lessthan/) |  |
-| [operator &lt;=](../../aspose.html.drawing/angle/op_lessthanorequal/) |  |
+| [operator <](../../aspose.html.drawing/angle/op_lessthan/) |  |
+| [operator <=](../../aspose.html.drawing/angle/op_lessthanorequal/) |  |
 | [operator -](../../aspose.html.drawing/angle/op_subtraction/) |  |
 
 ### See Also

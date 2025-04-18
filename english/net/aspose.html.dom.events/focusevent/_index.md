@@ -19,7 +19,7 @@ public class FocusEvent : UIEvent
 | Name | Description |
 | --- | --- |
 | [FocusEvent](focusevent/#constructor)(*string*) | Initializes a new instance of the `FocusEvent` class. |
-| [FocusEvent](focusevent/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) |  |
+| [FocusEvent](focusevent/#constructor_1)(*string, IDictionary&lt;string, object&gt;*) |  |
 
 ## Properties
 

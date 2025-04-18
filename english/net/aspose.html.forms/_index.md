@@ -16,7 +16,7 @@ The namespace provides access to numerous objects (elements) which are responsib
 | [DataListElement](./datalistelement/) | The DataListElement represents a wrapper that is associated with the HTMLDataListElement |
 | [FormEditor](./formeditor/) | This class represents the editor over the [`HTMLFormElement`](../aspose.html/htmlformelement/) that creates a easier way for .net developers to edit the html forms. |
 | [FormElement](./formelement/) | Represents base class for form elements. |
-| [FormElement&lt;T&gt;](./formelement-1/) | The [`FormElement`](../aspose.html.forms/formelement/) represent the generic field |
+| [FormElement<T>](./formelement-1/) | The [`FormElement`](../aspose.html.forms/formelement/) represent the generic field |
 | [FormSubmitter](./formsubmitter/) | This class allows to prepare specified [`HTMLFormElement`](../aspose.html/htmlformelement/), collects values from the form element, submit them to the remote server and receives a response. |
 | [InputElement](./inputelement/) | The InputElement represents a wrapper that is associated with the HTMLInputElement. |
 | [OptionCollection](./optioncollection/) | The OptionElements represents a wrapper that is associated with the IHTMLOptionsCollection |

@@ -85,7 +85,7 @@ The Aspose.Html namespace contains classes and methods to manipulate [`HTML docu
 | [MimeType](./mimetype/) | Represents an Internet Media Types |
 | [PlatformException](./platformexception/) | Represents the base class for all exceptions that may occur during the application execution. |
 | [TypedArray](./typedarray/) | TypedArray objects present an array-like view of an underlying binary data buffer. |
-| [TypedArray&lt;T&gt;](./typedarray-1/) | TypedArray objects present an array-like view of an underlying binary data buffer. |
+| [TypedArray<T>](./typedarray-1/) | TypedArray objects present an array-like view of an underlying binary data buffer. |
 | [Uint16Array](./uint16array/) | Represents an array of twos-complement 16-bit unsigned integers in the platform byte order. |
 | [Uint32Array](./uint32array/) | Represents an array of twos-complement 32-bit unsigned integers in the platform byte order. |
 | [Uint8Array](./uint8array/) | Represents an array of twos-complement 8-bit unsigned integers. |

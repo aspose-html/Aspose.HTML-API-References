@@ -19,7 +19,7 @@ public class Event : DOMObject
 | Name | Description |
 | --- | --- |
 | [Event](event/#constructor)(*string*) | Initializes a new instance of the `Event` class. |
-| [Event](event/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) |  |
+| [Event](event/#constructor_1)(*string, IDictionary&lt;string, object&gt;*) |  |
 
 ## Properties
 

@@ -33,11 +33,11 @@ public sealed class Frequency : Dimension
 | override [ToString](../../aspose.html.drawing/dimension/tostring/)() | Returns a String that represents this instance. |
 | [operator +](../../aspose.html.drawing/frequency/op_addition/) |  |
 | [operator ==](../../aspose.html.drawing/frequency/op_equality/) |  |
-| [operator &gt;](../../aspose.html.drawing/frequency/op_greaterthan/) |  |
-| [operator &gt;=](../../aspose.html.drawing/frequency/op_greaterthanorequal/) |  |
+| [operator >](../../aspose.html.drawing/frequency/op_greaterthan/) |  |
+| [operator >=](../../aspose.html.drawing/frequency/op_greaterthanorequal/) |  |
 | [operator !=](../../aspose.html.drawing/frequency/op_inequality/) |  |
-| [operator &lt;](../../aspose.html.drawing/frequency/op_lessthan/) |  |
-| [operator &lt;=](../../aspose.html.drawing/frequency/op_lessthanorequal/) |  |
+| [operator <](../../aspose.html.drawing/frequency/op_lessthan/) |  |
+| [operator <=](../../aspose.html.drawing/frequency/op_lessthanorequal/) |  |
 | [operator -](../../aspose.html.drawing/frequency/op_subtraction/) |  |
 
 ### See Also

@@ -12,4 +12,4 @@ url: /net/aspose.html.dom.svg.collections/
 
 | Class | Description |
 | --- | --- |
-| [SVGListBase&lt;T&gt;](./svglistbase-1/) | This interface defines a base list of all SVG lists. |
+| [SVGListBase<T>](./svglistbase-1/) | This interface defines a base list of all SVG lists. |

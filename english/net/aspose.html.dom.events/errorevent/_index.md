@@ -19,7 +19,7 @@ public class ErrorEvent : Event
 | Name | Description |
 | --- | --- |
 | [ErrorEvent](errorevent/#constructor_1)(*Exception*) | Initializes a new instance of the `ErrorEvent` class. |
-| [ErrorEvent](errorevent/#constructor)(*IDictionary&amp;lt;string, object&amp;gt;*) |  |
+| [ErrorEvent](errorevent/#constructor)(*IDictionary&lt;string, object&gt;*) |  |
 
 ## Properties
 

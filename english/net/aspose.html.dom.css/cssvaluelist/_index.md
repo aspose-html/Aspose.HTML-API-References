@@ -22,7 +22,7 @@ public class CSSValueList : CSSValue, ICSSValueList, IEnumerable<CSSValue>
 | --- | --- |
 | [CSSValueList](cssvaluelist/#constructor)() | Initializes a new instance of the `CSSValueList` class. |
 | [CSSValueList](cssvaluelist/#constructor_1)(*params CSSValue[]*) | Initializes a new instance of the `CSSValueList` class. |
-| [CSSValueList](cssvaluelist/#constructor_2)(*IEnumerable&amp;lt;CSSValue&amp;gt;*) | Initializes a new instance of the `CSSValueList` class. |
+| [CSSValueList](cssvaluelist/#constructor_2)(*IEnumerable&lt;CSSValue&gt;*) | Initializes a new instance of the `CSSValueList` class. |
 
 ## Properties
 
