@@ -6,7 +6,7 @@ type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/contains/
 ---
-## SyntaxNodeCollection&lt;T&gt;.Contains method
+## SyntaxNodeCollection<T>.Contains method
 
 Determines whether the given item exists in the collection.
 

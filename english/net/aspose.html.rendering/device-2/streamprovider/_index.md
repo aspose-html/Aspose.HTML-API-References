@@ -6,7 +6,7 @@ type: docs
 weight: 50
 url: /net/aspose.html.rendering/device-2/streamprovider/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StreamProvider property
+## Device<TGraphicContext,TRenderingOptions>.StreamProvider property
 
 Gets the stream provider object.
 

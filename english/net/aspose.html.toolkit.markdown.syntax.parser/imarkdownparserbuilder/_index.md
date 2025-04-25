@@ -18,9 +18,9 @@ public interface IMarkdownParserBuilder
 
 | Name | Description |
 | --- | --- |
-| [UseBlockParser&lt;T&gt;](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useblockparser/)() | Defines the UseBlockParser method. |
-| [UseExtension&lt;T&gt;](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useextension/)() | Defines the UseExtension method. |
-| [UseInlineParser&lt;T&gt;](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useinlineparser/)() | Defines the UseInlineParser method. |
+| [UseBlockParser<T>](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useblockparser/)() | Defines the UseBlockParser method. |
+| [UseExtension<T>](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useextension/)() | Defines the UseExtension method. |
+| [UseInlineParser<T>](../../aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useinlineparser/)() | Defines the UseInlineParser method. |
 
 ### See Also
 

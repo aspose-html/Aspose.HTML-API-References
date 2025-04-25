@@ -6,7 +6,7 @@ type: docs
 weight: 4370
 url: /net/aspose.html.rendering/device-2.pagewritingstrategy-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt; enumeration
+## Device<TGraphicContext,TRenderingOptions>.PageWritingStrategy<TGraphicContext,TRenderingOptions> enumeration
 
 Specifies types of strategies for writing pages into output stream\streams.
 

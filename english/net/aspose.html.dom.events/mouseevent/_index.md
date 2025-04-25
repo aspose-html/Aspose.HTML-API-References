@@ -19,7 +19,7 @@ public class MouseEvent : UIEvent
 | Name | Description |
 | --- | --- |
 | [MouseEvent](mouseevent/#constructor)(*string*) | Initializes a new instance of the `MouseEvent` class. |
-| [MouseEvent](mouseevent/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) |  |
+| [MouseEvent](mouseevent/#constructor_1)(*string, IDictionary&lt;string, object&gt;*) |  |
 
 ## Properties
 

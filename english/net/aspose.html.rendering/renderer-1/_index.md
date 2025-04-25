@@ -6,7 +6,7 @@ type: docs
 weight: 4700
 url: /net/aspose.html.rendering/renderer-1/
 ---
-## Renderer&lt;TSource&gt; class
+## Renderer<TSource> class
 
 Represents an abstract class for the all renderers.
 

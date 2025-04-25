@@ -6,7 +6,7 @@ type: docs
 weight: 50
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/clear/
 ---
-## SVGListBase&lt;T&gt;.Clear method
+## SVGListBase<T>.Clear method
 
 Clears all existing current items from the list, with the result being an empty list.
 

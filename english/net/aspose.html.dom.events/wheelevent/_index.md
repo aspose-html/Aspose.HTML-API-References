@@ -19,7 +19,7 @@ public class WheelEvent : MouseEvent
 | Name | Description |
 | --- | --- |
 | [WheelEvent](wheelevent/#constructor)(*string*) | Initializes a new instance of the `WheelEvent` class. |
-| [WheelEvent](wheelevent/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) |  |
+| [WheelEvent](wheelevent/#constructor_1)(*string, IDictionary&lt;string, object&gt;*) |  |
 
 ## Properties
 

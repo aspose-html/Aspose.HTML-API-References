@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.html.toolkit.markdown.syntax/nodelist-1/get/
 ---
-## NodeList&lt;T&gt;.Get method
+## NodeList<T>.Get method
 
 Gets the node at the given index.
 

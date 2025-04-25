@@ -6,7 +6,7 @@ type: docs
 weight: 210
 url: /net/aspose.html.rendering/device-2/lineto/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.LineTo method
+## Device<TGraphicContext,TRenderingOptions>.LineTo method
 
 Appends a straight line segment from the current point to the point (pt). The new current point is pt.
 

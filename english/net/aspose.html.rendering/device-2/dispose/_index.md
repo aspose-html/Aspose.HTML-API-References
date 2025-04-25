@@ -6,7 +6,7 @@ type: docs
 weight: 130
 url: /net/aspose.html.rendering/device-2/dispose/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Dispose method
+## Device<TGraphicContext,TRenderingOptions>.Dispose method
 
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 

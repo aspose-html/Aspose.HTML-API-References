@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/copyto/
 ---
-## SyntaxNodeCollection&lt;T&gt;.CopyTo method
+## SyntaxNodeCollection<T>.CopyTo method
 
 ```csharp
 public void CopyTo(T[] array, int arrayIndex)

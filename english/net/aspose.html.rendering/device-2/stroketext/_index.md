@@ -6,7 +6,7 @@ type: docs
 weight: 270
 url: /net/aspose.html.rendering/device-2/stroketext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.StrokeText method
+## Device<TGraphicContext,TRenderingOptions>.StrokeText method
 
 Strokes the specified text string at the specified location.
 

@@ -25,7 +25,7 @@ The namespace provides access to all SVG specific data types.
 | [SVGAnimatedRect](./svganimatedrect/) | Used for attributes of type SVGRect which can be animated. |
 | [SVGAnimatedString](./svganimatedstring/) | Used for attributes of type DOMString which can be animated. |
 | [SVGAnimatedTransformList](./svganimatedtransformlist/) | Used for the various attributes which specify a set of transformations, such as the ‘transform’ attribute which is available for many of SVG's elements, and which can be animated. |
-| [SVGAnimatedValue&lt;T&gt;](./svganimatedvalue-1/) | Used for attributes of types which can be animated. |
+| [SVGAnimatedValue<T>](./svganimatedvalue-1/) | Used for attributes of types which can be animated. |
 | [SVGLength](./svglength/) | The SVGLength interface corresponds to the length basic data type. An SVGLength object can be designated as read only, which means that attempts to modify the object will result in an exception being thrown, as described below. |
 | [SVGLengthList](./svglengthlist/) | This interface defines a list of SVGLength objects. |
 | [SVGMatrix](./svgmatrix/) | Many of SVG's graphics operations utilize 2x3 matrices of the form: [a c e] [b d f] which, when expanded into a 3x3 matrix for the purposes of matrix arithmetic, become: [a c e] [b d f] [0 0 1] |

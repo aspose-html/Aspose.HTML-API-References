@@ -6,7 +6,7 @@ type: docs
 weight: 90
 url: /net/aspose.html.rendering/device-2/beginpage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginPage method
+## Device<TGraphicContext,TRenderingOptions>.BeginPage method
 
 Begins rendering of the new page.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 30
 url: /net/aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useinlineparser/
 ---
-## IMarkdownParserBuilder.UseInlineParser&lt;T&gt; method
+## IMarkdownParserBuilder.UseInlineParser<T> method
 
 Defines the UseInlineParser method.
 

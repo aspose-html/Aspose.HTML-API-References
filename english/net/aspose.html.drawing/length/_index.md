@@ -33,11 +33,11 @@ public sealed class Length : Dimension
 | override [ToString](../../aspose.html.drawing/dimension/tostring/)() | Returns a String that represents this instance. |
 | [operator +](../../aspose.html.drawing/length/op_addition/) |  |
 | [operator ==](../../aspose.html.drawing/length/op_equality/) |  |
-| [operator &gt;](../../aspose.html.drawing/length/op_greaterthan/) |  |
-| [operator &gt;=](../../aspose.html.drawing/length/op_greaterthanorequal/) |  |
+| [operator >](../../aspose.html.drawing/length/op_greaterthan/) |  |
+| [operator >=](../../aspose.html.drawing/length/op_greaterthanorequal/) |  |
 | [operator !=](../../aspose.html.drawing/length/op_inequality/) |  |
-| [operator &lt;](../../aspose.html.drawing/length/op_lessthan/) |  |
-| [operator &lt;=](../../aspose.html.drawing/length/op_lessthanorequal/) |  |
+| [operator <](../../aspose.html.drawing/length/op_lessthan/) |  |
+| [operator <=](../../aspose.html.drawing/length/op_lessthanorequal/) |  |
 | [operator -](../../aspose.html.drawing/length/op_subtraction/) |  |
 
 ### See Also

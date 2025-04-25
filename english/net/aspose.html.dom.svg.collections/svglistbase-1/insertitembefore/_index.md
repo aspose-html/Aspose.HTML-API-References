@@ -6,7 +6,7 @@ type: docs
 weight: 90
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/
 ---
-## SVGListBase&lt;T&gt;.InsertItemBefore method
+## SVGListBase<T>.InsertItemBefore method
 
 Inserts a new item into the list at the specified position. The first item is number 0.
 

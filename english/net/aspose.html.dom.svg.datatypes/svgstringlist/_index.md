@@ -19,7 +19,7 @@ public class SVGStringList : SVGListBase<string>
 | Name | Description |
 | --- | --- |
 | [SVGStringList](svgstringlist/#constructor)() | Initializes a new instance of the `SVGStringList` class. |
-| [SVGStringList](svgstringlist/#constructor_1)(*IEnumerable&amp;lt;string&amp;gt;*) | Initializes a new instance of the `SVGStringList` class. |
+| [SVGStringList](svgstringlist/#constructor_1)(*IEnumerable&lt;string&gt;*) | Initializes a new instance of the `SVGStringList` class. |
 
 ## Properties
 

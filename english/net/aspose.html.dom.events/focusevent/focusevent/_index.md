@@ -26,7 +26,7 @@ public FocusEvent(string type)
 
 ---
 
-## FocusEvent(*string, IDictionary&amp;lt;string, object&amp;gt;*) {#constructor_1}
+## FocusEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
 ```csharp
 public FocusEvent(string type, IDictionary<string, object> eventInitDict)

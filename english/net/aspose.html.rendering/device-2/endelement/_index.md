@@ -6,7 +6,7 @@ type: docs
 weight: 160
 url: /net/aspose.html.rendering/device-2/endelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndElement method
+## Device<TGraphicContext,TRenderingOptions>.EndElement method
 
 Ends rendering of the node.
 

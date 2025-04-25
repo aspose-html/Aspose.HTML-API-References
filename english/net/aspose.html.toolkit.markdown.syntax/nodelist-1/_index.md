@@ -6,7 +6,7 @@ type: docs
 weight: 5540
 url: /net/aspose.html.toolkit.markdown.syntax/nodelist-1/
 ---
-## NodeList&lt;T&gt; class
+## NodeList<T> class
 
 Base implementation of the NodeList.
 

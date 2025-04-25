@@ -6,7 +6,7 @@ type: docs
 weight: 70
 url: /net/aspose.html.toolkit.markdown.syntax.parser/blocksyntaxdescriptor/getattributevalue/
 ---
-## BlockSyntaxDescriptor.GetAttributeValue&lt;T&gt; method
+## BlockSyntaxDescriptor.GetAttributeValue<T> method
 
 Defines the interface for get the Attribute
 

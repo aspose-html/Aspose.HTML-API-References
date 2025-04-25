@@ -6,7 +6,7 @@ type: docs
 weight: 170
 url: /net/aspose.html.rendering/device-2/endpage/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.EndPage method
+## Device<TGraphicContext,TRenderingOptions>.EndPage method
 
 Ends rendering of the current page.
 

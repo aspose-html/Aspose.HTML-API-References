@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/initialize/
 ---
-## SVGListBase&lt;T&gt;.Initialize method
+## SVGListBase<T>.Initialize method
 
 Clears all existing current items from the list and re-initializes the list to hold the single item specified by the parameter.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.rendering/device-2/configuration/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.Configuration property
+## Device<TGraphicContext,TRenderingOptions>.Configuration property
 
 Gets device configuration.
 

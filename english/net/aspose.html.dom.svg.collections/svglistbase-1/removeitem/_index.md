@@ -6,7 +6,7 @@ type: docs
 weight: 100
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/removeitem/
 ---
-## SVGListBase&lt;T&gt;.RemoveItem method
+## SVGListBase<T>.RemoveItem method
 
 Removes an existing item from the list.
 

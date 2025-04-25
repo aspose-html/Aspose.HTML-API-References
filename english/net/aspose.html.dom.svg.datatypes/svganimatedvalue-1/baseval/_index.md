@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.html.dom.svg.datatypes/svganimatedvalue-1/baseval/
 ---
-## SVGAnimatedValue&lt;T&gt;.BaseVal property
+## SVGAnimatedValue<T>.BaseVal property
 
 The base value of the given attribute before applying any animations.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 80
 url: /net/aspose.html.rendering/device-2/beginelement/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.BeginElement method
+## Device<TGraphicContext,TRenderingOptions>.BeginElement method
 
 Begins rendering of the node.
 

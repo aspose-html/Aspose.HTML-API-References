@@ -33,11 +33,11 @@ public sealed class Time : Dimension
 | override [ToString](../../aspose.html.drawing/dimension/tostring/)() | Returns a String that represents this instance. |
 | [operator +](../../aspose.html.drawing/time/op_addition/) |  |
 | [operator ==](../../aspose.html.drawing/time/op_equality/) |  |
-| [operator &gt;](../../aspose.html.drawing/time/op_greaterthan/) |  |
-| [operator &gt;=](../../aspose.html.drawing/time/op_greaterthanorequal/) |  |
+| [operator >](../../aspose.html.drawing/time/op_greaterthan/) |  |
+| [operator >=](../../aspose.html.drawing/time/op_greaterthanorequal/) |  |
 | [operator !=](../../aspose.html.drawing/time/op_inequality/) |  |
-| [operator &lt;](../../aspose.html.drawing/time/op_lessthan/) |  |
-| [operator &lt;=](../../aspose.html.drawing/time/op_lessthanorequal/) |  |
+| [operator <](../../aspose.html.drawing/time/op_lessthan/) |  |
+| [operator <=](../../aspose.html.drawing/time/op_lessthanorequal/) |  |
 | [operator -](../../aspose.html.drawing/time/op_subtraction/) |  |
 
 ### See Also

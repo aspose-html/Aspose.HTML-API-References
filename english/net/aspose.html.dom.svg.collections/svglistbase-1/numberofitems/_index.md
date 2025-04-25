@@ -6,7 +6,7 @@ type: docs
 weight: 30
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/numberofitems/
 ---
-## SVGListBase&lt;T&gt;.NumberOfItems property
+## SVGListBase<T>.NumberOfItems property
 
 The number of items in the list.
 

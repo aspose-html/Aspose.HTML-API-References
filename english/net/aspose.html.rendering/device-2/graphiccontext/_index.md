@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.html.rendering/device-2/graphiccontext/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.GraphicContext property
+## Device<TGraphicContext,TRenderingOptions>.GraphicContext property
 
 Gets the graphic context
 

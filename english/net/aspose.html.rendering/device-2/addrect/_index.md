@@ -6,7 +6,7 @@ type: docs
 weight: 60
 url: /net/aspose.html.rendering/device-2/addrect/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.AddRect method
+## Device<TGraphicContext,TRenderingOptions>.AddRect method
 
 Appends a rectangle to the current path as a complete subpath.
 

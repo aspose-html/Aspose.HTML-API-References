@@ -33,12 +33,12 @@ public sealed class Resolution : Dimension
 | override [ToString](../../aspose.html.drawing/dimension/tostring/)() | Returns a String that represents this instance. |
 | [operator +](../../aspose.html.drawing/resolution/op_addition/) |  |
 | [operator ==](../../aspose.html.drawing/resolution/op_equality/) |  |
-| [operator &gt;](../../aspose.html.drawing/resolution/op_greaterthan/) |  |
-| [operator &gt;=](../../aspose.html.drawing/resolution/op_greaterthanorequal/) |  |
+| [operator >](../../aspose.html.drawing/resolution/op_greaterthan/) |  |
+| [operator >=](../../aspose.html.drawing/resolution/op_greaterthanorequal/) |  |
 | [implicit operator](../../aspose.html.drawing/resolution/op_implicit/#op_implicit) |  (2 operators) |
 | [operator !=](../../aspose.html.drawing/resolution/op_inequality/) |  |
-| [operator &lt;](../../aspose.html.drawing/resolution/op_lessthan/) |  |
-| [operator &lt;=](../../aspose.html.drawing/resolution/op_lessthanorequal/) |  |
+| [operator <](../../aspose.html.drawing/resolution/op_lessthan/) |  |
+| [operator <=](../../aspose.html.drawing/resolution/op_lessthanorequal/) |  |
 | [operator -](../../aspose.html.drawing/resolution/op_subtraction/) |  |
 
 ### See Also

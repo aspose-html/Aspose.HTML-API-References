@@ -30,7 +30,7 @@ An instance of the service if it could be found, or null if it could not be foun
 
 ---
 
-## GetService&lt;T&gt;() {#getservice_1}
+## GetService<T>() {#getservice_1}
 
 Gets the requested service.
 

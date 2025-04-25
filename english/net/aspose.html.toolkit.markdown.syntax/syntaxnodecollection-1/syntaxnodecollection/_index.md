@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/syntaxnodecollection/
 ---
-## SyntaxNodeCollection&lt;T&gt; constructor
+## SyntaxNodeCollection<T> constructor
 
 The default constructor.
 

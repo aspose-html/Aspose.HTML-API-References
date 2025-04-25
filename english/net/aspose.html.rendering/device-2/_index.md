@@ -6,7 +6,7 @@ type: docs
 weight: 4350
 url: /net/aspose.html.rendering/device-2/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt; class
+## Device<TGraphicContext,TRenderingOptions> class
 
 Represents base class for implementation particular rendering devices.
 
@@ -62,8 +62,8 @@ public abstract class Device<TGraphicContext, TRenderingOptions> : Device, IDevi
 
 | Name | Description |
 | --- | --- |
-| class [DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt;](../../aspose.html.rendering/device-2.deviceconfiguration-2) |  |
-| enum [PageWritingStrategy&lt;TGraphicContext,TRenderingOptions&gt;](../../aspose.html.rendering/device-2.pagewritingstrategy-2) | Specifies types of strategies for writing pages into output stream\streams. |
+| class [DeviceConfiguration<TGraphicContext,TRenderingOptions>](../../aspose.html.rendering/device-2.deviceconfiguration-2) |  |
+| enum [PageWritingStrategy<TGraphicContext,TRenderingOptions>](../../aspose.html.rendering/device-2.pagewritingstrategy-2) | Specifies types of strategies for writing pages into output stream\streams. |
 
 ### See Also
 

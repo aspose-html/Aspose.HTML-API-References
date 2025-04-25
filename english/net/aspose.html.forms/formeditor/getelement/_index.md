@@ -6,7 +6,7 @@ type: docs
 weight: 120
 url: /net/aspose.html.forms/formeditor/getelement/
 ---
-## GetElement&lt;T&gt;(*int*) {#getelement}
+## GetElement<T>(*int*) {#getelement}
 
 Returns the element by specified index.
 
@@ -33,7 +33,7 @@ Returns the element.
 
 ---
 
-## GetElement&lt;T&gt;(*string*) {#getelement_1}
+## GetElement<T>(*string*) {#getelement_1}
 
 Returns the element by specified name.
 

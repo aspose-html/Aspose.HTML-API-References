@@ -6,7 +6,7 @@ type: docs
 weight: 1220
 url: /net/aspose.html.dom.svg.collections/svglistbase-1/
 ---
-## SVGListBase&lt;T&gt; class
+## SVGListBase<T> class
 
 This interface defines a base list of all SVG lists.
 

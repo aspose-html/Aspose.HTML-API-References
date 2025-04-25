@@ -6,7 +6,7 @@ type: docs
 weight: 3190
 url: /net/aspose.html.forms/formelement-1/
 ---
-## FormElement&lt;T&gt; class
+## FormElement<T> class
 
 The [`FormElement`](../formelement/) represent the generic field
 

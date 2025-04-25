@@ -19,7 +19,7 @@ public class MarkdownParser
 | Name | Description |
 | --- | --- |
 | [MarkdownParser](markdownparser/#constructor)() | Initializes a new instance of the `MarkdownParser` class. |
-| [MarkdownParser](markdownparser/#constructor_1)(*Action&amp;lt;IMarkdownParserBuilder&amp;gt;*) | Initializes a new instance of the `MarkdownParser` class. |
+| [MarkdownParser](markdownparser/#constructor_1)(*Action&lt;IMarkdownParserBuilder&gt;*) | Initializes a new instance of the `MarkdownParser` class. |
 
 ## Methods
 

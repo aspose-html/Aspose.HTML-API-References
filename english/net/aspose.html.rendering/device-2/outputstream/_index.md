@@ -6,7 +6,7 @@ type: docs
 weight: 40
 url: /net/aspose.html.rendering/device-2/outputstream/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.OutputStream property
+## Device<TGraphicContext,TRenderingOptions>.OutputStream property
 
 Sets and gets the output stream.
 

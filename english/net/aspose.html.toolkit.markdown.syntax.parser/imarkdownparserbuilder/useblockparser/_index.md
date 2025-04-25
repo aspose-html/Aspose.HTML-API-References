@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.toolkit.markdown.syntax.parser/imarkdownparserbuilder/useblockparser/
 ---
-## IMarkdownParserBuilder.UseBlockParser&lt;T&gt; method
+## IMarkdownParserBuilder.UseBlockParser<T> method
 
 Defines the UseBlockParser method.
 

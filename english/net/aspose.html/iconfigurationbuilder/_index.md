@@ -18,7 +18,7 @@ public interface IConfigurationBuilder
 
 | Name | Description |
 | --- | --- |
-| [AddDiagnostics](../../aspose.html/iconfigurationbuilder/adddiagnostics/)(*Action&amp;lt;IDiagnosticsBuilder&amp;gt;*) | Enables diagnostics for the current configuration. |
+| [AddDiagnostics](../../aspose.html/iconfigurationbuilder/adddiagnostics/)(*Action&lt;IDiagnosticsBuilder&gt;*) | Enables diagnostics for the current configuration. |
 
 ### See Also
 

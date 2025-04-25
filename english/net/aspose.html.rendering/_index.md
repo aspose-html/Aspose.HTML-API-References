@@ -14,14 +14,14 @@ The **Aspose.Html.Rendering** namespace consists of numerous renderer objects as
 | --- | --- |
 | [CssOptions](./cssoptions/) | Represents css rendering options. |
 | [Device](./device/) | Represents a base class for implementing rendering devices that are used to draw graphics in various formats and environments. |
-| [Device&lt;TGraphicContext,TRenderingOptions&gt;](./device-2/) | Represents base class for implementation particular rendering devices. |
+| [Device<TGraphicContext,TRenderingOptions>](./device-2/) | Represents base class for implementation particular rendering devices. |
 | [EpubRenderer](./epubrenderer/) | Represents a EPub document renderer. |
 | [GraphicContext](./graphiccontext/) | Holds current graphics control parameters. These parameters define the global framework within which the graphics operators execute. |
 | [HtmlRenderer](./htmlrenderer/) | Represents an HTML document renderer. |
 | [MhtmlRenderer](./mhtmlrenderer/) | Represents a MHTML document renderer. |
 | [PageSetup](./pagesetup/) | Represents a page setup object is used for configuration output page-set. |
 | [Renderer](./renderer/) | Represents a base class for all renderers and implemnts IDisposable interface. |
-| [Renderer&lt;TSource&gt;](./renderer-1/) | Represents an abstract class for the all renderers. |
+| [Renderer<TSource>](./renderer-1/) | Represents an abstract class for the all renderers. |
 | [RenderingOptions](./renderingoptions/) | Represents rendering options. |
 | [SvgRenderer](./svgrenderer/) | Represents SVG document renderer. |
 | [TextInfo](./textinfo/) | Contains information about rendered text. |

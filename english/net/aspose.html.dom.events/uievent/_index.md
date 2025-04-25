@@ -19,7 +19,7 @@ public class UIEvent : Event
 | Name | Description |
 | --- | --- |
 | [UIEvent](uievent/#constructor)(*string*) | Initializes a new instance of the `UIEvent` class. |
-| [UIEvent](uievent/#constructor_1)(*string, IDictionary&amp;lt;string, object&amp;gt;*) |  |
+| [UIEvent](uievent/#constructor_1)(*string, IDictionary&lt;string, object&gt;*) |  |
 
 ## Properties
 

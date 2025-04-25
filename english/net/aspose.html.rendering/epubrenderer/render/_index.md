@@ -102,7 +102,7 @@ public void Render(IDevice device, Stream source, Configuration configuration, T
 
 ---
 
-## Render(*[IDevice](../../idevice/), IList&amp;lt;Stream&amp;gt;, [Configuration](../../../aspose.html/configuration/)*) {#render_1}
+## Render(*[IDevice](../../idevice/), IList&lt;Stream&gt;, [Configuration](../../../aspose.html/configuration/)*) {#render_1}
 
 Renders multiple EPub documents into specified [`IDevice`](../../idevice/).
 
@@ -126,7 +126,7 @@ public void Render(IDevice device, IList<Stream> sources, Configuration configur
 
 ---
 
-## Render(*[IDevice](../../idevice/), IList&amp;lt;Stream&amp;gt;, [Configuration](../../../aspose.html/configuration/), TimeSpan*) {#render_2}
+## Render(*[IDevice](../../idevice/), IList&lt;Stream&gt;, [Configuration](../../../aspose.html/configuration/), TimeSpan*) {#render_2}
 
 Renders multiple EPub documents into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 

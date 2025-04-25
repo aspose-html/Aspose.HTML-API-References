@@ -6,7 +6,7 @@ type: docs
 weight: 5810
 url: /net/aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/
 ---
-## SyntaxNodeCollection&lt;T&gt; class
+## SyntaxNodeCollection<T> class
 
 Represents a collection of syntax nodes.
 

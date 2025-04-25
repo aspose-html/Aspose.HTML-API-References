@@ -51,7 +51,7 @@ The **Aspose.Html.Toolkit.Markdown.Syntax** namespace contains objects and inter
 | [MultiLineContainerBlockSyntaxNode](./multilinecontainerblocksyntaxnode/) | Base implementation of an MultiLine Container Block Syntax Node |
 | [NodeIterator](./nodeiterator/) | The nodes iterator. |
 | [NodeList](./nodelist/) | Base implementation of the NodeList. |
-| [NodeList&lt;T&gt;](./nodelist-1/) | Base implementation of the NodeList. |
+| [NodeList<T>](./nodelist-1/) | Base implementation of the NodeList. |
 | [OrderedListItemMarker](./orderedlistitemmarker/) | Represent the ordered list item marker. |
 | [OrderedListSyntaxNode](./orderedlistsyntaxnode/) | Represent the Ordered list syntax. |
 | [ParagraphSyntaxNode](./paragraphsyntaxnode/) | Represent the paragraph syntax node. |
@@ -59,7 +59,7 @@ The **Aspose.Html.Toolkit.Markdown.Syntax** namespace contains objects and inter
 | [ReferenceLinkSyntaxNode](./referencelinksyntaxnode/) | Represent the reference link syntax. |
 | [SetextHeadingSyntaxNode](./setextheadingsyntaxnode/) | Represent the Setext heading syntax node. |
 | [SoftBreakSyntaxNode](./softbreaksyntaxnode/) | Represent the soft breaking syntax. |
-| [SyntaxNodeCollection&lt;T&gt;](./syntaxnodecollection-1/) | Represents a collection of syntax nodes. |
+| [SyntaxNodeCollection<T>](./syntaxnodecollection-1/) | Represents a collection of syntax nodes. |
 | [TableCellSyntaxNode](./tablecellsyntaxnode/) | Represent the table cell syntax node. |
 | [TableDelimiterSyntaxNode](./tabledelimitersyntaxnode/) | Represent the table delimiter syntax node. |
 | [TableRowSyntaxNode](./tablerowsyntaxnode/) | The table row syntax node. |

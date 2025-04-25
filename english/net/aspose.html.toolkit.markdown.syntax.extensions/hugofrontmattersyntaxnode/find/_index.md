@@ -31,7 +31,7 @@ The BaseSyntaxNode.
 
 ---
 
-## Find&lt;T&gt;(*params string[]*) {#find_1}
+## Find<T>(*params string[]*) {#find_1}
 
 Defines the interface for find T
 

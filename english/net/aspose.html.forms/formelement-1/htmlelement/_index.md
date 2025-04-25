@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.forms/formelement-1/htmlelement/
 ---
-## FormElement&lt;T&gt;.HtmlElement property
+## FormElement<T>.HtmlElement property
 
 Gets the [`HTMLElement`](../../../aspose.html/htmlelement/).
 

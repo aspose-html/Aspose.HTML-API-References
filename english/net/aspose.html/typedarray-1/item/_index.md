@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html/typedarray-1/item/
 ---
-## TypedArray&lt;T&gt; indexer
+## TypedArray<T> indexer
 
 Gets or sets the !:T at the specified index.
 

@@ -6,7 +6,7 @@ type: docs
 weight: 10
 url: /net/aspose.html.rendering/device-2.deviceconfiguration-2/deviceconfiguration/
 ---
-## Device&lt;TGraphicContext,TRenderingOptions&gt;.DeviceConfiguration&lt;TGraphicContext,TRenderingOptions&gt; constructor
+## Device<TGraphicContext,TRenderingOptions>.DeviceConfiguration<TGraphicContext,TRenderingOptions> constructor
 
 The default constructor.
 
