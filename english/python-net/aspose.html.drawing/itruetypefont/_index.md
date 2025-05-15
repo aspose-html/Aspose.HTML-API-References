@@ -23,6 +23,7 @@ The ITrueTypeFont type exposes the following members:
 | [sub_family_name](/html/python-net/aspose.html.drawing/itruetypefont/sub_family_name) | The Subfamily name distinguishes the font in a group with the same Family name.<br/>This is assumed to address style (italic, oblique) and weight (light, bold, black, etc.).<br/>A font with no particular differences in weight or style should have the string "Regular". |
 | [full_font_name](/html/python-net/aspose.html.drawing/itruetypefont/full_font_name) | Full font name is generally represented as combination of Family and Subfamily names. |
 | [data_size](/html/python-net/aspose.html.drawing/itruetypefont/data_size) | Gets the size of the font data in bytes. |
+| [style](/html/python-net/aspose.html.drawing/itruetypefont/style) | Get the font style that combines the values of the font-face rule and data from the font. |
 
 
 ### Methods
