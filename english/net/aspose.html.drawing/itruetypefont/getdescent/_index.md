@@ -3,7 +3,7 @@ title: ITrueTypeFont.GetDescent
 second_title: Aspose.HTML for .NET API Reference
 description: ITrueTypeFont GetDescent method. Returns the descent in points
 type: docs
-weight: 70
+weight: 80
 url: /net/aspose.html.drawing/itruetypefont/getdescent/
 ---
 ## ITrueTypeFont.GetDescent method
