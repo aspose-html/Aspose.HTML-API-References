@@ -3,7 +3,7 @@ title: ITrueTypeFont.GetData
 second_title: Aspose.HTML for .NET API Reference
 description: ITrueTypeFont GetData method. Open the stream with font data. The caller is responsible for disposing the stream
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.html.drawing/itruetypefont/getdata/
 ---
 ## ITrueTypeFont.GetData method
