@@ -26,7 +26,7 @@ public abstract class TypedArray<T> : TypedArray
 | [Buffer](../../aspose.html/typedarray/buffer/) { get; } | Gets the ArrayBuffer referenced by this instance. |
 | [ByteLength](../../aspose.html/typedarray/bytelength/) { get; } | Gets the byteLength accessor property represents the length of an ArrayBuffer in bytes. |
 | [ByteOffset](../../aspose.html/typedarray/byteoffset/) { get; } | Gets the byteOffset from the start of referenced ArrayBuffer. |
-| abstract [Item](../../aspose.html/typedarray-1/item/) { get; set; } | Gets or sets the !:T at the specified index. |
+| abstract [Item](../../aspose.html/typedarray-1/item/) { get; set; } | Gets or sets the *T* at the specified index. |
 | [Length](../../aspose.html/typedarray/length/) { get; } | Gets the length of a typed array. |
 
 ## Methods

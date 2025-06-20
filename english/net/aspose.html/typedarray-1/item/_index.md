@@ -8,7 +8,7 @@ url: /net/aspose.html/typedarray-1/item/
 ---
 ## TypedArray<T> indexer
 
-Gets or sets the !:T at the specified index.
+Gets or sets the *T* at the specified index.
 
 ```csharp
 public abstract T this[int index] { get; set; }
@@ -20,7 +20,7 @@ public abstract T this[int index] { get; set; }
 
 ### Property Value
 
-The !:T.
+The *T*.
 
 ### See Also
 
