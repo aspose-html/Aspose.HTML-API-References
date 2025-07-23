@@ -41,14 +41,14 @@ public class MutationObserverInit : IDictionary<string, object>
 
 | Name | Description |
 | --- | --- |
-| [Add](../../aspose.html.dom.mutations/mutationobserverinit/add/#add)(*KeyValuePair&lt;string, object&gt;*) |  |
+| [Add](../../aspose.html.dom.mutations/mutationobserverinit/add/#add)(*KeyValuePair&lt;string, object&gt;*) | Adds an element to the `MutationObserverInit` collection. |
 | [Add](../../aspose.html.dom.mutations/mutationobserverinit/add/#add_1)(*string, object*) | Adds the specified key and value to the `MutationObserverInit` collection. |
 | [Clear](../../aspose.html.dom.mutations/mutationobserverinit/clear/)() | Removes all the elements from the `MutationObserverInit` collection. |
-| [Contains](../../aspose.html.dom.mutations/mutationobserverinit/contains/)(*KeyValuePair&lt;string, object&gt;*) |  |
+| [Contains](../../aspose.html.dom.mutations/mutationobserverinit/contains/)(*KeyValuePair&lt;string, object&gt;*) | Determines whether the `MutationObserverInit` contain the specified key/value pair. |
 | [ContainsKey](../../aspose.html.dom.mutations/mutationobserverinit/containskey/)(*string*) | Determines whether the `MutationObserverInit` collection contain a specified key. |
-| [CopyTo](../../aspose.html.dom.mutations/mutationobserverinit/copyto/)(*KeyValuePair&lt;string, object&gt;[], int*) |  |
+| [CopyTo](../../aspose.html.dom.mutations/mutationobserverinit/copyto/)(*KeyValuePair&lt;string, object&gt;[], int*) | Copies the `MutationObserverInit` elements to an existing one-dimensional array, starting at the specified array index. |
 | [GetEnumerator](../../aspose.html.dom.mutations/mutationobserverinit/getenumerator/)() | Returns an enumerator that iterates through the `MutationObserverInit` elements. |
-| [Remove](../../aspose.html.dom.mutations/mutationobserverinit/remove/#remove)(*KeyValuePair&lt;string, object&gt;*) |  |
+| [Remove](../../aspose.html.dom.mutations/mutationobserverinit/remove/#remove)(*KeyValuePair&lt;string, object&gt;*) | Removes the specified key/value pair from the `MutationObserverInit` collection. |
 | [Remove](../../aspose.html.dom.mutations/mutationobserverinit/remove/#remove_1)(*string*) | Removes the value associated with the specified key from the `MutationObserverInit` collection. |
 | [TryGetValue](../../aspose.html.dom.mutations/mutationobserverinit/trygetvalue/)(*string, out object*) | Gets the value associated with the specified key. |
 

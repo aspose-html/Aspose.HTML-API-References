@@ -31,7 +31,7 @@ public class SvgRenderer : Renderer<SVGDocument>
 | [Render](../../aspose.html.rendering/renderer-1/render/)(*[IDevice](../idevice/), int, params SVGDocument[]*) |  |
 | [Render](../../aspose.html.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.html.dom.svg/svgdocument/), int*) |  |
 | [Render](../../aspose.html.rendering/renderer-1/render/)(*[IDevice](../idevice/), [SVGDocument](../../aspose.html.dom.svg/svgdocument/), TimeSpan*) |  |
-| override [Render](../../aspose.html.rendering/svgrenderer/render/#render_6)(*[IDevice](../idevice/), TimeSpan, params SVGDocument[]*) | Defines method for rendering multiple [`SVGDocument`](../../aspose.html.dom.svg/svgdocument/)s into specific [`IDevice`](../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed. |
+| override [Render](../../aspose.html.rendering/svgrenderer/render/#render_6)(*[IDevice](../idevice/), TimeSpan, params SVGDocument[]*) | Defines method for rendering multiple [`SVGDocument`](../../aspose.html.dom.svg/svgdocument/)s into specific [`IDevice`](../idevice/). |
 
 ### See Also
 

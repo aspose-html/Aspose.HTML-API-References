@@ -1,22 +1,18 @@
 ---
 title: IElementCSSInlineStyle.Style
 second_title: Aspose.HTML for .NET API Reference
-description: IElementCSSInlineStyle Style property. The style attribute must return a CSS declaration block object whose computed flag is unset whose parent CSS rule is null and whose owner node is the context object
+description: IElementCSSInlineStyle Style property. Represents Represents a style attribute that allows author to directly apply style information to specific element
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/ielementcssinlinestyle/style/
 ---
 ## IElementCSSInlineStyle.Style property
 
-The style attribute must return a CSS declaration block object whose computed flag is unset, whose parent CSS rule is null, and whose owner node is the context object.
+Represents Represents a style attribute that allows author to directly apply style information to specific element.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
-
-### Property Value
-
-The associated CSS declaration block for the node or null if there is no associated CSS declaration block.
 
 ### See Also
 

@@ -1,18 +1,14 @@
 ---
 title: Node.InsertBefore
 second_title: Aspose.HTML for .NET API Reference
-description: Node InsertBefore method. The insertBefore method of the Node interface inserts a node before a reference node as a child of a specified parent node
+description: Node InsertBefore method. Inserts the node before the existing child node child. If child is null insert node at the end of the list of children. If child is a DocumentFragment object all of its children are inserted in the same order before child. If the child is already in the tree it is first removed
 type: docs
 weight: 200
 url: /net/aspose.html.dom/node/insertbefore/
 ---
 ## Node.InsertBefore method
 
-The insertBefore() method of the Node interface inserts a node before a reference node as a child of a specified parent node.
-
-If the given node already exists in the document, insertBefore() moves it from its current position to the new position. (That is, it will automatically be removed from its existing parent before appending it to the specified new parent.)
-
-This means that a node cannot be in two locations of the document simultaneously.
+Inserts the node before the existing child node child. If child is null, insert node at the end of the list of children. If child is a DocumentFragment object, all of its children are inserted, in the same order, before child. If the child is already in the tree, it is first removed.
 
 ```csharp
 public Node InsertBefore(Node node, Node child)
@@ -20,12 +16,12 @@ public Node InsertBefore(Node node, Node child)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| node | Node | The node to be inserted. |
-| child | Node | The node before which newNode is inserted. If this is null, then newNode is inserted at the end of node's child nodes. |
+| node | Node | The new child. |
+| child | Node | The ref child. |
 
 ### Return Value
 
-Returns the added child (unless newNode is a [`DocumentFragment`](../../documentfragment/), in which case the empty [`DocumentFragment`](../../documentfragment/) is returned).
+Returns inserted node
 
 ### See Also
 

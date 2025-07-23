@@ -1,16 +1,14 @@
 ---
 title: ICSS2Properties.SpeakPunctuation
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties SpeakPunctuation property. This property specifies how punctuation is spoken. Values have the following meanings
+description: ICSS2Properties SpeakPunctuation property. See the speak-punctuation property definition in CSS2
 type: docs
 weight: 1030
 url: /net/aspose.html.dom.css/icss2properties/speakpunctuation/
 ---
 ## ICSS2Properties.SpeakPunctuation property
 
-This property specifies how punctuation is spoken. Values have the following meanings:
-
-code - Punctuation such as semicolons, braces, and so on are to be spoken literally.none - Punctuation is not to be spoken, but instead rendered naturally as various pauses.
+See the speak-punctuation property definition in CSS2.
 
 ```csharp
 public string SpeakPunctuation { get; set; }

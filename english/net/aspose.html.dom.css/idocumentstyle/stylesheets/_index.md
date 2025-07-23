@@ -14,10 +14,6 @@ A list containing all the style sheets explicitly linked into or embedded in a d
 public IStyleSheetList StyleSheets { get; }
 ```
 
-### Property Value
-
-The list containing all the style sheets explicitly linked into or embedded in a document.
-
 ### See Also
 
 * interface [IStyleSheetList](../../istylesheetlist/)

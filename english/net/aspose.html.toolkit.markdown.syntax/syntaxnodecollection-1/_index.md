@@ -40,7 +40,7 @@ public class SyntaxNodeCollection<T> : NodeList<T>, IList<T>
 | [Add](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/add/)(*T*) | Adds the given item to the collection. |
 | [Clear](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/clear/)() | Removes all items from the collection. |
 | [Contains](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/contains/)(*T*) | Determines whether the given item exists in the collection. |
-| [CopyTo](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/copyto/)(*T[], int*) |  |
+| [CopyTo](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/copyto/)(*T[], int*) | Copy items in this collection to array, starting at arrayIndex |
 | override [Get](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/get/)(*int*) | Gets the item at the given index. |
 | override [GetEnumerator](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/getenumerator/)() | Gets the values in the collection. |
 | [IndexOf](../../aspose.html.toolkit.markdown.syntax/syntaxnodecollection-1/indexof/)(*T*) | Gets the index of the given item. |

@@ -16,13 +16,7 @@ public void AppendMedium(string newMedium)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newMedium | String | The new medium to add. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| DOMException | INVALID_CHARACTER_ERR: If the medium contains characters that are invalid in the underlying style language.NO_MODIFICATION_ALLOWED_ERR: Raised if this list is readonly. |
+| newMedium | String | The new medium. |
 
 ### See Also
 

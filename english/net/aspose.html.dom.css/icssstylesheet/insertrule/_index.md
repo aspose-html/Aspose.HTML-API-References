@@ -1,16 +1,14 @@
 ---
 title: ICSSStyleSheet.InsertRule
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSStyleSheet InsertRule method. The CSSStyleSheet.insertRule method inserts a new CSS rule into the current style sheet with some restrictions
+description: ICSSStyleSheet InsertRule method. Used to insert a new rule into the style sheet. The new rule now becomes part of the cascade
 type: docs
 weight: 40
 url: /net/aspose.html.dom.css/icssstylesheet/insertrule/
 ---
 ## ICSSStyleSheet.InsertRule method
 
-The CSSStyleSheet.insertRule() method inserts a new CSS rule into the current style sheet, with some restrictions.
-
-Note: Although insertRule() is exclusively a method of [`CSSStyleSheet`](../), it actually inserts the rule into CSSStyleSheet.cssRules — its internal [`CSSRuleList`](../../icssrulelist/).
+Used to insert a new rule into the style sheet. The new rule now becomes part of the cascade.
 
 ```csharp
 public long InsertRule(string rule, int index)
@@ -18,20 +16,12 @@ public long InsertRule(string rule, int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rule | String | A String containing the rule to be inserted. What the inserted rule must contain depends on its type: |
-| index | Int32 | A positive integer less than or equal to stylesheet.cssRules.length, representing the newly inserted rule's position in CSSStyleSheet.cssRules. The default is 0. |
+| rule | String | The style rule. |
+| index | Int32 | The rule index. |
 
 ### Return Value
 
-The newly inserted rule's index within the stylesheet's rule-list.
-
-## Remarks
-
-[CSSOM](https://drafts.csswg.org/cssom/) defines APIs (including generic parsing and serialization rules) for Media Queries, Selectors, and of course CSS itself.
-
-Reference
-
-[CSS Working Group](https://wiki.csswg.org/) - The CSS Working Group is the W3C working group chartered to develop Cascading Style Sheets (CSS).[CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/) - CSSOM defines APIs (including generic parsing and serialization rules) for Media Queries, Selectors, and of course CSS itself.[CSS Object Model (CSSOM) # dom-cssstylesheet-insertrule](https://drafts.csswg.org/cssom/#dom-cssstylesheet-insertrule) – The CSSOM definition.
+The inserted index
 
 ### See Also
 

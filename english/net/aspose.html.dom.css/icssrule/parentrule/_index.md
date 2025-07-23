@@ -14,10 +14,6 @@ If this rule is contained inside another rule (e.g. a style rule inside an @medi
 public ICSSRule ParentRule { get; }
 ```
 
-### Property Value
-
-A [`CSSRule`](../) which is the type of the containing rules. If the current rule is inside a media query, this would return [`CSSMediaRule`](../../icssmediarule/). Otherwise it returns null.
-
 ### See Also
 
 * interface [ICSSRule](../)

@@ -35,8 +35,7 @@ public class HtmlRenderer : Renderer<HTMLDocument>
 
 ### See Also
 
-* class [Document](../../aspose.html.dom/document/)
-* class [Renderer&lt;TSource&gt;](../renderer-1/)
 * class [HTMLDocument](../../aspose.html/htmldocument/)
+* class [Renderer&lt;TSource&gt;](../renderer-1/)
 * namespace [Aspose.Html.Rendering](../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../)

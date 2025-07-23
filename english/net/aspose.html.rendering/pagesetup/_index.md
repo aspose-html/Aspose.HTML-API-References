@@ -25,6 +25,7 @@ public class PageSetup
 | [LeftPage](../../aspose.html.rendering/pagesetup/leftpage/) { get; } | Gets the Odd Page configuration. |
 | [PageLayoutOptions](../../aspose.html.rendering/pagesetup/pagelayoutoptions/) { get; set; } | Gets or sets the [`PageLayoutOptions`](../pagelayoutoptions/). Default value is None, any other value will override the [`AdjustToWidestPage`](./adjusttowidestpage/) behaviour. Works only with HTML documents. |
 | [RightPage](../../aspose.html.rendering/pagesetup/rightpage/) { get; } | Gets the Even Page configuration. |
+| [ScaleLimit](../../aspose.html.rendering/pagesetup/scalelimit/) { get; set; } | A value between 0 and 1 specifies the limit to which the document content is scaled relative to the original size. The default value is 0. The default value in Chrome is approximately 0.7 (i.e. the scaled content size cannot be less than 70% of the original size). |
 
 ## Methods
 

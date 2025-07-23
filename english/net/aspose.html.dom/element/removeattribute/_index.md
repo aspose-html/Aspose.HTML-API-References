@@ -16,7 +16,7 @@ public void RemoveAttribute(string qualifiedName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | The attribute name. |
+| qualifiedName | String | The attribute name. |
 
 ### See Also
 

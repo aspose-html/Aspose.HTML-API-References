@@ -1,14 +1,14 @@
 ---
 title: RGBColor.Green
 second_title: Aspose.HTML for .NET API Reference
-description: RGBColor Green property. Gets the green component value of this Color structure
+description: RGBColor Green property. Gets the green component value of this Color class
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/rgbcolor/green/
 ---
 ## RGBColor.Green property
 
-Gets the green component value of this Color structure.
+Gets the green component value of this Color class.
 
 ```csharp
 public CSSPrimitiveValue Green { get; }

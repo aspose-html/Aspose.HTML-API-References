@@ -43,8 +43,8 @@ public struct TextSpan : IComparable<TextSpan>, IEquatable<TextSpan>
 | override [GetHashCode](../../aspose.html.toolkit.markdown.syntax.text/textspan/gethashcode/)() | Get the HashCode |
 | [IsEmpty](../../aspose.html.toolkit.markdown.syntax.text/textspan/isempty/)() | Return true if length ==0. |
 | override [ToString](../../aspose.html.toolkit.markdown.syntax.text/textspan/tostring/)() | Get ToString() override |
-| [operator ==](../../aspose.html.toolkit.markdown.syntax.text/textspan/op_equality/) |  |
-| [operator !=](../../aspose.html.toolkit.markdown.syntax.text/textspan/op_inequality/) |  |
+| [operator ==](../../aspose.html.toolkit.markdown.syntax.text/textspan/op_equality/) | Override the == operator. |
+| [operator !=](../../aspose.html.toolkit.markdown.syntax.text/textspan/op_inequality/) | Overrides the != operator |
 
 ### See Also
 

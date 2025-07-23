@@ -16,7 +16,7 @@ public void SetAttribute(string qualifiedName, string value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | The attribute name. |
+| qualifiedName | String | The attribute name. |
 | value | String | The value. |
 
 ### See Also

@@ -28,9 +28,16 @@ public Event(string type)
 
 ## Event(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
+Initializes a new instance of the [`Event`](../) class.
+
 ```csharp
 public Event(string type, IDictionary<string, object> eventInitDict)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | String | The event type. |
+| eventInitDict | IDictionary`2 | The event initialize dictionary. |
 
 ### See Also
 

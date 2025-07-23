@@ -1,14 +1,14 @@
 ---
 title: ICSS2Properties.BorderLeft
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties BorderLeft property. This is a shorthand property for setting the width style and color of the top right bottom and left border of a box
+description: ICSS2Properties BorderLeft property. See the border-left property definition in CSS2
 type: docs
 weight: 150
 url: /net/aspose.html.dom.css/icss2properties/borderleft/
 ---
 ## ICSS2Properties.BorderLeft property
 
-This is a shorthand property for setting the width, style, and color of the top, right, bottom, and left border of a box.
+See the border-left property definition in CSS2.
 
 ```csharp
 public string BorderLeft { get; set; }

@@ -1,30 +1,18 @@
 ---
 title: ICSSStyleSheet.OwnerRule
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSStyleSheet OwnerRule property. The read-only CSSStyleSheet property ownerRule returns the CSSImportRule corresponding to the import at-rule which imported the stylesheet into the document. If the stylesheet wasnt imported into the document using import the returned value is null
+description: ICSSStyleSheet OwnerRule property. If this style sheet comes from an import rule the ownerRule attribute will contain the CSSImportRule. In that case the ownerNode attribute in the StyleSheet interface will be null. If the style sheet comes from an element or a processing instruction the ownerRule attribute will be null and the ownerNode attribute will contain the Node
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/icssstylesheet/ownerrule/
 ---
 ## ICSSStyleSheet.OwnerRule property
 
-The read-only CSSStyleSheet property ownerRule returns the [`CSSImportRule`](../../icssimportrule/) corresponding to the @import at-rule which imported the stylesheet into the document. If the stylesheet wasn't imported into the document using @import, the returned value is null.
+If this style sheet comes from an @import rule, the ownerRule attribute will contain the CSSImportRule. In that case, the ownerNode attribute in the StyleSheet interface will be null. If the style sheet comes from an element or a processing instruction, the ownerRule attribute will be null and the ownerNode attribute will contain the Node.
 
 ```csharp
 public ICSSRule OwnerRule { get; }
 ```
-
-### Property Value
-
-A CSSImportRule corresponding to the @import rule which imported the stylesheet into the document. If the stylesheet wasn't imported into the document using @import, the returned value is null.
-
-## Remarks
-
-[CSSOM](https://drafts.csswg.org/cssom/) defines APIs (including generic parsing and serialization rules) for Media Queries, Selectors, and of course CSS itself.
-
-Reference
-
-[CSS Working Group](https://wiki.csswg.org/) - The CSS Working Group is the W3C working group chartered to develop Cascading Style Sheets (CSS).[CSS Object Model (CSSOM)](https://drafts.csswg.org/cssom/) - CSSOM defines APIs (including generic parsing and serialization rules) for Media Queries, Selectors, and of course CSS itself.[CSS Object Model (CSSOM) # dom-cssstylesheet-ownerrule](https://drafts.csswg.org/cssom/#dom-cssstylesheet-ownerrule) – The CSSOM definition.
 
 ### See Also
 

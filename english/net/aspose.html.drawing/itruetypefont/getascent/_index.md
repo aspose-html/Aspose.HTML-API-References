@@ -1,14 +1,14 @@
 ---
 title: ITrueTypeFont.GetAscent
 second_title: Aspose.HTML for .NET API Reference
-description: ITrueTypeFont GetAscent method. Returns the ascent in points
+description: ITrueTypeFont GetAscent method. Gets the ascent of the font in points using the specified font size
 type: docs
 weight: 60
 url: /net/aspose.html.drawing/itruetypefont/getascent/
 ---
 ## ITrueTypeFont.GetAscent method
 
-Returns the ascent, in points.
+Gets the ascent of the font in points using the specified font size.
 
 ```csharp
 public float GetAscent(float fontSize)
@@ -16,11 +16,11 @@ public float GetAscent(float fontSize)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontSize | Single | Size of the font. |
+| fontSize | Single | The size of the font. |
 
 ### Return Value
 
-The ascent in points.
+The ascent of the font in points.
 
 ### See Also
 

@@ -1,22 +1,18 @@
 ---
 title: ICSSCounterStyleRule.Name
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSCounterStyleRule Name property. The name property of the CSSCounterStyleRule interface gets and sets the custom-ident defined as the name for the associated rule
+description: ICSSCounterStyleRule Name property. Gets the name
 type: docs
 weight: 40
 url: /net/aspose.html.dom.css/icsscounterstylerule/name/
 ---
 ## ICSSCounterStyleRule.Name property
 
-The name property of the [`CSSCounterStyleRule`](../) interface gets and sets the custom-ident defined as the name for the associated rule.
+Gets the name.
 
 ```csharp
 public string Name { get; }
 ```
-
-### Property Value
-
-Gets and sets the custom-ident defined as the name for the associated rule.
 
 ### See Also
 

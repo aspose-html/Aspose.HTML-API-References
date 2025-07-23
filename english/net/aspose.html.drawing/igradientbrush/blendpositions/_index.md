@@ -1,14 +1,14 @@
 ---
 title: IGradientBrush.BlendPositions
 second_title: Aspose.HTML for .NET API Reference
-description: IGradientBrush BlendPositions property. Get the blend positions that define a custom falloff for the gradient
+description: IGradientBrush BlendPositions property. Gets or sets the blend positions that define a custom falloff for the gradient
 type: docs
 weight: 20
 url: /net/aspose.html.drawing/igradientbrush/blendpositions/
 ---
 ## IGradientBrush.BlendPositions property
 
-Get the blend positions that define a custom falloff for the gradient.
+Gets or sets the blend positions that define a custom falloff for the gradient.
 
 ```csharp
 public float[] BlendPositions { get; set; }

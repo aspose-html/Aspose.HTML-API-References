@@ -1,14 +1,14 @@
 ---
 title: ICSSStyleDeclaration.SetProperty
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSStyleDeclaration SetProperty method. The CSSStyleDeclaration.setProperty method interface is used to set a property value with default priority within this declaration block. Default priority is not important i.e. String.Empty
+description: ICSSStyleDeclaration SetProperty method. Used to set a property value with default priority within this declaration block. Default priority is not important i.e. String.Empty
 type: docs
 weight: 90
 url: /net/aspose.html.dom.css/icssstyledeclaration/setproperty/
 ---
 ## SetProperty(*string, string*) {#setproperty}
 
-The CSSStyleDeclaration.setProperty() method interface is used to set a property value with default priority within this declaration block. Default priority is not "important" i.e. String.Empty
+Used to set a property value with default priority within this declaration block. Default priority is not "important" i.e. String.Empty
 
 ```csharp
 public void SetProperty(string propertyName, string value)
@@ -16,8 +16,8 @@ public void SetProperty(string propertyName, string value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| propertyName | String | A string representing the CSS property name (hyphen case) to be modified. |
-| value | String | A string containing the new property value. If not specified, treated as the empty string. |
+| propertyName | String | Name of the property. |
+| value | String | The value. |
 
 ### See Also
 
@@ -29,7 +29,7 @@ public void SetProperty(string propertyName, string value)
 
 ## SetProperty(*string, string, string*) {#setproperty_1}
 
-The CSSStyleDeclaration.setProperty() method interface is used to set a property value with default priority within this declaration block. Default priority is not "important" i.e. String.Empty
+Used to set a property value and priority within this declaration block.
 
 ```csharp
 public void SetProperty(string propertyName, string value, string priority)
@@ -37,9 +37,9 @@ public void SetProperty(string propertyName, string value, string priority)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| propertyName | String | A string representing the CSS property name (hyphen case) to be modified. |
-| value | String | A string containing the new property value. If not specified, treated as the empty string. |
-| priority | String | A string allowing the "important" CSS priority to be set. If not specified, treated as the empty string. The following values are accepted: string value "important", keyword undefined or string empty value "" |
+| propertyName | String | Name of the property. |
+| value | String | The value. |
+| priority | String | The priority. |
 
 ### See Also
 

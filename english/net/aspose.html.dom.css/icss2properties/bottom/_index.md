@@ -1,14 +1,14 @@
 ---
 title: ICSS2Properties.Bottom
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties Bottom property. This property specifies how far a boxs bottom content edge is offset above the bottom of the boxs containing block
+description: ICSS2Properties Bottom property. See the bottom property definition in CSS2
 type: docs
 weight: 300
 url: /net/aspose.html.dom.css/icss2properties/bottom/
 ---
 ## ICSS2Properties.Bottom property
 
-This property specifies how far a box's bottom content edge is offset above the bottom of the box's containing block.
+See the bottom property definition in CSS2.
 
 ```csharp
 public string Bottom { get; set; }

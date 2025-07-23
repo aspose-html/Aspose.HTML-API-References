@@ -16,7 +16,7 @@ public bool HasAttribute(string qualifiedName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | The attribute name. |
+| qualifiedName | String | The attribute name. |
 
 ### Return Value
 

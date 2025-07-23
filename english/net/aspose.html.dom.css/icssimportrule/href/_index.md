@@ -1,24 +1,18 @@
 ---
 title: ICSSImportRule.Href
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSImportRule Href property. The read-only href property of the CSSImportRule interface returns the URL specified by the import at-rule
+description: ICSSImportRule Href property. The location of the style sheet to be imported. The attribute will not contain the url... specifier around the URI
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/icssimportrule/href/
 ---
 ## ICSSImportRule.Href property
 
-The read-only href property of the CSSImportRule interface returns the URL specified by the @import at-rule.
-
-The resolved URL will be the href attribute of the associated stylesheet.
+The location of the style sheet to be imported. The attribute will not contain the "url(...)" specifier around the URI.
 
 ```csharp
 public string Href { get; }
 ```
-
-### Property Value
-
-Returns the URL of the associated stylesheet specified by the @import at-rule.
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: EventTarget
 second_title: Aspose.HTML for .NET API Reference
-description: EventTarget constructor. Initializes a new instance of the EventTarget object
+description: EventTarget constructor. The default constructor
 type: docs
 weight: 10
 url: /net/aspose.html.dom/eventtarget/eventtarget/
 ---
 ## EventTarget constructor
 
-Initializes a new instance of the EventTarget object.
+The default constructor.
 
 ```csharp
 public EventTarget()

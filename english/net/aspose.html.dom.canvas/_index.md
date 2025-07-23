@@ -1,12 +1,12 @@
 ---
 title: Aspose.Html.Dom.Canvas
 second_title: Aspose.HTML for .NET API Reference
-description: 
+description: The Aspose.Html.Dom.Canvas namespace provides interfaces for 2D rendering details qualification as well as options for filling and Path2D class
 type: docs
 weight: 100
 url: /net/aspose.html.dom.canvas/
 ---
-
+The **Aspose.Html.Dom.Canvas** namespace provides interfaces for 2D rendering details qualification as well as options for filling and Path2D class.
 
 ## Classes
 

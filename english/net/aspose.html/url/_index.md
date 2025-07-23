@@ -44,7 +44,7 @@ public class Url : DOMObject
 | --- | --- |
 | override [Equals](../../aspose.html/url/equals/)(*object*) | Determines whether the specified Object, is equal to this instance. |
 | override [GetHashCode](../../aspose.html/url/gethashcode/)() | Returns a hash code for this instance. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object Type. |
 | [ToJson](../../aspose.html/url/tojson/)() | Returns a String that represents this instance. |
 | override [ToString](../../aspose.html/url/tostring/)() | Returns a String that represents this instance. |
 

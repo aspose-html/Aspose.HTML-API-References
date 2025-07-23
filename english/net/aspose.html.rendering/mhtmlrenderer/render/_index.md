@@ -1,14 +1,14 @@
 ---
 title: MhtmlRenderer.Render
 second_title: Aspose.HTML for .NET API Reference
-description: MhtmlRenderer Render method. Renders multiple MHTML documents into specified IDevice. The rendering will be performed once there are no any network operations for loading resources active timers animation tasks or specified timeout is elapsed
+description: MhtmlRenderer Render method. Renders multiple MHTML documents into specified IDevice
 type: docs
 weight: 20
 url: /net/aspose.html.rendering/mhtmlrenderer/render/
 ---
 ## Render(*[IDevice](../../idevice/), TimeSpan, params Stream[]*) {#render_10}
 
-Renders multiple MHTML documents into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+Renders multiple MHTML documents into specified [`IDevice`](../../idevice/).
 
 ```csharp
 public override void Render(IDevice device, TimeSpan timeout, params Stream[] sources)
@@ -18,7 +18,7 @@ public override void Render(IDevice device, TimeSpan timeout, params Stream[] so
 | --- | --- | --- |
 | device | IDevice | The device. |
 | timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
-| documents | Stream[] | The documents to render. |
+| sources | Stream[] | The MHTML documents to render. |
 
 ### See Also
 
@@ -64,7 +64,7 @@ public void Render(IDevice device, Stream source, Configuration configuration)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | IDevice | The device. |
-| document | Stream | The document. |
+| source | Stream | The MHTML document. |
 | configuration | Configuration | The configuration. |
 
 ### See Also
@@ -88,7 +88,7 @@ public void Render(IDevice device, Stream source, Configuration configuration, T
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | IDevice | The device. |
-| document | Stream | The document. |
+| source | Stream | The MHTML document. |
 | configuration | Configuration | The configuration. |
 | timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
 
@@ -113,7 +113,7 @@ public void Render(IDevice device, IList<Stream> sources, Configuration configur
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | IDevice | The device. |
-| documents | IList`1 | The IList of documents to render. |
+| sources | IList`1 | The IList of MHTML documents to render. |
 | configuration | Configuration | The configuration. |
 
 ### See Also
@@ -138,7 +138,7 @@ public void Render(IDevice device, IList<Stream> sources, Configuration configur
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | IDevice | The device. |
-| documents | IList`1 | The IList of documents to render. |
+| sources | IList`1 | The IList of MHTML documents to render. |
 | configuration | Configuration | The configuration. |
 | timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
 

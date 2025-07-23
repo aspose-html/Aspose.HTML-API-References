@@ -10,8 +10,6 @@ url: /net/aspose.html.dom.css/icssunknownrule/
 
 The CSSUnknownRule interface represents an at-rule not supported by this user agent.
 
-See also the [Document Object Model (DOM) Level 2 Style Specification](https://www.w3.org/TR/2000/REC-DOM-Level-2-Style-20001113/).
-
 ```csharp
 public interface ICSSUnknownRule : ICSSRule
 ```

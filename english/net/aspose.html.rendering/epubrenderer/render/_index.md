@@ -1,14 +1,14 @@
 ---
 title: EpubRenderer.Render
 second_title: Aspose.HTML for .NET API Reference
-description: EpubRenderer Render method. Defines method for rendering multiple EPub Streams into specific IDevice. The rendering will be performed once there are no any network operations for loading resources active timers animation tasks or specified timeout is elapsed
+description: EpubRenderer Render method. Defines method for rendering multiple EPub Streams into specific IDevice
 type: docs
 weight: 20
 url: /net/aspose.html.rendering/epubrenderer/render/
 ---
 ## Render(*[IDevice](../../idevice/), TimeSpan, params Stream[]*) {#render_10}
 
-Defines method for rendering multiple EPub Streams into specific [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+Defines method for rendering multiple EPub Streams into specific [`IDevice`](../../idevice/).
 
 ```csharp
 public override void Render(IDevice device, TimeSpan timeout, params Stream[] sources)
@@ -18,7 +18,7 @@ public override void Render(IDevice device, TimeSpan timeout, params Stream[] so
 | --- | --- | --- |
 | device | IDevice | The output device. |
 | timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
-| documents | Stream[] | The documents to render. |
+| sources | Stream[] | The EPub documents to render. |
 
 ### See Also
 
@@ -64,7 +64,7 @@ public void Render(IDevice device, Stream source, Configuration configuration)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | IDevice | The device. |
-| document | Stream | The document. |
+| source | Stream | The EPub document. |
 | configuration | Configuration | The configuration. |
 
 ### See Also
@@ -88,7 +88,7 @@ public void Render(IDevice device, Stream source, Configuration configuration, T
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | IDevice | The device. |
-| document | Stream | The document. |
+| source | Stream | The EPub document. |
 | configuration | Configuration | The configuration. |
 | timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
 
@@ -113,7 +113,7 @@ public void Render(IDevice device, IList<Stream> sources, Configuration configur
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | IDevice | The device. |
-| documents | IList`1 | The IList of documents to render. |
+| sources | IList`1 | The IList of EPub documents to render. |
 | configuration | Configuration | The configuration. |
 
 ### See Also
@@ -138,7 +138,7 @@ public void Render(IDevice device, IList<Stream> sources, Configuration configur
 | Parameter | Type | Description |
 | --- | --- | --- |
 | device | IDevice | The device. |
-| documents | IList`1 | The IList of documents to render. |
+| sources | IList`1 | The IList of EPub documents to render. |
 | configuration | Configuration | The configuration. |
 | timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
 

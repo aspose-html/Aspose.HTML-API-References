@@ -38,7 +38,7 @@ public class LengthOrAuto : Unit
 | override [GetHashCode](../../aspose.html.drawing/unit/gethashcode/)() | Returns a hash code for this instance. |
 | [SetAuto](../../aspose.html.drawing/lengthorauto/setauto/)() | Resets container to state 'auto'. |
 | override [ToString](../../aspose.html.drawing/lengthorauto/tostring/)() | Returns a String that represents this instance. |
-| [implicit operator](../../aspose.html.drawing/lengthorauto/op_implicit/) |  |
+| [implicit operator](../../aspose.html.drawing/lengthorauto/op_implicit/) | Performs an implicit conversion from [`Length`](./length/) to `LengthOrAuto`. |
 
 ### See Also
 

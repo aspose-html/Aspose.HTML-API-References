@@ -16,7 +16,7 @@ public void Replace(string url)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | String | The URL to navigate. |
+| url | String | The string URL to navigate. |
 
 ### See Also
 

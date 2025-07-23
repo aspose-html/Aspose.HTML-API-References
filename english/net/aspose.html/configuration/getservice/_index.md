@@ -40,7 +40,7 @@ public T GetService<T>()
 
 | Parameter | Description |
 | --- | --- |
-| TService | The type of service to retrieve. |
+| T | The type of service to retrieve. |
 
 ### Return Value
 

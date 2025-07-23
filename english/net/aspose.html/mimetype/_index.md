@@ -36,9 +36,9 @@ public class MimeType : IEquatable<MimeType>
 | override [Equals](../../aspose.html/mimetype/equals/#equals_1)(*object*) | Determines whether the specified Object is equal to the current Object. |
 | override [GetHashCode](../../aspose.html/mimetype/gethashcode/)() | Returns a hash code for this instance. |
 | override [ToString](../../aspose.html/mimetype/tostring/)() | Returns a String that represents Mime type. |
-| [operator ==](../../aspose.html/mimetype/op_equality/) |  |
-| [implicit operator](../../aspose.html/mimetype/op_implicit/#op_implicit) |  (2 operators) |
-| [operator !=](../../aspose.html/mimetype/op_inequality/) |  |
+| [operator ==](../../aspose.html/mimetype/op_equality/) | Compares two Mime type and returns a boolean indicating if the two do match. |
+| [implicit operator](../../aspose.html/mimetype/op_implicit/#op_implicit) | Performs an implicit conversion from String to `MimeType`. (2 operators) |
+| [operator !=](../../aspose.html/mimetype/op_inequality/) | Compares two Mime type and returns a boolean indicating if the two do match. |
 
 ### See Also
 
