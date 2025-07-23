@@ -11,7 +11,14 @@ is_root: false
 ## owner_document property
 
 
-The Document object associated with this node. This is also the Document object used to create new nodes. When this node is a Document or a DocumentType which is not used with any Document yet, this is null.
+Returns the top-level document object of the node.
+
+### Remarks 
+
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-ownerdocument).
 ### Definition:
 ```python
 @property

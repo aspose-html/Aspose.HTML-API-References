@@ -10,13 +10,13 @@ is_root: false
 
 ## get_elements_by_tag_name {#str}
 
-Returns a NodeList of all descendant Elements with a given tag name, in document order.
+Returns [`HTMLCollection`](/html/python-net/aspose.html.collections/htmlcollection) object containing all [`Element`](/html/python-net/aspose.html.dom/element) with a given tag name, in document order.
 
 
 ### Returns 
 
 
-Returns attribute
+A live [`HTMLCollection`](/html/python-net/aspose.html.collections/htmlcollection) of found elements.
 
 
 ```python
@@ -27,11 +27,14 @@ def get_elements_by_tag_name(self, name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| name | str | The tag name. |
+| name | str | String representation of tag name. |
+### Remarks
 
+Refer to official [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbytagname).
 
 
 ### See Also
 * module [`aspose.html`](../../)
+* class [`Element`](/html/python-net/aspose.html.dom/element)
 * class [`HTMLCollection`](/html/python-net/aspose.html.collections/htmlcollection)
 * class [`HTMLHRElement`](/html/python-net/aspose.html/htmlhrelement)

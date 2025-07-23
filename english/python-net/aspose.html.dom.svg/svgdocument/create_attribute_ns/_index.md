@@ -10,7 +10,9 @@ is_root: false
 
 ## create_attribute_ns {#str-str}
 
-Creates an attribute of the given qualified name and namespace URI.
+This method creates a new attribute node, and returns it. 
+The object created is a node implementing the [`Attr`](/html/python-net/aspose.html.dom/attr) class. 
+The DOM does not enforce what sort of attributes can be added to a particular element in this manner.
 
 
 ### Returns 
@@ -27,8 +29,8 @@ def create_attribute_ns(self, namespace_uri, qualified_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| namespace_uri | str | The namespace URI. |
-| qualified_name | str | Name of the qualified. |
+| namespace_uri | str | The namespace URI of the attribute. |
+| qualified_name | str | is a string containing the name of the attribute. |
 
 
 

@@ -39,7 +39,7 @@ The SVGAngle type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/html/python-net/aspose.html.dom.svg.datatypes/svgangle/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html.dom.svg.datatypes/svgangle/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [new_value_specified_units](/html/python-net/aspose.html.dom.svg.datatypes/svgangle/new_value_specified_units/#int-float) | Reset the value as a number with an associated unitType, thereby replacing the values for all of the attributes on the object. |
 | [convert_to_specified_units](/html/python-net/aspose.html.dom.svg.datatypes/svgangle/convert_to_specified_units/#int) | Preserve the same underlying stored value, but reset the stored unit identifier to the given unitType. Object attributes unitType, valueInSpecifiedUnits and valueAsString might be modified as a result of this method. |
 

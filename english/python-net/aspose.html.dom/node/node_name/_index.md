@@ -11,7 +11,14 @@ is_root: false
 ## node_name property
 
 
-The name of this node, depending on its type.
+Returns the name of the current node as a string.
+
+### Remarks 
+
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-nodename).
 ### Definition:
 ```python
 @property

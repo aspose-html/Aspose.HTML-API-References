@@ -11,7 +11,14 @@ is_root: false
 ## node_value property
 
 
-The value of this node, depending on its type.
+Returns or sets the value of the current node.
+
+### Remarks 
+
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-nodevalue).
 ### Definition:
 ```python
 @property

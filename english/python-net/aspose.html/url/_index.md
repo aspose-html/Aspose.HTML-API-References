@@ -48,7 +48,7 @@ The Url type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/html/python-net/aspose.html/url/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html/url/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [to_json](/html/python-net/aspose.html/url/to_json/#) | Returns a String that represents this instance. |
 
 

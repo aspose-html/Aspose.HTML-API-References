@@ -32,7 +32,7 @@ The Counter type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/html/python-net/aspose.html.dom.css/counter/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html.dom.css/counter/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 
 
 

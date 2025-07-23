@@ -11,7 +11,14 @@ is_root: false
 ## prefix property
 
 
-The namespace prefix of this node, or null if it is unspecified. When it is defined to be null, setting it has no effect
+Returns the namespace prefix of the specified element, or null if no prefix is specified.
+
+### Remarks 
+
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-prefix).
 ### Definition:
 ```python
 @property

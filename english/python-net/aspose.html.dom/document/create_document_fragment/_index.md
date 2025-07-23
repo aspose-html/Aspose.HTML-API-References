@@ -10,7 +10,7 @@ is_root: false
 
 ## create_document_fragment {#}
 
-Creates an empty DocumentFragment object.
+Creates a new empty [`DocumentFragment`](/html/python-net/aspose.html.dom/documentfragment) into which DOM nodes can be added to build an offscreen DOM tree.
 
 
 ### Returns 

@@ -11,7 +11,17 @@ is_root: false
 ## first_child property
 
 
-The first child of this node. If there is no such node, this returns null.
+Returns the node's first child in the tree, or null if the node has no children.
+
+
+If the node is a Document, this property returns the first node in the list of its direct children.
+
+### Remarks 
+
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-firstchild).
 ### Definition:
 ```python
 @property

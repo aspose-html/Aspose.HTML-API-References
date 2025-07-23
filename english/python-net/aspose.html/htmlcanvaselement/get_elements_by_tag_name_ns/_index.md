@@ -10,13 +10,13 @@ is_root: false
 
 ## get_elements_by_tag_name_ns {#str-str}
 
-Returns a NodeList of all the descendant Elements with a given local name and namespace URI in document order.
+Returns [`HTMLCollection`](/html/python-net/aspose.html.collections/htmlcollection) object containing all [`Element`](/html/python-net/aspose.html.dom/element) with a given local name and namespace URI string in document order.
 
 
 ### Returns 
 
 
-Returns elements
+A live [`HTMLCollection`](/html/python-net/aspose.html.collections/htmlcollection) of found elements.
 
 
 ```python
@@ -27,12 +27,15 @@ def get_elements_by_tag_name_ns(self, namespace_uri, local_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| namespace_uri | str | The namespace URI. |
-| local_name | str | Name of the local. |
+| namespace_uri | str | The namespace URI string representation. |
+| local_name | str | String representation of local name. |
+### Remarks
 
+Refer to official [spec](https://dom.spec.whatwg.org/#dom-element-getelementsbytagnamens).
 
 
 ### See Also
 * module [`aspose.html`](../../)
+* class [`Element`](/html/python-net/aspose.html.dom/element)
 * class [`HTMLCanvasElement`](/html/python-net/aspose.html/htmlcanvaselement)
 * class [`HTMLCollection`](/html/python-net/aspose.html.collections/htmlcollection)

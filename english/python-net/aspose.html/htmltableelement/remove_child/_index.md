@@ -10,13 +10,13 @@ is_root: false
 
 ## remove_child {#aspose.html.dom.Node}
 
-Removes the child node indicated by oldChild from the list of children, and returns it.
+Removes a child node from the DOM and returns the removed node.
 
 
 ### Returns 
 
 
-Returns node
+Unlike [`Node.clone_node`](/html/python-net/aspose.html.dom/node/clone_node) the return value preserves the [`IEventListener`](/html/python-net/aspose.html.dom.events/ieventlistener) objects associated with it.
 
 
 ```python
@@ -27,11 +27,12 @@ def remove_child(self, child):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| child | aspose.html.dom.Node | The old child. |
+| child | aspose.html.dom.Node | A [`Node`](/html/python-net/aspose.html.dom/node) that is the child node to be removed from the DOM. |
 
 
 
 ### See Also
 * module [`aspose.html`](../../)
 * class [`HTMLTableElement`](/html/python-net/aspose.html/htmltableelement)
+* class [`IEventListener`](/html/python-net/aspose.html.dom.events/ieventlistener)
 * class [`Node`](/html/python-net/aspose.html.dom/node)

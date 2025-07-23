@@ -24,16 +24,16 @@ The RGBColor type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [red](/html/python-net/aspose.html.dom.css/rgbcolor/red) | This attribute is used for the red value of the RGB color. |
-| [green](/html/python-net/aspose.html.dom.css/rgbcolor/green) | This attribute is used for the green value of the RGB color. |
-| [blue](/html/python-net/aspose.html.dom.css/rgbcolor/blue) | This attribute is used for the blue value of the RGB color. |
-| [alpha](/html/python-net/aspose.html.dom.css/rgbcolor/alpha) | This attribute is used for the alpha value of the RGB color. |
+| [red](/html/python-net/aspose.html.dom.css/rgbcolor/red) | Gets the red component value of this Color class. |
+| [green](/html/python-net/aspose.html.dom.css/rgbcolor/green) | Gets the green component value of this Color class. |
+| [blue](/html/python-net/aspose.html.dom.css/rgbcolor/blue) | Gets the blue component value of this Color class. |
+| [alpha](/html/python-net/aspose.html.dom.css/rgbcolor/alpha) | Gets the alpha component value of this Color class. |
 
 
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/html/python-net/aspose.html.dom.css/rgbcolor/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html.dom.css/rgbcolor/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [to_native](/html/python-net/aspose.html.dom.css/rgbcolor/to_native/#) | Converts to the native color object. |
 
 

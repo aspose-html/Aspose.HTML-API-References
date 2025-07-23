@@ -36,7 +36,7 @@ The SVGPoint type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/html/python-net/aspose.html.dom.svg.datatypes/svgpoint/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html.dom.svg.datatypes/svgpoint/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [matrix_transform](/html/python-net/aspose.html.dom.svg.datatypes/svgpoint/matrix_transform/#aspose.html.dom.svg.datatypes.SVGMatrix) | Applies a 2x3 matrix transformation on this SVGPoint object and returns a new, transformed SVGPoint object:<br/>newpoint = matrix* thispoint |
 
 

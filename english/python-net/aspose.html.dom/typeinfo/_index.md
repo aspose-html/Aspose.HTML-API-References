@@ -35,7 +35,7 @@ The TypeInfo type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/html/python-net/aspose.html.dom/typeinfo/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html.dom/typeinfo/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [is_derived_from](/html/python-net/aspose.html.dom/typeinfo/is_derived_from/#str-str-int) | This method returns if there is a derivation between the reference type definition, i.e. the TypeInfo on which the method is being called, and the other type definition, i.e. the one passed as parameters. |
 
 

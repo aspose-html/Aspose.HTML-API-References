@@ -10,7 +10,12 @@ is_root: false
 
 ## add_event_listener {#str-aspose.html.dom.events.IEventListener}
 
-This method allows the registration of event listeners on the event target.
+Sets up a function that will be called whenever the specified event is delivered to the target.
+
+
+It works by adding a function, or an object that implements [`IEventListener`](/html/python-net/aspose.html.dom.events/ieventlistener),
+to the list of event listeners for the specified event type on the [`EventTarget`](/html/python-net/aspose.html.dom/eventtarget) on which it's called.
+If the function or object, is already in the list of event listeners for this target, they are not added a second time.
 
 
 
@@ -39,7 +44,12 @@ method.
 
 ## add_event_listener {#str-aspose.html.dom.events.IEventListener-bool}
 
-This method allows the registration of event listeners on the event target.
+Sets up a function that will be called whenever the specified event is delivered to the target.
+
+
+It works by adding a function, or an object that implements [`IEventListener`](/html/python-net/aspose.html.dom.events/ieventlistener),
+to the list of event listeners for the specified event type on the [`EventTarget`](/html/python-net/aspose.html.dom/eventtarget) on which it's called.
+If the function or object, is already in the list of event listeners for this target, they are not added a second time.
 
 
 

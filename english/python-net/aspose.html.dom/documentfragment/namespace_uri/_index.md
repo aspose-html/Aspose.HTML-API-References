@@ -11,7 +11,14 @@ is_root: false
 ## namespace_uri property
 
 
-The namespace URI of this node, or null if it is unspecified.
+Returns the namespace URI of the element, or null if the element is not in a namespace.
+
+### Remarks 
+
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-element-namespaceuri).
 ### Definition:
 ```python
 @property

@@ -25,7 +25,7 @@ The Configuration type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [security](/html/python-net/aspose.html/configuration/security) | Gets or sets the sandboxing flag of the configuration. |
+| [security](/html/python-net/aspose.html/configuration/security) | This property allows you to set a number of restrictions on the content loaded in the frame, for example, block forms and scripts.<br/>Refer to article about [sandboxing](https://docs.aspose.com/html/net/environment-configuration/#sandboxing). |
 
 
 ### Methods

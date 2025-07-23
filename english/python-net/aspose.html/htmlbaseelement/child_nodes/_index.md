@@ -11,7 +11,14 @@ is_root: false
 ## child_nodes property
 
 
-A NodeList that contains all children of this node. If there are no children, this is a NodeList containing no nodes..
+Returns a live [`NodeList`](/html/python-net/aspose.html.collections/nodelist) of child nodes of the given element where the first child node is assigned index 0. Child nodes include elements, text and comments.
+
+### Remarks 
+
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-childnodes).
 ### Definition:
 ```python
 @property

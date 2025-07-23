@@ -10,13 +10,15 @@ is_root: false
 
 ## create_attribute {#str}
 
-Creates an Attr of the given name.
+This method creates a new attribute node, and returns it. 
+The object created is a node implementing the [`Attr`](/html/python-net/aspose.html.dom/attr) class. 
+The DOM does not enforce what sort of attributes can be added to a particular element in this manner.
 
 
 ### Returns 
 
 
-The [`Attr`](/html/python-net/aspose.html.dom/attr).
+A [`Attr`](/html/python-net/aspose.html.dom/attr) node.
 
 
 ```python
@@ -27,7 +29,7 @@ def create_attribute(self, local_name):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| local_name | str | The attribute name. |
+| local_name | str | is a string containing the name of the attribute. |
 
 
 

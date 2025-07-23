@@ -10,13 +10,13 @@ is_root: false
 
 ## get_platform_type {#}
 
-This method is used to retrieve ECMAScript object Type.
+This method is used to retrieve the ECMAScript object Type.
 
 
 ### Returns 
 
 
-The ECMAScript object Type.
+The ECMAScript object.
 
 
 ```python

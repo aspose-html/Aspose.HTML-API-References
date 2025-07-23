@@ -11,7 +11,8 @@ is_root: false
 ## line_dash_pattern property
 
 
-Sets or gets the description of the dash pattern to be used when paths are stroked. Can be set to null or an empty array to be disabled.
+Sets or gets the description of the dash pattern to be used when paths are stroked.
+Can be set to null or an empty array to be disabled.
 ### Definition:
 ```python
 @property

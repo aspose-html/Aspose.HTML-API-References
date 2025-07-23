@@ -11,7 +11,14 @@ is_root: false
 ## previous_sibling property
 
 
-The node immediately preceding this node. If there is no such node, this returns null.
+Returns the node immediately preceding the specified one in its parent's [`Node.child_nodes`](/html/python-net/aspose.html.dom/node#child_nodes) list, or if the specified node is the first in that list.
+
+### Remarks 
+
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-previoussibling).
 ### Definition:
 ```python
 @property

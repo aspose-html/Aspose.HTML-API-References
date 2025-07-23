@@ -42,7 +42,7 @@ The SVGMatrix type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/html/python-net/aspose.html.dom.svg.datatypes/svgmatrix/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html.dom.svg.datatypes/svgmatrix/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [multiply](/html/python-net/aspose.html.dom.svg.datatypes/svgmatrix/multiply/#aspose.html.dom.svg.datatypes.SVGMatrix) | Performs matrix multiplication. This matrix is post-multiplied by another matrix, returning the resulting new matrix. |
 | [translate](/html/python-net/aspose.html.dom.svg.datatypes/svgmatrix/translate/#float-float) | Post-multiplies a translation transformation on the current matrix and returns the resulting matrix. |
 | [scale](/html/python-net/aspose.html.dom.svg.datatypes/svgmatrix/scale/#float) | Post-multiplies a uniform scale transformation on the current matrix and returns the resulting matrix. |
