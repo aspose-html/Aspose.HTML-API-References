@@ -19,9 +19,9 @@ public interface IXPathResult
 | Name | Description |
 | --- | --- |
 | [BooleanValue](../../aspose.html.dom.xpath/ixpathresult/booleanvalue/) { get; } | The value of this boolean result. |
-| [InvalidIteratorState](../../aspose.html.dom.xpath/ixpathresult/invaliditeratorstate/) { get; } | Signifies that the iterator has become invalid. True if `resultType`is `UnorderedNodeIterator` type or `OrderedNodeIterator` type and the document has been modified since this result was returned. |
+| [InvalidIteratorState](../../aspose.html.dom.xpath/ixpathresult/invaliditeratorstate/) { get; } | Signifies that the iterator has become invalid. True if `resultType` is `UnorderedNodeIterator` type or `OrderedNodeIterator` type and the document has been modified since this result was returned. |
 | [NumberValue](../../aspose.html.dom.xpath/ixpathresult/numbervalue/) { get; } | The value of this number result. |
-| [ResultType](../../aspose.html.dom.xpath/ixpathresult/resulttype/) { get; } | A code representing the type of this result, as defined by the http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult[`XPathResultType`](../xpathresulttype/) enum. |
+| [ResultType](../../aspose.html.dom.xpath/ixpathresult/resulttype/) { get; } | A code representing the type of this result, as defined by the http://www.w3.org/TR/DOM-Level-3-XPath/xpath.html#XPathResult [`XPathResultType`](../xpathresulttype/) enum. |
 | [SingleNodeValue](../../aspose.html.dom.xpath/ixpathresult/singlenodevalue/) { get; } | The value of this single node result, which may be `null`. |
 | [SnapshotLength](../../aspose.html.dom.xpath/ixpathresult/snapshotlength/) { get; } | The number of nodes in the result snapshot. Valid values for snapshotItem indices are `0` to `snapshotLength-1` inclusive. |
 | [StringValue](../../aspose.html.dom.xpath/ixpathresult/stringvalue/) { get; } | The value of this string result. |

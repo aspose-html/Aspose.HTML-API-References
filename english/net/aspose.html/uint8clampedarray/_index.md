@@ -38,7 +38,7 @@ public class Uint8ClampedArray : TypedArray<byte>
 
 | Name | Description |
 | --- | --- |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object Type. |
 
 ## Fields
 

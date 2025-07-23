@@ -23,8 +23,8 @@ public void NewValueSpecifiedUnits(ushort newUnitType, float valueInSpecifiedUni
 
 | exception | condition |
 | --- | --- |
-| [DOMException](../../../aspose.html.dom/domexception/) | Code [`NOT_SUPPORTED_ERR`](../../../aspose.html.dom/domexception/not_supported_err/)Raised if unitType is SVG_ANGLETYPE_UNKNOWN or not a valid unit type constant (one of the other SVG_ANGLETYPE_* constants defined on this interface). |
-| [DOMException](../../../aspose.html.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.html.dom/domexception/no_modification_allowed_err/)Raised when the angle corresponds to a read only attribute or when the object itself is read only. |
+| [DOMException](../../../aspose.html.dom/domexception/) | Code [`NOT_SUPPORTED_ERR`](../../../aspose.html.dom/domexception/not_supported_err/) Raised if unitType is SVG_ANGLETYPE_UNKNOWN or not a valid unit type constant (one of the other SVG_ANGLETYPE_* constants defined on this interface). |
+| [DOMException](../../../aspose.html.dom/domexception/) | Code [`NO_MODIFICATION_ALLOWED_ERR`](../../../aspose.html.dom/domexception/no_modification_allowed_err/) Raised when the angle corresponds to a read only attribute or when the object itself is read only. |
 
 ### See Also
 

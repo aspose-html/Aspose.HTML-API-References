@@ -18,7 +18,7 @@ public abstract class CSSValue : DOMObject
 
 | Name | Description |
 | --- | --- |
-| abstract [CSSText](../../aspose.html.dom.css/cssvalue/csstext/) { get; set; } | The cssText property of the `CSSValue` interface represents the current computed CSS property value. |
+| abstract [CSSText](../../aspose.html.dom.css/cssvalue/csstext/) { get; set; } | The CSSText property of the `CSSValue` interface represents the current computed CSS property value. |
 | [CSSValueType](../../aspose.html.dom.css/cssvalue/cssvaluetype/) { get; } | A code defining the type of the value. |
 
 ## Methods
@@ -29,8 +29,8 @@ public abstract class CSSValue : DOMObject
 | override [GetHashCode](../../aspose.html.dom.css/cssvalue/gethashcode/)() | Returns a hash code for this instance. |
 | override [GetPlatformType](../../aspose.html.dom.css/cssvalue/getplatformtype/)() | This method is used to retrieve ECMAScript object Type. |
 | override [ToString](../../aspose.html.dom.css/cssvalue/tostring/)() | Returns a String that represents this instance. |
-| [operator ==](../../aspose.html.dom.css/cssvalue/op_equality/) |  |
-| [operator !=](../../aspose.html.dom.css/cssvalue/op_inequality/) |  |
+| [operator ==](../../aspose.html.dom.css/cssvalue/op_equality/) | Implements the operator ==. |
+| [operator !=](../../aspose.html.dom.css/cssvalue/op_inequality/) | Implements the operator !=. |
 
 ## Fields
 

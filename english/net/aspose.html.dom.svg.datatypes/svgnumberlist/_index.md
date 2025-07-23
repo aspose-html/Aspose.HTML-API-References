@@ -31,7 +31,7 @@ public class SVGNumberList : SVGListBase<SVGNumber>
 | [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
 | [GetEnumerator](../../aspose.html.dom.svg.collections/svglistbase-1/getenumerator/)() |  |
 | [GetItem](../../aspose.html.dom.svg.collections/svglistbase-1/getitem/)(*ulong*) |  |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object Type. |
 | [Initialize](../../aspose.html.dom.svg.collections/svglistbase-1/initialize/)(*[SVGNumber](../svgnumber/)*) |  |
 | [InsertItemBefore](../../aspose.html.dom.svg.collections/svglistbase-1/insertitembefore/)(*[SVGNumber](../svgnumber/), ulong*) |  |
 | [RemoveItem](../../aspose.html.dom.svg.collections/svglistbase-1/removeitem/)(*ulong*) |  |

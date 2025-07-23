@@ -22,10 +22,10 @@ public sealed class UnitType : IEquatable<UnitType>
 | [Equals](../../aspose.html.drawing/unittype/equals/#equals)(*UnitType*) | Determines whether the specified `UnitType`, is equal to this instance. |
 | override [GetHashCode](../../aspose.html.drawing/unittype/gethashcode/)() | Returns a hash code for this instance. |
 | override [ToString](../../aspose.html.drawing/unittype/tostring/)() | Returns a String that represents this instance. |
-| [operator ==](../../aspose.html.drawing/unittype/op_equality/) |  |
-| [explicit operator](../../aspose.html.drawing/unittype/op_explicit/) |  |
-| [implicit operator](../../aspose.html.drawing/unittype/op_implicit/) |  |
-| [operator !=](../../aspose.html.drawing/unittype/op_inequality/) |  |
+| [operator ==](../../aspose.html.drawing/unittype/op_equality/) | Determines whether the two specified `UnitType` values are equal. |
+| [explicit operator](../../aspose.html.drawing/unittype/op_explicit/) | Performs an explicit conversion from `UnitType` to String. |
+| [implicit operator](../../aspose.html.drawing/unittype/op_implicit/) | Performs an implicit conversion from String to `UnitType`. |
+| [operator !=](../../aspose.html.drawing/unittype/op_inequality/) | Determines whether the two specified `UnitType` values are not equal. |
 
 ## Fields
 

@@ -31,14 +31,14 @@ public sealed class Frequency : Dimension
 | [GetValue](../../aspose.html.drawing/numeric/getvalue/)() | Gets the unit value. |
 | [GetValue](../../aspose.html.drawing/numeric/getvalue/)(*[UnitType](../unittype/)*) | Gets the value converted to the specified [`UnitType`](../unittype/). |
 | override [ToString](../../aspose.html.drawing/dimension/tostring/)() | Returns a String that represents this instance. |
-| [operator +](../../aspose.html.drawing/frequency/op_addition/) |  |
-| [operator ==](../../aspose.html.drawing/frequency/op_equality/) |  |
-| [operator >](../../aspose.html.drawing/frequency/op_greaterthan/) |  |
-| [operator >=](../../aspose.html.drawing/frequency/op_greaterthanorequal/) |  |
-| [operator !=](../../aspose.html.drawing/frequency/op_inequality/) |  |
-| [operator <](../../aspose.html.drawing/frequency/op_lessthan/) |  |
-| [operator <=](../../aspose.html.drawing/frequency/op_lessthanorequal/) |  |
-| [operator -](../../aspose.html.drawing/frequency/op_subtraction/) |  |
+| [operator +](../../aspose.html.drawing/frequency/op_addition/) | Implements the operator +. |
+| [operator ==](../../aspose.html.drawing/frequency/op_equality/) | Implements the operator ==. |
+| [operator >](../../aspose.html.drawing/frequency/op_greaterthan/) | Implements the operator &gt;. |
+| [operator >=](../../aspose.html.drawing/frequency/op_greaterthanorequal/) | Implements the operator &gt;=. |
+| [operator !=](../../aspose.html.drawing/frequency/op_inequality/) | Implements the operator !=. |
+| [operator <](../../aspose.html.drawing/frequency/op_lessthan/) | Implements the operator &lt;. |
+| [operator <=](../../aspose.html.drawing/frequency/op_lessthanorequal/) | Implements the operator &lt;=. |
+| [operator -](../../aspose.html.drawing/frequency/op_subtraction/) | Implements the operator -. |
 
 ### See Also
 

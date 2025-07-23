@@ -21,7 +21,7 @@ The **Aspose.Html.Rendering** namespace consists of numerous renderer objects as
 | [MhtmlRenderer](./mhtmlrenderer/) | Represents a MHTML document renderer. |
 | [PageSetup](./pagesetup/) | Represents a page setup object is used for configuration output page-set. |
 | [Renderer](./renderer/) | Represents a base class for all renderers and implemnts IDisposable interface. |
-| [Renderer<TSource>](./renderer-1/) | Represents an abstract class for the all renderers. |
+| [Renderer<TSource>](./renderer-1/) | The base abstract class for all renderers. |
 | [RenderingOptions](./renderingoptions/) | Represents rendering options. |
 | [SvgRenderer](./svgrenderer/) | Represents SVG document renderer. |
 | [TextInfo](./textinfo/) | Contains information about rendered text. |

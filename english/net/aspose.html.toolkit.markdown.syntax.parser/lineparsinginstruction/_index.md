@@ -31,8 +31,8 @@ public struct LineParsingInstruction : IEquatable<LineParsingInstruction>
 | [GetTabsReservation](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/gettabsreservation/)() | Defines the interface for get TabsReservation |
 | [WithContentIndentation](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/withcontentindentation/)(*int*) | Defines the interface for get LineParsingInstruction |
 | [WithTabsReservation](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/withtabsreservation/)(*int*) | Defines the interface for WithTabsReservation |
-| [operator ==](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/op_equality/) |  |
-| [operator !=](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/op_inequality/) |  |
+| [operator ==](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/op_equality/) | Overrides the == operator. |
+| [operator !=](../../aspose.html.toolkit.markdown.syntax.parser/lineparsinginstruction/op_inequality/) | Overrides the != operator. |
 
 ## Fields
 

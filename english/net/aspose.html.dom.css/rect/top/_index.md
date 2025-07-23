@@ -14,10 +14,6 @@ This attribute is used for the top of the rect.
 public CSSPrimitiveValue Top { get; }
 ```
 
-### Property Value
-
-The y-axis position of the top of the rectangle.
-
 ### See Also
 
 * class [CSSPrimitiveValue](../../cssprimitivevalue/)

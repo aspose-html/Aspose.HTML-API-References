@@ -1,14 +1,14 @@
 ---
 title: Event.InitEvent
 second_title: Aspose.HTML for .NET API Reference
-description: Event InitEvent method. The InitEvent method is used to initialize the value of an Event created through theIDocumentEvent interface
+description: Event InitEvent method. The InitEvent method is used to initialize the value of an Event created through the IDocumentEvent interface
 type: docs
 weight: 110
 url: /net/aspose.html.dom.events/event/initevent/
 ---
 ## Event.InitEvent method
 
-The `InitEvent` method is used to initialize the value of an [`Event`](../) created through the[`IDocumentEvent`](../../idocumentevent/) interface.
+The `InitEvent` method is used to initialize the value of an [`Event`](../) created through the [`IDocumentEvent`](../../idocumentevent/) interface.
 
 ```csharp
 public void InitEvent(string type, bool bubbles, bool cancelable)

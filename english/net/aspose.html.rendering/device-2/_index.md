@@ -62,7 +62,7 @@ public abstract class Device<TGraphicContext, TRenderingOptions> : Device, IDevi
 
 | Name | Description |
 | --- | --- |
-| class [DeviceConfiguration<TGraphicContext,TRenderingOptions>](../../aspose.html.rendering/device-2.deviceconfiguration-2) |  |
+| class [DeviceConfiguration<TGraphicContext,TRenderingOptions>](../../aspose.html.rendering/device-2.deviceconfiguration-2) | Represents configuration object for devices. |
 | enum [PageWritingStrategy<TGraphicContext,TRenderingOptions>](../../aspose.html.rendering/device-2.pagewritingstrategy-2) | Specifies types of strategies for writing pages into output stream\streams. |
 
 ### See Also

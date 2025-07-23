@@ -27,7 +27,7 @@ public class NamedNodeMap : DOMObject
 | --- | --- |
 | [GetNamedItem](../../aspose.html.collections/namednodemap/getnameditem/)(*string*) | Retrieves a node specified by name. |
 | [GetNamedItemNS](../../aspose.html.collections/namednodemap/getnameditemns/)(*string, string*) | Retrieves a node specified by local name and namespace URI. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object Type. |
 | [RemoveNamedItem](../../aspose.html.collections/namednodemap/removenameditem/)(*string*) | Removes a node specified by name. |
 | [RemoveNamedItemNS](../../aspose.html.collections/namednodemap/removenameditemns/)(*string, string*) | Removes a node specified by local name and namespace URI. |
 | [SetNamedItem](../../aspose.html.collections/namednodemap/setnameditem/)(*[Attr](../../aspose.html.dom/attr/)*) | Adds a node using its nodeName attribute. If a node with that name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |

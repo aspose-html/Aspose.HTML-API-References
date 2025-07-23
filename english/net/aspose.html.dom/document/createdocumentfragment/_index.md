@@ -18,12 +18,6 @@ public DocumentFragment CreateDocumentFragment()
 
 The [`DocumentFragment`](../../documentfragment/).
 
-## Examples
-
-```csharp
-var fragment = document.CreateDocumentFragment();
-```
-
 ### See Also
 
 * class [DocumentFragment](../../documentfragment/)

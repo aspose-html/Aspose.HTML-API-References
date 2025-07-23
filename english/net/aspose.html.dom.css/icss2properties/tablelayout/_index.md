@@ -1,16 +1,14 @@
 ---
 title: ICSS2Properties.TableLayout
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties TableLayout property. The table-layout property controls the algorithm used to lay out the table cells rows and columns. Values have the following meaning
+description: ICSS2Properties TableLayout property. See the table-layout property definition in CSS2
 type: docs
 weight: 1060
 url: /net/aspose.html.dom.css/icss2properties/tablelayout/
 ---
 ## ICSS2Properties.TableLayout property
 
-The ['table-layout'](https://www.w3.org/TR/1998/REC-CSS2-19980512/tables.html#propdef-table-layout) property controls the algorithm used to lay out the table cells, rows, and columns. Values have the following meaning:
-
-fixed - Use the fixed table layout algorithmauto - Use any automatic table layout algorithm
+See the table-layout property definition in CSS2.
 
 ```csharp
 public string TableLayout { get; set; }

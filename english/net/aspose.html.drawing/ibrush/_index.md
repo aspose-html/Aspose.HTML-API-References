@@ -18,7 +18,7 @@ public interface IBrush : IDisposable
 
 | Name | Description |
 | --- | --- |
-| [Type](../../aspose.html.drawing/ibrush/type/) { get; } | Get type of brush; |
+| [Type](../../aspose.html.drawing/ibrush/type/) { get; } | Gets type of brush as [`BrushType`](../brushtype/). |
 
 ### See Also
 

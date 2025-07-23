@@ -70,8 +70,8 @@ public class ImageDevice : Device<ImageGraphicContext, ImageRenderingOptions>
 
 ### See Also
 
-* class [ImageGraphicContext](../imagedevice.imagegraphiccontext/)
 * class [Device&lt;TGraphicContext,TRenderingOptions&gt;](../../aspose.html.rendering/device-2/)
+* class [ImageGraphicContext](../imagedevice.imagegraphiccontext/)
 * class [ImageRenderingOptions](../imagerenderingoptions/)
 * namespace [Aspose.Html.Rendering.Image](../../aspose.html.rendering.image/)
 * assembly [Aspose.HTML](../../)

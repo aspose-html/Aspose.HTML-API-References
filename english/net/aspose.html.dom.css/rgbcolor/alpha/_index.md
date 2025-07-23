@@ -1,14 +1,14 @@
 ---
 title: RGBColor.Alpha
 second_title: Aspose.HTML for .NET API Reference
-description: RGBColor Alpha property. Gets the alpha component value of this Color structure
+description: RGBColor Alpha property. Gets the alpha component value of this Color class
 type: docs
 weight: 10
 url: /net/aspose.html.dom.css/rgbcolor/alpha/
 ---
 ## RGBColor.Alpha property
 
-Gets the alpha component value of this Color structure.
+Gets the alpha component value of this Color class.
 
 ```csharp
 public CSSPrimitiveValue Alpha { get; }

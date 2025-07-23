@@ -18,15 +18,15 @@ public interface ICSSMediaRule : ICSSRule
 
 | Name | Description |
 | --- | --- |
-| [CSSRules](../../aspose.html.dom.css/icssmediarule/cssrules/) { get; } | The cssRules property of the CSSGroupingRule interface returns a [`CSSRuleList`](../icssrulelist/) containing a collection of [`CSSRule`](../icssrule/) objects. |
-| [Media](../../aspose.html.dom.css/icssmediarule/media/) { get; } | The read-only media property of the `CSSMediaRule` interface MediaList represents the intended destination medium for style information. |
+| [CSSRules](../../aspose.html.dom.css/icssmediarule/cssrules/) { get; } | A list of all CSS rules contained within the media block. |
+| [Media](../../aspose.html.dom.css/icssmediarule/media/) { get; } | A list of media types for this rule. |
 
 ## Methods
 
 | Name | Description |
 | --- | --- |
-| [DeleteRule](../../aspose.html.dom.css/icssmediarule/deleterule/)(*long*) | The deleteRule() method of the CSSGroupingRule interface removes a CSS rule from a list of child CSS rules. |
-| [InsertRule](../../aspose.html.dom.css/icssmediarule/insertrule/)(*string, long*) | The insertRule() method of the CSSGroupingRule interface adds a new CSS rule to a list of CSS rules. |
+| [DeleteRule](../../aspose.html.dom.css/icssmediarule/deleterule/)(*long*) | Used to delete a rule from the media block. |
+| [InsertRule](../../aspose.html.dom.css/icssmediarule/insertrule/)(*string, long*) | Used to insert a new rule into the media block. |
 
 ### See Also
 

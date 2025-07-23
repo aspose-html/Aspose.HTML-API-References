@@ -27,8 +27,8 @@ public struct InlineParsingInstruction : IEquatable<InlineParsingInstruction>
 | [Equals](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/equals/#equals)(*InlineParsingInstruction*) | Compare two InlineParsingInstruction. |
 | override [Equals](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/equals/#equals_1)(*object*) | Overrides the Equals method. |
 | override [GetHashCode](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/gethashcode/)() | Defines the GetHashCode |
-| [operator ==](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/op_equality/) |  |
-| [operator !=](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/op_inequality/) |  |
+| [operator ==](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/op_equality/) | Overrides the == operator. |
+| [operator !=](../../aspose.html.toolkit.markdown.syntax.parser/inlineparsinginstruction/op_inequality/) | Overrides the != operator |
 
 ## Fields
 

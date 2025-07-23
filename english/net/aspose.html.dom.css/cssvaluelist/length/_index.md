@@ -16,7 +16,7 @@ public int Length { get; }
 
 ### Property Value
 
-An unsigned long representing the number of CSSValues in the current instance.
+An int representing the number of CSSValues in the current instance.
 
 ### See Also
 

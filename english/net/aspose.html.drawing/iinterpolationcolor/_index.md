@@ -18,8 +18,8 @@ public interface IInterpolationColor
 
 | Name | Description |
 | --- | --- |
-| [Color](../../aspose.html.drawing/iinterpolationcolor/color/) { get; set; } | Get the color that represents the colors to use at corresponding positions along a gradient. |
-| [Position](../../aspose.html.drawing/iinterpolationcolor/position/) { get; set; } | Gets the color position. |
+| [Color](../../aspose.html.drawing/iinterpolationcolor/color/) { get; set; } | Get or sets the color that represents the colors to use at corresponding positions along a gradient. |
+| [Position](../../aspose.html.drawing/iinterpolationcolor/position/) { get; set; } | Gets or sets the color position. |
 
 ### See Also
 

@@ -28,9 +28,16 @@ public FocusEvent(string type)
 
 ## FocusEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
+Initializes a new instance of the [`FocusEvent`](../) class.
+
 ```csharp
 public FocusEvent(string type, IDictionary<string, object> eventInitDict)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | String | The event type. |
+| eventInitDict | IDictionary`2 | The event initialize dictionary. |
 
 ### See Also
 

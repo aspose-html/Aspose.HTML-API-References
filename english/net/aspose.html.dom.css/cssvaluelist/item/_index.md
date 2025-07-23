@@ -1,28 +1,26 @@
 ---
 title: CSSValueList.Item
 second_title: Aspose.HTML for .NET API Reference
-description: CSSValueList Item property. The item method of the CSSValueList interface is used to retrieve a CSSValue by ordinal index
+description: CSSValueList Item property. Gets the CSSValue at the specified index
 type: docs
 weight: 30
 url: /net/aspose.html.dom.css/cssvaluelist/item/
 ---
 ## CSSValueList indexer
 
-The item() method of the CSSValueList interface is used to retrieve a CSSValue by ordinal index.
-
-The order in this collection represents the order of the values in the CSS style property. If the index is greater than or equal to the number of values in the list, this method returns null.
+Gets the [`CSSValue`](../../cssvalue/) at the specified index.
 
 ```csharp
 public CSSValue this[int index] { get; }
 ```
 
-### Return Value
-
-A CSSValue object at the index position in the CSSValueList, or null if that is not a valid index.
+| Parameter | Description |
+| --- | --- |
+| index | The index. |
 
 ### Property Value
 
-An unsigned long representing the index of the CSS value within the collection.
+The [`CSSValue`](../../cssvalue/).
 
 ### See Also
 

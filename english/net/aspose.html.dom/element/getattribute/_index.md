@@ -16,7 +16,7 @@ public string GetAttribute(string qualifiedName)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | String | The name of the attribute to retrieve. |
+| qualifiedName | String | The name of the attribute to retrieve. |
 
 ### Return Value
 

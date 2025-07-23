@@ -1,14 +1,14 @@
 ---
 title: ICSS2Properties.OutlineStyle
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties OutlineStyle property. The outline created with the outline properties is drawn over a box i.e. the outline is always on top and doesnt influence the position or size of the box or of any other boxes. Therefore displaying or suppressing outlines does not cause reflow
+description: ICSS2Properties OutlineStyle property. See the outline-style property definition in CSS2
 type: docs
 weight: 770
 url: /net/aspose.html.dom.css/icss2properties/outlinestyle/
 ---
 ## ICSS2Properties.OutlineStyle property
 
-The outline created with the outline properties is drawn "over" a box, i.e., the outline is always on top, and doesn't influence the position or size of the box, or of any other boxes. Therefore, displaying or suppressing outlines does not cause reflow.
+See the outline-style property definition in CSS2.
 
 ```csharp
 public string OutlineStyle { get; set; }

@@ -1,16 +1,34 @@
 ---
 title: Resolution.op_LessThan
 second_title: Aspose.HTML for .NET API Reference
-description: Resolution op_LessThan method. 
+description: Resolution op_LessThan method. Implements the operator 
 type: docs
 weight: 70
 url: /net/aspose.html.drawing/resolution/op_lessthan/
 ---
 ## Resolution LessThan operator
 
+Implements the operator &lt;.
+
 ```csharp
 public static bool operator <(Resolution a, Resolution b)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| a | Resolution | The parameter a. |
+| b | Resolution | The parameter b. |
+
+### Return Value
+
+The result of the operator.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentException | Arguments have different types |
+| ArgumentNullException | An argument is null |
 
 ### See Also
 

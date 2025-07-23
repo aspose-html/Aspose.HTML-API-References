@@ -31,14 +31,14 @@ public sealed class Length : Dimension
 | [GetValue](../../aspose.html.drawing/numeric/getvalue/)() | Gets the unit value. |
 | [GetValue](../../aspose.html.drawing/numeric/getvalue/)(*[UnitType](../unittype/)*) | Gets the value converted to the specified [`UnitType`](../unittype/). |
 | override [ToString](../../aspose.html.drawing/dimension/tostring/)() | Returns a String that represents this instance. |
-| [operator +](../../aspose.html.drawing/length/op_addition/) |  |
-| [operator ==](../../aspose.html.drawing/length/op_equality/) |  |
-| [operator >](../../aspose.html.drawing/length/op_greaterthan/) |  |
-| [operator >=](../../aspose.html.drawing/length/op_greaterthanorequal/) |  |
-| [operator !=](../../aspose.html.drawing/length/op_inequality/) |  |
-| [operator <](../../aspose.html.drawing/length/op_lessthan/) |  |
-| [operator <=](../../aspose.html.drawing/length/op_lessthanorequal/) |  |
-| [operator -](../../aspose.html.drawing/length/op_subtraction/) |  |
+| [operator +](../../aspose.html.drawing/length/op_addition/) | Implements the operator +. |
+| [operator ==](../../aspose.html.drawing/length/op_equality/) | Implements the operator ==. |
+| [operator >](../../aspose.html.drawing/length/op_greaterthan/) | Implements the operator &gt;. |
+| [operator >=](../../aspose.html.drawing/length/op_greaterthanorequal/) | Implements the operator &gt;=. |
+| [operator !=](../../aspose.html.drawing/length/op_inequality/) | Implements the operator !=. |
+| [operator <](../../aspose.html.drawing/length/op_lessthan/) | Implements the operator &lt;. |
+| [operator <=](../../aspose.html.drawing/length/op_lessthanorequal/) | Implements the operator &lt;=. |
+| [operator -](../../aspose.html.drawing/length/op_subtraction/) | Implements the operator -. |
 
 ### See Also
 

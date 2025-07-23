@@ -1,22 +1,18 @@
 ---
 title: ICSSMarginRule.Style
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSMarginRule Style property. The style attribute must return a CSSStyleDeclaration object for the margin at-rule
+description: ICSSMarginRule Style property. The declaration-block of this rule
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/icssmarginrule/style/
 ---
 ## ICSSMarginRule.Style property
 
-The style attribute must return a [`CSSStyleDeclaration`](../../icssstyledeclaration/) object for the margin at-rule.
+The declaration-block of this rule.
 
 ```csharp
 public ICSSStyleDeclaration Style { get; }
 ```
-
-### Property Value
-
-Returns a [`CSSStyleDeclaration`](../../icssstyledeclaration/) object for the current margin at-rule.
 
 ### See Also
 

@@ -1,14 +1,14 @@
 ---
 title: Node.IsEqualNode
 second_title: Aspose.HTML for .NET API Reference
-description: Node IsEqualNode method. The isEqualNode method of the Node interface tests whether two nodes are equal. Two nodes are equal when they have the same type defining characteristics for elements this would be their ID number of children and so forth its attributes match and so on. The specific set of data points that must match varies depending on the types of the nodes
+description: Node IsEqualNode method. Tests whether two nodes are equal. This method tests for equality of nodes not sameness i.e. whether the two nodes are references to the same object which can be tested with Node.isSameNode. All nodes that are the same will also be equal though the reverse may not be true
 type: docs
 weight: 220
 url: /net/aspose.html.dom/node/isequalnode/
 ---
 ## Node.IsEqualNode method
 
-The isEqualNode() method of the [`Node`](../) interface tests whether two nodes are equal. Two nodes are equal when they have the same type, defining characteristics (for elements, this would be their ID, number of children, and so forth), its attributes match, and so on. The specific set of data points that must match varies depending on the types of the nodes.
+Tests whether two nodes are equal. This method tests for equality of nodes, not sameness (i.e., whether the two nodes are references to the same object) which can be tested with Node.isSameNode(). All nodes that are the same will also be equal, though the reverse may not be true.
 
 ```csharp
 public bool IsEqualNode(Node otherNode)
@@ -16,11 +16,11 @@ public bool IsEqualNode(Node otherNode)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| otherNode | Node | The [`Node`](../) to compare equality with. |
+| otherNode | Node | The other node. |
 
 ### Return Value
 
-A boolean value that is true if the two nodes are equals, or false if not. If otherNode is null, isEqualNode() always return false.
+`true` if [is equal node] [the specified arg]; otherwise, `false`.
 
 ### See Also
 

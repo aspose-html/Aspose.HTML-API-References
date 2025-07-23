@@ -1,14 +1,14 @@
 ---
 title: SvgRenderer.Render
 second_title: Aspose.HTML for .NET API Reference
-description: SvgRenderer Render method. Defines method for rendering multiple SVGDocuments into specific IDevice. The rendering will be performed once there are no any network operations for loading resources active timers animation tasks or specified timeout is elapsed
+description: SvgRenderer Render method. Defines method for rendering multiple SVGDocuments into specific IDevice
 type: docs
 weight: 20
 url: /net/aspose.html.rendering/svgrenderer/render/
 ---
 ## Render(*[IDevice](../../idevice/), TimeSpan, params SVGDocument[]*) {#render_6}
 
-Defines method for rendering multiple [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/)s into specific [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+Defines method for rendering multiple [`SVGDocument`](../../../aspose.html.dom.svg/svgdocument/)s into specific [`IDevice`](../../idevice/).
 
 ```csharp
 public override void Render(IDevice device, TimeSpan timeout, params SVGDocument[] sources)
@@ -18,7 +18,7 @@ public override void Render(IDevice device, TimeSpan timeout, params SVGDocument
 | --- | --- | --- |
 | device | IDevice | The output device. |
 | timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
-| documents | SVGDocument[] | The documents to render. |
+| sources | SVGDocument[] | The SVG documents to render. |
 
 ### See Also
 

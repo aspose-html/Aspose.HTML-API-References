@@ -35,12 +35,12 @@ The **Aspose.Html.Drawing** namespace contains objects and interfaces to specify
 | [IDrawingFactory](./idrawingfactory/) | Represents a factory for creating drawing-related objects. |
 | [IGradientBrush](./igradientbrush/) | Declare methods for getting common properties of gradient brushes. |
 | [IInterpolationColor](./iinterpolationcolor/) | Desclares methods for getting interpolation color. |
-| [ILinearGradientBrush](./ilineargradientbrush/) | Defines brush interface with a linear gradient. |
+| [ILinearGradientBrush](./ilineargradientbrush/) | Defines an interface for a brush with a linear gradient. |
 | [IMatrix](./imatrix/) | Represents a matrix used for transformations. |
 | [ISolidBrush](./isolidbrush/) | Defines brush interface of a single color |
 | [ITextureBrush](./itexturebrush/) | Defines brush interface that uses an image to fill the interior of a shape. |
 | [ITransformableBrush](./itransformablebrush/) | Desclares methods for getting transformation matrix and wrap mode. |
-| [ITrueTypeFont](./itruetypefont/) | Declares methods for working with TrueType font. |
+| [ITrueTypeFont](./itruetypefont/) | Declares methods for working with TrueType fonts. |
 ## Enumeration
 
 | Enumeration | Description |

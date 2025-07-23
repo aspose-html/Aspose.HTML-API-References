@@ -28,7 +28,7 @@ public class SVGRect : SVGValueType
 | Name | Description |
 | --- | --- |
 | [Dispose](../../aspose.html.dom.svg.datatypes/svgvaluetype/dispose/)() | Releases unmanaged and - optionally - managed resources. |
-| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object . |
+| virtual [GetPlatformType](../../aspose.html.dom/domobject/getplatformtype/)() | This method is used to retrieve the ECMAScript object Type. |
 | override [ToString](../../aspose.html.dom.svg.datatypes/svgrect/tostring/)() | Returns a String that represents this instance. |
 
 ### See Also

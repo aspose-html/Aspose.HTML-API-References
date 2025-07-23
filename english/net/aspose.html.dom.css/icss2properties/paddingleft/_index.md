@@ -1,14 +1,14 @@
 ---
 title: ICSS2Properties.PaddingLeft
 second_title: Aspose.HTML for .NET API Reference
-description: ICSS2Properties PaddingLeft property. These properties set the top right bottom and left padding of a box
+description: ICSS2Properties PaddingLeft property. See the padding-left property definition in CSS2
 type: docs
 weight: 820
 url: /net/aspose.html.dom.css/icss2properties/paddingleft/
 ---
 ## ICSS2Properties.PaddingLeft property
 
-These properties set the top, right, bottom, and left padding of a box.
+See the padding-left property definition in CSS2.
 
 ```csharp
 public string PaddingLeft { get; set; }

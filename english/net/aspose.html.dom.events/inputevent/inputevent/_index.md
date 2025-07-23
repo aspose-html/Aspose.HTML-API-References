@@ -28,9 +28,16 @@ public InputEvent(string type)
 
 ## InputEvent(*string, IDictionary&lt;string, object&gt;*) {#constructor_1}
 
+Initializes a new instance of the [`InputEvent`](../) class.
+
 ```csharp
 public InputEvent(string type, IDictionary<string, object> eventInitDict)
 ```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| type | String | The event type. |
+| eventInitDict | IDictionary`2 | The event initialize dictionary. |
 
 ### See Also
 

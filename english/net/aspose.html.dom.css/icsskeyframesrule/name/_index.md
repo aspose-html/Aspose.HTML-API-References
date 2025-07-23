@@ -1,14 +1,14 @@
 ---
 title: ICSSKeyframesRule.Name
 second_title: Aspose.HTML for .NET API Reference
-description: ICSSKeyframesRule Name property. The name property of the CSSKeyframeRule interface gets and sets the name of the animation as used by the animation-name property
+description: ICSSKeyframesRule Name property. This attribute is the name of the keyframes used by the animation-name property
 type: docs
 weight: 20
 url: /net/aspose.html.dom.css/icsskeyframesrule/name/
 ---
 ## ICSSKeyframesRule.Name property
 
-The name property of the [`CSSKeyframeRule`](../../icsskeyframerule/) interface gets and sets the name of the animation as used by the animation-name property.
+This attribute is the name of the keyframes, used by the ‘animation-name’ property.
 
 ```csharp
 public string Name { get; }
@@ -16,7 +16,7 @@ public string Name { get; }
 
 ### Property Value
 
-Gets the name of the animation as used by the animation-name property.
+The name.
 
 ### See Also
 
