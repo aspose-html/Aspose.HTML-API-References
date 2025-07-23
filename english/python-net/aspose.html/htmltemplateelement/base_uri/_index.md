@@ -11,7 +11,18 @@ is_root: false
 ## base_uri property
 
 
-The absolute base URI of this node or null if the implementation wasn't able to obtain an absolute URI.
+Returns the absolute base URL of the document containing the node.
+
+
+The base URL is used to resolve relative URLs when the browser needs to obtain an absolute URL, 
+for example when processing the HTML img element's src attribute or the xlink:href or href attributes in SVG.
+
+### Remarks 
+
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-baseuri).
 ### Definition:
 ```python
 @property

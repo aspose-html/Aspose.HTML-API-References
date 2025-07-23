@@ -38,7 +38,7 @@ The SVGLengthList type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/html/python-net/aspose.html.dom.svg.datatypes/svglengthlist/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html.dom.svg.datatypes/svglengthlist/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [clear](/html/python-net/aspose.html.dom.svg.datatypes/svglengthlist/clear/#) |  |
 | [initialize](/html/python-net/aspose.html.dom.svg.datatypes/svglengthlist/initialize/#aspose.html.dom.svg.datatypes.SVGLength) |  |
 | [get_item](/html/python-net/aspose.html.dom.svg.datatypes/svglengthlist/get_item/#int) |  |

@@ -38,7 +38,7 @@ The SVGPointList type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/html/python-net/aspose.html.dom.svg.datatypes/svgpointlist/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html.dom.svg.datatypes/svgpointlist/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [clear](/html/python-net/aspose.html.dom.svg.datatypes/svgpointlist/clear/#) |  |
 | [initialize](/html/python-net/aspose.html.dom.svg.datatypes/svgpointlist/initialize/#aspose.html.dom.svg.datatypes.SVGPoint) |  |
 | [get_item](/html/python-net/aspose.html.dom.svg.datatypes/svgpointlist/get_item/#int) |  |

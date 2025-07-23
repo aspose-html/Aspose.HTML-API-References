@@ -39,7 +39,7 @@ The DOMTokenList type exposes the following members:
 | :- | :- |
 | [toggle](/html/python-net/aspose.html.collections/domtokenlist/toggle/#str) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
 | [toggle](/html/python-net/aspose.html.collections/domtokenlist/toggle/#str-bool) | Removes the token from the list if it exists, or adds the token to the list if it doesn't. |
-| [get_platform_type](/html/python-net/aspose.html.collections/domtokenlist/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html.collections/domtokenlist/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [contains](/html/python-net/aspose.html.collections/domtokenlist/contains/#str) | Returns true if the list contains the given token, otherwise false. |
 | [add](/html/python-net/aspose.html.collections/domtokenlist/add/#list) | Adds the specified token(s) to the list. |
 | [remove](/html/python-net/aspose.html.collections/domtokenlist/remove/#list) | Removes the specified token(s) from the list. |

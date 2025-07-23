@@ -40,7 +40,7 @@ The SVGTransform type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/html/python-net/aspose.html.dom.svg.datatypes/svgtransform/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html.dom.svg.datatypes/svgtransform/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [set_matrix](/html/python-net/aspose.html.dom.svg.datatypes/svgtransform/set_matrix/#aspose.html.dom.svg.datatypes.SVGMatrix) | Sets the transform type to SVG_TRANSFORM_MATRIX, with parameter matrix defining the new transformation. The values from the parameter matrix are copied, the matrix parameter does not replace SVGTransform::matrix. |
 | [set_translate](/html/python-net/aspose.html.dom.svg.datatypes/svgtransform/set_translate/#float-float) | Sets the transform type to SVG_TRANSFORM_TRANSLATE, with parameters tx and ty defining the translation amounts. |
 | [set_scale](/html/python-net/aspose.html.dom.svg.datatypes/svgtransform/set_scale/#float-float) | Sets the transform type to SVG_TRANSFORM_SCALE, with parameters sx and sy defining the scale amounts. |

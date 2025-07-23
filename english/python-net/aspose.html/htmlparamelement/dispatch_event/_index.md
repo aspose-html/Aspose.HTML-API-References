@@ -10,7 +10,10 @@ is_root: false
 
 ## dispatch_event {#aspose.html.dom.events.Event}
 
-This method allows the dispatch of events into the implementations event model.
+Dispatches an Event at the specified [`IEventTarget`](/html/python-net/aspose.html.dom.events/ieventtarget), (synchronously) invoking
+the affected EventListeners in the appropriate order. 
+The normal event processing rules (including the capturing and optional bubbling phase) also apply to events 
+dispatched manually with [`IEventTarget.dispatch_event`](/html/python-net/aspose.html.dom.events/ieventtarget/dispatch_event).
 
 
 ### Returns 
@@ -46,3 +49,4 @@ The target of the event is the [`EventTarget`](/html/python-net/aspose.html.dom/
 * class [`DOMException`](/html/python-net/aspose.html.dom/domexception)
 * class [`EventTarget`](/html/python-net/aspose.html.dom/eventtarget)
 * class [`HTMLParamElement`](/html/python-net/aspose.html/htmlparamelement)
+* class [`IEventTarget`](/html/python-net/aspose.html.dom.events/ieventtarget)

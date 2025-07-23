@@ -11,7 +11,7 @@ is_root: false
 ## css_text property
 
 
-A string representation of the current value.
+The  property of the [`CSSValue`](/html/python-net/aspose.html.dom.css/cssvalue) interface represents the current computed CSS property value.
 ### Definition:
 ```python
 @property

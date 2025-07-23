@@ -11,7 +11,17 @@ is_root: false
 ## parent_node property
 
 
-The parent of this node. All nodes, except Attr, Document, DocumentFragment, Entity, and Notation may have a parent. However, if a node has just been created and not yet added to the tree, or if it has been removed from the tree, this is null.
+Returns the parent of the specified node in the DOM tree.
+
+
+[`Document`](/html/python-net/aspose.html.dom/document) and [`DocumentFragment`](/html/python-net/aspose.html.dom/documentfragment) nodes can never have a parent, so  will always return null. It also returns  if the node has just been created and is not yet attached to the tree.
+
+### Remarks 
+
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-parentnode).
 ### Definition:
 ```python
 @property
@@ -21,5 +31,7 @@ def parent_node(self):
 
 ### See Also
 * module [`aspose.html`](../../)
+* class [`Document`](/html/python-net/aspose.html.dom/document)
+* class [`DocumentFragment`](/html/python-net/aspose.html.dom/documentfragment)
 * class [`HTMLInputElement`](/html/python-net/aspose.html/htmlinputelement)
 * class [`Node`](/html/python-net/aspose.html.dom/node)

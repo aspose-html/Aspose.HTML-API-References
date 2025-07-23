@@ -24,7 +24,7 @@ The CSSValue type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
-| [css_text](/html/python-net/aspose.html.dom.css/cssvalue/css_text) | A string representation of the current value. |
+| [css_text](/html/python-net/aspose.html.dom.css/cssvalue/css_text) | The  property of the [`CSSValue`](/html/python-net/aspose.html.dom.css/cssvalue) interface represents the current computed CSS property value. |
 | [css_value_type](/html/python-net/aspose.html.dom.css/cssvalue/css_value_type) | A code defining the type of the value. |
 | [CSS_INHERIT](/html/python-net/aspose.html.dom.css/cssvalue/css_inherit) | The value is inherited and the cssText contains "inherit". |
 | [CSS_PRIMITIVE_VALUE](/html/python-net/aspose.html.dom.css/cssvalue/css_primitive_value) | The value is a primitive value and an instance of the CSSPrimitiveValue interface can be obtained by using binding-specific casting methods on this instance of the CSSValue interface. |

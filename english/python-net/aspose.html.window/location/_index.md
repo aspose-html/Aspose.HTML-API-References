@@ -38,7 +38,7 @@ The Location type exposes the following members:
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/html/python-net/aspose.html.window/location/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html.window/location/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [assign](/html/python-net/aspose.html.window/location/assign/#str) | Navigates to the given page. |
 | [replace](/html/python-net/aspose.html.window/location/replace/#str) | Removes the current page from the session history and navigates to the given page. |
 | [reload](/html/python-net/aspose.html.window/location/reload/#) | Reloads the current page. |

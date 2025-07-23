@@ -11,7 +11,14 @@ is_root: false
 ## next_sibling property
 
 
-The node immediately following this node. If there is no such node, this returns null.
+Returns the node immediately following the specified one in their parent's [`Node.child_nodes`](/html/python-net/aspose.html.dom/node#child_nodes), or returns null if the specified node is the last child in the parent element.
+
+### Remarks 
+
+
+Reference:
+
+[DOM Standard](https://dom.spec.whatwg.org/#dom-node-nextsibling).
 ### Definition:
 ```python
 @property

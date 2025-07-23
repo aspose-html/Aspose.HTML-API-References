@@ -38,7 +38,7 @@ Returns the index-th item in the map. If index is greater than or equal to the n
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/html/python-net/aspose.html.collections/namednodemap/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html.collections/namednodemap/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 | [get_named_item](/html/python-net/aspose.html.collections/namednodemap/get_named_item/#str) | Retrieves a node specified by name. |
 | [get_named_item_ns](/html/python-net/aspose.html.collections/namednodemap/get_named_item_ns/#str-str) | Retrieves a node specified by local name and namespace URI. |
 | [set_named_item](/html/python-net/aspose.html.collections/namednodemap/set_named_item/#aspose.html.dom.Attr) | Adds a node using its nodeName attribute. If a node with that name is already present in this map, it is replaced by the new one. Replacing a node by itself has no effect. |

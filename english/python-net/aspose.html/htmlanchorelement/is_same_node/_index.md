@@ -10,14 +10,13 @@ is_root: false
 
 ## is_same_node {#aspose.html.dom.Node}
 
-Returns whether this node is the same node as the given one. 
-This method provides a way to determine whether two Node references returned by the implementation reference the same object. When two Node references are references to the same object, even if through a proxy, the references may be used completely interchangeably, such that all attributes have the same values and calling the same DOM method on either reference always has exactly the same effect.
+Method is a legacy alias the for the  strict equality operator. That is, it tests whether two nodes are the same (in other words, whether they reference the same object).
 
 
 ### Returns 
 
 
-`true` if [is same node] [the specified other]; otherwise, `false`.
+A boolean value that is  if both nodes are strictly equal, if not.
 
 
 ```python
@@ -28,7 +27,7 @@ def is_same_node(self, other_node):
 
 | Parameter | Type | Description |
 | :- | :- | :- |
-| other_node | aspose.html.dom.Node | The other node. |
+| other_node | aspose.html.dom.Node | The Node to test against. |
 
 
 

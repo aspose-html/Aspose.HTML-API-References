@@ -45,7 +45,7 @@ Gets or sets the Byte at the specified index.
 ### Methods
 | Method | Description |
 | :- | :- |
-| [get_platform_type](/html/python-net/aspose.html/arraybuffer/get_platform_type/#) | This method is used to retrieve ECMAScript object Type. |
+| [get_platform_type](/html/python-net/aspose.html/arraybuffer/get_platform_type/#) | This method is used to retrieve the ECMAScript object Type. |
 
 
 

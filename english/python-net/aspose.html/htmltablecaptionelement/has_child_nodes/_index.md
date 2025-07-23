@@ -10,13 +10,13 @@ is_root: false
 
 ## has_child_nodes {#}
 
-Returns whether this node has any children.
+Returns a boolean value indicating whether the given [`Node`](/html/python-net/aspose.html.dom/node) has child nodes or not.
 
 
 ### Returns 
 
 
-`true` if has child nodes otherwise, `false`.
+A boolean value that is if the node has child nodes, and otherwise.
 
 
 ```python
@@ -31,3 +31,4 @@ def has_child_nodes(self):
 ### See Also
 * module [`aspose.html`](../../)
 * class [`HTMLTableCaptionElement`](/html/python-net/aspose.html/htmltablecaptionelement)
+* class [`Node`](/html/python-net/aspose.html.dom/node)

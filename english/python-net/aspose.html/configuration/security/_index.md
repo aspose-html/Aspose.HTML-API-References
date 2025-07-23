@@ -11,7 +11,8 @@ is_root: false
 ## security property
 
 
-Gets or sets the sandboxing flag of the configuration.
+This property allows you to set a number of restrictions on the content loaded in the frame, for example, block forms and scripts.
+Refer to article about [sandboxing](https://docs.aspose.com/html/net/environment-configuration/#sandboxing).
 ### Definition:
 ```python
 @property
