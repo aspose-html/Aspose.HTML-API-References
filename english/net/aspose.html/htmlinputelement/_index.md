@@ -3,7 +3,7 @@ title: HTMLInputElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLInputElement class. Form control.Depending upon the environment in which the page is being viewed the value property may be read-only for the file upload input type. For the password input type the actual value returned may be masked to prevent unauthorized use. See the INPUT element definition in HTML 4.01
 type: docs
-weight: 3550
+weight: 3560
 url: /net/aspose.html/htmlinputelement/
 ---
 ## HTMLInputElement class

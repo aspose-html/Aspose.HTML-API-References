@@ -3,7 +3,7 @@ title: ResponseHeaders Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Net.ResponseHeaders class. Contains protocol headers associated with a response
 type: docs
-weight: 4260
+weight: 4270
 url: /net/aspose.html.net/responseheaders/
 ---
 ## ResponseHeaders class

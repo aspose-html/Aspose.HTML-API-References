@@ -3,7 +3,7 @@ title: HTMLLIElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLLIElement class. List item. See the LI element definition in HTML 4.01
 type: docs
-weight: 3570
+weight: 3580
 url: /net/aspose.html/htmllielement/
 ---
 ## HTMLLIElement class

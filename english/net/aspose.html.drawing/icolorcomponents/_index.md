@@ -3,7 +3,7 @@ title: IColorComponents Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.IColorComponents interface. Declares method and properties for processing color components
 type: docs
-weight: 2860
+weight: 2870
 url: /net/aspose.html.drawing/icolorcomponents/
 ---
 ## IColorComponents interface

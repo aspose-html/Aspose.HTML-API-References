@@ -3,7 +3,7 @@ title: HTMLDListElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLDListElement class. Definition list. See the DL element definition in HTML 4.01
 type: docs
-weight: 3380
+weight: 3390
 url: /net/aspose.html/htmldlistelement/
 ---
 ## HTMLDListElement class

@@ -3,7 +3,7 @@ title: HugoYamlBasedFrontMatterSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Extensions.HugoYamlBasedFrontMatterSyntaxNode class. Defines the HugoYamlBasedFrontMatterSyntaxNode
 type: docs
-weight: 5200
+weight: 5210
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/
 ---
 ## HugoYamlBasedFrontMatterSyntaxNode class

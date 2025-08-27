@@ -3,7 +3,7 @@ title: OptionElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Forms.OptionElement class. The OptionElement represents a wrapper that is associated with the HTMLOptionElement
 type: docs
-weight: 3240
+weight: 3250
 url: /net/aspose.html.forms/optionelement/
 ---
 ## OptionElement class

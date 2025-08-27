@@ -3,7 +3,7 @@ title: PageLayoutOptions Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.PageLayoutOptions enum. Specifies flags that together with other PageSetup options determine sizes and layouts of pages. These flags can be combined together according to their descriptions
 type: docs
-weight: 4590
+weight: 4600
 url: /net/aspose.html.rendering/pagelayoutoptions/
 ---
 ## PageLayoutOptions enumeration

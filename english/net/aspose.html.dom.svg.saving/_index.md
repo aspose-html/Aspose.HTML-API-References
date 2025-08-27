@@ -13,6 +13,7 @@ url: /net/aspose.html.dom.svg.saving/
 | Class | Description |
 | --- | --- |
 | [SVGSaveOptions](./svgsaveoptions/) | Represents SVG save options. |
+| [SVGZSaveOptions](./svgzsaveoptions/) | Represents SVGZ save options. |
 ## Enumeration
 
 | Enumeration | Description |

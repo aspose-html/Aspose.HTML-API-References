@@ -3,7 +3,7 @@ title: RendererTSource Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Renderer1TSource class. The base abstract class for all renderers
 type: docs
-weight: 4700
+weight: 4710
 url: /net/aspose.html.rendering/renderer-1/
 ---
 ## Renderer<TSource> class

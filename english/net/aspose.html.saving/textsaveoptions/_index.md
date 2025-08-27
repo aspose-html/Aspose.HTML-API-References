@@ -3,7 +3,7 @@ title: TextSaveOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.TextSaveOptions class. Represents Text save options
 type: docs
-weight: 4970
+weight: 4980
 url: /net/aspose.html.saving/textsaveoptions/
 ---
 ## TextSaveOptions class

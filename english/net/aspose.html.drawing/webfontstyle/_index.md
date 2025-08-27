@@ -3,7 +3,7 @@ title: WebFontStyle Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.WebFontStyle enum. Specifies the formatting applied to the text
 type: docs
-weight: 3070
+weight: 3080
 url: /net/aspose.html.drawing/webfontstyle/
 ---
 ## WebFontStyle enumeration

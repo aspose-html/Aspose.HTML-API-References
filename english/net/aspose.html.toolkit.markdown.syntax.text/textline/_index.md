@@ -3,7 +3,7 @@ title: TextLine Struct
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Text.TextLine struct. Represent the TextLine
 type: docs
-weight: 5900
+weight: 5910
 url: /net/aspose.html.toolkit.markdown.syntax.text/textline/
 ---
 ## TextLine structure

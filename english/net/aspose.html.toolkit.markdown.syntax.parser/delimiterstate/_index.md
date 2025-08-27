@@ -3,7 +3,7 @@ title: DelimiterState Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Parser.DelimiterState enum. Defines the DelimiterState enum
 type: docs
-weight: 5610
+weight: 5620
 url: /net/aspose.html.toolkit.markdown.syntax.parser/delimiterstate/
 ---
 ## DelimiterState enumeration

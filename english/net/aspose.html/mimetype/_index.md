@@ -3,7 +3,7 @@ title: MimeType Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.MimeType class. Represents an Internet Media Types
 type: docs
-weight: 4040
+weight: 4050
 url: /net/aspose.html/mimetype/
 ---
 ## MimeType class
