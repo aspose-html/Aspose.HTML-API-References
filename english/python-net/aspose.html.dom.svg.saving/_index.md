@@ -16,6 +16,7 @@ format in which document is saved.
 | Class | Description |
 | :- | :- |
 | [`SVGSaveOptions`](/html/python-net/aspose.html.dom.svg.saving/svgsaveoptions) | Represents SVG save options. |
+| [`SVGZSaveOptions`](/html/python-net/aspose.html.dom.svg.saving/svgzsaveoptions) | Represents SVGZ save options. |
 
 
 ### Enumerations
