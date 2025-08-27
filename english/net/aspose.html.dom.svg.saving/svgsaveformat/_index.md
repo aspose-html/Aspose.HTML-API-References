@@ -19,6 +19,7 @@ public enum SVGSaveFormat
 | Name | Value | Description |
 | --- | --- | --- |
 | SVG | `0` | Document will be saved as SVG. |
+| SVGZ | `1` | Document will be saved as SVGZ. |
 
 ### See Also
 

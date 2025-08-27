@@ -3,7 +3,7 @@ title: IMatrix Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.IMatrix interface. Represents a matrix used for transformations
 type: docs
-weight: 2910
+weight: 2920
 url: /net/aspose.html.drawing/imatrix/
 ---
 ## IMatrix interface

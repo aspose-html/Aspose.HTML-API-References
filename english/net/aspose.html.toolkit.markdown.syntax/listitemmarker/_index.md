@@ -3,7 +3,7 @@ title: ListItemMarker Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.ListItemMarker class. Base implementation of the ListItemMarker
 type: docs
-weight: 5400
+weight: 5410
 url: /net/aspose.html.toolkit.markdown.syntax/listitemmarker/
 ---
 ## ListItemMarker class

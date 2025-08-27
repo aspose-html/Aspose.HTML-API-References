@@ -3,7 +3,7 @@ title: HTMLDataListElement Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLDataListElement class. The datalist element represents a set of option elements that represent predefined options for other controls. See also the HTML 5.2 W3C Recommendation
 type: docs
-weight: 3390
+weight: 3400
 url: /net/aspose.html/htmldatalistelement/
 ---
 ## HTMLDataListElement class

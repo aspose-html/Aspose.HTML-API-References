@@ -3,7 +3,7 @@ title: IXPathEvaluator Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.XPath.IXPathEvaluator interface. The evaluation of XPath expressions is provided by IXPathEvaluator
 type: docs
-weight: 2730
+weight: 2740
 url: /net/aspose.html.dom.xpath/ixpathevaluator/
 ---
 ## IXPathEvaluator interface

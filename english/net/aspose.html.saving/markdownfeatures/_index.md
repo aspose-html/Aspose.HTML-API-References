@@ -3,7 +3,7 @@ title: MarkdownFeatures Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.MarkdownFeatures enum. A MarkdownFeatures flag set is a set of zero or more of the following flags which are used to select elements converted to markdown
 type: docs
-weight: 4850
+weight: 4860
 url: /net/aspose.html.saving/markdownfeatures/
 ---
 ## MarkdownFeatures enumeration

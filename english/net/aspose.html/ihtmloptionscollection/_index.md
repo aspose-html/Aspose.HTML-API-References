@@ -3,7 +3,7 @@ title: IHTMLOptionsCollection Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.IHTMLOptionsCollection interface. An HTMLOptionsCollection is a list of nodes representing HTML option element. An individual node may be accessed by either ordinal index or the nodes name or id attributes. Collections in the HTML DOM are assumed to be live meaning that they are automatically updated when the underlying document is changed
 type: docs
-weight: 3910
+weight: 3920
 url: /net/aspose.html/ihtmloptionscollection/
 ---
 ## IHTMLOptionsCollection interface

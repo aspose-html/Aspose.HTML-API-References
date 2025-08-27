@@ -12,13 +12,13 @@ This method is called if there is no appropriate font found in the fonts lookup 
 
 ```csharp
 public abstract byte[] MatchFontFallback(FontMatchingProperties fontMatchingProperties, 
-    uint charCode)
+    int charCode)
 ```
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | fontMatchingProperties | FontMatchingProperties | Properties of the matched font. |
-| charCode | UInt32 | Code of the character which will be rendered using the matched font. |
+| charCode | Int32 | Code of the character which will be rendered using the matched font. |
 
 ### Return Value
 

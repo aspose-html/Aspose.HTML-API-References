@@ -3,7 +3,7 @@ title: XpsDevice.XpsGraphicContext Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.Xps.XpsDeviceXpsGraphicContext class. Holds current graphics control parameters for the XpsDevice. These parameters define the global framework within which the graphics operators execute
 type: docs
-weight: 4770
+weight: 4780
 url: /net/aspose.html.rendering.xps/xpsdevice.xpsgraphiccontext/
 ---
 ## XpsDevice.XpsGraphicContext class

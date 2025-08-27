@@ -3,7 +3,7 @@ title: ITransformableBrush Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.ITransformableBrush interface. Desclares methods for getting transformation matrix and wrap mode
 type: docs
-weight: 2940
+weight: 2950
 url: /net/aspose.html.drawing/itransformablebrush/
 ---
 ## ITransformableBrush interface

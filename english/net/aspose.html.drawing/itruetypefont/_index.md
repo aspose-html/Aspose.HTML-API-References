@@ -3,7 +3,7 @@ title: ITrueTypeFont Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.ITrueTypeFont interface. Declares methods for working with TrueType fonts
 type: docs
-weight: 2950
+weight: 2960
 url: /net/aspose.html.drawing/itruetypefont/
 ---
 ## ITrueTypeFont interface

@@ -3,7 +3,7 @@ title: ICreateStreamProvider Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.IO.ICreateStreamProvider interface. Represents an interface that can be implemented by classes providing streams to the rendering devices
 type: docs
-weight: 3940
+weight: 3950
 url: /net/aspose.html.io/icreatestreamprovider/
 ---
 ## ICreateStreamProvider interface

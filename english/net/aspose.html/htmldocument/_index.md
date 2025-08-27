@@ -3,7 +3,7 @@ title: HTMLDocument Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.HTMLDocument class. An HTMLDocument is the root of the HTML hierarchy and holds the entire content. Besides providing access to the hierarchy it also provides some convenience methods for accessing certain sets of information from the document
 type: docs
-weight: 3420
+weight: 3430
 url: /net/aspose.html/htmldocument/
 ---
 ## HTMLDocument class

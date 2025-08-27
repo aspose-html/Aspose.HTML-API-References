@@ -3,7 +3,7 @@ title: TriviaCollection Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.TriviaCollection class. A collection of trivia
 type: docs
-weight: 5970
+weight: 5980
 url: /net/aspose.html.toolkit.markdown.syntax/triviacollection/
 ---
 ## TriviaCollection class

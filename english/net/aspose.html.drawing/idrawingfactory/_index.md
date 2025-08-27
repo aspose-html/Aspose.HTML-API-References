@@ -3,7 +3,7 @@ title: IDrawingFactory Interface
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.IDrawingFactory interface. Represents a factory for creating drawing-related objects
 type: docs
-weight: 2870
+weight: 2880
 url: /net/aspose.html.drawing/idrawingfactory/
 ---
 ## IDrawingFactory interface

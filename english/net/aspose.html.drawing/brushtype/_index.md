@@ -3,7 +3,7 @@ title: BrushType Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Drawing.BrushType enum. Specifies the type of brush
 type: docs
-weight: 2800
+weight: 2810
 url: /net/aspose.html.drawing/brushtype/
 ---
 ## BrushType enumeration

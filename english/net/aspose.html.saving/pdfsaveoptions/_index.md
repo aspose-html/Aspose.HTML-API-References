@@ -3,7 +3,7 @@ title: PdfSaveOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.PdfSaveOptions class. Specific options data class
 type: docs
-weight: 4880
+weight: 4890
 url: /net/aspose.html.saving/pdfsaveoptions/
 ---
 ## PdfSaveOptions class

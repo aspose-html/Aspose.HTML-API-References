@@ -3,7 +3,7 @@ title: Text Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Dom.Text class. The Text interface inherits from CharacterData and represents the textual content termed character data in XML of an Element or Attr
 type: docs
-weight: 2620
+weight: 2630
 url: /net/aspose.html.dom/text/
 ---
 ## Text class

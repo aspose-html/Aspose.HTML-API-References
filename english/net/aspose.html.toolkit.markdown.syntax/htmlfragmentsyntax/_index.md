@@ -3,7 +3,7 @@ title: HTMLFragmentSyntax Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.HTMLFragmentSyntax class. Represents the HTMLFragmentSyntax
 type: docs
-weight: 5260
+weight: 5270
 url: /net/aspose.html.toolkit.markdown.syntax/htmlfragmentsyntax/
 ---
 ## HTMLFragmentSyntax class

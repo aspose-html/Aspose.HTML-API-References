@@ -3,7 +3,7 @@ title: BlockProxy Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.BlockProxy class. Represents the BlockProxy
 type: docs
-weight: 5060
+weight: 5070
 url: /net/aspose.html.toolkit.markdown.syntax/blockproxy/
 ---
 ## BlockProxy class
