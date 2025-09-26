@@ -26,6 +26,7 @@ The GraphicContext type exposes the following members:
 ### Properties
 | Property | Description |
 | :- | :- |
+| [current_element](/html/python-net/aspose.html.rendering/graphiccontext/current_element) | Gets current processed element. |
 | [line_cap](/html/python-net/aspose.html.rendering/graphiccontext/line_cap) | Sets or gets the code specifying the shape of the endpoints for any open path that is stroked. |
 | [line_dash_offset](/html/python-net/aspose.html.rendering/graphiccontext/line_dash_offset) | Sets or gets the phase offset of the current line dash pattern. |
 | [line_dash_pattern](/html/python-net/aspose.html.rendering/graphiccontext/line_dash_pattern) | Sets or gets the description of the dash pattern to be used when paths are stroked.<br/>Can be set to null or an empty array to be disabled. |

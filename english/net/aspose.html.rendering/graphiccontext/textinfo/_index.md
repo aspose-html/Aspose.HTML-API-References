@@ -3,7 +3,7 @@ title: GraphicContext.TextInfo
 second_title: Aspose.HTML for .NET API Reference
 description: GraphicContext TextInfo property. Gets a TextInfo object which contains information about rendered text
 type: docs
-weight: 140
+weight: 150
 url: /net/aspose.html.rendering/graphiccontext/textinfo/
 ---
 ## GraphicContext.TextInfo property

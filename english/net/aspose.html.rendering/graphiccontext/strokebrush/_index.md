@@ -3,7 +3,7 @@ title: GraphicContext.StrokeBrush
 second_title: Aspose.HTML for .NET API Reference
 description: GraphicContext StrokeBrush property. Sets or gets the brush object that is used for stroked paths
 type: docs
-weight: 130
+weight: 140
 url: /net/aspose.html.rendering/graphiccontext/strokebrush/
 ---
 ## GraphicContext.StrokeBrush property

@@ -3,7 +3,7 @@ title: line_dash_pattern property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 120
+weight: 130
 url: /python-net/aspose.html.rendering/graphiccontext/line_dash_pattern/
 is_root: false
 ---

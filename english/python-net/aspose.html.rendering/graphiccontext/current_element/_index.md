@@ -1,27 +1,25 @@
 ﻿---
-title: font_size property
+title: current_element property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 90
-url: /python-net/aspose.html.rendering/graphiccontext/font_size/
+weight: 60
+url: /python-net/aspose.html.rendering/graphiccontext/current_element/
 is_root: false
 ---
 
-## font_size property
+## current_element property
 
 
-Sets or gets text font size.
+Gets current processed element.
 ### Definition:
 ```python
 @property
-def font_size(self):
-    ...
-@font_size.setter
-def font_size(self, value):
+def current_element(self):
     ...
 ```
 
 ### See Also
 * module [`aspose.html.rendering`](../../)
+* class [`Element`](/html/python-net/aspose.html.dom/element)
 * class [`GraphicContext`](/html/python-net/aspose.html.rendering/graphiccontext)

@@ -3,7 +3,7 @@ title: line_cap property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 110
 url: /python-net/aspose.html.rendering/graphiccontext/line_cap/
 is_root: false
 ---
