@@ -3,7 +3,7 @@ title: GraphicContext.FontStyle
 second_title: Aspose.HTML for .NET API Reference
 description: GraphicContext FontStyle property. Sets or gets text font style
 type: docs
-weight: 60
+weight: 70
 url: /net/aspose.html.rendering/graphiccontext/fontstyle/
 ---
 ## GraphicContext.FontStyle property

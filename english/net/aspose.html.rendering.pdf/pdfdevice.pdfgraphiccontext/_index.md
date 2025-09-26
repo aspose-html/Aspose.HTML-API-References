@@ -25,6 +25,7 @@ public class PdfGraphicContext : GraphicContext
 | Name | Description |
 | --- | --- |
 | virtual [CharacterSpacing](../../aspose.html.rendering/graphiccontext/characterspacing/) { get; set; } | Sets or gets character spacing. |
+| [CurrentElement](../../aspose.html.rendering/graphiccontext/currentelement/) { get; } | Gets current processed element. |
 | virtual [FillBrush](../../aspose.html.rendering/graphiccontext/fillbrush/) { get; set; } | Sets or gets the brush object that is used to fill the interiors of paths. |
 | virtual [Font](../../aspose.html.rendering/graphiccontext/font/) { get; set; } | Sets or gets the true type font object that is used for rendering text. |
 | virtual [FontSize](../../aspose.html.rendering/graphiccontext/fontsize/) { get; set; } | Sets or gets text font size. |
