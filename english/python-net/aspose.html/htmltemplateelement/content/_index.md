@@ -17,6 +17,9 @@ Gets the instance of the [`DocumentFragment`](/html/python-net/aspose.html.dom/d
 @property
 def content(self):
     ...
+@content.setter
+def content(self, value):
+    ...
 ```
 
 ### See Also

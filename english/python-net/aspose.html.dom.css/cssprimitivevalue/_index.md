@@ -67,6 +67,7 @@ The CSSPrimitiveValue type exposes the following members:
 | [CSS_VH](/html/python-net/aspose.html.dom.css/cssprimitivevalue/css_vh) | The value is a percentage of the full viewport height. |
 | [CSS_VMIN](/html/python-net/aspose.html.dom.css/cssprimitivevalue/css_vmin) | The value is a percentage of the viewport width or height, whichever is smaller. |
 | [CSS_VMAX](/html/python-net/aspose.html.dom.css/cssprimitivevalue/css_vmax) | The value is a percentage of the viewport width or height, whichever is larger. |
+| [CSS_X](/html/python-net/aspose.html.dom.css/cssprimitivevalue/css_x) | The value is a dots per ‘px’ unit (x). |
 
 
 ### Methods
