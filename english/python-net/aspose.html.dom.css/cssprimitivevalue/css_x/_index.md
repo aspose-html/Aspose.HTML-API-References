@@ -1,23 +1,17 @@
 ﻿---
-title: css_value_type property
+title: CSS_X property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 540
-url: /python-net/aspose.html.dom.css/cssprimitivevalue/css_value_type/
+weight: 520
+url: /python-net/aspose.html.dom.css/cssprimitivevalue/css_x/
 is_root: false
 ---
 
-## css_value_type property
+## CSS_X property
 
 
-A code defining the type of the value.
-### Definition:
-```python
-@property
-def css_value_type(self):
-    ...
-```
+The value is a dots per ‘px’ unit (x).
 
 ### See Also
 * module [`aspose.html.dom.css`](../../)
