@@ -3,7 +3,7 @@ title: ICSS2Properties.Overflow
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties Overflow property. See the overflow property definition in CSS2
 type: docs
-weight: 790
+weight: 820
 url: /net/aspose.html.dom.css/icss2properties/overflow/
 ---
 ## ICSS2Properties.Overflow property

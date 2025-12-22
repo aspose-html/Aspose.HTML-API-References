@@ -3,7 +3,7 @@ title: ICSS2Properties.PaddingBottom
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties PaddingBottom property. See the padding-bottom property definition in CSS2
 type: docs
-weight: 810
+weight: 840
 url: /net/aspose.html.dom.css/icss2properties/paddingbottom/
 ---
 ## ICSS2Properties.PaddingBottom property

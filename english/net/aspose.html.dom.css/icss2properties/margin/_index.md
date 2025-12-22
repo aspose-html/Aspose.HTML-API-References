@@ -3,7 +3,7 @@ title: ICSS2Properties.Margin
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties Margin property. See the margin property definition in CSS2
 type: docs
-weight: 630
+weight: 660
 url: /net/aspose.html.dom.css/icss2properties/margin/
 ---
 ## ICSS2Properties.Margin property

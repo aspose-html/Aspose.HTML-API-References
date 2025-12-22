@@ -6,6 +6,84 @@ type: docs
 weight: 50
 url: /net/aspose.html.converters/converter/convertsvg/
 ---
+## ConvertSVG(*string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_31}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(string sourcePath, Configuration configuration, 
+    XpsSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | Svg file source path. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. |
+| options | XpsSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*string, string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_55}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, XpsSaveOptions options, 
+    string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | Inline string svg content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| options | XpsSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertSVG(*string, string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_47}
+
+Convert svg source to xps. Result is xps file.
+
+```csharp
+public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
+    XpsSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| content | String | Inline string svg content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. |
+| options | XpsSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
 ## ConvertSVG(*[SVGDocument](../../../aspose.html.dom.svg/svgdocument/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertsvg_6}
 
 Convert svg source to xps. Result is xps file.
@@ -1365,84 +1443,6 @@ public static void ConvertSVG(string sourcePath, XpsSaveOptions options, string 
 
 ### See Also
 
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_31}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(string sourcePath, Configuration configuration, 
-    XpsSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | Svg file source path. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. |
-| options | XpsSaveOptions | Conversion options. |
-| outputPath | String | Output file path. |
-
-### See Also
-
-* class [Configuration](../../../aspose.html/configuration/)
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*string, string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_55}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, XpsSaveOptions options, 
-    string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| content | String | Inline string svg content. |
-| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| options | XpsSaveOptions | Conversion options. |
-| outputPath | String | Output file path. |
-
-### See Also
-
-* class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertSVG(*string, string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#convertsvg_47}
-
-Convert svg source to xps. Result is xps file.
-
-```csharp
-public static void ConvertSVG(string content, string baseUri, Configuration configuration, 
-    XpsSaveOptions options, string outputPath)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| content | String | Inline string svg content. |
-| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. |
-| options | XpsSaveOptions | Conversion options. |
-| outputPath | String | Output file path. |
-
-### See Also
-
-* class [Configuration](../../../aspose.html/configuration/)
 * class [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/)
 * class [Converter](../)
 * namespace [Aspose.Html.Converters](../../../aspose.html.converters/)

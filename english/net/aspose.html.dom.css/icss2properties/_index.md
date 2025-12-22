@@ -72,6 +72,9 @@ public interface ICSS2Properties
 | [FontStyle](../../aspose.html.dom.css/icss2properties/fontstyle/) { get; set; } | See the font-style property definition in CSS2. |
 | [FontVariant](../../aspose.html.dom.css/icss2properties/fontvariant/) { get; set; } | See the font-variant property definition in CSS2. |
 | [FontWeight](../../aspose.html.dom.css/icss2properties/fontweight/) { get; set; } | See the font-weight property definition in CSS2. |
+| [GridTemplateAreas](../../aspose.html.dom.css/icss2properties/gridtemplateareas/) { get; set; } | See the grid-template-areas property definition in CSS2. |
+| [GridTemplateColumns](../../aspose.html.dom.css/icss2properties/gridtemplatecolumns/) { get; set; } | See the grid-template-columns property definition in CSS2. |
+| [GridTemplateRows](../../aspose.html.dom.css/icss2properties/gridtemplaterows/) { get; set; } | See the grid-template-rows property definition in CSS2. |
 | [Height](../../aspose.html.dom.css/icss2properties/height/) { get; set; } | See the height property definition in CSS2. |
 | [Left](../../aspose.html.dom.css/icss2properties/left/) { get; set; } | See the left property definition in CSS2. |
 | [LetterSpacing](../../aspose.html.dom.css/icss2properties/letterspacing/) { get; set; } | See the letter-spacing property definition in CSS2. |

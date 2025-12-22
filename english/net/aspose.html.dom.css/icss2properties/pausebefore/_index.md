@@ -3,7 +3,7 @@ title: ICSS2Properties.PauseBefore
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties PauseBefore property. See the pause-before property definition in CSS2
 type: docs
-weight: 910
+weight: 940
 url: /net/aspose.html.dom.css/icss2properties/pausebefore/
 ---
 ## ICSS2Properties.PauseBefore property

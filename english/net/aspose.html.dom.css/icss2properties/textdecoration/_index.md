@@ -3,7 +3,7 @@ title: ICSS2Properties.TextDecoration
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties TextDecoration property. See the text-decoration property definition in CSS2
 type: docs
-weight: 1080
+weight: 1110
 url: /net/aspose.html.dom.css/icss2properties/textdecoration/
 ---
 ## ICSS2Properties.TextDecoration property

@@ -3,7 +3,7 @@ title: ICSS2Properties.SpeechRate
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties SpeechRate property. See the speech-rate property definition in CSS2
 type: docs
-weight: 1040
+weight: 1070
 url: /net/aspose.html.dom.css/icss2properties/speechrate/
 ---
 ## ICSS2Properties.SpeechRate property

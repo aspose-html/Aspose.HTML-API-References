@@ -3,7 +3,7 @@ title: ICSS2Properties.Height
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties Height property. See the height property definition in CSS2
 type: docs
-weight: 550
+weight: 580
 url: /net/aspose.html.dom.css/icss2properties/height/
 ---
 ## ICSS2Properties.Height property

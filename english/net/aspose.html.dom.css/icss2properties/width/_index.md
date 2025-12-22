@@ -3,7 +3,7 @@ title: ICSS2Properties.Width
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties Width property. See the width property definition in CSS2
 type: docs
-weight: 1200
+weight: 1230
 url: /net/aspose.html.dom.css/icss2properties/width/
 ---
 ## ICSS2Properties.Width property

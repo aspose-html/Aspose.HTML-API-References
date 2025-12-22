@@ -3,7 +3,7 @@ title: ICSS2Properties.TableLayout
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties TableLayout property. See the table-layout property definition in CSS2
 type: docs
-weight: 1060
+weight: 1090
 url: /net/aspose.html.dom.css/icss2properties/tablelayout/
 ---
 ## ICSS2Properties.TableLayout property

@@ -3,7 +3,7 @@ title: ICSS2Properties.Padding
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties Padding property. See the padding property definition in CSS2
 type: docs
-weight: 800
+weight: 830
 url: /net/aspose.html.dom.css/icss2properties/padding/
 ---
 ## ICSS2Properties.Padding property

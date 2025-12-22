@@ -3,7 +3,7 @@ title: ICSS2Properties.UnicodeBidi
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties UnicodeBidi property. See the unicode-bidi property definition in CSS2
 type: docs
-weight: 1130
+weight: 1160
 url: /net/aspose.html.dom.css/icss2properties/unicodebidi/
 ---
 ## ICSS2Properties.UnicodeBidi property

@@ -3,7 +3,7 @@ title: ICSS2Properties.PlayDuring
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties PlayDuring property. See the play-during property definition in CSS2
 type: docs
-weight: 940
+weight: 970
 url: /net/aspose.html.dom.css/icss2properties/playduring/
 ---
 ## ICSS2Properties.PlayDuring property

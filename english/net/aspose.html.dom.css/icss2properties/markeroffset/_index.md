@@ -3,7 +3,7 @@ title: ICSS2Properties.MarkerOffset
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties MarkerOffset property. See the marker-offset property definition in CSS2
 type: docs
-weight: 680
+weight: 710
 url: /net/aspose.html.dom.css/icss2properties/markeroffset/
 ---
 ## ICSS2Properties.MarkerOffset property
