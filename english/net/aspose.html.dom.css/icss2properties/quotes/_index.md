@@ -3,7 +3,7 @@ title: ICSS2Properties.Quotes
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties Quotes property. See the quotes property definition in CSS2
 type: docs
-weight: 960
+weight: 990
 url: /net/aspose.html.dom.css/icss2properties/quotes/
 ---
 ## ICSS2Properties.Quotes property

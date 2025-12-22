@@ -3,7 +3,7 @@ title: ICSS2Properties.MinHeight
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties MinHeight property. See the min-height property definition in CSS2
 type: docs
-weight: 720
+weight: 750
 url: /net/aspose.html.dom.css/icss2properties/minheight/
 ---
 ## ICSS2Properties.MinHeight property

@@ -55,6 +55,7 @@ public abstract class CSSPrimitiveValue : CSSValue
 | const [CSS_DPPX](../../aspose.html.dom.css/cssprimitivevalue/css_dppx/) | The value is a dots per ‘px’ unit (dppx). |
 | const [CSS_EMS](../../aspose.html.dom.css/cssprimitivevalue/css_ems/) | The value is a length (ems). The value can be obtained by using the getFloatValue method. |
 | const [CSS_EXS](../../aspose.html.dom.css/cssprimitivevalue/css_exs/) | The value is a length (exs). The value can be obtained by using the getFloatValue method. |
+| const [CSS_FR](../../aspose.html.dom.css/cssprimitivevalue/css_fr/) | A flexible length or flex is a dimension with the fr unit, which represents a fraction of the leftover space in the grid container |
 | const [CSS_GRAD](../../aspose.html.dom.css/cssprimitivevalue/css_grad/) | The value is an angle (grad). The value can be obtained by using the getFloatValue method. |
 | const [CSS_HZ](../../aspose.html.dom.css/cssprimitivevalue/css_hz/) | The value is a frequency (Hz). The value can be obtained by using the getFloatValue method. |
 | const [CSS_IDENT](../../aspose.html.dom.css/cssprimitivevalue/css_ident/) | The value is an identifier. The value can be obtained by using the getStringValue method. |

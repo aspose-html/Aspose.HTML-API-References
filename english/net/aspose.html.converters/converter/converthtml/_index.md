@@ -81,7 +81,7 @@ public static void ConvertHTML(Url url, Configuration configuration, DocSaveOpti
 
 ---
 
-## ConvertHTML(*string, [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#converthtml_45}
+## ConvertHTML(*string, [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#converthtml_48}
 
 Convert HTML source document to DOCX. Result is docx file.
 
@@ -104,7 +104,7 @@ public static void ConvertHTML(string sourcePath, DocSaveOptions options, string
 
 ---
 
-## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#converthtml_34}
+## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#converthtml_37}
 
 Convert HTML source document to DOCX. Result is docx file.
 
@@ -130,7 +130,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertHTML(*string, string, [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#converthtml_67}
+## ConvertHTML(*string, string, [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#converthtml_70}
 
 Convert HTML source document to DOCX. Result is docx file.
 
@@ -155,7 +155,7 @@ public static void ConvertHTML(string content, string baseUri, DocSaveOptions op
 
 ---
 
-## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#converthtml_56}
+## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), string*) {#converthtml_59}
 
 Convert HTML source document to DOCX. Result is docx file.
 
@@ -261,7 +261,7 @@ public static void ConvertHTML(Url url, Configuration configuration, DocSaveOpti
 
 ---
 
-## ConvertHTML(*string, [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_44}
+## ConvertHTML(*string, [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_47}
 
 Convert HTML source document to DOCX. Result is docx file.
 
@@ -286,7 +286,7 @@ public static void ConvertHTML(string sourcePath, DocSaveOptions options,
 
 ---
 
-## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_33}
+## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_36}
 
 Convert HTML source document to DOCX. Result is docx file.
 
@@ -313,7 +313,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertHTML(*string, string, [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_66}
+## ConvertHTML(*string, string, [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_69}
 
 Convert HTML source document to DOCX. Result is docx file.
 
@@ -339,7 +339,7 @@ public static void ConvertHTML(string content, string baseUri, DocSaveOptions op
 
 ---
 
-## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_55}
+## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [DocSaveOptions](../../../aspose.html.saving/docsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_58}
 
 Convert HTML source document to DOCX. Result is docx file.
 
@@ -442,7 +442,7 @@ public static void ConvertHTML(Url url, Configuration configuration, PdfSaveOpti
 
 ---
 
-## ConvertHTML(*string, [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#converthtml_51}
+## ConvertHTML(*string, [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#converthtml_54}
 
 Convert html source document to PDF. Result is pdf file.
 
@@ -465,7 +465,7 @@ public static void ConvertHTML(string sourcePath, PdfSaveOptions options, string
 
 ---
 
-## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#converthtml_40}
+## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#converthtml_43}
 
 Convert html source document to PDF. Result is pdf file.
 
@@ -491,7 +491,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertHTML(*string, string, [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#converthtml_73}
+## ConvertHTML(*string, string, [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#converthtml_76}
 
 Convert html source document to PDF. Result is pdf file.
 
@@ -516,7 +516,7 @@ public static void ConvertHTML(string content, string baseUri, PdfSaveOptions op
 
 ---
 
-## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#converthtml_62}
+## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), string*) {#converthtml_65}
 
 Convert html source document to PDF. Result is pdf file.
 
@@ -622,7 +622,7 @@ public static void ConvertHTML(Url url, Configuration configuration, PdfSaveOpti
 
 ---
 
-## ConvertHTML(*string, [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_50}
+## ConvertHTML(*string, [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_53}
 
 Convert html source document to PDF. Result is pdf file.
 
@@ -647,7 +647,7 @@ public static void ConvertHTML(string sourcePath, PdfSaveOptions options,
 
 ---
 
-## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_39}
+## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_42}
 
 Convert html source document to PDF. Result is pdf file.
 
@@ -674,7 +674,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertHTML(*string, string, [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_72}
+## ConvertHTML(*string, string, [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_75}
 
 Convert html source document to PDF. Result is pdf file.
 
@@ -700,7 +700,7 @@ public static void ConvertHTML(string content, string baseUri, PdfSaveOptions op
 
 ---
 
-## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_61}
+## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_64}
 
 Convert html source document to PDF. Result is pdf file.
 
@@ -803,7 +803,7 @@ public static void ConvertHTML(Url url, Configuration configuration, MHTMLSaveOp
 
 ---
 
-## ConvertHTML(*string, [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/), string*) {#converthtml_49}
+## ConvertHTML(*string, [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/), string*) {#converthtml_52}
 
 Convert html document to mhtml. Result is mhtml file.
 
@@ -826,7 +826,7 @@ public static void ConvertHTML(string sourcePath, MHTMLSaveOptions options, stri
 
 ---
 
-## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/), string*) {#converthtml_38}
+## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/), string*) {#converthtml_41}
 
 Convert html document to mhtml. Result is mhtml file.
 
@@ -852,7 +852,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertHTML(*string, string, [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/), string*) {#converthtml_71}
+## ConvertHTML(*string, string, [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/), string*) {#converthtml_74}
 
 Convert html document to mhtml. Result is mhtml file.
 
@@ -877,7 +877,7 @@ public static void ConvertHTML(string content, string baseUri, MHTMLSaveOptions 
 
 ---
 
-## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/), string*) {#converthtml_60}
+## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [MHTMLSaveOptions](../../../aspose.html.saving/mhtmlsaveoptions/), string*) {#converthtml_63}
 
 Convert html document to mhtml. Result is mhtml file.
 
@@ -980,7 +980,7 @@ public static void ConvertHTML(Url url, Configuration configuration, MarkdownSav
 
 ---
 
-## ConvertHTML(*string, [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/), string*) {#converthtml_48}
+## ConvertHTML(*string, [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/), string*) {#converthtml_51}
 
 Convert html source to markdown. Result is md file.
 
@@ -1003,7 +1003,7 @@ public static void ConvertHTML(string sourcePath, MarkdownSaveOptions options, s
 
 ---
 
-## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/), string*) {#converthtml_37}
+## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/), string*) {#converthtml_40}
 
 Convert html source to markdown. Result is md file.
 
@@ -1029,7 +1029,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertHTML(*string, string, [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/), string*) {#converthtml_70}
+## ConvertHTML(*string, string, [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/), string*) {#converthtml_73}
 
 Convert html source to markdown. Result is md file.
 
@@ -1054,7 +1054,7 @@ public static void ConvertHTML(string content, string baseUri, MarkdownSaveOptio
 
 ---
 
-## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/), string*) {#converthtml_59}
+## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/), string*) {#converthtml_62}
 
 Convert html source to markdown. Result is md file.
 
@@ -1066,6 +1066,84 @@ public static void ConvertHTML(string content, string baseUri, Configuration con
 | Parameter | Type | Description |
 | --- | --- | --- |
 | content | String | Inline string html content. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. |
+| options | MarkdownSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(*Stream, [Configuration](../../../aspose.html/configuration/), [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/), string*) {#converthtml_33}
+
+Convert HTML source stream to markdown. Result is md file.
+
+```csharp
+public static void ConvertHTML(Stream stream, Configuration configuration, 
+    MarkdownSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | HTML source stream. |
+| configuration | Configuration | The environment configuration. |
+| options | MarkdownSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(*Stream, string, [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/), string*) {#converthtml_35}
+
+Convert HTML source stream to markdown. Result is md file.
+
+```csharp
+public static void ConvertHTML(Stream stream, string baseUri, MarkdownSaveOptions options, 
+    string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | HTML source stream. |
+| baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| options | MarkdownSaveOptions | Conversion options. |
+| outputPath | String | Output file path. |
+
+### See Also
+
+* class [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertHTML(*Stream, string, [Configuration](../../../aspose.html/configuration/), [MarkdownSaveOptions](../../../aspose.html.saving/markdownsaveoptions/), string*) {#converthtml_34}
+
+Convert HTML source stream to markdown. Result is md file.
+
+```csharp
+public static void ConvertHTML(Stream stream, string baseUri, Configuration configuration, 
+    MarkdownSaveOptions options, string outputPath)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | HTML source stream. |
 | baseUri | String | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
 | configuration | Configuration | The environment configuration. |
 | options | MarkdownSaveOptions | Conversion options. |
@@ -1156,7 +1234,7 @@ public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOpti
 
 ---
 
-## ConvertHTML(*string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#converthtml_54}
+## ConvertHTML(*string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#converthtml_57}
 
 Convert html document to xps. Result is xps file.
 
@@ -1179,7 +1257,7 @@ public static void ConvertHTML(string sourcePath, XpsSaveOptions options, string
 
 ---
 
-## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#converthtml_43}
+## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#converthtml_46}
 
 Convert html document to xps. Result is xps file.
 
@@ -1205,7 +1283,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertHTML(*string, string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#converthtml_76}
+## ConvertHTML(*string, string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#converthtml_79}
 
 Convert html document to xps. Result is xps file.
 
@@ -1230,7 +1308,7 @@ public static void ConvertHTML(string content, string baseUri, XpsSaveOptions op
 
 ---
 
-## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#converthtml_65}
+## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), string*) {#converthtml_68}
 
 Convert html document to xps. Result is xps file.
 
@@ -1336,7 +1414,7 @@ public static void ConvertHTML(Url url, Configuration configuration, XpsSaveOpti
 
 ---
 
-## ConvertHTML(*string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_53}
+## ConvertHTML(*string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_56}
 
 Convert html source to xps. Result is xps file.
 
@@ -1361,7 +1439,7 @@ public static void ConvertHTML(string sourcePath, XpsSaveOptions options,
 
 ---
 
-## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_42}
+## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_45}
 
 Convert html source to xps. Result is xps file.
 
@@ -1388,7 +1466,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertHTML(*string, string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_75}
+## ConvertHTML(*string, string, [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_78}
 
 Convert html source to xps. Result is xps file.
 
@@ -1414,7 +1492,7 @@ public static void ConvertHTML(string content, string baseUri, XpsSaveOptions op
 
 ---
 
-## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_64}
+## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [XpsSaveOptions](../../../aspose.html.saving/xpssaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_67}
 
 Convert html source to xps. Result is xps file.
 
@@ -1517,7 +1595,7 @@ public static void ConvertHTML(Url url, Configuration configuration, ImageSaveOp
 
 ---
 
-## ConvertHTML(*string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#converthtml_47}
+## ConvertHTML(*string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#converthtml_50}
 
 Convert html document to image. Result is image file.
 
@@ -1540,7 +1618,7 @@ public static void ConvertHTML(string sourcePath, ImageSaveOptions options, stri
 
 ---
 
-## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#converthtml_36}
+## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#converthtml_39}
 
 Convert html document to image. Result is image file.
 
@@ -1566,7 +1644,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertHTML(*string, string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#converthtml_69}
+## ConvertHTML(*string, string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#converthtml_72}
 
 Convert html document to image. Result is image file.
 
@@ -1591,7 +1669,7 @@ public static void ConvertHTML(string content, string baseUri, ImageSaveOptions 
 
 ---
 
-## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#converthtml_58}
+## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#converthtml_61}
 
 Convert html document to image. Result is image file.
 
@@ -1697,7 +1775,7 @@ public static void ConvertHTML(Url url, Configuration configuration, ImageSaveOp
 
 ---
 
-## ConvertHTML(*string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_46}
+## ConvertHTML(*string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_49}
 
 Convert html source to image. Result is image file.
 
@@ -1722,7 +1800,7 @@ public static void ConvertHTML(string sourcePath, ImageSaveOptions options,
 
 ---
 
-## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_35}
+## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_38}
 
 Convert html source to image. Result is image file.
 
@@ -1749,7 +1827,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertHTML(*string, string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_68}
+## ConvertHTML(*string, string, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_71}
 
 Convert html source to image. Result is image file.
 
@@ -1775,7 +1853,7 @@ public static void ConvertHTML(string content, string baseUri, ImageSaveOptions 
 
 ---
 
-## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_57}
+## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#converthtml_60}
 
 Convert html source to image. Result is image file.
 
@@ -1878,7 +1956,7 @@ public static void ConvertHTML(Url url, Configuration configuration, TextSaveOpt
 
 ---
 
-## ConvertHTML(*string, [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/), string*) {#converthtml_52}
+## ConvertHTML(*string, [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/), string*) {#converthtml_55}
 
 Convert html document to text. Result is TXT file.
 
@@ -1901,7 +1979,7 @@ public static void ConvertHTML(string sourcePath, TextSaveOptions options, strin
 
 ---
 
-## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/), string*) {#converthtml_41}
+## ConvertHTML(*string, [Configuration](../../../aspose.html/configuration/), [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/), string*) {#converthtml_44}
 
 Convert html document to text. Result is TXT file.
 
@@ -1927,7 +2005,7 @@ public static void ConvertHTML(string sourcePath, Configuration configuration,
 
 ---
 
-## ConvertHTML(*string, string, [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/), string*) {#converthtml_74}
+## ConvertHTML(*string, string, [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/), string*) {#converthtml_77}
 
 Convert html document to text. Result is TXT file.
 
@@ -1952,7 +2030,7 @@ public static void ConvertHTML(string content, string baseUri, TextSaveOptions o
 
 ---
 
-## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/), string*) {#converthtml_63}
+## ConvertHTML(*string, string, [Configuration](../../../aspose.html/configuration/), [TextSaveOptions](../../../aspose.html.saving/textsaveoptions/), string*) {#converthtml_66}
 
 Convert html document to text. Result is TXT file.
 

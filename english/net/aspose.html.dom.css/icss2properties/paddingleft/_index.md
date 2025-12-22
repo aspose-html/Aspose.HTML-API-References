@@ -3,7 +3,7 @@ title: ICSS2Properties.PaddingLeft
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties PaddingLeft property. See the padding-left property definition in CSS2
 type: docs
-weight: 820
+weight: 850
 url: /net/aspose.html.dom.css/icss2properties/paddingleft/
 ---
 ## ICSS2Properties.PaddingLeft property

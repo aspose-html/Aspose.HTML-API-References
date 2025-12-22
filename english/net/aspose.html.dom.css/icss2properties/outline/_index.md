@@ -3,7 +3,7 @@ title: ICSS2Properties.Outline
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties Outline property. See the outline property definition in CSS2
 type: docs
-weight: 750
+weight: 780
 url: /net/aspose.html.dom.css/icss2properties/outline/
 ---
 ## ICSS2Properties.Outline property

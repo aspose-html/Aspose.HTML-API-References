@@ -3,7 +3,7 @@ title: ICSS2Properties.SpeakHeader
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties SpeakHeader property. See the speak-header property definition in CSS2
 type: docs
-weight: 1010
+weight: 1040
 url: /net/aspose.html.dom.css/icss2properties/speakheader/
 ---
 ## ICSS2Properties.SpeakHeader property

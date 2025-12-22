@@ -1,11 +1,93 @@
 ---
 title: Converter.ConvertEPUB
 second_title: Aspose.HTML for .NET API Reference
-description: Converter ConvertEPUB method. Convert epub source to image. Result is image file
+description: Converter ConvertEPUB method. Convert epub source to pdf. Result is pdf file
 type: docs
 weight: 10
 url: /net/aspose.html.converters/converter/convertepub/
 ---
+## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_20}
+
+Convert epub source to pdf. Result is pdf file.
+
+```csharp
+public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| stream | Stream | Conversion source. |
+| configuration | Configuration | The environment configuration. |
+| options | PdfSaveOptions | Conversion options. |
+| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_36}
+
+Convert epub source to pdf. Result is pdf file.
+
+```csharp
+public static void ConvertEPUB(string sourcePath, Configuration configuration, 
+    PdfSaveOptions options, ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourcePath | String | EPUB source file path. It will be combined with the current directory path to form an absolute URL. |
+| configuration | Configuration | The environment configuration. |
+| options | PdfSaveOptions | Conversion options. |
+| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
+
+### See Also
+
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_4}
+
+Convert epub source to pdf. Result is pdf file.
+
+```csharp
+public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSaveOptions options, 
+    ICreateStreamProvider provider)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| sourceUrl | Url | The source URL. |
+| configuration | Configuration | The environment configuration. |
+| options | PdfSaveOptions | Conversion options. |
+| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
+
+### See Also
+
+* class [Url](../../../aspose.html/url/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
+* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
+* class [Converter](../)
+* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
 ## ConvertEPUB(*Stream, [ImageSaveOptions](../../../aspose.html.saving/imagesaveoptions/), string*) {#convertepub_27}
 
 Convert epub source to image. Result is image file.
@@ -1144,88 +1226,6 @@ public static void ConvertEPUB(Url sourceUrl, PdfSaveOptions options,
 ### See Also
 
 * class [Url](../../../aspose.html/url/)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*Stream, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_20}
-
-Convert epub source to pdf. Result is pdf file.
-
-```csharp
-public static void ConvertEPUB(Stream stream, Configuration configuration, PdfSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | Stream | Conversion source. |
-| configuration | Configuration | The environment configuration. |
-| options | PdfSaveOptions | Conversion options. |
-| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
-
-### See Also
-
-* class [Configuration](../../../aspose.html/configuration/)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*string, [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_36}
-
-Convert epub source to pdf. Result is pdf file.
-
-```csharp
-public static void ConvertEPUB(string sourcePath, Configuration configuration, 
-    PdfSaveOptions options, ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourcePath | String | EPUB source file path. It will be combined with the current directory path to form an absolute URL. |
-| configuration | Configuration | The environment configuration. |
-| options | PdfSaveOptions | Conversion options. |
-| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
-
-### See Also
-
-* class [Configuration](../../../aspose.html/configuration/)
-* class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
-* interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
-* class [Converter](../)
-* namespace [Aspose.Html.Converters](../../../aspose.html.converters/)
-* assembly [Aspose.HTML](../../../)
-
----
-
-## ConvertEPUB(*[Url](../../../aspose.html/url/), [Configuration](../../../aspose.html/configuration/), [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/), [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)*) {#convertepub_4}
-
-Convert epub source to pdf. Result is pdf file.
-
-```csharp
-public static void ConvertEPUB(Url sourceUrl, Configuration configuration, PdfSaveOptions options, 
-    ICreateStreamProvider provider)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| sourceUrl | Url | The source URL. |
-| configuration | Configuration | The environment configuration. |
-| options | PdfSaveOptions | Conversion options. |
-| provider | ICreateStreamProvider | Implementation of the [`ICreateStreamProvider`](../../../aspose.html.io/icreatestreamprovider/) interface, which will be used to get an output stream. |
-
-### See Also
-
-* class [Url](../../../aspose.html/url/)
-* class [Configuration](../../../aspose.html/configuration/)
 * class [PdfSaveOptions](../../../aspose.html.saving/pdfsaveoptions/)
 * interface [ICreateStreamProvider](../../../aspose.html.io/icreatestreamprovider/)
 * class [Converter](../)

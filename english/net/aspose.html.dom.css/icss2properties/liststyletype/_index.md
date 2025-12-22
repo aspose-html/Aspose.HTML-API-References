@@ -3,7 +3,7 @@ title: ICSS2Properties.ListStyleType
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties ListStyleType property. See the list-style-type property definition in CSS2
 type: docs
-weight: 620
+weight: 650
 url: /net/aspose.html.dom.css/icss2properties/liststyletype/
 ---
 ## ICSS2Properties.ListStyleType property

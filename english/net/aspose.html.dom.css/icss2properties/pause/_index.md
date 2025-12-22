@@ -3,7 +3,7 @@ title: ICSS2Properties.Pause
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties Pause property. See the pause property definition in CSS2
 type: docs
-weight: 890
+weight: 920
 url: /net/aspose.html.dom.css/icss2properties/pause/
 ---
 ## ICSS2Properties.Pause property

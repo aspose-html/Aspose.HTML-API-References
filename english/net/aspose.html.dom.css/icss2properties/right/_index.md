@@ -3,7 +3,7 @@ title: ICSS2Properties.Right
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties Right property. See the right property definition in CSS2
 type: docs
-weight: 980
+weight: 1010
 url: /net/aspose.html.dom.css/icss2properties/right/
 ---
 ## ICSS2Properties.Right property

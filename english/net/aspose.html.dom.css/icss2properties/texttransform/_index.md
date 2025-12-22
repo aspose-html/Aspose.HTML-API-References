@@ -3,7 +3,7 @@ title: ICSS2Properties.TextTransform
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties TextTransform property. See the text-transform property definition in CSS2
 type: docs
-weight: 1110
+weight: 1140
 url: /net/aspose.html.dom.css/icss2properties/texttransform/
 ---
 ## ICSS2Properties.TextTransform property

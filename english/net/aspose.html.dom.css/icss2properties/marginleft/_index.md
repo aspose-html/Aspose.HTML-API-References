@@ -3,7 +3,7 @@ title: ICSS2Properties.MarginLeft
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties MarginLeft property. See the margin-left property definition in CSS2
 type: docs
-weight: 650
+weight: 680
 url: /net/aspose.html.dom.css/icss2properties/marginleft/
 ---
 ## ICSS2Properties.MarginLeft property

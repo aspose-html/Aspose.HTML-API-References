@@ -3,7 +3,7 @@ title: ICSS2Properties.Page
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties Page property. See the page property definition in CSS2
 type: docs
-weight: 850
+weight: 880
 url: /net/aspose.html.dom.css/icss2properties/page/
 ---
 ## ICSS2Properties.Page property

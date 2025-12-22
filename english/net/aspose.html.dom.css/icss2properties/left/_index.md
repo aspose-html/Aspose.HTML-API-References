@@ -3,7 +3,7 @@ title: ICSS2Properties.Left
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties Left property. See the left property definition in CSS2
 type: docs
-weight: 560
+weight: 590
 url: /net/aspose.html.dom.css/icss2properties/left/
 ---
 ## ICSS2Properties.Left property

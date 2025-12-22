@@ -3,7 +3,7 @@ title: ICSS2Properties.LineHeight
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties LineHeight property. See the line-height property definition in CSS2
 type: docs
-weight: 580
+weight: 610
 url: /net/aspose.html.dom.css/icss2properties/lineheight/
 ---
 ## ICSS2Properties.LineHeight property

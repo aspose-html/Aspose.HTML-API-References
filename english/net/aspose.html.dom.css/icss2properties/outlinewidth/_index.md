@@ -3,7 +3,7 @@ title: ICSS2Properties.OutlineWidth
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties OutlineWidth property. See the outline-width property definition in CSS2
 type: docs
-weight: 780
+weight: 810
 url: /net/aspose.html.dom.css/icss2properties/outlinewidth/
 ---
 ## ICSS2Properties.OutlineWidth property

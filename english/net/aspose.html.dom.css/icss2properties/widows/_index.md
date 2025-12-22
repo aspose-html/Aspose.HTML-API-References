@@ -3,7 +3,7 @@ title: ICSS2Properties.Widows
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties Widows property. See the widows property definition in CSS2
 type: docs
-weight: 1190
+weight: 1220
 url: /net/aspose.html.dom.css/icss2properties/widows/
 ---
 ## ICSS2Properties.Widows property

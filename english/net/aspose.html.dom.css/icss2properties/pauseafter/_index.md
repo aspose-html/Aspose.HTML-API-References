@@ -3,7 +3,7 @@ title: ICSS2Properties.PauseAfter
 second_title: Aspose.HTML for .NET API Reference
 description: ICSS2Properties PauseAfter property. See the pause-after property definition in CSS2
 type: docs
-weight: 900
+weight: 930
 url: /net/aspose.html.dom.css/icss2properties/pauseafter/
 ---
 ## ICSS2Properties.PauseAfter property
