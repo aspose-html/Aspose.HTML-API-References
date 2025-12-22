@@ -3,7 +3,7 @@ title: text_transform property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 1130
+weight: 1160
 url: /python-net/aspose.html.dom.css/icss2properties/text_transform/
 is_root: false
 ---

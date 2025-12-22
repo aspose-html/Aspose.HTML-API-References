@@ -3,7 +3,7 @@ title: CSS_PT property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 370
+weight: 380
 url: /python-net/aspose.html.dom.css/cssprimitivevalue/css_pt/
 is_root: false
 ---

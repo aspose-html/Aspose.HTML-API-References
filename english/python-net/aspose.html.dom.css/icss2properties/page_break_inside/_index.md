@@ -3,7 +3,7 @@ title: page_break_inside property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 900
+weight: 930
 url: /python-net/aspose.html.dom.css/icss2properties/page_break_inside/
 is_root: false
 ---

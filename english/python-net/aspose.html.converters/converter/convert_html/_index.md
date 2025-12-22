@@ -875,6 +875,46 @@ def convert_html(self, content, base_uri, options, output_path):
 | output_path | str | Output file path. |
 
 
+## convert_html {#io.RawIOBase-aspose.html.Configuration-aspose.html.saving.MarkdownSaveOptions-str}
+
+Convert HTML source stream to markdown. Result is md file.
+
+
+
+```python
+def convert_html(self, stream, configuration, options, output_path):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| stream | io.RawIOBase | HTML source stream. |
+| configuration | [`Configuration`](/html/python-net/aspose.html/configuration) | The environment configuration. |
+| options | aspose.html.saving.MarkdownSaveOptions | Conversion options. |
+| output_path | str | Output file path. |
+
+
+## convert_html {#io.RawIOBase-str-aspose.html.saving.MarkdownSaveOptions-str}
+
+Convert HTML source stream to markdown. Result is md file.
+
+
+
+```python
+def convert_html(self, stream, base_uri, options, output_path):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| stream | io.RawIOBase | HTML source stream. |
+| base_uri | str | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| options | aspose.html.saving.MarkdownSaveOptions | Conversion options. |
+| output_path | str | Output file path. |
+
+
 ## convert_html {#aspose.html.Url-aspose.html.Configuration-aspose.html.saving.XpsSaveOptions-str}
 
 Convert html document to xps. Result is xps file.
@@ -1373,6 +1413,27 @@ def convert_html(self, content, base_uri, configuration, options, output_path):
 | Parameter | Type | Description |
 | :- | :- | :- |
 | content | str | Inline string html content. |
+| base_uri | str | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
+| configuration | [`Configuration`](/html/python-net/aspose.html/configuration) | The environment configuration. |
+| options | aspose.html.saving.MarkdownSaveOptions | Conversion options. |
+| output_path | str | Output file path. |
+
+
+## convert_html {#io.RawIOBase-str-aspose.html.Configuration-aspose.html.saving.MarkdownSaveOptions-str}
+
+Convert HTML source stream to markdown. Result is md file.
+
+
+
+```python
+def convert_html(self, stream, base_uri, configuration, options, output_path):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| stream | io.RawIOBase | HTML source stream. |
 | base_uri | str | The base URI of the document. It will be combined with the current directory path to form an absolute URL. |
 | configuration | [`Configuration`](/html/python-net/aspose.html/configuration) | The environment configuration. |
 | options | aspose.html.saving.MarkdownSaveOptions | Conversion options. |

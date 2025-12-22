@@ -3,7 +3,7 @@ title: CSS_RAD property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 390
+weight: 400
 url: /python-net/aspose.html.dom.css/cssprimitivevalue/css_rad/
 is_root: false
 ---

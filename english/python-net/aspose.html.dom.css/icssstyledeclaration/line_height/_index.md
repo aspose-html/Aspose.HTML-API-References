@@ -3,7 +3,7 @@ title: line_height property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 670
+weight: 700
 url: /python-net/aspose.html.dom.css/icssstyledeclaration/line_height/
 is_root: false
 ---

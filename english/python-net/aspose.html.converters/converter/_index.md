@@ -63,6 +63,9 @@ The Converter type exposes the following members:
 | [convert_html](/html/python-net/aspose.html.converters/converter/convert_html/#str-aspose.html.Configuration-aspose.html.saving.MarkdownSaveOptions-str) | Convert html source to markdown. Result is md file. |
 | [convert_html](/html/python-net/aspose.html.converters/converter/convert_html/#str-str-aspose.html.saving.MarkdownSaveOptions-str) | Convert html source to markdown. Result is md file. |
 | [convert_html](/html/python-net/aspose.html.converters/converter/convert_html/#str-str-aspose.html.Configuration-aspose.html.saving.MarkdownSaveOptions-str) | Convert html source to markdown. Result is md file. |
+| [convert_html](/html/python-net/aspose.html.converters/converter/convert_html/#io.RawIOBase-aspose.html.Configuration-aspose.html.saving.MarkdownSaveOptions-str) | Convert HTML source stream to markdown. Result is md file. |
+| [convert_html](/html/python-net/aspose.html.converters/converter/convert_html/#io.RawIOBase-str-aspose.html.saving.MarkdownSaveOptions-str) | Convert HTML source stream to markdown. Result is md file. |
+| [convert_html](/html/python-net/aspose.html.converters/converter/convert_html/#io.RawIOBase-str-aspose.html.Configuration-aspose.html.saving.MarkdownSaveOptions-str) | Convert HTML source stream to markdown. Result is md file. |
 | [convert_html](/html/python-net/aspose.html.converters/converter/convert_html/#aspose.html.HTMLDocument-aspose.html.saving.XpsSaveOptions-str) | Convert html document to xps. Result is xps file. |
 | [convert_html](/html/python-net/aspose.html.converters/converter/convert_html/#aspose.html.Url-aspose.html.saving.XpsSaveOptions-str) | Convert html document to xps. Result is xps file. |
 | [convert_html](/html/python-net/aspose.html.converters/converter/convert_html/#aspose.html.Url-aspose.html.Configuration-aspose.html.saving.XpsSaveOptions-str) | Convert html document to xps. Result is xps file. |

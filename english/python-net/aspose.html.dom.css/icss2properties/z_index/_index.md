@@ -3,7 +3,7 @@ title: z_index property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 1240
+weight: 1270
 url: /python-net/aspose.html.dom.css/icss2properties/z_index/
 is_root: false
 ---

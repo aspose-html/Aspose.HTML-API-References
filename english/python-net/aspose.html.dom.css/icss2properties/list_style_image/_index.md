@@ -3,7 +3,7 @@ title: list_style_image property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 620
+weight: 650
 url: /python-net/aspose.html.dom.css/icss2properties/list_style_image/
 is_root: false
 ---

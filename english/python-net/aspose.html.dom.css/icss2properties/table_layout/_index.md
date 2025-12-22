@@ -3,7 +3,7 @@ title: table_layout property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 1080
+weight: 1110
 url: /python-net/aspose.html.dom.css/icss2properties/table_layout/
 is_root: false
 ---

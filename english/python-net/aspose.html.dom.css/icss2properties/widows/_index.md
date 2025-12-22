@@ -3,7 +3,7 @@ title: widows property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 1210
+weight: 1240
 url: /python-net/aspose.html.dom.css/icss2properties/widows/
 is_root: false
 ---

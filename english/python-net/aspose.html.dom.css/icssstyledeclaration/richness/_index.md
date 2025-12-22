@@ -3,7 +3,7 @@ title: richness property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 1070
+weight: 1100
 url: /python-net/aspose.html.dom.css/icssstyledeclaration/richness/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: CSS_PX property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 380
+weight: 390
 url: /python-net/aspose.html.dom.css/cssprimitivevalue/css_px/
 is_root: false
 ---

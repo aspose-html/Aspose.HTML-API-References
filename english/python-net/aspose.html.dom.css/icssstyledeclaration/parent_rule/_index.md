@@ -3,7 +3,7 @@ title: parent_rule property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 980
+weight: 1010
 url: /python-net/aspose.html.dom.css/icssstyledeclaration/parent_rule/
 is_root: false
 ---
