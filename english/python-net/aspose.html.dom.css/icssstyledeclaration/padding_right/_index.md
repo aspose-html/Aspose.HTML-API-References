@@ -3,7 +3,7 @@ title: padding_right property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 920
+weight: 950
 url: /python-net/aspose.html.dom.css/icssstyledeclaration/padding_right/
 is_root: false
 ---

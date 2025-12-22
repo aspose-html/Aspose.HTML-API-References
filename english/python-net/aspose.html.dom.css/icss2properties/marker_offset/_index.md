@@ -3,7 +3,7 @@ title: marker_offset property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 700
+weight: 730
 url: /python-net/aspose.html.dom.css/icss2properties/marker_offset/
 is_root: false
 ---

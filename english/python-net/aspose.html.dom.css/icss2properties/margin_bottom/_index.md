@@ -3,7 +3,7 @@ title: margin_bottom property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 660
+weight: 690
 url: /python-net/aspose.html.dom.css/icss2properties/margin_bottom/
 is_root: false
 ---

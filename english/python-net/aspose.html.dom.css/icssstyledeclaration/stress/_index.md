@@ -3,7 +3,7 @@ title: stress property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 1150
+weight: 1180
 url: /python-net/aspose.html.dom.css/icssstyledeclaration/stress/
 is_root: false
 ---

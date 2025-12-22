@@ -3,7 +3,7 @@ title: pause property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 910
+weight: 940
 url: /python-net/aspose.html.dom.css/icss2properties/pause/
 is_root: false
 ---

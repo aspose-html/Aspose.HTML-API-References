@@ -3,7 +3,7 @@ title: CSS_IDENT property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 270
+weight: 280
 url: /python-net/aspose.html.dom.css/cssprimitivevalue/css_ident/
 is_root: false
 ---

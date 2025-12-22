@@ -3,7 +3,7 @@ title: vertical_align property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 1240
+weight: 1270
 url: /python-net/aspose.html.dom.css/icssstyledeclaration/vertical_align/
 is_root: false
 ---

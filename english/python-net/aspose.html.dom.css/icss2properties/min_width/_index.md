@@ -3,7 +3,7 @@ title: min_width property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 750
+weight: 780
 url: /python-net/aspose.html.dom.css/icss2properties/min_width/
 is_root: false
 ---

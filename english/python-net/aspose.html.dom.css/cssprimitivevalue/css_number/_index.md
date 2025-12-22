@@ -3,7 +3,7 @@ title: CSS_NUMBER property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 330
+weight: 340
 url: /python-net/aspose.html.dom.css/cssprimitivevalue/css_number/
 is_root: false
 ---

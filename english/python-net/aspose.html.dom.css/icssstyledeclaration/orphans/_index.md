@@ -3,7 +3,7 @@ title: orphans property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 830
+weight: 860
 url: /python-net/aspose.html.dom.css/icssstyledeclaration/orphans/
 is_root: false
 ---

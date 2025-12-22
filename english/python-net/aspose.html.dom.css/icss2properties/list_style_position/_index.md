@@ -3,7 +3,7 @@ title: list_style_position property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 630
+weight: 660
 url: /python-net/aspose.html.dom.css/icss2properties/list_style_position/
 is_root: false
 ---

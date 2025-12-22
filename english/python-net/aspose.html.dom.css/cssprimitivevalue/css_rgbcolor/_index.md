@@ -3,7 +3,7 @@ title: CSS_RGBCOLOR property
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 420
+weight: 430
 url: /python-net/aspose.html.dom.css/cssprimitivevalue/css_rgbcolor/
 is_root: false
 ---
