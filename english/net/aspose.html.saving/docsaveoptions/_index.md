@@ -3,7 +3,7 @@ title: DocSaveOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.DocSaveOptions class. Specific options data class
 type: docs
-weight: 4810
+weight: 4840
 url: /net/aspose.html.saving/docsaveoptions/
 ---
 ## DocSaveOptions class

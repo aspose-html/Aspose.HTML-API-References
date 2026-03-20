@@ -3,7 +3,7 @@ title: MHTMLSaveOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.MHTMLSaveOptions class. Represents MHTML save options
 type: docs
-weight: 4850
+weight: 4880
 url: /net/aspose.html.saving/mhtmlsaveoptions/
 ---
 ## MHTMLSaveOptions class

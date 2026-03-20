@@ -3,7 +3,7 @@ title: TextInfo class
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 130
+weight: 160
 url: /python-net/aspose.html.rendering/textinfo/
 is_root: false
 ---

@@ -23,7 +23,10 @@ render documents/files into IDevice implementation.
 | [`GraphicContext`](/html/python-net/aspose.html.rendering/graphiccontext) | Holds current graphics control parameters.<br/>These parameters define the global framework within which the graphics operators execute. |
 | [`HtmlRenderer`](/html/python-net/aspose.html.rendering/htmlrenderer) | Represents an HTML document renderer. |
 | [`IDevice`](/html/python-net/aspose.html.rendering/idevice) | Defines methods and properties that support custom rendering of the graphic elements like paths, text and images. |
+| [`MhtmlAttachmentInfo`](/html/python-net/aspose.html.rendering/mhtmlattachmentinfo) | Represents information about an attachment in an MHT file. |
+| [`MhtmlAttachments`](/html/python-net/aspose.html.rendering/mhtmlattachments) | Provides methods for working with MHT attachments. |
 | [`MhtmlRenderer`](/html/python-net/aspose.html.rendering/mhtmlrenderer) | Represents a MHTML document renderer. |
+| [`MhtmlRenderingOptions`](/html/python-net/aspose.html.rendering/mhtmlrenderingoptions) | Represents options for rendering MHTML documents with attachment selection. |
 | [`PageSetup`](/html/python-net/aspose.html.rendering/pagesetup) | Represents a page setup object is used for configuration output page-set. |
 | [`Renderer`](/html/python-net/aspose.html.rendering/renderer) | Represents a base class for all renderers and implemnts IDisposable interface. |
 | [`RenderingOptions`](/html/python-net/aspose.html.rendering/renderingoptions) | Represents rendering options. |

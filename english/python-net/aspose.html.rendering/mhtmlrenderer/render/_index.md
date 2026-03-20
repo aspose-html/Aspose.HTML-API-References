@@ -198,6 +198,88 @@ def render(self, device, sources, configuration, timeout):
 | timeout | TimeSpan |  |
 
 
+## render {#aspose.html.rendering.IDevice-io.RawIOBase-aspose.html.Configuration-aspose.html.rendering.MhtmlRenderingOptions}
+
+Renders MHTML document into specified [`IDevice`](/html/python-net/aspose.html.rendering/idevice) with attachment selection.
+
+
+
+```python
+def render(self, device, source, configuration, options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| device | [`IDevice`](/html/python-net/aspose.html.rendering/idevice) | The device. |
+| source | io.RawIOBase | The MHTML document. |
+| configuration | [`Configuration`](/html/python-net/aspose.html/configuration) | The configuration. |
+| options | [`MhtmlRenderingOptions`](/html/python-net/aspose.html.rendering/mhtmlrenderingoptions) | The MHTML rendering options that specify which attachments to render. |
+
+
+## render {#aspose.html.rendering.IDevice-list-aspose.html.Configuration-aspose.html.rendering.MhtmlRenderingOptions}
+
+
+
+
+
+```python
+def render(self, device, sources, configuration, options):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| device | [`IDevice`](/html/python-net/aspose.html.rendering/idevice) |  |
+| sources | list |  |
+| configuration | [`Configuration`](/html/python-net/aspose.html/configuration) |  |
+| options | [`MhtmlRenderingOptions`](/html/python-net/aspose.html.rendering/mhtmlrenderingoptions) |  |
+
+
+## render {#aspose.html.rendering.IDevice-io.RawIOBase-aspose.html.Configuration-aspose.html.rendering.MhtmlRenderingOptions-TimeSpan}
+
+
+
+
+
+```python
+def render(self, device, source, configuration, options, timeout):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| device | [`IDevice`](/html/python-net/aspose.html.rendering/idevice) |  |
+| source | io.RawIOBase |  |
+| configuration | [`Configuration`](/html/python-net/aspose.html/configuration) |  |
+| options | [`MhtmlRenderingOptions`](/html/python-net/aspose.html.rendering/mhtmlrenderingoptions) |  |
+| timeout | TimeSpan |  |
+
+
+## render {#aspose.html.rendering.IDevice-list-aspose.html.Configuration-aspose.html.rendering.MhtmlRenderingOptions-TimeSpan}
+
+
+
+
+
+```python
+def render(self, device, sources, configuration, options, timeout):
+    ...
+```
+
+
+| Parameter | Type | Description |
+| :- | :- | :- |
+| device | [`IDevice`](/html/python-net/aspose.html.rendering/idevice) |  |
+| sources | list |  |
+| configuration | [`Configuration`](/html/python-net/aspose.html/configuration) |  |
+| options | [`MhtmlRenderingOptions`](/html/python-net/aspose.html.rendering/mhtmlrenderingoptions) |  |
+| timeout | TimeSpan |  |
+
+
 
 ### See Also
 * module [`aspose.html.rendering`](../../)

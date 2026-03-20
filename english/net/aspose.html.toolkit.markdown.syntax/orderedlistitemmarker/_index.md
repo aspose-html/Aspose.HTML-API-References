@@ -3,7 +3,7 @@ title: OrderedListItemMarker Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.OrderedListItemMarker class. Represent the ordered list item marker
 type: docs
-weight: 5560
+weight: 5590
 url: /net/aspose.html.toolkit.markdown.syntax/orderedlistitemmarker/
 ---
 ## OrderedListItemMarker class

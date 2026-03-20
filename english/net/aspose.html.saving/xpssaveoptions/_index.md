@@ -3,7 +3,7 @@ title: XpsSaveOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.XpsSaveOptions class. Specific options data class
 type: docs
-weight: 5000
+weight: 5030
 url: /net/aspose.html.saving/xpssaveoptions/
 ---
 ## XpsSaveOptions class

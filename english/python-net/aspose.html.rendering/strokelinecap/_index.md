@@ -3,7 +3,7 @@ title: StrokeLineCap enumeration
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 180
+weight: 210
 url: /python-net/aspose.html.rendering/strokelinecap/
 is_root: false
 ---
