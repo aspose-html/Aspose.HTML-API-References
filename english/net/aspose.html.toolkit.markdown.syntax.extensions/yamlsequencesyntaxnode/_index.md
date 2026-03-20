@@ -3,7 +3,7 @@ title: YamlSequenceSyntaxNode Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Toolkit.Markdown.Syntax.Extensions.YamlSequenceSyntaxNode class. Defines the YamlSequenceSyntaxNode
 type: docs
-weight: 5250
+weight: 5280
 url: /net/aspose.html.toolkit.markdown.syntax.extensions/yamlsequencesyntaxnode/
 ---
 ## YamlSequenceSyntaxNode class

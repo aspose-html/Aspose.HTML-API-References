@@ -3,7 +3,7 @@ title: Renderer class
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 100
+weight: 130
 url: /python-net/aspose.html.rendering/renderer/
 is_root: false
 ---

@@ -3,7 +3,7 @@ title: ResourceHandlingContext Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.ResourceHandlingContext class. This class contains information used when processing resources
 type: docs
-weight: 4940
+weight: 4970
 url: /net/aspose.html.saving/resourcehandlingcontext/
 ---
 ## ResourceHandlingContext class

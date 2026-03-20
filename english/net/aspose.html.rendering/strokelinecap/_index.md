@@ -3,7 +3,7 @@ title: StrokeLineCap Enum
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Rendering.StrokeLineCap enum. Specifies the line cap used in rendering SVG and HTML
 type: docs
-weight: 4730
+weight: 4760
 url: /net/aspose.html.rendering/strokelinecap/
 ---
 ## StrokeLineCap enumeration

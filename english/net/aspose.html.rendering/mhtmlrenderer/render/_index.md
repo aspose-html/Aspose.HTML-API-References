@@ -6,7 +6,7 @@ type: docs
 weight: 20
 url: /net/aspose.html.rendering/mhtmlrenderer/render/
 ---
-## Render(*[IDevice](../../idevice/), TimeSpan, params Stream[]*) {#render_10}
+## Render(*[IDevice](../../idevice/), TimeSpan, params Stream[]*) {#render_14}
 
 Renders multiple MHTML documents into specified [`IDevice`](../../idevice/).
 
@@ -29,7 +29,7 @@ public override void Render(IDevice device, TimeSpan timeout, params Stream[] so
 
 ---
 
-## Render(*[IDevice](../../idevice/), CancellationToken, params Stream[]*) {#render_9}
+## Render(*[IDevice](../../idevice/), CancellationToken, params Stream[]*) {#render_13}
 
 Defines a method for rendering multiple MHTML documents into a specific [`IDevice`](../../idevice/), using a cancellation token to request cancellation of the operation.
 
@@ -53,7 +53,7 @@ public override void Render(IDevice device, CancellationToken cancellationToken,
 
 ---
 
-## Render(*[IDevice](../../idevice/), Stream, [Configuration](../../../aspose.html/configuration/)*) {#render_4}
+## Render(*[IDevice](../../idevice/), Stream, [Configuration](../../../aspose.html/configuration/)*) {#render_6}
 
 Renders MHTML document into specified [`IDevice`](../../idevice/).
 
@@ -77,7 +77,7 @@ public void Render(IDevice device, Stream source, Configuration configuration)
 
 ---
 
-## Render(*[IDevice](../../idevice/), Stream, [Configuration](../../../aspose.html/configuration/), TimeSpan*) {#render_5}
+## Render(*[IDevice](../../idevice/), Stream, [Configuration](../../../aspose.html/configuration/), TimeSpan*) {#render_9}
 
 Renders MHTML document into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
@@ -126,7 +126,7 @@ public void Render(IDevice device, IList<Stream> sources, Configuration configur
 
 ---
 
-## Render(*[IDevice](../../idevice/), IList&lt;Stream&gt;, [Configuration](../../../aspose.html/configuration/), TimeSpan*) {#render_2}
+## Render(*[IDevice](../../idevice/), IList&lt;Stream&gt;, [Configuration](../../../aspose.html/configuration/), TimeSpan*) {#render_4}
 
 Renders multiple MHTML documents into specified [`IDevice`](../../idevice/). The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
 
@@ -146,6 +146,116 @@ public void Render(IDevice device, IList<Stream> sources, Configuration configur
 
 * interface [IDevice](../../idevice/)
 * class [Configuration](../../../aspose.html/configuration/)
+* class [MhtmlRenderer](../)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## Render(*[IDevice](../../idevice/), Stream, [Configuration](../../../aspose.html/configuration/), [MhtmlRenderingOptions](../../mhtmlrenderingoptions/)*) {#render_7}
+
+Renders MHTML document into specified [`IDevice`](../../idevice/) with attachment selection.
+
+```csharp
+public void Render(IDevice device, Stream source, Configuration configuration, 
+    MhtmlRenderingOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| device | IDevice | The device. |
+| source | Stream | The MHTML document. |
+| configuration | Configuration | The configuration. |
+| options | MhtmlRenderingOptions | The MHTML rendering options that specify which attachments to render. |
+
+### See Also
+
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MhtmlRenderingOptions](../../mhtmlrenderingoptions/)
+* class [MhtmlRenderer](../)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## Render(*[IDevice](../../idevice/), Stream, [Configuration](../../../aspose.html/configuration/), [MhtmlRenderingOptions](../../mhtmlrenderingoptions/), TimeSpan*) {#render_8}
+
+Renders MHTML document into specified [`IDevice`](../../idevice/) with attachment selection. The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+
+```csharp
+public void Render(IDevice device, Stream source, Configuration configuration, 
+    MhtmlRenderingOptions options, TimeSpan timeout)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| device | IDevice | The device. |
+| source | Stream | The MHTML document. |
+| configuration | Configuration | The configuration. |
+| options | MhtmlRenderingOptions | The MHTML rendering options that specify which attachments to render. |
+| timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
+
+### See Also
+
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MhtmlRenderingOptions](../../mhtmlrenderingoptions/)
+* class [MhtmlRenderer](../)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## Render(*[IDevice](../../idevice/), IList&lt;Stream&gt;, [Configuration](../../../aspose.html/configuration/), [MhtmlRenderingOptions](../../mhtmlrenderingoptions/)*) {#render_2}
+
+Renders multiple MHTML documents into specified [`IDevice`](../../idevice/) with attachment selection.
+
+```csharp
+public void Render(IDevice device, IList<Stream> sources, Configuration configuration, 
+    MhtmlRenderingOptions options)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| device | IDevice | The device. |
+| sources | IList`1 | The IList of MHTML documents to render. |
+| configuration | Configuration | The configuration. |
+| options | MhtmlRenderingOptions | The MHTML rendering options that specify which attachments to render. |
+
+### See Also
+
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MhtmlRenderingOptions](../../mhtmlrenderingoptions/)
+* class [MhtmlRenderer](../)
+* namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
+* assembly [Aspose.HTML](../../../)
+
+---
+
+## Render(*[IDevice](../../idevice/), IList&lt;Stream&gt;, [Configuration](../../../aspose.html/configuration/), [MhtmlRenderingOptions](../../mhtmlrenderingoptions/), TimeSpan*) {#render_3}
+
+Renders multiple MHTML documents into specified [`IDevice`](../../idevice/) with attachment selection. The rendering will be performed once there are no any network operations for loading resources, active timers, animation tasks or specified timeout is elapsed.
+
+```csharp
+public void Render(IDevice device, IList<Stream> sources, Configuration configuration, 
+    MhtmlRenderingOptions options, TimeSpan timeout)
+```
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| device | IDevice | The device. |
+| sources | IList`1 | The IList of MHTML documents to render. |
+| configuration | Configuration | The configuration. |
+| options | MhtmlRenderingOptions | The MHTML rendering options that specify which attachments to render. |
+| timeout | TimeSpan | A TimeSpan that represents the number of milliseconds to wait, or a TimeSpan that represents -1 millisecond to wait indefinitely. |
+
+### See Also
+
+* interface [IDevice](../../idevice/)
+* class [Configuration](../../../aspose.html/configuration/)
+* class [MhtmlRenderingOptions](../../mhtmlrenderingoptions/)
 * class [MhtmlRenderer](../)
 * namespace [Aspose.Html.Rendering](../../../aspose.html.rendering/)
 * assembly [Aspose.HTML](../../../)

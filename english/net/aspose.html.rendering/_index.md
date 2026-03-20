@@ -18,7 +18,10 @@ The **Aspose.Html.Rendering** namespace consists of numerous renderer objects as
 | [EpubRenderer](./epubrenderer/) | Represents a EPub document renderer. |
 | [GraphicContext](./graphiccontext/) | Holds current graphics control parameters. These parameters define the global framework within which the graphics operators execute. |
 | [HtmlRenderer](./htmlrenderer/) | Represents an HTML document renderer. |
+| [MhtmlAttachmentInfo](./mhtmlattachmentinfo/) | Represents information about an attachment in an MHT file. |
+| [MhtmlAttachments](./mhtmlattachments/) | Provides methods for working with MHT attachments. |
 | [MhtmlRenderer](./mhtmlrenderer/) | Represents a MHTML document renderer. |
+| [MhtmlRenderingOptions](./mhtmlrenderingoptions/) | Represents options for rendering MHTML documents with attachment selection. |
 | [PageSetup](./pagesetup/) | Represents a page setup object is used for configuration output page-set. |
 | [Renderer](./renderer/) | Represents a base class for all renderers and implemnts IDisposable interface. |
 | [Renderer<TSource>](./renderer-1/) | The base abstract class for all renderers. |

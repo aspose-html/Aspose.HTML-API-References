@@ -3,7 +3,7 @@ title: PageLayoutOptions enumeration
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 170
+weight: 200
 url: /python-net/aspose.html.rendering/pagelayoutoptions/
 is_root: false
 ---

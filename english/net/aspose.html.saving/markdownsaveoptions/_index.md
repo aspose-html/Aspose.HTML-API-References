@@ -3,7 +3,7 @@ title: MarkdownSaveOptions Class
 second_title: Aspose.HTML for .NET API Reference
 description: Aspose.Html.Saving.MarkdownSaveOptions class. Represents Markdown save options
 type: docs
-weight: 4880
+weight: 4910
 url: /net/aspose.html.saving/markdownsaveoptions/
 ---
 ## MarkdownSaveOptions class

@@ -3,7 +3,7 @@ title: MhtmlRenderer class
 second_title: Aspose.HTML for Python via .NET API References
 description: 
 type: docs
-weight: 80
+weight: 100
 url: /python-net/aspose.html.rendering/mhtmlrenderer/
 is_root: false
 ---
@@ -35,6 +35,10 @@ The MhtmlRenderer type exposes the following members:
 | [render](/html/python-net/aspose.html.rendering/mhtmlrenderer/render/#aspose.html.rendering.IDevice-io.RawIOBase-aspose.html.Configuration-TimeSpan) |  |
 | [render](/html/python-net/aspose.html.rendering/mhtmlrenderer/render/#aspose.html.rendering.IDevice-list-aspose.html.Configuration) |  |
 | [render](/html/python-net/aspose.html.rendering/mhtmlrenderer/render/#aspose.html.rendering.IDevice-list-aspose.html.Configuration-TimeSpan) |  |
+| [render](/html/python-net/aspose.html.rendering/mhtmlrenderer/render/#aspose.html.rendering.IDevice-io.RawIOBase-aspose.html.Configuration-aspose.html.rendering.MhtmlRenderingOptions) | Renders MHTML document into specified [`IDevice`](/html/python-net/aspose.html.rendering/idevice) with attachment selection. |
+| [render](/html/python-net/aspose.html.rendering/mhtmlrenderer/render/#aspose.html.rendering.IDevice-io.RawIOBase-aspose.html.Configuration-aspose.html.rendering.MhtmlRenderingOptions-TimeSpan) |  |
+| [render](/html/python-net/aspose.html.rendering/mhtmlrenderer/render/#aspose.html.rendering.IDevice-list-aspose.html.Configuration-aspose.html.rendering.MhtmlRenderingOptions) |  |
+| [render](/html/python-net/aspose.html.rendering/mhtmlrenderer/render/#aspose.html.rendering.IDevice-list-aspose.html.Configuration-aspose.html.rendering.MhtmlRenderingOptions-TimeSpan) |  |
 | [render](/html/python-net/aspose.html.rendering/mhtmlrenderer/render/#aspose.html.rendering.IDevice-io.RawIOBase) |  |
 | [render](/html/python-net/aspose.html.rendering/mhtmlrenderer/render/#aspose.html.rendering.IDevice-io.RawIOBase-TimeSpan) |  |
 | [render](/html/python-net/aspose.html.rendering/mhtmlrenderer/render/#aspose.html.rendering.IDevice-io.RawIOBase-int) |  |
