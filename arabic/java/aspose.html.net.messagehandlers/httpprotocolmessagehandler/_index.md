@@ -1,0 +1,39 @@
+---
+title: "فئة HttpProtocolMessageHandler"
+second_title: "مرجع API لـ Aspose.HTML for Java"
+description: "الفئة com.aspose.html.net.messagehandlers.HttpProtocolMessageHandler. تمثل معالج رسائل بروتوكول http"
+type: docs
+
+url: /ar/java/com.aspose.html.net.messagehandlers/httpprotocolmessagehandler/
+---
+## HttpProtocolMessageHandler class
+
+يمثل معالج رسائل بروتوكول `http:`.
+
+```java
+public class HttpProtocolMessageHandler : MessageHandler
+```
+
+## المُنشئات
+
+| الاسم | الوصف |
+| --- | --- |
+| [HttpProtocolMessageHandler](httpprotocolmessagehandler/)() | ينشئ مثيلًا جديدًا من الفئة `HttpProtocolMessageHandler`. |
+
+## الخصائص
+
+| الاسم | الوصف |
+| --- | --- |
+| [getFilters](../../com.aspose.html.net/messagehandler/filters/) يحصل على قائمة الفلاتر المطابقة لنوع المعالج المحدد. |
+
+## الطرق
+
+| الاسم | الوصف |
+| --- | --- |
+| [invoke](../../com.aspose.html.net.messagehandlers/httpprotocolmessagehandler/invoke/)(INetworkOperationContext) | عند تجاوزها في فئة مشتقة تُستخدم لتنفيذ معالجة الرسائل. |
+
+### انظر أيضًا
+
+* class [MessageHandler](../../com.aspose.html.net/messagehandler/)
+* package [com.aspose.html.net.messagehandlers](../../com.aspose.html.net.messagehandlers/)
+* package [Aspose.HTML](../../)

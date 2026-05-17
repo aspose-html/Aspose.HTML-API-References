@@ -1,0 +1,29 @@
+---
+title: "SVGMatrix.SkewY"
+second_title: "مرجع API لـ Aspose.HTML for Java"
+description: "طريقة SVGMatrix. تقوم بعملية ضرب ما بعد تحويل skewY على المصفوفة الحالية وتعيد المصفوفة الناتجة"
+type: docs
+
+url: /ar/java/com.aspose.html.dom.svg.datatypes/svgmatrix/skewy/
+---
+## SVGMatrix.SkewY method
+
+يُضيف عملية تحويل skewY إلى المصفوفة الحالية ويُعيد المصفوفة الناتجة.
+
+```java
+public SVGMatrix SkewY(float angle)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| زاوية | Single | الزاوية. |
+
+### قيمة الإرجاع
+
+زاوية الانحراف.
+
+### انظر أيضًا
+
+* class [SVGMatrix](../)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
+* package [Aspose.HTML](../../../)

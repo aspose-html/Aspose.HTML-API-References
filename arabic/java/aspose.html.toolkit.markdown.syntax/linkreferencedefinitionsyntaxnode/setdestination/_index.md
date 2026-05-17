@@ -1,0 +1,26 @@
+---
+title: "LinkReferenceDefinitionSyntaxNode.SetDestination"
+second_title: "مرجع API لـ Aspose.HTML for Java"
+description: "طريقة LinkReferenceDefinitionSyntaxNode. يضبط وجهة مرجع الرابط"
+type: docs
+
+url: /ar/java/com.aspose.html.toolkit.markdown.syntax/linkreferencedefinitionsyntaxnode/setdestination/
+---
+## LinkReferenceDefinitionSyntaxNode.SetDestination method
+
+يضبط وجهة مرجع الرابط.
+
+```java
+public void SetDestination(LinkDestinationSyntaxNode destination)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| destination | LinkDestinationSyntaxNode | الـ [`LinkDestinationSyntaxNode`](../../linkdestinationsyntaxnode/) كائن. |
+
+### انظر أيضًا
+
+* class [LinkDestinationSyntaxNode](../../linkdestinationsyntaxnode/)
+* class [LinkReferenceDefinitionSyntaxNode](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)

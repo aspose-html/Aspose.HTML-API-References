@@ -1,0 +1,56 @@
+---
+title: "FileCreateStreamProvider.GetStream"
+second_title: "مرجع API لـ Aspose.HTML for Java"
+description: "طريقة FileCreateStreamProvider. تُوفر تدفقًا للعرض."
+type: docs
+
+url: /ar/java/com.aspose.html.io/filecreatestreamprovider/getstream/
+---
+## GetStream(String, String) {#getstream}
+
+يوفر تدفقًا للعرض.
+
+```java
+public Stream GetStream(String name, String extension)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| الاسم | String | اسم التدفق. |
+| الامتداد | String | امتداد اسم الملف لاستخدامه إذا تم إنشاء تدفق ملف. |
+
+### قيمة الإرجاع
+
+كائن Stream يُستخدم لكتابة البيانات أثناء عمليات العرض.
+
+### انظر أيضًا
+
+* class [FileCreateStreamProvider](../)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## GetStream(String, String, int) {#getstream_1}
+
+يوفر تدفقًا للعرض.
+
+```java
+public Stream GetStream(String name, String extension, int page)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| الاسم | String | اسم التدفق. |
+| الامتداد | String | امتداد اسم الملف لاستخدامه إذا تم إنشاء تدفق ملف. |
+| الصفحة | Int32 | رقم الصفحة في المستند. |
+
+### قيمة الإرجاع
+
+كائن Stream يُستخدم لكتابة البيانات أثناء عمليات العرض.
+
+### انظر أيضًا
+
+* class [FileCreateStreamProvider](../)
+* package [com.aspose.html.io](../../../com.aspose.html.io/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,32 @@
+---
+title: "Document.CreateDocumentFragment"
+second_title: "مرجع API لـ Aspose.HTML for Java"
+description: "طريقة Document. تنشئ DocumentFragment جديدًا فارغًا يمكن إضافة عقد DOM إليه لبناء شجرة DOM خارج الشاشة"
+type: docs
+
+url: /ar/java/com.aspose.html.dom/document/createdocumentfragment/
+---
+## Document.CreateDocumentFragment method
+
+ينشئ [`DocumentFragment`](../../documentfragment/) جديدًا فارغًا يمكن إضافة عقد DOM إليه لبناء شجرة DOM خارج الشاشة.
+
+```java
+public DocumentFragment CreateDocumentFragment()
+```
+
+### قيمة الإرجاع
+
+الـ[`DocumentFragment`](../../documentfragment/).
+
+## الأمثلة
+
+```java
+var fragment = document.CreateDocumentFragment();
+```
+
+### انظر أيضًا
+
+* class [DocumentFragment](../../documentfragment/)
+* class [Document](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

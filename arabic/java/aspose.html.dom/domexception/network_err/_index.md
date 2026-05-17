@@ -1,0 +1,21 @@
+---
+title: "DOMException.NETWORK_ERR"
+second_title: "مرجع API لـ Aspose.HTML for Java"
+description: "حقل DOMException. حدث خطأ في الشبكة"
+type: docs
+
+url: /ar/java/com.aspose.html.dom/domexception/network_err/
+---
+## DOMException.NETWORK_ERR field
+
+حدث خطأ في الشبكة.
+
+```java
+public const ushort NETWORK_ERR;
+```
+
+### انظر أيضًا
+
+* class [DOMException](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

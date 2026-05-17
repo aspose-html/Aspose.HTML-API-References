@@ -1,0 +1,31 @@
+---
+title: "Color.FromHwb"
+second_title: "مرجع API لـ Aspose.HTML for Java"
+description: "طريقة Color. تُرجع لونًا جديدًا مع قيم الدرجة، البياض، والسواد المطلوبة"
+type: docs
+
+url: /ar/java/com.aspose.html.drawing/color/fromhwb/
+---
+## Color.FromHwb method
+
+يعيد Color جديداً بالقيم المطلوبة للدرجة، البياض، السواد.
+
+```java
+public static Color FromHwb(float hue, float whiteness, float blackness)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| الدرجة | Single | عدد عشري float يمثل مكوّن الدرجة للون. |
+| البياض | Single | قيمة عائمة تمثل مكوّن البياض للون. |
+| السواد | Single | قيمة عائمة تمثل مكوّن السواد للون. |
+
+### قيمة الإرجاع
+
+مثال جديد من الفئة [`Color`](../)
+
+### انظر أيضًا
+
+* class [Color](../)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
+* package [Aspose.HTML](../../../)

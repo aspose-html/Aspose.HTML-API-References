@@ -1,0 +1,25 @@
+---
+title: "LinkDestinationSyntaxNode.GetValue"
+second_title: "مرجع API لـ Aspose.HTML for Java"
+description: "طريقة LinkDestinationSyntaxNode. تحدد الواجهة للحصول على قيمة String"
+type: docs
+
+url: /ar/java/com.aspose.html.toolkit.markdown.syntax/linkdestinationsyntaxnode/getvalue/
+---
+## LinkDestinationSyntaxNode.GetValue method
+
+يحدد الواجهة للحصول على قيمة String.
+
+```java
+public String GetValue()
+```
+
+### قيمة الإرجاع
+
+ال String.
+
+### انظر أيضًا
+
+* class [LinkDestinationSyntaxNode](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)
