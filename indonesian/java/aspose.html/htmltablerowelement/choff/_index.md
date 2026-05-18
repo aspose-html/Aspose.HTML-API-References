@@ -1,0 +1,21 @@
+---
+title: "HTMLTableRowElement.ChOff"
+second_title: "Referensi API Aspose.HTML untuk Java"
+description: "Properti HTMLTableRowElement. Offset karakter perataan. Lihat definisi atribut charoff dalam HTML 4.01"
+type: docs
+
+url: /id/java/com.aspose.html/htmltablerowelement/choff/
+---
+## HTMLTableRowElement.ChOff property
+
+Offset karakter perataan. Lihat definisi atribut charoff dalam HTML 4.01.
+
+```java
+public String ChOff { get; set; }
+```
+
+### Lihat Juga
+
+* class [HTMLTableRowElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

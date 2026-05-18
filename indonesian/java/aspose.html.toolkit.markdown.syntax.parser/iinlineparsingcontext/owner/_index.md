@@ -1,0 +1,22 @@
+---
+title: "IInlineParsingContext.Owner"
+second_title: "Referensi API Aspose.HTML untuk Java"
+description: "Properti IInlineParsingContext. Dapatkan Owner"
+type: docs
+
+url: /id/java/com.aspose.html.toolkit.markdown.syntax.parser/iinlineparsingcontext/owner/
+---
+## IInlineParsingContext.Owner property
+
+Dapatkan Owner.
+
+```java
+public MarkdownSyntaxNode Owner { get; }
+```
+
+### Lihat Juga
+
+* class [MarkdownSyntaxNode](../../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/)
+* interface [IInlineParsingContext](../)
+* package [com.aspose.html.toolkit.markdown.syntax.parser](../../../com.aspose.html.toolkit.markdown.syntax.parser/)
+* package [Aspose.HTML](../../../)

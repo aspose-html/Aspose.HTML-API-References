@@ -1,0 +1,21 @@
+---
+title: "HTMLObjectElement.Border"
+second_title: "Referensi API Aspose.HTML untuk Java"
+description: "HTMLObjectElement property. Lebar border di sekitar objek. Lihat definisi atribut border di HTML 4.01. Atribut ini tidak lagi digunakan di HTML 4.01"
+type: docs
+
+url: /id/java/com.aspose.html/htmlobjectelement/border/
+---
+## HTMLObjectElement.Border property
+
+Lebar border di sekitar objek. Lihat definisi atribut border di HTML 4.01. Atribut ini tidak lagi digunakan di HTML 4.01.
+
+```java
+public String Border { get; set; }
+```
+
+### Lihat Juga
+
+* class [HTMLObjectElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

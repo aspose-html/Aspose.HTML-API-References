@@ -1,0 +1,36 @@
+---
+title: "Document.CreateEvent"
+second_title: "Referensi API Aspose.HTML untuk Java"
+description: "Metode Document. Membuat sebuah Event dengan tipe yang didukung oleh implementasi."
+type: docs
+
+url: /id/java/com.aspose.html.dom/document/createevent/
+---
+## Document.CreateEvent method
+
+Membuat sebuah [`Event`](../../../com.aspose.html.dom.events/event/) dengan tipe yang didukung oleh implementasi.
+
+```java
+public Event CreateEvent(String eventType)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| eventType | String | Parameter eventType menentukan tipe antarmuka [`Event`](../../../com.aspose.html.dom.events/event/) yang akan dibuat. Jika antarmuka [`Event`](../../../com.aspose.html.dom.events/event/) yang ditentukan didukung oleh implementasi, metode ini akan mengembalikan sebuah [`Event`](../../../com.aspose.html.dom.events/event/) baru dengan tipe antarmuka yang diminta. Jika [`Event`](../../../com.aspose.html.dom.events/event/) akan dipancarkan melalui metode [`DispatchEvent`](../../../com.aspose.html.dom.events/ieventtarget/dispatchevent/), metode [`InitEvent`](../../../com.aspose.html.dom.events/event/initevent/) yang sesuai harus dipanggil setelah pembuatan untuk menginisialisasi nilai-nilai [`Event`](../../../com.aspose.html.dom.events/event/). |
+
+### Nilai Kembali
+
+[`Event`](../../../com.aspose.html.dom.events/event/) yang baru dibuat
+
+### Pengecualian
+
+| pengecualian | kondisi |
+| --- | --- |
+| [dOMException](../../domexception/) | NOT_SUPPORTED_ERR: Dikeluarkan jika implementasi tidak mendukung jenis antarmuka [`Event`](../../../com.aspose.html.dom.events/event/) yang diminta |
+
+### Lihat Juga
+
+* class [Event](../../../com.aspose.html.dom.events/event/)
+* class [Document](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

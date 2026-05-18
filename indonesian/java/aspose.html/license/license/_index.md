@@ -1,0 +1,39 @@
+---
+title: "Lisensi"
+second_title: "Referensi API Aspose.HTML untuk Java"
+description: "Konstruktor Lisensi. Menginisialisasi sebuah instance baru dari kelas ini"
+type: docs
+
+url: /id/java/com.aspose.html/license/license/
+---
+## License constructor
+
+Menginisialisasi instance baru dari kelas ini.
+
+```java
+public License()
+```
+
+## Contoh
+
+Dalam contoh ini, akan dicoba untuk menemukan file lisensi bernama MyLicense.lic di folder yang berisi komponen, di folder yang berisi assembly pemanggil, di folder assembly entri, dan kemudian di sumber daya tersemat dari assembly pemanggil.
+
+```java
+[C#]
+
+License license = new License();
+license.SetLicense("MyLicense.lic");
+```
+
+berkas jar komponen:
+
+```java
+License license = new License();
+license.setLicense("MyLicense.lic");
+```
+
+### Lihat Juga
+
+* class [License](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)
