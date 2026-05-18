@@ -1,0 +1,21 @@
+---
+title: "Node.Normalize"
+second_title: "Référence de l'API Aspose.HTML pour Java"
+description: "Méthode Node. Place tous les nœuds `Text` à toutes les profondeurs du sous‑arbre sous ce Node, y compris les nœuds d'attribut, dans une forme normale où seule la structure (par exemple les éléments, les commentaires, les instructions de traitement, les sections CDATA et les références d'entité) sépare les nœuds `Text`, c’est‑à‑dire qu’il n’y a ni nœuds `Text` adjacents ni nœuds `Text` vides. Cela peut être utilisé pour garantir que la vue DOM d’un document est identique à celle d’un document enregistré puis rechargé et est utile lorsque des opérations telles que les recherches XPointer qui dépendent d’une structure d’arbre de document particulière doivent être utilisées. Si le paramètre `normalize-characters` de l’objet `DOMConfiguration` attaché à `Node.ownerDocument` est vrai, cette méthode normalisera également complètement les caractères des nœuds `Text`."
+type: docs
+
+url: /fr/java/com.aspose.html.dom/node/normalize/
+---
+## Node.Normalize method
+
+Place tous les nœuds [`Text`](../../text/) à toutes les profondeurs du sous‑arbre sous ce Node, y compris les nœuds d’attribut, dans une forme « normale » où seule la structure (par exemple les [`elements`](../../element/), les [`comments`](../../comment/), les [`processing instructions`](../../processinginstruction/), les [`CDATA sections`](../../cdatasection/) et les [`entity references`](../../entityreference/)) sépare les nœuds [`Text`](../../text/), c’est‑à‑dire qu’il n’y a ni nœuds `Text` adjacents ni nœuds `Text` vides. Cela peut être utilisé pour garantir que la vue DOM d’un document est identique à celle d’un document enregistré puis rechargé, et est utile lorsque des opérations (telles que les recherches XPointer [XPointer]) qui dépendent d’une structure d’arbre de document particulière doivent être utilisées. Si le paramètre « normalize-characters » de l’objet [`DOMConfiguration`](../../../com.aspose.html/configuration/) attaché à [`Node.ownerDocument`](../ownerdocument/) est vrai, cette méthode normalisera également complètement les caractères des nœuds `Text`.
+
+```java
+public void Normalize()
+```
+
+### Voir aussi
+
+* class [Node](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

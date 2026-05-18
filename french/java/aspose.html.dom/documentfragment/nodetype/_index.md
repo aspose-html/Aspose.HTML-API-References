@@ -1,0 +1,25 @@
+---
+title: "DocumentFragment.NodeType"
+second_title: "Référence de l'API Aspose.HTML pour Java"
+description: "Propriété DocumentFragment. Un code représentant le type de l'objet sous-jacent"
+type: docs
+
+url: /fr/java/com.aspose.html.dom/documentfragment/nodetype/
+---
+## DocumentFragment.NodeType property
+
+Un code représentant le type de l'objet sous-jacent.
+
+```java
+public ushort NodeType { get; }
+```
+
+### Property Value
+
+Le type du nœud.
+
+### Voir aussi
+
+* class [DocumentFragment](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

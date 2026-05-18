@@ -1,0 +1,52 @@
+---
+title: "Classe MarkdownSyntaxToken"
+second_title: "Référence de l'API Aspose.HTML pour Java"
+description: "classe com.aspose.html.toolkit.markdown.syntax.MarkdownSyntaxToken. Représente le jeton de syntaxe Markdown"
+type: docs
+
+url: /fr/java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/
+---
+## MarkdownSyntaxToken class
+
+Représente le jeton de syntaxe Markdown.
+
+```java
+public sealed class MarkdownSyntaxToken : MarkdownSyntaxNode
+```
+
+## Propriétés
+
+| Nom | Description |
+| --- | --- |
+| [getFirstChild](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/firstchild/) Obtenir le premier enfant. |
+| [getLastChild](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/lastchild/) Obtenir le dernier enfant. |
+| [getNextSibling](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/nextsibling/) Obtenir le frère suivant. |
+| [getParent](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/parent/) Obtenir le nœud parent. |
+| [getPreviousSibling](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/previoussibling/) Obtenir le frère précédent. |
+| [getSource](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/source/) Obtenir le texte source. |
+| [getSpan](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/span/) Obtenir la portée. |
+| [getText](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/text/) Obtenir le contenu texte de la portée. |
+
+## Méthodes
+
+| Nom | Description |
+| --- | --- |
+| [accept](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/accept/)(MarkdownSyntaxVisitor) | Accepter le visiteur. |
+| [appendChild](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/appendchild/)(MarkdownSyntaxNode) | Ajouter le nœud enfant. |
+| [childNodes](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/childnodes/)() | Obtenir la collection des nœuds enfants. |
+| [getFullText](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxtoken/getfulltext/)() | Définit l'interface pour obtenir le texte complet. |
+| [getLeadingTrivia](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getleadingtrivia/)() | Obtenir le trivia de tête. |
+| [getSyntaxTree](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/getsyntaxtree/)() | Obtenir l'arbre de syntaxe. |
+| [getTrailingTrivia](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/gettrailingtrivia/)() | Obtenir le trivia de fin. |
+| [insertBefore](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/insertbefore/)(MarkdownSyntaxNode, MarkdownSyntaxNode) | Insérer avant le nœud. |
+| [removeChild](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/removechild/)(MarkdownSyntaxNode) | Supprimer l'enfant. |
+| [replaceChild](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/replacechild/)(MarkdownSyntaxNode, MarkdownSyntaxNode) | Remplacer le nœud enfant. |
+| [toString](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/toString/)() | Surcharger la méthode ToString. |
+| [writeTo](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(MarkdownTextWriter) | Écrire dans MarkdownTextWriter. |
+| [writeTo](../../com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnode/writeto/)(TextWriter) | Écrire les nœuds dans l'écrivain de texte. |
+
+### Voir aussi
+
+* class [MarkdownSyntaxNode](../markdownsyntaxnode/)
+* package [com.aspose.html.toolkit.markdown.syntax](../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../)

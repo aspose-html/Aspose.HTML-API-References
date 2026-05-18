@@ -1,0 +1,198 @@
+---
+title: "Classe Document"
+second_title: "Référence de l'API Aspose.HTML pour Java"
+description: "classe com.aspose.html.dom.Document. Le Document représente l'ensemble du document HTML, XML ou SVG. Conceptuellement, il est la racine de l'arbre du document et fournit l'accès principal aux données du document."
+type: docs
+
+url: /fr/java/com.aspose.html.dom/document/
+---
+## Document class
+
+Le Document représente l'ensemble du document HTML, XML ou SVG. Conceptuellement, il est la racine de l'arbre du document et fournit l'accès principal aux données du document.
+
+```java
+public class Document : Node, IDocumentEvent, IDocumentStyle, IDocumentTraversal, 
+    IGlobalEventHandlers, INonElementParentNode, IParentNode, IXPathEvaluator
+```
+
+## Propriétés
+
+| Nom | Description |
+| --- | --- |
+| [getBaseURI](../../com.aspose.html.dom/document/baseuri/) L'URI de base absolu de ce nœud ou null si l'implémentation n'a pas pu obtenir un URI absolu. |
+| [getCharacterSet](../../com.aspose.html.dom/document/characterset/) Obtient l'encodage du document. |
+| [getCharset](../../com.aspose.html.dom/document/charset/) Obtient l'encodage du document. |
+| [getChildElementCount](../../com.aspose.html.dom/document/childelementcount/) Renvoie le nombre actuel de nœuds d'éléments qui sont enfants de cet élément. 0 si cet élément n'a aucun nœud enfant de type nodeType 1. |
+| [getChildNodes](../../com.aspose.html.dom/node/childnodes/) La propriété en lecture seule childNodes de l'interface Node renvoie une [`NodeList`](../../com.aspose.html.collections/nodelist/) dynamique des nœuds enfants de l'élément donné où le premier nœud enfant reçoit l'index 0. Les nœuds enfants comprennent les éléments, le texte et les commentaires. |
+| [getChildren](../../com.aspose.html.dom/document/children/) Renvoie les éléments enfants. |
+| [getContentType](../../com.aspose.html.dom/document/contenttype/) Obtient le type de contenu du document. |
+| [getContext](../../com.aspose.html.dom/document/context/) Obtient le contexte de navigation actuel. |
+| [getDefaultView](../../com.aspose.html.dom/document/defaultview/) L'attribut IDL defaultView de l'interface Document, lors de la lecture, doit renvoyer l'objet WindowProxy du contexte de navigation de ce Document, si ce Document possède un contexte de navigation associé, ou null sinon. |
+| [getDoctype](../../com.aspose.html.dom/document/doctype/) La déclaration de type de document associée à ce document. |
+| [getDocumentElement](../../com.aspose.html.dom/document/documentelement/) Il s'agit d'un attribut de commodité qui permet un accès direct au nœud enfant qui est l'élément document du document. |
+| [getDocumentURI](../../com.aspose.html.dom/document/documenturi/) L'emplacement du document ou null si indéfini ou si le Document a été créé à l'aide de DOMImplementation.createDocument. |
+| [getFirstChild](../../com.aspose.html.dom/node/firstchild/) La propriété en lecture seule firstChild de l'interface [`Node`](../node/) renvoie le premier enfant du nœud dans l'arbre, ou null si le nœud n'a aucun enfant. |
+| [getFirstElementChild](../../com.aspose.html.dom/document/firstelementchild/) Renvoie le premier nœud élément enfant de cet élément. null si cet élément n'a aucun élément enfant. |
+| [getImplementation](../../com.aspose.html.dom/document/implementation/) L'objet DOMImplementation qui gère ce document. |
+| [getInputEncoding](../../com.aspose.html.dom/document/inputencoding/) Obtient l'encodage du document. |
+| [getLastChild](../../com.aspose.html.dom/node/lastchild/) La propriété en lecture seule lastChild de l'interface [`Node`](../node/) renvoie le dernier enfant du nœud. Si son parent est un élément, l'enfant est généralement un nœud d'élément, un nœud texte ou un nœud commentaire. Elle renvoie null s'il n'y a aucun élément enfant. |
+| [getLastElementChild](../../com.aspose.html.dom/document/lastelementchild/) Renvoie le dernier nœud élément enfant de cet élément. null si cet élément n'a aucun élément enfant. |
+| [getLocalName](../../com.aspose.html.dom/node/localname/) Renvoie la partie locale du nom qualifié de ce nœud. Pour les nœuds de tout type autre que [`ELEMENT_NODE`](../node/element_node/) et [`ATTRIBUTE_NODE`](../node/attribute_node/) et les nœuds créés avec une méthode DOM Niveau 1, comme [`Document.createElement()`](./createelement/), ce champ est toujours nul. |
+| [getLocation](../../com.aspose.html.dom/document/location/) L'emplacement du document. |
+| [getNamespaceURI](../../com.aspose.html.dom/node/packageuri/) La propriété en lecture seule Element.packageURI renvoie l'URI du package de l'élément, ou null si l'élément n'est pas dans un package. |
+| [getNextElementSibling](../../com.aspose.html.dom/document/nextelementsibling/) Renvoie le nœud élément frère suivant de cet élément. null si cet élément n'a aucun nœud frère élément qui le suit dans l'arbre du document. |
+| [getNextSibling](../../com.aspose.html.dom/node/nextsibling/) La propriété en lecture seule nextSibling de l'interface [`Node`](../node/) renvoie le nœud immédiatement suivant le nœud spécifié dans le [`childNodes`](../node/childnodes/) de leur parent, ou renvoie null si le nœud spécifié est le dernier enfant de l'élément parent. |
+| [getNodeName](../../com.aspose.html.dom/document/nodename/) Le nom de ce nœud, selon son type. |
+| [getNodeType](../../com.aspose.html.dom/document/nodetype/) Un code représentant le type de l'objet sous-jacent. |
+| [nodeValue](../../com.aspose.html.dom/node/nodevalue/) { get; set; } | La propriété nodeValue de l'interface [`Node `](../node/) renvoie ou définit la valeur du nœud actuel. |
+| [getOrigin](../../com.aspose.html.dom/document/origin/) Obtient l'origine du document. |
+| [getOwnerDocument](../../com.aspose.html.dom/document/ownerdocument/) Obtient le document propriétaire. |
+| [getParentElement](../../com.aspose.html.dom/node/parentelement/) La propriété en lecture seule parentElement de l'interface [`Node`](../node/) renvoie le parent [`Element`](../element/) du nœud DOM, ou null si le nœud n'a pas de parent ou si son parent n'est pas un Element DOM. |
+| [getParentNode](../../com.aspose.html.dom/node/parentnode/) La propriété en lecture seule parentNode de l'interface Node renvoie le parent du nœud spécifié dans l'arbre DOM. |
+| [prefix](../../com.aspose.html.dom/node/prefix/) { get; set; } | La propriété en lecture seule prefix renvoie le préfixe du package de l'élément spécifié, ou null si aucun préfixe n'est spécifié. |
+| [getPreviousElementSibling](../../com.aspose.html.dom/document/previouselementsibling/) Renvoie le nœud élément frère précédent de cet élément. null si cet élément n'a aucun nœud frère élément qui le précède dans l'arbre du document. |
+| [getPreviousSibling](../../com.aspose.html.dom/node/previoussibling/) La propriété en lecture seule previousSibling de l'interface [`Node`](../node/) renvoie le nœud immédiatement précédant le nœud spécifié dans la liste [`childNodes`](../node/firstchild/) de son parent, ou null si le nœud spécifié est le premier de cette liste. |
+| [getReadyState](../../com.aspose.html.dom/document/readystate/) Renvoie l'état de préparation du document. "loading" pendant que le Document se charge, "interactive" une fois l'analyse terminée mais les sous-ressources sont encore en cours de chargement, et "complete" une fois qu'il est chargé. |
+[getStrictErrorChecking]
+[setStrictErrorChecking] An attribute specifying whether error checking is enforced or not. When set to false, the implementation is free to not test every possible error case normally defined on DOM operations, and not raise any DOMException on DOM operations or report errors while using Document.normalizeDocument(). In case of error, the behavior is undefined. This attribute is true by default. |
+| [getStyleSheets](../../com.aspose.html.dom/document/stylesheets/) Une liste contenant toutes les feuilles de style explicitement liées ou intégrées dans un document. Pour les documents HTML, cela inclut les feuilles de style externes, incluses via l'élément HTML LINK, et les éléments STYLE en ligne. |
+| [textContent](../../com.aspose.html.dom/node/textcontent/) { get; set; } | La propriété textContent de l'interface [`Node`](../node/) représente le contenu texte du nœud et de ses descendants. |
+[getXmlStandalone]
+[setXmlStandalone] An attribute specifying, as part of the XML declaration, whether this document is standalone. This is false when unspecified. |
+[getXmlVersion]
+[setXmlVersion] An attribute specifying, as part of the XML declaration, the version number of this document. If there is no declaration and if this document supports the "XML" feature, the value is "1.0". If this document does not support the "XML" feature, the value is always null. |
+
+## Méthodes
+
+| Nom | Description |
+| --- | --- |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener) | La méthode addEventListener() de l'interface [`EventTarget `](../eventtarget/) configure une fonction qui sera appelée chaque fois que l'événement spécifié est livré à la cible. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, DOMEventHandler, bool) | La méthode addEventListener() de l'interface [EventTarget ](T:com.aspose.html.dom.EventTarget) configure une fonction qui sera appelée chaque fois que l'événement spécifié est délivré à la cible. |
+| [addEventListener](../../com.aspose.html.dom/eventtarget/addeventlistener/)(String, IEventListener, bool) | La méthode addEventListener() de l'interface [EventTarget ](T:com.aspose.html.dom.EventTarget) configure une fonction qui sera appelée chaque fois que l'événement spécifié est délivré à la cible. |
+| [appendChild](../../com.aspose.html.dom/node/appendchild/)(Node) | La méthode appendChild() de l'interface Node ajoute un nœud à la fin de la liste des enfants d'un nœud parent spécifié. Si l'enfant donné est une référence à un nœud existant dans le document, appendChild() le déplace de sa position actuelle vers la nouvelle position (il n'est pas nécessaire de supprimer le nœud de son nœud parent avant de l'ajouter à un autre nœud). |
+| [cloneNode](../../com.aspose.html.dom/node/clonenode/)() | La méthode cloneNode() de l'interface Node renvoie un duplicata du nœud sur lequel cette méthode a été appelée. Son paramètre détermine si le sous‑arbre contenu dans le nœud est également cloné ou non. |
+| [cloneNode](../../com.aspose.html.dom/node/clonenode/)(bool) | La méthode cloneNode() de l'interface Node renvoie un duplicata du nœud sur lequel cette méthode a été appelée. Son paramètre détermine si le sous‑arbre contenu dans le nœud est également cloné ou non. |
+| [createAttribute](../../com.aspose.html.dom/document/createattribute/)(String) | La méthode Document.createAttribute() crée un nouveau nœud d'attribut et le renvoie. L'objet créé est un nœud implémentant l'interface [`Attr`](../attr/). Le DOM n'impose aucune restriction sur le type d'attributs pouvant être ajoutés à un élément particulier de cette manière. |
+| [createAttributeNS](../../com.aspose.html.dom/document/createattributens/)(String, String) | La méthode Document.createAttribute() crée un nouveau nœud d'attribut et le renvoie. L'objet créé est un nœud implémentant l'interface [Attr](T:com.aspose.html.dom.Attr). Le DOM n'impose pas le type d'attributs pouvant être ajoutés à un élément particulier de cette manière. |
+| [createCDATASection](../../com.aspose.html.dom/document/createcdatasection/)(String) | Crée un nœud [`CDATASection`](../cdatasection/) dont la valeur est la chaîne spécifiée. |
+| [createComment](../../com.aspose.html.dom/document/createcomment/)(String) | Crée un nœud [`Comment`](../comment/) à partir de la chaîne spécifiée. |
+| [createDocumentFragment](../../com.aspose.html.dom/document/createdocumentfragment/)() | Crée un nouveau [`DocumentFragment`](../documentfragment/) vide dans lequel des nœuds DOM peuvent être ajoutés pour construire un arbre DOM hors écran. |
+| [createDocumentType](../../com.aspose.html.dom/document/createdocumenttype/)(String, String, String, String) | La méthode renvoie un objet [`DocumentType`](../documenttype/) qui peut être utilisé avec DOMImplementation.createDocument lors de la création du document ou inséré dans le document via des méthodes telles que Node.insertBefore() ou Node.replaceChild(). |
+| [createElement](../../com.aspose.html.dom/document/createelement/)(String) | Dans un document HTML, la méthode document.createElement() crée l'élément HTML spécifié par tagName, ou un [`HTMLUnknownElement`](../../com.aspose.html/htmlunknownelement/) si tagName n'est pas reconnu. |
+| [createElementNS](../../com.aspose.html.dom/document/createelementns/)(String, String) | Crée un élément avec le nom qualifié donné et l'URI du package. |
+| [createEntityReference](../../com.aspose.html.dom/document/createentityreference/)(String) | Crée un objet EntityReference. De plus, si l'entité référencée est connue, la liste des enfants du nœud EntityReference devient identique à celle du nœud Entity correspondant. |
+| [createEvent](../../com.aspose.html.dom/document/createevent/)(String) | Crée un [`Event`](../../com.aspose.html.dom.events/event/) d'un type pris en charge par l'implémentation. |
+| [createExpression](../../com.aspose.html.dom/document/createexpression/)(String, IXPathNSResolver) | Crée une expression XPath analysée avec les packages résolus. Ceci est utile lorsqu'une expression sera réutilisée dans une application, car cela permet de compiler la chaîne d'expression en une forme interne plus efficace et de pré‑résoudre tous les préfixes de package présents dans l'expression. |
+| [createNodeIterator](../../com.aspose.html.dom/document/createnodeiterator/#createnodeiterator)(Node) | Crée un nouveau NodeIterator sur le sous-arbre enraciné au nœud spécifié. |
+| [createNodeIterator](../../com.aspose.html.dom/document/createnodeiterator/#createnodeiterator_1)(Node, long) | Crée un nouveau NodeIterator sur le sous-arbre enraciné au nœud spécifié. |
+| [createNodeIterator](../../com.aspose.html.dom/document/createnodeiterator/#createnodeiterator_2)(Node, long, INodeFilter) | Crée un nouveau NodeIterator sur le sous-arbre enraciné au nœud spécifié. |
+| [createNSResolver](../../com.aspose.html.dom/document/creatensresolver/)(Node) | Adapte tout nœud DOM pour résoudre les packages afin qu'une expression XPath puisse être évaluée facilement par rapport au contexte du nœud où elle apparaît dans le document. Cet adaptateur fonctionne comme la méthode du DOM Niveau 3 `lookupNamespaceURI` sur les nœuds pour résoudre le packageURI à partir d'un préfixe donné en utilisant les informations disponibles dans la hiérarchie du nœud au moment de l'appel, tout en résolvant correctement le préfixe xml implicite. |
+| [createProcessingInstruction](../../com.aspose.html.dom/document/createprocessinginstruction/)(String, String) | Crée un nœud ProcessingInstruction à partir des chaînes de caractères de nom et de données spécifiées. |
+| [createTextNode](../../com.aspose.html.dom/document/createtextnode/)(String) | Crée un nœud Text à partir de la chaîne spécifiée. |
+| [createTreeWalker](../../com.aspose.html.dom/document/createtreewalker/#createtreewalker)(Node) | Crée un nouveau TreeWalker sur le sous-arbre enraciné au nœud spécifié. |
+| [createTreeWalker](../../com.aspose.html.dom/document/createtreewalker/#createtreewalker_1)(Node, long) | Crée un nouveau TreeWalker sur le sous-arbre enraciné au nœud spécifié. |
+| [createTreeWalker](../../com.aspose.html.dom/document/createtreewalker/#createtreewalker_2)(Node, long, INodeFilter) | Crée un nouveau TreeWalker sur le sous-arbre enraciné au nœud spécifié. |
+| [dispatchEvent](../../com.aspose.html.dom/eventtarget/dispatchevent/)(Event) | Déclenche un Event sur le [`EventTarget`](../../com.aspose.html.dom.events/ieventtarget/) spécifié, (synchroniquement) en invoquant les EventListeners concernés dans l'ordre approprié. Les règles normales de traitement des événements (y compris les phases de capture et de bouillonnement optionnelles) s'appliquent également aux événements déclenchés manuellement avec [`dispatchEvent()`](../../com.aspose.html.dom.events/ieventtarget/dispatchevent/). |
+| [dispose](../../com.aspose.html.dom/eventtarget/dispose/)() | Effectue les tâches définies par l'application associées à la libération, la remise ou la réinitialisation des ressources non gérées. |
+| [evaluate](../../com.aspose.html.dom/document/evaluate/)(String, Node, IXPathNSResolver, XPathResultType, object) | Évalue une chaîne d'expression XPath et renvoie un résultat du type spécifié si possible. |
+| [getElementById](../../com.aspose.html.dom/document/getelementbyid/)(String) | La méthode Document getElementById() renvoie un objet [`Element`](../element/) représentant l'élément dont la propriété id correspond à la chaîne spécifiée. Comme les IDs d'éléments doivent être uniques lorsqu'ils sont spécifiés, ils constituent un moyen pratique d'accéder rapidement à un élément spécifique. |
+| [getElementsByClassName](../../com.aspose.html.dom/document/getelementsbyclassname/)(String) | La méthode getElementsByClassName de l'interface `Document` renvoie un objet de type tableau contenant tous les éléments enfants qui possèdent tous les noms de classe fournis. |
+| [getElementsByTagName](../../com.aspose.html.dom/document/getelementsbytagname/)(String) | La méthode getElementsByTagName de l'interface `Document` renvoie une [`HTMLCollection`](../../com.aspose.html.collections/htmlcollection/) d'éléments portant le nom de balise indiqué. |
+| [getElementsByTagNameNS](../../com.aspose.html.dom/document/getelementsbytagnamens/)(String, String) | Renvoie une liste d'éléments avec le nom de balise donné appartenant au package spécifié. Le document complet est parcouru, y compris le nœud racine. |
+| [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | Cette méthode est utilisée pour récupérer l'objet ECMAScript. |
+| [hasChildNodes](../../com.aspose.html.dom/node/haschildnodes/)() | La méthode hasChildNodes() de l'interface Node renvoie une valeur booléenne indiquant si le [`Node`](../node/) donné possède des nœuds enfants ou non. |
+| [importNode](../../com.aspose.html.dom/document/importnode/)(Node, bool) | Importe un nœud d'un autre document dans celui-ci, sans modifier ni supprimer le nœud source du document d'origine ; cette méthode crée une nouvelle copie du nœud source. |
+| [insertBefore](../../com.aspose.html.dom/node/insertbefore/)(Node, Node) | La méthode insertBefore() de l'interface Node insère un nœud avant un nœud de référence en tant qu'enfant d'un nœud parent spécifié. |
+| [isDefaultNamespace](../../com.aspose.html.dom/node/isdefaultpackage/)(String) | La méthode isDefaultNamespace() de l'interface Node accepte un URI de package en argument. Elle renvoie une valeur booléenne qui est true si le package est le package par défaut sur le nœud donné et false sinon. |
+| [isEqualNode](../../com.aspose.html.dom/node/isequalnode/)(Node) | La méthode isEqualNode() de l'interface [`Node`](../node/) teste si deux nœuds sont égaux. Deux nœuds sont égaux lorsqu'ils ont le même type, des caractéristiques définissant (pour les éléments, cela inclut leur ID, le nombre d'enfants, etc.), leurs attributs correspondent, etc. L'ensemble spécifique de points de données qui doivent correspondre varie selon les types des nœuds. |
+| [isSameNode](../../com.aspose.html.dom/node/issamenode/)(Node) | La méthode isSameNode() de l'interface Node est un alias hérité de l'opérateur d'égalité stricte ===. Autrement dit, elle teste si deux nœuds sont identiques (c'est‑à‑dire s'ils font référence au même objet). |
+| [lookupNamespaceURI](../../com.aspose.html.dom/node/lookuppackageuri/)(String) | La méthode lookupNamespaceURI() de l'interface Node prend un préfixe en paramètre et renvoie l'URI de package qui lui est associé sur le nœud donné si trouvé (et null sinon). |
+| [lookupPrefix](../../com.aspose.html.dom/node/lookupprefix/)(String) | La méthode lookupPrefix() de l'interface Node renvoie une chaîne contenant le préfixe d'un URI de package donné, si présent, et null sinon. Lorsque plusieurs préfixes sont possibles, le premier préfixe est renvoyé. |
+| [navigate](../../com.aspose.html.dom/document/navigate/#navigate)(RequestMessage) | Charge le document en fonction de l'objet de requête spécifié, en remplaçant le contenu précédent. |
+| [navigate](../../com.aspose.html.dom/document/navigate/#navigate_4)(String) | Charge le document à l'Uniform Resource Locator (URL) spécifié dans l'instance actuelle, en remplaçant le contenu précédent. |
+| [navigate](../../com.aspose.html.dom/document/navigate/#navigate_1)(Url) | Charge le document à l'Uniform Resource Locator (URL) spécifié dans l'instance actuelle, en remplaçant le contenu précédent. |
+| [navigate](../../com.aspose.html.dom/document/navigate/#navigate_3)(Stream, String) | Charge le document à partir du contenu spécifié en utilisant baseUri pour résoudre les ressources relatives, en remplaçant le contenu précédent. Le chargement du document commence à la position actuelle dans le flux. |
+| [navigate](../../com.aspose.html.dom/document/navigate/#navigate_2)(Stream, Url) | Charge le document à partir du contenu spécifié en utilisant baseUri pour résoudre les ressources relatives, en remplaçant le contenu précédent. Le chargement du document commence à la position actuelle dans le flux. |
+| [navigate](../../com.aspose.html.dom/document/navigate/#navigate_6)(String, String) | Charge le document à partir du contenu spécifié en utilisant baseUri pour résoudre les ressources relatives, en remplaçant le contenu précédent. |
+| [navigate](../../com.aspose.html.dom/document/navigate/#navigate_5)(String, Url) | Charge le document à partir du contenu spécifié en utilisant baseUri pour résoudre les ressources relatives, en remplaçant le contenu précédent. |
+| [normalize](../../com.aspose.html.dom/node/normalize/)() | Place tous les nœuds [`Text`](../text/) à la profondeur maximale du sous‑arbre sous ce Node, y compris les nœuds d'attribut, dans une forme "normale" où seule la structure (p. ex., [`elements`](../element/), [`comments`](../comment/), [`processing instructions`](../processinginstruction/), [`CDATA sections`](../cdatasection/), et [`entity references`](../entityreference/)) sépare les nœuds [`Text`](../text/), c’est‑à‑dit qu’il n’y a ni nœuds Text adjacents ni nœuds Text vides. Cela peut être utilisé pour garantir que la vue DOM d’un document est identique à celle d’un document enregistré puis rechargé, et est utile lorsque des opérations (telles que les recherches XPointer [XPointer]) qui dépendent d’une structure d’arbre de document particulière doivent être utilisées. Si le paramètre "normalize-characters" de l’objet [`DOMConfiguration`](../../com.aspose.html/configuration/) attaché au [`Node.ownerDocument`](../node/ownerdocument/) est vrai, cette méthode normalisera également complètement les caractères des nœuds Text. |
+| [querySelector](../../com.aspose.html.dom/document/queryselector/)(String) | Renvoie le premier Element du document qui correspond au sélecteur |
+| [querySelectorAll](../../com.aspose.html.dom/document/queryselectorall/)(String) | Renvoie une NodeList de tous les Elements du document qui correspondent au sélecteur |
+| [removeChild](../../com.aspose.html.dom/node/removechild/)(Node) | La méthode removeChild() de l'interface Node supprime un nœud enfant du DOM et renvoie le nœud supprimé. |
+| [removeEventListener](../../com.aspose.html.dom/eventtarget/removeeventlistener/)(String, IEventListener) | Cette méthode permet la suppression des écouteurs d'événements de la cible d'événement. Si un écouteur est supprimé pendant le traitement d'un événement, il ne sera pas déclenché par les actions en cours. Les écouteurs d'événements ne peuvent jamais être invoqués après avoir été supprimés. |
+| [removeEventListener](../../com.aspose.html.dom/eventtarget/removeeventlistener/)(String, DOMEventHandler, bool) | Cette méthode permet la suppression des écouteurs d'événements de la cible d'événement. Si un écouteur est supprimé pendant le traitement d'un événement, il ne sera pas déclenché par les actions en cours. Les écouteurs d'événements ne peuvent jamais être invoqués après avoir été supprimés. |
+| [removeEventListener](../../com.aspose.html.dom/eventtarget/removeeventlistener/)(String, IEventListener, bool) | Cette méthode permet la suppression des écouteurs d'événements de la cible d'événement. Si un écouteur est supprimé pendant le traitement d'un événement, il ne sera pas déclenché par les actions en cours. Les écouteurs d'événements ne peuvent jamais être invoqués après avoir été supprimés. |
+| [renderTo](../../com.aspose.html.dom/document/renderto/)(IDevice) | Cette méthode est utilisée pour rendre le contenu du document actuel sur un dispositif graphique spécifié. |
+| [replaceChild](../../com.aspose.html.dom/node/replacechild/)(Node, Node) | Remplace le nœud enfant oldChild par newChild dans la liste des enfants, et renvoie le nœud oldChild. Si newChild est un objet [`DocumentFragment`](../documentfragment/), oldChild est remplacé par tous les enfants du [`DocumentFragment`](../documentfragment/) qui sont insérés dans le même ordre. Si le newChild est déjà dans l'arbre, il est d'abord supprimé. |
+| [toString](../../com.aspose.html.dom/node/toString/)() | Renvoie une chaîne qui représente cette instance. |
+| [write](../../com.aspose.html.dom/document/write/)(params String[]) | Écrit une chaîne de texte dans un flux de document ouvert par open(). Notez que la fonction produira un document qui n'est pas nécessairement piloté par une DTD et pourrait donc produire un résultat invalide dans le contexte du document. |
+| [writeLn](../../com.aspose.html.dom/document/writeln/)(params String[]) | Écrit une chaîne de texte suivie d'un caractère de nouvelle ligne dans un flux de document ouvert par open(). Notez que la fonction produira un document qui n'est pas nécessairement piloté par une DTD et pourrait donc produire un résultat invalide dans le contexte du document. |
+
+## Événements
+
+| Nom | Description |
+| --- | --- |
+| event [OnAbort](../../com.aspose.html.dom/document/onabort/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnAbort. |
+| event [OnBlur](../../com.aspose.html.dom/document/onblur/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnBlur. |
+| event [OnCancel](../../com.aspose.html.dom/document/oncancel/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnCancel. |
+| event [OnCanplay](../../com.aspose.html.dom/document/oncanplay/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnCanplay. |
+| event [OnCanPlayThrough](../../com.aspose.html.dom/document/oncanplaythrough/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnCanPlayThrough. |
+| event [OnChange](../../com.aspose.html.dom/document/onchange/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnChange. |
+| event [OnClick](../../com.aspose.html.dom/document/onclick/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnClick. |
+| event [OnCueChange](../../com.aspose.html.dom/document/oncuechange/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnCueChange. |
+| event [OnDblClick](../../com.aspose.html.dom/document/ondblclick/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnDblClick. |
+| event [OnDurationChange](../../com.aspose.html.dom/document/ondurationchange/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnDurationChange. |
+| event [OnEmptied](../../com.aspose.html.dom/document/onemptied/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnEmptied. |
+| event [OnEnded](../../com.aspose.html.dom/document/onended/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnEnded. |
+| event [OnError](../../com.aspose.html.dom/document/onerror/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnError. |
+| event [OnFocus](../../com.aspose.html.dom/document/onfocus/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnFocus. |
+| event [OnInput](../../com.aspose.html.dom/document/oninput/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnInput. |
+| event [OnInvalid](../../com.aspose.html.dom/document/oninvalid/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnInvalid. |
+| event [OnKeyDown](../../com.aspose.html.dom/document/onkeydown/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnKeyDown. |
+| event [OnKeyPress](../../com.aspose.html.dom/document/onkeypress/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnKeyPress. |
+| event [OnKeyUp](../../com.aspose.html.dom/document/onkeyup/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnKeyUp. |
+| event [OnLoad](../../com.aspose.html.dom/document/onload/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnLoad. |
+| event [OnLoadedData](../../com.aspose.html.dom/document/onloadeddata/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnLoadedData. |
+| event [OnLoadedMetadata](../../com.aspose.html.dom/document/onloadedmetadata/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnLoadedMetadata. |
+| event [OnLoadStart](../../com.aspose.html.dom/document/onloadstart/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnLoadStart. |
+| event [OnMouseDown](../../com.aspose.html.dom/document/onmousedown/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnMouseDown. |
+| event [OnMouseEnter](../../com.aspose.html.dom/document/onmouseenter/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnMouseEnter. |
+| event [OnMouseLeave](../../com.aspose.html.dom/document/onmouseleave/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnMouseLeave. |
+| event [OnMouseMove](../../com.aspose.html.dom/document/onmousemove/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnMouseMove. |
+| event [OnMouseOut](../../com.aspose.html.dom/document/onmouseout/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnMouseOut. |
+| event [OnMouseOver](../../com.aspose.html.dom/document/onmouseover/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnMouseOver. |
+| event [OnMouseUp](../../com.aspose.html.dom/document/onmouseup/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnMouseUp. |
+| event [OnMouseWheel](../../com.aspose.html.dom/document/onmousewheel/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnMouseWheel. |
+| event [OnPause](../../com.aspose.html.dom/document/onpause/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnPause. |
+| event [OnPlay](../../com.aspose.html.dom/document/onplay/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnPlay. |
+| event [OnPlaying](../../com.aspose.html.dom/document/onplaying/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnPlaying. |
+| event [OnProgress](../../com.aspose.html.dom/document/onprogress/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnProgress. |
+| event [OnRateChange](../../com.aspose.html.dom/document/onratechange/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnRateChange. |
+| event [OnReadyStateChange](../../com.aspose.html.dom/document/onreadystatechange/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnReadyStateChange. |
+| event [OnReset](../../com.aspose.html.dom/document/onreset/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnReset. |
+| event [OnResize](../../com.aspose.html.dom/document/onresize/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnResize. |
+| event [OnScroll](../../com.aspose.html.dom/document/onscroll/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnScroll. |
+| event [OnSeeked](../../com.aspose.html.dom/document/onseeked/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnSeeked. |
+| event [OnSeeking](../../com.aspose.html.dom/document/onseeking/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnSeeking. |
+| event [OnSelect](../../com.aspose.html.dom/document/onselect/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnSelect. |
+| event [OnShow](../../com.aspose.html.dom/document/onshow/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnShow. |
+| event [OnStalled](../../com.aspose.html.dom/document/onstalled/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnStalled. |
+| event [OnSubmit](../../com.aspose.html.dom/document/onsubmit/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnSubmit. |
+| event [OnSuspend](../../com.aspose.html.dom/document/onsuspend/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnSuspend. |
+| event [OnTimeUpdate](../../com.aspose.html.dom/document/ontimeupdate/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnTimeUpdate. |
+| event [OnToggle](../../com.aspose.html.dom/document/ontoggle/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnToggle. |
+| event [OnVolumeChange](../../com.aspose.html.dom/document/onvolumechange/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnVolumeChange. |
+| event [OnWaiting](../../com.aspose.html.dom/document/onwaiting/) | Obtient ou définit le gestionnaire d'événement pour l'événement OnWaiting. |
+
+### Voir aussi
+
+* class [Node](../node/)
+* interface [IDocumentEvent](../../com.aspose.html.dom.events/idocumentevent/)
+* interface [IDocumentStyle](../../com.aspose.html.dom.css/idocumentstyle/)
+* interface [IDocumentTraversal](../../com.aspose.html.dom.traversal/idocumenttraversal/)
+* interface [IGlobalEventHandlers](../iglobaleventhandlers/)
+* interface [INonElementParentNode](../inonelementparentnode/)
+* interface [IParentNode](../iparentnode/)
+* interface [IXPathEvaluator](../../com.aspose.html.dom.xpath/ixpathevaluator/)
+* package [com.aspose.html.dom](../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../)
