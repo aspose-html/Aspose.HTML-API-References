@@ -1,0 +1,26 @@
+---
+title: "TypedArray.Buffer"
+second_title: "Aspose.HTML für Java API-Referenz"
+description: "TypedArray‑Eigenschaft. Gibt den von dieser Instanz referenzierten ArrayBuffer zurück"
+type: docs
+
+url: /de/java/com.aspose.html/typedarray/buffer/
+---
+## TypedArray.Buffer property
+
+Gibt den von dieser Instanz referenzierten ArrayBuffer zurück.
+
+```java
+public ArrayBuffer Buffer { get; }
+```
+
+### Property Value
+
+Der Puffer.
+
+### Siehe auch
+
+* class [ArrayBuffer](../../arraybuffer/)
+* class [TypedArray](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,26 @@
+---
+title: "WhitespaceSyntaxNode.Accept"
+second_title: "Aspose.HTML für Java API-Referenz"
+description: "WhitespaceSyntaxNode-Methode. Definiert die Schnittstelle zum Besuchen von Knoten der Syntax"
+type: docs
+
+url: /de/java/com.aspose.html.toolkit.markdown.syntax/whitespacesyntaxnode/accept/
+---
+## WhitespaceSyntaxNode.Accept method
+
+Definiert die Schnittstelle zum Besuchen von Knoten der Syntax.
+
+```java
+public void Accept(MarkdownSyntaxVisitor visitor)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| Besucher | MarkdownSyntaxVisitor | Der Besucher. |
+
+### Siehe auch
+
+* class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
+* class [WhitespaceSyntaxNode](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)
