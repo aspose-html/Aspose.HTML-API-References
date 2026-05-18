@@ -1,0 +1,21 @@
+---
+title: "SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "SVGTextPathElement फ़ील्ड। मान stretch से संबंधित है"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.svg/svgtextpathelement/textpath_methodtype_stretch/
+---
+## SVGTextPathElement.TEXTPATH_METHODTYPE_STRETCH field
+
+‘stretch’ मान के अनुरूप है।
+
+```java
+public const ushort TEXTPATH_METHODTYPE_STRETCH;
+```
+
+### संबंधित देखें
+
+* class [SVGTextPathElement](../)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
+* package [Aspose.HTML](../../../)

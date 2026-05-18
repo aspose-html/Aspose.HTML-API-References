@@ -1,0 +1,26 @@
+---
+title: "MarkdownSyntaxVisitor.VisitNodeList"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "MarkdownSyntaxVisitor मेथड। NodeList को विजिट करने के लिए इंटरफ़ेस को परिभाषित करता है"
+type: docs
+
+url: /hi/java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxvisitor/visitnodelist/
+---
+## MarkdownSyntaxVisitor.VisitNodeList method
+
+NodeList को विजिट करने के लिए इंटरफ़ेस को परिभाषित करता है।
+
+```java
+public void VisitNodeList(NodeList list)
+```
+
+| Parameter | Type | विवरण |
+| --- | --- | --- |
+| list | NodeList | यह NodeList। |
+
+### संबंधित देखें
+
+* class [NodeList](../../nodelist/)
+* class [MarkdownSyntaxVisitor](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)

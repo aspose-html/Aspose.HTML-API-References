@@ -1,0 +1,44 @@
+---
+title: "StringContent क्लास"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "com.aspose.html.net.StringContent क्लास। स्ट्रिंग पर आधारित सामग्री का प्रतिनिधित्व करता है"
+type: docs
+
+url: /hi/java/com.aspose.html.net/Stringcontent/
+---
+## StringContent class
+
+String पर आधारित सामग्री को दर्शाता है।
+
+```java
+public class StringContent : ByteArrayContent
+```
+
+## कन्स्ट्रक्टर्स
+
+| नाम | विवरण |
+| --- | --- |
+| [StringContent](Stringcontent/#constructor)(String) | `StringContent` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [StringContent](Stringcontent/#constructor_1)(String, Encoding) | `StringContent` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [StringContent](Stringcontent/#constructor_2)(String, Encoding, String) | `StringContent` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+
+## गुण
+
+| नाम | विवरण |
+| --- | --- |
+| [getHeaders](../../com.aspose.html.net/content/headers/) HTTP सामग्री हेडर प्राप्त करता है। |
+
+## विधियाँ
+
+| नाम | विवरण |
+| --- | --- |
+| [dispose](../../com.aspose.html.net/content/dispose/)() | ऐप्लिकेशन-परिभाषित कार्यों को निष्पादित करता है जो अनमैनेज्ड संसाधनों को मुक्त करने, रिलीज़ करने या रीसेट करने से संबंधित होते हैं। |
+| [readAsByteArray](../../com.aspose.html.net/content/readasbytearray/)() | HTTP सामग्री को सीरियलाइज़ करें और सामग्री का प्रतिनिधित्व करने वाला बाइट एरे लौटाएँ। |
+| [readAsStream](../../com.aspose.html.net/content/readasstream/)() | HTTP सामग्री को सीरियलाइज़ करें और सामग्री का प्रतिनिधित्व करने वाला स्ट्रीम लौटाएँ। |
+| [readAsString](../../com.aspose.html.net/content/readasString/)() | HTTP सामग्री को सीरियलाइज़ करें और सामग्री का प्रतिनिधित्व करने वाली स्ट्रिंग लौटाएँ। |
+
+### संबंधित देखें
+
+* class [ByteArrayContent](../bytearraycontent/)
+* package [com.aspose.html.net](../../com.aspose.html.net/)
+* package [Aspose.HTML](../../)

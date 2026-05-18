@@ -1,0 +1,25 @@
+---
+title: "TaskListItemSyntaxNode.IsChecked"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "TaskListItemSyntaxNode मेथड। चेक्ड स्थिति प्राप्त करने के लिए इंटरफ़ेस को परिभाषित करता है"
+type: docs
+
+url: /hi/java/com.aspose.html.toolkit.markdown.syntax/tasklistitemsyntaxnode/ischecked/
+---
+## TaskListItemSyntaxNode.IsChecked method
+
+जाँच की स्थिति प्राप्त करने के लिए इंटरफ़ेस को परिभाषित करता है।
+
+```java
+public bool IsChecked()
+```
+
+### रिटर्न वैल्यू
+
+बूलियन।
+
+### संबंधित देखें
+
+* class [TaskListItemSyntaxNode](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)

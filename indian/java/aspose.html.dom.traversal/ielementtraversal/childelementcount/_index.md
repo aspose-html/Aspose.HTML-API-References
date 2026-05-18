@@ -1,0 +1,25 @@
+---
+title: "IElementTraversal.ChildElementCount"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "IElementTraversal प्रॉपर्टी। इस तत्व के चाइल्ड के रूप में मौजूद तत्व नोड्स की वर्तमान संख्या लौटाता है। यदि इस तत्व के पास कोई चाइल्ड नोड नहीं है जिसका nodeType 1 है तो 0 लौटाता है।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.traversal/ielementtraversal/childelementcount/
+---
+## IElementTraversal.ChildElementCount property
+
+इस तत्व के चाइल्ड के रूप में मौजूद तत्व नोड्स की वर्तमान संख्या लौटाता है। यदि इस तत्व के पास कोई चाइल्ड नोड नहीं है जिसका nodeType 1 है तो 0 लौटाता है।
+
+```java
+public int ChildElementCount { get; }
+```
+
+### Property Value
+
+चाइल्ड तत्व गिनती।
+
+### संबंधित देखें
+
+* interface [IElementTraversal](../)
+* package [com.aspose.html.dom.traversal](../../../com.aspose.html.dom.traversal/)
+* package [Aspose.HTML](../../../)

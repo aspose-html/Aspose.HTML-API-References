@@ -1,0 +1,26 @@
+---
+title: "SVGFEDropShadowElement.Dy"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "SVGFEDropShadowElement प्रॉपर्टी। दिए गए feDropShadow तत्व पर attribute dy से संबंधित है"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.svg.filters/svgfedropshadowelement/dy/
+---
+## SVGFEDropShadowElement.Dy property
+
+दिए गए ‘feDropShadow’ तत्व पर attribute ‘dy’ से संबंधित है।
+
+```java
+public SVGAnimatedNumber Dy { get; }
+```
+
+### Property Value
+
+दिए गए ‘feDropShadow’ तत्व का attribute ‘dy’।
+
+### संबंधित देखें
+
+* class [SVGAnimatedNumber](../../../com.aspose.html.dom.svg.datatypes/svganimatednumber/)
+* class [SVGFEDropShadowElement](../)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
+* package [Aspose.HTML](../../../)

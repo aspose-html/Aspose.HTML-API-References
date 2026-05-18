@@ -1,0 +1,25 @@
+---
+title: "HTMLObjectElement.ClassId"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "HTMLObjectElement गुण. Windows Registry या URL में सेट किए गए क्लास ID मान को परिभाषित करता है।"
+type: docs
+
+url: /hi/java/com.aspose.html/htmlobjectelement/classid/
+---
+## HTMLObjectElement.ClassId property
+
+Windows Registry या URL में सेट किए गए क्लास ID मान को परिभाषित करता है।
+
+```java
+public String ClassId { get; set; }
+```
+
+### Property Value
+
+क्लास ID।
+
+### संबंधित देखें
+
+* class [HTMLObjectElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

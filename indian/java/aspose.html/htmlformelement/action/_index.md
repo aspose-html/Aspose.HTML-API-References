@@ -1,0 +1,21 @@
+---
+title: "HTMLFormElement.Action"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "HTMLFormElement प्रॉपर्टी। सर्वर-साइड फ़ॉर्म हैंडलर। HTML 4.01 में action एट्रिब्यूट की परिभाषा देखें।"
+type: docs
+
+url: /hi/java/com.aspose.html/htmlformelement/action/
+---
+## HTMLFormElement.Action property
+
+सर्वर-साइड फ़ॉर्म हैंडलर। HTML 4.01 में action एट्रिब्यूट की परिभाषा देखें।
+
+```java
+public String Action { get; set; }
+```
+
+### संबंधित देखें
+
+* class [HTMLFormElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,35 @@
+---
+title: "ICSSStyleDeclaration.RemoveProperty"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "ICSSStyleDeclaration मेथड। CSSStyleDeclaration.removeProperty मेथड इंटरफ़ेस एक CSS शैली घोषणा ऑब्जेक्ट से प्रॉपर्टी को हटाता है।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.css/icssstyledeclaration/removeproperty/
+---
+## ICSSStyleDeclaration.RemoveProperty method
+
+CSSStyleDeclaration.removeProperty() मेथड इंटरफ़ेस एक CSS स्टाइल घोषणा ऑब्जेक्ट से प्रॉपर्टी को हटाता है।
+
+```java
+public String RemoveProperty(String propertyName)
+```
+
+| Parameter | Type | विवरण |
+| --- | --- | --- |
+| propertyName | String | propertyName एक String है जो हटाई जाने वाली प्रॉपर्टी नाम को दर्शाता है। ध्यान दें कि बहु‑शब्द प्रॉपर्टी नाम हाइफ़न‑से जुड़े होते हैं और camelCase नहीं होते। |
+
+### रिटर्न वैल्यू
+
+oldValue एक DOMString है जो हटाए जाने से पहले CSS प्रॉपर्टी के मान के बराबर होता है।
+
+### अपवाद
+
+| अपवाद | शर्त |
+| --- | --- |
+| DOMException | NO_MODIFICATION_ALLOWED_ERR: यदि प्रॉपर्टी या घोषणा ब्लॉक केवल‑पढ़ने योग्य है। |
+
+### संबंधित देखें
+
+* interface [ICSSStyleDeclaration](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)

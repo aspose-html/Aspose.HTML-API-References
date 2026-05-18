@@ -1,0 +1,21 @@
+---
+title: "Content.Dispose"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "Content method. अनमैनेज्ड संसाधनों को मुक्त करने, रिलीज़ करने या रीसेट करने से संबंधित एप्लिकेशन-परिभाषित कार्यों को निष्पादित करता है"
+type: docs
+
+url: /hi/java/com.aspose.html.net/content/dispose/
+---
+## Content.Dispose method
+
+ऐप्लिकेशन-परिभाषित कार्यों को निष्पादित करता है जो अनमैनेज्ड संसाधनों को मुक्त करने, रिलीज़ करने या रीसेट करने से संबंधित होते हैं।
+
+```java
+public void Dispose()
+```
+
+### संबंधित देखें
+
+* class [Content](../)
+* package [com.aspose.html.net](../../../com.aspose.html.net/)
+* package [Aspose.HTML](../../../)

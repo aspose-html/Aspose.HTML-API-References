@@ -1,0 +1,26 @@
+---
+title: "InlineContainerSyntaxNode.Accept"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "InlineContainerSyntaxNode विधि। विज़िटर को स्वीकार करने के लिए इंटरफ़ेस को परिभाषित करती है।"
+type: docs
+
+url: /hi/java/com.aspose.html.toolkit.markdown.syntax/inlinecontainersyntaxnode/accept/
+---
+## InlineContainerSyntaxNode.Accept method
+
+विज़िटर को स्वीकार करने के लिए इंटरफ़ेस को परिभाषित करता है।
+
+```java
+public void Accept(MarkdownSyntaxVisitor visitor)
+```
+
+| Parameter | Type | विवरण |
+| --- | --- | --- |
+| विज़िटर | MarkdownSyntaxVisitor | विज़िटर। |
+
+### संबंधित देखें
+
+* class [MarkdownSyntaxVisitor](../../markdownsyntaxvisitor/)
+* class [InlineContainerSyntaxNode](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)

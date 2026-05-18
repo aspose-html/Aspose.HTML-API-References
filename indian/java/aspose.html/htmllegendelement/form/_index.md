@@ -1,0 +1,22 @@
+---
+title: "HTMLLegendElement.Form"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "HTMLLegendElement प्रॉपर्टी। इस कंट्रोल को शामिल करने वाला FORM एलिमेंट लौटाता है। यदि यह कंट्रोल किसी फ़ॉर्म के संदर्भ में नहीं है तो null लौटाता है।"
+type: docs
+
+url: /hi/java/com.aspose.html/htmllegendelement/form/
+---
+## HTMLLegendElement.Form property
+
+इस कंट्रोल को सम्मिलित करने वाला `FORM` तत्व लौटाता है। यदि यह कंट्रोल फ़ॉर्म के संदर्भ में नहीं है तो `null` लौटाता है।
+
+```java
+public HTMLFormElement Form { get; }
+```
+
+### संबंधित देखें
+
+* class [HTMLFormElement](../../htmlformelement/)
+* class [HTMLLegendElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

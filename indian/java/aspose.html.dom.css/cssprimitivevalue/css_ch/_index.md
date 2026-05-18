@@ -1,0 +1,21 @@
+---
+title: "CSSPrimitiveValue.CSS_CH"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "CSSPrimitiveValue फ़ील्ड। मान एक लंबाई ch है। मान को getFloatValue मेथड का उपयोग करके प्राप्त किया जा सकता है।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.css/cssprimitivevalue/css_ch/
+---
+## CSSPrimitiveValue.CSS_CH field
+
+यह मान एक लंबाई (ch) है। यह मान getFloatValue विधि का उपयोग करके प्राप्त किया जा सकता है।
+
+```java
+public const ushort CSS_CH;
+```
+
+### संबंधित देखें
+
+* class [CSSPrimitiveValue](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)

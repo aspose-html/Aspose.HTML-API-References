@@ -1,0 +1,30 @@
+---
+title: "INonElementParentNode.GetElementById"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "INonElementParentNode मेथड। यह उन नोड्स के वंशजों में पहला तत्व लौटाता है जिसका ID elementId है।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom/inonelementparentnode/getelementbyid/
+---
+## INonElementParentNode.GetElementById method
+
+node के वंशजों में पहला तत्व लौटाता है जिसका ID elementId है।
+
+```java
+public Element GetElementById(String elementId)
+```
+
+| Parameter | Type | विवरण |
+| --- | --- | --- |
+| elementId | String | तत्व पहचानकर्ता। |
+
+### रिटर्न वैल्यू
+
+पहला मिलान किया गया तत्व लौटाता है।
+
+### संबंधित देखें
+
+* class [Element](../../element/)
+* interface [INonElementParentNode](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

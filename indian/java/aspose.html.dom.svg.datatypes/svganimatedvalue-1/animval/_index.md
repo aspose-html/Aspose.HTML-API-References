@@ -1,0 +1,25 @@
+---
+title: "SVGAnimatedValue-1.AnimVal"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "SVGAnimatedValue प्रॉपर्टी। यदि दिया गया एट्रिब्यूट या प्रॉपर्टी एनीमेटेड है तो एट्रिब्यूट या प्रॉपर्टी का वर्तमान एनीमेटेड वैल्यू शामिल करता है। यदि दिया गया एट्रिब्यूट या प्रॉपर्टी वर्तमान में एनीमेटेड नहीं है तो बेस वैल्यू के समान वैल्यू शामिल करता है।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.svg.datatypes/svganimatedvalue-1/animval/
+---
+## SVGAnimatedValue&lt;T&gt;.AnimVal property
+
+यदि दिया गया एट्रिब्यूट या प्रॉपर्टी एनीमेटेड है, तो एट्रिब्यूट या प्रॉपर्टी का वर्तमान एनीमेटेड वैल्यू शामिल करता है। यदि दिया गया एट्रिब्यूट या प्रॉपर्टी वर्तमान में एनीमेटेड नहीं है, तो बेस वैल्यू के समान वैल्यू शामिल करता है।
+
+```java
+public T AnimVal { get; }
+```
+
+### Property Value
+
+`true` यदि [anim value]; अन्यथा, `false`।
+
+### संबंधित देखें
+
+* class [SVGAnimatedValue&lt;T&gt;](../)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,26 @@
+---
+title: "SVGFilterElement.FilterUnits"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "SVGFilterElement गुण। filterUnits विशेषता को दिए गए filter तत्व पर लागू करता है। SVGUnitTypes में परिभाषित स्थिरांकों में से एक लेता है।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.svg/svgfilterelement/filterunits/
+---
+## SVGFilterElement.FilterUnits property
+
+‘filterUnits’ विशेषता को दिए गए ‘filter’ तत्व पर लागू करता है। SVGUnitTypes में परिभाषित स्थिरांकों में से एक लेता है।
+
+```java
+public SVGAnimatedEnumeration FilterUnits { get; }
+```
+
+### Property Value
+
+दिए गए ‘filter’ तत्व की ‘filterUnits’ विशेषता।
+
+### संबंधित देखें
+
+* class [SVGAnimatedEnumeration](../../../com.aspose.html.dom.svg.datatypes/svganimatedenumeration/)
+* class [SVGFilterElement](../)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
+* package [Aspose.HTML](../../../)

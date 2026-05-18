@@ -1,0 +1,28 @@
+---
+title: "Path2D.Rect"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "Path2D मेथड। x y स्थिति पर एक आयत के लिए पाथ बनाता है जिसका आकार चौड़ाई और ऊँचाई द्वारा निर्धारित होता है।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.canvas/path2d/rect/
+---
+## Path2D.Rect method
+
+स्थिति (x, y) पर एक आयत के लिए पथ बनाता है, जिसका आकार चौड़ाई और ऊँचाई द्वारा निर्धारित होता है।
+
+```java
+public void Rect(double x, double y, double w, double h)
+```
+
+| Parameter | Type | विवरण |
+| --- | --- | --- |
+| x | Double | आयत के प्रारंभिक बिंदु के निर्देशांक का x-अक्ष। |
+| y | Double | आयत के प्रारंभिक बिंदु के निर्देशांक का y-अक्ष। |
+| w | Double | आयत की चौड़ाई। |
+| h | Double | आयत की ऊँचाई। |
+
+### संबंधित देखें
+
+* class [Path2D](../)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
+* package [Aspose.HTML](../../../)

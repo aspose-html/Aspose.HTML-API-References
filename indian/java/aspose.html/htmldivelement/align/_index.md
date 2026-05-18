@@ -1,0 +1,21 @@
+---
+title: "HTMLDivElement.Align"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "HTMLDivElement प्रॉपर्टी। क्षैतिज टेक्स्ट संरेखण। HTML 4.01 में align एट्रिब्यूट की परिभाषा देखें। यह एट्रिब्यूट HTML 4.01 में अप्रचलित है"
+type: docs
+
+url: /hi/java/com.aspose.html/htmldivelement/align/
+---
+## HTMLDivElement.Align property
+
+क्षैतिज पाठ संरेखण. HTML 4.01 में align एट्रिब्यूट की परिभाषा देखें. यह एट्रिब्यूट HTML 4.01 में अप्रचलित है.
+
+```java
+public String Align { get; set; }
+```
+
+### संबंधित देखें
+
+* class [HTMLDivElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

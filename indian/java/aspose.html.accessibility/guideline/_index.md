@@ -1,0 +1,35 @@
+---
+title: "गाइडलाइन क्लास"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "com.aspose.html.accessibility.Guideline क्लास। गाइडलाइन - प्रिंसिपल के बाद का अगला स्तर। ये परीक्षण योग्य नहीं हैं, बल्कि फ्रेमवर्क और सामान्य लक्ष्य का रूपरेखा प्रस्तुत करती हैं जो लेखकों को सफलता मानदंड समझने और तकनीकों को बेहतर ढंग से लागू करने में मदद करती हैं। गाइडलाइन RuleDirectoryCriterion प्रकार के स्वीकृति मानदंडों की सूची है"
+type: docs
+
+url: /hi/java/com.aspose.html.accessibility/guideline/
+---
+## Guideline class
+
+गाइडलाइन्स - सिद्धांतों के बाद का अगला स्तर। ये परीक्षण योग्य नहीं हैं, लेकिन ढाँचे और सामान्य लक्ष्य रेखांकित करती हैं जो लेखकों को सफलता मानदंड समझने और तकनीकों को बेहतर लागू करने में मदद करती हैं। गाइडलाइन्स RuleDirectory{Criterion} प्रकार के स्वीकृति मानदंडों की सूची हैं।
+
+```java
+public class Guideline : Rule
+```
+
+## गुण
+
+| नाम | विवरण |
+| --- | --- |
+| [getCode](../../com.aspose.html.accessibility/rule/code/) क्विक रेफ़रेंस WCAG से नियम कोड https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0 |
+| [getDescription](../../com.aspose.html.accessibility/rule/description/) क्विक रेफ़रेंस WCAG से नियम का विवरण। https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0 |
+
+## विधियाँ
+
+| नाम | विवरण |
+| --- | --- |
+| [getCriterion](../../com.aspose.html.accessibility/guideline/getcriterion/)(String) | WCAG से कोड द्वारा मानदंड प्राप्त करें |
+| [getCriterions](../../com.aspose.html.accessibility/guideline/getcriterions/)() | गाइडलाइन में शामिल सभी मानदंड प्राप्त करें |
+
+### संबंधित देखें
+
+* class [Rule](../rule/)
+* package [com.aspose.html.accessibility](../../com.aspose.html.accessibility/)
+* package [Aspose.HTML](../../)

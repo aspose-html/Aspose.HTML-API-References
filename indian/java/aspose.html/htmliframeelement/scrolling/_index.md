@@ -1,0 +1,21 @@
+---
+title: "HTMLIFrameElement.Scrolling"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "HTMLIFrameElement प्रॉपर्टी। निर्दिष्ट करें कि फ्रेम में स्क्रॉलबार होना चाहिए या नहीं। HTML 4.01 में scrolling एट्रिब्यूट की परिभाषा देखें।"
+type: docs
+
+url: /hi/java/com.aspose.html/htmliframeelement/scrolling/
+---
+## HTMLIFrameElement.Scrolling property
+
+फ़्रेम में स्क्रॉलबार होना चाहिए या नहीं, निर्दिष्ट करें। HTML 4.01 में scrolling एट्रिब्यूट की परिभाषा देखें।
+
+```java
+public String Scrolling { get; set; }
+```
+
+### संबंधित देखें
+
+* class [HTMLIFrameElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

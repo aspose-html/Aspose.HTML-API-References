@@ -1,0 +1,26 @@
+---
+title: "SVGFEConvolveMatrixElement.Width"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "SVGFEConvolveMatrixElement प्रॉपर्टी। दिए गए filter तत्व पर attribute width से मेल खाती है"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.svg.filters/svgfeconvolvematrixelement/width/
+---
+## SVGFEConvolveMatrixElement.Width property
+
+दिए गए ‘filter’ तत्व पर ‘width’ एट्रिब्यूट के अनुरूप।
+
+```java
+public SVGAnimatedLength Width { get; }
+```
+
+### Property Value
+
+दिए गए ‘filter’ तत्व का ‘width’ एट्रिब्यूट।
+
+### संबंधित देखें
+
+* class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
+* class [SVGFEConvolveMatrixElement](../)
+* package [com.aspose.html.dom.svg.filters](../../../com.aspose.html.dom.svg.filters/)
+* package [Aspose.HTML](../../../)

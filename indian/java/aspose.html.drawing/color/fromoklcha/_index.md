@@ -1,0 +1,32 @@
+---
+title: "Color.FromOklcha"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "Color विधि. OKLAB मॉडल के लिए अनुरोधित luminance, chroma, hue, alpha मानों के साथ एक नया Color लौटाता है"
+type: docs
+
+url: /hi/java/com.aspose.html.drawing/color/fromoklcha/
+---
+## Color.FromOklcha method
+
+OKLAB मॉडल के लिए अनुरोधित ल्यूमिनेंस, क्रोमा, ह्यू, अल्फा मानों के साथ एक नया Color लौटाता है।
+
+```java
+public static Color FromOklcha(float luminance, float chroma, float hue, float alpha)
+```
+
+| Parameter | Type | विवरण |
+| --- | --- | --- |
+| luminance | Single | एक float जो रंग के ल्यूमिनेंस घटक का प्रतिनिधित्व करता है। |
+| chroma | Single | एक float जो रंग के क्रोमा घटक का प्रतिनिधित्व करता है। |
+| hue | Single | एक float जो रंग के ह्यू घटक का प्रतिनिधित्व करता है। |
+| अल्फा | Single | एक float जो रंग के अल्फा घटक को दर्शाता है। |
+
+### रिटर्न वैल्यू
+
+एक नया उदाहरण [`Color`](../) क्लास का
+
+### संबंधित देखें
+
+* class [Color](../)
+* package [com.aspose.html.drawing](../../../com.aspose.html.drawing/)
+* package [Aspose.HTML](../../../)

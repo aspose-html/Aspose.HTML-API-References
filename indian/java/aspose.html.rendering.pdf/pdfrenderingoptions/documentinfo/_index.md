@@ -1,0 +1,22 @@
+---
+title: "PdfRenderingOptions.DocumentInfo"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "PdfRenderingOptions प्रॉपर्टी। आउटपुट PDF दस्तावेज़ के बारे में जानकारी रखती है"
+type: docs
+
+url: /hi/java/com.aspose.html.rendering.pdf/pdfrenderingoptions/documentinfo/
+---
+## PdfRenderingOptions.DocumentInfo property
+
+आउटपुट PDF दस्तावेज़ के बारे में जानकारी रखती है।
+
+```java
+public PdfDocumentInfo DocumentInfo { get; }
+```
+
+### संबंधित देखें
+
+* class [PdfDocumentInfo](../../pdfdocumentinfo/)
+* class [PdfRenderingOptions](../)
+* package [com.aspose.html.rendering.pdf](../../../com.aspose.html.rendering.pdf/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,26 @@
+---
+title: "SVGMarkerElement.ViewBox"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "SVGMarkerElement गुण. दिए गए तत्व पर attribute viewBox के अनुरूप"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.svg/svgmarkerelement/viewbox/
+---
+## SVGMarkerElement.ViewBox property
+
+दिए गए तत्व पर ‘viewBox’ विशेषता के अनुरूप है।
+
+```java
+public SVGAnimatedRect ViewBox { get; }
+```
+
+### Property Value
+
+दिए गए तत्व का ‘viewBox’।
+
+### संबंधित देखें
+
+* class [SVGAnimatedRect](../../../com.aspose.html.dom.svg.datatypes/svganimatedrect/)
+* class [SVGMarkerElement](../)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
+* package [Aspose.HTML](../../../)

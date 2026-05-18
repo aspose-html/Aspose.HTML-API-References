@@ -1,0 +1,32 @@
+---
+title: "CSSValueList.Item"
+second_title: "Aspose.HTML for Java API संदर्भ"
+description: "CSSValueList प्रॉपर्टी। CSSValueList इंटरफ़ेस की item मेथड का उपयोग क्रमिक इंडेक्स द्वारा एक CSSValue प्राप्त करने के लिए किया जाता है।"
+type: docs
+
+url: /hi/java/com.aspose.html.dom.css/cssvaluelist/item/
+---
+## CSSValueList indexer
+
+CSSValueList इंटरफ़ेस की item() मेथड का उपयोग क्रमिक इंडेक्स द्वारा एक CSSValue प्राप्त करने के लिए किया जाता है।
+
+इस संग्रह में क्रम CSS शैली प्रॉपर्टी के मानों के क्रम को दर्शाता है। यदि इंडेक्स सूची में मानों की संख्या के बराबर या उससे अधिक है, तो यह मेथड null लौटाता है।
+
+```java
+public CSSValue this[int index] { get; }
+```
+
+### रिटर्न वैल्यू
+
+CSSValueList में इंडेक्स स्थिति पर एक CSSValue ऑब्जेक्ट, या यदि वह वैध इंडेक्स नहीं है तो null।
+
+### Property Value
+
+एक unsigned long जो संग्रह के भीतर CSS मान के इंडेक्स का प्रतिनिधित्व करता है।
+
+### संबंधित देखें
+
+* class [CSSValue](../../cssvalue/)
+* class [CSSValueList](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)
