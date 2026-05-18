@@ -1,0 +1,22 @@
+---
+title: "RuleValidationResult.Warnings"
+second_title: "Aspose.HTML for Java API 参考"
+description: "RuleValidationResult 属性。包含警告的结果集合"
+type: docs
+
+url: /zh/java/com.aspose.html.accessibility.results/rulevalidationresult/warnings/
+---
+## RuleValidationResult.Warnings property
+
+包含警告的结果集合
+
+```java
+public IList<ITechniqueResult> Warnings { get; }
+```
+
+### 另请参阅
+
+* interface [ITechniqueResult](../../../com.aspose.html.accessibility/itechniqueresult/)
+* class [RuleValidationResult](../)
+* package [com.aspose.html.accessibility.results](../../../com.aspose.html.accessibility.results/)
+* package [Aspose.HTML](../../../)

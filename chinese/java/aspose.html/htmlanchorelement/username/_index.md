@@ -1,0 +1,21 @@
+---
+title: "HTMLAnchorElement.Username"
+second_title: "Aspose.HTML for Java API 参考"
+description: "HTMLAnchorElement 属性。获取或设置关联 URL 的用户名段的字符串表示"
+type: docs
+
+url: /zh/java/com.aspose.html/htmlanchorelement/username/
+---
+## HTMLAnchorElement.Username property
+
+获取或设置关联 URL 的用户名段的字符串表示。
+
+```java
+public String Username { get; set; }
+```
+
+### 另请参阅
+
+* class [HTMLAnchorElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

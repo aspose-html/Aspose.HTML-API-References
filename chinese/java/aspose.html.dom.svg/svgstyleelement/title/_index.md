@@ -1,0 +1,31 @@
+---
+title: "SVGStyleElement.Title"
+second_title: "Aspose.HTML for Java API 参考"
+description: "SVGStyleElement 属性。对应给定元素的 title 属性"
+type: docs
+
+url: /zh/java/com.aspose.html.dom.svg/svgstyleelement/title/
+---
+## SVGStyleElement.Title property
+
+对应给定元素的 ‘title’ 属性。
+
+```java
+public String Title { get; set; }
+```
+
+### Property Value
+
+给定元素的 ‘title’ 属性。
+
+### 异常
+
+| 异常 | 条件 |
+| --- | --- |
+| [dOMException](../../../com.aspose.html.dom/domexception/) | 代码 [`NO_MODIFICATION_ALLOWED_ERR`](../../../com.aspose.html.dom/domexception/no_modification_allowed_err/)。在尝试更改只读属性的值时引发。 |
+
+### 另请参阅
+
+* class [SVGStyleElement](../)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,55 @@
+---
+title: "FocusEvent 类"
+second_title: "Aspose.HTML for Java API 参考"
+description: "com.aspose.html.dom.events.FocusEvent 类。FocusEvent 接口提供与焦点事件相关的特定上下文信息。"
+type: docs
+
+url: /zh/java/com.aspose.html.dom.events/focusevent/
+---
+## FocusEvent class
+
+FocusEvent 接口提供与焦点事件相关的特定上下文信息。
+
+```java
+public class FocusEvent : UIEvent
+```
+
+## 构造函数
+
+| 名称 | 描述 |
+| --- | --- |
+| [FocusEvent](focusevent/#constructor)(String) | 初始化 `FocusEvent` 类的新实例。 |
+| [FocusEvent](focusevent/#constructor_1)(String, IDictionary&lt;String, object&gt;) |  |
+
+## 属性
+
+| 名称 | 描述 |
+| --- | --- |
+| [getBubbles](../../com.aspose.html.dom.events/event/bubbles/) 用于指示事件是否为冒泡事件。如果事件可以冒泡，则值为 true，否则为 false。 |
+| [getCancelable](../../com.aspose.html.dom.events/event/cancelable/) 用于指示事件是否可以阻止其默认行为。如果默认行为可以被阻止，则值为 true，否则为 false。 |
+| [getCurrentTarget](../../com.aspose.html.dom.events/event/currenttarget/) 用于指示当前正在处理的 [`IEventTarget`](../ieventtarget/) 及其 [`IEventListener`](../ieventlistener/)。这在捕获和冒泡阶段特别有用。 |
+| [getDefaultPrevented](../../com.aspose.html.dom.events/event/defaultprevented/) 如果在 cancelable 属性为 true 时调用了 preventDefault()，则返回 true，否则返回 false。 |
+| [getDetail](../../com.aspose.html.dom.events/uievent/detail/) 指定关于事件的一些详细信息，取决于事件的类型。 |
+| [getEventPhase](../../com.aspose.html.dom.events/event/eventphase/) 用于指示当前正在评估的事件流阶段。 |
+| [getIsTrusted](../../com.aspose.html.dom.events/event/istrusted/) isTrusted 属性必须返回其初始化时的值。创建事件时，该属性必须初始化为 false。 |
+| [getRelatedTarget](../../com.aspose.html.dom.events/focusevent/relatedtarget/) 用于识别与焦点事件相关的次要 EventTarget，取决于事件类型。 |
+| [getTarget](../../com.aspose.html.dom.events/event/target/) 用于指示事件最初分派到的 [`IEventTarget`](../ieventtarget/)。 |
+| [getTimeStamp](../../com.aspose.html.dom.events/event/timestamp/) 用于指定事件创建时的时间（相对于纪元的毫秒数）。由于某些系统可能不提供此信息，timeStamp 的值可能并非对所有事件都可用。若不可用，将返回 0。纪元时间的例子包括系统启动时间或 1970 年 1 月 1 日 UTC 0:0:0。 |
+| [getType](../../com.aspose.html.dom.events/event/type/) 事件的名称（不区分大小写）。名称必须是有效的 XML 名称。 |
+| [getView](../../com.aspose.html.dom.events/uievent/view/) view 属性标识生成事件的 Window。该属性未初始化的值必须为 null。 |
+
+## 方法
+
+| 名称 | 描述 |
+| --- | --- |
+| [getPlatformType](../../com.aspose.html.dom/domobject/getplatformtype/)() | 此方法用于检索 ECMAScript 对象。 |
+| [initEvent](../../com.aspose.html.dom.events/event/initevent/)(String, bool, bool) | 该 [`InitEvent`](../event/initevent/) 方法用于初始化通过 [`IDocumentEvent`](../idocumentevent/) 接口创建的 [`Event`](../event/) 的值。 |
+| [preventDefault](../../com.aspose.html.dom.events/event/preventdefault/)() | 如果事件是可取消的，[`PreventDefault`](../event/preventdefault/) 方法用于表示该事件将被取消，这意味着实现通常因该事件而执行的任何默认操作都不会发生。 |
+| [stopImmediatePropagation](../../com.aspose.html.dom.events/event/stopimmediatepropagation/)() | 调用此方法可阻止事件到达在当前监听器之后注册的任何事件监听器，并且在树状分派时也阻止事件到达任何其他对象。 |
+| [stopPropagation](../../com.aspose.html.dom.events/event/stoppropagation/)() | 该 [`StopPropagation`](../event/stoppropagation/) 方法用于阻止事件在事件流中的进一步传播。 |
+
+### 另请参阅
+
+* class [UIEvent](../uievent/)
+* package [com.aspose.html.dom.events](../../com.aspose.html.dom.events/)
+* package [Aspose.HTML](../../)
