@@ -1,0 +1,38 @@
+---
+title: "HugoYamlBasedFrontMatterSyntaxNode.Find"
+second_title: "Αναφορά API του Aspose.HTML για Java"
+description: "HugoYamlBasedFrontMatterSyntaxNode method. Ορίζει τη διεπαφή για εύρεση του T με String Path"
+type: docs
+
+url: /el/java/com.aspose.html.toolkit.markdown.syntax.extensions/hugoyamlbasedfrontmattersyntaxnode/find/
+---
+## HugoYamlBasedFrontMatterSyntaxNode.Find&lt;T&gt; method
+
+Ορίζει τη διεπαφή για εύρεση T με String Path
+
+```java
+public T Find<T>(params String[] path)
+    where T : ChildFrontMatterSyntaxNode
+```
+
+| Parameter | Περιγραφή |
+| --- | --- |
+| T | Ο τύπος T. |
+| διαδρομή | Η διαδρομή String. |
+
+### Τιμή επιστροφής
+
+Ο τύπος T.
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentException | Ρίξτε το ArgumentException |
+
+### Δείτε επίσης
+
+* class [ChildFrontMatterSyntaxNode](../../childfrontmattersyntaxnode/)
+* class [HugoYamlBasedFrontMatterSyntaxNode](../)
+* package [com.aspose.html.toolkit.markdown.syntax.extensions](../../../com.aspose.html.toolkit.markdown.syntax.extensions/)
+* package [Aspose.HTML](../../../)

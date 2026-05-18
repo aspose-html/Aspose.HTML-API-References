@@ -1,0 +1,25 @@
+---
+title: "ICSS2Properties.PaddingBottom"
+second_title: "Αναφορά API του Aspose.HTML για Java"
+description: "Ιδιότητα ICSS2Properties. Αυτές οι ιδιότητες ορίζουν το επάνω, δεξί, κάτω και αριστερό padding ενός κουτιού"
+type: docs
+
+url: /el/java/com.aspose.html.dom.css/icss2properties/paddingbottom/
+---
+## ICSS2Properties.PaddingBottom property
+
+Αυτές οι ιδιότητες ορίζουν το επάνω, δεξί, κάτω και αριστερό padding ενός κουτιού.
+
+```java
+public String PaddingBottom { get; set; }
+```
+
+### Τιμή επιστροφής
+
+ιδιότητα padding-bottom
+
+### Δείτε επίσης
+
+* interface [ICSS2Properties](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)

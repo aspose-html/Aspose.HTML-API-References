@@ -1,0 +1,21 @@
+---
+title: "SVGLength.SVG_LENGTHTYPE_PC"
+second_title: "Αναφορά API του Aspose.HTML για Java"
+description: "SVGLength πεδίο. Καθορίστηκε μια τιμή χρησιμοποιώντας τις μονάδες pc που ορίζονται στο CSS2."
+type: docs
+
+url: /el/java/com.aspose.html.dom.svg.datatypes/svglength/svg_lengthtype_pc/
+---
+## SVGLength.SVG_LENGTHTYPE_PC field
+
+Μια τιμή καθορίστηκε χρησιμοποιώντας τις μονάδες pc που ορίζονται στο CSS2.
+
+```java
+public const ushort SVG_LENGTHTYPE_PC;
+```
+
+### Δείτε επίσης
+
+* class [SVGLength](../)
+* package [com.aspose.html.dom.svg.datatypes](../../../com.aspose.html.dom.svg.datatypes/)
+* package [Aspose.HTML](../../../)

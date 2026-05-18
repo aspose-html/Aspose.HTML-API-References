@@ -1,0 +1,30 @@
+---
+title: "MarkdownSyntaxNodeFilter.AcceptNode"
+second_title: "Αναφορά API του Aspose.HTML για Java"
+description: "MarkdownSyntaxNodeFilter μέθοδος. Ορίζει τη διεπαφή για αποδοχή κόμβου"
+type: docs
+
+url: /el/java/com.aspose.html.toolkit.markdown.syntax/markdownsyntaxnodefilter/acceptnode/
+---
+## MarkdownSyntaxNodeFilter.AcceptNode method
+
+Ορίζει τη διεπαφή για αποδοχή κόμβου.
+
+```java
+public abstract short AcceptNode(MarkdownSyntaxNode n)
+```
+
+| Parameter | Type | Περιγραφή |
+| --- | --- | --- |
+| n | MarkdownSyntaxNode | Ο MarkdownSyntaxNode. |
+
+### Τιμή επιστροφής
+
+Η τιμή τύπου short.
+
+### Δείτε επίσης
+
+* class [MarkdownSyntaxNode](../../markdownsyntaxnode/)
+* class [MarkdownSyntaxNodeFilter](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,27 @@
+---
+title: "Node.PROCESSING_INSTRUCTION_NODE"
+second_title: "Αναφορά API του Aspose.HTML για Java"
+description: "Node πεδίο. Μια ProcessingInstruction ενός εγγράφου XML όπως xml-stylesheet"
+type: docs
+
+url: /el/java/com.aspose.html.dom/node/processing_instruction_node/
+---
+## Node.PROCESSING_INSTRUCTION_NODE field
+
+Μια [`ProcessingInstruction`](../../processinginstruction/) ενός εγγράφου XML, όπως &lt;?xml-stylesheet … ?&gt;.
+
+```java
+public const ushort PROCESSING_INSTRUCTION_NODE;
+```
+
+## Παρατηρήσεις
+
+Αναφορά:
+
+[DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # interface-node](https://dom.spec.whatwg.org/#interface-node).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
+
+### Δείτε επίσης
+
+* class [Node](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

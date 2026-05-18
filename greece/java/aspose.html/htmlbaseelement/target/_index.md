@@ -1,0 +1,21 @@
+---
+title: "HTMLBaseElement.Target"
+second_title: "Αναφορά API του Aspose.HTML για Java"
+description: "Ιδιότητα HTMLBaseElement. Το προεπιλεγμένο πλαίσιο προορισμού. Δείτε τον ορισμό του χαρακτηριστικού target στο HTML 4.01"
+type: docs
+
+url: /el/java/com.aspose.html/htmlbaseelement/target/
+---
+## HTMLBaseElement.Target property
+
+Το προεπιλεγμένο πλαίσιο προορισμού. Δείτε τον ορισμό του χαρακτηριστικού target στο HTML 4.01.
+
+```java
+public String Target { get; set; }
+```
+
+### Δείτε επίσης
+
+* class [HTMLBaseElement](../)
+* package [com.aspose.html](../../../com.aspose.html/)
+* package [Aspose.HTML](../../../)

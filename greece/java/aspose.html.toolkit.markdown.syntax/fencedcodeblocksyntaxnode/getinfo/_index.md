@@ -1,0 +1,25 @@
+---
+title: "FencedCodeBlockSyntaxNode.GetInfo"
+second_title: "Αναφορά API του Aspose.HTML για Java"
+description: "FencedCodeBlockSyntaxNode μέθοδος. Ορίζει τη διεπαφή για λήψη του Info"
+type: docs
+
+url: /el/java/com.aspose.html.toolkit.markdown.syntax/fencedcodeblocksyntaxnode/getinfo/
+---
+## FencedCodeBlockSyntaxNode.GetInfo method
+
+Ορίζει τη διεπαφή για λήψη του Info.
+
+```java
+public String GetInfo()
+```
+
+### Τιμή επιστροφής
+
+Το String.
+
+### Δείτε επίσης
+
+* class [FencedCodeBlockSyntaxNode](../)
+* package [com.aspose.html.toolkit.markdown.syntax](../../../com.aspose.html.toolkit.markdown.syntax/)
+* package [Aspose.HTML](../../../)
