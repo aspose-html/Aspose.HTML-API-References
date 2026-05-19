@@ -1,0 +1,25 @@
+---
+title: "TextAreaElement.Name"
+second_title: "Справочник API Aspose.HTML для Java"
+description: "Свойство TextAreaElement. Представляет атрибут name входного элемента"
+type: docs
+
+url: /ru/java/com.aspose.html.forms/textareaelement/name/
+---
+## TextAreaElement.Name property
+
+Представляет атрибут name элемента input.
+
+```java
+public String Name { get; set; }
+```
+
+### Property Value
+
+Имя элемента.
+
+### См. также
+
+* class [TextAreaElement](../)
+* package [com.aspose.html.forms](../../../com.aspose.html.forms/)
+* package [Aspose.HTML](../../../)

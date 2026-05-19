@@ -1,0 +1,37 @@
+---
+title: "Resource.Save"
+second_title: "Справочник API Aspose.HTML для Java"
+description: "Метод Resource. Сохраняет ресурс в предоставленный поток"
+type: docs
+
+url: /ru/java/com.aspose.html.saving/resource/save/
+---
+## Resource.Save method
+
+Сохраняет ресурс в предоставленный поток.
+
+```java
+public Resource Save(Stream stream, ResourceHandlingContext context)
+```
+
+| Параметр | Тип | Описание |
+| --- | --- | --- |
+| поток | Поток | Поток, в который будет сохранён ресурс. |
+| контекст | ResourceHandlingContext | Контекст обработки ресурсов. |
+
+### Возвращаемое значение
+
+Этот ресурс, позволяющий цепочкой вызывать методы.
+
+### Исключения
+
+| исключение | условие |
+| --- | --- |
+| InvalidOperationException | Вызывается, если [`OutputUrl`](../outputurl/) равно `null`. [`OutputUrl`](../outputurl/) следует указать перед сохранением ресурса, иначе невозможно указать правильную ссылку в ресурсах, ссылающихся на этот. |
+
+### См. также
+
+* class [ResourceHandlingContext](../../resourcehandlingcontext/)
+* class [Resource](../)
+* package [com.aspose.html.saving](../../../com.aspose.html.saving/)
+* package [Aspose.HTML](../../../)

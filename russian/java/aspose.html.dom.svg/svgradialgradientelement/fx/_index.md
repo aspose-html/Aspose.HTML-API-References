@@ -1,0 +1,26 @@
+---
+title: "SVGRadialGradientElement.Fx"
+second_title: "Справочник API Aspose.HTML для Java"
+description: "Свойство SVGRadialGradientElement. Соответствует атрибуту fx в данном элементе radialGradient"
+type: docs
+
+url: /ru/java/com.aspose.html.dom.svg/svgradialgradientelement/fx/
+---
+## SVGRadialGradientElement.Fx property
+
+Соответствует атрибуту ‘fx’ в данном элементе ‘radialGradient’.
+
+```java
+public SVGAnimatedLength Fx { get; }
+```
+
+### Property Value
+
+Атрибут ‘fx’ данного элемента ‘radialGradient’.
+
+### См. также
+
+* class [SVGAnimatedLength](../../../com.aspose.html.dom.svg.datatypes/svganimatedlength/)
+* class [SVGRadialGradientElement](../)
+* package [com.aspose.html.dom.svg](../../../com.aspose.html.dom.svg/)
+* package [Aspose.HTML](../../../)
