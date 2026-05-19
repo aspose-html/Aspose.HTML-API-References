@@ -1,0 +1,25 @@
+---
+title: "ProcessingInstruction.NodeType"
+second_title: "Aspose.HTML voor Java API-referentie"
+description: "ProcessingInstruction-eigenschap. Een code die het type van het onderliggende object weergeeft."
+type: docs
+
+url: /nl/java/com.aspose.html.dom/processinginstruction/nodetype/
+---
+## ProcessingInstruction.NodeType property
+
+Een code die het type van het onderliggende object vertegenwoordigt.
+
+```java
+public ushort NodeType { get; }
+```
+
+### Property Value
+
+Het type van het knooppunt.
+
+### Zie ook
+
+* class [ProcessingInstruction](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

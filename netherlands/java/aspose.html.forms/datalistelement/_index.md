@@ -1,0 +1,39 @@
+---
+title: "DataListElement Klasse"
+second_title: "Aspose.HTML voor Java API-referentie"
+description: "com.aspose.html.forms.DataListElement class. De DataListElement vertegenwoordigt een wrapper die geassocieerd is met de HTMLDataListElement."
+type: docs
+
+url: /nl/java/com.aspose.html.forms/datalistelement/
+---
+## DataListElement class
+
+De DataListElement vertegenwoordigt een wrapper die geassocieerd is met de HTMLDataListElement.
+
+```java
+public class DataListElement : FormElement<HTMLDataListElement>
+```
+
+## Constructors
+
+| Naam | Beschrijving |
+| --- | --- |
+| [DataListElement](datalistelement/)(HTMLDataListElement) | Initialiseert een nieuw exemplaar van de `DataListElement` klasse. |
+
+## Eigenschappen
+
+| Naam | Beschrijving |
+| --- | --- |
+| [getElementType](../../com.aspose.html.forms/formelement/elementtype/) Haalt het type van het element op. |
+| [getHtmlElement](../../com.aspose.html.forms/formelement-1/htmlelement/) |
+| [id](../../com.aspose.html.forms/formelement/id/) { get; set; } | Haalt de identifier van het formulierelement op of stelt deze in. |
+| [name](../../com.aspose.html.forms/formelement/name/) { get; set; } | Haalt de naam van het formulierelement op of stelt deze in. |
+| [getOptions](../../com.aspose.html.forms/datalistelement/options/) Retourneert een lijst met opties |
+| [value](../../com.aspose.html.forms/formelement/value/) { get; set; } | De waarde van het veld |
+
+### Zie ook
+
+* class [FormElement&lt;T&gt;](../formelement-1/)
+* class [HTMLDataListElement](../../com.aspose.html/htmldatalistelement/)
+* package [com.aspose.html.forms](../../com.aspose.html.forms/)
+* package [Aspose.HTML](../../)

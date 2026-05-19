@@ -1,0 +1,54 @@
+---
+title: "com.aspose.html.dom.css"
+second_title: "Aspose.HTML voor Java API-referentie"
+description: "Biedt interfaces voor de DOM Level 2 Style Specification. Cascading Style Sheets (CSS) is een stijlbladtaal die auteurs en gebruikers in staat stelt stijl, bijvoorbeeld lettertypen en spatiëring, toe te voegen aan gestructureerde documenten, bijvoorbeeld HTML-documenten en XML-toepassingen. Het ondersteunt mediaspecifieke stijlbladen zodat auteurs de presentatie van hun documenten kunnen afstemmen op visuele browsers, auditieve apparaten, printers, braille-apparaten, handheld-apparaten enzovoort. Het ondersteunt ook positionering van inhoud, tabelindelingsfuncties voor internationalisatie en enkele eigenschappen gerelateerd aan de gebruikersinterface. Door de presentatiestijl van documenten te scheiden van de inhoud van documenten vereenvoudigt CSS webauthoring en siteonderhoud."
+type: docs
+
+url: /nl/java/com.aspose.html.dom.css/
+---
+Biedt interfaces voor de DOM Level 2 Style Specification. Cascading Style Sheets (CSS) is een stijlbladtaal die auteurs en gebruikers in staat stelt stijl (bijv. lettertypen en spatiëring) toe te voegen aan gestructureerde documenten (bijv. HTML‑documenten en XML‑toepassingen). Het ondersteunt mediaspecifieke stijlbladen zodat auteurs de presentatie van hun documenten kunnen afstemmen op visuele browsers, auditieve apparaten, printers, braille‑apparaten, handheld‑apparaten, enz. Het ondersteunt ook positionering van inhoud, tabelindeling, functies voor internationalisatie en enkele eigenschappen gerelateerd aan de gebruikersinterface. Door de presentatie‑stijl van documenten te scheiden van de inhoud, vereenvoudigt CSS het webauthoring en het onderhoud van sites.
+
+## Klassen
+
+| Klasse | Beschrijving |
+| --- | --- |
+| [Counter](./counter/) | De Counter-interface wordt gebruikt om elke teller- of tel-functiewaarde weer te geven. Deze interface weerspiegelt de waarden in de onderliggende stijl‑eigenschap. |
+| [CSSPrimitiveValue](./cssprimitivevalue/) | De CSSPrimitiveValue-interface is afgeleid van de CSSValue-interface en vertegenwoordigt de huidige berekende waarde van een CSS‑eigenschap. |
+| [CSSValue](./cssvalue/) | Vertegenwoordigt een eenvoudige of een complexe waarde. Een CSSValue‑object komt alleen voor in de context van een CSS‑eigenschap. |
+| [CSSValueList](./cssvaluelist/) | De CSSValueList-interface biedt de abstractie van een geordende collectie van CSS‑waarden. |
+| [Rect](./rect/) | De Rect-interface wordt gebruikt om elke rect‑waarde weer te geven. Deze interface weerspiegelt de waarden in de onderliggende stijl‑eigenschap. Daarom wijzigen aanpassingen aan de [`CSSPrimitiveValue`](../com.aspose.html.dom.css/cssprimitivevalue/)‑objecten de stijl‑eigenschap. |
+| [RGBColor](./rgbcolor/) | De RGBColor-interface wordt gebruikt om elke RGB‑kleurwaarde weer te geven. Deze interface weerspiegelt de waarden in de onderliggende stijl‑eigenschap. Daarom wijzigen aanpassingen aan de CSSPrimitiveValue‑objecten de stijl‑eigenschap. |
+## Interfaces
+
+| Interface | Beschrijving |
+| --- | --- |
+| [ICSS2Properties](./icss2properties/) | De CSS2Properties-interface vertegenwoordigt een handig mechanisme voor het ophalen en instellen van eigenschappen binnen een [`CSSStyleDeclaration`](../com.aspose.html.dom.css/icssstyledeclaration/). De attributen van deze interface komen overeen met alle eigenschappen die in CSS2 zijn gespecificeerd. Het ophalen van een attribuut van deze interface is equivalent aan het aanroepen van de getPropertyValue‑methode van de [`CSSStyleDeclaration`](../com.aspose.html.dom.css/icssstyledeclaration/)‑interface. Het instellen van een attribuut van deze interface is equivalent aan het aanroepen van de setProperty‑methode van de [`CSSStyleDeclaration`](../com.aspose.html.dom.css/icssstyledeclaration/)‑interface. |
+| [ICSSCharsetRule](./icsscharsetrule/) | De CSSCharsetRule-interface vertegenwoordigt een @charset‑regel in een CSS‑stijlblad. De waarde van het encoding‑attribuut heeft geen invloed op de codering van tekstgegevens in de DOM‑objecten; deze codering is altijd UTF-16. Nadat een stijlblad is geladen, is de waarde van het encoding‑attribuut gelijk aan de waarde die in de @charset‑regel is gevonden. Als er geen @charset in het oorspronkelijke document aanwezig was, wordt er geen CSSCharsetRule aangemaakt. De waarde van het encoding‑attribuut kan ook worden gebruikt als hint voor de codering die wordt gebruikt bij het serialiseren van het stijlblad. |
+| [ICSSCounterStyleRule](./icsscounterstylerule/) | De CSSCounterStyleRule-interface vertegenwoordigt een @counter-style‑at‑rule die auteurs in staat stelt een aangepaste tellerstijl te definiëren. |
+| [ICSSFontFaceRule](./icssfontfacerule/) | De CSSFontFaceRule-interface vertegenwoordigt een @font-face‑regel in een CSS‑stijlblad. De @font-face‑regel wordt gebruikt om een set van lettertype‑beschrijvingen vast te leggen. |
+| [ICSSImportRule](./icssimportrule/) | De CSSImportRule-interface vertegenwoordigt een @import‑regel binnen een CSS‑stijlblad. De @import‑regel wordt gebruikt om stijlregels uit andere stijlbladen te importeren. |
+| [ICSSKeyframeRule](./icsskeyframerule/) | De [`CSSKeyframeRule`](../com.aspose.html.dom.css/icsskeyframerule/)‑interface beschrijft een object dat een set stijlen voor een gegeven keyframe vertegenwoordigt. Het komt overeen met de inhoud van een enkele keyframe van een @keyframes‑at‑rule. |
+| [ICSSKeyframesRule](./icsskeyframesrule/) | De naam‑eigenschap van de CSSKeyframeRule‑interface haalt de naam van de animatie op en stelt deze in, zoals gebruikt door de animation-name‑eigenschap. |
+| [ICSSMarginRule](./icssmarginrule/) | De CSSMarginRule‑interface vertegenwoordigt een margin‑at‑rule (bijv. @top-left) in een @page‑at‑rule. |
+| [ICSSMediaRule](./icssmediarule/) | De CSSMediaRule‑interface vertegenwoordigt een @media‑regel in een CSS‑stijlblad. Een @media‑regel kan worden gebruikt om stijlregels af te bakenen voor specifieke mediatypen. |
+| [ICSSPageRule](./icsspagerule/) | De CSSPageRule‑interface vertegenwoordigt een @page‑regel binnen een CSS‑stijlblad. De @page‑regel wordt gebruikt om de afmetingen, oriëntatie, marges, enz. van een paginabox voor paginagestuurde media te specificeren. |
+| [ICSSRule](./icssrule/) | De CSSRule‑interface is de abstracte basis‑interface voor elk type CSS‑statement. Dit omvat zowel regelsets als at‑rules. Van een implementatie wordt verwacht alle regels die in een CSS‑stijlblad zijn gespecificeerd te behouden, zelfs als de regel niet wordt herkend door de parser. Niet‑herkende regels worden weergegeven met behulp van de interface. |
+| [ICSSRuleList](./icssrulelist/) | Een CSSRuleList vertegenwoordigt een geordende collectie van alleen‑lees [`CSSRule`](../com.aspose.html.dom.css/icssrule/)‑objecten. |
+| [ICSSStyleDeclaration](./icssstyledeclaration/) | De CSSStyleDeclaration-interface vertegenwoordigt een object dat een CSS-declaratieblok is, en geeft stijl‑informatie en verschillende stijlgerelateerde methoden en eigenschappen weer. |
+| [ICSSStyleRule](./icssstylerule/) | De CSSStyleRule-interface vertegenwoordigt een enkele CSS-stijlregel. Het selectorText‑attribuut moet bij ophalen het resultaat van het serialiseren van de bijbehorende groep selectors teruggeven. |
+| [ICSSStyleSheet](./icssstylesheet/) | De CSSStyleSheet-interface vertegenwoordigt een enkel CSS-stylesheet en stelt je in staat de lijst met regels die in het stylesheet zijn opgenomen te inspecteren en te wijzigen. Het erft eigenschappen en methoden van zijn ouder, [`IStyleSheet`](../com.aspose.html.dom.css/istylesheet/). |
+| [ICSSUnknownRule](./icssunknownrule/) | De CSSUnknownRule-interface vertegenwoordigt een at‑rule die niet door deze user agent wordt ondersteund. |
+| [ICSSValueList](./icssvaluelist/) | De CSSValueList-interface is afgeleid van de [`CSSValue`](../com.aspose.html.dom.css/cssvalue/)‑interface en biedt de abstractie van een geordende collectie CSS-waarden. |
+| [IDocumentCSS](./idocumentcss/) | Deze interface vertegenwoordigt een document met een CSS-weergave. |
+| [IDocumentStyle](./idocumentstyle/) | De DocumentStyle-interface biedt een mechanisme waarmee de in een document ingebedde stylesheets kunnen worden opgehaald. Verwacht wordt dat een instantie van de DocumentStyle-interface verkregen kan worden door bindingspecifieke cast‑methoden te gebruiken op een instantie van de Document-interface. |
+| [IElementCSSInlineStyle](./ielementcssinlinestyle/) | Inline‑stijl‑informatie die aan elementen is gekoppeld, wordt blootgesteld via het style‑attribuut. Dit vertegenwoordigt de inhoud van het STYLE‑attribuut voor HTML‑elementen (of elementen in andere schema's of DTD's die het STYLE‑attribuut op dezelfde manier gebruiken). Verwacht wordt dat een instantie van de ElementCSSInlineStyle-interface verkregen kan worden door bindingspecifieke cast‑methoden te gebruiken op een instantie van de Element-interface wanneer het element inline CSS‑stijl‑informatie ondersteunt. |
+| [ILinkStyle](./ilinkstyle/) | De LinkStyle-interface biedt een mechanisme waarmee een stylesheet kan worden opgehaald van het knooppunt dat verantwoordelijk is voor het koppelen ervan aan een document. Een instantie van de LinkStyle-interface kan worden verkregen met bindingspecifieke cast‑methoden op een instantie van een koppelingsknooppunt (HTMLLinkElement, |
+| [IMediaList](./imedialist/) | De MediaList-interface biedt de abstractie van een geordende collectie media, zonder te definiëren of te beperken hoe deze collectie wordt geïmplementeerd. Een lege lijst is hetzelfde als een lijst die het medium "all" bevat. |
+| [IStyleSheet](./istylesheet/) | De StyleSheet-interface is de abstracte basisinterface voor elk type stylesheet. Het vertegenwoordigt een enkele stylesheet die aan een gestructureerd document is gekoppeld. In HTML vertegenwoordigt de StyleSheet-interface een externe stylesheet, opgenomen via het HTML‑LINK‑element, of een inline STYLE‑element. In XML vertegenwoordigt deze interface een externe stylesheet, opgenomen via een stylesheet‑verwerkingsinstructie. CSS‑stylesheets zullen bovendien de meer gespecialiseerde [`CSSStyleSheet`](../com.aspose.html.dom.css/icssstylesheet/)‑interface implementeren. |
+| [IStyleSheetList](./istylesheetlist/) | De StyleSheetList-interface vertegenwoordigt een lijst van [`CSSStyleSheet`](../com.aspose.html.dom.css/icssstylesheet/)‑objecten. Een instantie van dit object kan worden geretourneerd door [`Document.styleSheets`](../com.aspose.html.dom/document/stylesheets/). |
+| [IViewCSS](./iviewcss/) | De IViewCSS-interface vertegenwoordigt een uitbreiding van het Window‑object die toegang geeft tot de waarden van alle CSS‑eigenschappen van een element. |
+## Enumeratie
+
+| Enumeratie | Beschrijving |
+| --- | --- |
+| [CSSEngineMode](./cssenginemode/) | Specificeert de CSSEngine-modus. Waarden hebben de volgende betekenis: |

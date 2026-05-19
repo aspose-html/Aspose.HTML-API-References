@@ -1,0 +1,25 @@
+---
+title: "CDATASection.NodeType"
+second_title: "Aspose.HTML voor Java API-referentie"
+description: "CDATASection eigenschap. Een code die het type van het onderliggende object aangeeft"
+type: docs
+
+url: /nl/java/com.aspose.html.dom/cdatasection/nodetype/
+---
+## CDATASection.NodeType property
+
+Een code die het type van het onderliggende object vertegenwoordigt.
+
+```java
+public ushort NodeType { get; }
+```
+
+### Property Value
+
+Het type van het knooppunt.
+
+### Zie ook
+
+* class [CDATASection](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

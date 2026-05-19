@@ -1,0 +1,86 @@
+---
+title: "ICanvasRenderingContext2D.Fill"
+second_title: "Aspose.HTML voor Java API-referentie"
+description: "ICanvasRenderingContext2D-methode. Vult de subpaden met de huidige vulstijl en standaardalgoritme CanvasFillRule.Nonzero"
+type: docs
+
+url: /nl/java/com.aspose.html.dom.canvas/icanvasrenderingcontext2d/fill/
+---
+## Fill() {#fill}
+
+Vult de subpaden met de huidige vulstijl en het standaardalgoritme CanvasFillRule.Nonzero.
+
+```java
+public void Fill()
+```
+
+### Zie ook
+
+* interface [ICanvasRenderingContext2D](../)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## Fill(CanvasFillRule) {#fill_1}
+
+Vult de subpaden met de huidige vulstijl.
+
+```java
+public void Fill(CanvasFillRule fillRule)
+```
+
+| Parameter | Type | Beschrijving |
+| --- | --- | --- |
+| fillRule | CanvasFillRule | Het algoritme om te bepalen of een punt zich binnen of buiten een pad bevindt. |
+
+### Zie ook
+
+* enum [CanvasFillRule](../../canvasfillrule/)
+* interface [ICanvasRenderingContext2D](../)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## Fill(Path2D) {#fill_2}
+
+Vult de subpaden met de huidige vulstijl en het standaardalgoritme CanvasFillRule.Nonzero.
+
+```java
+public void Fill(Path2D path)
+```
+
+| Parameter | Type | Beschrijving |
+| --- | --- | --- |
+| pad | Path2D | Een Path2D-pad om te vullen. |
+
+### Zie ook
+
+* class [Path2D](../../path2d/)
+* interface [ICanvasRenderingContext2D](../)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
+* package [Aspose.HTML](../../../)
+
+---
+
+## Fill(Path2D, CanvasFillRule) {#fill_3}
+
+Vult de subpaden met de huidige vulstijl.
+
+```java
+public void Fill(Path2D path, CanvasFillRule fillRule)
+```
+
+| Parameter | Type | Beschrijving |
+| --- | --- | --- |
+| pad | Path2D | Een Path2D-pad om te vullen. |
+| fillRule | CanvasFillRule | Het algoritme om te bepalen of een punt zich binnen of buiten een pad bevindt. |
+
+### Zie ook
+
+* class [Path2D](../../path2d/)
+* enum [CanvasFillRule](../../canvasfillrule/)
+* interface [ICanvasRenderingContext2D](../)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
+* package [Aspose.HTML](../../../)
