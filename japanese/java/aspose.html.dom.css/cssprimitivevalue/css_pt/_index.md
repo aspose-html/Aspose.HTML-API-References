@@ -1,0 +1,21 @@
+---
+title: "CSSPrimitiveValue.CSS_PT"
+second_title: "Aspose.HTML for Java API リファレンス"
+description: "CSSPrimitiveValue フィールド。値は pt の長さです。値は getFloatValue メソッドを使用して取得できます。"
+type: docs
+
+url: /ja/java/com.aspose.html.dom.css/cssprimitivevalue/css_pt/
+---
+## CSSPrimitiveValue.CSS_PT field
+
+この値は長さ（pt）です。 この値は getFloatValue メソッドを使用して取得できます。
+
+```java
+public const ushort CSS_PT;
+```
+
+### 関連項目
+
+* class [CSSPrimitiveValue](../)
+* package [com.aspose.html.dom.css](../../../com.aspose.html.dom.css/)
+* package [Aspose.HTML](../../../)

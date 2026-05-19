@@ -1,0 +1,26 @@
+---
+title: "IDevice.BeginDocument"
+second_title: "Aspose.HTML for Java API リファレンス"
+description: "IDevice メソッド。ドキュメントのレンダリングを開始します"
+type: docs
+
+url: /ja/java/com.aspose.html.rendering/idevice/begindocument/
+---
+## IDevice.BeginDocument method
+
+ドキュメントのレンダリングを開始します。
+
+```java
+public void BeginDocument(Document document)
+```
+
+| Parameter | Type | 説明 |
+| --- | --- | --- |
+| ドキュメント | ドキュメント | ドキュメント。 |
+
+### 関連項目
+
+* class [Document](../../../com.aspose.html.dom/document/)
+* interface [IDevice](../)
+* package [com.aspose.html.rendering](../../../com.aspose.html.rendering/)
+* package [Aspose.HTML](../../../)

@@ -1,0 +1,27 @@
+---
+title: "Node.TEXT_NODE"
+second_title: "Aspose.HTML for Java API リファレンス"
+description: "Node フィールド。Element または Attr 内の実際のテキスト"
+type: docs
+
+url: /ja/java/com.aspose.html.dom/node/text_node/
+---
+## Node.TEXT_NODE field
+
+実際の[`Text`](../../text/) は[`Element`](../../element/) または [`Attr`](../../attr/) の中にあります。
+
+```java
+public const ushort TEXT_NODE;
+```
+
+## Remarks
+
+参照:
+
+[DOM Standard](https://dom.spec.whatwg.org/) - defines a platform-neutral model for events, aborting activities, and node trees.[DOM Standard (DOM) # interface-node](https://dom.spec.whatwg.org/#interface-node).[GitHub](https://github.com/whatwg/dom) - repository hosts the DOM Standard.
+
+### 関連項目
+
+* class [Node](../)
+* package [com.aspose.html.dom](../../../com.aspose.html.dom/)
+* package [Aspose.HTML](../../../)

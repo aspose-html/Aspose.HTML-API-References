@@ -1,0 +1,26 @@
+---
+title: "Path2D.LineTo"
+second_title: "Aspose.HTML for Java API リファレンス"
+description: "Path2D メソッド。サブパスの最後の点を x y 座標へ直線で接続します。"
+type: docs
+
+url: /ja/java/com.aspose.html.dom.canvas/path2d/lineto/
+---
+## Path2D.LineTo method
+
+サブパスの最後の点を (x, y) 座標へ直線で接続します。
+
+```java
+public void LineTo(double x, double y)
+```
+
+| Parameter | Type | 説明 |
+| --- | --- | --- |
+| x | Double | 直線の終点の座標の x 軸。 |
+| y | Double | 直線の終点の座標の y 軸。 |
+
+### 関連項目
+
+* class [Path2D](../)
+* package [com.aspose.html.dom.canvas](../../../com.aspose.html.dom.canvas/)
+* package [Aspose.HTML](../../../)
